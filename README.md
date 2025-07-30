@@ -8,7 +8,7 @@ Here's a short explanation of each directory, organized into my own ad-hoc group
 
 ### database-research
 
-This is a python project to ingest abstracts from pubmed, and also do various
+This is a python project to ingest abstracts from pubmed, and then fine-tune/test LLMs to try to detect databases as apart of the text. 
 
 ### sports-ml-project
 
