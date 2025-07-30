@@ -12,7 +12,7 @@ This is a python project to ingest abstracts from pubmed, and then fine-tune/tes
 
 ### sports-ml-project
 
-This is full pipeline project where I collected and cleaned data.
+This is full pipeline project where I collected and cleaned data, then fed it through a bunch of machine learning models to predict the outcome of basketball games. Was super proud of the resulting dataset I produced, and the final analysis.
 
 ### literary-ai
 
