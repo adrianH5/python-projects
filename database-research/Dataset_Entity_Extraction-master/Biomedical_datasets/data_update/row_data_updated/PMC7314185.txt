@@ -1,0 +1,4 @@
+We searched the 29.9 kb genome of SARS-CoV-2 stored in the China National Microbiological Data Center (accession number CNP0000881) for PQSs using QGRS-Mapper [13].
+The National Center for Biotechnology Information database (NCBI) harbors more than 50 sequenced genomes of CoVs, including bat CoVs, Middle East respiratory syndrome-related CoV (MERS-CoV) and SARS-CoV.
+HDOCK incorporates the binding interface information into the docking concept, which accepts both sequences and structures as input for the protein docking prediction [47].
+RNA sequence of SARS-CoV-2 was obtained from the China National Microbiological Data Center (accession number CNP0000881).

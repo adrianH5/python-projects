@@ -1,0 +1,13 @@
+To explore the benefits and safety of supervised and unsupervised exercise among localized and metastatic prostate cancer patients (PCa) during long-term androgen deprivation therapy (ADT).
+A total of 44 PCa patients were enrolled in this randomized controlled trial (RCT).
+Participants were randomized in a 1:1 ratio into the supervised exercise sessions group or the unsupervised home-based exercise group for three months.
+The primary outcomes assessed included quality of life (QoL), body composition, and metabolic markers, which were measured at baseline, after 3 months, and at 6 months.
+Muscle strength was evaluated exclusively in the supervised exercise group.
+The main statistical models used were the Mann-Whitney U-test for between-group comparisons and the Wilcoxon rank-sum test for within-group changes.
+No adverse events were reported during the exercise period.
+There were no significant differences in QoL, body composition, or metabolic profiles between the intervention and control groups.
+The supervised exercise group demonstrated significant improvement in emotional functioning (Z = -2.102, p = 0.036) and all exercise performance metrics (p < 0.001), with the most pronounced gains observed in the leg press (Z = -4.17, p < 0.001).
+Furthermore, a significant association was identified between strength improvements and enhanced self-evaluated physical function (p < 0.001).
+Supervised exercise is safe for patients with localized and metastatic PCa undergoing ADT and leads to significant improvements in emotional well-being and muscle strength, which translate to better self-reported physical function.
+Findings underscore the need for RCTs with longer intervention and follow-up periods on supervised exercise, especially in metastatic PCa patients.
+Trial Registration: ClinicalTrials.gov identifier: #NCT04050397.

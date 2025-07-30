@@ -1,0 +1,6 @@
+Aberrant methylation of a particular region plays a crucial role in the occurrence and development of malignant tumors.
+However, the sensitive and precise determination of DNA methylation from clinical samples remains challenging.
+Here, we developed a sensitive and specific approach for determining methylation with multiple isothermal amplification cascade quantum dot signal output.
+To increase the sensitivity, an entropy-driven circuit was exploited to specifically recognize the single P16 promoter methylation site and trigger the first amplification, whose product could initiate a hybridization chain reaction for the second amplification.
+Then, G-quadruplex-rich DNA polymer nanowires were self-assembled, which could bind with quantum dot-labeled TMPyP to turn on the fluorescence, realizing a reliable signal output of trace target.
+Finally, the proposed approach demonstrated a detection limit of 358.92 aM for the P16 promotor methylation concentration ranging from 1 fM to 1 nM within 1.5 h. In summary, this study provides a sensitive and rapid approach for the determination of methylation via isothermal amplification coupled with quantum dot labeling, paving a new strategy for the early diagnosis and monitoring of cancer development.

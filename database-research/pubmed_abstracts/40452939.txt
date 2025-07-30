@@ -1,0 +1,8 @@
+Papillary thyroid cancer (PTC) is an ever-increasing cancer type worldwide, and greatly decreases the life quality and affects survival time of patients during its development and progression, but the underlying mechanisms and key factors for PTC progression are not clear.
+Recent studies demonstrated the potassium channel protein SK4 participates in the progression of many cancers, while it lacks the molecular mechanism study for SK4 function.
+In this study, we performed functional and molecular explorations for SK4 by overexpressing its level in thyroid cancer BHT101 cells.
+Cellular proliferation and invasion experiments were performed to assess the influences of SK4 on cell behaviors.
+Further, whole transcriptome sequencing (RNA-seq) analysis helped us systematically investigated the targets of SK4, including differentially expressed genes (DEGs) and regulated alternative splicing events (RASEs), and validated several related DEGs and RASEs by RT-qPCR experiment.
+In thyroid cancer patients, SK4 expression was completely lost in normal tissues and significantly increased in every stage of tumor tissues compared with normal tissues, which probably results from the low DNA methylation level at its promoter region.
+Consistent with previous study, SK4 overexpression (SK4-OE) promoted proliferation and invasion ability of BHT10 cells compared with negative control (NC).
+By analyzing the RNA-seq data, we detected dozens of DEGs and found that up DEGs were enriched in negative regulation of apoptotic progress, including

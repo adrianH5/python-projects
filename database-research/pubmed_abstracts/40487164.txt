@@ -1,0 +1,5 @@
+Probiotics have creditableness in adjunctive therapy for ulcerative colitis, but their physiological activity and alleviation efficiency are frequently compromised by gastrointestinal conditions and oxidative stress microenvironments.
+Here, we developed a probiotic-based therapeutic that synergistically ameliorates colonic structure, intestinal redox, and microbiota homeostasis.
+Probiotics were initially coated with a metal-phenolic shell to provide a network for spatially loading antioxidant enzymes, and then wrapped with a pH-triggerable enteric layer to enable on-demand reactivation in the inflamed colon.
+Upon oral administration, the pH-triggerable enteric layer efficiently enhanced gastric acid resistance and on-demand release of enzyme-loaded probiotics in the inflamed colon, enabling efficient reactive oxygen species scavenging and salutary gut microbiota regulation at the lesional regions.
+In multiple mouse models, this therapeutic normalized immunologic balance and mitigated colonic damage with high efficacy, thus representing a powerful strategy for colitis therapy.

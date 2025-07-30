@@ -1,0 +1,9 @@
+Zinc-finger protein 768 (ZNF768) is an emerging transcription factor regulating cell proliferation and senescence.
+Although the role of ZNF768 in regulating cell fate decision has been demonstrated in vitro, its importance in controlling physiological and pathophysiological processes in vivo is still unclear.
+Here, we report the generation of a transgenic mouse model allowing the conditional overexpression of ZNF768.
+This was achieved by inserting an inverted Znf768 coding sequence surrounded by heterologous Cre recognition sites in the Gt(ROSA)26Sor mouse locus (FLExZnf768).
+To study the impact linked to systemic overexpression of ZNF768, mice carrying the FLExZnf768 allele were crossed with CMV-Cre mice to produce a whole-body ZNF768 transgenic mouse (WB-ZNF768-Tg).
+As expected, WB-ZNF768-Tg mice showed higher ZNF768 levels in various tissues.
+These mice were born at the expected Mendelian ratio and did not display apparent phenotypes.
+Because ZNF768 levels are often overexpressed in cancer, we assessed tumor development in WB-ZNF768-Tg mice.
+However, ZNF768 overexpression was not sufficient to promote 3-methylcholantrene-induced fibrosarcoma and KRAS

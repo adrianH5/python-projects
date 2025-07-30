@@ -1,0 +1,11 @@
+This research evaluates the impact of Mg and Cu doping on the structural, compositional, optical, hydrodynamic size, zeta potential, anticancer, antibacterial, antioxidant, and hemolytic properties of the nanosheets (NSs).
+Based on the XRD analysis, it was found that the produced NSs consist of a cubic structure with exceptional purity.
+In addition, the inclusion of Mg and Cu led to a decreased in the mean crystallite size.
+TEM analysis revealed the presence of crumpled NSs.
+DLS and zeta potential measurements indicated that the hydrodynamic diameter is significantly larger than the size observed in XRD results, along with low colloidal stability.
+Cytotoxicity studies on human melanoma (A375) cells and human epidermal melanocytes-adult (HEMa) demonstrated that ZnS NSs significantly enhanced cytotoxic effects on cancer cells while preserving the viability of normal cells.
+Specifically, Cu doped and (Cu, Mg) dual doped ZnS reduced cell viability 13.54 % (Mg = 0 %), 12.64 % (Mg = 1 %), and 13.89 % (Mg = 2 %), while maintaining a high viability of 85.4 % in HEMa cells.
+Moreover, the TUNEL assay confirmed that the cell death was predominantly mediated by apoptosis, as indicated by an increased number of apoptotic-positive cells.
+The dual-doped ZnS NSs exhibited substantial antibacterial properties against fungal pathogens Candida albicans, and gram-positive microbe Enterococcus faecalis and Staphylococcus aureus as well as gram-negative microbe Pseudomonas aeruginosa and Escherichia coli.
+The ZCM4 NSs exhibit higher antioxidant activity is 96.67 %.
+The produced NSs were evaluated for their hemolytic activity.

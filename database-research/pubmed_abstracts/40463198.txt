@@ -1,0 +1,9 @@
+CD19-directed chimeric antigen receptor (CAR) T-cell therapy has significantly advanced the treatment landscape for relapsed/refractory diffuse large B-cell lymphoma (r/r DLBCL).
+However, up to 60% of patients do not achieve a complete response.
+To uncover determinants of therapeutic efficacy, we analyzed the infusion products of eight r/r DLBCL patients with distinct clinical responses to axicabtagene ciloleucel using single-cell transcriptomics.
+Compared to patients who exhibited progressive disease, infusion products of complete responders demonstrated enriched signatures of type I interferon (IFN-I) signaling.
+Based on these findings, we developed a novel strategy to improve CD19-directed CAR T-cell treatment efficacy by incorporating IFN-I as an enhancer during the ex vivo manufacturing process.
+For both CD28- and 4-1BB-costimulated second-generation CARs, we found that low-strength IFN-I signaling enhanced CAR T-cell cytotoxicity and in vivo efficacy.
+On the other hand, high-strength IFN-I signaling compromised cell viability and in vivo efficacy.
+Our low-strength IFN-I signaling approach leverages an existing FDA-approved pharmacologic agent and is compatible with current CAR constructs and manufacturing workflows.
+Together, our results establish IFN-I as a potent and costimulation-independent enhancer of CAR T-cell efficacy and provide a translationally feasible approach to enhance CAR T-cell therapies for r/r DLBCL.

@@ -1,0 +1,1 @@
+We explored the feasibility of constructing machine learning (ML) models based on subregion radiomics features (RFs) to predict the histological grade of clear cell renal cell carcinoma (ccRCC) and explore the molecular biological mechanisms associated with RFs.

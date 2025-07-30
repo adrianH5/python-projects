@@ -1,0 +1,8 @@
+Epigenomes, characterized by patterns of different signatures such as chromatin accessibility, chromatin interactions, and DNA methylation, vary across cell types and play a pivotal role in regulating gene expression.
+By mapping these signatures, the underlying mechanisms of development and diseases can be uncovered.
+However, many canonical epigenetic methods focus on mapping only one signature.
+Simultaneous measurement of epigenetic signatures from the same cell or tissue provides significant benefits for research, especially when resources are limited, and precise analysis is essential.
+Here, we report a technique called Methyl-Micro-C (MMC), which simultaneously profiles chromatin accessibility, chromatin interactions, and DNA methylation in the same sample.
+MMC enhances the resolution of chromatin interactions and the coverage of CpGs by combining MNase-mediated fragmentation with enzymatic conversion.
+This technique allows for the profiling of three-dimensional epigenomes, capturing consistent chromatin accessibility, chromatin interactions, and DNA methylation signals in an efficient manner.
+It is also relatively straightforward, allowing researchers to implement and apply it easily.

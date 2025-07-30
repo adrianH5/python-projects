@@ -1,0 +1,13 @@
+COVID-19 is the respiratory illness caused by the SARS-CoV-2 virus that is currently affecting millions of people worldwide and putting extraordinary pressure on public health systems everywhere.
+This process is vital for the entry of SARS-CoV-2 into human host cells, and thus it plays an integral role in COVID-19 infection and disease progression.
+COVID-19 also has a strong immunological component, where poor outcomes have recently been associated with cytokine storms and a hyperinflammatory immune system [6].
+Case studies of COVID-19 patients show that previous and current smokers experience more severe infections than non-severe infections [7].
+Since ACE2 is also an immunomodulator, its dysregulation could be essential for COVID-19 outcomes.
+Cigarette smoke has been associated with an increased susceptibility to COVID-19 [15], although the mechanism for this is unclear.
+This paper aims to investigate the expression of TMPRSS2, ACE2, and related genes in smokers and determine if the link between smoking and these genes could help explain smokers’ apparent increased vulnerability to COVID-19.
+TMPRSS2 expression was correlated to the enrichment of ARRB2, CDK6, ID2, and EP300, as shown in Figure 4B.
+Of the core enriched genes with the most interactions with other core enriched genes in androgen pathways, ARRB2, CDK6, and ID2 were all upregulated in smokers.
+The COVID-19 pandemic is marked by a wide range of clinical disease courses, ranging from asymptomatic to deadly.
+There have been many studies seeking to explore the correlations between COVID-19 clinical outcomes and various clinical variables, including age, sex, race, underlying medical problems, and social habits.
+In particular, the relationship between smoking and COVID-19 outcome is controversial, with multiple conflicting reports in the current literature.
+These data provide a potential model for the increased susceptibility of smoking patients to COVID-19 and encourage further exploration into the androgen and tobacco upregulation of ACE2 to understand the potential clinical ramifications.

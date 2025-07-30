@@ -1,0 +1,8 @@
+Esophageal squamous cell carcinoma (ESCC) remains a significant global health burden with high incidence and mortality rates, particularly in developing regions.
+Early detection is crucial for improving patient survival, yet conventional screening methods such as endoscopy and non-endoscopic techniques face limitations in accuracy, cost, and dependency on clinician expertise.
+This review explores the transformative role of artificial intelligence (AI) in ESCC screening.
+AI technologies, including machine learning, deep learning, and transfer learning, demonstrate remarkable potential for early ESCC screening by targeting high-risk populations, optimizing screening modalities, refining screening intervals, and enhancing cost-effectiveness.
+AI-driven systems improve lesion detection, vascular pattern recognition, and risk prediction by integrating imaging, genomic, and clinical data.
+Additionally, AI applications in liquid biopsy analysis enable non-invasive detection of circulating tumor cells and DNA, further advancing early diagnosis.
+Despite these advancements, challenges such as dataset variability, model generalizability, algorithm transparency, and ethical and legal concerns require resolution to fully harness AI's capabilities.
+This paper highlights the current applications, persistent challenges, and future directions for AI in revolutionizing ESCC screening.

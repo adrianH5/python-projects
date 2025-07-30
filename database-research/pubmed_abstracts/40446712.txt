@@ -1,0 +1,11 @@
+Organic photothermal agents (PTAs) with high-performance near-infrared properties hold great promise for precision phototherapy and bioimaging.
+The development of efficient PTAs depends mainly on advancements in molecular synthesis.
+However, synthetic approaches for organic PTAs typically involve tedious processes and the consumption of noble metal catalysts, which could leave residues affecting the products' biosafety.
+In the past few years, a handful of charge transfer complex (CTC) PTAs have been reported.
+Unfortunately, typical CTCs disintegrate into their donor and acceptor components in water because of their stronger hydrogen bonds with water.
+To address this issue, facile and synthesis-free super-stable interfacial charge-transfer nanocrystals (H-CTC NPs) have been reported for increasing immunogenic cell death and efficient photoimmunotherapy against tumor recurrence.
+Water-dispersible H-CTC NPs between pyrene-4,5,9,10-tetrone (PT, acceptor) and indolo[2,3-alpha]carbazole (IC, donor) were prepared with strong intermolecular hydrogen bonds.
+With this approach, H-CTC NPs are the first examples of stable CTC NPs in water, achieving record-high stability with preferable photothermal conversion efficiency.
+H-CTC NPs typically cause immunogenic cell death (ICD) and photothermal tumor ablation in vivo.
+Moreover, distal recurrent tumors are inhibited through the immune synergism between ICD and immune checkpoint therapy.
+This work developed superstable CTC nanocrystals and explored new pathways for high-performance photoimmunotherapy against recurrent tumors.

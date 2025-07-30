@@ -1,0 +1,2 @@
+Auscultation-based cardiac abnormality detection is valuable screening approach in pediatric populations, particularly in resource-limited settings.
+However, its clinical utility is often limited by phonocardiogram (PCG) signal variability and a difficulty in distinguishing between pathological and innocent murmurs.

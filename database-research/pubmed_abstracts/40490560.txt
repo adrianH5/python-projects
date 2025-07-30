@@ -1,0 +1,6 @@
+Chaperone-mediated autophagy (CMA), a type of selective degradation of cytosolic proteins in lysosomes, is commonly upregulated in cancer cells, contributing to their survival and growth.
+The lack of a specific target for CMA inhibition has limited CMA blockage to genetic manipulations or global lysosomal function inhibition.
+Here, using genetic modulation, transcriptional analysis, and functional studies, we demonstrate a regulatory role for the interaction of the retinoic acid receptor alpha (RARα) and its corepressor, the nuclear receptor corepressor 1 (NCoR1), on CMA in non-small cell lung cancer (NSCLC).
+By targeting the disruption of the NCoR1/RARα complex with a structure-based screening strategy, we identified compound CIM7, a potent and selective CMA inhibitor that has no effect on macroautophagy.
+CIM7 preferentially inhibits CMA in NSCLC cells over normal cells, reduces tumor growth in NSCLC cells, and demonstrates efficacy in an in vivo xenograft mouse model with no observed toxicity in blood or major tissues.
+These findings reveal a druggable mechanism for selective CMA inhibition and a first-in-class CMA inhibitor as a potential therapeutic strategy for NSCLC.

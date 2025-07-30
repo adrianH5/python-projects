@@ -1,0 +1,13 @@
+Spleen tyrosine kinase (Syk) mediates early signaling events in immunity by coupling membrane receptors to immune responses.
+Syk comprises a tandem SH2 (tSH2) regulatory module-two SH2 domains connected by a structured linker-and a kinase domain.
+The association of tSH2 with a doubly tyrosine-phosphorylated motif (dpITAM) on membrane immunoreceptors is central to controlling Syk's signaling activity.
+tSH2-dpITAM association is regulated by Y131-phosphorylation on linker A, distant from the Syk-immunoreceptor binding sites.
+A unique thermodynamic signature was reported to control this protein-protein interaction by phosphorylation, yet the molecular mechanism for the phosphorylation effect is unknown.
+Molecular dynamics (MD) simulation affords the detail needed to fill this knowledge deficiency.
+Long MD simulations revealed a highly correlated interdomain electrostatic network (distance correlation coefficients > 0.75) that is lost upon Y131-phosphorylation.
+Some of the strongly correlated interdomain pairs carry the same charge or are separated by distances greater than a salt-bridge pair.
+The strong interdomain connectivity accounts for the single, narrow free energy basin in the domain-structure conformational landscape for unphosphorylated tSH2.
+Linker phosphorylation disrupts this network and yields a broader free energy landscape with multiple networks formed by the same group of residues adopting alternative interdomain conformations.
+A salt dependence of NMR rotational tumbling times substantiates the electrostatic nature of tSH2 domain-domain coupling.
+Syk tandem SH2 is thus a sensor whose conformational plasticity is sensitive to Y131 phosphorylation.
+This phospho-sensing response provides the basis for an entropically driven regulatory mechanism that is so-far unique to Syk-immunoreceptor protein-protein association.

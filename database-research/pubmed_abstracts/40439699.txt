@@ -1,0 +1,6 @@
+Prodrugs in response to tumor overexpressed enzymes offer a targeted approach for cancer therapy.
+However, this strategy faces several challenges, including poor water solubility, off-target effects, and tumor heterogeneity.
+To address these limitations, this study developed a novel class of nitroreductase-responsive tetrazine precursors by employing nitrobenzyl as a masking group for dihydrotetrazines (NBdTz), which can be further functionalized with targeting peptides.
+Furthermore, we have demonstrated a dual tumor-selective on demand bioorthogonal prodrug activation enabled by RGD-NBdTz.
+RGD promotes tumor cellular uptake by interacting with tumor-associated integrin αvβ3, and subsequent enzymatic reduction of aromatic nitro group of NBdTz by overexpressed NTR among hypoxic tumor microenvironment leads to the liberation of the bioorthogonal handle tetrazine, resulting in the anticipated bioorthogonal activation of trans-cyclooctene caged payloads through "click-to-release" reactions.
+We envision the presented NBdTz enabled tumor-selective on demand tetrazine ligation offers new opportunities for cancer therapy.

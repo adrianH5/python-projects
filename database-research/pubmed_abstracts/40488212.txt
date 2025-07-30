@@ -1,0 +1,10 @@
+Spheroid 3D cultures yield a better representation of diverse cellular events in comparison with 2D cultures.
+However, the ability to investigate some specific phenotype/cell biology-related outcomes of experimental interventions by flow cytometry is somewhat limited in spheroid cultures, as it requires a single cell suspension with good preservation of membrane-bound proteins.
+In this study, we describe a method combining enzymatic and mechanical dissociation of large spheroids of five different oral squamous cell carcinoma (OSCC) cell lines (H314, SCC9, SCC25, UM-SCC1 and HSC3).
+Spheroids were generated using magnetic 3D bioprinting.
+Efficacy of dissociation and viability after dissociation were evaluated by flow cytometry.
+All spheroids were successfully dissociated into single cells with low cell aggregation using this method, except for spheroids of HSC3 cells.
+H314 and SCC9 spheroids yielded the highest number of events per microliter and therefore also the largest total number of events.
+H314 and SCC25 spheroids presented the better results for cell viability after dissociation.
+H314 spheroids also gave the largest total number of viable cell events.
+The dissociation method described can be useful for researchers interested in flow cytometry-based analysis of spheroid cultures.

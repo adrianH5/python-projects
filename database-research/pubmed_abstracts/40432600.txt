@@ -1,0 +1,14 @@
+Therapeutic monoclonal antibodies, which are almost exclusively IgG isotypes, show significant promise but are prone to poor solution stability, including aggregation and elevated solution viscosity at dose-relevant concentrations.
+Recombinant IgE antibodies are emerging cancer immunotherapies.
+The first-in-class MOv18 IgE, recognizing the cancer-associated antigen folate receptor-alpha (FRα), completed a Phase 1 clinical trial in patients with solid tumors, showing early signs of efficacy at a low dose.
+The inaugural process development and scaled manufacture of MOv18 IgE for clinical testing were undertaken with little baseline knowledge about the solution phase behavior of recombinant IgE at dose-relevant concentrations.
+We evaluated MOv18 IgE physical stability in response to environmental and formulation stresses encountered throughout shelf life.
+We analyzed changes in physical stability using multiple orthogonal analytical techniques, including particle tracking analysis, size exclusion chromatography, and multidetector flow field flow fractionation hyphenated with UV.
+We used dynamic and multiangle light scattering to profile aggregation status.
+Formulation at pH 6.5, selected for use in the Phase 1 trial, resulted in high monomeric purity and no submicron proteinaceous particulates.
+Formulation at pH 5.5 and 7.5 induced significant submicron and sub-visible particle formation.
+IgE formulation was resistant to aggregation in response to freeze-thaw stress, retaining high monomeric purity.
+Exposure to thermal stress at elevated temperatures resulted in loss of monomeric purity and aggregation.
+Agitation stress-induced submicron and subvisible aggregation, but monomeric purity was not significantly affected.
+MOv18 IgE retains monomeric purity in response to formulation and stress conditions, confirming stability.
+Our results offer crucial guidance for future IgE-based drug development.

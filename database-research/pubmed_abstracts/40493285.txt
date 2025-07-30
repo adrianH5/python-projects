@@ -1,0 +1,8 @@
+Early identification of high-risk patients is crucial for preventing peripherally intravenous central catheter (PICC)-related thrombosis in children with hematological malignancies.
+This study aims to develop and validate a clinical risk prediction tool for PICC-related thrombosis.
+A retrospective analysis was conducted on 519 children with hematological malignancies who underwent PICC catheterization at Tongji Hospital between January 2018 and December 2023.
+Among these children, 98 (18.9%) developed PICC-related thrombosis.
+A total of 54 potential predictor variables were analyzed, and six independent risk factors were identified: leukemia, number of catheters, history of catheterization, total parenteral nutrition, post-catheterization D-dimer, and post-catheterization fibrinogen.
+The prediction model constructed based on these factors demonstrated good predictive performance with the area under the curve of 0.844 (95% CI 0.787-0.900) for the training set and 0.794 (95% CI 0.698-0.890) for the validation set.
+The calibration curve and decision curve analysis further validated the good calibration and utility of the model.
+Through the visualization of nomogram, the model can provide strong support for the early prediction of PICC-related thrombosis in children with hematological malignancies and holds significant clinical application value.

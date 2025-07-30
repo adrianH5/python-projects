@@ -1,0 +1,4 @@
+Multicellular organisms constantly encounter biotic and abiotic stressors that threaten to disrupt their homeostasis.
+To counteract this, they have evolved a series of conserved defense networks which monitor organellar function and the accumulation of aberrant molecular signals.
+As mitochondrial dysfunction can lead to a variety of pathologies, including metabolic impairment, neurodegeneration, cardiovascular disease, cancer, and sensitivity to bacterial infections, understanding these mitochondrial surveillance pathways is crucial.
+Previous research in our lab established that one such pathway, the Ethanol Stress and Response Element (ESRE), was activated by a broad range of stresses, including exposure to the Gram-negative, opportunistic human pathogen

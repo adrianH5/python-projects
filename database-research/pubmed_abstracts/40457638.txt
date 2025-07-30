@@ -1,0 +1,4 @@
+Neglecting imaging gradients in b-value calculations has been a documented issue for decades and remains unaccounted for in the current postprocessing pipelines.
+This omission may introduce inaccuracies that propagate into diffusion parameter estimates, such as in ADC and DTI analysis.
+Because intravoxel incoherent motion (IVIM) makes use of low b-values, these inaccuracies may be of greater importance.
+This study examines the impact of biased b-values on IVIM analysis in simulations and in vivo.

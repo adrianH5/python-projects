@@ -1,0 +1,12 @@
+The association between intestinal microbiota, dietary and lifestyle habits, and colorectal cancer (CRC) development is not fully understood.
+This study aimed to assess the association between intestinal microbiota composition and CRC risk across clinical stages, accounting for dietary and lifestyle factors.
+This cross-sectional study conducted in Japan included 499 participants who underwent colonoscopies.
+The study included 212 healthy controls, 107 patients with advanced adenoma, 109 with stage I/II CRC, and 71 with stage III/IV CRC.
+Multinomial logistic regression was used to evaluate the association between six specific intestinal bacteria, including Fusobacterium nucleatum, Solobacterium moorei, Gemella morbillorum, Parvimonas micra, Peptostreptococcus stomatis, and Peptostreptococcus anaerobius, and the risk of advanced adenoma and CRC.
+We conducted univariable and multivariable models, adjusting for potential confounding dietary and lifestyle factors.
+The risk of developing advanced adenoma significantly increased with a higher relative abundance of F. nucleatum, S. moorei, G. morbillorum, and P. stomatis.
+In stages I/II and III/IV CRC, all six bacteria demonstrated a substantial increase in risk, becoming more pronounced as the CRC stage progressed.
+F. nucleatum exhibited the highest odds ratio (8.92, 95% confidence interval: 3.59-22.14).
+Notably, even after adjusting for dietary and lifestyle factors, the observed associations remained consistent.
+This study highlights the differential impact of particular intestinal microbiota on the probability of advanced adenoma and CRC while also considering dietary and lifestyle factors.
+F. nucleatum exhibited a significant stage-dependent increase in the risk of CRC.

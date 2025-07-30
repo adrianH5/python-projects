@@ -1,0 +1,5 @@
+Results of previous studies have demonstrated that T-cell receptor cross-linking rapidly generates reactive oxygen species, which play essential signaling roles within mitochondria for the antigen-specific expansion of T-cells.
+However, oxidative stress also causes damage to cellular organelles.
+Thus, modulating ROS metabolism using antioxidants during naïve T-cell activation may promote the expansion and generation of functional T-cells.
+Notably, urothelial cancer is a sex-specific malignancy with high mortality rates worldwide.
+The present study aimed to evaluate the effects of various antioxidants on γδ T-cell proliferation, and the associated cytotoxicity against urothelial carcinoma cells (UCs).

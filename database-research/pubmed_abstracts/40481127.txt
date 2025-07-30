@@ -1,0 +1,16 @@
+Emerging evidence from recent studies demonstrates that the FGL1/LAG-3 interaction axis plays a crucial role in mediating tumor immune evasion mechanisms, particularly through the suppression of T lymphocyte effector functions.
+However, the role of FGL1 in prostate cancer (PCa) remains unclear.
+Data was downloaded from The Cancer Genome Atlas (TCGA) database, and subjected to differential expression analysis.
+Single gene differential analysis to determine the correlation between FGL1 and DNAJC12 expression levels in prostate cancer.
+The expression of FGL1 was silenced by siRNA in PC3 prostate cancer cells.
+Lentiviruses infected DU145 to overexpress FGL1.
+Cell proliferation, apoptosis and EMT-related markers were detected in vitro.
+Animal experiments further confirmed the effect of FGL1 on prostate cancer.
+Up-regulated gene FGL1 was identified as the selected gene in this study among 3011 Differentially expressed genes.
+FGL1 had the highest positive relation with DNAJC12.
+The OS of PCa patients with high expression of FGL1 was significantly shorter.
+After silencing FGL1, PC3 cell proliferation was inhibited by 0.58-fold, while apoptosis increased by 16%, and the expression of cleaved-caspase-3 increased, while the expression of DNAJC12 and BCL-2 decreased.
+After overexpression of FGL1, the number of DU145 cells increased by 2.05-fold, the expression of cleaved-caspase-3 was inhibited, E-cadherin expression decreased, while N-cadherin and Vimentin expression increased.
+Tumor growth was inhibited, and the expression of FN1, n-cadherin, Vimentin and β-catenin decreased, while the expression of E-cadherin increased after silencing FGL1.
+Silencing FGL1 promotes prostate cancer cell apoptosis and inhibits EMT progression.
+FGL1 may be an independent prognostic marker and therapeutic target in PCa.

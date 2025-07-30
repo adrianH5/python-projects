@@ -1,0 +1,3 @@
+T1	Dataset 305 311	GISAID
+T2	AccessionNumber 324 338	EPI_ISL_408667
+R1	hasAttr	Arg1:T1	Arg2:T2

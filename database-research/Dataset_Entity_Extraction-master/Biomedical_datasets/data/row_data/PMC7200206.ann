@@ -1,0 +1,38 @@
+T1	AccessionNumber 798 806	MN908947
+T2	AccessionNumber 811 819	MN996527
+T3	AccessionNumber 820 828	MN996531
+T4	AccessionNumber 865 873	AY274119
+T5	AccessionNumber 875 883	AY278488
+T6	AccessionNumber 888 896	AY390556
+T7	AccessionNumber 971 979	MN996532
+T8	AccessionNumber 1013 1021	JX869059
+T9	Creator 1048 1052	NCBI
+T10	Repository 1053 1060	GenBank
+T11	AccessionNumber 1194 1202	QHD43415
+T12	AccessionNumber 1203 1211	QHD43423
+T13	AccessionNumber 1213 1221	QHI42199
+T14	AccessionNumber 1280 1288	MN908947
+T15	AccessionNumber 1409 1417	MN908947
+T16	AccessionNumber 1694 1702	QHD43415
+T17	AccessionNumber 1703 1711	QHD43423
+T18	AccessionNumber 1713 1721	QHI42199
+T19	AccessionNumber 1779 1787	MN996527
+T20	AccessionNumber 1805 1813	AY390556
+T21	AccessionNumber 1836 1844	MN996532
+T22	AccessionNumber 1888 1896	MN908947
+R1	hasAttr	Arg1:T10	Arg2:T1
+R2	hasAttr	Arg1:T9	Arg2:T1
+R3	hasAttr	Arg1:T10	Arg2:T2
+R4	hasAttr	Arg1:T9	Arg2:T2
+R5	hasAttr	Arg1:T10	Arg2:T3
+R6	hasAttr	Arg1:T9	Arg2:T3
+R7	hasAttr	Arg1:T10	Arg2:T4
+R8	hasAttr	Arg1:T9	Arg2:T4
+R9	hasAttr	Arg1:T10	Arg2:T5
+R10	hasAttr	Arg1:T9	Arg2:T5
+R11	hasAttr	Arg1:T10	Arg2:T6
+R12	hasAttr	Arg1:T9	Arg2:T6
+R13	hasAttr	Arg1:T10	Arg2:T7
+R14	hasAttr	Arg1:T9	Arg2:T7
+R15	hasAttr	Arg1:T10	Arg2:T8
+R16	hasAttr	Arg1:T9	Arg2:T8

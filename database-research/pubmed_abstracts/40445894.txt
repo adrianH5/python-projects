@@ -1,0 +1,8 @@
+The presence of a CDKN2A homozygous deletion (HD) plays an important role in the diagnostic approach for neuropathologists and the clinical prognostic stratification of several CNS tumors.
+CDKN2A is located on chromosome 9p21 next to CDKN2B and MTAP and encodes for the protein p16.
+Various molecular diagnostics are routinely used for assessing the deletion.
+In this context, we studied a cohort of 40 adult-type gliomas to analyze the concordance of three different molecular techniques, ie, FISH, NGS, and SNP array, for determining CDKN2A status and compared the results to p16 and MTAP immunostainings.
+The results showed that SNP array is the most reliable technique for the detection of CDKN2A HD and that p16 IHC constitutes a surrogate for the detection of biallelic inactivation of CDKN2A.
+p16 IHC was more accurate than MTAP IHC in detecting CDKN2A HD because a subset of CDKN2A HD gliomas did not present a deletion of the MTAP gene.
+IHC also allowed the detection of tumors with a hemizygous deletion of CDKN2A harboring a concomitant second molecular event on the remaining allele, ie, hypermethylation of CDKN2A promoter.
+We conclude that p16 immunostaining is an accurate biomarker for detecting CDKN2A HD.

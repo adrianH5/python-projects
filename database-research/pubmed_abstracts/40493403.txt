@@ -1,0 +1,9 @@
+For over a century, scientists reported the disruption of normal nuclear shape and size in cancer.
+These changes have long been used as tools for diagnosis and staging of malignancies.
+However, to date, the mechanisms underlying these aberrant nuclear phenotypes and their biological significance remain poorly understood.
+Using a model of pancreatic ductal adenocarcinoma (PDAC), the major histological subtypes of pancreatic cancer, we found oncogenic mutant KRAS reduces nuclear size.
+Transcriptomic and protein expression analysis of mutant KRAS-expressing PDAC cells revealed differential levels of several nuclear envelope-associated genes.
+Further analysis demonstrated the nuclear lamina protein, Emerin (EMD), acted downstream of KRAS to mediate nuclear size reduction in PDAC.
+Analysis of human PDAC samples showed that increased EMD expression associates with reduced nuclear size.
+Finally, in vivo genetic depletion of EMD in a mutant KRAS-driven PDAC model resulted in an increased nuclear size and a reduced incidence of poorly differentiated PDAC.
+Thus, our data provides evidence of a novel mechanism underlying nuclear size regulation and its impact in PDAC carcinogenesis.

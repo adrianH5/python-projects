@@ -1,0 +1,7 @@
+The DNA damage response (DDR) represents a promising target for cancer therapy, with key kinases like Ataxia telangiectasia and Rad3-related (ATR) playing a pivotal role in initiating DDR signaling.
+ATR activation triggers cell cycle arrest at the S and G2/M phases in response to DNA damage and replication stress (RS), facilitating cancer cell proliferation and inhibiting apoptosis.
+Numerous studies have identified ATR as a valuable target for anti-cancer strategies.
+Small molecule inhibitors targeting ATR have been synthesized and are currently undergoing clinical trials, both as monotherapies and in combination therapies.
+These inhibitors leverage synthetic lethality(SL) to selectively target cancer cells, enhancing anticancer efficacy and delaying drug resistance.
+This article offers a concise summary of ATR's structure and its role in DDR mechanisms.
+It also provides a detailed review of the structural characteristics, pharmacological profiles, and therapeutic or prophylactic potential of ATR small molecule inhibitors currently in clinical trials, including those with published chemical structures and inhibitors reported in patents from 2022 to 2024, offering valuable insights for the future development of safer and more effective ATR inhibitors.

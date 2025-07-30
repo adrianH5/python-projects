@@ -1,0 +1,14 @@
+MET-targeted therapies are the most effective treatment for patients with MET-amplified lung cancer.
+However, acquired drug resistance is a significant challenge in MET-amplified lung cancer treatment.
+This study aimed to discover an effective treatment strategy for overcoming MET-targeted drug resistance.
+We first established a lung cancer cell line resistant to MET tyrosine kinase inhibitor (MET-TKI) (H1993 PR-S2) from MET-amplified lung cancer cells (H1993).
+High-throughput screening using an anti-cancer compound library identified Aurora Kinase B (AURKB) inhibitor as a potent agent suppressing H1993 PR-S2 cell viability.
+In these resistant cells, p-MET expression was markedly decreased, while p-AURKB was significantly increased.
+Furthermore, STAT3-activated gene signatures were enriched in H1993 PR-S2 cells, and p-STAT3 expression was closely linked to AURKB.
+The AURKB overexpression induced p-STAT3 activation in the parental cells, whereas the AURKB knockdown reduced p-STAT3 expression in the H1993 PR-S2 cells.
+The resistant cells showed increased BCL2 gene expression, and STAT3-BCL2 expression was highly suppressed by AURKB inhibitor.
+However, MET-TKI sensitivity was not enhanced by STAT3 or BCL2 knockdown in H1993 PR-S2 cells.
+Additionally, the elevated expression of cleavage-caspase3 and the G2/M phase arrest were observed at lower concentrations of AURKB inhibitor in the H1993 PR-S2 cells.
+AURKB inhibitor also showed potent anti-tumor activity against the H1993 PR-S2 tumor xenografts.
+Finally, we confirmed the upregulated AURKB and p-STAT3 expression in post-treatment tumors of advanced MET-amplified lung cancer patient who experienced acquired resistance to MET-targeted drugs.
+These findings suggest AURKB is a potential druggable target for MET-TKI-resistant MET-amplified lung cancer treatment.

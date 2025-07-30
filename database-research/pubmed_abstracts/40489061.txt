@@ -1,0 +1,7 @@
+DNA logical processing, which employs DNA as a building block to perform logic operations, attracts considerable attention in biomedical applications.
+Herein, a new DNA logical processing strategy is explored for selective cell engineering and to develop a feasible technology for precise cell identification.
+Specifically, this cell identification technology accomplishes logical engineering through the employment of cell surface-confined DNAzyme coordination, which not only enables the labeling of versatile DNA probes at specific cells but also avoids false-positive outputs caused by the neighboring non-target cells.
+In proof-of-principle studies, this cell identification technology achieves precise magnetic isolation and electrochemical determination of specific cancer cells (i.e., stem cell-like subpopulations in breast cancer).
+When further applied to tumors taken from mouse models, this technology exhibits accuracy comparable to that of flow cytometry; however, it is simple to operate and offers superior recognition capabilities for revealing multiple biomarkers.
+More importantly, this cell identification technology can be successfully applied in tumor tissues from breast cancer and lung cancer patients, demonstrating satisfactory practicability.
+Therefore, this work may provide new insights for the precise identification of cells, especially cancer cells, and is expected to offer technical support for clinical diagnosis and related biomedical research.

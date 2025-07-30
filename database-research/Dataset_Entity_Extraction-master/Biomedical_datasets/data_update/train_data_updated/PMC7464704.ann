@@ -1,0 +1,10 @@
+T1	Repository 412 420	UniRef90
+T2	URL 431 466	https://www.uniprot.org/help/uniref
+T3	Dataset 508 514	GISAID
+T4	URL 516 539	https://www.gisaid.org/
+T5	Dataset 587 593	GISAID
+T6	Dataset 959 965	GISAID
+T7	Repository 1060 1084	Short Read Archive (SRA)
+T8	AccessionNumber 1105 1116	PRJNA636748
+R1	hasAttr	Arg1:T3	Arg2:T4
+R2	hasAttr	Arg1:T7	Arg2:T8

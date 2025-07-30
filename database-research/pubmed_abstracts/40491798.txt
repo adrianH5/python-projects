@@ -1,0 +1,8 @@
+Heat shock protein 90 (Hsp90) is a crucial molecular chaperone responsible for the maturation and stabilization of a wide range of client proteins, many of which are key drivers of oncogenic signaling.
+While traditional Hsp90 inhibitors targeting its ATPase activity have demonstrated antitumor potential, their clinical progress has been limited by issues such as low selectivity, toxicity, and the induction of cytoprotective heat shock responses.
+An alternative strategy focuses on disrupting the specific protein-protein interaction between Hsp90 and its kinase-specific co-chaperone, cell division cycle 37 (Cdc37), thereby selectively destabilizing oncogenic kinases without broadly impairing chaperone function.
+This review discusses the structural insights into the Hsp90-Cdc37 interface, recent advances in the discovery of small molecule inhibitors, peptides, peptidomimetics, and natural products such as celastrol, platycodin D, and withaferin A that effectively disrupt this interaction.
+Mechanistic studies reveal that disruption leads to targeted degradation of kinase clients, inhibition of key survival pathways including AKT and ERK signaling, induction of apoptosis, and sensitization to other therapeutic agents, all while minimizing activation of the heat shock response.
+Despite challenges related to targeting dynamic PPI surfaces, optimizing drug-like properties, and validating clinical biomarkers, the therapeutic advantages of this strategy are significant.
+Hsp90-Cdc37 disruptors represent a promising frontier in precision oncology, offering a refined, selective, and less toxic approach to targeting cancer cell survival networks.
+Continued multidisciplinary research is expected to drive these agents toward successful clinical translation.

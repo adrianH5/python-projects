@@ -1,0 +1,4 @@
+{
+    "0": "           precision    recall  f1-score   support\n\n  Dataset     0.4595    0.5484    0.5000        62\n\nmicro avg     0.4595    0.5484    0.5000        62\nmacro avg     0.4595    0.5484    0.5000        62\n",
+    "1": "           precision    recall  f1-score   support\n\n  Dataset     0.5439    0.5000    0.5210        62\n\nmicro avg     0.5439    0.5000    0.5210        62\nmacro avg     0.5439    0.5000    0.5210        62\n"
+}

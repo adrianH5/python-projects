@@ -1,0 +1,9 @@
+Multiple myeloma (MM) is a blood cancer characterized by the uncontrolled growth of plasma cells in the bone marrow.
+These malignant plasma cells can proliferate locally and spread to other tissues and organs.
+The M-protein they produce can lead to various clinical symptoms, including anemia, hypercalcemia, bone pain, bone destruction, and kidney dysfunction.
+Despite significant advancements in treatment over the past two decades that have improved survival and outcomes for many patients, drug resistance remains a significant therapeutic challenge.
+This resistance is largely driven by the complex interactions between MM cells and the bone marrow microenvironment (BMME), making long-term disease control difficult.
+To improve treatment outcomes, it is essential to understand how the BMME supports MM cell growth and survival, as well as how these cells evade therapies.
+Investigating these processes will help identify key mechanisms behind drug resistance, offering a pathway to develop targeted therapies that can overcome this challenge.
+This review will explore the intricate relationship between MM cells and the BMME, focusing on how both cellular and non-cellular components of the microenvironment contribute to resistance mechanisms and prompt disease progression.
+These insights aim to inform future therapeutic strategies to enhance treatment options for MM patients.

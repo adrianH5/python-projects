@@ -1,0 +1,5 @@
+In recent years, anti-tumor immunity has emerged as a central focus in cancer research, with the rapid advancement of immunotherapy heralding a new era in cancer treatment.
+Despite the significant potential of immunotherapy, the use of single-agent approaches or limited combination therapies has not consistently yielded optimal therapeutic outcomes.
+The strategic and controlled integration of diverse immune activation techniques within a single nanoparticle, utilizing a straightforward and universal methodology, continues to present a substantial challenge.
+Self-assembly, as a simple synthesis method, offers the possibility of combining multiple therapeutic approaches through straightforward means.
+In this study, we developed a novel approach to construct a biocompatible nanosystem, named Cu-ICG-CpG-FA (CICF), which was synthesized through one-pot coordination-driven self-assembly of Cu

@@ -1,0 +1,3 @@
+Validation of threshold-based PET segmentation and PET quantification is typically performed with fillable phantoms.
+Theoretical considerations show that the inactive walls of the phantom cavities introduce a contrast dependence of the volume-reproducing threshold (VRT), potentially leading to segmentation errors and therefore miscalculations of target volumes.
+The goal of this study was to experimentally show the contrast independence of the VRT when using wall-less phantoms.

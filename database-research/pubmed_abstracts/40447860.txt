@@ -1,0 +1,7 @@
+Multicellular cytokine networks drive intestinal inflammation and colitis-associated cancer (CAC).
+Interleukin-22 (IL-22) exerts both protective and pathogenic effects in the intestine, but the mechanisms that regulate this balance remain unclear.
+Here, we identify that IL-22 directly induces responsiveness to the IL-6 family cytokine oncostatin M (OSM) in intestinal epithelial cells (IECs) by activating STAT3 and upregulating the OSM receptor.
+In turn, OSM synergizes with IL-22 to sustain STAT3 activation in IECs and promote proinflammatory epithelial adaptation and immune cell chemotaxis to the inflamed intestine.
+Conditional deletion of the OSM receptor in IECs protects mice from both colitis and CAC, and pharmacological blockade of OSM attenuates established CAC.
+Thus, IL-22 and OSM form a pathogenic circuit that drives inflammation and tumorigenesis.
+Our findings reveal a previously unknown mechanism by which OSM supports intestinal pathology and highlight the IL-22-OSM axis as a promising therapeutic target for inflammatory bowel disease and CAC.

@@ -1,0 +1,8 @@
+Diffuse intrinsic pontine glioma (DIPG) is a devastating brainstem cancer in children, with a median survival of under one year and limited treatment options.
+Over 80% of DIPGs possess a H3K27M mutation.
+To identify metabolic vulnerabilities linked to this mutation, we utilized a multi-omics approach in H3K27M-expressing cells, patient-derived cell lines, and mouse models.
+We show that by reprogramming chromatin landscape the mutation aberrantly induces NFI transcriptional activity, leading to misregulated purine metabolism.
+The mutation amplifies purine biosynthesis and degradation via the enzymes ATIC and PNP, respectively.
+Unregulated purine degradation relieves the negative feedback of purines on their own synthesis allowing continuous synthesis, use and degradation making DIPGs reliant on purine biosynthesis.
+Targeting ATIC reduced tumor progression and improved survival in mice.
+We propose ATIC as a potential novel target in DIPG.

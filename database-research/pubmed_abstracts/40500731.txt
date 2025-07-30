@@ -1,0 +1,8 @@
+Small cell lung cancer (SCLC) is a highly aggressive malignancy with extremely poor prognosis.
+SCLC cells exhibit high plasticity and can progress from neuroendocrine (NE) to non-NE phenotypes.
+This dynamic evolution promotes treatment resistance and relapses, representing a challenge for targeted therapies in this elusive disease.
+Here we identify the transcription factor ONECUT2 (OC2) as a driver of plasticity in SCLC, leading to non-NE transcriptional states.
+OC2 is highly expressed in SCLC tumors compared to normal lung tissue and its expression is associated with heightened clinical stage and lymph node metastasis.
+We show that OC2 is a repressor of ASCL1, the NE master regulator transcription factor.
+In addition, OC2 upregulates non-NE programs through activation of c-MYC and Notch signaling.
+We also demonstrate that OC2 is required for growth and survival of SCLC cells and that it can be targeted with a small molecule inhibitor that acts synergistically with the standard combination of cisplatin and etoposide, providing a novel therapeutic strategy for OC2 active SCLC tumors.

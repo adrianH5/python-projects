@@ -1,0 +1,8 @@
+Gynecological cancers represent one of the leading causes of death in women and pose a critical global health challenge.
+While surgery and chemotherapy remain the first-line therapies for gynecological cancers, the persistently high morbidity and mortality rates have driven the urgent exploration of novel theranostic strategies.
+In recent years, polymer nanoparticles (PNPs) have gained increasing attention in the diagnosis and treatment of cancer due to their superior targeting ability and delivery efficiency.
+This review provides an overview of PNPs and their role in tumor diagnosis and treatment, with a strategic focus on their utility in gynecological cancers.
+It covers drug delivery, imaging, combination therapy, and theranostic integration in gynecological cancers, and summarizes the composition, principles and characteristics of diverse polymers and their cargoes.
+Furthermore, this work highlights innovative applications of PNPs in gynecological cancers management, spanning chemotherapy, immunotherapy, PARPi therapy, phototherapy and other therapies.
+Despite promising preclinical advancements in PNPs, formidable challenges persist in their clinical translation.
+This review serves as a comprehensive resource for researchers and clinicians aiming to optimize gynecological cancers theranostics as well as accelerate the development and clinical translation of PNPs.

@@ -1,0 +1,13 @@
+Classical BCR-ABL-negative myeloproliferative neoplasms (MPNs) are a clonal expansion of myeloid precursors caused by somatic stem cells.
+Although driver mutations were observed in most MPN patients, the potential clonal disorder remains unclear.
+We analyzed a total of 1004 newly diagnosed MPN patients and next-generation sequencing was performed on the genomic DNA.
+Primary myelofibrosis (PMF) patients carried the highest LDH level, splenomegaly, and the lowest hemoglobin content.
+Myeloproliferative Neoplasm, unclassifiable (MPN-U) patients had higher platelet count and frequency of thrombotic events.
+The top five most frequently mutations were JAK2, ASXL1, TET2, CALR, and DNMT3A.
+The JAK2 mutation burden was positively correlated with leukocyte counts in all subgroups.
+PMF patients tend to have more somatic mutations than other patients.
+Among triple-negative (TN) MPN patients, SH2B3 and SRSF2 were positively correlated, and the NPM1 mutation rate was significantly increased.
+As for survival, we found that patients with PMF, MPN10 symptoms, JAK2 wild-type, or TN mutation were positively associated with shorter overall survival.
+The U2AF1 mutation was an independent risk factor for death in MPN patients, and ZRSR2, NF1, and PPM1D mutations were found in patients who progress to AML or MDS.
+In addition, we created a prediction nomogram by using five variables, which enhanced the precision of estimating survival in MPN patients.
+Our data provide a novel perspective for the diagnosis, clonal evolution and prognosis of MPNs.

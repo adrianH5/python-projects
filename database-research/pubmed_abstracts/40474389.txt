@@ -1,0 +1,3 @@
+Four-dimensional cone-beam CT (4D CBCT) incorporates oversampling of 3D data to reconstruct multi-phase CBCT data sets representing distinct phases of the breathing cycle based on a diaphragmatic correlate of respiratory motion.
+Motion artifacts and blurring can be reduced relative to three-dimensional cone-beam (3D CBCT), allowing clinicians to better visualize motion of targets.
+To quantitatively understand the degree to which target visualization is improved by 4D CBCT, an edge visualization metric (EVM) has been developed to describe the change in voxel intensities at the edge of targets in 4D CBCT maximum intensity projection images relative to 3D CBCT images.

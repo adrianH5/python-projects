@@ -1,0 +1,3 @@
+High-risk Endometrial Cancer (EC) treatment decisions have been informed by two large, randomized trials: GOG-258 and PORTEC-3.
+Directly comparing these studies to determine the optimal treatment strategy remains challenging as neither included all three arms of interest: chemotherapy alone, chemotherapy combined with radiation, and radiation therapy alone.
+This study addresses this gap by analyzing National Cancer Database (NCDB) data to evaluate the comparative effectiveness of chemotherapy alone, chemoradiotherapy, and radiation therapy alone.

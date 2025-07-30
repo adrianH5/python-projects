@@ -1,0 +1,4 @@
+For instance, as different countries review and test archived specimens from cases of severe pneumonia or influenza-like illness for SARS-CoV-2, it is expected that additional cases may be identified, such as in France where a patient without travel history to China was identified to have COVID-19 in late December concurrent with the initial reported cases from Wuhan.
+The trimeric and monomeric structures of the Spike protein were generated using Illustrate (https://ccsb.scripps.edu/illustrate/) by rendering a protein structure from the Protein Data Bank with ID 6vsb (https://www.rcsb.org/structure/6vsb).
+The COVID-19 pandemic, caused by the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), was declared on March 11, 2020 by the World Health Organization.
+As of the 31st of May, 2020, there have been more than 6 million COVID-19 cases diagnosed worldwide and over 370,000 deaths, according to Johns Hopkins.

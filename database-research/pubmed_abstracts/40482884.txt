@@ -1,0 +1,11 @@
+Human papillomavirus (HPV) is linked to various cancers, including cervical, anal, and head and neck cancers.
+Conventional methods for HPV genotyping and commercial platforms are limited to detecting high-risk HPV genotypes primarily in gynecological samples.
+Because of changing trends in the epidemiology and pathogenesis, there is a growing need for HPV genotyping techniques applicable to emerging clinical contexts involving diverse sample types, such as head and neck or anal samples, particularly for formalin-fixed paraffin-embedded (FFPE) tissues.
+This study aimed to validate amplicon-based sequencing with Oxford Nanopore Technologies for the detection and genotyping of HPV in 181 samples including FFPE head and neck samples, and ThinPrep liquid-based cytology samples from anal and gynecological tissues.
+Sanger sequencing was used as a reference for genotyping accuracy.
+Our ONT sequencing method demonstrated a limit of detection of 1 copies/μL for HPV16 and HPV18.
+Perfect agreement (kappa coefficient = 1.0) was observed for HPV detection across all sample types.
+Genotyping accuracy exceeded 95%, and ONT identified additional genotypes in certain anal and gynecological samples that were undetected by Sanger sequencing.
+The assay showed high reproducibility, with consistent results across intra- and inter-run analyses.
+This study is the first to validate ONT sequencing for HPV genotyping in FFPE head and neck samples.
+ONT provides a rapid, cost-effective method for comprehensive HPV genotyping in diverse sample types.

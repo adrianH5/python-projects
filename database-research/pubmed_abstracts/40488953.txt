@@ -1,0 +1,8 @@
+Endocrine cancers are a heterogeneous group of malignancies that originate from cells capable of secreting hormones.
+Examples include but are not limited to thyroid cancer, adrenocortical carcinoma, prostate cancer, and pancreatic cancer.
+Our limited understanding of endocrine cancers is partially due to constraints related to model systems, which cannot accurately replicate the pathogenesis of these tumors.
+Patient-derived organoids (PDOs) are clusters of multiple cell types that grow in a three-dimensional environment.
+They have become innovative models that faithfully reproduce genotype and phenotype of the tissues from which they originated, facilitating the prediction of patient treatment responses and guiding the development of precision medicine.
+This article provides a comprehensive review of the establishment of endocrine cancer PDOs and their applications in cancer research, drug screening, and personalized therapy.
+These excellent preclinical models have the potential to advance our understanding of endocrine cancers in basic research and clinical practice.
+In addition, we discuss the challenges related to current organoid technologies and provide future perspectives on the applications of organoids in precision medicine to improve the management of endocrine cancers.

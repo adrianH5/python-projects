@@ -1,0 +1,14 @@
+CRISP3 (Cysteine rich secretory protein 3) and PSP94 (Prostate secretory protein of 94 amino acids) are evolutionarily conserved proteins that form high affinity complexes.
+They show an inverse expression pattern during prostate tumorigenesis and are linked to poor prognosis.
+Apart from prostate, they are present in various body fluids and are speculated to contribute to innate immunity, however their role in tumor immune microenvironment remains uninvestigated.
+In our earlier study, P2RX7, an ATP-gated ion channel and an important player in the inflammasome pathway, was amongst the genes upregulated upon CRISP3 knockdown.
+We investigated it further and demonstrated that exogenously added rhCRISP3 downregulated P2RX7 levels in PC3 cells and THP1 macrophages.
+Interestingly, this effect was abrogated when it was complexed with PSP94.
+CRISP3 mediated P2RX7 downregulation also reduced ATP-induced cytotoxicity and IL-1β secretion, which was reversed in the presence of PSP94.
+PSP94 also affected endocytosis of CRISP3 and its interaction with flotillin-2.
+Using an antibody array, CITED2, a transcriptional coregulator was identified as a downstream mediator of CRISP3.
+Overexpression of CITED2 also downregulated P2RX7.
+Since CITED2 modulates transcription through p300 availability, presence of p300 at P2RX7 promoter in PC3 cells and THP1 macrophages was confirmed by CUT&RUN assay.
+CITED2 overexpression led to reduced p300 levels which could be the reason for downregulation of P2RX7.
+Our findings unravel a novel mechanism linking CRISP3-PSP94-P2RX7 with CITED2.
+CRISP3 overexpression and PSP94 downregulation in prostate tumors may influence the tumor immune microenvironment by regulating P2RX7 and CITED2 levels in tumor cells and tumor-associated macrophages.

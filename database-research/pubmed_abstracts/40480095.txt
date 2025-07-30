@@ -1,0 +1,3 @@
+Proton-induced cell death is primarily driven by the induction and repair of DNA double strand breaks.
+While DNA damage dynamics have been extensively studied, the early cellular responses to proton irradiation remain underexplored.
+To address this, we developed a novel live-cell microscopy platform that enables real-time visualization of cellular responses to DNA damage induced by proton therapy.

@@ -1,0 +1,23 @@
+In the current coronavirus outbreak, the global community is mounting a large-scale public health response to understand the pathogen, SARS-CoV-2, and combat coronavirus disease 2019 (COVID-19).
+Below we briefly outline the response—including actions taken by national Nodes—and note that this strategy directly answers to priority action 8 (“Access to research infrastructures”) and action 9 (“Research data sharing platform”) in the EU action plan for COVID-19 [10].
+ELIXIR provides updated information on services run by ELIXIR Nodes that can be used by researchers working on COVID-19 via elixir-europe.org/services/covid-19-resources.
+National infrastructures provide important focal points for the efforts around COVID-19 and many ELIXIR Nodes are tasked with coordinating national data spaces for health, clinical and epidemiological data.
+National infrastructures also provide the bulk of data processing capabilities for the many COVID-19 research projects now underway.
+This federated model provides the coordination across Europe to ensure consistent discovery and access to relevant human genetic datasets for research.
+As much of the COVID-19 host data will come directly from clinical care it will likely be subject to national laws and regulations and therefore, for example, much of the data is unlikely to be consented to leave national jurisdictions.
+As part of the COVID-19 response ELIXIR will accelerate implementation of the Federated European Genome-phenome Archive (FEGA) to provide the necessary infrastructure and coordination between European national initiatives and ensure rapid sharing of COVID-19 host data in full compliance with national regulations (e.g. GDPR).
+In addition, the rapid response to the COVID-19 pandemic provides a blueprint for European data access in projects such as 1 Million European Genomes [12].
+The federated EGA nodes forms a set of connected European COVID-19 Data Spaces, that bring together national health informatics infrastructure [13] and European archives such as those at EMBL–EBI [14].
+This interconnected ecosystem will allow data from ongoing European projects as well as the many re-focussed national research programmes to be widely accessed, reused and linked to global COVID-19 initiatives.
+Public databases are key to ensuring that datasets—from short-read sequence data to protein structures—are stored over the long-term and accessed by scientists in academia and industry.
+ELIXIR is an open data infrastructure and advocates the open sharing—wherever possible for reasons of personal privacy and public health—of COVID-19 data.
+ELIXIR’s response aims to ensure that COVID-19 data are well annotated and accessible for reuse by the research community and society.
+EMBL–EBI has a dedicated page to assist deposition and sharing of SARS-CoV-2 data into molecular databases.
+In the first weeks of teh European response ELIXIR has further reached out to the data generation underway in the facilities of the ESFRI Research Infrastructures and ensure that data is deposited in existing archives where possible (e.g. EMBL–EBI COVID19 Portal, ENA, IDR, Biostudies etc.) and are made FAIR for the research community at large.
+National infrastructures—some of which already form part of EOSC—are also providing open-access biocomputing resources with COVID-19 workflows and toolkits.
+Via the EOSC-Life project3 we are also investigating if resources can be made available to resource-poor countries in the fight against COVID-19.
+As projects on COVID-19 research studies emerge from many initiatives driven from ELIXIR Nodes, ELIXIR has launched the ELIXIR support for SARS-CoV-2 research webpage to display the services that ELIXIR Nodes offer to scientists (Fig. 1).
+The webpage focuses on Node services that enable European researchers to carry out research into COVID-19.
+ELIXIR, the European research infrastructure for life science data, provides open access to data, tools and workflows in the response to the COVID-19 pandemic.
+1. Connecting national COVID-19 data platforms to create federated European COVID-19 Data Spaces; 2. Fostering good data management to make COVID-19 data open, FAIR and reusable over the long term; 3. Providing open tools, workflows and computational resources to drive reproducible and collaborative science.
+Some Nodes have prioritised access to their national cloud and compute facilities for all COVID-19 research projects, while others have developed tools to search, access and share all data related to the pandemic in a national healthcare setting.

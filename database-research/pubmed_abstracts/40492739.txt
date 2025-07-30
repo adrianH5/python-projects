@@ -1,0 +1,11 @@
+Previous research has not clearly illustrated the impact of serum iron status on thyroid cancer.
+Bi-directional and multivariable Mendelian randomization (MVMR) analyses were conducted to determine the causative effects of serum iron status on thyroid cancer.
+Genetic markers for serum iron status, including serum iron, ferritin, transferrin saturation (TSTA), and transferrin, were acquired from the Genetics of Iron Status.
+The primary analytical method employed was inverse variance weighting, supplemented by other sensitivity approaches to validate the consistency of the results.
+Genetically predicted serum iron, ferritin, and TSTA were found to increase the risk of thyroid cancer.
+However, there was no causal link between transferrin levels and the risk of thyroid cancer.
+The causal link remained strong in the reverse MR and MVMR.
+Furthermore, serum iron status had no causal effect on benign neoplasms of the thyroid gland based on the two-sample MR analysis.
+Our MR study provides novel evidence that serum iron, ferritin, and TSTA are associated with thyroid cancer, but not with benign neoplasms of the thyroid gland.
+These markers could be useful for differential diagnosis.
+Strategies to lower serum iron levels may reduce the burden of thyroid cancer.

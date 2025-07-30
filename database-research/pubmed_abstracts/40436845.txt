@@ -1,0 +1,11 @@
+Dysregulation of Hippo signaling is observed in pancreatic adenocarcinoma (PAAD).
+Moreover, overactivation of YAP is crucial for tumor progression.
+Although the inhibitory phospho-cascade is functional, the reason for YAP hyperactivation in PAAD remains unclear.
+Recent studies have revealed that the ubiquitin modification of YAP also plays an important role in the Hippo/YAP axis and cancer progression.
+To gain a better understanding of the potential mechanisms underlying the ubiquitination and deubiquitination of YAP, we carried out siRNA screening for critical deubiquitinases in PAAD.
+By using a deubiquitinase (DUB) library, we identified valosin-containing protein-interacting protein 1 (VCPIP1) as an important effector of YAP function and PAAD progression.
+Inhibition of VCPIP1 hampered PAAD progression via Hippo signaling.
+Clinical data revealed that VCPIP1 was elevated in PAAD and correlated with poor survival in PAAD patients.
+Biochemical assays demonstrated that VCPIP1 interacted with YAP, inhibiting K48-linked polyubiquitination and thereby increasing YAP stability.
+YAP directly binds to the VCPIP1 promoter region, enhancing its transcription in PAAD.
+Our study revealed a forward feedback loop between VCPIP1 and Hippo signaling in PAAD, indicating that VCPIP1 is a potential therapeutic drug target in PAAD.

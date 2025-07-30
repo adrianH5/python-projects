@@ -1,0 +1,7 @@
+Alternative splicing (AS) generates diverse mRNA transcripts from a single gene, enhancing protein variety.
+This study examines AS during naive CD4 T cell activation, revealing that splicing events precede gene expression changes, evident as early as 6 h post-activation.
+Splicing alterations primarily impact pathways related to protein metabolism and mRNA processing, while gene expression dynamics affect immune regulatory genes.
+Notably, splicing isoforms favored soluble ectodomains of surface receptors, including CTLA4.
+CD8 T cells showed comparable patterns to CD4 cells, primarily differing in immune-related genes.
+Analysis of T cell-rich tumor samples from melanoma patients showed that AS events prevalent in the CD4 dataset correlated with positive responses to immune checkpoint inhibitors (ICIs).
+These findings suggest that activation-induced AS in T cells may play an immune regulatory role and be linked to ICI treatment outcomes.

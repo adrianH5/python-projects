@@ -1,0 +1,7 @@
+The focus of aging research has shifted from increasing lifespan to enhancing healthspan to reduce the time spent living with disability.
+Despite significant efforts to develop biomarkers of aging, few studies have focused on biomarkers of healthspan.
+We developed a proteomics-based signature of healthspan [healthspan proteomic score (HPS)] using proteomic data from the Olink Explore 3072 assay in the UK Biobank Pharma Proteomics Project (53,018 individuals and 2,920 proteins).
+A lower HPS was associated with higher mortality risk and several age-related conditions, such as chronic obstructive pulmonary disease, diabetes, heart failure, cancer, myocardial infarction, dementia, and stroke.
+HPS showed superior predictive accuracy for these outcomes compared to other biological age measures.
+Proteins associated with HPS were enriched in hallmark pathways such as immune response, inflammation, cellular signaling, and metabolic regulation.
+The external validity was evaluated using the Essential Hypertension Epigenetics study with proteomic data also from the Olink Explore 3072 and complementary epigenetic data, making it a valuable tool for assessing healthspan and as a potential surrogate marker to complement existing proteomic and epigenetic biological age measures in geroscience-guided studies.

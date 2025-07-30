@@ -1,0 +1,3 @@
+Radiotherapy (RT) is a cornerstone of cancer treatment but limited by its dual role in modulating the tumor immune microenvironment: while promoting immunogenic cell death (ICD), RT concurrently upregulates PD-L1 to suppress antitumor immunity.
+To address this limitation, we developed PEP-PLG-IMDQ, a polymer-peptide-immune agonist nanomedicine that synergizes RT with immunotherapy.
+This nanoplatform employs a poly (

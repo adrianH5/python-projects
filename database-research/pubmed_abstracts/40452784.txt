@@ -1,0 +1,4 @@
+The hypoxic tumor microenvironment (TME) significantly impacts the effectiveness of various therapies on breast cancer.
+Conventional chemotherapeutic agents are unable to target hypoxic tumor tissue specifically, leading to reduced treatment efficacy and severe systemic toxicity.
+In order to improve drug targeting ability, we developed a bioactive biomotors system (MDPP@Bif) for chemoimmunotherapy against breast cancer.
+Utilizing the self-driving properties of the anaerobic

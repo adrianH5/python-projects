@@ -1,0 +1,4 @@
+Myxoid liposarcomas (MLS) are rare malignant mesenchymal tumors characterized by specific translocations t(12;16) and t(12;22) with limited additional driver mutations, most notably in PIK3CA and the TERT promoter.
+PIK3CA is considered a promising therapeutic target.
+However, effective treatments require the uniform presence of mutation throughout the tumor.
+Therefore, this study evaluated intratumoral heterogeneity of driver mutations in MLS.

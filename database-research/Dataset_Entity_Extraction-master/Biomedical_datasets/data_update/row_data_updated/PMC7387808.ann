@@ -1,0 +1,3 @@
+T1	Repository 103 118	ProteomeXchange
+T2	AccessionNumber 139 148	PXD019803
+R1	hasAttr	Arg1:T1	Arg2:T2

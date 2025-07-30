@@ -1,0 +1,7 @@
+This study aimed to develop a self-facilitating PEGylated liposomal system co-delivering ceritinib (anticancer) and telmisartan (antifibrotic) to overcome the extracellular matrix (ECM) barrier limiting therapeutic efficacy in solid tumors.
+Dual drug-loaded liposomes were prepared by thin film hydration using an optimized 1,2-dipalmitoyl-sn-glycero-3-phosphocholine (DPPC):cholesterol:1,2-distearoyl-sn-glycero-3-phosphoethanolamine-polyethylene glycol 2000 (DSPE-PEG(2000)) ratio (6:1:0.1).
+Formulations were characterized for particle size, zeta potential, drug encapsulation, and release kinetics.
+Physicochemical characteristics were evaluated using differential scanning calorimetry (DSC), powder X-ray diffraction (PXRD), and Fourier transform infrared spectroscopy (FTIR).
+Therapeutic efficacy was assessed in A549 lung cancer cells and A549 xenograft mouse models.
+The optimized formulation exhibited nanoscale dimensions (77.7 ± 3.54 nm) with a zeta potential of -23.9 ± 8.73 mV and high encapsulation efficiencies for ceritinib (69.61 ± 2.30 %) and telmisartan (63.43 ± 1.12 %).
+Drug release followed Korsmeyer-Peppas kinetics (R

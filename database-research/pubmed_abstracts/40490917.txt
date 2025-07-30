@@ -1,0 +1,4 @@
+Hepatocellular carcinoma (HCC) remains a leading cause of cancer-related mortality worldwide, often presenting diagnostic challenges in patients with underlying liver cirrhosis (CIRR).
+In this study, we employed both untargeted and targeted analysis of low-abundance serum proteins to identify potential biomarkers for HCC.
+In the untargeted study, we identified 15 proteins that exhibited statistically significant differential expression in HCC vs CIRR.
+In the targeted study, we confirmed differential expression of retinol-binding protein 4 (

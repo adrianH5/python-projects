@@ -1,0 +1,7 @@
+Bipolar disorder (BD) is a highly heritable mental disorder that affects millions of people worldwide.
+Our understanding of the genetic etiology and biological processes underlying BD have greatly increased in recent years.
+Extensive progress has been made in identifying common variant signal for BD, and the PGS from the latest GWAS may provide some clinical utility if combined with other risk factors for BD.
+The role of rare variation in bipolar disorder remains to be determined, although genes annotated to common variant loci are shown to be enriched for rare variation.
+BD subtypes are shown to differ in their genetic architecture, and as such, genetic studies across the subtypes of the BD spectrum will identify subtype-specific signals and reveal subtype-specific biological mechanisms.
+Despite this, subtype-specific GWAS sample sizes have not increased at the same rate as BD cases and more concerted efforts are required to obtain this information for participants included in future BD GWAS studies.
+Moreover, assessment of culture, geography and other systematic differences that might impact patient assessment will be necessary to ensure accurate inclusion of diverse ancestral groups and global representation in genetic studies of BD moving forward.

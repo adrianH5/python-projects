@@ -1,0 +1,3 @@
+The 22-gene Decipher genomic classifier (GC) (22-gene GC) is the only gene expression test with National Comprehensive Cancer Network (NCCN) level 1 evidence for localized prostate cancer (PCa) treatment decision making.
+It is unclear whether other commercial signatures-Genomic Prostate Score (GPS) or Prolaris (cell cycle progression [CCP])-correlate sufficiently to explain differences in evidence strength.
+This study assesses correlation between these three classifiers on a per-patient basis by performing a cross-comparison of these signatures in a large cohort of patients diagnosed with PCa.

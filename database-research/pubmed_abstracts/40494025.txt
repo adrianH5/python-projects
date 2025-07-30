@@ -1,0 +1,7 @@
+Due to the heterogeneity of the senescent phenotype and the lack of a universal biomarker of senescence, the targeting of senescent cells is still an unresolved challenge, and the elimination of senescent cells using specific drugs (senolytics) is still limited in clinical use due to the off-target effects and associated toxicities of current therapeutic strategies.
+In this study, the induction of senescence in human melanoma cells by palbociclib is found to lead to a senescent phenotype characterized by overexpression of the membrane protein dipeptidyl peptidase 4 (DPP4), previously identified only in ageing contexts.
+Based on this discovery, a nanoparticle targeting DPP4 overexpression in the senescent surfaceome is designed, synthesized, and characterized to target senescent cancer cells.
+The nanoparticle based on mesoporous silica is loaded with the senolytic navitoclax, coated with disulfide-containing poly(ethylene glycol) to generate a redox-sensitive gatekeeper (S-S-PEG), and functionalized with an antibody against the DPP4 protein.
+The ability of the nanoparticles to effectively detect and eliminate senescent cells was confirmed in vitro and in vivo using a mouse model of palbociclib-induced senescent in melanoma.
+The DPP4-targeted nanoparticle effectively reduces tumor growth and selectively removes senescent cells.
+Taken together, this study highlights the potential of surfaceome-targeted nanoparticles, as a clinically relevant strategy for improving senolytic therapies.

@@ -1,0 +1,11 @@
+The dysregulated expression of human endogenous retrovirus K (HERV-K) has been found in many types of tumors.
+Previously, we demonstrated the concomitant expression of HERVs and embryonic genes in cancer cells with aggressive and stemness features.
+In the field of onco-hematology some studies describe alterations of HERVs expression in chronic lymphocytic leukemia (CLL), the most common adult leukemia in the Western world.
+Despite numerous achievements in CLL clinical research, given the heterogeneity of the disease and the different treatment choices, the identification of new biomarkers for patient management is needed.
+On this basis, the work aimed to evaluate the HERVs and embryonic genes expression as novel combined biomarkers in CLL, and their potential association with clinical features and therapy regimens.
+Peripheral blood mononuclear cells were isolated from 49 healthy donors (HDs) and 74 CLL patients, evaluating their treatment regimen.
+The expression of different HERVs and embryonic genes were analyzed by Real-Time PCR.
+The molecular analysis showed higher expression of HERVs and embryonic genes in patients compared with HDs, differently expressed according to treatment status.
+Using Principal Component Analysis, we found HERVs and embryonic genes complex expression profiles associated with CLL and different treatment regimens.
+In ibrutinib-treated patients, HERVs were found to be associated with unfavorable prognostic factors of CLL.
+These findings, although to be confirmed in larger series of patients, highlight the interconnection between HERVs and embryonic genes in CLL, suggesting their use as potential new biomarkers in monitoring innovative treatments.

@@ -1,0 +1,10 @@
+Kinase fusion genes were the most targeted fusion gene group among multiple major cellular gene groups.
+Kinase inhibitors disrupt aberrant signaling cascades and inhibit tumor progression, yet the specific mechanisms of action of the U.S. Food and Drug Administration (FDA)-approved inhibitors in the context of kinase fusion oncoproteins remain largely unknown.
+This gap limits our ability to develop personalized therapies and next-generation kinase inhibitors.
+To address this, we developed a novel in silico pipeline for predicting 3D structures of kinase fusion proteins and performing structure-based virtual screening.
+This approach enables large-scale structural annotation and drug screening across pan-cancer kinase fusions.
+We present KinaseFusionDB, available at https://compbio.uth.edu/KinaseFusionDB, a comprehensive knowledgebase providing functional annotation of 7680 kinase fusion genes, 1399 predicted fusion protein structures, predicted Local Distance Difference Test (pLDDT)-based confidence scoring, and virtual screening data using FDA-approved kinase inhibitors.
+Our analysis revealed that most predicted structures showed high pLDDT scores (pLDDT >70) within conserved kinase domains.
+Structural alignment with known Protein Data Banks demonstrated shared structural motifs despite variation in fusion breakpoints.
+Virtual screening results highlighted repurposing opportunities and isoform-specific binding preferences.
+KinaseFusionDB is a valuable resource for investigating kinase fusion structure-function relationships and guiding the design of personalized and next-generation kinase inhibitor therapies.

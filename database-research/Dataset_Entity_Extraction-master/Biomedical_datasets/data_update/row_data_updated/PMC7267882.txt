@@ -1,0 +1,14 @@
+Nidoviruses are a group of lipid-enveloped viruses with nonsegmented RNA genomes and are known to infect animals, including molluscs, arthropods, and vertebrates (1), and apparently also the oomycete Plasmopara (NCBI taxonomy ID 2692091).
+Recently, a novel coronavirus (SARS-CoV-2) was identified as the causative agent of coronavirus disease 2019 (COVID-19), a severe respiratory disease that has been infecting humans since late 2019 (6, 7).
+COVID-19 presents itself with an incubation period ranging from 1 to 24 days followed by the potential development of a constellation of symptoms, including fever, dry cough, fatigue, diarrhea, myalgia, lymphopenia, dyspnea, and bilateral ground-glass opacities in the lungs (10–12).
+In most moribund patients, COVID-19 is accompanied by an inflammatory cytokine storm (12), which suggests that virus-induced immunopathological events may play a role in the development of disease severity.
+Finally, COVID-19’s ability to be transmitted during asymptomatic stages (14) makes prevention challenging.
+The similarity plot of SARS-CoV-2-related CoVs compared to the human SARS-CoV-2 Wuhan-Hu-1 genome (GenBank accession no. NC_045512.2) is drawn based on a multiple-sequence alignment of the whole genomes.
+For the NCBI accession numbers, refer to the Table S2.
+Consistent with this prediction of being at the interface of a virus-host interaction, several polymorphisms have been reported in the ORF8 region of the genome both over the course of the SARS epidemic and during the current COVID-19 pandemic.
+Remarkably, a recent study of patients in Singapore pointed to a 382-nt deletion in SARS-CoV-2 (48), suggesting parallel disruption of this gene during the COVID-19 pandemic.
+We retrieved the SARS-CoV-2-related CoV genomes by searching against the nonredundant (nr) nucleotide database of the National Center for Biotechnology Information (NCBI) with the SARS-CoV-2 genome sequence (GenBank accession no.
+To collect protein homologs, iterative sequence profile searches were conducted by the programs PSI-BLAST (position-specific iterated BLAST) (35) and JACKHMMER (51), which searched against the nonredundant (nr) protein database of NCBI, with a cutoff E value of 0.005 serving as the significance threshold.
+By using the HHsearch program (56), we searched with several candidate Ig domains against the Pfam domain database (34), which generated a collection of distinct Ig domains.
+The ongoing COVID-19 pandemic strongly emphasizes the need for a more complete understanding of the biology and pathogenesis of its causative agent SARS-CoV-2.
+A novel coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), was recently identified as the causative agent for the coronavirus disease 2019 (COVID-19) outbreak that has generated a global health crisis.

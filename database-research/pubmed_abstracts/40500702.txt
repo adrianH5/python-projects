@@ -1,0 +1,11 @@
+Radiotherapy (RT) remains a cornerstone treatment for over 50% of cancer patients, primarily via ionizing radiation-induced DNA damage to exert therapeutic effects.
+Notably, emerging studies have revealed its additional capacity to activate systemic anti-tumor immune responses through inducing immunogenic cell death (ICD) and activating the cGAS-STING pathway, further expanding its therapeutic potential.
+However, its efficacy is often limited by immunosuppressive tumor microenvironment (TME).
+Additionally, while RT can activate the cGAS-STING pathway, this activation remains transient and suboptimal, failing to sustain robust anti-tumor immunity.
+Therefore, combining RT with STING agonists may benefit traditional therapy by amplifing tumor immunogenicity and counteracting immune evasion.
+Despite promising results, challenges such as off-target toxicity, poor cell membrane permeability and poor bioavailability, remain obstacles to clinical translation of conventional STING agonists.
+Nanomedicine offers a promising approach by enabling targeted delivery of STING agonists and amplifying RT-induced DNA damage through nanoscale radiosensitizers.
+In this review, we provide a detailed discussion of the immune-stimulatory and immune-suppressive effects of RT, as well as the mechanisms and biological effects of selectively activating the cGAS-STING pathway in key TME components.
+On this basis, we further explore recent advancements in nano-STING agonists-mediated anti-tumor immunity in synergy with RT.
+This combinatorial approach achieves dual radiosensitization and immunostimulation, ultimately driving immune memory formation and TME reprogramming.
+Finally, the application prospects and challenges of nano-STING agonists-based immunotherapy are also discussed from the perspective of clinical translation.

@@ -1,0 +1,8 @@
+Breast cancer, a leading global health threat with rising incidence, demands precision medicine guided by molecular subtyping.
+ADGRV1, an adhesion G protein-coupled receptor gene implicated in tumorigenesis but unexplored in breast cancer, was investigated using TCGA data (1,231 cases) and a local cohort (408 cases).
+While ADGRV1 showed no differential expression between tumors and normal tissues (P = 0.210), it was significantly downregulated in basal-like subtypes (P < 0.001).
+The association between high ADGRV1 expression and poor prognosis remains significant in the overall cohort as well as within individual molecular subtype.
+Functional enrichment analyses linked ADGRV1 to ribosome suppression, ECM remodeling (positive ECM-receptor interaction), and immunosuppression (negative immune pathway regulation), suggesting its role in tumor metastasis.
+Drug sensitivity assays demonstrated ADGRV1-high tumors confer resistance to lapatinib, gemcitabine, and 5-fluorouracil, particularly in LumB subtypes.
+Mechanistically, copy number variations and promoter methylation (Pearson r =-0.45, P < 0.001) regulated ADGRV1 expression, with basal-like tumors showing hypermethylation-associated suppression.
+These findings position ADGRV1 as a prognostic biomarker and potential therapeutic target, highlighting its dual role in tumor microenvironment modulation and drug resistance.

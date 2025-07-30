@@ -1,0 +1,9 @@
+Cancer continues to be a significant international health issue, which demands the invention of new methods for early detection, precise diagnoses, and personalized treatments.
+Artificial intelligence (AI) has rapidly become a groundbreaking component in the modern era of oncology, offering sophisticated tools across the range of cancer care.
+In this review, we performed a systematic survey of the current status of AI technologies used for cancer diagnoses and therapeutic approaches.
+We discuss AI-facilitated imaging diagnostics using a range of modalities such as computed tomography, magnetic resonance imaging, positron emission tomography, ultrasound, and digital pathology, highlighting the growing role of deep learning in detecting early-stage cancers.
+We also explore applications of AI in genomics and biomarker discovery, liquid biopsies, and non-invasive diagnoses.
+In therapeutic interventions, AI-based clinical decision support systems, individualized treatment planning, and AI-facilitated drug discovery are transforming precision cancer therapies.
+The review also evaluates the effects of AI on radiation therapy, robotic surgery, and patient management, including survival predictions, remote monitoring, and AI-facilitated clinical trials.
+Finally, we discuss important challenges such as data privacy, interpretability, and regulatory issues, and recommend future directions that involve the use of federated learning, synthetic biology, and quantum-boosted AI.
+This review highlights the groundbreaking potential of AI to revolutionize cancer care by making diagnostics, treatments, and patient management more precise, efficient, and personalized.

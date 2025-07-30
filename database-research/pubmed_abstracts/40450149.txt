@@ -1,0 +1,18 @@
+Pituitary adenomas (PAs) represent a prevalent category of intracranial tumors, frequently resulting in endocrine dysfunction and neurological impairments.
+Transsphenoidal surgery (TSS) serves as the primary treatment modality, with the endoscopic transsphenoidal approach (ETSA) and microscopic transsphenoidal approach (MTSA) representing the two principal techniques.
+This systematic review and meta-analysis aimed to assess and compare the outcomes of ETSA and MTSA in treating PAs.
+A literature search was performed across PubMed, Scopus, Web of Science, and Cochrane Library.
+A total of 31 studies comprising 38,301 patients were included.
+The primary outcomes assessed were gross total resection (GTR) and cerebrospinal fluid (CSF) leak rates.
+Secondary outcomes encompass endocrine and surgical complications and mortality rates.
+Statistical analyses utilized R software, employing random-effects models.
+The analysis indicated insignificant differences in GTR rates between ETSA and MTSA (RR: 1.05, 95% CI [0.97, 1.15]) or in CSF leak rates (RR: 1.03, 95% CI [0.82, 1.31]).
+Meta-regression analysis revealed that nonfunctional tumors correlated with increased GTR rates, regardless of the surgical technique employed.
+No notable differences were detected in endocrine or surgical complications between the two methods.
+Notably, meta-regression analysis indicated that nonfunctional tumors and higher Knosp grade tumors are more likely to be completely resected.
+Moreover, larger preoperative tumor volume was significantly correlated with an increased risk of postoperative hypopituitarism.
+Nevertheless, a narrative review of total mortality demonstrated a higher rate in the MTSA group compared to the ETSA group (198 vs. 149 deaths), even with a larger patient cohort in the ETSA group.
+No publication bias was observed for GTR or CSF leak outcomes.
+ETSA and MTSA exhibit similar efficacy and safety profiles in treating PAs, with no significant differences in resection rates or complications.
+The findings highlight the necessity of personalized surgical planning, considering tumor characteristics and institutional expertise.
+Future research should prioritize long-term outcomes, patient-reported metrics, and the incorporation of emerging technologies to enhance surgical strategies for PAs.

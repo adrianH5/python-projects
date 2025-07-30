@@ -1,0 +1,10 @@
+Nasopharyngeal carcinoma (NPC) is a unique cancer type originating from the nasopharynx.
+To investigate novel strategies for improving prognosis and reducing the adverse effects of current treatments, this study examined the efficacy of hellebrigenin.
+Hellebrigenin demonstrated selective cytotoxicity against NPC-BM and NPC-039 cell lines without harming normal nasopharyngeal cells.
+Treatment with hellebrigenin resulted in G2/M cell cycle arrest in both NPC cell lines.
+The apoptotic phenomena induced by hellebrigenin included chromatin condensation, increased apoptotic cells and altered mitochondrial membrane potential.
+Proteomics analysis and the bioinformatic data identified coiled-coil-helix-coiled-coil-helix domain containing 2 (CHCHD2) as a candidate oncogene in NPC.
+Moreover, the combination of CHCHD2 siRNA, CHCHD2 plasmid and hellebrigenin pointed out that CHCHD2 could be a critical mediator of hellebrigenin-induced apoptosis.
+The combined treatment of hellebrigenin with mitogen-activated protein kinase inhibitors revealed the involvement of the extracellular signal-regulated kinases and c-Jun N-terminal kinases pathways in hellebrigenin-induced apoptosis in NPC cells.
+In vivo studies demonstrated that hellebrigenin suppressed the tumour volume without affecting body weight, accompanied by the downregulation of Ki67 and CHCHD2 expression.
+In conclusion, this study provides evidence that hellebrigenin induces NPC apoptosis through regulating CHCHD2 both in vitro and in vivo.

@@ -1,0 +1,4 @@
+The ethical challenges of artificial intelligence (AI) in health require guardrails to mitigate and address them including: regulation, practice standards, duty of care, training and professional development for those using AI in clinical care.
+A key safeguard for AI in clinical care will be the medical workforce.
+This article illustrates a pathway for the Australian medical workforce to upskill to use AI safely and ethically stemming from existing regulatory requirements and professional duties.
+As AI applications become more widespread, medical and other health care practitioners must become competent users of these technologies in patient care.

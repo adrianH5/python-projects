@@ -1,0 +1,9 @@
+This study examines the relationship between fear of cancer progression and depression in patients with cancer, emphasizing whether psychological inflexibility and cancer-related dysfunctional beliefs about sleep mediate this relationship.
+We retrospectively reviewed medical records from 170 patients with cancer who visited a Stress Management Clinic between September 2022 and August 2023.
+Collected data included demographic information and responses to self-reported rating scales, including the Action and Acceptance Questionnaire-II (AAQ-II), Fear of Progression Questionnaire-Short Form (FoP-Q-SF), Patient Health Questionnaire-9 (PHQ-9), State subcategory of the State-Trait Anxiety Inventory (STAI-S), Insomnia Severity Index (ISI), and Cancer-related Dysfunctional Beliefs about Sleep scale (C-DBS).
+Pearson's correlation, linear regression, and mediation analyses were performed.
+Higher FoP-Q-SF scores were significantly correlated with elevated PHQ-9 (r = 0.56), STAI-S (r = 0.17), ISI (r = 0.21), C-DBS (r = 0.34), and AAQ-II (r = 0.53) scores.
+Linear regression analysis showed that FoP-Q-SF scores were significantly associated with younger age (β = -0.25, p < 0.001), higher depression levels (PHQ-9; β = 0.35, p < 0.001), stronger cancer-related dysfunctional beliefs about sleep (C-DBS; β = 0.20, p = 0.002), and greater psychological instability (AAQ-II; β = 0.24, p = 0.002).
+Mediation analysis indicated that depression directly influenced fear of progression.
+Furthermore, psychological inflexibility and cancer-related dysfunctional beliefs about sleep partially mediated the relationship between depression and fear of progression.
+Psychological inflexibility and cancer-related dysfunctional beliefs about sleep mediate the relationship between depression and fear of cancer progression in patients with cancer.

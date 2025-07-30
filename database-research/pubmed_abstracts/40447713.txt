@@ -1,0 +1,8 @@
+Nanotechnology and information communication technology (ICT) are being combined to develop innovative drug delivery systems for targeted sites, such as tumor cells.
+The particulate targeted drug delivery (PTDD) system involves drugs containing nanoparticles embedded in nanoscale devices (referred to as bio-nanomachines) that can cross vascular barriers, resulting in an increased concentration of the drug in the targeted cell or tumor.
+An artificial intelligence bio-cyber interface (AIBCI) operates in both forward and reverse directions, enabling the transfer or control of a desired drug dose without affecting healthy cells, facilitated by the Internet of Biological Nano Things (IoBNT).
+This paper proposes a multi-compartmental model with an AI bio-cyber interface based on molecular communication technology.
+The proposed model is formulated as a set of multi-differential equations designed to identify molecular communication-based bio-nanomachines, enabling the quantification of drug concentration at the targeted cell.
+Unlike conventional compartmental models, the present model is designed to connect both the exterior and interior of the human body.
+The results suggest that the model has the potential to improve the capacity of target cells to respond to therapeutic drugs while reducing adverse effects on healthy cells.
+The intra-body nanonetwork proposed in the present study proved superior performance in magnetifying the drug concentrations in diseased cells.

@@ -1,0 +1,10 @@
+Aberrant activation and overexpression of the epidermal growth factor receptor (EGFR) occurs in various solid cancers and often correlates with poor outcome.
+The clinical benefit from EGFR-targeted therapies is usually short-lived, with resistance being driven by tumor heterogeneity and an immunosuppressive tumor microenvironment (TME).
+To address these limitations, we developed Targeted Apoptotic Immune Modulators (TAIM), a nonviral nanoparticle platform for the targeted delivery of polyinosine:polycytosine (polyIC), to simultaneously induce tumor cell death and activate antitumor immunity.
+The first TAIM compound, TAR001, was designed as a systemic treatment against metastatic EGFR-positive solid cancers.
+Here, we present TAR001's multifaceted mode of action.
+We demonstrate that TAR001 is selective toward EGFR-overexpressing cancers, provoking a pattern recognition response, apoptosis, cytokine secretion, and antitumor immunity.
+TAR001 modulates the TME, recruiting and activating both innate and adaptive immune cells.
+Systemic delivery of TAR001 markedly extends survival and inhibits tumor growth in multiple murine tumor models.
+TAR001 represents an innovative, safe, multimodal treatment approach with the potential to benefit patients with metastatic head and neck, non-small cell lung cancer, colorectal, renal, and triple-negative breast cancers.
+This unique modality utilizes a broad range of mechanisms to overcome the tumor's ability to escape apoptosis and immune cell activation.

@@ -1,0 +1,8 @@
+Genome instability is a hallmark of cancer that can be caused by DNA replication stress.
+Copy number variation (CNV) is a type of genomic instability that has been associated with both tumorigenesis and drug resistance, but how these structural variants form in response to replication stress is not fully understood.
+Here, we established a direct repeat genetic reporter in Saccharomyces cerevisiae to detect recombination events that result in either a duplication or a deletion.
+Using this system, we measured recombination resulting from site-specific replication fork stalling initiated by Tus binding to an array of Ter sites.
+We found that a Tus/Ter fork block downstream of direct repeats induced CNV by a mechanism involving the Mph1 translocase, Exo1-catalyzed end resection and Rad51-dependent strand invasion.
+While the Slx4 scaffold protein and its nuclease-binding partner, Rad1-Rad10, were shown to be required for duplications, we found that they suppress deletion formation in this context.
+These opposing functions suggest that both recombination products arise through a large loop heteroduplex intermediate that is cleaved by Rad1-Rad10 in a manner that promotes duplications and eliminates deletions.
+Taken together, these studies give insight into the mechanisms governing CNV in the context of replication fork stalling, which may ultimately provide a better understanding of how replication stress contributes to cancer and other diseases characterized by genome instability.

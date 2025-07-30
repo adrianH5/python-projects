@@ -1,0 +1,7 @@
+Disulfide bond modification is critical in maintaining protein structure and activity, but its roles in regulating tumor stemness and chemoresistance remain underexplored.
+Here, Quiescin Sulfhydryl Oxidase 2 (QSOX2) is identified, a protein involved in disulfide bond formation, is highly expressed in esophageal squamous cell carcinoma (ESCC), and is associated with poor patient prognosis.
+Functional analyses demonstrated that QSOX2 overexpression markedly potentiated tumor stemness and further promoted chemoresistance, proliferation, and metastasis of ESCC cells.
+Mechanistically, QSOX2 enhances disulfide bond formation in TSC Complex Subunit 2 (TSC2), stabilizing TSC2-Akt interactions, facilitating phosphorylation of TSC2 at the Ser939 by Akt, and further activating mTOR/4E-BP1/c-Myc signaling axis.
+Intriguingly, cancer-associated fibroblasts-secreted IGF-1 upregulates QSOX2 expression via IGF1R/Akt/mTOR/c-Myc pathway, establishing a positive feedback loop that sustains ESCC cell stemness.
+Targeting QSOX2 with Ebselen, in combination with mTOR inhibitor Rapamycin and chemotherapy, effectively downregulates c-Myc expression and induces tumor dormancy in a mouse xenograft model.
+Therefore, the findings reveal that QSOX2-mediated disulfide bond modification enhances tumor stemness by activating mTOR signaling, highlighting a promising therapeutic target in ESCC.

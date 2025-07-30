@@ -1,0 +1,13 @@
+The outbreak of COVID-19 caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has gradually expanded to pandemic (Wang et al., 2020a; World Health Organization, 2020b), due to the strong infectivity of the virus.
+In order to extend the cell-based data to tissue-specific mode, we collected population-based proteomic datasets, from human lung (Mertins et al., 2018), colon (Vasaikar et al., 2019), kidney (Clark et al., 2019), liver (Gao et al., 2019), and heart (Doll et al., 2017).
+The first four datasets are from the National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC), which include various normal tissues.
+First, we checked RNA and antibody-based protein data for three receptors and TMPRSS2, from a variety of tissues in the Human Protein Atlas (HPA) database (https://www.proteinatlas.org/).
+Then, we collected mass spectrometry-based proteomic data of normal tissues of four organs from CPTAC database and a set of data of normal heart (Doll et al., 2017), including two parts, respectively, from cavities and vessels.
+The correlation between each two proteins across individuals in each dataset was used as the weight of the edge.
+According to the threshold that we set, TMPRSS2 is not associated with the three receptors in the String database and TMPRSS2 is not found in two tissues of the heart.
+Next, we extracted 45 upregulated proteins in host cells affected by 24-h SARS-CoV-2 infection from a recently reported dataset (Bojkova et al., 2020).
+There are also interactions between the nodes obtained from the two datasets.
+The data downloaded from CPTAC database provide relative protein abundance by sample.
+For patients with COVID-19 caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the damages to multiple organs have been clinically observed.
+Based on collected proteomic datasets from human lung, colon, kidney, liver, and heart, we constructed a virus-receptor network, a virus-interaction network, and a virus-perturbation network.
+The present analysis implies that SARS-CoV-2 could affect multi-targets in diverse host tissues, and the treatment of COVID-19 would be a complex task.

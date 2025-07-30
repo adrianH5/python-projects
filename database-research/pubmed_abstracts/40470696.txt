@@ -1,0 +1,7 @@
+Castration-resistant prostate cancer (CRPC) remains the leading cause of mortality among prostate cancer patients.
+While second-generation androgen receptor (AR) pathway-targeted therapies, such as Abiraterone, have significantly improved survival outcomes, resistance to these treatments ultimately emerges, posing a critical challenge.
+Understanding the mechanisms underlying Abiraterone resistance is essential for developing strategies to enhance patient outcomes.
+In this study, a super-enhancer (SE)-driven transcriptional regulatory circuit is identified involving BCL6, NFIB, and SMAD3 that facilitates Abiraterone resistance in CRPC.
+Through comprehensive analyses of SE expression profiles in Abiraterone-resistant CRPC cells and their parental counterparts, it is revealed that this circuit plays a pivotal role in resistance progression.
+Mechanistically, BCL6, NFIB, and SMAD3 synergistically remodel the transcriptional landscape of resistant CRPC cells, driving resistance by regulating cholesterol biosynthesis and cell cycle pathways.
+The findings provide critical insights into the transcriptional dysregulation underlying Abiraterone resistance and highlight potential therapeutic strategies to counteract treatment resistance in CRPC, ultimately aiming to improve patient survival and quality of life.

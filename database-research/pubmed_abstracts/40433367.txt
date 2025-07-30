@@ -1,0 +1,3 @@
+Ferroptosis is an iron-dependent form of regulated cell death associated with cancer.
+However, the characteristics of ferroptosis in small cell lung cancer (SCLC) are still uncertain.
+This study aimed to explore the application value of ferroptosis-related genes (FRGs) classification in prognosis and characteristics prediction to provide clues for targeted SCLC therapy.

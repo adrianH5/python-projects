@@ -1,0 +1,3 @@
+Single-cell analysis of phenotypic plasticity could improve the development of more effective therapeutics.
+Still, the development of tools to measure single-cell heterogeneity has lagged due to difficulties in manipulating and culturing single cells.
+Here, we describe a single-cell culture and phenotyping platform that employs a starburst microfluidic network and automatic liquid handling system to capture single cells for long-term culture and multi-dimensional analysis and quantify their clonal properties

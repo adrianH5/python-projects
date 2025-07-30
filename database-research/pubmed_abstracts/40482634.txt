@@ -1,0 +1,3 @@
+Here, we report the establishment of a human induced pluripotent stem cell (hiPSC) line TUR-STAB1-B1 derived from peripheral blood mononuclear cells of a patient carrying heterozygous mutations 52,509,890 C>A 790L>I and 52,520,515 G>A 1872R>H on STAB1 gene in addition to a normal control cell line TUR-B1.
+The pluripotency, identity, quality, safety, and sequence of the mutation sites of the cell lines were confirmed.
+The generated patient-specific cell line will facilitate detailed studies of the STAB1 in various differentiated cell types.

@@ -1,0 +1,5 @@
+Cancer progression involves loss of differentiation and acquisition of stem cell-like traits, broadly referred to as "stemness".
+Here, we test whether the level of stemness, assessed by a transcriptome-derived Stemness score, can quantitatively track prostate cancer (PCa) development, progression, therapy resistance, metastasis, plasticity, and patient survival.
+Integrative analysis of transcriptomic data from 87,183 samples across 26 datasets reveals a progressive increase in Stemness and decline in pro-differentiation androgen receptor activity (AR-A) along the PCa continuum, with metastatic castration-resistant PCa (mCRPC) exhibiting the highest Stemness and lowest AR-A.
+Both the general Stemness score and a newly developed 12-gene "PCa-Stem Signature" correlate with and predict poor clinical outcomes.
+Mechanistically, increased AR-A may promote Stemness in early-stage PCa while

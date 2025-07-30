@@ -1,0 +1,6 @@
+Nowadays, the discovery of active anticancer agents has become urgent research due to the high mortality of cancer patients.
+Herein, we designed some chlorinated hydroxyxanthones to examine the effect of the presence and position of the chloro group on the inhibitory activity of the PDGFR.
+The molecular docking reveals that 5-chloro-1-hydroxyxanthone (5Cl) exhibited the strongest binding energy (-7.95 kcal/mol) against PDGFR.
+The molecular dynamic simulation results demonstrated a high stability of the 5Cl-PDGFR complex as revealed by the average RMSD (0.37 ± 0.15 Å) and RMSF (0.83 ± 0.64 Å), and two maintained hydrogen bonds with Cys673 through hydroxyl and carbonyl groups with an average bond distance of 2.29 ± 0.54 and 2.49 ± 0.64 Å, respectively.
+Afterward, 5Cl and other chlorinated hydroxyxanthones were synthesized in a one-pot reaction with a 15.1-25.2% yield.
+From the in vitro experiment, 5Cl exhibited the lowest IC

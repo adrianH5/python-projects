@@ -1,0 +1,7 @@
+Although the programmed cell death protein 1 (PD-1) blockade has been authorized for the treatment of recurrent and metastatic cervical cancer (CC) patients, a significant proportion of CC patients show low objective response rates (ORR) to immune checkpoint blockades (ICBs).
+Therefore, identifying novel combination treatment strategies to enhance ICBs therapeutic efficacy for CC patients is urgently needed.
+Here, we discovered that CD39 was highly expressed in exhausted CD8 + T cells from 10 CC patients in our center via single-cell RNA sequencing (scRNA-seq).
+Furthermore, we validated that CC patients with CD39 highly expressed in CD8 + T cells associated with poor prognosis and immunoevasive subtype of CC both in cohort from our center and the Cancer Genome Atlas (TCGA) database.
+Moreover, it was also confirmed that CD39-inhibiting not only enhanced the cytotoxicity of CD8 + tumor-infiltrating lymphocytes (TILs) but also promoted the infiltration of B cells through increasing CXCL13 secretion both in vitro experiments and subcutaneous tumor models, thereby amplifying anti-tumor immunity of PD-1 blockade.
+What was more, we have developed a liposome containing POM-1, which effectively enhanced the anti-tumor effect of POM-1.
+Our findings provide compelling evidence that targeting CD39 represents a promising "two birds with one stone" strategy for cervical cancer treatment.

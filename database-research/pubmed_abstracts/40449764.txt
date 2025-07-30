@@ -1,0 +1,10 @@
+Significant financial losses are incurred annually in commercial aquaculture due to the opportunistic pathogen Aeromonas hydrophila outbreaks in warm-water fish species.
+Thus, an appropriate vaccine and an efficient delivery system must be developed to combat such infectious diseases effectively.
+This study focused on developing an outer membrane protein (OMPs)-based nanovaccine employing the double emulsion method, integrating it in a biodegradable polylactic-co-glycolic acid (PLGA) polymer.
+The resultant nanoparticle, carrying the recombinant protein Omp23 (rOmp23), had a size of 346.5 nm, an impressive 74.45 % encapsulation efficiency, and a polydispersity index of 0.318.
+Additionally, the spherical shape of the PLGA-Omp23 nanoparticles was confirmed by scanning electron microscope.
+Further, to evaluate their in vivo efficacy, tilapia fish were administered the vaccine-incorporated feed orally for 21 days post-challenge with the target pathogen.
+Cytokine expression levels were monitored at intervals to track the activation of targeted immune genes and to assess nonspecific immune response parameters.
+The obtained relative percentage survival of 73 %, highlighted the therapeutic promise of the PLGA-encapsulated OMP-based nanovaccine.
+This study demonstrates the utility of nanoparticle system designed to encapsulate the outer membrane protein as a potential oral fish vaccine for infectious diseases.
+This strategy could be an efficient, cost-effective, and least stressful mode of vaccination to manage infectious diseases.

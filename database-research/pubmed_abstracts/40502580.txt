@@ -1,0 +1,11 @@
+Improving early cancer detection would have a transformative effect on patient survival and associated societal costs.
+Ideally, this would involve tests that are minimally invasive, cancer-type specific and provide mechanistic insights.
+To address this need, we analyzed associations between 7,523 human serum proteins and 13 cancer types in 5,376 participants from the prospective, population-based AGES Reykjavik cohort.
+The study included 1,235 cancer cases spanning the digestive, genitourinary, respiratory, and female reproductive systems, as well as skin cancer.
+The analysis was conducted both longitudinally and cross-sectionally, with adjustments made for various well-established cancer risk factors.
+After accounting for age, sex, clinical, and lifestyle factors, 526 serum proteins were significantly associated with either prevalent (diagnosed prior to blood draw) or incident (diagnosed after blood draw) clinical presentation of the various types of cancer.
+Additionally, 776 circulating proteins were influenced by known genetic risk loci for various cancers, including 114 of the 526 mentioned above.
+Some serum protein associations were shared across cancer types, both prevalent and incident, as well as with genetic susceptibility loci.
+To contextualize these findings, we integrated our results with both internal and external datasets, including known cancer genes, germline genetic risk loci, tumor- and tissue-specific expression profiles, oncogenes and tumor suppressor genes, and circulating protein networks.
+This integrative analysis highlights distinct functional categories of protein involvement and reveals the complex and specific etiology of cancer.
+These findings support the potential for population-level surveillance, early cancer detection, and molecular insights into tumorigenesis.

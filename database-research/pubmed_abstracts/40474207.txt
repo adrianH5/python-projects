@@ -1,0 +1,11 @@
+Accurately identification of cyclin-dependent kinase inhibitor 2A (CDKN2A) status is of paramount important, as it has been reported as an unfavorable prognostic biomarker in diffuse gliomas, both IDH-mutant and IDH-wild type.
+Various methods are available for identifying CDKN2A deletion, with fluorescent in situ hybridization (FISH) being the most used.
+However, there is currently no established threshold for identifying CDKN2A homozygous and heterozygous deletions using FISH.
+Herein, we retrospectively collected formalin-fixed, paraffin-embedded tissue samples from 100 patients with diffuse gliomas, and DNA-based next-generation sequencing (NGS), FISH, immunohistochemistry (IHC)-p16, and IHC-methylthioadenosine phosphorylase (MTAP) were used to assess the CDKN2A status.
+The correlations and consistency of CDKN2A status identification across different platforms were compared, and inconsistencies and potential reasons were analyzed.. Our findings revealed a relatively high accuracy between FISH- and NGS-assessment results for CDKN2A deletion status, with an AUC value 0.937 for assessing homozygous deletion and an AUC value of 0.980 for assessment deletion overall.
+However, each detection method has its own advantages and limitations.
+Therefore, a precise detection scheme is crucial for accurately assessing of CDKN2A deletion status.
+Finally, we analyzed the clinical significance of CDKN2A status.
+In conclusion, our study utilized four platforms to comprehensively assess the status of CDKN2A in gliomas and evaluated the performance of each platform.
+We established cutoff values of FISH to confirm CDKN2A status.
+Our findings propose methodological guidance for detection of CDKN2A deletion status in different scenarios and provide valuable insights and references for different clinical methodologies used to detect and determine CDKN2A status.

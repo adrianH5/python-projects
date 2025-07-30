@@ -1,0 +1,4 @@
+Murine double minute 2 (MDM2) is an oncogene that plays a crucial role in regulating the activity of the tumor suppressor protein p53.
+By binding to p53, MDM2 promotes its degradation, thus promoting the malignant proliferation.
+The MDM2-p53 interaction has thus generated interest as a therapeutic target, particularly in some sarcomas characterized by the amplification of the MDM2 gene.
+In this manuscript, we provide an overview of the current and emerging targeted therapies for MDM2-amplified sarcomas.

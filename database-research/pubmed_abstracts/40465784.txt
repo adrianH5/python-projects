@@ -1,0 +1,6 @@
+Hybrid-capture based target enrichment and multiplex PCR methods enhance sequencing efficiency by focusing on specific genomic regions, while struggling to enrich tens of regions spanning hundreds to thousands of base pairs.
+We developed MAGNET-seq (Multiplex Amplification and tarGeted eNrichment of sElecTed sequences), a streamlined method that integrates targeted multiplex PCR with hybrid capture.
+We evaluated its performance using two primer sets: a Drug Resistance Targeting Primers with 43 targets and a Reference Primers set with 7 targets, including clinically relevant mutations such as EGFR c.2369C > T (p.T790M) and KRAS c.35G > T (p.G12C).
+Using a set of 43 target primers, MAGNET-seq demonstrated higher on-target ratios (average 86.2%) compared to standard targeted multiplex PCR (average 2.2%).
+Furthermore, MAGNET-seq with 7 target primers showed concordant variant allele frequencies (VAF) in low-VAF (≤ 1%) reference cell-free DNA (cfDNA) samples (0.05% to 1%), supporting its reproducibility.
+This approach provides a simplified and cost-efficient solution for targeted sequencing, particularly well-suited for applications that require detection of low-allele frequency variants such as somatic cancer mutations.

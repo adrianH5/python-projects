@@ -1,0 +1,1 @@
+This study aimed to evaluate the changes in physical characteristics when the image reconstruction method, radiation dose, and pitch factor (PF) were varied in low-dose lung cancer CT screening, and to determine the optimal radiation dose and PF for appropriate dose reduction and the usefulness of deep learning reconstruction (DLR).

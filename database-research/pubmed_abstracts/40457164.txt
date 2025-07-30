@@ -1,0 +1,8 @@
+Traditional serological diagnosis can be invasive and uncomfortable, potentially discouraging patients, especially women and children, from seeking diagnosis and treatment.
+In resource-limited, endemic regions, non-invasive diagnostic approaches are highly desirable.
+This study investigated the potential of urine-based ELISA using Schistosoma haematobium soluble egg-based (Sh-SEA) and worm antigen protein (Sh-WAP) for diagnosing urogenital schistosomiasis.
+Urine samples were disaggregated into three groups; 50 laboratory-confirmed S. haematobium-positive individuals, 50 S. haematobium-negative individuals from the endemic area (NE), and 50 non-infected samples from a non-endemic area (NNE) were used for the ELISA immunoassay.
+Diagnostic performance was evaluated using receiver operating characteristic (ROC) curves, sensitivity (SS), and specificity (SP).
+The Sh-SEA ELISA with urine demonstrated superior diagnostic accuracy compared to Sh-WAP in both endemic (AUC = 0.89, SS = 92%, SP = 74%) and non-endemic areas (AUC = 0.77, SS = 80%, SP = 46%).
+Notably, both Sh-SEA and Sh-WAP antibody titers were significantly higher in infected individuals compared to the non-infected samples in both endemic and non-endemic areas (p < 0.0001).
+This study's findings suggest that urine-based ELISA using Sh-SEA and Sh-WAP antigens exhibits promising potential as a non-invasive diagnostic tool for urogenital schistosomiasis, particularly in resource-limited settings.

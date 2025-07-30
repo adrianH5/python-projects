@@ -1,0 +1,8 @@
+Aim This study aimed to evaluate the potential prognostic impact of various clinicopathological factors on survival outcomes in patients with low rectal adenocarcinoma treated with neoadjuvant chemoradiation followed by abdominoperineal resection.
+Methods This retrospective observational cohort study included 174 patients with low rectal adenocarcinoma who were treated and followed up between 2012 and 2019 at the National Cancer Institute - Cairo University.
+Results The median follow-up period was 71.2 months.
+The median disease-free survival (DFS) was 69 months, while the median overall survival (OS) was not reached.
+Multivariate analysis showed that high tumor grade was significantly associated with reduced OS (95% CI: 1.250-7.280; P = 0.014).
+Additionally, a circumferential resection margin (CRM) of ≤1 mm was significantly associated with reduced DFS (95% CI: 1.604-17.818; P = 0.006).
+Conclusions The study found no significant prognostic impact of tumor response to neoadjuvant chemoradiation.
+However, tumor grade and CRM status emerged as potential prognostic factors for survival in this patient population.

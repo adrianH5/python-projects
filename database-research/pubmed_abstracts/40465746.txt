@@ -1,0 +1,16 @@
+Hepatocellular carcinoma (HCC) is a malignant tumor with a high incidence and fatality.
+The occurrence and progression of HCC are tightly linked to ferroptosis, a unique type of cell death.
+To accurately predict the prognosis, immunological traits, treatment sensitivity, and drug prediction for patients with HCC, this work attempts to develop a novel ferroptosis-related gene signature (nFRGs).
+Several machine learning techniques were applied to build the nFRGs model utilizing data from The Cancer Genome Atlas (TCGA) and GSE14520 datasets.
+Different analysis packages in R version 4.4.1 were also used for prognosis analysis, molecular function analysis, somatic mutation analysis, immunotherapy response analysis, immunotherapy evaluation, drug sensitivity analysis, and drug prediction to compare the differences between the low-risk and high-risk groups.
+The nFRGs model includes five ferroptosis-related genes (KIF20A, NT5DC2, G6PD, SLC7A11, and EZH2).
+The results indicate that nFRGs are an independent prognostic risk factor for HCC patients, and patients in the high-risk group have a worse prognosis.
+Our nFRGs model shows better accuracy and reliability in predicting the prognosis of HCC patients than other existing ferroptosis-related gene models.
+Both the high- and low-risk groups of nFRGs had differentially expressed genes (DEGs) enriched in pathways mostly associated with immunological traits and tumor progression.
+The high-risk group exhibited clear immune escape characteristics, with significant upregulation in the expression of immune checkpoints and TIDE scores.
+Furthermore, IPS analysis also revealed that the high-risk group is less responsive to immunotherapy, while the low-risk group showed a better potential for immune therapy response, which further highlights the potential of nFRGs as a predictor for immunotherapy outcomes.
+This suggests a stronger immune suppression status in high-risk patients, potentially leading to a poorer response to immune checkpoint inhibitors (ICIs).
+In contrast, the low-risk group displayed lower immune escape features, making them potentially more susceptible to immune responses.
+Additionally, there were significant differences in gene mutations, molecular functions, and other factors between the low-risk and high-risk groups.
+Lastly, our investigation predicted possible medications that would work well for the model and found sensitive chemotherapeutic and targeted medications for both high-risk and low-risk groups.
+In conclusion, nFRGs could serve as a novel prognostic biomarker, providing valuable insights for personalized treatment strategies.

@@ -1,0 +1,4 @@
+The growing availability of electronic health records (EHRs) presents an opportunity to enhance patient care by uncovering hidden health risks and improving informed decisions through advanced deep learning methods.
+However, modeling EHR sequential data, that is, patient trajectories, is challenging due to the evolving relationships between diagnoses and treatments over time.
+Significant progress has been achieved using transformers and self-supervised learning.
+While BERT-inspired models using masked language modeling (MLM) capture EHR context, they often struggle with the complex temporal dynamics of disease progression and interventions.

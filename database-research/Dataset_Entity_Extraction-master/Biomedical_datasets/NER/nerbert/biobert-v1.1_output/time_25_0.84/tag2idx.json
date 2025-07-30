@@ -1,0 +1,16 @@
+{
+    "I-DOI": 0,
+    "B-URL": 1,
+    "I-AccessionNumber": 2,
+    "B-Creator": 3,
+    "I-URL": 4,
+    "B-Dataset": 5,
+    "I-Repository": 6,
+    "I-Creator": 7,
+    "I-Dataset": 8,
+    "B-DOI": 9,
+    "B-Repository": 10,
+    "O": 11,
+    "B-AccessionNumber": 12,
+    "PAD": 13
+}

@@ -1,0 +1,5 @@
+The emergence of novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which causes the respiratory disease coronavirus disease 2019 (COVID-19), triggered a global pandemic that has led to an unprecedented worldwide public health emergency (1).
+Incorporation of substitution mutations would require a more complex representation of the data, which is outside of the scope of this study.
+Crystal structures of the RBDs of the spike glycoproteins of SARS-CoV (Protein Data Bank [PDB] ID code 2ajf) (27), SARS-CoV-2 (PDB ID code 6m0j) (28) and MERS-CoV (PDB ID code 4l72) (23) complexed with their respective receptors, and the full cryoelectron microscopy structure of the SARS-CoV-2 spike glycoprotein (PDB ID code 6vxx) (29) were downloaded from the PDB (30).
+The ongoing COVID-19 pandemic is an urgent, global threat.
+Here we analyze the genome of the virus that causes COVID-19, SARS-CoV-2, along with other members of the coronavirus family.

@@ -1,0 +1,10 @@
+In contemporary medicine, cancer poses a perilous threat to human life, health, and quality of life, remaining a central focus of medical research and clinical practice.
+Although traditional cancer treatments, such as surgery, chemotherapy, and radiotherapy, have demonstrated some degree of success, they continue to encounter substantial challenges, including incomplete tumor eradication and the occurrence of severe adverse effects.
+Therefore, there is an urgent need to develop novel cancer treatment strategies characterized by high efficacy, low toxicity, and precise targeting.
+Photothermal therapy (PTT), as a newly emerging approach, holds considerable promise due to its unique mechanism of action.
+Upon laser irradiation, PTT utilizes a photothermal agent (PTA) to transform light energy into thermal energy, thereby inducing localized hyperthermia within tumor tissues.
+This process enables precise ablation of tumor cells while minimizing damage to surrounding healthy tissues.
+Recent advancements in photothermal agent research have yielded a diverse array of PTAs, and the synergistic integration of PTT with diagnostic and therapeutic techniques has further expanded its therapeutic efficacy and clinical applicability.
+This paper will provide an overview of the mechanisms underlying PTT, recent progress in photothermal agent development, synergistic theranostic strategies, and combined therapeutic approaches.
+The aim is to establish a foundation for optimizing PTAs design, elucidating PTT mechanisms, and advancing research on synergistic therapeutic protocols.
+Ultimately, these endeavors have the potential to result in more effective and safer disease treatments, thereby advancing the translation of photothermal therapy from foundational research to broad clinical application.

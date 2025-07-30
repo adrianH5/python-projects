@@ -1,0 +1,11 @@
+It is well known that multiple myeloma (MM) cells are highly dependent on the bone marrow (BM) microenvironment.
+However, the complex interactions and signaling pathways between MM cells and BM stromal cells remain inadequately defined.
+In this study, we employed an in vitro coculture model to investigate these interactions.
+We found that coculturing MM cells with BM-derived HS5 stromal cells stimulated the secretion of hyaluronic acid (HA) and interleukin-6 (IL-6), and significantly increased the expression of CD44 and F-actin stress fibers polymerization in MM cells.
+Among the three hyaluronan synthase (HAS) isoforms, HAS3 mRNA expression was most significantly elevated in MM cells following coculture with HS5.
+This coculture also resulted in upregulation of HAS3 and IL-6 mRNA in MM cells.
+Notably, MM cells in direct contact with HS5 cells exhibited higher proliferative capacity compared to those not in contact with the stromal cells.
+Additionally, coculturing MM cells with HS5 led to the formation of membrane protrusions in MM cells, with CD44 enrichment observed at these polarized regions.
+Further analysis revealed that Rac1 co-localizes with CD44 on MM cells within the coculture system, suggesting that Rac1 signaling plays a critical role in CD44-mediated cytoskeletal rearrangements.
+Importantly, silencing CD44 expression in MM cells reduced F-actin polymerization, as well as impaired MM cell migration and adhesion to HS5.
+Our findings highlight the involvement of the HA/CD44/F-actin pathway in MM-BM migration and adhesion, suggesting that CD44 may serve as a novel therapeutic target to disrupt the MM-BM microenvironment.

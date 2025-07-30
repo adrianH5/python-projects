@@ -1,0 +1,14 @@
+Dibutyl phthalate (DBP) has been reported to induce central precocious puberty (CPP).
+However, the mechanism by which DBP accelerates primordial follicle activation and contributes to CPP has not been studied.
+This study aims to explore the effects of DBP on puberty onset and the role of primordial follicle activation in DBP-related CPP.
+Female ICR pups (developed by the Institute of Cancer Research, USA) were exposed to DBP from PND5 to PND20.
+Vaginal opening, a marker of puberty onset, was monitored daily staring from PND20.
+The involvement of the hypothalamus-pituitary-ovary axis (HPOA) was evaluated, and the activation of primordial follicles was analysed.
+To investigate the role of primordial follicle activation in CPP development, masitinib was used to establish a model of primordial follicle silencing.
+Additionally, a neonatal ovary in vitro culture model was developed to explore the mechanism by which DBP accelerates primordial follicle activation.
+Compared to the control group, the DBP-exposed group exhibited significantly earlier vaginal opening.
+The hypothalamic gene expression of KISS1, GPR54, as well as serum levels of LH and E2, were elevated.
+Moreover, the activation of primordial follicle was accelerated in the DBP group.
+However, these effects were blocked by masitinib treatment.
+In vitro culture of neonatal ovaries revealed that DBP downregulates AMH expression via the BMP15/p38-MAPK pathway.
+In conclusion, our study firstly demonstrates that the activation of primordial follicles is essential for CPP development, and DBP contributes to CPP by accelerating primordial follicle activation through the BMP15/p38-MAPK/AMH pathway.

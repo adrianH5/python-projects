@@ -1,0 +1,4 @@
+DNA methylation alterations, including hypermethylation and silencing of tumor suppressor genes, contribute to cancer formation and progression.
+The FDA-approved nucleoside analogs azacytidine and decitabine are effective demethylating agents for hematologic malignancies but their general use has been limited by their toxicity and ineffectiveness against solid tumors.
+GSK-3484862, a dicyanopyridine-containing, DNMT1-selective inhibitor and degrader, offers a promising lead for developing novel demethylating therapeutics.
+Here, we demonstrate that GSK-3484862 treatment upregulates

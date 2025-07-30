@@ -1,0 +1,3 @@
+NKX3-2, a transcriptional repressor factor belonging to the NK family of homeobox-containing proteins, has been widely studied for its role in promoting chondrogenic differentiation and homeostasis.
+NKX3-2 is upregulated in chemoresistant ovarian tumors and metastatic gastric cancer cells; however, its prognostic role and mechanistic involvement in cancer cell biology remain to be elucidated.
+By interrogating the TCGA database, we found that cancer patients with high

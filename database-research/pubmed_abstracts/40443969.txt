@@ -1,0 +1,9 @@
+In recent years, semi-supervised methods have been rapidly developed for three-dimensional (3D) medical image analysis.
+However, previous semi-supervised methods for three-dimensional medical images usually focused on single-view information and required a large number of annotated datasets.
+In this paper, we innovatively propose a multi-view (coronal and transverse) attention network for semi-supervised 3D cardiac image segmentation.
+In this way, the proposed method obtained more complementary segmentation information, which improved the segmentation performance.
+Simultaneously, we integrated the CBAM module and adaptive channel attention block into the 3D VNet (CBAP - VNet) to enhance the focus on the segmentation regions and edge portions.
+We first introduced the CutMix data augmentation mechanism to enhance 3D cardiac medical image segmentation.
+In this way, the proposed method made full use of the mixed regions in the images and expanded the training dataset.
+Our method was tested on two publicly available cardiac datasets and achieved good segmentation results.
+Our code and models are available at https://github.com/HuaidongLi-NEFU/TPSSAN.

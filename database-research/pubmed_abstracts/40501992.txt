@@ -1,0 +1,6 @@
+Triggering receptor expressed on myeloid cells 2 (TREM2) is an immunomodulatory receptor implicated in both neurodegenerative diseases and cancer.
+Depending on the context, TREM2 agonists or inhibitors hold therapeutic potential.
+To date, the majority of TREM2-targeted strategies have centered on monoclonal antibodies (mAbs), which face limitations such as poor tissue penetration and potential immunogenic side effects.
+To overcome these challenges and expand the chemical space for TREM2-targeting agents, we developed a high-throughput screening (HTS) platform to identify novel small molecule TREM2 binders.
+Using temperature-related intensity change (TRIC) technology in a 384-well plate format (NanoTemper Dianthus), we screened two focused compound libraries comprising over 1,200 molecules.
+From this screen, 18 preliminary hits (1.44% hit rate) were identified and subsequently validated by dose-response binding studies using microscale thermophoresis (MST), yielding four validated hits (0.32% hit rate) with binding affinities in the high to medium micromolar range (e.g., T2337,

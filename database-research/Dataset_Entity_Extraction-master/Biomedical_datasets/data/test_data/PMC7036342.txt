@@ -1,0 +1,2 @@
+The sequences used for analysis were downloaded from NCBI (http://www.ncbi.nlm.nih.gov/) and GISAID (http://www.gisaid.org).
+Next-generation sequencing of BetaCoV/Korea/SNU01/2020 (GenBank accession no. MT039890) revealed 9 mutations compared to the NC_045512 reference genome isolated from Wuhan (Table 1).

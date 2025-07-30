@@ -1,0 +1,7 @@
+Cancer progression and the therapeutic efficacy of targeted treatments are increasingly recognized to be influenced by the gut microbiota (GM).
+This is particularly evident in the context of immunotherapies, as the composition of the GM can modulate the immune system through different mechanisms.
+Emerging evidence suggests that Raf kinase inhibitor protein (RKIP), a well-established tumor suppressor, may shape the GM by regulating immune and inflammatory pathways.
+Altered RKIP expression within tumors can reprogram the tumor microenvironment and microbiota composition, ultimately influencing the response to immunotherapy.
+In this review, we explore the complex interplay between RKIP, downstream pathway, the microbiota, and immunotherapy.
+Drawing from both preclinical and clinical studies, we examine how RKIP and kinase inhibitors change microbial composition and immune modulation, and how these interactions affect immunotherapeutic outcomes.
+A deeper understanding of these mechanisms could guide the development of more effective cancer treatment strategies and highlight the microbiome's potential role in shaping immunotherapy responses.

@@ -1,0 +1,7 @@
+Presynaptic terminals of neuromuscular junctions (NMJs) are sensitive to glutamate, which contributes to NMJ plasticity and synaptic neurotransmission.
+However, the effect of glutamate on neurotransmission and its pharmacologic modulation in muscle pathologies are understudied.
+In this study, the efficacy of pharmacologic blockade of glutamate dehydrogenase (GLUD)-1 in mdx mice, a model of Duchenne muscular dystrophy, was investigated.
+The GLUD1 inhibitor R162 mitigated the malfunctioning of NMJs by enhancing glutamate release from muscle fibers and increasing its availability in the muscle interstitium.
+Glutamate binding to its N-methyl-d-aspartate receptor on the presynaptic bottom of NMJs resulted in the increased release of acetylcholine and functional recovery of the action potential and muscle contraction, ultimately improving muscle performance.
+Finally, the GLUD1 inhibitor did not affect the homeostatic control of NMJs and the behavior of either healthy or dystrophic mice.
+This study suggests a promising and feasible therapeutic approach, based on muscle glutamate exploitation, to treating Duchenne muscular dystrophy, an unmet need in the clinic so far.

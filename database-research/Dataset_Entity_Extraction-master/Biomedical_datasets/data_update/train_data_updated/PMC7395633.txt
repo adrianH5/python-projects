@@ -1,0 +1,11 @@
+The ongoing pandemic of COVID-19 which originated at Wuhan and its progressing rate of transmission into 188 countries and territories has created a havoc in the society declaring it as a global health emergency by WHO on 30 January 2020 (Rasmussen et al., 2020).
+Since then, the situation has been deteriorating in the European provinces and American regions, where the South Asian countries have also been carrying a worse COVID-19 burden.
+Currently more than 400 genome sequences SARS-CoV2 are available at NCBI databases and that gives a plethora of information to aid the development of the drug and vaccine.
+The SARS-CoV-2 miRNA prediction was carried out using the complete genome sequence of SARS-CoV2 carrying accession number (NC_045512.2, MT435086, MT339041, MT066156 and MT507794.1) for China, India, USA, Italy and Jamaica respectively; obtained from the National Centre for Biotechnology Information (NCBI).
+Human miRNA sequences are available in the miRBase database (http://www.mirbase.org).
+Each of the Candidate precursor miRNAs was searched for the nucleotide similarity with all human miRNAs by using the SSEARCH (it is useful for finding a short sequence within the library of miRNA) menu of the miRbase database.
+Gene ID’s of target genes were used for this analysis to find GO terms related to gene products (Chen and Glover, 2016; Dalmer and Clugston, 2019; Hu et al., 2019).
+The sequences of all the five viral SARS-CoV2 miRNA candidate precursors obtained was searched using SSEARCH menu the miRbase database for finding the nucleotide similarity with all human microRNAs using the default parameters (E-cut off value: 10, Maximum no. of hits: 100, Specific organism: human).
+However, in SARS-CoV2; only 2–11 % infected patients carry liver morbidities but remains indistinct whether the liver damage in COVID-19 patients was caused by a viral infection or drug toxicity (Liu et al., n.d.).
+Another phenomenon associated is the basal transcription machinery of the SARS-CoV2 (TAF’s) of TFIID complex which could prevent the RNA polymerase II to assemble on the promoters of the host genes at the initiation step that can specifically block the transcription.
+Predicted miRNAs from SARS-CoV2 viral genomes were used for effective hybridization sequence identification along the nucleotide similarities with human miRNAs from miRbase database.

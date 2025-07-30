@@ -1,0 +1,9 @@
+Pleural mesothelioma (PM) is an aggressive cancer caused by asbestos exposure, with limited treatment options and poor prognosis, highlighting the need for more effective therapies.
+Combining immune checkpoint blockade with anti-angiogenic therapy has shown potential in other cancers.
+Our study investigated the combined inhibition of PD-L1 and VEGFR2 in a mouse model of PM.
+Using C57BL/6 mice with subcutaneous AE17 mesothelioma tumors, we assessed the effects of anti-PD-L1 therapy with induction, concomitant, or consolidation anti-VEGFR2 treatment.
+Mice received intraperitoneal doses every three days for three treatments.
+Tumor growth, survival, tumor-infiltrating immune cells and intra-tumoral vasculature were analyzed.
+Results demonstrated that combining anti-PD-L1 with induction or concomitant anti-VEGFR2 significantly delayed tumor growth, improved survival, and promoted vascular maturation.
+Flow cytometry suggested T cell exhaustion in monotherapy groups, while no significant changes were seen with concomitant treatment.
+Depleting CD4

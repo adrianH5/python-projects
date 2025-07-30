@@ -1,0 +1,11 @@
+The pancreas is a gland in the abdomen that helps to produce hormones and digest food.
+The irregular development of tissues in the pancreas is termed as pancreatic cancer.
+Identification of pancreatic tumors early is significant for enhancing survival rate and providing appropriate treatment.
+Thus, an efficient Secretary Wolf Bird Optimization (SeWBO)_Efficient DenseNet is presented for pancreatic tumor detection using Computed Tomography (CT) scans.
+Firstly, the input pancreatic CT image is accumulated from a database and subjected to image preprocessing using a bilateral filter.
+After this, lesion is segmented by utilizing Parallel Reverse Attention Network (PraNet), and hyperparameters of PraNet are enhanced by using the proposed SeWBO.
+The SeWBO is designed by incorporating Wolf Bird Optimization (WBO) and the Secretary Bird Optimization Algorithm (SBOA).
+Then, features like Complete Local Binary Pattern (CLBP) with Discrete Wavelet Transformation (DWT), statistical features, and Shape Local Binary Texture (SLBT) are extracted.
+Finally, pancreatic tumor detection is performed by SeWBO_Efficient DenseNet.
+Here, Efficient DenseNet is developed by combining EfficientNet and DenseNet.
+Moreover, the proposed SeWBO_Efficient DenseNet achieves better True Negative Rate (TNR), accuracy, and True Positive Rate (TPR), of 93.596%, 94.635%, and 92.579%.

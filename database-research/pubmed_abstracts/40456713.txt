@@ -1,0 +1,6 @@
+Hematopoietic stem cell (HSC) transplantation offers a cure for a variety of blood disorders, predominantly affecting the elderly; however, its application, especially in this demographic, is limited by treatment toxicity.
+In response, we employ a murine transplantation model based on low-intensity conditioning protocols using antibody-mediated HSC depletion.
+While aging presents a significant barrier to effective HSC engraftment, optimizing HSC doses and non-genotoxic targeting methods greatly enhance the long-term multilineage activity of the transplanted cells.
+We demonstrate that young HSCs, once effectively engrafted in aged hosts, improve hematopoietic output and ameliorate age-compromised lymphopoiesis.
+This culminated in a strategy that robustly mitigates disease progression in a genetic model of myelodysplastic syndrome.
+These results suggest that non-genotoxic HSC transplantation could fundamentally change the clinical management of age-associated hematological disorders, offering a prophylactic tool to delay or even prevent their onset in elderly patients.

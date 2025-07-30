@@ -1,0 +1,5 @@
+Traditional chemical interventions regulate cellular processes but often affect non-target biomolecules.
+Precise and site-specific control is crucial for studying complex systems.
+Conventional laser-based methods offer high spatial precision and speed but rely on prior sample knowledge and do not apply to highly mobile targets.
+Real-time precision opto-control (RPOC) overcomes these limits using closed-loop feedback for automated and signal-determined real-time laser activation to regulate chemical processes in live biological samples.
+This review compares RPOC with other optical control techniques and explores its advancements, applications, and future directions.

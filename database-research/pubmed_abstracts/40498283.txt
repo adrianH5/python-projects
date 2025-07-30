@@ -1,0 +1,7 @@
+The relationship between bacterial activity and tumorigenesis has gained attention in recent years, complementing the well-established association between viruses and cancer.
+A recent study employed immunodetection of lipopolysaccharide (LPS) to demonstrate the presence of intracellular bacteria within cancer cells across various cancer types, including breast cancer.
+The authors proposed that these bacteria might play a role in tumor development.
+We sought to replicate these findings using the same experimental methods on an independent cohort of breast cancer cases.
+Our analysis of 129 samples revealed no evidence of LPS expression within cancer cells.
+Instead, LPS immunoreactivity was observed in ducts or immune cells, specifically macrophages, as expected.
+These discrepancies in LPS immunodetection warrant caution in interpreting the original findings, and further research is needed to clarify the potential role of intracellular bacteria in cancer development.

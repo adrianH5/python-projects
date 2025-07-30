@@ -1,0 +1,2 @@
+Tumor metabolism reprogramming is a hallmark of cancer, but metabolite-mediated intercellular communication remains poorly understood.
+To address this gap, we estimated and explored communication events exploring based on single-cell RNA data, to explore the metabolic landscape of tumor microenvironment (TME) in lung adenocarcinoma (LUAD) and identify novel metabolite signaling axis.

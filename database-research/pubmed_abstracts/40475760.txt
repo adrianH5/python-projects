@@ -1,0 +1,5 @@
+Hepatocellular carcinoma (HCC) is a leading cause of cancer-related death globally, characterized by high heterogeneity and drug resistance, which significantly impacts clinical outcomes.
+The tumor microenvironment (TME) plays a critical role in HCC initiation and progression, with immune cell infiltration and immune checkpoint expression closely linked to tumor prognosis.
+N-glycosylation of proteins modulates immune responses within the TME.
+ALG3, a key N-glycosylation enzyme, is involved in protein glycosylation.
+Although ALG3 expression has been studied in various tumors, its role in regulating the immune microenvironment and its prognostic significance in HCC remain unclear.

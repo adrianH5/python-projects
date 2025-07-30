@@ -1,0 +1,10 @@
+In myeloma, the bone marrow (BM) stroma mediates tumor growth directly and indirectly through the alteration of BM niches.
+The mesenchymal and endothelial cell subsets altered in the interstitial BM and focal lesions (FLs) of patients newly diagnosed with myeloma, as well as in the myelomasupportive human bone of the SCID-hu mouse model, were identified using single-cell atlases and gene expression profiling.
+The mesenchymal compartment showed enriched cells reflecting matrix cancer-associated fibroblasts (CAFs) and vascular CAFs/pericytes in FLs compared to interstitial BM and in myeloma interstitial BM compared to healthy donors.
+Patients with myeloma possessed inflammatory mesenchymal stem cell (MSC) subsets that expressed genes resembling various CAFs, including antigen-presenting CAFs and genes composing the diagnostic three-gene MSCs score for myeloma.
+The vascular compartment in FLs showed reduced expression of genes representing specialized bone remodeling endothelial cells and upregulation of genes reflecting angiogenic endothelial cells.
+We identified stroma factor-expressing CYR61/CCN1+ myeloid cells that were detected in myeloma but not in donors' bones.
+CYR61/CCN1+ myeloid cells co-expressed CD14, and their numbers were lower in the interstitial BM of patients with high-risk versus low-risk disease, and rare in FLs.
+These cells were enriched in the BM aspirate lipid layer.
+The SCID-hu model showed changes in mesenchymal and endothelial cell subsets resembling clinical FLs, except for inflammatory mesenchymal cells, which were present in the model but suppressed in FLs.
+Overall, this study provides a comprehensive assessment of the altered stroma in myeloma and identifies previously unappreciated microenvironmental cell subsets.

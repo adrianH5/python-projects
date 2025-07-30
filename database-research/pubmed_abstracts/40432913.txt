@@ -1,0 +1,1 @@
+This paper introduces a novel lightweight MM-3DUNet (Multi-task Mobile 3D UNet) network designed for efficient and accurate segmentation of breast cancer tumors masses from MRI images, which leverages depth-wise separable convolutions, channel expansion units, and auxiliary classification tasks to enhance feature representation and computational efficiency.

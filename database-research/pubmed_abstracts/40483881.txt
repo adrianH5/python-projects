@@ -1,0 +1,9 @@
+Breast cancer is the most diagnosed cancer and the leading cause of cancer-related deaths among worldwide women.
+Linoleic acid (LA) is an essential omega-6 polyunsaturated fatty acid and the most common polyunsaturated fatty acid in Western diets.
+Particularly, overweight and obesity are risk factors for breast cancer development in postmenopausal women.
+LA stimulates an elevation in PLD activity, as well as promotes migration and invasion in MDA-MB-231 breast cancer cells and an epithelial-to-mesenchymal transition process in MCF10A cells.
+Toll-like receptors (TLRs) are a group of type I transmembrane receptors that have been linked with cancer progression in various types of tumors, including breast cancer.
+TLR4 is expressed in immune cells, epithelial cells and breast cancer cells, and an inhibition of TLR4 expression in MDA-MB-231 cells promotes a decrease in their viability, proliferation and the secretion of IL-6 and IL-8.
+This study demonstrates that LA stimulates migration through TLR4 activity in MDA-MB-231 and MCF-7 breast cancer cells.
+Moreover, LA promotes FAK activation, focal adhesion assembly, an increase in MMP-9 secretion and invasion through TLR4 activity in MDA-MB-231 cells.
+Our findings demonstrate a signal transduction pathway in which LA activates FFAR1/FFAR4, which in turn activates TLR4 leading to the regulation of specific cellular processes, such as migration and invasion in breast cancer cells.

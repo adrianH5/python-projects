@@ -1,0 +1,14 @@
+This study represents a ﻿omprehensive characterization of high-grade endometrial carcinoma (EC) of no specific molecular profile (NSMP) to improve our understanding of their poor clinical outcome.
+A previously molecularly classified cohort of 412 high-grade EC from the Danish Cancer Registry was extensively reviewed by 2 expert pathologists blinded for associated clinical and molecular data.
+Immunohistochemistry (IHC) was performed to determine ER, PR, and L1CAM status and a 10% cut-off value was applied for positivity.
+Shallow whole-genomic sequencing (sWGS) and next-generation sequencing (NGS) was performed to describe the molecular landscape.
+Survival analysis was performed using the Kaplan-Meier method, and survival difference was tested using the log-rank test.
+Of the 57 high-grade NSMP tumors, ER negativity was found in 30 (53%).
+All clear cell NSMP EC (n=12, 21%) were ER negative.
+L1CAM overexpression was found in 29 high-grade NSMP EC (53%) and showed overlap (n=20, 69%) with ER negativity.
+A high frequency of copy number (CN)﻿ events and fraction genome altered (FGA)﻿ was observed, with the median number of CN events clustering by ER status (28 vs. 43, P<0.05).
+Overall, the cohort showed a 52% (CI: 31.6%, 72.4%) 5-yr overall survival (OS) and 61% (CI: 42.6%, 79.4%) 5-yr disease-specific survival (DSS).
+No significant additional prognostic refinement was found when stratifying for ER status (5-yr OS: 46% vs. 65%, P=0.068).
+High-grade NSMP ECs are a heterogenous group of tumors with high prevalence of loss of ER, L1CAM overexpression, and substantial copy number alterations.
+Within this group, no prognostic effect of ER was identified, providing support for grouping these tumors into one risk group.
+This work adds to the growing body of evidence that both high-grade and/or loss of ER expression can be used to identify NSMP EC patients with a poor clinical outcome.

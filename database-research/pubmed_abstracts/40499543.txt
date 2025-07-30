@@ -1,0 +1,7 @@
+Glioblastoma (GBM) is the most lethal of primary brain tumors.
+Here, we report our studies of MT-125, a small-molecule inhibitor of non-muscle myosin II.
+MT-125 has high brain penetrance and an excellent safety profile, blocks GBM invasion and cytokinesis, and prolongs survival in murine GBM models.
+By impairing mitochondrial fission, MT-125 increases redox stress and consequent DNA damage, and it synergizes with radiotherapy.
+MT-125 also induces oncogene addiction to PDGFR signaling through a mechanism that is driven by redox stress, and it synergizes with FDA-approved PDGFR and mTOR inhibitors in vitro.
+Consistent with this, we find that combining MT-125 with sunitinib, a PDGFR inhibitor, or paxalisib, a combined phosphatidylinositol 3-kinase (PI3K)/mTOR inhibitor, significantly improves survival in orthotopic GBM models over either drug alone.
+Our results demonstrate that MT-125 is a first-in-class therapeutic that has strong clinical potential for the treatment of GBM.

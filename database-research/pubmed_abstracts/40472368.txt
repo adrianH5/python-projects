@@ -1,0 +1,6 @@
+SHP2 protein, a nonreceptor type protein tyrosine phosphatase, is a crucial signal transduction regulator.
+It interacts with key signaling molecules in the RAS/ERK and PD-1/PD-L1 pathways and significantly affects cell proliferation, differentiation, and immune regulation.
+It is a promising target for cancer therapy and plays a role in the progression of various tumors.
+In this study, we report the design and synthesis of near-infrared (NIR) small-molecule fluorescent probes for the recognition and labeling of SHP2.
+These probes exhibited superior optical properties, strong target affinity, and high selectivity for SHP2.
+The top-performing probe,

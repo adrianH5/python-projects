@@ -1,0 +1,8 @@
+Luman/CREB3 recruitment factor (LRF), also known as CREBRF, was initially identified as a cellular binding protein of Luman through yeast two-hybrid screening of a human brain cDNA library.
+CREBRF plays a critical role in various biological processes, with its functions garnering significant attention in the field of oncology.
+Notably, CREBRF is involved in endoplasmic reticulum (ER) stress and regulates the unfolded protein response (UPR), leading to an accumulation of misfolded proteins.
+This can ultimately result in cellular dysfunction, apoptosis, and even tumorigenesis.
+In solid tumors, hypoxia is a common condition, and CREBRF has been implicated in hypoxia-induced autophagy, which promotes tumor cell proliferation.
+Depending on the tumor type and microenvironment, CREBRF exerts diverse effects by modulating distinct signaling pathways.
+This review summarizes CREBRF's involvement in ER stress, cell cycle regulation, autophagy, and the mechanisms through which it influences tumor initiation and progression across various cancer types.
+Furthermore, the potential of CREBRF as a therapeutic target in cancer treatment is discussed, providing insights into future research and clinical applications.

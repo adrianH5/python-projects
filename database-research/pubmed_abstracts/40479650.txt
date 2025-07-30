@@ -1,0 +1,8 @@
+Conventional mRNA cancer vaccines can expand the quantity of tumor-specific CD8 T cells, but their effector function might be compromised.
+Specific cytokine signaling may enhance T cell differentiation for better tumor killing.
+We screened various cytokines and identified IL-12 as a potent adjuvant for mRNA vaccines, though with significant systemic toxicity.
+To balance efficacy and toxicity, we developed a membrane-tethered IL-12 (mtIL12) adjuvant mRNA vaccine.
+This design restricts mtIL12 expression to the surface of antigen-presenting cells, thereby selectively activating antigen-specific T cells without affecting bystander T or NK cells.
+mtIL12 adjuvant mRNA vaccination induced a unique pre-effector T cell subset that gives rise to highly responsive effector T cells, resulting in superior anti-tumor activity.
+Moreover, this approach overcame immune checkpoint therapy resistance and prevented cancer metastasis.
+Our study highlights that next-generation mRNA vaccines encoding membrane-tethered cytokine adjuvants can generate potent effector T cells, offering effective tumor control with reduced toxicity.

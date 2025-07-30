@@ -1,0 +1,8 @@
+This systematic review and meta-analysis aimed to compare the survival outcomes and cytogenetic profile of primary acute lymphoblastic leukemia (p-ALL) and secondary ALL (s-ALL), including antecedent-malignancy ALL (am-ALL) and therapy-related ALL (tr-ALL).
+The search was performed in PubMed/MEDLINE, Scopus, Web of Science, Embase, and ProQuest databases from January 1, 1990, to July 31, 2023, using the keywords "acute lymphoblastic leukemia" and "second cancer" to identify cohort studies that compared p-ALL and s-ALL in terms of survival outcomes and cytogenetic profile.
+The risk of bias in the included studies was assessed using the Joanna Briggs Institute (JBI) for Cohort Studies.
+A total of 7 studies involving 13,542 participants were analyzed.
+The results revealed an HR of 2.35 (95%CI:1.38-4.01) for overall survival (OS) and 2.06 (95%CI:1.05-4.06) for relapse-free survival (RFS).
+Subgroup analysis of tr-ALL patients showed a significantly higher HR of 3.40 (95%CI:2.32-4.99) for OS in this subgroup.
+Furthermore, the meta-analysis indicated an OR of 3.45 and 5.90 for mixed lineage rearrangement (MLL) and hypodiploidy, respectively.
+The study highlights the need for a better understanding of the survival rates and cytogenetic profile of secondary ALL, particularly tr-ALL, and the importance of personalized treatment strategies for this subtype.

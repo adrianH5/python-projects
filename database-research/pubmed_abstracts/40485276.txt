@@ -1,0 +1,6 @@
+Adherens junctions formed by E-cadherin adhesion complexes play central roles in the organisation and apical-basal polarisation of both mammalian and insect epithelia.
+Here we investigate the function of the components of the E-cadherin adhesion complex in the Drosophila midgut epithelium, which establishes polarity by a different mechanism from other fly epithelia and has an inverted junctional arrangement, in which the adherens junctions lie below the septate junctions.
+Unlike other epithelial tissues, loss of E-cadherin, Armadillo (β-catenin) or ⍺-catenin has no effect on the polarity or organisation of the adult midgut epithelium.
+This is not due to redundancy with other cadherins, as enterocytes lacking E-cadherin, N-cadherin and CadN2 still polarise normally.
+However, E-cadherin (shg) and armadillo mutants have expanded septate junction domains and shorter lateral domains below the septate junctions, indicating that E-cadherin adhesion complexes limit the basal extent of the septate junctions.
+Thus, Cadherin-mediated adhesion is dispensable for apical-basal polarity and epithelial organisation in the Drosophila midgut, in contrast to all other epithelia that have been studied so far, but it is required to define the size of the septate junctions and cell height.

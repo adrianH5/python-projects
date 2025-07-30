@@ -1,0 +1,7 @@
+Early identification and referral of inflammatory breast cancer (IBC) remains challenging within large healthcare systems, limiting access to specialized care.
+We developed and evaluated an artificial intelligence-driven platform integrating natural language processing (NLP) with electronic health records to systematically identify potential IBC cases across five campuses.
+Our platform analyzed 8,623,494 clinical notes, implementing a sequential review process: NLP screening followed by human validation and multidisciplinary confirmation.
+Initial NLP screening achieved 55.4% positive predictive value, improving to 78.4% with human-in-the-loop review.
+Notably, among 255 confirmed IBC cases, our system demonstrated 92.2% sensitivity, identifying 57 cases (22.4%) that traditional surveillance methods missed.
+Documentation patterns significantly influenced system performance, with combined IBC and T4d staging mentions showing highest predictive value (98.2%).
+This proof-of-concept study demonstrates that lightweight NLP systems with targeted human review can identify rare cancer cases that may otherwise remain siloed within complex healthcare networks, ultimately improving access to specialized care resources.

@@ -1,0 +1,7 @@
+Pediatric cancer refers to cancers that occur in children and adolescents, typically defined as those occuring under the age of 18.
+Although childhood cancers are relatively rare compared to adult cancers, they are a leading cause of death by disease in children.
+Early detection of childhood cancer is crucial for improving treatment outcomes and survival rates.
+To detect pediatric cancers in their early stages, the identification of biomarkers can be very helpful.
+Optical sensors and biosensors, as new analytical devices, can be used as a powerful and non-invasive tool to detect and quantify various cancer-specific biomarkers.
+Nanomaterials play a transformative role in the development of optical (bio)sensors, enhancing their sensitivity, specificity, and overall performance.
+Nano optical (bio)sensors provide a non-invasive, swift, and cost-effective method for the early detection of pediatric cancer by identifying cancer-related biomarkers.

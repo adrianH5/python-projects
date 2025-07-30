@@ -1,0 +1,7 @@
+Time course measurements are used for many applications in biomedical research, ranging from growth curves to drug efficacy testing and high-throughput screening.
+Statistical methods used to analyze the resulting longitudinal data, such as t-tests or repeated measures ANOVA have limitations when groups are unbalanced, or individual measurements are missing.
+To address these issues we developed biogrowleR (https://upbri.gitlab.io/biogrowleR/), a workflow to visualize and analyze data based on Frequentist and Bayesian inference combined with hierarchical modeling.
+By focusing on effect sizes we enhance data interpretation.
+The workflow further includes a randomization algorithm important to reduce numbers of experimental animals (RRR) and costs.
+The workflow and R package were designed to be used by researchers with limited experience in R and biostatistics.
+Our open-source R package biogrowleR contains tutorials, pipelines, and helper functions for the analysis of longitudinal data and enables non computational scientists to perform more effective data analysis.

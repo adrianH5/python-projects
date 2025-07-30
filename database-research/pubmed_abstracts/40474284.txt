@@ -1,0 +1,7 @@
+Reactive oxygen species (ROS)-based nanodynamic therapy is emerging as a promising approach for tumor treatment, particularly in eliciting immune responses for tumor immunotherapy.
+Nevertheless, the complex tumor microenvironment (TME) and the constraints of current sensitizers substantially compromise therapeutic efficacy.
+To address these challenges, we developed a rationally designed nanoplatform (LP/CuTT) through lipoic acid-modified orchestrated Cu²⁺-coordinated tetracycline-porphyrin self-assembly, to precisely remodel the immunosuppressive TME while potentiating antitumor immunotherapy via a novel photo-enhanced chemodynamic therapy (CDT) strategy.
+In vitro studies demonstrated that LP/CuTT-mediated photo-enhanced CDT effectively promoted concurrent apoptosis and cuproptosis in B16-F10 melanoma cells, coupled with robust induction of immunogenic cell death (ICD).
+Mechanistic investigations revealed that LP/CuTT drives macrophage polarization from tumor-promoting M2 to antitumor M1 phenotypes while promoting dendritic cell (DC) maturation, thereby orchestrating potent antitumor immune responses.
+In vivo evaluations showed preferential tumor accumulation of LP/CuTT, correlating with substantial ROS generation at tumor sites and remarkable therapeutic outcomes.
+Quantitative assessments further demonstrated elevated M1 macrophage infiltration in both tumor and splenic tissues, accompanied by enhanced CD8

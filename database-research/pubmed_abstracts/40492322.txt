@@ -1,0 +1,4 @@
+Camptothecin (CPT) is a potent chemotherapeutic agent used in the treatment of colorectal, breast, ovarian, colon, and stomach cancers.
+However, its clinical application has been significantly restricted due to several drawbacks, including poor water solubility, nonselective toxicity, drug resistance, and inherent instability.
+To address some of these challenges and to enhance the stability, solubility, and biological efficacy of CPT, in this work, we have attempted to explore nanoparticulate delivery strategies using nanostructured lipid carriers (NLCs) for the targeted delivery of CPT.
+We have employed L-cysteine- and L-cystine-derived lipids, C

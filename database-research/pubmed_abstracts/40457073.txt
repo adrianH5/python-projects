@@ -1,0 +1,4 @@
+Circulating tumor cell (CTC) clusters are highly efficient metastatic seeds in various cancers.
+Yet, their genetic heterogeneity and clonal architecture is poorly characterized.
+Using whole-exome sequencing coupled with phylogenetic inference from CTC clusters of patients with breast and prostate cancer, as well as mouse cancer models alongside barcode-mediated clonal tracking in vivo, we demonstrate oligoclonal composition of individual CTC clusters.
+These results improve our understanding of metastasis-relevant clonal dynamics.

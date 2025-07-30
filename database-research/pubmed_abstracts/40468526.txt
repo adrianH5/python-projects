@@ -1,0 +1,9 @@
+Protein arginine methyltransferase 5 (PRMT5) is an epigenetic-related enzyme that has been shown to be a promising target for the treatment of human cancers.
+In prostate cancer, gene knockout has been shown to inhibit cancer cells by regulating the androgen receptor (AR), but this method has no effect on advanced prostate cancer without AR expression, and existing anticancer drugs are effective only in the current stage and promote the progression of cancer to advanced prostate cancer.
+We hope to design and synthesize a new compound that can inhibit prostate cancer at different stages.
+A series of candidate PRMT5 inhibitor molecules were designed on the basis of virtual molecular docking screening, and the binding mode was predicted via molecular docking simulation.
+Prostate cancer cell proliferation was detected by CCK-8, EdU, and flow assays, which verified the changes in the cancer cell cycle.
+Migration and invasion assays verified the effects of the compounds on the metastatic function of prostate cancer cells.
+Finally, Western blotting was used to detect the mechanism of action of the compounds in the treatment of prostate cancer.
+In prostate cancer, gene knockout has been shown to inhibit cancer cells by regulating the AR, but it has no effect on advanced prostate cancer without AR expression, and existing anticancer drugs are effective only in the current stage and promote the progression of cancer to advanced prostate cancer.
+SJL2-1 may be a promising compound for novel therapies for early androgen-sensitive prostate cancer and advanced castration-resistant prostate cancer (CRPC).

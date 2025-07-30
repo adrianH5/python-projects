@@ -1,0 +1,4 @@
+Early diagnosis of breast cancer leads to higher long-term survival rates.
+The development of a germline genetic test, or polygenic risk score, to identify women at high risk of breast cancer holds the potential to reduce cancer deaths.
+However, current tests based on SNPs do not perform much better than predictions based on family history and perform significantly worse in populations with non-European ancestry.
+We have developed an alternative method to characterize a genome, called chromosomal-scale length variation, which can be applied to polygenic risk scores.

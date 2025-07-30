@@ -1,0 +1,4 @@
+Detection of DNA methylation biomarkers in circulating cell-free DNA (cfDNA) has great clinical potential for cancer management, but there is a high need for method optimization and standardization.
+Bisulfite conversion of DNA is the gold-standard pre-treatment method for DNA methylation analyses, but causes also DNA fragmentation and loss.
+Enzymatic conversion of DNA represents a promising alternative due to the more gentle treatment minimizing damage to DNA.
+The aim of this study was to evaluate and compare enzymatic and bisulfite conversion to identify the best pre-treatment method for detecting DNA methylation biomarkers in cfDNA from plasma using droplet digital PCR (ddPCR).

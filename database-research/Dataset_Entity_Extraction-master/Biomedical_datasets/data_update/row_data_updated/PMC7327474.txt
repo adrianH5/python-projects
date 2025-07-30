@@ -1,0 +1,54 @@
+In the database and literature, a single report on Buffalo-originated coronavirus strain collected from Bangladesh (BufCoV-HKU26-M) is available (Lau et al., 2016).
+The global risk of the 2019 novel coronavirus (COVID-19 [SARS-CoV-2]) has recently been addressed by many scientists (Bogoch et al., 2020, Chinazzi et al., 2020, Global Health Policy, 2020, Wu et al., 2020, Zhu et al., 2020).
+Outside China, COVID-19 transmission has been found in over 210 countries and territories (Global Health Policy, 2020, WHO, 2020c).
+As the outbreak of the 2019 novel coronavirus (COVID-19 [SARS-CoV-2]) is spreading rapidly, the analysis of epidemiological data of COVID-19 is necessary to explore the disease burden and associated factors.
+Spike (S), membrane (M), envelope (E) and nucleocapsid (N) protein sequences of SARS-CoV-2, HCoV-229E, HCoV-OC43, SARS-CoV, HCoV-NL63, HKU1, MERS-CoV, HKU4, HKU5 and BufCoV-HKU26 were retrieved from the ViralZone root (https://viralzone.expasy.org/) and UniProt (https://www.UniProt.org/) databases (Supplementary File 1).
+Additionally, we retrieved epidemiological data for COVID-19 from different websites, such as the World Health Organization (WHO), European Centre for Disease Prevention and Control (ECDC), and other online news portals (WHO, 2020c; ECDC, 2020; Pharmaceutical-technology, 2020; Reliefweb, 2020; Worldometers.
+COVID-19 Coronavirus outbreak, 2020).
+In this study, the conservancy pattern of mostly immunogenic B cell peptide sequences of COVID-19 was compared with other homologous sequences retrieved from the NCBI database by using BLASTp (Hasan et al., 2019b).
+Moreover, homologous sequences of SARS-CoV-2 S, M, E and N proteins were retrieved from the NCBI database (Supplementary File 2) and were subjected to conservancy analysis with the immunogenic epitopes from SARS-CoV-2 proteins.
+It was found that antigenic sites are almost conserved in all of the homologous protein sequences deposited in the NCBI database (Table 2).
+Cross-checked conservancy analysis of COVID-19 antigenic epitopes with SARS-CoV proteins showed that conservancy when cross-checked with other coronaviruses, including BufCoV-HKU26 of Bangladesh origin, was not significant (Table 3).
+The 3D structures of the SARS-CoV-2 proteins were modeled using the I-TASSER server, where ‘SARS-CoV complex with human neutralizing S230 antibody Fab fragment’ (PDB ID: 6NB6), ‘Membrane protein complex’ (PDB ID: 5X5Y), ‘Coronavirus Envelope Proteins’ (PDB ID: 2 MM4) and ‘SARS CoV Nucleocapsid’ (PDB ID: 1SSK) acted as the top threading templates of the S, M, E and N proteins, respectively.
+4.
+Over two and half months, from its outbreak on 31 December 2019 to 20 March 2020, COVID-19 has spread to up to 182 countries and territories [Fig. 5(i)A] and one cruise ship named ‘Diamond Princess’ in Japan, affecting a total of 253,796persons globally, including in Bangladesh; however, China was the most affected country[Fig.
+In addition, COVID-19 resulted in a substantial burden in Iran, Germany, United States of America (USA), France and South Korea infecting 19,644, 17,372, 14,366, 10,995 and 8652 persons, respectively.
+Fascinatingly, after 25 February 2020, cases outside China increased more than those in China, which was an alarming signal that COVID-19 became a pandemic [Fig. 5(i)and Supplementary Fig. 1].
+The first death by COVID-19 occurred on 11 January 2000, and by 19 January 2020, another three persons had died.
+Among 182 countries and territories, 67 countries had experienced deaths from the COVID-19 outbreak by 20 March 2020.
+In China, 28 of 34 provinces experienced deaths from COVID-19, and the highest death toll occurred in Hubei (3122) Province, followed by Henan (22) and Heilongjiang (13); in other provinces, the death toll was below ten up until 19 March 2020 (Supplementary File 4).
+(A) Cumulative confirmed cases of COVID-19 in globe and China* from January 21, 2020 to March 20, 2020**.
+(B) Cumulative confirmed cases of COVID-19 in Hubei province, China* excluding Hubei and outside china from January 21, 2020 to March 20, 2020**. (C) Cumulative global death toll of COVID-19 from January 11, 2020 to March 20, 2020*.
+(D) Global and country-wise case fatality of COVID-19 up to March 20, 2020*.
+The COVID-19, caused by novel coronavirus SARS-CoV-2, became a pandemic (Jung et al., 2020).
+Although the causative agent of COVID-19 has already been declared SARS-CoV-2 (Lai et al., 2020, Phan, 2020), we adopted a protein-based phylogenetic study to reveal the phylogenetic relationships and divergent links of SARS-CoV-2 with other human coronavirus strains.
+Seven coronaviruses (COVID-19, HCoV-229E, HCoV-OC43, SARS-CoV, HCoV-NL63, HKU1 and MERS-CoV), two bat-originated coronaviruses (HKU4 and HKU5) and one buffalo-originated coronavirus (BufCoV-HKU26) reported from Bangladesh were subjected to phylogenetic analysis of four types of their viral proteins (S, M, E and N proteins).
+In the NCBI database, the gene sequence of a buffalo coronavirus (BufCoV HKU26) from domestic water buffaloes (Bubalus bubalis) in Bangladesh is available (Lau et al., 2016).
+COVID-19 has already spread to all continents except Antarctica.
+The temperature could be a factor reducing the risks of COVID-19 to Bangladesh, although the country has a high-risk index (Haider et al., 2020a).
+The high temperature and high humidity can effectively reduce the environmental persistence and transmission of the COVID-19 (Wang et al., 2020a), and temperature variation and humidity may be important factors affecting the COVID-19 mortality (Ma et al., 2020).
+COVID-19 (SARS-CoV-2) might have different persistence times on inanimate surfaces, but these times should be similar to those of SARS-associated viruses (3-4 days) (Kramer et al., 2006).
+Recently, the authors established that temperature significantly changed COVID-19 transmission in 429 cities, in which COVID-19 appeared to spread fastest at 8.72°C (Wang et al., 2020b).
+Thus, in affected countries, COVID-19 might disappear with rising temperatures when spring comes.
+Only 20 cases (including one death) of COVID-19 have been confirmed in Bangladesh as of March 20, 2020.
+Many of the scientists speculated and revealed that high temperature and humidity have a role in restricting the spread of COVID-19, and the spread of disease would be suppressed in hot and humid weather (Sajadi et al., 2020, Zhang and Zeng, 2020), are in the line of our hypothesis.
+The antigenic sites of COVID-19 were also crosschecked with other coronavirus-corresponding proteins (Table 3).
+Similar to COVID-19, the world experienced an epidemic of severe acute respiratory syndrome (SARS) in 2003 caused by a coronavirus also originating from China (Guangdong Province), which was suggested to be a potential zone of re-emergence of coronaviruses (Lai et al., 2020; WHO, 2020d).
+However, on March 14, 2020 WHO declared Europe as new epicentre of COVID-19 outbreak (www.who.int).
+Within a very short time, COVID-19 was transmitted globally (WHO, 2020c;
+COVID-19 Coronavirus outbreak, 2020), infecting 2,53,796 persons globally (WHO, 2020c).
+Therefore, COVID-19 has already covered approximately 5.52 times more countries than SARS and MERS (WHO, 2020c; Chen et al., 2005).
+In addition, up to March 20, 2020, COVID-19 has been attributed 30.03 and 101.76 times more cases, and 12.85 and 12.13 times more deaths globally than SARS and MERS, respectively (Worldometers.
+COVID-19 Coronavirus outbreak, 2020; Chen et al., 2005; WHO, 2020b).
+For example, all of Italy has been placed under lockdown due to COVID-19.
+The majority of the cases are in mainland China, followed by Italy, Spain, Iran, Germany, USA, France and Korea and the World Health Organization has formally declared the COVID-19 outbreak a pandemic in March 11, 2020 (WHO, 2020c; Jung et al., 2020).
+The case fatality of COVID-19 as of March 19, 2020 was 4.10% and 4.00% globally and in China, respectively.
+However, the global case fatalities of SARS (9.60%) and MERS (34.40%) were higher than that of COVID-19 (WHO, 2020b; Cameron et al., 2008).
+COVID-19 Coronavirus outbreak, 2020), which supports our estimate.
+Despite the lower case fatality than the previous coronaviruses SARS and MERS, COVID-19 poses a great burden across the world in terms of geographical coverage, the occurrence of cases, and the cumulative death toll.
+Over 182 countries and territories including Bangladesh reported COVID-19 cases, with more than 2,53,796 people infected globally as of March 20, 2020 (Global Health Policy, 2020, WHO, 2020c).
+The COVID-19 coronavirus has spread in the neighboring countries of Bangladesh as well.
+Further comprehensive studies that will combine genomic data, outbreak information, surveillance data, travel restrictions will help to generate information that will be necessary for a well-planned long-term strategy to mitigate COVID-19.
+SARS-CoV-2, a new coronavirus strain responsible for COVID-19, has emerged in Wuhan City, China, and continuing its global pandemic nature.
+Descriptive epidemiological analysis on several epidemiological indices was performed on available epidemiological outbreak information from several open databases on COVID-19 (SARS-CoV-2).
+•  COVID-19 poses a great burden across the world in terms of geographical coverage, occurrence of cases and death toll.

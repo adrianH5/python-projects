@@ -1,0 +1,12 @@
+This study aimed to investigate the correlation between cortisol secretion and the prevalence of type 2 diabetes (T2D) and hypertension in patients with adrenal tumors.
+A total of 164 patients with benign adrenal tumors were recruited between January 2019 and December 2024.
+Cortisol levels were assessed using a 1 mg overnight dexamethasone suppression test, classifying patients into three groups: non-functional adrenal tumors (group A, n=73), minimal autonomous cortisol secretion (MACS, group B, n=64), and MACS with confirmed Cushing's syndrome (group C, n=27).
+Statistical analyses compared the prevalence of hypertension and T2D across groups.
+Cortisol concentrations were measured using high-performance liquid chromatography (HPLC) and ELISA.
+Logistic regression identified factors influencing hypertension and T2D.
+The prevalence of hypertension and T2D was significantly higher in group C compared to groups A and B (p<0.05).
+Cortisol concentrations were higher in groups C and B than in group A (p<0.05), with group C showing the highest levels.
+Elevated cortisol in MACS patients was associated with increased hypertension risk (p<0.05) and higher rates of T2D (p<0.05).
+Age was a significant predictor, with a 9% increase in risk for each additional year.
+Cortisol secretion in adrenal tumor patients is linked to T2D and hypertension.
+As cortisol levels and age increase, so does the risk of these conditions, highlighting cortisol as a potential biomarker for managing these comorbidities.

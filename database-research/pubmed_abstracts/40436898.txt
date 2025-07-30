@@ -1,0 +1,11 @@
+Advancements in surgical and radiotherapy techniques have enhanced locoregional control (LRC) in head and neck squamous cell carcinoma (HNSCC), yet 30-40% of patients still experience recurrence within 2-3 years.
+Salvage surgery can result in significant morbidity and often fails to achieve optimal LRC as a standalone treatment.
+Modern radiotherapy (RT) techniques support highly conformal re-irradiation for small local recurrences with acceptable toxicity.
+The role of positron emission tomography (PET-CT) based contouring is under evaluation for re-irradiation settings.
+This retrospective study included patients treated with re-irradiation at a tertiary care center, focusing on those with prior HNSCC in the oral cavity, pharynx, or larynx, who had received radical or adjuvant RT and presented with biopsy-confirmed recurrences or second primary tumors.
+PET-CT was used for metastatic workup, with rigid image registration on planning CT scan employing a significant 40% SUVmax cut-off for tumor delineation.
+From January 2019 to June 2022, 85 patients underwent re-irradiation, with a median RT dose of 60 Gy (range: 44-66 Gy); 32 patients received concurrent chemoradiotherapy (CRT).
+Treatment planning used the volumetric modulated arc technique (VMAT), with the median Dmax for critical structures ranging from 7 Gy to 63 Gy.
+Acute grade 3 or higher mucositis, dysphagia, and odynophagia were observed in up to 23.5% of cases.
+At a median follow-up of 23 months, the 2-year disease-free survival (DFS) and overall survival (OS) rates were 55.2% and 63.5%, respectively.
+These promising results support PET-CT contouring-based planning as a potential standard of care in re-irradiation.

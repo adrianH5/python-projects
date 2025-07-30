@@ -1,0 +1,4 @@
+Human papillomavirus (HPV) infection and persistent high-risk HPV (HR-HPV) infection are considered to be the main causative factors in cervical cancer.
+Consequently, there is an urgent need to develop safe and effective HPV-targeted therapeutic strategies.
+In this study, we introduced mutations to E7 protein to eliminate its carcinogenic properties and used microfluidic technology to encapsulate mRNA in lipid nanoparticles (LNPs) to develop therapeutic HPV 16 E7 mRNA-LNP vaccine candidate.
+E7-specific CD8

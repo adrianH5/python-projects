@@ -1,0 +1,10 @@
+The application of Chat Generative Pre-Trained Transformer (ChatGPT), a generative artificial intelligence program, has rapidly expanded in medical education since its introduction.
+While this technology offers new opportunities, it also presents significant challenges.
+This review provides an overview of the current benefits and limitations of ChatGPT in medical education.
+It examines ChatGPT's applications, explores potential future developments, and outlines the concerns associated with its use.
+Key applications in medical education include personalized learning, automated scoring, instructional support, rapid information retrieval, generation of case scenarios and exam questions, development of clinical clerkship content, language translation, image processing, writing assistance, public health education, and universal patient counseling.
+However, its implementation raises concerns that necessitate careful consideration and the adoption of appropriate safety measures.
+Notable limitations include the potential for inaccurate or outdated responses, ethical and privacy concerns, lack of references and transparency, limited capacity to convey human emotions, reduced critical thinking, suboptimal performance in examination settings, increased supervisory demands on educators, and susceptibility to data bias.
+In the medical field, having a verifiable reference or data source is particularly critical.
+This review underscores the importance of increasing awareness about ChatGPT's applications in medical education while cautioning against unregulated use.
+The development of normative guidelines - particularly in specialized areas such as cancer education - is essential to ensure safe and effective implementation.

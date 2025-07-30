@@ -1,0 +1,8 @@
+Acute Myeloid leukemia (AML) is a genetically heterogeneous hematologic malignancy that disproportionately affects older individuals.
+Among the various genetic alterations, FLT3 internal tendem duplication (FLT3-ITD) mutations are present in approximately 20-30% of patients and are linked to rapid disease progression and frequent relapses.
+This review evaluates the role of quizartinib, a second-generation, highly selective FLT3 inhibitor, as a targeted therapeutic option for relapsed or refractory AML.
+Preclinical studies have demonstrated that quizartinib offers potent inhibition of FLT3 signaling, favorable pharmacokinetic properties, and high bioavailability.
+Early-phase clinical trials reported promising remission rates in patients harboring FLT3-ITD mutations, while phase III studies further substantiated its efficacy by showing improved overall survival when used alone or alongside standard chemotherapy.
+Despite these advances, quizartinib's clinical use is limited by challenges such as acquired resistance, off-target effects-including QT interval prolongation-and complex drug-drug interactions.
+Ongoing research is focused on elucidating resistance mechanisms and developing effective combination regimens to optimize its therapeutic potential.
+Overall, quizartinib represents a significant breakthrough in precision medicine for AML, offering a promising avenue to improve patient outcomes in this challenging disease.

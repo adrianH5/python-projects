@@ -1,0 +1,4 @@
+Chordomas are rare, aggressive tumors of notochordal origin, commonly affecting the spine and skull base.
+Skull Base Chordomas (SBCs) comprise approximately 39% of cases, with an incidence of less than 1 per million annually in the U.S. Prognosis remains poor due to resistance to chemotherapy, often requiring extensive surgical resection and adjuvant radiotherapy.
+Current classification methods based on chromosomal deletions are invasive and costly, presenting a need for alternative diagnostic tools.
+Radiomics allows for non-invasive SBC diagnosis and treatment planning.

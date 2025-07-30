@@ -1,0 +1,13 @@
+The objective was to develop a nomogram for predicting positive margins after cold knife conization (CKC) in patients with high-grade squamous intraepithelial lesion (HSIL).
+This retrospective study included patients who underwent CKC at Baoding No.
+1 Central Hospital between December 2013 and March 2024.
+Patients were divided into training (between December 2013 and December 2022) and validation (between January 2023 and March 2024) sets.
+The least absolute shrinkage and selection operator regression was applied to filter and select relevant variables.
+Multivariable logistic regression was used for nomogram construction.
+The model performance was evaluated using various methods, including receiver operating characteristics, decision curve analysis, and calibration analysis.
+The training and validation sets included 985 and 227 patients, respectively.
+Age (OR = 1.046, 95% CI: 1.028-1.064, P < .001), cervical intraepithelial neoplasia quadrants by punch biopsy (OR = 1.561, 95% CI: 1.348-1.808, P < .001), HSIL type (OR = 1.711, 95% CI: 1.102-2.657, P = .017), and gland involvement (OR = 1.552, 95% CI: 1.073-2.247, P = .020) were associated with positive margins and used for nomogram construction.
+The predictive model yielded area under the curves of 0.744 and 0.754 in the training and validation sets, respectively.
+Decision curve analysis indicated a net benefit when using the nomogram, and the calibration curves demonstrated a good fit.
+This study constructed a nomogram model for predicting positive margins after CKC in patients with HSIL.
+This nomogram may enable early and accurate patient evaluation, potentially improving clinical outcomes.

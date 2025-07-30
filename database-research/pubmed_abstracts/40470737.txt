@@ -1,0 +1,5 @@
+Small-molecule targeting of ribonucleic acid (RNA) is a new and promising therapeutic approach, but it requires the discovery of small compounds that can specifically target particular RNA structures.
+In this context, a comprehensive description of the photophysical interaction features of phenothiazinium dyes such as thionine (TH)/methylene blue (MB) with transfer ribonucleic acid (tRNA) is examined by spectrophotometric titration and molecular docking analysis.
+After binding with tRNA, TH/MB dyes displayed emission, and absorption characteristics were significantly changed.
+The observed tRNA-induced spectral alterations are attributed to energy transfer from guanine base pairs, likely resulting from an intercalative interaction mode proposed for tRNA.
+The negative free energy change value (ΔG = ~ - 27.5 kJ mol

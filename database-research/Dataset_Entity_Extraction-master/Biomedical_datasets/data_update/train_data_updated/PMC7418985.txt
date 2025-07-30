@@ -1,0 +1,6 @@
+This diversity of RNA strains might be correlated to severity and mortality seen in COVID-19 (Corona Virus disease-2019).
+For prediction of human RBPs bound to the UTR of a viral genome, we have used the web-tool ‘RBPmap’ that enabled prediction of RBP binding on genome sequences from a huge list of experimentally validated motifs of RBPmap database.
+We have put the reference and mutated 5’- and 3’-UTR sequences separately as query sequence with the in-built human RBP motifs of the database.
+For input miRNA sequences, we have obtained a list of all annotated human miRNAs with their sequences in FASTA format from miRBase database [14].
+The world is going through the critical phase of COVID-19 pandemic, caused by human coronavirus, SARS-CoV-2.
+To have an idea of the global changes in 5’ and 3’-UTR sequences, we downloaded 8595 complete and high-coverage SARS-CoV-2 genome sequence information from human host in FASTA format from Global Initiative on Sharing All Influenza Data (GISAID) from 15 different geographical regions.

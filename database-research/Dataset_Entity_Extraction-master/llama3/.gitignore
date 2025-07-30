@@ -1,0 +1,13 @@
+*
+!*/
+!*.py
+!*.ipynb
+!.gitignore
+!*.sh
+!*.slurm
+!*.csv
+fine_tune/data/train.csv
+!total_final_test/**/*.json
+!total_final_test/**/*.jsonl
+!total_final_test/**/*.csv
+!requirement.txt

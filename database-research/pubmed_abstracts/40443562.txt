@@ -1,0 +1,6 @@
+Breast cancer (BC) treatment is developing toward more precise and personalized care through the approval of different comprehensive approaches.
+Clinical practice emphasizes significant patient-to-patient variability in treatment response among patients, even those with similar clinical and biological profiles.
+Recent studies have demonstrated that the glycocalyx is an essential organelle that plays an important role in many cellular processes and can be a promising target for treatment.
+The glycocalyx of cancer cells is a key component influencing the interaction between the tumor and the immune system.
+Glycan modifications attached to glycoproteins and glycolipids are a common characteristic of the transition to malignancy.
+We review how the specific structure and function of the glycocalyx are regulated at the molecular level, contribute to immune evasion, and can be overcome by using both traditional drugs and combination therapies, as well as drugs not previously used in standard cancer treatments, to address treatment resistance associated with glycocalyx alterations.

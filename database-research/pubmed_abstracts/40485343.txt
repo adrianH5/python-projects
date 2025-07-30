@@ -1,0 +1,9 @@
+Evidence for sex differences in cognition in childhood is established, but less is known about the underlying neural mechanisms for these differences.
+Recent findings suggest the existence of brain-behavior relationship heterogeneities during infancy; however, it remains unclear whether sex underlies these heterogeneities during this critical period when sex-related behavioral differences arise.
+A sample of 316 infants was included with resting-state functional magnetic resonance imaging scans at neonate (3 weeks), 1 year and 2 years of age.
+We used multiple linear regression to test interactions between sex and resting-state functional connectivity on behavioral scores of working memory, inhibitory self-control, intelligence, and anxiety collected at 4 years of age.
+We found 6 age-specific, intra-hemispheric connections showing significant and robust sex differences in functional connectivity-behavior relationships.
+All connections are either with the prefrontal cortex or in regions with direct anatomical pathways to the prefrontal cortex.
+These sex differences in functional connectivity only emerge when associated with behavior and not in functional connectivity independently.
+Taken together, we capture robust and conserved brain mechanisms that are distinct to sex and are defined by their relationship to behavioral outcomes.
+Our results establish brain-behavior mechanisms as an important feature in the search for sex differences during development.

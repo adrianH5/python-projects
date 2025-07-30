@@ -1,0 +1,9 @@
+Colorectal cancer (CRC), according to the most recent data provided by GLOBOCAN, ranks fourth worldwide in incidence and third in mortality among all cancers.
+Current estimates project a global increase in colorectal cancer incidence of 60.5 % and mortality of 76.9 % between 2022 and 2045.
+The low sensitivity and adherence, coupled with the high costs associated with current diagnostic methods for CRC, underscore the need to explore innovative procedures for the early detection of tissue abnormalities.
+Existing research suggests that patients affected by this condition exhibit distinctive alterations in volatile organic compounds (VOCs) ratios in their exhaled breath.
+This study presents a characterization of exhaled breath using Gas Chromatography-Mass Spectrometry (GC-MS) in patients with varying stages of the disease, as determined by conventional medical and clinical analyses.
+An electronic nose was utilized to develop a method aimed at rapidly analyzing a subject's exhaled breath to identify the group of belonging (healthy, affected).
+The aim of the study was to develop a rapid, cost-effective, and non-invasive early diagnostic system employing an electronic nose.
+Statistical analysis identified 12 compounds with the potential to distinguish between healthy and affected individuals and were selected for testing the application potential of the Cyranose 320 electronic nose.
+The ability of the method to identify the 40 subjects analyzed as Healthy Controls (HC) or CRC in terms of sensitivity and specificity (0.8 and 0.85, respectively) demonstrates the feasibility of using this method for rapid, low-cost, and non-invasive disease recognition.

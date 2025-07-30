@@ -1,0 +1,7 @@
+Despite significant advancements in vaccination, screening, and therapeutic strategies have substantially reduced cervical cancer incidence, effective treatment for this disease remains a major clinical challenge.
+This study reveals that APG-115, a murine double minute 2 (MDM2) inhibitor, upregulates the transcription and expression of MDM2, p53, and p21, effectively inhibiting cell proliferation and inducing apoptosis in cervical cancer cells.
+Mechanistically, APG-115 suppresses the activation of the AKT and ERK signaling pathways and reduces the expression of antiapoptotic proteins BCL-2, BCL-xL, and MCL-1, while promoting the expression of pro-apoptotic proteins BAK, BAX, and BIM.
+Notably, the combination of APG-115 with bortezomib enhances p53 and p21 expression, synergistically induces cell apoptosis.
+In the cervical cancer xenograft models, APG-115 and bortezomib significantly downregulated the expression of Ki67 and BCL-2 while markedly increasing p21 protein levels, effectively suppressing tumor growth and inducing apoptosis.
+The combination further amplified the effects on Ki67, BCL-2, and p21 expression, leading to enhanced tumor growth inhibition.
+In summary, this study demonstrates that APG-115 exerts antitumor effects in cervical cancer, and its combination with bortezomib further enhances this inhibitory effect, probably through maximal activation of p53 and inhibition of BCL-2, suggesting a potential application of APG-115 in the treatment of cervical cancer.

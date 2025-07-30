@@ -1,0 +1,5 @@
+Hollow mesoporous manganese (HMM)-based nanocarriers, incorporating nanoparticle cavities and mesoporous channels, enhance the photostability and photobleaching resistance of indocyanine green (ICG).
+The addition of H2N-c(RGDfK)-OH (RGD) ensures precise targeting, making the cRGD&PEG2000-HMM@ICG (R&P-M@ICG) nanoprobe ideal for NIR-II fluorescence image-guided surgery and photothermal therapy (PTT).
+This approach offers accurate targeting, high therapeutic efficacy, and reduced side effects.
+The inclusion of manganese (Mn) in the nanocarriers further boosts the therapeutic effects by enabling chemodynamic therapy (CDT).
+Mn ions catalyze the conversion of hydrogen peroxide (H

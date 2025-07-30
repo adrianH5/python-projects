@@ -1,0 +1,32 @@
+In December 2019, SARS-CoV-2 emerged, causing the coronavirus disease 2019 (COVID-19) pandemic.
+The biological mechanisms that may govern differences in the number of SARS and COVID-19 cases remain undefined.
+Furthermore, a clinical study with an anti-CD147 intervention reduced symptoms and duration of hospital admission for COVID-19 patients [27].
+Our computational analysis used publicly available microarray gene expression datasets from airway epithelial cells of 515 unique subjects, single cell sequencing data from 10 subjects, and the FANTOM5 dataset for promoter activities of 74 lung-related cell and tissue types.
+Our proteomic analysis used data from the Human Proteome Map [31] and a dataset from primary human airway epithelial cells grown under air–liquid interface culture conditions [32].
+Our protein expression data are consistent with low ACE2promoter activity in a variety of lung epithelial cell samples and low ACE2 gene expression in both microarray and single cell RNA sequencing (scRNAseq) datasets.
+Public microarray experiments using Affymetrix chips (HuGene-1.0-st-v1 and HG-U133 Plus 2) on airway epithelial cell samples collected from nasal (GSE19190) or bronchial (GSE11906) brushings of healthy nonsmokers were obtained from the NCBI Gene Expression Omnibus (GEO) database [33, 34].
+For all dataset samples, raw intensity values and annotation data were downloaded using the GEOquery R package (version 2.52.0) [35] from the Bioconductor project [36].
+All gene expression data were unified into a single dataset that was then normalised by robust multiarray average (RMA) normalisation, and only genes present in both of the Affymetrix platforms (n=16 013) were kept for subsequent analyses.
+The FANTOM5 promoterome dataset [39] for the hg38 assembly [40] was used to examine promoter activity of SARS-CoV-2-related human genes, namely ACE2, TMPRSS2, ADAM17, CTSL, CD147 and GRP78.
+The dataset consists of CAGE promoter activity data for 1866 primary cells, cell lines and tissues from humans, and is quantified as normalised transcripts per million (TPM).
+Publicly available human proteomic data from the datasets of Kim et al. [31] and Foster et al. [32] were used to evaluate SARS-CoV-2 receptor-related protein expression in different human tissues and experimental conditions.
+Expression values were extracted from the dataset of Kim et al. [31] for ACE2, TMPRSS2, ADAM17, CTSL, CD147 and GRP78, using CDH1 as a control for airway cells.
+Proteomic data from the dataset of Foster et al. [32] consist of bronchial epithelial cells collected from healthy nonsmokers (n=4; males) and exposed to PBS control vehicle.
+The immunogen for the GRP78 Atlas Antibodies primary antibody is the recombinant protein epitope signature tag antigen sequence, EKFAEEDKKLKERIDTRNELESYAYSLKNQIGDKEKLGGKLSSEDKETMEKAVEEKIEWLESHQDADIEDFKAKKKELEEIVQPIISKL.
+We first examined these genes in a curated dataset of upper and lower airway epithelial cell gene expression from the nasal sinus to the 12th generation of airway in the lung (figure 1).
+Following our observation of consistent expression along the upper and lower airways of candidate genes important in SARS-CoV-2 infection, we determined whether sex or age affected gene expression levels in healthy individuals using a curated dataset of bronchial brushings from 504 healthy subjects (supplementary table S1).
+For quantitative analyses related to age and gene expression, our curated database was divided into datasets that used either the HG-U133 Plus 2 or HuGene-1.0-st-v1 microarray due to differences in age distributions.
+In the HuGene-1.0-st-v1 dataset (n=181), which included a greater proportion of older individuals (>50 years), we observed reduced ACE2 gene expression with age (figure 2e; p<0.05).
+Promoter activity data of each of the candidate genes important in SARS-CoV-2 binding and infection were extracted and analysed from the FANTOM5 dataset, which includes 1866 primary cells, cell lines, and tissue sample types (figure 3).
+Both microarray gene expression analysis and promoter activity were consistent with results of candidate gene expression in a scRNAseq dataset of 10 healthy subjects (supplementary figure S1).
+We therefore interrogated a publicly available proteomic dataset derived from primary human airway epithelial cells grown under air–liquid interface culture conditions [32], examining the same candidates.
+Collectively, two proteomic datasets from distinct lung sample formats provide complementary and consistent expression profiles of candidate molecules important in SARS-CoV-2 infection.
+The global COVID-19 pandemic that emerged in late 2019 is caused by SARS-CoV-2.
+Using a curated microarray gene expression dataset generated from bronchial brushings of 504 healthy subjects that considers the limitations of merging multiple datasets from distinct sources, we observed that sex did not correlate with gene expression of any candidate host molecule involved in SARS-CoV-2 infection and that ACE2 and TMPRSS2 were the lowest expressed genes of interest examined.
+In one dataset, ACE2 gene expression modestly decreased with age, although protein level confirmation was not possible.
+Importantly, these elegant transcriptomic analyses confirm our observations in bulk tissue microarray datasets.
+Consortium-based publicly available datasets represent another parallel approach to confirm our data.
+We have used the FANTOM5 dataset containing CAGE promoter activation data for 1866 primary cells, cell lines and tissue samples from humans [39] to examine the level of promoter activity for each candidate SARS-CoV-2 receptor gene.
+In December 2019, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged, causing the coronavirus disease 2019 (COVID-19) pandemic.
+To determine the expression and in situ localisation of candidate SARS-CoV-2 receptors in the respiratory mucosa, we analysed gene expression datasets from airway epithelial cells of 515 healthy subjects, gene promoter activity analysis using the FANTOM5 dataset containing 120 distinct sample types, single cell RNA sequencing (scRNAseq) of 10 healthy subjects, proteomic datasets, immunoblots on multiple airway epithelial cell types, and immunohistochemistry on 98 human lung samples.
+We demonstrate absent to low ACE2 promoter activity in a variety of lung epithelial cell samples and low ACE2 gene expression in both microarray and scRNAseq datasets of epithelial cell populations.

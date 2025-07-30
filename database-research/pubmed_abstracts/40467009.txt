@@ -1,0 +1,12 @@
+Spinal cord injury (SCI) initiates a cascade of complex secondary damage processes, prominently involving programmed cell death (PCD).
+Although apoptosis and necroptosis have been extensively characterized, the role of oncosis in SCI remains inadequately understood.
+In this study, we examined the expression dynamics and cellular localization of oncosis-related genes (ORGs) following SCI.
+We conducted an analysis of bulk RNA-seq data to identify differentially expressed ORGs at five distinct time points post-injury.
+Six candidate genes (Trp53, Casp3, Jun, Tmem123, Chmp6, Map2) were identified based on their temporal expression patterns.
+Single-cell RNA sequencing and spatial transcriptomics revealed specific cell-type specificity and lesion-centered spatial enrichment of these genes.
+Trp53 and Casp3 were found to be rapidly upregulated in neurons and microglia, whereas Tmem123 exhibited a progressive downregulation.
+Jun emonstrated biphasic activation in astrocytes and oligodendrocytes.
+In vitro experiments using LPS-treated PC12 cells corroborated key expression trends, with transmission electron microscopy (TEM) confirming the morphological characteristics of oncosis.
+In vivo, quantitative reverse transcription PCR (qRT-PCR) qRT-PCR and immunofluorescence analyses in a rat SCI model further validated the altered expression of these genes.
+Significantly, a reduction in Map2 and an elevation in Chmp6 were associated with cytoskeletal collapse and plasma membrane rupture, respectively.
+Together, our findings provide the first spatiotemporal mapping of oncotic gene regulation following SCI and identify potential targets for therapeutic intervention.

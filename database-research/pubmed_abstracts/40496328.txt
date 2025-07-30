@@ -1,0 +1,15 @@
+Immunotherapy is part of the standard therapy for gastrointestinal (GI) tumors.
+Nevertheless, response rates are rather low.
+Current studies are investigating the optimal timing and patient clientele for immunotherapy.
+Combinations of approved drugs are also being tested.
+The development of new therapeutic approaches is equally important, e.g.
+to overcome primary and secondary resistance.
+Antibody-mediated immune checkpoint inhibitor (ICI) therapy is constantly being expanded.
+New target molecules on immune and tumor cells are intended to further improve the immune response by activating immune cells or blocking an inhibitory signaling pathway.
+The combination of antibody with drug in the sense of an immunoconjugate is possible.
+Modifications of the antibody structure are being tested for improved efficacy and an extended range of applications.
+Cellular strategies, such as adoptive cell transfer or the application of genetically modified T cells, are currently being tested in studies for use in GI tumors.
+T cells with chimeric antigen receptors (CAR), which recognize and attack certain proteins on tumor cells, are a promising approach.
+Viruses that can destroy tumor cells due to natural reproductive behavior or genetic alterations are used as oncolytic viruses in GI oncology, but pose challenges due to low immunogenicity or non-specific effects.
+Another difficulty is the development of sensitive and specific biomarkers that predict response and efficacy of immunotherapies.
+This review article aims to provide a glimpse into the crystal ball and present and discuss new promising immunotherapeutic approaches.

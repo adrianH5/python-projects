@@ -1,0 +1,7 @@
+Adoptive T-cell therapy is an emerging immunotherapeutic strategy for treating cancer, but the compromised quality of CD8+ T-cells limits the therapeutic efficacy.
+Traditional methods involving polyclonal expansion of CD8+ T-cells mainly prioritize yielding a high quantity of CD8+ T-cells.
+However, the antigen-specificity of ex vivo expanded CD8+ T-cells and the ability to produce cytolytic molecules are the two critical determinants of therapeutic efficacy that remain poorly studied.
+To address this problem, we formulated nanoscale artificial antigen-presenting cells (a-APCs) displaying tumor-specific class-I peptide-major histocompatibility complexes (p-MHC-I) and co-stimulatory molecules to expand the antigen-specific CD8+ T-cells ex vivo.
+We found that the magnitude of ex vivo expanded T-cells was directly proportional to the valency of p-MHC coated on the a-APCs.
+Promisingly, a-APC with higher valency of p-MHC yielded CD8+ T-cells capable of producing a greater extent of cytolytic molecules such as granzyme B and perforin, exhibited excellent therapeutic efficacy by inhibiting the growth of aggressive murine melanoma than the CD8+ T-cells expanded by lower valency a-APCs.
+Our findings emphasize that the valency of p-MHC is a critical parameter for configuring nanoscale a-APCs, which governs ex vivo manufacturing of therapeutically potent antigen-specific CD8+ T-cells capable of inhibiting the growth of solid tumors.

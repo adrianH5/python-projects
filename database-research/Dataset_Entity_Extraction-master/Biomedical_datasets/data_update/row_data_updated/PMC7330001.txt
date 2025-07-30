@@ -1,0 +1,9 @@
+The first half of the year 2020 has been in the midst of the first wave of COVID-19 pandemic.
+While P-BEST incorporates a specific Reed-Solomon error-correcting code scheme for pooling, we ran simulations around this band with similar aspects (i.e. each sample contributes to exactly 6 pools in 384-well plate setting) to observe the efficiency gain rates around perfect recovery operating points.
+Conducting an effective test, trace & isolate solution might be the key for containing SARS-CoV-2 and an elemental part of fighting against the current COVID-19 pandemic.
+Currently proposed COVID-19 group testing schemes offer a gain up to no more than 10X and 25X scale-up for medium (0.5%-10%) and low (<0.5%) prevalence respectively [10–12, 16].
+Although the current popular approach of COVID-19 testing is RT-qPCR based molecular tests, clearly group testing is not limited to PCR based molecular techniques.
+On the contrary, we know that COVID-19 sampling is mainly conducted on populations with social contacts, violating the independence assumptions.
+The capacity of the current molecular testing convention does not allow high-throughput and community level scans of COVID-19 infections.
+Currently proposed COVID-19 group testing schemes offer a gain up to 15X-20X scale-up.
+The codes, protocols, and datasets used during the current study are available from the corresponding author on reasonable request.

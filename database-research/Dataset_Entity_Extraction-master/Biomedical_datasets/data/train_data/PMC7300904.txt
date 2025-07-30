@@ -1,0 +1,53 @@
+In the early phase of the epidemic, COVID‐19 was not widely distributed in children.
+Later on, 1391 children from Wuhan who had contact with COVID‐19 patients were screened.
+A similar situation was observed in Italy which is, after China, the second hotspot of the COVID‐19 pandemic.
+One special problem should still be mentioned in this context: in Italy, paediatric hospitalization decreased substantially during the COVID‐19 epidemic.
+An increased number of deaths occurred in Italy due to delayed arrival of children in hospitals, while no child died from COVID‐19 in Italy (Lazzerini et al., 2020).
+The statistics for the COVID‐19 epidemic have shown that the older population has suffered the greatest loss of life, and that nursing homes have been hotspots for transmission.
+At the end of February 2020, a cluster of 167 epidemiologically linked COVID‐19 cases were reported in several long‐term care facilities in Washington state.
+One in 10 of >1300 accredited nursing facilities reported COVID‐19 cases.
+A cluster of COVID‐19 cases in Munich, Germany was analysed in detail.
+The dynamics of viral shedding was also evaluated in 94 Chinese COVID‐19 patients who provided 414 throat swabs.
+It was deduced from this observation that the infectiousness of COVID‐19 patients peaked on, or slightly before, symptom onset and that 44% of the secondary infections occurred in the pre‐symptomatic phase of the index patient.
+Increased personal hygiene and social distancing for everyone are, therefore, key instruments for COVID‐19 disease control in the community (He et al., 2020).
+At the height of the UK COVID‐19 epidemic asymptomatic health care workers (HCW) from London were repeatedly tested for viral RNA over 6 weeks.
+The infection rate in asymptomatic HCW was 7% at the peak of the epidemic, and it decreased to 1% with the lessening of the epidemic in the population, suggesting that infection was contracted in the community, and not in the hospital, since HCW remained exposed to COVID‐19 patients during work (Treibel et al., 2020).
+Viruses from 53 patients were sequenced and compared with 177 SARS‐CoV‐2 sequences deposited in the database.
+The first case of COVID‐19 in the United States was reported on January 19 at the northwest coast of Washington State and was imported from China.
+Epidemiologists investigated the first nine COVID‐19 cases on the East coast (Connecticut) that were observed in mid‐March with genome sequencing.
+In Wuhan, 105 index cases of patients suffering from moderate COVID‐19 symptoms (fever, cough, fatigue) were investigated for secondary transmission to 392 household contacts.
+Adding viral‐specific IgG antibody tests to the toolbox of COVID‐19 epidemiology have allowed the connection between three previously separated infections clusters in Singapore.
+Since most COVID‐19 transmission seems to occur through close contact, droplets have been considered to be the more likely vehicles.
+The environment of three COVID‐19 patients from a ventilated hospital infection ward in Singapore was tested for viral RNA presence by RT‐PCR.
+The control measures that stopped the epidemic locally have included: intense infection surveillance of incoming travellers; isolation of COVID‐19 cases in hospitals; contact tracing and quarantine in holiday camps; and school closure but no lock‐down, thus preventing the crisis from having a negative economic impact.
+Unfortunately, the full effect of school closure is still unknown because the susceptibility of children for COVID‐19 and their capacity to transmit the infection has not yet been established (Cowling et al., 2020).
+China has contained the COVID‐19 epidemic through a combination of different measures including drastic ones.
+Based on these data and on a mathematical infection model, the authors concluded that social distancing alone is sufficient to control COVID‐19 spread.
+The definition for a confirmed case of COVID‐19 was changed five times in China, which accounts for the increase in knowledge about the epidemic.
+COVID‐19 deaths at care homes were three times as high as COVID‐19 deaths in hospitals (Burki, 2020).
+In comparison, the global death toll of COVID‐19 is now 315′000 (status May 18).
+A direct comparison of these two figures is difficult for two reasons: death levels are affected by vaccination campaigns against seasonal influenza and by strict containment measures for COVID‐19.
+It seems plausible that without any containment measures COVID‐19 mortality would surpass greatly the number of deaths from seasonal influenza.
+The presumption that the COVID‐19 mortality is comparable to that of seasonal influenza deaths is fundamentally flawed because it compares numbers which are obtained by different methods.
+The death rate for COVID‐19, which has just crossed the 100 000 figure in the United States, is an actual count of dead patients.
+Expressed as deaths per peak week, influenza claimed a maximum 1616 deaths per week, while COVID‐19 took about 15 000 lives per week at its peak in the United States (Faust and del Rio, 2020).
+Epidemiologists from Harvard University derived projections from model calculations about the future dynamics of the COVID‐19 epidemic.
+In contrast to the case fatality rate (CFR) which expresses the number of deaths per clinically ill patients (which varies from 1.4% to 15% for COVID‐19), IFR is the number of deaths per infected individual.
+While we know, approximatively, the number of COVID‐19 deaths and COVID‐19 cases, we do not definitively know the number of infected persons, since this would require large and systematic seroprevalence studies, but which are lacking.
+Anosmia (loss of smell) appeared as a strong predictor of COVID‐19, while fever was not a diagnostic criterion unless combined with other symptoms.
+Also, long‐term effects of the disease, and the impact of the COVID‐19 epidemic on social relations, mental health, and financial outcome can be evaluated with this tool.
+A preliminary evaluation of a COVID‐19 Symptom Tracker smartphone app from UK users showed that the loss of smell was reported by 59% of people with respiratory infection who tested positive for SARS‐CoV‐2, compared with 18% of respiratory patients who tested negative.
+Clinical criteria that allow a diagnosis of COVID‐19 without a viral RNA test would be welcome for mass screening and telemedicine in an epidemic situation.
+French physicians have also reported that many COVID‐19 patients reported loss of smell and loss of taste, without nasal congestion.
+When these criteria were combined in a retrospective questionnaire this combination of signs had a sensitivity of 42% and a specificity of 95% for detecting COVID‐19 patients (Bénézit et al., 2020).
+U.S. physicians even suspected that SARS‐CoV‐2 might, in addition to the respiratory and alimentary tract, also infect cranial nerves (i.e. being neurotropic), which potentially explains the observation of neurological signs in 9% of COVID‐19 patients (Chu et al., 2020).
+These datasets cannot be extrapolated to the population at large.
+In the United States, the COVID‐19 epidemic has taken more lives in 1 month than over 8 years during the Vietnam War.
+With more than 1.7 million cases, and more than 100 000 deaths, the ‘America first’ slogan has become sadly ironic in the context of COVID‐19.
+The CDC, once a pillar and international reference for combating diseases worldwide, instrumental in eradicating smallpox and coping with AIDS or Ebola, has lost its technical competence and public trust due to contradictory scientific messages and the undermining of trust in scientific evidence by the current U.S. administration.
+At the end of May, the United Kingdom directly follows the United States in the international mortality ranking list with more than 38 000 COVID‐19 deaths.
+The European Centre for Disease Prevention and Control (ECDC), which was established in 2004 to create a complement to the U.S. CDC, failed to become a hub in Europe of knowledge for COVID‐19 and a coordination centre for Europe‐wide epidemic counter‐strategies.
+Even the city‐state of Singapore, where the early handling of the COVID‐19 was lauded as exemplary public health action, had ‘blind spots’ on their screen in overlooking the miserable living conditions of migrant workers that became hotspots of COVID‐19 transmission.
+It will be important that they also find the money needed for COVID‐19 containment among migrant workers, refugees and populations at risk in developing countries.
+When the leading nation of the western hemisphere leaves now the WHO, this is a disastrous signal for global public health at this crucial moment of the COVID‐19 pandemic.
+In the absence of an efficient drug treatment or a vaccine, the control of the COVID‐19 pandemic relies on classic infection control measures.

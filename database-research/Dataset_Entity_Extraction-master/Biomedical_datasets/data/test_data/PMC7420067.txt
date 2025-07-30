@@ -1,0 +1,39 @@
+One set of questions involves susceptibility and outcomes related to SARS-CoV-2 infection (COVID-19).
+Large, international studies and collaborations have formed to investigate host genetic factors related to COVID-19.
+These investigations include analyses of existing public and private datasets, as well as the establishment of new cohorts (e.g., see “The COVID-19 Host Genetics Initiative” and “23andMe/23andMe Research Blog” entries in the Web Resources).
+We use themes identified in our review of these articles to highlight areas that are particularly relevant to human studies of COVID-19; in addition to the limited references cited here, please refer to Table S1 for the additional literature identified through this search, as well as section-specific references not included in the main manuscript.
+In the burgeoning studies of COVID-19 host genetic factors, controlling for these types of other variables will be challenging and important.
+Similar approaches have achieved significant results for other etiologically and medically complex diseases (such as preterm birth), including using some of the same datasets and approaches being proposed for COVID-19 studies.
+This aspect bears further scrutiny in COVID-19 studies, especially given recent data regarding SARS-CoV-2 genetic changes detected in different areas of the world (e.g., see data from Nextstrain under Web Resources).
+Related to the human implications of this type of work, newer gene editing techniques may be an efficient way to provide experimental validation of specific variants that have been implicated in COVID-19.
+This line of reasoning may also be relevant to age-specific differences observed with COVID-19 in humans.
+That is, one of several potential factors that may explain why most children are more mildly affected by COVID-19 is age-related differences in ACE2 receptor expression.
+Several studies have used (and are using) existing datasets to explore allele frequencies (such as in ACE2) in various geographic/ancestral populations: the hypothesis is that differences in allele frequencies—as well as observed differences in gene expression—may be one reason for differential impacts of COVID-19 in different parts of the world.,
+Only studies reporting ORs and CIs are shown (PMID: 32348495 did not include CI).
+Validating findings with biological data will also be helpful—for example, a recent study on COVID-19 showed that certain immune mediators, cytokines, and chemokines correlate with aspects of disease.
+Because of today’s availability of genomic approaches, and in contrast to the previously published studies (described in Tables 1 and S2), emerging studies on COVID-19 will most likely have to consider both rare and common variants in these and other genes, as well as combinatorial models explaining susceptibility and outcomes.
+SARS-CoV-2 studies have suggested that truncated ACE2 could act as a COVID-19 therapeutic through inhibition of SARS-CoV-2 spike protein activity.
+Modern gene editing techniques have been studied in this context; these have also garnered recent interest in COVID-19.
+In COVID-19, the use of splice-switching antisense oligonucleotides has been proposed to affect ACE2 in order to limit SARS-CoV-2 entry.
+As with other questions in COVID-19 (e.g., ethical questions pertaining to human challenge studies in vaccine trials), balancing risks and benefits will be critical.
+Studies of cheetahs present an interesting example related to MHC genes, which may have connections to human COVID-19 studies.
+In humans, severe COVID-19 outcomes have already been reported in peer-reviewed literature (as well as many lay articles), but specific suggestions of associations with consanguinity have not been identified.
+The HLA genes remain a logical target of interest in relation to COVID-19.
+An in silico analysis of viral peptide-MHC class I binding affinity in relation to HLA genotypes for SARS-CoV-2 peptides, as well as potential cross-protective immunity related to four common human coronaviruses, provides evidence that HLA-B∗46:01 may be associated with COVID-19 vulnerability, whereas HLA-B∗15:03 may enable cross-protective T-cell-based immunity.
+Work in humans so far has also concentrated on key immune genes (see Tables 1 and S2); similar work in relation to COVID-19 has been proposed.
+An example of a population-specific consideration has already been mentioned in relation to COVID-19 is that a variant in SCN5A (MIM: 600163) that is common in individuals of recent African descent may increase the risk of cardiovascular morbidity and mortality, including upon exposure to hydroxychloroquine and azithromycin.
+Specific examples have already been reported in the literature on COVID-19.
+Another area of interest may involve studying individuals with identified pathogenic or severe variants (e.g., “human knockouts”) to determine correlations with COVID-19.
+Currently, age appears to be strongly correlated with COVID-19 outcomes.
+Human host genetic studies on coronavirus have been largely candidate driven to date (see Tables 1 and S2 and Figures 3 and 4 for details on human studies, including specific references), though many hypothesis-free studies on COVID-19 are in various phases of completion.
+Previously, lists of recommended secondary genes have been compiled in general contexts, and recommendations have been made about informing individuals about these findings (prior to the COVID-19 pandemic).
+With COVID-19, genomic investigators have newly assembled lists of secondary genetic information that may be relevant to the pandemic.
+Beyond this overarching framework, specific papers have already been published about pharmacogenomic considerations for medications, such as anti-IL-6 agents for the treatment of COVID-19 (as well as hydroxychloroquine and azithromycin).,
+Details of the human studies are presented in the section on Literature Search and Sources, and in Table 1, S2, and Figures 3, 4, and 5.
+In addition to the germline variants described in these previous studies, non-germline changes are discussed as possibly pertinent to COVID-19.
+Correlations between clonal hematopoiesis and COVID-19 mortality have been suggested, as have the potential importance of tumor-based ACE2 genetics and epigenetics.
+MERS and SARS-CoV-1 are severe, but the fact that these epidemics were limited more than the COVID-19 pandemic may have fortunately led to a lack of cases to conduct traditional association studies (unlike some other respiratory infections leading to more widespread disease).
+The literature already reflects specific guidance and lessons learned for many genetic conditions, such as Charcot-Marie-Tooth, G6PD deficiency, Gaucher disease, inherited arrhthymias, and inborn errors of metabolism (see Table S3 for references for COVID-19 guidance related to these conditions).
+In addition to these pragmatic guidelines, understanding gained from studying the impact of COVID-19 on people with these rare diseases may yield insights that can be applied to the population at large, much like how unraveling the causes of primary immunodeficiencies can lead to generalizable knowledge about the immune system.
+We outline key genes and loci from animal and human host genetic studies that may bear investigation in the study of COVID-19.
+We outline key genes and loci from animal and human host genetic studies that may bear investigation in the study of COVID-19.

@@ -1,0 +1,5 @@
+T cells play a vital role in adaptive immunity by targeting pathogen-infected or cancerous cells, but predicting their specificity remains challenging.
+Encoding T-cell receptor (TCR) sequences into informative feature spaces is therefore crucial for advancing specificity prediction and downstream applications.
+For this, we developed a variational autoencoder (VAE)-based model trained on paired TCR α-β chain data, incorporating all six complementarity-determining regions.
+A semi-supervised 'two-stage VAE' framework, integrating cosine triplet loss and a classifier, was found to further refine peptide-specific latent representations, outperforming sequence-based methods in specificity prediction.
+Clustering analyses leveraging our VAE latent space were evaluated using

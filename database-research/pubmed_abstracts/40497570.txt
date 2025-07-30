@@ -1,0 +1,12 @@
+Molecular subtyping, though complex and typically reliant on costly and limited accessibility techniques, remains crucial for understanding the biology of urothelial carcinoma (UC).
+We sought a practical alternative by categorizing UCs into immunohistochemistry (IHC) subtypes using a panel of accessible antibodies.
+Examining 100 UCs from 2020 to 2021, encompassing both chemotherapy-naïve MIBC and NMIBC, acquired through transurethral resection or radical resection, we employed IHC with GATA3, KRT5, KRT14, and KRT20 markers on tissue microarrays.
+IHC luminal, IHC basal, IHC dual-positive, and IHC dual-negative subtypes were identified based on marker expressions.
+Positive staining criteria were established, considering >20% positive staining for specific markers.
+Results indicated a mean age of 64 years, with a 2.33:1 male-to-female ratio, and 60% NMIBC versus 40% MIBC.
+Subtypes identified were IHC luminal (55%), IHC basal (19%), IHC dual (22%), and IHC dual (4%).
+IHC luminal subtype demonstrated the highest overall survival rate (80%), followed by IHC dual (72.72%), IHC basal (63.15%), and IHC dual with the lowest survival (25%).
+KRT5-positive tumors exhibited a crude hazard ratio (HR) of 1.98 in univariate analysis, lacking statistical significance.
+Conversely, GATA3-positive tumors were significantly associated with lower risk in both univariate (Crude HR=0.36, P=0.01) and multivariate analysis (P=0.01).
+In addition, lymphovascular invasion significantly increased risk in both univariate and multivariate analyses (adjusted HR=5.26, P<0.01).
+In conclusion, our study advocates for the early stratification of UC into IHC-based subtypes, facilitated by a panel of 4 markers, offering valuable insights into molecular characteristics, particularly in resource-constrained settings, and aiding clinical stratification.

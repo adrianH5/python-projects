@@ -1,0 +1,7 @@
+Alpha-1 antitrypsin (A1AT) deficiency (AATD) is caused by a mutation in the SERPINA1 gene (PiZ allele), where misfolded A1AT liver accumulation leads to liver damage, and A1AT deficiency in the lungs results in emphysema due to unregulated neutrophil elastase activity.
+Base editing offers a potential cure for A1AT; however, effective treatment is hindered by the absence of dual-target delivery systems that can target key tissues.
+We developed Dual Selective ORgan-Targeting lipid nanoparticles (SORT LNPs) to deliver base editors to the liver and lungs.
+Dual SORT LNPs correct the PiZ mutation, achieving 40% correction editing in liver cells and 10% in lung AT2 cells.
+The liver maintains stable editing for 32 weeks, reducing Z-A1AT levels by over 80% and restoring a normal liver phenotype.
+In parallel, 89% neutrophil elastase inhibition is achieved in lung bronchoalveolar lavage fluid.
+Taken together, Dual SORT LNP therapy offers a promising approach for long-lasting genome correction for multi-organ diseases such as AATD.

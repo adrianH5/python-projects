@@ -1,0 +1,10 @@
+Acute myeloid leukemia (AML) is a common hematopoietic disease that results from diverse genetic abnormalities.
+Dysregulation of important signaling pathways, including the PI3K/AKT/mTOR, Wnt and Hedgehog pathways, plays crucial roles in the development of AML.
+Hedgehog pathway (Hh) is a conserved signaling pathway that is crucial throughout embryogenesis.
+Hh plays an important role in the regulation of autophagy, known as the cellular recycling process of organelles and unwanted proteins.
+Many studies have noted that the modulation of autophagy could act as a survival mechanism in AML.
+Considering the pivotal role of autophagy and Hh signaling in AML, understanding the relationship between these pathways is important for overcoming leukemia.
+Therefore, we examined the efficacy of Hh inhibition by GLI-ANTagonist 61 (GANT61) in MOLM-13 and CMK cells via 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenil-2H-tetrazolium bromide (MTT) cell viability assays.
+GANT61 resulted in decreased cell viability in both cell lines.
+Therefore, we focused on the outcome of autophagy modulation in AML cells.
+We observed that the autophagy inhibitors ammonium chloride (NH

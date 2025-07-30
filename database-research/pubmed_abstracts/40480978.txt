@@ -1,0 +1,8 @@
+MicroRNAs (miRNAs) interact with the target mRNAs to induce translational repression and mRNA degradation.
+Interestingly, miRNAs themselves can turnover rapidly when binding to a target RNA with extensive complementarity, a phenomenon called target-directed miRNA degradation (TDMD).
+To date, all validated TDMD "triggers" can induce miRNA degradation reside in non-coding regions of the RNA.
+We found that TDMD triggers placed in the 3' untranslated region (UTR) of a reporter degraded miRNAs more effectively than those in the coding sequence (CDS).
+Inhibiting translation of the reporter enhanced miRNA degradation by the CDS trigger, indicating that ribosome-free CDS triggers are more accessible to miRNAs.
+By small RNA sequencing, we explored mammalian miRNAs sensitive to global translation status.
+Yet, no endogenous CDS trigger could be confidently assigned to these miRNAs.
+Our work revealed the intricate relationship between translation and TDMD, and explains the paucity of effective TDMD triggers in the CDS.

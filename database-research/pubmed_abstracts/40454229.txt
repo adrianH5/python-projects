@@ -1,0 +1,3 @@
+Cell-free DNA (cfDNA) released by dying cells from damaged or diseased tissues can lead to elevated tissue-specific DNA, which is traceable and quantifiable through unique DNA methylation patterns.
+Therefore, tracing cfDNA origins by analyzing its methylation profiles holds great potential for detecting and monitoring a range of diseases, including cancers.
+However, deconvolving tissue-specific cfDNA remains challenging for broader applications and research due to the scarcity of specialized, user-friendly bioinformatics tools.

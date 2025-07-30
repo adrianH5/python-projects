@@ -1,0 +1,10 @@
+Short chain fatty acids (SCFAs) are small metabolites that are produced through the activity of microbes and have important roles in human physiology.
+These metabolites have varied mechanisms in interacting with the host, of which one such mode is decorating the chromatin landscape.
+We previously detected specific histone modifications in the mouse gut that can be derived from SCFAs and are regulated by the microbiota.
+However, the roles of these SCFAs on chromatin and how they impact gene regulation in human cells is largely unknown.
+Now, our studies demonstrate these microbiota-dependent histone posttranslational modifications (PTMs) are associated with alterations in gene regulation in human cells.
+We show that histone butyrylation on H3K27 is detected in human colon samples.
+Furthermore, histone acetylation, butyrylation, and propionylation on H3K9 and H3K27 are responsive to levels of SCFAs in human colon cancer cell lines and are associated with active gene regulatory elements.
+In addition, treatment of human cancer cell lines with individual metabolites or combinations of SCFAs replicating the intestinal lumen environment result in distinct and overlapping gene program changes, with butyrate largely driving gene regulatory effects of SCFA combinations.
+Lastly, we define butyrate effects on gene expression that are independent of HDAC inhibition and are dependent on p300/CBP, suggesting potential gene programs regulated by histone butyrylation.
+Together, these results demonstrate that SCFAs are key regulators of the chromatin landscape and gene programs in human colorectal cancer cells.

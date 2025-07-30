@@ -1,0 +1,3 @@
+Cerebrovascular autoregulation (CVA) is a homoeostatic regulatory function to maintain constant cerebral blood flow (CBF) despite changes in systemic blood pressure.
+The CVA-based optimal mean arterial pressure (MAPopt) refers to the MAP level at which the CVA mechanism reaches its lowest degree of pressure passiveness, allowing for optimal autoregulation.
+This study aimed to determine MAPopt by analyzing existing CVA data from patients undergoing non-cardiac surgery.

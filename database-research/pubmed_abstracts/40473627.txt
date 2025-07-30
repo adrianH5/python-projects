@@ -1,0 +1,8 @@
+mRNA localization to specific subcellular regions is common in mammalian cells but poorly understood in terms of its physiological roles.
+This study demonstrates the functional importance of Net1 mRNA, which we find prominently localized at the dermal-epidermal junction (DEJ) in stratified squamous epithelia.
+Net1 mRNA accumulates at DEJ protrusion-like structures that interact with the basement membrane and connect to a mechanosensitive network of microfibrils.
+Disrupting Net1 mRNA localization in mouse epithelium alters DEJ morphology and keratinocyte-matrix connections, affecting tissue homeostasis.
+mRNA localization dictates the cortical accumulation of the Net1 protein and its function as a RhoA GTPase exchange factor (GEF).
+Altered RhoA activity is in turn sufficient to alter the ultrastructure of the DEJ.
+This study provides a high-resolution in vivo view of mRNA targeting in a physiological context.
+It further demonstrates how the subcellular localization of a single mRNA can significantly influence mammalian epithelial tissue organization, thus revealing an unappreciated level of post-transcriptional regulation that controls tissue physiology.

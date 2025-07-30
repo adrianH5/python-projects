@@ -1,0 +1,7 @@
+Alzheimer's disease (AD) is a progressive neurodegenerative disorder characterized by amyloid-beta (Aβ) plaque deposition and neurofibrillary tangles, which collectively drive neuroinflammation, synaptic dysfunction, and cognitive decline.
+Here, we investigated whether a peptide epitope vaccine targeting the Aβ1-10 sequence could mitigate Aβ-induced pathology in AD mouse model.
+Three Aβ1-10 peptides, i.e.
+Aβ1-10-N, Aβ1-10-D1H, and Aβ1-10-S8R were synthesized, and Aβ1-10-S8R was further conjugated to ovalbumin (OVA) or keyhole limpet hemocyanin (KLH) to enhance immunogenicity.
+Among seven treatment groups, Aβ1-10-D1H and Aβ1-10-S8R, particularly when conjugated to OVA or KLH, effectively suppressed Aβ, amyloid-beta precursor protein (APP), and beta-secretase 1 (BACE-1) expression, decreased inflammatory cytokine production by astrocytes and microglia, and increased the levels of key synaptic markers (synaptophysin, synaptosomal-associated protein 23 [SNAP-23], postsynaptic density protein 95 [PSD-95]).
+Carrier protein conjugation also elevated immunoglobulin G (IgG) levels in the spleen, indicative of a robust humoral response.
+Taken together, these findings demonstrate that Aβ1-10-based immunization, especially with OVA or KLH conjugation, reduces Aβ-driven neuroinflammation, synaptic dysfunction, and memory deficits, suggesting a promising immunotherapeutic strategy for AD.

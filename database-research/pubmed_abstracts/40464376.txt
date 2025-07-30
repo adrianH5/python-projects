@@ -1,0 +1,8 @@
+Trastuzumab resistance remains a challenge for HER2-positive breast cancer treatment.
+Targeting metabolic reprogramming would provide novel insights for therapeutic strategies.
+Here, we integrated metabolomics, transcriptomics, and epigenomics data of trastuzumab-sensitive and primary-resistant HER2-positive breast cancer to identify metabolic alterations.
+Aberrant cysteine metabolism was discovered in trastuzumab primary-resistant breast cancer at both circulating and intracellular levels.
+The inhibition of SLC7A11 and cysteine starvation could synergize with trastuzumab to induce ferroptosis.
+Mechanistically, increased H3K4me3 and decreased DNA methylation enhanced SLC7A11 transcription and cystine uptake in trastuzumab-resistant breast cancer.
+The regulation of epigenetic modifications modulated cysteine metabolism and ferroptosis sensitivity.
+These results revealed an innovative approach for overcoming trastuzumab resistance by targeting specific amino acid metabolism.

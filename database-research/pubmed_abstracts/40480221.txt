@@ -1,0 +1,7 @@
+Proteogenomic analysis is applied to samples from the CALGB 40601 (Alliance) randomized neoadjuvant trial of trastuzumab, lapatinib, or the combination to identify biomarkers associated with pathological response status.
+Absence of ERBB2 gene amplification and human epidermal growth factor receptor 2 (HER2) protein overexpression by proteogenomics is associated with non-pathological compete response (pCR) (p < 0.05), highlighting potential false positives from standard diagnostics.
+Pathway analysis in proteogenomics-confirmed HER2+ samples identifies elevated epithelial-mesenchymal transition (EMT) and WNT-β-catenin signaling in non-pCR cases before treatment.
+Twenty-four pCR-associated proteins reproduce in a second proteomic dataset, and four (GPRC5A, TPBG, SP140L, and NEU1) are significant in a third.
+A meta-analysis of ten diverse neoadjuvant anti-HER2 treatment regimens from four independent studies confirms that non-pCR cases express higher levels of mRNA for G protein-coupled receptor class C group 5 member A (GPRC5A, p = 0.0002) and trophoblast glycoprotein (TPBG, p = 0.00008).
+Thus, proteogenomic analysis identifies negative biomarkers for pCR and alternative plasma membrane targets for treatment-resistant HER2+ breast cancer.
+This trial is registered at clinicaltrials.gov (NCT00770809).

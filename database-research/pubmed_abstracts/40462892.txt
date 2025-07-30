@@ -1,0 +1,7 @@
+Glioblastoma (GBM) remains the most common and lethal adult malignant primary brain cancer with few treatment options.
+A significant issue hindering GBM therapeutic development is intratumor heterogeneity.
+GBM tumors contain neoplastic cells within a spectrum of different transcriptional states.
+Identifying effective therapeutics requires a platform that predicts the differential sensitivity and resistance of these states to various treatments.
+Here, we developed a novel framework, ISOSCELES (Inferred cell Sensitivity Operating on the integration of Single-Cell Expression and L1000 Expression Signatures), to quantify the cellular drug sensitivity and resistance landscape.
+Using single-cell RNA sequencing of newly diagnosed and recurrent GBM tumors, we identified compounds from the LINCS L1000 database with transcriptional response signatures selectively discordant with distinct GBM cell states.
+We validated the significance of these findings

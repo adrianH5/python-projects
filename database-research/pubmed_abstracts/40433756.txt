@@ -1,0 +1,5 @@
+Triple Negative Breast Cancer (TNBC) is an aggressive type of breast cancer that is responsible for most of the cancer related deaths in women.
+Traditional two-dimensional (2D) cell cultures are insufficient to mimic the complex tumour environment, so three-dimensional (3D) spheroid cultures are used to provide a more accurate model.
+Our study explores the anticancer and antimetastatic effects of linarin on TNBC cell line MDA-MB-231 cells.
+We conducted experiments using both 2D and 3D cultured cells.
+Linarin treatment reduced cell viability (2D IC

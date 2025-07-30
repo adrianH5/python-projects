@@ -1,0 +1,7 @@
+DNA topoisomerases, particularly type II, are crucial for DNA processes, such as replication, transcription, and chromosome segregation, making them prime targets for cancer therapy.
+This review delves into the multifaceted mechanisms of action of type II topoisomerases, highlighting their essential roles beyond cancer progression.
+It explores recent advancements in screening and designing metallic complexes as inhibitors of topoisomerase II activity.
+Emphasizing the structural and functional diversity between alpha and beta isoforms, it elucidates their significance in DNA metabolism and genome integrity.
+Additionally, this review discusses the interplay of topoisomerase II with cellular components, underscoring its regulatory roles in gene expression.
+Insights into screening and design strategies for metallic complex inhibitors are provided, showcasing their therapeutic potential against cancer.
+Overall, this review highlights the importance of understanding topoisomerase II inhibition mechanisms and the versatility of metallic complexes in biomedical research, paving the way for novel therapeutic strategies and broader applications beyond cancer therapy.

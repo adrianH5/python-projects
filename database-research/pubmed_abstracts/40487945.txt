@@ -1,0 +1,4 @@
+Stage IV pancreatic cancer (PC) has a poor prognosis and lacks individualized prognostic tools.
+Current survival prediction models are limited, and there is a need for more accurate, personalized methods.
+The Surveillance, Epidemiology, and End Results (SEER) database offers a valuable resource for studying large patient cohorts, yet machine learning-based nomograms for stage IV PC prognosis remain underexplored.
+This study hypothesizes that a machine learning-based nomogram can predict cancer-specific survival (CSS) and overall survival (OS) with high accuracy in stage IV PC patients.

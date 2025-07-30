@@ -1,0 +1,10 @@
+Chronic arsenic (As) exposure through contaminated drinking water remains a global health concern, with established links to serious diseases affecting multiple organ systems, particularly the liver.
+This study aimed to investigate circulating microRNA (miRNA) profiles in plasma as potential biomarkers for As-induced organ injury, including hepatotoxicity.
+Plasma samples from a rural population residing in As endemic areas in Punjab, Pakistan (n = 57), were collected and stratified into low, medium, and high As exposure groups based on urinary As levels.
+Using elastic net regression and linear mixed-effects models (LMM), we identified 15 miRNAs significantly associated with As exposure.
+Three of these miRNAs, i.e.
+miR-122-3p, miR-194-5p, and miR-192-5p were highly enriched in the liver and exhibited significant negative correlations with urinary As levels.
+Conversely, brain-enriched miRNAs such as miR-92b-3p were positively associated with As exposure, while miR-376b-3p was negatively associated, suggesting potential impacts on neuronal health.
+Pathway enrichment analysis revealed significant associations between these miRNAs and biological processes such as oxidative stress, lipid metabolism, and inflammatory responses, while disease overrepresentation analysis highlighted links to various cancers, cardiovascular diseases, and neurological disorders.
+Notably, these miRNA profiles provide mechanistic insights into As-induced toxicity and demonstrate the potential to detect low-level exposure effects before overt clinical symptoms emerge.
+Our findings suggest that circulating miRNAs offer valuable tools for non-invasive biomonitoring of environmental toxin exposure and elucidating the molecular pathways underlying As-related health risks.

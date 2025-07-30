@@ -1,0 +1,7 @@
+Pyrazolo[4,3-e]tetrazolo[1,5-b][1,2,4]triazine sulfonamides (MM-compounds) represent a novel class of heterocyclic compounds with promising anticancer potential.
+In this study, we report the synthesis and biological evaluation of two enantiomeric derivatives: the R-enantiomer (MM124) and the S-enantiomer (MM125).
+Both compounds exhibited potent and selective cytotoxicity against a panel of cancer cell lines derived from various tissue types, with a median IC₅₀ value of 0.35 µM.
+Mechanistic investigations in colorectal (HT-29) and prostate (PC-3) cancer cell lines demonstrated that the compounds induce apoptosis, oxidative stress, and DNA damage.
+Electrochemical assays and computational studies further suggested that MM124 and MM125 interact with DNA.
+Additionally, in silico pharmacokinetic and toxicological profiling indicated favorable drug-like properties.
+These findings support the potential of MM124 and MM125 as candidates for the development of new anticancer agents, warranting further structural optimization and preclinical evaluation.

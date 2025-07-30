@@ -1,0 +1,8 @@
+T1	Dataset 504 510	GISAID
+T2	Repository 512 519	GenBank
+T3	Dataset 748 754	GISAID
+T4	Repository 958 980	European Virus Archive
+T5	AccessionNumber 998 1008	026V‐03883
+T6	Dataset 1769 1775	GISAID
+T7	Repository 2171 2181	Nextstrain
+R1	hasAttr	Arg1:T4	Arg2:T5

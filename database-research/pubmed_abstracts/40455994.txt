@@ -1,0 +1,6 @@
+Understanding the dynamical behavior of complex systems from their underlying network architectures is a long-standing question in complexity theory.
+Therefore, many metrics have been devised to extract network features like motifs, centrality, and modularity measures.
+It has previously been proposed that network symmetries are of particular importance since they are expected to underlie the synchronization of a system's units, which is ubiquitously observed in nervous system activity patterns.
+However, perfectly symmetrical structures are difficult to assess in noisy measurements of biological systems, like neuronal connectomes.
+Here, we devise a principled method to infer network symmetries from combined connectome and neuronal activity data.
+Using nervous system-wide population activity recordings of the

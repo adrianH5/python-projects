@@ -1,0 +1,4 @@
+T1	Repository 1145 1157	1000 Genomes
+T2	URL 1168 1203	https://www.internationalgenome.org
+T3	Dataset 1240 1244	GTEx
+R1	hasAttr	Arg1:T1	Arg2:T2

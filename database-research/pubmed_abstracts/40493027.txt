@@ -1,0 +1,3 @@
+Robot-assisted radical prostatectomy (RARP) represents the leading application of robotic surgery in the treatment for prostate cancer with faster recovery and reduced invasiveness.
+Maintaining stable blood pressure during RARP is crucial to avoid complications.
+The approach used is goal-directed therapy (GDT); however, the Hypotension Prediction Index (HPI), a machine learning algorithm that analyses arterial waveforms, may provide additional benefits.

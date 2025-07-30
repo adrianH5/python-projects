@@ -1,0 +1,3 @@
+Cervical cancer (CC) progression and therapeutic resistance are driven by metastatic dissemination and immune evasion.
+Although immunotherapy has emerged as a promising strategy, current biomarkers fail to adequately predict patient prognosis or immune checkpoint inhibitor (ICI) responsiveness.
+Programmed cell death (PCD) pathways are intricately linked to tumor-immune crosstalk, yet their systematic integration into predictive models remains unexplored in CC.

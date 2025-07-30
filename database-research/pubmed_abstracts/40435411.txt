@@ -1,0 +1,10 @@
+RNA homeostasis is dysregulated in cancer and impacts disease progression and therapy resistance.
+N6-methyladenosine (m6A), the most abundant epitranscriptomic modification in eukaryotic mRNA, plays a pivotal role in RNA biology, affecting transcript stability, translation, and splicing.
+Our study uncovers the extensive m6A changes in T-cell acute lymphoblastic leukemia (T-ALL) patient samples for the first time.
+It reveals m6A's regulatory role in the oncogenic MYC and cholesterol biosynthesis pathways.
+In addition, we discovered that T-ALL is highly dependent on the m6A reader heterogeneous nuclear ribonucleoprotein C (HNRNPC).
+HNRNPC is transcriptionally controlled by MYC and is an essential regulator of m6A-modified transcripts.
+Consequently, transcriptional silencing of HNRNPC profoundly impairs oncogenic pathways and critically diminishes leukemia cell growth.
+Additionally, the levels of the m6A demethylase fat mass and obesity-associated (FTO) are significantly elevated in T-ALL cells compared to normal cells, and to other types of leukemia.
+Targeting FTO shows therapeutic potential in preclinical disease models and synergizes with clinically relevant therapeutics.
+Our findings underscore the integral role of RNA methylation in orchestrating cancer cell oncogene expression and metabolism and highlight promising novel therapeutic avenues for the treatment of T-cell leukemia.

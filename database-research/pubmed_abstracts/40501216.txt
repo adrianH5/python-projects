@@ -1,0 +1,14 @@
+ObjectiveEpileptogenic tubers (ETs) contribute to the epileptogenesis in patients with tuberous sclerosis complex (TSC).
+High mobility group protein B-1 (HMGB1) triggers inflammatory responses that impact neuronal electrical activity.
+We aimed to study the role of HMGB1 in epileptogenicity in TSC-related epilepsy.MethodsThis study included both human and animal models.
+ETs were identified through comprehensive preoperative evaluations and postoperative seizure outcomes following tuberectomy.
+Immunofluorescence was performed to assess the positive area and fluorescence intensity of HMGB1 and IL-1β in ETs and non-ETs.
+TSC2-GFAP-CKO mice and epileptic models were established.
+Mice in the prevention group (postnatal day 14) received daily injections of monoclonal HMGB1 or IL-1β antibodies for 22 days.
+Mice in the intervention group (postnatal day 28) received identical treatments.
+Genetic and proteomic analyses of HMGB1 and IL-1β were conducted on both TSC patients and animal models.ResultsHMGB1 and IL-1β were significantly overexpressed in ETs compared to non-ETs.
+HMGB1 was predominantly nuclear in non-ETs but mainly cytoplasmic in ETs.
+In animal models, HMGB1 and IL-1β expression at both the gene and protein levels was significantly upregulated in the TSC2-deficient group compared to the wild-type group.
+IL-1β expression was lower in the HMGB1-intervention group than in the model control group.
+Seizure frequency was reduced in both HMGB1 and IL-1β prevention and intervention groups compared to the model control.ConclusionsThe interference of HMGB1 and IL-1β significantly reduced the frequency of seizure attacks in TSC.
+Epileptic seizures serve as key triggers for HMGB1 translocation and subsequent release into the cytoplasm, contributing to seizure recurrence.

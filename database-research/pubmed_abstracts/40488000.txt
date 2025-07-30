@@ -1,0 +1,9 @@
+Three anti-blood cancer agents of the nitrogen mustard type, namely, cyclophosphamide, uramustine, and chlorambucil, were studied using quantum chemical computational methods.
+The first, approximate B3LYP method is suitable for rapid optimization of molecular geometry and vibrational analysis of small- or medium-sized molecules.
+It provides ground-state properties (dipole moment and polarizability, quadrupole moment, solvated volume and surface area, energy of zero-point vibration, entropic contribution, and NMR shielding constants) and global redox adiabatic properties (electron affinity, ionization energy, chemical hardness, molecular electronegativity, electrophilicity index, absolute reduction, and oxidation potentials).
+Calculations were performed in a solvent parametrized for water.
+The calculations were improved by using the DLPNO-CCSD-(T) - domain localized pair natural orbitals-coupled cluster singles + doubles + triples method.
+This post-Hartree-Fock method accounts for almost the full electron correlation energy.
+The calculated molecular descriptors were compared to those obtained for melphalan and bendamustine in their canonical and zwitterionic forms.
+Bulk molecular properties (dipole polarizability, quadrupole moment, solvated volume and surface area, zero-point vibration energy, and total entropic term) were found to correlate with molecular molar mass.
+The ionization energies of uramustine (120) and chlorambucil (116) are close to those calculated for melphalan (117) and bendamustine (112, 124); all data in kcal mol

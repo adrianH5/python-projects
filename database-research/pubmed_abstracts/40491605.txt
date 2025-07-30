@@ -1,0 +1,4 @@
+AXL, a tyrosine kinase receptor, is over-expressed in many solid and hematologic cancers, promoting progression and poor clinical outcomes.
+It also contributes to resistance against chemotherapeutic agents, especially tyrosine kinase inhibitors, by upregulating AXL signaling or switching oncogenic pathways.
+These factors make AXL an attractive therapeutic target.
+However, early attempts with naked antibody therapies failed due to the high doses need for efficacy, and antibody-drug conjugates (ADCs) targeting AXL were hindered by off-tumor toxicities due to its expression on normal tissues.

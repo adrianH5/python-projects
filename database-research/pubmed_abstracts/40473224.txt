@@ -1,0 +1,10 @@
+Necroptosis is involved in neuronal cell death and inflammation, with the receptor-interacting protein kinase (RIPK) 1-RIPK3-mixed lineage kinase domain-like protein (MLKL) necrosome complex playing a significant role.
+Although MLKL is considered the final executor of necroptosis, its role in neuroinflammation remains unclear.
+In the present study, we explored the role of MLKL in lipopolysaccharide (LPS)- or polyinosinic-polycytidylic acid (poly(I:C))-induced neuroinflammation using the MLKL-specific inhibitor necrosulfonamide (NSA).
+NSA or MLKL siRNA reduced nitric oxide and proinflammatory cytokine production under LPS- or poly(I:C)-induced inflammation and LPS/QVD/BV6- or poly(I:C)/QVD/BV6-induced necroptosis in BV2 microglial cells; QVD is a pan-caspase inhibitor, and BV6 antagonizes inhibitor of apoptosis protein.
+Additionally, NSA suppressed the phosphorylation of RIPK1-RIPK3-MLKL and reduced the expression of damage-associated molecular patterns, including high mobility group box 1, in inflammatory/necroptotic BV2 cells.
+Subsequent mechanistic studies revealed that NSA reduces inflammation by upregulating nuclear factor-erythroid 2 (NF-E2)-related factor (Nrf2) signaling pathways and blocking reactive oxygen species, mitogen-activated protein kinases, and nuclear factor-κB.
+The anti-inflammatory effects of NSA were confirmed in the brains of mice with systemic inflammation caused by LPS or poly(I:C) injection.
+NSA suppressed microglial activation, proinflammatory gene expression, and disruption of blood-brain barrier integrity while upregulating Nrf2-mediated antioxidant enzymes in the brains of LPS- or poly(I:C)-injected mice.
+Furthermore, NSA suppressed the phosphorylation and expression of RIPK1-RIPK3-MLKL, and p-MLKL expressed in activated microglia, indicating that MLKL plays a crucial role in microglial activation in mice with systemic inflammation.
+Therefore, modulating MLKL expression may be an effective treatment for necroptosis-related neuroinflammatory disorders.

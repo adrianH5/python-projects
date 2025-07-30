@@ -1,0 +1,4 @@
+The present study focuses mainly on the extraction of C-Phycocyanin (CPC) pigment from cyanobacteria, its optimization and evaluation of its radical scavenging and antiproliferative abilities.
+Optimization of the pigment production was conducted both experimentally and statistically by response surface methodology (RSM).
+Quadratic models were fitted to the responses obtained from the box-Behnken design (BBD), to examine the interactions among Carbon, Nitrogen, Phosphate, pH and Temperature, and their impact on pigment production.
+Analysis of variance (ANOVA) validated the model,revealing that higher levels of carbon, nitrogen and phosphate significantly influenced (

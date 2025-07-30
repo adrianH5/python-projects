@@ -1,0 +1,9 @@
+Triple-negative breast cancer (TNBC), characterized by negative expression of estrogen receptor, progesterone receptor, and oncogene HER-2, always exhibits resistance to targeted drugs.
+Immunotherapies have demonstrated promising clinical responses and significant potential for TNBC treatment.
+Enhancing and activating antitumoral immunity can help restrain TNBC progression.
+In this work, we developed and validated an irradiation-responsive, tumor-targeting, and pyroptosis-enhanced drug delivery system based on neutrophils for effective TNBC treatment.
+Specifically, TNBC cell membrane-derived liposomes were loaded with photothermal agent IR775 and a pyroptosis-promoting plasmid carrying GSDME coding sequence (GI-LNPs).
+These GI-LNPs were then anchored onto the surface of neutrophils via biotin-avidin interaction and delivered into the tumor through local injury-driven neutrophil infiltration.
+Compared to conventional therapeutic strategies, NE-GI-LNPs accumulated and penetrated more deeply into tumor tissues.
+Furthermore, IR775-triggered the generation of caspase-3 under NIR laser irradiation promoted the cleavage of expressed GSDME, converting apoptosis to pyroptosis in 4T1 cells and enhancing antitumor immunity.
+Overall, our study demonstrated that multifunctional GI-LNPs delivered by neutrophils could effectively inhibit tumor growth through pyroptosis-enhanced antitumor immunotherapy.

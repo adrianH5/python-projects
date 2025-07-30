@@ -1,0 +1,8 @@
+In the JAVELIN Bladder 100 randomized phase 3 trial (N = 700), avelumab first-line maintenance plus best supportive care (BSC) significantly prolonged overall survival (OS; primary endpoint) and progression-free survival (PFS) versus BSC alone in patients with advanced urothelial carcinoma (aUC) without progression after first-line platinum-based chemotherapy (PBC).
+Here, we report exploratory analyses of subgroups with nonvisceral metastases at the start of PBC (including bone metastases) or lymph node-only disease at randomization.
+The median OS with avelumab versus control in patients with nonvisceral metastases (n = 318) was 31.4 versus 17.1 mo (hazard ratio [HR], 0.60 [95% confidence interval {CI}, 0.45-0.79]), and in patients with lymph node-only disease (n = 102), it was 31.9 versus 22.7 mo (HR, 0.86 [95% CI, 0.51-1.47]).
+In patients with nonvisceral metastases, prolonged OS was observed with avelumab irrespective of the response to PBC or PBC regimen received.
+PFS analyses favored avelumab over control in all the subgroups.
+Incidences of avelumab-related adverse events were similar across the subgroups.
+Limitations include small sample sizes and the exploratory nature of analyses.
+Overall, exploratory analyses suggest that in first-line PBC-treated patients without progression, avelumab maintenance is effective and has a manageable toxicity profile in patients with aUC who have nonvisceral metastases or lymph node-only disease.

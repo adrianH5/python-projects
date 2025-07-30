@@ -1,0 +1,2 @@
+Although circulating tumor DNA (ctDNA) dynamics have been widely explored for therapeutic response assessment, standardized methodologies remain elusive.
+Here, we developed MinerVa-Delta, a novel approach to quantify ctDNA dynamics by calculating weighted mutation changes in samples with multiple tracked variants.

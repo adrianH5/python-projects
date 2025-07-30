@@ -1,0 +1,9 @@
+Gastric cancer is highly lethal due to late-stage diagnosis and resistance to standard treatments like radiotherapy.
+Enhancing radiosensitivity in gastric cancer cells could improve treatment outcomes.
+Withaferin A (WA), a bioactive compound from Withania somnifera, has anticancer effects and can modulate cellular processes like autophagy and mitochondrial function.
+This study investigates WA's role in enhancing radiosensitivity by targeting apoptosis, autophagy, and mitochondrial function in SGC-7901 gastric cancer cells.
+In both in vitro and in vivo models, combined WA and radiation (IR) treatment significantly inhibited tumor growth, as evidenced by reduced tumor size in xenografts.
+Mechanistically, this combination promoted apoptosis, with increased levels of cleaved caspase-3 and PARP, indicating enhanced cell death.
+WA altered autophagic dynamics by activating autophagy and blocking autophagic flux, shown by LC3II accumulation and SQSTM1/p62 buildup.
+Moreover, the combined treatment disrupted mitochondrial function, leading to decreased ATP production, reduced respiratory capacity, and increased proton leakage, which contributed to cellular stress.
+These findings suggest that WA may serve as a radiosensitizer to enhance radiotherapy efficacy in gastric cancer, highlighting its therapeutic potential and advocating for further exploration of phytocompounds in cancer treatment.

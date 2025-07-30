@@ -1,0 +1,8 @@
+Pancreatic cancer is a highly aggressive malignancy with rising incidence and mortality rates, often diagnosed at advanced stages.
+Conventional imaging methods, such as computed tomography (CT) and magnetic resonance imaging (MRI), struggle to assess tumor characteristics and vascular involvement, which are crucial for treatment planning.
+This paper explores the potential of diffusion magnetic resonance imaging (dMRI) in enhancing pancreatic cancer diagnosis and treatment.
+Diffusion-based techniques, such as diffusion-weighted imaging (DWI), diffusion tensor imaging (DTI), intravoxel incoherent motion (IVIM), and diffusion kurtosis imaging (DKI), combined with emerging AI‑powered analysis, provide insights into tissue microstructure, allowing for earlier detection and improved evaluation of tumor cellularity.
+These methods may help assess prognosis and monitor therapy response by tracking diffusion and perfusion metrics.
+However, challenges remain, such as standardized protocols and robust data analysis pipelines.
+Ongoing research, including deep learning applications, aims to improve reliability, and dMRI shows promise in providing functional insights and improving patient outcomes.
+Further clinical validation is necessary to maximize its benefits.

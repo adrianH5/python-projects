@@ -1,0 +1,5 @@
+Acute ischemic stroke (AIS) has a poor prognosis and a high recurrence rate.
+Predicting the outcomes of AIS patients in the early stages of the disease is therefore important.
+The establishment of intracerebral collateral circulation significantly improves the survival of brain cells and the outcomes of AIS patients.
+However, no machine learning method has been applied to investigate the correlation between the dynamic evolution of intracerebral venous collateral circulation and AIS prognosis.
+Therefore, we employed a support vector machine (SVM) algorithm to analyze asymmetrically prominent cortical veins (APCVs) and deep medullary veins (DMVs) to establish a radiomic model for predicting the prognosis of AIS by combining clinical indicators.

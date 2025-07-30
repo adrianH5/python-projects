@@ -1,0 +1,9 @@
+Silver doping into zinc oxide nanoparticles (Ag-ZnO NPs) were prepared via the co-precipitation method.
+The XRD analysis revealed the hexagonal structure characteristic of ZnO nanoparticles.
+The diminishing intensity of the peaks in Ag-ZnO NPs' XRD pattern indicated the successful incorporation of Ag metal within the ZnO lattice.
+Elemental composition validation was performed through energy-dispersive X-ray spectroscopy (EDX), while FTIR spectroscopy elucidated the functional groups present in both ZnO and Ag nanoparticles.
+A judicious approach of 3% silver doping was employed to overcome silver's toxicity potential at higher concentrations.
+Remarkably, the Ag-ZnO NPs exhibited exceptional, reusable photocatalytic prowess over four cycles in the degradation of methylene blue.
+Furthermore, the Ag-ZnO NPs showcased potent antibacterial efficacy against select pathogens, including Escherichia coli ATCC 27853, Salmonella typhi CT18, Staphylococcus aureus NCTC8325, and Bacillus subtilis QST 713.
+Notably, these nanoparticles also exhibited significant anticancer activity against Hep-G2, a human hepatoma cell line.
+Silver-doped zinc oxide emerges as a promising asset against wastewater dye pollution and holds promising applications in liver cancer.

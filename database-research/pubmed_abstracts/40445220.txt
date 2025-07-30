@@ -1,0 +1,16 @@
+Breast implant-associated anaplastic large cell lymphoma (BIA-ALCL) is a rare T-cell non-Hodgkin lymphoma, representing less than 1% of breast neoplasms.
+Despite its low incidence, the increasing number of women with breast implants necessitates vigilance among clinicians and pathologists.
+BIA-ALCL presents in situ and invasive forms, with varying prognoses.
+The National Comprehensive Cancer Network guidelines recommend cytology, immunohistochemistry, and flow cytometry (FCM) for diagnosis.
+This retrospective study analyzed 16 periprosthetic fluid (PF) samples from suspected lymphoma cases between January 2018 and January 2024.
+Cytological and immunological analyses were performed using May Grünwald-Giemsa staining, and FCM with BD FACSCanto II and BD LYRIC cytometers.
+A 10 or 12-colour FCM panel including pan-T markers and CD30 was used.
+Of the 16 samples, 2 cases were diagnosed with BIA-ALCL.
+BIA-ALCL cases showed atypical CD4+ T-cells with large size and loss of CD3 and CD7.
+In contrast, the 14 reactive cases did not exhibit atypical cells.
+Key challenges included sample volume limitations, cell dilution, and distinguishing neoplastic cells from reactive ones, particularly in cases with low cell counts.
+FCM, combined with an extensive panel of pan-T markers and CD30, effectively differentiates anaplastic BIA-ALCL cells from reactive seroma.
+However, it should complement, not replace, traditional diagnostic methods.
+Recognizing pitfalls and correlating FCM findings with clinical and morphological data enhances diagnostic accuracy.
+FCM is a valuable tool for diagnosing BIA-ALCL but should be used alongside other methods.
+Accurate diagnosis depends on understanding sample-specific challenges and integrating FCM results with clinical context.

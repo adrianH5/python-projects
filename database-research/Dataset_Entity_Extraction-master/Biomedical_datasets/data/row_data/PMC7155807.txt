@@ -1,0 +1,8 @@
+Severe lung inflammation and tissue damage are hallmarks of COVID-19, significantly contributing to mortality from this infection (Mehta et al., 2020); thus, enhancement of inflammation and cytokine storm must be avoided.
+The absence of pro-inflammatory effects in the lungs (Davidson et al., 2016; Forero et al., 2019; Galani et al., 2017) is one of the most important arguments for the specific advantage of IFN-λ over type I IFNs as a treatment option for COVID-19.
+However, it is very important to establish if immune cells are responsive to IFN-λ in COVID-19, as their activation exacerbates inflammation.
+In addition, bacterial superinfections can be associated with severe cases of COVID-19 (Zhang et al., 2020
+Preprint), although this varies between clinical studies.
+Although mouse models do not fully recapitulate human diseases with respect to IFN-λ activities, animal studies give a mandate to carefully evaluate the use of IFN-λ as a therapeutic agent against COVID-19.
+The Viewpoint discusses the benefits and potential limitations of using interferon lambda (IFN-λ, a type III interferon) to prevent, limit, and treat COVID-19.
+With the first reports on coronavirus disease 2019 (COVID-19), which is caused by the novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the scientific community working in the field of type III IFNs (IFN-λ) realized that this class of IFNs could play an important role in this and other emerging viral infections.

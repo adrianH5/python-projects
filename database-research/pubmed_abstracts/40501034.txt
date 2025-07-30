@@ -1,0 +1,10 @@
+TP53 is included in most cancer predisposition multigene panels, especially those exploring Hereditary Breast and Ovarian Cancer (HBOC) predisposition.
+The purpose of this study was to define the contribution of TP53 pathogenic variants (PV) to the HBOC phenotype by collecting genotypes and phenotypes of 398 patients harboring a TP53 variant identified by 53,085 HBOC panel sequencing in 15 French laboratories.
+Heterozygous TP53 variants were identified in 0.44% of HBOC panels, evenly distributed between PV and VUS.
+Breast cancers associated with TP53 were predominantly triple positive, particularly Her2+ breast cancer, in situ cancer, or phyllodes tumors (p < 0.0001 for both).
+Interestingly, TP53 PV were identified across all ages in breast cancer patients, with enrichment before 36y.
+We demonstrated that null variants were linked with the HBOC phenotype, and missense variants, especially with a dominant negative effect, with the LFS phenotype (p = 0.0096).
+Patients with breast cancer harboring null variants displayed an earlier age of onset compared to missense (p = 0.0030).
+Surprisingly, we identified, in late-onset cancer patients, TP53 hotspot PV usually identified in classic LFS, which underlines variable penetrance.
+Thus, this study suggests the existence of two phenotypic entities associated with TP53 PV: clinical LFS and TP53-related breast cancer.
+The type of TP53 variant, as well as modifying factors reflected in family history, may influence these phenotypes, and both should be considered to define the clinical follow-up of patients and relatives.

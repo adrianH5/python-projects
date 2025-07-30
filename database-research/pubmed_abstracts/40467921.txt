@@ -1,0 +1,8 @@
+Lung cancer, the leading cause of cancer-related deaths globally, includes non-small cell lung cancer (NSCLC) (85% of cases) and small cell lung cancer (SCLC) (13-15%).
+While accurate diagnosis and treatment selection are critical, the absence of reliable predictive or prognostic biomarkers remains a significant challenge.
+This study explored the combined use of radiomics from CT scans and pathomics from H&E slides in three contexts: (1) predicting disease recurrence in early-stage NSCLC, (2) predicting immunotherapy response in advanced-stage NSCLC, and (3) predicting chemotherapy response in SCLC.
+The integrated radio-pathomic model significantly outperformed individual models.
+In early-stage NSCLC (N = 194), it achieved an HR of 8.35 (C-index: 0.71, p = 0.0043).
+In advanced-stage NSCLC (N = 35), the combined model improved predictive performance (AUC: 0.75, p = 0.042).
+In SCLC (N = 50), the integrated model showed an AUC of 0.78, surpassing both radiomic and pathomic models.
+These findings highlight the potential of combining radiomics and pathomics for improved lung cancer risk stratification and treatment prediction.

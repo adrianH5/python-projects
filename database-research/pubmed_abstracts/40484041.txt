@@ -1,0 +1,11 @@
+Hepatocellular carcinoma (HCC) remains a major global health challenge, particularly in advanced stages where treatments options are limited.
+Sorafenib, the standard systemic therapy for advanced HCC, offers only modest survival benefits, and is frequently associated with resistance and adverse effects, highlighting the need for improved therapeutic strategies.
+Se-methylselenocysteine (MSC), a redox-active selenium compound, has demonstrated selective cytotoxicity in cancer cells, particularly when combined with α-ketoacid (Indole-3-pyruvic acid (IPA) and α-Keto-γ-methylthiobutyric acid sodium salt (KMB)).
+This study evaluated the therapeutic potential of MSC in combination with sorafenib and/or α-ketoacid in HCC cell lines (HEPG2 and Huh7).
+Our findings indicate that MSC combined with sorafenib significantly decreased cell viability in Huh7 cells but had a less pronounced effect in HEPG2 cells compared to sorafenib alone.
+In contrast, triple combinations of MSC, sorafenib, and α-ketoacid markedly enhanced antiproliferative effects in both cell lines.
+Specifically, the MSC-IPA-sorafenib combination demonstrated greater efficacy in reducing sorafenib's IC50 values than MSC-KMB-sorafenib.
+At the molecular level, sorafenib exhibited district effect on key signaling pathways: in Huh7 cells, it suppressed the MAPK/ERK and AKT/mTOR pathways, whereas in HEPG2 cells, it increased p-ERK, p-mTOR, and p-S6 expression, suggesting a cell-context-dependent response.
+Importantly, both triple combinations (sorafenib-MSC-IPA and sorafenib-MSC-KMB) robustly inhibited the AKT/mTOR pathway in both cell lines, achieving greater suppression than sorafenib monotherapy.
+These results highlight the potential of combining MSC, sorafenib, and α-ketoacid as a promising strategy to enhance HCC treatment efficacy.
+Further in vivo studies are warranted to confirm their therapeutic potential in HCC.

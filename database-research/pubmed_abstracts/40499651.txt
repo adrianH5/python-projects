@@ -1,0 +1,7 @@
+A longstanding question in type 1 diabetes (T1D) research pertains to the selective loss of β-cells whilst neighboring islet α-cells remain unharmed.
+Here we demonstrate differential sensitivity of mouse α- and β-cells to deficient RNA editing, a cellular process that prevents double-stranded RNA (dsRNA)-mediated activation of a type I interferon (IFN) response.
+Mosaic disruption of the RNA editing enzyme Adar in mouse β-cells triggers a massive interferon response, islet inflammation and mutant β-cell destruction.
+Surprisingly, wild type β-cells are also eliminated while neighboring α-cells are unaffected.
+α-cell Adar deletion leads to only a slight elevation in interferon signature and does not elicit inflammation nor a metabolic phenotype.
+Concomitant deletion of Adar in α- and β-cells leads to elimination of both cell populations, suggesting that in contrast to β-cells, α-cell death requires both cell autonomous deficiency in RNA editing and exogenous cytokines.
+Thus, the resistance of α-cells to the impacts of RNA editing deficiency and to cytokines mirrors their persistence in T1D, and constitutes a molecularly defined model of differential islet cell vulnerability.

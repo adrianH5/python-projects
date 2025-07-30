@@ -1,0 +1,3 @@
+This study describes the process and outcomes of a Patient and Public Involvement and Engagement (PPIE) event designed to incorporate patient perspectives into the application of Natural Language Processing (NLP) for analyzing unstructured free-text cancer medical notes.
+The analysis of routinely collected data aims to provide evidence to support clinical decision making in patient groups that are often under-represented in conventional clinical trials, highlighting the critical role of PPIE in responsibly implementing AI within healthcare.
+The study focuses on ensuring that NLP research reflects patient-centered and clinically relevant considerations.

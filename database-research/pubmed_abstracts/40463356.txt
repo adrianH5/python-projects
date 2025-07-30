@@ -1,0 +1,14 @@
+Neoadjuvant chemoradiotherapy (nCRT) has been shown to improve outcomes for patients with rectal cancer, but the impact of the lymph node status after achieving pathological complete response remains elusive.
+The present study aimed to assess the prognosis and influencing factors of patients with rectal cancer with different lymph node statuses after achieving a pathological complete response to nCRT.
+The clinical data of 203 patients enrolled from Hengshui People's Hospital and Hebei Cangzhou Hospital of Integrated Traditional Chinese and Western Medicine from January 2010 to December 2020 were retrospectively analyzed.
+These patients had undergone preoperative nCRT and were pathologically classified as 'tumor stage 0 and lymph node status 0 after neoadjuvant therapy' (ypT0N0) or 'tumor stage 0 and residual tumor in regional lymph nodes after neoadjuvant therapy' (ypT0N+) postoperatively.
+After surgery, patients were followed up to evaluate tumor recurrence, metastasis and survival, including disease-free survival (DFS) and overall survival (OS).
+Cox proportional hazards models were used to analyze factors affecting DFS and OS.
+Among the 203 patients included, there were 127 cases in the ypT0N0 group and 76 cases in the ypT0N+ group.
+The median follow-up time for the entire cohort was 56 months (range, 13-107 months).
+Furthermore, 72 patients (35.5%) experienced recurrence, including 53 cases (26.1%) of distant metastasis, 10 cases (4.9%) of local recurrence and 9 cases (4.4%) of both distant metastasis and local recurrence.
+The 5-year OS and DFS rates for all patients were 82.3 and 77.3%, respectively.
+The 5-year OS rates for the ypT0N0 and ypT0N+ groups were 96.1 and 59.2% (P<0.0001), respectively, and the 5-year DFS rates were 88.2 and 59.2% (P=0.0002), respectively.
+In addition, clinical tumor stage (cT)3-4, clinical lymph node stage (cN)+, elevated serum carcinoembryonic antigen (CEA) and postoperative pathology (ypT0N+) were independent risk factors affecting OS and DFS.
+In summary, the results of the present study indicate that patients with ypT0N0 rectal cancer can achieve a good long-term prognosis after nCRT.
+Notably, postoperative treatment and follow-up should be performed for patients with ypT0N+ and those with elevated pre-nCRT CEA, cT3-4 and cN+ stages.

@@ -1,0 +1,8 @@
+RNA-based gene therapy has been widely used for various diseases, and extensive studies have proved that suitable delivery routes greatly help the development of RNA therapeutics.
+Identifying a safe and effective delivery system is key to realizing RNA therapeutics' clinical translation.
+Inhalation is a non-invasive pulmonary delivery modality that can enhance the retention of therapeutic agents in the lungs with negligible toxicity, thereby improving patient compliance.
+Inhaled RNA therapeutics are increasingly becoming an area of focus for researchers; however, only several clinical trials have explored inhaled delivery of RNA for pulmonary diseases.
+This review presents an overview of recent advances in inhaled delivery systems for RNA therapeutics, including viral and nonviral systems, highlighting state of the art regarding inhalation in the messenger RNA (mRNA) field.
+We also summarize the applications of mRNA inhalants in infectious and other lung diseases.
+Simultaneously, the research progresses on small interfering RNAs (siRNAs), antisense oligonucleotides (ASOs), and different types of RNA are also discussed to provide new strategies for developing RNA inhalation therapy.
+Finally, we clarify the challenges inhaled RNA-based therapeutics face before their widespread adoption and provide insights to help advance this exciting field to the bedside.

@@ -1,0 +1,4 @@
+The interactions between cancer cells and immune cells are crucial regulatory factors in forming the immuno-suppressive microenvironment.
+However, the underlying regulatory mechanisms remain elusive.
+In this study, we analyzed hepatocellular carcinoma (HCC) single-cell sequencing of public databases to investigate cellular interactions, revealing that cathepsin E (CTSE) highly expressed cancer cells exhibited significant interactions with T cells.
+Moreover, lower expression of CTSE is associated with an increased intra-tumoral CD3

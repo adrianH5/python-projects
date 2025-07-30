@@ -1,0 +1,9 @@
+Testicular germ cell tumors (TGCTs) represent the most common type of cancer in young adults.
+The cluster of microRNAs 371-373 is highly upregulated in TGCTs, and detection of miR-371a-3p specifically is currently being developed for clinical implementation as a sensitive and specific biomarker for TGCT, except for teratoma.
+Extracellular vesicles (EVs) are nano-sized particles used for cell communication, being increasingly regarded as potential sources of cancer biomarkers.
+Thus, the aim of this study was to characterize EVs from a wide range of TGCT samples, including cell lines, tissue explants and matched plasma samples from patients and healthy donors, and then use these samples to assess microRNA expression (miR-371-373 cluster and let-7e).
+TGCT-derived EVs were successfully isolated and characterized according to MISEV guidelines.
+TGCT cell lines showed different levels of EV-derived miR-371-373 cluster and let-7e.
+Upon differentiation of NT2 cells with ATRA, both cellular and EV-derived miR-371-373 cluster were downregulated, whereas let-7e was upregulated.
+TGCT patient samples presented high levels of EV-derived miR-371-373, except for the teratoma samples.
+We conclude that a significant portion of the circulating miR-371-373 cluster used as a TGCT biomarker in the clinic is secreted into EVs, and that this cluster and the let-7 family of microRNAs may be related with TGCT intercellular communication and differentiation.

@@ -1,0 +1,7 @@
+The development of advanced in vitro systems to replicate vascularized tissue environments is critical for studying cancer progression, immune interactions, and therapeutic responses.
+Traditional models often lack physiological perfusion, scale flexibility, and compatibility with complex microenvironments, limiting their translational impact.
+The small Vessel Environment Bioreactor (sVEB) represents a promising advancement in microfluidic and organ-on-chip technologies, enabling the replication of dynamic environments that mimic key features of vascular and tumor biology.
+Validated through in vitro experiments and computational flow simulations, the sVEB supports vascular network formation, dynamic cell cultures, and tumor-immune interactions.
+iPSC-derived endothelial cells in the sVEB formed stable perfusable microvessels with secondary branching into the surrounding matrix, while fluidic simulations confirmed laminar flow and shear stress conditions compatible with physiological parameters.
+In parallel, breast cancer organoids were assembled within the hydrogel compartment surrounding the sVEB and cultured under dynamic flow conditions.
+Moreover, CD8

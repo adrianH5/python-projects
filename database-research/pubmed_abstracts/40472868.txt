@@ -1,0 +1,11 @@
+This study investigates the use of list-mode (LM) maximum a posteriori (MAP) expectation maximization (EM) incorporating prior information predicted by a convolutional neural network for image reconstruction in fast neutron (FN)-based proton therapy range verification.&#xD;Approach.
+A conditional generative adversarial network (pix2pix) was trained on progressively noisier data, where detector resolution effects were introduced gradually to simulate realistic conditions.
+FN data were generated using Monte Carlo simulations of an 85 MeV proton pencil beam in a computed tomography (CT)-based lung cancer patient model, with range shifts emulating weight gain and loss.
+The network was trained to estimate the expected two-dimensional (2D) ground truth FN production distribution from simple back-projection images.
+Performance was evaluated using mean squared error (MSE), structural similarity index (SSIM), and the correlation between shifts in predicted distributions and true range shifts.
+&#xD;Main results.
+Our results show that pix2pix performs well on noise-free data but suffers from significant degradation when detector resolution effects are introduced.
+Among the LM-MAP-EM approaches tested, incorporating a mean prior estimate into the reconstruction process improved performance, with LM-MAP-EM using a mean prior estimate outperforming naïve LM maximum likelihood EM (LM-MLEM) and conventional LM-MAP-EM with a smoothing quadratic energy function in terms of SSIM.
+&#xD;Significance.
+Findings suggest that deep learning techniques can enhance iterative reconstruction for range verification in proton therapy.
+However, the effectiveness of the model is highly dependent on data quality, limiting its robustness in high-noise scenarios.&#xD.

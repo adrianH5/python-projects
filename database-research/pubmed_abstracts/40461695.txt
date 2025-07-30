@@ -1,0 +1,4 @@
+During radiation therapy, the natural movement of organs can lead to underdosing the cancer and overdosing the healthy tissue, compromising treatment efficacy.
+Real-time image-guided adaptive radiation therapy can track the tumour and account for the motion.
+Typically, fiducial markers are implanted as a surrogate for the tumour position due to the low radiographic contrast of soft tissues in kilovoltage (kV) images.
+A segmentation approach that does not require markers would eliminate the costs, delays, and risks associated with marker implantation.

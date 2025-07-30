@@ -1,0 +1,7 @@
+The intestine is exposed constantly to mechanical stimuli, including blood flow or peristalsis.
+Recently, gut-on-a-chip models have been developed to recapitulate these physiological stresses.
+In such models, blood flow and peristalsis are simulated by perfusing culture medium through microchannels and applying cyclic suction to vacuum chambers.
+With these gut-on-a-chips, the effects of mechanical stimuli on the intestinal structure and function have been elucidated.
+Additionally, gut-on-a-chip models are used to study intestinal diseases, such as infectious diseases, inflammatory bowel disease, and colorectal cancer.
+Because they accurately recapitulate the pathophysiology of intestinal diseases, research leveraging their use has revealed mechanisms underlying disease onset and progression in the intestine.
+In this review, we summarize the development of gut-on-a-chip systems and highlight recent research on intestinal diseases using these models.

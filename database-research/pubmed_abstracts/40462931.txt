@@ -1,0 +1,11 @@
+Organisms mold their tissues into increasingly more complicated shapes during development using a set of deformation motifs.
+One set of motifs are tissue hinges and creases which are created through cell-level shape changes.
+Hinges and creases are often made from active, anisotropic cell constriction at the hinge, which can help drive tissue folding.
+This contractile hinge model is observed in a variety of developmental tissue folding contexts, like during neural tube closure (NTC) of commonly studied species.
+However, patterns of cells constriction are inconsistent with this model, in the mouse brain.
+Additionally, formation of the midline neural tube hinge and crease are insensitive to the molecular machinery needed to induce cell shape changes.
+Here, we test if a contractile hinge is the driving mechanism for mouse cranial NTC.
+Through targeted laser ablations, we infer tissue tension in the folding mouse cranial neural tube.
+In contrast to predications of the contractile hinge model, we find the midline hinge has relatively low and isotropic tension, the lateral neural folds have higher anisotropic tension.
+We also show that regional patterns of tension vary by sex.
+We propose a lateral tension model for mouse cranial NTC and theorize on the connection between tissue mechanics and sex in NTC defects.

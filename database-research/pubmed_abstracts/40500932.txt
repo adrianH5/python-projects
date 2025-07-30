@@ -1,0 +1,4 @@
+Extracellular vesicles (EVs) are vesicle-like structures secreted by various cell types, playing a crucial role in cell communication.
+As an efficient and safe therapeutic carrier, EVs offer new insights and methods for disease treatment and drug development due to high stability, low immunogenicity, and broad resources.
+However, current applications on EV-based delivery systems are still challenging, and additional strategies are needed to achieve precise and targeted delivery, enhance stability and safety, and avoid unnecessary immune reactions or side effects.
+This review summarizes the latest progress in using smart materials or devices to enhance EV delivery, aiming to provide a reference for designing novel and efficient EV-based targeted delivery strategies.

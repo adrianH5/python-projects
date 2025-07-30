@@ -1,0 +1,2 @@
+Diagnosis of hepatocellular carcinoma (HCC) remains challenging for clinicians.
+Machine learning approaches and big data analyses are viable strategies for identifying HCC diagnostic markers.

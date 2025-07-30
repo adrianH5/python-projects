@@ -1,0 +1,9 @@
+Many archaea appear to divide through the coordinated activities of two FtsZ homologues (FtsZ1 and FtsZ2) and another bacterial cell division homologue (SepF), which are part of the midcell division ring.
+Here, we identify an additional protein (HVO_0739, renamed CdpA) that is involved in cell division in Haloferax volcanii, with homologues in other Haloarchaea.
+CdpA localises at the midcell division ring, and this requires the presence of the ring-assembly protein FtsZ1.
+The division constriction protein FtsZ2 also influences the proper midcell assembly and structure of CdpA.
+In the absence of CdpA, cells frequently fail to divide properly, and FtsZ1 formed poorly condensed pseudo-helical structures spanning across a broad region of the cell, whereas FtsZ2 showed mispositioned foci, nano-rings, and filaments.
+The rate of directional movement of FtsZ1 and FtsZ2 structures around the division ring appears minimally affected by loss of CdpA, which resulted in continual repositioning of the aberrant FtsZ structures in the cells.
+In contrast to the FtsZ proteins, CdpA formed relatively immobile foci around the ring.
+Protein domain function studies, pull-down assays, and multimer structure predictions suggest that CdpA is part of a membrane complex that tethers FtsZ2 and other division proteins to the midcell membrane.
+Our discovery of an archaeal FtsZ organisation and midcell anchor protein offers new insights into cell division mechanisms that are similar across the tree of life.

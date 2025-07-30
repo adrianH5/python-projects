@@ -1,0 +1,9 @@
+Transgenerational epigenetic inheritance (TEI) is the transfer of non-genetic information between generations.
+In Caenorhabditis elegans, RNA interference (RNAi) is a conserved process initiated by double-stranded RNA which can induce TEI.
+While many factors have been implicated in TEI, whether they act in establishment or maintenance of the transgenerational signal, and the generation in which they act, has not been defined.
+Here we characterise the actions of glh-1, hrde-1, -2, -4, morc-1, nrde-1, -2, -4, set-25, -32, wago-1, -4, znfx-1, pup-1 and emb-4 within RNAi-induced TEI.
+We show that these genes can be classified into three groups: those involved in only establishment or maintenance, or those involved in both.
+We identify a heterochromatin-based pathway established in the P0 generation by histone methyltransferases and maintained in later generations by MORC-1, upstream of HRDE-1-dependent silencing.
+By investigating lineage dynamics, we provide evidence that inheritance patterns are partially determined in RNAi-exposed parents, but that variation between offspring also contributes.
+And finally, we demonstrate that polyUG RNAs broadly correlate with, but do not define, inheritance patterns.
+Together, this work forms a cohesive model of RNAi-induced TEI.

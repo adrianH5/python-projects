@@ -1,0 +1,3 @@
+Housekeeping genes (HKGs) are crucial for maintaining basic cellular functions and are consistently expressed across various tissues and cell types, making them essential for normalizing gene expression.
+Their application is crucial in both basic research and clinical settings, such as breast cancer, where they help in accurate gene expression measurement and tumor subtype classification such as the PAM50 system.
+However, HKGs are often used without thorough assessment of their variability across different conditions, which may affect the reliability of normalization.

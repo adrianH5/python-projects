@@ -1,0 +1,4 @@
+Computed tomography (CT) has been widely used as an effective tool for liver imaging due to its high spatial resolution, and ability to differentiate tissue densities, which contributing to comprehensive image analysis.
+Recent advancements in artificial intelligence (AI) promoted the role of Machine Learning (ML) in managing liver cancers by predicting or classifying tumours using mathematical algorithms.
+Deep learning (DL), a subset of ML, expanded these capabilities through convolutional neural networks (CNN) that analyse large data automatically.
+This review examines methods, achievements, limitations, and performance outcomes of ML-based radiomics and DL models for liver malignancies from CT imaging.

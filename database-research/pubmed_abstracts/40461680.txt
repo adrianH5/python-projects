@@ -1,0 +1,8 @@
+Liquid biopsies and cell-free DNA (cfDNA) analysis are used in numerous clinical applications.
+The amount of cfDNA is generally limited and many approaches require assessment of individual molecules.
+Optimized pre-analytical steps are therefore fundamental for accurate interpretation.
+Here, we established an automated extraction approach providing cfDNA of high yield and quality.
+We analyzed 649 blood plasma samples collected from 23 healthy individuals and assessed the performance of four different blood collection tubes, time between sampling and plasma isolation and number of centrifugation steps.
+CfDNA was quantified by fluorometric analysis and quantitative polymerase chain reaction, while contaminating cellular DNA was assessed by quantitative polymerase chain reaction and parallel capillary electrophoresis.
+Data showed that cfDNA yield depends on both choice of blood collection tube and time between sampling and plasma isolation.
+Plasma isolated directly after sampling in K

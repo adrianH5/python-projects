@@ -1,0 +1,16 @@
+SARS-CoV-2 is the causative agent of current pandemic of novel coronavirus disease (COVID-19) which has infected millions of people and is responsible for more than 200,000 deaths worldwide in a span of just 4 months.
+In both cases, the Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1 as reference genome (Accession NC_045512.2) was used as the reference sequence.
+Five individuals had contact with COVID-19 patients in particular; both S2 and S3 had contact with the same patient (table 1).
+All the nine sequences have been submitted in the Global Initiative on Sharing All Influenza Data (GISAID) database.
+Phylogenetic tree analysis of the sequences, along with other complete viral genome sequences submitted from India in GISAID, revealed that seven of these sequences belonged to the A2a clade while only one sequence belonged to clade B4 (figure 1 and table 1).
+To understand transmission histories of these nine SARS-CoV-2 isolates from West Bengal, we aligned these sequences with more than 6000 global sequences, including thirty sequences submitted in GISAID from India (at the time of our analysis) to identify specific mutations that occur at the highest level of the tip in a branch leading to the specific subtype.
+Out of these, two sequences were obtained from individuals with contact history of a COVID-19 patient who had travelled from Italy.
+Interestingly, two out of three sequences harbouring these mutations obtained by us belonged to Kolkata and with contact history with one COVID-19 patient who had travelled from London (UK).
+The third sequence was obtained from a COVID-19 patient from Darjeeling, India who had history of travel from Chennai, India.
+Therefore, we used the TissueAtlas database to analyse the presence and correlation of these miRNAs in body fluids.
+When Ser202 is phosphorylated which incorporates a large negative group tethered to the sidechain of Ser, as seen in many other substrates of kinases, it is likely that charge neutralization takes place involving positively charged sidechains in the sequential and spatial vicinity.
+Substantial uncertainties surround the trajectory of the recent epidemic of COVID-19 in India.
+Interestingly, while two out the three sequences harbouring these mutations were from individuals who shared contact history with a COVID-19 patient with history of travel from Italy, two out of the three samples from West Bengal shared contact history with the same COVID-19 patient with history of travel from UK.
+This correlates with the fact that these two individuals had also been known to have contact with the same COVID-19 patient.
+Interestingly, both these individuals belonged to the same district of East Medinipur, had history of contact with COVID-19 patients and did not exhibit any clinical symptom.
+Interesting correlation was observed between these mutations and travel or contact history of COVID-19 positive cases.

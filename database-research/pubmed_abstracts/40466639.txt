@@ -1,0 +1,6 @@
+Gene editing (GE) using homology-directed repair (HDR) in hematopoietic stem and progenitor cells (HSPCs) offers promise for long-range gene correction of inherited genetic disorders.
+However, cellular responses induced by CRISPR-Cas9/AAV6 engineering impair the long-term repopulating potential of HDR-edited HSPCs, adversely impacting the safety and efficacy of clinical translation.
+Our study uncovers a durable senescence-like response in genetically engineered HSPCs triggered by p53 and interleukin (IL)-1/nuclear factor κB (NF-κB) activation, which restricts graft size and clonal diversity in long-term transplantation assays.
+We show that transient p53 inhibition or blocking inflammatory pathways mitigates senescence-associated responses, improving the repopulating capacity of edited HSPCs.
+Importantly, we identify treatment with Anakinra, an IL-1 signaling antagonist, as a promising strategy to enhance polyclonal output in HDR-edited cells while minimizing genotoxicity risks associated with the editing procedure.
+Overall, our findings present strategies to overcome key hurdles in HDR-based HSPC gene therapies, providing a framework for enhancing their efficacy and safety in clinical applications.

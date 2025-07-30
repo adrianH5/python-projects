@@ -1,0 +1,9 @@
+Spatial transcriptomic techniques are a sophisticated tool in biomedical research to visualize spatially registered gene expression patterns.
+Imaging and analysis of multiple samples with spatial imaging platforms can be costly.
+Performing these tests over multiple experimental conditions, as seen in developmental studies, further increases costs.
+To reduce costs, this study sought to optimize the techniques and strategies of spatial transcriptomic specimen arrangement for developmental studies.
+Here, the study utilized zebrafish, which are a well-established developmental vertebrate model that is transparent during development, have ~70% genetic homology to humans, and a highly annotated genome ideal for transcriptomic analysis.
+Because of their small size, developing zebrafish also allows for compact placement of serial sections across several biological replicates.
+Herein, we report optimized fixation, cryosectioning, and reliable alignment of multiple fish samples within the imaging area of a multiplex in situ hybridization spatial imaging platform.
+With this method, zebrafish as young as 15 days post fertilization (dpf) from at least 4 different molds and up to 174 sections can be successfully cryosectioned, collected within the imaging area of 22 mm 10.5 mm (for an in situ spatial transcriptomic slide), and processed simultaneously.
+Based on section quality, sample alignment, and sample size per slide, this method in zebrafish optimizes output and per sample cost of spatial transcriptomic techniques.

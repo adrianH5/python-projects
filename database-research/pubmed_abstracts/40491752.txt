@@ -1,0 +1,7 @@
+Magnetic nanomaterials (MNMs) are nanoscale materials with inherent magnetic properties that can respond to external magnetic fields, typically composed of magnetic metals or metal oxides.
+These materials exhibit broad application prospects in medical imaging, targeted drug delivery, and cancer therapy due to their exceptional magnetic properties, biocompatibility, and surface functionalization capabilities.
+As multifunctional imaging contrast agents, magnetic nanomaterials have been extensively employed in magnetic resonance imaging, computed tomography, and positron emission tomography to enhance multimodal imaging, thereby improving image resolution and diagnostic accuracy.
+Additionally, as targeted drug carriers, they can be guided by external magnetic fields to achieve precise drug delivery, enhancing therapeutic efficacy while minimizing systemic side effects.
+In therapeutic applications, magnetic nanomaterials have been utilized in magnetic hyperthermia therapy and photothermal therapy, where they generate localized heat via alternating magnetic fields or photothermal conversion effects, enabling tumor microenvironment modulation and precise tumor ablation.
+This review systematically summarizes recent advances in the use of MNMs for medical imaging and therapy, with a particular focus on key technical challenges and emerging opportunities to achieve synergistic imaging and therapeutic functions.
+This work aims to provide valuable insight into the development of MNMs for applications in precision medicine and personalized therapy.

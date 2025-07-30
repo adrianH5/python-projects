@@ -1,0 +1,10 @@
+T1	Repository 162 189	Worldwide Protein Data Bank
+T2	AccessionNumber 215 219	6M15
+T3	AccessionNumber 224 228	6M16
+T4	Repository 294 323	Electron Microscopy Data Bank
+T5	AccessionNumber 349 358	EMD-30037
+T6	AccessionNumber 363 372	EMD-30038
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T1	Arg2:T3
+R3	hasAttr	Arg1:T4	Arg2:T5
+R4	hasAttr	Arg1:T4	Arg2:T6

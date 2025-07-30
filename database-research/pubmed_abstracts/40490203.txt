@@ -1,0 +1,4 @@
+Glioblastoma multiforme (GBM) is the most aggressive and lethal malignant brain tumor, with limited treatment options and poor patient prognosis.
+Novel therapeutic strategies are urgently needed to extend survival and improve quality of life for GBM patients.
+Our transcriptomic analysis revealed that GBM cells exhibit substantial upregulation of DNA damage response (DDR) pathways, identifying DDR as a promising therapeutic target.
+To leverage this vulnerability, we investigated pharmacological ascorbate (P-AscH

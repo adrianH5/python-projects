@@ -1,0 +1,16 @@
+Colorectal cancer (CRC) remains one of the leading causes of cancer-associated mortality worldwide.
+While immune checkpoint inhibitors have shown promise in treatment, there is a need for reliable biomarkers to predict patient prognosis and guide personalized therapies.
+Palmitoylation, a post-translational modification, has been implicated in various cancer processes, yet its role in CRC prognosis remains unclear.
+Transcriptome, survival, somatic mutation and copy number variation data were retrieved from The Cancer Genome Atlas, and the GSE17538 dataset was used for external validation.
+A palmitoylation-related risk signature was developed using univariate Cox regression, Least Absolute Shrinkage and Selection Operator and multivariate Cox regression analyses.
+Patients were stratified into high- and low-risk groups based on the median risk score.
+Prognostic accuracy was assessed using receiver operating characteristic curves and Kaplan-Meier overall survival (OS) analysis with validation in an independent cohort.
+Functional enrichment, immune cell infiltration and drug sensitivity analyses were performed to explore underlying mechanisms and therapeutic implications.
+Subsequently, keratin 8 pseudogene 12 (KRT8P12) overexpression was evaluated in HT29 cells, and knockdown HT29 cell lines were generated using lentivirus.
+Cell proliferation was assessed using Cell Counting Kit-8 and 5-ethynyl-2'-deoxyuridine assays, cell migration was evaluated by Transwell assay and cell apoptosis was assessed using Annexin-V/propidium iodide staining.
+A palmitoylation-related risk signature consisting of six genes (KRT8P12, ZDHHC3, PCOLCE2, MPP2, LARS2 and MMAA) was identified.
+High-risk patients exhibited significantly worse OS (HR=3.19; P<0.001) compared with low-risk patients.
+Immune cell infiltration analysis revealed enhanced immune activity in the low-risk group, which was associated with higher expression of immune checkpoint genes.
+Immunotherapy prediction models indicated that low-risk patients might benefit more from immune checkpoint inhibitors.
+Drug sensitivity analysis identified distinct drug response profiles between the high- and low-risk groups.
+Furthermore,

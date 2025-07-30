@@ -1,0 +1,7 @@
+The rapid advancement of artificial intelligence (AI) technologies has opened new avenues for advancing personalized immunotherapy in cancer treatment.
+This review highlights current research progress in applying AI to optimize the use of immunotherapy for patients with cancer.
+Recent studies demonstrate that AI models can accurately diagnose cancers and discover biomarkers by integrating multi-omics and imaging data, establish predictive models to estimate treatment responses and adverse reactions, formulate personalized treatment plans integrating multiple modalities by considering various factors, and achieve precise patient stratification and clinical trial matching, thereby addressing specific obstacles throughout processes from diagnosis to treatment in personalized immunotherapy.
+Furthermore, this review also discusses the challenges and limitations faced by AI in clinical applications, such as difficulties in data acquisition, low quality of data, poor interpretability of models, and insufficient generalization ability.
+Finally, we outline future research directions, including optimizing data management, developing explainable AI, and improving the generalization ability of models.
+These efforts aim to optimize the role of AI in personalized immunotherapy and promote the development of precision medicine.
+To ensure the clinical applicability of these AI models, large-scale studies, multi-omics integration, and prospective clinical trials are necessary.

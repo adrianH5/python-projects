@@ -1,0 +1,8 @@
+Intrahepatic cholangiocarcinoma (ICC) is the second most common primary liver cancer following hepatocellular carcinoma (HCC), characterized by high malignancy and limited therapeutic options.
+For the majority of patients with advanced or recurrent ICC who are not candidates for surgical resection, non-surgical treatments have become the primary intervention.
+In recent years, immunotherapy, particularly immune checkpoint inhibitors (ICIs) either alone or in combination, has emerged as a promising systemic treatment for ICC.
+The programmed cell death protein 1 (PD-1) is a type I transmembrane glycoprotein primarily expressed in tumor-infiltrating lymphocytes, while its ligand PD-L1 is mainly expressed in tumor cells and antigen-presenting cells (APCs).
+As one of the best-known immune checkpoint molecules, PD-1 is a key mediator of immune tolerance in the human immune system and helps tumor cells evade immune surveillance by suppressing T cell function.
+Anti-PD-1/PD-L1 therapies are currently widely applied in the clinical care of ICC, however their low response rates limit the benefits for ICC patients.
+In this review, we focus on the latest research progress in enhancing the efficacy or reversing resistance to anti-PD-1/PD-L1 therapies in ICC, from three perspectives: characterizing relevant cellular components in the tumor immune microenvironment (TIME), identifying ICC subtypes with higher response rates, and investigating potential molecular targets for combination therapies.
+In summary, the core of the vast majority of therapeutic strategies focuses on how to reshape the TIME or modulate the expression levels of PD-1/PD-L1 in tumors.

@@ -1,0 +1,10 @@
+Cancer immunotherapy utilizes the immune system to selectively destroy malignant cells.
+Its effectiveness is often undermined by inadequate immune system activation, immune evasion by tumors, and off-target damage.
+Nanotechnology has the potential to address these challenges by improving the targeting and delivery of therapeutic agents to the immune system.
+This review shows that nanoparticles can significantly enhance cancer diagnostics, assist in both passive and active tumor targeting, and improve the delivery of immune checkpoint inhibitors, cancer vaccines, and adoptive cell therapies.
+It is demonstrated that the size and surface charge of nanoparticles, along with functionalization of their components, impact the delivery of therapies and the resulting therapeutic effects.
+Comparative analyses indicate that organic nanoparticles like PLGA may have lower biocompatibility and higher immunotoxicity compared to inorganic nanoparticles.
+The use of nanoparticles in combination with radiotherapy also enhances tumor radiosensitization and modulates the immune system, leading to greater tumor regression and improved survival in preclinical models.
+However, controversies remain regarding nanoparticle immunotoxicity, aggregation, and organ-specific accumulation, which are related to their composition and surface properties.
+Manufacturing scalability and regulatory hurdles further limit clinical translation.
+Overall, optimizing nanoparticle design and targeting strategies is essential for maximizing therapeutic efficacy and safety, supporting the advancement of personalized cancer immunotherapies.

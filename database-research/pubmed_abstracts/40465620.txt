@@ -1,0 +1,8 @@
+Collective cell migration is a key driver of tissue morphogenesis and cancer invasion.
+Here, we identified the tumor suppressor Ras association domain-containing protein 8 (RASSF8) as a WAVE interactor required for border cell migration.
+RASSF8 colocalizes with F-actin and cell adhesion molecules at border cell- border cell contacts.
+Loss of RASSF8 function results in border cell cohesion defects, a phenotype associated with changes in the localization of the Echinoid (Ed) and Coracle (Cora).
+Cell-type-specific RNA interference (RNAi) experiments suggest that cohesion defects are caused by changes in localization of Ed rather than E-cadherin.
+Gain-of-function experiments further revealed reciprocal functional interactions between RASSF8 and WAVE controlling collective border cell movement.
+Thus, we propose a dual function of RASSF8 in coordinating border cell cluster behavior.
+RASSF8 is thought to regulate the collective movement of border cells by restricting WAVE function, while it controls the epithelial cluster integrity by regulating cell-cell adhesion and septate junction molecules such as Ed and Cora.

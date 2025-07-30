@@ -1,0 +1,4 @@
+Vero cells were inoculated with equivalent virus titres, and supernatants were collected every 12 h for 120 h and titrated by TCID50.
+Peak titre of full-length viruses ranged from 105 to 106 TCID50 ml−1, whereas deletion mutants ranged from 5×104−1×105 TCID50 ml−1 (Fig. 2a), suggesting that these deletions may confer some growth inhibition, but not abrogate it.
+Hu/Riyadh_KSA_2959_2015 cell-associated titre peaked at 5×106 TCID50 ml−1 with supernatant peaking at 5×104 TCID50 ml−1.
+Similarly, Hu/Riyadh_KSA-4050_2015 cell-associated titre peaked at 1×106 TCID50 ml−1 with supernatant peaking at 5×104 TCID50 ml−1.

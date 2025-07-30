@@ -1,0 +1,2 @@
+Although radiation oncologists obtain non-contrast computed tomography (CT) images in every treatment, their quality is often insufficient for radiomic analyses for monitoring response over the course of treatment.
+Newer linear accelerators, such as RefleXion X1, have higher-quality imaging, creating new opportunities for radiomic analysis throughout treatment.

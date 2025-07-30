@@ -1,0 +1,11 @@
+The Centers for Medicare & Medicaid Services Hospital Outpatient Quality Reporting Program's OP-35 rule penalizes health systems that have a higher-than-expected rate of emergency department (ED) visits or inpatient admissions for ten potentially preventable conditions within 30 days of receiving chemotherapy.
+Identifying patients at risk for toxicities and resultant acute care could lead to reducing the rate of such events, improving patient care, and reducing costs.
+We identified cancer patients seen in the ED at our institution between 1/1/2018 and 12/31/2021 for one of the OP-35 toxicities who had received chemotherapy within the previous 30 days and analyzed demographic factors using zero-truncated Poisson regression.
+We further analyzed comorbid conditions for risk factors by matching by demographics and cancer type a cohort of patients without ED visits due to OP-35 events.
+A total of 1,618 patients were identified.
+The most frequent events were pain, sepsis, and fever.
+Thirty-nine percent had two or more visits during the study, and among those patients, the most frequent cancer types were gastrointestinal (32%) and breast (22%).
+Race, age, and sex were associated with an increased risk of events.
+In the matched cohort analysis, five co-morbidities were statistically significant (p < 0.05) with event risk: history of coagulopathy/pulmonary emboli, myocardial infarction, cardiac arrhythmias, depression, and weight loss (concordance=0.58).
+Forty-seven percent of patients with an event had at least one of these five comorbidities.
+Future interventions may concentrate resources to monitor patients based on risk assessment established in this study.

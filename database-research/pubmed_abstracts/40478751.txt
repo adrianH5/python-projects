@@ -1,0 +1,8 @@
+CAR-T cells are a powerful yet expensive tool in cancer immunotherapy.
+While their use in targeting hematological malignancies is well-established, using a single CAR-T cell therapy to treat both hematological and solid tumors, which can reduce cost, remains largely unexplored.
+In this study, we identified CD155, an adhesion molecule that is upregulated during tumor progression, as a target for CAR-T cell therapy in both leukemia and solid tumors.
+We engineered CAR-T cells using human and mouse anti-CD155 antibodies generated from a Berkeley Lights' Beacon platform.
+These CAR-T cells demonstrated potent anti-tumor activity, significantly reducing tumor burden in preclinical models of acute myeloid leukemia (AML), non-small cell lung cancer (NSCLC), and pancreatic cancer.
+To reduce potential allogeneic rejection, we generated CAR-T cells using humanized anti-CD155 antibody sequences that retained efficacy.
+Additionally, murine CAR-T cells targeting mouse CD155 exhibited limited toxic side effects in immunocompetent mice, highlighting the favorable safety profile of this therapy.
+These findings suggest that CD155 can be targeted by CD155 CAR-T cells safely and effectively, representing an innovative cellular therapeutic strategy that has the potential to expand its scope across both AML and multiple solid tumors, thereby lowering the cost of cellular immunotherapy, especially as allogenic, universal and off-the-shelf CAR-T cell therapies advance to the clinic.

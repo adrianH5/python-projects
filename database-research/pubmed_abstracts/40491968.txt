@@ -1,0 +1,8 @@
+Metastasis is the main cause of cancer-related deaths and the biggest challenge in improving cancer prognosis.
+Platelet-tumor cell aggregates are a prerequisite for hematogenous metastasis.
+However, the internal relation and molecular mechanism of platelets and their receptor glycoprotein (GP) Ibα in platelet-tumor cell interaction and metastasis remain elusive.
+Here, we find that in the absence of the full-length GPIbα or its cytoplasmic tail, platelets maintain a more resting state and exhibit reduced tumor cell-induced platelet activation.
+The deficiency of the cytoplasmic tail of GPIbα inhibits tumor cell-platelet interaction, platelet-induced tumor cell migration and invasion, and metastasis.
+Using a state-of-the-art spinning disk intravital microscopy, we observe a rapid accumulation of platelets on tumor cells, forming numerous tumor cell-platelet aggregates in vivo.
+We also find that the cytoplasmic tail of GPIbα regulates the tumor cell-induced platelet protein kinase C-α (PKCα) activation, and both the pharmacological inhibition and genetic ablation of platelet PKCα attenuate tumor cell-induced platelet activation, tumor cell-platelet interaction, tumor cell migration and invasion, and metastasis.
+Overall, our findings reveal for the first time that GPIbα promotes experimental metastasis through its cytoplasmic tail-regulated platelet activation, and suggest a potential target to regulate tumor hematogenous metastasis.

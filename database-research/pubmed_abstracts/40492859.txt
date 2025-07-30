@@ -1,0 +1,12 @@
+Cancer-related fatigue (CRF) is a multifactorial symptom commonly experienced by breast cancer patients treated with chemotherapy (CT) that impairs quality of life and may influence cancer recurrence by reducing treatment compliance.
+This cohort study examined the kinetics of CRF throughout CT in breast cancer patients and determined its relationship with exercise-related variables.
+One hundred breast cancer patients were included.
+Three time points were investigated: pre-CT, 8 weeks, and post-CT.
+Patients were categorized as fatigued or non-fatigued according to their FACIT-F score.
+Exercise capacity (assessed using the 6-minute walking test), muscle mass and force, neuromuscular fatigue, and physical activity level were measured.
+Among the seven patterns of CRF trajectories identified, three represented 78% of the fatigued patients.
+Fatigued patients exhibited reduced exercise capacity compared to non-fatigued patients during CT (p = 0.001).
+This was associated with greater knee extensor (p < 0.001) and handgrip (p = 0.009) neuromuscular fatigue and lower physical activity level (p < 0.001) in fatigued patients.
+The model combining knee extensors neuromuscular fatigue (p = 0.007) and force (p = 0.081), 6-minute walking test distance (p < 0.001) and physical activity level (p = 0.029) explained 39% of the variance in the FACIT-F score evolution from pre- to post-CT.
+The dissociation between fatigued versus non-fatigued patients highlighted that CRF was associated with altered exercise capacity and neuromuscular fatigue.
+Exercise-related variables seem to play an important role in CRF evolution during CT, suggesting that exercise training should be initiated at the start of CT.

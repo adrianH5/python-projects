@@ -1,0 +1,8 @@
+BackgroundMultiple myeloma (MM) is virtually always preceded by monoclonal gammopathy of undetermined significance (MGUS).
+Elevated serum markers are used to classify MGUS patients into clinical risk categories.
+Previous research has indicated that the absence of a normal plasma cell signature in MGUS is linked to early progression.ObjectiveTo confirm that the presence of a "polyclonal plasma cell (PolyPC) signature" serves as a robust negative predictor of MGUS progression.Methods374 MGUS patients were enrolled, including 334 patients with stable disease and 40 patients who progressed to MM within 10 years.
+An oligonucleotide microarray analysis was performed on mRNA extracted from CD138-selected bone marrow plasma cells to evaluate gene expression profiles.
+The PolyPC signature was developed and validated to assess its role in predicting disease progression.
+Statistical analyses included Cox proportional hazards models to evaluate progression risk and receiver operating characteristic (ROC) curve analysis to determine the sensitivity, specificity, and overall predictive performance of the PolyPC score.ResultsThrough this retrospective study, we developed PolyPC signature based on gene expression profiles of normal, uninvolved plasma cells to predict MGUS progression risk.
+ROC analysis demonstrated that this signature accurately predicted the risk of MGUS progression (C-statistic: 0.792).
+A PolyPC score ≤ 11.6 identified a subset of 89 patients with a 10-year progression probability of 31.5% (28/89), while the remaining 285 patients had a progression probability of only 4.2% (12/285) (

@@ -1,0 +1,3 @@
+Lineage tracing remains an essential approach towards understanding cell fate, tissue formation, and human development.
+Herein, we review advancements in lineage tracing techniques, the integration of sequencing and imaging technologies, and computational tools for analysis.
+We report on recent lineage tracing applications, including integrative techniques (MADM-CloneSeq), in situ hybridization (DART-FISH), and modern workflows (BaSISS), which hold an essential role in our aim to unravel lineage hierarchies and, ultimately, human development.

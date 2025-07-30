@@ -1,0 +1,11 @@
+The diffuse and infiltrative nature of high-grade gliomas poses ongoing challenges in treatment and management.
+Radiotherapy is an important glioma treatment, with a standard radiotherapy dose of 60 gray.
+However, high-dose radiotherapy is associated with radiation-induced side effects on normal tissue.
+Scintillator-mediated low-dose x-ray-induced photodynamic therapy using kilovoltage x-rays has been shown to be effective for multiple tumor types without causing damage to healthy tissue.
+However, x-ray-induced photodynamic therapy is yet to be explored in glioma because of the inability of the photosensitizers to cross the blood-brain barrier.
+Here, we present an integrated gold clustoluminogen containing protein-protected gold nanoclusters conjugated to a photosensitizer and a cell-penetrating peptide.
+Using intravital imaging, we showed that gold clustoluminogen crossed the intact blood-brain barrier in healthy animals and accumulated in tumors in two murine intracranial orthotopic glioma models.
+Gold clustoluminogen efficiently suppressed glioma growth and prolonged animal survival under ultralow-dose x-ray treatment (total 2 gray, megavoltage x-ray) using the same protocol as that used for clinical megavoltage radiotherapy.
+Moreover, gold clustoluminogen potently inhibited tumor growth in an orthotopic patient-derived xenograft glioma model with prolonged animal survival under ultralow-dose x-ray treatment.
+Gold clustoluminogen was eliminated through hepatic and renal excretion, with no observed toxicity.
+These results highlight new opportunities to develop clinically relevant glioma therapies with reduced side effects.

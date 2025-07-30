@@ -1,0 +1,13 @@
+Persister cancer cells, which reversibly adapt to survive epidermal growth factor receptor (EGFR)-tyrosine kinase inhibitors (TKIs) treatment, contribute to the incurability of EGFR-mutant lung cancer.
+We previously reported that gefitinib induces CD8⁺ T cell-related tumor immunity in a genetically engineered mouse model (GEMM).
+This study investigates the tolerance of persister cancer cells to EGFR-TKI-induced tumor immunity in this model.
+Egfr-mutated lung cancer cells (C57BL/6/EgfrdelE748-A752) from GEMM were transplanted subcutaneously into wild-type C57BL/6J mice.
+Persistent tissues under osimertinib treatment were analyzed using digital spatial transcriptional profiling (DSP), immunohistochemical staining (IHC), and flow cytometry (FCM).
+The anti-tumor effect of osimertinib peaked at 14 days, leaving a small population of persister cancer cells.
+The number of PD-1⁺ CD8⁺ cells increased in the tumor microenvironment (TME), and CD8⁺ cell depletion attenuated the anti-tumor effect of osimertinib.
+DSP revealed upregulated expression of M2 macrophage-related genes in the TME of persister cancer cells.
+Consistently, IHC and FCM confirmed an increased number of CD206⁺ macrophages in the TME.
+Combining osimertinib with the colony-stimulating factor-1 receptor (CSF1R) inhibitor pexidartinib reduced CD206⁺ macrophages and enhanced the efficacy of osimertinib.
+Elevated granzyme or CD107 expression on CD8⁺ cells in the TME suggests that macrophages negatively affect osimertinib-induced anti-tumor immunity.
+M2-like macrophages may contribute to immune tolerance of persister cancer cells against EGFR-TKI-induced tumor immunity.
+A clinical trial evaluating combined osimertinib and CSF1R inhibitor therapy is warranted for Egfr-mutated lung cancer.

@@ -1,0 +1,6 @@
+Cancer treatment has evolved dramatically in recent years with the advent of various modalities, including molecular-targeted drugs, monoclonal antibodies, immune checkpoint inhibitors, bispecific antibodies, and chimeric antigen receptor T-cell therapy.
+Antibody-drug conjugates (ADCs) represent an important breakthrough in cancer treatment, and some ADCs have been approved for use in several types of cancers.
+Typical ADCs include trastuzumab emtansine for HER2-positive breast cancer, sacituzumab govitecan for triple-negative breast cancer (TNBC), and trastuzumab deruxtecan (T-DXd) for HER2-positive breast cancer, gastric cancer, and HER2 mutation-positive non-small cell lung cancer.
+Although they have shown therapeutic efficacy, almost all patients develop resistance via multiple mechanisms.
+In this article, we discuss the major mechanisms of resistance to ADCs, classifying them into five categories: mechanisms related to 'target antigen,' 'decreased internalization,' 'lysosomal dysfunction,' and 'payload sensitivity' and other resistance mechanisms [Figure 1].
+We also discuss the strategies for overcoming ADC resistance.

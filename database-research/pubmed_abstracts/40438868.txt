@@ -1,0 +1,8 @@
+Lung adenocarcinoma (LUAD) is among the most prevalent malignancies worldwide.
+Cuproptosis, a copper-induced form of cell death, has been identified as a key process in LUAD progression; however, the molecular mechanisms underlying cuproptosis in LUAD and potential therapeutic targets remain unclear.
+The present study utilized The Cancer Genome Atlas database to retrieve mRNA expression profiles and clinical information of LUAD, identifying 10 candidate genes from differentially expressed genes associated with cuproptosis.
+Protein-protein interaction analysis indicated that CDK inhibitor 2A (CDKN2A), an upregulated gene in LUAD, may function as a hub gene.
+Furthermore, multiple online databases were used to analyze Spi-1 proto-oncogene (SPI1), a transcription factor upstream of CDKN2A, which was downregulated in LUAD cuproptosis.
+The LinkedOmics database identified the p53-mediated cuproptosis-related pathway regulated by CDKN2A.
+Gene expression patterns were examined through Gene Expression Profiling Interactive Analysis, the Human Protein Atlas and reverse transcription-quantitative polymerase chain reaction.
+Prognostic significance was assessed using the UALCAN and Kaplan-Meier plotter databases.

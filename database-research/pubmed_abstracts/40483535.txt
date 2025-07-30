@@ -1,0 +1,9 @@
+RNA modifications are crucial for post-transcriptional gene regulation.
+Research on RNA modifications has become a novel frontier of epitranscriptomics.
+Up to now, over 170 kinds of modifications have been identified on mRNA and diverse non-coding RNA.
+Three classes of proteins (writers, erasers, and readers) regulate the addition, removal, and identification of epigenetic marks, thus affecting RNA biological functions.
+Increasing evidence identifies the dysregulation of RNA modifications in different cancer types and the therapeutic potential of targeting RNA-modifying enzymes.
+The ability of RNA modifications to improve mRNA stability and translation efficacy and decrease immunogenicity has been exploited for the clinical use of mRNA cancer vaccines.
+This review aims to shed light on several vital cap, tail, and internal modifications of RNA with a focus on the connection between RNA epigenetic pathways and cancer pathogenesis.
+We further explore the clinical potential of RNA modifications as dynamic biomarkers for cancer diagnosis, prognosis, and therapeutic response prediction, addressing both technological challenges and translational opportunities.
+Finally, we analyze the limitations of current studies and discuss the research focus in the future.

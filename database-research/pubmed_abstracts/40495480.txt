@@ -1,0 +1,10 @@
+Alternative splicing (AS) dysregulation is increasingly recognized as a critical factor in cancer progression and drug response.
+However, precisely detecting and characterizing complex splicing events, particularly those involving microexons, remains technically challenging.
+Ribosomal Protein 24 (RPS24), which contains three microexons (3, 18, and 22 bp), serves as an ideal model for studying complex AS regulation in cancer.
+We developed a high-resolution detection method for RPS24 microexon variations and investigate their relationship with KRAS proto-oncogene, GTPase (KRAS) inhibition in lung adenocarcinoma (LUAD) to identify potential biomarkers for KRAS-targeted inhibitors.
+We established an integrated methodological approach combining RNA-seq analysis with fragment analysis to detect RPS24 AS patterns.
+Using this method, we analyzed RPS24 AS across a panel of lung cancer cell lines and examined AS changes in KRAS-mutant cell lines following treatment with KRAS inhibitors.
+Our method successfully characterized distinct RPS24 AS isoform compositions across lung cancer cell lines, demonstrating high accuracy in detecting 3 bp variations.
+In KRASmutant cell lines, we observed a consistent upregulation of the 3 bp-containing isoform following KRAS inhibition, indicating a specific correlation with treatment response.
+This study provides a robust methodology for analyzing complex AS events and supports the RPS24 3 bp-containing isoform as a potential biomarker for KRAS inhibitor response in LUAD.
+These findings offer new insights into the molecular mechanisms of KRAS inhibitor therapy and strategies for monitoring treatment response.

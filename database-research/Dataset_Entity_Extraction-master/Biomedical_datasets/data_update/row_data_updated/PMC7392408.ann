@@ -1,0 +1,9 @@
+T1	Dataset 138 144	GISAID
+T2	URL 146 168	https://www.gisaid.org
+T3	Dataset 799 805	GISAID
+T4	Dataset 870 876	GISAID
+T5	Dataset 1048 1054	GISAID
+T6	Dataset 1109 1115	GISAID
+T7	Dataset 1297 1303	GISAID
+T8	Dataset 1558 1564	GISAID
+R1	hasAttr	Arg1:T1	Arg2:T2

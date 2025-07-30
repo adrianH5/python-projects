@@ -1,0 +1,18 @@
+The COVID-19 pandemic is the first pandemic where WGS capacity has been widely available to the public health sector from the beginning.
+Since the first genomes were published in January 2020 [1-4], the number of available sequences has rapidly increased to more than 63,000 complete genome sequences available in GISAID as at 10 July [5].
+The World Health Organization (WHO) European Region has been an active contributor, with around 39,000 complete genome sequences from 35 countries published in GISAID, with a median time of 40 days from sample collection to publication according to the GISAID collection and submission dates.
+Several nomenclatures have been introduced for SARS-CoV-2 (strains in GISAID use the name hCoV-19), including by Nextstrain [6], GISAID [7] and Rambaut et al. (cov-lineages.org) [8-10].
+While Nextstrain and GISAID clade nomenclatures aim at providing a broad-brush categorisation of globally circulating diversity, the lineages (cov-lineages.org) are meant to correspond to outbreaks.
+The tree is shaded to correspond to the major lineages and all Nextstrain and GISAID clades.
+Between Nextstrain clades 20A and 20C and GISAID clades G and GH, there are differences in the position where clades are divided (shown as grey in the main tree and lineage columns, and grey stripes in the Nextstrain and GISAID column).
+Here, the grey is shown as stripes in the Nextstrain and GISAID clade columns to reflect how they are categorised by each methodology.
+The sequence data available from GISAID were curated using the Pangolin data preparation pipeline [8].
+There was an initial period in January 2020 when the 19A/L/V/O clades (Nextstrain/GISAID nomenclatures) were more prevalent in total than the 20A/G clades, However, this could partially be an effect of small numbers of sequenced viral genomes in Europe early in the pandemic as well as the widespread sampling strategy focusing on cases with travel history to East Asia.
+The Nextstrain 20C clade peaked at ca 20% of the sequences in early April 2020 and has since then slowly declined and almost disappeared, while the GISAID GH clade peaked at ca 30% in May 2020 and has rapidly declined since then.
+From top to bottom: Nextstrain, GISAID and cov-lineages.org.
+Shaded areas: interquartile ranges obtained by bootstrap resampling the dataset by country.
+The geographical distribution of Nextstrain and GISAID clades shows that in general, clade 19B/S has been very rare, except in Spain and Kazakhstan, and frequencies of the other clades were varied for most countries in the WHO European Region (Figure 3).
+The grey areas represent sequences called differently by the GISAID and Nextstrain methodologies, and correspond to the grey-shaded partition of the tree in Figure 1.
+The proportion of clades found in each country was calculated using all available full-length, high-quality (> 27,000 bases, < 3,000 undetermined bases) sequences available on GISAID.
+Clade membership for each sequence was determined by given GISAID annotation or via the Nextstrain clades script, and proportions were calculated for all sequences from a given country.
+The first three also depend to a large degree on data completeness, which is a limitation in the currently available dataset where the number of sequences per country ranges from four to 28,000.

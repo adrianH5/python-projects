@@ -1,0 +1,7 @@
+Lichens are pioneer species in several ecosystems, and as such are found in a variety of geographic regions and environments.
+Here, inspection of metagenomic data from 794 lichen samples from 34 countries reveals the presence of a complex holobiont harbouring remarkable biosynthetic capabilities, particularly in the bacterial consortia, a component that has been somewhat underappreciated.
+While bacteria were consistently present, their abundance varied among lichen taxa.
+Common bacterial genera included Microbacterium, Terribacillus, and JABEUN01 (an Acidimicrobiaceae bacterium awaiting Latin binomial naming assignment) albeit in low abundance.
+Lichenihabitans and Sphingomonas genera were moderately abundant, present in approximately 30% of samples, and exhibited an enrichment in the number of biosynthetic gene clusters (BGCs) predicted to encode secondary metabolites (biosynthetic potential).
+We found that both fungal and bacterial biosynthetic repertoires appeared to follow genus-specific patterns but that there was greater relative homogeneity of BGCs in the fungal genera.
+The substantial biosynthetic diversity within lichen holobionts is evident in our findings, with the lichen-associated bacteria emerging as a promising potential source for sustainable drug discovery.

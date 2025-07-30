@@ -1,0 +1,10 @@
+Cerebral tumors, particularly in pediatric patients, pose a significant challenge in oncology.
+Radiotherapy is a crucial component of the multimodal treatment approach for these tumors.
+Understanding the molecular basis of these tumors, particularly their response to radiotherapy, is crucial for improving treatment outcomes and patient survival.
+Many cancer-based studies have investigated gene expression patterns and gene signatures associated with radiotherapy.
+However, such studies are scarce in the field of pediatric cerebral tumors.
+Moreover, no studies have been conducted on the changes in gene expression profiles "before and after radiotherapy treatment in pediatric cerebral tumors," especially in diffuse intrinsic pediatric glioma, actually classified as diffuse midline glioma.
+This review aims to explore the expression of gene profiles in cerebral tumors before and after radiotherapy, unraveling the molecular mechanisms underlying treatment response and potential biomarkers for prognosis and therapeutic targeting.
+By examining the current literature (years 2011-2023), we provide an overview of the present understanding of the gene expression changes associated with radiotherapy in intrinsic brain tumors.
+Insights from these studies suggest alterations in key signaling pathways, DNA repair mechanisms, and cell cycle regulation in response to radiotherapy.
+Our analysis highlighted potential genomic targets and the importance of identifying key genes and pathways involved in these responses to develop personalized treatment strategies and improve patient outcomes.

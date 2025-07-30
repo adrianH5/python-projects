@@ -1,0 +1,5 @@
+Nevertheless, 17 years later, SARS‐CoV‐2 brought a much more severe and widespread pandemic of coronavirus disease 2019 (COVID‐19) to the world (Wu et al., 2020; Zhu et al., 2020).
+Up to 17 June 2020, about 6 months after the first reported case of COVID‐19, SARS‐CoV‐2 has caused 8,179,520 confirmed infections and 441,491 deaths worldwide, far surpassing the SARS pandemic.
+The high transmissibility of SARS‐CoV‐2 is probably a major reason for the rapid development of COVID‐19 epidemic and more studies on the transmission of pathogenic HCoV is urgently required.
+Full‐length SARS‐CoV‐2 spike (GenBank accession number MN908947.3), SARS‐CoV BJ01 spike (GenBank accession number AY278488.2) and pangolin‐CoV GD1 spike (GISAID accession number: EPI_ISL_410721) were all synthesized by Sangon and subcloned into the pcDNA3.1 vectors with a C‐terminal HA tag.
+Typically, severe acute respiratory syndrome CoV (SARS‐CoV) caused SARS pandemic in 2003 and SARS‐CoV‐2 caused the ongoing COVID‐19 pandemic.

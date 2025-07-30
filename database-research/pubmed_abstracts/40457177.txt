@@ -1,0 +1,10 @@
+Disulfidptosis represents a newly identified form of regulated cell death (RCD) distinct from other well-established RCD pathways.
+It occurs during periods of glucose starvation, specifically when intracellular NADPH is rapidly depleted and the expression of Solute Carrier Family 7 Member 11 (SLC7A11) is highly upregulated.
+Cancer cells utilize SLC7A11 to import cystine from the extracellular environment, and subsequently employ NADPH to convert it into cysteine.
+In the event of NADPH deficiency or an impairment in its utilization, cystine accumulates within the cells.
+This accumulation results in abnormal disulfide bond formation within actin cytoskeleton proteins, which in turn causes the collapse of the actin network and ultimately triggers disulfidptosis.
+This process uncovers a metabolic vulnerability within tumors, offering novel perspectives on the mechanisms that underlie cell death.
+In this paper, we provide a comprehensive review of the mechanism of disulfidptosis and compare its similarities and differences with other common programmed cell death mechanisms, such as apoptosis, autophagy, ferroptosis, and cuproptosis.
+The aim is to gain a more profound understanding of the characteristics and mechanisms of various cell death pathways.
+Understanding the correlation between disulfidptosis and tumors constitutes a crucial theoretical foundation for future research endeavors in cancer treatment.
+This review offers valuable insights that could pave the way for developing novel cancer treatment strategies and lead to groundbreaking advancements in cancer therapy.

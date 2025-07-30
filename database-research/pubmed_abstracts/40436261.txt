@@ -1,0 +1,11 @@
+Human cytomegalovirus (HCMV) infection has been linked to various cancers, including glioblastoma (GB), breast cancer (BC), and ovarian epithelial cancer (OC) especially high grade serous ovarian cancer (HGSOC).
+HCMV gene products control tumorigenic cellular pathways and processes associated with all the hallmarks of cancer.
+Among the suspected HCMV proteins involved in cellular transformation, the immediate early-1 (IE1) protein stands out as a significant player.
+Herein, we presented the experimental evidence supporting HCMV-IE1 role as a reprogramming factor that induces the transformation of human ovarian epithelial cells (OECs) resulting in the generation of "CMV transformed ovarian epithelial cells-IE1″ or CTO-IE1.
+These transformed cells exhibit similarities to those previously reported by our group, following infection with the high-risk oncogenic HCMV strain DB.
+HCMV-IE1-DB protein triggered distinct cellular and molecular mechanisms in stably transduced OECs.
+This included downregulation of Rb/p53 and upregulation of Myc/EZH2, concurrent with the emergence of polyploid giant cancer cells (PGCCs) and giant cell cycling in the culture.
+HCMV-IE1-DB silencing limited cellular transformation and stemness.
+In HGSOC, PGCCs were detected in the presence of IE1; the latter positively correlated with Myc.
+In addition, HCMV IE1 exhibits transforming capabilities in human mammary epithelial cells (HMECs) and human astrocytes (HAs) in vitro, reflecting its potential role in the transformation observed in vivo.
+This highlights the tumorigenic properties of Myc/EZH2 in the context of IE1-mediated transformation parallel to PGCCs appearance.

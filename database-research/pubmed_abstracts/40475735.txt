@@ -1,0 +1,12 @@
+Cardiovascular diseases, including acute myocardial infarctions, heart failure, hypertension, adverse cardiac remodeling, hypertrophy, atherosclerosis, and coronary artery disease, continue to lead to global mortality rates.
+Annual global cancer mortality rates follow closely behind, emphasizing the need to develop novel therapeutic approaches.
+MicroRNAs (miRNAs), a class of short non-coding RNAs, regulate cascades of signaling pathways and their downstream targets, exerting control over numerous biological processes.
+Dysregulation in specific miRNAs is linked to various pathogenesis, including cancer and cardiovascular disease.
+Among these miRNAs, the miRNA-17-92 cluster plays versatile roles at the nexus of critical physiological and pathological processes, including cardiac diseases and malignancy.
+This review aimed to provide a holistic analysis of the current progress in identifying, developing, and utilizing the miRNA-17-92 cluster to combat cardiovascular diseases and cancer.
+The members of the miRNA-17-92 cluster exert control over numerous cellular pathways that regulate, suppress, and promote various aspects of cardiomyocyte differentiation, regeneration, and aging.
+Certain pathways controlled by the cluster are protective when properly expressed.
+Others can propagate unchecked cardiovascular disease progression and mortality due to poorly controlled over/under-regulation.
+Similarly, the miRNA-17-92 cluster plays critical regulatory roles in the occurrence, metastasis, and prognosis of multiple cancers, which may allow the cluster to serve as diagnostic and prognostic biomarkers of malignancy.
+This review provides a brief overview of the multifaceted roles of the miRNA-17-92 cluster to deliver some insight into the development of novel targeted therapeutics for cardiovascular diseases and cancer via controlling the expression of specific subsets within this cluster.
+Additionally, this review systematically summarizes the established molecular mechanisms of the miRNA-17-92 cluster and its therapeutic potential in dual pathological contexts, cardiovascular diseases, and cancer.

@@ -1,0 +1,3 @@
+Lung adenocarcinoma (LUAD) is the most prevalent form of lung cancer worldwide.
+Long non-coding RNA (lncRNAs) are non-protein coding RNAs that are involved in lung cancer.
+This study aimed to develop a lncRNA-based risk assessment model based on RNA methylation to evaluate the prognosis of patients with LUAD.

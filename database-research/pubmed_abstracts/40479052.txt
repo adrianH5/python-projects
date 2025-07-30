@@ -1,0 +1,7 @@
+Aortic valve stenosis (AVS) is a sexually dimorphic disease where aortic valve leaflets develop fibrosis and calcification, leading to heart failure if untreated.
+Sex differences in AVS progression depend on valvular interstitial cells (VICs) activating to myofibroblasts that drive aberrant extracellular matrix remodeling.
+To date, no treatment strategies have leveraged cellular sex differences to determine drug combinations that target VIC myofibroblast activation.
+Here, we harnessed IDentif.AI, an artificial intelligence (AI)-derived platform, to optimize sex-biased synergistic drug combinations that may prevent and reverse VIC myofibroblast activation on hydrogel biomaterials.
+The results reveal that sex-specific drug response models can be used to predict sex biases in drug efficacy and combinatorial interactions.
+This study provides a framework for developing AVS treatments through the integration of high-throughput hydrogel cell culture platforms and AI-driven drug optimization.
+Designing targeted AVS drug combinations may help accelerate AVS drug development and address health disparities in AVS treatment outcomes.

@@ -1,0 +1,3 @@
+Early detection of esophageal squamous cell carcinoma (ESCC) significantly improves survival rates, yet reliable biochemical biomarkers for early diagnosis remain limited.
+The aim of this study is to identify potential early diagnostic biomarkers by integrating trace element and oxidative stress profiling with machine learning.
+This study investigates alterations in trace elements and oxidative stress-related biomarkers in cancerous and adjacent healthy esophageal tissues (used as paired controls) using ICP-MS and spectrophotometric biochemical assays.

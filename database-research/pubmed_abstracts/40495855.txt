@@ -1,0 +1,8 @@
+Head and neck cancer (HNC) represents a significant global health burden, often requiring complex treatment strategies, including surgery, chemotherapy, and radiation therapy.
+Accurate delineation of tumor volumes is critical for effective treatment, particularly in MR-guided interventions, where soft tissue contrast enhances visualization of tumor boundaries.
+Manual segmentation of gross tumor volumes (GTV) is labor intensive, time-consuming and prone to variability, motivating the development of automated segmentation techniques.
+Convolutional neural networks (CNNs) have emerged as powerful tools in this task, offering significant improvements in speed and consistency.
+In this study, we participated as Team Pocket in Task 1 of the HNTS-MRG 2024 Grand Challenge, which focuses on the segmentation of gross tumor volumes of the primary tumor (GTVp) and the nodal tumor (GTVn) in pre-radiotherapy MR images for HNC.
+We evaluated the application of PocketNet, a lightweight CNN architecture, for this task.
+Results for the final test phase of the challenge show that PocketNet achieved an aggregated Dice Sorensen Coefficient (DSCagg) of 0.808 for GTVn and 0.732 for GTVp, with an overall mean performance of 0.77.
+These findings demonstrate the potential of PocketNet as an efficient and accurate solution for automated tumor segmentation in MR-guided HNC treatment workflows, with opportunities for further optimization to enhance performance.

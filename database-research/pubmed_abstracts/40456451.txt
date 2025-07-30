@@ -1,0 +1,11 @@
+Retinal degeneration (RD), a group of progressive diseases marked by the loss of retinal neurons.
+Aging contributes to the gradual decline in cellular function, which, in turn, exacerbates the pathogenesis of RD through complex molecular mechanisms, including aberrant gene expression, impaired cellular signaling pathways, oxidative stress, and inflammation.
+The pivotal role of epigenetic histone modifications in mediating the onset and progression of neurological disorders has garnered increasing attention, especially concerning histone acetylation.
+The level of histone acetylation is regulated by histone acetyltransferases (HATs) and histone deacetylases (HDACs).
+HATs and HDACs can enzymatically modify lysine residues on histones or non-histones via adding or removing acetyl groups, leading to changes in transcriptional activity.
+Histone deacetylase inhibitors (HDACis) can interfere with the deacetylase activity of HDACs, enhance the level of both histone and non-histone acetylation, and exert a regulatory influence on gene transcription.
+Accumulating evidence supports the role of HDACis in the treatment of multiple medical conditions beyond cancer, renewing interest in their potential applications in age-related diseases.
+In this context, HDAC inhibition represents a novel approach for mitigating the age-related cellular dysfunctions contributing to RD.
+HDACis hold promise in addressing these pathological processes and preserving retinal function through targeting HDACs.
+We intend to elucidate the neuroprotective effects of common HDACis on age-related RD, with a focus on their role in counteracting the detrimental effects of aging, and provide a comprehensive summary of the efficacy of HDACis in both animal models and clinical trials for age-related RD.
+These findings would enrich our understanding of HDACis and promote their future applications in the treatment of age-related RD.

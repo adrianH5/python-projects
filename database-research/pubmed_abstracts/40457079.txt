@@ -1,0 +1,11 @@
+Metastasis-the dissemination of cancer cells to distant organs-is the leading cause of cancer-related death.
+Beyond hemostasis, platelets contribute to tumor growth, angiogenesis, and metastasis by secreting factors such as platelet-derived growth factor (PDGF), vascular endothelial growth factor (VEGF), and transforming growth factor-beta (TGF-β).
+These mediators stimulate tumor cell proliferation, migration, and invasion, fostering a microenvironment that promotes cancer progression.
+These factors stimulate the proliferation, migration, and invasion of tumor cells, contributing to the formation of a supportive tumor microenvironment that promotes cancer progression.
+On the other hand, tumor cells interact with platelets through various mechanisms, including the release of procoagulant factors, the expression of adhesion molecules, and induction of platelet activation and aggregation.
+This interaction forms a protective shield around circulating tumor cells, facilitating their escape from immune surveillance and promoting their infiltration into more distant sites.
+Platelets also play a significant role in modulating the tumor microenvironment.
+They contribute to immune suppression by inhibiting T-cell function, promoting the activity of immunosuppressive cells (e.g., myeloid-derived suppressor cells), and protecting tumor cells from immune attack.
+Understanding the complex interactions between platelets, tumor cells, and targeting platelet-tumor interactions (e.g., inhibiting platelet activation or PDGF signaling) may provide promising strategies.
+This review synthesizes recent advancements in understanding platelet-tumor crosstalk, with a focus on novel mechanisms such as platelet-derived microparticle-mediated metastasis, immune checkpoint mimicry by tumor-educated platelets, and the paradoxical roles of thrombospondin-1 (TSP-1) in angiogenesis.
+We critically evaluate emerging therapeutic strategies targeting platelet-tumor signaling and identify unresolved questions, including the role of platelet miRNAs in pre-metastatic niche formation and the efficacy of combinatorial antiplatelet-immunotherapy approaches.

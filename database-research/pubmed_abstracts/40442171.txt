@@ -1,0 +1,13 @@
+Due to imbalanced data values and high-dimensional features of lung cancer from CT scans images creates significant challenges in clinical research.
+The improper classification of these images leads towards higher complexity in classification process.
+These critical issues compromise the extraction of biomedical traits and also design incomplete classification of lung cancer.
+As the conventional approaches are partially successful in dealing with the complex nature of high-dimensional and imbalanced biomedical data for lung cancer classification.
+Thus, there is a crucial need to develop a robust classification technique which can address these major concerns in the classification of lung cancer images.
+In this paper, we propose a novel structural formation of the oblique decision tree (OBT) using a swarm intelligence technique, namely, the Binary Bat Swarm Algorithm (BBSA).
+The application of BBSA enables a competitive recognition rate to make structural reforms while building OBT.
+Such integration improves the ability of the machine learning swarm classifier (MLSC) to handle high-dimensional features and imbalanced biomedical datasets.
+The adaptive feature selection using BBSA allows for the exploration and selection of relevant features required for classification from ODT.
+The ODT classifier introduces flexibility in decision boundaries, which enables it to capture complex linkages between biomedical data.
+The proposed MLSC model effectively handles high-dimensional, imbalanced lung cancer datasets using TCGA_LUSC_2016 and TCGA_LUAD_2016 modalities, achieving superior precision, recall, F-measure, and execution efficiency.
+The experiments are conducted in Python to evaluate the performance metrics that consistently demonstrate enhanced classification accuracy and reduced misclassification rates compared to existing methods.
+The MLSC is assessed in terms of both qualitative and quantitative measurements to study the capability of the proposed MLSC in classifying the instances more effectively than the conventional state-of-the-art methods.

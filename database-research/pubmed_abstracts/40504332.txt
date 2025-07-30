@@ -1,0 +1,3 @@
+This study investigates the role of HSPB1 in pancreatic cancer, particularly its impact on cell proliferation and migration through ferroptosis regulation and interaction with TP53 MATERIALS AND METHODS: HSPB1 expression was analyzed using BioGPS and GEPIA databases.
+BxPC-3 cell lines with stable HSPB1 overexpression and knockdown were created via plasmid transfection and siRNA.
+The study examined HSPB1's effect on TP53 protein levels and its role in ferroptosis using TP53 agonists and inhibitors.

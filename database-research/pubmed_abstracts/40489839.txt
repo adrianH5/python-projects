@@ -1,0 +1,12 @@
+Data confirming parenteral nutrition (PN) as an independent risk factor for catheter-related infection (CRI) are scarce and not recent.
+This study aims to estimate the effect of PN on CRI in cancer patients after catheter placement.
+A retrospective cohort analysis of the French National Health Data System was conducted.
+A total of 5300 gastric, 5975 pancreatic, and 15,102 lung cancer patients with central venous catheter insertion between 2012 and 2016 were included.
+Potential confounders for CRI were evaluated using Poisson regression.
+Incidence rates (IRs) of CRI were calculated.
+Incidence rate ratio (IRR) was estimated to assess the effect of exposure to PN on infection occurrence in all patients and among patients receiving chemotherapy (CT).
+The independent risk factors found to be associated with CRI were age, sex, Charlson Comorbidity Index, PN, CT, metastasis, and history of infection.
+After adjustment, there was an increased risk of CRI in patients with versus without PN in gastric (IRR: 1.1165; 95% confidence interval [95% CI]: 1.0119-1.2319), pancreatic (IRR: 1.2071; 95% CI: 1.0985-1.3265), and lung cancer (IRR: 1.1850; 95% CI: 1.0832-1.2962).
+In patients who received PN, IRs of CRI were higher than in those who did not, for gastric (34.84% vs 29.69%, respectively; P = .0001), pancreatic (38.89% vs 28.58%, respectively; P < .0001), and lung (23.64% vs 22.13%, respectively; P = .0967) cancer cohorts.
+The results of this National administrative claims database analysis suggested that PN might be one of the independent risk factors for CRI.
+However, the risk was smaller than previously reported, regardless of whether the patient was receiving CT or not.

@@ -1,0 +1,6 @@
+The highly selective ability of cytotoxic T lymphocytes (CTLs) to eliminate tumor cells has inspired the development of artificial nanomedicine for effective cancer therapy.
+Here, an artificial CTL (aCTL) that selectively recognizes and kills cancer cells is developed.
+The membrane target-binding moiety, membrane-perforating peptides, and therapeutic prodrugs are integrated into the aCTL through supramolecular interactions.
+Consequently, the prepared aCTL selectively binds cancer cells and perforates the surrounding membrane.
+Subsequently, the conjugated prodrug is cleaved and released by the overexpressed membrane transpeptidase, allowing entry into tumor cells through the perforated holes.
+Finally, the aCTL significantly suppresses the growth of HepG2 hepatocellular carcinoma, B16-F10 melanomas, and patient-derived xenograft (PDX) breast cancer models.

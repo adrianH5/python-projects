@@ -1,0 +1,7 @@
+Posttranscriptional modifications are involved in cancer progression.
+However, the function and regulatory mechanism of mRNA acetylation modification remains largely unknown.
+Here, we discover an unexpected role of N4-acetylcytidine (ac4C) RNA acetyltransferase NAT10 in reshaping the tumor immune microenvironment.
+By analyzing patients' data, we find that NAT10 is upregulated in tumor tissues, and negatively correlated with immune cell infiltration and overall survival.
+Loss of tumoral NAT10 enhances tumor-specific cellular immune response and suppresses tumor growth.
+Mechanistically, MYC is identified as a key downstream target of NAT10 via enhancing mRNA ac4C modification.
+Inhibition of NAT10 blocks the MYC/CDK2/DNMT1 pathway, enhances double-stranded RNA (dsRNA) formation, which triggers type I interferon response and improves tumor specific CD8

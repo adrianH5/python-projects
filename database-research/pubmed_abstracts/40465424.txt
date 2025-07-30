@@ -1,0 +1,3 @@
+Commonly occurring oncogenic mutations in EGFR render non-small cell lung cancers sensitive to approved EGFR-targeted drugs.
+EGFR in-frame exon 20 insertion (ex20ins) mutants are, however, less sensitive to such drugs.
+The efficacy of existing medicines may in part be limited by their selectivity for ex20ins mutations relative to wild-type EGFR, which is important for epithelial tissue homeostasis.

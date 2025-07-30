@@ -1,0 +1,3 @@
+The efficacy of immunotherapy in non-small cell lung cancer (NSCLC) is intricately associated with baseline PD-L1 expression rates.
+The standard method for measuring PD-L1 is immunohistochemistry, which is invasive and may not capture tumor heterogeneity.
+The primary aim of the current study is to assess whether CT-based radiomics models can accurately predict PD-L1 expression status in NSCLC and evaluate their quality and potential gaps in their design.

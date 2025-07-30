@@ -1,0 +1,8 @@
+In biology, oscillations are observed across a wide spectrum of processes and systems.
+Oscillatory systems are typically leveraged to transmit information within cells.
+However, they can also serve to transmit information between organisms underscoring their fundamental role in regulating transitions, maintaining stability, and responding to environmental stimuli.
+In this study, we explore mitochondrial fission and fusion dynamics through the framework of the Belousov-Zhabotinsky (BZ) reaction, a hallmark of non-equilibrium system that exhibits periodic changes in reactant concentrations through autocatalysis and feedback regulation.
+We observed that mitochondrial changes followed an oscillatory dynamic where the fission, fusion and intermediary factors undergo oscillations.
+Also, by modelling comparison with publicly available datasets of diseased condition before and after therapy, we observed similarities, where under diseased condition there is increased concentration of the fission and fusion factors but upon treatment the concentration of the intermediary factors increase.
+Also, patient survival data analysis showed that increase in fission and fusion factors correlated with increased deaths but when there is increase in the intermediary factor concentration, we see better patient survival.
+These results highlight the possibility of targeting mitochondrial dynamics as a potential strategy for therapeutic development for diseases such as cancer where mitochondrial dynamics is dysregulated.

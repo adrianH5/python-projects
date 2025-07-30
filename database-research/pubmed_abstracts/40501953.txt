@@ -1,0 +1,4 @@
+Antibody-drug conjugates (ADCs) are a form of targeted chemotherapy featuring an antibody recognizing a specific protein on cancer cells joined to a potent toxic payload.
+Numerous antibody-drug conjugates have received FDA approval; however, clinical resistance arises commonly in tumors.
+Resistance mechanisms include decreased expression or mutation of the antibody target, failure to release the payload from the ADC, or increased expression of ATP-binding cassette (ABC) efflux transporters associated with multidrug resistance.
+We therefore sought to characterize the interactions of ABC multidrug transporters with ADC payloads.

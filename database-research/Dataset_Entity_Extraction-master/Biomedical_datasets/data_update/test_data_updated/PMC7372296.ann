@@ -1,0 +1,8 @@
+T1	AccessionNumber 319 327	32015508
+T2	AccessionNumber 329 337	32142651
+T3	Dataset 379 385	GISAID
+T4	AccessionNumber 391 405	EPI_ISL_402119
+T5	Repository 421 428	GenBank
+T6	AccessionNumber 433 443	AY278489.2
+R1	hasAttr	Arg1:T3	Arg2:T4
+R2	hasAttr	Arg1:T5	Arg2:T6

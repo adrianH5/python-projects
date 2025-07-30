@@ -1,0 +1,8 @@
+The screening and monitoring of microRNAs as cancer molecular biomarkers is clinically significant, but traditional methods lack sufficient sensitivity, accuracy, and convenience.
+The CRISPR-colorimetric lateral flow assay (CLFA) integration offers a promising and efficient solution; however, cumbersome preamplification and poor quantification hinder clinical adoption.
+In this study, we developed a one-step isothermal CRISPR-Cas cascaded sensing system that is preamplification-free.
+At its core is a designed and selected split DNA tetrahedron activator, employing spatiotemporal-hierarchy mechanisms to precisely bidirectionally drive the kinetics of two Cas enzymes, accelerating the activation of Cas13a while delaying the initiation of Cas12a, to achieve optimal balance.
+This system enables ultrasensitive, single-step, single-tube, and rapid detection of a cervical cancer relative biomarker, microRNA-21, achieving a limit of detection of 38 aM with a broad linear range.
+The CRISPR system is further integrated with CLFA enhanced by ultrathin platinum-protected gold nanolabels (Au@Pt, also named Au@s-Pt), along with a smartphone equipped with dual convolutional neural network models (YOLO v5 and MobileNet v3), enabling more precise, rapid quantification of target miRNA.
+Using this integrated platform, miRNA-21 levels in cervical cancer and precancerous samples can be accurately quantified with approximately 30 min at low cost and without the need for large, sophisticated instruments, with results showing good concordance with quantitative real-time polymerase chain reaction.
+This platform provides an efficient, highly sensitive, user-friendly, and quantifiable point-of-care testing solution.

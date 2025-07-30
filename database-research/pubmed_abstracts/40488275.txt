@@ -1,0 +1,14 @@
+Multiple myeloma (MM) is a hematological malignancy characterized by the accumulation of malignant plasma cells in bone marrow and remains largely incurable.
+The study aimed to investigate the role of miR-155-5p in modulating malignant cellular behavior and tumorigenesis in MM.
+MiR-155-5p expression in MM tissues and cells was measured by RT-qPCR.
+In the context of miR-155-5p overexpression, Transwell, wound healing, and CCK-8 assays were conducted to evaluate cell invasion, migration, and viability, respectively.
+Xenograft tumor models were established to explore the influence of miR-155-5p and JARID2 on tumor growth in vivo.
+Gene interaction was analyzed using a luciferase reporter assay.
+Western blot analysis was carried out to quantify protein expression of JARID2 and components involved in the TGFβ/SMAD2 signaling pathway.
+Experimental results revealed that miR-155-5p expression was significantly diminished in MM cells and tissue samples.
+Overexpressing miR-155-5p not only suppressed MM cell viability, invasion, and migration but also restrained tumor growth.
+JARID2 was highly expressed in MM cells and identified as a direct target of miR-155-5p.
+In MM tissues, miR-155-5p expression was inversely correlated with JARID2 expression.
+Furthermore, JARID2 overexpression effectively reversed the inhibitory impacts of miR-155-5p on cell malignancy and tumorigenesis.
+In addition, miR-155-5p inactivated the TGFβ/SMAD2 pathway by negatively regulating JARID2 expression.
+In conclusion, miR-155-5p inhibits MM cell malignancy and tumorigenesis by targeting JARID2 and inactivating the TGFβ/SMAD2 signaling.

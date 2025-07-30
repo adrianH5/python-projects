@@ -1,0 +1,7 @@
+Mitophagy, the selective degradation of mitochondria, is essential for retinal ganglion cell (RGC) differentiation and retinal homeostasis.
+However, the specific mitophagy pathways involved and their temporal dynamics during retinal development and maturation remain poorly understood.
+Using proteomics analysis of isolated mouse retinas across developmental stages and the mitophagy reporter mouse line, mito-QC, we characterized mitophagy throughout retinogenesis.
+While mitolysosomes were more prevalent in the mature retina, we observed two distinct mitophagy peaks during embryonic development.
+The first, independent of PTEN-induced kinase 1 (PINK1) activation, was associated with RGCs.
+The second, PINK1-dependent peak was triggered after an increase in retinal oxidative stress.
+This PINK1-dependent, oxidative stress-induced mitophagy pathway is conserved in mice and zebrafish, providing the first evidence of programmed, PINK1-dependent mitophagy during development.

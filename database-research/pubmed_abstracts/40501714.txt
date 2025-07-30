@@ -1,0 +1,8 @@
+A significant factor in cancer-related mortality in melanoma is the appearance of intrinsically aggressive distal metastases.
+This recurrence frequently results from the awakening of dormant disseminated cancer cells (DCCs).
+One of the most puzzling clinical features in this disease is that DCCs rapidly develop into metastases in certain melanoma patients, while remaining inactive in others.
+We have previously identified NR2F1 as a driver of dormancy, but the mechanisms underlying its regulation, particularly when DCC are "awakened", are poorly understood.
+This study reveals that the growth factor Midkine (MDK) triggers a potent autocrine mechanism that deactivates NR2F1-dependent dormancy in DCC, ultimately favouring metastatic outgrowth.
+The effect of MDK was found linked to deregulation of the p-p38/p-ERK ratio in DCCs, in a process that was partly ALK-dependent.
+Supporting the physiological relevance of these data, MDK and NR2F1 were inversely correlated in DCCs in human lymph nodes (LN).
+In this regard, we observed that human LN biopsies negative for metastasis carried higher percentages of the dormant MDK

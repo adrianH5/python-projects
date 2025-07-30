@@ -1,0 +1,10 @@
+Lung adenocarcinoma (LUAD) is a heterogeneous disease with substantial genomic differences between individuals of Chinese and European ancestry.
+Deciphering the timing of driver mutations may lead to insights into tumor evolution that can inform diagnostic and therapeutic approaches for LUAD.
+Here, we conducted whole-genome sequencing on LUAD samples from 251 patients with Chinese ancestry to reconstruct the evolutionary trajectories of somatic alterations, especially those across the non-coding regions.
+Tobacco-related mutations preferentially occurred early and plateaued at 28 packs of cigarettes per year.
+Well-known driver mutations (e.g., EGFR, TP53, and RB1) also occurred at the early stage, displaying ancestry heterogeneity among smokers.
+In contrast to exogenous mutagens, endogenous mutagen-related alterations (APOBEC) occurred late.
+The 3'UTR was the most frequently altered non-coding element in LUAD, with recurrent disrupting mutations in the 3'UTR of SFTPB and SFTPA1.
+Unlike other cancer types, TERT promoter mutations were observed specifically among female LUAD patients.
+Clustered mutations (e.g., doublet-base substitutions, multi-base substitutions, and kataegis) influenced LUAD evolution and were overrepresented in driver genes.
+These findings provide insights into the dynamic nature of genomic alterations during lung tumorigenesis.

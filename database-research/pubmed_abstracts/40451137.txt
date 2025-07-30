@@ -1,0 +1,6 @@
+Isatin (1H-indole-2,3-dione) scaffold is an important heterocyclic building block which can be used for the design and synthesis of anti-cancer agents targeting tyrosine kinases, tubulin polymerization, carbonic anhydrases, and histone deacetylases.
+There are also several lines of evidences demonstrating the role of cyclin-dependent kinase 2 (CDK2) in cancer development and its potential as anti-cancer target.
+Here we are going to review isatin-derived CDK2 inhibitors and their potential for developing new anticancer agents.
+The purpose of this review is to present the importance of isatin scaffold for design of new CDK2 inhibitors from medicinal and biological viewpoints.
+Furthermore, the in vitro and in silico studies, and structure-activity relationships (SARs) were also discussed.
+The Insights derived from SARs provide crucial directions for the rational design of potent and selective isatin-based CDK2 inhibitors, which improve therapeutic efficacy and reduce side effects of anticancer chemotherapy.

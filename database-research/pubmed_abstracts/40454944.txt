@@ -1,0 +1,9 @@
+Arginine is a conditionally essential amino acid with known roles in protein production, nitric oxide synthesis, biosynthesis of proline and polyamines, and regulation of intracellular signaling pathways.
+Arginine biosynthesis and catabolism have been linked to TGF-β-induced activation of fibroblasts in the context of pulmonary fibrosis; however, a thorough study on the metabolic and signaling roles of arginine in the process of fibroblast activation has not been conducted.
+Here, we examined the regulation and role of arginine metabolism in lung fibroblasts activated with TGF-β.
+We found that TGF-β increases the expression of arginine metabolic biosynthetic and catabolic enzymes in lung fibroblasts.
+Surprisingly, using metabolic tracers of arginine and its precursors, we found little evidence of arginine synthesis or catabolism in lung fibroblasts treated with TGF-β.
+Despite this, arginine remained crucial for TGF-β-induced expression of collagen and α-smooth muscle actin.
+We found that arginine limitation leads to activation of GCN2 while inhibiting TGF-β-induced mTORC1 activation and collagen protein production.
+Extracellular citrulline could rescue the effect of arginine deprivation in an ASS1-dependent manner.
+Our findings suggest that the major role of arginine in lung fibroblasts is for charging of arginyl-tRNAs and promotion signaling events which are required for fibroblast activation.

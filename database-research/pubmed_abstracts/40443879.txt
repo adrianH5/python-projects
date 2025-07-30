@@ -1,0 +1,10 @@
+The discovery of glycosylated RNA (glycoRNA) revealed an unexpected association between glycans and RNA.
+This discovery, facilitated by the metabolic carbohydrate reporter per-O-acetylated N-azidoacetyl-mannosamine, underscores the potential for biological roles of previously unknown RNA modifications.
+Our study builds upon the detection of glycoRNA with other metabolic probes such as per-O-acetylated N-azidoacetyl-glucosamine, N-azidoacetyl-galactosamine, and 6-azidofucose.
+This broader analysis uncovered potential new glycosylated transcripts that warrant further study.
+However, our results also revealed unexpected resilience of the unidentified carbohydrate-RNA linkage to enzymatic cleavages by glycosidases.
+Therefore, we investigated nonenzymatic formation of carbohydrate-RNA linkages in vitro using per-acetylated probes.
+From these studies, we draw two main conclusions.
+First, signals arising from metabolic incorporation using acetylated carbohydrate probes represent the main source of detectable glycoRNA species.
+Second, sequencing reveals that the most likely candidates for carbohydrate-modified RNAs are likely tRNAs.
+We demonstrated that an expanded repertoire of metabolic reporters can be incorporated into glycoRNA, opening new perspectives on the nature of post-transcriptionally modified RNA.

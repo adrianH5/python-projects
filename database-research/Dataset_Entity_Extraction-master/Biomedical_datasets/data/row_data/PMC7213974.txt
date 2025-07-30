@@ -1,0 +1,18 @@
+COVID-19 infects mainly elderly and people with cardiovascular risk, such as hypertension (Guan et al., 2020).
+Every clinician recognizes that the virus does not cause disease similar to influenza, which carries the risk that designing targeted therapies based on the pathogenesis of influenza might fail in COVID-19.
+Research on Sars-CoV pathogenesis which might be very similar to Sars-CoV-2 pathogenesis has focused the discussion on ACE inhibitors, recombinant ACE2, and ARBs and how they could fit in the pathogenesis of COVID-19, since these pathways were extensively studied in SARS (Fang et al., 2020; Batlle et al., 2020).
+Here, we describe the clinical observations that brought the clues for explaining the potential pathophysiological mechanisms, and offer a rationale for targeted treatment at different stages of COVID-19.
+In contrast to patients with common forms of ARDS, approximately 70% of patients with severe COVID-19 show an only slightly decreased pulmonary compliance (L-type) (Gattinoni et al., 2020a).
+We propose it all starts with ACE2 and its role in the kallikrein-kinin system, which to date has not been investigated in the pathogenesis of SARS or COVID-19.
+The clinical picture of COVID-19 is in line with a single-organ failure of the lung that is due to edema at the site of inflammation.
+In addition, complement activation has been described and could play a role in this stage of disease, and this might be amendable to C5 blockade with eculizimab with which a randomized trial in COVID-19 is being performed (NCT04288713).
+COVID-19 patients can present with pulmonary edema early in disease.
+Here, we hypothesize that a kinin-dependent local lung angioedema via B1R and eventually B2R is an important feature of COVID-19.
+We propose that blocking the B2R and inhibiting plasma kallikrein activity might have an ameliorating effect on early disease caused by COVID-19 and might prevent acute respiratory distress syndrome (ARDS).
+The COVID-19 pandemic represents an unprecedented threat to global health.
+Common symptoms include a fever and persistent cough and COVID-19 patients also often experience an excess of fluid in the lungs, which makes it difficult to breathe.
+The SARS-CoV-2 virus, which causes COVID-19, enters the lining of the lungs via an enzyme called the ACE2 receptor, which is present on the outer surface of the lungs’ cells.
+As a result, much attention has turned to the potential link between this hormone system in relation to COVID-19.
+This led van de Veerdonk et al. to propose that the excess of fluid in the lungs seen in COVID-19 patients may be because kinins are not being neutralized due to the shortage of the ACE2 receptor.
+If this hypothesis is correct, it would mean that directly inhibiting the receptor for the kinins (or the proteins that they come from) may be the only way to stop fluid leaking into the lungs of COVID-19 patients in the early stage of disease.
+If that work provides a proof of concept, it means that existing treatments and registered drugs could potentially help patients with COVID-19, by preventing the need for mechanical ventilation and saving many lives.

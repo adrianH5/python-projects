@@ -1,0 +1,9 @@
+Peptide hormone-receptor interactions serve as critical regulators of metabolic homeostasis, a paradigm exemplified by the clinical efficacy of glucagon-like peptide-1 (GLP-1) receptor agonists.
+Building upon this framework, strategic design has yielded unimolecular dual and triple agonists targeting GLP-1R, glucose-dependent insulinotropic polypeptide receptor (GIPR), and glucagon receptor (GcgR), leveraging the sequence homology within the cognate native ligands of the class B G protein-coupled receptor (GPCR) family.
+However, the integration of Y2 receptor (Y2R) agonism─engaged by peptide YY (PYY) and belonging to the structurally divergent class A GPCR family─has remained an unaddressed challenge due to the topological and sequence disparities between these receptor classes.
+Y2R activation plays a pivotal role in appetite suppression, potentiating the metabolic benefits conferred by GLP-1R, GIPR, and GcgR agonism.
+Here, we report first-in-class, unprecedented tetra-agonists with high potency at GLP-1R, GIPR, GcgR, and Y2R.
+The chimeric peptides overcome the intrinsic sequence constraints imposed by class A and class B GPCR divergence, demonstrating the feasibility of rationally designed agonism mediated by single agents across receptor families.
+Lipidation of this template is well tolerated enhancing the promise of therapeutic viability.
+Furthermore, we show that biased agonism at GLP-1R selectively boosts cyclic AMP (cAMP) signaling while minimizing β-arrestin recruitment, thereby decoupling receptor desensitization from metabolic efficacy.
+Additionally, we introduce a tunable framework to modulate β-arrestin engagement without compromising cAMP potency, providing insight into the fine-tuning of GPCR-mediated signaling for next-generation peptide therapeutics.

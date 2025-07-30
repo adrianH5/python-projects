@@ -1,0 +1,12 @@
+Antibody therapeutics have become a major modality for cancer treatment.
+Particularly, immune checkpoint inhibitors have shown remarkable efficacy against various cancers.
+However, similar to other antibody therapeutics, they have not demonstrated clinical efficacy against malignant brain tumors.
+The primary reason for this is the presence of the blood-brain tumor barrier (BBTB) in the endothelial cells of malignant brain tumors, which prevents antibodies from entering the tumor parenchyma.
+Additionally, treatment with immune checkpoint inhibitors is clinically challenged by the occurrence of immune-related adverse events (irAEs) owing to non-specific and excess activation of the immune system.
+To address these issues, we integrated synthetic polymer-based drug delivery systems with immune checkpoint inhibitors.
+Specifically, we modified anti-PD-L1 antibodies with multiple glucosylated poly(ethylene glycol) (PEG) chains via disulfide bonds.
+This glucose-PEG-conjugated anti-PD-L1 antibody effectively accumulates in glioblastoma by penetrating the BBTB through the interaction of glucose ligands with glucose transporter-1, which is overexpressed in glioblastoma endothelial cells.
+Subsequently, the PEG chains detach from the antibodies in response to the reductive environment within the glioblastoma, thereby blocking PD-L1 expression.
+Conversely, the PEG chains remain conjugated to antibodies in the bloodstream and normal tissues, masking their functions.
+The glucose-PEG-conjugated anti-PD-L1 antibody demonstrated significant efficacy against glioblastoma, while reducing the risk of irAEs in normal tissues.
+This technology is applicable to various antibody therapeutics and can be adapted to target other organs or specific cell types by exchanging ligand molecules, offering broad potential therapeutic applications.

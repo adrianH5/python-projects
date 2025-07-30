@@ -1,0 +1,9 @@
+The progression of HR+/HER2- metastatic breast cancer after treatment with cyclin-dependent kinase 4/6 inhibitors (CDK4/6i) poses significant therapeutic challenges.
+Endocrine therapy (ET) remains a cornerstone of subsequent treatment, but its effectiveness depends on a nuanced understanding of clinical and genomic factors that drive therapy selection.
+For example, the duration of response to prior CDK4/6i therapy strongly predicts sensitivity to subsequent ET.
+Patients with prolonged responses to first-line therapy may benefit most from additional endocrine strategies, whereas those with rapid cancer progression often require alternative approaches.
+Clinical parameters such as disease burden, visceral involvement, and comorbidities also guide treatment decisions.
+Low-burden, indolent disease favors continued ET, whereas aggressive progression may necessitate the addition of targeted agents or a shift to chemotherapy.
+Genomic profiling via liquid or tissue biopsy should be integral to identifying actionable mutations and ensuring timely, individualized intervention.
+Molecular parameters, such as ESR1 mutations and PI3K pathway alterations, can predict therapeutic response, thus guiding treatment selection.
+This review underscores the importance of a personalized, evidence-based approach to the selection of endocrine-based therapy post-CDK4/6i failure, leveraging clinical insights and molecular diagnostics to optimize patient outcomes.

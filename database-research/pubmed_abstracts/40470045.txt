@@ -1,0 +1,2 @@
+The classical prognostic indicators of lung cancer are no longer sufficient for prognostic stratification and individualized treatment of highly heterogeneous non-small cell lung cancer (NSCLC).
+This study aimed to establish a radiomics model to predict CD74 expression level in NSCLC patients and to explore its role in the tumor immune response and its prognostic value.

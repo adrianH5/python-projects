@@ -1,0 +1,2 @@
+The National Cancer Institute's Molecular Profiling-Based Assignment of Cancer Therapy (NCI-MPACT) randomized phase 2 clinical trial assessed the utility of applying tumor DNA sequencing to treatment selection.
+Here, we report the results of a companion preclinical study in patient-derived xenograft (PDX) models to evaluate how each tumor responded to each of the treatment regimens studied in the NCI-MPACT trial instead of simply to the specific regimen targeting the study-actionable mutation of interest (aMOI).

@@ -1,0 +1,13 @@
+The protein branched-chain ketoacid dehydrogenase kinase (BCKDK), which regulates the metabolism of branched-chain amino acids, has recently been implicated in tumor progression.
+However, the role of BCKDK in lung cancer remains largely unexplored.
+In this study, we explored the mechanisms by which BCKDK influences lung cancer progression and contributes to drug resistance.
+By integrating single-cell RNA and bulk RNA sequencing data from lung cancer patients, we identified BCKDK as a novel gene related to malignant epithelial cells, involved in tumor initiation and associated with poor patient prognosis.
+Subsequently, through a series of molecular biology experiments, we demonstrated that BCKDK promotes aerobic glycolysis, Trametinib resistance, and tumor progression in lung cancer by upregulating MYC transcription.
+Mechanistically, BCKDK interacts with BCLAF1 to promote its phosphorylation at the serine 285 site.
+This modification facilitates BCLAF1 binding to the MYC promoter, thereby enhancing MYC transcription.
+Subsequently, elevated MYC levels upregulate hexokinase 2, promoting aerobic glycolysis and lung cancer progression.
+In addition, the elevated glycolysis product, lactate, promotes Trametinib resistance by upregulating the ABC transporters.
+Taken together, our data identify BCKDK as a novel regulator of aerobic glycolysis that promotes lung cancer progression and Trametinib resistance through the BCKDK/BCLAF1/MYC/HK2 axis.
+Targeting BCKDK in combination with Trametinib may offer a promising treatment for lung cancer.
+Graphical representation of the BCKDK/BCLAF1/MYC/HK2 axis and its role in Trametinib resistance and lung cancer progression.
+Created with BioRender.com.

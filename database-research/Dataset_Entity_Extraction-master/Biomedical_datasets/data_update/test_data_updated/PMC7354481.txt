@@ -1,0 +1,22 @@
+The emergence of SARS-coronavirus-2 (SARS-CoV-2), which causes coronavirus-mediated disease 2019, or COVID-19, has now spread pandemically, resulting in a serious global health crisis.
+The SARS-CoV-2 genome sequences from England (hCoV-19/England/20136087804/2020|EPI_ISL_420910, no treatment) and Turkey (hCoV-19/Turkey/GLAB-CoV008/2020) were obtained from the China National Bioinformatics Center, GISAID database [23] (https://www.gisaid.org).
+DianaTools miRPath V3 were then used to create heat maps for pathways affected by selected miRs, focusing on the microT-CDS version 5.0 database.
+The data have been deposited with links to BioProject accession number PRJNA615032 in the NCBI BioProject database (https://www.ncbi.nlm.nih.gov/bioproject/).
+Several database sources were referenced for enrichment analysis, including Interpro [32], NCBI [33], MSigDB [34,35], REACTOME [36], and WikiPathways [37].
+The miRBase online database holds 2565 miR sequences and from these we identified regions of the SARS-CoV-2 viral genome, which showed high similarity to human miRs.
+The selected intersected pathways were analyzed as significant targets as p value 0.05 with threshold value 0.8 and Fisher’s Exact Test (hypergeometric distribution) calculations by miRPath version 3.0 in the microT-CDS database.
+Using the GISAID database, we analysed a sample of viral genomic sequences from several geographical areas for mutations in the potential miR sequences (n = 28–133).
+In addition, miR-8066 is found to be associated with one of the critical clinical problems of COVID-19, the cytokine storm, owing to its potential effect on the cytokine-cytokine receptor pathway.
+Briefly, the downregulation of host cell responses’ related pathway members such as SRP-dependent co-translational protein targeting to membrane, L13a-mediated translational silencing of ceruloplasmin expression antigen processing, ribosomal organization, and the ERAD pathway, were observed in COVID-19-positive lung biopsy specimens.
+miR-5197-3p was identified as the most effective miR to interact with the guide RNA of SARS-CoV, MERS-CoV and COVID-19 [49].
+According to the Harvard and MD Anderson databases, miR-5197 shows significant differences between Caucasians and Chinese populations (data gained from a Han Chinese cohort from Nanjing, China) [50].
+Because of its potential presence in SARS-CoV-2-mediated cellular responses, we have analysed data from the lung tissue biopsy database (PRJNA615032 Bioproject) to understand its function.
+Opioids have furthermore been shown to enhance simian acquired immunodeficiency syndrome (SAIDS) in rhesus monkeys [68], while reduced clearance of pulmonary influenza virus infection was observed in morphine-treated Lewis rats [69].
+In AIDS, malabsorption of vitamin 12 has been related to gastric secretory failure, including chronic diarrhoea, due to advanced HIV infection [87,88].
+Also, vitamin B3 was found to be highly effective to help lung tissue damage repair [92] and it was suggested to be given to COVID-19 patients as soon as the CT lung abnormalities were detected [93].
+Sudden cardiac death is a major problem amongst the unexplained deaths in COVID-19, and it has been identified that many of those patients suffered from primary myocardial fibrosis (PMF), without any known aetiology.
+Recently, higher expression of miR-1468-3p was identified as a disease-associated and age-dependent cardiac biomarker, as it promotes cardiac fibrosis and cell senescence, although no difference was noted in the mature form of miR-1468 between healthy and COVID-19-diseased cardiac tissue [101].
+In our study, analysis of several SARS-CoV-19 genomes, which were isolated from different geographical regions, shows significant similarity scores with human miRs, which target a subset of genes related to pathways affecting virus pathogenicity and host responses observed in COVID-19 patients.
+In our current study we identified that seven completely complementary miRNAs of COVID-19 (cc-miRc) prevent viral replication and protein translation processes.
+Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) is a member of the betacoronavirus family, which causes COVID-19 disease.
+Based on our reported findings, miRNAs may constitute potential and effective therapeutic approaches in COVID-19 and its pathological consequences.

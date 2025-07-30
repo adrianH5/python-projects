@@ -1,0 +1,9 @@
+It is reported that HER2-low breast cancer (BC) demonstrates a poor response to neoadjuvant chemotherapy (NACT), whereas the response and impact of HER2-low triple-negative breast cancer (TNBC) to NACT remain controversial.
+TNBC patients who received standard NACT at Tianjin Medical University Cancer Hospital were retrospectively enrolled.
+The pathological complete response (pCR) rate of NACT were compared between HER2-low and HER2-zero patients.
+Logistic regression analyses were performed to identify the independent factors affecting the pCR rate in patients with HER2-low TNBC after NACT.
+We finally included 369 HER2-low and 245 HER2-zero patients with TNBC.
+The axillary lymph nodes pathological complete response (npCR) rate and total pathological complete response (tpCR) rate after NACT in the HER2-low group were worse than that in the HER2-zero group, and there was no statistical difference in breast pathological complete response (bpCR) between the two groups.
+In HER2-low TNBC patients, multivariate analysis showed that early clinical lymph node stage, high Ki67 expression, use of immunotherapy and bpCR were independent influencing factors for npCR.
+Premenopause, small clinical tumor size, early clinical lymph node stage, CK5/6 positivity and EGFR negativity were independent factors affecting tpCR.
+The npCR and tpCR of HER2-low TNBC patients are worse than those of HER2-zero TNBC patients.

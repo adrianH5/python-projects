@@ -1,0 +1,10 @@
+In pancreatic cancer, response to treatment is impaired by the tumor microenvironment (TME), forming a desmoplastic barrier.
+However, experimental 3D models that adequately model the pancreatic TME are still missing.
+Here, we employ a matrix metalloproteinase (MMP)-degradable star-shaped poly(ethylene glycol) (star-PEG)-heparin hydrogel matrix to replicate pathophysiological features of the pancreatic environment and investigate the role of the tumor-associated protease kallikrein-related peptidase 6 (KLK6) in 3D.
+Coupled with CRISPR/Cas9, we found that KLK6 promotes cancer growth.
+RNA sequencing revealed that KLK6 impairs genes associated with antigen presentation and neutrophil recruitment, all major immune suppressors in pancreatic cancer.
+In patients, KLK6 expression correlated with neutrophil-recruiting chemokines.
+Neutrophil recruitment was recapitulated in vitro, which was lower in the absence of KLK6.
+Treatment of neutrophils with cell-conditioned KLK6 knockout medium reduced the immunosuppressive phenotype, indicated by decreased arginase 1 (Arg1) expression.
+KLK6 also impacted genes associated with immune checkpoint inhibition and decreased cell responses to anti-PD-1 checkpoint blockade in vitro.
+Our study identified KLK6 as a drug target as it regulates neutrophil recruitment, immunosuppression, and cell responses to anti-PD-1 therapy in a biomaterial-based disease model.

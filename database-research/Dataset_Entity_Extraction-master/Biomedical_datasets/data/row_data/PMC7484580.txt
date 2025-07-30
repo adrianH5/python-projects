@@ -1,0 +1,9 @@
+This particular disease has been named as COVID-19, with common symptoms such as loss of smell, muscle ache, shortness of breath and fever with cough (Aanouz et al., 2020; Alagaili et al., 2014; Bhakkiyalakshmi et al., 2016; Bonkowski & Sinclair, 2016).
+COVID-19 has the capability to spread human to human through droplet exchange while coughing, talking, and sneezing (Chan et al., 2020).
+Experimentally solved 3D structures of the proteins non-structural protein 15 (nsp15) (PDB ID:6VWW) and RNA-dependent polymerase (RdRp) (PDB ID: 6YYT), human angiotensin receptor (ace2) (PDB ID:6M1D, chain B) were used for this study.
+100,000 compounds) was obtained from ZINC database (Sterling & Irwin, 2015) for the best optimal hit against these mentioned targets.
+The independence of the endonuclease activity marks our third protein target which is RdRp, known as RNA-dependent polymerase (PDB ID: 6M17).
+The protein on the human side (ACE2 receptor – PDB ID 6M1D) is the first entry point for the SARS-CoV-2 to playing the crucial role for the host cells allowing the entry of the viral genome (Yan et al., 2020).
+The ongoing pandemic COVID-19 (COrona Virus Immuno Deficiency-2019) which is caused by SARS-CoV-2 (Severe Acute Respiratory Syndrome–CoronaVirus-2) has emerged as a pandemic with 400,000 plus deaths till date.
+The expedition for searching a potential drug or vaccine against COVID-19 will be of massive potential and favor.
+Our studies propose Baicalin and Limonin in combination to be studied in vitro and in vivo against COVID-19.

@@ -1,0 +1,4 @@
+Intratumoral immunotherapy (ITIT) delivers immune-stimulating agents or treatments directly into solid tumors to reverse the immunosuppressive nature of the tumor microenvironment (TME) and enables local and systemic antitumor immunity.
+However, optimal clinical strategies for ITIT are not yet fully understood.
+Cowpea mosaic virus (CPMV) is a plant virus that is not infectious in mammals but is a powerful multi-toll-like receptor (TLR) agonist which stimulates potent antitumor immunity when used in ITIT.
+ITIT by transfection of interleukin-12 (IL-12) expressing plasmids into melanoma tumors

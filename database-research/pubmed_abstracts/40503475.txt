@@ -1,0 +1,5 @@
+Low-dose radiation therapy has emerged as a promising modality for cancer treatment because of its ability to stimulate antitumor immune responses while minimizing damage to healthy tissues.
+However, the significant heterogeneity in immune responses among patients complicates its clinical application, hindering outcome prediction and treatment personalization.
+Artificial intelligence (AI) offers a transformative solution by integrating multidimensional data such as immunomics, radiomics, and clinical features to decode complex immune patterns and predict individual therapeutic outcomes.
+This editorial explored the potential of AI to address immune response heterogeneity in low-dose radiation therapy and proposed an AI-driven framework for precision immunotherapy.
+While promising, challenges, including data standardization, model interpretability, and clinical validation, must be overcome to ensure successful integration into oncological practice.

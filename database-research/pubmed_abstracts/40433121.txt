@@ -1,0 +1,9 @@
+Control systems play an important role in the diagnosis and treatment of medicine.
+In contrast to light and magnetic fields, ultrasound has received much attention due to its non-invasive, cost-effective, convenient, and high spatiotemporal precision and deep-penetration characteristics.
+Some studies have developed special nanomaterials for therapy by controlling the production of reactive oxygen species through ultrasound irradiation.
+However, the complex functionalities and toxicity issues associated with these nanomaterials limit the development of ultrasound control systems.
+To overcome these challenges, ultrasound control systems based on synthetic biology have been developed, especially for sonogenetics and gas vesicles.
+The tunable thermal and mechanical effects of ultrasound act as the main triggering source, enabling engineered cells to perform sono-thermal or sono-mechanical genetic modifications in the targeted tissue.
+Based on an in-depth understanding of the relationship between ultrasound effects and the design, composition, and applications of engineered cellular technologies, in this review, we focus on recent activation strategies of ultrasound for sonogenetics and gas vesicles, including sono-thermal promoter switch, sono-thermal transient receptor potential channel, sono-mechanical activation and gas vesicles.
+In addition, applications of these advanced ultrasound control systems for cancer therapy, neural activity, visual recovery and functional imaging are presented.
+Finally, we discuss the current challenges faced and provide an outlook on the future developments in this evolving field.

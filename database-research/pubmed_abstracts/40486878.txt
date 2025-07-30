@@ -1,0 +1,10 @@
+Carcinogenesis is a multilevel process characterized by genetic and epigenetic alterations, thus contributing to uncontrolled proliferation that eventually leads to cancer.
+The process of carcinogenesis involves an intricate dis-orchestration in the expression of both, coding and non-coding sequences and is also dependent on the reprogramming of energy metabolism as both direct and indirect consequence of oncogenic mutations.
+Dysregulated mitochondrial energetics is an important hallmark of cancer, where cancer cells switch to the glycolytic pathway as an alternate source of energy to support the continuous energy supply needed for their indefinite growth.
+Even though functional mitochondria are indispensable for cancer cells, cancer cells exhibit different bioenergetics transitions based on the development status of cells undergoing carcinogenesis.
+Although the role of coding sequences in regulating energy metabolism shift is well studied, the role of non-coding sequences in modulating energy metabolism is still unclear.
+MicroRNAs (miRNAs), usually present in the nucleus and cytoplasm, have now been reported to localize in the mitochondria also known as, mitochondrial miRNAs (MitomiRs), which can originate either from the nuclear or mitochondrial genome.
+MitomiRs are reported to be associated with both oncogenic and tumor-suppressive functions.
+MitomiRs can target metabolic pathway-related protein-coding genes to alter cellular metabolism and promote carcinogenesis.
+Several mitomiRs like miR-1, miR-133, miR-128, and miR-21 have been reported to be involved in normal physiology, survival, and pathology.
+Since energy metabolism is one of the most important hallmarks of carcinogenesis and its underlying mechanism involves dysregulation of mitochondrial metabolism, we have tried to collate the importance of mitomiRs in the process of cancer energy metabolism and carcinogenesis.

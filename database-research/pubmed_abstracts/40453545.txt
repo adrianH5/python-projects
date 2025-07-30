@@ -1,0 +1,3 @@
+Breast cancer risk depends on an accurate assessment of breast density due to lesion masking.
+Although governed by standardized guidelines, radiologist assessment of breast density is still highly variable.
+Automated breast density assessment tools leverage deep learning but are limited by model robustness and interpretability.

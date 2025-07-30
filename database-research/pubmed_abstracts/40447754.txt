@@ -1,0 +1,4 @@
+Ferroptosis is a newly discovered type of regulated cell death, characterized by the iron-dependent accumulation of lipid reactive oxygen species, which has been implicated in a number of human diseases.
+However, the regulatory mechanisms underlying ferroptosis in colorectal cancer (CRC) remain unclear.
+In this study, we unravel the pivotal role of PRMT5 in the progression of CRC by promoting ferroptosis resistance.
+Mechanistically, PRMT5 directly inhibits the transcription of m

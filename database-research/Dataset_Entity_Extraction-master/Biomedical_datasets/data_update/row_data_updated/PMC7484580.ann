@@ -1,0 +1,17 @@
+T1	Repository 478 481	PDB
+T2	AccessionNumber 485 489	6VWW
+T3	Repository 528 531	PDB
+T4	AccessionNumber 536 540	6YYT
+T5	Repository 578 581	PDB
+T6	AccessionNumber 585 589	6M1D
+T7	Repository 663 667	ZINC
+T8	Creator 678 700	Sterling & Irwin, 2015
+T9	Repository 887 890	PDB
+T10	AccessionNumber 895 899	6M17
+T11	Repository 949 952	PDB
+T12	AccessionNumber 956 960	6M1D
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T5	Arg2:T6
+R4	hasAttr	Arg1:T9	Arg2:T10
+R5	hasAttr	Arg1:T11	Arg2:T12

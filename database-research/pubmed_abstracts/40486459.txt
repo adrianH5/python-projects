@@ -1,0 +1,8 @@
+This narrative review addresses the diagnostic complexities of vasospastic angina (VSA), also known as Prinzmetal angina, by analyzing findings from peer-reviewed studies published over the past decade.
+It highlights clinical characteristics, guideline-directed approaches, and diagnostic strategies for VSA and ischemia with non-obstructive coronary arteries (INOCA).
+Although intracoronary provocation testing with acetylcholine or ergonovine remains the gold standard, its use is limited due to procedural variability and restricted access.
+Non-invasive modalities such as positron emission tomography (PET) imaging, cardiac magnetic resonance imaging (MRI), optical coherence tomography (OCT), and ambulatory electrocardiogram (ECG) monitoring have demonstrated promise but often lack consistency in diagnostic yield.
+Recent advances, including artificial intelligence (AI)-based ECG interpretation, inflammatory biomarkers, and microRNA profiling, are emerging as tools to improve diagnostic precision and risk stratification.
+VSA often remains underdiagnosed due to its transient symptoms, resemblance to acute coronary syndromes, and influence of patient factors like age, sex, comorbidities, and symptom variability.
+Enhancing diagnosis requires standardized testing protocols, broader use of coronary function testing, and integration of novel imaging and biomarker technologies.
+Recognizing atypical presentations, particularly in younger patients and women, is crucial to reducing misdiagnoses and improving clinical outcomes.

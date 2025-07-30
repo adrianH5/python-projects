@@ -1,0 +1,7 @@
+The growing emergence of pathogens resistant to the currently available antibacterial agents is an increasing and troublesome health problem worldwide.
+Modifying known active compounds has received wide attention and has become one of the hot spots in developing novel antibiotics.
+Herein we describe the synthesis of fifteen novel analogs of ciprofloxacin with a selenocyanate or selenoester functionality in the scaffold of this fluoroquinolone.
+Notably, these selenium (Se)-bearing molecules showcase an interesting antibacterial activity against eight different bacteria strains.
+Amidst them, CP7 had an important effect on the bacterial growth as observed in the growth kinetic studies carried out.
+Moreover, its efficacy to disrupt and prevent the formation of biofilms by Pseudomonas aeruginosa (P. aeruginosa) surpassed the one obtained with the parent antibiotic.
+Additionally, this ciprofloxacin analog demonstrated to have a potent inhibitory activity towards the DNA gyrase from Escherichia coli (E. coli) both in silico and in vitro.

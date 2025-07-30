@@ -1,0 +1,5 @@
+The National Institute of Allergy and Infectious Diseases Systems Biology for Infectious Disease Research Program was established to support research focusing on multi-omics approaches and dataset integration to develop and validate predictive models of infectious disease initiation, progression, and outcomes [2].
+Lipidomics software 1: LIQUID: an open-source software for identifying lipids [33].
+The subsequent datasets are analyzed using MSCovert for spectrum to peak list conversion, mzRefinery for mass recalibration, and MS-GF+ for peptide/protein identification [28–30].
+The lipid phase is dried in vacuo, reconstituted in methanol, and analyzed via a Waters Acquity UPLC H-class system and Velos Pro Orbitrap mass spectrometer, and lipid identifications are made via the LIQUID software [33].
+Launch LIQUID program [33] and upload a .raw or .mzXL data file using the drop down menu.

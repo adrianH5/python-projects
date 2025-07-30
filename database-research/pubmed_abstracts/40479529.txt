@@ -1,0 +1,4 @@
+The field of environmental health sciences increasingly demands comprehensive and diverse datasets, particularly in response to emerging research areas such as climate change, mixtures, and exposomics.
+The data needed to address the complexity of environmental health research questions often extend beyond the boundaries of a single study or data resource.
+Traditional data management approaches struggle to harmonize the ever-expanding and heterogeneous data sources needed for research in the environmental health sciences.
+Harmonization may help address this issue as it involves aligning and standardizing various elements of data to allow comprehensive analysis, data pooling and interpretation across studies.

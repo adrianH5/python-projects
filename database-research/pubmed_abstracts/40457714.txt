@@ -1,0 +1,10 @@
+Circulating tumor cells (CTCs) can provide non-invasive insight into how a cancer patient responds to therapy.
+Their role in disease monitoring of advanced melanoma patients treated with immune checkpoint inhibitors (ICI) is unknown.
+CTC protein expression of human leukocyte antigen class-I (HLA I) and programmed death ligand-1 (PD-L1) may give insight into how a patient's disease evolves over the course of treatment.
+In our study, we utilize microfluidic Exclusion-based Sample Preparation (ESP) technology to isolate and characterize CTCs from patients with advanced-stage melanoma.
+CTC samples from melanoma patients are collected, captured, and stained.
+A range of 2 to 35 CTCs is observed in a cohort of 16 samples from 10 advanced-stage melanoma patients treated with ICI therapy.
+Single-cell protein expression data is generated from image cytometry analysis and used to calculate mean HLA I and PD-L1 expression.
+Using our ESP capture approach, we successfully detect phenotypic and numerical heterogeneity in CTCs from melanoma patients.
+Our assay shows sufficient capture sensitivity and promising prognostic and predictive information, as we illustrate in our case example.
+A greater clinical sample size will be necessary to confirm the diagnostic sensitivity and specificity of the assay in predicting clinical outcomes for patients with advanced-stage melanoma.

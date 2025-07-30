@@ -1,0 +1,6 @@
+Breast cancer lung metastasis has attracted considerable research attention because of its complex molecular heterogeneity and refractory characteristics.
+Development of the pre-metastatic niche (PMN) is a key initiating event in the cancer metastatic cascade.
+The PMN can remodel the tissue microenvironment through the spatiotemporal induction of extracellular matrix remodeling, activation of inflammatory responses, formation of an immunosuppressive state, vascular anomalies, and metabolic reprogramming.
+In this review, we present a novel framework for the dynamic evolution of PMN in breast cancer, focusing on the mechanisms of cell-molecule network synergy during PMN formation in the lungs of patients with breast cancer.
+Additionally, we systematically review novel PMN monitoring modalities and therapeutic strategies targeting key regulatory nodes, and discuss the bottlenecks and potential solutions for their clinical translation.
+We aim to provide a scientific foundation for the development of preventive and therapeutic strategies for breast cancer lung metastasis based on the molecular characteristics of PMN and to provide a theoretical basis for breast cancer lung metastasis research and drug development.

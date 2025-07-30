@@ -1,0 +1,8 @@
+In this study, we address the inherent challenges in radiotherapy (RT) plan quality assessment (QA).
+RT, a prevalent cancer treatment, utilizes high-energy beams to target tumors while sparing adjacent healthy tissues.
+Typically, an RT plan is refined through several QA cycles by experts to ensure it meets clinical and operational objectives before being considered safe for patient treatment.
+This iterative process tends to eliminate unacceptable plans, creating a significant class imbalance problem for machine learning efforts aimed at automating the classification of RT plans as either acceptable or not.
+The complexity of RT treatment plans, coupled with the aforementioned class imbalance issue, introduces a generalization problem that significantly hinders the efficacy of traditional binary classification approaches.
+We introduce a novel one-class classification framework, using an adaptive neural network architecture, that outperforms both traditional binary and standard one-class classification methods in this imbalanced and complex context, despite the inherent disadvantage of not learning from unacceptable plans.
+Unlike its predecessors, our method enhances anomaly detection for RT plan QA without compromising on interpretability-a critical feature in healthcare applications, where understanding and trust in automated decisions are paramount.
+By offering clear insights into decision-making processes, our method allows healthcare professionals to quickly identify and address specific deficiencies in RT plans deemed unacceptable, thereby streamlining the QA process and enhancing patient care efficiency and safety.

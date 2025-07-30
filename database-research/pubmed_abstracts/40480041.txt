@@ -1,0 +1,12 @@
+Sonodynamic therapy (SDT) offers a new, non-invasive therapeutic choice for melanoma.
+However, direct use of sonosensitizer like chlorin e6 (Ce6) may face problems like poor drug solubility and off-target effects.
+Besides, using SDT alone may be deficient to treat melanoma.
+Nanobubbles (NBs) are novel extravascular ultrasound contrast agents with the ability to perform ultrasound-triggered drug delivery.
+On the other hand, we found that cell membrane disruption therapy is suitable for working synergistically with SDT.
+In this study, we used quaternary ammonium salts (QAS) to prepare NBs with therapeutic effect.
+Besides delivering Ce6, QAS NBs can destroy tumor cell membranes using its special structure, thus enhancing the effect of SDT.
+The resulting Ce6@QAS NBs had excellent ultrasound-triggered imaging effects and photoacoustic (PA) imaging effects both in vivo and in vitro.
+The effect in killing tumor cells has been confirmed, including the performance to destroy cells by their outer QAS shells, and the generation of reactive oxygen species (ROS) in SDT process.
+We found that treated tumor cells were induced to undergo immunogenic cell death (ICD).
+In the Ce6@QAS NBs with ultrasound group, the tumor growth was significantly inhibited, and anti-tumor immunity was activated.
+These results suggest that Ce6@QAS NBs can achieve physicochemical synergistic antitumor therapy while performing multimodal imaging.

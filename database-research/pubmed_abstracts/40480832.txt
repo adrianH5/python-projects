@@ -1,0 +1,8 @@
+Transposable elements (TEs) provide a source of transcription factor (TF) binding sites that can rewire gene regulatory networks.
+NF-kB is an evolutionarily conserved TF complex primarily involved in innate immunity and inflammation.
+The extent to which TEs have contributed to NF-kB responses during mammalian evolution is not well established.
+Here, we performed a multi-species analysis of TEs bound by the NF-kB subunit RELA in response to the proinflammatory cytokine TNF.
+By comparing RELA ChIP-seq data from TNF-stimulated primary aortic endothelial cells isolated from human, mouse, and cow, we find that 55 TE subfamilies are associated with RELA-bound regions, many of which reside near TNF-responsive genes.
+A prominent example of lineage-specific contribution of transposons comes from the bovine SINE subfamilies Bov-tA1/2/3 which collectively contributed over 14,000 RELA-bound regions in cow.
+By comparing RELA binding data across species, we also find several examples of RELA motif-bearing TEs that colonized the genome prior to the divergence of the three species and contributed to species-specific RELA binding.
+For example, we find human RELA-bound MER81 instances are enriched for the interferon gamma pathway and demonstrate that one RELA-bound MER81 element can control the TNF-induced expression of interferon gamma receptor 2 (

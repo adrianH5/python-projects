@@ -1,0 +1,6 @@
+A disease of interest can often be classified into subtypes based on its various molecular or pathological characteristics.
+Recent epidemiological studies have increasingly provided evidence that some molecular subtypes in a disease may have distinct etiologies, by assessing whether the associations of a potential risk factor vary by disease subtypes (i.e., etiologic heterogeneity).
+Case-control and case-case studies are popular study designs in molecular epidemiology, and both can be validly applied in studies of etiologic heterogeneity.
+This study compared the efficiency of the etiologic heterogeneity parameter estimation between these two study designs by theoretical and numerical examinations.
+In settings where the two study designs have the same number of cases, the results showed that, compared with the case-case study, case-control studies always provided more efficient estimates or estimates with at least equivalent efficiency for heterogeneity parameters.
+In addition, we illustrated both approaches in a study for aiming to evaluate the association between plasma free estradiol and breast cancer risk according to the status of tumor estrogen and progesterone receptors, the results of which were originally provided through case-control study data.

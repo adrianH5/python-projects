@@ -1,0 +1,7 @@
+Despite the success of chimeric antigen receptor (CAR)-T cell therapies in hematological malignancies, clinical success against solid tumors is limited due to low therapeutic efficacy or dose-limiting toxicity.
+Developing therapies that trigger potent, yet manageable, immune responses capable of eliminating highly heterogeneous and immunosuppressive tumor cell populations remains a key challenge.
+Here, we harness multiple genetic approaches to develop a CAR-T cell therapy targeting tumors.
+First, we screen binders targeting oncogenic KRAS G12V mutations presented by peptide-MHC complexes.
+Subsequently, we incorporate these neoantigen binders into CAR-T cells (mKRAS NeoCARs) and demonstrate their efficacy in xenograft models of metastatic lung, pancreatic, and renal cell cancer.
+Finally, we enhance the in vivo efficacy and safety profile of mKRAS NeoCARs via inducible secretion of IL-12 and T cell receptor deletion.
+Together, these screening and engineering processes provide a modular platform for expanding the therapeutic index of cellular immunotherapies that target cancer.

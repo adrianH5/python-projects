@@ -1,0 +1,6 @@
+The tumor microenvironment (TME), which has crucial roles in tumor progression, metastasis, and drug resistance, contains abundant immune cells.
+The most influential of these include tumor-associated macrophages (TAMs), which both secrete microenvironment-modifying cytokines and are acted upon by various other components of the microenvironment.
+The heterogeneity and diversity of TAMs are closely associated with patients' response to tumor immunotherapy; thus, therapeutic targeting of TAMs has become a research focus in recent years.
+Although numerous studies have explored how TAMs alter the microenvironment, relatively few have investigated the impact of the microenvironment on TAMs.
+In this review, we discuss the effects of various components of the tumor microenvironment on TAMs from the perspectives of recruitment, reprogramming, and functional modulation, with a focus on the cellular components of the microenvironment.
+We also summarize the development of immunotherapies targeting TAMs, which have shown promising results in clinical trials.

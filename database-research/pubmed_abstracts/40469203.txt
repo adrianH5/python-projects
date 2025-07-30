@@ -1,0 +1,2 @@
+Interventional MR imaging struggles with speed and efficiency.
+We aim to accelerate transrectal in-bore MR-guided biopsies for prostate cancer through undersampled image reconstruction and instrument localization by image segmentation.

@@ -1,0 +1,7 @@
+Advanced cancer therapeutic strategies are rapidly evolving due to a better fundamental understanding of cancer cell biology and the complex tumor microenvironment.
+There is a need for better rational design of bioresponsive nanotherapeutics to take cues from the tumor microenvironment and better facilitate the intracellular delivery of multiple cancer therapeutic agents.
+Biodegradable, cationic nanogels were synthesized via a UV-initiated free radical emulsion polymerization to impart environmentally responsive behavior for the intracellular delivery of immunotherapeutic and chemotherapeutic agents.
+The 2-(diethylamino) ethyl methacrylate based copolymeric nanogels exhibited pH responsive behavior that was optimized for the pH gradient of the tumor microenvironment and endosomal compartments of cancer cells.
+Then, the cationic nanogels were assessed for their ability to load and release various chemotherapeutic and immunotherapeutic agents.
+Finally, the copolymeric nanoparticle system was evaluated in vitro for biocompatibility, cellular internalization, and therapeutic efficacy.
+This combination treatment strategy will provide an excellent foundation for the rational design and development of the next generation of drug delivery systems.

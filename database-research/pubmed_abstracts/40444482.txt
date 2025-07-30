@@ -1,0 +1,9 @@
+Triple‑negative breast cancer (TNBC) is a highly aggressive and heterogeneous subtype of BC characterized by the absence of estrogen, progesterone and human EGFR2 receptors.
+This lack of receptors renders it unresponsive to standard targeted therapies.
+Despite advances made in understanding the molecular landscape of TNBC, its poor prognosis and high recurrence rates underscore the urgent need for innovative therapeutic approaches.
+This review explores the effects of key prognostic markers, such as Ki‑67, programmed cell death ligand 1, BRCA1/2 mutations, E‑cadherin loss and EGFR alterations.
+It also examines critical pathways, including the PI3K/AKT/mTOR and mutant p53 pathways, which are prerequisites for TNBC progression and therapy resistance, and discusses the therapeutic potential of directly targeting these key molecules and their associated signaling pathways.
+In addition, recent advances in targeted therapies were highlighted, such as immune checkpoint inhibitors, and the statuses of emerging strategies were presented, such as chimeric antigen receptor‑T cell therapy and small inhibitory RNA‑based treatments.
+Given the molecular heterogeneity of TNBC, the importance of precision medicine was also discussed and it was emphasized that this approach is becoming an increasingly critical aspect of personalized treatment strategies.
+Resistance to existing therapies presents a major challenge to the effective treatment of TNBC, and thus, the development of future therapeutic strategies requires technical innovations.
+By integrating these insights, this review aims to provide a comprehensive overview of current and future means of improving TNBC outcomes.

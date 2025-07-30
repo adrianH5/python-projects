@@ -1,0 +1,13 @@
+Hypoxia, a condition characterized by low oxygen availability, plays a significant role in cancer biology and tumor behavior.
+The interplay between hypoxia-related prognostic genes and immune cell infiltration is pivotal in shaping the clinical outcomes of HER2-enriched breast cancer.
+Therefore, this study aimed to identify prognostic hypoxic genes affecting the infiltration of immune cells in HER2-enriched breast cancer.
+Gene expression and overall survival data of HER2-enriched breast cancer were accessed from the Cancer Genome Atlas (TCGA).
+After data pre-processing, the genes filtered based on hypoxia signature were acquired from the Molecular Signatures Database (MSigDB).
+Through Cox regression, univariate and multivariate survival analyses were applied.
+In relation to immune infiltration analysis, TIMER.02 was utilized to find a correlation between selected genes and infiltrates.
+The gene expression of 58 HER2-enriched samples was investigated.
+Relate to univariate analysis, 14 genes were selected as the most influential genes in HER2-enriches patients' survival, among which 5 genes, NDST1, GBE1, BNIP3L, IGFBP3, and KIF5A, had the most significant effect in multivariate analysis.
+Subsequently, the role of 11 hypoxia genes was confirmed as effective genes in immune cell infiltration, and finally, evaluating genes in terms of their effect on the number of infiltrated immune cells showed that the GBE1 gene (HR = 1.8, 95% CI = 1.01-3.32, P = 0.049) is probably one of the crucial hypoxic genes affecting immune cell infiltration on HER2-enriched breast cancer patients.
+The results indicated that out of the 14 hypoxia-related genes that contribute to the survival of HER2-enriched patients, 11 were found to influence the infiltration of immune cells.
+Notably, GBE1 emerged as a significant gene, impacting both patient survival and the most immune cell infiltration.
+Hence, further studies are warranted to elucidate its precise mechanisms and explore its potential as a therapeutic target in cancer immunotherapy.

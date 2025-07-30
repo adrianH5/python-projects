@@ -1,0 +1,11 @@
+This study aimed to prepare dacarbazine (DTIC)-loaded melanin nanoparticles (MeNPs), characterize them in vitro, and evaluate their efficacy under NIR irradiation in a mouse model of melanoma.
+MeNPs were extracted from cuttlefish ink sacs by two-step centrifugation, and particle size, zeta potential, morphology, UV spectroscopy, elemental compositions, and chemical characterization of MeNPs were evaluated.
+Then, different suspension concentrations were irradiated under continuous-wave NIR 808 nm.
+The MeNPs were loaded with DTIC through electrostatic bonds and pH-dependent conformers.
+After in vitro characterization of the MeNPs loaded with DTIC, their efficacy was examined on mouse model of melanoma.
+Melanin nanoparticles extracted from cuttlefish ink showed a spherical morphology, an intensive photothermal effect, and outstanding biodegradability.
+The nanoparticles provided controlled-release conditions for DTIC.
+In vivo results showed that the group receiving DTIC-loaded MeNPs combined with NIR had significantly decreased (P value < 0.05) tumor volume compared to the group receiving normal saline as a treatment.
+The prepared nanoparticles also provided a more prolonged treatment than DTIC alone.
+Histopathological analysis revealed that the prepared nanoparticles combined with NIR caused extensive tumor shrinkage with minimal tumor residue, ulceration, and crust formation.
+These findings highlight DTIC-loaded MeNPs as a potential candidate for simultaneous photo- and chemotherapy of melanoma.

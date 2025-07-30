@@ -1,0 +1,9 @@
+Ginsenoside has been developed into numerous functional foods or dietary supplements that are highly beneficial for human health.
+This study investigated the anti non-small cell lung cancer (NSCLC) mechanism of ginseng glucosyl oleanolate (GGO), a metabolite of ginsenoside Ro.
+In A549 cells, GGO significantly inhibited cell proliferation and migration.
+Subsequent RNA sequencing analysis indicated that differentially expressed genes (DEGs) after GGO treatment predominantly concentrated in the cell cycle and apoptotic process.
+The present study has demonstrated that GGO blocks the cellular G2/M phase and induces DNA damage by activating the P53 signaling pathway.
+Furthermore, GGO promoted apoptosis in the mitochondrial pathway through the accumulation of reactive oxygen species (ROS).
+In A549 cell xenograft nude mice, GGO intervention significantly inhibited tumor growth but had no significant effect on body weight.
+The immunohistochemistry (IHC) and western blot (WB) analyses demonstrated that GGO induced apoptosis and regulated the expression of cell cycle proteins related to the P53 signaling pathway in tumor tissues.
+These findings provided new evidence that GGO could potentially suppress A549 cell proliferation both in vivo and in vitro.

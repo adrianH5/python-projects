@@ -1,0 +1,9 @@
+Nutraceuticals provide health benefits and particularly profit from a sensitive, high-purity production process.
+Microparticle laser fragmentation in liquids is an emerging technique for the contamination-free comminution of organic drugs and nutraceuticals aiming at solubility enhancements.
+However, current discontinuously operated fragmentation setups suffer from chemical degradation by multipulse laser excitation at high fluence and do not allow for systematic studies of the fragmentation mechanisms.
+In this work, continuous-flow microparticle laser fragmentation in liquids with ultrashort-pulsed lasers was studied in a circular jet reactor using curcumin and cannabidiol as model substances and single-pulse-per-volume element conditions to compare the fragmentation efficiency for these two nutraceuticals.
+Fragmentation efficiency based on the yield of submicrometer particles and nanoparticles was quantified using UV-vis extinction spectroscopy, scanning electron microscopy, and analytical centrifugation, while high-performance liquid chromatography determined degradation.
+We found improved fragmentation efficiency at lower mass concentrations.
+In all experiments, chemical degradation was minimal (<2%), and increased mass concentration of curcumin enabled ultralow by-product formation of 0.01%.
+The process selectivity against degradation was defined by the application-relevant descriptor of mole degradation per produced submicrometer particle surface and quantified regarding feedstock mass concentration and nutraceutical type.
+Cytotoxicity in HepG2 cancer cells was significantly reduced in cells treated with laser-processed curcumin in comparison to unirradiated curcumin controls, and antioxidant effects were proven, ensuring high viability even at high curcumin concentrations.

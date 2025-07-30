@@ -1,0 +1,8 @@
+Breast cancer remains the most prevalent malignancy among women globally, with its complexity linked to genetic variations and metabolic alterations within tumor cells.
+This study investigates the role of fumarate hydratase (FH), a key enzyme in the tricarboxylic acid (TCA) cycle, in breast cancer progression.
+Our findings reveal that FH mRNA and protein levels are significantly upregulated in breast cancer tissues and correlate with poor patient prognosis and aggressive tumor characteristics.
+Using in vitro and in vivo models, we demonstrate that FH overexpression enhances breast cancer cell proliferation, migration, and invasion through metabolic reprogramming and by increasing reactive oxygen species (ROS) production.
+Furthermore, we identify matrix metalloproteinase 1 (MMP1) as a downstream effector of FH, linked to p21 downregulation, elucidating a novel regulatory pathway influencing tumor behavior.
+Interestingly, unlike its tumor-suppressing role in other cancer types, this study highlights FH's oncogenic potential in breast cancer.
+Our results suggest that FH enhances cancer cell viability and aggressiveness via both catalytic and non-catalytic mechanisms.
+This work not only underscores the metabolic adaptations of breast cancer cells but also proposes FH as a potential biomarker and therapeutic target for breast cancer management.

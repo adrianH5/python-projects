@@ -1,0 +1,5 @@
+The SWitch/sucrose non-fermentable chromatin remodeling complex functions as a tumor suppressor by regulating gene expression and thus various cellular processes.
+Key subunits of this complex, including the AT-rich interactive domain (ARID)-containing proteins ARID1A, ARID1B and ARID2, are frequently mutated in cancer, including colorectal cancer (CRC).
+However, their protein expression and prognostic significance in CRC remain unclear.
+The present study investigated the ARID1A, ARID1B and ARID2 expression levels in CRC tissues and their relationship with the clinicopathological characteristics of patients.
+Bioinformatics analysis of The Cancer Genome Atlas-colon adenocarcinoma cohort revealed frequent mutations, positive mRNA correlations among the

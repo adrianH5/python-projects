@@ -1,0 +1,3 @@
+Recent advances in machine learning have led to the development of classifiers that predict molecular subtypes of acute lymphoblastic leukemia (ALL) using RNA-sequencing (RNA-seq) data.
+Although these models have shown promising results, they often lack robust performance guarantees.
+The aim of this study was three-fold: to quantify the uncertainty of these classifiers, to provide prediction sets that control the false-negative rate (FNR), and to perform implicit error reduction by transforming incorrect predictions into uncertain predictions.

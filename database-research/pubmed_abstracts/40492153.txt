@@ -1,0 +1,7 @@
+Diffuse large B-cell lymphoma (DLBCL) is one of the most prevalent lymphomas, and can be classified as activated B-cell DLBCL (ABC-DLBCL) or germinal center B-cell DLBCL (GCB-DLBCL) according to molecular subtypes.
+Studies have shown that drug resistance is an important factor in its therapeutic failure.
+Tumor-specific drug delivery nanocarriers may be a promising strategy for the treatment of lymphoma.
+Herein, we developed a nanomedicine (RTX-DOX/DMF-Lip, RDDL) carrying the chemotherapeutic drugs doxorubicin (DOX) and dimethyl fumarate (DMF), and surface-modified with rituximab (RTX), which can recognize CD20 antigen when it comes into contact with the surface of a B-lymphoma cell.
+In the study, we found that DOX and DMF can be delivered to the tumor site precisely and demonstrate a potent synergistic anti-tumor effect.
+Once the nanomedicine was internalized, it induced apoptosis through ROS generation and the activation of caspase-3.
+Concurrently, DMF directly reduced the levels of glutathione (GSH) in tumor cells by inhibiting System Xc

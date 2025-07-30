@@ -1,0 +1,7 @@
+Bufalin is a potent antitumor agent; however, its high toxicity limits its clinical application.
+Here, we explored the development of a novel photosensitizer-small molecule conjugate, MB-Buf, which combines the photosensitizer methylene blue (MB) with bufalin.
+The goal is to achieve targeted photodegradation of GPX4 upon light activation.
+The compound MB-Buf integrates the photodynamic properties of MB with the antitumor activity of bufalin.
+Under light irradiation, it generates reactive oxygen species (ROS), exhibiting photodynamic therapeutic activity, while its toxicity toward normal cells is reduced by 15-fold compared to bufalin alone.
+In vivo studies using a 4 T1-Luci xenograft mouse model demonstrated that MB-Buf, in combination with light irradiation, significantly inhibits tumor growth.
+These findings support MB-Buf as a promising new cancer treatment strategy, offering a potential approach to overcome the limitations of conventional therapies.

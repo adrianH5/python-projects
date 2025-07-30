@@ -1,0 +1,8 @@
+Radiologically defined sarcopenia (RS), defined as a lack of skeletal muscle mass (SMM) measured on cross-sectional CT or MR imaging, is increasingly recognized as a significant prognostic determinant in head and neck cancer (HNC).
+A systematic literature search of Embase and Medline was performed to identify studies investigating the impact of pre-treatment sarcopenia on the prognosis of HNC patients.
+All available survival and other treatment-related outcomes were extracted and analyzed in a multi-level meta-analysis.
+Sixty-three studies comprising data from 14,804 patients were analyzed.
+The overall estimated log OR was 0.644 (95% CI = 0.505-0.783, p < 0.001), suggesting that patients with RS have a higher risk of worse outcomes.
+In 43 studies there was a significant effect of sarcopenia on survival, with a log OR of 0.808 (95% CI = 0.509-1.107, p < 0.001).
+In 15 studies RS was shown to be a risk factor for treatment-related complications (log OR = 0.669, 95% CI = 0.441-0.897, p < 0.001).
+We conclude that pre-treatment radiologically defined sarcopenia is a robust prognostic and predictive factor in HNC patients and is associated with worse survival and increased risk of treatment-related complications.

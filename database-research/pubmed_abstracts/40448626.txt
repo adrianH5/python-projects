@@ -1,0 +1,6 @@
+Colorectal cancer liver metastasis (CRLM) is a leading cause of death in colorectal cancer (CRC) patients and is characterized by an immunosuppressive tumor microenvironment (TME).
+This study employs mouse in vivo selection to isolate highly metastatic CRLM derivatives for profiling their transcriptomic, proteomic, and metabolomic alterations associated with CRLM.
+Notably, the expression of SLAMF3 is significantly upregulated in CRLM derivatives and its knockdown effectively suppresses CRLM in mice.
+RUNX1 transcriptionally upregulates SLAMF3 expression and combined targeting of the RUNX1/SLAMF3 axis synergistically suppresses liver metastasis in mice.
+In parallel, SLAMF3 suppresses macrophage-mediated phagocytosis of CRC cells through the SHP-1/2/mTORC1 pathway.
+Conversely, SLAMF3 knockdown promotes M1 polarization in liver metastases and activates the CCL signaling pathway between macrophages and CD8

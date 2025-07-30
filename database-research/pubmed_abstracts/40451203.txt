@@ -1,0 +1,6 @@
+WAVE1 (Wiskott-Aldrich syndrome verprolin-homologous protein family member 1), a gene associated with the Wiskott-Aldrich syndrome, has been identified as an oncogene with high expression in various tumors and has been linked to metastatic conditions.
+Nevertheless, expression pattern of WAVE1 and its function in bladder cancer (BC) remain unknown.
+This study aimed to uncover the effect of WAVE1 on migration and metastasis in BC.
+In this study, four different human urinary BC cell lines (T24, RT4, J82, and BIU87) were examined using immunohistochemical and Western blot assays to assess the pattern of WAVE1 expression.
+Subsequently, the regulatory role of WAVE1 expression in migration, and EMT in the BC cell lines was investigated.
+WAVE1 was significantly expressed in the BC tissues

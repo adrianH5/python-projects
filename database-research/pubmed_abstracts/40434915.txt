@@ -1,0 +1,10 @@
+Background Stool cards have been used for microbiome assessment in epidemiological studies.
+Methods We compared shotgun metagenomic sequencing from 32 participants who self-collected stool samples from the same bowel movement using a custom stool card vs. a collection tube with 95% ethanol fixative in the Nurses' Health Study II.
+We evaluated the agreement between methods at both the whole-community and individual species levels.
+To contextualize the comparison for disease association studies, we assessed the performance of the two collection methods for differentiating colorectal cancer-associated taxa.
+Results Overall, metagenomes from cards and 95% ethanol were highly correlated within individuals.
+No difference was found in alpha diversity and only ~1% of variation in beta diversity was explained by the collection method.
+At the species level, while the relative abundances were highly correlated between card and ethanol sample pairs (Spearman rho = 0.96), 10 (out of 239) species showed a differential abundance in paired samples, including overrepresentation of Escherichia coli and underrepresentation of three Streptococcus species in cards compared with ethanol.
+Among a set of 99 colorectal cancer-associated species, 4 showed differential abundances between collection methods; however, this number was consistent with what would be expected by chance.
+Conclusions Metagenomic sequencing using stool samples self-collected using stool cards or 95% ethanol yielded largely consistent results, although differential abundances were observed for a small number of individual species.
+Impact Stool cards can be a cost-effective alternative to collect stool samples for metagenomic sequencing in epidemiologic studies but warrant additional considerations for data analysis.

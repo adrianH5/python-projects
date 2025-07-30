@@ -1,0 +1,12 @@
+SCLC (small-cell lung cancer) is hardly treated with chemotherapy alone, even though it was initially sensitive to the drug.
+A novel therapeutic combination for treating diseases that have resisted typical first-line treatments is available with immunotoxin-based anticancer medicines.
+The use of delta-like ligand 3 (DLL3) in target treatment has potential because of the high expression of DLL3 in patients with SCLC.
+Nanoparticles are gaining popularity in developing new therapeutics, with gold nanoparticles (AuNPs) being investigated as potential cancer treatments.
+Emerging evidence indicates that AuNPs stabilized with chitosan (CS) have interesting biological functions.
+Therefore, in this study, we aimed to synthesize chitosan nanogel to deliver Rova-Typhoid immunotoxins to target cancer cells.
+In this research, we synthesized CS-AuNPs and CS-Rova-Typh-AuNPs and analyzed their cytotoxicity in small-cell lung (A549) cancer cells and HUVEC cell lines.
+Then, we evaluated the inhibitory concentration (IC50), cell cycle, and mRNA expression.
+Free AuNPs did not show cytotoxic effects on our cell lines; however, the inhibitory concentration of Rova-Typh immunotoxin is reduced when loaded into CS-AuNPs.
+Besides, immunotoxin-loaded nanogel induces late apoptosis in A549 cells and effectively induces sub-G1 cell arrest.
+Moreover, immunotoxin-loaded nanogel causes downregulation in DLL3, HES1, and NOTCH1 genes, which are involved in the Notch signaling pathway.
+Our results indicate that CS-AuNPs were an effective Rova-Typh delivery means, and Rova-Typhoid immunotoxin induces apoptosis in cancer cells through inhibiting DLL3, which is a Notch signaling ligand.

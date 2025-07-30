@@ -1,0 +1,9 @@
+Out of several types of tumors of the central nervous system (CNS), glioblastoma (GBM) represents one of the most frequent and malignant forms of brain neoplasms.
+To date, GBM holds very limited therapeutic options leaving patients with poor prognosis of survival.
+As such, novel treatment approaches are constantly quested.
+One of these strategies is based on the utilization of proteasome inhibitors (PIs).
+However, although several PIs have been approved as therapy for patients with hematological malignancies, these treatment benefits cannot not be easily extrapolated to brain tumors.
+This is mostly due to the blood-brain barrier (BBB) impermeability of the majority of PIs, which is then followed by their low brain bioavailability.
+Marizomib (MZB) is a unique, irreversible, second-generation proteasome inhibitor, which unlike other PIs can penetrate through the BBB, making it a promising therapeutic tool in brain tumors.
+Despite an indisputable therapeutic potential of MZB, it has yet failed to be successfully introduced to the clinics as a ready-to-use chemotherapy for GBM-suffering patients.
+Therefore, in this work we describe the potential of PIs as candidates for neuro-oncological drugs, present results of preclinical and clinical investigations concerning MZB in brain tumors, discuss possible reasons of failure of MZB-based therapies and delineate future directions of MZB-related studies.

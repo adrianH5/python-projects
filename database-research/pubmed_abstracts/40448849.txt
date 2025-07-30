@@ -1,0 +1,4 @@
+A nano-theranostic system is reported that integrates imaging, detection, and treatment.
+The DNA assembly self-assembled by rolling circle amplification (RCA) product and four oligonucleotides are combined with MnO₂ nanosheets to construct DNA assembly@MnO₂.
+One repeat unit of the DNA assembly contains an aptamer module for specific targeting, a metal ion-activated intracellular imaging module, and a DNAzyme module for gene therapy (GT).
+Upon entering cancer cells, MnO₂ nanosheets are reduced to Mn

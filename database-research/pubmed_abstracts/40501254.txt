@@ -1,0 +1,8 @@
+Recently recalled drugs by FDA were analyzed in common features and most of them had nitrosamine moiety.
+found to contain amine group in their structure.
+Their long term use make them susceptible for different diseases especially cancer.
+Due to the presence of N-nitrosamine moieties in these drugs, possible carcinogenicity can be induced.
+To screen out this assumption a study was designed for commonly used two brands of anti-hypertensive drugs containing above features.
+Most commonly used brands of these drugs from market were collected and analyzed for one of the potential carcinogenic moiety N-nitroso dimethyl amine by FDA laid down procedure on GC-MS-HS.
+After verification of the method results of the study have shown that the selected brands of the two drugs do not contain NDMA which was further analyzed and verified by spiking the samples with trace amount of NDMA standard.
+Results of the three brands of sample have shown that the amount after spiking was within the limit by FDA and safe to be used for respective patients.

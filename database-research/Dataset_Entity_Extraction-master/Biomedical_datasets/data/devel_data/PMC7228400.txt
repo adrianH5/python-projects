@@ -1,0 +1,13 @@
+The virus was tentatively named 2019‐nCoV but officially named severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) later by the Coronavirus Study Group of the International Committee on Taxonomy of Viruses, and the disease caused by this virus was name COVID‐19 by the World Health Organization.
+, 
+ Up to March 8 (24:00 GMT), 80 735 confirmed cases, have been diagnosed in Mainland China, causing 3119 deaths.
+Missed diagnosis and misdiagnosis are currently not uncommon due to these reasons.
+, 
+,
+The NCBI (http://www.ncbi.nlm.nih.gov/genbank/) and GISAID (https://www.gisaid.org/) databases up to 14 Feb, 2020 were searched by using keywords “novel, coronavirus, complete, Wuhan” or “2019‐nCoV.”
+A total of 145 sequences were obtained from databases.
+The reference sequence was constructed by nucleotide sequence alignment (accession number: EPI_ISL_412026).
+Nucleic acid detection is currently the gold standard method for diagnosis of COVID‐19.
+This might partially explain why false negative results in nucleic acid detection of SARS‐CoV‐2 for diagnosis of COVID‐19 is currently not uncommon.
+Abstract  Starting around December 2019, an epidemic of pneumonia, which was named COVID‐19 by the World Health Organization, broke out in Wuhan, China, and is spreading throughout the world.
+In this study, we retrieved 95 full‐length genomic sequences of SARAS‐CoV‐2 strains from the National Center for Biotechnology Information and GISAID databases, established the reference sequence by conducting multiple sequence alignment and phylogenetic analyses, and analyzed sequence variations along the SARS‐CoV‐2 genome.

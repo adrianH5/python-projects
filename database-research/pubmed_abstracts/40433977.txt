@@ -1,0 +1,8 @@
+Platinum (Pt) drugs are widely utilized in cancer chemotherapy.
+Although cytotoxic and resistance mechanisms of Pt drugs have been thoroughly explored, it remains elusive what factors affect the receptiveness of DNA to drug-induced damage in nuclei.
+Here, we demonstrate that nuclear locations of chromatin play a key role in Pt drug-induced DNA damage susceptibility in vivo.
+By integrating data from damage-seq experiments with 3D genome structure information, we show that nuclear locations of chromatin relative to specific nuclear bodies and compartments explain patterns of cisplatin DNA damage susceptibility.
+This aligns with observations of cisplatin enrichment in biomolecular condensates at certain nuclear bodies.
+Finally, 3D structure mapping of DNA damage reveals characteristic differences between nuclear distributions of oxaliplatin-induced DNA damage in drug resistant versus sensitive cells.
+DNA damage increases in gene-poor chromatin at the nuclear periphery, while it decreases in gene-rich regions located at nuclear speckles.
+This suggests a strategic redistribution of Pt drug-induced damage in nuclei during chemoresistance development.

@@ -1,0 +1,10 @@
+Pituitary adenoma (PA) is a common brain tumor located in a small cavity at the cranial base.
+It disrupts hormonal balance and compresses the optic nerves, leading to abnormal body growth, sexual dysfunction, vision loss, and mortality if untreated.
+Its surgical resection is highly challenging due to its small size, heterogeneous structure, deep location, and indistinct interface with surrounding nerves, arteries, and brain tissues.
+Mechanical properties of tumor tissues play a crucial role in their microstructure, growth, and progression.
+However, data on the mechanical properties of PA tissues is scarce.
+This study aims to provide detailed mechanical properties of various PA tissues and demonstrate the differences in stiffness between tumors and brain tissues.
+The viscoelastic properties and collagen content of postoperative PA tissues (n = 40) and normal human brain white matter (n = 7) were analyzed using in vitro nanoindentation and histological staining, respectively.
+Tumor consistency was also assessed preoperatively via magnetic resonance images (MRIs) and intraoperatively through surgeon feedback.
+PA tissues exhibited a considerable variation in viscoelastic properties; however, their average stiffness was significantly higher than normal brain white matter (p < 0.05).
+Tumors with firm consistency showed higher collagen content (29.8%

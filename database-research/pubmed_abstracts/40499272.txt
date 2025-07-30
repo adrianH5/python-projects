@@ -1,0 +1,6 @@
+Pancreatic ductal adenocarcinoma (PDAC) is among the most lethal cancers, with most patients diagnosed at advanced stages.
+Therefore, understanding tumor development and improving treatment strategies is critical.
+Tumor cell plasticity enables differentiation, de-differentiation, and trans-differentiation, processes regulated by EMT and MET.
+These transitions are often controlled by structurally similar but functionally opposing protein pairs, including alternatively spliced isoforms (RAC1/RAC1B or TAp73α/TAp73β), phosphorylated vs. unphosphorylated forms of the same protein (SMAD3), or ligand source (paracrine vs. autocrine TGF-β1).
+These proteins modulate canonical and non-canonical TGF-β signaling or function as its effectors.
+This review explores their roles in epithelial signaling and differentiation, aiming to inform novel targeted and personalized PDAC therapies.

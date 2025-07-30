@@ -1,0 +1,9 @@
+ICRF193 is a catalytic inhibitor of Topoisomerase 2 (TOP2), one of the major targets in cancer therapy.
+Although ICRF193 has not been approved for clinical use, it has potential implications in chemotherapy.
+In this study, we aimed to investigate the use of ICRF193 in chemotherapy in co-treatment with other drugs.
+To identify compounds that have synergistic effects with ICRF193, we optimized a cytotoxicity assay with combinations of ICRF193 in a 1536-well plate format and screened 2678 compounds, including clinically approved and investigational drugs, for their cytotoxicity in the presence and absence of ICRF193.
+From the screening and confirmation assays, etoposide, a known TOP2-targeting drug, was found to have a synergistic effect with 200 nM ICRF193 across multiple cancer cell lines, including HCT116, MCF7, and T47D.
+On the other hand, ICRF193 suppressed the toxicity of etoposide at higher concentrations (> 10 µM).
+In the follow-up studies, we found that ICRF193 and etoposide synergistically induced DNA double-strand breaks and subsequent G2 phase accumulation.
+Interestingly, this synergistic effect was observed only with etoposide and not with other TOP2 inhibitors in the tested compound library.
+Taken together, our results indicate that ICRF193 has a specific functional interaction with etoposide that enhances its genotoxic potential.

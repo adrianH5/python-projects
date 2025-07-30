@@ -1,0 +1,11 @@
+Introduction Helicobacter pylori (H. pylori) eradication aimed at the prevention of gastric cancer development should ideally be administered before the establishment of significant gastric precancerous conditions (SGPCs), including advanced gastric atrophy, intestinal metaplasia, and dysplasia.
+We evaluated the interaction effect of H. pylori infection and positive family history of gastric cancer (FHx) on the age at which SGPCs are detected.
+Methods A cross-sectional study was conducted among treatment-naïve adult patients with upper gastrointestinal symptoms.
+Factors associated with SGPCs were identified using multivariable logistic regression.
+Age cut-offs for predicting SGPCs were determined using predicted probabilities from an interaction logistic regression model accounting for various probability thresholds.
+Results There were 761 patients with a median age of 42.0 years.
+The SGPC predictors included H. pylori infection (OR: 2.269, 95%CI: 1.626-3.165), positive FHx (OR = 1.754, 95%CI: 1.144-2.689), and age (OR = 1.072, 95%CI: 1.054-1.091).
+Neither positive FHx nor H. pylori infection alone markedly altered the SGPC probabilities under age 30, but H. pylori infection increased the SGPC probabilities after age 30.
+The earliest SGPC onset occurred in patients with both positive FHx and H. pylori infection.
+At the probability threshold of 0.20, the age cut-offs for detecting SGPCs were 41, 35, 33, and 19 years for patients without positive FHx and H. pylori infection, with positive FHx only, with H. pylori infection only, and with both positive FHx and H. pylori infection, respectively.
+Conclusions A positive FHx has a synergistic effect with H. pylori on the development of SGPCs and should be considered when determining the appropriate age for H. pylori eradication.

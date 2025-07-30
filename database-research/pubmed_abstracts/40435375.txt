@@ -1,0 +1,3 @@
+To develop effective therapies for glioblastoma (GBM), a deeper understanding of its underlying immunoregulatory mechanisms is needed.
+Invariant natural killer T (iNKT) cells are unconventional T cells that recognize lipid antigens and are known to regulate tumor immunity in other cancer types.
+Given the lipid-rich nature of the brain and the unique metabolic activity of GBM cells, we hypothesized that GBM-enriched lipids could direct iNKT cells to contribute to the immunosuppressive nature of the disease.

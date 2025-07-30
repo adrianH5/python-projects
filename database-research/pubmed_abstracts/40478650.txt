@@ -1,0 +1,13 @@
+The Hepatitis C virus (HCV) is a small, enveloped virus characterized by a positive-sense single-stranded RNA belonging to the Flaviviridae family.
+It causes hepatitis C, which leads to liver inflammation.
+It manifests as both acute and chronic hepatitis, ranging from mild illness to life-threatening conditions, such as liver fibrosis, cirrhosis, and hepatocellular carcinoma.
+The NS5B RNA-dependent RNA polymerase (RdRp) protein plays a vital role in the replication of the hepatitis C virus as the main RNA-synthesizing enzyme.
+It is crucial for forming new viral RNA, making it an ideal target for antiviral drugs.
+Inhibiting NS5B can inhibit virus replication, potentially preventing severe liver diseases, including cancer.
+Scientists have mapped the structure of the NS5B RdRp, revealing how different inhibitors interact with it, guiding the creation of targeted drugs.
+Nigella sativa, known for diverse bioactive compounds, is now being explored for its potential to combat viruses.
+Our research aims to determine whether compounds extracted from Nigella sativa can inhibit the NS5B RdRp enzyme of HCV.
+Through advanced computational analysis and molecular docking, Nigella sativa's phytoconstituents were scrutinized for their ability to bind and potentially inhibit NS5B RdRp.
+Amentoflavone, Rutin, and Catechin were selected based on their pharmacokinetic and enzyme-binding properties, which prompted further examination.
+Thorough molecular dynamics simulations affirmed the formation of stable complexes between these molecules and NS5B RdRp and provided valuable information about their influence on the enzyme's structural stability.
+The findings suggest these compounds have potent inhibitory actions, highlighting them as potential natural medicinal options against hepatitis C.

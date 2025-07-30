@@ -1,0 +1,9 @@
+Angelman syndrome is a neurodevelopmental disorder caused by (epi)genetic lesions of maternal UBE3A.
+Research has focused largely on the role of UBE3A in neurons due to its imprinting in that cell type.
+Yet, evidence suggests there may be broader neurodevelopmental impacts of UBE3A dysregulation.
+Human cerebral organoids might reveal these understudied aspects of UBE3A as they recapitulate diverse cell types of the developing human brain.
+In this study, scRNAseq on organoids reveals the effects of UBE3A disruption on cell type-specific compositions and transcriptomic alterations.
+In the absence of UBE3A, progenitor proliferation and structures are disrupted while organoid composition shifts away from proliferative cell types.
+We observe impacts on non-neuronal cells, including choroid plexus enrichment.
+Furthermore, EMX1+ cortical progenitors are negatively impacted; potentially disrupting corticogenesis and delaying excitatory neuron maturation.
+This work reveals impacts of UBE3A on understudied cell types and related neurodevelopmental processes and elucidates potential therapeutic targets.

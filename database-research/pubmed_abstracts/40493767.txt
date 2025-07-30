@@ -1,0 +1,7 @@
+Omics-based molecular subtyping in large-scale and multicentric cohort studies is a prerequisite for proteomics-driven precision medicine (PDPM).
+However, keeping the subtypes with robust molecular features and significant associations with prognosis across different cohorts is challenging due to the biological heterogeneity and technical inconsistency.
+Herein, we propose a subtyping algorithm, named Survival Reinforced Patient Stratification (SRPS), to adapt the known subtypes from a discovery cohort to another by simultaneously preserving the distinct prognosis and molecular characteristics of each subtype.
+SRPS has been benchmarked on simulated and real-world datasets, where it shows a 12% increase in classification accuracy and possesses the best prognostic discrimination.
+Moreover, based on the calculated subtype significance score, an "unpopular" protein, Peptidylprolyl Isomerase C (PPIC), was identified as the top-1 remarkable protein for subtyping the hepatocellular carcinoma (HCC) patients with the worst prognosis.
+Eventually, PPIC was experimentally proved to be a pro-cancer protein in HCC, confirming our work as a demonstration of interpretable machine learning guided biological discovery in PDPM research.
+SRPS is publicly available at https://github.com/PHOENIXcenter/SRPS and https://ngdc.cncb.ac.cn/biocode/tool/BT007770.

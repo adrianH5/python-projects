@@ -1,0 +1,12 @@
+Cancer-associated fibroblasts (CAFs) promote the malignant phenotype of cancer through crosstalk with tumor and immune cells within the tumor microenvironment.
+Therefore, the mechanisms underlying CAF activation require in-depth study to develop strategies targeting CAFs during cancer immunotherapy.
+In this study, we investigated the role of FGFR4 in CAF regulation in colon cancer.
+FGFR4-overexpressing cancer cells promoted CAF abundance and activation in vivo, while also inducing the differentiation of normal fibroblasts into CAFs via their secretome.
+Mechanistically, FGFR4 induced CXC-chemokine ligand (CXCL) 10 production by upregulating Toll-like receptor 3-interferon regulatory factor-interferon beta (IFNβ) signaling and the autocrine action of IFNβ.
+CXCL10 increased CAF marker expression in fibroblasts, including alpha-smooth muscle actin and vimentin.
+CXCL10 also promoted CAF migration, invasion, and contractibility, which reflects CAF activation.
+In contrast, knocking down CXCL10 or neutralizing antibodies abolished CAF marker expression in fibroblasts.
+Inhibition of CXC receptor type (CXCR) 3, the cognate receptor of CXCL10, also impaired CAF function.
+In human colon cancer samples, FGFR4 and CXCL10 expression was positively correlated with CAF marker expression.
+Finally, dual inhibition of FGFR4 and CXCR3 suppressed tumor growth, accompanied by CAF downregulation.
+Our findings reveal the mechanism through which FGFR4 promotes CAF differentiation/activation in TME via the CXCL10-CXCR3 axis, highlighting the potential of co-targeting FGFR4 and CXCR3 as a therapeutic strategy for patients with stromal-dominant tumors.

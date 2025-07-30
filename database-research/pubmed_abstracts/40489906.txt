@@ -1,0 +1,9 @@
+mRNA-based gene therapy has an important role in cancer therapy.
+Intensive attention has been paid to investigate mRNA-delivery systems with high efficiency of delivery, but few studies have explored the immunotherapeutic capacity of the delivery vector.
+A tumor cell lysate represents an ideal resource for constructing advanced mRNA-delivery systems with immunostimulatory potential.
+However, the limited room of mRNA vectors and the complex composition of the cancer cell lysate are obstacles to their combined function.
+In this study, we present a novel tumor cell lysate-based mRNA delivery system, TLSV/IL-17A (tumor cell lysate vehicles carrying interleukin (IL)-17A-coded mRNA).
+TLSV demonstrates high mRNA delivery efficiency in both dendritic cells (DCs) and tumor cells.
+It triggers a robust anti-cancer immune response by specifically activating plasmacytoid dendritic cells (pDCs) and natural killer (NK) cells.
+By loading IL-17A mRNA, the TLSV/IL-17A effectively inhibits multiple colon cancer models.
+Our results demonstrate the therapeutic potential of TLSV system in tumor immunogenetherapy.

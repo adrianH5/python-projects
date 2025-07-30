@@ -1,0 +1,7 @@
+The glucocorticoid receptor (GR) is an essential transcription factor that controls metabolism and homeostasis.
+Glucocorticoids (GCs) activate the GR upon occupying the internal ligand-binding pocket (LBP) of its ligand-binding domain (GR-LBD), which has been the focus of most previous structure-function studies.
+Synthetic GCs such as dexamethasone are widely used to treat inflammatory diseases, but their chronic use results in major side effects, whose molecular underpinnings remain unresolved.
+Here we present a thorough analysis of the topography of GR-LBD and its ability to bind small-molecule compounds, especially cholesterol derivatives.
+We show that one important class of steroids, bile acids, bind to previously unidentified and highly conserved, surface-exposed cavities on GR-LBD.
+We show that bile acids affect GR turnover and self-assembly in living cells, modulating receptor transcriptional activity.
+These findings reveal a previously unrecognized mechanism of GR regulation, with implications for the design of GCs with novel mechanisms of action.

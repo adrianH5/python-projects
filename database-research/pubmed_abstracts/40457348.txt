@@ -1,0 +1,4 @@
+The advent of the omics era has facilitated the identification of precise biomarkers for cancer progression, revealing a broader diversity of macrophage phenotypes beyond the traditional M1/M2 classification.
+Folate receptor 2 (FOLR2)-positive macrophages, co-expressing markers such as mannose receptor C-Type 1 (MRC1/CD206) and lymphatic vessel endothelial hyaluronan receptor 1(LYVE1), are an embryonically derived subset typically found around blood vessels in both tumor stroma and normal tissues.
+Despite FOLR2's longstanding association with anti-inflammatory, immunosuppressive macrophages in tumors, its precise role in cancer progression remains unclear.
+Recent studies suggest that FOLR2

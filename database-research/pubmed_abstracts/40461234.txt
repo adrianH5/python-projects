@@ -1,0 +1,12 @@
+The combination of Aidi Injection(ADI) and doxorubicin(DOX) is a common strategy in the treatment of cancer, which can achieve synergistic anti-tumor effects while attenuating the cardiotoxicity caused by DOX.
+This study aims to investigate the mechanism of ADI in attenuating DOX-induced cardiotoxicity by multi-omics.
+DOX was used to induce cardiotoxicity in mice, and the cardioprotective effects of ADI were evaluated based on biochemical indicators and pathological changes.
+Based on the results, transcriptomics, proteomics, and metabolomics were employed to analyze the changes of endogenous substances in different physiological states.
+Furthermore, data from multiple omics were integrated to screen key regulatory pathways by which ADI attenuated DOX-induced cardiotoxicity, and important target proteins were selected for measurement by ELISA kits and immunohistochemical analysis.
+The results showed that ADI significantly reduced the levels of cardiac troponin T(cTnT) and N-terminal pro-B-type natriuretic peptide(NT-proBNP) and effectively ameliorated myocardial fibrosis and intracellular vacuolization, indicating that ADI showed therapeutic effect on DOX-induced cardiotoxicity.
+The transcriptomics analysis screened out a total of 400 differentially expressed genes(DEGs), which were mainly enriched in inflammatory response, oxidative stress, and myocardial fibrosis.
+After proteomics analysis, 70 differentially expressed proteins were selected, which were mainly enriched in the inflammatory response, cardiac function, and energy metabolism.
+A total of 51 differentially expressed metabolites were screened by the metabolomics analysis, and they were mainly enriched in multiple signaling pathways, including the inflammatory response, lipid metabolism, and energy metabolism.
+The integrated data of multiple omics showed that linoleic acid metabolism, arachidonic acid metabolism, and glycerophosphate metabolism pathways played an important role in DOX-induced cardiotoxicity, and ADI may exert therapeutic effects by modulating these pathways.
+Target validation experiments suggested that ADI significantly regulated abnormal protein levels of cyclooxygenase-1(COX-1), cyclooxygenase-2(COX-2), prostaglandin H2(PGH2), and prostaglandin D2(PGD2) in the model group.
+In conclusion, ADI may attenuate DOX-induced cardiotoxicity by regulating linoleic acid metabolism, arachidonic acid metabolism, and glycerophosphate metabolism, thus alleviating inflammation of the body.

@@ -1,0 +1,7 @@
+Age-related macular degeneration (AMD) is a disease that affects the vision of elderly individuals worldwide.
+Although current therapeutics have shown effectiveness against AMD, some patients may remain unresponsive and continue to experience disease progression.
+Therefore, in-depth knowledge of the mechanism underlying AMD pathogenesis is urgently required to identify potential drug targets for AMD treatment.
+Recently, studies have suggested that dysfunction of mitochondria can lead to the aggregation of reactive oxygen species (ROS) and activation of the cyclic GMP-AMP synthase (cGAS)/stimulator of interferon genes (STING) innate immunity pathways, ultimately resulting in sterile inflammation and cell death in various cells, such as cardiomyocytes and macrophages.
+Therefore, combining strategies targeting mitochondrial dysfunction and inflammatory mediators may hold great potential in facilitating AMD management.
+Notably, emerging evidence indicates that natural products targeting mitochondrial quality control (MQC) and the cGAS/STING innate immunity pathways exhibit promise in treating AMD.
+Here, we summarize phytochemicals that could directly or indirectly influence the MQC and the cGAS/STING innate immunity pathways, as well as their interconnected mediators, which have the potential to mitigate oxidative stress and suppress excessive inflammatory responses, thereby hoping to offer new insights into therapeutic interventions for AMD treatment.

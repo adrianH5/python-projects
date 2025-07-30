@@ -1,0 +1,10 @@
+Gammaherpesviruses establish lifelong infections in over 90% of adults worldwide and contribute to the development of several cancers.
+Endogenous lipid synthesis pathways support lytic and latent life cycles of several gammaherpesviruses.
+However, the role of circulating lipoproteins and the corresponding apolipoproteins in gammaherpesvirus infection remains unknown.
+Apolipoprotein E (ApoE) is a protein that associates with lipoproteins in circulation and supports bidirectional lipid transport to maintain lipid homeostasis.
+Interestingly, ApoE differentially affects several virus families, but its role in gammaherpesvirus infection has not been evaluated.
+In this study, we demonstrate that ApoE expression was increased in murine gammaherpesvirus 68 (MHV68)-infected macrophages in a type-I interferon (IFN)-dependent manner.
+Intriguingly, ApoE expression was usurped to support MHV68 lytic replication and expression of lytic viral genes.
+The proviral effects of ApoE in macrophages were independent of the conventional functions of ApoE in the regulation of endogenous lipid synthesis and type I IFN signaling.
+Finally, the proviral effects of ApoE were limited to the lytic life cycle, as the establishment of MHV68 latency in macrophages was not altered by the ApoE genotype of chronically infected mice.
+Thus, our study defines a viral life cycle-specific proviral role of ApoE in gammaherpesvirus infection.

@@ -1,0 +1,5 @@
+RAS mutations are observed in 20% of all cancers, with the KRAS isoform highly mutated in colorectal, lung and pancreatic cancers.
+The last several years have seen the development of clinical compounds that target KRAS G12C mutations, with other compounds under clinical development.
+In this study, a series of KRAS small-molecule inhibitors were compared for their binding affinity against a panel of KRAS mutant alleles.
+These inhibitors either covalently target the G12C mutant or reversibly target other mutants by binding in a transient pocket known as the switch-II pocket.
+Covalent inhibitors bound KRAS-GDP with K

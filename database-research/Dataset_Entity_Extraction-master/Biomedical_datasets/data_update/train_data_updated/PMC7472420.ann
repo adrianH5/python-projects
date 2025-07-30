@@ -1,0 +1,16 @@
+T1	Dataset 967 1022	Global Initiative on Sharing All Influenza Data, GISAID
+T2	URL 1024 1046	https://www.gisaid.org
+T3	Repository 1142 1146	NCBI
+T4	AccessionNumber 1158 1169	PRJNA636446
+T5	Dataset 1227 1233	GISAID
+T6	AccessionNumber 1250 1264	EPI_ISL_413015
+T7	AccessionNumber 1304 1318	EPI_ISL_450747
+T8	Dataset 1414 1420	GISAID
+T9	URL 1422 1436	www.gisaid.org
+T10	Dataset 1576 1582	GISAID
+T11	Dataset 1793 1799	GISAID
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T5	Arg2:T6
+R4	hasAttr	Arg1:T5	Arg2:T7
+R5	hasAttr	Arg1:T8	Arg2:T9

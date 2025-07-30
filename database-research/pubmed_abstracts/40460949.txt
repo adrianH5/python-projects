@@ -1,0 +1,10 @@
+Glycolysis plays a key role in the progression of glioblastoma (GBM).
+Gene expression and clinical information were obtained from The Cancer Genome Atlas, Genotype-Tissue Expression, the Chinese Glioma Genome Atlas database, and five Gene Expression Omnibus datasets.
+Twenty-one prognosis-related glycolytic differentially expressed genes were identified.
+The glycolysis-related gene signature associated with poor prognosis was constructed using six upregulated glycolytic genes, including beta-1, 4-galactosyltransferase1 (B4GALT1), and beta-glucuronidase (GUSB).
+The main immune cell types in GBM samples were M2 macrophages and resting memory CD4+ T cells, and a high-risk score was associated with high neutrophil infiltration.
+Clinical GBM tissues exhibited higher B4GALT1 and GUSB expression than normal tissues.
+B4GALT1 expression positively correlated with multiple immune checkpoint genes, and the knockdown of B4GALT1 inhibited the proliferation of GBM cells in vitro and in vivo.
+Knockdown of B4GALT1 reduced lactic acid levels and increased those of tumor necrosis factor-α and interferon-γ.
+Accordingly, a prognostic model based on six glycolytic genes could be used to predict poor prognosis and high immune infiltration in patients with GBM.
+Thus, B4GALT1 may serve as a promising prognostic biomarker for GBM therapy.

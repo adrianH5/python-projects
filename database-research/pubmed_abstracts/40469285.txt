@@ -1,0 +1,6 @@
+Sarcomas are heterogeneous mesenchymal malignancies classified as soft-tissue sarcomas (STS) and bone sarcomas.
+Advanced cases respond poorly to standard therapies, highlighting the need for novel strategies.
+Immunotherapies, including PD-1/PD-L1 inhibitors, adoptive cellular therapies, vaccines, and oncolytic viruses, have shown promise in specific sarcoma subtypes.
+This review explores these approaches, emphasizing the prognostic significance of immune cells within the tumor microenvironment (TME), such as tumor-associated macrophages (TAMs) and tumor-infiltrating lymphocytes (TILs), and their correlation with clinical outcomes.
+We also discuss challenges in immunotherapy efficacy, the importance of biomarker-driven personalized therapies, and the potential of a combination regimen with chemotherapy, radiation, and cytokine agents.
+Overall, this review highlights the evolving role of immunotherapy in advanced sarcomas, the critical influence of the TME, and the need to optimize synergistic treatment approaches to enhance patient outcomes.

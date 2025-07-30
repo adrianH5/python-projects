@@ -1,0 +1,6 @@
+Most biomolecules play important roles in aggregated states, as exemplified by proteins and DNA.
+Inspired by biomacromolecule formation, the exploration of intracellular bioactive materials derived from exogenous molecules has drawn considerable interest.
+In cells, exogenous molecules may assemble into macromolecules and supermolecules and thus help monitor disease processes or regulate the cell fate, which provides a new approach to disease treatment.
+The diverse cellular microenvironments (reductive in the cytoplasm, oxidative in mitochondria, and acidic in lysosomes) can be exploited to achieve controllable and precise intracellular aggregation using intelligent molecular design.
+Moreover, the intracellular polymerization and organelle targeting-triggered aggregation of exogenous molecules can be used for cell fate manipulation.
+This review deals with the intracellular aggregation of exogenous molecules activated by intracellular stimuli, exogenous stimuli, and organelle targeting and discusses the related molecular mechanisms and biomedical applications, providing guidance for the design of bioactive materials and discovery of theranostic agents.

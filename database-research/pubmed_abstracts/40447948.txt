@@ -1,0 +1,3 @@
+Belantamab mafodotin is an antibody-drug conjugate (ADC) comprising a monoclonal antibody targeting B-cell maturation antigen (BCMA) conjugated to the microtubule inhibitor monomethyl auristatin F via a protease-resistant maleimidocaproyl linker (cysteine maleimidocaproyl monomethyl auristatin F [cys-mcMMAF]).
+Belantamab mafodotin monotherapy population pharmacokinetics (PopPK) were previously described in relapsed/refractory multiple myeloma (RRMM).
+This analysis aimed to further characterize the PopPK of belantamab mafodotin ADC and cys-mcMMAF when administered intravenously in patients with RRMM using data from monotherapy and combination therapy studies.

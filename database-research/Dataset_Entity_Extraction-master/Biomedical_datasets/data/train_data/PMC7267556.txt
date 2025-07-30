@@ -1,0 +1,5 @@
+The novel coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2), is associated with the current pandemic outbreak of COVID‐19.
+MERS betacoronavirus was used as a control data set as it is well‐studied in both hosts (human and camel), and as their close genetic relationship is well‐characterized.
+For the next experiment, based on the alignment and comparison of the structures, MERS has been set as a control data set, due to the well‐characterized close relationship between human‐ and camel‐delivered strains.
+,
+Therefore, our results suggest that the human SARS‐CoV‐2, responsible for the current outbreak of COVID‐19, could also come from yak as an intermediate host.

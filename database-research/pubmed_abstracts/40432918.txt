@@ -1,0 +1,1 @@
+To optimize the protection of organs at risk (OARs) in left breast cancer radiotherapy, this study investigated how physical parameter adjustments affect the performance of a Rapidplan-based dose-volume histogram (DVH) prediction model.

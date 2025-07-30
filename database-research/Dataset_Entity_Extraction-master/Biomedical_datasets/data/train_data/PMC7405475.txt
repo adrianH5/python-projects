@@ -1,0 +1,33 @@
+Moreover, the severity of the atypical pneumonia caused by SARS‐CoV‐2 (COVID‐2019), often requiring multiweek hospital stays and the use of invasive ventilators,
+, 
+, 
+ highlights the need for therapeutics to lessen the severity of individual infections.
+Initial trials using antibody‐containing plasma of convalescent COVID‐19 patients has also shown promise in lessening the severity of the disease.
+(c) Structural overlay of the SARS‐CoV‐2 N2b dimer (blue) and the equivalent domain of SARS‐CoV‐N (PDB ID 2CJR)
+Our structures also overlay closely with four other recently deposited structures of the SARS‐CoV‐2 N2b domain (PDB IDs 6WJI, 6YUN, 6ZCO, and 7C22; all unpublished).
+One of these structures (PDB ID 7C22) adopts the same space group and unit cell parameters as our structure of untagged N2b.
+Since the first genome sequence of SARS‐CoV‐2 was reported in January 2020,
+, 
+ over 38,000 full genomic sequences have been deposited in public databases (as of June 3, 2020).
+While many of these substitutions arise only once in our dataset and may therefore reflect errors in sequencing or sequence assembly, most likely reflect true variation among circulating strains of SARS‐CoV‐2.
+The most common substitutions are R203K and G204R, which occur together as the result of a common trinucleotide substitution in genomic positions 28,881–28,883, from GGG to AAC (~4,100 of the 38,318 sequences in our dataset; Figure S2a,b).
+While positions 203 and 204 accounted for over two‐thirds of the total individual amino acid substitutions in this dataset, the N2a domain shows a strong enrichment of mutations even when these positions are not considered (Figure 2a).
+(b) Surface views of the N protein N1b domain (PDB ID 6VYO; Center for Structural Genomics of Infectious Diseases [CSGID], unpublished).
+Two high‐resolution crystal structures of the SARS‐CoV‐2 N1b domain have been determined (PDB ID 6M3M and 6VYO),
+ and a recent NMR study determined a solution structure of the domain and defined its likely RNA binding surface (Figure 2b).
+In keeping with its functional importance, the identified RNA binding surface shows only a single mutation in this dataset (Figure 2b; middle panel).
+Prior work with the Murine Hepatitis Virus N protein showed that this region can, on its own, incorporate into nucleocapsid structures that lack the associated Membrane (M) protein, suggesting that the region mediates a homotypic interaction between N proteins.
+Given the severity of the ongoing COVID‐19 pandemic, a deep understanding of the SARS‐CoV‐2 life cycle is urgently needed.
+N protein constructs (NFL [residues 2–419], N1ab [2–175], N1ab2a [2–246], N1b [49–175], N1b2a [49–246], N2b [247–364], N2b3 [247–419]) were amplified by PCR from the IDT 2019‐nCoV N positive control plasmid (IDT cat.
+Diffraction data were collected at beamline 24ID‐E at the Advanced Photon Source.
+Diffraction datasets were processed with the RAPD pipeline (https://github.com/RAPD/RAPD/), which uses XDS
+ for indexing and data reduction, and the CCP4 programs AIMLESS
+ and TRUNCATE
+ for scaling and conversion to structure factors.
+The structure of untagged N2b was determined by molecular replacement in PHASER
+ using a dimer of the SARS‐CoV N2b domain (PDB ID 2GIB)
+ as a template.
+Data collection statistics, refinement statistics, and database accession numbers for diffraction data and final structures can be found in Table S1.
+We used the NextStrain database
+ to visualize the prevalence of the N protein G204R mutation, which is diagnostic of the GGG ➔ AAC trinucleotide substitution in positions 28,881–28,883.
+The COVID‐2019 pandemic is the most severe acute public health threat of the twenty‐first century.

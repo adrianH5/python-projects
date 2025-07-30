@@ -1,0 +1,3 @@
+Brachytherapy(BT) can be used alone or in conjunction with external beam radiotherapy (EBRT) in the management of early head and neck cancers.
+Technical challenges may be encountered while planning implants for buccal mucosal cancers, which require customized solutions.
+We present the design and application of a customized 3D printed template for brachytherapy in one such case.

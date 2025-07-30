@@ -1,0 +1,8 @@
+To summarize the research status of lung cancer immunotherapy using bibliometrics.
+CiteSpace software was used to analyze all literature on lung cancer immunotherapy collected from the Web of Science (WOS) database from 2004 to 2024.
+A total of 1702 publications on lung cancer immunotherapy were searched, and the number of articles increased more rapidly after 2014.
+Two areas intensively studied by the discipline are tumor microenvironment and dendritic cells.
+He, Jie, Chinese Academy of Medical Sciences - Peking Union Medical College, and China of America were the authors, institutions, and countries with the most.
+The research trajectory in the use of immunotherapy for lung cancer is thoroughly examined in this article.
+With tumor microenvironment, blockade, nivolumab, resistance, and chemotherapy being the primary research hotspots.
+Future studies might concentrate on melanoma, antibody, dendritic cells, non-small cell lung cancer, and ctla 4 blockade.

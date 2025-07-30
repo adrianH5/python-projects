@@ -1,0 +1,2 @@
+According to the mean expression of ACE2, the mucosa of oral cavity could express ACE2, and the results were validated by the data of normal tissues from the FANTOM5 CAGE dataset (Fig. 1b).
+To investigate the potential route of 2019-nCov infection on the mucosa of oral cavity, bulk RNA-seq profiles from two public databases including The Cancer Genome Atlas (TCGA) and Functional Annotation of The Mammalian Genome Cap Analysis of Gene Expression (FANTOM5 CAGE) dataset were collected.

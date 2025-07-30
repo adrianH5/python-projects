@@ -1,0 +1,11 @@
+Melanin is a granular brown-black pigment unevenly distributed in tissues.
+Severe melanin deposition can obscure cellular morphological features and tissue structures, hindering the evaluation of melanocytic lesion.
+This condition is particularly prone to interfering with the evaluation of immunohistochemistry (IHC), thereby affecting diagnostic accuracy.
+Therefore, melanin bleaching techniques have become a crucial step, enabling pathologists to better examine melanin-rich tissue specimens.
+In this study, we utilized low-concentration 1 % hydrogen peroxide for melanin bleaching and integrated the bleaching process into IHC on the same platform to establish a continuous workflow.
+We compared melanin bleaching in different steps to see the effect of bleaching on IHC.
+Three different bleaching protocols were designed: bleaching (i) before antigen retrieval, (ii) after antigen retrieval, and (iii) after IHC staining.
+The effects of melanin bleaching on tissue morphology preservation and IHC quality in heavily pigmented melanocytic lesions were evaluated.
+The results showed that melanin bleaching before antigen retrieval ensured accurate localization of expression of HMB45, Melan A, and SOX10.
+This method showed no background staining, preserved tissue morphology without detachment, and maintained antigen immunogenicity.
+The pre-retrieval bleaching protocol allowed for clearer IHC staining result and can be applied on automated platform and routine staining workflows.

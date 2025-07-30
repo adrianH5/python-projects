@@ -1,0 +1,21 @@
+T1	Dataset 1644 1650	GISAID
+T2	AccessionNumber 1651 1672	EPI_ISL_416416-416424
+T3	Repository 1855 1865	Nextstrain
+T4	URL 1872 1937	https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/paper1
+T5	Repository 4426 4433	GenBank
+T6	URL 4435 4488	https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/
+T7	Dataset 4494 4500	GISAID
+T8	URL 4502 4525	https://www.gisaid.org/
+T9	Dataset 4562 4568	GISAID
+T10	Creator 4816 4866	European Centre for Disease Prevention and Control
+T11	Repository 4871 4888	Our World in Data
+T12	URL 4890 4940	https://ourworldindata.org/coronavirus-source-data
+T13	URL 5100 5142	https://github.com/CSSEGISandData/COVID-19
+T14	Creator 5158 5235	Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T5	Arg2:T6
+R4	hasAttr	Arg1:T7	Arg2:T8
+R5	hasAttr	Arg1:T10	Arg2:T12
+R6	hasAttr	Arg1:T11	Arg2:T12
+R7	hasAttr	Arg1:T14	Arg2:T13

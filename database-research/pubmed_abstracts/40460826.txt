@@ -1,0 +1,8 @@
+The cGAS-cGAMP-STING pathway is crucial for antiviral immunity.
+While cytosolic cGAS detects viral DNA, most DNA viruses shield their genome and invade the nucleus, where chromatin restricts cGAS activation.
+How viruses may activate nuclear cGAS is not well understood.
+Here, we show that several herpesvirus proteins trigger nuclear cGAS activation by perturbing centromeres, where cGAS is enriched.
+The herpes simplex virus type 1 (HSV-1) ubiquitin ligase infected cell protein 0 (ICP0), which degrades centromeric proteins, promotes centromeric DNA amplification through the translesion DNA synthesis (TLS) pathway in quiescent monocyte-derived cells, thereby activating nuclear cGAS.
+During infection, HSV-1 evades this detection by also expressing UL36USP, a suppressor of TLS.
+Similarly to ICP0, the cytomegalovirus IE1 protein causes centromeric DNA amplification and cGAS activation.
+We define this mechanism as viral-induced centromeric DNA amplification and recognition (VICAR), uncovering a non-mitotic, immune-activating role of centromeres.

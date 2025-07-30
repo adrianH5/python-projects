@@ -1,0 +1,11 @@
+The gut microbiota plays a crucial role in gastrointestinal health, immune function, and overall well-being.
+Dysbiosis has been linked to various conditions such as colon cancer, atopic diseases, mental disorders, autoimmune disorders, obesity, and diabetes.
+This in vitro study aims to assess the safety and functional potential of two probiotic strains, Lactiplantibacillus (L) plantarum and Bifidobacterium (B) longum, focusing on their anti-lipidemic, anti-diabetic, antioxidant, and probiotic properties.
+The strains were tested for stress tolerance, including acidic, alkaline, osmotic, oxidative, thermal, detergent, bile salt, and pancreatic enzyme conditions.
+Both strains exhibited strong resilience, often surpassing the control strain.
+Their antioxidant activity, measured by radical scavenging ability, was comparable to ascorbic acid, with values of 77% for L. plantarum and 92% for B. longum.
+Cholesterol-lowering capacity reached 50% and 49% after 3 days, increasing to 59% and 78% after 7 days, respectively.
+Hydrophobicity, an indicator of adhesion potential, was approximately 78% for L. plantarum and 80% for B. longum.
+Additionally, both strains showed low α-amylase activity (91.65 and 92.33 U/ml), suggesting a potential role in slowing carbohydrate digestion and managing blood glucose levels.
+Overall, the strains demonstrated favorable safety profiles and promising functional attributes for alleviating hyperlipidemia and diabetes.
+PCA and heatmap analyses further highlighted L. plantarum as the most promising candidate.

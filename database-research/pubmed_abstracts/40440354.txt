@@ -1,0 +1,11 @@
+Trogocytosis is an underappreciated phenomenon that shapes the immune microenvironment surrounding many types of solid tumors.
+The consequences of membrane-bound proteins being deposited from a donor immune cell to a recipient cancer cell via trogocytosis are still unclear.
+Here, we report that human clear cell renal carcinoma tumors stably express the lymphoid markers CD45, CD56, CD14, and CD16.
+Flow cytometry performed on fresh kidney tumors revealed consistent CD45 expression on tumor cells, as well as varying levels of the other markers mentioned previously.
+These results were consistent with our immunofluorescent analysis, which also revealed colocalization of lymphoid markers with carbonic anhydrase 9, a standard kidney tumor marker.
+RNA analysis showed a significant upregulation of genes typically associated with immune cells by tumor cells.
+Finally, we show evidence of chromosomal DNA being transferred from immune cells to tumor cells through physical contact.
+This horizontal gene transfer has transcriptional consequences in the recipient tumor cell, resulting in a fusion phenotype that expresses both immune and cancer specific proteins.
+This work demonstrates a novel mechanism by which tumor cell protein expression is altered through the acquisition of surface membrane fragments and genomic DNA from infiltrating lymphocytes.
+These results alter the way in which we understand tumor-immune cell interactions and may reveal new insights into the mechanisms by which tumors develop.
+Additionally, further studies into trogocytosis and other mechanisms of contact-mediated cellular transfer will help push the field towards the next generation of immunotherapies and biomarkers for treating renal cell carcinoma and other cancers.

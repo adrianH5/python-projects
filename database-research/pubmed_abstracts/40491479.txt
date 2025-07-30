@@ -1,0 +1,5 @@
+Dysregulated angiogenesis signaling leads to pathological vascular growth and leakage, and is a hallmark of many diseases including cancer and ocular diseases.
+In peripheral arterial disease, the concomitant increase in vascular permeability presents significant challenges in therapeutic efforts to improve perfusion by stimulating vascular growth.
+Building a mechanistic understanding of the endothelial control of vascular growth and permeability signaling is crucial to guide our efforts to identify therapeutic strategies that permit blood vessel growth while maintaining vascular stability.
+We develop a mechanistic systems biology model of the endothelial signaling network formed by the vascular endothelial growth factor (VEGF) and angiopoietin (Ang)-Tie pathways, two major signaling pathways regulating vascular growth and stability.
+Our model, calibrated and validated against experimental data, reveals the mechanisms through which chronic Ang1 stimulation protects endothelial cells from VEGF-induced hyperpermeability, and predicts that combining Src inhibition with Tie2 activation can inhibit vascular leakage without disturbing angiogenesis signaling.

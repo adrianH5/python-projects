@@ -1,0 +1,7 @@
+This study aimed to evaluate the association of a healthy lifestyle pattern with mortality risk among patients with type 2 diabetes mellitus (T2DM).
+Data were derived from a prospective cohort enrolling 13,776 Chinese patients with T2DM.
+A healthy lifestyle pattern was constructed based on six lifestyle factors, including smoking, alcohol consumption, dietary habit, physical activity, sedentary time, and sleep duration.
+Multivariate Cox proportional hazards models were used to estimate hazard ratios (HRs) and 95% confidence intervals (CIs) for all-cause and cause-specific mortality.
+During a median follow-up of 9.0 years, 2,497 deaths were recorded.
+Compared to T2DM patients with the lifestyle pattern scoring 0-2, those scoring 5-6 had a 40% lower risk for all-cause mortality (HR = 0.60, 95% CI: 0.52-0.69), 33% lower risk for CVD mortality (HR = 0.67, 95% CI: 0.52-0.69), and 25% lower risk for cancer mortality (HR = 0.75, 95% CI: 0.58-0.97).
+In addition, we found that the association between the lifestyle pattern and all-cause mortality risk was stronger in females than in males (

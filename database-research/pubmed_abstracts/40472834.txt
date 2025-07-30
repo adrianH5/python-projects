@@ -1,0 +1,12 @@
+ADAMTS5, a member of the ADAMTS family, exhibits crucial biological roles, including protein shedding, proteolysis, and cell migration.
+Its relevance in breast cancer (BC) was explored through an integrative approach combining high-throughput analyses, database validations, and experimental confirmation.
+ADAMTS5 expression was significantly reduced in BC samples, as verified by microarray analysis, qRT-PCR, and public database resources.
+A protein-protein interaction network revealed five proteins-COL10A1, COL11A1, COMP, MMP1 and SDC1-that interact with ADAMTS5 and are primarily associated with the ECM-receptor interaction pathway.
+These proteins also engage in cell cycle checkpoint signalling, emphasising their potential role in tumour progression.
+Survival analysis of BC samples identified a novel prognostic signature based on ADAMTS5-related proteins.
+The study extended to coding and noncoding RNA interactions, identifying lncRNAs as key regulators.
+CRNDE acts as a ceRNA for ADAMTS5, modulating its expression via hsa-miR-135b-3p.
+Meanwhile, BAIAP2-AS1 interacts directly with ADAMTS5, offering another layer of regulatory control and prognostic value.
+These findings position ADAMTS5 as a vital player in BC biology, with its low expression linked to critical pathways and survival outcomes.
+The identified lncRNA-mediated regulatory mechanisms add depth to understanding ADAMTS5's role and suggest potential targets for therapeutic development.
+This study underscores ADAMTS5's potential as a biomarker and its broader implications in unravelling BC molecular mechanisms.

@@ -1,0 +1,8 @@
+4-aminobiphenyl (4-ABP) is widely distributed in the environment and is implicated in the pathogenesis of cancer.
+This study aims to clarify the environmental and toxicological science of 4-ABP, which are currently unexplored.
+By searching articles from PubMed, Web of Science, and MEDLINE, we established an aggregate exposure pathway (AEP) framework that demonstrated the presence of 4-ABP in the cigarette smoke.
+Compared to nonsmokers, smokers had relatively higher levels of 4-ABP and its adducts in blood, urine, and bladder tissues.
+Then, an adverse outcome pathway (AOP) was constructed using bioinformatic tools.
+The AOP indicated that 4-ABP induced DNA damage, cell cycle dysregulation, and angiogenesis in the development of bladder cancer.
+In vitro assays confirmed that 4-ABP/cigarette smoke extract (CSE) significantly induced DNA double strand breaks and cell cycle arrest in the S phase in bladder cancer cells (J82), and 4-ABP/CSE-treated J82 cells promoted the migration and tube formation ability of human umbilical vein endothelial cells (HUVECs) in a dose-dependent manner.
+The benchmark dose (BMD) analysis revealed that the 5th lower limit of BMD at a 5 % response (BMDL

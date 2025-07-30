@@ -1,0 +1,3 @@
+Tracking the quantitative evaluation of therapeutic efficiency in tumors is essential for the precision management of cancer patients.
+Theranostic probes, which integrate diagnostic molecular imaging and therapeutic capabilities into a single entity, can be used to monitor the treatment process and reflect the therapeutic effect.
+However, current theranostic probes lack precise quantitative evaluations

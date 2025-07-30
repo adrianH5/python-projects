@@ -1,0 +1,9 @@
+Dysregulation of lipid homeostasis is associated with a wide range of pathologies encompassing neurological, metabolic, cardiovascular, oncological, and renal disorders.
+We previously showed that lipid droplet (LD) accumulation in podocytes contributes to the progression of diabetic kidney disease (DKD) and reducing LDs preserves podocyte function and prevents albuminuria.
+Here, we sought to identify compounds that treat pathological LD accumulation.
+We developed a phenotypic assay using human podocytes and deployed it to screen a combinatorial library comprising over 45 million unique small molecules.
+This led to the identification of a compound series that effectively reduces LD accumulation in stressed podocytes.
+Mechanistic studies revealed that these compounds activate lipophagy, reduce LD accumulation, and rescue podocytes from cell death.
+In contrast, compounds known to induce general autophagy failed to mimic these effects, indicating a novel lipophagy-specific mechanism of action (MoA), which was confirmed by unbiased phenotypic profiling.
+An advantage of this therapeutic strategy is its potential to not only halt the progression of pathological lipid accumulation but also reverse it.
+These compounds will serve as tools for uncovering novel drug targets and therapeutic MoAs for treating DKD and other diseases with similar etiologies.

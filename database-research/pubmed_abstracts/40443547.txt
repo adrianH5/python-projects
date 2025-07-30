@@ -1,0 +1,13 @@
+This study focuses on the development and assessment of innovative chitosan-grafted silica nanocarriers encapsulating the PARP inhibitor, olaparib, designed for targeted delivery in breast cancer cells.
+The formulation aims to enhance therapeutic precision and efficacy in cancer treatment.
+Silica nanocarriers (SNs) were synthesized through a sol-gel method and subsequently coated with chitosan, employing GPTMS as a coupling agent.
+Olaparib (Ola) was successfully incorporated into the chitosan grafted silica nanocarriers (Ola-Ch-SNs).
+The resulting nanocarriers were characterized using techniques such as XRD, TEM, DLS, and TGA-DSC.
+Drug release profiles were evaluated in PBS across different pH conditions, while cytotoxicity was measured using the SRB assay in MCF-7 breast cancer cells.
+Uniform, pH-sensitive olaparib-loaded chitosan-coated silica nanocarriers (Ola-Ch-SNs) were successfully synthesized and characterized using advanced techniques including SEM, TEM, TGA, DSC, and XRD.
+The nanocarriers demonstrated excellent stability, achieving a drug loading efficiency of 44.31 ± 0.21% and an encapsulation efficiency of 83.12 ± 0.08%.
+Distinct pH-responsive drug release behavior was observed, with cumulative olaparib release reaching 57.6 ± 0.34% at pH 4.0 and 47.3 ± 0.02% at pH 6.0 over 24 h, compared to 22.6 ± 0.14% at pH 7.4 over 72 h. Release kinetics, described by the Korsmeyer-Peppas model, indicated a mechanism driven by both diffusion and polymer relaxation.
+In vitro cytotoxicity assays on MCF-7 breast cancer cells revealed enhanced anticancer activity of Ola-Ch-SNs compared to free olaparib, achieving a GI₅₀ value below 10 µg/ml and reducing cell viability to 23.4 ± 0.3% at 80 µg/ml.
+These findings underscore the potential of Ola-Ch-SNs as an innovative, targeted drug delivery system for effective cancer therapy.
+We successfully developed pH-responsive chitosan-coated silica nanocarriers loaded with olaparib, showcasing remarkable cytotoxicity against breast cancer cells.
+This formulation holds promise for enhancing olaparib bioavailability and advancing targeted cancer therapies.

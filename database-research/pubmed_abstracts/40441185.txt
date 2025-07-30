@@ -1,0 +1,14 @@
+Recurrence prediction in well-differentiated thyroid cancer remains a clinical challenge, necessitating more accurate and interpretable predictive models.
+This study investigates the use of a supervised CatBoost classifier to predict recurrence in well-differentiated thyroid cancer patients, comparing its performance against other ensemble models and employing Shapley Additive Explanations (SHAP) to enhance interpretability.
+A dataset comprising 383 patients with diverse demographic, clinical, and pathological variables was utilized.
+Data preprocessing steps included handling values and encoding categorical features.
+The dataset was split into training and testing sets using a 70:30 ratio.
+Model performance was evaluated using accuracy and area under the receiver operating characteristic curve.
+A comparative analysis was conducted with other ensemble methods, such as Extra Trees, LightGBM, and XGBoost.
+SHAP analysis was employed to determine feature importance and assess model interpretability at both the global and local levels.
+The supervised CatBoost classifier demonstrated superior performance, achieving an accuracy of 97% and an area under the receiver operating characteristic curve of 0.99, outperforming competing models.
+SHAP analysis revealed that treatment response (SHAP value: 2.077), risk stratification (SHAP value: 0.859), and lymph node involvement (N) (SHAP value: 0.596) were the most influential predictors of recurrence.
+Local SHAP analyses provided insight into individual predictions, highlighting that misclassification often resulted from overemphasizing a single factor while overlooking other clinically relevant indicators.
+The supervised CatBoost classifier demonstrated high predictive performance and enhanced interpretability through SHAP analysis.
+These findings underscore the importance of incorporating multiple predictive factors to improve recurrence risk assessment.
+While the model shows promise in personalizing thyroid cancer management, further validation on larger, more diverse datasets is warranted to ensure robustness.

@@ -1,0 +1,12 @@
+Paediatric bone sarcomas (e.g.
+Ewing sarcoma, osteosarcoma) comprise significant biological and clinical heterogeneity.
+This extreme heterogeneity affects response to systemic therapy, facilitates inherent and acquired drug resistance and possibly underpins the origins of metastatic disease, a key component implicit in cancer related death.
+Across all cancers, metastatic models have offered competing accounts on when dissemination occurs, either early or late during tumorigenesis, whether metastases at different foci arise independently and directly from the primary tumour or give rise to each other, i.e.
+metastases-to-metastases dissemination, and whether cell exchange occurs between synchronously growing lesions.
+Although it is probable that all the above mechanisms can lead to metastatic disease, clinical observations indicate that distinct modes of metastasis might predominate in different cancers.
+Around 70% of patients with bone sarcoma experience metastasis during their disease course but the fundamental molecular and cell mechanisms underlying spread are equivocal.
+Newer therapies such as tyrosine kinase inhibitors have shown promise in reducing metastatic relapse in trials, nonetheless, not all patients respond and 5-year overall survival remains at ~ 50%.
+Better understanding of potential bone sarcoma biological subgroups, the role of the tumour immune microenvironment, factors that promote metastasis and clinical biomarkers of prognosis and drug response are required to make progress.
+In this review, we provide a comprehensive overview of the approaches to manage paediatric patients with metastatic Ewing sarcoma and osteosarcoma.
+We describe the molecular basis of the tumour immune microenvironment, cell plasticity, circulating tumour cells and the development of the pre-metastatic niche, all required for successful distant colonisation.
+Finally, we discuss ongoing and upcoming patient clinical trials, biomarkers and gene regulatory networks amenable to the development of anti-metastasis medicines.

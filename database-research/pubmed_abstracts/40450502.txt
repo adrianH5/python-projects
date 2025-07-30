@@ -1,0 +1,9 @@
+Immune checkpoint inhibitors (ICIs) and targeted therapies have revolutionized the management of metastatic renal cell carcinoma (mRCC).
+Currently, the frontline standard of care for patients with mRCC involves the provision of systemic ICI-based combination therapy with no clear guidelines on holding or de-escalating treatment, even with a complete or partial radiological response.
+Treatments usually continue until disease progression or unacceptable toxicity, frequently leading to overtreatment, which can elevate the risk of toxicity without providing a corresponding increase in therapeutic efficacy.
+In addition, the ongoing use of expensive antineoplastic drugs increases the financial burden on the already overstretched health care systems and on patients and their families.
+De-escalation strategies could be designed by integrating contemporary technologies, such as circulating tumor DNA, and advanced imaging techniques, such as computed tomography (CT) scans, positron emission tomography CT, magnetic resonance imaging, and machine learning models.
+Treatment de-escalation, when appropriate, can minimize treatment-related toxicities, reduce health care costs, and optimize the patients' quality of life while maintaining effective cancer control.
+This paper discusses the advantages, challenges, and clinical implications of de-escalation strategies in the management of mRCC.
+PATIENT SUMMARY: In this report, we describe the burden of overtreatment in patients who are never able to stop treatments for metastatic kidney cancer.
+We discuss the application of the latest technology that can help in making de-escalation decisions.

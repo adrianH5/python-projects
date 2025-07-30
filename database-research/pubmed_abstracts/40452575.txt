@@ -1,0 +1,6 @@
+ASCL1 is a potent proneural factor with paradoxical functions during development, promoting both progenitor pool expansion and neuronal differentiation.
+How a single factor executes and switches between these potentially opposing functions remain to be understood.
+Using neuroblastoma cells as a model system, we show that ASCL1 exhibits cell cycle phase-dependent chromatin binding patterns.
+In cycling cells, S/G2/M phase-enriched binding occurs at promoters of transcribed pro-mitotic genes, while G1 phase-enriched binding of ASCL1 is associated with the priming of pro-neuronal enhancer loci.
+Prolonged G1 arrest is further required to activate these ASCL1-bound and primed neuronal enhancers to drive neuronal differentiation.
+Thus, we reveal that the same transcription factor can control distinct transcriptional programmes at different cell cycle stages, and demonstrate how lengthening of G1 allows engagement of a differentiation programme by turning unproductive factor binding into productive interactions.

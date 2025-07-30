@@ -1,0 +1,12 @@
+Iodine-131 (131I) is a common therapy for treatment of differentiated thyroid carcinoma (DTC); however, its radioactivity poses a radiation safety risk to public health.
+There is inter-facility variation in release instructions to minimize incident exposure to other individuals.
+Isolation measures are not without harm.
+Most studies on this topic rely upon cumulative dosimetry to measure exposure, but this does not provide the researcher with critical dose protraction information.
+Refining estimation of elimination kinetics with more frequent exposure readings would help optimize radiation safety recommendations.
+Measuring radiation exposure from patients with DTC post-thyroidectomy receiving 131I would better quantify its elimination kinetics to improve radiation safety recommendations.
+Patients with DTC post-thyroidectomy undergoing radioiodine remnant ablation with 131I were instructed to measure exposure at a distance of 1 m, three times a day for 14 d, using an ion chamber at home.
+These data were used to form an exponential decay model and estimate the time after which cumulative exposure is below a reasonably low threshold.
+The average effective half-life was 15.8 h when calculated using real-time exposure readings from 32 patients.
+Among patients administered less than 4.22 GBq, cumulative effective dose is ≤1 mSv after 24 h of isolation.
+Between 4.22 and 6.03 GBq, cumulative effective dose is ≤1mSv after 48 h of isolation.
+Cumulative gamma radiation exposure at 1 m remains low enough to consider re-evaluating isolation protocols that encourage long-term distancing past the first 24 h in post-thyroidectomy patients treated with 131I for remnant ablation.

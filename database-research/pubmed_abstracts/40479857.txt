@@ -1,0 +1,14 @@
+Despite the use of hypomethylating agents (HMA), outcomes remain poor for patients with higher-risk myelodysplastic syndromes (HR-MDS).
+Ibrutinib (IBR) is a Bruton's Tyrosine Kinase (BTK) inhibitor that can exert anti-myeloblast activity through inhibition of NF-kB signaling.
+IBR also has immunomodulatory activity through binding to interleukin-2-inducible kinase (ITK).
+We conducted a multicenter Phase 1b trial (NCT02553941) to evaluate the safety, tolerability, and preliminary efficacy of the combination of IBR and azacitidine (AZA) in patients with HR-MDS.
+Patients received standard AZA in combination with IBR at two dose levels (DL), 420 mg (DL1) and 560 mg (DL2).
+Twenty-one patients were enrolled, including 17 with high- or very high-risk disease and six with prior HMA therapy.
+No dose-limiting toxicities were observed in the dose escalation cohorts.
+The most common grade 3 or higher adverse events included thrombocytopenia, neutropenia, anemia, and febrile neutropenia.
+Bleeding events occurred in 14 patients (67 %), with a grade 3 event in one patient.
+The overall response rate was 48 %, including 3 (14 %) complete remissions (CR) and 4 (19 %) marrow CR.
+Responses were seen in patients with TP53 mutations or deletions.
+CD34 positive bone marrow mononuclear cells (BMMC) BTK and peripheral blood MC (PBMC) ITK occupancy by IBR demonstrated on-target activity in relevant target cells.
+In patients with HR-MDS, the combination of IBR and AZA is safe, tolerable, and active, including responses in patients with TP53 aberrations and with prior HMA therapy.
+Further study in a larger, randomized trial is necessary to assess efficacy of this regimen for patients with HR-MDS.

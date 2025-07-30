@@ -1,0 +1,10 @@
+This virus was labeled severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and defined as the causal agent of Coronavirus Disease 2019 (COVID-19) [2].
+On 5 March 2020, the first COVID-19 case was reported in KwaZulu-Natal, South Africa, from a traveler from Italy.
+Reads are then filtered and sorted, on a protein level, into “bins” corresponding to recognized viral species, using DIAMOND [16] and the UniRef90 database (https://www.uniprot.org/help/uniref).
+All of the sequences were deposited in GISAID (https://www.gisaid.org/)
+(Accession IDs in Table S2).
+Moreover, 10,959 GISAID reference genomes (all authors acknowledged in Table S3) and 54 whole genomes generated at KwaZulu-Natal Research Innovation and Sequencing Platform (KRISP) were aligned in Mafft v7·313 (FF-NS-2) [19], followed by manual inspection and editing in the Geneious Prime software suite (Biomatters Ltd., New Zealand).
+All of the data produced have been deposited in the GISAID (consensus genomes) (Accession IDs in Table S2) and at the FASTQ short reads deposited at the Short Read Archive (SRA) with accession code PRJNA636748.
+In addition, 13 samples delivered from the hospital outbreak were sequenced, but the patient or healthcare worker from the sample ID, or the sample ID, has been lost, or the sample itself was lost during transport or in storage, before coming to the laboratories.
+In total, 108 COVID-19 positive individuals were sequenced in less than three weeks.
+The COVID-19 pandemic has spread very fast around the world.

@@ -1,0 +1,6 @@
+It is hard to infer whether the mutations in E protein infect and sicken people deferentially due to COVID-19.
+From the NCBI virus database, all the protein sequences of 4917 complete SARS-CoV-2 genomes as on date 18th June 2020 as well as other host CoV genomes were fetched.
+The following is the complete list of seventy-four distinct envelope (E) proteins from different host CoVs and their respective protein IDs (Table-2).
+The E protein is present over all the available 4917 SARS-CoV-2 genomes as on 18th June 2020 in the NCBI database.
+It is our belief that various missense mutations in the E protein could weaken the SARS-CoV-2 and would help us gets rid of COVID-19 in future since any virus does not like to destroy its host for its survival for a long to come.
+Sixteen sequentially different E -proteins were observed from a total of 4917 available complete SARS-CoV-2 genomes as on 18th June 2020 in the NCBI database.

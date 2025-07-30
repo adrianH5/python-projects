@@ -1,0 +1,5 @@
+Head and neck squamous cell carcinoma (HNSCC) can either be examined with hybrid PET/MR imaging systems or sequentially, using PET/CT and MR imaging.
+Regardless of the acquisition technique, the superiority of MR imaging compared to CT lies in its potential to interrogate tumor and surrounding tissues with different sequences, including perfusion and diffusion.
+For this reason, PET/MR imaging is preferable for the detection and assessment of locoregional residual/recurrent HNSCC after therapy.
+In addition, MR imaging interpretation is facilitated when combined with PET.
+Nevertheless, distant metastases and distant second primary tumors are detected equally well with PET/MR imaging and PET/CT.

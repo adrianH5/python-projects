@@ -1,0 +1,3 @@
+The principal sensor of intracellular double-stranded DNA (dsDNA) is cyclic GMP-AMP synthase (CGAS), which generates the second messenger cyclic GMP-AMP that binds stimulator of interferon genes (STING1), leading to the expression of type I interferon genes.
+CGAS and STING1 also play essential roles in maintaining genome integrity and the initiation and progression of cancer.
+Here we show that

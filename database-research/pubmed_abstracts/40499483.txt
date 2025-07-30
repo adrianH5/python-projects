@@ -1,0 +1,4 @@
+Cells routinely orchestrate the activities of diverse biochemical pathways to sustain cellular function and proliferation, as exemplified by their ability to faithfully convert extracellular signals into specific intracellular responses.
+The dynamic nature of intracellular signaling calls for appropriate tools to capture these complex molecular events.
+Recent advances in genetically encoded biosensor engineering are revolutionizing our ability to dissect the molecular mechanisms regulating signaling activities with unprecedented resolution.
+Here, we present a timely update on novel biosensor designs and highlight recent applications where biosensor imaging yielded breakthrough insights into the spatiotemporal dynamics of GPCR signaling and cell cycle regulation.

@@ -1,0 +1,16 @@
+Thanks to next‐generation sequencing approach, a new coronavirus was quickly identified as the causative agent of the new coronavirus disease 2019 (COVID‐19)
+; moreover, due to the rapid global diffusion, WHO declared the pandemic status on 11 March 2020.
+The COVID‐19 related virus was classified as a betacoronavirus and, considering its close correlation to SARS‐CoV, it was renamed SARS‐CoV‐2.
+Low‐quality reads bases were trimmed out using Trimmomatic software,
+ using 13 different parameter sets (LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36, LEADING:3 TRAILING:3 SLIDINGWINDOW:4:20 MINLEN:36, LEADING:3 TRAILING:3 SLIDINGWINDOW:4:25 MINLEN:36, LEADING:3 TRAILING:10 SLIDINGWINDOW:4:15 MINLEN:36, LEADING:3 TRAILING:10 SLIDINGWINDOW:4:20 MINLEN:36, LEADING:3 TRAILING:10 SLIDINGWINDOW:4:25 MINLEN:36, LEADING:3 TRAILING:20 SLIDINGWINDOW:4:15 MINLEN:36, LEADING:3 TRAILING:20 SLIDINGWINDOW:4:20 MINLEN:36, LEADING:3 TRAILING:20 SLIDINGWINDOW:4:25 MINLEN:36, MAXINFO:50:0.3, MAXINFO:50:0.5, MAXINFO:50:0.7, MAXINFO:50:0.9).
+Then, single‐nucleotide polymorphism (SNP) calling was performed following the GATK Best Practice procedure,
+ using the Wuhan‐Hu‐1 strain genome (accession MN908947.3) as reference.
+A dataset of 41 genome assemblies of SARS‐CoV‐2 strains isolated in Italy between 20 February 2020 and 30 March 2020 was retrieved from Global Initiative on Sharing All Influenza Data (GISAID) database (Table S1).
+A global dataset including these 41 GISAID genome assemblies and the 20 genome assemblies generated in this study was produced and aligned using MAFFT.
+The 20 SARS‐CoV‐2 genome assemblies are available on the GISAD database (Table 1).
+Lombardy had the highest prevalence of COVID‐19 in Italy, thus being the likely epicenter of country outbreak.
+A phylogenetic analysis was conducted on 20 full‐length genomes from patients addressing to several Lombard hospitals (20 February to 4 April 2020), aligned with 41 Italian viral genome assemblies from GISAID database as of 30 March 2020.
+These amino‐acid changes appear to coexist, being always found together in the dataset, as well as present almost exclusively in GISAID 20B clade.
+Thereafter Lombardy has reported the highest prevalence of COVID‐19 cases in the country, especially in Milano, Brescia and Bergamo provinces.
+The aim of this study was to assess the potential presence of different viral clusters belonging to the six main provinces involved in Lombardy COVID‐19 cases in order to highlight peculiar province‐dependent viral characteristics.
+A phylogenetic analysis was conducted on 20 full length genomes obtained from patients addressing to several Lombard hospitals from February 20th to April 4th, 2020, aligned with 41 Italian viral genome assemblies available on GISAID database as of 30th March, 2020: two main monophyletic clades, containing 8 and 53 isolates, respectively, were identified.

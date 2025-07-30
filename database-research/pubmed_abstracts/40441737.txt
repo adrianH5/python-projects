@@ -1,0 +1,11 @@
+Artificial intelligence (AI) and machine learning (ML) are transforming cervical cancer research and offering advancements in diagnosis, prognosis, screening, and treatment.
+This review explores ML applications with particular emphasis on prediction models.
+A comprehensive literature search identified studies using ML for survival prediction, risk assessment, and treatment optimization.
+ML-driven prognostic models integrate clinical, histopathological, and genomic data to improve survival prediction and patient stratification.
+Screening methods, including deep-learning-based cytology analysis and HPV detection, enhance accuracy and efficiency.
+ML-driven imaging techniques facilitate early and precise cancer diagnosis, whereas risk prediction models assess susceptibility based on demographic and genetic factors.
+AI also optimizes treatment planning by predicting therapeutic responses and guiding personalized interventions.
+Despite significant progress, challenges remain regarding data availability, model interpretability, and clinical implementation.
+Standardized datasets, external validation, and cross-disciplinary collaborations are crucial for implementing ML innovations in clinical settings.
+Subsequent investigations should prioritize joint initiatives among data scientists, healthcare providers, and health authorities to translate AI innovations into real-world applications and to enhance the impact of ML on cervical cancer care.
+By synthesizing recent developments, this review highlights the potential of ML to improve clinical outcomes and shaping the future of cervical cancer management.

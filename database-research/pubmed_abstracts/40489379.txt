@@ -1,0 +1,11 @@
+When performing hepatectomy to treat liver tumors, accurately determining the resection margin and ensuring the adequacy of residual liver parenchyma are of utmost importance.
+At present, intraoperative ultrasound and indocyanine green fluorescence navigation are frequently utilized methods.
+However, certain technical constraints prevent their extensive application.
+We have developed the 3D-LAST technique for precise liver tumor resection.
+This technique makes use of computer post-processing to extract features from computed tomography (CT) scans and generate volumetric images, creating three-dimensional (3D) visualizations.
+This provides a valuable resource for clinical decision-making, as it can vividly display complex internal anatomical structures in an intuitive and stereoscopic manner.
+In this study, preoperative 3D positioning was carried out on patients with a single liver tumor to identify anatomical landmarks and calculate the resection range.
+During the surgical procedure, margin lines of lengths calculated by preoperative 3D software were set up, and silk thread was used to mark the edges.
+This approach offers a time-saving and accurate way to determine the optimal cutting plane.
+The objective of this article is to demonstrate the viability of applying 3D-LAST in laparoscopic segmentectomy for liver tumors.
+The results of the research indicate that 3D-LAST is a safe, effective, and practical new method for intraoperative liver navigation, and it has great potential for widescale promotion.

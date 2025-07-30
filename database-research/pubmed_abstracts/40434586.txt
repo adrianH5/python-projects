@@ -1,0 +1,12 @@
+Fibromyalgia (FM) is a chronic disorder that lacks both well-defined underlying causes and effective treatments.
+Mito-TEMPO (MIT) is a mitochondrial-specific antioxidant that has demonstrated benefits in many cancerous, renal, cardiovascular, and neurodegenerative disorders.
+However, the therapeutic effect of MIT on FM remains ambiguous.
+The objective of the current work is to illuminate the use of MIT for FM and its prospective mechanisms.
+Here, we used the FM rat model induced by three days of subcutaneous reserpine injection (1 mg/kg) and examined the role of MIT on SIRT1 activation and other implicated molecular pathways.
+Behavioral tests showed that MIT (0.7 mg/kg) can effectively alleviate the locomotor, nociceptive, and depressive-like behaviors in reserpinized rats, an effect that simultaneously reconciles the balance of monoamines in the rat brain.
+Western blot analysis showed that MIT up-regulates SIRT1 and improves the expression of mitochondrial dynamics proteins (DRP1 and OPA1) and the endoplasmic reticulum protein (CHOP).
+Furthermore, MIT treatment significantly enhanced the SOD and CAT activities and decreased the brain contents of NF-κB, TNF-α, and BAX, but significantly enriching the Bcl-2 content.
+Lastly, MIT treatment significantly reduced the genetic expression of miRNA-320 following RES treatment.
+All the measured parameters showed a significant correlation with SIRT1 expression.
+Our results suggest that MIT provides antioxidant, anti-apoptotic, and anti-inflammatory impacts on the FM rat model, with proposed mechanisms involved activating the SIRT1 pathway to regulate mitochondrial dynamics, endoplasmic reticulum stress, as well as miRNA-320.
+Thus, MIT has the potential to be an effectual drug candidate for FM treatment.

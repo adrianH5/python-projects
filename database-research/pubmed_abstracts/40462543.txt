@@ -1,0 +1,9 @@
+Cancer detection through circulating tumor cell (CTC)-based liquid biopsy has been expected to be a new modality for less-invasive, next-generation diagnosis.
+However, due to limitations such as the complexity of the cell capture devices, as well as the cost and reproducibility of their fabrication and surface functionalization, these methods are not yet practical for clinical use.
+In this study, we propose a new strategy for affinity-based selective capture of cancer cells using a microfluidic system integrating nanoengineered polymeric structures.
+Polycarbonate (PC) sheets with closely assembled microcone arrays were prepared using thermal nanoimprint lithography (T-NIL).
+These structures are suitable for mass production and can strongly absorb antibodies without the need for chemical linkers.
+Microgap channels incorporating the microcones were formed by simply sandwiching the sheet between two plates, which were highly functional in capturing cancer cells from blood samples.
+In this study, we clarified the effect of the orientation angle of the microcone array in a closely packed hexagonal pattern to ensure high capture efficiency even under high flow-rate conditions.
+The feasibility of detecting cancer cells through post-capture processing was also demonstrated.
+The cell capture structures proposed in this study are simple and reproducible in their fabrication, highly productive, and practical, and may become a new tool for cell-based cancer diagnosis.

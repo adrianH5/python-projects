@@ -1,0 +1,7 @@
+Widespread herpesvirus infections are associated with various diseases.
+DNA replication of human herpes simplex virus type 1 (HSV-1) requires a helicase-primase (HP) complex of three core proteins: UL5, UL52, and UL8.
+This complex unwinds viral DNA and synthesizes primers for DNA replication, making it an attractive antiviral target.
+Although HP inhibitors pritelivir and amenamevir were identified through screening, their binding mechanisms remain unclear.
+Here, we report cryo-EM structures of HSV-1 HP bound to a forked DNA template alone, and in complex with pritelivir or amenamevir.
+The structures reveal a bilobed architecture highlighting helicase-primase coordinated action at the replication fork and providing a structural basis for HP inhibition by illustrating precisely how pritelivir and amenamevir block helicase activity.
+Data lays a solid foundation for the development of improved antiviral therapies.

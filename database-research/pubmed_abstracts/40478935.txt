@@ -1,0 +1,6 @@
+Optimizing vaccine design to induce CD8 T cell responses has been challenging, but lipid nanoparticle (LNP)-encapsulated mRNA vaccines effectively generate CD8 T cell memory.
+Interleukin-12 (IL-12) supports CD8 T cell expansion and acquisition of effector function, but the role of IL-12 in the generation of CD8 T responses to mRNA vaccination is unclear.
+Here, we determine that endogenous IL-12 is not required for CD8 T cell responses to mRNA-LNP vaccination.
+We assessed the adjuvant activity of an mRNA-LNP encapsulating a codon-optimized mRNA that encodes both subunits of IL-12 (LNP-IL-12).
+Coadministration of LNP-IL-12 with ovalbumin (OVA) mRNA-LNPs enhanced CD8 T cell expansion and effector function and expanded circulating, effector, and tissue-resident memory CD8 T cells.
+LNP-IL-12 increased CD8 T cell responses against SARS-CoV-2 and influenza virus antigens and improved protection against

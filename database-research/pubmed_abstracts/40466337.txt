@@ -1,0 +1,9 @@
+The G protein-coupled receptor Smoothened (SMO) plays a pivotal role in embryonic development transducing the Hedgehog morphogen signal into the cell.
+Aberrant activation of the pathway is associated with various cancer types.
+Antagonizing SMO has been recognized as a therapeutic strategy exemplified by drugs such as vismodegib and sonidegib, but despite initial remission, cancer recurrence is frequent due to resistance mutations.
+Utilizing a structure-based design approach, we have identified three unprecedented chemotypes to antagonize SMO with potencies in the low micromolar range.
+In total, 67 compounds identified through molecular docking were assayed in four rounds with hit rates of 27% and 63% during hit identification, i.e.
+the first two rounds.
+Importantly, the potency of ligands with two of the chemotypes identified in this work is not strongly affected by the vismodegib resistance mutation D473G.
+The mutation affects potency and maximal inhibitory effect of these ligands only in a way similar to SANT-1, a SMO ligand unencumbered by the mutation.
+Our study thus shows a successful application of structure-based design for the discovery of novel SMO antagonist chemotypes.

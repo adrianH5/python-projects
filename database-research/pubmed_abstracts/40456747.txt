@@ -1,0 +1,4 @@
+TIM3, a T-cell inhibitory receptor, is expressed on exhausted T cells in the TME.
+Progressive loss of IL2-secretion is an early sign of diminished effector function in TILs, which raises the possibility of IL2 loss driving exhaustion of TILs.
+We show that endogenous IL-2 is required for the antitumor effect of anti-TIM3.
+Selective delivery of IL-2 to TIM3

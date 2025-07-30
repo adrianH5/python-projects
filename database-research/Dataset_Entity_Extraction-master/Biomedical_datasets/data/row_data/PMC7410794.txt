@@ -1,0 +1,4 @@
+Subsequently, the virus spread globally causing a pathological condition which was termed as coronavirus disease 2019 (COVID-19), and the pathogen was named as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+The synonymous codon usage data of human, dog, cat, pig, horse and cattle were retrieved from the codon usage database (http://www.kazusa.or.jp/codon/), whereas for bat, the sequence of Pteropus vampyrus (NW_011888782) was retrieved from NCBI (https://www.ncbi.nlm.nih.gov) and by using online program ‘Countcodon’ (available at: http://www.kazusa.or.jp/codon/countcodon.html) the reference codon usage table for bat was prepared.
+Another web-based tool was used to obtain the tRNA database (GtRNAdb: Genomic tRNA database).
+Higher average CAI values of human compared to dog observed in the present study indicated that dog is less susceptible to COVID 19 than human.

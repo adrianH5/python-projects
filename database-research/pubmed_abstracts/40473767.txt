@@ -1,0 +1,8 @@
+Large language models (LLMs) are transforming the landscape of healthcare research, yet their role in qualitative analysis remains underexplored.
+This study compares human-led and LLM-assisted approaches to analyzing cancer patient narratives, using 33 semi-structured interviews.
+We conducted three parallel analyses: investigator-led thematic analysis, ChatGPT-4o, and Gemini Advance Pro 1.5.
+The investigator-led approach identified psychosocial and emotional themes, while the LLMs highlighted structural, temporal, and logistical aspects.
+LLMs demonstrated efficiency in identifying recurring patterns but struggled with emotional nuance and contextual depth.
+Investigator-led analysis, while time-intensive, captured the complexities of identity disruption and emotional processing.
+Our findings suggest that LLMs can serve as complementary tools in qualitative research, enhancing analytical breadth when paired with human interpretation.
+This study proposes a hybrid model integrating AI-assisted and human-led methods and offers practical recommendations for responsibly incorporating LLMs into qualitative health research.

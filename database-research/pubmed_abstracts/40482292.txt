@@ -1,0 +1,9 @@
+Multiple myeloma (MM) is an aggressive hematologic malignancy arising from plasma cell (PC) proliferation in the bone marrow, progressing from its precursor states MGUS and SMM.
+Despite therapeutic advances, MM remains incurable, underscoring the need for better risk stratification and early detection.
+Tumor heterogeneity and dynamic immune microenvironment changes drive progression, yet bulk analyses overlook rare subpopulations critical to disease evolution and resistance.
+This study employed multiplexed targeted proteomics to characterize bone marrow aspirates (BMA) from 22 patients to observe the change in the distribution of PCs and tumor immune microenvironment (TiME) cells across MM disease states and controls.
+Bone marrow samples were processed, stained with a 29-metal-labeled antibody panel, and analyzed using computational clustering approaches.
+Clustering of PCs revealed changes in subtypes with disease progression, marked by shifts from CD45-positive/CD138-low subpopulations in precursor states to CD45-negative/CD138-high populations in advanced MM.
+Analysis of the TiME identified distinct immune phenotypes, with significant reductions in monocyte/macrophage and lymphoid clusters across MM states compared to controls.
+Notably, a distinct PC cluster enriched in NDMM and RRMM exhibited high BCMA and CD138 expression, suggesting a potential role in disease progression.
+These findings provide critical insights into MM evolution and immune landscape alterations, with implications for targeted therapeutic strategies.

@@ -1,0 +1,6 @@
+Effective stratification of cancer patients is critical yet challenging for evaluating therapeutic strategies.
+In this study, we designed a competitive, modular fluorescent probe targeting the oncogenic epidermal growth factor receptor (EGFR) kinase.
+This probe specifically inhibits EGFR kinase activity in a dose-dependent manner, selectively labels EGFR-overexpressing cells in flow cytometry, and sensitively binds to EGFR oncogenic mutants.
+Utilizing probe-based cytometry to subtype urine samples from prostate cancer patients, we discovered that samples with overexpressed wild-type EGFR did not respond sensitively to the probe, aligning with findings from an early multi-center clinical study.
+Notably, one sample with low EGFR expression exhibited the highest sensitivity to the probe, leading to the identification of three non-characterized mutations, including the activating mutation V745M, on the EGFR kinase.
+This case involved a tumor that had progressed to the castration-resistant metastatic stage.

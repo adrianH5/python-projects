@@ -1,0 +1,10 @@
+Malignant gliomas (MGs) are among the most aggressive primary brain tumors, characterized by a high degree of resistance to therapy and poor prognosis.
+In this work, we develop a mathematical model to investigate the dynamics of MG under the combined effects of chemotherapy and chimeric antigen receptor cell therapy.
+The proposed model is a five-dimensional dynamical system incorporating impulsive inputs that correspond to the clinical administration of chemotherapy and immunotherapy.
+We demonstrate the non-negativity of solutions for non-negative initial conditions, ensuring the biological relevance of the model.
+We show that if we apply both therapies only once, the trajectories are attracted to an invariant surface corresponding to the tumor carrying capacity.
+Conversely, under constant administration of both treatments, we identify parameter ranges in which tumor eradication is achievable.
+Furthermore, we numerically study various treatment combinations to determine optimal protocols at the population level.
+To this end, we generate a cohort of 104 virtual patients with model parameters sampled uniformly within clinically relevant ranges and carry out in silico trials.
+Our findings indicate that tumor growth rate, chemotherapy efficacy, and tumor-induced immunosuppression are the key determinants of survival outcomes.
+We believe that our results provide new theoretical insights into treatment optimization and offer a framework for refining the design of clinical trials for MG therapies.

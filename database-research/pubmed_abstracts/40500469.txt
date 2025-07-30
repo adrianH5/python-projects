@@ -1,0 +1,6 @@
+Hematopoietic stem and progenitor cells (HSPCs) polarize in contact with the bone marrow stromal cells constituting their niche.
+Given the role of cell polarity in protection against tumorigenesis and the importance of the niche in the progression of acute myeloid leukemias (AMLs), we investigated the polarization capacities of leukemic blasts.
+Using engineered micro-niches and centrosome position with respect to the contact site with stromal cells as a proxy for cell polarization, we show that AML cell lines and primary cells from AML patient blasts are unable to polarize in contact with healthy stromal cells.
+Exposure to AML patient-derived stromal cells compromises the polarization of healthy adult HSPCs and AML blasts from patients.
+When cultured in "bone-marrow-on-a-chip", stromal cells from a leukemic niche stimulate the migration of healthy HSPCs and AML blast.
+These results reveal the detrimental influences of both intrinsic transformation and extrinsic contact with transformed stromal cells on the polarization of AML blasts.

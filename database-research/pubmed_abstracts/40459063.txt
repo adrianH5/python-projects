@@ -1,0 +1,12 @@
+There are currently no effective treatments available for clear cell ovarian cancer (CCC).
+In this study, we aimed to identify effective drugs for CCC through high-throughput drug screening (HTDS) using ovarian cancer organoids and determine novel therapeutic targets based on the biological characteristics of CCC through omics analysis.
+An ovarian cancer organoid biobank was established, and HTDS was conducted using CCC organoids based on libraries of 361 and 4,560 compounds.
+The efficacy of the identified drugs was verified in in vitro and in vivo experiments using a patient-derived organoid xenograft mouse model.
+Transcriptome analysis was performed to identify genes related to the pathways targeted by the identified drugs in CCC and to assess their potential as therapeutic targets.
+Proteasome inhibitors and dinaciclib were extracted using HTDS and shown to inhibit tumorigenesis in vitro and in vivo.
+CCC, like multiple myeloma, exhibited activated endoplasmic reticulum (ER) stress and unfolded protein response (UPR), and treatment with proteasome inhibitors further enhanced ER stress and UPR, ultimately leading to cell death.
+Transcriptome analysis identified anterior gradient-2 (AGR2) as a key gene involved in UPR in CCC.
+CRISPR knockout of AGR2 suppressed cell proliferation, increased sensitivity to proteasome inhibitors, and reversed platinum resistance in CCC.
+AGR2 knockout also upregulated Schlafen 11, contributing to platinum sensitivity.
+ER stress and the UPR are activated in CCC, and proteasome inhibitors disrupt this balance, ultimately leading to cell death.
+AGR2 may serve as a potential therapeutic target in CCC.

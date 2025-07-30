@@ -1,0 +1,10 @@
+The global reliance on Bacillus thuringiensis (Bt) proteins for controlling lepidopteran pests in cotton, corn, and soybean crops underscores the critical need to understand resistance mechanisms.
+Vip3Aa, one of the most widely deployed and currently effective Bt proteins in genetically modified crops, plays a pivotal role in pest management.
+This study investigates the molecular basis of Vip3Aa resistance in Australian Helicoverpa armigera through genetic crosses, and integrated genomic and transcriptomic analyses.
+We identified a previously uncharacterized gene, LOC110373801 (designated HaVipR1), as potentially important in Vip3Aa resistance in two field-derived resistant lines.
+Functional validation using CRISPR/Cas9 knockout in susceptible lines confirmed the gene's role in conferring high-level resistance to Vip3Aa.
+Despite extensive laboratory selection of Vip3Aa-resistant colonies in Lepidoptera, the biochemical mechanisms underlying resistance have remained elusive.
+Our research identifies HaVipR1 as a potential contributor to resistance, adding to our understanding of how insects may develop resistance to this important Bt protein.
+The identification of HaVipR1 contributes to our understanding of potential resistance mechanisms and may inform future resistance management strategies.
+Future work should explore the biochemical pathways influenced by HaVipR1 and assess its interactions with other resistance mechanisms.
+The approach utilized here underscores the value of field-derived resistant lines for understanding resistance in agricultural pests and highlights the need for targeted approaches to manage resistance sustainably.

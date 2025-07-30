@@ -1,0 +1,5 @@
+One of the major debilitating side effects of cancer chemotherapy is neuropathic pain, which results from abnormal neural signaling and significantly diminishes patients' quality of life.
+Paclitaxel (PT), a widely used chemotherapeutic agent, induces peripheral nerve degeneration, leading to the development of painful neuropathy.
+In this study, PT was used to establish a mouse model of chemotherapy-induced peripheral neuropathy.
+Hyperpolarization-activated cyclic nucleotide-gated (HCN) channels play a key role in regulating neuronal pacemaker activity.
+The HCN current (I

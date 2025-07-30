@@ -1,0 +1,5 @@
+Glioblastoma is a highly aggressive and difficult-to-treat brain cancer that resists conventional therapies.
+Recent advances in chimeric antigen receptor (CAR) T-cell therapy have shown promising potential for treating glioblastoma; however, achieving optimal efficacy remains challenging due to tumor antigen heterogeneity, the tumor microenvironment, and T-cell exhaustion.
+In this study, we developed a mathematical model of CAR T-cell therapy for glioblastoma to explore combinations of CAR T-cell treatments that take into account the spatial heterogeneity of antigen expression.
+Our hybrid model, created using the multicellular modeling platform PhysiCell, couples partial differential equations that describe the tumor microenvironment with agent-based models for glioblastoma and CAR T-cells.
+The model captures cell-to-cell interactions between the glioblastoma cells and CAR T-cells throughout treatment, focusing on three target antigens: IL-13R

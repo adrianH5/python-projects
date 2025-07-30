@@ -1,0 +1,6 @@
+Mechanical-force-induced redox catalysis has emerged as a green and expeditous approach in synthetic chemistry, relying on single-electron transfer from polarized piezoelectric materials to substrates initiated by mechanical agitation.
+However, the piezoelectric potential generated can sometimes be insufficient to activate the electron transfer process, similar to the limitations observed in photocatalytic reactions.
+In this work, we introduce a catalytic strategy employing a consecutive mechanical-force-induced electron transfer (ConMET) strategy.
+This strategy uses piezoelectric materials as mechanochemical redox catalysts with 9-phenyl-dihydroacridine as a sacrificial electron donor, enabling efficient consecutive electron transfer.
+Our method effectively reduces aryl iodides, bromides, and even electron-rich aryl chlorides, which possess reduction potentials as high as -2.8 V (vs. SCE), leading to the formation of aryl radicals.
+Ultimately, this strategy facilitates anti-Markovnikov hydroarylation of alkenes and dehalogenative deuteration of aromatic halides under mild conditions.

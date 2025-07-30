@@ -1,0 +1,5 @@
+The features of the 507 human samples in our dataset were used to show the patterns with the multidimensional scaling method.
+Based on the GGAP (g = 3) feature, we computed the Euclidean distance of SARS-CoV-2 and SARS-CoV from other coronaviruses in the dataset to explore the evolution dynamic, separately.
+With the improvement of annotation in the database, the false rate could be reduced [19].
+Moreover, we computed the Euclidean distance of SARS-CoV-2 and SARS-CoV from other coronaviruses in the dataset to explore the evolution dynamic.
+The nomenclature for coronavirus in the dataset is provided as Additional file 1.

@@ -1,0 +1,3 @@
+The accurate diagnosis of lymph node metastasis in esophageal squamous cell carcinoma is crucial in the treatment workflow, and the process is often time-consuming for clinicians.
+Recent deep learning models predicting whether lymph nodes are affected by cancer in esophageal cancer cases suffer from challenging node delineation and hence gain poor diagnosis accuracy.
+This paper proposes an innovative multi-task and multi-scale attention network (M

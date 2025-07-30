@@ -1,0 +1,58 @@
+Since its emergence, the 2019 strain of coronavirus (hereafter COVID-19) has been a rising international cause of morbidity and mortality.
+This global devastation is partly explained by the nature of viral transmission; the median incubation time from COVID-19 infection to the appearance of symptomatic dyspnea ranges from four to seven days, creating a large window of time for transmission during which patients have few symptoms (Guan et al., 2020; Huang et al., 2020).
+Almost all COVID-19 patients who develop ARDS require mechanical ventilation; these patients tend to remain ventilator dependent for 10–14 d, and most ventilated patients ultimately succumb to the disease (Bhatraju et al., 2020; Wu et al., 2020).
+There is a compelling case for innate immune hyperactivity in driving the acute lung injury that defines severe COVID-19 infections.
+Both DAMPs and PAMPs are likely generated during initial infection and lysis of pneumocytes by COVID-19.
+Significant evidence indicates that a dysregulated innate immune response contributes to the clinical presentation of patients with severe COVID-19 infections.
+COVID-19–infected patients harbor an expanded population of circulating monocytes that secrete both IL-6 and IL-1β (Wen et al., 2020
+Preprint; Zhang et al., 2020
+Preprint); as a result, patients with COVID-19 have elevated levels of serum IL-6, as well as lactate dehydrogenase levels, compared with healthy controls (Chen et al., 2020a).
+These elevations in innate immune cytokines have led to the hypothesis that an innate immune-mediated “cytokine storm,” similar to the cytokine release syndrome (CRS) observed in patients receiving treatment with chimeric antigen receptor–transduced T cells (CAR-T), is primarily responsible for the toxicity and end-organ damage mediated by COVID-19 infections (Grupp et al., 2013; Mehta et al., 2020).
+A role for cytokine-driven neutrophil mobilization in COVID-associated lung toxicity may explain why neutrophilia, despite the absence of secondary bacterial infections, is associated with mortality (Lagunas-Rangel, 2020), and why administration of monoclonal antibodies targeting IL-6 has shown initial clinical promise (Gritti et al., 2020).
+However, caution is warranted before invoking IL-6–mediated CRS as the sole pathological driver in severe COVID-19 infections.
+First, COVID-19 patients lacks most of the hallmarks of CRS, including hypotension, capillary leak syndrome, and neurotoxicity (Hay et al., 2017).
+Second, the clinical course of CRS is far more acute than that seen in COVID-19 infections, with fever occurring within 2 d and neurotoxicity within 5 d (Neelapu et al., 2018).
+Accordingly, serum IL-6 levels are far lower in COVID-19 infections than in CRS, with peak levels typically less than 100 pg/ml in COVID-19, compared with 1,000–10,000 pg/ml in CRS (Chen et al., 2020a; Maude et al., 2014).
+Third, deaths in COVID-19–infected patients appear to be due to primary respiratory failure, rather than from distributive shock or status epilepticus, as was predominantly seen in CRS-associated deaths (Lee et al., 2014).
+Perhaps most importantly, the clinical results of therapeutic blockade of circulating IL-6 with tocilizumab or siltuximab are thus far mixed; one clinical trial showed evidence of improvement in 33% of patients, at least suggesting that in many cases, a hyperinflammatory response is not primarily responsible for COVID-19–associated morbidity and mortality (Gritti et al., 2020).
+In the case of viral infections such as COVID-19, however, macrophage activation is occurring as a primary response to viral infection (Tate et al., 2016).
+It is also worth noting that while many arms of the innate immune response are potently activated by COVID-19, the type I and type III interferon response appears to be muted in response to COVID-19 infection (Blanco-Melo et al., 2020
+Preprint), suggesting that some aspects of the innate immune response to COVID-19 might actually benefit from careful amplification (Kotenko et al., 2003).
+Regardless of whether innate immune-mediated toxic inflammation contributes to COVID-19–related morbidity and mortality, it is clear that viral dissemination is a key driver of severe disease.
+The rare histopathologic specimens obtained either postmortem or via liver or kidney biopsy in COVID-19–infected patients have almost universally revealed the presence of inclusion bodies, consistent with viral persistence (Chen et al., 2020
+Preprint; Diao et al., 2020
+Preprint; Yao et al., 2020).
+What is permitting viral dissemination in patients who succumb to COVID-19 infections?
+Is the clinical toxicity observed during COVID-19 infection a product of adaptive immune hyperactivity or suppression?
+The clinical presentation of COVID-19 infection is more consistent with a subacute rather than an acute viral illness.
+Compared with H1N1 influenza infections, in which the median incubation time was 2 d and the majority of intensive care unit admissions occurred within 24–48 h of admission (Bautista et al., 2010), COVID-19–infected patients present to the hospital with a median incubation time of 5–7 d and are typically hospitalized for an additional 3–4 d before requiring intensive care unit admission and/or mechanical ventilation (Huang et al., 2020).
+This subacute pattern of progression raises the possibility that immunosuppression, due both to T cell depletion and exhaustion, contributes to COVID-19 viral persistence and mortality.
+Lymphopenia is the most consistent laboratory abnormality in COVID-19–infected patients.
+Notably, progressive lymphodepletion is observed in patients who clinically deteriorate during COVID-19 infection, whereas recovery of lymphocyte counts tends to directly precede clinical recovery (Chen et al., 2020
+Preprint).
+Similar to T cells from both mice and humans with chronic viral infections (Day et al., 2006; Fisicaro et al., 2017; Wherry et al., 2007), both lung-resident and circulating T cells from COVID-19 patients potently up-regulate markers of T cell exhaustion, including PD-1 and Tim-3 (Diao et al., 2020
+Preprint).
+T cells from severe COVID-19 patients exhibit transcriptional hallmarks of terminal T cell exhaustion including expression of CCL4 and GZMB; notably, the most expanded T cell population in the bronchoalveolar lavage of severe COVID-19 patients is marked by expression of MKI67 and TYMS, genes that are specifically up-regulated in terminally exhausted CD8+
+Conversely, single-cell sequencing of peripheral blood mononuclear cells of patients recovering from COVID-19 infection shows signs of clonal expansion, T cell activation, and T cell memory formation, consistent with an effective adaptive immune response (Wen et al., 2020
+Preprint).
+T cells to inflammation and lung pathology; indeed, it is worth noting that many markers of T cell exhaustion are also up-regulated in effector T cells, and lung-infiltrating T cells from more mild COVID infections significantly up-regulated genes related to T cell activation.
+A role for the adaptive immune system in suppressing COVID-19 viral dissemination may explain the association of COVID-19 disease severity with age.
+A smaller, more restricted T cell repertoire is likely more prone to antigen-mediated exhaustion during chronic viral infections; conversely, the relatively diverse and expanded pool of naive T cells may explain the relatively diminished severity of COVID-19 infections in children (Xu et al., 2020b).
+In stark contrast to COVID-19, H1N1 occurred frequently and caused significant morbidity in children; of note, H1N1 infection caused lymphopenia in the majority of pediatric patients (Rhim et al., 2011).
+Therapeutically, high-dose glucocorticoids are the only strategy used thus far to modulate the adaptive immune system of COVID-19 patients.
+One commonly used therapeutic strategy in severe viral infections, but not yet in COVID-19–infected patients, is the use of antioxidants such as N-acetylcysteine (N-Ac).
+Is there a way to therapeutically balance immune toxicity and immunosuppression to improve outcomes in COVID-19–infected patients?
+To answer to this question, we require a deeper understanding of both innate and adaptive immune evolution over the course of COVID-19 illness.
+To this end, there is a need to obtain serial peripheral blood, and, when technically feasible and clinically appropriate, bronchoalveolar lavage samples over the course of COVID-19 infection and clearance.
+The answer to this question will have key implications for the appropriate design of clinical trials aimed as modulating the anti-COVID immune response.
+Longitudinal assessment of anti-COVID immune responses is particularly important in the setting of therapeutic interventions, both antiviral and immune-targeted.
+For example, patients who respond to IL-6 blockade have a parallel improvement in lymphocyte counts (Xu et al., 2020a
+Preprint), suggesting that in some cases, COVID-19–associated lymphopenia may be a product of bystander inflammation (Stelekati et al., 2014).
+Longitudinal sampling of COVID-19–infected patients with either inherent or iatrogenic disruption of host immunity may help identify specific regulators of the anti-COVID immune response (Box 2).
+Second, patients with solid organ transplants require ongoing T cell immunosuppression, offering an opportunity to explore the contribution of the T cell–dependent immune response to COVID-19.
+In either early or late disease, an effective humoral response is a key contributor to viral clearance; here, we draw particular attention to the promise of treating infected patients with serum from convalescent patients that is rich in immunoglobulins targeting COVID-19 (Duan et al., 2020).
+4.
+This Perspective explores the contributions of the innate and adaptive immune systems to both viral control as well as toxicity during COVID-19 infections and offers suggestions to both understand and therapeutically modulate anti-COVID immunity.
+Compared with recent viral outbreaks, COVID-19 infection has a relatively high mortality rate, the reasons for which are not entirely clear.
+Furthermore, treatment options for COVID-19 infection are currently limited.
+In this Perspective, we explore the contributions of the innate and adaptive immune systems to both viral control as well as toxicity during COVID-19 infections and offer suggestions to both understand and therapeutically modulate anti-COVID immunity.

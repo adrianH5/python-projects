@@ -1,0 +1,9 @@
+Due to the absence of effective biomarkers, the precision therapy of head and neck squamous cell carcinoma (HNSCC) still faces challenge.
+TP53 is one of the most frequently mutated genes in human cancers including HNSCC.
+Although studies on the regulation of TP53 gene and p53 protein have been extensively explored, the association of TP53-derived circRNAs with HNSCC progression, along with their regulatory mechanisms, remains unknown.
+This study identifies a novel circRNA derived from TP53 (circTP53), which is upregulated in HNSCC and associated with poor prognosis.
+It is demonstrated that circTP53 promotes HNSCC progression in vitro and in vivo.
+Mechanistically, circTP53 interacts with the deubiquitinase USP10, leading to their mutual stabilization, which enhances USP10's deubiquitinating activity on p53, thereby stabilizing p53.
+Interaction analysis reveals that intron 9 of circTP53 interacts with 100-399AA of USP10.
+In tumor cells with wild-type p53, circTP53 suppresses cell viability and inhibits the growth of xenograft tumors, while in tumor cells harboring mutant p53, circTP53 demonstrates the opposite effect, enhancing cell viability and promoting xenograft tumor progression.
+The identification of circTP53 suggests a new direction for p53 research, and the elucidation of circTP53/USP10/p53 axis may provide a new therapeutic scheme for future precision treatment of HNSCC.

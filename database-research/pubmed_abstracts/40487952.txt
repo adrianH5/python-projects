@@ -1,0 +1,3 @@
+Colorectal cancer (CRC) is the third-most prevalent cancer and the cancer with the second-highest mortality rate worldwide, representing a high public health burden.
+Deep learning (DL) offers advantages in the diagnosis, identification, localization, classification and prognosis of CRC patients.
+However, few bibliometric analyses of research hotspots and trends in the field have been performed.

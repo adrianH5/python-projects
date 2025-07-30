@@ -1,0 +1,3 @@
+Drug combination therapy is an effective strategy for cancer treatment, enhancing drug efficacy and reducing toxic side effects.
+However, in vitro drug screening experiments are time-consuming and expensive, necessitating the development of computational methods for drug synergy prediction.
+While current methods focus on molecular chemical structures, they often overlook the biological context, limiting their ability to capture complex drug synergies.

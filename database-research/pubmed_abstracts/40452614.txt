@@ -1,0 +1,11 @@
+Radiotherapy is recommended for G2-G3 large soft tissue sarcoma in association with radical wide excision in order to improve the local control of disease, but side-effects may develop early after radiation invalidating wound healing.
+We retrospective evaluated short- and long-term clinically relevant outcomes after surgery of limb STS with or without radiotherapy.
+All 243 patients with limb STS treated at the Veneto Institute Oncology (Padua, Italy) in 2015-2022 were retrospectively included.
+Outcome measures were short- and long-term wound complications, length of hospital stay and outpatient care time.
+Multivariable analyses were performed using linear regression models and logistic regression models.
+Overall, 87 patients received neoadjuvant radiotherapy, 64 received adjuvant radiotherapy and 92 underwent surgery alone.
+At short-term, multivariable analysis identified neoadjuvant radiotherapy as a risk factor for prolonged length of hospital stay (MD 6.4 days, 95%CI 3.9 to 9.0 days) and short-term wound complications (OR 3.45, 95%CI 1.82 to 6.62).
+At long-term, neoadjuvant radiotherapy was a risk factor for long-term wound complications (OR 4.87, 95%CI 2.48 to 9.84), and longer outpatient care time (MD 83 days, 95%CI 41 to 126 days); similarly, adjuvant radiotherapy was also a risk factor for long-term complications (OR 5.20, 95%CI 2.57 to 10.95) and longer outpatient care time (MD 62 days, 95%CI 19 to 106 days).
+Radiotherapy in limb STS was associated with impaired short- and long-term clinically relevant outcomes, potentially affecting quality of life and healthcare costs.
+Balancing with its well-known oncological benefits, new clinical strategies are needed to contain cutaneous radiogenic side effects.
+The use of negative pressure therapy can play a key role in the prevention of wound complications in oncological patients.

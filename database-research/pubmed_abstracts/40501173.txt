@@ -1,0 +1,7 @@
+Gene therapy (GT) and photodynamic therapy (PDT) present promising approaches for cancer treatment.
+However, GT is frequently impeded by the lysosomal capture of nucleic acids, while PDT is constrained by low oxygen levels in tumors.
+Herein, we reported the design of a versatile block polyester vector, BFN2, which comprises of a photosensitizer BODIPY (B), an oxygen carrying perfluorinated carbon chain (F) as well as a GSH-responsive and RNA-condensing [12]aneN3 (N) moiety.
+In the presence of DOPE (D) and DSPE-PEG-iRGD (R), BFN2 is able to carry oxygen and condense HIF-1α siRNA efficiently and afford hybrid nanoparticles BFN2-DR/HIF-1α siRNA@O₂.
+These combined functionalities work together to reverse tumor hypoxia, remodel the tumor microenvironment, and allow for the efficient lysosomal escape of nucleic acids, thereby significantly boosting the efficacy of PDT and GT in solid tumors.
+In vitro and in vivo studies demonstrated that the BFN2-DR/HIF-1α siRNA@O₂ nanoplatform significantly exhibited substantial inhibitory effects in 4T1 tumors with TGI up to 87%.
+This research marks the first-in-class integration of such multi-modality therapeutic strategies within a single block polymeric vector, thus offering a novel perspective for developing effective oncological treatment paradigms.

@@ -1,0 +1,8 @@
+The diverse landscape of immune cell populations significantly influences therapeutic outcomes in advanced gastric cancer, a leading cause of cancer mortality worldwide.
+Progress in immunopharmacology, aided by single-cell analytics, increasingly highlights immune complexity and functional heterogeneity.
+Conventional categories contain diverse subsets, including various T cells (helper, regulatory, memory) and B cells (plasma, memory, regulatory).
+Innate immune cells like macrophages, natural killer cells, and dendritic cells also exist in various functional states.
+These subsets exhibit distinct pharmacological response profiles that are often obscured by bulk analyses.
+This review explores the differential responses of critical immune cell subsets within the gastric cancer tumor microenvironment to current therapeutic modalities, encompassing cytotoxic chemotherapy, molecular targeted agents, and immunotherapies such as checkpoint inhibitors.
+We delve into the molecular processes underlying subset-specific drug effects, potential mechanisms of therapeutic resistance linked to specific immune cell states, and the influence of the tumor microenvironment on immune subset pharmacology.
+Furthermore, we discuss the application and potential of nanoparticle-based drug delivery systems specifically engineered to target distinct immune cell subpopulations, aiming to enhance immunomodulatory efficacy, reshape subset repertoires favorably, overcome resistance, and minimize toxicity for more precise and effective treatment of advanced gastric cancer.

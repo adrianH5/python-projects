@@ -1,0 +1,9 @@
+Wide local excision (WLE) is the standing surgical choice for acral lentiginous melanoma (ALM), yet research is scarce in evaluating other surgical options for ALM and its recurrence rates remain two to five times more likely than other melanoma subtypes.
+This study evaluates the overall survival outcomes associated with different surgical modalities in patients with stage 0-II ALM.
+This retrospective cohort study surveyed the National Cancer Database from 2004 to 2021 for International Classification of Diseases-10 codes specific for all skin structures with histologically confirmed ALM for stage 0-II patients.
+Using IBM SPSS, statistical analyses were conducted via variable frequency with crosstabulations and Chi-squared tests, Kaplan-Meier survival curves with log-rank pairwise comparisons, and Cox proportional hazards regression models.
+Data for 6737 patients showed significantly greater overall survival for biopsy followed by gross excision (BFGE) than WLE [median overall survival = 204.8 months (P < 0.001); hazard ratio = 0.77 (95% confidence interval, 0.68-0.87)].
+Median overall survival for WLE was 181.6 months.
+Cross analysis of Breslow depth (BD) with surgical procedures revealed the majority (21.8%) of WLEs were completed for lesions with a BD of 0.1-5 mm followed by 16.8% for lesions greater than 3 cm (P < 0.001).
+Crossanalysis of surgical margins of the primary site with surgical procedures, showed no residual tumor in 92.1% of all BFGE patients, which is 3.7% and 3.3% less patients than major amputation and WLE.
+This study highlights significant differences across ALM surgery options, suggesting each modality has their own niche and BFGE should be investigated further.

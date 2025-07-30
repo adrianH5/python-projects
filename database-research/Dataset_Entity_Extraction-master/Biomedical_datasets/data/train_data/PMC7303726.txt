@@ -1,0 +1,7 @@
+We are seeing that even in epidemics from an infectious agent like COVID-19, there are differing clinical phenotypes that lead to MODS, requiring changes in therapeutic course (14, 15).
+Using only the first of the paired-end reads, we performed bacterial and viral read mapping with kraken2-2.0.7-beta (61) used against the full transcriptome database of the tool downloaded on June 24, 2019.
+Samples were normalized to every million mapped reads to human and clustered based on patient ID.
+Using GTEx (28) tissue annotated expression data sets, we filtered for genes that are unique to each tissue/organ.
+All sex-specific organs were removed from the database to begin.
+While reads align to some of these transcriptomes, reads may belong to closely related species not within our transcriptome database.
+This is further exemplified by viral outbreaks, such as COVID-19, that show selectivity in age- and sex-related vulnerability and inflammatory phenotypes leading to differences in presentation, severity, and management (14, 17).

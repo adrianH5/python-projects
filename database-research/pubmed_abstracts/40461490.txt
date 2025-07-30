@@ -1,0 +1,7 @@
+HIV-1 Env glycoprotein (Env) immunogenicity is limited in part by structural instability and extensive glycan shielding and is likely the greatest obstacle to an HIV-1 vaccine.
+Stabilized Env trimers can elicit serum neutralizing antibodies, but the response is short-lived.
+Here we use Newcastle Disease Virus-like particle (NDV-VLP) platform to present stabilized versions of HIV-1 Env at high valency and in the context of varied conformational stability, adjuvants, dose, and antigen persistence.
+Influenza virus hemagglutinin, or SARS-CoV2 Spike-bearing VLPs rapidly induce neutralizing antibodies, in contrast, they were not induced by those bearing Env.
+A replicating adenovirus type 4 expressing Env rapidly induces autologous neutralizing antibodies.
+However, durable neutralizing antibodies are induced only when multiple features of a replicating virus infection are combined, with the largest impact from dose and escalating dose.
+In summary, we show here immunogenicity of HIV-1 Env could be improved by reproducing features of virus infection.

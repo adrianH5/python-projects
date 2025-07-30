@@ -1,0 +1,10 @@
+The rHCoVs-OC43 50% tissue culture infectious dose (TCID50) was determined by indirect immunofluorescence assay (IFA) according to a previously described method (Reed, 1938).
+Additionally, rOC43-ns2DelRluc (100 TCID50) showed pathogenicity in BALB/c mice, which exhibited neurological symptoms identical to those caused by the parental virus after intracerebral inoculation (Shen et al., 2016).
+Therefore, these two mouse strains were infected with 104 TCID50 of rOC43-ns2DelRluc or HCoV-OC43-WT by intranasal inoculation in order to determine its infection of the respiratory tract in vivo.
+However, in the present study, we found that both BALB/c or C57BL/6 suckling mice (<12-days old) infected with HCoV-OC43 at a dose of 104 TCID50 showed 100% mortality and similar sensitivity.
+To confirm these observations and the dissemination of the recombinant virus, the viral load in different tissues was determined using an IFA in BHK-21 cells or real-time qRT-PCR at 6 dpi via intranasal inoculation of 104 TCID50 of rOC43-ns2DelRluc.
+To perform BLI of rOC43-ns2DelRluc in vivo, BALB/c and C57BL/6 mice were intranasally inoculated with 104 TCID50 of rOC43-ns2DelRluc or HCoV-OC43-WT, monitored over time, and bioluminescence intensity was determined (Fig. 3
+).
+Briefly, individual BALB/c mice were either inoculated intracerebrally with 100 TCID50 or intranasally with 104 TCID50 of rOC43-ns2DelRluc and monitored over time.
+Mice were intracerebrally infected with 100 TCID50 of rOC43-ns2DelRluc, and bioluminescence intensity was measured daily (Fig. 5
+).

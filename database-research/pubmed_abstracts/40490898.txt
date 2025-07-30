@@ -1,0 +1,13 @@
+Early diagnosis and screening of tumor cells are crucial in effective cancer treatment and prognosis of early stage cancer growth.
+Available imaging techniques like CT, magnetic resonance imaging (MRI), PET can detect only when tumor reach up to a certain size (>1 mm).
+In the present investigation, we have proposed, design and tested a microwave ring resonator based biosensor at 4.98 GHz, an extremely sensitive diagnostic tool for early stage cancer detection.
+When the resonator based sensor exposed to in vitro A549 human lung cancer cell lines it generates the resonant frequency shift which detect growth rate with different levels of metastasis due to change in transmission coefficient of the resonator.
+Hence it was observed that with progression in cell proliferation the resonance frequency shifted considerably by 2 to 3 GHz.
+This frequency shift signifies a change in the dielectric properties of the used cell lines.
+Further, we have quantified cell growth by comparing the experimentally measured values of resonance frequency shift, full-width half maxima (FWHM), and insertion loss of the bare resonator with those values of the grown cells at successive days (day-1 to day-3).
+The cell growth process mimics the tumor cell growth within the human body.
+The alterations in the dielectric characteristics of the biological tissues serve as a pivotal factor for monitoring physiological parameters, preventing potential disease onset, or facilitating pathology identification.
+Significant parameters such as figures of merit (FOM = 0.171), quality factor (Q=24.9), frequency detection resolution (FDR = 139.5 MHz) and sensitivity (S= 0.105 GHz/unit change in dielectric constant) were calculated to demonstrate the usefulness of the designed biosensor.
+The outcomes of the present investigation demonstrate the sensor's excellent sensitivity.
+The designed biosensor demonstrated a strong ability to measure the cancer growth rate and quantify with a minimum number of cells (<1300 cells) to distinguish between high- and low-metastatic cells.
+This work facilitates the development of resonator based biosensor for cancerous tissue growth diagnosis.

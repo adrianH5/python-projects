@@ -1,0 +1,4 @@
+Metronomic photodynamic therapy (mPDT) is a novel cancer treatment strategy that uses low-dose light delivery and photosensitizers.
+5-aminolevulinic acid (5-ALA), a precursor of protoporphyrin IX (PpIX) was previously used to treat human colorectal and esophageal cancer cells.
+However, no study has evaluated the efficacy of 5-ALA-mPDT using light of different wavelengths.
+Therefore, we evaluated cytotoxicity induced by 5-ALA-PDT and the antitumor effect of 5-ALA-mPDT.

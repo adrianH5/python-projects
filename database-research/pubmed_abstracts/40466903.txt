@@ -1,0 +1,10 @@
+Salivary adenoid cystic carcinoma (SACC) is characterized by an exceptionally dense neural network within its tumor microenvironment.
+Schwann cells (SCs), an essential component of this neural network, have recently emerged as critical mediators of tumor progression.
+However, SACC-induced SCs reprogramming, as well as the functional significance and molecular mechanisms of tumor-associated Schwann cells (TA-SCs), remains largely elusive.
+We employed tissue-clearing-based three-dimensional imaging to evaluate the SACC tumor microenvironment with high spatial resolution.
+We also characterized SCs heterogeneity using single-cell RNA sequencing data from GEO.
+We investigated the biological phenotypes transformation and revealed the transcriptome characteristics of TA-SCs in SACC, indicating that TGF-β1 exerts its function through c-Jun activation, which is pivotal for driving TA-SCs reprogramming.
+Furthermore, we determined that TA-SCs enhance SACC cell proliferation, migration, invasion, cisplatin resistance, and stemness.
+We further discovered that TA-SCs elevate histone lactylation in SACC via paracrine IGF2 signaling.
+Inhibition of IGF2/IGF1R signaling curbed histone H3 lysine 18 lactylation (H3K18la) in SACC and attenuated the IGF2-driven stem-like reprogramming effect, while simultaneous blockade of TGF-βR1 and IGF1R activation maximally restricted this reprogramming.
+These findings underscore the pivotal role of TA-SCs in SACC progression and stem-like reprogramming via IGF2/IGF1R-H3K18la axis, representing promising therapeutic targets for this malignancy.

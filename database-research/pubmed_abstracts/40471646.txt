@@ -1,0 +1,12 @@
+The quantity and quality of anti-Spike (anti-S) antibodies, rapidly elicited by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), are necessary for understanding the immune response induced by infection.
+Antibody avidity is a good indicator of the quality of antibody response.
+Interleukin (IL)-21 and IL-27 are two cytokines that play vital roles in the affinity maturation process.
+Therefore, we decided to investigate whether there are any relationships between the avidities of antibodies against spike and nucleocapsid (N) antigens of SARS-CoV-2 and serum levels of these cytokines in symptomatic and asymptomatic coronavirus disease 2019 (COVID-19) patients.
+Forty symptomatic COVID-19 patients and 40 asymptomatic carriers were enrolled.
+Anti-S and anti-N IgG avidity indices (AIs) were determined using a modified enzyme-linked immunosorbent assay (ELISA).
+Serum levels of IL-21 and IL-27 were quantified by specific ELISA kits.
+AI values of both anti-S and anti-N IgG were lower in the symptomatic group compared to asymptomatic cases, while only that of anti-N IgG was statistically significant.
+For IL-21 and IL-27 serum levels, no significant difference between the two groups was shown.
+Also, we could not find any correlations between cytokine levels and antibody AI values.
+However, an inverse correlation between anti-S AI value and IL-27 serum level was found in asymptomatic patients.
+Our study suggests that serum levels of IL-21 and IL-27 cannot predict differences in anti-S and anti-N IgG avidity between symptomatic and asymptomatic COVID-19 patients.

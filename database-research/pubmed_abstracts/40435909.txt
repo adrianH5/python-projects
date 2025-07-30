@@ -1,0 +1,13 @@
+B-cell lymphomas (BCL) represent a heterogeneous group of blood cancers originating from B-lymphocytes, characterized by diverse clinical manifestations and molecular characteristics.
+This review highlights recent progress in understanding their pathogenesis, diagnostic approach advancements, and therapeutic strategies developments.
+Key genetic alterations such as chromosomal translocations (e.g., t(14;18), MYC rearrangements), mutations in tumor suppressor genes like TP53, and disruptions in critical signaling pathways including B-cell receptor (BCR), NF-κB, PI3K/AKT, and JAK/STAT are central to disease development.
+Additionally, non-coding RNAs, especially microRNAs, play crucial regulatory roles in lymphomagenesis.
+Innovations in diagnostics, such as liquid biopsy technologies using cell-free DNA (cfDNA) and circulating tumor DNA (ctDNA), have enhanced early detection, disease monitoring, and prognostication.
+Concurrently, molecular biomarkers and emerging classifiers improve risk assessment and guide treatment decisions.
+Treatment approaches have evolved beyond traditional chemotherapy and radiotherapy.
+Targeted therapies such as monoclonal antibodies, kinase inhibitors, bispecific antibodies, and CAR-T cell therapies have shown particular promise in relapsed or refractory cases.
+Stem cell transplantation remains a valuable option for select patients.
+Additionally, novel agents targeting epigenetic mechanisms and tumor angiogenesis are under active investigation.
+This review underscores both the significant advancements and ongoing challenges, such as therapy resistance and adverse effects.
+The integration of molecular diagnostics with precision-targeted and immune-based therapies is key to advancing personalized care.
+Future research should aim to characterize tumor heterogeneity better and optimize therapeutic strategies to improve outcomes for patients with B-cell lymphomas.

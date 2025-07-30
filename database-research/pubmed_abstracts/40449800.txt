@@ -1,0 +1,10 @@
+Bladder cancer remains a significant clinical challenge, necessitating the development of innovative therapeutic strategies.
+Recent advancements have highlighted the potential of reactive oxygen species (ROS)-responsive drug delivery systems in cancer therapy.
+In this study, we introduce a novel treatment approach utilizing a ROS-responsive camptothecin (CPT) prodrug encapsulated within a chitosan nanocarrier, named CACPT.
+Cinnamaldehyde (CA), acting as a ROS generator, forms thioketal bonds with CPT to create a prodrug that responds selectively to the elevated ROS levels within the tumor microenvironment.
+Upon exposure to high ROS conditions, these thioketal bonds are cleaved, resulting in the simultaneous release of CPT and CA.
+The liberated CA further enhances ROS production, establishing a positive feedback loop that amplifies the therapeutic effect.
+The use of amphiphilic chitosan nanocarriers enhances the retention and penetration of the prodrug within bladder tissue, optimizing its therapeutic potential.
+Our experimental findings demonstrate that this self-enhanced ROS-responsive release promotes increased cellular uptake and significantly enhances the anticancer efficacy of CACPT.
+These results position CACPT as a promising candidate for intravesical therapy in bladder cancer, potentially overcoming current limitations in treatment options.
+The innovative combination of ROS-responsive mechanisms and chitosan nanocarriers represents a paradigm shift in bladder cancer therapeutics, offering a multifaceted approach with substantial promise for clinical translation.

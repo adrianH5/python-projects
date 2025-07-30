@@ -1,0 +1,8 @@
+Understanding and modulating the interplay between cancer cells and immune cells is critical for deciphering cancer progression and developing effective therapies.
+However, studying this interplay using patient-derived cells in animal models remains challenging, and the inherent heterogeneity of human tumors adds complexity to traditional approaches.
+Here, we demonstrate that functional delivery systems targeting heterogeneous malignant cells enable precise immune modulation and real-time assessment of cancer-immune interactions.
+By developing a delivery vector that specifically targets circulating malignant cells (CMCs) in patient blood samples, we established an ex vivo platform to study the dynamic interplay between patient-derived cancer cells and immune cells.
+Using a biomacromolecule-based delivery vector functionalized with the ME07 aptamer with high affinity for multiple subtypes of epidermal growth factor receptor (EGFR), we achieved efficient delivery of the genome editing plasmid and molecular beacons (MBs), enabling EGFR knockout to reverse tumor immunosuppression and in situ mRNA probing in heterogeneous malignant cells.
+EGFR knockout downregulates both wild-type and mutant EGFR, leading to a reduction in PD-L1 expression.
+Visualization of the interplay between CMCs and peripheral blood mononuclear cells (PBMCs) shows that edited CMCs with low EGFR and PD-L1 expression become susceptible to immune-mediated clearance, while unedited CMCs with higher EGFR and PD-L1 expression can resist immune attack.
+After coincubation with edited CMCs, the proportions of CD8+CD69+ and CD8+CD44+ T cells significantly increase, while the proportion of CD4+Foxp3+ T

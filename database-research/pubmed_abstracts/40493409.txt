@@ -1,0 +1,11 @@
+The prognosis for colorectal cancer (CRC) patients with liver metastasis remains poor, and the molecular mechanisms driving CRC liver metastasis are still not fully understood.
+Hypoxia-induced extracellular vesicles (H-EVs) derived from tumors have emerged as key players in inducing angiogenesis by transferring non-coding RNAs.
+However, the specific role of CRC-derived hypoxic EVs (H-EVs) in regulating the formation of the pre-metastatic microenvironment (PMN) by inducing angiogenesis remains unclear.
+Our study demonstrates that H-EVs induce both angiogenesis and liver metastasis.
+Through microRNA microarray analysis, we identified a reduction in miR-6084 levels within H-EVs.
+We found that miR-6084 inhibits angiogenesis by being transferred to endothelial cells via EVs.
+In endothelial cells, miR-6084 directly targets ANGPTL4 mRNA, thereby suppressing angiogenesis through ANGPTL4-mediated JAK2/STAT3 pathway.
+Furthermore, we uncovered that SP1 acts as a transcription factor regulating miR-6084 transcription, while HIF1A decreases miR-6084 expression by promoting SP1 protein dephosphorylation and facilitating ubiquitin‒proteasome degradation in SW620 cells.
+In clinical samples, we observed low expression of miR-6084 in plasma-derived EVs from CRC patients with liver metastasis.
+In summary, our findings suggest that CRC-derived hypoxic EVs promote angiogenesis and liver metastasis through the HIF1A/SP1/miR-6084/ANGPTL4 axis.
+Additionally, miR-6084 holds promise as a potential diagnostic and prognostic biomarker for CRC liver metastasis.

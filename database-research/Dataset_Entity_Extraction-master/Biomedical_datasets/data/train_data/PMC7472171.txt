@@ -1,0 +1,4 @@
+Major SARS-CoV-2 worldwide clades have been proposed by nomenclature systems including Nextstrain [8] and the global initiative on sharing all influenza data (GISAID, https://www.gisaid.org) [9].
+These are based on viral genomes from >57,000 sequences submitted in GISAID [9].
+Clade annotations were attained from Nextstrain [8], who identify variants that define clades of interest from sequences submitted to GISAID by labs worldwide and updates them periodically in clades.tsv (https://github.com/nextstrain/ncov/blob/master/defaults/clades.tsv).
+These conclusions are further supported by a larger-scale phylogenetic tree including the ICVL workers and family member samples in addition to 25 randomly chosen Israel-based samples downloaded from GISAID, wherein S7 is placed with non-ICVL samples with 88% confidence (Figure S1).

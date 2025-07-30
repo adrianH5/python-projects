@@ -1,0 +1,6 @@
+The tumor microenvironment (TME) plays a crucial regulatory role in the initiation and progression of tumors.
+Mechanical forces in the TME, such as matrix stiffness, solid stress, fluid shear force, and microstructural changes, can regulate the activity, migration, and proliferation of immune cells through mechanical transduction pathways, thereby affecting the growth and immune evasion of tumor cells.
+However, the precise mechanisms by which mechanical forces regulate immune cells and their impact on immunotherapy are not yet fully understood.
+This review aims to explore how mechanical forces in the TME regulate T cells, natural killer (NK) cells, tumor-associated macrophages (TAMs), B cells, neutrophils, and dendritic cells (DCs), and influence immunotherapy.
+Additionally, this review emphasizes the temporal effects of mechanical forces on immune cells during tumor progression, and highlights the need to investigate the interactions of different mechanical forces in the TME and their combined effects on immune cells.
+These insights can provide a theoretical basis and research directions for optimizing future tumor treatment strategies based on mechanical regulation.

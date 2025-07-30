@@ -1,0 +1,4 @@
+Ki-67 is a cell proliferation biomarker used to evaluate the proliferative activity of neoplasia cells.
+However, considering its functions on the cell cycle, the standard method seems to be an underused way of evaluating expression, since so far, its analytical validity of Ki-67 remains questionable for its use in personalised therapy.
+Improvements in the assessment of Ki-67 expression continue to be explored, and recently, a new approach that considers the heterogeneity or variability in staining intensity has emerged as a more improved way than the traditional method.
+In this review, we bring together what is available in the literature on the biological properties of the protein and highlight how this potential association is promising in the field of personalised medicine.

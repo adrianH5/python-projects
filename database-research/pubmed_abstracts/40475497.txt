@@ -1,0 +1,4 @@
+Nuclear factor-κB (NFκB) mediates inflammation-driven angiogenesis, which promotes growth of atherosclerotic plaques and tumors.
+The deubiquitinase ubiquitin-specific peptidase 20 (USP20) suppresses NFκB activation in vascular smooth muscle cells (SMCs) and attenuates atherosclerosis, but the role of USP20 in endothelial cells (ECs) was undefined.
+We tested whether USP20 activity diminishes NFκB signaling in ECs and thereby diminishes angiogenesis.
+Cytokine-induced NFκB activity was elevated in primary ECs isolated from

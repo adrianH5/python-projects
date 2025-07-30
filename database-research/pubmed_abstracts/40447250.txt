@@ -1,0 +1,7 @@
+DJ-1 is a protein with a wide range of protective cellular functions and implicated in several pathologies, from neurodegenerative Parkinson's disease to cancer.
+Its physiological functions rely on its ability to form protein complexes and on the highly conserved, redox-sensitive, cysteine residue C106 located in the enzyme's active site.
+The later plays a key role in the protection against the modification of biomolecules by glycolytic metabolites.
+However, to date, only an assay based on the highly efficient enzymatic hydrolysis of the reactive intermediate cyclic 3-phosphoglyceric anhydride (cPGA) by DJ-1 can quantify its activity in biological fluids.
+In this work, we propose a new immunoprecipitation assay using fluorescence to assess DJ-1 catalytic activity in crude cell lysates.
+This assay efficiently differentiates a wild-type cell line from its DJ-1 knock-out version, and the activity recorded in five human cell line lysates were validated by the good correlation obtained with the activities observed using the cPGA assay.
+To conclude, this assay is a complementary expansion to the toolbox for studying DJ-1 activity and the associated C106 redox state in cell lysates, as it makes for some of the shortcomings of the previous assay.

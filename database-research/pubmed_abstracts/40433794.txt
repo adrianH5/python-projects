@@ -1,0 +1,10 @@
+Atypical fibroxanthoma (AFX) and pleomorphic dermal sarcoma (PDS) are closely related tumors, believed to represent a continuum of the same neoplastic process, sharing numerous clinical features as well as morphologic, immunohistochemical, and genetic characteristics.
+Recently, whole-exome sequencing analysis revealed high-level PDGFRA/B gene expression and suggested PDGFRB immunohistochemistry as a "lineage specific" marker for PDS.
+To evaluate the potential diagnostic utility of PDGFRB status, we examined CD140b (PDGFRB) protein expression in a well-characterized cohort of AFX, PDS, and morphologic mimics.
+Formalin-fixed, paraffin-embedded sections from 18 AFX, 8 PDS, 26 squamous cell carcinomas (9 sarcomatoid, 11 poorly differentiated, and 6 moderately differentiated), 39 melanomas (including 10 desmoplastic and 6 spindle cell), 7 cutaneous leiomyosarcomas, and 2 cutaneous pleomorphic rhabdomyosarcomas were retrieved.
+CD140b expression was scored by extent (0 to 3+) and intensity (0 to 3) of staining.
+All AFX and PDS were diffusely positive (26/26).
+CD140b showed a variable extent of staining in 5/26 squamous cell carcinoma (5/9 sarcomatoid and 0/17 poorly/moderately differentiated SCC) and 16 of 39 melanomas (10/10 desmoplastic, 1/6 spindle cell, and 5/22 nondesmoplastic/spindled).
+Partial positivity was observed in 2/7 cutaneous leiomyosarcoma, while diffuse staining was present in both (2/2) cases of cutaneous pleomorphic rhabdomyosarcoma.
+In summary, CD140b is a sensitive but imperfectly specific marker for AFX and PDS.
+Several targeted drugs have shown efficacy in PDGFR-expressing tumors, and our findings further delineate therapeutic strategies for a selected group of poorly differentiated cutaneous neoplasms.

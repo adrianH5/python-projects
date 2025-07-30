@@ -1,0 +1,11 @@
+Persistent human papillomavirus (HPV) infection drives cervical carcinogenesis, yet regional variations in genotype distribution and viral load dynamics remain understudied in Beijing, China.
+This study investigated HPV prevalence, genotype-specific patterns, and viral load correlations with cervical disease severity among women outpatient clinics from Peking University First Hospital in Beijing.
+In a retrospective study of 25 197 women undergoing cervical ThinPrep cytology (TCT) and HPV testing from October 2023 to October 2024, colposcopy results from 714 cases were also analyzed.
+HPV genotyping and quantitative for HPV types (16, 18, 33, 52, 58) were performed.
+Overall HPV positivity was 16.50% (4157/25 197), peaking in women aged 31~40 years (30.05%).
+Dominant genotypes were HPV 52 (18.89%), 16 (18.55%), and 58 (12.10%).
+HR-HPV prevalence and viral load escalated with disease severity (p < 0.001), notably HPV16 and HPV33.
+HPV11, 43, 45, and 68 were absent in severe lesions.
+Single infections (76.35%) predominated, but multi-infections showed genotype synergism (e.g., HPV51 + 42).
+The study highlights specific HPV epidemiology and genotype dominance in China, indicating gaps in vaccine coverage.
+Viral load is a key biomarker for risk assessment, suggesting the need for tailored vaccination programs and viral load monitoring in clinical practice.

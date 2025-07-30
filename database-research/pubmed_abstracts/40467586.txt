@@ -1,0 +1,7 @@
+Human pancreatic islets regulate organ development and metabolic homeostasis, with dysfunction leading to diabetes.
+Human pluripotent stem cells (hPSCs) provide a potential alternative source to cadaveric human pancreatic islets for replacement therapy in diabetes.
+However, human islet-like organoids (HILOs) generated from hPSCs in vitro often exhibit heterogeneous immature phenotypes such as aberrant gene expression and inadequate insulin secretion in response to glucose.
+Here we show that FXYD Domain Containing Ion Transport Regulator 2 (FXYD2) marks and regulates functional maturation and heterogeneity of generated HILOs, by controlling the β cell transcriptome necessary for glucose-stimulated insulin secretion (GSIS).
+Despite its presence in mature β cells, FXYD2 is diminished in hPSC-derived β-like cells.
+Mechanistically, we find that FXYD2 physically interacts with SRC proto-oncogene, non-receptor tyrosine kinase (SRC) protein to regulate FXYD2-SRC-TEAD1 signaling to modulate β cell transcriptome.
+We demonstrate that FXYD2

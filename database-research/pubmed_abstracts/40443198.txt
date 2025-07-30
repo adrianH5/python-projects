@@ -1,0 +1,14 @@
+Helicobacter pylori-induced inflammatory microenvironment plays a pivotal role in the development of gastric cancer (GC).
+This study investigates whether matrix metallopeptidase 9 (MMP9) mediates H. pylori-induced effects in GC progression.
+GC patients were stratified on the basis of H. pylori infection status.
+MMP9 levels were measured using enzyme-linked immunosorbent assay (ELISA), immunohistochemistry, and RT-PCR.
+AGS and MKN45 GC cell lines were transfected with MMP9-specific siRNA and cocultured with H. pylori.
+Cell viability, proliferation, and migration were assessed using 3-[4,5-dimethylthiazol-2-yl]-2,5 diphenyl tetrazolium bromide assay, colony formation assay, and transwell migration assay, respectively.
+Expression of pro-inflammatory cytokines in cells and their secretion into coculture supernatants were analyzed by Western blotting and ELISA.
+MMP9 levels were significantly elevated in the serum of H. pylori-positive GC patients compared to H. pylori-negative patients.
+Correspondingly, increased MMP9 mRNA and protein expression were detected in H. pylori-positive GC tissues.
+Serum levels and tissue mRNA expression of interleukin (IL)-1β, tumor necrosis factor (TNF)-α, and IL-8 positively correlated with MMP9 expression.
+In vitro, H. pylori infection enhanced MMP9 expression and promoted the secretion of IL-1β, TNF-α, and IL-8 in AGS and MKN45 cells.
+H. pylori stimulation also increased the survival, proliferation, and migration of GC cells, which were significantly attenuated by MMP9 knockdown.
+MMP9 mediates H. pylori-induced inflammatory responses that contribute to the GC progression.
+Targeting MMP9 may represent a therapeutic strategy to counteract H. pylori-driven GC development.

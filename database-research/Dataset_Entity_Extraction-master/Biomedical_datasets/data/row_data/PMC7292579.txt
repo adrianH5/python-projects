@@ -1,0 +1,11 @@
+The ongoing COVID-19 pandemic is the greatest health-care challenge of this generation.
+To facilitate the epidemiological tracking of SARS-CoV-2, researchers worldwide have created various web-portals and tools, such as the Johns Hopkins University COVID-19 dashboard.
+An unprecedented effort to make COVID-19-related data accessible in near real-time has resulted in more than 25 000 publicly available genome sequences of SARS-CoV-2 on Global Initiative on Sharing All Influenza Data (GISAID).
+To address this gap, we have developed an accessible application, the COVID-19 Genotyping Tool (CGT).
+A video demonstration of CGT is available in appendix 1.
+CGT uses publicly deposited SARS-CoV-2 consensus genome sequences from the GISAID EpiCoV™ database, and summarises relevant information through salient visualisations, including Uniform Manifold Approximation and Projection (UMAP), Minimum Spanning Trees (MST) of sequence networks, and allele frequencies of annotated high-prevalence non-synonymous Single-Nucleotide Polymorphisms (SNPs) within structural protein-coding genomic regions (envelope, membrane, nucleocapsid, and spike proteins; figure
+).
+New sequencing data from GISAID are added to CGT once a week.
+We use UMAP and network analysis instead of phylogenetics because of a faster computation time and ease of interpretability for large datasets.
+Our results indicate that there are distinct viral isolate clusters for SARS-CoV-2 sequences uploaded to GISAID.
+Our novel tool is accessible to those who might not be trained in bioinformatics and epidemiological analysis, and thus it serves as a platform for aiding in a pivotal aspect of the global research effort against the COVID-19 pandemic.

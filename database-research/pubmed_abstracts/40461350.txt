@@ -1,0 +1,8 @@
+Rigorous study design and analytical standards are required to generate reliable findings in healthcare from artificial intelligence (AI) research.
+One crucial but often overlooked aspect is the determination of appropriate sample sizes for studies developing AI-based prediction models for individual diagnosis or prognosis.
+Specifically, the number of participants and outcome events required in datasets for model training and evaluation remains inadequately addressed.
+Most AI studies do not provide a rationale for their chosen sample sizes and frequently rely on datasets that are inadequate for training or evaluating a clinical prediction model.
+Among the ten principles of Good Machine Learning Practice established by the US Food and Drug Administration, the UK Medicines and Healthcare products Regulatory Agency, and Health Canada, guidance on sample size is directly relevant to at least three principles.
+To reinforce this recommendation, we outline seven reasons why inadequate sample size negatively affects model training, evaluation, and performance.
+Using a range of examples, we illustrate these issues and discuss the potentially harmful consequences for patient care and clinical adoption.
+Additionally, we address challenges associated with increasing sample sizes in AI research and highlight existing approaches and software for calculating the minimum sample sizes required for model training and evaluation.

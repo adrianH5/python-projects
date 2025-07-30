@@ -1,0 +1,7 @@
+The modular engineering of prodrug nanoassemblies-integrating drug modules, response modules, and modification modules-has emerged as a promising platform for cancer nanomedicines.
+Despite advances, the mechanistic link between modification modules and the in vivo fate of nanoassemblies remains undefined, particularly regarding how intermolecular interaction forces dictate assembly dynamics, drug release, and therapeutic tradeoffs.
+To address this issue, we constructed two docetaxel-based prodrug nanoassemblies with diverse modification modules: oleic acid (OA, C18:1 fatty acid) and oleyl alcohol (OAL, C18:1 fatty alcohol), respectively.
+This approach revealed three key structure-performance relationships: (i) modification modules modulate the type and strength of intermolecular forces within prodrug systems; (ii) intermolecular forces regulate the assembly compactness and stability of nanoassemblies; and (iii) the resulting drug release and pharmacokinetic behavior govern the therapeutic efficacy-to-safety equilibrium.
+The results demonstrated that OA NAs achieved superior drug release and antitumor efficacy yet faced limitations in nanostructural compactness and biosafety.
+Conversely, OAL NAs, with reduced oxidative sensitivity, offered a more compact nanostructure, prolonged stability, and improved biosafety in vivo.
+These findings provided essential structure-performance insights to guide the rational design of prodrug nanoassemblies.

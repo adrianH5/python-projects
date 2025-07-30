@@ -1,0 +1,17 @@
+Copper chlorophyllin (Cu-Chl) is known for its antioxidant and anticancer properties, particularly as a photosensitizer in photodynamic therapy (PDT).
+This study aimed to explore the protective effects of Cu-Chl against ifosfamide (IFO)-induced toxicity.
+Moreover, it aimed to assess the anticancer activity of Cu-Chl as a photosensitizing agent in PDT when used alone or when combined with IFO against Ehrlich solid tumors in mice.
+To achieve our objectives, we conducted two experiments.
+The first assessed the potential protective effects of orally administered Cu-Chl in a rat model of IFO-induced toxicity.
+The liver and kidney tissues underwent biochemical, oxidative stress, inflammatory markers, and histological analyses.
+The second experiment evaluated the combined effects of IFO and Cu-Chl as part of PDT on Ehrlich solid tumors in mice.
+The Ehrlich tumor, liver, and kidney tissues underwent histological and biochemical analyses.
+The results of the present study demonstrated that Cu-Chl administration significantly mitigated IFO-induced liver and kidney damage, as evidenced by improved liver enzyme profiles, reduced levels of oxidative stress and inflammatory markers, and improved histological outcomes.
+Higher doses of Cu-Chl (100 mg/kg) demonstrated significant protective effects.
+In the second experiment, Cu-Chl in PDT exerts an antitumorigenic effect by reducing tumor cell viability and promoting necrosis; however, its effect appears weaker than that of IFO.
+Our histological analysis revealed extensive necrotic regions in tumor tissues treated with Cu-Chl, highlighting its antitumorigenic effect, which was weaker than IFO.
+Our findings suggest that Cu-Chl, as part of PDT, exerts a dose-dependent apoptotic-modulating effect, as evidenced by reduced caspase-3 and restored Bcl-2 levels when combined with IFO.
+Combinations of higher Cu-Chl ratios relative to IFO minimized systemic toxicity while maintaining antitumor efficacy.
+The 3IFO+2Cu-Chl group, in which the rats were treated with IFO for 3 days, followed by 30 min of red light exposure per day for 2 days after the oral administration of Cu-Chl (50 mg/kg), demonstrated an optimal balance between antitumor effects and organ protection.
+Cu-Chl protects against IFO-induced toxicity and is an effective photosensitizer in PDT.
+This combination offers a promising approach for enhancing cancer treatment efficacy while minimizing adverse effects on vital organs.

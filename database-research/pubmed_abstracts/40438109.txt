@@ -1,0 +1,5 @@
+Metastasis formation poses a significant challenge to oncologists, as it severely limits the survival of colorectal cancer (CRC) patients.
+Recently, we demonstrated that CD44 promotes spontaneous distant metastasis in a CRC xenograft model.
+The depletion of CD44 was associated with reduction in hypoxia, EMT, as well as improved mitochondrial metabolism in primary tumor.
+Collectively, these effects decreased the metastatic potential of the CRC xenograft tumors under investigation.
+In this study we explore the molecular mechanisms by which CD44 knockdown (kd) leads to such substantial changes of tumor properties.

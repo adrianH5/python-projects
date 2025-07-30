@@ -1,0 +1,4 @@
+Currently, a total of 14 full‐length sequences of the 2019‐nCoV were released to GISAID and GeneBank.
+The newly sequenced Beta‐coronavirus (MN908947) genome was downloaded from the GenBank database.
+We divided our data set into four clades, the newly discovered 2019‐nCoV sequence was grouped as the query sequence.
+Interestingly, no similar sequence was found with known sequence in the database, suggesting that a putative recombination parent virus was still unknown.

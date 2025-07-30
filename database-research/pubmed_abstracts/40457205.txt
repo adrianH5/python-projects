@@ -1,0 +1,6 @@
+The volume and complexity of biological data have significantly increased in recent years, often represented as network models continue to increase at a rapid pace.
+However, drug discovery in the context of complex phenotypes are hampered by the difficulties inherent in producing machine learning algorithms that can integrate molecular-genetic, biochemical, physiological, and other diverse datasets.
+Recent developments have expanded network analysis techniques, such as network embedding, to effectively explore multilayer network structures.
+Multilayer networks, which incorporate various nodes and connections in formats such as multiplex, heterogeneous, and bipartite networks, provide an effective framework for merging diverse and multi-scale biological data sources.
+However, current network embedding methods face challenges and limitations in addressing the heterogeneity and diversity of these networks.
+Therefore, there is an essential need for the development of new network embedding methods to manage the complexity and diversity of multi-omics biological information effectively.

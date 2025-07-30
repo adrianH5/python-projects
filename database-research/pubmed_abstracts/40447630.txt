@@ -1,0 +1,6 @@
+Visualizing high-dimensional data is essential for understanding biomedical data and deep learning models.
+Neighbor embedding methods, such as t-SNE and UMAP, are widely used but can introduce misleading visual artifacts.
+We find that the manifold learning interpretations from many prior works are inaccurate and that the misuse stems from a lack of data-independent notions of embedding maps, which project high-dimensional data into a lower-dimensional space.
+Leveraging the leave-one-out principle, we introduce LOO-map, a framework that extends embedding maps beyond discrete points to the entire input space.
+We identify two forms of map discontinuity that distort visualizations: one exaggerates cluster separation and the other creates spurious local structures.
+As a remedy, we develop two types of point-wise diagnostic scores to detect unreliable embedding points and improve hyperparameter selection, which are validated on datasets from computer vision and single-cell omics.

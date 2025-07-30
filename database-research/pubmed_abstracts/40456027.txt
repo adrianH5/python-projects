@@ -1,0 +1,7 @@
+An interesting sunlight-driven photodynamic therapy (PDT) has been realized.
+In this study, we propose a strategy involving an intramolecular electron-donating ligand to develop a high-performance type-I photosensitizer.
+Specifically, an electron-rich core is flanked by two iridium atoms, facilitating electron transfer and promoting hydroxyl radical generation.
+The resulting Ir(III) photosensitizer, Q-T, boosts the rapid generation of reactive oxygen species (ROS) under low-intensity laser exposure.
+Moreover, the type-I ROS ideally suits hypoxic microenvironments, thus demonstrating remarkable PDT against various cell lines, under artificial and natural sunlight.
+In a skin squamous carcinoma (A431) organoid model, one cycle of treatment of dosing of Q-T followed by sunlight irradiation effectively induces cellular apoptosis and completely eradicates tumor organoids.
+This approach offers a promising avenue for the efficient PDT of skin cancer utilizing sunlight.

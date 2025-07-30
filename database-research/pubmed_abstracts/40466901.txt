@@ -1,0 +1,11 @@
+Hypoxic pulmonary hypertension (HPH) is a chronic, progressive pulmonary vascular disease caused by prolonged exposure to low-oxygen conditions.
+Pulmonary vascular remodeling (PVR) is a key pathological feature of pulmonary artery hypertension (PAH), primarily driven by suppressed cell death and excessive proliferation of pulmonary artery smooth muscle cells (PASMCs).
+Current therapies for HPH primarily focus on vasodilation rather than directly targeting PVR, highlighting the need for treatments capable of reversing VR.
+Ferroptosis, a recently identified form of regulated cell death, has gained attention for its potential to eliminate cancer cells; however, its involvement in PVR remains unclear.
+We aimed to explore whether induction of ferroptosis could suppress abnormal PASMC proliferation and mitigate hypoxia-induced PVR.
+In the pulmonary artery, angiotensin-converting enzyme 2 (ACE2) promotes vasodilation and inhibits PASMC proliferation, suggesting a potential therapeutic target.
+This study demonstrated that the expression levels of ferroptosis-related proteins-glutathione peroxidase 4 (GPX4) and solute carrier family 7 member 11 (SLC7A11)- were significantly upregulated in lung tissues and PASMCs from hypoxia-induced Sugen5416/hypoxia (SuHx) mouse models, suggesting the presence of ferroptosis resistance.
+Notably, ACE2 activation induced ferroptosis, whereas reduced ACE2 activity led to resistance to ferroptosis.
+These findings suggest that enhanced ACE2 activity may inhibit abnormal PASMC proliferation and reverse hypoxia-induced PVR, as demonstrated by both in vivo and in vitro experiments.
+We hypothesize that modulation of ACE2 activity influences PVR through ferroptosis regulation.
+This study identifies potential therapeutic targets and new research directions for the pathogenesis and treatment of HPH.

@@ -1,0 +1,1 @@
+We assessed the accuracy and reproducibility of Chat Generative Pre-Trained Transformer's (ChatGPT) recommendations in response to breast cancer patients by comparing generated outputs with consensus expert opinions.

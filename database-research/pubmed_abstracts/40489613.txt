@@ -1,0 +1,5 @@
+Recognition of epitopic peptide antigens presented on class I major histocompatibility complex (MHC-I) proteins by T cell receptors (TCRs) forms the cornerstone of immune surveillance, leading to a plethora of adaptive immune responses.
+Characterization of TCR:peptide/MHC-I interactions is critical for understanding immune recognition, and developing immunotherapies, but the large variation in docking orientations of TCRs on their peptide/MHC-I targets challenges structural modeling.
+NMR spectroscopy could potentially resolve this ambiguity, but the large size of the TCR:peptide/MHC-I complex limits data quality.
+Here, we demonstrate that a designed MHC-I protein, SMART A*02:01, enables facile solution mapping of MHC-I:TCR interactions at scale.
+Our approach can be combined with computational modeling and structure-guided engineering to aid the development of TCR-based therapeutics.

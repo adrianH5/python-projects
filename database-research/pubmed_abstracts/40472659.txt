@@ -1,0 +1,3 @@
+The detection of circulating tumor DNA (ctDNA) after curative-intent therapy, referred to as molecular/minimal residual disease (MRD), is prognostic of disease recurrence in early-stage breast cancer (EBC).
+Tumor-agnostic approaches that rely on mutation-based assessment in fixed panels of common cancer driver genes have shown limited utility for detecting MRD in EBC.
+Methylation-based MRD (mMRD) may overcome the limitations of genomic-based MRD (gMRD), though limited clinical validation is available.

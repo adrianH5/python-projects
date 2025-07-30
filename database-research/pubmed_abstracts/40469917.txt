@@ -1,0 +1,14 @@
+Immune-related thyroid dysfunction (irTD) has been associated with clinical outcomes in non-endocrine tumors.
+However, the association between irTD and therapeutic efficacy or prognosis in gastric cancer remains unclear.
+The present study retrospectively investigated the occurrence of irTD during immunotherapy for gastric cancer and analyzed its association with clinical efficacy and patient prognosis.
+A total of 106 patients with advanced gastric cancer, treated with either first-line or second-line programmed cell death protein 1 (PD-1) monoclonal antibody (MAB) in combination with chemotherapy between January 2019 and December 2022 at the Department of Oncology of Changzhou Tumor Hospital (Changzhou, China), were included.
+Thyroid hormone levels, including thyroid-stimulating hormone, free thyroxine, free triiodothyronine and thyroid peroxidase (TPO), were determined before and after treatment using the electroluminescence method.
+The changes in the levels of thyroid hormones based on various clinical characteristics were evaluated in relation to the treatment outcomes, including progression-free survival (PFS) and overall survival (OS), in response to PD-1 MAB therapy.
+No significant associations were detected between the thyroid hormone levels and different clinical characteristics.
+Among the patients receiving first-line treatment, 40.6% developed irTD and 49.3% experienced TPO abnormalities.
+Patients with irTD demonstrated a significantly longer median PFS time than those without irTD (312.0±47.6 vs. 222.0±14.7 days; P=0.040), although no significant difference was noted in the median OS time.
+Similarly, patients with TPO abnormalities exhibited a longer median PFS time when compared to those without abnormalities (312.0±52.5 vs. 222.0±13.6 days; P=0.006), yet no significant difference was noted in the median OS time.
+In the second-line treatment, the incidence of irTD was 45.9, and 59.5% of the patients showed TPO abnormalities.
+Although there were no statistically significant differences in the median PFS or OS times between patients without or with irTD or TPO abnormalities, a trend toward longer PFS and OS was recorded in patients with TPO abnormalities.
+In conclusion, the occurrence of irTD and TPO abnormalities is associated with better efficacy and prolonged survival in patients with gastric cancer undergoing immunotherapy.
+These thyroid-related changes may serve as valuable biomarkers for predicting the response to PD-1 MAB therapy in this patient population.

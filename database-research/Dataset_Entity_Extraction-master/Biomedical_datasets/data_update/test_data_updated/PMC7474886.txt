@@ -1,0 +1,11 @@
+Although SARS-CoV-2 infection of lung epithelium is a critical driver of disease, extrapulmonary manifestations of coronavirus disease 2019 (COVID-19) infection (Gupta et al., 2020) have been associated with direct viral damage of tissues that carry the ACE2 receptor, such as intestinal enterocytes and renal tissue (Monteil et al., 2020).
+Deciphering the regulation of the ACE2 gene in SARS-CoV-2 target cells is a step forward in linking ACE2 levels with viral damage and COVID-19 pathology.
+Although a body of work has focused on the pathology of COVID-19 during pregnancy (Khalil et al., 2020), the extent to which hormones control ACE2 expression during pregnancy and lactation, and possibly the susceptibility of cells to SARS-CoV-2 infection, has not been investigated.
+Expression of the ACE2 gene in type II pneumocytes is activated by IFNs (Ziegler et al., 2020), opening the possibility that the cytokine storm in COVID-19 patients, and peptide hormones in general, might lead to increased levels of ACE2 in a range of putative SARS-CoV-2 target tissues.
+To directly link the activation of the intronic enhancer to increased Ace2 expression, we analyzed ChIP-seq datasets throughout pregnancy, lactation, and involution (Figure 3
+).
+Our findings built a framework needed to assess and understand the contributions of a range of cytokines faced under various physiological conditions in extrapulmonary manifestations of COVID-19 (Gupta et al., 2020).
+Although SARS-CoV-2 has been detected in breast milk in at least seven studies and our research has demonstrated that its receptor ACE2 is present in mammary tissue and highly induced during lactation, the impact of these findings on COVID-19 requires further investigation.
+They are used to suppress cytokine storms induced by the pan-JAK/STAT pathway, and inflammation in COVID-19 patients treated with the JAK1/2 inhibitor ruxolitinib is reduced (La Rosée et al., 2020).
+Similarly, baricitinib, which inhibits the proinflammatory signal of several cytokines by suppressing JAK1/JAK2, has a beneficial impact in COVID-19 patients (Cantini et al., 2020).
+By including steroid hormones and males and females of different ages in future studies, insight into the sex differences seen in COVID-19 morbidity and mortality (Galbadage et al., 2020) might emerge.

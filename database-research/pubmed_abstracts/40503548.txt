@@ -1,0 +1,9 @@
+Immunotherapy has emerged as a transformative treatment for non-small cell lung cancer (NSCLC), yet its clinical benefits remain variable among patients.
+Early and accurate evaluation of treatment response is critical to guide therapeutic adjustments and improve outcomes.
+This review synthesizes recent advancements in multimodal imaging techniques-computed tomography (CT), positron emission tomography (PET)/CT, magnetic resonance imaging (MRI), and radiomics-for evaluating and predicting immunotherapy efficacy in NSCLC.
+We analyze the strengths and limitations of conventional morphological criteria (eg, RECIST, iRECIST) and highlight emerging quantitative biomarkers, including CT texture analysis, metabolic parameters (MTV, TLG), and diffusion-weighted MRI metrics.
+Notably, radiomics demonstrates promise in decoding tumor heterogeneity, PD-L1 expression, and immune microenvironment features, while immuno-PET probes targeting immune checkpoints offer novel insights into immune activity in vivo.
+Challenges such as pseudo-progression, nodal immune flare, and discrepancies between imaging responses and pathological responses are critically discussed.
+By integrating morphological, metabolic, and microenvironmental data, multimodal imaging enhances precision in patient stratification and therapeutic monitoring.
+Future research should prioritize multicenter, AI-driven radiomics validation and targeted tracer development to optimize NSCLC immunotherapy management.
+This review provides clinicians and researchers with new directions for utilizing multimodal imaging techniques in developing personalized treatment strategies.

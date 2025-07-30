@@ -1,0 +1,5 @@
+Mathematical models have been used for about 30 years to improve our understanding of virus-host interaction, in particular during chronic infections.
+During the COVID-19 pandemic, these models have been used to provide insights into the natural history of acute SARS-CoV-2 infection, optimize antiviral treatment strategies, understand factors associated with transmission, and optimize surveillance systems.
+The impact of modeling has been accelerated by the availability of unprecedented multidimensional immune data from animal and human systems, which enhanced partnerships between experimentalists and theorists and led to exciting new modeling and statistical developments.
+In this mini review, we examine the lessons learned from the COVID-19 pandemic and discuss the main insights provided by mathematical models of viral dynamics at the different stages of the outbreak.
+Although we focus on respiratory infection, we also consider the new areas for development in anticipation of future acute infections from new or reemerging pathogens.

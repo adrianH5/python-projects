@@ -1,0 +1,8 @@
+The ability to identify patient-specific vulnerabilities to guide cancer treatments is a vital area of research.
+However, predictive bioinformatics tools are difficult to translate into clinical applications due to a lack of in vitro and in vivo validation.
+While the increasing number of personalised driver prioritisation algorithms (PDPAs) report powerful patient-specific information, the results do not easily translate into treatment strategies.
+Critical in addressing this gap is the ability to meaningfully benchmark and validate PDPA predictions.
+To address this, we developed Tumour-specific Algorithm for Ranking GEnetic Targets via Synthetic Lethality (TARGET-SL), which utilises PDPA predictions to produce a ranked list of predicted essential genes that can be validated in vitro and in vivo.
+This framework employs a novel strategy to benchmark PDPAs, by comparing predictions with ground truth gene essentiality data from large-scale CRISPR-knockout and drug sensitivity screens.
+Importantly TARGET-SL identifies vulnerabilities that are more exclusive to individual tumours than predictions based on canonical driver genes.
+We further find that TARGET-SL is better at identifying sample-specific vulnerabilities than other similar tools.

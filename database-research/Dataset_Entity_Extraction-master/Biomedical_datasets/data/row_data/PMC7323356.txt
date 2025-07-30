@@ -1,0 +1,55 @@
+On January 30, 2020, the WHO declared the SARS‐CoV‐2 epidemic (COVID‐19) a public health emergency of international concern.
+With a rapid increase in confirmed cases, there is an unmet need of prevention and therapeutic strategies of COVID‐19.
+Although COVID‐19’s clinical manifestations are dominated by respiratory symptoms, some patients have severe cardiovascular damage3., 4. and kidney disease contributing to multiple organ failure.
+For example, COVID‐19 patients with hypertension have an increased mortality and morbidity with hazard ratio ranging from 1.7 to 3.05, depending on the study.
+During the epidemic in China, coagulopathy was reported in severe COVID‐19 patients.
+Coagulopathy was also found in fatal cases of COVID‐19 patients, including a significantly higher proportion of patients with D‐dimers above 500 ng/mL and prolonged prothrombin time (PT) in non‐survivors.
+The hypothesis of microthrombi in kidneys was also suggested in COVID‐19 patients because high creatinine level was correlated with D‐dimers above 500 ng/mL.
+Circulating endothelial cells (CECs) are considered relevant markers of endothelial lesion or dysfunction and were used to explore the potential vascular dysfunction in COVID‐19 patients.
+From March 14, 2020 to March 20, 2020, all consecutive patients aged over 18 years, presenting to the emergency room of the Georges Pompidou European hospital and fulfilling hospitalization criteria or direct in‐patient referral, with an infectious syndrome suspect of COVID‐19 were included.
+Suspicion of COVID‐19 was defined by the presence of at least one of the following: fever, headache, myalgia, cough, dyspnea, rhinorrhea, or digestive symptoms.
+All COVID‐19‐suspected patients had a clinical evaluation, blood tests, and computed tomography (CT) scan, and were tested for SARS‐CoV‐2 infection by nasopharyngeal swab before they were transferred to dedicated hospitalization units: medical department or intensive care unit (ICU).
+This model helped assess the extent to which the level of D‐dimers influenced the predictability of COVID‐19 diagnosis.
+Among the 96 COVID‐19‐suspected patients included, 66 were positive for SARS‐CoV‐2.
+COVID‐19‐positive patients were more likely to be males (N = 44, 66.7%) than COVID‐19‐negative patients (N = 13, 43.3%; P = .05).
+Considering clinical features at admission, COVID‐19‐positive patients were more likely to have fever (P = .02), cough (P = .03), and interstitial pneumonia at CT scan (P = .002).
+In terms of biological features (Table 3
+) COVID‐19‐positive patients had a significantly lower white blood cell count, including neutrophil count (respectively, P = .008 and 0.02).
+Regarding hemostasis, the proportion of COVID‐19‐positive patients with D‐dimers above 500 ng/mL was significantly higher (74.2% versus 43.3%; P = .007).
+In the context of COVID‐19‐associated coagulopathy with high levels of D‐dimers, fibrinogen, and CRP at admission, the low level of fibrin monomers and normal antithrombin levels allowed us to exclude a disseminated intravascular coagulation (DIC).
+When adding D‐dimers above 500 ng/mL to gender and pneumonia at CT scan, ROC curve area (Figure 1
+) significantly increased from AUC 0.73 (95% confidence interval [CI] 0.61‐0.85) to AUC 0.82 (95% CI 0.69‐0.95; P = .02), and confirm the relevance of D‐dimers in diagnosis of COVID‐19 at admission in hospital.
+Among COVID‐19‐positive patients, 64% were above this threshold, suggesting a SARS‐CoV‐2‐induced endothelial lesion.
+For comparison, COVID‐19 negative population had fewer CECs (P = .008; Table 3) with only 27% above the normal range (P = .012).
+Because the coagulopathy observed in COVID‐19 patients could be related to this endothelial lesion, we analyzed whether anticoagulation could impact CEC level.
+Several Chinese studies found that increased D‐dimer level correlated with in‐hospital mortality,5., 7., 8. suggesting a COVID‐19‐associated DIC.7., 8., 23.
+Therefore, the increase of D‐dimers largely reported in COVID‐19 patients is probably not related to DIC but might reflect the microthrombi formation.
+Moreover, a recent study using standardized protective ventilation settings in COVID‐19 patients confirmed that oxygenation was severely compromised with a moderate alteration in the respiratory system compliance.
+In renal disease associated to COVID‐19, thrombotic lesions were proposed, because high D‐dimers were more commonly observed in patients with elevated baseline serum creatinine.
+In this context, the International Society on Thrombosis and Haemostasis (ISTH) has recently recommended measuring D‐dimers, PT ratio, and platelet count in all COVID‐19 patients to help stratify those who may benefit from hospitalization and a close monitoring.
+Therefore, ISTH, the American College of Cardiology, and the French Society for Vascular Medicine suggested the use of prophylactic anticoagulation with low weight molecular heparin (LMWH) for COVID‐19 patients, in the absence of any contraindications.
+Indeed, preventive LMWH treatment could be associated with better prognosis in severe COVID‐19 patients meeting sepsis‐induced coagulopathy criteria.
+We further hypothesized that COVID‐19‐induced coagulopathy could be a consequence of endothelial injury, based on the rationale that SARS‐CoV‐2 has an endothelial tropism linked to ACE2 expression.
+We found that more than 60% of COVID‐19‐positive patients were above this threshold.
+Increased mortality and/or morbidity of COVID‐19 in patients with hypertension has been described in China.
+However, the main scientific societies of cardiology and more specifically of hypertension took the position not to withdraw ACEi or ARB therapy in COVID‐19.
+Hence, the Council on Hypertension of the European Society of Cardiology recommended that "patients should continue treatment with their usual anti‐hypertensive therapy because there is no clinical or scientific evidence to suggest that treatment with ACEIs or ARBs should be discontinued because of the COVID‐19 infection.”
+Indeed, recent studies did not find any association between ACEi or ARBs therapy and worsening in COVID‐19 patients.
+In our population patients treated with curative anticoagulation had a lower level of CECs, so we hypothesized that curative anticoagulation in COVID‐19 patients could decrease thrombotic risk and subsequent mortality.
+First, we are aware that false COVID‐19‐negative patients may exist in our study population due to the imperfect sensitivity of the diagnostic test currently used.
+Second, the study population size was necessarily small given the emergency of understanding COVID‐19; indeed we decided to investigate the endothelial dysfunction associated to COVID‐19 in order to consider new therapeutic alternatives.
+In conclusion, it therefore seems consistent to open the way to curative anticoagulant treatment as part of the management of COVID‐19 patients in order to limit associated coagulopathy and endothelial dysfunction (Figure 3
+).
+Anticoagulation may not only modify COVID‐19‐associated coagulopathy but also pathophysiology of SARS‐CoV‐2 systemic dissemination.
+Curative anticoagulation could decrease mortality observed in COVID‐19 patients.
+Further studies should evaluate safety and efficacy of curative anticoagulation in COVID‐19 patients to prevent worsening of disease and reduction of admittance in ICUs.
+Background  Coronavirus disease‐2019 (COVID‐19) has been associated with cardiovascular complications and coagulation disorders.
+To explore the coagulopathy and endothelial dysfunction in COVID‐19 patients.
+The study analyzed clinical and biological profiles of patients with suspected COVID‐19 infection at admission, including hemostasis tests and quantification of circulating endothelial cells (CECs).
+Results  Among 96 consecutive COVID‐19‐suspected patients fulfilling criteria for hospitalization, 66 were tested positive for SARS‐CoV‐2.
+COVID‐19‐positive patients were more likely to present with fever ( P = .02), cough ( P = .03), and pneumonia at computed tomography (CT) scan ( P = .002) at admission.
+Prevalence of D‐dimer >500 ng/mL was higher in COVID‐19‐positive patients (74.2% versus 43.3%; P = .007).
+Adding D‐dimers >500 ng/mL to gender and pneumonia at CT scan in receiver operating characteristic curve analysis significantly increased area under the curve for COVID‐19 diagnosis.
+COVID‐19‐positive patients had significantly more CECs at admission ( P = .008) than COVID‐19‐negative ones.
+COVID‐19‐positive patients treated with curative anticoagulant prior to admission had fewer CECs ( P = .02) than those without.
+Conclusion  Curative anticoagulation could prevent COVID‐19‐associated coagulopathy and endothelial lesion.

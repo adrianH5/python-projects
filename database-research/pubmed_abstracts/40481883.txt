@@ -1,0 +1,4 @@
+Infectious diseases, particularly viral infections, pose a significant threat to human health by contributing to cancer progression and metastasis.
+This review presents a novel perspective on how advanced biological models such as organoids, organ-on-a-chip systems, spheroids, and 3D bioprinting bridge critical translational gaps in research.
+These models replicate human physiological processes, allowing for the investigation of molecular mechanisms and the evaluation of novel therapeutics.
+This review will explore the current state of advanced biological models used to study viral infections associated with metastasis to better understand how viral-induced changes impact tumor behavior and the implications for future treatment strategies.

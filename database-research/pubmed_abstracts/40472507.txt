@@ -1,0 +1,11 @@
+Cancer remains one of the leading causes of global mortality, necessitating novel therapeutic strategies.
+Liver X Receptors (LXRα and LXRβ) and the Farnesoid X Receptor (FXR) are nuclear receptors that regulate lipid and cholesterol homeostasis, bile acid metabolism, inflammation, and immune response pathways intricately linked to cellular dysregulation in oncogenesis.
+Despite their therapeutic potential, these receptors remain underexplored targets in cancer research.
+This study implements an extensive suite of computational strategies to identify and evaluate potential modulators of LXRα/β and FXR, through virtual screening using resveratrol as the lead scaffold, followed by drug-likeness evaluation and toxicity profiling.
+Molecular docking (MVD, AutoDock and ML-PLIC) identified C144 (AZD7762), a well-established CHK1 kinase inhibitor, as the top-ranked ligand, demonstrating superior binding affinity and conformational stability via convergent interaction mechanisms.
+Additionally, reactivity descriptors derived from density functional theory (DFT) and frontier molecular orbital (FMO) analyses further substantiated its favorable electronic properties and chemical stability.
+Structural pharmacophore mapping using LigandScout confirmed pharmacophoric alignment with receptor active sites, while bioactivity profiles predicted high efficacy.
+Extensive quantum mechanical analyses (MEP, NBO, Mulliken/NPA, NCI, RDG, ELF, LOL, BSA, HAS) revealed favorable electronic characteristics, stability, charge distribution, and interaction potential.
+CLC-Pred, biotransformation (RA), pharmacokinetic profiling, molecular dynamics simulations, MM/PBSA and Shermo-based thermodynamic predictions further validated its biostability and systemic compatibility.
+These findings position C144 (AZD7762) as a promising anticancer candidate targeting LXRα, LXRβ, and FXR pathways.
+Further optimization and validation through in vitro and in vivo studies are essential for advancing these findings toward clinical application.

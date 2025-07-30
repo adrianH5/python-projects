@@ -1,0 +1,1014 @@
+pmid	pmcid	sentence
+34914688	8675677	Using this graphical model called the Stochastic Progression Model, we applied a Markov Process and implemented the model over different datasets that represent symptom frequency in a patient population to find most likely and least likely order of symptoms in these diseases [9].
+34914688	8675677	To this end, we first analyzed a large dataset from the USA, that consists of approximately 70% of D614G variant cases at this time, to compare to our previous results that were calculated from a large dataset from China, that consists of approximately 2% of D614G variant cases at the time of data collection [16].
+34914688	8675677	We then analyzed other datasets to determine whether the D614G mutation is correlated with the predicted likely order of symptom onset.
+34914688	8675677	Early in the pandemic, we implemented the Stochastic Progression Model to model a large dataset from China to test whether the model predicts a specific symptom order [9], but whether this prediction of symptom order holds in other situations is unclear.
+34914688	8675677	We chose to first perform the same analysis over a set of 373,883 cases in the USA that were collected from January 22 to May 30, 2020 [17] as we did previously for the initial dataset from China, which was collected from February 16 to 24, 2020 [20].
+34914688	8675677	Using the previous China dataset and this USA dataset (), we constructed a Hasse Diagram, which illustrates states (i.e.
+34914688	8675677	Specifically, our model predicted that in the USA dataset cough is more likely than fever to be the initial symptom and the inverse in the China dataset.
+34914688	8675677	B) Table of raw frequency data specifying the number and the percentage of patients that experienced fever and cough in the China and USA datasets.
+34914688	8675677	We calculated the error of the transition probabilities of each dataset () to rank transitions that differ with a probability greater than the error towards determining the relative likelihood of paths.
+34914688	8675677	In other words, our model predicts 76.9% of the patients in the dataset from China will experience fever first rather than the other three symptoms analyzed, whereas 47.5% of the patients in the dataset from the USA will experience cough first.
+34914688	8675677	The errors of the transition probabilities using the China and USA datasets are 0.010 () and 0.063 (), respectively.
+34914688	8675677	The second most likely initial symptom from the China dataset is cough, with a transition probability of 0.221, while the second most likely initial symptom from the USA dataset is fever, with a transition probability of 0.353 ().
+34914688	8675677	Thus, our model predicted that fever was three times more likely than cough to occur first in the China dataset, while cough was only about one third more likely to occur first than fever in the USA dataset.
+34914688	8675677	We modeled the first, second, and third most likely orders of symptom onset of COVID-19 for the same datasets used above, that occurred during the initial outbreak in China () and during the subsequent outbreak in the USA () to further observe any predicted variance in the order of symptoms of COVID-19.
+34914688	8675677	For the dataset from China, the third symptom in the first and second most likely paths is nausea/vomiting, whereas for the USA dataset the third symptom in the first and second most likely paths is diarrhea ().
+34914688	8675677	The transition probability of nausea/vomiting occurring third in both the first and second most likely paths is 0.575 for the dataset from China ().
+34914688	8675677	In contrast, the transition probability of diarrhea occurring as the third symptom is 0.647 in the first and second most likely paths as determined from the dataset from USA ().
+34914688	8675677	The error of the transition probabilities of the model of the China dataset is 0.010 and the error of the transition probabilities of the USA dataset is 0.063 ().
+34914688	8675677	Thus, based on these datasets, our model predicts that among GI symptoms, nausea/vomiting occurs before diarrhea in the cases from the initial outbreak in China and diarrhea is more likely to occur before nausea/vomiting in the subsequent cases in the USA.
+34914688	8675677	The errors of the probabilities of the paths using the datasets from China and USA dataset are 0.010 and 0.063, respectively.
+34914688	8675677	In order to further elucidate the relationship between symptom order and the D614G mutation, we implemented the Stochastic Progression Model as we did above to model two datasets from two other geographical regions with available symptom frequency data.
+34914688	8675677	To validate this observed difference in likely symptom order, we performed the analysis for datasets from Hong Kong and Brazil [23,24].
+34914688	8675677	The time of data collection for the dataset from Hong Kong was during a period of the Wuhan reference strain dominating the region, whereas the D614G variant was predominant in Brazil at the time of that study [16].
+34914688	8675677	The most likely path determined from Hong Kong was consistent with the dataset from China, except diarrhea is the third most likely symptom in Hong Kong as opposed to nausea/vomiting occurring third in China (Figs ) [20,23].
+34914688	8675677	The error of the transition probabilities of the implementation of the Hong Kong dataset is 0.017 ().
+34914688	8675677	The most likely order of symptoms determined from the Brazil dataset is the same as the most likely order determined from the USA () [17,24].
+34914688	8675677	The error of the transition probabilities of the implementation of the Brazil dataset is 0.019 ().
+34914688	8675677	The raw frequency of fever and cough occurrence is provided to allow comparison to the calculated transition probabilities of the initial two symptoms in the implementation of the Hong Kong and the Brazil datasets ().
+34914688	8675677	B) Table of raw frequency data specifying the number and the percentage of patients that experienced fever and cough in the Hong Kong and Brazil datasets.
+34914688	8675677	So, we implemented the Stochastic Progression Model once again and created Hasse Diagrams to mathematically model a dataset from Japan from before the D614G mutation was prominent () and a dataset from Japan that consisted of mostly cases after the D614G mutation emerged ().
+34914688	8675677	The early dataset did not report nausea or vomiting, so we did not include these symptoms in our analysis here [27].
+34914688	8675677	In the early data set, fever occurred first by a high likelihood () [27].
+34914688	8675677	However, when we implemented the model on the later dataset, the results indicated an equal likelihood of cough or fever occurring first () [28], as if the patient population was shifting from a China-like disease phenotype to a USA-like phenotype.
+34914688	8675677	The error of the transition probabilities of the earlier dataset is 0.002 ().
+34914688	8675677	The error of the transition probabilities of the later dataset is 0.036 ().
+34914688	8675677	These transition probabilities are similar to those from China and the USA datasets.
+34914688	8675677	C) Table of raw frequency data specifying the number and the percentage of patients that experienced fever and cough in the datasets of Japan before and after the D614G mutation became prominent.
+34914688	8675677	The China and USA datasets were collected over vast regions and different seasons, so we could not control for the effects of weather [17,20].
+34914688	8675677	Similarly, the Hong Kong dataset was collected in winter, and the Brazil dataset was collected in summer and fall, and these two regions have different climates [23,24].
+34914688	8675677	Lastly, the two Japanese datasets were collected during different seasons [27,28].
+34914688	8675677	To investigate weather as a confounding factor, we determined the most likely orders of symptom onset for datasets from cities in Asia (Shanghai, China and Osaka, Japan) that were characterized similarly by the Wuhan reference strain and differently by weather.
+34914688	8675677	Then, we compared the most likely orders of symptom onsets with that of the large China dataset [20,27,29] and found them to be consistent ().
+34914688	8675677	We performed the same analysis for different cities in the USA (Detroit, Michigan, New York, New York, and Atlanta, Georgia) [30–32] and found the orders were consistent with the USA dataset () [17].
+34914688	8675677	A) The most likely path of discernible symptom order using the overall dataset from China is shown on the left.
+34914688	8675677	The middle and right columns are the most likely path of discernible symptom order of datasets in Shanghai, China and Osaka, Japan, when the Wuhan reference strain was prominent.
+34914688	8675677	B) The most likely path of discernible symptom order using the overall dataset from USA is shown on the left.
+34914688	8675677	The other columns are the most likely path of discernible symptom order of datasets representing, from left to right, Detroit, New York, and Atlanta in the USA, when the D614G variant was prominent.
+34914688	8675677	C) The most likely path of discernible symptom order for all patients in the Japan dataset (in the earlier time frame and characterized by the Wuhan reference strain) is shown on the left.
+34914688	8675677	The datasets we analyzed report differing median and interquantile ranges (IQR) of the age of the patients, so we investigated the effect of age on likely symptom order using a dataset characterized by the Wuhan reference strain and one characterized by the D614G variant.
+34914688	8675677	The earlier dataset from Japan reported symptom data by age [27].
+34914688	8675677	The USA dataset also reported symptom order by various age groups, so we determined the most likely order of symptom onset for each age group in the USA dataset () [17].
+34914688	8675677	However, all groups’ initial transition probabilities of fever and cough are similar (approximately 0.4 to 0.5), indicating that likely symptom order is consistent by age group in this dataset.
+34914688	8675677	To this end, we modeled datasets containing comorbidities to compare to the model predictions using datasets from China and the USA.
+34914688	8675677	Making Hasse Diagrams using a dataset of COVID-19 patients with at least one comorbidity in China [33] and a separate dataset of COVID-19 patients of which 94% had at least one comorbidity in the USA [31] (), we determined the most likely orders of symptoms did not change because of comorbidities ().
+34914688	8675677	The transition probabilities of the most likely path in cases from China are very similar between the entire dataset and those with comorbidities ().
+34914688	8675677	The error of the transition probabilities of the main dataset and comorbidity dataset from China is 0.010 and 0.013, respectively ().
+34914688	8675677	Similarly, when observing the most likely path in the USA datasets with comorbidities, the order of symptom onset was the same as the order determined from the main USA dataset ().
+34914688	8675677	The error of the transition probabilities of the main dataset and comorbidity dataset of the USA is 0.063 and 0.044, respectively ().
+34914688	8675677	In the USA datasets, we studied two additional comorbidities, namely, chronic obstructive pulmonary disease (COPD) and human immunodeficiency virus (HIV).
+34914688	8675677	Again, the model predicted that patients with these comorbidities would have the same most likely order of respiratory symptoms (), and the errors of the transition probabilities of the dataset containing patients with COPD and patients with HIV were 0.061 and 0.031, respectively () [34,35].
+34914688	8675677	Lastly, we investigated datasets including individuals diagnosed with cancer and COVID-19 in China and the USA and determined the most likely paths as well as displayed the raw frequency data for comparison () [36].
+34914688	8675677	The only difference in these likely orders is that the third symptom is most likely to be diarrhea in cases with cancer () as opposed to nausea/vomiting as it is in the overall dataset in China () [20,36], but we found that the most likely order of symptoms was the same in the dataset representing cases with cancer () as the overall dataset in the USA () [17,37].
+34914688	8675677	The error of the transition probabilities of this dataset containing cases with cancer in China and the USA is 0.026 and 0.030, respectively ().
+34914688	8675677	Here, we mathematically modeled datasets that include clinical characteristics in China, the USA, Hong Kong, Brazil, and Japan to predict symptom order, as we had done previously with data from China [9].
+34914688	8675677	To test this hypothesis, we analyzed datasets from Hong Kong and Brazil with high incidence of the Wuhan reference strain and the D614G variant, respectively.
+34914688	8675677	To further test our hypothesis, we analyzed datasets in Japan where the dominant strain changed from the Wuhan reference strain to D614G variant.
+34914688	8675677	We performed the analysis again on a Japan dataset that represents data when the Wuhan reference strain was prominent and a later Japan dataset when the D614G variant was prominent, and again our model’s predictions were consistent with our hypothesis that symptom order depends on mutation.
+34914688	8675677	Our study also included datasets from varying countries for both the Wuhan reference strain and the D614G variant.
+34914688	8675677	We then analyzed datasets from China and the USA of patients with COVID-19 and comorbidities and found that the predicted order did not change when comparing results from patients with and without comorbidities.
+34914688	8675677	We confirmed the change in order of fever and cough, but we were unable to compare GI symptoms due to the lack of reporting in the Japanese datasets.
+34914688	8675677	It is possible that if nausea/vomiting was reported, it could have been the most likely first or second symptom, but because both fever and cough occur prior to GI symptoms with a high likelihood in all other datasets, it is unlikely.
+34914688	8675677	Instead, we note that there are distinct features of symptom progression by datasets that correlate with the predominate viral variant.
+34914688	8675677	Then, we implemented the Stochastic Progression Model to model these various simulated datasets.
+34914688	8675677	The statistics and demographics of all the datasets that we described here is also tabulated in the .
+34914688	8675677	A large dataset consisting of 55,924 laboratory confirmed cases, which includes real-time polymerase chain reaction (RT-PCR) testing SARS-CoV-2, of COVID-19 in China was used.
+34914688	8675677	The patients in the dataset had a median age of 51 years (interquartile range [IQR] of 39 to 63 with minimum age of 2 days to maximum age of 100 and 77.8% being between 30 to 69), 23% of patients were not from Hubei, China, and 51.1% were male.
+34914688	8675677	The main dataset representing a large collection of COVID-19 infected individuals and their symptom data was reported by the CDC.
+34914688	8675677	Two validation datasets were collected to determine the order of symptoms of the Wuhan reference strain and the D614G variant in Hong Kong [23] and Brazil [24], respectively.
+34914688	8675677	These two datasets are independent from all other datasets collected for this study, because they represent cases from geographical regions that do not overlap with the regions from any other datasets.
+34914688	8675677	A dataset from Atlanta, Georgia was used to examine changes in symptom order due to changes in season and weather.
+34914688	8675677	There is a subset of 399 patients in this dataset who had at least one comorbidity, which we used in our analysis.
+34914688	8675677	Additionally, a dataset to investigate order of symptom onset in individuals with COPD and COVID-19 was used.
+34914688	8675677	We then used these simulated datasets to construct the corresponding Hasse Diagrams.
+34914688	8675677	We estimated the percentage of the D614G variant and the Wuhan reference strain in our datasets using the results of a study that observed the changes in prevalence of these strains globally [16].
+34914688	8675677	The dataset collected early in the pandemic in China, from February 16 to 24, 2020, represents cases that occurred at a time when over 98% of cases were consisting of the Wuhan reference strain.
+34914688	8675677	The dataset collected during the subsequent outbreak in the USA, from January 22 to May 30, 2020, represents cases that occurred at a time when approximately 70% of cases were characterized by the D614G variant.
+34914688	8675677	So, we modeled datasets from these cities in these time periods that consisted of cases that were almost exclusively of a specific type.
+34914688	8675677	The dataset from China contains 55,924 patients, and the dataset from USA contains 373,883 patients.
+34914688	8675677	The dataset from Hong Kong contains 59 patients, and the dataset from Brazil contains at least 50,000 patients.
+34914688	8675677	The dataset from Japan before the outbreak of the D614G variant contains 244 patients, and the dataset from Japan after the outbreak of the D614G variant reports symptoms of 2,636 patients, except for cough, where only 2,634 of the patients were recorded.
+34914688	8675677	The dataset from Shanghai, Osaka, Atlanta, and New York contains 249, 244, 531, and 393 patients, respectively.
+34914688	8675677	The columns of the frequencies correspond to dataset.
+34914688	8675677	From left to right, they represent a dataset containing patients with COVID-19 and comorbidities in China [33], patients with COVID-19 and comorbidities in the USA [31], patients with COVID-19 and cancer in China [36], patients with COVID-19 and cancer in the USA [37], patients with COVID-19 and COPD in the USA [35], and patients with COVID-19 and HIV in the USA [34].
+34914688	8675677	The dataset representing patients with comorbidities from China and the USA contains 399 and 463, respectively.
+34914688	8675677	The dataset representing patients with cancer from China and the USA contains 205 and 423, respectively.
+34914688	8675677	The dataset representing patients with COPD and HIV contains 164 and 93, respectively.
+34914688	8675677	A) The most likely paths of discernible symptom order using datasets from China and Hong Kong, which are both characterized by the Wuhan reference strain, are displayed.
+34914688	8675677	B) The most likely paths of discernible symptom order using datasets from the USA and Brazil, which are both characterized by the D614G variant, are displayed.
+34914688	8675677	The most likely path of discernible symptom order for all patients in the USA dataset is shown on the left.
+34914688	8675677	The error of the transition probabilities of the China dataset is 0.010, whereas the error of the transition probabilities of the China with comorbidities dataset is 0.013.
+34914688	8675677	The error of the transition probabilities of the USA dataset is 0.063, whereas the error of the transition probabilities of the USA with comorbidities dataset is 0.044.
+34914688	8675677	A) Table of raw frequency data specifying the number and the percentage of patients that experienced fever and cough in the datasets including patients with comorbidities, COPD and HIV, in the USA and cancer in China and the USA.
+34914688	8675677	Using Hasse diagrams and large datasets of self-reported symptoms, comorbidities, and cancer status, the authors study how likely a set of four principal symptoms (fever, cough, nausea/vomiting, and diarrhea) are likely to occur and in which order.
+34914688	8675677	1) Line 251: The earlier dataset did not report nausea/vomiting, so they weren't included in the analyses of the Japanese data (which is of high interest given that the early data was taken before the emergence of D614G).
+34914688	8675677	What is the impact of this on predicted outcomes, since nausea/vomiting is in the third most likely path in the USA dataset, and is also found in the early China dataset?
+34914688	8675677	"Large-scale datasets should be made available via a public repository as described in the PLOS Computational Biology
+data availability policy, and numerical data that underlies graphs or summary statistics should be provided in spreadsheet form as supporting information."
+34914688	8675677	Reviewer #2: No: please provide an access to the data set and/or a detailed description of the data used (see comments)
+34914688	8675677	"""To investigate these possible factors, we determined the most likely orders of symptom onset for various datasets from different cities in the USA (Detroit, Michigan, New York, New York, and Atlanta, Georgia)"""
+34914688	8675677	It is unclear to me whether data for these cities were included in the original country-level datasets?
+34914688	8675677	My comments on the data description remains to some extent, and I am still not sure to be able to evaluate to what extent reliable conclusions on symptom order can be obtained from data set that only contain prevalence data of each symptom, but no information on their sequential aspects.
+34914688	8675677	Reviewer #2: No: please update the link to datasets.
+34914688	8675677	Some of them are no longer available (such as the first dataset referenced from WHO)
+33709119	7989622	Various online databases are available to use for the application in the prediction of the drug–target interactions (DTIs) [8], such as KEGG [9, 10], DrugBank [11], TTD [12,13] and STITCH [14].
+33709119	7989622	Different ML methods have recently been applied to predict DTIs based on the various types of datasets [15, 16].
+33709119	7989622	Whereas feature-based approaches consider drug chemical and protein sequence feature vectors as input and represent the class label by binary value (1 and 0), indicating the interacted and non-interacted pairs in the datasets.
+33709119	7989622	[42] developed a boosting classifier-based method to predict potential DTIs from gold standard datasets using evolutionary information and structural features of target proteins.
+33709119	7989622	In another work [26], structural features extracted from protein sequences, an oversampling-SMOTE, are independently employed for balancing the drug-target datasets.
+33709119	7989622	There are different types of DR techniques, such as linear discriminant analysis (LDA) [48], PCA [49], genetic algorithm (GA) [50] and relief [51] have been applied to select the suitable features from the datasets for accurate prediction.
+33709119	7989622	DTiGEMS+ incorporates multiple target–target similarities and drug–drug similarities into a heterogeneous graph after utilizing a similarity selection technique and a fusion algorithm.
+33709119	7989622	Therefore, the novelty and contributions of this research include: (i) predict the novel DTIs from drug chemical structure and protein sequence; (ii) utilize the multi-feature fusion for predicting novel DTIs; (iii) propose a data balancing algorithm address to handle the imbalance issue in datasets that did not effectively address in the existing approaches; (iv) develop an effective feature selection algorithm to remove the redundant and noisy information and (v) provide satisfactory prediction performance for all the four benchmark datasets.
+33709119	7989622	Then these three types of protein features integrate with drug features to make drug–target datasets for accurate DTIs prediction.
+33709119	7989622	Secondly, since the drug–target dataset is highly imbalanced, we propose a new undersampling technique to manage the imbalance issue of positive and negative datasets.
+33709119	7989622	Five-fold CV test is carried out on the datasets; different parameters are chosen for the features to fix the best settings of the model.
+33709119	7989622	The rest part of the paper is structured as follows: Materials and methods section describes the detail of the gold standard datasets, feature extraction, data balancing, feature selection, and classifiers we employed in this paper.
+33709119	7989622	At first, drug chemical structures (SMILE format) and protein sequences (FASTA format) are collected from DrugBank and KEGG databases using their specific access IDs.
+33709119	7989622	Afterwards, balancing techniques are used on extracted features to manage the datasets’ imbalance issue and drug–target features are selected through the newly developed feature selection technique to boost prediction performances.
+33709119	7989622	In our research, we use four types of protein targets gold standard datasets also known as benchmark datasets, i.e.
+33709119	7989622	Mainly, only drug IDs and protein IDs are considered from their datasets.
+33709119	7989622	After that, we collected the drug chemical structures and protein sequences of these four types of datasets from the DrugBank [55], SuperTarget and Matador [56], KEGG BRITE [57] and BRENDA [58] databases.
+33709119	7989622	After counting them, the number of known interaction (positive samples) pairs in each dataset is 2926, 1476, 635 and 90, respectively.
+33709119	7989622	The detailed information about the drug–target datasets is shown in Table 2.
+33709119	7989622	Note that these gold standard datasets have been exploited in recent various state-of-the-art methods [41,42,47,59] by researchers.
+33709119	7989622	Statistics of the dataset used in this study
+33709119	7989622	MSFs are string representations of drug chemical structures aimed to improve chemical database searching and analysis efficiency.
+33709119	7989622	"
+=  (1)where  represents the residue score of -th in the AA sequence being substituted to the -th AA residue, which is searched by the PSI-BLAST [65] tool through the Swiss-Prot database to generate PSSM on a server machine."
+33709119	7989622	This PsePSSM can able to generate a uniform dimensional vector from different lengths of protein sequences in the dataset after extracting features.
+33709119	7989622	Here, we set  after performing the optimization function for each training set by fivefold CV.
+33709119	7989622	As mentioned earlier, our experimental drug–target datasets are highly imbalanced.
+33709119	7989622	If such datasets are considered to train the classifier, the model could fail to show accurate prediction performances.
+33709119	7989622	Therefore, different data sampling techniques have been utilized in the literature to balance the imbalanced dataset, such as SMOTE [26,72], cluster under sampling [47,73] and random under-sampling [35,74,75].
+33709119	7989622	In this study, we develop a new algorithm based on the concept of random under-sampling technique to overcome the imbalanced problem in the datasets.
+33709119	7989622	The number of input class samples and features/attributes are diffident for four datasets.
+33709119	7989622	Assume, there are  minority data samples and  majority of data samples in the drug–target datasets.
+33709119	7989622	The threshold value depends on the attributes/features of the datasets.
+33709119	7989622	The final data build the combination of  class from the original experimental dataset and  majority class nominated by the proposed method.
+33709119	7989622	Hence the decision limit becomes more defined along with the resulting balanced dataset becomes more dividable.
+33709119	7989622	Suppose experimental datasets contain  features and  samples in a binary classification problem.
+33709119	7989622	If a training data , where  represents the data samples, and  represents the class labels.
+33709119	7989622	If the experimental datasets are large and enormous features, GBDT algorithms cannot achieve satisfactory accuracy and efficiency.
+33709119	7989622	Moreover, LightGBM offers over 100 parameters, and it is also supporting optimization in parallel learning to compatibility with large datasets.
+33709119	7989622	Our drug–target datasets were roughly separated into five subsets by 5-fold CV validation test.
+33709119	7989622	One set was selected from 5 sets as the test set, and the remaining four were considered as the training set, and this process (cross-validation) was repeated 5 times.
+33709119	7989622	After averaging the five validation results, the final results are generated from drug-target datasets.
+33709119	7989622	In the correct CV, the dataset was first split into k folds, the sampling method (under sampling-FastUS) was applied to the training set constituted of the k – 1-fold, and a reduced training set was obtained.
+33709119	7989622	In the incorrect CV, different sampling techniques were first applied to the entire dataset (before CV), and CV was applied to the undersampled data.
+33709119	7989622	In this research, we applied the first approach to balance the dataset because applying the balancing method before using the cross-fold validation iterations may lead to biased results.
+33709119	7989622	Prediction Performance of DTI for different  parameter values on the training data set
+33709119	7989622	Prediction performances of DTI for different  parameter values on the training dataset
+33709119	7989622	We can see from Table 4, by changing the value of parameter , the AUC and ACC value in the drug-target training data also changes.
+33709119	7989622	Figure 3a–d is the ROC curve generated from the DrugBank datasets under three feature extraction techniques.
+33709119	7989622	Performance of different features on benchmark datasets
+33709119	7989622	ROC curves of LightGBM classifiers using MACCS+PsePSSM, MACCS+ PseAAC and MACCS+ DC feature group on the datasets: (a) EN, (b) IC, (c) GPCR and (d) NR.
+33709119	7989622	For the Enzyme dataset, the model used the MACCS+PsePSSM, MACCS+PseAAC and MACCS+DC features to attain AUC of 0.9656, 0.9510 and 0.9434, respectively.
+33709119	7989622	For the Enzyme dataset, MACCS+PsePSSM gain more comprehensive features from protein sequence, which helps identify DTIs, and the performance results are better than the other two feature extraction techniques.
+33709119	7989622	In the case of IC, GPCR and NR datasets, the AUC and ACC values for individual feature groups are also listed in Table 5.
+33709119	7989622	For all the datasets, the MACCS+PsePSSM feature achieved higher prediction performance than MACCS+PseAAC and MACCS+DC.
+33709119	7989622	From Table 5, we can see that the features MACCS+PsePSSM, MACCS+PseAAC and MACCS+DC obtained the best performances for EN dataset, followed by IC, GPCR and NR.
+33709119	7989622	Moreover, EN dataset attains the most top results for the DTI features.
+33709119	7989622	This study’s main goal is to compare and examine the effectiveness of different features and determine the most useful feature from the benchmark dataset.
+33709119	7989622	The imbalanced dataset can be responsible for the biased results.
+33709119	7989622	In this study, drug–target dataset is a severe imbalance.
+33709119	7989622	To balance the datasets and improve the ability of the model, we used the FastUS technique as a balancing method with the LightGBM classifier.
+33709119	7989622	Here, the model compares the balanced and unbalanced datasets to evaluate the efficiency of the FastUS technique with LightGBM classifier, the experimental results shown in Table 6.
+33709119	7989622	Comparison of prediction results on a balanced and unbalanced dataset
+33709119	7989622	We can see from Table 6 that the model obtains different prediction performances on a balanced (With FastUS) and unbalanced (Without Resampling) dataset.
+33709119	7989622	On the unbalanced distribution (Without Resampling), the number of positive instances and negative instances are 2926 and 292 554 (as an example for EN dataset); respectively, the positive instances is less than the negative instances.
+33709119	7989622	Using the EN dataset, the MODEL obtained AUC values of 0.9656 for balanced data, 0.9412, for unbalanced data.
+33709119	7989622	In the case of the IC dataset, the MODEL achieved AUC values of 0.9612 and 0.9200, for balanced and unbalanced data, respectively.
+33709119	7989622	For the GPCR dataset, MODEL yielded an AUC of 0.9249 for balanced, 0.8745 for unbalanced data.
+33709119	7989622	In the case of IC, GPCR and NR datasets, the ACC, SEN, SPE, MCC and F1 results for balanced and unbalanced data are also shown in Table 6.
+33709119	7989622	ROC curves of the MACCS+ PsePSSM feature group using without resampling and With FastUS techniques on the datasets: (a) EN, (b) IC, (c) GPCR and (d) NR.
+33709119	7989622	It can summarize few clarifications from the above discussion: Firstly, the balanced dataset with FastUS significantly outperforms the unbalanced dataset in the case of ROC curves.
+33709119	7989622	More specifically, the results significantly improve for all four datasets on the SPE and MCC metrics, which has worse results for unbalanced data, especially for the NR dataset.
+33709119	7989622	Thirdly, FastUS is the effective method for this paper to identify DTIs, since it boosts the prediction ability and reduces the model biasness for drug–target datasets.
+33709119	7989622	Different feature selection techniques have been extensively applied with drug–target datasets in recent studies.
+33709119	7989622	The experimental results of the drug-target dataset with various feature dimensions are listed in Table 7.
+33709119	7989622	The prediction results of the MoIFS on EN dataset
+33709119	7989622	We can see from Table 7; best prediction effect can’t get with our dataset when considering full drug–target features.
+33709119	7989622	Therefore, it’s better to remove some features from the experimental datasets.
+33709119	7989622	We can see all the feature selection algorithms can’t show the improved results for drug–target datasets, and the MoIFS is a suitable algorithm here.
+33709119	7989622	The comparison of different feature selection algorithms on EN dataset
+33709119	7989622	Performance comparison of different feature selection techniques on EN dataset.
+33709119	7989622	To make a clear comparison of prediction effects, the results graph of the EN dataset shows in Figure 6.
+33709119	7989622	After analyzing the prediction results of the DT dataset from Table 9 that the highest results of AUC, ACC, SEN, SPE, MCC and F1 obtained by the LightGBM algorithm are 0.9656, 0.9264, 0.9456, 0.9323, 0.8987 and 0.9347, respectively.
+33709119	7989622	Performance of different classifiers on EN dataset
+33709119	7989622	Performance comparison of different classifiers on EN dataset.
+33709119	7989622	To compare the effectiveness of our method, we consider five drug–target methods under the AUC values for the same datasets.
+33709119	7989622	Here, those existing methods also utilized 5-fold CV as a key performance metric for four datasets.
+33709119	7989622	They made the negative samples with the same size as the positive sample datasets using random sampling techniques to solve the imbalance problem.
+33709119	7989622	Comparison of MODEL with existing methods on four datasets
+33709119	7989622	This method’s average AUC values on four datasets are 0.9480, 0.8890, 0.8720 and 0.8690, respectively.
+33709119	7989622	[86] achieved little better results than us for EN and NR datasets.
+33709119	7989622	Furthermore, our balancing method perfectly manages the imbalance problem in the datasets, and feature selection techniques reduce the unwanted features, which also the main reason for better performance by the LightGBM classifier, indicating better performance for identifying the new DTIs.
+33709119	7989622	It is important to remember that the interacted datasets used in this study were collected from few years old databases.
+33709119	7989622	Most importantly, those interacted datasets still exist and unchanged; therefore, we can verify our newly predicted drug-target pair with an updated version of the database.
+33709119	7989622	Meanwhile, many new interactions have been discovered by the wet-lab experiments and stored those interactions in the updated version of databases such as DrugBank [11], ChEMBL [10] and KEGG [87].
+33709119	7989622	The model is trained using four benchmark datasets, and the non-interacting pairs are labeled based on their prediction probability.
+33709119	7989622	The predicted pairs, which are achieved at least 82% prediction probability by our model, can be considered correct predictions and found in the existing databases.
+33709119	7989622	Data collection and analysis of SARS-CoV-2: Specimens will be collected from humans.
+33709119	7989622	Drug and protein datasets collection: FDA-approved drugs or antiviral drugs can be selected as experimental drugs from the DrugBank database, which contains detailed information of drugs compound, and the protein of SARS-CoV-2 can be collected from the NCBI database.
+33709119	7989622	Applied diffident techniques on datasets: If the experimental datasets are imbalanced ith huge features, then data balancing and feature selection can be applied on the datasets to handle the balance issue and reduce the drug-protein features.
+33709119	7989622	Finally, the ML classifier could be applied to the dataset for prediction propose.
+33709119	7989622	Find effective drug–protein pairs: Different statistical and ML techniques such as Pearson's correlation coefficient, Spearman’s correlation coefficient and prediction probability can be used to determine the active pairs from the datasets.
+33709119	7989622	Besides, there is a significant gain in performance when the proposed DR algorithm is applied in the dataset.
+33709119	7989622	But, the running time of MoIFS is quite high on the EN dataset, our proposed approach's main complexity.
+33709119	7989622	To verify the model efficiency, some known (positive) DTIs were removed from the benchmark data, and their DTIs were recalculated to verify the model accuracy.
+33709119	7989622	With the massive expansion of the era of big data, protein sequence and drug chemical structure data are increasing rapidly in different biological databases.
+33709119	7989622	The key challenges of DTIs prediction include: (1) fully extracting the critical features of drug and protein; (2) the problem of imbalance data and (3) feature dimensionality in the dataset.
+33709119	7989622	The imbalance data is a common problem in the biological datasets; therefore, we proposed a balancing algorithm based on the concept of random under-sampling techniques, which helps in handling the data-imbalance issue and minimizes the prediction biasness.
+33709119	7989622	The prediction results show that the proposed method has improved performance compared with other related existing methods using the same dataset.
+33709119	7989622	In the future, we have a plan to consider SARS-CoV-2 datasets for experiments and use a deep learning-based algorithm as a classifier to speed up the model performance in discovering new drugs for COVID-19.
+33709119	7989622	The current version of our proposed method is suitable for both the gold standard and DrugBank dataset, but not for heterogeneous data sources.
+33709119	7989622	"
+ Majority Samples in the datasets"
+33709119	7989622	"
+ Minority Samples in the datasets"
+33709119	7989622	Imbalanced datasets can lead to losing the model's ability to give accurate decisions where the prediction generally occurs based on the majority class and completely omits the minority class.
+33709119	7989622	The proposed FastUS algorithm solves the class imbalance problem in the drug-target datasets.
+34764605	8180385	This feature-extraction process requires the transfer learning techniques in which pre-trained CNN models capture the generic features of large-scale datasets such as ImageNet that are later transferred to the task required.
+34764605	8180385	We used five different public datasets which are collected from different locations to evaluate the performance of the proposed model.
+34764605	8180385	Among the five datasets, three datasets consist of the CT scans while two datasets consist of the chest x-rays.
+34764605	8180385	Section 5 gives the details of the datasets, experimental methodology, and evaluation metrics.
+34764605	8180385	Given a data set D, stacking initially splits D into subsets of equal size D1,D2,...D. One of the subsets D is kept aside for future use.
+34764605	8180385	D is the training set, and D is the testing set of the i fold.
+34764605	8180385	The meta classifier’s training set consists of predictions from K base classifiers over the instances in D. Meta classifier data has K-attributes whose values are the predictions from K base classifiers for each instance in D. The process is repeated for N folds i = 1, 2, ... , N. At the end of the cross-validation process, each example of the training data for meta classifier has K-attributes and a target label.
+34764605	8180385	Their proposed model achieved an accuracy of 0.87 on the dataset that they used.
+34764605	8180385	One of the first publicly available datasets was built by Xingyi Yang et al.
+34764605	8180385	Another dataset that was made publicly available was the COVIDx dataset was created by Linda Wang et al.
+34764605	8180385	[29] built a publicly available CT scan image dataset and used a Self-Trans approach, which integrated self-supervised learning with transfer learning, which learned robust and unbiased feature representations, in order to reduce the risk of over-fitting.
+34764605	8180385	[31] used classic data augmentation techniques along with CGAN to increase the size of their dataset of CT scan images.
+34764605	8180385	Their model was first pre-trained on a dataset of a million images and then retrained to detect abnormalities in chest x-rays images.
+34764605	8180385	[39] proposed a new joint learning framework to perform accurate COVID-19 detection by learning with heterogeneous datasets.
+34764605	8180385	Models proposed in [29–39] were tested on a single dataset which require more experimentation to arrive at a conclusion.
+34764605	8180385	Contrarily, the results obtained using our proposed model were more reliable since we have used five different datasets for experimentation.
+34764605	8180385	Although, the model proposed in [33] uses a modified version of the KNN algorithm, and has a faster execution time as compared to other deep learning models when trained using a small dataset, it does not scale well to larger datasets, i.e., its execution time will be higher as compared to other deep learning models when trained on large datasets.
+34764605	8180385	A dropout layer, with a dropout probability of 0.5, is applied between each of the fully connected layers, to prevent the model from over-fitting to the training data.
+34764605	8180385	This section discusses the datasets, experimental methodology and evaluation metrics.
+34764605	8180385	In this section, the datasets used for the evaluation of the proposed model are discussed.
+34764605	8180385	Five different datasets were obtained from different countries.
+34764605	8180385	Two of these datasets contain chest x-ray images, while the remaining datasets contain chest CT scans.
+34764605	8180385	Each dataset has been split into test set, validation set and the training set.
+34764605	8180385	The test set was ensured to contain at least 200 images or at the most 400 images to obtain better assessment of the model’s generality.
+34764605	8180385	The size of the validation set is based on the size of the test set, i.e., the bigger the test set, the more prominent will be the validation set and vice versa.
+34764605	8180385	The remaining images constituted the training set.
+34764605	8180385	The test and validation sets were ensured to have the same proportion of positive and negative images.
+34764605	8180385	The validation set was ensured to be similar to the test set because the hyper-parameters were tuned according to the validation set.
+34764605	8180385	The training set’s composition is immaterial as long as it had enough positive and negative images for the model to both classes’ features.
+34764605	8180385	COVID-CT Dataset [44]: This dataset contains 349 COVID-19 CT images from 216 patients and 397 non-COVID-19 CT images.
+34764605	8180385	Test and validation sets were collected from the hospitals.
+34764605	8180385	To prevent the model from over-fitting to the training data, the size of the training set is increased to 1275 images using data augmentation techniques like random rotation, horizontal flip, and color jittering.
+34764605	8180385	Covid-19 Image Data Collection [45]: This dataset was collected from public sources as well as from the hospitals and physicians.
+34764605	8180385	Source: https://github.com/ieee8023/covid-chestxray-dataset
+34764605	8180385	COVID-CTset [46]: This dataset contains the full original CT scans of 377 persons.
+34764605	8180385	This dataset is from the Negin medical center, Sari, Iran.
+34764605	8180385	COVID-19 Radiography Database [47]: This dataset consists of 1200 COVID-19 positive images, 1341 normal images and 1345 viral pneumonia images.
+34764605	8180385	https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
+34764605	8180385	SARS-CoV-2 CT scan dataset [48]: This dataset contains 1252 CT scans that are positive for SARS-CoV-2 infection (COVID-19) and 1230 CT scans for patients non-infected by SARS-CoV-2, 2482 CT scans in total.
+34764605	8180385	Source: https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset
+34764605	8180385	Large datasets are needed to train a model based on Deep Learning.
+34764605	8180385	When the available datasets are smaller in size, their size can be increased using the data augmentation techniques.
+34764605	8180385	In the present study, as COVID-CT Dataset [44] is a comparatively smaller dataset, the following data augmentation techniques were used to increase the size of this dataset.
+34764605	8180385	The values of the hyper-parameters namely Random Resized Crop size, Random Resized Crop Scale Random Rotation angle range and Random Horizontal Flip probability have been obtained based on the performance of the validation set.
+34764605	8180385	Recall : Recall is the fraction of positive examples in the dataset that are predicted positive.
+34764605	8180385	The proposed model was evaluated on the five datasets and the results are presented in this section.
+34764605	8180385	The proposed model is evaluated based on five different datasets of chest CT scans and chest x-rays i.e.
+34764605	8180385	COVID-CT-Dataset [44], Covid-19 Image Data Collection [45],COVID-CTset [46], COVID-19 Radiography Database [47] and SARS-CoV-2 CT scan dataset [48].
+34764605	8180385	The first dataset considered for the experiment is the COVID-CT Dataset [44].
+34764605	8180385	This dataset was split into a training set consisting of 425 images, a validation set consisting of 118 images, and a test set consisting of 203 images.
+34764605	8180385	The test set contained 98 COVID-19 positive images and 105 COVID-19 negative images.
+34764605	8180385	The second dataset considered for the experiment is the Covid-19 Image Data Collection [45].
+34764605	8180385	This dataset was split into a training set of 309 images, a validation set of 70 images, and a test set of 200 images.
+34764605	8180385	Of the 200 images in the test set, 100 are COVID-19 positive, and 100 are COVID-19 negative.
+34764605	8180385	The results obtained by proposed model, ensembles for Covid-19 Image Data Collection [45] dataset are summarized in Table 2.
+34764605	8180385	The third dataset under consideration is the COVID-CTset [46].
+34764605	8180385	It is a large dataset that consisted of 63849 CT scan images.
+34764605	8180385	For this study, a smaller version of this dataset comprising of 12,058 images was used [46].
+34764605	8180385	This dataset was split into a training set consisting of 11400 images, a validation set consisting of 258 images, and a test set consisting of 400 images.
+34764605	8180385	In the test set, the number of COVID-19 positive and COVID-19 negative images are equal.
+34764605	8180385	The fourth dataset is the COVID-19 Radiography Database [47].
+34764605	8180385	This dataset is split into a training set consisting of 3086 images, a validation set consisting of 400 images, and a test set consisting of 200 COVID-19 positive images and 200 COVID-19 negative images.
+34764605	8180385	The results obtained for different models using Covid-19 Image Data Collection [45] dataset are summarized in Table 4.
+34764605	8180385	The fifth dataset used for evaluating the proposed model is the SARS-CoV-2 CT scan dataset [48].
+34764605	8180385	It consists of 2482 CT scans, out of which a training set consists of 1800 images, a validation set consists of 282 images, and a test set consists of 400 images.
+34764605	8180385	Of the 400 images in the test set, 200 are COVID-19 positive, and 200 are COVID-19 negative.
+34764605	8180385	Table 5 shows the comparison of the performance of the proposed model against other models in terms of precision, recall, accuracy, and F1 score on the SARS-CoV-2 CT scan dataset [48].
+34764605	8180385	Comparison among the proposed model and other baseline models on SARS-CoV-2 CT scan dataset [48]
+34764605	8180385	From Tables 1 to 5, it is evident that the proposed model performs better than the other models in terms of accuracy and F1 score on all the datasets.
+34764605	8180385	The Tables 6-10 show the performance of the proposed model on different datasets by varying the threshold above which an image is predicted positive.
+34764605	8180385	For the Covid-19 Image Data Collection [45] dataset, the precision increased with an increase in threshold.
+34764605	8180385	Table 7 shows evaluation metrics obtained by varying threshold values for the proposed model on Covid-19 Image Data Collection [45] dataset.
+34764605	8180385	For the SARS-CoV-2 CT scan dataset [48] the precision increased with an increase in the threshold.
+34764605	8180385	The relationship among precision, recall, and the threshold is similar to the first three datasets.
+34764605	8180385	With threshold on the x-axis and a scale of 0 to 1 on the y-axis, evaluation metrics (Precision, Recall, Accuracy, and F1 score) for SARS-CoV-2 CT scan dataset [48] are shown in Fig.
+34764605	8180385	Variation of Precision, Recall, Accuracy and F1 score with threshold on SARS-CoV-2 CT scan dataset [48]
+34764605	8180385	Performance of the proposed model on SARS-CoV-2 CT scan dataset [48] under varied thresholds
+34764605	8180385	Moreover, the proposed model was trained on five different datasets and has seen more examples than the other models.
+34764605	8180385	Thus, the proposed model achieved better performance, as it could learn more relevant features from the datasets.
+34764605	8180385	These three models consisted of a pre-trained model and additional fully connected layers, and these additional fully connected layers helped the model to learn the features specific to a particular dataset.
+34764605	8180385	F1 Score of Different models on different datasets
+34764605	8180385	Accuracy of Different models on different datasets
+34764605	8180385	The threshold above which the positive prediction were made, varied with different datasets.
+34764605	8180385	Moreover, the recommended threshold varied from one dataset to another, and it lies between 0.3 and 0.5.
+34764605	8180385	Moreover, the proposed model achieved high accuracy and recall on all the five different datasets that consist of chest CT scans and chest x-rays Images.
+34355210	8336924	For example, in the community-wide 13th CASP experiment (CASP13), the state-of-the-art methods based on deep learning from whole-genome sequence databases achieved average precisions of up to 70% for the top L/5 long-range predicted contacts (Shrestha et al., 2019).
+34355210	8336924	To examine the ability of C-I-TASSER to fold non-homologous proteins, we first tested the pipeline on 342 non-redundant protein domains collected from the SCOPe 2.06 database; these proteins were regarded as hard targets by LOMETS (Zheng et al., 2019c), given that there were no significant templates detected after excluding structures with a sequence identity >30% to the query (see “benchmark dataset collection” under STAR Methods).
+34355210	8336924	C-I-TASSER modeling results on the 342 hard targets in the benchmark dataset
+34355210	8336924	In C-I-TASSER, DeepMSA (Zhang et al., 2019) is employed to generate MSAs from multiple whole-genome and metagenome databases to collect more diverse sequence homologs in the MSAs.
+34355210	8336924	Although the C-I-TASSER force field was mainly optimized on globular proteins, we list in Table S2 a summary of the structure folding results of C-I-TASSER on 80 non-redundant membrane domain proteins collected from the GPCR-EXP (Chan and Zhang, 2020) and PDBTM (Kozma et al., 2013) databases (see “collection of membrane protein dataset” under STAR Methods).
+34355210	8336924	This TM-score improvement is considerably larger than that obtained for the general benchmark dataset (46.2%).
+34355210	8336924	These differences are probably due to the better conservation of membrane proteins in the sequence databases, which resulted in a higher accuracy of contact predictions.
+34355210	8336924	In fact, the average Neff of MSAs collected by DeepMSA is 659.1 for the membrane proteins, which is 6.2 times that for the general benchmark dataset (105.7).
+34355210	8336924	Pfam is a database of protein families (El-Gebali et al., 2018), each represented as a sequence profile of structurally and/or functionally related protein domains.
+34355210	8336924	There are 17,929 protein single-domain-level families in the Pfam database (version 32.0), of which 9,229 have at least one member with an experimentally determined structure in the PDB.
+34355210	8336924	Here, we used C-I-TASSER to predict structure models for the 8,266 unsolved Pfam families that were at least 40 amino acids long, and the details of the data collection are described in “Pfam dataset” under STAR Methods.
+34355210	8336924	Based on the 797 test targets (342 hard and 455 easy) in the benchmark dataset, the C score had a Pearson correlation coefficient of 0.80 with TM score (see Figures S5A and S5B and “model quality estimation of C-I-TASSER” under STAR Methods).
+34355210	8336924	If we select a C-score cutoff of −2.5, which corresponds to an estimated TM = 0.5, the Matthews correlation coefficient on the benchmark dataset reached a maximum of 0.623 and the false discovery rate (FDR) only 6.88%.
+34355210	8336924	In Figure 4A, we present the C-score histogram distribution of the C-I-TASSER models on the 8,266 unsolved Pfam families, where the C score from the benchmark targets is listed as a control.
+34355210	8336924	If we assume that the C-I-TASSER models have a similar FDR between the benchmark and the Pfam families, there should be around 3,876 (=4,162 ∗ (100% – 6.88%)) of the 4,162 high-confidence Pfam families that are foldable with an estimated TM ≥ 0.5.
+34355210	8336924	(A) The distribution of Pfam families and benchmark targets in different C-score bins.
+34355210	8336924	The black circles represent the number of Pfam targets in a specific C-score bin, and histograms are from benchmark proteins; the gray bars indicate the number of foldable targets with TM ≥ 0.5 and the white bars being the number of non-foldable targets.
+34355210	8336924	Although DMPfold produced a relatively high number of foldable models (1,475), the FDR reported in the DMPfold benchmark analysis was 17.5%, which was considerably higher than the C-I-TASSER FDR of 6.88% at a C-score cutoff of −2.5.
+34355210	8336924	We found that C-I-TASSER still created considerably more foldable families and novel folds than the control methods in this common dataset.
+34355210	8336924	The C-I-TASSER modeling was performed on the Pfam database version 32.0 (released in September 2018), and the modeling data are summarized in Table S4 for all 8,266 unsolved Pfam families.
+34355210	8336924	In Figure 5A, we compare the benchmark targets and Pfam families in terms of template quality (measured by normalized Z score of LOMETS templates) and contact-map accuracy (indicated by the MSA Neff values), where two interesting points can be observed.
+34355210	8336924	First, the TM-score heatmap for the benchmark targets is highly consistent with the regions of Pfam families with low (gray) or high (black) C scores, showing that C score can indeed be used as a reliable measure for estimating the quality of unsolved Pfam family models.
+34355210	8336924	Comparison of the C-I-TASSER results for the Pfam families and benchmark dataset for different C scores, Z scores, and Neff values
+34355210	8336924	(A) Normalized Z score of the first LOMETS template versus the Neff of DeepMSA for the Pfam families (points) and benchmark dataset (background).
+34355210	8336924	The heatmap in the background depicts the TM scores for benchmark targets, where white regions indicate no data.
+34355210	8336924	(B) The box-and-whisker chart for the logarithm Neff values of MSAs for easy and hard targets in the Pfam families and benchmark dataset.
+34355210	8336924	The left corresponds to the results of the benchmark dataset, and the right contains the results for the Pfam families.
+34355210	8336924	"Among the foldable families, the easy targets (Z
+ 1) generally had a slightly higher Neff than the hard targets (Z < 1); this is understandable because easy families are often more well studied by the community and therefore tend to have more homologous sequences in both structure and sequence databases."
+34355210	8336924	As a control, we also listed the Neff distribution of the 797 benchmark proteins, where a similar trend was seen (i.e., easy targets tend to have higher Neffs).
+34355210	8336924	Here it is worth noting that although both Pfam and benchmark proteins contain easy and hard targets, Pfam families seem more difficult to fold because by design we selected to model only the unsolved Pfam families containing no solved structures in the homologous members, whereas easy benchmark proteins do not have such constraints.
+34355210	8336924	On average, the Neff of Pfam families (118.8) is also considerably lower than that of the benchmark proteins (236.1); these data partly explain the results of Figure 4A in which the overall C-score distribution of Pfam families was shifted to the lower values compared with the benchmark proteins.
+34355210	8336924	Thus, given that the majority of the Pfam families with C < −2.5 (93.8% = 3,848/4,104) were hard targets that lacked homologous templates in the PDB, it will be critically important to develop effective MSA collection and contact-map prediction methods to model the structures of these hard Pfam families.
+34355210	8336924	To help understand the mechanism of the new virus, we applied C-I-TASSER to generate a genome-wide structure modeling study on SARS-CoV-2 (see “SARS-CoV-2 dataset” under STAR Methods).
+34355210	8336924	It is noted that the SARS-CoV-2 proteins have generally few homologous sequences in the sequence database, where the average Neff (=21.0) is much lower than those of the benchmark dataset (236.1) and the unsolved Pfam families (118.8), probably due to the relatively new species and the quick mutation rate of the virus.
+34355210	8336924	The poor quality of contact-map prediction is mainly due to the low multiplicity of the MSAs, where the Neff values are 0.4, 4.5, and 0.4, respectively, even though the metagenome database was utilized.
+34355210	8336924	Overall, despite the relatively lower Neff values for the SARS-CoV-2 proteins, the average TM score of the C-I-TASSER is 0.820, which is even higher than that of the easy benchmark proteins (0.765), probably because of the better template quality identified by LOMETS for the SARS-CoV-2 proteins (TM = 0.748).
+34355210	8336924	Based on a benchmark test of 342 hard proteins lacking homologous templates in the PDB, the average TM score of C-I-TASSER was 46% higher than those of I-TASSER, and the number of foldable domains with TM > 0.5 increased by 2.55 times in relation to I-TASSER.
+34355210	8336924	Compared with the modest TM-score increase (4.6%) witnessed previously by contact-map-guided template-based structure prediction (Wu et al., 2011), the significant improvement of the model quality achieved in this study can be mainly attributed to the substantial increase in contact-map accuracy brought by advanced deep neural network learning techniques in combination with deep MSA collection from whole-genome and metagenome databases.
+34355210	8336924	Despite the success of the C-I-TASSER pipeline, considerable challenges still exist in folding distantly homologous proteins that have little sequence homology in the sequence databases (i.e., quadrant III in Figure 2B).
+34355210	8336924	Therefore, development of sensitive MSA algorithms from the rapidly increasing whole-genome and metagenome sequence databases is key to addressing this problem.
+34355210	8336924	The datasets supporting the current study have been deposited in Zhang Lab for public use, where the benchmark and membrane datasets are available at https://zhanglab.ccmb.med.umich.edu/C-I-TASSER/dataset.tar.bz2, the structure models for Pfam domain families are available at https://zhanglab.ccmb.med.umich.edu/C-I-TASSER/pfam/, and the structural models for SARS-CoV-2 genome are available at https://zhanglab.ccmb.med.umich.edu/COVID-19/.
+34355210	8336924	The benchmark dataset consists of single-domain proteins collected from the SCOPe 2.06 database (Chandonia et al., 2018) and the FM and FM/TBM targets from CASP 8–12 (Moult et al., 2009, 2011, 2014, 2016, 2018).
+34355210	8336924	Redundant proteins were removed using a pairwise sequence identity cutoff <30% and only sequences with lengths between 50 and 450 amino acids were kept in the benchmark dataset.
+34355210	8336924	In our benchmark analysis, the “Trivial” and “Easy” targets were combined into one group called “Easy targets” (455), while the “Hard” and “Very Hard” targets were integrated into one group called “Hard targets” (342).
+34355210	8336924	The membrane protein dataset contains 80 single domain proteins collected from GPCR-EXP (Chan and Zhang, 2020) and PDBTM (Kozma et al., 2013) databases.
+34355210	8336924	Similar with the benchmark dataset, redundant proteins were removed using a pairwise sequence identity cutoff <30%, and only the sequences with lengths between 50 and 450 amino acids were kept.
+34355210	8336924	Finally, this dataset contains 73 α-helix proteins and 7 β-sheet proteins, where 30 G protein-coupled receptors (GPCRs) are included.
+34355210	8336924	Here, the GPCR-EXP, PDBTM, and MPstruct databases are used for determining whether a template belongs to the membrane protein.
+34355210	8336924	Pfam is a database of protein families (El-Gebali et al., 2018), each represented by hidden Markov models (HMMs).
+34355210	8336924	The profile HMM is then queried against a sequence database, and all matches scoring above the curated threshold are aligned back to the profile HMM to generate the full alignment.
+34355210	8336924	The Pfam dataset was collected from the Pfam version 32.0 database, which includes 17,929 protein families.
+34355210	8336924	We further removed Pfam families with less than 40 amino acids of sequence length, resulting in a dataset of 8,266 Pfam families.
+34355210	8336924	First, we ran ‘hmmsearch’ to search a specific Pfam family against uniref100 (May 2019) database (Suzek et al., 2014).
+34355210	8336924	September 2018, Pfam 32.0 database was released.
+34355210	8336924	March 2020, Pfam 33.0 database was released.
+34355210	8336924	The structures for 113 of those 305 families have been released after June 2019, and thus selected as a blind test set for C-I-TASSER (Figure 4F in main text and Figure S6) since none of the solved structure information was used during the C-I-TASSER modeling.
+34355210	8336924	The scoring function used to re-rank the templates can be calculated as follows:where  is the sequence identity between the query and the i-th template for the j-th program,  is the confidence score for the j-th program, which was calculated by determining the average TM-scores over the first templates to the native structures on a training set of 243 non-redundant target proteins (Wu and Zhang, 2007), and  is the Z-score cut-off for defining good/bad templates for the j-th program, which was determined by maximizing the Matthews correlation coefficient (MCC) for distinguishing a good template (with a TM-score ≥0.5) from a bad template (TM-score <0.5) on the same training set.
+34355210	8336924	We found that the Z-score has a strong correlation with the real TM-score, with a Pearson Correlation Coefficient (PCC) of 0.7794 on the 797 benchmark proteins.
+34355210	8336924	In order to simplify the logic of the benchmark analysis and Pfam analysis in the manuscript, we re-defined target classification as two groups of targets: easy targets and hard targets, where easy targets here include both “Trivial” and “Easy” types, while hard targets are a combination of both the “Hard” and “Very Hard” groups.
+34355210	8336924	The base models have the same training data and the same neural network structure consisting of 22 residual basic blocks.
+34355210	8336924	ResPRE is the average ensemble of ten base models trained by different subsets of the whole training data.
+34355210	8336924	Based on the testing on the 797 proteins in the benchmark dataset, on average, deep-learning-based methods, especially our in-house ResTriplet and TripletRes, had significantly higher precisions than other methods on both easy and hard targets.
+34355210	8336924	Rather than generating multiple sequence alignments (MSA) by some general tools, such as PSI-BLAST (Altschul et al., 1997), HHblits (Remmert et al., 2012), or HMMsearch (Eddy, 1998), which may result in an insufficient number of homologs in an MSA, we adopted a novel MSA generation method (Zhang et al., 2019), called DeepMSA, to collect “deep” MSAs from multiple whole-genome and metagenome databases through complementary hidden Markov model (HMM) algorithms.
+34355210	8336924	Starting from a query protein sequence, the DeepMSA approach iteratively searches for sequence homologs from multiple sequence databases in order to create deep MSAs, which in turn are utilized to build the deep sequence profiles used by the contact prediction algorithms in C-I-TASSER.
+34355210	8336924	Stage 1: Starting from the input query sequence, HHblits (Remmert et al., 2012) from the HH-suite package (Steinegger et al., 2019) is used to search against the UniClust30 database (Mirdita et al., 2016) with the same parameters used by MetaPSICOV2 (Buchan and Jones, 2018) to generate the first-level MSA.
+34355210	8336924	Stage 2: Jump-starting from the first-level MSA, HHblits is again applied to search against a custom HHblits-formatted database to generate the second-level MSA.
+34355210	8336924	The custom database is constructed as follows: Jackhmmer from the HMMER package (Eddy, 1998) is used to search the query sequence against the UniRef90 database (Suzek et al., 2014) to generate a list of sequences (hits).
+34355210	8336924	These hits are finally converted into a custom HHblits-formatted database by the “hhblitdb.pl” script from HH-suite.
+34355210	8336924	Stage 3: Similar to Stage 2, the second-level MSA is used to jump-start an HHblits search against a new custom HHblits-formatted database to get the third-level MSA.
+34355210	8336924	The new custom database is built as follows: The second-level MSA is converted into a profile Hidden Markov Model (HMM) by HMMbuild from the HMMER package.
+34355210	8336924	This HMM is then searched against the Metaclust (Steinegger and Söding, 2018) metagenome sequence database by HMMsearch from HMMER to extract full-length hits.
+34355210	8336924	Finally, these hits from HMMsearch are built into the new custom database.
+34355210	8336924	We trained the three parameters based on the 797 proteins in the benchmark dataset.
+34355210	8336924	First, we equally split the 797 benchmark proteins into a training and test set.
+34355210	8336924	We defined the binary classification problem as follows: the positives in the true condition were the targets in the training set where the TM-score between the predicted model and the experimental structure was greater than or equal to 0.5, while the negatives in the true condition were the targets in the training set with TM-scores <0.5; the positives in the predicted condition were the targets with C-scores ≥ cutoff, while the negatives in the predicted condition were the targets with C-scores < cutoff.
+34355210	8336924	When the three parameters w, w and w were fixed, the C-score for each target in the training set could be calculated, and then the best C-score cutoff could be obtained by optimizing the Matthews correlation coefficient (MCC) on the training set.
+34355210	8336924	We also calculated the performance on the test set, which produced an MCC=0.6231, indicating the parameter selection was reasonable.
+34355210	8336924	We calculated the true TM-scores between the models and experimental structures, the C-scores for the predicted models, and the estimated TM-scores for the predicted models on the benchmark dataset.
+34355210	8336924	We found that both the C-score and estimated TM-score had a strong correlation with the real TM-score, with a Pearson Correlation Coefficient (PCC) of 0.7973 and 0.7961, respectively, on the 797 benchmark proteins.
+34355210	8336924	Data were analyzed using R (4.0.3) and are presented as the average values of different datasets.
+34898852	8653328	Their COVID‐Net achieved an overall accuracy of 92.4% using the COVIDx dataset, but it was pre‐trained with the ImageNet dataset and initialized with the obtained weights.
+34898852	8653328	These researchers are also the ones who created and curated the COVIDx dataset used both in the current study and many others that have worked on designing DL models for the automatic detection of COVID‐19.
+34898852	8653328	To test and evaluate the results of this model, the COVIDx dataset version 1 and its 13 569 X‐ray images were used.
+34898852	8653328	Apply different techniques of data augmentation on the dataset samples, such as rotation, flips, and scaling;
+34898852	8653328	Testing the proposed method using different datasets, including the COVIDx dataset (15 000+ chest X‐ray images) and the enhanced COVID‐19 dataset (1000+ enhanced images);
+34898852	8653328	In Section 4, we describe the datasets utilized and how we have prepared the data from each one to be used in training our own model.
+34898852	8653328	One of the greatest advantages of CNNs is their ability to extract and learn hidden features from big datasets and raw data.
+34898852	8653328	Our motivation here is to develop a deep CNN capable of automatically learning the features of COVID‐19 and recognizing instances of it across two different datasets.
+34898852	8653328	In order to validate the approach, we propose here, we used two different datasets to evaluate the performance of this model.
+34898852	8653328	A description of these datasets and how we preprocessed them is provided in the following subsections.
+34898852	8653328	In this work, we used the COVIDx dataset recently created and published by COVID‐Net researchers.
+34898852	8653328	COVIDx is an open‐access benchmark dataset that is continuously updated and enriched with the addition of more images from different sources.
+34898852	8653328	The version of the dataset that we used consists of more than 15 000 chest X‐ray images, created as both a combination and a modification of five open access data repositories.
+34898852	8653328	The dataset also consists of two image folders: one for training and one for testing.
+34898852	8653328	Distribution of chest X‐ray images from the COVIDx dataset
+34898852	8653328	Samples of chest X‐ray images from the COVIDx dataset and illustrating different classes
+34898852	8653328	The COVIDx dataset takes its data from five different repositories.
+34898852	8653328	As a result, the images in this dataset are of all different sizes and shapes.
+34898852	8653328	These differences affect the effectiveness of any classification attempted, so in order to enhance the performance of our classification approach, image preprocessing is first applied to all images across the dataset.
+34898852	8653328	It is also worth noting that the COVIDx dataset is imbalanced.
+34898852	8653328	Imbalanced datasets return inaccurate results because they bias the model toward the predictions of the majority class.
+34898852	8653328	Due to the severe imbalance between the three different classes in this COVIDx dataset, resampling methods are not suitable for our problem.
+34898852	8653328	Because of the high dimensionality of the used dataset, we choose to apply the class reweight approach as a balancing method, which penalized the model if a positive sample was misclassified.
+34898852	8653328	"The second dataset
+ used to test our model was merged and enhanced by Canayas."
+34898852	8653328	The enhanced COVID‐19 dataset consists of more than 1000 images and includes three balanced classes: COVID‐19, pneumonia, and normal chest X‐ray images.
+34898852	8653328	"The images of the dataset are gathered from two different sources: the first part contains 145 images of labeled COVID‐19 X‐ray images available on GitHub,
+ while the second is collected by Chowdhury et al.,
+ publicly available on Kaggle, and contains 219 X‐ray images of chests with COVID‐19 infections."
+34898852	8653328	The distribution of chest X‐ray images in the enhanced COVID‐19 dataset is depicted in Table 4.
+34898852	8653328	Distribution of chest X‐ray images belonging to the enhanced COVID‐19 dataset
+34898852	8653328	[37] the author made changes to this dataset by applying a contrast enhancement on each image from the original dataset.
+34898852	8653328	"Using the Image Contrast Enhancement Algorithm (ICEA),
+ the best contrast was applied on the dataset images and the noise was eliminated."
+34898852	8653328	Figure 8 plots select samples of X‐ray images from this enhanced dataset.
+34898852	8653328	Samples of chest X‐ray images illustrating different classes from the enhanced COVID‐19 dataset
+34898852	8653328	Data augmentation is the approach of modifying some of the data provided to the learning model and thus creating more training data in order to avoid overfitting.
+34898852	8653328	Overfitting occurs when a model learns a function with high variance, which means that it models the training data well but does not perform properly with new data, leading to poor generalization.
+34898852	8653328	With data augmentation, more images are generated through different random transformations applied to the existing dataset images.
+34898852	8653328	The images of the datasets are only flipped horizontally; we do not apply vertical flips since these do not reflect the images in their normal form.
+34898852	8653328	Thus, data augmentation was employed to enlarge the training dataset, while valid and test data were not augmented.
+34898852	8653328	The experimentation workflow consisted of a set of steps that included: (a) data preprocessing, (b) data augmentation, (c) model training, (d) model evaluation using the validation data, (e) final evaluation of the model with the best weights using the test data, and (f) calculation of the performance metrics.
+34898852	8653328	"
+Loss function: categorical cross‐entropy function was used to measure the network's performance on the training data."
+34898852	8653328	In this section, we present the experimental results obtained by applying our proposed RND‐CNN on the COVIDx and enhanced COVID‐19 datasets.
+34898852	8653328	In this subsection, we illustrate the details and results obtained by implementing the proposed approach described in Section 3 on the COVIDx dataset.
+34898852	8653328	The training data are used to train the model, while the validation data are utilized for evaluating it during the training process.
+34898852	8653328	Once the model completes training, then the test data are employed to test its performance.
+34898852	8653328	Following this distribution, we randomly split the training folder of the COVIDx dataset into 80% for training and 20% for validation.
+34898852	8653328	Figure 11 represents the distribution of images of each class into our training, validation, and test sets.
+34898852	8653328	Distribution of COVIDx's images of each class into training, validation, and test sets
+34898852	8653328	The proposed RND‐CNN was trained using the COVIDx dataset over 100 epochs.
+34898852	8653328	Accuracy and loss achieved during the training and validation phases of the RND‐CNN model using the COVIDx dataset
+34898852	8653328	RND‐CNN accuracy results using the COVIDx dataset
+34898852	8653328	Obtained ROC curves for the COVID‐19, normal, and pneumonia classes using the COVIDx dataset
+34898852	8653328	In order to examine the effectiveness of our proposed RND‐CNN, we implemented it using another dataset collected and enhanced for the purpose of COVID‐19 detection.
+34898852	8653328	Unlike the COVIDx dataset, this enhanced COVID‐19 dataset is balanced and consists of the same number of images in each class with a contrast enhancement.
+34898852	8653328	Figure 15 illustrates the distribution of the enhanced dataset images of each class into training, validation, and test sets.
+34898852	8653328	Distribution of the enhanced COVID‐19 dataset images of each class into training, validation, and test sets
+34898852	8653328	Our RND‐CNN was trained using the enhanced COVID‐19 dataset over 100 epochs.
+34898852	8653328	Accuracy and loss achieved during training and validation phases of the RND‐CNN model using the enhanced COVID‐19 dataset
+34898852	8653328	Using the test data, we evaluated the overall performance of the newly‐trained model.
+34898852	8653328	RND‐CNN accuracy results using the enhanced COVID‐19 dataset
+34898852	8653328	Obtained ROC curves for COVID‐19, normal, and pneumonia classes using the enhanced COVID‐19 dataset
+34898852	8653328	Our results reveal that using different data augmentation techniques on dataset images has a significant impact on the efficiency of the model, especially for imbalanced datasets.
+34898852	8653328	To examine the results obtained, we trained the same proposed CNN architecture without augmentation for the dataset images, and when we did, the results showed a significant drop in accuracy.
+34898852	8653328	To deal with the imbalanced distribution of data across the COVIDx dataset, we employed the class reweight method to re‐balance the whole dataset.
+34898852	8653328	Balancing the dataset was particularly important in order to ensure better results for COVID‐19 recognition.
+34898852	8653328	It is also noticeable that the performance achieved with the second dataset (i.e., the enhanced COVID‐19 dataset) was much better than that achieved with the first dataset (i.e., the COVIDx dataset) due to its balance in the number of images in each class.
+34898852	8653328	From the results obtained, we conclude that correcting the dataset's imbalance is a very important step to consider before starting the model's training.
+34898852	8653328	In order to validate the performance of our proposed RND‐CNN model, we compared the results we obtained with the COVIDx dataset with the results obtained by employing other models and different types of weight initialization.
+34898852	8653328	VGG16 consists of 16 layers and as a network, has demonstrated strong generalization on many large benchmarking datasets for different tasks.
+34898852	8653328	We loaded pre‐trained versions of these two models, which had been performed on the ImageNet dataset that includes more than one million images.
+34898852	8653328	Comparison of performance results between RND‐CNN and other DL models using the COVIDx dataset
+34898852	8653328	This comparison demonstrates that our proposed approach produces excellent results for both the COVIDx and enhanced COVID‐19 datasets.
+34898852	8653328	[37] but the later was only applied on one small dataset, which is the enhanced COVID‐19 dataset.
+34898852	8653328	[13], provides a higher F1‐score when using COVIDx dataset compared with our model, but it needs to conduct more exhaustive experiments to measure additional performance metrics such as accuracy, precision, sensitivity, and specificity.
+34898852	8653328	The model was tested using two different datasets, a large dataset with a high imbalance of classes (the COVIDx dataset) and a small dataset with balanced classes and enhanced images (the enhanced COVID‐19 dataset).
+34898852	8653328	Following several experiments, the results we achieved demonstrate the excellent performance of the proposed model for both datasets.
+34898852	8653328	However, better results are reached using the enhanced COVID‐19 dataset.
+34898852	8653328	In addition, using a dataset that has balanced classes helps to achieve better outcomes than an unbalanced dataset, even while correcting the imbalance.
+34898852	8653328	We have used two datasets for the evaluation of this model: a large dataset with a high imbalance of classes (the COVIDx dataset) and a small dataset with balanced classes and enhanced images (the enhanced COVID‐19 dataset).
+34898852	8653328	The conducted experiments recorded insightful results for both the COVIDx and enhanced COVID‐19 datasets.
+34413713	8362655	Due to the dynamic nature of peak outbreaks in different regions of the country, some blood collection centers in regions in the non-peak time of the outbreak (white status) can collect the blood more than the demand.
+34413713	8362655	Otherwise, some blood collection centers in other regions in the peak time of the outbreak (red status) may be faced a decrease in the number of donors simultaneously.
+34413713	8362655	According to the above-mentioned explanation, the main aim of this study is to develop an analytical approach by presenting a mathematical formulation for BSN management during the COVID-19 outbreak, taking into account the particular characteristics of blood such as perishability, demand uncertainty, various collection methods, and disruption risk in blood supply.
+34413713	8362655	The proposed approach in this study has excellent potential for making the appropriate decision on the blood collection process in different regions with different statuses of the COVID-19 outbreak.
+34413713	8362655	What policy should be considered in regions for blood collection procedures at the peak and non-peak times of the outbreak?
+34413713	8362655	In the first stage, blood collection centers try to collect the blood from donors as much as possible, and in the second stage, blood centers are coordinated to share the blood units between regions to respond to the demand of health centers.
+34413713	8362655	To the best of our knowledge, this study is the first research in BSN literature that proposes a novel real case-based collaborative mechanism to coordinate blood collection activities between regions in the outbreak of COVID-19.
+34413713	8362655	Developing a medium-term plan to manage the blood collection process during the outbreak of COVID-19 by applying transshipment between regions to mitigate the fluctuation of demand and supply, especially at the peak of the outbreak;
+34413713	8362655	Applying a reactive model to update the collection planning for fulfilling the blood shortage in regions in the peak time of the outbreak;
+34413713	8362655	[14], which organized the papers published between 2012 and 2017 based on BSNs echelons: collection, production processes, inventory control, distribution, and integrated models.
+34413713	8362655	Overall, the main focus of the current study is on blood collection strategy during the COVID-19 disaster.
+34413713	8362655	Therefore, the related literature can be divided into two main categories: BSN in disaster conditions and blood collection management.
+34413713	8362655	Then, in Section 2.2, a review on blood collection management in BSN is presented.
+34413713	8362655	[17] developed a mathematical model for blood collection in disaster using a bi-objective two-stage stochastic mathematical formulation.
+34413713	8362655	This subsection reviews the related literature on published papers on BSN, focusing on the blood collection process.
+34413713	8362655	Blood collection management is considered by Zahiri et al.
+34413713	8362655	[32] proposed two mathematical models, i.e., annually and weekly, for a bloodmobile collection system.
+34413713	8362655	The annual blood collection planning aims to ensure each region’s self-sufficiency for red blood cell supply and minimize the total red blood cell supplied by other regions.
+34413713	8362655	The weekly blood collection planning aims to minimize total working time, including setup, collection, and transportation time.
+34413713	8362655	[33] developed a dynamic programming model for a joint decision-making problem of blood collection and platelet inventory control based on different demand priorities and freshness requirements.
+34413713	8362655	Various collection approaches are evaluated by a simulation model proposed by Lowalekar and Ravichandran [34].
+34413713	8362655	Both fixed and variable quantities collected by the collection policies and the donation times are assumed in the proposed study.
+34413713	8362655	Considering social aspects, Ramezanian and Behboodi [35] designed a BSN in the collection phase.
+34413713	8362655	They applied an augmented version of the data envelopment analysis model to find the optimal location of blood collection facilities.
+34413713	8362655	[37] outlined a multi-attribute group decision-making technique to evaluate the best-fit candidate location to establish blood collection facilities based on qualitative criteria.
+34413713	8362655	Reviewing the related literature on blood collection management in BSN reveals that no research focused on the impact of disruption risk in blood supply and using the capacity sharing concept to mitigate the shortage in disaster situations like the COVID-19 outbreak.
+34413713	8362655	In the first stage, a blood collection plan in each region considering disruption risk in blood supply in the event of peak outbreak to minimize the total unfulfilled demand will be solved.
+34413713	8362655	In this stage, the collection procedure is tailored by the whole-blood collection mechanism.
+34413713	8362655	It should be noted that the collection procedure is planned based on the total nominal demand of regions in this stage.
+34413713	8362655	Then in the second stage of the model, based on sharing strategy concept, the quantity of collected blood from regions in blood collection centers is shared between central blood banks in different regions to fulfill the demand.
+34413713	8362655	It is worth mentioning that, due to the maximum allowable distance between blood collection centers and central blood banks, the assignment procedure is done based on the maximum coverage radius between each pair of nodes.
+34413713	8362655	It is worth mentioning that if the unfulfilled demand occurred in the regions based on actual demand, it should be covered by the apheresis collection mechanism.
+34413713	8362655	In each period, the quantity of blood collection in each region by considering disruption risk is determined;
+34413713	8362655	Blood collection centers transport the collected units to central blood banks;
+34413713	8362655	Based on updated inventory at the end of each period in central blood banks, the collection plan is updated from next periods;
+34413713	8362655	The location of blood collection centers and central blood banks are predetermined;
+34413713	8362655	The capacity of blood collection centers and central blood banks in each period is considered to be limited;
+34413713	8362655	Donation of blood from each region is considered to be the supply amount of each region as it seems impracticable to plan for blood collection separately for each donor;
+34413713	8362655	As blood is a critical product for the lifesaving of patients and shortage can result in death, the quantity of shortage at the end of each period is fulfilled by the apheresis collection method.
+34413713	8362655	Set of blood collection centers;
+34413713	8362655	The maximum capacity of blood collection center ;
+34413713	8362655	The distance between blood collection centers  and region ;
+34413713	8362655	The distance between blood collection centers  and central blood bank ;
+34413713	8362655	The maximum coverage radius between blood collection centers and regions;
+34413713	8362655	The maximum coverage radius between blood collection centers and central blood banks;
+34413713	8362655	The travel time between blood collection centers  and central blood bank ;
+34413713	8362655	Transportation cost per unit from collection center  to central blood bank
+34413713	8362655	It is equal to 1; if donors’ region  is assigned to blood collection center ; and 0 otherwise;
+34413713	8362655	It is equal to 1; if blood collection center  is assigned to central blood bank ; and 0 otherwise;
+34413713	8362655	Quantity of blood donated by donors’ region  to blood collection center  in period  in scenario ;
+34413713	8362655	Quantity of collected blood in collection center  transferred to central blood bank  in period  in scenario ;
+34413713	8362655	Constraint (2) shows that each region can be assigned to a blood collection center only if the distance between the region and the facility is not more than the maximum standard distance between them.
+34413713	8362655	Constraint (3) allows blood collection only if donors’ regions are assigned to a blood collection facility in each period.
+34413713	8362655	In this constraint, if  equals to zero, the blood collection process in region  is not allowed.
+34413713	8362655	Constraint (5) limits the capacity of each blood collection center in each period.
+34413713	8362655	(9) minimizes the total delivery time of whole blood units from blood collection centers to central blood banks () and blood units from central blood banks to demand zones ().
+34413713	8362655	In the first term () shows the transportation cost between collection centers and central blood banks.
+34413713	8362655	The third term () denotes the collection cost of whole blood units from donors.
+34413713	8362655	Finally, the last term () displays the collection cost of unfulfilled demand by the apheresis method.
+34413713	8362655	(11) shows the total blood units transferred from blood collection centers to central blood banks in each period.
+34413713	8362655	A blood collection center can be assigned to the central blood bank only if the central blood bank has been selected.
+34413713	8362655	Similar to Constraint (3), Constraint (12) allows flow between blood collection centers and central blood banks only if blood collection centers are assigned to the central blood banks.
+34413713	8362655	Constraint (13) limits the transferred units between blood collection centers and central blood banks based on the maximum coverage radius.
+34413713	8362655	On the other hand, if  then  and system faces leftover blood units, which should be transferred to the future period to avoiding extra blood collection.
+34413713	8362655	In an uncertain environment, it needs continuing planning since the database constantly updates.
+34413713	8362655	In some other countries, such as Saudi Arabia, were reported the blood supply and donation at blood collection centers showed a fall of 39.5% [8].
+34413713	8362655	According to the investigations of IBTO’s experts, the BSN in Iran in the COVID-19 outbreak deserves special consideration to reschedule the blood collection plan because the number of donors dramatically decreased, especially in the cities that are at the peak of the outbreak (http://fna.ir/f0r603; https://tn.ai/2407890).
+34413713	8362655	Regarding this challenge during the COVID-19 outbreak, IBTO has decided to prepare a plan for BSN to coordinate the blood collection processes among the counties of the country.
+34413713	8362655	Therefore, blood collection centers in the counties with a normal situation in terms of COVID-19 outbreak collect blood from donors as much as possible and, after fulfilling the needs of their city, share their leftover collected blood to the counties that are at the peak of the outbreak.
+34413713	8362655	The characteristics of blood collection centers and central blood banks in Iran are provided in Table 1 and Table 2, respectively.
+34413713	8362655	The geographical coordinates of each county, blood collection centers, central blood banks, and the transportation time between these nodes are calculated based on Google Map.
+34413713	8362655	The properties of blood collection centers in Iran.
+34413713	8362655	This table shows that Tehran and Ilam have the highest and lowest portion for blood collection among provinces, respectively.
+34413713	8362655	In Table 4, columns 3–8 demonstrate the number of collected units in each period in each province, column 9 shows the average collected units per period in each province, and finally, column 10 reflects the participation ratio of each province for blood collection in comparison to the total collected units in the country.
+34413713	8362655	The average collection and consumption rates in each province during the planning horizon are depicted in Fig.
+34413713	8362655	It should be noted that the number of unfulfilled demand in each province should be covered from the apheresis collection method in the same province in each period.
+34413713	8362655	The average collection and consumption rates in each province during the planning horizon.
+34413713	8362655	This model prefers fewer blood collections by the apheresis method to meet the demand, and the whole blood collection mechanism covers more percentage of the demand.
+34413713	8362655	On the other hand, by increasing blood collection by the whole blood mechanism, total delivery time increases because more blood units are collected and need more time to be delivered to the provinces.
+34413713	8362655	Since the collection cost by the apheresis method dominates the transportation cost of the network, the total network cost increases in this situation.
+34413713	8362655	The changes of parameters , and  have not significant impact on the quantity of unfulfilled demand and total delivery time because varying this parameter does not affect the quantity of blood collection.
+34413713	8362655	When the parameters of , and  increase, the rate of collection unit by whole blood mechanism decreases, and for this reason, the number of unfulfilled demand increases.
+34413713	8362655	The trend of total delivery time versus total network cost and collected units by apheresis collection method.
+34413713	8362655	In the second stage of the model, a bi-objective optimization model has presented in which the first objective minimizes the total delivery time of blood units from collection centers to provinces, and the second one calculates the total network cost of the BSN.
+34413713	8362655	Because blood collection by the apheresis method has more cost than the whole blood method, the total network cost increases by assigning more important weight to .
+34413713	8362655	The values of  and  can be selected based on the preferences of healthcare system managers, and this table helps stakeholders of BSN to have a better choice between alternatives of blood collection methods in different situations of COVID-19 outbreak.
+34413713	8362655	The rolling horizon technique has more remarkable performance in extra blood collection and reducing the shortage due to the dynamic nature of the COVID-19 prevalence and new information in this situation;
+34413713	8362655	Employing motivational aspects for blood donation during the COVID-19 outbreak and planning for blood collection via an apheresis method from booked donors can be beneficial to cope with disruption in blood supply.
+34413713	8362655	Due to the limited blood supply and donors in disaster situations like the COVID-19 outbreak, motivational initiatives can be considered to encourage blood donations in blood collection centers.
+34413713	8362655	Moreover, when a disaster strikes, preparing a scheduling plan for blood collection via an apheresis mechanism from booked donors can help this network to cover the unfulfilled demand in hospitals.
+34413713	8362655	A proper strategy in blood collection management should be implemented to reduce the shortage of blood and its by-products in regions of the country.
+34413713	8362655	In this research, by conducting a capacity sharing concept, a two-stage optimization tool to coordinate the blood collection activities in BSN was proposed to lower the shortage and wastage during the COVID-19 outbreak.
+34413713	8362655	Due to the dynamic nature of the COVID-19 outbreak, a rolling horizon mechanism was adopted to implement the decisions by the capability to reconsideration in blood collection activities.
+34139910	8216038	"The data are managed in the DCIPHER case
+surveillance pipeline, a series of linked programs that cleans, collates, de-duplicates,
+and transforms data to produce an analytical-ready epidemiologic dataset used by
+multiple CDC response teams."
+34139910	8216038	"Creation of COVID-19 case surveillance public datasets from state, tribal, local,
+and territorial public health jurisdictions, Centers for Disease Control and
+Prevention, 2020."
+34139910	8216038	"CDC’s Case Surveillance Section, the response group established to conduct surveillance
+activities and serve as the steward for case data, created a new process that transforms
+the epidemiologic dataset with privacy protection algorithms to systematically create
+de-identified subset data."
+34139910	8216038	"This process contains automated workflows and R statistical
+software version 4.0.3 that implement and validate field-level suppression for
+k-anonymity and l-diversity levels to release microdata monthly in 2 de-identified public datasets."
+34139910	8216038	"K-anonymity is a technique to reduce the risk of re-identification
+that can occur by linking datasets, and l-diversity is a technique to
+reduce the risk of revealing confidential information."
+34139910	8216038	"First, COVID-19 Case Surveillance
+Public Use Data is a public-use dataset that has 11 data fields, is accessible via Data.CDC.gov, and has interactive visualization to allow the public to filter, sort, and
+perform exploratory analysis."
+34139910	8216038	"Second, COVID-19 Case Surveillance Restricted Access
+Detailed Data is a scientific-use dataset that has 31 fields and more stringent privacy
+protections than the public-use dataset."
+34139910	8216038	"To increase usability and foster transparency, this article describes dataset
+definitions, the design of the pipeline that created the datasets, and privacy
+protections."
+34139910	8216038	"Multiple groups in CDC’s emergency response organization worked together to design
+the 2 public datasets."
+34139910	8216038	"We used this
+privacy review process to derive 2 datasets from the epidemiologic dataset (Figure 1)."
+34139910	8216038	"We created and
+verified datasets for privacy and confidentiality standards using Palantir Contour and R scripts and the sdcMicro package."
+34139910	8216038	"The 7-step process of privacy review implemented by the Centers for Disease
+Control and Prevention in the design of 2 public datasets for COVID-19 case
+surveillance in 2020."
+34139910	8216038	"Because the public-use dataset is widely accessible, these data are the
+most restricted."
+34139910	8216038	"The scientific-use dataset is released only to approved researchers
+who sign a data-use agreement and includes more variables than the public-use
+dataset."
+34139910	8216038	"Re-identification risk cannot be reduced to zero, but the systematic
+privacy review process is designed to make this risk low to protect people whose data contribute to these public datasets."
+34139910	8216038	"We reviewed and classified all variables from the epidemiologic dataset according
+to their sensitivity into 1 of 4 categories: direct identifiers,
+quasi-identifiers, confidential attributes, and nonconfidential attributes."
+34139910	8216038	"Quasi-identifiers are fields that may
+identify a person if they occur rarely enough in a dataset or could be combined
+with other fields or data (eg, age group, sex, county)."
+34139910	8216038	We reviewed fields individually and as a combined set of fields in the dataset.
+34139910	8216038	"We finalized the design of the datasets by identifying the fields included in the
+public-use and scientific-use datasets."
+34139910	8216038	"For example, we added geographic fields for county
+to the scientific-use dataset and fields for race/ethnicity to the public-use
+dataset."
+34139910	8216038	We included geographic fields only in the scientific-use dataset.
+34139910	8216038	"As of December 4, 2020, the public-use dataset comprised 11 fields with 3
+quasi-identifier fields (sex, age_group,
+race_ethnicity_combined) and 1 confidential attribute
+(pos_spec_date)."
+34139910	8216038	"As of December 4, 2020, the scientific-use
+dataset comprised 31 fields with 6 quasi-identifiers (sex,
+age_group, race_ethnicity_combined,
+res_county, res_state,
+hc_work_yn [health care worker status]) and 1 confidential
+attribute (pos_spec_date)."
+34139910	8216038	"Privacy characteristics used to create datasets and how they differ
+between the public-use and scientific-use datasets, developed in 2020 by
+the Centers for Disease Control and Prevention for design of 2 public
+datasets for COVID-19 case surveillance"
+34139910	8216038	"We established privacy thresholds by defining the minimum acceptable size for the
+number of records in the dataset that share quasi-identifiers."
+34139910	8216038	"We
+suppressed only field values; records remained in the dataset so researchers
+could identify when we applied suppression criteria."
+34139910	8216038	"The
+objective of the recoding process was to ensure consistency in applying
+suppression and to simplify the dataset for ease of use and analysis."
+34139910	8216038	"We include data only if the field for
+cdc_report_dt (CDC report date) is 14 days earlier than the
+day on which the datasets are generated."
+34139910	8216038	Each time a dataset is generated, we review for k-anonymity.
+34139910	8216038	"We use this technique to
+suppress quasi-identifier values so that each person in the released dataset
+cannot be distinguished from at least k − 1 other people who
+share the same quasi-identifiers."
+34139910	8216038	"To illustrate how k-anonymity is used to suppress
+quasi-identifier values and how it applies to the entirety of both datasets, we
+developed an example that uses only 10 records (Figure 3)."
+34139910	8216038	"The frequency field indicates the
+number of records in the dataset that have the same combination of
+quasi-identifiers."
+34139910	8216038	"Because we set k = 5 for these
+datasets and require 5-anonymity, we will suppress fields so that their
+quasi-identifiers occur at least 5 times."
+34139910	8216038	"This example includes the 3
+quasi-identifiers in the public-use dataset; an example for the scientific-use
+dataset using its 6 quasi-identifiers would function similarly."
+34139910	8216038	"An example of how k-anonymity field suppression changes
+the values of quasi-identifier fields sex, age_group,
+race_ethnicity_combined to reduce the risk of
+re-identification of individuals in 2 public datasets developed by the
+Centers for Disease Control and Prevention in 2020 for COVID-19 case
+surveillance."
+34139910	8216038	"After each time a dataset is regenerated through the privacy protection pipeline,
+data managers use R programs to verify that each generated dataset meets the levels established in
+Step 3."
+34139910	8216038	"If the data managers detect any errors, they revise the pipeline to
+correct the bug and regenerate and retest the dataset until both processes are
+satisfied."
+34139910	8216038	"At the end of this step, they verify each dataset to be
+5-anonymous."
+34139910	8216038	"The number of times that fields are suppressed in each dataset varies with each
+monthly release and between datasets because suppression depends on the total
+number of rows in the dataset and on the number of included fields."
+34139910	8216038	"These datasets require 2-diversity so that confidential variables cannot
+be determined in situations where records share the same quasi-identifier
+values."
+34139910	8216038	"The distinct field indicates the number of unique
+pos_spec_dt confidential field values shared by all records
+with the same quasi-identifiers; notice that some records have a
+distinct of 1 because they all share the same
+sex field value of “female,” age_group
+field value of “0-9,” and race_ethnicity_combined field value
+“Asian, non-Hispanic,” and all share the same pos_spec_dt value
+of “2020-03-31.” Because our requirement for the dataset is 2-diversity, the
+confidential field is suppressed and set to “NA” to not reveal the
+pos_spec_dt value."
+34139910	8216038	"An example of how l-diversity field suppression changes
+values of the confidential pos_spec_dt field to reduce
+the risk of disclosure of personally identifiable information in 2
+public datasets developed by the Centers for Disease Control and
+Prevention in 2020 for COVID-19 case surveillance."
+34139910	8216038	"Finally, in Step 7, to reduce the risk of the mosaic effect, we researched other publicly available datasets that could be linked by
+quasi-identifiers to identify people."
+34139910	8216038	"The mosaic effect is a risk that is
+created when information in a dataset may not identify a person, but when the
+information is combined with information in other datasets, it might."
+34139910	8216038	"This risk
+is decreased by using k-anonymity levels that reduce the number
+of rare combinations of quasi-identifiers that could be linked to other
+datasets; however, it is challenging to completely eliminate this risk."
+34139910	8216038	"In May
+2020, we reviewed the 13 COVID-19–related datasets published on Data.CDC.gov."
+34139910	8216038	"We
+were not able to exhaustively search all available datasets, but we did review
+quasi-identifiers against the other 543 datasets published by CDC as of May 2020
+with machine-readable metadata available through Data.CDC.gov."
+34139910	8216038	"For the
+scientific-use dataset, researchers must confirm in the data-use agreement that
+they will not link to datasets, including CDC’s public datasets, to re-identify
+people."
+34139910	8216038	"CDC published the public-use dataset, containing 339 301 records and 9 fields, on May
+18, 2020, at https://datacdcgov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf."
+34139910	8216038	"As of December 4, 2020,
+the dataset contained 8 405 079 records, every case in the United States reported to
+CDC through November 19, 2020."
+34139910	8216038	"As of December 4, 2020,
+the dataset was viewed more than 438 000 times and downloaded more than 24 000
+times."
+34139910	8216038	"As of December 7, 2020, Google Scholar
+(scholar.google.com) showed that 25 publications had referenced the public-use
+dataset."
+34139910	8216038	"CDC published the scientific-use dataset to a GitHub repository, containing 315 593
+records and 29 fields, on May 18, 2020."
+34139910	8216038	"As of
+December 4, 2020, the scientific-use dataset contained 8 405 079 records
+representing every case in the United States reported to CDC through November 19."
+34139910	8216038	"The dataset had been accessed by 94 researchers as of December 11, 2020, and Google
+Scholar shows 2 studies referencing these data."
+34139910	8216038	"Public datasets are needed for open government and transparency, promotion of
+research, and efficiency."
+34139910	8216038	"To balance the need to create and share public-use datasets with the
+protection of patients’ privacy and confidential information, we created a 7-step
+data-sharing privacy review."
+34139910	8216038	"Given the large number and variety of repositories for public datasets, as well as the large number of datasets contained in each repository, we were
+unable to develop a practical, systematic process for reviewing all public datasets
+and ensure with complete certainty that the risk of re-identifying patients in our
+datasets through the use of quasi-identifiers is completely eliminated."
+34139910	8216038	"As
+methods improve for comparing our data with other released datasets to rule out
+security concerns, we could include additional fields or apply more precise privacy
+levels, thus making our data more useful for analysis."
+34139910	8216038	"This article describes work
+accomplished in 2020, but CDC efforts to release COVID-19 case surveillance datasets
+for public use continues, and we expect to release new public-use datasets using
+refined methods."
+34139910	8216038	"We developed the scientific and public-use datasets on independent timelines, and
+because we generated both datasets from the same common analytical sets, a
+linkability risk may exist."
+34139910	8216038	"We accounted for this potential risk by carefully
+selecting variables for each dataset, using k-anonymity, and
+incorporating controls in the registration information and data-use restriction
+agreement that make this risk acceptable to CDC data stewards."
+34139910	8216038	"Privacy review is complex, and requirements must be understood by
+epidemiologists, statisticians, data product owners, informaticians, analysts,
+health communicators, and data custodians so that they are implemented, tested, and
+applied reliably each time a dataset is updated."
+34139910	8216038	"After we released these public datasets, we received user feedback that led us to
+make changes that improved data quality, such as consistently coding missing values,
+adding county coding, and accurately identifying state and county of residence."
+34139910	8216038	"Through the creation of our 2 public datasets and implementation of computational
+privacy protections, CDC contributed to a knowledge base of COVID-19 data practices
+that will be used for design and publication of additional datasets beyond case
+surveillance."
+34139910	8216038	"CDC had published 40 COVID-19 public datasets on Data.CDC.gov as of
+November 18, 2020."
+34139910	8216038	"Currently, 2 datasets use these computational privacy
+protections; additional datasets will be published based on feedback and public
+health program priority."
+34139910	8216038	"CDC’s 2 public datasets are available to the public for review, for use in research,
+and to improve data transparency with partners."
+34139910	8216038	"With increased systematic releases of these
+public datasets and additional training and information available, we expect
+increased use and greater public health benefit."
+34321491	8319175	In this study, we relied on a clinical dataset, which included data about gender, age and blood type, to perform a diagnostic analysis of the COVID-19 virus.
+34321491	8319175	Preparing clinical dataset to predict the survival chance of COVID-19 patients for the first time
+34321491	8319175	Providing a careful analysis of the dataset characteristics, including an examination of the effects of features on the mortality rate and the correlations between each feature pair
+34321491	8319175	Making our dataset publicly available
+34321491	8319175	Proposing a data augmentation procedure to balance the number of samples of different classes of the dataset.
+34321491	8319175	Notably, our data augmentation method is generic and applicable to any other dataset.
+34321491	8319175	The remaining sections of the paper are organised as follows: “Literature review” reviews the related literature; “Background” briefly sets out the required background; “Description of our clinical dataset” describes our dataset; “Proposed methodology” explains the proposed methodology; “Experiments” presents our experimental results; and “Discussion” and “Conclusions and future works” present our discussion, conclusion and future works.
+34321491	8319175	Their method had an accuracy of 96.97% and 97.95% for the test set and cross-validation set, respectively.
+34321491	8319175	collected a dataset of X-ray images and made it publicly available.
+34321491	8319175	The dataset has been used to benchmark various machine-learning methods for COVID-19 diagnosis.
+34321491	8319175	In another benchmarking study, 12 COVID-19 diagnostic methods were examined based on 10 evaluation criteria.
+34321491	8319175	The SVM classifier was reported to have the best performance among the benchmarked methods.
+34321491	8319175	Second, some of the clinical features that we considered had never been used previously, which is why we have released our dataset publicly.
+34321491	8319175	In this section, we review information gain (IG), as it is used to determine the degree to which each feature of our dataset contributes to the patients’ deaths (see “Description of our clinical dataset”).
+34321491	8319175	IG calculates the entropy reduction that results from splitting a dataset, , based on a given value, , of a random variable, , such that:where  and  are entropy on dataset  and conditional entropy on dataset , respectively, given that .
+34321491	8319175	The dataset we collected in this paper comprised 320 patients (300 cases of recovered patients and 20 cases of deceased patients).
+34321491	8319175	The mean age of patients in the dataset was 49.5 years old, and the standard deviation was 18.5.
+34321491	8319175	Descriptions of the dataset features are presented in Table 2.
+34321491	8319175	Our dataset is publicly available in.
+34321491	8319175	Institutional approval was granted for the use of the patient datasets in research studies for diagnostic and therapeutic purposes.
+34321491	8319175	Approval was granted on the grounds of existing datasets.
+34321491	8319175	Description of the dataset features used for classification.
+34321491	8319175	As our dataset had not been released previously, it was vital to assess the degree to which each dataset feature contributed to patients’ deaths.
+34321491	8319175	Various feature selection methods are available to determine the weight of each feature in the classification of dataset samples.
+34321491	8319175	We also inspected the interplay between the dataset features to determine the potential correlation between them.
+34321491	8319175	Correlation between dataset features.
+34321491	8319175	In the dataset collected, the number of recovered patients was 300 and the number of deceased patients was 20.
+34321491	8319175	To ensure accurate classification, it was necessary to balance the recovered to the deceased ratio of the dataset samples.
+34321491	8319175	Training the AE 10 times using different training and validation sets yielded 10 AEs with a similar architecture but different parameters.
+34321491	8319175	It should be noted that our augmentation procedure is generic and can be applied to any other dataset.
+34321491	8319175	It should be noted that each model was initialised with different parameters, trained on partially different training samples and validated on a totally different validation set.
+34321491	8319175	The 200 reconstructed samples were attached to 320 original samples to yield a dataset of 520 samples (line 9).
+34321491	8319175	The trained CNN was used to classify the test data (line 21).
+34321491	8319175	Partition  to 90% training set  and 10% test set
+34321491	8319175	In this study, the dataset contained 320 samples of infected cases.
+34321491	8319175	Additionally, we also generated 200 reconstructed deceased cases to balance the recovered to the deceased ratio of our dataset.
+34321491	8319175	After the reconstruction phase, our dataset contained 520 cases.
+34321491	8319175	As mentioned in “Implementation details of CNN-AE”, we used 10 AEs to augment the available dataset.
+34321491	8319175	To investigate the effectiveness of our data augmentation procedure, we trained a CNN on the original dataset and our CNN-AE on an augmented dataset.
+34321491	8319175	The original dataset comprised only 20 samples with the deceased label, but had 300 samples with the recovered label.
+34321491	8319175	However, using an augmented dataset with 300 recovered samples and 220 deceased samples facilitated the CNN training and improved accuracy (see Table 7).
+34321491	8319175	The specificity measure of CNN was almost zero, which was due to the fact that the CNN was unable to distinguish between deceased and recovered samples due to the insufficient number of deceased samples in the original dataset.
+34321491	8319175	Loss plots of the CNN and CNN-AE methods during the training of our dataset.
+34321491	8319175	Accuracy plots of the CNN and CNN-AE methods during training of our dataset.
+34321491	8319175	In this section, we evaluated the performance of various existing deep models that were trained on a dataset of CT images.
+34321491	8319175	The CT images were taken from the same patients for whom the clinical dataset was collected.
+34321491	8319175	The dataset comprised 2822 CT images of recovered patients and 2269 CT images of deceased patients.
+34321491	8319175	The CT image dataset size was much greater than the clinical dataset size, as the CT dataset contained multiple images for each patient.
+34321491	8319175	As the number of samples of the two classes in the dataset was almost balanced, we did not apply our data augmentation technique to the CT dataset.
+34321491	8319175	This was not the case for the clinical dataset for which each patient had only one value per feature.
+34321491	8319175	As stated above, the CT image dataset size was almost 10 times that of the clinical dataset size.
+34321491	8319175	Thus, clinical data could be a good replacement for CT training data if the preparation of the CT images would be difficult or expensive.
+34321491	8319175	First, each method was trained on the original dataset (without augmentation).
+34321491	8319175	The training was repeated using the augmented dataset.
+34321491	8319175	All of the rows in Table 9 that are related to training on the augmented dataset are marked with ‘ + AE’ postfix in the ‘Methods’ column.
+34321491	8319175	Thus, all methods have clearly benefitted from the augmentation performed on the training dataset.
+34321491	8319175	Among the evaluated methods, Naïve Bayes had the worst performance; however, it also benefitted from the augmented dataset.
+34321491	8319175	In this section, we examine whether feature selection improves the classification performance of the clinical dataset.
+34321491	8319175	The results of running each of the meta-heuristic methods listed above was a set of selected features (see Table 10) that specified a subset of the clinical dataset.
+34321491	8319175	The dataset extracted subset was used to train a CNN for survival chance prediction.
+34321491	8319175	As Table 11 shows, regardless of the feature selection method, the CNN-AE trained on the selected features did not outperform the CNN-AE trained on the full dataset (see the last row of Table 7).
+34321491	8319175	We performed experiments using both a clinical dataset and a CT image dataset.
+34321491	8319175	The size of the CT image dataset was almost 10 times that of the clinical dataset.
+34321491	8319175	Another aspect that might encourage the use of clinical training samples relates to data collection costs.
+34321491	8319175	Preparing CT data may require high-end facilities; however, such facilities may increase data collection costs.
+34321491	8319175	In addition to the proposed method, our dataset can be considered the second contribution of this paper, as it is a good resource for further medical research.
+34321491	8319175	The analysis of the importance of the dataset features and their correlations are shown in Figs.
+34321491	8319175	Using our dataset, experts can study the relationships between patients’ medical conditions (e.g., blood pressure and diabetes) and the likelihood of dying from COVID-19.
+34321491	8319175	Some of the features in our dataset were gathered directly by asking patients; thus, it is possible that patients provided incorrect information.
+34321491	8319175	To this end, a new dataset consisting of clinical features, such as gender, age, blood pressure and the presence of various diseases, was gathered.
+34321491	8319175	The first contribution of this paper relates to our decision to release the collected dataset for public use.
+34321491	8319175	We also analysed the dataset features using IG and correlation.
+34321491	8319175	To reduce the data imbalance of our dataset, we proposed a novel data augmentation method based on AEs.
+34321491	8319175	Our data augmentation approach is generic and applicable to other datasets.
+34321491	8319175	However, a CNN trained on a dataset without augmentation yielded an accuracy of 92.49  2.75%, a recall of 95.4  0.88% and a specificity of 96.9  3.73%.
+33520590	7823180	Although the original BHA demonstrates superior results in various optimization problems, in certain datasets it lacks exploration capabilities.
+33520590	7823180	(3) The suggested algorithm’s performance is examined against four benchmark global optimization functions and compared with nine MHAs, including Levy firefly algorithm (LFFA) [68], gravitational search algorithm (GSA) [69], cat swarm algorithm (CSA) [70], Big Bang-Big Crunch (BB-BC) [71], ABC, PSO, GWO, BHA, and LBH.
+33520590	7823180	The proposed classifier achieves 80% prediction accuracy on the dataset, which is the best performance compared to other conventional classifiers.
+33520590	7823180	The number of the features and class labels of the dataset is equal to neurons number within the input layer and output layers, respectively [40, 72].
+33520590	7823180	In addition to the MSE criterion, the classification accuracy is used to assess the classification performance of MLP on unseen data, which is determined as:where  and  denote the number of samples which the classifier correctly identifies, and total sample size in the test dataset, respectively.
+33520590	7823180	However, the BHA fails to show its excellent performance in some datasets, so an improved version of BHA has been suggested to enhance its global search capability using the opposition-based learning components and Levy flight random walking.
+33520590	7823180	The MSE of MLP is calculated for each star on a given training dataset.
+33520590	7823180	The weights and biases in the best solution are assigned to MLP and its performance is assessed on the test data.
+33520590	7823180	This part is also divided further into three subsections: experimental setup, experimental results of seven benchmark datasets, and statistical analysis.
+33520590	7823180	In the third part, the application of the proposed BHACRW-MLP is investigated on a real coronavirus related gene expression dataset and its performance evaluated against several conventional classification methods.
+33520590	7823180	Table 1 lists these benchmark functions with their ranges and dimensions.
+33520590	7823180	From the University of California at Irvine (UCI) Machine Learning Repository seven standard classification datasets were employed to evaluate the efficiency of the two BHA-based trainers.
+33520590	7823180	The main characteristics of these datasets have been shown in Table 3, in which the size of the features, classes, and samples of the training and testing data have been reported.
+33520590	7823180	As can be observed, the chosen datasets contain different sizes of features and samples.
+33520590	7823180	Description of datasets
+33520590	7823180	To maintain the class distribution as much as possible, all datasets were divided into two subsets using stratified sampling, where 66% was allocated to the training set and the remaining 34% was assigned to the testing set.
+33520590	7823180	Besides, all datasets were standardized at the interval [− 1.1] using the min–max normalization to reduce the impact of attributes with different scales [2, 10].
+33520590	7823180	The structure of MLP for each dataset has been shown in Table 3.
+33520590	7823180	Iris dataset has 4 features and 3 classes, so we used an FNN with a 4-9-3 structure to find the best optimal values for weights and biases parameters of MLP.
+33520590	7823180	Table 4 displays the experimental results for the proposed BHA-MLP, BHACRW-MLP, and other MHAs-based trainers on the iris dataset.
+33520590	7823180	Experimental results for the iris dataset
+33520590	7823180	Convergence curve of BHA-MLP and BHACRW-MLP a and box plot chart b for the iris dataset
+33520590	7823180	The wine dataset has 13 features and 3 categories, so we used a 13-27-3 FNN model to find the best weight and bias values for MLP.
+33520590	7823180	Table 5 shows the results of MHAs-based MLP networks in the wine dataset.
+33520590	7823180	In this dataset, MVO shows superior performance compared to other nature-inspired algorithms.
+33520590	7823180	Experimental result for wine dataset
+33520590	7823180	For the wine dataset, the results of simple BHA is better than BHACRW.
+33520590	7823180	Convergence curve of BHA-MLP and BHACRW-MLP a and box plot chart b for the wine dataset
+33520590	7823180	The blood dataset includes four features and two categories, so we employed the 4-9-3 FNN model to find the best weight and bias for MLP.
+33520590	7823180	Table 6 displays the blood dataset test results.
+33520590	7823180	In this dataset, the BHACRW has the highest accuracy and the lowest MSE compared to all nature-inspired algorithms.
+33520590	7823180	Experimental result for blood dataset
+33520590	7823180	Convergence curve of BHA-MLP and BHACRW-MLP a and box plot chart b for the blood dataset
+33520590	7823180	The liver disorder dataset has 6 attributes and 2 classes, thus we utilized a 6-13-2 FNN model to find the best MLP weight and bias.
+33520590	7823180	Convergence curve of BHA-MLP and BHACRW-MLP a and box plot chart b for the Liver Disorder dataset
+33520590	7823180	Experimental result for liver disorders dataset
+33520590	7823180	We used a 7-15-3 FNN model to figure out the best weight and bias values for MLP as the seeds dataset has 13 features and 3 categories.
+33520590	7823180	The findings of the evaluation of the seeds dataset are reported in Table 8.
+33520590	7823180	Experimental result for seeds dataset
+33520590	7823180	Convergence curve of BHA-MLP and BHACRW-MLP a and box plot chart b for seeds dataset
+33520590	7823180	The Statlog dataset consists of thirteen features and two categories, so we used the 13-27-2 FNN model to determine the best weight and bias for MLP.
+33520590	7823180	The results of the assessment for the Statlog (heart) dataset are shown in Table 9.
+33520590	7823180	Experimental result for the Statlog (Heart) dataset
+33520590	7823180	Convergence curve of BHA-MLP and BHACRW-MLP a and box plot chart b for Statlog (Heart) dataset
+33520590	7823180	The balance scale dataset is composed of four features and three categories, so the 4-9-3 FNN model is used to specify the best weight and bias for MLP.
+33520590	7823180	The results of identifying equilibrium scale tips for the balance scale dataset are shown in Table 10.
+33520590	7823180	Experimental result for balance scale dataset
+33520590	7823180	Convergence curve of BHA-MLP and BHACRW-MLP a and box plot chart b for the balance scale dataset
+33520590	7823180	In particular, due to the limited number of comparative approaches, the nonparametric Friedman test was used to assign average accuracy value rankings to each of the ten algorithms on seven classification datasets, which is shown in Table 11.
+33520590	7823180	Average rankings of accuracy values among 10 algorithms on seven classification datasets using Friedman test
+33520590	7823180	The GSE149273 is a sequence read archive (SRA) dataset that was downloaded from the gene expression omnibus database (GEO) and composed of 4056 common genes and three categories (RVA, RVC, Control).
+33520590	7823180	For this dataset, the population size and number of iterations were considered as 50 and 100.
+33520590	7823180	The performance of different classifiers including K-nearest neighbor (KNN), Naïve Bayes (NB), support vector machine (SVM), backpropagation (BP)-MLP, Bayesian neural network (BNN), decision tree (C4.5), random forest (RF), BHA-MLP, and BHACRW-MLP for the GSE149273 (ACE2 gene) dataset are shown in Table 13.
+33520590	7823180	Mean classification accuracy of proposed MLP approaches and other algorithms for GSE149273 (COVID-19) dataset
+33520590	7823180	Convergence curve of BHA-MLP and BHACRW-MLP for the COVID-19-GSE149273 dataset
+33520590	7823180	The results of the experiments over several test functions, various benchmark classification datasets, and a real COVID-19 related gene expression dataset allow us to draw some significant conclusions.
+33520590	7823180	Second, in neural network training, the proposed BHACRW algorithm provides high average classification accuracy and superior local avoidance in benchmark iris, wine, blood, seeds, and Statlog datasets.
+33520590	7823180	For dataset wine, BHA, and BHACRW’s average classification accuracy are 99.16% which means that there is only one case that cannot be properly classified in the testing dataset.
+33520590	7823180	It is noteworthy that while MVO has the highest accuracy in the liver disorders, and balance scale datasets, BHA exhibits comparable results.
+33520590	7823180	Third, based on the average of MSE, BHACRW is the most successful approach among the comparable trainers in three datasets: Balance, liver disorders, and blood.
+33520590	7823180	While MVO and SOS acquired the minimum average MSE regarding the Statlog (heart) and seeds datasets, BHACRW was the second best method, with very close results to MVO and SOS.
+33520590	7823180	In the case of the remaining datasets, BHA and BHACRW demonstrate very competitive performance compared to MVO, SOS, and WOA approaches.
+33520590	7823180	In regard to box plot compactness and standard deviation, we have observed that the proposed approaches especially BHACRW perform well in most datasets, demonstrating their robustness and consistency as compared with other algorithms.
+33520590	7823180	Fourth, by considering the convergence curves and lowest error values, the proposed approaches have the fastest convergence speed for training all the given datasets and they can reach the lowest MSE in the middle of iterations.
+33520590	7823180	From these figures, it is concluded that the proposed methods show well results as compared with different state-of-the-art methods for test benchmark classification datasets.
+33520590	7823180	MSE performance graphs for each dataset using different methods
+33520590	7823180	Accuracy performance graphs for each dataset using different methods
+33520590	7823180	Lastly, the application of BHACRW-MLP on the real ACE2 gene expression dataset prove that the suggested approach is exceedingly effectual in solving real and complex classification problems.
+33520590	7823180	The outcomes achieved are at the least, perceptive and competitive, at the most, superior to those got by most of the nature-inspired algorithms especially GA, PSO, CS, BBO, WOA, and GSA in all benchmark datasets.
+33520590	7823180	To benchmark the efficiency of the developed BHACRW approach, experiments were carried out in three steps.
+33520590	7823180	In the first stage of the experiments, the BHACRW was evaluated against 4 benchmark global optimization functions and its performance was compared with the original BHA, and eight other metaheuristic algorithms: ABC, PSO, LFFA, GWO, GSA, CSA, BB-BC, and LBH.
+33520590	7823180	In the second stage, seven UCI classification datasets with different characteristics were used to examine the performance of the suggested method for training MLP.
+33520590	7823180	The suggested BHACRW method performs better and in some datasets shows comparable results in the term of classification accuracy and convergence, due to its high convergence rate, and high local optima avoidance.
+33520590	7823180	In conclusion, the present findings confirm the efficiency of the suggested approach in solving numerical functions and training FNNs for the classification of various datasets.
+33520590	7823180	However, there is still improvement needed in coverage speed and performance dependency of the proposed method on datasets.
+34573790	8468495	Synthetic COVID-19 healthcare datasets can come to our rescue and have been shown to be useful as proxies for real data [10].
+34573790	8468495	Thus, there is a trade-off between resemblance (between synthetic data and real training data) and privacy, similar to the fit vs. robustness trade-off.
+34573790	8468495	We demonstrate potential problems with synthetic data fairness using three different synthetic healthcare datasets in prior published research studies [15,16,20]:
+34573790	8468495	Case Study 1 examines the fairness of synthetic version of an extract from the popular MIMIC-III dataset designed to duplicate a prior research study [16].
+34573790	8468495	Case Study 2 explores the fairness of synthetic sleep data generated for various age-groups and genders on the American Time Use Survey (ATUS) dataset [15].
+34573790	8468495	The results demonstrated that the synthetic dataset has significant biases in the representation of females and some racial/ethnic minority subjects for some diagnoses time-series.
+34573790	8468495	This article exposes the bias that exists in published synthetic datasets towards certain protected attributes through three case-studies of healthcare datasets.
+34573790	8468495	We then highlight the inequities in published synthetically generated datasets using three case-studies.
+34573790	8468495	As HealthGAN promises the juxtaposition of utility, resemblance and fairness with recently published work (catering to categorical, binary and temporal data) [20], we focus on the analysis of several available synthetic datasets produced by HealthGAN for this work.
+34573790	8468495	A synthetic data set could be unfair even if quality metrics applied to the entire synthetic data set are very good.
+34573790	8468495	"Under this rule, the positive outcome prediction of a given subgroup should be at least 80% of the other subgroups to achieve fairness, i.e.,
+
+These probabilities are estimated by frequencies evaluated on training data and the prediction of the ML classifier on the training data."
+34573790	8468495	For RCTs,  is estimated from the clinical trial data and  is estimated from surveillance datasets or electronic medical records.
+34573790	8468495	We develop two metrics to quantify fairness on three previously published datasets for MIMIC-III, American Time Use Survey (ATUS) and Autism Spectral Disorder (ASD) claims data for different protected attributes such as age, gender, and race.
+34573790	8468495	For temporal healthcare datasets, we present the time-series specific log disparity metric.
+34573790	8468495	However, even though it might be able to achieve that on the dataset overall, we are interested to know the resemblance and fairness at the subgroup-level.
+34573790	8468495	These are quantified for both non-temporal and temporal healthcare datasets.
+34573790	8468495	The two metrics enable an outlook on fairness in resemblance for healthcare datasets.
+34573790	8468495	For example, to verify that a certain drug works for both men and women, the research study must incorporate both men and women during their trials.
+34573790	8468495	For synthetic data generation, we are concerned with the overall protected attribute representation between the real and synthetic datasets.
+34573790	8468495	The metric can be used to compare covariate time-series for various subgroups of protected attributes in the dataset.
+34573790	8468495	Let us consider a univariate time-series healthcare dataset which consists of protected attributes , unprotected attributes  and temporal attributes .
+34573790	8468495	We can stratify this data based on any protected attribute.
+34573790	8468495	If a given dataset is not in the above format, it can easily be mapped to this format using the workflow described by Dash et al.
+34573790	8468495	If the dataset is not temporal in nature, the temporal variables  would not exist for the particular dataset.
+34573790	8468495	Multiparameter Intelligent Monitoring in Intensive Care (MIMIC) is a public dataset that includes de-identified information about patient demographics and ICU stays for patients [41].
+34573790	8468495	A synthetic version of the analyzed dataset was created based on MIMIC-III using HealthGAN and the results were duplicated [16].
+34573790	8468495	Thus, we use the synthetic and real versions of the MIMIC-III dataset for our analysis here.
+34573790	8468495	For example, additional parity fairness constraints regarding violated protected attributes could be incorporated into the data generation model as is common practice in ML-Fairness research.
+34573790	8468495	We used the ATUS dataset to look at the average sleep times of various subgroups [15] using the disparate impact metric.
+34573790	8468495	As the dataset is temporal, we also applied the time-series log disparity metric.
+34573790	8468495	However, the metrics based on representational rates are not sufficient for evaluating time-series healthcare datasets since temporal variables are not captured.
+34573790	8468495	Thus, we also applied the time-series log disparity metric on this dataset.
+34573790	8468495	The healthcare data are stratified based on the protected attributes (age, gender) and the resultant time-series for real and synthetic datasets are compared using time-series metrics like Pearson’s Correlation Coefficient (PCC) and Directional Symmetry (DS).
+34573790	8468495	The age in the dataset is split into bins: 15–24, 25–34, 35–44, 45–54, 55–64, 65–74 and 75+.
+34573790	8468495	We can also measure the fairness of the synthetic data based on combination of age-groups with gender in the dataset.
+34573790	8468495	However, when we look at the DS metric results, we notice that the synthetic data perform poorly across almost all combinations of age and genders, hinting at its inability to capture the directional trends for protected attributes in this dataset.
+34573790	8468495	The real dataset consists of bi-yearly analysis of seven different Comorbid Medical Conditions (CMCs) for each subject.
+34573790	8468495	The ASD Prevalence dataset includes records of prevalence of diagnosis for each patient.
+34573790	8468495	The time-series of ASD prevalence values for each gender and ethnicity are compared between the real and synthetic health datasets using the time-series log disparity metric applied to each CMC.
+34573790	8468495	Figure 6 shows that the correlational fairness between real and synthetic dataset shows signs of bias.
+34573790	8468495	This underscores that for while capturing the prevalence of diagnosis in the dataset, the synthetic data over-represent some and under-represent other subgroups.
+34573790	8468495	If the exact synthetic dataset is used for any analysis, the resultant may be altered by bias introduced in the synthetic data.
+34573790	8468495	We demonstrated the presence of unfairness in synthetically generated healthcare datasets using three case studies:
+34573790	8468495	Impact of Race on 30-day Mortality Using MIMIC-III Dataset: Using a very popular medical dataset, MIMIC-III, we found that the synthetic version of the dataset introduced bias across different covariates as identified using the log disparity metric.
+34573790	8468495	MIMIC’s popularity in the healthcare research domain makes this insight quite alarming, where someone might use a synthetically generated dataset without realising the hidden bias.
+34573790	8468495	Average Sleep Time of Americans based on ATUS Data: On observing the sleep times using the log disparity metric, the synthetic dataset appears to adequately represent all genders and ages with a slight over-representation for males aged 25–34 and under-representation of females aged 75 or older.
+34573790	8468495	Co-occurring Comorbidities in ASD Patients’ Claims Dataset: Using time-series log disparity metric on ASD dataset, we found that multivariate time-series are highly complex and synthetic data struggle to capture all time-series trends.
+34573790	8468495	Furthermore, during synthetic data generation, the method does not specifically know what are the protected and unprotected attributes in the dataset, and considers them the same.
+34573790	8468495	The metric is quite powerful, highlighting stratified groups of individuals in a given dataset which are under or over-represented.
+34573790	8468495	Metrics for Temporal Analysis: We introduced a time-series log disparity metric which uses a time-series based metric to measure fairness for temporal synthetic healthcare datasets.
+34573790	8468495	The necessity to capture temporal trends of healthcare datasets is highly essential, as health events of an individual are often time-series, each event being a time-point across the life of an individual.
+34573790	8468495	From our case studies, we found that temporal datasets are hard for synthetic data generation methods to capture, often leading to unfair representation of certain covariates.
+34573790	8468495	We identified that synthetic healthcare datasets had problems which did not appear without adequate measurement.
+34573790	8468495	Thus, it is important to realise the utility of any given synthetic dataset.
+34573790	8468495	For example, the utility could be the accuracy of a classifier on a testing set.
+34573790	8468495	After ensuring subgroup privacy and overall privacy, the resultant dataset could be considered privacy-fair.
+34573790	8468495	Fairness metrics can be incorporated into the design of generation methods much like fairness measures are used in ML-fairness research.
+34573790	8468495	In the case studies, the resultant datasets try to preserve the proportions of various subgroups of a given feature.
+34573790	8468495	The fairness metrics will be evaluated on this dataset, producing the over- and under-representation of certain classes.
+34573790	8468495	Thus, development of synthetic data generation methods must incorporate fairness metrics to generate more robust and representative data.
+34573790	8468495	For the identification of fairness across covariates, we leveraged three published synthetic datasets from the healthcare domain with both real and synthetic versions.
+34573790	8468495	Impact of Race on 30-day mortality using MIMIC-III Dataset: MIMIC is a large, publicly accessible (with proper approvals) dataset that includes information about patients from Beth Israel Deaconess Medical Center in Boston, Massachusetts.
+34573790	8468495	The dataset is available in different versions.
+34573790	8468495	MIMIC-III is an extension to this dataset which includes ICU stay details of over 40,000 patients from the year 2001 to 2012.
+34573790	8468495	In [21], the authors used MIMIC-II to create a dataset for understanding the impact of race on 30-day mortality.
+34573790	8468495	[16] leveraged the idea to create a similar dataset using MIMIC-III as well as created a synthetic version using HealthGAN.
+34573790	8468495	The dataset includes three protected attributes: race (White, Black, Asian, Unknown and Other), gender (Male and Female) and age (≤45, 46–65, 66–80, 81+) along with the outcome variable of 30-day mortality: alive (0) and dead (1).
+34573790	8468495	[15] derived a time series of data set of minutes of sleep times per hour for each subject and created a synthetic version using HealthGAN.
+34573790	8468495	The dataset consists of over 30,000 individuals summarized using covariates of: gender (Male and Female), age-groups (15–24, 25–34, 35–44, 45–54, 55–64, 65–74 and 75+) and day of the week and month collected.
+34573790	8468495	The dataset includes children identified with ASD and controls.
+34573790	8468495	For our analysis, we used the synthetic and real datasets generated based on the prevalence of various diagnosis.
+34573790	8468495	Additional synthetic and real datasets exist based on the counts of CMCs occuring at each time set but we exclude this additional for brevity.
+34573790	8468495	The synthetic datasets for the three different datasets were based on HealthGAN, which is a GAN based on Wasserstein GAN with gradient penalty in prior studies.
+34573790	8468495	The synthetic versions of some datasets and the real ATUS dataset are available in another repository.
+34573790	8468495	The real MIMIC and ASD datasets are only accessible via permission of the original owners, thus, we cannot release them.

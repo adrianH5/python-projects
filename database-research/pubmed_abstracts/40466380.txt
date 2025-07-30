@@ -1,0 +1,2 @@
+This study aims to elucidate the biological mechanisms in the tumour microenvironment as read from images by comprehensive Gene Set Enrichment Analysis (GSEA) based on radiomic features that predict survival.
+Furthermore, this study enables biological interpretation of survival prediction using radiomic features, which in turn allows for optimal treatment feedback to improve clinical outcomes.

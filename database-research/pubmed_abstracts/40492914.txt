@@ -1,0 +1,6 @@
+Background The interpretation of the multiparametric MRI, which combines dynamic contrast-enhanced (DCE) MRI with diffusion-weighted imaging (DWI), has the potential to increase MRI diagnostic accuracy.
+Purpose To investigate and validate the potential of DWI with an apparent diffusion coefficient (ADC) cutoff in evaluating additional lesions detected at preoperative MRI in patients with breast cancer.
+Materials and Methods In this retrospective review, data from patients with additional lesions (Breast Imaging Reporting and Data System [BI-RADS] category 3 or higher) who underwent MRI between June 2019 and June 2021 were evaluated.
+Two breast radiologists independently evaluated additional enhanced lesions and measured the ADC values.
+The optimal ADC cutoff for downgrading lesions was determined according to the Youden index and was applied to a separate validation cohort.
+The efficacy of prespecified ADC values (1.53 × 10

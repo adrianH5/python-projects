@@ -1,0 +1,5 @@
+Epigenetic mechanisms are crucial in the tightly regulated process of neurogenesis from radial glial cells (RGCs) to intermediate progenitor cells (IPCs) to neurons during embryonic brain development.
+Plant homeodomain (PHD) finger proteins as important epigenetic readers are implicated in development and diseases, yet their roles in embryonic neurogenesis remain largely unexplored.
+In this study, we found different PHD finger proteins are differentially expressed along the neurogenesis trajectory.
+Among them, we investigated the function of PHF23 using mouse models, which is highly expressed in RGCs and IPCs, but not in neurons.
+Our findings demonstrate that PHF23 is essential for proper neurogenesis, and

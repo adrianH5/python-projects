@@ -1,0 +1,8 @@
+Hepatocellular carcinoma (HCC) is the most prevalent form of primary liver cancer, associated with high morbidity and mortality worldwide.
+Despite advancements in diagnostic methods and systemic treatments, including tyrosine kinase inhibitors (TKIs) and immune checkpoint inhibitors (ICIs), the development of drug resistance remains a significant challenge in HCC management.
+Traditional treatments such as surgical resection and transarterial chemoembolization offer limited efficacy, especially in advanced stages.
+Although novel therapies like lenvatinib, sorafenib, regorafenib, and ICIs have shown promise, their effectiveness is often hindered by primary and acquired resistance, leading to poor long-term survival outcomes.
+This review focuses on the molecular mechanisms underlying resistance to targeted therapies and immunotherapies in HCC.
+Key factors contributing to resistance include alterations in the tumor microenvironment (TME), immune evasion, hypoxia, changes in cellular metabolism, and genetic mutations.
+Additionally, molecular players such as ferroptosis, autophagy, apoptosis, endoplasmic reticulum stress, ABC transporters, and non-coding RNAs(ncRNAs) are discussed as contributors to drug resistance.
+Understanding these mechanisms is critical for the development of novel therapeutic strategies aimed at overcoming resistance, improving patient outcomes, and ultimately enhancing survival rates in HCC patients.

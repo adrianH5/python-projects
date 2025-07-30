@@ -1,0 +1,13 @@
+Cisplatin resistance is a major therapeutic challenge in esophageal squamous cell carcinoma (ESCC).
+circRNAs play an important role in cisplatin resistance.
+The aim of this paper was to investigate the role and mechanism of hsa_circ_0049271 in ESCC progression and drug resistance.
+GEO database was retrieved to collect circRNAs, miRNAs, and mRNAs associated with cisplatin resistance in ESCC.
+Reverse transcription-quantitative PCR (RT-qPCR) was used to detect hsa_circ_0049271 expression levels in ESCC cell lines.
+CCK-8 assay, flow cytometric assay, and cell migration/invasion assays were used to examine the function of hsa_circ_0049271 in ESCC cells.
+RT-qPCR and coculture assays were used to detect the effect of circRNA_103615 on cellular senescence under cisplatin treatment.
+Hsa_circ_0049271, miR-455-5p, and ETS1 were dysregulated in ESCC tissues.
+ESCC cell lines had increased levels of hsa_circ_0049271 and ETS1 mRNA compared with normal cells and normal tissues, as well as decreased levels of miR-455-5p.
+Functionally, small interfering RNA silencing of hsa_circ_0049271 by small interfering RNA resulted in suppression of cell growth, migration, and invasion in both non-senescent and senescent cells.
+MiR-455-5p was significantly increased, but ETS1 expression was significantly decreased after hsa_circ_0049271 knockdown.
+Hsa_circ_0049271 promoted the secretion of senescence-associated secretory phenotypes, including IL1B, IL6, CXCL5, and MMP3.
+Hsa_circ_0049271 may enhance DDP treatment-induced cellular senescence to promote ESCC progression and chemoresistance through the miR-455-5p/ETS1 axis.

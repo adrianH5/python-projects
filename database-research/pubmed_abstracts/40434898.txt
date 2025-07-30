@@ -1,0 +1,6 @@
+The midbody (MB), a transient structure formed during cytokinesis, has evolved from a mere structural component to a complex signaling organelle with diverse functions beyond cell division.
+Recent studies have revealed that jettisoned midbody remnants (MBRs) play crucial roles in intercellular communication, influencing cell fate decisions, particularly in stem cells and cancer.
+MBRs act as large extracellular vesicles, transferring functional RNA and proteins that modulate cell behavior, including proliferation and cancer progression.
+The protein KIF23, associated with midbodies, is a pan-cancer marker, underscoring the clinical relevance of MB research.
+This review highlights the emerging significance of midbodies and MBRs in cancer biology, neurobiology, and regenerative medicine, offering new avenues for diagnostic and therapeutic strategies.
+By reshaping our understanding of cell division and intercellular communication, these findings open exciting frontiers in cell biology with huge potential for diagnostic and therapeutic applications.

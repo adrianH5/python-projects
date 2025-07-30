@@ -1,0 +1,12 @@
+Models used to calculate the relative biological effectiveness (RBE) of carbon-ion radiotherapy include the microdosimetric kinetic model (MKM), stochastic MKM (SMKM), repair-misrepair-fixation (RMF) model, and local effect model I (LEM).
+We compared the sensitivities of these models to variations in input biological and reference parameters.
+We used Monte Carlo simulations of clinically realistic carbon-ion beams incident on a phantom and scored input parameters for RBE models (kinetic energy, microdosimetric spectra, double-strand break yield, and physical dose).
+We combined data with cell- and model-specific parameters to calculate the linear (α) and quadratic (β) components of the carbon-ion beam, which were used along with the reference α and β values and dose to calculate RBE.
+Model sensitivity to parameters was quantified by statistically introducing uncertainty into independent parameters and sampling the resultant RBE.
+To assess histological differences contributing to variations in the RBE, we also used various reference cell lines.
+We recalculated the RBE using different reported datasets within individual cell lines to compare inter- and intra-cell line variability.
+The variability introduced by inherent measurement and estimation uncertainty was typically 26% for the microdosimetric models, 25% for the RMF model, and 30% for the LEM at the 1-σ level.
+The variability across cell lines, which averaged 27% for the microdosimetric models and 2.5% for the RMF model, was similar to the intra-cell line variability in the RBE as calculated with unique datasets for an individual cell line.
+While the focus is largely on comparing models, the results of this study indicate that the variation in RBE within each model, based solely on reference parameters, is substantial.
+Our findings indicate that the selection of input parameters is of comparable importance to the choice of cell line and even the RBE model.
+This study provides insight into model robustness and emphasizes the need for continued computational and in-vitro RBE research.

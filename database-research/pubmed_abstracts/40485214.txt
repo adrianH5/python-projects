@@ -1,0 +1,14 @@
+Hereditary diffuse gastric and lobular breast cancer (HDGLBC) is an inherited cancer syndrome predominantly characterized by diffuse gastric cancer (DGC) and lobular breast cancer (LBC).
+LBC often serves as the initial manifestation of HDGLBC, even in the absence of DGC symptoms.
+Despite advancements in medical technology and treatment, gastric cancer remains a major health burden globally.
+Approximately 1%-3% of gastric cancers are attributed to hereditary cancer syndromes, with pathogenic variants in the CDH1 gene being a significant contributor.
+CDH1 encodes E-cadherin, a protein essential for cell-cell adhesion in epithelial tissues.
+CDH1 inactivation through germline mutations leads to a high risk of developing DGC and LBC.
+The inactivation process involves a 'second hit' mechanism, commonly promoter methylation, leading to the loss of E-cadherin expression and subsequent tumorigenesis.
+Additionally, mechanisms such as loss of heterozygosity and somatic mutations contribute to CDH1 inactivation.
+Current research highlights the complexity of these mechanisms and their role in HDGLBC pathogenesis.
+Therapeutic strategies targeting these pathways, including epigenetic drugs and synthetic lethal approaches, show promise in restoring CDH1 function and inhibiting tumor progression.
+Given the aggressive nature of HDGLBC, early diagnosis and personalized treatment plans are crucial.
+Surveillance for LBC in CDH1 mutation carriers should be prioritized, considering prophylactic mastectomy and chemoprevention.
+This narrative review highlights the need for understanding the genetic and epigenetic alterations in HDGLBC, which provide critical insights for developing effective therapies and improving patient outcomes.
+Further research is necessary to refine these strategies and explore novel therapeutic targets.

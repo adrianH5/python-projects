@@ -1,0 +1,1 @@
+To validate a lesion masking prediction model, Mammatus, previously developed on a North American cohort, on a larger retrospective breast cancer screening cohort from a single center in the Netherlands.

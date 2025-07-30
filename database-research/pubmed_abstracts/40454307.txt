@@ -1,0 +1,7 @@
+Cisplatin and its analogs are extensively utilized as metal-based anticancer agents in clinical settings due to their mechanism of action, which involves targeting genomic double-stranded DNA to induce cytotoxicity in cancer cells.
+However, the associated severe side effects and DNA damage repair-inducing drug resistance present significant challenges.
+In recent years, G-quadruplex nucleic acids, formed through the self-assembly of guanine-rich nucleic acid sequences, have emerged as a compelling target for the design of novel anticancer therapeutics.
+The strategic design of platinum complexes that selectively interact with, stabilize, or cleave G-quadruplex structures represents a promising approach for developing effective anticancer agents to overcome cisplatin resistance.
+This review will emphasize the advancements made over the past decade in interacting G-quadruplexes with platinum complexes as potential anticancer therapeutics.
+The ongoing development of platinum complexes spans from targeting nuclear DNA G-quadruplexes to mitochondrial DNA and cytoplasmic RNA G-quadruplexes, evolving from monotherapy approaches, such as chemotherapy and photodynamic therapy, to a combination of radiotherapy, immunotherapy, and more, highlighting the dynamic progress of platinum complexes.
+At the end, we have summarized 4 points of pending issues in this fast-growing field, which we hope can provide some help to the development of this field.

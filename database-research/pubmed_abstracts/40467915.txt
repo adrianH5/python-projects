@@ -1,0 +1,4 @@
+Tumor necrosis factor-related apoptosis-inducing ligand (TRAIL) induces apoptosis in various tumor cell types.
+Although TRAIL can directly trigger cell death, cancer cells may acquire resistance to its apoptotic effects during treatment.
+Sphingosine kinase 1 (SPHK1) is a key regulator of cancer progression and resistance to therapy.
+In this study, we determined whether combining TRAIL with PF-543, a specific SPHK1 inhibitor, could circumvent TRAIL resistance in previously established TRAIL-resistant colorectal cancer cells (HCT116-TR cells).

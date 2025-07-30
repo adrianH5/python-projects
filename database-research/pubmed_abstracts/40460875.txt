@@ -1,0 +1,10 @@
+Kaiso (ZBTB33) is a transcription factor involved in mitotic clonal expansion and tumorigenesis in association with Adenomatous Polyposis Coli (APC) loss of heterozygosity.
+ENCODE data show strong overlap of the Kaiso promoter-binding site-encode-derived Kaiso-binding site (eKBS) and many other transcription factors, including BRCA1.
+Here we sought to determine whether BRCA1 is a component of the Kaiso enhanceosome that regulates gene transcription.
+Using proximal ligation assays, immunoprecipitation followed by mass spectrometry, luciferase assays and ChIP-seq experiments, we evaluated the association between BRCA1 and Kaiso.
+Kaiso nuclear extract immunoprecipitation experiments revealed that Kaiso associates strongly with genes involved in RNA splicing and processing.
+When Kaiso was not crosslinked to DNA, BRCA1 was not detected among Kaiso-binding proteins.
+However, overexpression of BRCA1 increased Kaiso-mediated gene transcription in luciferase assays in a Kaiso-dependent manner.
+Comparison of BRCA1 ChIP-seq and Kaiso ChIP-seq data from HCT116 cells revealed both BRCA1 and Kaiso commonly bind to the promoters of 379 genes.
+The most enriched term associated with these genes where BRCA1 and Kaiso bind their promoters is metabolism of RNA.
+Disease processes associated with these BRCA1/Kaiso gene promoters indicate that BRCA1 is functionally linked to a Kaiso-directed programme of RNAP2-mediated gene transcription and likely associated with colorectal cancer development and maintenance.

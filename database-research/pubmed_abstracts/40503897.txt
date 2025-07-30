@@ -1,0 +1,16 @@
+RNA alternative splicing is a fundamental cellular process implicated in cancer development.
+Kaposi's sarcoma-associated herpesvirus (KSHV), the etiological agent of multiple human malignancies, including Kaposi's sarcoma (KS), remains a significant concern, particularly in AIDS patients.
+A CRISPR-Cas9 screening of matched primary rat mesenchymal stem cells (MM) and KSHV-transformed MM cells (KMM) identified key splicing factors involved in KSHV-induced cellular transformation.
+To elucidate the mechanisms by which KSHV-driven splicing reprogramming mediates cellular transformation, we performed transcriptomic sequencing, identifying 131 differentially alternative spliced transcripts, with exon skipping as the predominant event.
+Notably, these transcripts were enriched in vascular permeability, multiple metabolic pathways, and ERK1/2 signaling cascades, which play key roles in KSHV-induced oncogenesis.
+Further analyses of cells infected with KSHV mutants lacking latent genes, including vFLIP, vCyclin, and viral miRNAs, as well as cells overexpressing LANA, revealed their involvement in alternative splicing regulation.
+Among the identified splicing factors, FAM50A, a component of the spliceosome complex C, was found to be crucial for KSHV-mediated transformation.
+FAM50A knockout resulted in distinct splicing profiles in both MM and KMM cells and significantly inhibited KSHV-driven proliferation, cellular transformation, and tumorigenesis.
+Consistently, FAM50A knockdown suppressed the proliferation of PEL cells.
+Mechanistically, FAM50A knockout altered SHP2 splicing, promoting an isoform with enhanced enzymatic activity that led to reduced STAT3 Y705 phosphorylation in KMM cells.
+These findings reveal a novel paradigm in which KSHV hijacks host splicing machinery, specifically FAM50A-mediated SHP2 splicing, to sustain STAT3 activation and drive oncogenic transformation.IMPORTANCEKaposi's sarcoma-associated herpesvirus (KSHV) causes cancers such as Kaposi's sarcoma, particularly in AIDS patients.
+This study uncovers how KSHV hijacks a fundamental cellular process called RNA splicing to promote cancer development.
+We identified key splicing events that alter critical pathways involved in vascular permeability, metabolism, and oncogenic signaling, particularly ERK1/2 and STAT3.
+A specific protein, FAM50A, was found to be essential for KSHV-driven cancerous transformation.
+Removing FAM50A disrupted splicing, weakening cancer-promoting signals.
+These findings provide new insights into how viruses manipulate host cells to drive cancer and highlight RNA splicing as a potential target for future therapies.

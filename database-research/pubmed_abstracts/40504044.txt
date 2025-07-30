@@ -1,0 +1,9 @@
+Melanoma accounts for the majority of all skin cancer-related deaths with rising incidence rates.
+Adoptive cell therapies (ACT) with tumor antigen-specific CD8+ T cells derived from human-induced pluripotent stem cells (hiPSCs) might offer a promising treatment strategy for advanced malignant melanoma patients.
+In this study, we investigated two strategies for the generation of CD8+ T cells from hiPSCs expressing a T cell receptor (TCR) specific for the melanoma-associated antigen recognized by T cells (MART-1) or a chimeric antigen receptor (CAR) specific for the melanoma-associated chondroitin sulfate proteoglycan (MCSP), respectively.
+While the long-term co-culture of bioengineered OP9 stromal cells with CD34+ hematopoietic stem/progenitor cells (HSPCs) facilitated the generation of CD4 + CD8+ double-positive (DP) T cells, we encountered difficulties in obtaining high percentages of CD8+ single-positive (SP) T cells using this method.
+However, the replacement of the OP9 cells with a T cell differentiation kit enabled the generation of CD8+ SP T cells after 47 days.
+Despite a low expression of the T cell marker CD3 on the surface of the generated CD8+ SP T cells, we detected intracellular IFN-γ and surface CD107a expression upon stimulation.
+Moreover, the generated CD8+ SP T cells exhibited cytotoxic effects when co-cultured with melanoma cell lines.
+The use of scaffold/matrix attachment region (S/MAR) DNA vectors ensured persistent expression of the TCR or the CAR during differentiation of T cells.
+Hence, these findings demonstrate the potential as well as the challenges associated with using S/MAR DNA vector-transfected hiPSCs for the generation of melanoma antigen-specific CD8+ T cells.

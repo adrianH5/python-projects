@@ -1,0 +1,5 @@
+Oral cancer constitutes a significant public health challenge, and gaining insights into the pathogenesis of oral cancer is crucial for the development of innovative therapeutic approaches.
+To address this objective, this study investigates the impact of interleukin-37 (IL-37) on oral cancer and its underlying mechanisms.
+Two oral cancer cell lines, HN13 and HSC-6, were employed in the study.
+Our findings reveal that IL-37 markedly inhibits cell viability and induces apoptosis in oral cancer cells.
+IL-37 attenuates the proliferation of oral cancer cells induced by lipopolysaccharide and tumor necrosis factor-alpha, while knockdown of

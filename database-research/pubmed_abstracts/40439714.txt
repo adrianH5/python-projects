@@ -1,0 +1,11 @@
+IntroductionDrug-induced myelosuppression (DIM) is a serious side effect of several medications, particularly chemotherapy, immunosuppressants, and targeted therapies, which can lead to infections, anemia, and bleeding.
+While these drugs are effective, their adverse effects can disrupt treatment plans and reduce quality of life.
+However, early identification of DIM remains challenging, as many associated drugs do not explicitly list this risk, complicating clinical monitoring.MethodsThis study utilized the FDA Adverse Event Reporting System (FAERS) database to perform signal mining and assess the risks of DIM.
+Reports from the first quarter of 2004 to the third quarter of 2024 were analyzed using signal detection algorithms such as Reporting Odds Ratio (ROR), Proportional Reporting Ratio (PRR), Bayesian Confidence Propagation Neural Network (BCPNN), and Empirical Bayesian Geometric Mean (EBGM).
+These methods helped identify drug signals related to DIM and explore risk factors and occurrence patterns.ResultsThe study analyzed 21 380 adverse event reports related to DIM, showing a significant increase in the number of reports since 2019, peaking at 3501 in 2021.
+Among patients, 50.2% were female, 35.5% were male, and the majority (44.42%) were aged between 18 and 65.
+Breast cancer patients had the highest DIM incidence (10.6%).
+Geographically, China reported the most cases (57.4%), followed by Japan (12.4%), and the United States (6.76%).
+The drugs most frequently linked to DIM included trastuzumab, bevacizumab, venetoclax, methotrexate, and pertuzumab.
+Additionally, 12 new drug signals were identified that were not labeled for DIM risk, including PERTUZUMAB, SODIUM CHLORIDE, and MESNA, which showed particularly strong or unexpected associations.ConclusionThis study identifies new DIM-related drug signals and emphasizes the need for early detection to improve clinical management and optimize treatment regimens.
+The findings provide valuable evidence for drug safety monitoring and can help reduce DIM-related risks in cancer treatment.

@@ -1,0 +1,11 @@
+Colorectal cancer (CRC) is a malignant tumor that affects patients worldwide, and its mortality rate is high.
+Although treatments that activate TNF-associated apoptosis-inducing ligand (TRAIL)-induced apoptosis have shown some efficacy, many CRC patients are resistant to TRAIL therapy.
+Our findings indicated that the lncRNA PTCSC1 is over-expressed in CRC.
+However, the mechanism underlying resistance to PTCSC1 in CRC is unclear.
+In this work, we determined the role of PTCSC1 in TRAIL-resistant CRC patients and explored possible molecular mechanisms.
+We found that TRAIL-sensitive HCT116 and SW480 cells expressed relatively lower levels of PTCSC1 than TRAIL-resistant HT-29 and caco-2 cells.
+Increased expression of PTCSC1 was here found to inhibited TRAIL-induced apoptosis in HCT116 and SW480 cells.
+Decreased expression of PTCSC1 increased TRAIL-induced apoptosis in HT-29 and caco-2 cells.
+The level of expression of PTCSC1 was related to their sensitivity to TRAIL-induced apoptosis.
+Furthermore, PTCSC1 decreased the expression of Death Receptor 4 (DR4) while increased the activation of serine/threonine kinase 1 (AKT) and Forkhead Box O3a (FOXO3a).
+Our findings therefore support the idea that targeting PTCSC1 function may represent a strategy to overcome TRAIL resistance in CRC through the DR4/AKT/FOXO3a pathway.

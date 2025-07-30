@@ -1,0 +1,10 @@
+Fusion oncogene MLL-AF9 initiates AML via downstream targets such as HOXA9.
+Drivers in the complicated settings of advanced AML, however, remain to be incompletely elucidated.
+Any factors to incur upregulation of the effector HOXA9 predictably aggravate the effect of DOT1L-mediated H3K79 methylation on HOXA9 expression in MLL-AF9-driven AML.
+In the present study, we identified that SET and MYND domain-containing protein 3 (SMYD3) was overexpressed in AML and predicted a poor prognosis for AML patients.
+Given that H3K4me3 typically activates the transcription of oncogenes, we hypothesized that SMYD3-catalyzed H3K4me3 may directly increase HOXA9 transcription, offering an additional regulation layer to HOXA9 gene transcription activation in MLL-AF9 AML.
+We tested this hypothesis and unveiled that SMYD3 is responsible for mediating H3K4me3 enrichment and for independently activating HOXA9 transcription.
+Transcription factor HOXA9 in turn bound to the promoter region of SMYD3 and enhanced its transcription.
+The resultant vicious circle of SMYD3-H3K4me3-HOXA9 exacerbated proliferation and blocked differentiation in both AML cell lines and primary cells fractionated from patients with AML.
+Combinational disruption of this loop and DOT1L inhibition led to enhanced anti-leukemia activity against MLL-AF9 AML in vitro and in vivo.
+In conclusion, our findings may advocate the current understanding regarding the underlying mechanism and offer SMYD3 as a promising intervention target to override the complicated settings in advanced AML.

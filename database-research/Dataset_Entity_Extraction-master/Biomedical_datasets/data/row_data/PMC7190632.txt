@@ -1,0 +1,6 @@
+To investigate if MERS-CoV can persistently infect cells from an insectivorous bat, we infected big brown bat (Eptesicus fuscus) kidney cells (Efk) at a low multiplicity of infection (MOI; 0.01 TCID50/cell) (Fig. 1a).
+On re-infecting persistently infected bat cells with W + virus (MOI = 1 TCID50/cell), we did not observe an increase in upE or ORF5 RNA levels in the superinfected cells, suggesting a lack of replication of W+ and ΔORF5 virus at 24 and 48 hpi (Fig. 5a,b).
+Graphs were plotted using GraphPad prism version 7.
+Dicer-ready siRNA (DsiRNA) specific to big brown bat and human IRF3 was designed and obtained through Integrated DNA Technologies (IDT).
+Scrambled non-specific DsiRNA (NC DsiRNA; IDT) was used as a negative control.
+Amino acid sequence from CoVs were retrieved from NCBI’s database (accession numbers in supplementary Fig S4d), and multiple sequence alignment was performed using MacVector software.

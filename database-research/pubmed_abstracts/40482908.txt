@@ -1,0 +1,8 @@
+There is convincing evidence that being overweight or having obesity is associated with an increased risk of developing oral squamous cell carcinoma (OSCC).
+Despite OSCC frequently spread to the cervical lymph nodes, where adipose tissue is the predominant tissue within the microenvironment, it is still largely unknown whether adipocytes could contribute to the formation of oral cancer stem cells (CSCs) niche during the oral carcinogenesis.
+Here, we report that adipocytes promote the CSCs phenotype of OSCC cells through the activation of complement C3 (C3).
+Subsequent clinical data analysis revealed that the elevated levels of C3 and its receptor C3AR are associated with aggressive features and shorter survival in human OSCC patients.
+Furthermore, C3 exists as an autocrine factor and through C3AR interaction regulates OSCC stemness and properties such as cell proliferation, migration and invasion.
+On the other hand, C3 and C3AR were found to be highly abundant in adipocytes upon co-cultured with OSCC cells, demonstrating its paracrine effect on adipocyte-CSCs interaction, which in turn promotes CSC properties and supports oral carcinogenesis.
+Intriguingly, the inhibition of functional C3/C3AR axis by sphingosine, a bioactive sphingolipid metabolite, resulted in the suppression of OSCC cells growth and adipocyte-promoted oral CSC self-renewal.
+In conclusion, our findings provide a novel insight into the mechanisms underlying the role of C3/C3AR axis in mediating the reciprocal interactions between adipocytes and OSCC cells, acting in an autocrine and paracrine manner, and specific inhibition of this interaction by sphingosine offers a potential targeted therapeutic approach for OSCC treatment.

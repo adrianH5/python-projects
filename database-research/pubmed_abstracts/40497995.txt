@@ -1,0 +1,13 @@
+Prostate cancer cell lines are particularly clinically homogenous, mostly representing metastatic states rather than localized disease.
+While there has been significant work in the development of additional models, few have been created without oncogenic transformation.
+We derived a primary prostate cancer cell line from a patient with localized Gleason 7 prostate cancer-designated CaB34-which spontaneously immortalized.
+We leveraged CaB34 to generate a paired radioresistant subline, CaB34-CF, using a clinically relevant fractionated radiotherapy schedule.
+These two paired cell lines were investigated extensively to determine their molecular characteristics and therapy responses.
+Both CaB34 and CaB34-CF express prostate-specific markers, including KRT18, NKX3.1, and AMACR.
+Multi-omic analyses using RNAseq and shotgun proteomics identified NNMT as the most significantly dysregulated component in CaB34-CF.
+A bioinformatic analysis determined that NNMT was more abundant within prostate tumors compared to benign prostate, suggesting a role in tumor progression.
+Knockdown studies of NNMT demonstrated significant radiosensitization of CaB34-CF cells, which was largely a result of increased radiation-induced cellular senescence.
+Growth as 3D organoids was significantly higher in the CaB34-CF line, and demonstrated a less structured pattern of expression of cytokeratin markers.
+Radiosensitization with NNMT siRNA was recapitulated in a 3D organoid clonogenic assay in CaB34-CF cells.
+Our research provides a paired primary model of treatment-naïve and radioresistant disease to address mechanisms of therapy resistance, while expanding the repertoire of localized prostate cancer cell lines for the research community.
+In addition, our findings present NNMT as a potential therapeutic target for sensitization of radioresistant disease.

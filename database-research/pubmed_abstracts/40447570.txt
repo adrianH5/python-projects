@@ -1,0 +1,7 @@
+The tuberculosis (TB) lesion is a complex structure, contributing to the overall spectrum of TB.
+We characterise, using RNA sequencing, 44 fresh human pulmonary TB lesion samples from 13 TB individuals (drug-sensitive and multidrug-resistant TB) undergoing therapeutic surgery.
+We confirm clear separation between the TB lesion and adjacent non-lesional tissue, with the lesion samples consistently displaying increased inflammatory profile despite heterogeneity.
+Using weighted correlation network analysis, we identify 17 transcriptional modules associated with TB lesion and demonstrate a gradient of immune-related transcript abundance according to spatial organization of the lesion.
+Furthermore, we associate the modular transcriptional signature of the TB lesion with clinical surrogates of treatment efficacy and TB severity.
+We show that patients with worse disease present an overabundance of immune/inflammation-related modules and downregulated tissue repair and metabolism modules.
+Our findings provide evidence of a relationship between clinical parameters, treatment response and immune signatures at the infection site.

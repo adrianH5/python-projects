@@ -1,0 +1,9 @@
+Breast cancer poses a significant threat to women's health.
+Early diagnosis using pathological images is crucial for effective treatment planning.
+However, the low resolution of pathological images poses significant challenges for the extraction of valid information, while their high complexity greatly increases the difficulty of image analysis.
+To address these challenges, this paper introduces an innovative classification method for breast cancer histopathological images, combining enhanced nuclear information with an Enhanced Vision Transformer (EVT) model using wavelet position embedding.
+The quintessence of the proposed method resides in its capacity to efficiently extract both biological and foundational image features from pathological images.
+This is accomplished by initially enhancing nuclear information through the application of segmentation models and sophisticated image processing techniques.
+Subsequently, wavelet positional embedding within the EVT model is leveraged to precisely capture key information embedded within the images.
+Experimental outcomes have demonstrated that our method attains an accuracy rate of 94.61% and an AUC value of 99.07% on the BreaKHis dataset, significantly outperforming other baseline network models in terms of classification efficacy.
+Furthermore, through visual representation, this study underscores the significance of nuclear information enhancement and wavelet position transformation in the EVT model, thereby further confirming the effectiveness and effectiveness of the method we proposed.

@@ -1,0 +1,6 @@
+This work describes the architecture design of a patient-facing technology (PFT) based on the Research Electronic Data Capture (REDCap) platform and other tools to support cancer patients in self-tracking and managing medication concerns and symptoms during transitions of care.
+The design is guided by the Chronic Care Model (CCM) and User-Centered Design (UCD) principles for a personalized application to inform, engage, and empower patients.
+We describe the evolutional details of four major versions, which represent milestones of our PFT, highlighting how specific objectives were achieved and the barriers encountered.
+Additionally, patient representatives were involved in the evaluation of prototypes, and potential improvements to the application of the REDCap platform were discussed.
+REDCap has demonstrated great potential to serve beyond its traditional role as a survey distribution and management tool.
+This work is intended to provide developers with insights into future PFT architecture development and sustainable research strategies.

@@ -1,0 +1,16 @@
+Breast cancer is a prevalent and deadly disease affecting women worldwide.
+Recent studies have shown that γ-glutamyl cyclotransferase (GGCT), an enzyme involved in glutathione metabolism, is consistently upregulated in various cancers.
+However, its specific role in breast cancer remains poorly understood.
+This study aimed to investigate the functional role of GGCT in breast cancer.
+Bioinformatics, immunohistochemistry and immunoblotting analysis revealed that GGCT is significantly upregulated in breast cancer tissues, and its high expression is associated with poor survival outcomes.
+The knockdown of GGCT significantly suppressed MCF-7 and SKBR-3 cell activities.
+Cell proliferation decreased by 29.4-45.9%, and colony formation reduced by 51.5-56.6%.
+Migratory ability diminished by 36.8-49.1%, while invasion capability declined by 35.2-55.0%.
+Moreover, GGCT silencing reduced epithelial-mesenchymal transition (EMT) and inhibited the PI3K/AKT/mTOR signaling pathway.
+Notably, E-cadherin expression significantly increased in MCF-7 and SKBR-3-shGGCT cells, with changes ranging from 2.1-fold to 5.4-fold.
+Conversely, N-cadherin expression decreased by 54.2-84.2% in both cell lines.
+Vimentin expression also decreased significantly, with reductions of 58.8-83.0%.
+Further analyses indicated that p-AKT expression in MCF-7 and SKBR-3-shGGCT cells decreased by 51.4-84.8%.
+Additionally, p-mTOR expression was reduced by 71.2-87.2% in both cell lines, compared to shCtrl.
+Our data highlights the crucial role of GGCT in regulating EMT and the progression of breast cancer.
+The findings suggest that GGCT not only serves as a valuable prognostic marker but also represents a potential target for therapeutic interventions in breast cancer patients.

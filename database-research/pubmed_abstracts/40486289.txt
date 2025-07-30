@@ -1,0 +1,4 @@
+Radiation therapy can trigger activation of the cyclic GMP-AMP synthase (cGAS)- Stimulator of interferon genes (STING) axis via cytoplasmic dsDNA fragment induction.
+The activation of cGAS-STING initiates innate immune signaling mediated by interferon type I that can contribute to eradicate the malignancy.
+The effect was shown to depend on the fractionation scheme employed.
+We hypothesized that the innate immune response can also depend on radiation quality because densely ionizing radiation, such as carbon ions, have different effects on DNA lesion quality.

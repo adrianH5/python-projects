@@ -1,0 +1,9 @@
+High-grade serous ovarian carcinoma (HGSOC) associates with the worst patient outcome.
+Understanding the tumor environment in terms of quantifying endogenous retroviruses (ERVs) and LINE-1 expression and their correlations with inflammation genes, checkpoint inhibitors and patient survival is needed.
+Analysis of 102 treatment-naïve HGSOC and control tissues for ERVs, LINE-1, inflammation and immune checkpoints identified five clusters with diverse patient recurrence-free survivals.
+One cluster termed Triple-I with the best patient survival showed the highest number of tumor infiltrating lymphocytes along with 22 overexpressed genes, including CXCL9 and AIM2.
+However, Triple-I associated with the lowest ERV/LINE-1 expression.
+The tumor cluster with the second-best patient survival had both high ERV/LINE-1 expression and inflammation.
+Multiplex-immunohistochemistry revealed CD28 protein solely on immune cells, without co-expression of the inhibitory CTLA4 receptor.
+The largest tumor cluster with high ERV/LINE-1 expression but low inflammation showed a significant low gene expression of the dsRNA sensors MDA5 and RIG-I supporting an aberrant block in IFN signaling.
+Our study represents an intrinsic 'molecular and immunological snapshot' of the HGSOC tumor environment important for understanding retroelements and inflammation for clinical relevance.

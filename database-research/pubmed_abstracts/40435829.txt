@@ -1,0 +1,9 @@
+This study systematically evaluates the cytotoxic effects of chromanone derivatives on a range of human cell lines, including cancerous (MCF-7, DU-145, A549) and normal (SV-HUC-1) types.
+Using MTT assays, flow cytometric DNA analysis, and Annexin V staining, we assessed the impact of these derivatives on cell viability and apoptosis.
+Results indicate that the studied compounds exhibit diverse cytotoxic profiles across different cell lines.
+Notably, compounds in Group B showed enhanced selectivity for cancer cells over normal cells, with significantly lower IC50 values against MCF-7, DU-145, and A549 cells compared to the normal SV-HUC-1 cells.
+In contrast, the chromanone derivatives from Group A demonstrated comparable cytotoxicity between cancer and normal cells, indicating a lack of selectivity.
+Specifically, 3-chlorophenylchromanone derivative with 2-methylpyrazoline (B2) exhibited strong cytotoxicity against A549 cells, while demonstrating reduced efficacy in MCF-7, DU-145 and SV-HUC-1 cells.
+Additionally, structural variations such as halogen substitutions (Cl vs. Br) played a crucial role in modulating the activity of these compounds.
+These findings suggest that further optimization of substituent types and positions could enhance the selectivity and effectiveness of these compounds as potential anticancer agents.
+The study provides a foundation for future research aimed at developing targeted therapies with improved cancer cell selectivity and reduced toxicity to normal tissues.

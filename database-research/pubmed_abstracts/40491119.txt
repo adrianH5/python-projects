@@ -1,0 +1,8 @@
+The aim of this study was to investigate the predictive role of the peripheral blood CD4/CD8 ratio in patients with non-small cell lung cancer (NSCLC) treated with PD-1/PD-L1 inhibitors therapy.
+Cochrane, Embase, Medline, PubMed, and Web of Science were searched until November 2023.
+Data were analysed using Stata MP 17.0 software.
+Outcome indicators included progression-free survival (PFS) and overall survival (OS).
+A total of five studies of the baseline CD4/CD8 ratio in peripheral blood strictly met the inclusion criteria.
+The pooled outcome indicator showed that high level of peripheral blood CD4/CD8 ratio in patients with NSCLC receiving PD-1/PD-L1 inhibitors was associated with better PFS (HR = 0.62, 95% CI: 0.49-0, 79, p <0.001), rather than OS (HR = 0.90, 95% CI: 0.53-1.51, p = 0.679).
+The results from this meta-analysis demonstrated that in patients with NSCLC receiving PD-1/PD-L1 inhibitors, a high baseline CD4/CD8 ratio in peripheral blood can predict better PFS.
+Key Words: CD4-CD8 Ratio, Immune checkpoint inhibitors, Non-small cell lung cancer, Peripheral blood, Prognosis, Survival.

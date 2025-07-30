@@ -1,0 +1,7 @@
+The cGAS-STING pathway is a critical signaling mechanism in the innate immune system for sensing cytosolic DNA and subsequently facilitating antiviral responses.
+Cyclic GMP-AMP synthase (cGAS) recognizes both foreign and self-DNA in the cytosol, resulting in the formation of 2'3'-cyclic GMP-AMP.
+STING is activated by the cyclic dinucleotide and drives the production of type I interferons as well as pro-inflammatory cytokines.
+Generating an inflammatory response through the cGAS-STING pathway is critical for antiviral defense, and this cascade also has been involved in the regulation of autophagy, cellular senescence, and other diseases.
+Defects in this pathway can result in autoimmunity, chronic inflammation, or increased cancer susceptibility.
+The molecular mechanisms underlying this pathway, its regulatory factors, and how it may contribute to diseases such as systemic lupus erythematosus (SLE), rheumatoid arthritis, and certain cancers were reviewed.
+This review further covers the therapeutic approaches to this system, such as agonists for cancer treatment and antagonists for autoimmune diseases.

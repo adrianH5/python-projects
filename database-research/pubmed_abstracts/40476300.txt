@@ -1,0 +1,10 @@
+The radiation environment in space consists of a complex mixture of particles and energies that are characteristically different from any natural Earth radiation source.
+Projections of space radiation cancer risk are obtained by scaling or adjusting epidemiological models derived from terrestrially exposed cohorts to account for differences in radiation quality, dose rate, and other factors.
+Radiation quality and dose-rate effects introduce significant uncertainty, thereby obfuscating risk communication and hindering the ability to evaluate the efficacy of mitigation strategies such as medical countermeasures.
+Space radiation quality factors are developed through a multi-step process that requires computational models and experimental data.
+The first step in this process involves developing dose-response models and fitting them to data from ground-based experiments involving acute irradiation of animals or cells.
+There is limited ground-based data compared to the range of ions and energies found in space; thus, dose-response models must be able to reproduce available data and predict responses where no data exist.
+This work focuses on developing a microdosimetric (D) dose-response model applicable to experimental datasets relevant to space radiation cancer induction.
+Three experimental datasets, encompassing murine Harderian gland tumorigenesis and chromosome aberrations in human skin fibroblasts and blood lymphocytes, are utilized to demonstrate key features and overall performance of the D model.
+The model generates non-linear dose-responses and can predict charge and energy dependence observed in experimental data without the use of empirical functions or corrections.
+Additionally, the D model identifies the critical microscopic target population and target size that drive the observed biological effects.

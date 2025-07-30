@@ -1,0 +1,7 @@
+Ataxia-telangiectasia and Rad3-related (ATR) protein kinase is an essential regulator of the DNA damage response (DDR) at stalled and collapsed replication forks.
+Tuvusertib (M1774) is a selective, orally available small molecule ATR inhibitor currently in preclinical and clinical development for cancer treatment.
+This study presents a robust and simple 5-min assay designed for the quantification of single agent tuvusertib in human plasma utilizing liquid chromatography tandem mass spectrometry (LC-MS/MS).
+A 20 μL volume of plasma was subjected to protein precipitation, followed by chromatographic separation using a Phenomenex Synergi Polar-RP (4 μm, 2.1 × 50 mm) and a gradient mobile phase system consisting of 0.1% formic acid in both water and acetonitrile during a 4-min run time.
+Mass spectrometric detection was achieved using a SCIEX 6500+ tandem mass spectrometer with electrospray positive-mode ionization.
+With a stable isotopic internal standard, our assay met the criteria outlined by the Food and Drug Administration guidance for bioanalytical method validation, demonstrating robust performance within the range from 5 to 5000 ng/mL.
+This assay will support ongoing and future clinical studies by defining tuvusertib pharmacokinetics.

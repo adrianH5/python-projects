@@ -1,0 +1,9 @@
+Many members of the broad family of enzymes, known as YcaOs have been shown to install azoline heterocycles post-translationally into peptide substrates.
+These moieties can help rigidify structures and contribute to the potent bioactivities of the eventual natural products.
+Several of these enzymes exhibit particularly broad substrate promiscuity and may lend themselves to the synthesis and discovery of new azol(in)e containing peptide inhibitors or probes.
+Herein, we use mRNA display, a high throughput peptide display technology, to examine the substrate promiscuity of the prototypical YcaO cyclodehydratase, LynD.
+mRNA display enables assay of far larger libraries of LynD substrates than previously possible and elucidates several new trends in activity.
+Significantly, while all canonical amino acids are allowed in proximity to the residue undergoing modification, charged residues are disfavored, as are multiple, adjacent heterocyclizations.
+We use these data to construct a deep learning model for accurate prediction of substrate processing by LynD; this model can be used to predict and explain specific combinations of epistatic interactions that alter the LynD's ability to modify a given peptide.
+Comparison to similar data sets from structurally distinct classes of YcaOs elucidates the physical basis of changes in substrate scope and selectivity across these members of the YcaO enzyme family.
+We anticipate that the detailed understanding of the substrate scope and tolerance of these cyclodehydratases can enable their use in the modification of mRNA display libraries for selection of new inhibitors and therapeutics.

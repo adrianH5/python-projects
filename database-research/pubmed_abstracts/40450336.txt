@@ -1,0 +1,3 @@
+Ultrahigh dose rate (UHDR) proton therapy has shown promise in normal tissue sparing by enhancing the therapeutic ratio through a method termed the FLASH effect.
+As in all radiotherapy, accurate in vivo dosimetry is crucial for quality assurance of safe and efficient treatment delivery.
+However, this remains a challenge for UHDR as existing dosimetry systems lack the spatial and temporal resolution required to verify dose and dose rate in complex anatomical regions, especially for pencil beam scanning (PBS) proton therapy.

@@ -1,0 +1,14 @@
+Patients with disseminated metastatic disease from breast cancer are likely to have liver involvement in >50% of cases at some point during disease progression.
+These patients have a poor prognosis; and, when treated with the standard of care systemic therapy they have a median survival of <9-months.
+Increasing survival in breast cancer patients will likely require the administration of better therapies that are specifically targeted to treat distant metastases.
+One approach to increasing treatment efficacy for breast cancer liver metastases is through the application locoregional therapies.
+Locoregional therapies are an appealing interventional approach for breast cancer patients with liver metastases since these tumor lesions are accessible via minimally invasive procedures that can be administered using either ultrasound or CT imaging.
+Current locoregional therapies to treat breast cancer liver metastases are non-specific and have not produced significant increases in survival.
+The goal of this study was to design and test a targeted locoregional therapeutic intervention for breast cancer liver metastases.
+The lead candidate, a fixed-dose small-molecule drug called MBC-005, was tested in vitro and then the efficacy was evaluated in a BALB/c mouse liver metastases model.
+A novel formulation of N-allyl noroxymorphone hydrochloride incorporated into an alginate-based gel overcomes many of the limitations associated with the administration of small-molecule drugs, which include solubility, off-target toxicity, and enzymatic degradation.
+In vitro results demonstrated that MBC-005 mediated its anti-tumorigenic effect through a p21-dependent mechanism via a novel molecular pathway, in which N-allyl noroxymorphone component of MBC-005 stimulated the opioid growth factor receptor to increase p21 expression.
+Intratumoral administration of MBC-005 increased survival 3.9-fold in mice and significantly decreased tumor volume 4-fold.
+While many cytotoxic therapies increase p21 expression as a response to DNA damage, MBC-005 increased p21 expression independent cytotoxic DNA damage.
+MBC-005 did not induce off-target toxicity; and, as such, would be amenable to multiple rounds of administration.
+Nevertheless, it is notable that the positive effects of MBC-005 treatment on increasing survival and decreasing tumor volume in mice was achieved using a single dose.

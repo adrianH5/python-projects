@@ -1,0 +1,6 @@
+The latent class profile model (LCPM) is a widely used technique for identifying distinct subgroups within a sample based on observations' longitudinal responses to categorical items.
+This paper proposes an expanded version of LCPM by embedding time-specific structures.
+Such development allows analysts to investigate associations between latent class memberships and time-dependent predictors at specific time points.
+We suggest a simultaneous estimation of latent class measurement parameters via the expectation-maximization (EM) algorithm, which yields valid point and interval estimators of associations between latent class memberships and covariates.
+We illustrate the validity of our estimation strategy via numerical studies.
+In addition, we demonstrate the novelty of the proposed model by analyzing the head and neck cancer data set.

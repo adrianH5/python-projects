@@ -1,0 +1,12 @@
+SYTL4 (Synaptotagmin Like 4) encodes a protein of synaptotagmin like protein family, which participates in intracellular membrane trafficking.
+Currently, its role and mechanisms in cancer remain unveiled, necessitating additional comprehensive analysis across different types of cancer to assess its potential in diagnosis, prognosis, chemotherapy, and immunotherapy in cancer.
+In our study, the mRNA level, threshold for copy number alterations, segmentation of masked copy number alterations, and methylation of SYTL4 DNA were analyzed based on data from TCGA pan-cancer cohort.
+miRNA, TCPA, mutation and clinical data were analyzed to evaluate diagnostic and prognostic significances of SYTL4.
+Then the results were checked using cBioPortal and GEO database.
+The protein levels were analyzed and evaluated based on HPA database and Clinical Proteomic Tumor Analysis Consortium (CPTAC).
+Biological roles of SYTL4 in pan-cancer were explored by GSEA.
+We use multiple immune infiltration algorithms in TIMER2.0 and TISCH database to cross-verify the associations between SYTL4 expression and tumor immune microenvironment.
+Additionally, we depicted a pan-cancer survival map and explored the differences of gene expressions among cancers with different molecular subtypes.
+Through chemotherapy data from CellMiner, GDSC, CTRP database, we clarified the relationship between SYTL4 and drug resistance.
+Finally, we explored the chemical substances that affect SYTL4 expression through CTD database.
+This study systematically and comprehensively reveals the functions of SYTL4 and potential clinical diagnostic and therapeutic predictive values of SYTL4 in pan-cancer.

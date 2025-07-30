@@ -1,0 +1,9 @@
+Aberrant O-glycosylation of mucin-type glycopeptide 1 (MUC1) is implicated in cancerous cellular processes involving the manipulation of immune response to favour tumour growth and metastasis.
+There is an unmet need for systems glycobiology models to probe the relationship between MUC1 O-glycosylation and immune cells within the tumour microenvironment.
+We expand on the sparsely understood MUC1 and immune cell interactions by building a complete systems model that combines the glycosylation network in the tumour cell with downstream biological networks.
+An ordinary differential equations-based model of the effect of aberrant glycosylation on immune modulation in breast cancer was constructed.
+The model comprises three interdependent component models that are MUC1-type O-glycosylation in the tumour cell, chemokine secretion in macrophages, and signal transduction in the tumour cells.
+A comparative CytoCopasi algorithm was developed to sequentially perturb the networks by an aberrant O-glycosylation.
+Comparative simulations revealed that upregulation of tumour-associated MUC1 sialyl-T antigen in Luminal A breast cancer stimulated the upregulation of the chemokine CXCL5 in tumour-associated macrophages.
+Consequently, increased CXCL5 binding by the tumour cell led to a positive feedback loop through overactive signal transduction and autocrine CXCL5 production.
+Finally, perturbing the glycosylation network with the sialyltransferase inhibitor Soyasaponin-I abrogated the cancerous upregulations in the downstream networks.

@@ -1,0 +1,7 @@
+Pituitary neuroendocrine tumors (PitNETs) can be invasive or aggressive, yet the mechanisms behind these behaviors remain poorly understood, impeding treatment advancements.
+Here, we integrat single-cell RNA sequencing and spatial transcriptomics, analyzing over 177,000 cells and 35,000 spots across 57 tissue samples.
+This comprehensive approach facilitates the identification of PitNETs tumor populations and characterizes the reconfiguration of the tumor microenvironment (TME) as PitNETs progress and invade.
+We trace the trajectory of TPIT-lineage PitNETs and identify an aggressive tumor cluster marked by elevated p53-mediated proliferation and a higher Trouillas classification, both associated with tumor progression.
+Additionally, we document the heterogeneity of immune stromal cells within PitNETs, particularly noting the enrichment of SPP1+ tumor associated macrophages (TAMs) in invasive tumors.
+These TAMs facilitate tumor invasion through the SPP1-ITGAV/ITGB1 signaling pathway.
+Our in-depth single-cell and spatial analysis of PitNETs uncovers the molecular dynamics within the TME, suggesting potential targets for therapeutic intervention.

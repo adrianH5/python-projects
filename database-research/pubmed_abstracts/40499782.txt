@@ -1,0 +1,9 @@
+The mammalian kidney contains numerous nephrons connected to the collecting ducts, and each nephron consists of a glomerulus, a proximal tubule, the loop of Henle (LoH), and a distal tubule.
+Folliculin (FLCN) is a causative gene for Birt-Hogg-Dubé (BHD) syndrome, which is characterized by a variety of manifestations including renal cysts and cancer.
+Although deletion of Flcn in the mouse collecting duct and distal nephron leads to cyst formation, its precise role in the entire nephron remains unclear.
+We report here that nephron-specific Flcn knockout mice exhibit cystogenesis along the entire nephron segments, most prominent in the LoH, preceded by an irregularly shaped lumen lined by enlarged epithelia.
+Single-cell RNA sequencing revealed many upregulated genes, especially in the knockout LoH.
+These genes include those related to lysosomal activity and mTORC1 activation and are likely targets of TFE3/TFEB.
+While the double Flcn/Tfe3 knockout only ameliorates the glomerular cysts, the double Flcn/Tfeb knockout largely reverses most of the phenotypes along the entire nephron.
+Thus, Flcn deletion leads to cystogenesis via aberrant TFEB activation.
+Our findings reveal the essential role of the FLCN-TFEB signaling pathway in nephron development, particularly in LoH, and shed light on the pathogenesis of BHD syndrome.

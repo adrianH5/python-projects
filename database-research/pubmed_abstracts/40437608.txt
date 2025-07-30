@@ -1,0 +1,1 @@
+To assess the predictive performance, risk stratification capabilities, and auxiliary diagnostic utility of radiomics, deep learning, and fusion models in identifying visceral pleural invasion (VPI) in lung adenocarcinoma.

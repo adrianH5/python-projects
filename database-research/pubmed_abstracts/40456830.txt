@@ -1,0 +1,7 @@
+Glioblastoma multiforme (GBM) is an aggressive brain tumor with limited treatment options and prognosis due to its highly invasive nature and therapy resistance.
+Investigating the nanomechanical and pathophysiological properties of GBM cells will shed light on tumor behavior.
+In our study, we investigated the mechanical properties, migration dynamics, and cytoskeletal organization of T98G and U87 MG glioblastoma cell lines using in vitro techniques: atomic force microscopy (AFM) and electric cell-substrate impedance sensing (ECIS).
+While U87 MG cells are Temozolomide (TMZ)-sensitive and exhibit increased susceptibility to cell death and growth inhibition, T98 cells exhibit improved survival and repair in response to TMZ therapy.
+This study found that T98G cells are rougher, stiffer, and more viscous, while U87 MG cells are smoother, more elastic, and less viscous, leading to distinct cellular migration patterns.
+Such differences indicate GBM cell heterogeneity and have consequences for tumor development and resistance to treatment.
+The key differences of the nanomechanical, viscoelastic, and migratory properties between T98G and U87 MG cells, demonstrated in this work will help us gauge the diverse effects of different dosages of radiation along with immunotherapeutic agents, identifying the ideal radioimmunotherapy option.

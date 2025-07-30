@@ -1,0 +1,14 @@
+Uterine sarcoma is strongly associated with poor prognosis.
+However, its treatment options remain limited.
+Tazemetostat is a potent and selective EZH2 inhibitor with limited clinical application.
+Entinostat is one of the strong inhibitors for HDAC1 and HDAC3.
+This study aimed to assess the effect of dual targeting of EZH2 and HDACs on the phenotype of uterine sarcoma cells in both 2D and 3D culture systems.
+The uterine sarcoma cell line (MES-SA) was treated with varying concentrations of tazemetostat and/or entinostat for 24, 48 and 72 h. For 3D culture conditions, the cells were combined with Matrigel and seeded in V-bottom plates and incubated for 5 days.
+Cell proliferation, cell cycle progression and apoptosis were evaluated.
+Additionally, the RNA expression, IHC staining, wound healing assay, DNMT and HDAC activity measurements were conducted.
+Our data showed that single-inhibitor treatment with entinostat or tazemetostat significantly increased the cytotoxicity and significantly enhanced apoptosis concomitantly.
+Furthermore, both inhibitors induced cell cycle arrest in 2D and 3D culture conditions.
+We also demonstrated that entinostat, but not tazemetostat, suppressed the wound healing in the 2D culture.
+The combination treatment showed a significantly superior effect compared to single-agent treatment.
+Our studies demonstrate that treatment with either entinostat or tazemetostat alone showed a potent anti-uterine sarcoma effect in 2D and 3D culture conditions.
+Importantly, the combination of entinostat and tazemetostat produced superior therapeutic effects, suggesting that dual targeting EZH2 and HDACs may provide a promising treatment option for this aggressive cancer.

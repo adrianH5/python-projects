@@ -1,0 +1,15 @@
+Early detection of non-small cell lung cancer (NSCLC) can improve survival rates, and plasma proteomics may provide effective tools for risk prediction.
+The population for this study included 52,913 participants and 2911 plasma proteomics from UK Biobank.
+The cohort was divided into discovery and validation cohorts based on their countries.
+Cox regression, XGBoost, and SHAP analysis were used to identify key NSCLC-associated proteins.
+Machine learning (ML) models were developed and validated across different timeframes.
+Risk stratification was performed using protein levels.
+Temporal change analysis and two-sample Mendelian Randomization (MR) were conducted to assess the early prediction ability and causal relationships, respectively.
+Twenty-five proteins were significantly associated with NSCLC.
+ML identified CXCL17, CEACAM5, and WFDC2 as having the highest predictive power.
+The three-protein panel plus epidemiological indicators exhibited superior performance in 5- and 10-year predictions, achieving AUROC of 0.904 (95%CI: 0.839-0.968) and 0.873 (95%CI: 0.815-0.931), respectively.
+Risk stratification identified a high-risk group with a 9.18-fold higher risk than the general population and a 16.75-fold higher risk than the low-risk group, respectively.
+Temporal change analysis revealed that protein expression levels in cases were globally higher than in controls up to 10 years before diagnosis.
+MR implied a suggestive causal relationship between CXCL17 and NSCLC.
+Our findings suggest three plasma proteins possess robust predictive capabilities for NSCLC, allowing for predictions up to 10 years in advance.
+Incorporating these biomarkers into risk models enhances early detection, providing a foundation for targeted screening and precision medicine in NSCLC.

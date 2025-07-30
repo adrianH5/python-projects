@@ -1,0 +1,9 @@
+Cancer neuroscience has emerged as a pivotal interdisciplinary field, offering transformative insights into tumor progression mechanisms.
+Nonmyelinating Schwann cells (NMSCs), integral yet understudied components of the tumor microenvironment (TME), exhibit complex roles in modulating tumor malignancy.
+Here, we employed deconvolution algorithms to quantify NMSC enrichment by leveraging bulk RNA-seq data.
+By integrating multi-omics and single-cell strategies along with comprehensive bioinformatics analyses, we delineated NMSC-mediated regulatory networks and their functional impact on gastrointestinal tumors.
+NMSC enrichment strongly correlated with core cancer hallmarks, notably "Activating invasion and metastasis" and "Inducing angiogenesis".
+Immune profiling revealed NMSCs as multifaceted regulators of the TME: positively associated with myeloid-derived suppressor cells, natural killer cells, and regulatory T cells, but inversely correlated with CD56dim NK cells, monocytes, and neutrophils.
+Genomic analyses uncovered nuanced associations between NMSC abundance and somatic mutations, copy number variation, and methylation patterns, while microRNA mapping highlighted NMSC-specific networks.
+Single-cell resolution analysis demonstrated that NMSCs engage epithelial cells and fibroblasts via extracellular matrix-centric signaling axes.
+Collectively, our findings establish NMSCs as multifaceted TME orchestrators, providing mechanistic rationale for NMSC-targeted diagnostic biomarkers and stromal reprogramming therapies in precision oncology.

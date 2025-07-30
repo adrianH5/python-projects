@@ -1,0 +1,6 @@
+Significant advancements have been achieved over recent decades in deciphering the molecular mechanisms driving malignant tumor development.
+Despite this progress, the precise roles of individual genes, their interactions, and the associated signaling pathways involved in tumor proliferation remain insufficiently characterized.
+Among these pathways, the mitogen-activated protein kinases (MAPKs) extracellular signal-regulated kinase (ERK)1/2 and p38, which regulate essential cellular functions such as growth, differentiation, and apoptosis, have garnered considerable research attention.
+Building on recent insights into MAPK signaling, we identified components closely linked to ERK1/2 and p38 activity and examined changes in their behavior during tumorigenesis.
+Furthermore, we developed quantifiable metrics to assess ERK1/2 and p38 activity, including the ERK/p38 ratio, a key indicator of tumor cell proliferative or quiescent states, along with activation levels of these signaling pathways.
+Our findings underscore the potential of ERK and p38-related gene expression and pathway dynamics as biomarkers for predicting clinical outcomes and informing tailored therapeutic approaches.

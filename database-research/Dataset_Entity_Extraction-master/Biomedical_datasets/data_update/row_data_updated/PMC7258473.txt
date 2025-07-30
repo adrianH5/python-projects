@@ -1,0 +1,6 @@
+Clinical specimens from a case-patient who had acquired COVID-19 during travel to China and who was identified in Washington, USA, were collected as described ().
+A nearly full-length viral contig obtained in each sample had 100% identity to the 2019-nCoV/USA-WA1/2020 strain (GenBank accession no.
+A patient was identified with confirmed COVID-19 in Washington State on January 22, 2020.
+We sequenced viral RNA from SARS-CoV-2 passage 4 stock and confirmed it to have no nucleotide mutations compared with the original reference sequence (GenBank accession no. MN985325).
+Similar to SARS-CoV, SARS-CoV-2 replicated rapidly in Vero cells after an initial eclipse phase, achieving 105 TCID50/mL by 24 h postinfection and peaking at >106 TCID50/mL.
+Replication in HUH7.0 cells also increased quickly after an initial eclipse phase but plateaued by 24 h postinoculation in the intracellular compartment at 2 × 103 TCID50/mL and decreased after 66 h postinoculation.

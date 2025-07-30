@@ -1,0 +1,9 @@
+Multiple Osteochondromas (MO) can significantly impact physical functioning, yet evidence on how MO affects physical activity levels (PAL) and health-related quality of life (HRQOL) remains limited.
+This study aimed to: (1) characterize the PAL and physical and mental HRQOL of adult patients with MO and compare them with healthy subjects (2) explore whether illness-related symptoms, sociodemographic and psychological factors are associated with patients' PAL and HRQOL.
+This cross-sectional study used a survey consisting of sociodemographic data and validated questionnaires on the PAL (Baecke Physical Activity Questionnaire) and HRQOL (SF-36).
+The PAL, physical and mental HRQOL were compared with reference scores of healthy subjects using a one-sample t-test.
+An a-priori defined theoretical framework (ICF-model) was used to select explanatory variables, including several psychological factors, for the multiple linear regression models of the dependent variables PAL and HRQOL.
+342 patients (42.6% males) with a mean age of 41.8 ± 16.3 completed the survey.
+Mean PAL scores were 7.2 ± 1.7, physical HRQOL 41.7 ± 11.1 and mental HRQOL 49.1 ± 10.5.
+Except for mental HRQOL, these scores were lower than healthy subjects (p < 0.001).
+The final regression model for the PAL contained six factors (R

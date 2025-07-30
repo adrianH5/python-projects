@@ -1,0 +1,3 @@
+Several years ago, I published a paper that described the discrepancy between outgroup and date-based methods for rooting the SARS-CoV-2 phylogenetic tree, and proposed the discrepancy could arise from biases among the available early viral sequences.
+Here, I explain why the root remains uncertain, including via an interactive narrative at https://nextstrain.org/groups/jbloomlab/narratives/SARS2-rooting/early-SARS2-trees-v1 that enables the reader to examine the underlying data and understand discrepancies that lead different methods to reach different inferences about the root.
+I also demonstrate clear evidence of bias among the earliest available sequences, and explain why the root of the SARS-CoV-2 tree cannot be conclusively resolved with the current data.

@@ -1,0 +1,9 @@
+Advanced glycation end products (AGEs) are heterogenous compounds that play a central role in various chronic diseases, such as diabetes, neurodegenerative disorders, cardiovascular diseases, and cancer.
+These are formed by non-enzymatic reaction between reducing sugar and amino group of proteins, lipids and nucleic acids.
+Elevated levels of AGEs are associated with obesity, which is linked to hyperglycemia, dyslipidemia and insulin resistance, contributing to metabolic syndrome and diabetes.
+Both dietary and endogenous AGEs contribute to persistent oxidative stress and inflammation directly through glycated biomolecules and indirectly through its receptor, receptor for advanced glycation end products, RAGE.
+In this context, inflammation is a sustained, systemic immune response with macrophage infiltration into adipose tissues, high pro- inflammatory cytokines leading to immune dysregulation, activation of key inflammatory pathways such as NF-kB and JNK signaling, increase oxidative stress, insulin resistance suggesting inflammation as both a cause and consequence of metabolic dysfunction.
+Persistent oxidative stress and inflammation accelerates AGEs formation, disrupt cellular signaling, alter extracellular matrix integrity, impair release of enzymes and hormones.
+Also, AGE-induced gut microbiome imbalance elicits conditions such as systemic inflammation, intestinal barrier dysfunction and metabolic imbalance, promoting obesity and its complications.
+This review explores the central role of AGEs in obesity-associated inflammation, emphasizing AGE-RAGE signaling, epigenetic regulation and gut microbiome dysfunction.
+Understanding this interplay mediated by AGEs is critical for identifying potential biomarkers of metabolic risk and strategize means to prevent AGEs formation, block AGE-RAGE interaction and signaling, thus mitigating the effects of obesity and its associated diseases.

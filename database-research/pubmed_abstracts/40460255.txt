@@ -1,0 +1,13 @@
+The prognosis of gastric cancer (GC) remains poor due to metastases and resistance to chemotherapy.
+Ferroptosis is a novel cell death regulation mode characterized by iron dependence and lipid peroxidation.
+Dioscin, a compound extracted from the Paris polyphylla rhizomes roots, has been shown to have an inhibitory effect on cancers.
+However, whether it induces ferroptosis to participate in anti-cancer metastasis remains unclear.
+The ability of gastric cancer cells to invade and migrate was evaluated by wound healing and transwell assays.
+Malondialdehyde (MDA), glutathione (GSH) assay kit, and dichlorofluorescin diacetate (DCFH-DA) fluorescent probes were used to detect ferroptosis in gastric cancer cells.
+The expression levels of glutathione peroxidase 4 (GPX4) and solute carrier family 7 member 11 (SLC7A11) were detected by quantitative real-time polymerase chain reaction (qRT-PCR) and Western blot methods.
+The rescue assay was performed by adding Ferrostatin-1 (Fer-1) co-treatment to verify that Dioscin inhibited gastric cancer metastasis by participating in ferroptosis.
+Dioscin inhibited gastric cancer cells' wound healing, migration, and invasion process.
+In addition, Dioscin increased the level of reactive oxygen species (ROS) and MDA while decreasing GSH level, and induced ferroptosis of gastric cancer cells.
+Fer-1, an inhibitor of ferroptosis, could reverse the effect of Dioscin.
+In terms of mechanism, Dioscin induced ferroptosis through SLC7A11/GPX4 axis, and was involved in the regulation of inhibiting metastasis of gastric cancer.
+These results suggested that Dioscin was involved in anti-cancer metastasis by inducing ferroptosis.

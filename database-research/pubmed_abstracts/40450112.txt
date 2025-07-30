@@ -1,0 +1,8 @@
+Combating resistance to targeted therapy remains a major challenge to improving lung cancer care.
+Epithelial-mesenchymal transition (EMT) in tumour cells is an established non-genetic resistance mechanism to EGFR tyrosine kinase inhibitors (TKI) that is also associated with worse outcome in patients.
+Here we demonstrate that integrin-linked kinase (ILK) is an important driver of EMT-mediated TKI resistance in lung adenocarcinoma (LUAD) by promoting a drug-tolerant persister (DTP) cell phenotype.
+Our results indicate that high ILK expression is associated with EMT in LUAD patients and that genetic suppression of ILK can limit EMT progression and reduce the viability of DTP cells by impairing YAP activation, ultimately improving osimertinib (Osi) sensitivity in LUAD cells.
+Importantly, LUAD cells with high ILK expression are able to persist during EGFR-TKI treatment, acquiring additional genetic and phenotypic alterations to develop EGFR-TKI resistance.
+To improve clinical translatability of our findings, we showed that pharmacological inhibition of ILK can suppress EMT and improve Osi response in LUAD cells.
+Lastly, we found that strong immunohistochemistry staining of ILK in patient biopsies was significantly associated with and may be used to predict receptor tyrosine kinase-independent mechanisms of EGFR-TKI resistance.
+Overall, our results suggest that ILK is an important regulator of EGFR-TKI response and may be exploited as a predictor for acquired resistance, providing evidence for co-targeting ILK with EGFR to better control minimal residual disease and EGFR-TKI resistance in lung cancer.

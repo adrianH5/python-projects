@@ -1,0 +1,11 @@
+Flagellin, an essential structural protein of bacterial flagella, has emerged as a potent modulator of both specific and nonspecific immunity, demonstrating significant potential as a vaccine adjuvant and carrier.
+By inducing the release of pro-inflammatory cytokines like IL-1β, TNF-α, IL-6, IL-8, and IL-12, flagellin activates the innate immune system, enhancing antigen-specific adaptive immune responses mediated by tumour-specific type 1 helper T cells and cytotoxic T cells, thus positioning it as a valuable adjuvant or complementary therapy for various cancers and infectious diseases.
+This review explores recent strategies, innovations, and clinical applications of flagellin-based immunotherapies, particularly in the context of infectious diseases and cancers.
+Flagellin from Salmonella typhimurium has been extensively studied as a vaccine adjuvant for diseases like HIV, influenza, dengue, West Nile virus, poultry cholera, and bursal diseases and shows promise in treating lung metastasis, melanoma, colon, and prostate cancers.
+It has also proven effective against multidrug-resistant bacteria, including Pseudomonas aeruginosa and S. typhimurium.
+Notably, S. typhimurium flagellin-based vaccines for influenza have progressed to clinical trials.
+Additionally, flagellins from S. typhi, S. enteritidis, P. aeruginosa, and Escherichia coli are being evaluated as vaccine candidates for plague, malaria, and infections caused by P. aeruginosa and E. coli.
+In cancer therapy, flagellin-based treatments, especially when combined with tumour antigens, have exhibited the ability to enhance anti-tumour immunity and improve patient outcomes.
+Other flagellin-based vaccines derived from S. Dublin, S. munchen, and Vibrio vulnificus have been employed in the treatment of prostate, lung, liver, breast, cervical, and colorectal cancers, as well as lymphoma, melanoma, and radiation-induced mucositis.
+Mobilan, a recombinant non-replicating adenovirus vector expressing Salmonella flagellin, is currently in a phase Ib clinical trial for prostate cancer.
+Overall, bacterial flagellin treatments are generally safe, well-tolerated, and associated with minimal side effects, making them a promising option for managing infectious diseases and cancers.

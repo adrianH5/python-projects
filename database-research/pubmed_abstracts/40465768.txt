@@ -1,0 +1,12 @@
+Extracellular vesicles (EVs), which include exosomes (Exos) and microvesicles (MVs), play a crucial role in intercellular communication and exert various biological activities by delivering specific cargoes of functional molecules, such as RNAs and proteins, to target cells.
+EVs secreted by human mesenchymal stem cells (hMSCs) have demonstrated their capacity to replace intact MSCs in tissue repair and regeneration.
+Induced mesenchymal stem cells (iMSCs) derived from induced pluripotent stem cells (iPSCs) present a promising alternative to traditional MSCs for producing EVs.
+This study aimed to establish an alternative source of EVs from iMSCs and compare them with EVs from adipose-derived MSCs (ADMSCs).
+Both iMSCs and ADMSCs were expanded under xeno-free culture conditions, and conditioned media were collected for EV isolation and characterization.
+The effects of the isolated EVs on cellular viability, apoptosis, senescence, and cell migration were evaluated.
+Results indicated that iMSC-EVs had a larger particle size (~1.5-fold) with no significant differences in morphology or surface markers compared to ADMSC-EVs.
+Furthermore, both iMSC- and ADMSC-derived EVs significantly increased HDF viability at 48 and 72 hours (p ≤ 0.01, p ≤ 0.05).
+Both types of EVs significantly reduced apoptosis levels (p ≤ 0.01) in both HDFs and ADMSCs, while having no effect on senescence induction (p > 0.9999).
+Additionally, iMSC-EVs significantly enhanced ADMSC migration (p < 0.0001), whereas the effect was less pronounced with ADMSC-EVs.
+iMSC-EVs present a promising and a scalable option for regenerative applications, offering advantages over ADMSC-EVs.
+However, further investigation is needed to fully understand their effects and underlying mechanisms.

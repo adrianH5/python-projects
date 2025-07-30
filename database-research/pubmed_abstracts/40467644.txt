@@ -1,0 +1,6 @@
+In this international collaboration, we examined whether survival in metastatic uveal melanoma is associated with primary tumor size at initial diagnosis.
+A total of 128 and 205 patients with American Joint Committee on Cancer (AJCC) stage IV disease were included from the Netherlands and Sweden, respectively.
+Across both cohorts, patients whose tumors had a largest basal diameter ≥ 16 mm or a higher AJCC stage presented with a greater number of hepatic metastases and showed shorter Kaplan-Meier overall survival from the time of metastatic detection.
+However, this association did not persist after adjustment for the number of hepatic metastases in multivariate Cox regression and a Markov multi-state model.
+These findings suggest that primary tumor size is associated with survival in metastatic disease and the burden of metastatic lesions at detection, indicating a potential survival benefit of primary tumor treatment.
+Nevertheless, caution is warranted when interpreting these results, as they differ from some previous reports.

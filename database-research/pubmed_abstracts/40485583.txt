@@ -1,0 +1,11 @@
+Sickle cell disease (SCD) causes severe morbidity and early mortality, yet it varies phenotypically.
+Both air pollution and SCD affect the cardiorespiratory, inflammatory, and endothelial systems; however, limited evidence exists on the effect of long-term air pollution exposure in SCD.
+We hypothesized that annual ambient (outdoor) concentrations of fine particulate matter (PM2.5), particles with a diameter of 2.5 μm or less, at a child's home would be significantly associated with worse clinical, laboratory, and stroke-risk imaging outcomes.
+Patient data for this retrospective study were obtained from a cohort of children with SCD (from 2010 to 2019).
+Annual PM2.5 exposure was estimated using remote-sensing air pollution datasets.
+Statistical analyses employed fixed effects multivariable models, offering a robust approach to isolate the effect of PM2.5 exposure.
+The final cohort included 1,089 children with SCD.
+Higher annual PM2.5 concentrations were significantly associated with more annual hospital days, higher likelihood of hospitalization and abnormal stroke-risk screening, and elevated inflammatory markers.
+Of note, hydroxyurea use mitigated the inflammatory response to PM2.5 but did not mitigate the effect of PM2.5 on clinical outcomes.
+Importantly, the elevated stroke risk associated with PM2.5 exposure persisted, even among children receiving hydroxyurea therapy, highlighting a critical concern in pediatric SCD management.
+These results underscore the clinical importance of addressing environmental factors for comprehensive SCD care.

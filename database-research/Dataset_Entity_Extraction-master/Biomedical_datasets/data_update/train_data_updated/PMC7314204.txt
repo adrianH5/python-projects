@@ -1,0 +1,18 @@
+As of 4 April 2020, the coronavirus disease 2019 (COVID-19) pandemic, caused by the novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) [1], has infected more than 1.2 million people worldwide and the increase in cases has been exponential.
+Viral genomes were aligned using MAFFT v7.427 [6] with 762 high-coverage viral genomes deposited in the GISAID (Global Initiative for Sharing All Influenza Data, recently adapted to include SARS-CoV-2 genomes) database [7, 8] as of March 20, 2020, in addition to the most recent viral genomes sequenced in California as of May 3, 2020 [9], for a total of 983 sequences.
+Assembled SARS-CoV-2 genomes in this study were uploaded to the GISAID database [7, 8] (accession numbers EPI_ISL_417330, EPI_ISL_417331, EPI_ISL_429881, EPI_ISL_EPI_ISL450232 - EPI_ISL450240) and were also submitted to the National Center for Biotechnology Information (NCBI) GenBank database (accession numbers MT419851, MT419852, MT419860, MT510718-726).
+Raw sequence data were submitted to the NCBI Sequence Read Archive (SRA) database (BioProject accession number PRJNA629889 and umbrella BioProject accession number PRJNA171119).
+Data from these patients with COVID-19 were matched with 102 randomly selected negative controls who were patients who tested negative for SARS-CoV-2 over the same time period.
+Among the 46 COVID-19–positive patients, the median age was 44 years, 46% were female, and 65% were outpatients (Supplementary Table 1).
+We noted that a travel history within 2 weeks of symptom onset (median date, 11 March 2020) was significantly associated with COVID-19 infection (odds ratio [OR], 3.8; 95% confidence interval [CI] 1.8–8.4), comprising 43% (20/46) of newly diagnosed cases (Figure 1A).
+Out of the 20 travelers with COVID-19 infection, there were significant associations for prior travel to Europe (5 travelers; OR, 6.1; 95% CI 1.1-32.7), travel outside of San Francisco to other cities within California or other states (United States) (14 travelers; OR: 4.0; 1.6–10.0), and specifically travel to New York (6 travelers; OR, 32.9; 95% CI 1.8-598) as compared with 17 travelers without infection (Figure 1B and Supplementary Tables 2 and 3).
+One cluster of 3 positive cases associated with COVID-19 infection in an airport worker was categorized as a case of community- rather than travel-associated transmission.
+No significant associations were found with regard to close contacts with persons with known COVID-19 infection or frontline healthcare workers.
+Those who did not have a recent travel history, a close contact who was COVID-19 positive, or were not a frontline healthcare worker were categorized as community transmission with an unknown source of infection and comprised 39% of cases.
+We defined genomic clades through the GISAID nomenclature found at that point in time on 20 March 2020 [7, 8].
+Real-time dissemination of epidemiological survey data from positive COVID-19 cases is critical to support efforts to contain or reduce spread of viral infection in the community.
+Our evaluation of diagnosed COVID-19 cases in San Francisco in early March 2020 associates with travelers from New York prior to the recognized spike in New York cases in late March (Figure 1C).
+Travel from New York was underrecognized as a risk factor for COVID-19 infection in the United States in early March.
+Guidelines for COVID-19 testing have not included screening for domestic travel.
+Cryptogenic transmission of COVID-19 by individuals with mild illness or asymptomatic infection is a tremendous challenge to the containment of COVID-19 [15, 16].
+In early-to-mid March 2020, 20 of 46 (43%) COVID-19 cases at a tertiary care hospital in San Francisco, California were travel related.

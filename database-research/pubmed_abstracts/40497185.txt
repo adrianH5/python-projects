@@ -1,0 +1,18 @@
+Background  Colon cancer is a common cause of cancer and cancer-associated deaths in the United States.
+Many factors can influence the overall survival (OS) of patients with colon cancer, such as patient demographics, clinical presentation, and treatment characteristics.
+The goal of this study was to assess the influence of chemotherapy on OS in patients with colon cancer with similar baseline characteristics.
+Materials and methods  A total of 70,876 patients with stage II and III colon cancer, confirmed by pathology, over the age of 18, and who were diagnosed with colon cancer between 2004 and 2019, were selected from the de-identified National Cancer Database (NCDB).
+All of the patients included in the study underwent surgical treatment.
+Patients who received hormonal therapy, radiation therapy, immunotherapy, palliative care, or any treatment modality besides chemotherapy were excluded from the analysis.
+Calculation of the propensity score was performed by computing the probability of patients being in the chemotherapy group using logistic regression.
+The propensity score matching (PSM) was done via the PSMATCH procedure with the SAS software (SAS Institute, Cary, NC, USA) on patients who received chemotherapy compared to patients who received a treatment other than chemotherapy.
+The greedy nearest neighbor matching method was then utilized to match one chemotherapy patient to one non-chemotherapy patient with a caliper of 0.2.
+An exact match was done for sex, race, tumor stage, and year diagnosed at the time of patient diagnosis.
+Multivariate Cox regression analysis was then used to estimate the effect of chemotherapy on OS before and after PSM.
+Results  A total of 70,876 patients were included in the study before PSM, with 44,992 receiving chemotherapy and 25,884 not receiving chemotherapy.
+Before PSM, the OS was 17.55 years for patients who received chemotherapy, compared to 14.12 years for those who did not.
+After matching 23,356 patients, the OS was 17.77 years for patients who received chemotherapy and 12.18 years for those who did not.
+Following PSM, patients who received chemotherapy were 46% less likely to die compared to those who did not receive chemotherapy.
+Conclusion  Our findings, per the PSM method, demonstrate that receiving chemotherapy can be a significant predictor of OS among patients with stage II and III colon cancer.
+Other variables such as tumor stage, age, and insurance type were also found to be significant predictors of OS in colon cancer patients.
+Prospective clinical studies are necessary and should be performed to determine the true effects of chemotherapy on OS.

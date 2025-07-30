@@ -1,0 +1,9 @@
+Lung squamous cell carcinoma (LUSC) remains a major clinical challenge due to its aggressive nature and poor prognosis.
+Enhancer of zeste homolog 2 (EZH2), a key epigenetic regulator within the polycomb repressive complex 2 (PRC2), has emerged as a critical player in cancer progression.
+This study investigates the dual role of EZH2 in driving tumor proliferation and modulating the immune microenvironment in LUSC.
+Bioinformatics analysis revealed significant upregulation of EZH2 in LUSC tissues compared with normal counterparts, with high EZH2 expression correlating with improved overall survival in early-stage patients.
+Functional assays in EZH2 knockout LUSC cell lines demonstrated reduced tumor cell proliferation, migration, and invasion alongside enhanced apoptosis and cell cycle arrest.
+Furthermore, in vivo studies using an EZH2 knockout mouse model showed decreased tumor growth and increased immune cell infiltration, including CD8+ T cells, macrophages, and neutrophils.
+These findings highlight the pivotal role of EZH2 in promoting tumor progression and orchestrating immune evasion mechanisms in LUSC.
+Given its multifaceted influence on tumor biology and the immune landscape, EZH2 represents a promising therapeutic target for improving outcomes in LUSC patients.
+Future studies should explore the therapeutic potential of targeting EZH2 to enhance immune responses and overcome resistance to current treatments.

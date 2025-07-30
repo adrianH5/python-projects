@@ -1,0 +1,9 @@
+Intravaginal drug and therapeutic delivery targeting diseases in the female reproductive tract is advantageous, yet presents significant challenges due to unique anatomical features, cyclic variations, and a complex microbial ecosystem.
+Disruption of the intricate vaginal environment due to dysbiosis or infection can decrease immune protection and lead to infertility and pregnancy complications.
+A variety of intravaginal drug delivery systems (DDS) including creams, gels, suppositories, tablets, rings, and films have been developed to address these conditions.
+However, relying solely on empirical methods to design and evaluate DDS composition and geometry, as well as dosing regimens, would be costly and time intensive.
+To address these challenges, mathematical modeling has recently emerged as a complementary tool to systematically evaluate intravaginal DDS performance as a function of drug diffusion, reactions, and biomechanical interactions.
+This review summarizes how the application of mass conservation and the integration of mechanistic and empirical methods can offer insight into DDS pharmacokinetics and pharmacodynamics.
+Models describing first-order kinetics, microbial interactions, formulation optimization, rheological behavior, and interactions with the vaginal environment are critically evaluated.
+It is shown that these models can systematically evaluate how various physical phenomena such as diffusion, swelling, dilution, surface slip, and mechanical compression interact to shape spatiotemporal patterns of drug release, permeability, and microbial dynamics.
+Challenges and limitations of current approaches as well as emerging technologies are discussed, with the goal to provide insight into how mathematical modeling could benefit the development of effective intravaginal therapies addressing female reproductive tract diseases.

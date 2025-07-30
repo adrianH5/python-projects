@@ -1,0 +1,8 @@
+Extracellular vesicles (EVs) is promising in predicting the efficacy of immune checkpoint inhibitor (ICI) therapies.
+But it is challenging to determine the level of circulating EVs due to their variations in spatial and temporal distribution.
+To address this, we developed an in situ EV detection platform integrating multiplex EV capture with microfluidic-generated immune-tumor spheroids.
+This platform enables in situ monitoring of EV secretion dynamics under ICI and chemotherapeutic treatments, capturing localized and temporal changes in EV release.
+Using predictive models, we identified EVs carrying programmed cell death ligand 1 (PD-L1) as the most robust predictors of spheroid viability during treatment.
+RNA sequencing further revealed that dynamic EV expression changes are driven by gene transcription, providing a temporal understanding of EV regulation.
+Our platform overcomes the limitations of traditional methods by offering a physiologically relevant system to study EV-mediated immune responses.
+By addressing the spatial and temporal heterogeneity of EVs, this work advances EV-based biomarker discovery and provides a foundation for optimizing personalized immunotherapies.

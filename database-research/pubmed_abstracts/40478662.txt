@@ -1,0 +1,11 @@
+Background Healthcare claims data are increasingly used to investigate the epidemiology of benign thyroid diseases.
+Here we estimate the prevalence of treated hyper- and hypo-thyroidism and assess the potential sociodemographic and geographic disparities in France in 2020 given the country's poor epidemiological knowledge of these conditions.
+Methods We used the French national health data system, which covers nearly the entire population residing in France (over 67 million inhabitants in metropolitan and overseas departments).
+Prevalent cases were identified based on patients' long-term disease status, hospitalisation for hyper- and hypothyroidism and reimbursements for thyroid hormones, antithyroid drugs, iodine-131 and thyroid surgery.
+Thyroid stimulating hormone, antithyroid antibodies and previous therapy for thyroid cancer and hyperthyroidism were considered to characterise the origin and surveillance of hypothyroidism.
+Results In 2020, we identified 112,992 and 2,986,333 cases of treated hyper- and hypothyroidism, respectively, with an overall prevalence of 0.17 and 4.45 per 100 inhabitants.
+Marked differences were observed in terms of sex, age group and geographic area (department) for both conditions and deprivation level of the place of residence for hyperthyroidism only.
+The proportion of hypothyroidism following previous therapy for thyroid cancer or hyperthyroidism was less than 10%.
+Adequate monitoring (thyroid stimulating hormone checked in the past year) occurred in 73.7% of hypothyroid subjects, with large variations across departments.
+Conclusions This study provides prevalence estimates of treated hyper- and hypothyroidism at the national and departmental levels in France and improves epidemiological knowledge of both conditions.
+It also supports using health claims data for their epidemiological surveillance.

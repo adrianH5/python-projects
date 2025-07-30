@@ -1,0 +1,9 @@
+Clinical evidence demonstrating the effectiveness of optimization and efficiency of treatment plan is limited because the Inverse planning optimization of source position and dwell time variations is complex.
+Our purpose was to investigate the comparison of the dosimetric evaluations and treatment planning time in two inverse planning algorithms with the conventional Manchester treatment planning for cervical cancer brachytherapy.
+We retrospectively identified 14 patients who underwent manually and inversely optimized treatment plans using inverse planning simulated annealing (IPSA) and hybrid inverse planning optimization (HIPO).
+The analysis was performed to analyze the effects of various factors on the dosimetric evaluation indices, such as the D90 for the high-risk clinical target volume (HR-CTV) and D2cc of the organ at risk (OAR), and the distribution of dwell time and optimization time in each algorithm.
+In most plans, D90 of the HR-CTV exceeded 7 Gy, and the D2cc of the OARs, on average, was below the tolerance dose for all plans.
+However, the HR-CTV D90 and D2cc of the IPSA-optimized treatment plan tended to be smaller than those of the other plans when the dwell time deviation constraint value of the optimization parameters was increased.
+The treatment plans used in the Manchester method and those obtained by IPSA and HIPO have similar dose distributions and dose volume histogram parameters.
+Moreover, the time required to create a treatment plan was reduced by the IPSA and HIPO.
+Also, it was suggested that IPSA may result in extreme source dwell positions and dwell times.

@@ -1,0 +1,4 @@
+Fifty-five sera from convalescent COVID-19 patients and 18 control sera (Supplementary Table 2) were screened on the peptide microarray for both IgG and IgM responses (Fig. 1a and Supplementary Fig.
+For IgG, COVID-19 patients were completely separated from controls, and distinct and specific signals were shown for some peptides.
+IgG antibodies against this epitope can be detected in ~90% of COVID-19 patients, indicating that it is an extremely dominant epitope.
+The peptide microarray data are deposited in the Protein Microarray Database (http://www.proteinmicroarray.cn) under the accession number PMDE242.

@@ -1,0 +1,12 @@
+Ketamine is an anesthetic drug that has been illegally used due to its hallucinogenic effects.
+Its use is often concomitant with drugs such as ethanol, which can cause irreversible damage to the central nervous system.
+This study investigates the neurotoxicity of ketamine-ethanol combination in human neuroblastoma SH-SY5Y cell line, exploring the mechanisms preceding cell death.
+Cell viability, oxidative stress parameters, and apoptosis pathways were assessed after 3 and 6 h of drug exposure.
+A concentration-response curve using the 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay determined the lowest observed adverse effect levels for ketamine (1 mM; K1) and ethanol (100 mM; E100).
+After 12, 24 and 48 h, MTT assay revealed a decrease in cell viability, with a possible synergistic effect in K1E100 at 48 h, confirmed by annexin-V/7-aminoactinomycin D flow cytometry analysis, which showed a higher proportion of late apoptotic cells.
+Mechanisms preceding cell death were assessed by measuring reduced glutathione (GSH) levels, glutathione-related enzymes activities, and apoptosis markers (caspase-8, Bax, Bcl-2, and caspase-3).
+GSH levels decreased after 6 h in E100 and K1E100.
+Glutathione peroxidase activity increased for all groups after 3 h and in K1 and K1E100 after 6 h. Glutathione reductase and glutathione S-transferase activities increased only for K1E100 after 3 h. K1E100 also showed increased caspase-8 and Bax expression after 3 and 6 h, respectively, indicating activation of both extrinsic and intrinsic apoptotic pathways.
+These results suggest that ketamine-ethanol combination induces neurotoxicity by triggering oxidative stress and apoptosis in a time-dependent manner prior to cell death, increasing the risk for neuronal damage compared to individual drug exposure.
+While these findings are promising, they should be interpreted with caution due to certain limitations, such as variability in enzyme activity measurements, reduced sample size for some markers, and the use of an immortalized, proliferative cell line.
+Further studies using differentiated neuronal cells are needed to validate and expand these observations.

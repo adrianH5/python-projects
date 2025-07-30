@@ -1,0 +1,11 @@
+Natural marine products possess pharmacological effects and have been a source of novel drugs for centuries.
+In this study, we explored the anti-tumor activity and underlying mechanism of action of ilimaquinone, a sesquiterpene quinone from marine sponges, in gastric cancer.
+Three gastric cancer cell lines (KATO III, SCM-1, and AZ521) were cultured.
+Cell viability, cell cycle, and apoptosis were determined using 3-[4,5-dimethylthiazol-2-yl]-2,5-diphenyl tetrazolium bromide assay and flow cytometry.
+The levels of apoptotic proteins, proteins related to autophagy, and signal transducer and activator of transcription 3 (STAT3) were detected using western blotting.
+Transient transfection experiments were conducted to assess the expression of STAT3 in the gastric cancer cells.
+Ilimaquinone inhibited cell growth, caused cell cycle arrest in the S phase, and induced apoptosis.
+In addition, ilimaquinone modulates autophagy, and the viability of gastric cancer cells decreases upon exposure to a combination of the autophagic inhibitor, chloroquine.
+Notably, ilimaquinone downregulated the expression of p-STAT3 in a concentration- and time-dependent manner in both gastric cancer cell lines.
+Moreover, the compound-mediated inhibition of gastric cancer cell proliferation was restored by ectopic STAT3 expression.
+Collectively, these findings demonstrate the value of ilimaquinone in the treatment of gastric cancer.

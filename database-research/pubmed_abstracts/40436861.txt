@@ -1,0 +1,8 @@
+RNA sequencing (RNA-seq) has become key to complementing exome and genome sequencing for variant interpretation.
+We present a minimally invasive RNA-seq protocol using short-term cultured peripheral blood mononuclear cells (PBMCs) with and without cycloheximide treatment, enabling detection of transcripts subject to nonsense-mediated decay.
+While broadly applicable, this protocol is particularly suited for neurodevelopmental disorders, as up to 80% of the genes in our intellectual disability and epilepsy gene panel are expressed in PBMCs.
+Applied to 46 affected individuals and 15 parents, RNA-seq revealed splicing defects in six of nine individuals with splice variants, allowing reclassification of seven variants.
+Targeted cDNA analysis confirmed aberrant splicing in four individuals but missed intron retention in two.
+Global analyses (FRASER, OUTRIDER, and monoallelic expression) supported findings but did not yield new diagnoses.
+We propose a flowchart integrating RNA-seq into diagnostic workflows.
+Overall, our protocol is easily implementable, captures complex splicing events, and enhances variant classification.

@@ -1,0 +1,8 @@
+Scientific and industrial interest in the controlled delivery of biologics has sparked unparalleled growth in the development of new treatment technologies for a variety of diseases.
+However, due to the highly unstable nature of biologics in physiological conditions, there is a critical need for carriers that can prevent their degradation, target their delivery, and increase their half-lives after administration.
+Polymeric nanoparticles have emerged as superior drug vehicles due to their versatility and biocompatibility which earns them significant potential to safely and efficiently deliver therapeutics to different parts of the body.
+Similarly, the rational design of the polymer nanoparticles can optimize their performance as biologic delivery carriers and enable a variety of advanced functions such as specific targeting, stealth properties and sustained release among others.
+However, to achieve the clinical translation of such systems, their optimal design requires careful consideration of materials, safe synthesis and fabrication methodologies, large-scale manufacturing potential, and a good measure of efficacy via in vitro or in vivo studies.
+In this detailed and critical analysis, we summarize the most recent work on a variety of polymer nanotechnologies to achieve improved delivery of biologics, highlighting the critical roles of layer-by-layer nanoparticles, dendrimers, nanogels, self-assembled nanoparticles, nanocomplexes, and nanoparticle hybrids.
+We provide an overview of key clinical translation considerations for these products to reach the clinic.
+Finally, we discuss the remaining challenges in the delivery of biologics and offer an outlook onto the future development of these technologies.

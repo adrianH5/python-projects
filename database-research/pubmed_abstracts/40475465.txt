@@ -1,0 +1,12 @@
+Hydrogel-based three-dimensional (3D) co-culture systems are emerging as biomimetic platforms that more accurately recapitulate tissue architecture and microenvironmental interactions compared to conventional two-dimensional (2D) cultures.
+This study introduces an engineered 3D liver-like model to investigate compartment-specific responses to the potent hepatocarcinogen Diethylnitrosamine (DEN), with a focus on early events in carcinogenesis and tumor-stroma interactions.
+AML12 and 3T3 cell lines were treated with DEN or vehicle either in 2D culture or in 3D hydrogels in four experimental groups: (1) DEN-treated AML12 with vehicle-treated 3T3, (2) DEN-treated 3T3 with vehicle-treated AML12, (3) both cell types DEN-treated, and (4) both vehicle-treated.
+The cultured recombinants were subjected to proteomic profiling via mass spectrometry, followed by bioinformatics analysis and the results were validated through immunocytochemical staining (ICC).
+Gene ontology analysis revealed that cytoskeletal, RNA metabolism, and scaffold/adaptor proteins were among the most significantly enriched in 3D versus 2D models.
+Structural proteins emerged exclusively in mixed 3D co-cultures, reinforcing the organotypic nature of the system.
+Enriched pathways in 3D included intermediate filament organization, actin dynamics, and focal adhesion-pathways closely associated with liver carcinogenesis.
+Protein-protein interaction analysis demonstrated maximal network complexity in 3D cultures where both compartments were DEN-exposed.
+Survival analysis further identified poor-prognosis biomarkers (KRT20, KRT15, KRT14) uniquely enriched in this condition.
+ICC staining supported the proteomic findings.
+This organoid-like 3D co-culture model provides a physiologically relevant platform for investigating early-stage liver carcinogenesis and highlights the critical role of stromal-epithelial interactions.
+Its ability to replicate organ-level complexity and generate clinically relevant proteomic signatures supports its utility in translational cancer research and future drug discovery applications.

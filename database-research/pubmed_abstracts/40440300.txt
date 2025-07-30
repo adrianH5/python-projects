@@ -1,0 +1,13 @@
+Mutations in Alpha thalassemia/mental retardation X-linked (ATRX) have been implicated in several cancers, including gliomas, sarcomas, neuroendocrine tumors, and other mesenchymal malignancies.
+ATRX loss contributes to oncogenesis, accelerates tumor growth, and reduces survival by disrupting epigenetic and telomere mechanisms.
+Additionally, ATRX loss can increase tumor sensitivity to treatment therapies.
+While research has explored ATRX expression in many cancers, data on its relationship to prognosis in pituitary neuroendocrine tumors (PitNETs) remain inconsistent.
+This systematic review aims to summarize all available studies on ATRX mutations and expression in PitNETs.
+A systematic search of PubMed, Scopus, and EMBASE databases was conducted to identify publications between 2014 and 2025 that investigated ATRX mutations or expression in PitNETs, following PRISMA 2020 guidelines.
+Of 32 identified studies, ten met the inclusion criteria, covering a total of 513 PitNETs.
+Only 20 tumors (3.9%) showed a loss of ATRX expression.
+Among these, 60% exhibited corticotrophic pathology, while 20% displayed lactotrophic pathology.
+A small subset of tumors (30%) was classified as pituitary carcinomas with aggressive and proliferative characteristics.
+Additionally, 10% demonstrated the alternative lengthening of telomeres (ALT) phenotype, 50% had concurrent TP53 mutations, and 25% had elevated Ki-67 indices, indicating a higher proliferative index.
+Although ATRX mutations are rare in PitNETs, tumors with ATRX loss tend to be more aggressive and exhibit proliferative and transformative properties.
+Due to the limited number of cases, further studies with larger, prospective cohorts are needed to better understand the role of ATRX loss in PitNET progression and aggressiveness.

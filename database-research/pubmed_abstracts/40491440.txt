@@ -1,0 +1,3 @@
+Modeling hepatocellular carcinoma (HCC) risk in Alaska Native (AN) peoples with chronic hepatitis B virus (HBV) infection is important for risk stratification and surveillance.
+Existing HCC risk prediction models use baseline characteristics ascertained at the time of HBV diagnosis, rather than predicting HCC risk within 5 years of a relevant time point (such as a clinic visit), and do not include the HBV genotype (GT).
+We aimed to develop an HCC risk prediction model that addresses these limitations.

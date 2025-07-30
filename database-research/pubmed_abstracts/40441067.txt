@@ -1,0 +1,3 @@
+Bladder cancer (BCa) exhibits favorable responses to immunotherapy, but a significant percentage of patients fail to show a response owing to an inadequate tumor-immune landscape.
+We previously showed that NK cells are one of the predominant tumor-infiltrating lymphocytes in BCa and correlate with improved patient survival.
+However, that link was observed only with CD56

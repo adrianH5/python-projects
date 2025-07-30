@@ -1,0 +1,6 @@
+Molecular profiling of DNA and RNA from pediatric cancers by next-generation sequencing has been demonstrated to improve diagnosis and prognosis and to identify somatic alterations indicating vulnerability to targeted therapies.
+Hence, much like in the treatment of adult cancers, molecular profiling is now routinely utilized in clinical workflows for pediatric cancers as a companion to conventional pathology diagnosis.
+Many variants of unknown significance identified through DNA profiling are being characterized by saturation genome editing, enabled by CRISPR editing technology and clever functional assays.
+Newer technologies and analytics are revealing additional structural complexity around cancer drivers and gene fusions in pediatric cancer DNA.
+Similarly, computational methods such as rare variant association studies and polygenic risk scoring are being used to identify novel cancer susceptibility.
+Together, these advances are expanding our understanding of pediatric cancer's complexity and fueling the development of emerging methods such as liquid biopsy-based monitoring.

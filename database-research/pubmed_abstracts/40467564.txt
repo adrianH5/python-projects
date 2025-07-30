@@ -1,0 +1,9 @@
+Systemic lupus erythematosus (SLE) is a typical autoimmune disease characterized by the overproduction of autoantibodies and type I interferon, which damages its own tissues, causing multiple organ damage.
+B cells are thought to play a major role in the pathogenesis of SLE.
+As a DNA methylation reader, Methyl-CpG-binding domain protein 2 (MBD2) has been extensively studied in the contexts of innate immunity, adaptive immunity, and autoimmune diseases.
+However, its specific role in B cells and SLE remains unexamined.
+Herein, we found that MBD2 was highly expressed in B cells of SLE patients and positively correlated with disease activity.
+Knockout of MBD2 in B cells disturbed B-cell differentiation, dampened B-cell activation, B-cell receptor (BCR) signaling, and T-cell-dependent humoral immune responses in mice.
+What's more, MBD2 deficiency effectively attenuated lupus-like symptoms, reduced the germinal center responses, and decreased anti-dsDNA antibodies in lupus model mice.
+Mechanistically, MBD2 selectively bound to the methylated CpG of Lef-1 induced by IFN-α, inhibiting the transcription and expression of Lef-1, which repressed Pten transcription and expression, thereby promoting PI3K-Akt-mTOR signaling.
+This study first demonstrated the role of MBD2 in the pathogenesis of SLE and provided a new target for SLE.

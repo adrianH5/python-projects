@@ -1,0 +1,13 @@
+This study aimed to evaluate the etiological, clinical, and biochemical characteristics of pediatric patients diagnosed with hyperprolactinemia, a condition with a diverse range of underlying causes.
+We analyzed 160 pediatric patients diagnosed with hyperprolactinemia between January 2018 and January 2025.
+Hyperprolactinemia was defined by prolactin levels exceeding 25 ng/mL in girls and 20 ng/mL in boys on at least two separate occasions, with blood samples collected between 8:00 AM and 9:00 AM.
+Patients were categorized into two groups based on etiology: Group-1 (Pituitary and Hypothalamic Disorders, n = 38), including prolactinomas (n = 18), non-functioning pituitary adenomas (n = 8), craniopharyngiomas (n = 7), and empty sella (n = 5); and Group-2 (Non-Pituitary and Hypothalamic Disorders, n = 122), including polycystic ovary syndrome (PCOS) (n = 40), drug-induced hyperprolactinemia (n = 33), macroprolactinemia (n = 20), and idiopathic hyperprolactinemia (n = 29).
+Clinical presentations, biochemical findings, and treatment responses were assessed.
+The median age at diagnosis was 15.2 years (range: 2-17.9 years), with a female predominance of 73.1%.
+The median prolactin level was 45.8 ng/mL (range: 38.3-14,350), with significantly higher levels in Group-1 (213 ng/mL) compared to Group-2 (43.6 ng/mL, p < 0.05).
+No significant differences between groups were found for age, weight, height, or BMI SDS.
+The most common presenting symptoms were menstrual irregularities, galactorrhea, headache, and pubertal delay.
+Overweight/obesity were present in 48.8% of the cohort, with the highest prevalence in patients with PCOS (70%).
+A significant positive correlation between BMI-SDS and prolactin levels was found in patients with PCOS (r = 0.406, p = 0.009).
+Cabergoline achieved a 100% success rate in prolactinoma patients, with a significant decrease in BMI SDS observed after one year of treatment (p < 0.05).
+In patients with drug-induced hyperprolactinemia, most cases (82%) were associated with risperidone, and prolactin levels normalized after discontinuation or switching medications.

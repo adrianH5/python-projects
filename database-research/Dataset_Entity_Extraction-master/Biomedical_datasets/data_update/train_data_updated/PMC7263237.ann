@@ -1,0 +1,46 @@
+T1	Creator 926 946	Gordon, et al., 2020
+T2	Creator 948 967	Huang et al., 2020b
+T3	Creator 969 987	Huang et al., 2020
+T4	Creator 989 1006	Liao et al., 2020
+T5	Creator 1008 1027	Xiong et al., 2020b
+T6	Creator 1107 1123	Ray et al., 2018
+T7	Creator 1125 1143	North et al., 2019
+T8	Repository 1455 1484	National Genomics Data Center
+T9	AccessionNumber 1503 1514	PRJCA002326
+T10	Creator 1547 1566	Xiong et al., 2020b
+T11	Repository 1587 1597	NCBI SRAdb
+T12	AccessionNumber 1606 1615	SRP230751
+T13	Creator 2066 2085	Xiong et al., 2020b
+T14	Dataset 3252 3258	ARCHS4
+T15	Creator 3269 3290	Lachmann et al., 2018
+T16	Creator 8907 8919	Kupari et al
+T17	Creator 8939 8958	Kupari et al., 2019
+T18	Creator 9094 9116	Kaelberer et al., 2020
+T19	Dataset 10287 10292	DGIdb
+T20	Creator 10303 10321	Cotto et al., 2018
+T21	Creator 13351 13370	Huang et al., 2020b
+T22	Creator 13372 13390	Huang et al., 2020
+T23	Creator 13392 13409	Liao et al., 2020
+T24	Creator 13411 13430	Xiong et al., 2020b
+T25	Creator 13432 13449	Zhou et al., 2020
+T26	Repository 13499 13528	National Genomics Data Center
+T27	AccessionNumber 13540 13551	CRR119894-7
+T28	URL 13553 13605	https://bigd.big.ac.cn/bioproject/browse/PRJCA002326
+T29	Creator 13622 13641	Xiong et al., 2020b
+T30	Creator 13739 13757	Liang et al., 2019
+T31	Creator 13834 13856	Kaelberer et al., 2020
+T32	Dataset 13863 13868	DGIdb
+T33	Creator 13912 13930	Cotto et al., 2018
+T34	Repository 15089 15093	HUGO
+T35	Creator 15095 15113	Yates et al., 2017
+T36	Repository 15119 15121	GO
+T37	Creator 15123 15142	Carbon et al., 2009
+T38	Dataset 16336 16341	dgiDB
+T39	Creator 16676 16694	Liang et al., 2019
+T40	Creator 16740 16760	Usoskin et al., 2015
+T41	Creator 17524 17544	Usoskin et al., 2015
+T42	Creator 17693 17712	Kupari et al., 2019
+R1	hasAttr	Arg1:T8	Arg2:T9
+R2	hasAttr	Arg1:T11	Arg2:T12
+R3	hasAttr	Arg1:T26	Arg2:T27
+R4	hasAttr	Arg1:T26	Arg2:T28

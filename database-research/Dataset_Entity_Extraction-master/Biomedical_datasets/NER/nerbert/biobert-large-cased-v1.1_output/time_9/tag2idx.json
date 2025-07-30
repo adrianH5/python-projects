@@ -1,0 +1,6 @@
+{
+    "B-Dataset": 0,
+    "O": 1,
+    "I-Dataset": 2,
+    "PAD": 3
+}

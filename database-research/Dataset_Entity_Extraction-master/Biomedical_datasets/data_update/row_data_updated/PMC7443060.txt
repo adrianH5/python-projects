@@ -1,0 +1,12 @@
+21,789 complete SARS-CoV2 genomes were downloaded from GISAID (Shu and McCauley 2017) (May 28, 2020).
+We observed 8,427 SNPs in the current dataset (May 28, 2020) and we defined five major clades which contains 15 subclades (Fig.1
+, Fig.S2) compared to the prototype (MN908947.3).
+(Rambaut et al. 2020) and GISAID (Shu and McCauley 2017).
+We have tested this protocol on 24 RNA samples from COVID-19 patients, and generated the barcode information from the publicly accessible Python script (https://github.com/raeece/sarscov2barcode).
+(A) The structure of the SARS-CoV-2 spike trimer in its open conformation (chains are cyan, magenta and grey) bound to the human receptor ACE2 (black) modeled based on PDB accessions 6m17 and 6vyb.
+In this study, we have defined 5 major clades (G614, S84, V251, I378 and D392) of fully-sequenced SARS-CoV-2 genomes available until May 28, 2020 in the GISAID database.
+This is due to biases of genome data deposits from the sequencing laboratories based mainly in the Northern hemisphere and new datasets may define new clades or subclades in the near future from other regions, including Africa, the Indian subcontinent and Latin America from where there are comparably few genomes available at present.
+The U.S. Food and Drug Administration (USFDA) has authorised Illumina COVIDSeq test which is intended for the detection of SARS-CoV-2 virus RNA for research use (https://www.illumina.com/products/by-type/ivd-products/covidseq.html).
+According to the COVIDseq instructions, up to 384 results per lane can be processed on the NovaSeq 6000 System for whole-genome sequecing.
+Our methodology is complementary to the COVIDSeq test and aimed at revealing the major clades of the virus in a given sample.
+A total of 21,789 complete genomes were downloaded from GISAID on May 28, 2020 for analyses.

@@ -1,0 +1,10 @@
+Glioblastoma is the most common malignant brain tumor in adults, for which immunotherapy shows reduced efficacy.
+Current knowledge on immunotherapy failure is limited and detailed information about immune infiltrates in glioblastoma is urgently needed.
+We enrolled 34 glioblastoma patients collecting peripheral blood (PB), total tumor resection, or tumor from the necrotic area, the intermediate, and the marginal tissue through 5-aminolevulinic-acid (5-ALA) assisted surgery.
+T cells were evaluated for immune checkpoints and tissue residence memory (Trm) cell markers expression, and their cytokine production profile.
+Biological data were correlated with the patient's overall survival.
+Flow cytometry analysis showed a significantly higher frequency of T lymphocytes expressing PD-1, Trm markers in glioblastoma than in PB.
+In particular, we observed a preferential enrichment of CD8 cells expressing PD-1 and Trm markers in the intermediate and marginal tissue.
+T cells cytokine production resulted in increased glioblastoma compared with PB, in particular in PD-1+ cells and in the intermediate and marginal layers.
+These data suggest that CD103+ T-cell frequency in the core and TNF-a+CD8+ T cells in the intermediate layer influence the patient's survival.
+In conclusion, T cells obtained from different GBM layers showed different phenotypes and cytokines expression, suggesting new prognostic factors and supporting surgery particle strategy.

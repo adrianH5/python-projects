@@ -1,0 +1,11 @@
+Epidemiological studies have shown that oral cancer is one of the most lethal forms of cancer, with a high risk of distant metastases and eventual death, largely due to late diagnosis.
+The noninvasive diagnosis of oral cancer can simplify sample collection, and when paired with single-step detection assays, it can facilitate and popularize early diagnosis, ultimately reducing the mortality rate.
+In light of this, we have designed a simple and noninvasive immunosensor for the facile and selective identification of the oral cancer biomarker cytokeratin 19 fragment-21-1 (CYFRA-21-1) in saliva samples, specifically in the clinically safe as well as diseased range.
+Prior to being utilized as a marker for oral carcinomas, CYFRA-21-1 was used as a biomarker for nonsmall cell lung cancer (NSCLC) as well as other cancers.
+Due to its high salivary secretion, it has become a powerful and reliable marker for the early detection of oral cancer in recent decades; however, there are very few studies pertaining to it.
+Moreover, the literature has reported the higher sensitivity and specificity of CYFRA-21-1 markers in saliva than in serum samples.
+Hence, in this study, the sensing surface was developed using a nanocomposite of gold nanodendrites (AuNDs) sandwiched between graphene oxide (GO) sheets for the sensitive detection of CYFRA-21-1 in saliva samples.
+Metallic dendrites based on nanohybrid systems possess astonishing conductive and catalytic properties.
+The first layer of GO is used as the substrate for enhanced growth of AuNDs, while the second layer of GO is utilized for covalent binding of the anti-CYFRA-21-1 antibody through bioconjugation reactions.
+The developed bioelectronic immunosensing platform is able to sense CYFRA-21-1 in a clinically safe as well as diseased range with a low limit of detection (LOD).
+It is easy to operate and can be integrated with a portable electrochemical analyzer for point-of-care (POC) oral cancer diagnosis in low-resource settings.

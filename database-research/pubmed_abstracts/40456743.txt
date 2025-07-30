@@ -1,0 +1,12 @@
+Screening for metabolic dysfunction-associated steatotic liver disease (MASLD) across the entire general population is not currently a recommended strategy.
+However, it is not uncommon to receive a medical check-up or health check-up for a various of reasons.
+We tried to investigate whether advanced fibrosis screening in MASLD patients is cost-effective for adults aged 40-49 years during medical or health check-up.
+The target group for analysis was adults who received medical check-ups for various reasons in the United States.
+We constructed a hybrid model of the decision tree model and Markov model to compare expected costs and quality-adjusted life-years (QALYs) between 'screening' and 'no screening' groups from healthcare system perspectives.
+Patients diagnosed MASLD with advanced fibrosis by FIB4 and VCTE were given intensive lifestyle intervention (ILI).
+The incremental cost-effectiveness ratio (ICER) was calculated for a 30-year horizon.
+Assuming effect of ILI is limited to regression of liver fibrosis, ICER of the FIB-4-based two steps algorithm was $103,405 per QALY in adults aged 40-49 years, which was slightly above the threshold value ($100,000/QALY).
+And in those in adults aged 50-59 and 60-69 years, the ICER was $137,593 and $197,901 per QALY, respectively.
+If we assume the effect of ILI can improve liver fibrosis as well as cardiovascular disease events, ICERs of screening in aged 40-49 and 50-59 years were $74,596, and $95,974 per QALY, respectively.
+In an analysis that included additional positive effect on extrahepatic cancer by ILI, estimated ICERs were below the threshold in those in aged 40-49 and 50-59 years.
+Advanced fibrosis screening in MASLD patients using the FIB-4-based two-step algorithm and ILI was cost-effective for adults aged 40-49 years, taking into account both liver fibrosis and cardiovascular disease.

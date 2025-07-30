@@ -1,0 +1,5 @@
+SARS-CoV-2, first isolated in Wuhan, China, in December 2019 [1] is a new coronavirus responsible for the severe pulmonary/systemic disease called COVID-19.
+Here, the first COVID-19 patient was diagnosed by the Virology Laboratory of Ancona University Hospital on the 25 February 2020.
+Several research centres started sequencing programs on different platforms and some results are already available [2,4,5,6] in databases such as Global Initiative on Sharing All Influenza Data (GISAID, https://www.gisaid.org/) or GenBank (https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/), which will continue to accumulate sequencing data from around the world.
+Reads were aligned with the Wuhan-Hu-1 NCBI Reference Genome (Accession number: MN908947.3) on the Torrent Suite v. 5.10.1.
+The following plugins were used: Coverage Analysis (v5.10.0.3), Variant Caller ( v.5.10.1.19) both with “Generic - S5/S5XL (510/520/530) - Somatic - Low Stringency” and “Generic-S5/S5XL (510/520/530)-Germ Line-Low Stringency” default parameters and COVID19AnnotateSnpEff (v.1.0.0), a plugin specifically developed for Sars-Cov-2 that can predict the effect of a base substitution.

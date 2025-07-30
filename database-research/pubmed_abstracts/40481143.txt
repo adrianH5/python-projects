@@ -1,0 +1,9 @@
+Geleophysic dysplasia (GD) is characterized by short stature, brachydactyly, joint limitations, a distinctive facial appearance, as well as cardiac and respiratory dysfunction that can be life-threatening.
+GD is caused by pathogenic variants in the ADAMTSL2, FBN1, or LTBP3 genes.
+While dermal fibroblasts derived from affected individuals have shown poor organization of the extracellular matrix (ECM), it remains elusive how the disorganized ECM contributes to GD pathogenesis.
+To understand the molecular mechanisms in GD, we isolated and characterized primary human dermal fibroblasts from affected individuals with ADAMTSL2 and FBN1 variants.
+We found that the secretion of ECM proteins including ADAMTSL2, FBN1, and Fibronectin were impaired in GD fibroblasts.
+Increased cell migration was observed in GD fibroblasts carrying ADAMTSL2 or FBN1 variants, which was associated with up-regulation of MMP-1 and MMP-14, two proteases related to cell mobility.
+The enhanced cell migration and up-regulation of MMP-1 and MMP-14 were corroborated in mouse primary dermal fibroblasts carrying pathogenic variants in Adamtsl2 and in lung and heart tissues from Adamtsl2-knockout mice.
+A pan MMP inhibitor, GM6001, inhibited the migration of GD fibroblasts.
+Overall, our results suggest that MMP-1/-14 up-regulation play a role in the development of GD and may be utilized as a treatment target.

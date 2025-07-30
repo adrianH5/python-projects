@@ -1,0 +1,26 @@
+fastapi>=0.111
+pydantic>=2.7
+pydantic-settings>=2.2
+uvicorn[standard]>=0.29
+redis>=5
+rq==1.16.2
+playwright==1.44.0
+requests_html==0.10.0
+boto3>=1.34
+python-multipart>=0.0.9
+beautifulsoup4>=4.12
+scikit-image>=0.23
+pillow>=10.3
+numpy>=1.26
+scikit-learn>=1.5
+pytest>=8
+lxml_html_clean>=0.1.1 # For requests-html, as lxml.html.clean is separated
+black>=24.4.2 # Added for formatting and CI check
+httpx>=0.27 # For making HTTP requests to Ollama and Browserbase
+anthropic>=0.25 # For Anthropic Claude API
+openai>=1.12 # For OpenAI API
+google-generativeai==0.5.4
+python-dotenv>=1.0.0 # To load .env file for local dev if not using Docker's env_file
+# For Weisfeiler-Lehman hashing, if not directly implemented, might need a graph library or just hashlib
+# For Merkle DAG, standard library or simple list/dict structures suffice
+# ollama client library is not strictly necessary if using httpx directly

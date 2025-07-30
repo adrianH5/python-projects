@@ -1,0 +1,2 @@
+Thyroid Imaging Reporting and Data System (TIRADS) does not perform well in thyroid adenomatoid nodules on ultrasound (TANU).
+Therefore, we aimed to generate and validate a nomogram based on radiomics features and clinical information to predict the nature of TANU.

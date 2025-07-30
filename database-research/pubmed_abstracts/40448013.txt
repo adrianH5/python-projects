@@ -1,0 +1,1 @@
+This study aimed to construct a novel model, Multi-Spatial Attention U-Net (MSAU-Net) by incorporating our proposed Multi-Spatial Attention (MSA) block into the U-Net for the automated segmentation of the gallbladder on CT images.

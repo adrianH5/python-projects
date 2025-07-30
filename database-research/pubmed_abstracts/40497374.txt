@@ -1,0 +1,11 @@
+Hepatocellular carcinoma (HCC) almost exclusively develops in the context of liver fibrosis or cirrhosis, both of which are characterized by increased matrix stiffness.
+Matrix stiffness promotes HCC invasion and metastasis via upregulation of stearoyl-CoA desaturase 1 (SCD1).
+However, the downstream effector of the SCD1-dependent mechanoresponsive pathway remains unclear.
+HCC cells were grown on mechanically tunable polyacrylamide gels in 2% Matrigel-supplemented culture media and subjected to the in vitro invasion assay.
+The key molecule that responded to matrix stiffness was identified.
+The underlying mechanism by which the molecule participated in in vitro matrix stiffness-induced invasion and in vivo metastasis was explored.
+High matrix stiffness caused an increase in hyaluronan-mediated motility receptor (HMMR) expression, which enhanced the invasion of HCC cells in vitro and augmented the response of HCC cells to the HMMR ligand hyaluronic acid.
+Stiffness-dependent HMMR upregulation occurred through integrin β1 and a positive feedback loop that included focal adhesion kinase (FAK)/SCD1/oleic acid (OA)/CCAAT-enhancer binding protein α (C/EBPα).
+HMMR knockdown significantly inhibited high matrix stiffness-induced HCC cell invasion in vitro and suppressed HCC metastasis in vivo.
+In human HCC samples, the combination of collagen content, a surrogate for increased matrix stiffness, and increased HMMR expression predicted poor survival of HCC patients.
+We define a new mechanotransduction axis of SCD1/HMMR that enhances HCC invasion and metastasis in response to increased matrix stiffness, providing a new therapeutic target against stiffness-driven HCC invasion and metastasis.

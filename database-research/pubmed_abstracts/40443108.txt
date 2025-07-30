@@ -1,0 +1,7 @@
+The axolotl (Ambystoma mexicanum) has a great capacity to regenerate its tissues; however, the fidelity and success of its regenerative process diminish with age.
+Retrotransposons make up the largest portion of the axolotl genome, and their expression may be involved in this age-related decline.
+Through an integrative analysis of repetitive element expression using RNA sequencing, it is shown that Ty3 retrotransposons are highly upregulated in the axolotl as an effect of chronological aging.
+Other non-long-terminal-repeat transposons, including long interspersed nuclear element 1, function as hubs of gene coexpression networks involved in muscle development and regulation of apoptosis and connective tissue replacement, which are also suppressed in adulthood.
+By contrast, it is found that during regeneration of the limb, these pathways and the expression of Ty3 retrotransposons are distinctly downregulated.
+Although the blastema can readjust most of the transposon differential expression in adulthood, several elements remain affected and may have an impact in the immune response during regeneration.
+This analysis provides a profile of retrotransposon expression through chronological aging and during limb regeneration in the axolotl and indicates that transposons are responsive to physiological changes in a tissue-specific way and may participate in the gene coregulatory networks underlying the regenerative process.

@@ -1,0 +1,13 @@
+(Gorbalenya et al., 2020; Jiang et al., 2020) causing human pneumonia (i.e., COVID-19), was first reported in Wuhan, Hubei, Central China (Wu et al., 2020a; Zhou et al., 2020; Zhu et al., 2020).
+Since the outbreak of COVID-19 was first identified in Wuhan in mid-December 2019, the first infected individuals identified in other provinces and regions of China, and other countries, during January 2020, have been assumed to have been infected in Wuhan or through contact with people from Wuhan (Chan et al., 2020; Holshue et al., 2020; Phan et al., 2020; Rothe et al., 2020).
+In this study, we used 93 genomes of SARS-CoV-2 from the GISAID EpiFluTM database (Shu & McCauley, 2017) (access date 12 February 2020) to decode the evolution and transmissions of SARS-CoV-2 in the first two months of its spread.
+To decode the evolutionary history of SARS-CoV-2, we retrieved 96 complete genomes from GISAID (Supplementary Table S1, access by 12 February 2020) (Shu & McCauley, 2017).
+The genome EPI_ISL_402131 (bat-RaTG13-CoV, hereafter) from GISAID was also included as the outgroup, because it is the closest sister betacoronavirus available to SARS-CoV-2 (Zhou et al., 2020).
+We carefully used three datasets (i.e., four core substitution sites, 120 substitution sites, and 1 235 substitution sites, Supplementary Datasets) to evaluate the relationship between bat-RaTG13-CoV and four associated/central haplotypes of SARS-CoV-2 (H1, H3, H13, and H38).
+Three different datasets were used to infer evolutionary networks, which consistently supported H13 and H38 as the potentially ancestral haplotypes, i.e., the outgroup bat-RaTG13-CoV could connect to both H13 and H38, or H38 alone, or through a medium vector mv1 (an intermediate host or the first infected humans) connected to both H13 and H38 by single mutations at positions 18067 (S, synonymous substitution) and/or 29102 (S), referring to the numbering of the alignment length 29 910 bp (Figure 5).
+Five main groups can be recognized in the network using the dataset of 120 substitution sites (Figure 3A).
+The outbreak of COVID-19 started in mid-December 2019 in Wuhan, China.
+In this study, we used 93 complete genomes of SARS-CoV-2 from the GISAID EpiFlu TM database to investigate the evolution and human-to-human transmissions of SARS-CoV-2 in the first two months of the outbreak.
+The dataset of four core substitution sites is the four variable sites shared among bat-RaTG13-CoV and the four central node haplotypes.
+The dataset of 120 substitution sites refers to all variable sites of coding regions in SARS-CoV-2 haplotypes.
+The dataset of 1235 substitution sites refers to all variable sites of coding regions among bat-RaTG13-CoV and SARS-CoV-2 haplotypes.

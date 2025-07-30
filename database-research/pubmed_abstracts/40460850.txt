@@ -1,0 +1,4 @@
+Magnetic resonance imaging (MRI) is essential in clinical and research contexts, providing exceptional soft-tissue contrast.
+However, prolonged acquisition times often lead to patient discomfort and motion artifacts.
+Diffusion-based deep learning super-resolution (SR) techniques reconstruct high-resolution (HR) images from low-resolution (LR) pairs, but they involve extensive sampling steps, limiting real-time application.
+To overcome these issues, this study introduces a residual error-shifting mechanism markedly reducing sampling steps while maintaining vital anatomical details, thereby accelerating MRI reconstruction.

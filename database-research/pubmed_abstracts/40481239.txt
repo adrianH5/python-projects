@@ -1,0 +1,10 @@
+The canonical DNA damage response (cDDR) maintains genome stability, involving DNA synthesis arrest.
+However, unchallenged cells proliferate when they are continually exposed to low-level/endogenous replication stress.
+We previously characterized a noncanonical response specific to nonblocking replication stress, i.e.
+low-level stress (LoL-DDR), in primary cells.
+Although LoL-DDR generates replication stress-induced ROS (RIR), it prevents the accumulation of premutagenic 8-oxo-guanine (8-oxoG).
+Primary cells control RIR production via NADPH oxidases.
+Increasing the severity of replication stress above a threshold triggers the cDDR, leading to cell cycle arrest and RIR suppression, resulting in a peak-shaped dose response for RIR production.
+Here, we show that the LoL-DDR is dysregulated in cancer cell lines, which exhibit the following differences compared with primary cells: (1) RIR are not detoxified under high-level stress, resulting in a continuous increase in the dose‒response curve of RIR production; (2) RIR are not produced by NADPH oxidases; (3) replication stress favors the accumulation of the premutagenic 8-oxoG.
+Moreover, using an in vitro breast cancer progression model, we show that LoL-DDR dysregulation occurs at an early stage of cancer progression.
+Since, conversely, ROS trigger replication stress this establishes a "vicious circle" replication-stress/ROS that continuously jeopardizes genome integrity that should fuel and amplify tumorigenesis.

@@ -1,0 +1,4 @@
+T1	Repository 1231 1284	Swiss Institute of Asthma and Allergy Research (SIAF)
+T2	Repository 1319 1342	Gene Expression Omnibus
+T3	URL 1344 1372	http://www.ncbi.nlm.nih.gov/
+R1	hasAttr	Arg1:T2	Arg2:T3

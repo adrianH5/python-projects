@@ -1,0 +1,8 @@
+Artesunate (ART), an antimalarial drug, has been identified as a ferroptotic agent, inducing the generation of reactive oxygen species (ROS) and lipid peroxidation, which, in turn, activate endoplasmic reticulum (ER) stress responses and promote mitochondrial-dependent apoptosis.
+In our previous studies, we demonstrated that ART enhances tumor necrosis factor-related apoptosis-inducing ligand (TRAIL)-induced apoptosis through crosstalk between the ER stress-mediated signal pathway and the Bid-Bax mitochondrial apoptotic cascade.
+To further explore the mechanisms underlying ferroptotic-apoptotic crosstalk and evaluate the potential of intra-arterial drug-eluting microspheres for targeted tumor therapy, we developed artesunate-eluting microspheres (ART-EMs) and investigated the tumoricidal efficacy of ART-EMs combined with TRAIL.
+Our findings reveal that the combined ART-EMs with TRAIL (AT) treatment synergistically enhances cancer cell death.
+Specifically, we observed increased apoptosis in HCT116 and BxPC-3 cell lines, accompanied by notable morphological changes and enhanced cytotoxicity.
+Importantly, our results demonstrate that the pro-apoptotic proteins Bid and Bax play essential roles in driving synergistic apoptosis during AT treatment.
+Furthermore, the contrasting apoptotic responses between AT treatment and the chemotherapeutic agent mitomycin C's dependence on p53-Bak-associated pathways underscore the differential activation of intrinsic apoptosis pathways across cancer cell lines.
+This study provides deeper insight into the roles of Bak and Bax in orchestrating apoptosis, offering potential strategies for more effective cancer treatments.

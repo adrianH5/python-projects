@@ -1,0 +1,12 @@
+Nonsmall cell lung cancer (NSCLC) is the most popular type of lung cancer with high morbidity.
+Kaempferitrin possesses the antitumor effect, while its role in NSCLC development and metastasis remains elusive.
+Thus, this study aimed to clarify the influence of Kaempferitrin on NSCLC development and elucidate the possible mechanism.
+In this study, cell viability, apoptosis, invasion, and angiogenesis were assessed using CCK-8, flow cytometry, Transwell invasion, and tube formation assays, respectively.
+The NF-κB nuclear translocation was observed via Immunofluorescence.
+In vivo, tumor growth was monitored in a xenograft model, with HE and TUNEL staining assessing tissue damage and apoptosis.
+Results revealed that Kaempferirin decreased NSCLC cell viability, induced cell apoptosis and suppressed cell motility dose-dependently.
+Additionally, Kaempferirin restrained the immune escape of NSCLC cells and inactivated the AKT/NF-κB pathway.
+SC79 could counteract the above effects of Kaempferirin on A549 cells.
+Moreover, Kaempferirin restrained tumor growth, metastasis and immune escape of NSCLC In vivo.
+In summary, Kaempferirin inhibited cell proliferation, invasion, angiogenesis, and immune escape and promoted apoptosis of NSCLC by inactivating the AKT/NF-κB pathway.
+Kaempferirin may be a hopeful drug for NSCLC therapy.

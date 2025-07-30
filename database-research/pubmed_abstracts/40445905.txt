@@ -1,0 +1,7 @@
+Prostate cancer (PCa) is a major, and increasingly global, health concern with current screening and diagnostic tools' severe limitations causing unnecessary, invasive biopsy procedures.
+While gas chromatography-mass spectrometry (GC-MS) has been used to detect urinary volatile organic compounds (VOCs) associated with PCa, efforts to identify consistent molecular biomarkers have failed to generalize across studies.
+Inspired by the olfactory diagnostic capabilities of medical detection dogs, we do not reduce chromatograms to a list of compounds and concentrations.
+Instead, we deploy a machine learning approach that bypasses molecular identification: PCa "scent character" signatures are extracted from raw time series data transformed into image representations for classification via convolutional neural networks.
+To address confounding factors such as sample-source bias, we implement a multi-step pre-processing and debiasing pipeline, including empirical Bayes correction, baseline drift removal, and domain adversarial learning.
+The resulting model achieves classification performance on par with similarly trained canines, achieving a recall of 88% and an F1-score of 0.78.
+These findings demonstrate that, at least in the context of PCa detection from urine, machine learning-based scent signature analysis can serve as a fully non-invasive diagnostic alternative, with these early results being also relevant to the wider emergent field of medical machine olfaction.

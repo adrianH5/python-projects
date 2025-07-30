@@ -1,0 +1,9 @@
+TP53 inactivation in human cancers often results from MDM2/MDMX overexpression, yet therapeutic targeting remains challenging owing to incomplete mechanistic understanding.
+Lipid droplet (LD) enrichment is identified as a key trigger for MDM2-mediated p53 degradation.
+High-fat diet (HFD)-induced LD accumulation in tumor cells elevates LD-surface MDM2 through Cyb5r3-Myh9 interactions, which recruit cytoplasmic p53/Myh9 complexes to LDs.
+This spatial proximity enhances MDM2-p53 binding, accelerating its ubiquitination and proteasomal degradation.
+Degraded p53 releases the RPS3A-C/EBPβ complex, upregulating LD-promoting factors such as CD36 to establish a cell-autonomous feed-forward loop.
+Critically, pharmacological LD reduction (via lipogenesis inhibitors) or switching of tumor-bearing mice from an HFD to a normal diet restores p53 levels and suppresses tumor growth.
+These findings delineate a lipid-driven regulatory axis in which LD biogenesis initiates MDM2-dependent p53 destruction, reshaping tumor cell lipid metabolism.
+This mechanism links dietary lipids to oncogenesis through organelle-specific protein trafficking and provides a therapeutic rationale for targeting lipid metabolism in tumors.
+This study resolves critical gaps in p53 regulation while proposing dual intervention strategies: disrupting LD-MDM2 colocalization and modulating lipid availability.

@@ -1,0 +1,15 @@
+Visceral haemangiosarcoma is considered clinically aggressive in dogs, with perceived poor prognosis often leading to euthanasia at presentation.
+This study aimed to determine survival times and prognostic factors in dogs with haemangiosarcoma under first-opinion care.
+Dogs clinically diagnosed with haemangiosarcoma in first-opinion practice in 2019 were identified in VetCompass electronic health records and examined to capture variables potentially associated with survival.
+Median survival time (MST) from diagnosis was calculated for the whole population, those histopathologically confirmed and based on primary tumour location.
+Binary logistic regression was used to explore differences between dogs that died on the day of diagnosis and those that survived ≥1 day.
+Cox proportional hazards modelling explored factors associated with time to death in dogs surviving ≥1 day.
+Across all cases (n = 788), overall MST was 9.0 days (95%CI:5.0-15.0, range: 0-1789) and proportional 1-year survival was 12.0% (95%CI:9.7-15.0%).
+Dogs with splenic (MST = 4.0 days, 95%CI 0.0-9.0) and cutaneous haemangiosarcoma (MST = 119.0 days,95%CI:85.0-248.0) had MST greater than 0 days.
+Of dogs with a histopathological diagnosis of haemangiosarcoma, overall MST was longer at 105 days (95% CI 84-133 days) and additionally, location-specific MST were longer.
+For both clinically diagnosed cases and histopathologically confirmed cases, increasing tumour size was associated with increased hazard of death while cutaneous location and surgery were associated with reduced hazard of death.
+A very short survival time was identified for haemangiosarcoma under first-opinion care.
+Although survival time was longest for cutaneous cases, the actualised prognosis was poor overall for haemangiosarcoma.
+However, a common prevailing view of extremely poor prognosis for haemangiosarcoma could be promoting frequent euthanasia at presentation and therefore leading to a self-fulfilling prophecy and low survival times.
+Further exploration of the potential effect of perceived prognosis is warranted.
+This study provides valuable information for contextualised care and dialogues with clients in first-opinion practice.

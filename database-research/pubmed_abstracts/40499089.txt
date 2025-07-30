@@ -1,0 +1,2 @@
+The choice of wound closure modality after limb-sparing extremity soft-tissue sarcoma (eSTS) resection is fraught with uncertainty.
+Leveraging machine learning and clinicoradiomic data, we developed Sarcoma Reconstruction Nomograms (SARCON), a tool that provides probabilistic estimates of five adverse outcomes on the basis of the selected reconstructive modality.

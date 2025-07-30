@@ -1,0 +1,4 @@
+Response to immune checkpoint inhibitors (ICIs) in metastatic melanoma (MM) varies among patients, and current baseline biomarkers predicting treatment outcomes are limited.
+As mitochondrial (MT) metabolism has emerged as an important regulator of host immune function, we explored the association of host MT genetics (MT haplogroups) with ICI efficacy in 1,225 ICI-treated patients with MM from the clinical trial CheckMate-067 and the International Germline Immuno-Oncology Melanoma Consortium.
+We discovered and validated significant associations of MT haplogroup T (HG-T) with resistance to anti-programmed cell death protein-1-based ICI (both single-agent and combination) and have shown that HG-T is independent from established tumor predictors.
+We also found that patients belonging to HG-T exhibit a unique nivolumab-resistant baseline peripheral CD8

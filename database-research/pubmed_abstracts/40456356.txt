@@ -1,0 +1,9 @@
+Basal-like breast cancer (BLBC) is a highly aggressive molecular subtype characterized by poor prognosis and limited targeted treatment options.
+Clinicians face challenges in early diagnosis and precise prognostic stratification, necessitating the discovery of novel biomarkers and therapeutic targets.
+Non-coding RNAs (ncRNAs), including microRNAs (miRNAs), long non-coding RNAs (lncRNAs), small interfering RNAs (siRNAs), and circular RNAs (circRNAs), have emerged as crucial regulators of breast luminal B cancer (BLBC) tumorigenesis and progression.
+Their subtype-specific expression and remarkable stability in body fluids make them promising candidates for minimally invasive biomarkers in clinical chemistry, enabling the early detection, prediction of prognosis, and monitoring of therapeutic response.
+Additionally, ncRNA-based therapeutics offer innovative strategies to overcome resistance and improve treatment efficacy.
+This review comprehensively synthesises the latest advances in understanding non-coding RNA (ncRNA) biology in breast luminal B-like cancer (BLBC), focusing on their roles in key oncogenic and tumour-suppressive pathways.
+We highlight the translational potential of ncRNAs as diagnostic and prognostic biomarkers and discuss emerging therapeutic applications alongside current challenges such as assay standardisation and delivery optimisation.
+The novelty of this review lies in its integrative approach, bridging molecular mechanisms with clinical implications to guide future research and clinical translation.
+We aim to provide a critical resource that supports the development of ncRNA-based precision medicine approaches to improve the management and outcomes of patients with basal-like breast cancer.

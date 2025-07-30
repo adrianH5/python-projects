@@ -1,0 +1,12 @@
+Food safety represents a major global concern.
+Humans and animals are exposed to a broad spectrum of food contaminants, which implies probable cocktail effects.
+Around 80 % of the population is exposed to deoxynivalenol (DON), one of the most widespread mycotoxins mainly found in cereal products.
+DON has previously been shown to exacerbate DNA damage induced by various compounds, questioning on potential toxic interactions with genotoxic food contaminants.
+Among them, acrylamide, classified as probably carcinogenic to humans, is formed during cooking processes and commonly found in fried foods and cereal products.
+Considering that co-consumption of DON- and/or acrylamide-contaminated foods is highly probable, we evaluated their genotoxic interaction in a non-cancerous intestinal cellular model.
+Our data show that DON exacerbates the cytotoxic and genotoxic activities of acrylamide, assessed through the analysis of the DNA damage biomarker γH2AX and by comet assay.
+This was corroborated by transcriptomic analyzes pointing out enhanced DNA repair pathway under co-exposure.
+Of note, DON-mediated increase of acrylamide-induced DNA damage is not related to the apoptotic program.
+As a consequence of this genotoxic interaction, cells co-exposed to DON and acrylamide exhibit more important cell cycle defects and chromosomal instability, as evaluated by the chromosomal aberration assay.
+In conclusion, our work shows that DON exacerbates the genotoxicity of acrylamide, with repercussions on the maintenance of genetic stability, potentially implying an increased carcinogenic risk.
+These results therefore provide crucial information regarding food safety, given the high probability of co-contamination by DON and genotoxic agents such as acrylamide.

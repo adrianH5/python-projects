@@ -1,0 +1,6 @@
+Google Street View's historical imagery is a promising data source for measuring neighborhood conditions over time.
+However, images are not available for all years.
+To assess bias that may arise due to a mismatch between the year imagery is available and the year of researcher interest, we assessed prevalence of change in 20 commonly assessed built environment features between the oldest and newest available high-quality images (median difference 10.5 years, range from 2007 to 2023) on Street View at 2118 total locations in four US cities representing the Hispanic Community Health Study/Study of Latinos (New York City, Chicago, Miami, and San Diego).
+Seventeen (85%) of the features were the same in more than 90% of images; only litter differed in more than 20%.
+Patterns of change were consistent across all four cities and not notably different in tracts with higher or lower median household incomes.
+For built environment features reflecting sidewalk conditions and disinvestment in neighborhoods not selected for their known rapid change, auditing an image that does not temporally match the time of etiological interest is unlikely to be a major source of bias.

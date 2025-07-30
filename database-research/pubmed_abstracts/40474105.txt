@@ -1,0 +1,5 @@
+Despite being the third in death rate among all cancers globally, gastric carcinoma (GC) is far from being detected accurately and timely, which could benefit the prognosis.
+To achieve this, we performed whole-genome sequencing (WGS) to plasma cfDNA of 733 participants, including healthy individuals, patients with benign gastric diseases and GC patients.
+The multi-omic biomarkers in this study, including fragmentation profile, end motif and genome-wide Copy Number Variations (CNV) of plasma cfDNA, are recently developed means for cancer detection and monitoring.
+And these biomarkers were extracted from WGS data to build machine learning algorithm based classifiers, prediction models, to discriminate GC patients from healthy individuals, achieving extremely high precision of sensitivity at 94.87% and specificity at 99.35%.
+Therefore, these cfDNA multi-omic biomarkers may serve as means to detect GC accurately, affordably and timely.

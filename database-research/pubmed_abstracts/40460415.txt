@@ -1,0 +1,10 @@
+Lung cancer has the second highest occurrence and lowest survival rate among all cancers and incidence rates are increasing.
+From the tumor milieu, tumors exude chemokines and cytokines that hassle the pulmonary drug administration hinders the success of treatment.
+A few mutations lead to generation of lungs cancer.
+It has prominent levels of mutated genes such as TP53, KRAS, MET, and EGFR.
+Various molecular pathways involved in causing lung cancer such as PTEN/PI3K/AKT pathway, JAK/STAT pathways, RAF-MEK-ERK, PI3K-AKT-mTOR, and RALGDS-RA, PI3K, AKT, and PI3K/AKT/mTOR pathway.
+Inhibition of such biological pathway through active targeting, using various biological inhibitors, and blockers could help in treating and recurrence of lungs tumor.
+The conventional therapeutic modalities concomitant with personalized genomic nanomedicine can have potential in improving treatment regimen.
+This study explored the different genomic changes that occur due to the prime etiological factors, their reported treatment profile, and nanocarrier mediated therapeutic strategy by targeting tumor microenvironment (TME).
+Nanocarriers confront multiple obstacles in their journey to the TME therapeutic approach as leaky vasculature, large fenestration, and usually carried off from immune system and phagocytosis process.
+However, formulators designed a bio-functionalized carrier that enable to evade opsonization, escape immune system, modulate TME, identify reticuloendothelial system, and thus facilitates biological interaction, and enhance cellular uptake.

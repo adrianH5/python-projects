@@ -1,0 +1,7 @@
+Cancer cells alter their mechanical properties in response to the rigidity of their environment.
+Here, we explored the implications of this environmental mechanosensing for anti-tumor immunosurveillance using single cell biophysical profiling and metastasis models.
+Cancer cells stiffened in more rigid environments, a biophysical change that sensitized them to cytotoxic lymphocytes.
+In immunodeficient mice, this behavior manifested in the outgrowth of stiffer metastatic cells in the rigid bone than in the soft lung, while in immunocompetent hosts, it led to preferential elimination of stiffer cancer cells and suppression of bone metastasis.
+Environmentally-induced cell stiffening and immune sensitization both required Osteopontin, a secreted glycoprotein that is upregulated during bone colonization.
+Analysis of patient metastases spanning mechanically distinct tissues revealed associations between environmental rigidity, immune infiltration, and cancer cell stiffness consistent with mechanically driven immunosurveillance.
+These results demonstrate how environmental mechanosensing modulates anti-tumor immunity and suggest a mechanoimmunological basis for metastatic site selection.

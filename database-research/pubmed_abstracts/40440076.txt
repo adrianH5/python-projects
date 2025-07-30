@@ -1,0 +1,9 @@
+Cancers have traditionally been classified based on their tissue of origin.
+However, with advances in sophisticated genome sequencing techniques and progression toward an era of precision medicine, it has become increasingly clear that classifying tumors based on unifying molecular features instead of tissue of origin may hold the key to improving patient outcomes.
+Various efforts have been undertaken to address this critical aspect of cancer biology, but it is still unclear as to the best approach to stratify tumors into different molecular classes.
+One approach is to define many small subclasses based on complex molecular signatures, while another option is to divide cancers into larger groups based on higher-order features of cancer behavior.
+This latter approach holds appeal as it may provide opportunities to identify broadly relevant therapeutics.
+However, our understanding of these fundamental 'rules' of cancer biology and how they can be used to better classify and treat cancers is in its infancy.
+We recently demonstrated that cancers can be functionally stratified into binary YAPon and YAPoff super-classes with unique therapeutic vulnerabilities based on distinct expression and function of the transcriptional coactivators, YAP and TAZ.
+In YAPon cancers, YAP and TAZ drive oncogenesis, whereas in YAPoff cancers, YAP and TAZ are instead tumor suppressors.
+In this review, we discuss our understanding of these distinct cancer classes with a focus on the mechanisms that underlie the opposite function of YAP/TAZ in YAPon and YAPoff cancers, as well as the potential therapeutic implications of these findings.

@@ -1,0 +1,4 @@
+Arginine methylation is a crucial post-translational modification (PTM) that plays a significant role in various biological processes.
+It occurs in two primary forms: mono-methylation (MMA) and di-methylation (DMA), with the latter further classified into symmetric (SDMA) and asymmetric methylation (ADMA).
+This review examines the functional implications of these methylation states, current detection methodologies, proteomics-based analytical approaches, and the different impacts of these methylations on protein function.
+Finally, the role of protein arginine methyltransferases (PRMTs) and their substrate specificity in shaping the arginine methylome are discussed.

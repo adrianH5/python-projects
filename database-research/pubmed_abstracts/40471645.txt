@@ -1,0 +1,11 @@
+Programmed cell death protein 4 (PDCD4) is an oncogene involved in the cell cycle and apoptosis, enhancing drug sensitivity in tumor cells and inhibiting tumor development.
+However, the relationship between PDCD4 and tumor immune microenvironment remains unclear.
+The Cancer Genome Atlas (TCGA) database was used to collect PDCD4 data and somatic mutation data for 33 cancer types.
+Gene Expression Profiling Interactive Analysis (GEPIA) database was used to obtain the distribution map of PDCD4 gene in human tissues and the prognostic expression heat map of cancer.
+Human Protein Atlas (HPA) database was used to explore the expression differences of PDCD4 RNA in different cell lines, and PDCD4 expression and clinical data were obtained from Gene Expression Omnibus (GEO) database.
+We found significant differences in the expression of PDCD4 in different cancers and associated with patient prognosis.
+PDCD4 is closely related to the tumor microenvironment, sensitive to immunomodulators, and involved in immune regulation.
+Gene Ontology (GO) and the Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analysis showed that PDCD4 plays a crucial role in tumor metastasis, affecting the survival and prognosis of tumor patients.
+The differential expression of PDCD4 in various tumor tissues and its involvement in immunomodulatory mechanisms suggest its potential as a biomarker for prognosis and immunotherapy.
+PDCD4 was closely related to tumor immune microenvironment and immune efficacy indexes.
+It is suggested that it may be used as a biomarker to predict immune efficacy.

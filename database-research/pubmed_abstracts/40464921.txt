@@ -1,0 +1,2 @@
+Whole genome sequencing (WGS) has transformed bacterial strain typing, an essential tool for outbreak detection, antimicrobial resistance surveillance, and tracking clonal emergence across clinical, research, and public health settings.
+Herein, we will review recent advances in WGS-based bacterial strain typing methods for purposes of comparison and classification with a focus on improvements in variant identification, strain classification, and transmission assessment.

@@ -1,0 +1,9 @@
+As well as spreading through virions, influenza A viruses (IAVs) can evade antiviral drugs and neutralising antibodies by spreading directly from cell to cell.
+In cell culture this can occur by the induction of intercellular membrane connections known as tunnelling nanotube-like structures (TLSs), which are capable of trafficking the viral genome between cells.
+Here, we showed that TLSs are formed by IAV infected cells in vivo, and then used in vitro models to ask how IAVs induce their formation.
+We found that TLS formation is not induced by cytokine signalling from infected to uninfected cells, but induction does require intracellular IAV replication.
+IAV replication can form filamentous virions which have structural similarities to TLSs, but we found that TLS induction is independent of virion morphology.
+We therefore looked at the intracellular responses to infection and found that the induction of TLSs correlated with the induction of apoptosis.
+Furthermore, the ability of IAVs to drive TLS formation can be modulated by chemically inhibiting, or inducing apoptosis.
+Finally, we found that inhibiting apoptosis, which prevents IAVs from inducing TLSs, lead to a significant reduction in the ability of IAVs to directly spread between cells.
+Our results, which suggest that IAVs can control their ability to spread directly from cell to cell by driving infected cells into apoptosis, identifies a new way in which a virus can manipulate its host to evade antiviral immune responses.

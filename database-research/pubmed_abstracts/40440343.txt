@@ -1,0 +1,13 @@
+Cancer cells often undergo mitosis possessing more than two centrosomes.
+To avoid a multipolar mitosis, the consequences of which are typically aneuploidy induced senescence, they must cluster their extra centrosomes to create a pseudo-bipolar spindle.
+Such supernumerary centrosome clustering (SNCC) requires Myosin 10 (Myo10) and the pole-focusing kinesin HSET.
+We showed recently that Myo10 promotes SNCC in HeLa cells by promoting retraction fiber-based cell adhesion, and that it further supports spindle bipolarity by preventing the generation of extra spindle poles via pericentriolar material (PCM) fragmentation.
+Here we quantified the contribution that Myo10 and HSET make individually and together to SNCC and PCM/pole integrity in HeLa cells and in MDA-MB-231 cells, which differ from HeLa in being more dependent on SNCC and less dependent on retraction fiber-based cell adhesion.
+As expected, knockdown of Myo10 and HSET individually increased the frequency of multipolar spindles in both cell types.
+Their effects were surprisingly not additive, however.
+For HeLa and MDA-MB-231 cells undergoing mitosis with more than two centrosomes, the defect in SNCC was almost entirely responsible for their multipolar phenotype following knockdown of either Myo10 or HSET.
+For HeLa and MDA-MB-231 cells undergoing mitosis with two centrosomes, PCM/pole fragmentation was the primary cause of multipolar spindles following HSET knockdown.
+Unlike HeLa, however, MDA-MB-231 cells exhibited very little PCM/pole fragmentation following Myo10 knockdown.
+This difference may be due to the smaller role that Myo10 plays in retraction fiber-based adhesion in MDA-MB-231.
+Finally, we show that HSET knockdown disrupts retraction fiber formation and organization, which may explain why the defects in double knockdown cells were not significantly greater than in HSET knockdown cells.
+These and other results can inform efforts to target these two motor proteins to selectively kill cancer cells by increasing their frequency of multipolar divisions.

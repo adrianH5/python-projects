@@ -1,0 +1,7 @@
+Thyroid cancer (TC) is the most prevalent malignancy of the endocrine system, with its incidence has been increasing worldwide in recent years.
+Although it generally has a favorable prognosis, aggressive forms such as anaplastic TC are associated with high mortality rates.
+Cell-microenvironment interactions largely influence the progression and metastatic behavior of TC; however, the precise mechanisms underlying these processes remain inadequately understood.
+One critical factor influencing metastasis is anoikis, a form of programmed cell death triggered by the detachment of cells from the extracellular matrix.
+Resistance to anoikis allows tumor cells to escape apoptosis, survive in circulation, and metastasize to distant organs.
+Given its pivotal role in metastasis, anoikis resistance represents a key area of study in understanding cancer progression.
+This review covers the molecular mechanisms and pathogenesis of TC, particularly emphasizing the role of anoikis resistance in metastatic spread and its potential as a therapeutic target.

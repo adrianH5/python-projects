@@ -1,0 +1,8 @@
+Epstein-Barr virus (EBV) infection has been associated with an expanding range of acute inflammatory, malignant, and autoimmune disorders.
+Seroepidemiological studies, facilitated by the early identification of key immunodominant targets of the EBV-specific humoral response, have provided invaluable insights into pathogenicity and global prevalence and incidence of EBV infections.
+These studies have also identified distinct antibody signatures associated with both the acute and persistent phases of infection, as well as EBV-related disorders.
+Over time, research into the humoral immune response against EBV has progressed from traditional cell-based immunofluorescence methods to high-throughput multiplex assays utilizing recombinant proteins or synthetic peptides as substrates.
+These improvements have shifted the focus from individual immunodominant antigens to the entire EBV proteome, enhancing our understanding of antiviral antibody responses in both health and disease.
+Detailed analyses of antigenic epitopes have uncovered significant biochemical and sequence homology between viral and host proteins, providing a conceptual framework for understanding the development of autoimmune diseases by a phenomenon known as antigenic mimicry.
+Recently, research has shifted toward translating these immune response findings into therapeutic strategies aimed at inducing or restoring immunity in patients with EBV-associated disorders.
+This chapter seeks to provide a comprehensive overview of the humoral immune response to EBV in healthy virus carriers and patients with EBV-associated disorders, tracing developments from the discovery of the virus 60 years ago to the present day and offering a perspective on future directions.

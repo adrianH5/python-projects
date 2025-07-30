@@ -1,0 +1,7 @@
+This study aimed to systematically review the highest-quality evidence regarding the cutoff value in kPa for the diagnostic accuracy of ultrasound-based liver elastography in comparison with reference standards, including magnetic resonance imaging (MRI), computed tomography, and liver biopsy.
+In addition, we assessed the presence of hepatocellular carcinoma (HCC) and its associated implications in clinical and diagnostic contexts.
+We conducted a search using Medical Subject Headings across PubMed, Embase, Cochrane Library, Web of Science, Scopus, and Lilacs for articles published up to June 6, 2024.
+Of 1,131 studies identified, 33 were eligible and 8 met the quality criteria, as evaluated with the "RTI Item Bank" and "QUADAS-2" tools, following the PICO strategy.
+The mean elasticity of the liver parenchyma among patients with confirmed HCC was 18.77 kPa (95% CI: 16.28-21.27), making ultrasound liver elastography useful as a predictor of the diagnosis by gold-standard methods such as MRI.
+Ultrasound elastography is a low-cost, accessible, and noninvasive diagnostic tool capable of estimating liver elasticity in patients with HCC.
+However, due to the heterogeneity of the articles included in this review, further prospective studies are needed in order to confirm and standardize a cutoff stiffness value for early HCC screening, which could improve patient outcomes, particularly in resource-limited settings.

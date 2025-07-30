@@ -1,0 +1,7 @@
+Tumor-colonizing bacteria can impede the efficacy of cancer treatments and elevate the risk of metastatic spread.
+While cytotoxic T lymphocytes (CTLs) are essential for destroying tumor cells, they lack the ability to eliminate bacteria.
+Here, the artificial T cells (ATC) are presented for tumors, particularly those colonized with intracellular bacteria.
+The ATC is composed of a hydrogel framework made of disulfide-linked chitosan and hyaluronic acid, encapsulating T cell-derived granzyme B and phage-derived holin.
+This design leverages the tumor microenvironment for the targeted release of these antitumor and antibacterial agents to precisely kill tumor cells and intracellular bacteria.
+In vivo studies demonstrate the debris from ATC-mediated destruction acts as an immune stimulator, promoting immune cell infiltration and inhibiting tumor migration.
+This work highlights the potential of ATC therapy in achieving targeted treatment and robust anti-tumor immunity, advancing the field of artificial cell technologies for precision medicine.

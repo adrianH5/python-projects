@@ -1,0 +1,6 @@
+Fucosyltransferase 8 (FUT8) catalyzes core fucosylation, a critical post-translational modification influencing cellular processes.
+Aberrant core fucosylation is linked to tumor progression, including proliferation, metastasis, and immune evasion.
+This review integrates the transcriptional and post-transcriptional regulation of FUT8, its interactions with key signaling molecules (E-cadherin, EGFR, TGF-β, β-catenin), and their impact on tumor behavior.
+We evaluate FUT8's role in cancer immunity, focusing on antibody-dependent cell-mediated cytotoxicity (ADCC) and immune checkpoint regulation, alongside the development of FUT8 inhibitors for clinical use.
+Additionally, we explore FUT8 and core fucosylation products as diagnostic and prognostic biomarkers.
+By analyzing molecular mechanisms, immune interactions, and clinical potential, we highlight FUT8's pivotal role in cancer biology, address its tissue-specific pro- and anti-tumorigenic roles, and propose future research to enhance cancer diagnosis, treatment, and prognosis.

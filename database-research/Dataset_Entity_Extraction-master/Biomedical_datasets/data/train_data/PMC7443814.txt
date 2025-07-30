@@ -1,0 +1,9 @@
+The outbreak of the coronavirus disease 2019 (COVID-19), caused by a novel (new) coronavirus (SARS-CoV-2), has been characterized as a global pandemic [1–5].
+COVID-19 is rapidly spreading across the world and affecting all populations.
+Thus, it’s important to systematically characterize and evaluate potentially deleterious variants in ACE2, which may affect SARS-CoV-2 recognition and infection, and COVID-19 susceptibility and treatment.
+A recent genome-wide association study (GWAS) including 835 patients with COVID-19 and severe disease (defined as respiratory failure) and 1255 control participants from Italy, plus 775 patients and 950 control participants from Spain was conducted by the Severe COVID-19 GWAS Group [22].
+They identified multiple genetic variants and genes associated with COVID-19 with respiratory failure.
+Although our study has characterized the putative functional and structurally related variants in ACE2 with top allele frequencies in various populations, the lack of phenotypes of COVID-19 prevents us from identifying susceptibility variants associated with a phenotype of COVID-19.
+However, our findings, together with other ACE2 genetic studies [17, 19], can prioritize the promising variants in ACE2 for further fast-track genotyping in blood samples from COVID-19 patients, which could provide a great opportunity to identify susceptibility variants in ACE2 related to symptoms of COVID-19 patients.
+The outbreak of coronavirus disease (COVID-19) was caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), through its surface spike glycoprotein (S-protein) recognition on the receptor Angiotensin-converting enzyme 2 (ACE2) in humans.
+These findings provide novel insight into the genetic variation in ACE2 which may affect the SARS-CoV-2 recognition and infection, and COVID-19 susceptibility and treatment.

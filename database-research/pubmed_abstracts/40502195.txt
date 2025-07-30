@@ -1,0 +1,7 @@
+Cancer remains one of the most complex diseases faced by humanity, with over 200 distinct types, each characterized by unique molecular profiles that demand specialized therapeutic approaches (Tomczak et al., 2015).
+Prior studies have shown that both short and long telomere lengths are associated with elevated cancer risk, underscoring the intricate relationship between telomere length variation and tumorigenesis (The Telomeres Mendelian Randomization Collaboration et al., 2017).
+To investigate this relationship, we developed a supervised machine learning model trained on telomeric read content, genomic variants, and phenotypic features to predict tumor status.
+Using data from 33 cancer types within The Cancer Genome Atlas (TCGA) program, our model achieved an accuracy of 82.62% in predicting tumor status.
+The trained model is available for public use and further development through the project's GitHub repository: https://github.com/paribytes/TeloQuest .
+This work represents a novel, multidisciplinary approach to improving cancer diagnostics and risk assessment by integrating telomere biology with Biobank-scale genomic and phenotypic data.
+Furthermore, we highlight the potential of telomere length variation as a meaningful predictive biomarker in oncology.

@@ -1,0 +1,12 @@
+Gene silencing via small interfering RNA (siRNA) represents a transformative tool in cancer therapy, offering specificity and reduced off-target effects compared to conventional treatments.
+A crucial step in siRNA-based therapies is endosomal escape, the release of siRNA from endosomes into the cytoplasm.
+Quantifying endosomal escape is challenging due to the dynamic nature of the process and limitations in imaging and analytical techniques.
+Traditional methods often rely on fluorescence intensity measurements or manual image processing, which are time-intensive and fail to capture continuous dynamics.
+This paper presents a novel computational framework that integrates automated image processing to analyze time-lapse fluorescent microscopy data of endosomal escape, hierarchical Bayesian inference, and stochastic simulations.
+Our method employs image segmentation techniques such as binary masks, Gaussian filters, and multichannel color quantification to extract precise spatial and temporal data from microscopy images.
+Using a hierarchical Bayesian approach, we estimate the parameters of a compartmental model that describes endosomal escape dynamics, accounting for variability over time.
+These parameters inform a Gillespie stochastic simulation algorithm, ensuring realistic simulations of siRNA release events over time.
+By combining these techniques, our framework provides a scalable and reproducible method for quantifying endosomal escape.
+The model captures uncertainty and variability in parameter estimation, and endosomal escape dynamics.
+Additionally, synthetic data generation allows researchers to validate experimental findings and explore alternative conditions without extensive laboratory work.
+This integrated approach not only improves the accuracy of endosomal escape quantification but also provides predictive insights for optimizing siRNA delivery systems and advancing gene therapy research.

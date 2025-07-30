@@ -1,0 +1,5 @@
+Hepatocellular carcinoma (HCC) is the fifth most common cancer worldwide and the fourth leading cause of cancer-related mortality.
+Despite the development of several therapeutic strategies to treat HCC, the highly refractory nature of this disease limits therapeutic outcomes and patient survival.
+Oncolytic viruses (OVs) are a type of natural virus that can specifically infect and kill human tumor cells in HCC and have been extensively investigated as attractive live therapeutic agents for the treatment of HCC.
+Engineered OVs are capable of inhibiting HCC progression through direct tumor lysis, perpetuation of apoptosis and infection-destruction cycle, activation of antitumor innate immunity and autoimmunity, disruption of tumor vasculature, induction of immunogenic cell death, and regulation of tumor microenvironment.
+However, HCC is a heterogeneous tumor and further preclinical or clinical studies are needed to focus on optimizing the route of administration and combination of OVs with other conventional therapies and, more importantly, to develop targeted delivery systems for better treatment of HCC while avoiding liver toxicity, as reviewed in this study.

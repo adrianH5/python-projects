@@ -1,0 +1,7 @@
+β-Lactamase enzymes exhibit extraordinary adaptive potential, thus rendering many β-lactam drugs ineffective.
+The residue at Ambler position 105, also known as the gatekeeper residue, plays an important role in substrate recognition, but its implication in inhibition mechanisms is understudied and obscure.
+To inspect the relationship between inhibitor-resistant phenotypes and residues at this position, we performed site-saturation mutagenesis and extensive fitness profiling of five distinct class A β-lactamases using deep sequencing.
+We found that inhibitor resistance is readily detectable, with variants harboring Gly or Arg being the least susceptible to inhibitors.
+Mutation of Ile105 to Arg in the β-lactamase BlaC simultaneously enhances activity for carbenicillin and the ability to evade clavulanic acid inhibition.
+The Y105G substitution in two clinically important enzymes, CTX-M-14 and TEM-1, confers greatly reduced in vitro sensitivity to avibactam, which we attribute to elevated conformational flexibility of the inhibitor within the active site.
+The findings presented in this study underpin the gatekeeper residue as a possible mutational hotspot and might aid the design of novel β-lactamase inhibitors.

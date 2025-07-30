@@ -1,0 +1,7 @@
+Liver biology is functionally linked to lactation, as liver size and metabolic output increase during lactation to support synthesis of breast milk.
+Upon weaning, the rodent liver returns to baseline homeostasis via hepatocyte cell death, in a process considered liver involution.
+To explore liver biology changes across a lactation-wean cycle, we employed transcriptomic profiling.
+We identified elevated hepatocyte proliferation and anabolic metabolism gene signatures during lactation, consistent with the liver being a major producer of substrates needed for milk production.
+Rapid loss of these capacities upon weaning correlated with catabolic metabolism, lysosomal-mediated cell death, and an enrichment of immune-suppressive cells.
+Furthermore, we identified that the transcriptional profiles associated with liver involution share similarities with the gene expression patterns of liver premetastatic niches.
+This work identifies features of reproductive control of liver biology that set a foundation for better understanding the potential role of the liver in maternal health.

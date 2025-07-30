@@ -1,0 +1,5 @@
+Thus, to better understand the emergence of the recent SARS‐CoV‐2 epidemic in Italy, we analyzed a larger and updated dataset of recently released data of the COVID‐2019 epidemic to improve more effective intervention strategies.
+The dataset comprised (n = 141) complete genomes sequences from the current (2019‐2020) SARS‐CoV‐2 epidemic retrieved from GISAID (https://www.gisaid.org/) database.
+The complete dataset was assessed for the presence of phylogenetic signal by applying the likelihood mapping analysis implemented in the IQ‐TREE 1.6.8 software (http://www.iqtree.org).
+To better understand the establishment and transmission of the novel SARS‐CoV‐2 in Italy, the recent Italian genomes available on the GISAID database were added to a dataset of 138 SARS‐CoV‐2 genomes from the global epidemic.
+Phylogenetic inference robustness will be improved if other genomic sequences will be available to build an even more informative dataset despite the low heterogeneity of the sequenced strains.

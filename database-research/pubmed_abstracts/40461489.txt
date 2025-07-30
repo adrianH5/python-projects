@@ -1,0 +1,9 @@
+Clear cell renal cell carcinoma (ccRCC) is the most common subtype of renal cell carcinoma (RCC), with a rising incidence worldwide.
+However, the mechanisms by which ccRCC evades immune surveillance remain incompletely understood.
+Our findings indicate that fumarate hydratase (FH) expression is significantly downregulated in ccRCC, resulting in fumarate accumulation, which is correlated with a poor prognosis in ccRCC patients.
+RNA sequencing analysis suggests that dimethyl fumarate (DMF), an FDA-approved fumarate analogue, may impact tumor immunity.
+Our further investigation reveals that both DMF and the FH inhibitor (FHIN1) can promote immune evasion in ccRCC by upregulating PD-L1.
+Pre-treatment of tumor cells with DMF notably inhibits the cytotoxic effect of T cells.
+Mechanistically, fumarate induces PD-L1 expression through succination of HIF-1α at C800, facilitating its interaction with importin α3, p300, and PKM2, which promotes HIF-1α nuclear localization and transcriptional activity.
+Moreover, combining DMF with PD-L1 blockade therapy significantly enhances the efficacy of immunotherapy and prolongs the survival of tumor-bearing mice.
+Taken together, our study elucidates a mechanism by which FH downregulation promotes immune evasion through the fumarate-HIF-1α/p300/PKM2-PD-L1 axis, providing a novel target, drug, and strategy to improve immunotherapy for ccRCC.

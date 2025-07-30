@@ -1,0 +1,10 @@
+New-onset diabetes (NOD) has emerged as a potential early indicator of pancreatic cancer (PC), necessitating a refined clinical approach for risk assessment and early detection.
+This study discusses critical gaps in understanding the NOD-PC relationship and proposes a multifaceted approach to enhance early detection and risk assessment.
+We present a comprehensive clinical workflow for evaluating NOD patients, incorporating biomarker discovery, genetic screening, and AI-driven imaging to improve PC risk stratification.
+While existing models consider metabolic factors, they often overlook germline genetic predispositions that may influence disease development.
+We propose integrating germline genetic testing to identify individuals carrying pathogenic variants in cancer-susceptibility genes (CSGs), enabling targeted surveillance and preventive interventions.
+To advance early detection, biomarker discovery studies must enroll diverse patient populations and utilize multi-omics approaches, including genomics, proteomics, and metabolomics.
+Standardized sample collection and AI-based predictive modeling can refine risk assessment, allowing for personalized screening strategies.
+To ensure reproducibility, a multicenter research approach is essential for validating biomarkers and integrating them with clinical data to develop robust predictive models.
+This multidisciplinary strategy, uniting endocrinologists, oncologists, geneticists, and data scientists, holds the potential to revolutionize NOD-PC risk assessment, enhance early detection, and pave the way for precision medicine-based interventions.
+The anticipated impact includes improved early detection, enhanced predictive accuracy, and the development of targeted interventions to mitigate PC risk.

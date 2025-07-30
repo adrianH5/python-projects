@@ -1,0 +1,10 @@
+Genetic diseases such as Neurofibromatosis type 1 (NF1) and Charcot-Marie Tooth disease involve Schwann cells (SCs) associated with peripheral nerves.
+Gene therapy using adeno-associated virus (AAV) vector mediated gene delivery is a promising strategy to treat these diseases.
+However, AAV-mediated transduction of SCs in vivo after intravascular delivery is relatively inefficient, with a lack of extensive characterization of different capsids to date.
+Here, we performed an in vivo selection with an AAV9 capsid peptide display library in a mouse model of NF1.
+We chose one capsid variant, AAV-SC3, which was present in NF1 nerves for comparison to two benchmark capsids after systemic injection.
+AAV-SC3 significantly outperformed one of the two benchmark capsids at levels of transgene mRNA in the neurofibroma.
+Immunofluorescence microscopy revealed transgene expressing Sox10-positive SCs throughout the neurofibroma with AAV-SC3 injection.
+Next, we performed a pooled screen with four of the top capsids from our initial selection and AAV9 and identified one capsid, AAV-SC4, with enhanced biodistribution to and transduction of normal sciatic nerve in mice.
+This capsid displayed a peptide with a known laminin-binding motif, which may provide a conduit for future laminin-targeting strategies.
+Our results provide a baseline for future AAV-based gene therapies developed for NF1 or other diseases that affect SCs.

@@ -1,0 +1,12 @@
+Polycystic ovarian syndrome (PCOS) is a major cause of infertility.
+Succinylation is involved in disease processes; however, its role in PCOS remains unknown.
+This study aimed to analyze the effect of desuccinylase SIRT5 on granulosa cell phenotype and the molecular mechanism.
+The levels of succinylation-related enzymes were measured using reverse transcription-quantitative polymerase chain reaction and immunoblotting.
+Cell proliferation was evaluated using MTT and colony formation assays, and apoptosis was assessed using flow cytometry.
+The succinylation was analyzed using immunoprecipitation, cycloheximide chase assay, and immunoblotting.
+The results showed that SIRT5 was highly expressed in PCOS, and knockdown of SIRT5 promoted granulosa cell proliferation and inhibited apoptosis, as well as activated the SHH pathway.
+Moreover, silencing of SIRT5 promoted GLI1 succinylation at lysine (K)232 site and thereby suppressed its degradation.
+GLI1 knockdown reversed the promotion of proliferation and the inhibition of apoptosis caused by SIRT5 knockdown.
+Besides, SIRT5 knockdown attenuated ovarian dysfunction and inhibited apoptosis in PCOS rats by increasing GLI expression.
+In conclusion, silencing of SIRT5 facilitates granulosa cell proliferation and impedes apoptosis by succinylation of GLI1 at K232 site, and thus attenuates PCOS.
+The findings suggest that SIRT5 may be a promising target for PCOS therapy.

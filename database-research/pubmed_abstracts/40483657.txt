@@ -1,0 +1,10 @@
+Pancreatic ductal adenocarcinoma (PDAC) is characterized by significant heterogeneity and a poor prognosis.
+M2 macrophages (M2) play a crucial role in the microenvironment of PDAC, yet their exact functional significance remains poorly understood.
+This study sought to explore the potential communication and clinical implications of M2 in PDAC.
+The differentiation pathway of M2 and their interaction with malignant PDAC cells were analyzed using single-cell RNA sequencing (scRNA-seq).
+Additionally, a prognostic signature related to M2 marker genes was constructed and analyzed using bulk RNA sequencing.
+Three distinct differentiation states of M2 were characterized, each exhibiting unique transcription factor expression profiles and signaling pathway activations.
+Potential intercellular communication between M2, PDAC malignant cells, and fibroblasts was initially observed at the level of computer analysis.
+The prognostic model was identified through the LASSO algorithm.
+Patients stratified by risk level displayed significant variations in prognostic indicators such as signaling pathway activity, gene mutation frequency, immune cell infiltration, and drug sensitivity.
+These findings are of course preliminary, and future in vitro/in vivo experiments will be needed to knock out these signature genes or ligand-receptor pairs of genes in macrophages to validate their role in macrophage development.

@@ -1,0 +1,9 @@
+Intracellular delivery of antibodies holds great promise for targeting cytosolic antigens involved in various diseases, particularly cancer because many key signal-inducing antigens are localized intracellularly.
+However, the clinical application of intracellular antibodies is hindered by their poor cellular uptake and inefficient endosomal escape owing to their large molecular weight, hydrophilicity, and overall negative charge.
+To address these challenges, we developed a metal-phenolic network (MPN)-based polymeric nanocarrier for cytosolic antibody delivery.
+This carrier was composed of a polyphenol-conjugated polymer and metal ions.
+Upon simple mixing with antibodies, polyphenol-conjugated polymers and metal ions form polymeric MPN complex-encapsulating antibodies with a core-shell structure.
+The complex, with a diameter of approximately 30 nm and a relatively neutral charge, demonstrated excellent pharmacokinetics and tumor accumulation following intravenous administration.
+Within tumor cells, the polymeric MPN complex facilitated endosomal escape through a buffering effect triggered by coordination bond dissociation of MPN in the acidic endosomal environment; simultaneously, the antibodies were released from the polymeric MPN complex, leading to binding to the antigen in the cytoplasm.
+The polymeric MPN complex enhanced the therapeutic effect of cytoplasmic antigen-binding antibodies against orthotopic breast tumors in mice.
+This study demonstrated the potential of MPN-based polymeric nanocarriers without cationic molecules as a platform for intracellular antibody delivery, enabling systemic administration and cytosolic release in tumors, thus expanding the therapeutic landscape of antibody-based treatments.

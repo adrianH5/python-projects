@@ -1,0 +1,8 @@
+Given the growing burden of colorectal cancer (CRC) as a global health challenge, it becomes imperative to focus on strategies that can mitigate its impact.
+Post-treatment surveillance has emerged as essential for early detection of recurrence, significantly improving patient outcomes.
+However, intensive surveillance strategies have shown mixed results compared to less intensive methods, emphasizing the necessity for personalized, risk-adapted approaches.
+The observed suboptimal adherence to existing surveillance protocols underscores the urgent need for more tailored and efficient strategies.
+In this context, circulating tumor DNA (ctDNA) emerges as a promising biomarker with significant potential to revolutionize post-treatment surveillance, demonstrating high specificity [0.95, 95% confidence interval (CI): 0.91-0.97] and robust diagnostic odds (37.6, 95%CI: 20.8-68.0) for recurrence detection.
+Furthermore, artificial intelligence and machine learning models integrating patient-specific and tumor features can enhance risk stratification and optimize surveillance strategies.
+The reported area under the receiver operating characteristic curve, measuring artificial intelligence model performance in predicting CRC recurrence, ranged from 0.581 and 0.593 at the lowest to 0.979 and 0.978 at the highest in training and validation cohorts, respectively.
+Despite this promise, addressing cost, accessibility, and extensive validation remains crucial for equitable integration into clinical practice.

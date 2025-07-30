@@ -1,0 +1,14 @@
+Background Enhanced metabolic and mitochondrial activity inherent in actively proliferating cancer cells is associated with intracellular redox imbalance that impacts cellular viability.
+To restore redox homeostasis cancer cells evolve to activate redox protective mechanisms.
+This differential activation of redox defense pathways compared to normal cells provides a therapeutic window for novel targeted therapies in cancer.
+Although the heme metabolism emerges as a crucial regulator of redox homeostasis and iron metabolism in cancer cells with frequent alteration in breast cancer, it remains largely unexplored, and no targeted translational approaches have been developed.
+Heme-regulated redox homeostasis is coordinately maintained through biosynthetic and degradation pathways.
+As a byproduct of TCA cycle, cytotoxic heme is initially derivatized by heme oxygenases and progressively metabolized to the potent antioxidant bilirubin by two non-redundant biliverdin reductases, BLVRA and BLVRB.
+BLVRB overexpression has been observed in breast cancers, although its function in breast cancer pathogenesis remains unknown.
+Methods CRISPR/Cas9 deletion of BLVRB in multiple breast cancer cell lines demonstrated its profound effect on intracellular redox state and cell proliferation in vitro and xenograft models.
+Integrated proteomic, metabolomic, and lipidomic studies identified and validated BLVRB-mediated adaptive metabolic responses required for breast cancer cell cytoprotection.
+Results We have established BLVRB as a requisite component of the pro-survival redox defense mechanism in breast cancer cells.
+Targeted deletion of BLVRB induces reductive stress, leading to alterations in endoplasmic reticulum proteostasis and lipid composition.
+These defects impact plasma membrane functionality and endosomal recycling of multiple oncogenic receptors, such as HER2 and transferrin receptors.
+Conclusions These data collectively identify BLVRB as a novel metabolic target in breast cancer, distinct from other redox-regulating pathways.
+This study, along with our recent progress in developing novel specific BLVRB inhibitors, offers a unique translational opportunity for targeted therapies in personalized breast cancer medicine.

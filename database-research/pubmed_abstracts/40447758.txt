@@ -1,0 +1,10 @@
+Colorectal cancer (CRC) represents a major global disease burden with nearly 1 million cancer-related deaths annually.
+TNM staging has served as the foundation for predicting patient prognosis, despite variation across staging groups.
+The consensus molecular subtype (CMS) is a transcriptome-based system classifying CRC tumors into four subtypes with different characteristics: CMS1 (immune), CMS2 (canonical), CMS3 (metabolic), and CMS4 (mesenchymal).
+Transcriptomics is too complex and expensive for clinical implementation; therefore, an immunohistochemical method is needed.
+The prognostic impact of the immunohistochemistry-based four CMS-like subtypes remains unclear.
+Due to the complexity and costs associated with transcriptomics, we developed an immunohistochemistry (IHC)-based method supported by convolutional neural networks (CNNs) to define subgroups that resemble CMS biological characteristics.
+Building on previous IHC-classifiers and incorporating β-catenin to refine differentiation between CMS2- and CMS3-like profiles, we categorized CRC tumors in a cohort of 538 patients.
+Classification was successful in 89.4% and 15.9% of tumors were classified as CMS1-like, 35.1% as CMS2-like, 38.7% as CMS3-like, and 11.7% as CMS4-like.
+CMS2-like patients exhibited the best overall survival (p = 0.018), including when local and metastasized disease were analyzed separately.
+Our method offers an accessible and clinically feasible CMS-inspired classification, although it does not serve as a replacement for transcriptomic CMS classification.

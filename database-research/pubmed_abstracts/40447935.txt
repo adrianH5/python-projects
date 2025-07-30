@@ -1,0 +1,10 @@
+Helicobacter pylori (H. pylori) is a globally prevalent pathogenic bacterium.
+It affects over 4 billion people worldwide and contributes to many gastric diseases such as gastritis, peptic ulcers, and cancer.
+Its diagnosis traditionally relies on histopathological analysis of endoscopic biopsies by trained pathologists.
+It is a labor-intensive and time-consuming process that risks overlooking small bacterial populations.
+Another limiting factor is the cost, which can vary from a few dozen to hundreds of dollars.
+In order to automate this process, our study evaluated the potential of various texture features for binary classification of 204 histopathological images (H. pylori-positive and H. pylori-negative cases).
+Texture is an important attribute and describes the appearance of a surface based on its composition and structure.
+In our study, we discarded the color information present in the samples and computed texture features from various methods, selected based on their performance, novelty, and ability to highlight different aspects of the image.
+We also investigated how the combination of these features, performed by the application of Particle Swarm Optimization (PSO) algorithm, impact on the performance of classification.
+Results demonstrated that well known texture analysis methods are still competitive in terms of performance, obtaining the highest accuracy (94.61%) and F1-score (94.47%), suggesting a robust balance between precision and recall, surpassing state-of-the-art techniques such as ResNet-101 by a margin of 4.41%.

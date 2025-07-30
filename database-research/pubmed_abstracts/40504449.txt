@@ -1,0 +1,8 @@
+Hepatocellular carcinoma (HCC) is the most common primary liver tumor, often arising in the context of chronic liver disease.
+Despite recent advances in systemic therapies, including the use of immune checkpoint inhibitors (ICIs), clinical outcomes remain suboptimal, with many patients exhibiting primary or acquired resistance.
+Accumulating evidence indicates that the dysregulation of epigenetic mechanisms contributes to HCC development, and may also play a crucial role in shaping the tumor immune microenvironment, influencing responses to treatments.
+In this study, we analyzed the expression profiles of a comprehensive set of epigenetic regulators across publicly available transcriptomic datasets of HCC and non-tumoral liver tissues.
+Our findings reveal a consistent dysregulation of key epigenetic modifiers, particularly those involved in DNA methylation and histone modification.
+Furthermore, our analysis underscores the need for a deeper understanding of the epigenetic landscape of HCC, as specific epigenetic patterns are directly associated with disease development, the major mutational, immune, and transcriptional subclasses of HCC, and patient clinical outcomes.
+Our study provides a foundation for integrating epigenetic biomarkers into patient stratification and therapeutic decision-making.
+A more comprehensive analysis of epigenetic alterations could pave the way for novel predictive markers and combination strategies that could enhance the efficacy of ICIs in HCC.

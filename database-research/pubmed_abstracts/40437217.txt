@@ -1,0 +1,7 @@
+Recent advances in imaging and computation have enabled analysis of large three-dimensional (3D) biological datasets, revealing spatial composition, morphology, cellular interactions and rare events.
+However, the accuracy of these analyses is limited by image quality, which can be compromised by missing data, tissue damage or low resolution due to mechanical, temporal or financial constraints.
+Here, we introduce InterpolAI, a method for interpolation of synthetic images between pairs of authentic images in a stack of images, by leveraging frame interpolation for large image motion, an optical flow-based artificial intelligence (AI) model.
+InterpolAI outperforms both linear interpolation and state-of-the-art optical flow-based method XVFI, preserving microanatomical features and cell counts, and image contrast, variance and luminance.
+InterpolAI repairs tissue damages and reduces stitching artifacts.
+We validated InterpolAI across multiple imaging modalities, species, staining techniques and pixel resolutions.
+This work demonstrates the potential of AI in improving the resolution, throughput and quality of image datasets to enable improved 3D imaging.

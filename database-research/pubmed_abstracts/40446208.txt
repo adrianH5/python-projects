@@ -1,0 +1,6 @@
+Following mouse embryo compaction, outer cells become trophectoderm, while inner cells form the inner cell mass (ICM), later differentiating into primitive endoderm and epiblast during blastocyst formation.
+Trophectoderm specification is driven by position-governed polarisation, while primitive endoderm specification is positively regulated by FGF4 signalling from the unspecified ICM and epiblast.
+When injected into an 8-cell stage morula, Embryonic stem cells (ESCs, derived from preimplantation epiblast cells in vitro) can exclude host cells from the epiblast, leading to mice derived entirely from these cells.
+While evidence suggests roles for ESC-produced FGF4 and physical crowding in host cell displacement from the ICM, the interplay between these possible mechanisms has yet to be dissected, in part due to the lack of studies using Fgf4-/- ESCs.
+Here, we combine chimera titration assays with mathematical modelling to study these mechanisms of host cell displacement.
+Both Fgf4+/+ and Fgf4-/- ESCs displaced host cells from the epiblast, while only Fgf4-/- injected embryos reduced primitive endoderm and increased trophectoderm, indicating sequential exclusion by displacement crowding followed by FGF4 signalling.

@@ -1,0 +1,9 @@
+Oxylipins derived from dietary polyunsaturated fatty acids (PUFAs) are key determinants of intestinal health, homeostasis and inflammatory disorders, such as colitis-associated colorectal cancer (CAC).
+Previous research has independently linked a high dietary omega (ω)-6:ω-3 PUFA ratio, or intestinal helminth infection, to an increased risk of CAC.
+However, whether these two factors interact to exacerbate disease risk and whether oxylipins contribute to this is unknown.
+In this study, we report that infection with the helminth Heligmosomoides polygyrus bakeri (Hpb) exacerbates tumour formation when combined with a high ω-6:ω-3 PUFA ratio diet.
+Dietary increases in tumour burden correlated with heightened levels of arachidonic acid (AA) and AA-derived lipoxygenase (LOX) oxylipins in the colon, including the 12/15-LOX product 12-hydroxyeicosatetraenoic acid, prior to disease onset.
+Although helminth infection further increased the production of 12/15-LOX oxylipins and increased expression of Alox15, responsible for producing these metabolites, inhibition of cyclooxygenase-dependent prostaglandin production with aspirin prevented helminth-exacerbation of disease.
+Helminth-infected mice exhibited increased phosphorylation of β-catenin in the colon, which was inhibited by EP2 and 4 antagonists.
+Moreover, administration of an EP agonist increased tumour burden in naive mice fed a high ω-6:ω-3 PUFA ratio diet, to the levels seen in helminth-exacerbation of disease.
+These data suggest that dietary changes in fatty acid composition coordinate with helminth-induced activation of EP signalling to exacerbate tumour development.

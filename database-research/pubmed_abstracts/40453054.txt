@@ -1,0 +1,6 @@
+CD38 is a surface ectoenzyme expressed at high levels on myeloma plasma cells and is the target for the monoclonal antibodies (mAbs) daratumumab and isatuximab.
+Pretreatment CD38 density on tumor cells is an important determinant of mAb efficacy.
+Several small molecules have been found to increase tumor surface CD38, with the goal of boosting mAb efficacy in a cotreatment strategy.
+Numerous other CD38-targeting therapeutics are currently in preclinical or clinical development.
+Here, we sought to extend our currently limited insight into CD38 surface expression by using a multiomics approach.
+Genome-wide CRISPR interference screens integrated with patient-centered epigenetic analysis confirmed known regulators of

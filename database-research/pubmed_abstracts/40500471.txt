@@ -1,0 +1,13 @@
+Procyanidins (PCs), dietary polyphenols found in fruits, vegetables, and beverages, exhibit potent anticancer properties.
+Their mechanisms of action involve modulating oxidative stress, inhibiting angiogenesis, inducing apoptosis, and preventing tumor progression.
+Despite promising preclinical and clinical findings, their therapeutic potential remains underexplored.
+This review aims to provide a comprehensive analysis of the anticancer properties of PCs, including their bioavailability, pharmacokinetics, and safety.
+A systematic literature search was conducted across databases such as PubMed, Scopus, and Web of Science, utilizing Medical Subject Headings (MeSH) terms and specific keywords.
+Studies were selected based on predefined inclusion criteria, focusing on in vitro, in vivo, and clinical evidence.
+PCs demonstrate anticancer effects through multiple pathways, including inhibition of pro-inflammatory cytokines, suppression of the phosphoinositide 3-kinase/protein kinase B/mammalian target of rapamycin (PI3K/AKT/mTOR) and mitogen-activated protein kinase/extracellular signal-regulated kinase (MAPK/ERK) pathways, and regulation of apoptosis-related proteins such as BCL2-associated X protein (BAX), B-cell lymphoma 2 (BCL-2), and caspases.
+PCs demonstrate anticancer effects through multiple pathways, including inhibition of pro-inflammatory cytokines, suppression of the PI3K/AKT/mTOR and MAPK/ERK pathways, and regulation of apoptosis-related proteins such as BAX, BCL-2, and caspases.
+However, their low oral bioavailability and metabolic instability pose challenges for clinical application.
+Current research highlights the need for novel delivery systems, such as nanoparticles and liposomes, to enhance systemic absorption and therapeutic efficacy.
+Ongoing clinical trials are investigating the potential of PCs as adjuvants in cancer therapy, either alone or in combination with chemotherapeutic agents.
+Future studies should focus on optimizing their pharmacokinetics, exploring synergistic effects with existing treatments, and conducting large-scale clinical trials to validate their efficacy and safety.
+PCs hold promise as natural anticancer agents, with the potential to complement conventional therapies and improve patient outcomes.

@@ -1,0 +1,8 @@
+Cancer therapy is limited by resistance to standard-of-care chemotherapeutic and/or by treatment-associated toxicity.
+Identifying molecular mechanisms that modulate cellular toxicity is crucial for enhancing treatment efficacy.
+We characterize CDADC1, a vertebrate-specific orphan enzyme, as an unprecedented eukaryotic dCTP deaminase.
+CDADC1 catalyzes the conversion of dCTP into dUTP.
+While bacteria use this activity to sustain proliferation, CDADC1 evolved independently and is not required for mammalian cell proliferation, as demonstrated in cell lines and by the normal growth and standard lifespan of Cdadc1-deficient mice.
+However, we uncover a role of CDADC1 in metabolizing nucleotide analogs gemcitabine and decitabine.
+Gain- and loss-of-function assays in cancer cell lines, along with ectopic mouse models of pancreatic cancer, show that CDADC1 reduces these drugs' efficacy.
+By the same token,

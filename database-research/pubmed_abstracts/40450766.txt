@@ -1,0 +1,8 @@
+Metal dyshomeostasis has been implicated in the immune evasion, host-microbiota interaction and tumor progression during carcinogenesis.
+Specifically, zinc dyshomeostasis has been observed in oral squamous cell carcinoma (OSCC), and strongly associated with Porphyromonas gingivalis (P. gingivalis) infection.
+Therefore, developing a zinc-mediated metalloimmunotherapy with synergistic antitumor, antibacteria and immunoactivation effects could be an efficient strategy to combat OSCC.
+Herein, PYT@ZIF8@siRNA nanoparticles (NPs) were constructed from zeolite imidazolate framework-8 (ZIF8) NPs loaded with pyrithione (PYT, a zinc ionophore) and small interfering RNA (siRNA) for SLC30A1 (zinc transporter 1).
+Zinc overload caused by PYT@ZIF8@siRNA NPs effectively eradicated OSCC cells by causing mitochondrial dysfunction and pro-death mitophagy, and simultaneously eliminated P. gingivalis by destroying the membrane structure and elevating the reactive oxygen species.
+Concurrently, PYT@ZIF8@siRNA NPs evoked robust antitumor immunity by eliciting immunogenic cell death and attenuating immunosuppression mediated by P. gingivalis.
+Moreover, PYT@ZIF8@siRNA significantly interrupted epithelial malignant transformation in experimental oral carcinogenesis model, and synergized with programmed death-1 blockade to establish a collaborative tumoricidal network by reprogramming the immunosuppressive tumor microenvironment in P. gingivalis-infected tumor model.
+In all, our work proposes a strategy for the simultaneous elimination of tumor and intratumoral P. gingivalis, providing a new avenue for precision metalloimmunotherapy in OSCC.

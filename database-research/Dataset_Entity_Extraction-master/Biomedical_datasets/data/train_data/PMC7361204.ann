@@ -1,0 +1,8 @@
+T1	Dataset 2453 2459	GISAID
+T2	Dataset 2590 2596	GISAID
+T3	Repository 2962 2966	NCBI
+T4	Repository 2967 2973	Refseq
+T5	URL 2979 3028	http://ftp.ncbi.nlm.nih.gov/refseq/release/viral/
+T6	Repository 3070 3075	BLAST
+T7	Repository 3135 3141	Refseq
+R1	hasAttr	Arg1:T4	Arg2:T5

@@ -1,0 +1,13 @@
+This study aims to investigate the effectiveness of self-knowledge distillation (self-KD) with progressive refinement in the early prediction of molecular subtypes of breast cancer (BC) using digital breast tomosynthesis (DBT) images.
+This study conducted a retrospective analysis of 368 patients who underwent breast DBT and/or magnetic resonance imaging (MRI) scans at our hospital.
+Among these patients, 303 underwent DBT scans and 119 underwent MRI scans.
+Of the DBT patients, 137 had images with molecular subtypes labels, while the remaining 166 did not have molecular subtype annotations.
+None of the MRI patients had the corresponding molecular subtype labels.
+To address the issue of insufficient labeled DBT images, we proposed a self-knowledge distillation (self-KD) framework with progressive refinement to more effectively utilize the unlabeled MRI and DBT image.
+Initially, the teacher network was pre-trained using unlabeled MRI images to capture the essential characteristics of BC.
+Subsequently, the teacher network was progressively refined to generate more accurate soft labels for the unlabeled DBT images, which improved the performance of the student network through KD.
+Additionally, a noise-adaptive layer was integrated to adjust the soft labels for more accurate learning.
+The performance of our method was evaluated using the area under the receiver operating characteristic curve (AUC), accuracy (ACC), sensitivity (SEN), and specificity (SPE) values.
+The proposed self-KD method achieved an AUC of 0.834, ACC of 0.732, SEN of 0.930, and SPE of 0.734, which surpassed the existing methods for BC molecular subtype prediction.
+Specifically, compared to the baseline KD, our self-KD improved AUC by 9%, ACC by 6%, SEN by 26%, and SPE by 9%.
+The proposed self-KD framework effectively refines the network using both labeled and unlabeled images, which enables more accurate BC molecular subtype prediction.

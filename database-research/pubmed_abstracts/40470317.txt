@@ -1,0 +1,3 @@
+In recent years, DNA methylation-tumor classification based on artificial intelligence algorithms has led to a notable improvement in diagnostic accuracy compared to traditional machine learning methods.
+In cancer, the methylation pattern likely reflects both the cell of origin and somatically acquired DNA methylation changes, making this epigenetic modification an ideal tool for tumor classification.
+We propose an in-depth method based on the Convolutional Neural Network for the DNA methylation-based classification of papillary thyroid carcinoma (PTC) and its follicular (fvPTC) and classical (cvPTC) subtypes.

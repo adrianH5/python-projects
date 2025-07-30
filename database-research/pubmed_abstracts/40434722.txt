@@ -1,0 +1,12 @@
+Objective: Posttranslational protein modifications are crucial for fine-tuning protein function.
+NSC632839 is a dual deubiquitination and desumoylation inhibitor.
+The desumoylation enzyme SENP2 is one of the targets of NSC632839.
+This study aimed to evaluate NSC632839 as an antiproliferative agent in prostate cancer (PCa).
+Methods: The IC50 values for NSC632839 were determined in PCa cell lines PC3 and LNCaP and normal fibroblast cells CCD-1072Sk by crystal violet staining.
+The colony- formation ability of PC3 and LNCaP cells upon NSC632839 treatment was evaluated by a 2D colony-formation assay.
+The expression level of SENP2 and its correlation with androgen receptor (AR) were investigated in PCa tissue samples using publicly avail- able datasets.
+Results: The IC50 values of NSC632839 were 3.1, 1.9, and 17.7 for LNCaP, PC3, and CCD- 1072Sk, respectively.
+In this IC50 concentration, NSC632839 completely abolished the colony-formation ability of PC3 cells.
+The expression level of SENP2 was elevated in metastatic PCa tissue samples and was correlated with the AR.
+Conclusion: NSC632839 was an antiproliferative agent in PCa cells at low doses.
+Therefore, NSC632839 is a strong drug candidate requiring further studies.

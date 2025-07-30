@@ -1,0 +1,1 @@
+We aimed to develop a physics-informed deep learning model for beam dose prediction in intensity-modulated radiation therapy (IMRT) for patients with nasopharyngeal cancer.

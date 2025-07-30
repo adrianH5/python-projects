@@ -1,0 +1,7 @@
+Homologous recombination deficiency (HRD) has been recognized as a key biomarker for poly-ADP ribose polymerase inhibitors (PARPi) and platinum-based chemotherapy in breast cancer (BC).
+HRD prediction typically relies on molecular biology assays, which have a high turnaround time, and cost.
+In contrast, tissue sections stained with hematoxylin and eosin (H&E) are ubiquitously available.
+However, current HRD prediction methods that utilize pathological images are usually based on attention-based multiple instance learning, which is ineffective for modeling the global context of whole slide images (WSIs).
+To address this challenge, we propose a Sufficient and Representative Transformer (SuRe-Transformer) for WSI-based prediction of HRD.
+Experimental results demonstrate the superior performance of SuRe-Transformer in predicting HRD status compared to state-of-the-art methods, achieving an AUROC of 0.887 ± 0.034.
+Furthermore, SuRe-Transformer demonstrates generalizability across multiple external patient cohorts and achieves state-of-the-art performance in predicting several gene mutation biomarkers from BC WSIs.

@@ -1,0 +1,4 @@
+Epstein-Barr virus (EBV) is linked to various cancers like gastric carcinoma, nasopharyngeal carcinoma, and Burkitt's lymphoma, leading to around 200,000 deaths annually.
+Despite efforts, FDA-approved drugs to combat EBV infection are lacking.
+In this endeavor, we have developed an AI/ML based predictive algorithm "Anti-EBV" to find potential antivirals against EBV.
+We utilized small molecules from the ChEMBL database, which were experimentally tested for antiviral activity against EBV in lytic phase, in terms of IC

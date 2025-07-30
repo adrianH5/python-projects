@@ -1,0 +1,8 @@
+Disease progression is closely linked to shifts in the expression levels of specific genes within molecular pathways.
+While gene set enrichment analysis is a widely employed method for identifying key disease markers, it has been underutilized in survival analysis.
+Here, we introduce a novel computational approach that adapts gene set enrichment analysis for survival analysis.
+The proposed approach considers a gene set, computes a single-sample gene set enrichment score, and, based on this score, splits the samples into cohorts.
+It then scores the gene sets by evaluating the differences in survival rates between the resulting cohorts.
+We aim to find gene sets that can lead to cohorts with significantly different survival probabilities.
+Utilizing gene expression data from The Cancer Genome Atlas and gene sets from the Molecular Signature Database, our results demonstrate that existing empirical research consistently supports the top gene sets our approach associates with survival prognosis.
+The proposed method broadens gene set enrichment analysis applications to include information on survival, bridging the gap between alterations in molecular pathways and their implications on survival.

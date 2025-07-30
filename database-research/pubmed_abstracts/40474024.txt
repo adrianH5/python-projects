@@ -1,0 +1,11 @@
+To evaluate the predictive value of the Estimation of Physiologic Ability and Surgical Stress (E-PASS) score, Comorbidity Score for Robotic Surgery (CRS) and Charlson Comorbidity Index (CCI) in relation to postoperative complications in patients undergoing robot-assisted radical prostatectomy (RARP).
+A total of 374 patients who underwent RARP were retrospectively analyzed.
+Patients were divided into two groups based on the presence (n = 50) or absence (n = 324) of postoperative complications, as classified by the Modified Clavien-Dindo system.
+Demographics, comorbidities, ASA and ECOG scores, perioperative data, E-PASS score, CRS, and CCI scores were compared between groups.
+Logistic regression analyses were performed to identify independent risk factors for complications, and receiver operating characteristic curves were used to assess the discriminative ability of each scoring system.
+According to the Clavien-Dindo classification, 60% of complications were Grade 2, followed by Grade 1 (26%) and Grade 3 (8%).
+Patients with complications had significantly higher rates of hypertension (p = 0.018), diabetes mellitus (p = 0.015), ECOG score (p < 0.001), ASA score (p = 0.02), longer operation time (p = 0.02), higher E-PASS score (p < 0.001) and CRS score (p = 0.007).
+The CCI did not show a significant difference between the groups (p = 0.54).
+In the multivariate logistic regression analysis, only the E-PASS score was the independent risk factor for postoperative complications (Odds Ratio: 18.633, 95% CI: 3.644-94.749, p < 0.001).
+The E-PASS score appears to be an independent risk factor for postoperative complications following RARP, whereas the CRS and CCI failed to show significant prognostic value in this cohort.
+Integrating E-PASS parameters into preoperative evaluation may enhance postoperative risk stratification and inform patient counseling strategies.

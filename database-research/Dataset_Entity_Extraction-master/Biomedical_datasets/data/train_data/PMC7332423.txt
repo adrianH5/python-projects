@@ -1,0 +1,8 @@
+As an outbreak of COVID-19 emerged during the manuscript review process, we rapidly incorporated a new test for the novel coronavirus SARS-CoV-2 into a coronavirus panel taken from the HV panel, demonstrating the power of this modular master set to be adapted to real-world challenges (Fig. 2d).
+For 4-channel datasets, analysis of 3-colour space was performed directly on normalized intensities.
+For 5-channel datasets, droplets were divided into UV intensity bins for downstream analysis (Extended Data Fig. 4).
+For 5-channel datasets, UV intensity bins were recombined after assignments to create the full dataset.
+For 167 of the 169 HV10 species, it was possible to design primer sets using ADAPT/primer3 that cover >90% of the genomes in the database with fewer than 10 primer pairs.
+We improved our design approach throughout the process by incorporating new features into each round of design.
+In the work presented here, the radius of the sliding distance filter was set to achieve at least 99.5% correct classification in the test dataset, corresponding to the removal of 6% of droplets.
+Using CARMEN–Cas13, we developed a multiplexed assay that simultaneously differentiates all 169 human-associated viruses with at least 10 published genome sequences and rapidly incorporated an additional crRNA to detect the causative agent of the 2020 COVID-19 pandemic.

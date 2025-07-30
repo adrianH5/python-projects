@@ -1,0 +1,7 @@
+The understanding of glioma disease has significantly advanced through the application of genetic and molecular profiling techniques on brain tumour tissue.
+Molecular biomarkers have gained a crucial role in glioma diagnosis, driving groundbreaking changes in the disease classification as standardised by the 2016 and 2021 World Health Organisation (WHO) Classification of Tumours of the Central Nervous System.
+Recent insights from large-scale multi-omics databases, such as The Cancer Genome Atlas (TCGA), have enriched our comprehension of this cancer type.
+However, given the evolution of glioma classification, retrospective databases may contain outdated annotations, suboptimal for research.
+To address this issue, we propose two methods for updating the tumor classification of TCGA glioma samples according to the 2016 and 2021 WHO guidelines, through the integration of open-access curated molecular profiling data.
+Respectively, our Method-2016 and Method-2021 allowed for the diagnostic update of 98% and 87% of cases.
+The proposed reclassification pipelines, provided in R scripts, enable straightforward reproduction or customisation upon new WHO guideline releases.

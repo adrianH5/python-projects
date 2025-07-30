@@ -1,0 +1,8 @@
+Endometriosis (EM) is a non-cancerous disease that exhibits certain tumor-like properties.
+While hormonal therapies and surgical excision are standard treatments with proven efficacy in alleviating EM symptoms, they are often accompanied by side effects and a high risk of recurrence after surgery.
+Therefore, there is an urgent need for non-invasive imaging and therapeutic strategies to address this condition effectively.
+In this study, second-window near-infrared (NIR-II, 1000-1700 nm) fluorescence imaging is employed, which offers superior spatial resolution, deeper tissue penetration, reduced light scattering, and minimal tissue autofluorescence, to identify EM lesions using aggregation-induced emission luminogen dots (AIE dots).
+The AIE dots exhibited excellent photothermal properties, achieving a photothermal conversion efficiency of 40%.
+AIE dots efficiently accumulate at the lesion site through the enhanced permeability and retention (EPR) effect and rapidly heat up to 50 °C under 808 nm laser irradiation, facilitating the effective ablation of EM lesions.
+Histological analysis, including hematoxylin and eosin (HE) staining and immunofluorescence staining, confirmed notable reduction of the EM lesions, indicating effective inhibition of lesion progression.
+This strategy highlights the potential of NIR-II fluorescence-guided photothermal therapy as a promising non-invasive approach for both the diagnosis and treatment of EM.

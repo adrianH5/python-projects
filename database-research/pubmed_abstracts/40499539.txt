@@ -1,0 +1,7 @@
+Phenotypic switching is an emerging driver of cancer treatment resistance, yet early signals regulating this process remain unclear.
+Here, using longitudinal single-cell RNA sequencing, we mapped differentiation trajectories in the LTL331 prostate adenocarcinoma patient-derived xenograft (PDX) model undergoing neuroendocrine prostate cancer (NEPC) transformation post castration.
+Our analyses identified a key differentiation node marked by epithelial-mesenchymal transition (EMT) and repressor element-1 silencing transcription factor (REST) downregulation driven by the CXCR4-LASP1-G9a-SNAIL axis.
+Mechanistically, CXCR4 activation promotes nuclear translocation of LASP1 that links G9a and SNAIL via SH3/proline-rich motif and LIM/SNAG domain interactions, enabling SNAIL-mediated REST repression via promoter E-box motifs.
+Inhibition of CXCR4 or G9a reversed LTL331R NEPC cells toward a luminal androgen receptor-active phenotype.
+CXCR4-targeted radioligands enabled both imaging and inhibition of NEPC tumors in vivo.
+These findings highlight the CXCR4-LASP1-G9a-SNAIL axis as a key regulator of epigenetic and transcriptional reprogramming in NEPC transdifferentiation and support its therapeutic targeting in aggressive NEPC.

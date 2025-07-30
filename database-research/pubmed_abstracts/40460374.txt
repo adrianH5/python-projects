@@ -1,0 +1,10 @@
+The success of chimeric antigen receptor (CAR) T-cell therapy in treating hematologic malignancies has generated widespread interest in translating this technology to solid cancers.
+However, issues like tumor infiltration, the immunosuppressive tumor microenvironment, and tumor heterogeneity limit its efficacy in the solid tumor setting.
+Recent experimental and clinical studies propose local administration directly into the tumor or at the tumor site to increase CAR T-cell infiltration and improve treatment outcomes.
+Characteristics of the types of solid tumors that may be the most receptive to this treatment approach remain unclear.
+In this work, we develop a simplified spatiotemporal model for CAR T-cell treatment of solid tumors, and use numerical simulations to compare the effect of introducing CAR T cells via intratumoral injection versus intracavitary administration in diverse cancer types.
+We demonstrate that the model can reproduce tumor and CAR T-cell data from small imaging studies of local administration of CAR T cells in mouse models.
+Our results suggest that locally administered CAR T cells will be most successful against slowly proliferating, highly diffusive tumors.
+In our simulations, assuming equal detectable tumor diameters at the time of treatment, low average tumor cell density is a better predictor of treatment success than total tumor burden or volume doubling time.
+These findings affirm the clinical observation that CAR T cells will not perform equally across different types of solid tumors, and suggest that measuring tumor density may be helpful when considering the feasibility of CAR T-cell therapy and planning dosages for a particular patient.
+We additionally find that local delivery of CAR T cells can result in deep tumor responses, provided that the initial CAR T-cell dose does not contain a significant fraction of exhausted cells.

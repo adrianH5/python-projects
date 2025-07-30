@@ -1,0 +1,3 @@
+Colon cancer screening studies are needed for the early detection of colorectal polyps to reduce the risk of colorectal cancer.
+Unfortunately, the data generated on colon polyps are typically analyzed in their dichotomized form and sometimes with standard count models, which leads to potentially inaccurate findings in research studies.
+A more appropriate approach for evaluating colon polyps is zero-inflated models, considering undetected existing polyps at colonoscopy screening.

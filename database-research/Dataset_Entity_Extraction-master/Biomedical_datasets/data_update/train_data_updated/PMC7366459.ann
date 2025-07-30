@@ -1,0 +1,12 @@
+T1	Repository 383 390	Biobank
+T2	Repository 395 448	Registry of the Medical Genetics Unit of the Hospital
+T3	Repository 736 742	gnomAD
+T4	URL 744 778	https://gnomad.broadinstitute.org/
+T5	Repository 863 866	PDB
+T6	AccessionNumber 875 879	1R42
+T7	Repository 1269 1275	gnomAD
+T8	Repository 1338 1344	gnomAD
+T9	Repository 1550 1556	GnomAD
+T10	Repository 1625 1631	gnomAD
+R1	hasAttr	Arg1:T3	Arg2:T4
+R2	hasAttr	Arg1:T5	Arg2:T6

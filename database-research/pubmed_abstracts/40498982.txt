@@ -1,0 +1,8 @@
+Tumor cell-driven exosomes (TExo) have exhibited several major drawbacks that hinder antitumor therapy.
+A representative immunosuppressive mechanism is the depletion of CD8+ cytotoxic T cells with the help of exosomal PD-L1.
+Another common mechanism is to promote tumor metastasis by promoting the seeding and growth of metastatic cancer cells in distant organs.
+Therefore, the removal of TExo can provide many benefits for the treatment of cancer patients.
+Here, a bioorthogonal reaction-driven exosome elimination (Biordee) strategy that promoted macrophage-mediated phagocytosis by using IgG Fc to engineer endogenous TExo (TExo-Fc) was developed.
+The Biordee strategy effectively reduced the levels of TExo in the circulatory system by leveraging the interaction of IgG Fc with FcγRII/III receptors of macrophage, which further broke down the body's immunosuppression and enhanced the immune response after chemotherapy.
+Moreover, the Biordee strategy inhibited breast cancer liver metastases, which were enhanced by promoting chemotherapy-induced TExo release.
+This work provided a new attempt to reduce TExo level after chemotherapy to enhance antitumor therapeutic effects.

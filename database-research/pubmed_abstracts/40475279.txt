@@ -1,0 +1,5 @@
+Immunotherapy with interleukin-2 (IL-2) in treating cancers is subject to several limitations such as systemic side effects and reduced efficacy against tumors with low immune cell infiltration despite its promise.
+To address these challenges, IL-2-So-Lipo, a novel liposomal formulation combining IL-2 with sorafenib derivative, was developed as an anti-angiogenic drug that inhibits the growth of new blood vessels which play crucial roles in tumor growth.
+Sorafenib derivatives could target at melanoma-specific receptors, further enhancing liposomal specificity at the tumor site.
+Our results demonstrated that the prepared IL-2-So-Lipo significantly enhanced anti-tumor activity compared to IL-2 or sorafenib monotherapies, as well as their combination.
+In a B16F10 melanoma model, IL-2-So-Lipo was found to significantly inhibit tumor progression (tumor volume of 108.01 ± 62.99 mm

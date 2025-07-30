@@ -1,0 +1,9 @@
+The first case of COVID-19 in South America was reported in Brazil on February 26, in a 61 years old man traveling from Italy (gob.br, 2020).
+In Colombia, the first case of COVID-19 was announced on March 6, in a traveler from Italy, after which the number of patients has exceeded 43,000 and over 1500 deaths (INS, 2020).
+Both N and S proteins are highly immunogenic and most commercial COVID-19 diagnostic tests (molecular and immunologic) target these proteins (Álvarez-Díaz et al., 2020; Lee et al., 2020).
+Furthermore, non-synonymous mutations in the S and N proteins have been reported, their implications in the potential emergence of antigenically distinct and/or more virulent strains remain to be studied, although it was reported that mutations in the receptor-binding domain (RBD) at the S protein of SARS-CoV related viruses disrupt the antigenic structure and binding activity of RBD to ACE2 (Du et al., 2009) Similarly, non-synonymous mutations could impact the antibody response and the specificity and sensitivity of serological tests for COVID-19 diagnosis is unknown.
+Reads were mapped to the Wuhan-Hu-1 reference genome (NC_045512.2) using BWA (Li et al., 2020) and BBmap (brian-jgi, 2020); then, assembled consensus sequences were submitted to GISAID.
+Subsequently, 461 SARS-CoV-2 sequences from South American countries, including Argentina, Brazil, Ecuador, Peru, Uruguay and other sequences from Colombia available on the GISAID, NCBI, and GSA databases were analyzed (Supplementary Table S1, and Supplementary Table S2).
+The first COVID-19 case in Colombia was confirmed on March 6, 2020, from a traveler who entered the country from Italy on February 26, 2020 (EPI_ISL_418262).
+SARS-CoV-2 is a new member of the genus Betacoronavirus , responsible for the COVID-19 pandemic.
+The Nucleocapsid (N) and Spike (S) are highly immunogenic structural proteins and most commercial COVID-19 diagnostic assays target these proteins.

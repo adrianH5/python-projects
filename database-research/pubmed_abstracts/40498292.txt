@@ -1,0 +1,13 @@
+Histone deacetylases (HDACs) are crucial epigenetic regulators involved in the modulation of gene expression and are promising therapeutic targets for treating various diseases, including central nervous system disorders and cancer.
+HDAC inhibitors exhibit neuroprotective, antiepileptogenic, and antidepressant properties in animal models, underscoring their clinical relevance.
+Quantifying HDAC activity is essential for identifying inhibitors and evaluating their effects under physiological or pathological conditions.
+This article outlines a comprehensive, sensitive, and robust assay to quantify HDAC activity in tissue lysates, with specific application to brain tissue.
+The assay is based on the catalytic removal of an acetyl group from the Boc-Lys(Ac)-AMC substrate by HDAC enzymes.
+Following nuclear protein extraction, tissue HDAC activity can be quantitatively assessed using a fluorometric Boc-Lys(Ac) HDAC activity kit.
+Adding a developer containing trypsin then converts the deacetylated product into a measurable fluorophore.
+This enables precise quantification of HDAC activity levels across different tissues, making the method suitable for screening putative HDAC inhibitors and assessing their effects on epigenetically modulated phenotypes.
+We validated these protocols using brain tissue samples from mice subjected to traumatic brain injury, a condition known to elevate HDAC activity levels.
+This assay provides an efficient, scalable tool for exploring HDAC function, evaluating therapeutic interventions, and advancing the understanding of HDAC-mediated mechanisms in animal models.
+© 2025 The Author(s).
+Current Protocols published by Wiley Periodicals LLC.
+Basic Protocol 1: Isolation of nuclear protein from brain and other tissues Support Protocol 1: Harvesting and microdissection of brain and other tissues Support Protocol 2: Estimation of extracted protein using the Pierce bicinchoninic acid (BCA) assay Basic Protocol 2: HDAC activity fluorometric assay in the brain and other tissues.

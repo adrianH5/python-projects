@@ -1,0 +1,4 @@
+This study aims to investigate the expression and role of CD307c in the breast cancer (BC) microenvironment, T lymphocytes of peripheral blood, particularly in BC patients at various stages, and assess its potential as a clinical diagnostic biomarker.
+Bioinformatics analysis was performed to investigate CD307c expression.
+As experimental validation, a total of 54 BC patients and 44 healthy controls (HCs) were enrolled.
+Flow cytometry was used to analyse CD307c expression in CD4

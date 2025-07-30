@@ -1,0 +1,8 @@
+T1	Repository 2366 2404	Shanghai Public Health Clinical Center
+T2	Repository 7961 7987	ProteomeXchange Consortium
+T3	URL 7989 8031	http://proteomecentral.proteomexchange.org
+T4	AccessionNumber 8094 8107	IPX0002285000
+T5	Repository 8406 8421	UniProtKB Human
+T6	Repository 10038 10053	UniProtKB human
+R1	hasAttr	Arg1:T2	Arg2:T3
+R2	hasAttr	Arg1:T2	Arg2:T4

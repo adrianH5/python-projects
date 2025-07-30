@@ -1,0 +1,14 @@
+The world is facing a dire situation of global public health emergency due to a viral pandemic of severe febrile pneumonia like respiratory syndrome caused by a novel coronavirus, named SARS-CoV-2, causing the COVID-19 disease.
+Clinical onset of infection in COVID-19 is characterized by symptoms as headache, dry cough, and fever; in severe cases multi-organ failure, and even deaths (3).
+Additionally, neutralizing monoclonal antibody-based therapeutics are also being developed to combat COVID-19 crisis (13, 14).
+This study has identified potential anti-SARS-CoV-2 agents, which can be directly tested for in vitro and in vivo studies, to combat a global threat of COVID-19.
+Drug molecules targeting the S-protein has the potential to cure COVID-19 infections and to tackle the pandemic.
+Since the newly published structure of SARS-CoV-2 S-protein (PDB ID: 6VSB) lacks important loop residues of S-RBD domain proposed to be involved in receptor binding, therefore a homology model was generated utilizing it as a template (Figures 3A,B).
+A 3D model of S1 subunit of SARS-CoV-2 S-protein, was predicted using SWISS MODEL (NCBI reference sequence: MN908947.3) and the pre-fusion structure of SARS-CoV-2 spike glycoprotein (PDB ID: 6VSB) was used as template (Figure 3).
+The predicted homology model for S1 subunit of S-protein was submitted in PMDB database (PMDB ID: PM0082972), and the HADDOCK tool was used to identify interacting residues between receptor and S-RBD of S-protein (Figure S2).
+Crystal structure of S-protein of SARS-CoV-2 (PDB ID: 6VSB), published recently, lacks residues present in the S-RBD region of SARS-CoV-2. Chimeric S-RBD of SARS-CoV-2 (PDB ID: 6VW1) has been reported, but the structure comprises majorly of SARS-CoV residues and contains only S-RBM of SARS-CoV-2.
+The datasets presented in this study can be found in online repositories.
+The names of the repository/repositories and accession number(s) can be found in the article/Supplementary Material.
+The rapidly spreading, highly contagious and pathogenic SARS-coronavirus 2 (SARS-CoV-2) associated Coronavirus Disease 2019 (COVID-19) has been declared as a pandemic by the World Health Organization (WHO).
+The repurposing of drugs can provide a rapid and potential cure toward exponentially expanding COVID-19.
+Timely identification and determination of an effective drug to combat and tranquilize the COVID-19 global crisis is the utmost need of hour.

@@ -1,0 +1,10 @@
+Breast cancer (BC) is a heterogeneous disease with diverse subtypes that influence prognosis and treatment outcomes.
+While advances have been made in molecular subtyping, the role of exosome-related genes in BC remains underexplored.
+This study aimed to identify exosome-related gene expression profiles in BC and develop a novel immune score to predict clinical outcomes.
+We first intersected exosome-related gene sets with differentially expressed genes (DEGs) in BC, identifying 19 overlapping genes, which were then used to stratify patients into two distinct molecular subtypes with significant differences in immune infiltration and prognosis.
+A machine learning model based on exosome-related genes was constructed to calculate an immune score, which was validated through multiple datasets and demonstrated strong predictive power with areas under the curve (AUC) of 0.777 and 0.763 in training and validation cohorts, respectively.
+Furthermore, single-cell RNA sequencing data revealed distinct immune landscapes between high and low immune score groups.
+We found significant differences in immune cell infiltration, with the high immune score group exhibiting enhanced infiltration of CD8 + T cells and NK cells, while the low immune score group was characterized by a more immunosuppressive environment.
+The immune score was also predictive of response to both chemotherapy and immunotherapy, with high immune score patients showing significantly better responses.
+We further verified the expression upregulation of the 3 genes responsible for immune score with qPCR and immunoblot.
+These findings highlight the potential of exosome-related gene expression profiles as a prognostic and predictive biomarker in breast cancer, offering a new avenue for personalized therapeutic strategies.

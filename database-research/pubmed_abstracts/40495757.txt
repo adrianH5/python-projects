@@ -1,0 +1,6 @@
+Phylogenetic relationship of cells within tumors can help us to understand how cancer develops in space and time and identify driver mutations and other evolutionary events that enable cancer growth and spread.
+Numerous studies have reconstructed phylogenies from single-cell DNA-seq data.
+Here, we are looking into the problem of phylogenetic analysis of spatially resolved near single-cell RNA-seq data, which is a cost-efficient alternative (or complementary) data source that integrates multiple sources of evolutionary information, including point mutations, copy number changes, and epimutations.
+Recent attempts to use such data, although promising, raised many methodological challenges.
+Here, we explored data preprocessing and modeling approaches for evolutionary analyses of Visium spatial transcriptomics data.
+We conclude that using only highly variable genes and accounting for heterogeneous RNA capture across tissue-covered spots improves the reconstructed topological relationships and influences estimated branch lengths.

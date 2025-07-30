@@ -1,0 +1,9 @@
+The intricate interplay between the gut microbiota and the GI tract has garnered significant attention, as growing evidence has identified the inflammasome as a crucial yet underexplored master regulator in microbiota-driven diseases.
+Triggered by a variety of dangers, inflammasomes are supramolecular complexes that regulate immune response.
+A large number of bacterial-derived inducers have been characterised so far.
+Although structurally divergent, threats are neutralised by the inflammasome, which is then classified into three families: (1) nucleotide-binding oligomerisation domain, leucine-rich repeat-containing proteins, (2) absent in melanoma 2-like receptors and (3) pyrin.
+An unbalanced microbiota composition, expressed by a dysbiotic phenotype, might therefore induce undesired inflammasome activation, altering the local host homeostasis.
+Recent studies on the 'microbiota-inflammasome axis' have uncovered unexpected roles for inflammasome signalling in various types of GI cancer and IBD.
+Additionally, beyond local gut functions, microbiota influences stress responses and neurological health through aberrant secretion of inflammasome-processed cytokines, linking gut-derived signals to systemic diseases via the vagus nerve and the hypothalamic-pituitary-adrenal axis.
+Besides the standard experimental approaches, this complex network of interactions is now being addressed by Artificial intelligence, which emphasises the profound impact of the gut microbiota on GI health, cancer progression and brain function, opening new avenues for therapeutic intervention in GI diseases, cancer and neurological disorders.
+Ultimately, microbiota-inflammasome interactions manage a regulatory framework that influences inflammation, cancer progression and systemic diseases, positioning it as both a mediator and a promising therapeutic target in GI malignancies and systemic diseases of the central nervous system.

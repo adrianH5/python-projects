@@ -1,0 +1,12 @@
+In the post-pandemic years, SARS-CoV-2 morbidity and mortality declined due to less pathogenic variants, active and passive immunization, and antiviral therapies.
+However, patients with hematological malignancies and/or undergoing hematopoietic cell transplantation (HCT) remain at increased risk for poor outcomes.
+Therefore, adherence to contact and droplet precautions is essential to avoid transmission, especially during epidemic waves.
+Detection of viral RNA by nucleic acid testing of naso-oro-pharyngeal samples is the gold standard for diagnosis due to its high sensitivity and specificity.
+Direct antigen testing allows for rapid management decisions if positive, but has a low sensitivity, especially in asymptomatic patients.
+Active immunisation is the key to prevention and may require annual matching to circulating variants.
+Passive immunization with SARS-CoV-2 neutralizing anti-antibodies lost its indication due to the emergence of immune escape variants.
+Convalescent plasma has been proposed for passive immunization but is not readily available in most centres.
+For symptomatic patients, early antiviral treatment with nirmatrelvir/ritonavir or remdesivir may reduce the risk of progression to severe-critical COVID-19.
+Prolonged administration, repeated courses, and a combination of antivirals are considered for patients with clinical or virological failure to antiviral monotherapy.
+In severe-critical COVID-19, dexamethasone or drugs downregulating the inflammatory cytokine responses (anti-Il-6/anti-IL-2 agents, Janus kinase inhibitor) are recommended, together with the best supportive and intensive care, but care should be exercised in immunosuppressed patients.
+Deferral of intensive chemotherapy, HCT conditioning, T-cell-based immunotherapy, or T-cell engaging antibodies are considered for patients with COVID-19, whereas deferral decisions are taken on a case-by-case basis for asymptomatic patients with confirmed SARS-CoV-2 infection.

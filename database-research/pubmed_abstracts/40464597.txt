@@ -1,0 +1,7 @@
+IntroductionThis cross-sectional study examined the relationship between paid sick leave and colorectal cancer (CRC) endoscopy screening among employed adults, including the examination of potential pathways.MethodsWe analyzed data from 15,352 employed adults aged 45-75 from the 2021 and 2023 National Health Interview Survey.
+A generalized structural equation model (GSEM) assessed the direct and indirect pathways between employment status (full-time vs part-time), paid sick leave, health insurance, usual source of care, and CRC endoscopy screening.
+Survey weights were applied to ensure nationally representative estimates.ResultsFull-time employment was positively associated with paid sick leave (OR = 6.57, 95% CI: 5.85, 7.38) and health insurance (OR = 1.30, 95% CI: 1.07, 1.59).
+Paid sick leave increased the likelihood of having a usual source of care (OR = 1.57, 95% CI: 1.31, 1.87) and was directly associated with CRC screening (OR = 1.15, 95% CI: 1.03, 1.28).
+Health insurance increased the likelihood of having a usual source of care (OR = 5.32, 95% CI: 4.30, 6.58) and CRC screening (OR = 3.22, 95% CI: 2.58, 4.02).
+Usual source of care was also associated with CRC screening (OR = 3.53, 95% CI: 2.89, 4.32).ConclusionsPaid sick leave was associated with CRC endoscopy utilization both directly and indirectly through improved healthcare access.
+Workplace policies that expand paid sick leave, alongside efforts to strengthen insurance coverage and primary care access, may reduce barriers to CRC endoscopy screening and improve population health.

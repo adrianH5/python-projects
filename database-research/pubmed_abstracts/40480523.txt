@@ -1,0 +1,10 @@
+The Signal Transducer and Activator of Transcription (STAT) proteins are a group of cytoplasmic transcription factors.
+This group comprises seven members, named STAT1, STAT2, STAT3, STAT4, STAT5a, STAT5b, and STAT6.
+These proteins are promising targets for anti-cancer treatment since cancer cells employ STAT activity to drive many of their processes more than normal cells do.
+Indeed, molecules targeting STATs, particularly STAT3 and STAT5, show great potential in cancer treatment, which explains the focus on developing STAT3 and 5 inhibitors.
+The less desirable pharmacological characteristics of peptidomimetics have shifted much of the attention to small molecules.
+However, current prospective molecules are not attractive enough for clinical studies, and further effort is rather necessary.
+Interestingly, oligonucleotide-based molecular methods, particularly decoy oligodeoxynucleotides (ODNs), show great potential in cancer treatment.
+Recent developments show that decoy ODNs and decoy peptides are two distinct forms of decoy techniques.
+Decoy ODNs can specifically bind to and inactivate certain transcription factors involved in disease development.
+In this review, we provide a concise appraisal of research dissecting the impact of decoy ODNs targeting STATs in cancer treatment.

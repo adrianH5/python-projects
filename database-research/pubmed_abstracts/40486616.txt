@@ -1,0 +1,7 @@
+Neutrophils, essential components of the innate immune system, exhibit remarkable plasticity in the tumor microenvironment, shifting between anti-tumoral (N1) and pro-tumoral (N2) phenotypes.
+This functional dichotomy is particularly significant in breast cancer, where N1 neutrophils contribute to tumor suppression by enhancing cytotoxicity and immune activation, while N2 neutrophils promote tumor progression through immunosuppression, angiogenesis, and metastasis.
+The tumor microenvironment, driven by factors such as TGF-β, IL-6, and hypoxia, orchestrates this polarization, profoundly influencing disease progression and therapeutic outcomes.
+The interplay between neutrophil polarization and breast cancer immunotherapy presents both challenges and opportunities.
+Pro-tumoral N2 neutrophils often hinder the efficacy of immune checkpoint inhibitors and other immunotherapies by suppressing T-cell function and facilitating tumor immune evasion.
+Conversely, strategies to reprogram neutrophils toward the N1 phenotype, including TGF-β inhibitors, CXCR2 antagonists, and epigenetic modulators, show promise in restoring anti-tumoral activity.
+Novel approaches, such as nanoparticle-mediated delivery of neutrophil-targeting agents, further expand the potential for precision immunotherapy by selectively modulating neutrophil phenotypes.

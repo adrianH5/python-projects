@@ -1,0 +1,7 @@
+Developing an efficient and safe therapy necessitates a mechanistic understanding of the complex underlying pathology and manipulation of the multiple pathways at the molecular and genetic level.
+Network-based simulation of chronic myeloid leukemia (CML), a relatively well-understood cancer model, revealed the dynamics of simultaneously expressing pro-apoptotic BIM and silencing pro-survival MCL-1 in combination with the BCR-ABL-targeted tyrosine kinase inhibitor dasatinib.
+Viral/nonviral chimeric nanoparticles (ChNPs) composed of a BIM-expressing adeno-associated virus (AAV) core and a degradable polymeric shell that encapsulates MCL-1 siRNA (BIM/MCL-1 ChNPs) synergistically and selectively killed BCR-ABL+ CML cells in combination with dasatinib.
+In a mouse CML model, the BIM/MCL-1 ChNPs and dasatinib combination therapy suppressed proliferation of BCR-ABL+ hematopoietic cells and prevented leukemic infiltration of organs.
+The synergistic anti-leukemic effect was further pronounced in an acute phase model of the disease.
+This study investigated a strategy of developing a versatile and tunable multimodal therapy assisted by a computational toolset that analyzes the molecular foundation of a disease and predicts therapeutic response.
+The interdisciplinary approach developed and validated in this study can be used in discovering new therapies for cancer and other diseases.

@@ -1,0 +1,6 @@
+As members of the nuclear receptor (NR) family of transcription factors, peroxisome proliferator-activated receptors (PPARs) regulate essential cellular processes, including lipid metabolism, glucose uptake, cell proliferation, and programmed cell death through ligand-mediated activation.
+Within the PPAR subfamilies, PPAR-γ (PPARG) is crucial to the development of fat cells, sensitivity to insulin, apoptosis, and metastasis.
+Furthermore, it demonstrates properties that counteract fibrosis and inflammation, thus establishing itself as a notable target for therapeutic interventions against conditions such as type 2 diabetes and cancer.
+PPARG is reported to be a promising target for patients diagnosed with colorectal cancer (CRC).
+Globally, colorectal cancer ranks as the third most prevalent malignancy and is responsible for approximately 10% of all cancer mortalities, and PPARG is significantly expressed in 70% of the sporadic CRC.
+In individuals with CRC, the precise function of PPARG remains not entirely comprehended and elucidation of the PPARG transcriptional regulation in CRC seems promising.

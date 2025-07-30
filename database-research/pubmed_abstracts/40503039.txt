@@ -1,0 +1,12 @@
+Mucosa-associated lymphoid tissue lymphoma translocation protein-1 (MALT1) promotes cancer development via both cancer cell-intrinsic and -extrinsic mechanisms, and can regulate cancer immunity and immune escape.
+Therefore, the present study aimed to assess the expression levels of MALT1 in blood samples and the association with clinical features, treatment options and survival outcomes in patients with non-small cell lung cancer (NSCLC).
+Peripheral blood mononuclear cells (PBMCs) from a total of 125 patients with resectable NSCLC prior to treatment (neoadjuvant therapy or surgery) were collected.
+The mRNA expression levels of MALT1 were detected by reverse transcription-quantitative PCR.
+Furthermore, the PBMC samples from 20 healthy individuals served as the control group.
+The results showed that MALT1 was upregulated in the blood samples of patients with NSCLC compared with the control group (~3.4:1 fold; P<0.001).
+Subsequently, for correlation analysis, blood MALT1 expression levels in patients with NSCLC were categorized into four grades according to the quartiles (Q1, Q2, Q3 and Q4).
+It was indicated that the MALT1 quartile was positively correlated with the tumor-node-metastasis (P=0.036) and N stage (P=0.026), and it had a tendency to be correlated with poor differentiation (P=0.091) and T stage (P=0.058), but this did not reach statistical significance.
+However, the MALT1 quartile was not associated with neoadjuvant therapy, surgical type or adjuvant therapy.
+Kaplan-Meier curves demonstrated that the MALT1 quartile was notably associated with shorter disease-free survival (DFS; P=0.009); however, the MALT1 quartile only showed a tendency to be associated with poor overall survival, but this did not reach statistical significance (P=0.118).
+Subsequent multivariate Cox analysis showed that the MALT1 quartile could independently predict shorter DFS (P=0.016).
+In conclusion, the present study suggested that blood MALT1 expression levels could potentially predict the stage of lymph node metastasis and DFS in patients with NSCLC.

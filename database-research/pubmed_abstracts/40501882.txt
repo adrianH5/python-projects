@@ -1,0 +1,8 @@
+Mutational signatures of single-base substitutions (SBSs) characterize somatic mutation processes which contribute to cancer development and progression.
+However, current mutational signatures do not distinguish the two independent steps that generate SBSs: the initial DNA damage followed by erroneous repair.
+To address this modelling gap we developed DAMUTA, a hierarchical Bayesian probabilistic model that infers separate signatures for each process, and captures their sample-specific interaction.
+We applied DAMUTA to 18,974 pan-cancer whole genome sequencing mutation catalogues from 23 cancer types and show that tissue-specificity in mutation patterns is driven largely by variability in damage processes.
+We also show that misrepair processes are predictive of DNA damage response deficiencies.
+Unlike existing approaches, DAMUTA distinguishes damage from misrepair contributions, and we demonstrate significant improvements over a mutational-burden baseline or signatures from the COSMIC database.
+Our analysis reveals a shared pan-cancer pattern of early clonal transition-mutations which shifts to a more uniform substitution pattern consistent with increased reliance on translesion synthesis for damage tolerance.
+DAMUTA thus generates a compact set of signatures which resolves redundancies of current signature models, disentangles the effects of DNA damage and misrepair processes, and facilitates improved stratification of tumours, while providing a framework towards a unified pan-cancer model of the cellular response to DNA damage.

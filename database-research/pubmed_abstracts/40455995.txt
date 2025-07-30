@@ -1,0 +1,6 @@
+We report here transport of full-length epidermal growth factor receptor (EGFR), Insulin Receptor, 7-pass transmembrane receptor Smoothened, and 13-pass Sodium-iodide symporter to extracellular vesicles (EVs) for structural and functional studies.
+Mass spectrometry confirmed the transported proteins are the most abundant in EV membranes, and the presence of many receptor-interacting proteins in EVs demonstrates their utility for characterizing membrane protein interactomes.
+Cryo-electron tomography of EGFR-containing EVs reveals that EGFR forms clusters in both the presence and absence of EGF with a ~3 nm gap between the inner membrane and cytoplasmic density.
+EGFR extracellular region (ECR) dimers do not form regular arrays in these clusters.
+Subtomogram averaging of the 150 kDa EGF-bound EGFR ECR dimer yielded a 15 Å map into which the crystal structure of the ligand-bound EGFR ECR dimer fits well.
+These findings refine our understanding of EGFR activation, clustering, and signaling and establish EVs as a versatile platform for structural and functional characterization of human membrane proteins in cell-derived membranes.

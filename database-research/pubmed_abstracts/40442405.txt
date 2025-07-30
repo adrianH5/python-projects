@@ -1,0 +1,12 @@
+Cutaneous angiosarcoma (CAS) is a life-threatening neoplasm with a 5-year survival rate of under 40% in advanced cases.
+As available treatments for CAS are limited, novel therapeutics must be explored.
+To identify potential therapeutic candidates, we conducted a drug screening analysis using an angiosarcoma cell line, HAMON.
+Cancer-related gene analysis revealed alterations in FGFR4, MYCN, CDKN2A, NF1, TP53, KDM6A, ATRX, MSH6, ATM, and NOTCH1 in HAMON cells.
+Screening of 4681 FDA-approved drugs identified four candidate compounds, with the proteasome inhibitor bortezomib selected for further study.
+ATP and MTT assays revealed bortezomib to be the most effective candidate against HAMON cells.
+Clonogenic assays revealed fewer HAMON cell colonies in the range of 1-10 nM bortezomib.
+DNA-content fluorescence-activated cell sorting analysis revealed a notable increase in the sub-G0/G1 phases, suggesting cell death without cell cycle arrest.
+Annexin V-propidium iodide staining revealed a significant increase in the percentage of early and late apoptotic cells in the bortezomib group.
+Mechanistically, bortezomib induced activation of NF-κB and endoplasmic reticulum stress signaling.
+The administration of bortezomib to immunocompromised mice implanted with HAMON cells induced apoptosis of tumor cells.
+This study identified the proteasome inhibitor bortezomib as a potential candidate for angiosarcoma in vitro and in vivo.

@@ -1,0 +1,11 @@
+Prolonged inhalation of environmental dust leads to the onset of life-threatening pulmonary fibrosis.
+Identifying therapeutic targets and drugs for this disease is of critical urgency.
+However, traditional drug discovery often overlooks cell communication signals.
+Here, our single-cell omics data and in vivo experiments of the murine coal pneumoconiosis model revealed that a subpopulation of neutrophils with high expression of S100a8 enhanced the communication between neutrophils and macrophages.
+Based on these findings, we hypothesized that inhibiting S100a8 could mitigate coal dust-induced pulmonary fibrosis.
+To test this hypothesis, we employed Paquinimod, an S100a8 inhibitor.
+Our data demonstrated that Paquinimod alleviated coal dust-induced pulmonary fibrosis by blocking the neutrophil-S100a8-Tlr4-macrophage signaling axis, suppressing the Tlr4/p38MAPK/NF-κB pathway, lowering phosphorylation levels of p38MAPK and NF-κB p65.
+These inhibitions reduced inflammatory factors (TNF-α) and fibrotic markers (α-SMA, Fibronectin, TGF-β1), slowing fibrosis progression and improving lung function.
+Furthermore, the neutralization effect of recombinant S100a8 protein on Paquinimod's efficacy underscored the pivotal role of neutrophil-S100a8-Tlr4-macrophage communication.
+In conclusion, our study elucidates the critical role of S100a8 in coal dust-induced pulmonary fibrosis and highlights the potential of S100a8 inhibition by Paquinimod as a therapeutic strategy.
+These findings provide insight into potential treatments for pulmonary complications associated with coal pneumoconiosis.

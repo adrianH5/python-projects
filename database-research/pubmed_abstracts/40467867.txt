@@ -1,0 +1,10 @@
+Guanine-rich DNA sequences have a propensity to form G-quadruplex structures.
+These structures play several important biological roles and are potential targets for anticancer drugs.
+However, no G-quadruplex-stabilizing agent has yet been approved for clinical use.
+Given that G-quadruplex stabilization is quite promising as a mechanism for novel anticancer therapies, it is crucial to elucidate its effects on healthy human cells.
+In our study, we modeled a potential human treatment using G4 -stabilizing agents and analyzed their effects on genome integrity, transcriptomic changes, and mitochondrial function focusing on non-cancerous cells to predict potential side effects of such treatments.
+We found that G-quadruplex stabilization does not compromise genome integrity.
+However, it can induce persistent alterations in the transcriptomic profile of human cells, including genes encoded on the mitochondrial genome.
+Notably, certain G-quadruplex-stabilizing agents triggered mitophagy in both human cells and Drosophila melanogaster.
+In summary, our findings indicate that while G-quadruplex stabilization does not cause genome instability, it may pose potential risks due to its long-term effects on transcription and its ability to induce mitophagy.
+Therefore, we recommend that all potential drug candidates be thoroughly evaluated for their ability to induce mitophagy and to promote cancer formation in animal models prior to clinical trials.

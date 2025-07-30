@@ -1,0 +1,7 @@
+Lung cancer is a major cause of cancer-related deaths, and early diagnosis and treatment are crucial for improving patients' survival outcomes.
+In this paper, we propose to employ convolutional neural networks to model the non-linear relationship between the risk of lung cancer and the lungs' morphology revealed in the CT images.
+We apply a mini-batched loss that extends the Cox proportional hazards model to handle the non-convexity induced by neural networks, which also enables the training of large data sets.
+Additionally, we propose to combine mini-batched loss and binary cross-entropy to predict both lung cancer occurrence and the risk of mortality.
+Simulation results demonstrate the effectiveness of both the mini-batched loss with and without the censoring mechanism, as well as its combination with binary cross-entropy.
+We evaluate our approach on the National Lung Screening Trial data set with several 3D convolutional neural network architectures, achieving high AUC and C-index scores for lung cancer classification and survival prediction.
+These results, obtained from simulations and real data experiments, highlight the potential of our approach to improving the diagnosis and treatment of lung cancer.

@@ -1,0 +1,13 @@
+To identify all relevant variants of ACE2, we performed a search in multiple databases and created workflow for assembling the variants in complex with the SARS-CoV-2 RBD (Fig. 1).
+XXXX stands for the PDB ID from which the model was extracted, R1 is the one-letter residue code of the native residue of the ACE2 receptor, NUM is the residue number according to the Uniprot sequence of human ACE2 receptor and R2 is the one-letter residue code of the variant to which the residue R1 was changed.
+Variants in the 3 datasets are distinct, showing minor overlap in terms of amino acid substitution (Fig. 2a).
+The computational alanine scanning shows a minor overlap with reported mutagenesis studies, where only 13% of the total mutations can be found in both datasets.
+The experimental Procko dataset (PROCKO).
+Interestingly, overlap of those data with the 3 datasets described above is minor (78 common out of 242 mutations) (Fig. 4).
+Due to the higher risk of severe COVID-19 symptoms manifesting in cancer patients, we have specifically focused on retrieving genetic variants of ACE2 available in COSMIC v91 (Fig. 4).
+ACE2 mutations from COVID-19 patients included in LOVD 3.0 (Fig. 4).
+LOVD 3.0 reports additional variants for the ACE2 receptor and includes the N720D mutation which has been identified as a variant in COVID-19 patients in the Italian population.
+N720D is found in genomic data (gnomAD), cancer (COSMIC v91) and COVID-19 patients (LOVD 3.0).
+Another ACE2 protein variation identified in COVID-19 patients is the K26R, which is also included in the gnomAD data, but not in cancer patients.
+Our dataset includes 140 variants of human ACE2 representing missense mutations found in genome-wide studies, 39 mutants with reported effects on the recognition of the RBD, and 63 predictions after computational alanine scanning mutagenesis of ACE2-RBD interface residues.
+This dataset will help accelerate the design of therapeutics against SARS-CoV-2, as well as contribute to prevention of possible future coronaviruses outbreaks.

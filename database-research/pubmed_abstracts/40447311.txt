@@ -1,0 +1,6 @@
+Temple syndrome is an imprinting disorder resulting from abnormal genomic or epigenomic aberrations of chromosome 14 including maternal uniparental disomy (matUPD), paternal deletion of 14q32, or aberrant methylation of the imprinting control regions at 14q32.
+Understanding the underlying molecular mechanism is essential to understanding the recurrence risk and physical effects.
+Currently, diagnosis requires the detection of aberrant methylation and copy number loss via methylation-sensitive assays such as methylation-specific multiplex ligation-dependent probe amplification, and short tandem repeat analysis to detect matUPD and the presence of epimutation.
+Therefore, a one-step approach that can detect aberrant methylation and underlying genetic mechanisms would be of high clinical value.
+Here we use nanopore sequencing to delineate the molecular diagnosis of a case with Temple syndrome.
+We demonstrate the application of nanopore sequencing to detect aberrant methylation and underlying genetic mechanisms simultaneously in this case, thus providing a proof of concept for a one-step approach for molecular diagnosis of this disorder.

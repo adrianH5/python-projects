@@ -1,0 +1,6 @@
+Aberrant active NOTCH1 signaling is a key pathogenic factor in chronic lymphocytic leukemia (CLL), detectable in half of patients and associated with disease progression.
+While some cases of active NOTCH1 signaling can be explained by mutations in NOTCH1 or its regulators, like FBXW7, alternative mechanisms remain elusive.
+Here, we identified the deubiquitinase USP28 as regulator of NOTCH1 signaling in CLL.
+Notably, USP28 is located within the frequently deleted chr11q23 region and is deleted in 90% of del(11q) patients, resulting in its decreased expression.
+USP28 interacts with the NOTCH1 intracellular domain (NICD) independently of FBXW7 and the NICD-PEST domain, stabilizing NICD and enhancing NOTCH1 signaling.
+Integrating RBPJ-occupied genes in HG3 cells, RNA-Seq of USP28

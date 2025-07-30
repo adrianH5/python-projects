@@ -1,0 +1,5 @@
+Chemotherapy is an important treatment for glioblastoma (GBM) and a key component of comprehensive GBM therapy.
+However, the blood-brain barrier (BBB) and complex tumor microenvironment (TME) restrict the diffusion of drugs, which greatly reduces the chemotherapeutic effect on GBM.
+Single strategies, such as cell-based nanobots to cross the BBB or enzymatic nanobots propelled by enriched substrates in the TME for deep tumor penetration, remain inadequate to address multiple barriers and achieve precise targeting.
+Here, we develop a Trojan horse-inspired enzymatic nanobot-in-neutrobot system (Trojanbot) to greatly enhance targeted GBM therapy.
+Trojanbots traverse the BBB by leveraging positive chemotaxis in response to tumor-derived chemokine gradients, after which the released catalase-driven nanobots (CatNbot) undergo directional movement along the H

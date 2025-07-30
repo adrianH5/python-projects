@@ -1,0 +1,11 @@
+In the same context, the recent outbreak of SARS-CoV 2 (the causative agent of coronavirus disease 2019 (COVID-19)) in December 2019 has inflicted 204 nations, with a total of 896,450 confirmed cases and 45,526 deaths up to 2 April 2020.
+From a structural perspective, the genome of coronaviruses encodes four structural proteins: E (envelope protein, the smallest in size, expressed in abundance inside infected cells during the replication cycle but only partially incorporated into the virion envelope) [8], M (matrix glycoprotein, responsible for the assembly of virions [1,9] and interacting with S proteins, promoting their retention in the endoplasmic reticulum (ER)–Golgi intermediate for their incorporation into new virions) [10], N (nucleocapsid protein, the only protein capable of binding to the virus RNA genome, synthesizing nucleocapsid) [11], S (spike protein, mediating the attachment of the virus to host cell receptors) [12,13,14].
+TMPRSS2 expression and variants served as COVID-19 modulators in Italian patients [31].
+Alignment of the template (PDB ID: 5CE1) and the target protein is shown in Figure 1C.
+Natural Product Activity and Species Source (NPASS) is a freely accessible database containing 30,927 natural compounds classified into 18 different superclasses, which include alkaloids and derivatives, lipids and lipid-like molecules, benzenoids, lignans, neolignans and associated compounds, and so on [32].
+In silico screening of large databases is a cost-effective and time-saving approach towards drug discovery.
+NPASS, a freely accessible database containing 30,927 compounds, was used to mine the potent inhibitors.
+We screened the Natural Product Activity and Species Source database (NPASS, available at http://bidd2.nus.edu.sg/NPASS) which contains 30,927 compounds [32].
+Based on a report that TMPRSS2 mutation makes some individuals more susceptible to COVID-19, a reported mutation V160M suggestive of changed disease susceptibility [31] was studied with respect to its docking conformation in the presence of the top compound.
+To date, there is no specific drug registered to combat the disease it causes, named coronavirus disease 2019 (COVID-19).
+Further in vitro and in vivo validation is needed to study and develop an anti-COVID-19 drug based on the structures of the most promising compounds identified in this study.

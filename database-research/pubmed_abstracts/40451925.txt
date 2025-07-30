@@ -1,0 +1,5 @@
+Long noncoding RNA growth arrest-specific transcript 5 (GAS5) has been identified as a tumor suppressor due to its downregulation in several cancers.
+However, our comprehensive analyses revealed aberrant overexpression of GAS5 in various cancers, with a direct association with SMARCA4 in hepatocellular carcinoma (HCC).
+Differential expression analyses were conducted using publicly available transcriptome datasets.
+Functional studies of GAS5 and its downstream targets in HCC were performed via small interfering RNA-mediated knockdown in various HCC cell lines, in vivo xenograft mouse models and spontaneous liver cancer models in Ras-transgenic mice.
+Here we discover that METTL3-mediated N

@@ -1,0 +1,9 @@
+Diet composition shapes tissue function and disease risk by modulating nutrient availability, metabolic state, and cellular dynamics.
+In the gastrointestinal tract, obesogenic high-fat diets enhance intestinal stem cell activity and tumorigenesis.
+However, the impact of ketogenic diets (KD), which contain even higher lipid content but induce ketogenesis, remains poorly understood.
+This is particularly relevant for patients with familial adenomatous polyposis (FAP), who face a high risk of small intestinal tumours.
+Here, we combine dietary, genetic, and metabolic manipulations in mouse models of spontaneous intestinal adenoma formation to dissect the role of systemic and epithelial ketogenesis in intestinal cancer.
+We show that KD accelerates tumour burden and shortens survival, independent of ketone body production.
+Through genetic manipulation of the ketogenic pathway, we modulate local and systemic ketone body production; however, neither inhibition nor augmentation of the ketogenic enzyme HMGCS2 nor disruption of ketolysis altered tumour progression.
+In contrast, inhibition of fatty acid oxidation did limit adenomatous formation.
+These findings reveal that dietary lipid content, through FAO rather than ketone body metabolism, influences intestinal tumorigenesis and highlight the need for nuanced consideration of dietary strategies for cancer prevention in genetically susceptible populations.

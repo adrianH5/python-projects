@@ -1,0 +1,6 @@
+Antibody-Drug Conjugates (ADCs) represent an emerging cancer therapeutic strategy and are becoming increasingly significant in the field of public health.
+With the evolution of precision oncology, the potential applications of ADCs are being realized more broadly.
+This review provides an overview of the fundamental molecular design of ADCs, examining how each component-antibody, linker, payload, and coupling chemistry-affects the physicochemical and biological properties of the final product.
+The paper also discusses novel ADC designs that are in preclinical and early clinical development stages as next-generation cancer therapies.
+These include bispecific ADCs, Probody-drug conjugate, immunostimulatory ADCs (ISACs), Degrader-Antibody Conjugates (DACs), and Dual-Payload ADCs.
+Their applications and potential future advancements in cancer therapy are also explored.

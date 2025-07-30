@@ -1,0 +1,8 @@
+MicroRNA (miRNA) plays a crucial role in a great number of human cancers so that the detection of miRNA has been widely acknowledged as an effective strategy for the early discovery and diagnosis of cancer.
+Building upon conventional strand displacement amplification, the study was introduced a dual strand displacement process to enhance primer amplification efficiency.
+Additionally, we designed a lateral displacement assembly-based DNA nanostructure, expanding on traditional hairpin structures, and constructed a side-shifted hybrid chain reaction (SHCR) strategy for dual amplification of primer sequences.
+This approach yielded a three-way junction (3WJ) DNA nanostructure, providing optimal molecular recognition sites.
+The SHCR facilitated the assembly of fluorescent probes through a straightforward hybridization chain reaction.
+The target-triggered double strand displacement amplification (DSDA) exhibited high specificity for miRNA-let-7a with the rang from 50 fM to 50 nM, and the biosensor's limit of detection is 22 fM.
+Moreover, the sensor system performed exceptionally well in detecting real samples, such as cell lysates.
+Therefore, this work offers a novel strategy for early cancer screening.

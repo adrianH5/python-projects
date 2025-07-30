@@ -1,0 +1,7 @@
+Phase separation forms membraneless compartments, including heterochromatin "domains" and repair foci.
+Pericentromeric heterochromatin mostly comprises repeated sequences prone to aberrant recombination.
+In Drosophila cells, "safe" homologous recombination (HR) repair of these sequences requires their relocalization to the nuclear periphery before Rad51 recruitment and strand invasion.
+How this mobilization initiates is unknown, and the contribution of phase separation is unclear.
+Here, we show that Nup98 nucleoporin is recruited to repair sites before relocalization by Sec13 or Nup88, and downstream of the Smc5/6 complex and heterochromatin protein 1 (HP1).
+Remarkably, Nup98 condensates are immiscible with HP1 condensates, and they are required and sufficient to mobilize repair sites and exclude Rad51, thus preventing aberrant recombination while promoting HR repair.
+Disrupting this pathway results in heterochromatin repair defects and widespread chromosome rearrangements, revealing an "off-pore" role for nucleoporins and phase separation in nuclear dynamics and genome integrity in a multicellular eukaryote.

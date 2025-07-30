@@ -1,0 +1,8 @@
+Intranasal drug delivery via nanocarriers has long been a research focus for enhancing drug concentration in the brain.
+However, the strategy of exploiting blood-brain barrier (BBB) alterations in atherosclerotic mouse models to enhance nanoparticle-mediated delivery of bromocriptine to the hypothalamus for the treatment of prolactinomas with hyperprolactinemia has not yet been reported.
+This study reveals that in patients with prolactinomas complicated by arteriosclerosis, bromocriptine therapy more effectively attenuates postoperative elevations in prolactin levels.
+In a mouse model, liposome-encapsulated bromocriptine efficiently traversed the nasal mucosa and entered the intracranial space.
+Compared with normal mice, bromocriptine-loaded liposomes delivered higher bromocriptine concentrations to the hypothalamus.
+Single-cell RNA sequencing revealed a significant upregulation of organic anion-transporting polypeptide 1a4 (Oatp1a4) expression in the brain endothelial cells of atherosclerotic mice.
+Importantly, bromocriptine-loaded liposomes more effectively reduced prolactin levels in a mouse model of prolactinoma with concurrent atherosclerosis.
+This study provides a theoretical foundation for the precision treatment of prolactinomas in arteriosclerosis.

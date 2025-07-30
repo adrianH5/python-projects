@@ -1,0 +1,28 @@
+T1	Repository 773 780	GenBank
+T2	AccessionNumber 799 810	NC_045512.2
+T3	Dataset 917 972	Global Initiative on Sharing All Influenza Data (GISAID
+T4	URL 974 1034	https://www.gisaid.org/epiflu-applications/next-hcov-19-app/
+T5	Dataset 1137 1143	GISAID
+T6	AccessionNumber 1158 1172	EPI_ISL_412974
+T7	Dataset 1199 1205	GISAID
+T8	AccessionNumber 1220 1234	EPI_ISL_412973
+T9	Dataset 1361 1367	GISAID
+T10	URL 1369 1392	https://www.gisaid.org/
+T11	Dataset 1495 1501	GISAID
+T12	AccessionNumber 1516 1530	EPI_ISL_412974
+T13	Dataset 1651 1657	GISAID
+T14	AccessionNumber 1672 1686	EPI_ISL_410546
+T15	Dataset 1775 1781	GISAID
+T16	AccessionNumber 1796 1810	EPI_ISL_410545
+T17	Repository 1913 1920	GenBank
+T18	AccessionNumber 1939 1948	NC_045512
+T19	AccessionNumber 2090 2099	NC_045512
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T5	Arg2:T6
+R4	hasAttr	Arg1:T7	Arg2:T8
+R5	hasAttr	Arg1:T9	Arg2:T10
+R6	hasAttr	Arg1:T11	Arg2:T12
+R7	hasAttr	Arg1:T13	Arg2:T14
+R8	hasAttr	Arg1:T15	Arg2:T16
+R9	hasAttr	Arg1:T17	Arg2:T18

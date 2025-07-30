@@ -1,0 +1,2 @@
+Selective internal radiation therapy (SIRT) can result in heterogeneous absorbed dose coverage.
+To address potential underdosing of lesions with SIRT, we designed a phase 1 clinical trial (NCT04518748) to add stereotactic body radiation therapy (SBRT) 6 weeks after

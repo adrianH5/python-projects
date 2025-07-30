@@ -1,0 +1,8 @@
+This review paper focuses on the multifaceted roles and therapeutic potential of quercetin in gastric cancer (GC).
+Quercetin, a natural flavonoid compound abundant in dietary sources such as nuts, teas, vegetables, and herbs, has garnered significant attention due to its anticancer properties.
+Accumulated evidence demonstrates quercetin's inhibitory effects against GC by targeting key pathways such as cell cycle regulation, fatty acid synthesis, and mitochondrial apoptosis, thereby exerting anti-proliferative and apoptotic strategies.
+Furthermore, quercetin effectively alleviates GC-related inflammation, optimizing the tumor microenvironment.
+Mechanistically, quercetin induces various forms of programmed cell death in GC cells, including ferroptosis, pyroptosis, and autophagy, through regulating specific molecular targets.
+Additionally, quercetin inhibits GC angiogenesis by downregulating vascular endothelial growth factor A (VEGF-A) and its receptor VEGFR-2 expression, and demonstrates anti-metastatic effects by modulating urokinase-type plasminogen activator (uPA) and its receptor (uPAR) function.
+As research delves deeper into the mechanisms of quercetin's actions and its validation in clinical trials, its prospects as a novel therapeutic agent for GC become increasingly promising.
+Quercetin's low toxicity and ability to synergize with other anticancer drugs make it a potential key component in comprehensive GC treatment strategies, significantly enhancing patient prognosis and quality of life.

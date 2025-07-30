@@ -1,0 +1,6 @@
+Coronavirus Diseases (COVID-19) comprises symptoms reported by patients infected by SARS-CoV-2, ranging from mild to severe, and some cases result in death.
+We analyzed 17,928 genomic sequences obtained from the GISAID database (updated on 07/24/2020) derived from patients infected by SARS-CoV-2 from different areas around the world.
+SARS-CoV-2 reference genome (RefSeq: NC_045512.2) was obtained from the GenBank database.
+Furthermore, the dataset available did not allow us to determine whether this deletion happened as a series of independent events in different temporal moments and geographical areas, as if the virus has an intrisecally fragile site, or it emerged from a single transforming event originating from a unique cluster.
+Understanding the different steps that characterize the pathogenicity of this virus, as well as the spreading and changes of these pathogenic determinants among the population, may help determining proper strategies of containment of SARS-CoV-2 spread and identify better drugs for treatment of COVID-19.
+A total of 17,928 genome sequences were obtained from the GISAID database (December 2019 to July 2020) from patients infected by SARS-CoV-2 from different areas around the world.

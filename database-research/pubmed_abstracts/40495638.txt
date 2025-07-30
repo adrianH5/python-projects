@@ -1,0 +1,9 @@
+Melanocytic neoplasms range from benign nevi to malignant melanomas, and accurate differentiation between these lesions is crucial for effective treatment.
+Among the various immunohistochemical markers available, PRAME (Preferentially Expressed Antigen in Melanoma) has emerged as a significant diagnostic tool in the evaluation of melanocytic lesions due to its high sensitivity and specificity, particularly in distinguishing malignant melanomas from benign nevi.
+PRAME is strongly expressed in malignant melanomas, including cutaneous, uveal, and mucosal variants, while its expression is minimal or absent in benign and dysplastic nevi.
+Its utility extends to identifying metastases, especially in difficult-to-diagnose cases such as metastatic melanoma, where it aids in differentiating melanoma from other malignancies.
+Additionally, the presence of PRAME is associated with poor prognosis, as higher expression levels correlate with increased metastatic risk.
+Despite its effectiveness, the use of PRAME in immunohistochemistry is not without limitations.
+It is not exclusive to melanoma, as its expression can be seen in some non-melanocytic tumors, which may reduce its specificity in certain cases.
+Nevertheless, PRAME remains a valuable tool in the diagnostic and prognostic evaluation of melanocytic lesions, particularly when histological features are unclear or ambiguous.
+Further research is needed to refine its role in different melanoma subtypes and to explore its potential as a target for immunotherapy.

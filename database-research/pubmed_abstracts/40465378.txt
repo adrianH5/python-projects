@@ -1,0 +1,3 @@
+Online accessible patient education materials (PEMs) are essential for patient empowerment.
+However, studies have shown that these materials often exceed the recommended sixth-grade reading level, making them difficult for many patients to understand.
+Large language models (LLMs) have the potential to simplify PEMs into more readable educational content.

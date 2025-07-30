@@ -1,0 +1,13 @@
+The clinical presentation of COVID-19 varies from asymptomatic or mild respiratory symptoms, to severe pneumonia with respiratory failure and death, mainly in elderly with other chronic underlying diseases [5].
+As the global scientific community is in the race for finding novel therapies for the disease, in late April 2020 over 500 interventional clinical studies on the current COVID-19 have been registered at ClinicalTrials.gov [6].
+While waiting for a preventative vaccine, most of the therapeutic strategies against COVID-19 are currently based on slowing down the virus replication (i.e. by using antivirals adopted for other viruses), and on reducing severe forms of disease (i.e. by counteracting the cytokine storm syndrome).
+Conceptually, the protein sequence and structure similarity of SARS-CoV-2 with other types of coronavirus might help to develop effective anti-COVID-19 approaches.
+Based on this evidence, we speculate that the use of G4-mediated antiviral drugs may represent a significant turning point in the therapeutic management of COVID-19.
+Here, we used the Quadruplex forming G-Rich Sequences (QGRS) Mapper, a web-based server database [19], that generates detailed information on composition and distribution of PG4FS.
+This finding suggests that G4s ligands could represent a potential therapeutic strategy for COVID-19.
+Interestingly, after a search in the DrugBank database (https://www.drugbank.ca/, version 5.1.5, released 2020-01-03), we retrieved 18 entries for FDA-approved compounds that have the term “helicase” as a target (Table 2).
+It is plausible that most of these molecules have already been tested during this emergency period caused by COVID-19, with unknown large-scale effect.
+As of today, no FDA-approved therapies to treat COVID-19 or other coronaviruses exist.
+Moreover, as recently emerged from the work by Zhou et al. [8], the search and use of FDA-approved or investigational drugs that are outside the scope of the original clinical indication, currently known as drug repositioning, could be a promising approach to find a rapid strategy to limit the effects of the COVID-19 pandemic.
+Here, we outline the existing evidence indicating that G4 ligands and inhibitors of SARS-CoV-2 helicase may exert some antiviral activity reducing viral replication and can represent a potential therapeutic approach to tackle the COVID-19 pandemic due to SARS-CoV-2 infection.
+We also discuss how repositioning of FDA-approved drugs against helicase activity of other viruses, could represent a rapid strategy to limit deaths associated with COVID-19 pandemic.

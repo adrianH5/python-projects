@@ -1,0 +1,5 @@
+In situ T cell transfection methods overcome the complexity and high costs associated with conventional chimeric antigen receptor (CAR)-T therapy.
+However, the in situ CAR-T cell approach operates within the patient's complex immune environment and bypasses preinfusion ex vivo cellular quality controls, necessitating advanced imaging techniques to track immune cell migration and function.
+Positron emission tomography (PET) can detect biochemical processes in patients and, when combined with a radiotracer specific for the engineered cells, can monitor CAR-T cell trafficking.
+Herein, we develop an approach for in situ T cell generation, tracking, and functional assessment using anti-CD5-conjugated lipid nanoparticles for codelivering CD19 CAR mRNA (mCAR19) and a prostate-specific membrane antigen mRNA (mPSMA) tag.
+With interleukin-7 (IL-7) preconditioning and repeated administration, this approach achieves tumor-free survival in 75% of B cell lymphoma-bearing mice (similar efficacy to ex vivo approaches), and through PET imaging of

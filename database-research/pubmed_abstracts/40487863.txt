@@ -1,0 +1,9 @@
+Glioblastoma (GBM) is a malignant tumor that currently still faces challenges for a complete cure.
+Although GBM treatment has made great progress, the prognosis of patients is still poor due to interference of various factors in treatment such as the blood-brain barrier (BBB), grade malignancy, intra- and intertumor heterogeneity, drug resistance, and poor targeting of anti-tumor drugs.
+In recent years, with marked advances in nanotechnology, different types of nanodrug delivery systems have been developed and have been considered as a promising therapeutic measure to gradually overcome chemotherapy resistance and improve tumor targeting.
+Carbon dots (CDs), as a new type of therapeutic NP, have become a research hotspot of concern for many researchers in recent years.
+NPs based on CDs have high modifiability and functionalization, allowing for covalent binding with chemotherapy drugs, genes, immune cells and photosensitizers, effectively targeting tumor cells and reducing peripheral cytotoxicity.
+However, at present, CDs are still in the basic research stage or the preclinical exploratory research stage, and has not yet entered the clinical trial stage or the implementation and application stage.
+Here, we review the fundamental principles of CDs in the broader field of nanotechnology, their development history, classification, synthesis, and potential for tumor treatment.
+Especially in the treatment of cancer, CDs can not only participate in photodynamic therapy, photothermal therapy, sonodynamic therapy, chemodynamic therapy, and chemotherapy, but also in multi-modal combination therapy.
+Here, we hope to provide some insights for further research.

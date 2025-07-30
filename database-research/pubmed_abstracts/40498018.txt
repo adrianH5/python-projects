@@ -1,0 +1,6 @@
+Brain organoids are self-organized, three-dimensional (3D) aggregates derived from human embryonic stem cells, induced pluripotent stem cells, or primary organs with cell types and cellular architectures resembling those of the developing human brain.
+Recent studies have shown the use of region-specific brain organoids for modeling various diseases ranging from neurodevelopmental and neurodegenerative diseases to different brain cancers, which have numerous applications in fundamental research and the development of new drugs, personalized treatment, and regenerative medicine.
+Consequently, the use of brain organoids in drug discovery is complex and challenging and still an emerging area in this field.
+This review article summarizes the primary stem cells used in brain organoid generation, region-specific brain organoids, and the functional assays used in their characterization.
+In addition, we discuss the use of brain organoids in modeling neurodevelopmental and neurodegenerative diseases and pediatric brain cancers, as well as the application of organoids, assembloids, and tumoroids in cancer neuroscience.
+We further explore the recent advances in using brain organoids in high-throughput screening to improve their use for drug discovery.

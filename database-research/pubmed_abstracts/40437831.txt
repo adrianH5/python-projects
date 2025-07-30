@@ -1,0 +1,6 @@
+BackgroundEffective shared decision making (SDM) in health care involves thorough discussions of options, pros, cons, and patient preferences.
+While SDM is recommended for engaging adults aged 76 to 85 y in colorectal cancer (CRC) screening decisions, the extent of SDM documentation in clinical notes remains unclear.ObjectiveThis study aimed to evaluate the current state of SDM documentation in clinical notes regarding CRC screening discussions for adults aged 76 to 85 y.
+It also sought to assess the impact of an SDM training intervention on documentation quality and compare documented SDM elements with physician- and patient-reported SDM.MethodsData from 465 patient participants and 58 primary care physicians in a multisite cluster randomized trial were analyzed.
+Physicians in the intervention arm underwent a 2-h SDM skills training and received support tools, including an electronic health record SmartPhrase.
+Coders analyzed clinical notes using content analysis to identify SDM elements.
+Linear multilevel models and multilevel partial correlations were used for analysis.ResultsOverall, SDM Note scores were low (

@@ -1,0 +1,10 @@
+Erythropoiesis-stimulating agents (ESAs) achieve hematological improvement-erythroid (HIE) in only 30% of ESA-naïve lower risk myelodysplastic syndrome (LR-MDS) patients with anemia, highlighting the need for developing novel drugs or new treatment strategies to improve the outcome of these patients.
+We conducted this multicenter, single-arm trial to investigate the efficacy and safety of a triple regimen consisting of recombinant human erythropoietin (rhEPO), all-trans retinoic acid (ATRA) and testosterone undecanoate in patients with anemia due to lower-risk MDS based on Revised International Prognostic Scoring System.
+Eligible patients received rhEPO 10000 IU/day, oral ATRA 25 mg/m2/day and oral testosterone undecanoate 80 mg twice daily for 12 weeks.
+The primary endpoint was the proportion of patients achieving HI-E during 12 weeks of treatment.
+Of 52 eligible patients, 32 (61.5%, 95%CI 48.0%-73.5%) achieved HI-E, meeting the primary endpoint.
+Fifteen patients (65.2% [15/23]) with baseline serum erythropoietin ≤500 IU/L had HI-E versus 58.6% of those (17/29) with baseline serum erythropoietin >500 IU/L.
+More patients with very low or low risk had HI-E than those with intermediate risk (73.3% vs. 45.5%, P = 0.041) and fewer patients with mutated ASXL1 had HI-E than those with wildtype ASXL1 (33.3% vs. 70.0%, P = 0.040).
+The regimen had an acceptable safety profile compatible with individual agents.
+In conclusion, the triple regimen of rhEPO combined with ATRA and testosterone undecanoate attained HI-E in approximately 61.5% of patients regardless of baseline serum EPO levels, supporting further development of this regimen for LR-MDS patients with anemia.
+This study was registered at CHICTR.ORG.CN as ChiCTR2000032845.

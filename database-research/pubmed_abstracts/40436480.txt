@@ -1,0 +1,6 @@
+Aprepitant, a neurokinin-1 receptor (NK1R) antagonist, has the potential as a novel anticancer agent.
+This study explored the impact of chronotherapy on the antitumor effect of aprepitant in a mouse model of colorectal carcinoma.
+Aprepitant inhibited the proliferation of Colon-26 cells in vitro in a concentration-dependent manner and reduced the expression of cell cycle-related genes.
+Diurnal variations in NK1R mRNA and protein levels were observed in Colon-26 tumors, peaking at zeitgeber time (ZT) 2 and ZT 10, respectively.
+Administration of aprepitant at ZT 6, achieving peak plasma concentration at ZT 10, significantly reduced the tumor volume compared with administration at ZT 18.
+Despite the lower plasma concentrations and AUC

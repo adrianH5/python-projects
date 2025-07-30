@@ -1,0 +1,3 @@
+Developing computational tools for integrative analysis across multiple types of omics data has been of immense importance in cancer molecular biology and precision medicine research.
+While recent advancements have yielded integrative prediction solutions for multi-omics data, these methods lack a comprehensive and cohesive understanding of the rationale behind their specific predictions.
+To shed light on personalized medicine and unravel previously unknown characteristics within integrative analysis of multi-omics data, we introduce a novel integrative neural network approach for cancer molecular subtype and biomedical classification applications, named Integrative Graph Convolutional Networks (IGCN).

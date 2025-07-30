@@ -1,0 +1,10 @@
+Autophagy has been implicated in the pathophysiology of thyroid cancer and in determining the response of cancer cells to anticancer therapy.
+Dabrafenib, a BRAF inhibitor, has demonstrated efficacy and safety in several types of cancers.
+However, it is unknown whether Dabrafenib exerts a protective effect on autophagy in thyroid carcinoma cells.
+In the current study, our findings demonstrate that treatment with Dabrafenib reduced cell viability and promoted LDH release in SW579 thyroid carcinoma cells.
+Dabrafenib was then shown to promote autophagy by increasing the level of Beclin1 and the LC3-II/LC3-I ratio while reducing the level of p62.
+Additionally, exposure to Dabrafenib upregulated the expression of HMGB-1 at both mRNA and protein levels.
+Interestingly, silencing of HMGB-1 abrogated Dabrafenib-induced autophagy, suggesting that the effects of Dabrafenib are mediated by HMGB-1.
+Further study revealed that Dabrafenib activated the JAK1/STAT1 signaling pathway and that blockage of the JAK1/STAT1 signaling pathway with its inhibitor Pyridone 6 ameliorated Dabrafenib-induced HMGB-1 upregulation and autophagy, implicating the involvement of the JAK1/STAT1 signaling pathway in this process.
+Collectively, these findings demonstrate that Dabrafenib induces autophagy in thyroid carcinoma cells via the JAK1/STAT1/HMGB-1 axis.
+Notably, this effect occurs independently of BRAF V600E mutation status, suggesting a novel therapeutic mechanism.

@@ -1,0 +1,8 @@
+CRISPR nucleases can be used to insert exogenous DNA into the zebrafish genome via homology-dependent repair (HDR), although germline transmission rates for precise edits remain quite low.
+Comparative studies to optimize HDR parameters for introducing base pair changes using short-read deep sequencing have been successful, but similar analysis for insertions is challenging due to read length constraints.
+Here, we quantified editing outcomes using long-read sequencing to identify optimal template and CRISPR parameters for precise targeted insertion in zebrafish.
+Through side-by-side comparisons, we found that chemically modified templates out-perform those released in vivo from a plasmid, while Cas9 and Cas12a nucleases performed similarly for targeted insertion.
+Consistent with previous studies, precise editing rates were dependent on the distance between a double-strand break and the inserted sequence.
+We further found that non-homologous base pairs in homology templates significantly reduced precise editing rates.
+Using optimized parameters, we consistently achieved germline founder rates of greater than twenty percent for precise insertions across four loci.
+Together, our quantitative analyses identified optimal conditions for precise insertion of exogenous DNA into the zebrafish genome.

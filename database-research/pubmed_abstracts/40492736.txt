@@ -1,0 +1,7 @@
+A cocktail of human monoclonal antibodies 1C3 and 1C11 previously protected macaques from a lethal exposure to either Ebola virus (EBOV) or Sudan virus (SUDV).
+1C3 is of particular interest because its paratope strongly binds with unique stoichiometry to the glycoprotein head of several orthoebolaviruses, resulting in neutralization of EBOV and SUDV.
+Therefore, we evaluated the protective activity of 1C3 as a standalone therapeutic in macaques exposed to either EBOV or SUDV.
+Two doses of 1C3 monotherapy, administered 4 and 7 days post-exposure, did not protect SUDV-exposed macaques and partially protected EBOV-exposed macaques.
+Notably, in a macaque that succumbed to EBOV infection, we identified two mutually exclusive escape mutations that emerged immediately after the first dose and resulted in two amino acid changes at the 1C3 binding site.
+We also detected a subconsensus treatment-emergent mutation likely affecting the 1C3 binding site in all three deceased SUDV-exposed macaques.
+Our findings highlight combination treatment with 1C11 as critical for protection, particularly against SUDV, and

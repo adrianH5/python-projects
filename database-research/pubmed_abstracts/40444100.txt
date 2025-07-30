@@ -1,0 +1,7 @@
+Head and neck squamous cell carcinoma (HNSCC) is a prevalent malignancy, characterized by metabolic reprogramming.
+This reprogramming creates an acidic and hypoxic environment within tumor cells to adapt to metabolic changes.
+Experimental data indicate that in HNSCC, the metabolic reprogramming of tumor cells regulates immune cells via metabolites or signaling pathways, thereby promoting cancer progression or immune evasion.
+This article reviews the metabolic reprogramming in HNSCC, including glucose, fatty acids, amino acids, and nucleotide metabolism.
+These metabolic pathways play crucial roles in the proliferation, differentiation, and effector functions of immune cells, and influence immunosuppressive checkpoints.
+Additionally, this review explores the potential relationships between metabolic reprogramming, tumor immunity, and related treatments.
+Thus, targeting metabolic reprogramming and interactions between immune cells may help overcome therapeutic resistance in HNSCC patients.

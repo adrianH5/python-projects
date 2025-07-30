@@ -1,0 +1,9 @@
+Molecular-targeted therapy remains effective in cancer treatment; however, drug resistance inevitably arises after prolonged administration for several years.
+Drug-tolerant persister cells (DTPs), which are subpopulations of cells derived from drug-sensitive cells that develop tolerance after short-term exposure (lasting days or weeks) to drugs, have gained substantial attention.
+However, the specific characteristics of DTPs remain unclear as they encompass a diverse cell population, although they generally exhibit low proliferative potential.
+Therefore, analysis of cell cycle fluctuations during and after the formation of DTPs is expected to elucidate DTPs characteristics and contribute to future therapies.
+Here, we introduced the Fucci probe into the PC9 cell line to create PC9-Fucci to observe dynamic cell cycle variations during and after the DTPs formation process.
+The results showed that during the formation of DTPs, the majority of cells showed red fluorescence and were arrested in the G1 phase, whereas a small number of S-phase cells showed green fluorescence.
+Furthermore, some cells proliferated after the DTPs phase under drug-free medium and drug-containing medium culture conditions.
+These results indicate cell cycle diversity, with the majority of cells exhibiting arrested cell cycle during the formation of DTPs, whereas others existed in the S phase.
+In addition, cell cycle diversity occurs not only in the process of DTPs formation but also in subsequent processes.

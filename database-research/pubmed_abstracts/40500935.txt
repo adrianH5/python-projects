@@ -1,0 +1,6 @@
+The effectiveness of cancer treatment has been significantly improved through combined therapies that synergistically utilize multiple treatment modalities.
+While combination strategy mitigates tumor resistance, enhances therapeutic efficacy, and reduces side effects compared to monotherapies, the precise coordination of treatment sequences and timing remains underexplored, particularly in the nanomaterial-based therapies.
+In this study, this gap is addressed by investigating the interaction between photodynamic therapy (PDT) and nitric oxide (NO) therapy, with a specific focus on the sequence in which these therapies are administered.
+An upconversion nanoplatform is designed with orthogonal dual-channel fluorescence properties, allowing for non-interfering NO release and PDT, which enables systematic exploration of the effects of treatment sequence on therapy efficacy.
+The results demonstrate that administering NO therapy prior to PDT yields superior antitumor effects compared to other sequences.
+This time-sequenced efficacy may be attributed to NO-induced S-nitrosylation, which disrupts the intracellular regeneration cycle of reduced glutathione, thereby sensitizing tumor cells to subsequent PDT.

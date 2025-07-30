@@ -1,0 +1,7 @@
+κB-Ras/RalGAP complexes limit the activity of Ral GTPases, which function in EGFR/Ras signaling.
+RalGAP expression is down-regulated in pancreatic cancer; however, the role of RalGAP and Ral GTPases in tumor development in vivo remained unclear.
+Here, we show that pancreatic RalGAPβ deficiency alone is sufficient to induce inflammation and neoplasia in vivo.
+We identify that this phenotype is triggered by disturbance of the secretory pathway and polarized exocytosis in acinar cells, demonstrating that RalGAP complexes uphold spatial control of Ral activity.
+We furthermore show that RALGAPβ deficiency results in defective primary cilium assembly, a process required for efficient acinar regeneration upon inflammation.
+Only primary cilium formation depends on κB-Ras proteins, suggesting that κB-Ras proteins are not essential for all RalGAP complex-controlled processes.
+In combination with an oncogenic

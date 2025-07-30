@@ -1,0 +1,6 @@
+Coronavirus Disease 2019 (COVID-19) was first described in 2019 in Wuhan city of Hubei state, China, as a pneumonia caused by a previously unknown pathogen.
+The International Coronavirus Study Group named the responsible virus initially as 2019-nCoV and later as SARS-CoV-2. World Health Organization (WHO), named the disease caused by SARS-CoV-2 as COVID-19 [1], [2].
+There is no specific antiviral drug for treatment of COVID-19.
+On the other hand, severe COVID-19 patients have elevated levels of pro-inflammatory cytokines IL-6, IL-1β, IL-2, IL-8, IL-17, G-CSF, GM-CSF, M-CSF, IP10, MCP1, MIP1α (CCL3) and TNF-α in their sera [19], [20], this burst of cytokines is defined as cytokine release syndrome (CRS) and is also common during CAR T cell therapies, macrophage activation syndrome (MAS) or hemophagocytic lymphohistiocytosis (HLH) [21], [22], [23], COVID-19 pathology mainly consists of pulmonary lesions, and thus, presents similar characteristics with interferonopathies which root from intrinsic hyperactive IFN response.
+Indeed, neutralizing IL-6 (via tocilizumab) showed promise in severe COVID-19 patients [24], [25], IL-1β or TNF-α blockers are considered or planned for clinical trials [19], [22], [23],
+Herein, we discuss the potential use of TLR7 agonists in the early stages of COVID-19 treatment.

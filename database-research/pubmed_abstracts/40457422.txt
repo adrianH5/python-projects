@@ -1,0 +1,2 @@
+Pain is often difficult to assess, particularly in non-communicative patients.
+While artificial intelligence (AI)-based objective Automatic Pain Assessment (APA) systems are a promising solution, their clinical implementation raises essential questions, primarily regarding clinician acceptance.

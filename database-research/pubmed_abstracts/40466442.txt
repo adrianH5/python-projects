@@ -1,0 +1,7 @@
+Despite using endoscopic submucosal dissection to remove tumor tissues or cells, disease recurrence can sometimes occur from residual cancer cells.
+Although chemotherapy using anti-cancer drugs has been the gold standard, the systemic effects of the drug can lead to side effects, emphasizing the importance of local cancer treatment.
+However, local administration of anti-cancer drugs to the wet gastrointestinal tissue has been challenging.
+In this study, we developed a mixed powder composed of paclitaxel microcrystals (PTXMCs) and tissue adhesive microparticles using hydrophobically modified Alaska pollock gelatin microparticles (C10MP), named PTX/C10MP.
+After hydration for colloidal gel formation, the PTX/C10MP colloidal gel exhibited high tissue adhesion strength and underwater stability to cover gastrointestinal tissues.
+By immersing this colloidal gel in phosphate buffer solution, PTXMCs were continuously released for up to 18 days.
+In vivo colon cancer-bearing mouse model experiments revealed that using the PTX/C10MP colloidal gel significantly suppressed cancer growth at 12 days: 1259 ± 135 and 470 ± 151 mm

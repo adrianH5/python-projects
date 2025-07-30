@@ -1,0 +1,3 @@
+Carbon ion radiotherapy (CIRT) has demonstrated promising treatment outcomes for pancreatic cancer.
+However, breathing-induced organ motion can compromise the efficacy of the treatment, leading to under- or over-dosage within the target and organs at risk (OARs).
+In this work, the dose during CIRT was simultaneously measured at the target and OARs using an anthropomorphic phantom to evaluate the effectiveness of respiratory gating for compensating breathing motion.

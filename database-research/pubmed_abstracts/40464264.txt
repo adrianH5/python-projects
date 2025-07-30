@@ -1,0 +1,8 @@
+Extracellular vesicles (EVs) have garnered significant attention in the biomedical field due to their potential applications.
+However, their small size and high heterogeneity pose challenges for precise manipulation.
+Recent advancements have focused on the assembly of DNA nanostructures on EV membranes, leveraging the precise programmability and unique base pairing of DNA to enable the customized modification and manipulation of EVs.
+This perspective examines the design and characterization of DNA nanostructure-based assemblies on EV membranes, with an emphasis on enhancing efficiency in EV separation, cancer diagnosis, and therapy.
+For EV separation, DNA materials facilitate highly selective separation through specific binding to membrane molecular markers by passing the need for sophisticated instrumentation and complex procedures.
+In cancer diagnosis, DNA nanostructures on EVs act as efficient recognition and sensing modules for cancer-associated biomarkers, offering robust tools for accurate cancer detection.
+In drug delivery, these assemblies enhance the targeting efficiency and drug loading stability of EVs, ensuring a precise delivery and efficient release at lesion sites.
+Furthermore, this review discusses the current challenges and future development prospects in this field, aiming to inspire new ideas and methodologies for EV-based biomedical research.

@@ -1,0 +1,7 @@
+Mucosal-associated invariant T (MAIT) and invariant natural killer T (iNKT) are innate-like T cells, which develop in the thymus through an original developmental program leading to the acquisition of effector memory and tissue targeting phenotypes.
+Consequently, they become tissue-resident and quickly produce effector molecules both in a T cell receptor (TCR)-dependent manner after stimulation by activating antigens, and in a TCR-independent fashion in response to cytokines.
+The latter can trigger MAIT and iNKT cells similarly, potentially leading to redundant functions.
+MAIT and iNKT cells populate most peripheral tissues where they express a wide range of effector modules including immune type 1/2/17, regulatory and repair programs.
+This endows them with a plethora of functional properties from anti-infectious immunity to regulation of homeostatic processes and tissue repair.
+In this review, we summarize the current literature on how MAIT and iNKT cells maintain organ homeostasis and contribute to regeneration in vivo, mostly focused on adipose tissue, intestine, lung, liver and skin.
+Furthermore, we underline TCR- and/or cytokine-dependent mechanisms and potential redundant, non-redundant or even opposing functions.

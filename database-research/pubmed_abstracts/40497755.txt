@@ -1,0 +1,5 @@
+Cancer remains a leading global cause of death, with conventional therapies often limited.
+While immune therapy has revolutionized cancer therapy with the use of immune agents, its efficacy is often curtailed by the immunosuppressive tumor microenvironment (TME).
+To address the limited effectiveness of existing immunotherapies, we developed a multifunctional biomimetic nanocomposite, tumor cell membrane-coated hollow manganese nitrogen carbon nanocomposite (HMn-NC@M), integrating phototherapy and immunotherapy.
+HMn-NC@M enhances tumor targeting and performs photothermal and photodynamic therapy under near-infrared light, inducing immunogenic cell death (ICD), releasing tumor antigens and damage-associated molecular patterns (DAMPs).
+This triggers antitumor immune responses while modulating the tumor microenvironment by decomposing hydrogen peroxide, alleviating hypoxia, depleting glutathione, and releasing Mn

@@ -1,0 +1,6 @@
+Drug resistance remains a significant challenge in cancer therapy, and current strategies typically involve the use of P-glycoprotein (P-gp) inhibitors.
+Unfortunately, the rigid surface of drug-resistant cancer cell membranes and the immunosuppressive tumor microenvironment severely limit the therapeutic efficacy.
+Here, we report a novel nanoparticle platform named DOX@CM@M, which can efficiently reverse tumor resistance through cholesterol depletion, while robustly enhancing antitumor effects by activating innate immunity.
+The platform utilizes Fe/Mn hybrid metal-organic frameworks (MOF) to encapsulate doxorubicin (DOX) and cholesterol oxidase (COD), and further modifies with the cancer cell membrane (CCM) to enhance tumor targeting.
+The acidic and GSH-rich environment within tumor cells provides the possibility of responsive degradation.
+Based on the release of the natural enzyme COD and the peroxidase-like properties of Fe

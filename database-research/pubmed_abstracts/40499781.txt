@@ -1,0 +1,8 @@
+Super-resolution microscopy holds great promise for detailed structural analysis of proteins yet its application in the investigations of protein structures in situ remains sparse.
+Clathrin-coated pit-mediated endocytosis (CME) plays a key role in human cancer.
+We aimed to discover whether there are structural changes in clathrin pits in cancer?
+We used immunofluorescence (IF) combined with super-resolution structured illumination microscopy (SR-SIM) on normal and cancerous prostate tissue to reveal novel details of clathrin structure and biology.
+We show clathrin (heavy-chain) plaques and pits, expression of AP2 (a clathrin adaptor protein) and EGFR (a receptor target for CME) at nanometer scale in human tissue, in situ, with IF-SR-SIM.
+There is an increase in the size of the clathrin pits in high-grade cancer compared to low grade or normal prostate tissue.
+These results demonstrate that (i) SR-SIM can be used to identify protein structures at high resolution in in clinical tissue sections (ii) there is an increased cargo capacity due to the increase in the size of clathrin pits as a mechanism that facilitates aggressiveness of cancer.
+These results shed new light upon the pathology of cancer and the role CME via clathrin may play in carcinogenesis.

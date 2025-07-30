@@ -1,0 +1,8 @@
+We read with great interest the recent randomized controlled trial reporting that vitamin D supplementation significantly improves pathological complete response (pCR) in breast cancer patients undergoing neoadjuvant chemotherapy (NCT).
+While the findings are noteworthy and contribute to the expanding literature on the supportive role of vitamin D in oncology, several critical methodological issues warrant further discussion.
+Specifically, the study did not adjust for key clinicopathologic variables-such as tumor subtype, T and N stage, lymphovascular invasion, and treatment intensity-that are well-established predictors of pCR.
+The lack of multivariate analysis raises concerns regarding potential confounding.
+Furthermore, the categorization of molecular subtypes lacked granularity, particularly in the distinction between luminal A and B tumors, which are known to exhibit divergent treatment responses.
+The study's narrow focus on pCR, without reporting other relevant pathological endpoints such as ypT/ypN stage or Miller-Payne grading, also limits its clinical interpretability.
+Importantly, ethical concerns arise from assigning patients with vitamin D deficiency to placebo, given the growing evidence supporting its correction in oncologic care.
+Addressing these limitations in future studies could enhance the reliability and translational relevance of the observed findings.

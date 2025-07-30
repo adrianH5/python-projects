@@ -1,0 +1,2 @@
+Previous studies have highlighted the prominent role of age in lung cancer risk, with signs of lung aging visible in computed tomography (CT) imaging.
+This study aims to characterize lung aging using quantitative radiomic features extracted from five delineated lung lobes and explore how age contributes to lung cancer development through these features.

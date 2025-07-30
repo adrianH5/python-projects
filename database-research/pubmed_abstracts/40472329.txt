@@ -1,0 +1,11 @@
+Patients with multiple myeloma (MM) and Waldenström macroglobulinemia (WM) have increased risk of severe COVID-19.
+Impaired humoral responses to the primary vaccination series against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) have been reported in MM and WM patients, but impact of booster vaccinations and functional status of the elicited antibodies is unknown.
+We performed a prospective cohort study investigating SARS-CoV-2 vaccination in MM (n=93) and WM (n=48) patients.
+The primary endpoint was effective immune response (EIR) at 28 days after the primary vaccination series (i.e., anti-spike SARS-CoV-2 antibody titer >250 U/mL).
+The EIR rate after the primary vaccination series was 47% and 25% in MM and WM patients, respectively.
+Following the first and second booster vaccinations, the EIR rates increased to 84% and 91% in MM patients, respectively, and 60% and 89% in WM patients, respectively.
+Factors associated with lower EIR in MM patients were hypogammaglobulinemia, lymphopenia, and treatment with anti-CD38 monoclonal antibody or corticosteroid.
+Treatment with a BTK inhibitor or rituximab was associated with a lower EIR in WM patients, while asymptomatic and treatment naïve WM patients had a higher EIR.
+Functional profiling identified reduced antibody-dependent cellular phagocytosis (ADCP), neutrophil phagocytosis (ADNP), and NK cell activity (ADNKA) against wild-type and variant SARS-CoV-2 (a, b, and g) in both MM and WM patients compared to healthy donors.
+Our data demonstrate that although MM and WM patients have impaired humoral responses to the primary SARS-CoV-2 vaccination series, repeated booster vaccines significantly improve immunogenicity.
+The study was registered at ClinicalTrials.gov (#NCT04830046).

@@ -1,0 +1,9 @@
+Breast cancer is the most prevalent cancer among women globally, underscoring the need for accurate prognostic and predictive biomarkers.
+Extracellular vesicles (EVs), carrying bioactive molecules such as proteins and miRNAs, have emerged as promising candidates for non-invasive liquid biopsy.
+However, their metabolic profiles remain underexplored.
+Here, we present a hybrid gold matrix (AuM), composed of gold nanospheres and nanorods, for EVs metabolome profiling via matrix-assisted laser desorption/ionization-time of flight mass spectrometry (MALDI-TOF MS).
+The AuM enhances ionization efficiency through its large surface area and anisotropic optical properties, enabling sensitive analysis with just 100 nL of serum and rapid processing time.
+Using this platform, we identified six potential metabolic biomarkers distinguishing early-stage breast cancer (BC) patients from healthy donors (HD).
+For treatment monitoring, serum-derived EVs from breast cancer mouse models treated with doxorubicin hydrochloride were analyzed, and a three-metabolite panel achieved 100 % accuracy in evaluating therapeutic response.
+This study reveals the metabolic heterogeneity of EVs and demonstrates the utility of EVs metabolomics in both diagnosis and treatment monitoring.
+Our findings bridge the gap between EVs-based laboratory research and clinical application, offering a promising tool for advancing precision medicine in breast cancer management.

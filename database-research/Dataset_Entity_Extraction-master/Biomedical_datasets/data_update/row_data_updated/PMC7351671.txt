@@ -1,0 +1,9 @@
+Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) and its associated disease known as COVID-19, was originated in Wuhan, China (Zhu et al., 2020).
+Among others, symptoms of COVID-19 include fever, cough and shortness of breath (Chen et al., 2020).
+Generally, the mutation occurs when an error is incorporated in a viral genome (Fleischmann, 1996).
+The genomic sequences of Indian SARS-CoV-2 virus was collected from Global Initiative on Sharing All Influenza Data (GISAID)2
+in fasta format on 11th June 2020.
+The dataset contains 566 genomes with sequence ID and sequence in fasta format.
+We have extracted the date from the sequence ID to show the number of sequences uploaded per month.
+Moreover, the original and shorter sequence IDs (for better visualization) and the length of each genome are mentioned in the supplementary Table S1.
+The wave of COVID-19 is a big threat to the human population.

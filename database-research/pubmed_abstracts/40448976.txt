@@ -1,0 +1,4 @@
+Advancements in single-cell RNA sequencing (scRNA-seq) have revealed the phenotypic and functional diversity of tumor-associated macrophages (TAMs), identifying specific populations that directly impact the antitumor response.
+However, despite the recognition of TAMs as promising therapeutic targets for cancer treatment, research is hindered by the lack of validated human preclinical models.
+Here, we applied scRNA-seq to a 3D human cell-based model comprising tumor cell line-derived spheroids, cancer-associated fibroblasts and primary monocytes, a setup widely used in immuno-oncology research.
+Integration of our

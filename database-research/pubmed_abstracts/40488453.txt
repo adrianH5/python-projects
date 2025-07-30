@@ -1,0 +1,15 @@
+Alzheimer's disease (AD) is characterized by the accumulation of pathogenic proteins, notably amyloid-beta and hyperphosphorylated tau, which disrupt neuronal function and contribute to cognitive decline.
+Although proteotoxic stress is well-established in AD, the role of the ubiquitin-proteasome system (UPS) in maintaining neuronal proteostasis, and how it becomes compromised during disease progression remains incompletely understood.
+Here we integrated multiple approaches to characterize proteasome function, composition, and regulation in post-mortem human AD brain tissue compared to age-matched controls.
+These included proteasome kinetic assays, affinity purification of intact 26S proteasomes, in-gel activity assays and proteomics.
+According to Braak staging, we further interrogated bulk RNA-seq and single-nucleus RNA-seq (sn-RNA-seq) datasets spanning the progression of AD pathology.
+Finally, we examined Nrf1/NFE2L1 binding and subcellular localization to understand the transcriptional regulation of proteasome genes in AD.
+We found that proteasome activity is significantly impaired in AD brains, affecting both 26S and 20S complexes.
+This reduction in proteolytic capacity persisted after proteasome purification, implicating intrinsic defects within the proteasome complex.
+Proteomic profiling of isolated proteasomes revealed diminished abundances of constitutive proteasome complexes and the co-purification of proteasomes with aggregation-prone substrates (e.g., tau, α-synuclein and SQSTM1/p62), suggesting proteasome entrapment in pathological aggregates.
+Transcriptomic analyses showed progressive downregulation of constitutive proteasome subunit genes in individuals along the Braak stage axis, with downregulation apparent even at the earliest Braak stages, in tissue without overt tau aggregation.
+Neurons were disproportionately affected, whereas non-neuronal cells did not show substantial differences in proteasome-related gene expression, possibly through immunoproteasome induction.
+Despite elevated NFE2L1 expression, a key transcription factor normally driving proteasome gene transcription, AD brains exhibited impaired Nrf1 nuclear localization, preventing the expected compensatory upregulation of proteasome components.
+Collectively, our findings suggest that proteasome dysfunction in AD arises early and deepens over the disease course.
+Intrinsic alterations in proteasome complexes, coupled with early transcriptional downregulation of proteasome subunits and disrupted Nrf1-mediated regulatory pathways, contribute to a vicious cycle of proteotoxic stress and neuronal vulnerability.
+Restoring proteasome function and enhancing Nrf1-driven transcriptional responses may represent promising therapeutic strategies to preserve proteostasis and mitigate neurodegeneration in AD.

@@ -1,0 +1,6 @@
+While Deep Learning (DL) auto-segmentation has the potential to improve segmentation efficiency in the radiotherapy workflow, manual adjustments of the predictions are still required.
+Network uncertainty quantification has been proposed as a quality assurance tool to ensure an efficient segmentation workflow.
+However, the interpretation is often complicated due to various sources of uncertainty interacting non-trivially.
+In this work, we compared network predictions with both independent manual segmentations and manual corrections of the predictions.
+We assume that manual corrections only address clinically relevant errors and are therefore associated with lower aleatoric uncertainty due to less inter-observer variability.
+We expect the remaining epistemic uncertainty to be a better predictor of segmentation corrections.

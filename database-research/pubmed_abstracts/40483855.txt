@@ -1,0 +1,11 @@
+Melanoma, although not the most common skin cancer, poses a significant global health challenge, particularly in Europe, where incidence rates are high.
+Traditional melanoma diagnosis through biopsies can be invasive, but advancements in artificial intelligence (AI), particularly deep learning (DL), have shown promising potential for early and accurate melanoma detection through image analysis.
+In this systematic review, we explore the trends and gaps in the application of DL for melanoma detection, focusing on the replicability and generalization of existing models.
+We reviewed studies from 2016, marking the first application of DL in melanoma, to March 2025, highlighting key advancements over the past decade.
+While models trained on image databases from Europe and North America demonstrate high accuracy, their applicability to populations with different skin phototypes, such as those in Africa, Asia, and Latin America, remains limited.
+Since 2019, the role of DL in melanoma detection and diagnosis has gained traction, with public databases often used, such as ISIC and HAM10000.
+However, many studies suffer from a lack of transparency in data partitioning, leading to concerns about model overfitting and reproducibility.
+Usual practices, including the use of 224 × 224 pixel resolution for image segmentation and employing architectures like ResNet and Inception, frequently lack detailed methodological transparency, further limiting reproducibility.
+This review underscores the need for integrating more diverse and high-quality data to enhance the global effectiveness of DL models in melanoma diagnoses.
+Also key challenges, including variability in image quality and the opacity of DL models, which hinder broader clinical adoption, were discussed.
+Finally, we recommend standardizing the databases and developing more robust and explainable models to guide future research.

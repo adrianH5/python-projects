@@ -1,0 +1,3 @@
+A number of lung cancer prediction models have been developed worldwide.
+However, there have been limited validation studies conducted specifically on Chinese populations.
+The objective of this study is to evaluate the feasibility and performance of 17 global lung cancer risk prediction models when applied to Chinese healthcare big data.

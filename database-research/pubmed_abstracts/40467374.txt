@@ -1,0 +1,1 @@
+To develop and evaluate radiomics-based models using contrast-enhanced T1-weighted imaging (CE-T1WI) for the non-invasive differentiation of primary central nervous system lymphoma (PCNSL) and solitary brain metastasis (SBM), aiming to improve diagnostic accuracy and support clinical decision-making.

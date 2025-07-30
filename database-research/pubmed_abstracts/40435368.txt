@@ -1,0 +1,8 @@
+Electron microscopy (EM) has revolutionized our understanding of cellular structures at the nanoscale.
+Accurate image segmentation is required for analyzing EM images.
+While manual segmentation is reliable, it is labor-intensive, incentivizing the development of automated segmentation methods.
+Although deep learning-based segmentation has demonstrated expert-level performance, it lacks generalizable performance across diverse EM datasets.
+Current approaches usually use either convolutional or transformer-based neural networks for image feature extraction.
+We developed the RETINA method, which combines pre-training on the large, unlabeled CEM500K EM image dataset with a hybrid neural-network model architecture that integrates both local (convolutional layer) and global (transformer layer) image processing to learn from manual image annotations.
+RETINA outperformed existing models on cellular structure segmentation on five public EM datasets.
+This improvement works toward automated cellular structure segmentation for the EM community.

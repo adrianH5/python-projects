@@ -1,0 +1,6 @@
+Although there is great promise in cascaded DNA nanoamplifiers for fluorescence imaging, several key hurdles (e.g., insufficient sensitivity, suboptimal reaction kinetics, and unsatisfactory detection precision) should be further addressed.
+Herein, we construct a concentration-tunable catalytic strand-driven fast self-reinforcing circular DNA nanoamplifier guided by the precise activation of near-infrared (NIR) light.
+An exogenous concentration-tunable catalytic strand is first introduced into a three-round amplified circular route, transitioning from hybridization chain reaction (HCR) to catalytic hairpin assembly (CHA) and then back to HCR-CHA, thereby fastly driving a more robust exponential signal enhancement.
+Next, a DNA unit is inserted with a facile photocleavable coupler, by which the biosensing course can be precisely activated by 365 nm ultraviolet upconverting luminescence converted from NIR light guidance.
+Upon selecting a cancer-related universal marker (microRNA-21) as the model target, this new DNA nanoamplifier showcases remarkable biosensing competence.
+Moreover, fluorescence imaging is reliably conducted in live cellular environments and even extended to animal models, boosting the advancement of DNA nanoamplifiers in biomedical realm.

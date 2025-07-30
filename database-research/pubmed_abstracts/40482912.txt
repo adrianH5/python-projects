@@ -1,0 +1,3 @@
+Despite extensive investigation into venetoclax resistance mechanisms in acute myeloid leukemia (AML), the dynamics of bone marrow (BM) microenvironment remodeling during venetoclax-based therapies remain poorly characterized at single-cell resolution.
+Using paired single-cell RNA sequencing of BM specimens from AML patients undergoing DAV therapy (venetoclax/decitabine/cytarabine; pre- vs post-treatment), we systematically mapped therapy-induced transcriptional reprogramming, regulatory network alterations, and niche crosstalk across clinical response subgroups.
+Our analysis revealed two pivotal mechanisms governing therapeutic outcomes: First, pre-existing immune-activating niches marked by elevated HLA class I presentation synergized with therapy-enhanced CD8

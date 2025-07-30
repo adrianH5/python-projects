@@ -1,0 +1,5 @@
+BackgroundKin17 is critical in regulating the proliferation and metastasis of tumors in various malignancies.
+However, the relationship between Kin17 expression, clinicopathologic features, and esophageal squamous cell carcinoma (ESCC) prognosis remains unclear.MethodsThe analysis of Kin17 messenger RNA (mRNA) expression involved the utilization of data from The Cancer Genome Atlas (TCGA) dataset through the platforms the University of ALabama at Birmingham CANcer data analysis portal (UALCAN) and the Gene Expression Omnibus (GEO).
+To determine the expression levels of Kin17 in tissues, immunohistochemistry was conducted.
+Using Pearson's chi-square test, the relationship between Kin17 expression and clinicopathological variables was evaluated.
+Cox proportional hazard models (both univariate and multivariate), receiver operating characteristic (ROC) curves, and Kaplan-Meier survival curves were used to analyze survival.ResultsIn both the TCGA and GEO datasets, the mRNA level of Kin17 was greater in tumor tissues when compared to tumor-adjacent tissues (

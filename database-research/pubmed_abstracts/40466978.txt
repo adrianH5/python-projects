@@ -1,0 +1,3 @@
+Recently, there has been growing interest in analyzing large amounts of Electronic Health Record (EHR) data.
+Patient outcome prediction is a major area of interest in EHR analysis that focuses on predicting the future health status of patients using structured data types, such as diagnoses, medications, and procedures collected from longitudinal EHR data.
+We investigate and design self-supervised learning (SSL) paradigms to learn high-quality representations from longitudinal EHR data, aiming to effectively capture longitudinal relationships and patterns for improved patient outcome predictions.

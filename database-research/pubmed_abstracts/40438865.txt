@@ -1,0 +1,8 @@
+Hepatocellular carcinoma (HCC) is a global health concern because of its rising prevalence and high fatality rates.
+Conventional treatments for advanced HCC (aHCC) have limited success, emphasizing the need for novel treatment options.
+Radiotherapy (RT) treatments, such as stereotactic body radiation and proton therapy, improve local tumor management via precision targeting.
+Moreover, immune checkpoint inhibitors (ICIs) that target the programmed cell death protein 1(PD-1)/PD ligand 1 (PD-L1) and cytotoxic T lymphocyte associated protein 4 (CTLA-4) pathways have promise for systemic antitumor effectiveness.
+The combination of RT and ICIs takes advantage of their complementary mechanisms: RT kills immunogenic cells and controls the tumor microenvironment to increase antigen presentation, whereas ICIs enhance and maintain antitumor immune responses.
+This combination enhances tumor regression and immune response in aHCC, improving response rate and progression-free survival with manageable safety.
+The present review aimed to summarize the rationale for combining RT + ICIs in patients with aHCC and clinical outcomes, as well as ways to enhance this combination technique.
+The combination of these models is a promising technique for improving outcomes for patients with aHCC and warrants further investigation.

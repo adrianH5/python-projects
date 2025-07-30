@@ -1,0 +1,8 @@
+In breast cancer, adipocytes are the predominant cell type in the microenvironment, and the continuous communication between these tissues alters the adipose phenotype.
+However, molecular mechanisms promoting these changes are still poorly understood.
+Previously, we demonstrated that NCoA3 expression is increased in adipose tissue adjacent to breast cancer and that this increase is associated with an inflammatory profile.
+This study aimed to investigate the mechanisms underlying NCoA3 expression in adipocytes within the breast tumor microenvironment.
+We demonstrated that breast cancer-secreted TNF increases NCoA3 expression in adipocytes, and this upregulation is dependent on NF-κB transcriptional activity.
+Furthermore, the use of a TNF blocker prevented both coactivator overexpression and macrophages recruitment, mimicking the effects observed when NCoA3 expression was downregulated using a short hairpin RNA.
+These findings shed light on the molecular mechanisms by which breast cancer cells modulate adipocyte behavior, identifying NCoA3 as a key mediator in the tumor-adipose tissue crosstalk.
+Targeting this pathway through TNF inhibition offers promising therapeutic strategy to attenuate tumor-associated inflammation and potentially improve outcomes in breast cancer patients.

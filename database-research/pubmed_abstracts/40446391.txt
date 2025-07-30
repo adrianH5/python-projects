@@ -1,0 +1,2 @@
+The on-board imaging system using monoscopic X-ray technology struggles to detect motion along the beam direction.
+This study presents a method that combines skeletonization for marker recognition with a Recursive Least Squares Approximation (RLSA) algorithm to convert 2D motion data into a 3D representation.

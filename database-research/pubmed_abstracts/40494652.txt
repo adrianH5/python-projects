@@ -1,0 +1,6 @@
+Targeted therapies and immunotherapy have improved treatment outcomes for many melanoma patients.
+However, patients whose melanomas harbor driver mutations in the neurofibromin 1 (NF1) tumor suppressor gene often lack effective targeted treatment options when their tumors do not respond to immunotherapy.
+In this study, we utilized patient-derived short-term cultures (STCs) and multiomics approaches to identify molecular features that could inform the development of therapies for patients with NF1 mutant melanoma.
+Differential gene expression analysis revealed that the epidermal growth factor receptor (EGFR) is highly expressed and active in NF1 mutant melanoma cells, where it hyper-activates ERK and AKT, leading to increased tumor cell proliferation, survival, and growth.
+In contrast, genetic or pharmacological inhibition of EGFR hindered cell proliferation and survival and suppressed tumor growth in patient-derived NF1 mutant melanoma models but not in NF1 wild-type models.
+These results reveal a connection between NF1 loss and increased EGFR expression that is critical for the survival and growth of NF1 mutant melanoma cells in patient-derived culture and xenograft models, irrespective of their BRAF and NRAS mutation status.

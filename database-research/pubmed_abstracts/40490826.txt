@@ -1,0 +1,4 @@
+Dobutamine hydrochloride (DH), a common inotropic drug used for heart failure, has recently been discovered to inhibit Yes-Associated Protein (YAP).
+YAP is a key component of the Hippo signaling pathway and plays a crucial role in the regulation of hematopoietic cell growth.
+The decrease in YAP activity has been shown to increase hematogenic differentiation and the generation of hematopoietic stem and progenitor cells (HSPCs) from human induced pluripotent stem cells (hiPSCs).
+Therefore, this study investigates the effect of DH on enhancing the hematopoietic differentiation of hiPSCs toward HSPCs.

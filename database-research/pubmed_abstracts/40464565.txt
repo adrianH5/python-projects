@@ -1,0 +1,9 @@
+Cisplatin remains a cornerstone chemotherapy for many solid tumors but is limited by dose-limiting toxicities, including nephrotoxicity, peripheral neuropathy, and ototoxicity - the latter of which disproportionately affects pediatric patients and lacks effective prevention strategies.
+Although therapeutic approaches to mitigate cisplatin-induced toxicity are urgently needed, the underlying mechanisms driving organ-specific injury remain incompletely understood.
+We previously identified apurinic/apyrimidinic endonuclease 2 (APE2) as a critical mediator of cisplatin-induced acute kidney injury (C-AKI) through disruption of mitochondrial integrity.
+Here, we extend these findings to cisplatin-induced hearing loss (C-HL).
+We demonstrate that cisplatin selectively induces APE2, but not APE1, overexpression in murine and human outer hair cells.
+Using an inducible, outer hair cell-specific APE2 transgenic mouse model, we show that APE2 overexpression alone is sufficient to cause high-frequency hearing loss, accompanied by hair cell loss and stereocilia disorganization visualized by electron microscopy.
+Mechanistically, we identified a direct interaction between APE2 and MYH9, mapped the critical MYH9-binding domains, and demonstrated that APE2 knockdown preserved mitochondrial metabolism and protected cochlear cells from cisplatin-induced apoptosis.
+Notably, APE2 depletion activated an ATR-p53 signaling axis, promoting nuclear p53 localization and suppressing mitochondrial apoptotic pathways.
+Together, these findings reveal a non-canonical, APE2-dependent mechanism driving C-HL and suggest that targeting APE2 may offer a novel therapeutic strategy to prevent cisplatin-induced ototoxicity.

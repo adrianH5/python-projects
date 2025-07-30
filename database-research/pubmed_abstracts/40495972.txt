@@ -1,0 +1,3 @@
+Colorectal cancer (CRC) is the third most common malignant tumor type all over the world with high mortality.
+Chemoresistance of CRC leads to treatment failure and disease aggravation.
+We previously identified Hsa_circ_0020095 as a novel oncogene to promote progression and cisplatin-resistance in colon cancers by modulating the miR-487a-3p/SOX9 axis.

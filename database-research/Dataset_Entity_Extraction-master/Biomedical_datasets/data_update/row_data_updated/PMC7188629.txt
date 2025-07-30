@@ -1,0 +1,23 @@
+The rapid spread of the coronavirus disease 2019 (COVID-19) pandemic has dramatically impacted oncologic care.
+Two observational studies suggest that infection rates of COVID-19 may be significantly higher in cancer patients than in the general population (Liang et al., 2020, Yu et al., 2020).
+Further analyses suggest that cancer patients may also be at increased risk of severe complications from COVID-19, including hospitalization, respiratory failure, and death (Dai et al., 2020, Liang et al., 2020).
+Multiple factors are likely contributing to the increased prevalence and severity of COVID-19 infection seen in cancer patients.
+Compared to the general population, cancer patients tend to be older, are more often smokers, and have more comorbid medical conditions, all of which are reported risk factors for severe COVID-19 infection (Jordan et al., 2020).
+Of major concern to medical oncologists in particular are antineoplastic therapies, which have a variety of effects that can theoretically be deleterious in the context of COVID-19.
+Lymphosuppression and myelosuppression directly caused by cancer itself as well as cytotoxic treatments pose an increased risk of respiratory viral infections (Vento et al., 2008); some cytotoxic agents also cause pulmonary toxicity that may prove harmful in the context of severe COVID-19.
+Some monoclonal antibodies (for example, anti-CD38 antibodies such as daratumumab and isatuximab) result specifically in NK-cell depletion and increase risk of lower respiratory viral infection, although it is unclear whether this applies to COVID-19 (Nahi et al., 2019).
+Early reports have demonstrated a hyperactive, proinflammatory T cell phenotype in severe cases of COVID-19 (Xu et al., 2020).
+Some clinicians have accordingly hypothesized that immune checkpoint inhibitors may promote a more severe COVID-19 phenotype and are using these drugs with some hesitation, although the subject is controversial (Bersanelli 2020).
+Finally, a significant proportion of cancer patients take corticosteroids for prophylaxis, treatment, and symptom control related to cancer, which might be detrimental in the management of acute respiratory distress syndrome due to COVID-19 (Russell et al., 2020).
+Prospective clinical trials of investigational antineoplastic therapy, which drive many advancements in medical oncology, are now faced with additional logistical and practical barriers in the COVID-19 era.
+In addition, despite COVID-19-related trials accruing at record pace, no randomized data are yet available to guide practice.
+Notably, some antineoplastic treatments may be helpful in mitigating the harmful immune response associated with severe COVID-19 and are under active investigation as repurposed therapies for COVID-19 (Table 1
+).
+Given the above, it is imperative that real-world evidence about the effects of COVID-19 on cancer patients is collected and disseminated rapidly to inform clinical decisions.
+The CCC19 is a multicenter registry that was created to help bridge the knowledge gap in cancer care caused by the COVID-19 pandemic.
+Participating sites are asked to obtain necessary institutional IRB approval and data transfer and to make the best possible effort to report data on cases of COVID-19 in cancer patients that are treated in both the inpatient and outpatient settings, to ensure data are collected on patients with both mild and severe disease.
+Of note, a large global analysis is planned, subsequently fusing RedCAP databases with the European Society for Medical Oncology COVID-19 and Cancer Registry (ESMO-CoCARE) project.
+National and international consortia will play a key role in understanding the effects of the coronavirus disease 2019 (COVID-19) pandemic on cancer patients.
+The COVID-19 and Cancer Consortium (CCC19) aims to collect and analyze observational data at scale to inform clinical practice in real-time.
+National and international consortia will play a key role in understanding the effects of the coronavirus disease 2019 (COVID-19) pandemic on cancer patients.
+The COVID-19 and Cancer Consortium (CCC19) aims to collect and analyze observational data at scale to inform clinical practice in real-time.

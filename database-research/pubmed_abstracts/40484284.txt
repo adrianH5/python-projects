@@ -1,0 +1,7 @@
+Chemotherapy is a widely adopted treatment for malignant intraocular tumors such as retinoblastoma.
+However, achieving high delivery efficiency remains challenging due to rapid clearance and lack of targeting specificity.
+Cancer cell membrane-coated nanoparticles have been extensively reported to exhibit specific affinity to homotypic cancer cells.
+Here we designed poly (lactic-co-glycolic acid) (PLGA)-based polymeric nanoparticles coated with the plasma membrane of WERI-Rb-1 cells, derived from human retinoblastoma.
+These nanoparticles showed remarkable affinity to WERI-Rb-1 cells in vitro.
+Loaded with the FDA-approved chemotherapy drug etoposide, the nanoparticles exhibited excellent antitumor efficacy and excellent biosafety following single-dose intravitreal injection in vivo.
+Overall, this work presents a simple yet effective strategy for the treatment of retinoblastoma.

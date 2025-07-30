@@ -1,0 +1,7 @@
+Programmed death-ligand 1 (PD-L1), an immune checkpoint protein, serves as a "don't eat me" signal that allows cancer cells to evade detection and clearance by the immune system.
+Blocking PD-L1 with the PD-L1 antibody (aPD-L1) can restore the immunity.
+Photothermal therapy (PTT), meanwhile, induces local tumor cell death and releases damage-associated molecular patterns (DAMPs) to further stimulate immune responses.
+Here, we developed a multifunctional nanogel system, composed of β-cyclodextrin (β-CD), polyethylenimine (PEI), and polyethylene glycol (PEG), referred to as CPP nanogels, designed for the codelivery of aPD-L1 and indocyanine green (ICG), a PTT photosensitizer.
+The β-CD moieties facilitated ICG loading through host-guest interactions, while PEI enabled aPD-L1 conjugation.
+Upon targeting tumor cells, the nanogels blocked PD-L1 and, under 808 nm laser irradiation, triggered PTT-induced DAMPs release.
+By promoting both heat-induced cell death and immune responses, the multifunctional CPP nanogels represent a promising system potentially for treating localized and metastatic cancers.

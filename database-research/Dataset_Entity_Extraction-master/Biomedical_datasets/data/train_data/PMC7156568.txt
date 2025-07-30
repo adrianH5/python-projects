@@ -1,0 +1,15 @@
+The age of COVID-19 cases in urban areas ranged from 19 to 90 years, averaging 51.89 years (51.89 ± 15.79 years), whereas the age of COVID-19 cases in suburban areas ranged from 9 to 90 years, averaging 47.89 years (47.89 ± 17.12).
+The distribution of COVID-19 cases by age is shown in Table 1.
+Of all of the COVID-19 cases in Tianjin, 72 were male and 63 were female, accounting for 53.33% and 46.67%, respectively.
+The distribution of COVID-19 cases by gender is shown in Table 1.
+Of the total COVID-19 cases, 101 (74.81%) cases belonged to family or social setting (including workplace and public place) clusters.
+Figure 1 shows the familial clustering of COVID-19 patients.
+Of the 135 COVID-19 cases in Tianjin, 26 (29.55%) came into contact with the epidemic area before the onset of symptoms, but 109 (80.74%) had no history of contact with the epidemic area before the onset.
+As of January 31, COVID-19 cases with no history of sojourning in Hubei began to account for the majority of the new cases.
+Among urban residents, there were 14 (31.10%) COVID-19 cases of people who had visited Hubei Province and 31 (68.90%) COVID-19 cases of people who had not.
+Among suburban residents, there were 6 (7.14%) COVID-19 cases of people who had visited Hubei Province and 78 (92.86%) COVID-19 cases of people who had not.
+This study describes the epidemiologic features of an outbreak of the coronavirus disease (COVID-19) in Tianjin caused by a novel coronavirus and provides the scientific basis for prevention and control measures.
+Methods:  Data from COVID-19 cases were collected from daily notifications given to the National Health Commission of the People’s Republic of China and Tianjin Health Committee.
+The incidence of COVID-19 was 8.65/1 000 000 with a 2.22% case fatality rate.
+A familial clustering was the most important characteristic of COVID-19 (accounting for 74.81%).
+Conclusions:  Current information suggests that people are generally susceptible to COVID-19, which has shown a familial clustering in Tianjin.

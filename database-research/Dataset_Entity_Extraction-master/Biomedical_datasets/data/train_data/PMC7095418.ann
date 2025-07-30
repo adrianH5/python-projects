@@ -1,0 +1,39 @@
+T1	Repository 134 141	GenBank
+T2	AccessionNumber 159 169	AY278488.2
+T3	Dataset 208 214	GISAID
+T4	URL 216 239	https://www.gisaid.org/
+T5	AccessionNumber 259 273	EPI_ISL_402124
+T6	Dataset 361 367	GISAID
+T7	AccessionNumber 386 407	EPI_ISL_402127–402130
+T8	Dataset 640 646	GISAID
+T9	AccessionNumber 664 678	EPI_ISL_402131
+T10	Dataset 902 908	GISAID
+T11	URL 910 933	https://www.gisaid.org/
+T12	AccessionNumber 958 972	EPI_ISL_402124
+T13	AccessionNumber 974 1003	EPI_ISL_402127–EPI_ISL_402130
+T14	AccessionNumber 1008 1022	EPI_ISL_402131
+T15	Repository 1024 1031	GenBank
+T16	AccessionNumber 1055 1063	MN996527
+T17	AccessionNumber 1064 1072	MN996532
+T18	Repository 1074 1103	National Genomics Data Center
+T19	Repository 1105 1134	Beijing Institute of Genomics
+T20	Repository 1136 1163	Chinese Academy of Sciences
+T21	URL 1165 1205	https://bigd.big.ac.cn/databases?lang=en
+T22	AccessionNumber 1230 1240	SAMC133236
+T23	AccessionNumber 1241 1251	SAMC133240
+T24	AccessionNumber 1256 1266	SAMC133252
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T3	Arg2:T5
+R4	hasAttr	Arg1:T6	Arg2:T7
+R5	hasAttr	Arg1:T8	Arg2:T9
+R6	hasAttr	Arg1:T10	Arg2:T11
+R7	hasAttr	Arg1:T10	Arg2:T12
+R8	hasAttr	Arg1:T10	Arg2:T13
+R9	hasAttr	Arg1:T10	Arg2:T14
+R10	hasAttr	Arg1:T15	Arg2:T16
+R11	hasAttr	Arg1:T15	Arg2:T17
+R12	hasAttr	Arg1:T20	Arg2:T21
+R13	hasAttr	Arg1:T20	Arg2:T22
+R14	hasAttr	Arg1:T20	Arg2:T23
+R15	hasAttr	Arg1:T20	Arg2:T24

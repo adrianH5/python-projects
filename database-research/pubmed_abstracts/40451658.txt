@@ -1,0 +1,7 @@
+Patients treated with proton beam therapy (PBT) undergo routine verification CT (VCT) scans during their courses of treatment to evaluate anatomic variations and the potential need for revision planning.
+Dosimetrists evaluate each VCT plan with physicians, which can be logistically challenging and present a bottleneck in the clinical workflow.
+In this study, a standardized head-and-neck verification plan review protocol was established based on physician consensus to streamline the review process.
+A physicist used these criteria to evaluate each VCT plan, flagging cases that did not meet the criteria for review by the attending physician.
+Results are presented for 321 VCT scans for 164 patients.
+During the testing period, the consensus criteria correctly flagged 95% of cases deemed to require adaptive replans by physicians.
+Further, 49% of direct review cases were eliminated after clinical implementation.

@@ -1,0 +1,8 @@
+Non-small cell lung cancer (NSCLC) is the most common subtype constituting around 85 % of all lung cancer cases.
+Based on the cancer stage, surgery, radiotherapy, chemotherapy, immunotherapy and molecularly targeted therapy are the main treatment options for NSCLC.
+In last two decades, significant advancements in the treatment of NSCLC have been achieved through the development of molecular targeted therapies and immunotherapies.
+Targeted therapy uses drugs to precisely affect certain proteins, pathways and genetic mutations involved in cancer growth.
+Tyrosine kinase receptors (RTKs) are main transmembrane glycoproteins that play significant role in tumor genesis and progression, and are major targets for cancer therapy.
+Small molecule inhibitors of tyrosine kinase prevent this enzyme from phosphorylating intracellular tyrosine residues on their substrates and thus blocking the downstream signaling pathways.
+In this article, we have discussed the pivotal role of various tyrosine kinase inhibitors (TKIs) in the treatment of NSCLC, focusing on their major target sites, mechanism of action, development aspects, clinical efficacy data and future directions.
+A list of FDA approved tyrosine kinase inhibitors as well as those undergoing clinical investigations is also provided.

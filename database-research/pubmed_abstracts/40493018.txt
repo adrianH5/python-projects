@@ -1,0 +1,7 @@
+Long non-coding RNA MIR4435-2HG has emerged as a pivotal oncogenic factor across various cancers.
+However, its role in chemoresistance, particularly in colorectal cancer (CRC), remains unclear.
+This work demonstrates that MIR4435-2HG is significantly overexpressed in CRC tissues, correlating with poor prognosis and resistance to oxaliplatin (L-OHP) based chemotherapy.
+Mechanistically, MIR4435-2HG binds to miR-378g, leading to elevated ABCB9 levels, a crucial factor in drug resistance.
+Both in vitro and in vivo experiments indicate that the MIR4435-2HG/miR-378g/ABCB9 axis confers L-OHP resistance in CRC cells by reducing DNA damage and enhancing cell survival.
+Additionally, P65, a component of the NF-κB pathway, directly promotes MIR4435-2HG transcription, triggering subsequent chemoresistance.
+Based on these results, MIR4435-2HG is recognized as a reliable prognostic marker and serves as a target for therapeutic strategies, presenting new approaches to counteract L-OHP resistance and enhance CRC patient outcomes.

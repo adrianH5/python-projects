@@ -1,0 +1,5 @@
+The relationship between lipid-lowering drugs and the risk of digestive system cancers remains unclear.
+This study aims to assess the risk association between lipid-lowering drugs and digestive system cancers through mendelian randomization (MR) analysis.
+We utilized genetic instruments to substitute for the exposure to lipid-lowering drugs, including expression quantitative trait loci (eQTL) for HMGCR, PCSK9, and NPC1L1, as well as genetic variants associated with low-density lipoprotein (LDL) from the Global Lipids Genetics Consortium's genome-wide association study (GWAS) data for target genes.
+We used MR and SMR methods to assess the risk estimates of lipid-lowering drug target genes on digestive system tumors.
+The MR analysis indicated a negative association between HMGCR-mediated LDL and hepatocellular carcinoma (OR = 0.06, 95% CI: 0.00-0.81,

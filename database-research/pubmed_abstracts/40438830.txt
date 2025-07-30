@@ -1,0 +1,14 @@
+One of the most important complications of cancer and its treatments is the increased fracture risk.
+Fractures can have a significant impact on the patient's quality of life and may be associated with morbidity, mortality, and reduced functional status.
+The present study aims to investigate the mechanisms underlying the increased risk of fractures in cancer patients, the effect of cancer treatments on fracture risk, and strategies to prevent fractures in this population.
+This is a literature review using the PubMed - National Center for Biotechnology Information (NCBI), Web of Science, Cochrane Library, Scopus, and electronic internet databases.
+The search was based on the keywords "fracture risk" AND "cancer", NOT ("osteoporosis" OR "osteoporotic").
+Inclusion criteria were clinical studies assessing fracture pathogenesis and prevention, along with fracture risk estimation in cancer patients.
+Non-human studies, pediatric studies, non-English studies, editorials, and study protocols were excluded.
+After the application of inclusion and exclusion criteria, 146 studies were finally included.
+Fracture risk is particularly increased in patients with malignancies.
+This is due to the direct effect of cancer cells on bone metabolism, the existence of cancer-related factors (bone metastases, hypercalcemia, malnutrition, and increased risk of falls), coexisting diseases (osteoporosis, diabetes mellitus, and rheumatoid arthritis), and the side effects of anticancer treatments (chemotherapy, radiotherapy, and hormone therapy).
+Fracture risk assessment is based on the measurement of bone mineral density (DXA), the use of the Fracture Risk Assessment Tool (FRAX), laboratory tests (measurement of calcium, phosphorus, vitamin D, alkaline phosphatase, parathyroid hormone, and biomarkers of bone metabolism), and imaging methods (X-rays, computed tomography, magnetic resonance imaging, and PET/CT of bones).
+To reduce fracture risk in cancer patients, lifestyle changes (exercise, smoking cessation) and anti-osteoclastic drugs such as bisphosphonates and denosumab are administered.
+Fracture risk in cancer patients is influenced by various factors, including the type of cancer, stage of disease, cancer treatments, bone health status, and presence of bone metastases.
+Overall, fracture risk in cancer patients is multifactorial and requires comprehensive evaluation and management to optimize bone health and quality of life.

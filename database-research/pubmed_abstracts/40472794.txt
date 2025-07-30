@@ -1,0 +1,12 @@
+The food system is a key determinant of population and planetary health.
+As the "one planet, one health" approach gains momentum, evaluating "food biodiversity" and its association with mortality in high-risks populations is increasingly important.
+Hence, we evaluated the associations of food biodiversity with all-cause and cause-specific mortality in a Spanish cohort of older adults at high cardiovascular risks.
+Food biodiversity was defined using dietary species richness (DSR), the count of unique plants and animal species consumed by an individual.
+DSR was cumulatively calculated over the PREDIMED study follow-up, using yearly food frequency questionnaire data.
+The association of food biodiversity with all-cause and cause-specific mortality was assessed using Cox regression, while controlling for confounders.
+We analyzed data from 7210 participants (58 % women), with a median age of 67 years.
+DSR in the cohort ranged between 16 and 57 (median: 48).
+Over a median follow-up of 6 years, 425 deaths were recorded (103 deaths from cardiovascular diseases (CVD), 169 cancer deaths, and 153 deaths due to other-causes).
+DSR was only moderately correlated with adherence to the Mediterranean diet.
+On average, when fully adjusted, every additional species over the follow-up period was associated with a Hazard Ratio (HR (95 % Confidence Interval) of 0.91(0.90,0.93) for all-cause mortality, 0.93(0.90,0.96) for CVD mortality, 0.92 (0.89,0.94) for cancer deaths, and a 0.91(0.89,0.94) for deaths from other causes.
+Dietary recommendations to improve food biodiversity may increase longevity.

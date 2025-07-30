@@ -1,0 +1,8 @@
+T1	Repository 1359 1402	2019 Novel Coronavirus Resource (2019nCoVR)
+T2	Dataset 1412 1468	Global Initiative on Sharing All Influenza Data (GISAID)
+T3	Dataset 2347 2353	GISAID
+T4	URL 2355 2376	http://www.gisaid.org
+T5	Repository 2382 2411	National Genomics Data Center
+T6	URL 2413 2441	https://bigd.big.ac.cn/ncov/
+R1	hasAttr	Arg1:T3	Arg2:T4
+R2	hasAttr	Arg1:T5	Arg2:T6

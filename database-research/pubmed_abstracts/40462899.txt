@@ -1,0 +1,7 @@
+The interactions of nanomaterials with biomolecules in vivo determine their biological fate.
+Here, we show that self-assembled peptide amphiphile (PA) nanostructures can dynamically interact with endogenous biomolecules and take advantage of naturally occurring processes to target a broad range of solid tumors.
+In circulation, self-assembled PA nanostructures disassemble and reassemble mainly with lipoproteins, which prolongs blood circulation and dramatically improves tumor accumulation and retention.
+Mechanistic studies suggested that PAs internalize into cancer cells by assembling with their cell membranes and independently of specific receptors.
+By exploiting these interactions, a PA developed in this study (namely SA-E) demonstrated specific accumulation in various xenograft, syngeneic, patient-derived xenograft, or transgenic rodent models.
+In addition, SA-E enabled the effective delivery of highly potent chemotherapy to different syngeneic and xenografted tumors with reduced side effects.
+With its simple and modular design and universal tumor accumulation mechanism, SA-E represents a promising platform for broad applications in cancer imaging and therapy.

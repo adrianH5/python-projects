@@ -1,0 +1,30 @@
+An outbreak of novel coronavirus disease 2019 (COVID-19) spread from China worldwide since December 2019 (Zhu et al., 2020).
+Therefore, most COVID-19 patients require hospitalization or isolated observation, but large numbers of patients could overwhelm healthcare systems globally.
+It is important for us to avoid an increasing number of COVID-19-related deaths by early detection of the high-risk group.
+The inclusion criteria were mild/moderate symptoms of COVID-19 when hospitalized, serum collection on the first day of hospitalization, and serial serum collection during hospitalization.
+For a screening experiment, a total of 28 patients with COVID-19 who were eligible based on the study’s criteria participated.
+To confirm the discrimination ability of the predictive markers between the COVID-19 severe population and other diseases, 114 patients with several common diseases, who were negative for SARS-CoV-2 RNA (Supplemental Information and Supplemental Table 3), were enrolled.
+However, IP-10, CXCL9, and CCL17 levels were specifically associated with the COVID-19 severe/critical group.
+Laboratory data showing significant associations with the development of severe/critical symptoms (Supplemental Table 1) were compared between COVID-19 and common diseases (Supplemental Fig. 2).
+The ranges of all laboratory data except for CRP overlapped between COVID-19 and common diseases.
+To validate the predictive power of CCL17, independent samples from COVID-19 patients were added, and CCL17 levels at an early phase of hospitalization were determined.
+Approximately 80% of COVID-19 patients have mild or moderate disease and recover within a few weeks, but as previously reported, the remaining COVID-19 patients develop severe or critical symptoms (Guan et al., 2020, Wu and McGoogan, 2020).
+ALB, LDH, CRP, and neutrophil counts were associated with the development of severe pneumonia (Gong et al., 2020, Mo et al., 2020, Wang et al., 2020a, Zhang et al., 2020a), and COVID-19 patients with hypertension were also significantly more likely to develop severe disease (Wu et al., 2020).
+In COVID-19, the CCL17 expression range was very narrow in the severe/critical group.
+This feature might explain why many more children with COVID-19 have mild symptoms than adult patients.
+Dysfunction of Treg cells in the lung could induce severe/critical pneumonia in COVID-19 patients.
+The mechanism of CCL17 suppression in COVID-19 is unknown.
+High expression of IP-10 was associated with severe disease in COVID-19 (Ma et al., 2020, Runfeng et al., 2020, Xiong et al., 2020, Yang et al., 2020).
+Interestingly, there were no associations for both IFN-λ1 and 2 in COVID-19, and IFN-λ1 or 2 genes were not associated with response to interferon-α (IFN-α) treatment for CHC (Ge et al., 2009).
+Therefore, clinical trials of IFN-α treatment for COVID-19 that classified patients by SNP type showed that it could provide good results (Li and De Clercq, 2020, Wang et al., 2020b).
+The present data showed for the first time that IFN-λ3 itself is a key molecule for the development of severe pneumonia, and the natural course of IFN-λ3 in COVID-19 patients was shown using serial serum samples.
+The association of IL-6 with COVID-19 has been previously reported (Chen et al., 2020a, Gao et al., 2020, Zhang et al., 2020c).
+The present data suggest that COVID-19 patients with RA have high levels of IL-6 without severe/critical symptoms.
+These data suggest that the SNP type of individuals should be considered to understand the profiles of predictive markers, in addition to COVID-19 outcomes.
+However, Yang et al. reported that CXCL9 levels were elevated during disease progression of COVID-19, but they were not useful as predictive markers (Yang et al., 2020).
+Highlights     •  CCL17, IFN- l 3, IL-6, IP-10, and CXCL9 were predictor for COVID-19 prognosis.
+The downregulation of CCL17 could be unique in COVID-19.
+COVID-19, a novel coronavirus-related illness, has spread worldwide.
+Therefore, almost all COVID-19 patients require hospitalization, which can reduce limited medical resources in addition to overwhelming medical facilities.
+To identify predictive markers for the development of severe pneumonia, a comprehensive analysis of serum chemokines and cytokines was conducted using serial serum samples from COVID-19 patients.
+Low expression of CCL17 was specifically observed in pre-severe COVID-19 patients compared with other common diseases, and the predictive ability of CCL17 was confirmed in validation samples of COVID-19.

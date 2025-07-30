@@ -1,0 +1,5 @@
+T1	Repository 84 91	GenBank
+T2	AccessionNumber 110 118	MH824434
+T3	AccessionNumber 119 127	MH824510
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T1	Arg2:T3

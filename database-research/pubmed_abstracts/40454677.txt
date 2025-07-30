@@ -1,0 +1,6 @@
+The kinase-inducible (KIX) domain, a structured region within the transcriptional coactivators CREB-binding protein (CBP) and p300, serves as a docking site for multiple transcription factors, including the mixed lineage leukemia (MLL) protein.
+The MLL-KIX protein-protein interaction (PPI) has been implicated in various diseases, such as leukemia, cancer, and neurodegenerative disorders, including Alzheimer's disease.
+In this study, we developed a series of MLL-mimicking peptidomimetic foldamers based on a sulfonyl-γ-AApeptide backbone.
+These helical foldamers successfully mimic the folded transactivation domain (TAD) of MLL and bind the KIX domain with a high affinity.
+Consistent with the notion that MLL-KIX interaction can allosterically enhance CREB signaling, we found that the sulfonyl-γ-AApeptides strongly stimulate CREB-dependent gene expression.
+Moreover, they exhibit no significant cytotoxicity under the tested conditions, demonstrating both binding specificity and therapeutic potential for targeting CREB-related pathways in neurodegenerative disorders.

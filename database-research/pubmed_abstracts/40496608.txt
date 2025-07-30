@@ -1,0 +1,11 @@
+Immune checkpoint inhibitors (ICIs) have become the standard of care in treating patients with human epidermal growth factor receptor 2(HER2) negative gastric cancer, revolutionizing the treatment landscape.
+The combination of ICIs and chemotherapy has shown improved treatment efficacy and prolonged survival compared to chemotherapy alone.
+Despite these benefits, this combined treatment is also linked to a higher incidence of adverse events.
+In this report, we present a case that demonstrates exceptional therapeutic efficacy but also severe adverse reactions.
+In HER2-negative gastric cancer, patients with higher programmed death-ligand1 (PD-L1) expression demonstrate improved clinical outcomes compared to those with lower PD-L1expression.
+This case study presents a 66-year-old male diagnosed with stage IV poorly differentiated gastric adenocarcinoma, characterized by hepatogastric ligament involvement, multiple peritoneal lymph node metastases, and extensive liver metastases.
+Initially treated with oxaliplatin plus docetaxel chemotherapy, the patient exhibited an inadequate response after two cycles.
+Subsequently, due to high PD-L1 expression, the treatment approach was modified to paclitaxel albumin-bound combined with oxaliplatin and Sintilimab.
+A PET-CT scan on June 5, 2023, confirmed complete remission in a patient with advanced gastric adenocarcinoma expressing high levels of PD-L1, who had received PD-L1-specific immune therapy in combination with chemotherapy.
+The patient developed frequent diarrhea three weeks after the final treatment on February 25, 2023, which was managed symptomatically.
+Tragically, the patient succumbed to electrolyte imbalance and shock caused by complications from the diarrhea in July 2023.

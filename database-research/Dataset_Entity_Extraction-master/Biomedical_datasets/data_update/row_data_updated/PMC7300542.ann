@@ -1,0 +1,9 @@
+T1	Dataset 110 116	GISAID
+T2	AccessionNumber 131 145	EPI/ISL/437912
+T3	Repository 561 565	NCBI
+T4	Dataset 570 576	GISAID
+T5	Repository 591 601	Nextstrain
+T6	Dataset 605 611	GISAID
+T7	Dataset 1115 1121	GISAID
+T8	Dataset 1898 1904	GISAID
+R1	hasAttr	Arg1:T1	Arg2:T2

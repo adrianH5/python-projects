@@ -1,0 +1,3 @@
+Despite the increasing incidence of Crohn's disease (CD), its early immune disturbances have not all been described yet.
+We analysed single-cell RNASeq data from peripheral blood mononuclear cells of patients with incidentally-diagnosed CD, and compared their gene expression profile to healthy individuals.
+The main aim of our study was to perform an exploratory analysis of how the subclinical inflammatory process is modifying the individual's immunologic environment while the patient is still in the preclinical period.

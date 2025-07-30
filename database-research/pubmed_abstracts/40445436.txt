@@ -1,0 +1,11 @@
+Aggressive skull base tumors such as chordomas and high-grade meningiomas often exhibit resistance to treatment, highlighting the need for improved management combining endoscopic transnasal surgery (ETS) with adjunctive radiation therapy (RT).
+However, repeated ETS and RT may lead to delayed cerebrospinal fluid (CSF) leaks, posing clinical challenges.
+This study aimed to assess the incidence and risk factors for delayed CSF leaks.
+From November 2016 to October 2023, a total of 287 patients who underwent ETS for skull base lesions were analyzed, with the median follow-up of 45 months.
+Delayed CSF leaks were defined as leaks occurring six months or more after the last ETS procedure.
+Among these patients, 69 (24%) underwent multiple ETS procedures, and 102 (36%) received RT.
+Skull base reconstruction methods involved simple closure with fat grafting (with or without sphenoid mucosal flap) in 46%, non-vascularized multilayer closure in 50%, and pedicled mucosal flap-based reconstruction in 5%.
+Delayed CSF leaks occurred in 5 patients (1.7%), with cumulative incidence rates of 0.6%, 1.2%, and 3.7% at 3, 5, and 10 years, respectively.
+Notably, all leaks occurred exclusively in RT patients, showing significantly higher incidence rates compared to those without RT (2.6% at 5 years, 7.0% at 10 years vs. 0% at 10 years; p = 0.030).
+Cox proportional hazards analysis identified chordoma pathology, increased ETS procedures, and RT sessions as independent risk factors.
+Mucosal flap-based reconstruction effectively prevented recurrence, indicating its potential advantage for managing delayed CSF leaks following ETS combined with RT.

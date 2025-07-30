@@ -1,0 +1,10 @@
+QuPath, an open-source digital pathology platform, has gained widespread use for image analysis in biomedical research since its release in 2016.
+However, its reproducibility and reliability compared to commercial software, such as HALO, requires further validation, particularly for multiplex immunofluorescence (mIF) analysis.
+In this study, we performed a direct comparison of QuPath and HALO using a mIF-stained prostate cancer tissue microarray (TMA) inclusive of 192 unique cores.
+We evaluated performance across three key analytical modules: immune cell phenotyping, tumor infiltration with immune cells, and nearest neighbor analysis.
+Furthermore, we integrated QuPath with CytoMap, an open-source spatial analysis tool, to perform unsupervised clustering of immune cell infiltration-a feature not available in HALO.
+Our results demonstrated high concordance between two platforms, with correlation coefficients exceeding 0.89 for immune cell density, distance and pattern of cell organization in tumor microenvironment (TME).
+A neighborhood analysis using CytoMap was further performed and provided a more detailed spatial analysis of immune cell distribution across different prostate cancer grades.
+A significant increase of CD103+ T cell infiltration into TME was observed in prostate cancer, which might be associated with the expression level of its ligand (E-cadherin) in the tumor region.
+In conclusion, our findings validate QuPath as a robust and reproducible alternative to commercial platforms for fluorescence-based digital pathology.
+By demonstrating QuPath's capability to perform high-quality quantitative analysis with additional flexibility for integration with external tools, our study underscores its potential for advancing tumor microenvironment research in translational oncology.

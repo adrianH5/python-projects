@@ -1,0 +1,5 @@
+As a malignant tumor characterized by a dismal prognosis and a high mortality rate, non-small cell lung cancer (NSCLC) presents significant challenges in contemporary treatment.
+These challenges include drug resistance and side effects, which severely hamper the effectiveness of current therapeutic strategies.
+An increasing number of herbal formulas have been utilized in antitumor therapy, owing to their cost-effectiveness, beneficial efficacy, and additional advantages.
+FuZhengXiaoJi Decoction (FZXJD), a cancer-treating formula, has been successfully applied in NSCLC clinical treatment, but the underlying mechanism remains elusive.
+Therefore, this paper integrated multiple analytical methods, including network pharmacology, metabolomics, biological approaches, and molecular docking to clarify how FZXJD suppresses NSCLC.

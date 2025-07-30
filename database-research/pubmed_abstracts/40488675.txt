@@ -1,0 +1,12 @@
+The advent of high-throughput sequencing technologies is transforming life sciences into a quantitative paradigm.
+However, existing sequencing technologies for nondirectly sequencable molecules, such as antibody-sequencing and glycan-sequencing, face certain challenges, including the complexity of antibody-oligonucleotide conjugation procedures, potential steric hindrance, and the labor-intensive chemoenzymatic labeling.
+Aptamers, as directly sequencable nucleic acids, offer exceptional specificity, broad target range, and small size, making them ideal tools for multimodal molecular profiling.
+In this work, we present Apt-seq, an aptamer-based, high-throughput platform for multimodal omics quantification at single-cell resolution.
+This integrative strategy─termed Aptomics─enables parallel profiling of cell surface proteins, glycans, and mRNA.
+The feasibility of the platform was validated using commercial cell lines, demonstrating strong concordance between sequencing data and flow cytometry results at both bulk and single-cell levels.
+When applied to complex clinical samples, Apt-seq exhibited exceptional sensitivity and enabled the precise profiling of tumor heterogeneity.
+Notably, the platform identified a subpopulation of tumor cells with elevated PTK7 surface expression, a marker of stemness.
+These findings underscore the role of PTK7 in tumor stemness and its potential as a stem-like biomarker.
+Moreover, using an aptamer targeting sialic acid, we tracked the dynamic changes in sialylation during T cell differentiation, observing an increase in sialic acid levels as resting T cells transitioned into functional T cells, followed by a subsequent decline upon maturity.
+Collectively, we have developed a new form of multiomics, termed Aptomics, which employs aptamers to enable the sequencing of molecules that are not directly sequenceable, such as proteins and glycans, etc.
+Apt-seq enables the simultaneous quantitation of both directly and nondirectly sequencable molecules, offering a versatile and scalable platform for the comprehensive quantification of molecules of life in complex biological systems and advancing quantitative science.

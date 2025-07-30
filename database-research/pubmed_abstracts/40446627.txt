@@ -1,0 +1,13 @@
+Pancreatic cancer (PanCa) is projected to become the second major cause of cancer-related mortality by 2030.
+The current diagnostic and treatment strategies offer only marginal benefits in overall survival.
+This highlights the need to discover new biomarkers and targets for the treatment of PanCa.
+Dysregulated mitochondrial ribosome biogenesis occurs in PanCa and can be utilized as a potential biomarker and molecular target for its management.
+In this study, we established MRPL3 (Mitochondrial Ribosomal Protein L3) as a potential biomarker and its role in expression of ETC (Electron Transport Chain) components.
+We employed an integrated approach combining the in silico and experimental validation.
+Our findings demonstrate that the expression of MRPL3 is upregulated during PanCa in ductal adenocarcinoma and other single cell populations of pancreas.
+Amongst various grades, the highest expression of MRPL3 was observed in grade 1 human PanCa tumors.
+MRPL3 is involved in the growth of PanCa cells and the targeted knock-down of MRPL3 leads to decrease in the expression of ETC components.
+Moreover, in silico analysis identified that MRPL3 undergoes alternative splicing that gives rise to six coding and four non-coding variants.
+The MRPL3-001 isoform arising from ENSG00000114686.8 variant was found to be the most abundant in PanCa.
+Pathway enrichment analysis showed that MRPL3 is positively associated with cell growth and proliferation while negatively associated with cell lineage commitment and differentiation.
+These results represent MRPL3 as a promising early biomarker and molecular target for PanCa which warrant further investigation for its clinical applications.

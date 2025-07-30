@@ -1,0 +1,45 @@
+Global public health concern with pandemic notion of COVID-19 was declared on January 30th, 2020 by the World Health Organization (WHO), 2020a, World Health Organization (WHO), 2020b.
+Again, an adverse situation has also been announced on 13 March 2020 for increasing the infections of COVID-19 (Kunz and Minder, 2020).
+Some common clinical manifestations of COVID-19 are fever, sputum production and shortness in breath, cough, fatigue, sore throat and headache which leads to severe cases of pneumonia.
+Though several early studies showed that the mortality rate for SARS-CoV-2 is not as high (2–3%), the latest global death rate for COVID-19 is 3.4% which indicates the increasing trends (Wu et al., 2020).
+The investigation of Chinese Center for Diseases Control and Prevention (2020) revealed that the prevalence of COVID-19 is more apparent in the people ages 50 years rather than the lower age groups (Jeong-ho et al., 2020).
+Though the species of SARS-CoV-1 and bat coronavirus shares sufficient sequence similarities with the COVID-19, the known way mechanism of infection to the host, and the death rate is quite different in case of the novel coronavirus.
+In addition, there is an evolutionary distance between SARS-CoV-1 and bat coronavirus as well as the COVID-19 (Hu et al., 2018; Wu et al., 2020; Wu 2020).
+While some natural metabolites and traditional medication may come up with comfort and take the edge off few symptoms of COVID-19, there is no proof that existing treatment procedures can effectively combat against the diseased condition (World Health Organization (WHO), 2020a, World Health Organization (WHO), 2020b).
+Reverse vaccinology approach, on the other hand, is an effective way to develop vaccine against COVID-19.
+At present, a suitable peptide vaccine to combat COVID-19 is urgently necessary that could efficiently generate enough immune response to destroy the virus.
+Complete Genomes of the COVID-19 and other coronaviruses were retrieved from the NCBI (https://www.ncbi.nlm.nih.gov/), using the keyword ‘coronavirus’ and the search option ‘nucleotide’.
+For the retrieval of the domain sequences of the stated protein sequences, InterPro database (https://www.ebi.ac.uk/interpro/) was utilized.
+Among 496 proteins (available in the NCBI database) from different strains of novel corona virus, four structural proteins, i.e. spike glycoprotein, membrane glycoprotein, envelope protein and nucleocapsid protein, were prioritized for further investigation (File S2).
+Homologous sequence sets of the chosen antigenic proteins were retrieved from the NCBI database by utilizing BLASTp tool.
+For construction of novel corona vaccine, the chosen adjuvants i.e. L7/L12 ribosomal protein, beta defensin (a 45 mer peptide) and HABA protein (M. tuberculosis, accession number: AGV15514.1) were used (Rana and Akhter, 2016).
+Several linkers such as EAAAK, GGGS, GPGPG and KK in association with PADRE sequence were incorporated to construct fruitful vaccine sequences against COVID-19.
+These 61 species of corona viruses included 7 pathogenic species (Fig. 2), which are: COVID-19 or SARS-CoV-2, SARS-CoV-1 virus, MERS virus, HCoV-HKU1, HCoV-OC43, HCoV-NL63, HCoV-229E
+COVID-19 or SARS-COV-2 formed clade with SARS-COV-1 and bat beta-coronaviruses (Fig. 2), which is consistent with the previous finding (Ceraolo and Giorgi 2020).
+Though SARS-CoV-1 belongs to the same sub-genus as the COVID-19, the bat coronaviruses belong to two different sub-genera including Hibecovirus and Nobecovirus (File S1).
+SARS-CoV-1 contains an extra domain, namely spike glycoprotein N-terminal domain (IPR032500), which is also present in some the sub-genera (Embecovirus) of beta-coronavirus, but not in COVID-19.
+One important finding in our study is that the COVID-19 candidates do not contain the domain spike glycoprotein (IPR042578), which is present in the SARS-CoV-1 (Fig. 3).
+Most of them fall within the S1 spike protein, which is 654 amino acid long in SARS-CoV-1, while 672 amino acids long in COVID-19.
+The RGD motif which is conserved within the COVID-19 is present in the vicinity of the S1 protein.
+Again, the receptor binding domain and receptor binding motif analyses disclose variations within several region between the COVID19 and SARS-CoV-1 (File S2).
+The domain-based phylogenetic analysis reflects two main divisions, where the all the novel beta-coronavirus i.e., COVID19 form clade with the SARS-CoV-1; while other beta-coronavirus fall in another clade which further divide to give rise different sub-genera.
+This clearly shows that the COVID-19 exerts specific ancestral connection to the SARS-CoV-1 in terms of spike glycoproteins.
+Interestingly, our study also revealed close relatedness of both the SARS-CoV-1 and COVID-19 to the bat beta-coronavirus that belongs to the Hibecovirus sub-genus.
+The phylogenetic study and MSA also revealed that, the functional portion of the spike glycoprotein domain and spike glycoprotein N-terminal domain might be lost from the COVID-19 during the course of evolution.
+The length of the domains for the COVID-19, SARS-CoV and MARS virus are 75, 76 and 82 amino acids, respectively.
+The average length of the COVID-19 envelope proteins is 75 amino acids long.
+Though the computational analysis of CoVID-19 envelope protein secondary structure shows 2 transmembrane domains, our domain analysis shows only one such domain in their structures.
+Unlike to earlier finding, we got that gamma-coronavirus candidate in our study shows close connection with both SARS-CoV-1 and COVID-19 in terms of envelope proteins.
+Computational analysis of secondary structures shows some variations of COVID-19 with SARS-CoV-1 and MERS virus (File S3).
+According to our domain-based phylogeny study of nucleocapsid proteins, we found the close approximation of the COVID-19 with the SARS-CoV-1, which is consistent with the findings of phylogeny of whole genome.
+Strikingly, unlike spike and membrane proteins, the closest homologs of COVID-19 are not only the SARS-COV-1 and bat coronaviruses (Sub-genus: Hibecovirus and Nobecovirus), but it also includes the MERS viruses and other proteins which is from the Merbecovirus sub-genus.
+A total 31, 24, 29 and 29 sequences of spike glycoprotein, membrane protein, envelope protein and nucleocapsid protein were retrieved from the NCBI database belonging to different strains of SARS-CoV-2.
+Among the potential SARS-CoV-2 vaccines in the pipeline, four have nucleic acid based designs, four involve non-replicating viruses or protein constructs, two contain live attenuated virus and one involves a viral vector (Pang et al. 2020), while only one, called mRNA-1273 (developed by NIAID collaboration with Moderna, Inc.), has confirmed to start phase-1 trial (NIH News Event, 2020).
+However, in this study we emphasized on a different approaches by prioritizing the advantages of different genome and proteome database using the immunoinformatic approach.
+Researchers have already considered Envelope (E) protein for vaccine candidacy against COVID-19 due to high antigenicity (Abdelmageed et al. 2020).
+Our results infer a significant level of similarities within the COVID-19 and SARS-CoV-1 which was also aligned with the previous findings (Jaimes et al., 2020; Sun et al., 2020a, Sun et al., 2020b; Wu 2020).
+The sequence similarities between the SARS-CoV, bat coronaviruses and the COVID-19 from the reported studies (Hu et al.
+Interestingly, the COVID-19 envelope proteins form clade with the Turkey coronavirus which belongs to gamma-coronavirus genus.
+Overall, the COVID-19 might go through complex adaptation strategies in order to be transmitted into the human via different animals.
+The potential B cell epitopes were generated by three different algorithms (Bepipred linear epitope prediction 2.0, Kolaskar and Tongaonkar antigenicity prediction and Emini surface accessibility prediction) from IEDB database (Table 3).
+Top putative epitopes were combined with appropriate adjuvants and linkers to construct a novel multiepitope subunit vaccine against COVID-19.

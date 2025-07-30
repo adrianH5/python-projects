@@ -1,0 +1,9 @@
+Three genetic-related models for predisposition to COVID-19 could be described: 1-Common variants in multiple loci that have weak effect through single contribution.
+2-Moderately rare variants in limited genes are expected to have strong effects, and thus be highly penetrant and even dominant trait as long as COVID-19 infection is considered.
+The concept of susceptibility to COVID-19 is getting more and more complex when gene interactions with environment factors, such as smoking, are considered (see Fig. 1
+).
+The receptor-binding domain (RBD) of the COVID-19 spike-protein shows strong interaction with human angiotensin-converting enzyme 2 (ACE2) receptor.
+Consequently, ACE2 genetic variants that could affect its gene expression, protein conformation, and protein stability are the one of most questionable underlying factors involving in genetic predisposition to COVID-19 infection [1].
+It might be a clue to the higher prevalence and severity of COVID-19 in men than in women [2].
+The immune-related genetic variants involving the prior strain of coronavirus, namely SARS-CoV, are suspected to have roles in genetic predisposition of COVID-19 infection [3], [4], since COVID-19 has 80% genetic identity to SARS-CoV [5].
+COVID-19 appears to be less severe in children [10].

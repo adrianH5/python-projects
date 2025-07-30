@@ -1,0 +1,9 @@
+How can causal models be used to quantify the fractions of risk associated with environmental and occupational exposures that would be prevented by reducing exposures by different amounts?
+This paper provides a constructive answer.
+It introduces three key metrics - Interventional Probability of Causation (IPoC), Causal Assigned Shares (CAS), and Preventable Risk Fraction (PRF) curves - to help overcome the limitations of traditional association-based metrics, such as Population Attributable Fractions (PAFs), which are sometimes misused to answer interventional causal questions.
+The tools introduced here provide scenario-specific, individual-level predictions of risk reductions grounded in mechanistic causality rather than associations.
+Using case studies of benzene exposure and acute myeloid leukemia (AML), smoking and lung cancer, and blood lead levels and mortality, we demonstrate how PRF curves quantify the potential risk-reduction benefits caused by exposure reductions at both the individual and population levels, even under uncertainty or heterogeneity.
+Monte Carlo simulations capture inter-individual variability, and scenario analyses identify practical thresholds where additional exposure reductions yield minimal added benefit.
+These methods can provide evidence-based assessments of how specific exposure reductions affect risk.
+By shifting the focus from attribution to prevention of harm, this framework can potentially advance risk assessment, policy development, and legal decision-making.
+It offers a simple, easily visualized, transparent, and scientifically rigorous approach to identifying causally effective interventions and quantifying risk-reduction benefits.

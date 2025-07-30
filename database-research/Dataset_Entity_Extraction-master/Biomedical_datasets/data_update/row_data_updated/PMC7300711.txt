@@ -1,0 +1,27 @@
+In 2020, SARS‐CoV‐2, first reported from Hubei province of China in December 2019, has become the first coronavirus to cause a pandemic.
+, 
+ Most patients with coronavirus disease 2019 (COVID‐19) present with respiratory symptoms, while 18% exhibit gastrointestinal symptoms.
+Radiologically, COVID‐19 is characterized by multifocal and peripheral ground‐glass opacities, but 2.9% of severe cases did not show any abnormalities in their lung computed tomography.
+, 
+ Complications include acute respiratory distress syndrome, arrhythmia, secondary bacterial infection, and multiorgan failure.
+, 
+ Pathologically, COVID‐19 was characterized by diffuse alveolar damage, endothelialitis interstitial lymphocyte infiltrates, and multinucleated syncytial cells in the lung, and microvascular steatosis in the liver.
+,
+The importance of diagnostic testing is well demonstrated with COVID‐19.
+Many groups have shared their in‐house real‐time reverse transcription‐polymerase chain reaction (RT‐PCR) protocol with the World Health Organization during the early period of COVID‐19, which have tremendously helped clinical microbiology laboratories around the world in the detection of SARS‐CoV‐2.
+According to an analysis by GISAID, 0.02% to 0.53% of the genomes contain mutations in the last five nucleotides of the 3′ ends of the published RT‐PCR primer regions.
+These specimens included 101 clinical specimens collected from COVID‐19 patients admitted to Queen Mary Hospital, or from COVID‐19 patients admitted to Princess Margaret Hospital for whom specimens were sent to Queen Mary Hospital for viral load testing.
+The consensus sequences of five specimens from four patients (HKU‐902a, HKU‐903a, HKU‐903b, HKU‐907b, and HKU‐908a) were previously deposited into NCBI GenBank (accession number: MT114412, MT114414, MT114415, MT114417, MT114418).
+The consensus sequences of HKU‐904a, HKU‐905a, HKU‐911a, HKU‐913a, and HKU‐915a have been deposited into NCBI GenBank (accession number: MT365028‐MT365032).
+Raw reads, after excluding human reads, have been deposited into BioProject (Bioproject ID: PRJNA627286).
+The concentration of the virus culture stock was 1.8 × 107 50% tissue culture infective doses (TCID50)/mL. Triplicates were performed for each dilution in two independent experiments.
+Nucleotide sequences were downloaded from NCBI Genbank and GISAID (Table S2).
+Specific primers and probes targeting SARS‐CoV‐2 were selected by aligning more than 7000 SARS‐CoV‐2 sequences downloaded from GISAID on 22 April 2020, other human Betacoronaviruses, and a bat SARS‐like coronavirus (Figure 1).
+Of these 101 COVID‐19 patients, SARS‐CoV‐2 was detected by at least one of nsp1, N or E gene RT‐PCR assays in 99 patients (98.0%), and 85 patients (84.2%) were detected by all three RT‐PCR assays (Table 2).
+Together with the analysis done by GISAID,
+ which showed higher mutation rate in the published N gene primers/probe region, nsp1 can serve as an alternative target for the detection of SARS‐CoV‐2.
+Shortly after the announcement of SARS‐CoV‐2 as the causative pathogen of COVID‐19, Shirato et al
+ has reported the use of a conventional nested RT‐PCR targeting nsp1 gene, but require Sanger sequencing for confirmation.
+Abstract  Severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) has caused the coronavirus disease 2019 (COVID‐19) pandemic.
+Accurate detection of SARS‐CoV‐2 using molecular assays is critical for patient management and the control of the COVID‐19 pandemic.
+Using sequence‐independent single‐primer amplification and nanopore whole‐genome sequencing, we have found that the nonstructural protein 1 (nsp1) gene, located at the 5′ end of the SARS‐CoV‐2 genome, was highly expressed in the nasopharyngeal or saliva specimens of 9 COVID‐19 patients of different clinical severity.

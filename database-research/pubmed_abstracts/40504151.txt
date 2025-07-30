@@ -1,0 +1,10 @@
+Polygenic risk scores (PRS) are essential tools for estimating individual susceptibility to complex diseases by aggregating the effects of many genetic variants.
+With the advent of whole-genome sequencing (WGS), rare and de novo variants can now be detected at scale, presenting new opportunities to enhance PRS performance.
+Additionally, regulatory mechanisms that govern gene expression play a critical role in disease manifestation, suggesting further potential for improvement.
+However, most existing PRS methods are not well-equipped to incorporate nonlinear variant effects, rare variant contributions, or regulatory context.
+To address these limitations, we developed Epi-PRS, a novel framework that leverages large language models (LLMs) to impute cell-type-specific epigenomic signals from personal diploid genotypes.
+These imputed signals act as informative intermediates between genotype and phenotype, allowing for more accurate modeling of variant impact.
+Our simulation studies demonstrate that Epi-PRS improves predictive accuracy by incorporating nonlinear relationships, rare variant effects, and regulatory information across large genomic regions.
+When applied to real data from the UK Biobank, Epi-PRS significantly outperforms existing PRS approaches in predicting risk for both breast cancer and type 2 diabetes.
+These results underscore the advantages of integrating WGS data, epigenomic context, and advanced LLMs framework to enhance both the predictive power and interpretability of PRS.
+Overall, Epi-PRS represents a promising step toward more precise and biologically informed disease risk prediction, with broad implications for advancing personalized medicine and understanding complex genetic architectures.

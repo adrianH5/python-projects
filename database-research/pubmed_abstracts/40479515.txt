@@ -1,0 +1,3 @@
+FANCM-RMI is a protein-protein interaction that maintains genome stability during DNA repair events in cancers that rely on the Alternative Lengthening of Telomeres (ALT) pathway for survival.
+We report the first valid chemical inhibitors of the FANCM-RMI interaction discovered by screening cyclic peptides via mRNA display.
+These inhibitors engage the FANCM-binding pocket of RMI1/2 with nanomolar affinity (

@@ -1,0 +1,8 @@
+The cyclic GMP-AMP synthase (cGAS)/stimulator of interferon gene (STING) pathway can respond to double-stranded DNA (dsDNA) to mediate innate immunity.
+However, activation of the cGAS/STING pathway initiates autophagy, which typically plays a negative regulatory role in the cGAS-STING pathway, largely attenuating the efficacy of antitumor immunity.
+Herein, we construct an oligonucleotide-based bioorthogonal platform to intervene in the crosstalk between the cGAS-STING pathway and autophagy, thereby achieving enhanced immunotherapy.
+In the platform, a dsDNA segment conjugated with unpaired guanosines serves as an agonist for the cGAS-STING pathway.
+The i-motif acts as a template for synthesizing palladium nanoparticles, which catalyze the synthesis of autophagy inhibitor and also function as carriers of oligonucleotides.
+Furthermore, the platform includes an aptamer for targeted delivery to cancer cells.
+In cancer cells, the platform activates the cGAS-STING pathway and disrupts autophagy, enhancing the anticancer immunity.
+This study provides a promising strategy to improve outcomes in tumor immunotherapy.

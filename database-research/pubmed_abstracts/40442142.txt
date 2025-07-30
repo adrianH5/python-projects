@@ -1,0 +1,7 @@
+Stimulator of interferon genes (STING) is a promising target for cancer immunotherapy.
+However, current development of STING agonist was limited by poor therapeutic efficacy.
+Herein, we designed potent oral STING agonists through intramolecular hydrogen bond ring mimicking strategy.
+Structure optimization identified lead compound ZSA-215 with potent cellular STING-stimulating activity.
+ZSA-215 enhanced STING signaling through promoting the phosphorylation of STING and interferon regulatory factor 3 (IRF3) and secretion of IFN-β.
+Notably, monotherapy of oral ZSA-215 achieved complete tumor regression and long-term survival of mice in MC38 colon cancer model, which is superior to MSA-2.
+Furthermore, ZSA-215 exhibited excellent metabolic and chemical stability in vitro, high oral drug exposure (AUC = 23835.0 h·ng/mL) and bioavailability (

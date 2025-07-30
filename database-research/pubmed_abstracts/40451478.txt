@@ -1,0 +1,2 @@
+Most Cluster Randomised Trials (CRTs) include fewer than 50 clusters, yet the assumption of a "large sample" is relied upon to derive the sampling distributions of treatment effects.
+We review the current simulation study literature pertaining to small sample corrections for common analytical approaches for parallel CRTs.

@@ -1,0 +1,7 @@
+Fluorescent proteins (FPs) have revolutionized spatiotemporal observations in biology.
+Yet, the design of multiplexed assays remains constrained by limited spectral characterization and palette validation.
+Although over 1,000 FPs have been catalogued, systematic resources for characterizing their use in multiplexed approaches are lacking.
+Here we present a resource and methodology for selecting and decoding FPs in multiplexed imaging experiments.
+A library of forty-four FPs was built for rapid assembly into mammalian expression vectors and transposase-mediated integration.
+Hyperspectral imaging was performed for each FP and spectral space was characterized mathematically.
+To support experimental design and data interpretation, we developed the Cosine Similarity Decoder of XFP (

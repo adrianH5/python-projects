@@ -1,0 +1,7 @@
+Fibroblast activation protein (FAP), as a molecule closely associated with the tumor microenvironment (TME), has garnered widespread attention in recent years.
+FAP is a type II transmembrane serine protease primarily expressed in cancer-associated fibroblasts (CAFs), and it plays a significant role in tumor growth, invasion, metastasis, and immune evasion processes.
+FAP is highly expressed in over 90 % of epithelial cancers, which makes it a satisfactory diagnostic marker on account of its exceptional sensitivity and specificity.
+Using radio or fluorescence-labeled FAP-specific molecular probes can materialize high-contrast tumor imaging, and thereby facilitate early detection and monitoring.
+With regard to treatment, FAP-targeting strategies like FAP enzyme activity inhibitors, FAP-specific Chimeric Antigen Receptor T-Cell (CAR-T) cells, and FAP vaccines have demonstrated tremendous potential to hinder tumor growth, lower tumor angiogenesis, and reinforce anti-tumor immunity.
+For strengthening efficacy and lessening damage to normal cells, these strategies can also be integrated with chemotherapy, radiotherapy, and immunotherapy.
+This article not only reviews the research progress of FAP in tumor diagnosis and treatment, but also explores its paramount role and potential in the tumor microenvironment.

@@ -1,0 +1,10 @@
+Since recombinant biotherapeutics were accepted in the therapeutic drug market, one of the significant challenges has been the insufficient circulatory half-life of many protein and peptide-based drugs.
+To overcome this pharmacokinetic limitation, serum albumin has been widely utilized as a molecular carrier due to its intrinsic FcRn-mediated recycling mechanism.
+Besides human drugs, there is also a significant need for extended half-lives of pet or veterinary drug therapeutics, making the development of albumin-binding domains with cross-species reactivity necessary.
+VNARs represent the antigen-binding domains of Immunoglobulin new antigen receptors (IgNARs) found in cartilaginous fish (e.g.
+sharks), which exhibit unique structural properties and hold significant potential for clinical diagnosis and treatment.
+In this study, we constructed a phage display library by immunizing the white-spotted bamboo shark with human serum albumin (HSA).
+Through multiple rounds of panning using both human and mouse serum albumins, VNAR-4A12 was successfully screened.
+Affinity tests verified that VNAR-4A12 exhibited cross-reactivity to multiple serum albumin homologues.
+Additionally, the structural basis for this cross-reactivity was confirmed, and it was demonstrated that 4A12-sfGFP exhibited prolonged exposure compared to sfGFP in vivo.
+This multispecies targeting strategy addresses critical limitations in both human and veterinary pharmaceutical development, offering new opportunities for long-term therapy.

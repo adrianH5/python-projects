@@ -1,0 +1,18 @@
+Preoperative neoadjuvant therapy is crucial for large malignant tumors or tumors that are challenging to resect.
+Consequently, an objective assessment of its therapeutic efficacy is important.
+Currently, the conventional evaluation methods for neoadjuvant therapy of tumors are mainly divided into two categories: imaging-based and pathological evaluations.
+In imaging-based evaluation, the World Health Organization criteria are straightforward; however, they exhibit some issues such as unclear criteria for minimum lesions and measurement errors.
+Moreover, although the Response Evaluation Criteria In Solid Tumors criteria have been improved, they remain insensitive to internal tumor changes and are prone to measurement errors.
+The Modified Response Evaluation Criteria In Solid Tumors criteria are specifically designed for hepatocellular carcinoma, yet they have limitations, such as difficulty defining complex tumor boundaries.
+The Positron Emission Tomography Response Criteria in Solid Tumors criteria, which integrate positron emission tomography/computed tomography, offer high accuracy but are influenced by factors related to the patient's body condition and equipment.
+The Choi criteria, which comprehensively consider tumor size and density, can be used to evaluate the efficacy of targeted therapy; however, they are characterized by cumbersome measurement procedures and strong subjectivity.
+In terms of pathological evaluation, the Huvos score determines the therapeutic effect based on the degree of tumor necrosis, which can guide subsequent treatment and prognosis.
+However, the evaluation time is fixed and subject to interference from pathological procedures.
+The Miller-Payne criteria focus on changes in the number and density of tumor cells and provide a reference for surgical decision-making.
+Nevertheless, it does not consider lymph node metastasis.
+The Residual Cancer Burden assessment criteria comprehensively quantify residual tumors by integrating multiple factors.
+Moreover, these offer a precise assessment of breast cancer and have a high value in predicting prognosis.
+However, their parameter calculation is complex and highly subjective.
+In summary, each method has its own advantages and disadvantages.
+With the advancement of scientific research, evaluation methods for neoadjuvant therapy are constantly evolving.
+In-depth research into these methods can help identify more accurate and effective evaluation strategies, providing a more scientific basis for tumor treatment and propelling the field of tumor therapy toward greater precision.

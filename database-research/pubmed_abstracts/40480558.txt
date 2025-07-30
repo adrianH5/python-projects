@@ -1,0 +1,8 @@
+Small interfering RNA targeting PD-L1 (siPD-L1) demonstrates therapeutic potential in cancer immunotherapy, but faces challenges including inefficient lysosomal escape and carrier-induced toxicity.
+To address these limitations, we developed a carrier-free nanoparticle (NP) system, TPP-Ce6@siPD-L1.
+The amino-modified triphenylphosphine (TPP) was covalently connected with Ce6 to form an amphiphilic complex, which then loaded siPD-L1 creating an efficient co-delivery system for photosensitizers (PS) and gene drugs.
+Electrostatic and hydrophobic interactions drove the spontaneous self-assembly of TPP-Ce6 and siPD-L1 into uniform spherical NPs with an average diameter of 190 ± 4.885 nm, achieving siPD-L1 encapsulation and Ce6 loading.
+These NPs exhibited excellent structural stability in serum over 5 days and rapid cellular uptake (internalization within 2 h), outperforming free siRNA.
+The mitochondrial targeting of TPP-Ce6 ensures the generation of reactive oxygen species (ROS) within tumor cell mitochondria upon light irradiation, leading to mitochondrial damage and apoptosis.
+Simultaneously, the delivery of siPD-L1 effectively silences PD-L1 expression, enhancing immune response through the cyclic GMP-AMP synthase (cGAS)-stimulator of interferon genes (STING) pathway (cGAS-STING).
+This dual-modality platform integrates photodynamic therapy (PDT) and RNA interference (RNAi), offering a novel approach for synergistic anticancer therapy.

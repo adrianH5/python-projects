@@ -1,0 +1,7 @@
+T1	Repository 71 75	NCBI
+T2	Dataset 80 86	GISAID
+T3	AccessionNumber 147 158	NC_045512.2
+T4	Dataset 642 648	GISAID
+T5	AccessionNumber 650 664	EPI_ISL_416429
+R1	hasAttr	Arg1:T1	Arg2:T3
+R2	hasAttr	Arg1:T4	Arg2:T5

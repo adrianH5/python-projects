@@ -1,0 +1,6 @@
+G-protein-coupled receptors (GPCRs) are the largest class of membrane receptors and key drug targets.
+Over the past decade, extensive evidence has shown that GPCRs signal from various intracellular compartments to generate distinct cellular and physiological responses.
+Therefore, it is critical to understand how the subcellular sites of GPCR signaling affect receptor function and pharmacology, and how the insights can be exploited to develop improved therapeutics.
+This Review highlights recent advances in GPCR signaling and spatiotemporal regulation with a focus on chemical biology approaches.
+We discuss biosensors for real-time recordings of localized GPCR responses, tools for site-selective tuning of signaling pathways, quantitative approaches to determine interactors and global cellular behaviors, reporters enabling unbiased mechanistic screening and compartment-specific ligands.
+We emphasize the need to develop and advance chemical biology tools to deepen our mechanistic understanding of compartmentalized GPCR signaling and fuel future drug discovery efforts.

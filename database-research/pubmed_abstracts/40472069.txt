@@ -1,0 +1,13 @@
+Cancer is the prime cause of mortality and morbidity globally that demands a proactive strategy for the cure.
+Despite the availability of several anticancer management approaches and drugs, the treatment remains unsatisfactory due to associated unwanted effects and resistance by cancer cells.
+Extracellular factors, such as hypoxia, nutrient distress, and pH imbalance, cause alteration in endoplasmic reticulum (ER) homeostasis, which, in turn, accumulates misfolded and unfolded proteins in the lumen of ER selectively recognized as ER-stress.
+Cancer is strongly connected with ER-stress.
+Impairment of ER homeostasis activates the cascade of signaling events called un-folded protein response (UPR).
+The primary aim of UPR is to regulate ER functioning by activating the transmembrane sensors such as protein kinase RNA such as inositol-requiring enzyme 1α (IRE1α), ER kinase (PERK), and activating transcription factor 6 (ATF6).
+ER-stress may contribute to the cytotoxic properties of herbal products.
+Natural products perform a pivotal role in malignance management due to their specific therapeutic profile and lesser side effects, compared to synthetic active pharmaceuticals.
+The natural products are rich in potent bioactive compounds with coordinated, multi-level, and multi-targeted effects that can be utilized in management of various cancers.
+In recent years, a greater variety of phytopharmaceutical derived from plants have been used alongside conventional chemotherapeutic agents to manage liver cancer.
+This has improved clinical efficacy through several mechanisms, such as reversing multiple drug resistance, enhancing immunity, suppressing angiogenesis, inducing apoptosis and inhibiting tumor growth, while decreasing side effects.
+Numerous natural compounds can either reduce or increase ER-stress in order to promote the death of cancerous cells by activating apoptotic pathways and modifying ER-stress responses.
+In this review, the anticancer activity of some potent bioactive compounds such as curcumin (CUR), guggulsterone (GUG), resveratrol (RES), garcinol (Gal), verrucarin A (Ver-A), berberine (BBR), celastrol (CeL), baicalein (BaI), capsaicin (CAP), galangin (GA), kaempferol (KaE), piperlongumine (PL), licochalcone-A (LiC-A), Rg3, and saffron (SAF) with special preference to ER modulation in liver cancer have been presented briefly.

@@ -1,0 +1,7 @@
+Mature dendritic cells release exosomes; however, the immunological role of exosomes in dendritic cell vaccine therapy remains unclear.
+We examined the immunogenicity of neoantigen peptide-pulsed dendritic cell-derived exosomes (Neo-P DEX) and investigated their role in vaccine therapy.
+The quality of DEX derived from dendritic cell cultures was confirmed via electron microscopy, western blotting, flow cytometry, and CD63 ELISA.
+When DEX released from neoantigen-pulsed DCs was applied to monocytes, they showed dendritic cell-like properties such as surface antigen expression.
+Furthermore, monocytes receiving Neo-P DEX activated neoantigen-reactive T lymphocytes.
+Fluorescence-activated cell sorting (FACS) analysis showed that plasma exosomes after neoantigen-pulsed DC vaccine may contain more DEX compared to before the vaccine, suggesting that DEX released after DC vaccination may be involved in the amplification of tumor-specific immune responses by translocating to monocytes in the patient body and transforming them into antigen-presenting dendritic cells.
+This study suggests that dendritic cell exosomes may act as endogenous neoantigen vaccines or immune amplifiers.

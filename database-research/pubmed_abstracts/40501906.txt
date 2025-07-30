@@ -1,0 +1,12 @@
+Alternative Lengthening of Telomeres (ALT) is a telomerase-independent telomere maintenance mechanism that enables cancer cells to gain unlimited replicative capacity.
+ALT relies on recombination-mediated telomere elongation and is promoted by telomeric replication stress.
+However, ALT requires strict regulation, as excessive replication stress or recombination are cytotoxic.
+Central to ALT is the RecQ helicase BLM, which regulates telomeric replication stress and promotes telomere recombination and DNA synthesis.
+Despite its key role in the ALT pathway, BLM must be tightly regulated to prevent deleterious outcomes.
+Here, we identify SLX4IP as a key suppressor of BLM-driven replication stress at ALT telomeres.
+Loss of SLX4IP in ALT-positive cells leads to BLM-dependent telomeric replication stress and impaired replication fork progression.
+Mechanistically, SLX4IP limits the unwinding of unligated Okazaki fragments by BLM on the lagging strand during telomere replication.
+This reduces the formation of toxic 5' DNA flaps and prevents hyperactivation of ATR signalling and deleterious recombination levels.
+We also uncover a synthetic lethal interaction between SLX4IP and FANCM, an ATPase/translocase that is a known regulator of BLM at telomeric replication forks in ALT cells.
+We demonstrate that SLX4IP and FANCM act in parallel to restrain BLM activity, thereby maintaining the balance of replication stress and recombination that is necessary for productive ALT.
+These findings reveal a vulnerability in ALT-positive cancers lacking SLX4IP and establish SLX4IP as a potential biomarker for therapeutic strategies targeting FANCM.

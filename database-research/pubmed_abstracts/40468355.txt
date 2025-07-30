@@ -1,0 +1,3 @@
+Gastrointestinal (GI) cancers are among the most prevalent and lethal malignancies worldwide.
+Early, non-invasive detection is essential for timely intervention and improved survival.
+To address this clinical need, we developed GutSeer, a blood-based assay combining DNA methylation and fragmentomics for multi-GI cancer detection.

@@ -1,0 +1,9 @@
+Dietary restriction (DR) is recognized as a health-promoting, non-pharmacological intervention with demonstrated inhibitory effects on the initiation and progression of cancer.
+The molecular mechanisms underpinning DR's anticancer activity are pivotal, with documented evidence of its suppressive role across a spectrum of cancers.
+Glioblastoma multiforme (GBM) represents an aggressively malignant intracranial neoplasm, and despite incremental therapeutic and managerial advancements, the clinical outcomes remain suboptimal.
+Consequently, the discovery of novel molecular markers to augment diagnostic accuracy and therapeutic efficacy is imperative.
+Employing an array of bioinformatics strategies, we conducted an exhaustive analysis of molecules associated with DR, culminating in the identification of CA3 as a novel molecular marker for GBM.
+We evaluated its diagnostic and therapeutic potential within GBM.
+Our data indicate that the DR-associated molecule CA3 may exhibit correlations with multiple GBM phenotypes, including the immune contexture, with particular emphasis on the tumor's invasive and migratory capacities.
+Subsequent inquiries confirmed that modulating CA3 expression can effectively curb the genesis and progression of GBM.
+Our research substantiates that DR can mitigate the onset and development of GBM via the gene CA3, thereby validating a novel GBM marker and proposing a non-pharmacological interventional approach for this life-threatening condition.

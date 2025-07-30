@@ -1,0 +1,3 @@
+Detection of protein profiling on exosomes exhibits great promise for early non-invasive and accurate diagnosis of tumor in clinical diagnostics.
+However, it still faces multiple challenges, such as expensive instruments requirement and weak specificity by single biomarker.
+Herein, based on a dual-recognition strategy, a ternary hybrid of a trigger DNA (TDNA), EpCAM aptamer, and CD63 aptamer was used to capture A549 cells-derived exosomes to release TDNA, which initiated the trans-cleavage activity of CRISPR/Cas12a to nonspecifically cleave single-stranded DNA (ssNDA) and then resulted in the isolating of ssDNA linked nanozyme of Zr/Fe-CeO

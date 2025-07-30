@@ -1,0 +1,4 @@
+T1	Dataset 714 720	GISAID
+T2	URL 731 754	https://www.gisaid.org/
+T3	Dataset 967 973	GISAID
+R1	hasAttr	Arg1:T1	Arg2:T2

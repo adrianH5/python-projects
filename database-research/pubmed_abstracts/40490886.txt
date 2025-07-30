@@ -1,0 +1,9 @@
+Population-Based Cancer Registries (PBCRs) play a fundamental role in cancer control.
+They collect data to compile information on the occurrence, extent, and outcome of cancer in geographically defined populations.
+Whilst the basic reporting on cancer incidence and survival by cancer type is extremely useful, other prognostic factors including stage, biomarkers, comorbidities, treatment, and socio-economic parameters are crucial to evaluate, understand, and ultimately reduce the variation of outcomes observed in different populations.
+To explore current data collection practices of the PBCRs worldwide and comprehend their challenges and future directions, we conducted a web-based survey in collaboration with the Global Initiative for Cancer Registry Development (GICR) led by the International Agency for Research on Cancer (IARC), the International Association of Cancer Registries (IACR), and the North American Association of Central Cancer Registries (NAACCR).
+Of the 268 invited PBCRs, 141 PBCRs responded to our survey.
+Although almost all PBCRs reported collecting the basic variables for each cancer (incidence date, basis of diagnosis, topography, morphology and tumour behaviour), fewer collect date of death, stage, treatment, biomarkers, and socio-economic parameters, this issue being more pronounced in LMIC.
+Most PBCRs confirmed reporting on cancer incidence, but only 60% publish survival results.
+Other outcomes such as recurrence and patient-reported outcome measures were rarely available.
+There is a clear need for development and sustained support to maximize the PBCRs' ability to collect data and/or expand coverage area, ideally through significant investment in legislation, financial, human, and technological resources to secure and optimize their potential in cancer control.

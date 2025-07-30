@@ -1,0 +1,10 @@
+In vitro anticancer and antimicrobial activities of 24 pyridine thiosemicarbazone (PTSC) derivatives (3a-3x), synthesized via a two-step process starting from hydrazine hydrate and carbon disulfide, have demonstrated promising results.
+Five compounds 3 g, 3 h, 3v, 3w, and 3x exhibited significant anticancer activity at a concentration of 10 µM against several cancer cell lines, including leukemia (CCRF-CEM and MOLT-4), melanoma (SK-MEL-2 and SK-MEL-5), and breast cancer (MDA-MB-468), with growth percentage values ranging from -11.61% to -75.49%.
+Among these, compound 3w displayed exceptional anticancer efficacy against the renal cancer cell line UO-31, with a GI₅₀ value of 0.57 µM, while showing no cytotoxicity toward normal cells (lethal concentration 50% > 100 µM).
+Further in vitro evaluations using ovarian (IGROV1), colon (HCC-2998), and melanoma (MALME-3 M) cancer cell lines revealed that compounds 3 g, 3 h, and 3w exhibited GI₅₀ values ranging from 2.00 to 4.89 µM, supporting their cytotoxic potential.
+Notably, compounds 3 g, 3 h, 3w, and 3x were found to be more potent than the reference drug, Sunitinib.
+These findings highlight the therapeutic potential of PTSC derivatives and underscore their promise as lead compounds in anticancer drug development.
+Additionally, all PTSC derivatives were evaluated for antimicrobial efficacy against five different Gram-positive and Gram-negative bacterial strains and two fungal pathogens at a concentration of 32 µg/mL.
+Among them, compound 3q exhibited the highest growth inhibition (GI) of 97.63% against Acinetobacter baumannii, without exhibiting any toxicity toward human embryonic kidney (HEK-293) cells and human red blood cells at concentrations ranging from 32 to 0.25 µg/mL.
+Furthermore, compounds 3o, 3k, and 3x demonstrated in vitro GI percentages of 53.24%, 77.67%, and 95.77%, respectively, against Candida albicans.
+These results support the potential of PTSC derivatives as multifunctional therapeutic agents with both anticancer and antimicrobial properties.

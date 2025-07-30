@@ -1,0 +1,2 @@
+Accurate risk stratification in human epidermal growth factor receptor 2-positive surgically resectable advanced gastric cancer (HER2-p SRAGC) can strengthen monitoring for high-risk patients, allowing timely HER2-specific treatment and potentially improving prognosis.
+Therefore, we aimed to develop a CT radiomics model for predicting outcomes in HER2-p SRAGC and compare it with the 8th edition TNM staging system.

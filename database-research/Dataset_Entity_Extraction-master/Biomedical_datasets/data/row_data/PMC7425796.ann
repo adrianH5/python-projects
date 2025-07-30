@@ -1,0 +1,83 @@
+T1	Repository 727 757	Virus Pathogen Resource (ViPR)
+T2	Repository 777 781	ViPR
+T3	Repository 1020 1024	ViPR
+T4	URL 1035 1059	https://www.viprbrc.org/
+T5	Repository 1241 1245	ViPR
+T6	Repository 1413 1417	ViPR
+T7	Repository 1660 1664	ViPR
+T8	Repository 1763 1770	GenBank
+T9	AccessionNumber 1817 1828	NC_045512.2
+T10	URL 1830 1876	https://www.ncbi.nlm.nih.gov/nuccore/NC_045512
+T11	Repository 2022 2029	UniProt
+T12	AccessionNumber 2031 2037	P0DTD2
+T13	URL 2039 2084	https://www.uniprot.org/proteomes/UP000464024
+T14	Repository 2187 2191	ViPR
+T15	Repository 2328 2333	PRIDE
+T16	Creator 2346 2360	Bojkova et al.
+T17	AccessionNumber 2367 2376	PXD017710
+T18	URL 2378 2432	https://www.ebi.ac.uk/pride/archive/projects/PXD017710
+T19	Creator 2434 2452	Bezstarosti et al.
+T20	AccessionNumber 2459 2468	PXD018760
+T21	URL 2470 2524	https://www.ebi.ac.uk/pride/archive/projects/PXD018760
+T22	Creator 2526 2541	Davidson et al.
+T23	AccessionNumber 2548 2557	PXD018241
+T24	URL 2559 2613	https://www.ebi.ac.uk/pride/archive/projects/PXD018241
+T25	Creator 2637 2651	Bojkova et al.
+T26	Repository 2914 2923	UniProtKB
+T27	Repository 3128 3137	UniProtKB
+T28	Repository 3301 3305	ViPR
+T29	Repository 3537 3541	ViPR
+T30	Repository 4146 4150	ViPR
+T31	Repository 4284 4288	ViPR
+T32	Repository 5043 5047	ViPR
+T33	Repository 7803 7855	Virus Pathogen Database and Analysis Resource (ViPR)
+T34	Repository 7990 7994	ViPR
+T35	Repository 8298 8305	GenBank
+T36	AccessionNumber 8318 8329	NC_045512.2
+T37	URL 8331 8377	https://www.ncbi.nlm.nih.gov/nuccore/NC_045512
+T38	Repository 8406 8413	UniProt
+T39	AccessionNumber 8415 8421	P0DTD2
+T40	URL 8423 8468	https://www.uniprot.org/proteomes/UP000464024
+T41	Repository 8526 8531	PRIDE
+T42	Creator 8544 8558	Bojkova et al.
+T43	AccessionNumber 8565 8574	PXD017710
+T44	URL 8576 8630	https://www.ebi.ac.uk/pride/archive/projects/PXD017710
+T45	Creator 8632 8650	Bezstarosti et al.
+T46	AccessionNumber 8657 8666	PXD018760
+T47	URL 8668 8722	https://www.ebi.ac.uk/pride/archive/projects/PXD018760
+T48	Creator 8724 8739	Davidson et al.
+T49	AccessionNumber 8746 8755	PXD018241
+T50	URL 8757 8811	https://www.ebi.ac.uk/pride/archive/projects/PXD018241
+R1	hasAttr	Arg1:T3	Arg2:T4
+R2	hasAttr	Arg1:T8	Arg2:T9
+R3	hasAttr	Arg1:T8	Arg2:T10
+R4	hasAttr	Arg1:T11	Arg2:T12
+R5	hasAttr	Arg1:T11	Arg2:T13
+R6	hasAttr	Arg1:T15	Arg2:T17
+R7	hasAttr	Arg1:T15	Arg2:T18
+R8	hasAttr	Arg1:T15	Arg2:T20
+R9	hasAttr	Arg1:T15	Arg2:T21
+R10	hasAttr	Arg1:T15	Arg2:T23
+R11	hasAttr	Arg1:T15	Arg2:T24
+R12	hasAttr	Arg1:T16	Arg2:T17
+R13	hasAttr	Arg1:T16	Arg2:T18
+R14	hasAttr	Arg1:T19	Arg2:T20
+R15	hasAttr	Arg1:T19	Arg2:T21
+R16	hasAttr	Arg1:T22	Arg2:T23
+R17	hasAttr	Arg1:T22	Arg2:T24
+R18	hasAttr	Arg1:T35	Arg2:T36
+R19	hasAttr	Arg1:T35	Arg2:T37
+R20	hasAttr	Arg1:T38	Arg2:T39
+R21	hasAttr	Arg1:T38	Arg2:T40
+R22	hasAttr	Arg1:T41	Arg2:T43
+R23	hasAttr	Arg1:T41	Arg2:T44
+R24	hasAttr	Arg1:T41	Arg2:T46
+R25	hasAttr	Arg1:T41	Arg2:T47
+R26	hasAttr	Arg1:T41	Arg2:T49
+R27	hasAttr	Arg1:T41	Arg2:T50
+R28	hasAttr	Arg1:T42	Arg2:T43
+R29	hasAttr	Arg1:T42	Arg2:T44
+R30	hasAttr	Arg1:T45	Arg2:T46
+R31	hasAttr	Arg1:T45	Arg2:T47
+R32	hasAttr	Arg1:T48	Arg2:T49
+R33	hasAttr	Arg1:T48	Arg2:T50

@@ -1,0 +1,9 @@
+Circular RNAs (circRNAs) are small noncoding RNAs with covalently closed loop structures, offering high stability and resistance to exonuclease degradation-traits that make them promising for diagnostic and therapeutic use.
+CircRNAs participate in diverse cellular processes, including acting as microRNA (miRNA) sponges, modulating transcription, binding RNA-binding proteins (RBPs), regulating translation, and influencing immune responses.
+Emerging evidence links circRNAs to viral infections, such as HBV, HCV, influenza A virus, and EBV, where altered circRNA expression affects viral replication, immune evasion, and host responses via the circRNA/miRNA/mRNA axis.
+This review highlights the diagnostic and therapeutic potential of circRNAs in viral infections.
+We examine their roles in viral pathogenesis, focusing on their mechanisms, regulatory networks, and interactions with host and viral components.
+CircRNAs show differential expression in viral versus non-viral conditions, making them promising biomarkers for early diagnosis and disease stratification.
+They may also support vaccine development or serve as tools in antiviral gene therapies.
+Despite their promise, challenges persist-such as optimizing in vitro synthesis, improving delivery (e.g., lipid nanoparticles), and minimizing immunogenicity and off-target effects.
+Continued research is essential to refine delivery methods and validate circRNA-based strategies in clinical models.

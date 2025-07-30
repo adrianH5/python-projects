@@ -1,0 +1,8 @@
+Single-cell techniques allow concurrent study of gene activity and T cell receptor (TCR) sequences, identifying connections between TCR structure and cell traits.
+Expanding on our CoNGA software, we present a "metaCoNGA" analysis of 6 million T cells from 91 diverse studies, mapping TCR sequence similarity across tissues and diseases.
+This approach exposes shared TCR features within specific T cell subsets, including those associated with infection, cancer, and autoimmunity.
+We introduce a method to identify T cell groups with similar gene expression and biased TCR amino acid composition, providing a systematic framework for classifying diverse unconventional T cells, including KIR+ CD8+ T cells, CD4+ regulatory T cells, and subsets of NKT and MAIT cells.
+A new TCR clustering approach identifies thousands of convergent TCR sequence clusters hypothesized to target shared antigens.
+These clusters show coherent gene expression, highlighting the role of antigen exposure in shaping T cell behavior.
+Finally, we provide a tool for users to merge new data with this resource and rapidly identify T cell features in their data sets.
+This resource empowers investigations into the complex relationship between TCR sequence and T cell function in human health.

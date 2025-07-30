@@ -1,0 +1,5 @@
+Recently, we reported that the SARS-CoV-2 nucleocapsid (N) protein triggers DNA damage by inducing autophagic degradation of RNAi components (Dicer and XPO5) and splicing factors (SRSF3 and hnRNPA3).
+In this study, we found that the SARS-CoV-2 N protein synergizes with chemotherapeutics to induce DNA damage and activate the cGAS-STING pathway in NSCLC cells.
+Moreover, the SARS-CoV-2 N protein acts synergistically with chemotherapeutics to suppress the proliferation and colony formation of NSCLC cells.
+Finally, we demonstrated that the SARS-CoV-2 N protein enhances the antitumor effects of etoposide in xenograft tumor mouse model.
+These findings reveal a novel antitumor mechanism of the SARS-CoV-2 N protein, positioning it as a potential therapeutic agent for lung cancer patients.

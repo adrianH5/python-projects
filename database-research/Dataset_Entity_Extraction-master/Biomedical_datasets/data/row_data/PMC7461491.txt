@@ -1,0 +1,9 @@
+COVID‐19 is a severe acute respiratory syndrome caused by SARS‐CoV‐2 that affected in the last few months more than 12 million individuals around the world (https://covid19.who.int/).
+A recent study by Ellinghaus et al, investigating a large cohort of COVID‐19 patients from Italy and Spain, using a genome‐wide association study approach, did not find any significant evidence of HLA involvement.
+Reads were analyzed using the HLA TypeStream Visual Software (One Lambda), ver. 1.3, updated to the IPD‐IMGT/HLA last database release, 3.40.0.
+In Table 2, we also show the HLA alleles distribution of the 99 COVID‐19 patients.
+The increased frequencies that we observed for DRB1*15:01 and DQB1*06:02, in strong linkage disequilibrium with each other, in the 99 severe affected COVID‐19 Italian patients were not in line with the results obtained on a larger survey studied by Ellinghaus et al
+ that did not show any association between HLA and COVID‐19, but confirmed those published by Kachuri et al
+ identifying these two alleles among seven HLA susceptibility alleles.
+With the aim to individuate alleles that may reflect a higher susceptibility to the disease, in the present study we analyzed the HLA allele frequency distribution in a group of 99 Italian patients affected by a severe or extremely severe form of COVID‐19.
+The increased frequencies observed may contribute to identify potential markers of susceptibility to the disease, although controversial results on the role of single HLA alleles in COVID‐19 patients have been recently reported.

@@ -1,0 +1,7 @@
+B-cell receptor (BCR) signaling plays an important role in the pathogenesis of mantle cell lymphoma (MCL), but the detailed mechanisms are not fully understood.
+In this study, through a genome-wide loss-of-function screen, we identify carcinoembryonic antigen-related cell adhesion molecule 1 (CEACAM1) as an essential factor in a subset of MCL tumors.
+Our signal transduction studies reveal that CEACAM1 plays a critical role in BCR activation through involvement in two dynamic processes.
+First, following BCR engagement, CEACAM1 co-localizes to the membrane microdomains (lipid rafts) by anchoring to the F-actin cytoskeleton through the adaptor protein filamin A.
+Second, CEACAM1 recruits and increases the abundance of SYK in the BCR complex leading to BCR activation.
+These activities of CEACAM1 require its cytoplasmic tail and the N-terminal ectodomain.
+Considering that previous studies have extensively characterized CEACAM1 as an ITIM-bearing inhibitory receptor, our findings regarding its activating role are both surprising and context-dependent, which may have implications for BCR-targeting therapies.

@@ -1,0 +1,6 @@
+The aging of mammalian ovary is accompanied by an increase in tissue fibrosis and heightened inflammation.
+Myeloid cells, including macrophages, monocytes, dendritic cells, and neutrophils, play pivotal roles in shaping the ovarian tissue microenvironment and regulating inflammatory responses.
+However, a comprehensive understanding of the roles of these cells in the ovarian aging process is lacking.
+To bridge this knowledge gap, we utilized single-cell RNA sequencing (scRNAseq) and flow cytometry analysis to functionally characterize CD45+ CD11b+ myeloid cell populations in young (3 months old) and aged (14-17 months old) murine ovaries.
+Our dataset unveiled the presence of five ovarian macrophage subsets, including a Cx3cr1lowCd81hi subset unique to the aged murine ovary.
+Most notably, our data revealed significant alterations in ANNEXIN and TGFβ signaling within aged ovarian myeloid cells, which suggest a novel mechanism contributing to the onset and progression of aging-associated inflammation and fibrosis in the ovarian tissue.

@@ -1,0 +1,13 @@
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the cause of COVID-19, a major pandemic that threatens millions of lives and the global economy (1).
+It is also crucial for protecting populations of wildlife species in native habitats and under human care, particularly nonhuman primates, which may be susceptible to COVID-19 (10).
+We drew on the rapidly growing database of annotated vertebrate genomes, including new genomes produced by the Genomes 10K-affiliated Bat1K Consortium, Zoonomia, and Vertebrate Genomes Project, and other sources (30, 31).
+Nonetheless, our predictions provide a useful starting point for the selection of appropriate animal models for COVID-19 research and identification of species that may be at risk for human-to-animal or animal-to-animal transmissions of SARS-CoV-2.
+Of the 19 catarrhine primates analyzed, 18/19 scored very high for binding of their ACE2 to SARS-CoV-2 S and one scored high (the Angola colobus); the 18 species scoring very high had 25/25 binding residues identical to human ACE2, including rhesus macaques, which are known to be infected by SARS-CoV-2 and develop COVID-19-like clinical symptoms (3, 43).
+Chiroptera represents a clade of mammals that are of high interest in COVID-19 research because several bat species are known to harbor coronaviruses, including those most closely related to SARS-CoV-2 (1).
+Presently, there is a tremendous need for animal models to study SARS-CoV-2 infection and pathogenesis, as the only species currently known to be infected and show similar symptoms of COVID-19 is rhesus macaque.
+The sources and accession numbers for the genomes or proteins retrieved from NCBI are listed in Dataset S1.
+The novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the cause of COVID-19, a major pandemic that threatens millions of human lives and the global economy.
+This can assist the identification of intermediate hosts for SARS-CoV-2 and hence reduce the opportunity for a future outbreak of COVID-19.
+The novel coronavirus severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the cause of COVID-19.
+Here, we utilized a unique dataset of ACE2 sequences from 410 vertebrate species, including 252 mammals, to study the conservation of ACE2 and its potential to be used as a receptor by SARS-CoV-2.
+Our results, if confirmed by additional experimental data, may lead to the identification of intermediate host species for SARS-CoV-2, guide the selection of animal models of COVID-19, and assist the conservation of animals both in native habitats and in human care.

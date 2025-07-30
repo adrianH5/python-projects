@@ -1,0 +1,10 @@
+In this work, a biosensing platform for miR-210 which is a potent biomarker for the early diagnosis of breast cancer was innovatively designed based on CRISPR/Cas12a by integrating strand displacement amplification and rolling circle transcription.
+The target opened the hairpin through toe-hold, allowing polymerization, incision and extension to occur which involved SDA.
+This process produced two chains: cycle chain and trigger.
+The cycle chain then complemented to the loop of the hairpin to open it, repeating the above process to generate additional trigger circularly.
+The trigger was bound to the notched dumbbell through base complementary pairing and then the dumbbell became intact by T4 DNA ligase.
+The closed dumbbell strand served as the initiator of transcription and the template for crRNA under the influence of T7 enzyme, and was responsible for the transcription of numerous crRNA sequences in a process called RCT.
+These sequences subsequently bound to Cas12a proteins, forming a binary complex.
+In the transcriptional state, the dumbbell was in an unwinding configuration, with the stem portion served as activator binding to the binary complex to facilitate trans-cleavage activity of Cas12a, which resulted in cleavage of the F-Q, generating fluorescent signals.
+The above platform could sensitively detect miR-210 with a detection limit of 6.67 fM.
+The platform has the advantages of being easy to use and flexible to sequence according to different target, making it feasible to detect different biomarkers in clinic settings.

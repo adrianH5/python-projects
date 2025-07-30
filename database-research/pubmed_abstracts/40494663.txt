@@ -1,0 +1,6 @@
+Cancer is a complex disease that progresses through Darwinian evolution in cells with genetic mutations, leading to the development of multiple distinct cell populations within tumors, a process known as clonal evolution.
+While computational methods aid in the analysis of clonal evolution in cancer samples using genetic sequencing data, accurately identifying the clonal structure of tumor samples remains one of the biggest challenges in Cancer Genomics.
+Several computational methods for analyzing clonal evolution in cancer have been developed in recent years.
+However, the algorithms of these computational methods are complex and often described at a high level of abstraction.
+This paper provides a detailed explanation of some computational methods for clonal evolution analysis from a computational perspective, aiding in understanding their mechanisms.
+Additionally, some methods have been implemented on an online platform, enabling researchers to easily run and analyze the algorithms, as well as adapt these methods to their specific needs.

@@ -1,0 +1,9 @@
+Ultrasound-guided transverse thoracic plane (TTP) block has been shown to be highly effective in relieving postoperative pain in a variety of surgeries involving the anterior chest wall.
+Accurate identification of the target structure on ultrasound images is key to the successful implementation of TTP block.
+Nevertheless, the complexity of anatomical structures in the targeted blockade area coupled with the potential for adverse clinical incidents presents considerable challenges, particularly for anesthesiologists who are less experienced.
+This study applied deep learning methods to TTP block and developed a deep learning model to achieve real-time region segmentation in ultrasound to assist doctors in the accurate identification of the target nerve.
+Using 2329 images from 155 patients, we successfully segmented key structures associated with TTP areas and nerve blocks, including the transversus thoracis muscle, lungs, and bones.
+The achieved IoU (Intersection over Union) scores are 0.7272, 0.9736, and 0.8244 in that order.
+Recall metrics were 0.8305, 0.9896, and 0.9336 respectively, whilst Dice coefficients reached 0.8421, 0.9866, and 0.9037, particularly with an accuracy surpassing 97% in the identification of perilous lung regions.
+The real-time segmentation frame rate of the model for ultrasound video was as high as 42.7 fps, thus meeting the exigencies of performing nerve blocks under real-time ultrasound guidance in clinical practice.
+This study introduces TTP-Unet, a deep learning model specifically designed for TTP block, capable of automatically identifying crucial anatomical structures within ultrasound images of TTP block, thereby offering a practicable solution to attenuate the clinical difficulty associated with TTP block technique.

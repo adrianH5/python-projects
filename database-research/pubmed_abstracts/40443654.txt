@@ -1,0 +1,11 @@
+Over the past years, cancer research has transitioned from a 'cancer cell-centered' focus to a more integrative view of tumors as dynamic ecosystems.
+This paradigm shift emphasizes the tumor microenvironment (TME) as a complex network of interacting cellular and acellular components, where tumor cells orchestrate a supportive environment that facilitates progression, metastasis, and immune evasion.
+Understanding the spatial organization of these components within the TME is crucial, as the positioning and interactions between cancerous and non-cancerous cells significantly influence tumor behavior and therapy response.
+Spatial proteomics has emerged as a powerful tool for TME analysis, enabling the detection and quantification of proteins within intact tissue architecture at subcellular resolution.
+This approach provides insights into cellular interactions, signaling pathways, and functional states, facilitating the discovery of novel biomarkers and therapeutic targets linked to specific tissue regions and cellular contexts.
+Translating spatial proteomics into clinical practice requires overcoming challenges related to technology refinement, standardization of workflows, and adaptation to routine pathology settings.
+Melanoma is an aggressive, highly immunogenic malignancy with variable response rates to existing immunotherapies.
+Given that over half of patients treated with immune checkpoint inhibitors (ICIs) fail to respond or experience disease progression, the identification of novel biomarkers and therapeutic targets to enhance current therapies is urgently required.
+Spatial imaging technologies are increasingly being utilized to dissect the complex interplay between stroma, melanoma, and immune cell types within the TME to address this need.
+This review examines key spatial proteomics methods, their applications in melanoma biology, and associated image analysis pipelines.
+We highlight the current limitations, and future directions, emphasizing the potential for clinical translation to guide personalized treatment strategies, inform prognosis, and predict therapeutic response.

@@ -1,0 +1,9 @@
+The meta-analysis aimed to investigate the effectiveness of psychosocial interventions applied to parents of children, adolescents, and young adults undergoing cancer treatment.
+PubMed, Cochrane Library, MEDLINE, ProQuest, Science Direct, Scopus, and Web of Science were searched to identify eligible randomized controlled trials from January 1, 2013 and April 2024.
+Search was limited to "parents of children, adolescent, and young adults" and "psychosocial interventions."
+Of 9327 articles, 21 articles met the inclusion criteria.
+The revised Cochrane risk-of-bias tool for randomized trials (Rob2) was used.
+In all, 1926 parents of children with cancer were included.
+PROSPERO number is CRD42023446776.
+Psychosocial interventions demonstrated significant effects across various outcomes based on Hedge's g. They showed a moderate effect on anxiety (g = -0.538, 95% CI: [-0.941, -0.135]), a large effect on depression (g = -0.834, 95% CI: [-1.328, -0.339]), a large effect on the quality of life (g = 1.375, 95% CI: [0.367, 2.382], and a moderate effect on stress (g = -0.798, 95% CI: [-1.393, -0.203]).
+Consequently, psychosocial interventions applied to parents have significant effects on reducing anxiety, depression, and stress and improving the quality of life.

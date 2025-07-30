@@ -1,0 +1,6 @@
+Cells rely on substrate adhesion to activate diverse signaling pathways essential for proliferation and survival.
+In the absence of proper adhesion to extracellular matrix, cells undergo anoikis, a form of programmed cell death.
+Poorly attached cells often exhibit rounded morphology and form dynamic protrusions called blebs.
+While the role of blebs in amoeboid migration is well-documented, recent studies have highlighted their role in anoikis resistance.
+However, little is known about whether the most abundant membrane components-phospholipids- function in blebs-facilitated anoikis resistance.
+Here, we report an enrichment of PI(3,4,5)P

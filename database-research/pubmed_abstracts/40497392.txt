@@ -1,0 +1,10 @@
+Inorganic mineral/collagen composite materials are one of the most attractive implant materials for bone repair engineering.
+Mineralized collagen composites have a similar hierarchical structure and biological activity to natural bone; however, the mechanism of the mineralization process is complex, and the properties of mineralized materials are difficult to control during the preparation process.
+Currently, this is a significant challenge in coarse-grained organic-inorganic systems.
+Thus, a coarse-grained/all-atom multiscale model was employed to investigate the biomineralization process.
+Based on the free energy of the all-atom ion association, we obtained the coupling parameters of the multiscale model, which were similar to those of the all-atom model.
+In this multiscale simulation model, coarse-grained models were used for type I collagen protein and water molecules and all-atom models for phosphate and calcium ions.
+The coarse-grained/all-atom multiscale model of mineralized collagen identified the same nucleation site and calcium phosphate aggregation process as the all-atom model.
+Additionally, the calcium phosphate clusters still retained site-selectivity around the coarse-grained collagen surface during the nucleation process.
+At the same time, the clusters tended to have a certain crystal structure morphology during the long-time simulation.
+This new strategy will help accelerate biomaterial design and optimization.

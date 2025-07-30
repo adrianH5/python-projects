@@ -1,0 +1,8 @@
+Triple-negative breast cancer (TNBC) continues to be a very aggressive subtype with few targeted therapy options.
+Antibody-drug conjugates (ADCs) and poly (ADP-ribose) polymerase inhibitors (PARPis) have been promising therapeutic strategies, each of which targets different vulnerabilities in TNBC cells.
+ADCs like sacituzumab govitecan (SG) and datopotamab deruxtecan (Dato-DXd) target cytotoxic payloads with specificity, whereas PARPis like olaparib, rucaparib, niraparib, and talazoparib cause synthetic lethality in homologous recombination repair (HRR)-deficient tumors.
+Recent clinical trials of SEASTAR and PETRA have evaluated ADC-PARPi combinations to enhance anti-tumor activity through DNA damage induction with the prevention of its repair.
+Early data demonstrate enhanced therapeutic outcomes, especially in BRCA-mutated and HRD-positive TNBC.
+Myelosuppression and adaptation of dosing regimens remain challenges to be addressed.
+Future directions include biomarker-driven patient selection, combination with immune checkpoint inhibitors, and advancement in next-generation ADCs.
+The synergistic potential of ADC-PARPi combinations provides a new avenue for overcoming TNBC resistance, enhancing treatment outcomes, and widening therapeutic strategies for this challenging disease.

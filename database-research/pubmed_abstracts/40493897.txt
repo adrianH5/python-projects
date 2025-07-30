@@ -1,0 +1,16 @@
+Cholangiocarcinoma (CCA) is a life-threatening malignancy, and there is an urgent need for new biomarkers to improve the prognosis of patients.
+The expression of ELF3 in CCA tumor and non-tumor tissues was examined in two cohorts.
+ELF3 expression and the methylation level of its promoter in CCA patients with various clinicopathological features were analyzed using the UALCAN website.
+Co-expressed genes significantly associated with ELF3 were screened using the LinkedOmics website.
+A protein-protein interaction (PPI) network for these co-expressed genes was constructed using the STRING website.
+Core co-expressed genes correlated with ELF3 were identified through random walk with restart (RWR) analysis.
+GeneMANIA was utilized to analyze the major biological functions within networks of kinases and TFs mediated by ELF3.
+Potential targeted drugs for CCA treatment were screened using the Connectivity Map (CMAP) database.
+ELF3 expression in CCA tissue was significantly increased compared with that in normal tissue.
+Among CCA patients with distinct clinicopathological features, ELF3 expression was notably elevated in tumor tissues compared to normal tissue, while ELF3 promoter's methylation levels in tumor tissue were significantly decreased.
+In total, 307 co-expressed genes, evidently relevant to ELF3, were identified through LinkedOmics analysis.
+RWR analysis revealed 61 co-expressed genes closely associated with ELF3.
+Enrichment analysis indicated that these genes control cell junctions and epithelial cell differentiation.
+GeneMANIA analysis uncovered that ELF3-involved regulatory networks of kinases and TFs were primarily linked to the regulation of immune cells and cell adhesion.
+CMAP analysis identified 10 potential small molecules for CCA treatment including 4 existing drugs used for other diseases.
+ELF3 shows promise as a diagnostic marker for CCA, and the drugs we have identified hold great potential for the treatment of this fatal disease.

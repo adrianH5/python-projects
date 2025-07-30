@@ -1,0 +1,11 @@
+Cervical cancer is a prevalent malignancy affecting the female reproductive system and is recognized as a prominent factor to female mortality on a global scale.
+Timely and precise detection of various stages of cervical cancer plays a crucial role in enhancing the chances of successful treatment and extending patient survival.
+Fluorescence spectroscopy stands out as a highly sensitive method for identifying biochemical alterations associated with cancer and numerous other pathological conditions.
+In our study, empirical mode decomposition (EMD) and Grassmann manifold (GM) learning are explored for reliable cancer detection using fluorescence spectral signals collected from 110 subjects representing various categories of the human cervix.
+Initially, EMD is used to decompose the signal into several multi-feature intrinsic mode functions (IMFs) on a spectral scale.
+Each IMF demonstrates uniqueness by capturing the inherent frequency characteristics within the signal, thus facilitating the extraction of signal features.
+The GM representation of IMFs is employed for investigating the non-linear subspace structure within spectral signals, which is subsequently followed by a low-rank representation to transform and analyze the spectral signals.
+The GM allows for the extraction of relevant information, reduction of dimensionality, and exploration of complex relationships within data, ultimately contributing to improved diagnosis.
+Mutual information is further used for feature selection to reduce the number of features and hence the computational cost.
+When the selected features were employed for classification, the Random Forest (RF) classifier attained a high five-fold validation accuracy of 99% and exhibited a minimal standard deviation of 0.02.
+Other state-of-the-art machine learning classifiers were also used and compared with the RF model.

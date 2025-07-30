@@ -1,0 +1,7 @@
+Bladder cancer (BCa) is approximately the fourth most prevalent diagnosed cancer in men and is three times less common in women.
+Therefore, identifying biomarkers, developing more effective therapeutic strategies, and understanding the mechanisms underlying BCa tumor growth and progression are urgently required to improve survival rates.
+Therefore, we aim to investigate the expression of PTEN/Akt in tissue samples of both non-muscle invasive bladder cancer (NMIBC) and muscle-invasive bladder cancer (MIBC) patients (n = 70) and human BCa cell lines T24 and 5637, along with the potent role of ellagic acid (EA) in the modulation of the PTEN/Akt pathway and the resulting therapeutic potential.
+Results showed low-intensity nuclear or cytoplasmic PTEN staining or loss of PTEN expression in tumor cells and overexpression of p-Akt (Ser-473) with high intensity in the nucleus or cytoplasm.
+EA treatment of T24 and 5637 cells reduced cell viability, inflammation (NF-κB, COX-2), invasion (MMP-9), induced the caspase (cas-3 and cas-9) cascade signaling pathway, and induced cell apoptosis along with the suppression of the PI3K/PTEN/Akt signaling pathway after 48h in a dose-dependent manner.
+Thus, these data suggested that the EA showed a strong potential anti-cancer effect in T24 and 5637 cells.
+In conclusion, the expression of PTEN/p-Akt and the inverse relation indicated an alteration of the PTEN/Akt pathway, and such cases could benefit from treatment with EA in BCa.

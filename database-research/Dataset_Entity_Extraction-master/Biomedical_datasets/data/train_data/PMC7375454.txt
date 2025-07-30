@@ -1,0 +1,18 @@
+The novel betacoronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which causes coronavirus disease 2019 (COVID-19), was first reported in Wuhan, China in December 2019 [1, 2].
+According to the World Health Organization, the current outbreak of COVID-19 has nearly 11.5 million confirmed cases worldwide with more than 530,000 deaths, as of July 6, 2020.
+Although the estimated fatality rate in the confirmed cases is 6.6% in SARS-CoV-2, which is lower than those of SARS-CoV and MERS-CoV, 9.6% and 34.3%, respectively [4], there is an urgent need for its effective treatment based on antivirals and vaccines that reduce the mortality and morbidity rates of COVID-19.
+However, up to now, the causes of the large country-by-country difference of the mortality rates related to COVID-19 have not been clearly understood.
+Full-length viral nucleotide sequence of the reference SARS-CoV-2 (accession number MN908947) [1] was downloaded from the NCBI GenBank.
+Briefly, we first aligned each of the SARS-CoV-2 sequences to the reference sequence SARS-CoV-2_Wuhan-Hu-1 (accession number MN908947) using BLAT software [7].
+After the alignment, we extracted nucleotide sequences corresponding to individual proteins of SARS-CoV-2, translated them into amino acid sequences, and then compared them to reference amino acid sequences of SARS-CoV-2_Wuhan-Hu-1 (accession numbers QHD43415-QHD43423, QHI42199).
+Data on numbers of confirmed cases and deaths related to COVID-19 were obtained from the Worldometer (https://www.worldometers.info/coronavirus/) on 7 May 2020 (Supplementary Table 1).
+Multiple regression analysis was used to test for an independent contribution of identified factors to fatality rates of COVID-19.
+Correlation analysis of variant frequencies of SARS-CoV-2 ORF1ab 4715L (a) or S 614G (b) with fatality rates of COVID-19 among 28 countries.
+Several other factors are investigated in association with mortality related to COVID-19.
+Ecological studies have suggested that countries that mandate BCG vaccination for the population have a lower number of infections and a reduced mortality from COVID-19, although the association is still controversial and the underlying mechanism has not been clarified [9, 14, 15].
+Concordant to our results, a few reports demonstrated that S 614G variant was associated with the mortality related to COVID-19 [13, 22].
+Since immune responses through HLA and T cells are important to protect from virus infections and also known to be involved in the progression of COVID-19, we screened epitopes around the mutations associated with fatality rates (Supplementary Table 3).
+The coronavirus disease 2019 (COVID-19) outbreak, caused by SARS-CoV-2, has rapidly expanded to a global pandemic.
+However, numbers of infected cases, deaths, and mortality rates related to COVID-19 vary from country to country.
+Through a hierarchical clustering based on the mutant frequencies, we classified the 28 countries into three clusters showing different fatality rates of COVID-19.
+Our findings suggest that SARS-CoV-2 mutations as well as BCG-vaccination status and a host genetic factor, HLA genotypes might affect the susceptibility to SARS-CoV-2 infection or severity of COVID-19.

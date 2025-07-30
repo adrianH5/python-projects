@@ -1,0 +1,8 @@
+Innate lymphoid cells (ILCs) are long-lived, tissue-resident cell analogs to T helper subsets that lack antigen-specific receptors.
+Understanding the roles of specific ILCs in chronic inflammation and fibrosis has been limited by inadequate tools for selective targeting.
+Here, we used Il17rb-CreERT2-eGFP and Rorc-Cre strains to selectively delete RORα in ILC2s and ILC3/Th17 cells, respectively.
+RORα deletion in ILC2s caused significant loss of gastrointestinal ILC2s, increased ILC3 abundance, elevated Th17-type responses, and heightened susceptibility to Crohn's disease-like fibrosis.
+Conversely, RORα deletion in ILC3/Th17 cells reduced IL-17 production, protecting against fibrosis.
+Using isolithocholic acid (isoLCA), a microbial secondary bile acid and RORγt inverse agonist, we confirmed the role of ILC3s/Th17 cells in fibrosis.
+In RORγt reporter and Th17-deficient Rag1-/- mice, isoLCA reduced IL-17 production by ILC3s and attenuated intestinal fibrosis by dampening RORγt-dependent ILC3/Th17 responses.
+These findings reveal a novel interplay between ILC2s and ILC3s in gut homeostasis and demonstrate the therapeutic potential of targeting RORγt in ILC3s as a strategy for preventing fibrosis.

@@ -1,0 +1,7 @@
+NCBI database was used for the retrieval of Corona viruses (RdRp region) sequences.
+The accession no MT042778 was used as query sequence in the NCBI Blast for obtaining highly similar sequence.
+A cryo-EM structure of RdRp from SARs-CoV-2 was downloaded from RCSB using PDB ID: 6M71 [19].
+The database of compounds from medicinal plants from Northern south Africa was retrieved from NANPDB (https://african-compounds.org/nanpdb/) [24].
+This database is a diverse source of natural drugs from 617 source species, which comes from 146 families of plants, animals, bacteria, and fungi.
+The database was then converted to.mdb format to be used as input for Molecular Operating Environment (MOE v2016) [25].
+A cryo-EM structure of RdRp from SARs-CoV-2 was used to identify novel drugs from Northern South African medicinal compounds database (NANPDB) by using computational virtual screening and molecular docking approaches.

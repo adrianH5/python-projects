@@ -1,0 +1,11 @@
+Mutations in somatic cells are inflicted by both extrinsic and intrinsic sources and contribute over time to cancer.
+Tobacco smoke contains chemical carcinogens that have been causatively implicated with cancers of the lung and head & neck1,2.
+APOBEC family DNA cytosine deaminases have emerged as endogenous sources of mutation in cancer, with hallmark mutational signatures (SBS2/SBS13) that often co-occur in tumors of tobacco smokers with an equally diagnostic mutational signature (SBS4)3,4.
+Here we challenge the dogma that mutational processes are thought to occur independently and with additive impact by showing that 4-nitroquinoline 1-oxide (NQO), a model carcinogen for tobacco exposure, sensitizes cells to APOBEC3B (A3B) mutagenesis and leads to synergistic increases in both SBS2 mutation loads and oral carcinomas in vivo.
+NQO-exposed/A3B-expressing animals exhibit twice as many head & neck lesions as carcinogen-exposed wildtype animals.
+This increase in carcinogenesis is accompanied by a synergistic increase in mutations from APOBEC signature SBS2, but not from NQO signature SBS4.
+Interestingly, a large proportion of A3B-catalyzed SBS2 mutations occurs as strand-coordinated pairs within 32 nucleotides of each other in transcribed regions, suggesting a mechanism in which removal of NQO-DNA adducts by nucleotide excision repair exposes short single-stranded DNA tracts to enzymatic deamination.
+These highly enriched pairs of APOBEC signature mutations are termed didyma (Greek for twins) and are mechanistically distinct from other types of clustered mutation (omikli and kataegis).
+Computational analyses of lung and head & neck tumor genomes show that both APOBEC mutagenesis and didyma are elevated in cancers from smokers compared to non-smokers.
+APOBEC signature mutations and didyma are also elevated in normal lung tissues in smokers prior to cancer initiation.
+Collectively, these results indicate that DNA adducting mutagens in tobacco smoke can amplify DNA damage and mutagenesis by endogenous APOBEC enzymes and, more broadly, suggest that mutational mechanisms can interact synergistically in both cancer initiation and promotion.

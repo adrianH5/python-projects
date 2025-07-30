@@ -1,0 +1,13 @@
+Lung cancer (LC) is the most incident malignancy and a leading cause of cancer-related fatalities.
+The lack of dissemination of effective screening tools hinders early detection, resulting in late-stage diagnosis, mostly associated with high mortality.
+Gene-specific methylation alterations detected in plasma or serum circulation cell-free DNA (ccfDNA) have been investigated as a possible screening tool.
+Thus, the main aim of this systematic review and meta-analysis was to critically assess published data on the use of ccfDNA methylation-based biomarkers for detection of LC.
+PubMed, including MEDLINE and Scopus databases, were systematically searched for eligible articles evaluating the diagnostic performance of ccfDNA methylation alterations in that setting.
+A bivariate random-effect model was employed to calculate pool estimated sensitivity and specificity.
+Accuracy subgroup analyses, according to histological subtype, stage, and smoker status were carried out.
+A total of 1961 articles were retrieved, of which 44 met inclusion criteria.
+The meta-analysis generated a pooled sensitivity of 54% (CI 95% 48-60%) and a pooled specificity of 86% (CI 95% 83-87%) for LC detection.
+The most frequently tested host-genome methylation markers were RASSF1 A, APC, SHOX2, SOX17, and HOXA9.
+Overall, methylation analysis of ccfDNA detects LC with high specificity but modest sensitivity.
+Further research is required to improve diagnostic performance, establish methodological standards and determine whether this might complement existing screening strategies to increase effectiveness.
+Systematic review registration PROSPERO CRD42023408964.

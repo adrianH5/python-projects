@@ -1,0 +1,9 @@
+Selenoprotein K (selenok) is a small, disordered membrane protein associated with the endoplasmic reticulum (ER) that is involved in protein palmitoylation and protein quality control.
+Through these processes, it influences calcium homeostasis, cellular migration, and phagocytosis.
+Thus, it is implicated in cancer, neurodegenerative diseases, and autophagy.
+So far, selenok has been considered a single-pass membrane protein whose N-terminus is in the ER lumen while its C-terminus, which contains the reactive selenocysteine, is in the cytoplasm.
+Here, we show that selenok is, in fact, a peripheral membrane protein that is anchored to the cytoplasmic side of the ER membrane.
+We demonstrate, using immunofluorescence microscopy and the substituted cysteine accessibility method in combination with selective membrane permeabilization, that both selenok's N- and C-terminus are in the cytoplasm.
+Using the same techniques, we demonstrate that, in contrast, selenoprotein S (selenos), a functionally related member of the selenoprotein family, is a transmembrane protein with a cytoplasmic C-terminus and an N-terminus exposed to the ER lumen.
+The findings that selenok is a peripheral membrane protein and that its N- and C-terminal segments, along with the hydrophilic side of its amphipathic α-helix, are exposed to the cytoplasm, imply that they can interact with cytoplasmic extramembranous regions of ER-residing membrane proteins and soluble protein partners.
+Selenok is predicted to possess multiple SLiMs (short linear motifs) involved in protein interactions, and its peripheral topology suggests that all these motifs, including those located within the amphipathic α-helix, are exposed and accessible to cytoplasmic-accessible partners.

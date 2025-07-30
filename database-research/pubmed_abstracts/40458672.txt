@@ -1,0 +1,6 @@
+Cancer continues to be the foremost cause of mortality in humans.
+Persistent challenges in cancer treatment include inadequate drug targeting, severe toxicological side effects and uncontrolled drug distribution.
+The bioinspired membrane vesicle drug delivery systems have been emerging as promising therapeutic strategies.
+This study characterises unique cell-bound membrane vesicles (CBMVs), which are impervious to standard cleaning agents and effectively loaded with doxorubicin (DOX).
+For the first time, we used iRGD peptide to modify the CBMVs to enhance the CBMVs' targeting capabilities for cancer cells.
+Laser confocal microscopy and

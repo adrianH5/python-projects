@@ -1,0 +1,5 @@
+Artificial intelligence applications in biomedicine face major challenges from data privacy requirements.
+To address this issue for clinically annotated tissue proteomic data, we developed a Federated Deep Learning (FDL) approach (ProCanFDL), training local models on simulated sites containing data from a pan-cancer cohort (n=1,260) and 29 cohorts held behind private firewalls (n=6,265), representing 19,930 replicate data-independent acquisition mass spectrometry (DIA-MS) runs.
+Local parameter updates were aggregated to build the global model, achieving a 43% performance gain on the hold-out test set (n=625) in 14 cancer subtyping tasks compared to local models, and matching centralized model performance.
+The approach's generalizability was demonstrated by retraining the global model with data from two external DIA-MS cohorts (n=55) and eight acquired by tandem mass tag (TMT) proteomics (n=832).
+ProCanFDL presents a solution for internationally collaborative machine learning initiatives using proteomic data, e.g., for discovering predictive biomarkers or treatment targets, while maintaining data privacy.

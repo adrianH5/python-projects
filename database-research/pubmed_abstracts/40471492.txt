@@ -1,0 +1,9 @@
+Mutagenicity is concerning due to its link to genetic mutations, which can lead to cancer and other adverse effects.
+Early identification of mutagenic compounds in drug development is crucial to prevent unsafe candidates and reduce costs.
+While computational techniques, especially machine learning (ML) models, have become prevalent for mutagenicity prediction, they typically rely on a single modality.
+Our work introduces a novel stacked ensemble mutagenicity prediction model that integrates multiple modalities, including SMILES and molecular graphs.
+These modalities capture diverse molecular information such as substructural, physicochemical, geometrical, and topological features.
+We use SMILES for deriving substructural, geometrical, and physicochemical data, while a graph attention network (GAT) extracts topological information from molecular graphs.
+Our model employs a stacked ensemble of ML classifiers and SHAP (Shapley Additive Explanations) to identify the significance of classifiers and key features.
+Our method outperforms state-of-the-art techniques on two standard datasets, achieving an area under the curve of 95.21% on the Hansen benchmark dataset.
+This research is expected to interest clinicians and computational biologists in translational research.

@@ -1,0 +1,9 @@
+Functional MRI (fMRI) using the blood-oxygen level dependent (BOLD) signal provides valuable insight into grey matter activity.
+However, uncertainty surrounds the white matter BOLD signal.
+Apparent diffusion coefficient (ADC) offers an alternative fMRI contrast sensitive to transient cellular deformations during neural activity, facilitating detection of both grey and white matter activity.
+Further, through minimising vascular contamination, ADC-fMRI has the potential to overcome the limited temporal specificity of the BOLD signal.
+However, the use of linear diffusion encoding introduces sensitivity to fibre directionality, while averaging over multiple directions comes at great cost to temporal resolution.
+In this study, we used spherical b-tensor encoding to impart diffusion sensitisation in all directions per shot, providing an ADC-fMRI contrast capable of detecting activity independently of fibre directionality.
+We provide evidence from two task-based experiments on a clinical scanner that isotropic ADC-fMRI is more temporally specific than BOLD-fMRI, and offers more balanced mapping of grey and white matter activity.
+We further demonstrate that isotropic ADC-fMRI detects white matter activity independently of fibre direction, while linear ADC-fMRI preferentially detects activity in voxels containing fibres perpendicular to the diffusion encoding direction.
+Thus, isotropic ADC-fMRI opens avenues for investigation into whole-brain grey and white matter functional connectivity.

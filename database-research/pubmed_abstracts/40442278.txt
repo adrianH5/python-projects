@@ -1,0 +1,11 @@
+Insulin promotes HepG2 cell proliferation by inducing phosphorylation of the pyruvate dehydrogenase E1α (PDHA1) subunit at Ser293, a mechanism distinct from normal liver tissue.
+This study investigates how phosphorylated PDHA1 drives hepatocellular carcinoma cell proliferation.
+We identified eukaryotic elongation factor-1γ (eEF-1γ) as a key binding protein interacting with p-PDHA1 in response to insulin, facilitating their nuclear translocation.
+Silencing eEF-1γ (si-eEF-1γ) significantly reduced p-PDHA1 and PKM2 levels, highlighting eEF-1γ's role in stabilizing these proteins.
+Additionally, eEF-1γ interacts with ATP-citrate lyase (ACL) and p300 acetyltransferase, and its knockdown decreased histone acetylation at H3K9/14, H3K18, and H3K27, along with RBP4 expression.
+Chromatin immunoprecipitation PCR (ChIP-PCR) confirmed eEF-1γ association with RBP4 promoter.
+Functionally, si-eEF-1γ reduced cell proliferation and deceased c-Myc and cyclin D1 protein levels.
+It also suppressed migration, and altered epithelial-mesenchymal transition (EMT) markers, increasing E-cadherin while reducing ZEB1, snail1, vimentin, and N-cadherin levels.
+Similarly, RBP4 knockdown with siRNA diminished cell proliferation and migration.
+In vivo, eEF-1γ knockdown in 4T1 xenografts using siRNA led to reduced tumor mass.
+These findings highlight eEF-1γ as a crucial driver of insulin-induced tumor progression and suggest its potential as a therapeutic target in hepatocellular carcinoma.

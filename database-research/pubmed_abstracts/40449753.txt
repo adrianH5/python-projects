@@ -1,0 +1,13 @@
+Fluorouracil (Fu) is one of the first-line drugs for colorectal cancer, but severe intestinal damage limits its clinical application.
+The intestinal damage caused by Fu is closely related to cellular senescence.
+Itraconazole (Itr) is primarily used to treat fungal infections.
+At present, the effects of Itr on intestinal senescence and damage have not been the subject of extensive study.
+In this study, NCM460 cells were utilized to establish a model of Fu-induced senescence and inflammation.
+Treatment of NCM460 cells with Fu resulted in increased senescence-associated beta-galactosidase (SA-β-Gal) activity, elevated p21 expression, and the upregulation of p16 and p53.
+Additionally, there was enhanced Senescence-Associated Secretory Phenotype (SASP) and an increase in inflammatory factors IL-1β and IL-6.
+The present study demonstrated that the treatment of Itr effectively alleviated the changes caused by Fu in NCM460 cells.
+Moreover, it was observed that Itr was efficacious in mitigating intestinal damage induced by Fu in Balb/c mice.
+Network pharmacology analysis and experimental validation identified the mTOR signaling pathway as a key target of Itr in treating Fu-induced intestinal aging and inflammation.
+Our findings demonstrate that Itr significantly inhibited the mTOR pathway, while the mTOR activator MHY1485 restored mTOR activity and promoted senescence.
+Moreover, it was observed that Itr could effectively enhance the tumor-killing effect of Fu in HCT116 and SW480 cells, as well as in Balb/c nude mice.
+In conclusion, Itr is a promising candidate for reducing intestinal side effects and enhancing Fu's efficacy in the treatment of colorectal cancer.

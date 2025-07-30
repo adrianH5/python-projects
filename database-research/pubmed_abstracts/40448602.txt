@@ -1,0 +1,9 @@
+Persistent neutrophilic inflammation can lead to tissue damage and chronic inflammation, contributing to non-healing wounds.
+The resolution phase of neutrophilic inflammation is critical to preventing tissue damage.
+Animal models have provided insight into resolution of neutrophilic inflammation via efferocytosis and reverse migration (rM); however, species-specific differences and complexity of innate immune responses make translation to humans challenging.
+Thus, there is a need for in vitro systems that can elucidate mechanisms of resolution of human neutrophilic inflammation.
+Here, a human microphysiological system (MPS) is developed to mimic an inflammatory sterile injury (SI) microenvironment to study the role of macrophage-derived extracellular vesicles (M-EVs) in the resolution of inflammation via neutrophil rM.
+The MPS integrates a blood vessel mimic, injury site spheroid, human neutrophils, macrophages, and macrophage-derived EVs to investigate the role of M-EVs in neutrophil rM in vitro.
+The MPS enabled demonstration that EVs derived from macrophage subsets modulate migratory behavior in primary neutrophils differently in specific inflammatory microenvironments.
+A new mechanism is identified underlying neutrophil rM, where neutrophils exposed to M2-EV-derived-IL-8 migrate away from the SI site.
+Overall, the SI MPS system demonstrates a reverse migratory pattern in human primary neutrophils, advancing the study of the resolution of inflammation via M-EVs.

@@ -1,0 +1,2 @@
+Purpose To develop and validate a deep multitask network, MultiRecNet, for fully automatic prediction of disease-free survival (DFS) in patients with neoadjuvant chemoradiotherapy (nCRT)-treated locally advanced rectal cancer (LARC).
+Materials and Methods This retrospective study collected clinical information and baseline multimodal MRI (T2, apparent diffusion coefficient [ADC],

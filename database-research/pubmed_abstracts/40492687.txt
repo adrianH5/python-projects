@@ -1,0 +1,9 @@
+Cancer is a leading cause of death worldwide, and nanotechnology-based drug delivery systems offer a promising way to improve treatment by better targeting tumors and delivering multiple drugs more effectively.
+Herein, using first-principles calculations, we investigate the potential of monolayer group VA (P, As, Sb, Bi) elemental two-dimensional (2D) materials as a promising platform for the efficient and targeted delivery of the anticancer drug Nitrosourea (NU).
+It is first shown that group VA elemental 2D materials can be stabilized in different arrangements of group VA atoms, such as the puckered and buckled honeycomb structure.
+Next, we comprehensively investigated the structural properties of the studied nanosheets upon adsorption of the NU molecule in both vertical and horizontal configurations.
+We demonstrate that the horizontal configurations are more stable with negative adsorption energies, signifying their thermodynamic stability.
+Furthermore, upon the adsorption of NU on both sides of the group VA monolayers, the adsorption energy can be further enhanced.
+In addition, our electronic structure calculations reveal that upon adsorption of the drug molecule, the energy gaps decrease, and the density of states at the Fermi level increases slightly compared to an isolated group VA surface; these emerged states are attributed to the drug.
+Moreover, the adsorbed drugs can be readily released by light within the visible or near-infrared wavelength range, opening possibilities for their application in photothermal therapy.
+These findings highlight the potential of group VA monolayers as an effective platform for targeted drug delivery by harnessing their unique properties.

@@ -1,0 +1,7 @@
+As fundamental components of the innate immune system, both cGAS and STING serve as the primary cytosolic DNA sensors and its downstream adaptor protein, respectively.
+The cGAS-STING signaling axis is activated through DNA recognition and has emerged as a pivotal regulator mediating three key processes: autophagy, apoptosis, and critical biological functions ranging from pro-inflammatory responses to antiviral/antitumor defenses.
+Recent breakthroughs in tumor immunology have established immunotherapy as the fourth pillar of cancer treatment, alongside traditional approaches such as surgery, chemotherapy, and radiation.
+Advances in understanding the molecular mechanisms of cGAS-STING signaling have uncovered its dual regulatory potential in tumorigenesis - capable of orchestrating both tumoricidal immune activation and paradoxical tumor progression through microenvironment modulation.
+The deepening knowledge of its immunological interplay provides a robust theoretical foundation for developing combinatorial strategies.
+These strategies integrate pathway modulation with immunotherapeutic interventions.
+Building upon existing research paradigms in cancer immunotherapy, this review specifically focuses on recent progress in exploiting cGAS-STING agonists as next-generation immunotherapeutic agents.

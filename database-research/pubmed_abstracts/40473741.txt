@@ -1,0 +1,13 @@
+Breast cancer (BC) is one of the most common cancers among women, with its prevalence exhibiting a troubling increase.
+Increased emphasis must be made on developing effective therapies owing to the high prevalence and increasing incidence of breast cancer.
+Presently, traditional passive therapies have several unresolved limitations.
+Conversely, novel immunotherapy strategies, such as cancer vaccines, have shown encouraging potential in addressing late stages of breast cancer.
+The primary aim of this work was to use MAGE-A, MAM-A, and Gal-3 antigenic proteins in the formulation of a multiepitope vaccine for breast cancer.
+To elicit strong immune responses, we first discovered antigenic epitopes of proteins and evaluated their immunogenicity.
+To diminish junctional immunogenicity, promiscuous epitopes were conjugated with the appropriate adjuvant (IL-12 protein) and linked with a suitable linker (GSST).
+The optimal estimated a three-dimensional model was enhanced and verified to get a superior 3D model.
+Molecular docking studies and dynamic modeling were used to establish the structural stability and integrity of the vaccine/mouse TLR-2, 4, 7, and 9 complexes.
+The vaccine was finally optimized and cloned into pcDNA3.1(+) vector.
+Moreover, the immunological simulation of the vaccine demonstrated its capacity to elicit immune responses (B cells, T cells, antibodies, and cytokines) against breast cancer.
+Consequently, the examination of the developed vaccine by immunoinformatic demonstrates its potential to provoke strong humoral and cellular immune responses in the intended organism.
+Consequently, it has potential as a therapeutic agent against breast cancer and may facilitate more study in the domain.

@@ -1,0 +1,9 @@
+Herein, the synthesis of macroporous zeolitic imidazole framework (ZIF)-based magnetic micromotors (MMs) for the dual encapsulation of 5-fluorouracil (5-FU) and doxorubicin (DOX), with pH-triggered release is described.
+The MMs are synthesized in methanolic solutions, using superparamagnetic iron oxide nanoparticles (Fe₃O₄) as seeding agents and magnetic engines.
+The macroporous structure facilitates the loading of high doses of 5-FU, while DOX is docked on the surface of the MMs.
+This results in release rates of 72.8 µg mg MMs⁻¹ of 5-FU and 3 µg mg MMs⁻¹ of DOX.
+The magnetic motion of the MMs enables targeted delivery to predefined locations, allowing interaction with cancer cells in the culture medium.
+Under acidic conditions, DOX becomes protonated and is released from the surface of the micromotors, demonstrating rapid-release kinetics.
+Simultaneously, the ZIF-8 structure degrades under these conditions, enabling the sustained release of 5-FU for continuous treatment.
+This dual-delivery, pH-induced mechanism is demonstrated in vitro using Caco-2 cells as a relevant biological model, revealing a decrease in viability and diffusion of the drugs released into the cells.
+This is the first magnetic metal-organic framework (MOF)-based MM that is pH-sensitive and capable of sequentially releasing two drugs.

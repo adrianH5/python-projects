@@ -1,0 +1,4 @@
+Targeted lysosomal degradation of proteins (LDP) represents a promising strategy for clearing unwanted toxic extracellular and secreted proteins.
+Yet, significant challenges persist, including identifying potential ligands for these proteins and lysosome-driving probes capable of facilitating their internalization and degradation through receptor-mediated endocytosis.
+Herein, we show that synthetic neoproteoglycan probes stably anchor to the cell membrane, facilitate the internalization of amyloid-β (Aβ) peptide into the lysosomal compartment, and mediate the programmed death of Aβ.
+We have identified sulfated oligo l-idose tetrasaccharide (

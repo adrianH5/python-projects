@@ -1,0 +1,3 @@
+The National Cancer Database (NCDB) and Surveillance, Epidemiology, and End Results (SEER) database are widely used in colon cancer research, particularly for analyzing overall survival (OS) rates.
+However, differences in demographics, treatment patterns, and survival outcomes across colon cancer stages and locations between these databases remain incompletely understood.
+Addressing these disparities is crucial for researchers when selecting the most appropriate registry for survival analysis.

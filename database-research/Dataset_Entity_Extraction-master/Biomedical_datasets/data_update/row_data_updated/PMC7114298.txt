@@ -1,0 +1,7 @@
+X-ray data were collected on crystals of the PLpro-ISG15 complex at 100 K using a Dectris Eiger 9M detector (a 2°/s spindle rate) on beamline 21-ID-D at the Life Sciences-Collaborative Access Team (LS-CAT).
+To determine the initial phases for the PLpro-ISG15 complex, the PLpro domain from the bound PLpro-Ub complex (PDB accession code: ) was used as a search model and the programs Phaser (McCoy et al., 2007) and Phenix were used to identify a molecular replacement solution.
+Free human ISG15 (Narasimhan et al., 2005) with the PDB accession code of  was manually positioned into the corresponding residual electron density using the program Coot (Emsley and Cowtan, 2004).
+The wild-type pEVL8-his8-TEVp-MERS-CoV PLpro-ΔUbl2 plasmid was used as a template and primers were designed and synthesized using Integrated DNA Technologies (IDT).
+Three complete X-ray datasets were collected on crystals of the MERS-CoV PLpro-ISG15 complex that were grown at three different citrate concentrations (0.2, 0.3 and 0.35 M).
+To identify potential residues of MERS-CoV PLpro that dictate substrate specificity for ISG15 versus Ub, the MERS-CoV PLpro-ISG15 structure was superimposed with the Ub-bound structure (PDB accession code ) and the result is shown in Fig. 3
+.

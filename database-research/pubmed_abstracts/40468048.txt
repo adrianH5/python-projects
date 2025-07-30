@@ -1,0 +1,4 @@
+Most aggressive malignancies exhibit low immunogenicity, exacerbated by tumor immune evasion mechanisms that undermine immunotherapy efficacy.
+Studies indicate that AMP-activated protein kinase (AMPK) directly phosphorylates programmed cell death ligand 1 (PD-L1), promoting its degradation via the endoplasmic reticulum (ER)-associated pathway to restore and sustain cytotoxic T lymphocyte-mediated immunity.
+Here, we developed an ER-targeting photodynamic AMPK agonist (called PPFC) for breast cancer immunotherapy.
+PPFC comprised a chimeric peptide (PpIX-(PEG8-FFKDEL)

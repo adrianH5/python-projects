@@ -1,0 +1,9 @@
+Ferroptosis, a form of programmed iron-dependent cell death, is associated with various liver pathologies.
+Recent studies have increasingly highlighted the crucial role of ferroptosis in liver function.
+This study aimed to explore the development of ferroptosis in liver diseases through bibliometric analysis.
+We retrieved the data from the Web of Science (WOS) Core Collection, then imported selected articles into VOSviewer, CiteSpace, and Microsoft Excel for knowledge mapping analysis.
+A total of 1,236 articles were included in this study, showing a steady increase in publications on ferroptosis in the liver over the past 11 years, with a significant surge in recent years.
+China emerged as a dominant contributor, accounting for 86% of global publications.
+Key institutions included Zhejiang University and Sun Yat-sen University.
+Zhang Feng from Nanjing Medical University was identified as the most prolific author.
+The journal

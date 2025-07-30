@@ -1,0 +1,7 @@
+Tertiary lymphoid structures (TLSs) in the tumor microenvironment are associated with improved cancer prognosis and enhanced immune checkpoint blockade (ICB) responses.
+In this study, an injectable hydrogel-based drug formulation is developed to stimulate TLSs formation in a B16-OVA melanoma mouse model.
+A hydrogel, termed HA-CPP⸦CB[8], is formed by supramolecular interactions between 4-(4-chlorophenyl)pyridine modified hyaluronic acid (HA-CPP) and cucurbit[8]uril (CB[8]).
+The results reveal that a single injection of HA-CPP⸦CB[8] hydrogel containing the CXCL13 chemokine and LIGHT cytokine effectively increases TLSs density, facilitates mature TLSs formation, suppresses tumor growth, and extends survival.
+Importantly, the hydrogel treatment also up-regulates the number of antigen-specific T-cells in the secondary lymphoid organs.
+Furthermore, combination of the hydrogel-based drug formulation and the anti-PD1 ICB therapy results in increased tumor suppression, improved survival rates, and strengthened TLSs formation, ultimately contributing to B16-OVA melanoma eradication.
+In conclusion, this study demonstrates the potential application of hydrogel-based drug carriers as synthetic immune niche scaffolds for promoting mature-like TLSs formation within the B16-OVA melanoma tumor microenvironment, offering a promising strategy for advancing tumor immunotherapy.

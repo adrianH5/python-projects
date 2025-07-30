@@ -1,0 +1,10 @@
+Magnetic resonance imaging (MRI), as a non-invasive detection method, is crucial for the clinical diagnosis and treatment plan of rectal cancer.
+However, due to the low contrast of rectal tumor signal in MRI, segmentation is often inaccurate.
+In this paper, we propose a new three-dimensional rectal tumor segmentation method CAU-Net based on T2-weighted MRI images.
+The method adopts a convolutional neural network to extract multi-scale features from MRI images and uses a Contour-Aware decoder and attention fusion block (AFB) for contour enhancement.
+We also introduce adversarial constraint to improve augmentation performance.
+Furthermore, we construct a dataset of 108 MRI-T2 volumes for the segmentation of locally advanced rectal cancer.
+Finally, CAU-Net achieved a DSC of 0.7112 and an ASD of 2.4707, which outperforms other state-of-the-art methods.
+Various experiments on this dataset show that CAU-Net has high accuracy and efficiency in rectal tumor segmentation.
+In summary, proposed method has important clinical application value and can provide important support for medical image analysis and clinical treatment of rectal cancer.
+With further development and application, this method has the potential to improve the accuracy of rectal cancer diagnosis and treatment.

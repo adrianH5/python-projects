@@ -1,0 +1,7 @@
+Metabolic heterogeneity resulting from the intra-tumoral heterogeneity mediates massive adverse outcomes of tumor therapy, including chemotherapeutic resistance, but the mechanisms inside remain largely unknown.
+Here, we find that the de novo pyrimidine synthesis pathway determines the chemosensitivity.
+Chemotherapeutic drugs promote the degradation of cytosolic Carbamoyl-phosphate synthetase II, Aspartate transcarbamylase, and Dihydroorotase (CAD), an enzyme that is rate-limiting for pyrimidine synthesis, leading to apoptosis.
+We also find that CAD needs to be cleaved by caspase-3 on its Asp1371 residue, before its degradation.
+Overexpressing CAD or mutating Asp1371 to block caspase-3 cleavage confers chemoresistance in xenograft and Cldn18-ATK gastric cancer models.
+Importantly, mutations related to Asp1371 of CAD are found in tumor samples that failed neoadjuvant chemotherapy and pharmacological targeting of CAD-Asp1371 mutations using RMY-186 ameliorates chemotherapy efficacy.
+Our work reveals the vulnerability of de novo pyrimidine synthesis during chemotherapy, highlighting CAD as a promising therapeutic target and biomarker.

@@ -1,0 +1,3 @@
+The tumorigenic progression of Lung adenocarcinoma (LUAD), the predominant NSCLC subtype, is predominantly driven by co-occurring mutations in KRAS proto-oncogene (KRAS)/Tumor protein p53 (TP53).
+However, their impact on tumor microenvironment (TME) heterogeneity, particularly neutrophil dynamics, remains poorly understood.
+This present study aims to elucidate how KRAS/TP53 mutations reprogram the TME and develop a neutrophil-centric prognostic signature for LUAD.

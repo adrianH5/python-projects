@@ -1,0 +1,5 @@
+Lung squamous cell carcinoma (LUSC) is an extremely metastatic cancer with limited available treatment and poor outcomes.
+Connexin43 (Cx43) is frequently overactivated and positively correlated with tumorigenesis in many cancers, including breast cancer and lung adenocarcinoma, but its role in LUSC remains elusive.
+In this study, we demonstrated that Cx43 was highly expressed in LUSC tissues as compared to matching normal lung tissues (n = 103) and negatively related to prognosis.
+Through the 3D spheroid cell invasion assay, zCDX (zebrafish cell line-derived xenograft), and orthotopic lung cancer xenograft model, we further revealed that Cx43 promotes LUSC invasion and migration via forming GJIC.
+Knockdown of Cx43 reduced the Ca

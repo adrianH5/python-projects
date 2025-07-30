@@ -1,0 +1,3 @@
+Patient recruitment remains a major bottleneck in clinical trial execution, with inefficient patient-trial matching often causing delays and failures.
+Recent advancements in large language models (LLMs) offer a promising avenue for automating and improving this process.
+This scoping review aims to provide a comprehensive synthesis of the emerging applications of LLMs in patient-trial matching.

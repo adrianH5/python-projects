@@ -1,0 +1,7 @@
+Viral genome sequences from pangolins were retrieved from the GISAID (https://www.gisaid.org) database, whereas all other genome sequences were downloaded from the NCBI (National Center for Biotechnology Information) database (http://www.ncbi.nlm.nih.gov/)
+Thus, the final genome dataset included SARS-CoV-2 (reference genome, Wuhan-Hu-1), three bat viruses (BatCoV RaTG13, bat-SL-CoVZC45 and bat-SL-CoVZXC21), and the two pangolin viruses (Fig. 1a).
+The 9b protein encoded by SARS-CoV is incorporated into mature virions (Xu et al., 2009) but is dispensable for viral replication in vitro and in vivo (
+von Brunn et al., 2007
+;
+DeDiego et al., 2008
+).

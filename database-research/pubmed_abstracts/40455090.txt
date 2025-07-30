@@ -1,0 +1,10 @@
+Conventional in vitro cancer models often fail to replicate the complexity of the tumor microenvironment.
+We have developed a 3D micro-engineered vascularized organoid chip (VOC) platform to enhance the physiological relevance of in vivo tumor models.
+This platform incorporates patient-derived tumor spheroids from head and neck cancer patients, providing a more accurate simulation of the native tumor microenvironment.
+We evaluated the efficacy of 5-fluorouracil (5-FU) and sunitinib on angiogenic sprouting and cell viability of red fluorescent protein-expressing human umbilical vein endothelial cells (RFP-HUVECs) and head and neck cancer patient-derived tumor spheroids cultured in the VOC platform.
+A 3D micro-engineered VOC platform was developed to provide a physiologically relevant environment for RFP-HUVECs and head and neck cancer patient-derived tumor spheroids.
+Cellular responses to 5-FU and sunitinib were examined over 14 days, focusing on interactions and behavior in the VOC setup.
+5-FU and sunitinib significantly inhibited angiogenic sprouting and reduced cell viability.
+Notably, these drugs induced changes in cellular network formation and disrupted the structural integrity of patient-derived spheroids, emphasizing the effectiveness of these drugs in a model that closely simulates the tumor microenvironment of head and neck cancer.
+Our study demonstrates the potential of the 3D vascularized tumor spheroid microfluidic chip as a valuable tool for personalized treatment and investigation of head and neck squamous cell carcinoma.
+This platform simulates the tumor microenvironment and offers exceptional precision in evaluating drug efficacy.

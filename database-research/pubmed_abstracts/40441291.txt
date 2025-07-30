@@ -1,0 +1,8 @@
+Cutaneous squamous cell carcinoma (cSCC) accounts for 20% of all skin cancer mortality globally, making it the second-highest subtype of skin cancer.
+The high prevalence of cSCC in humans highlights the need to uncover alternative actors and mechanisms influencing skin cancer development.
+Significant advances have been made to better understand some key factors in cSCC growth.
+However, little is known about the role of noncoding RNAs, particularly of a specific subclass termed long noncoding RNA (lncRNA).
+By performing pseudobulk analysis of single-cell sequencing data from normal and cSCC human skin tissues, we determined a global portfolio of lncRNAs specifically expressed in keratinocyte subpopulations.
+Integration of CRISPR interference screens in vitro and the xenograft model identified several lncRNAs impacting the growth of cSCC cancer lines both in vitro and in vivo.
+Among these, we further validated LINC00704 and LINC01116 as proliferation-regulating lncRNAs in cSCC lines and potential biomarkers of cSCC growth.
+Taken together, our study provides a comprehensive signature of lncRNAs with roles in regulating cSCC growth.

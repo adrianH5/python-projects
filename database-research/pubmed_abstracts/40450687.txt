@@ -1,0 +1,8 @@
+Nucleosome remodelers and regulatory factors collaborate to establish chromatin environments that control gene expression through cis-regulatory elements (CREs) such as promoters and enhancers, which drive transcription of mRNAs and CRE-associated non-coding RNAs (ncRNAs).
+Two CRE-associated ncRNAs include upstream antisense RNAs (uaRNAs) and enhancer RNAs (eRNAs).
+The role of remodelers in regulating CRE activity remains incompletely understood.
+Here, we investigated how SNF2-family remodelers regulate mRNA, eRNA, and uaRNA transcription in murine embryonic stem cells.
+We identified thousands of misregulated transcripts upon remodeler depletion and defined contributions of understudied remodelers.
+We find that paired mRNAs and eRNAs are co-regulated, while mRNAs and uaRNAs sharing a promoter are independently regulated by remodelers.
+Mechanistic studies reveal that CHD8 and SRCAP modulate transcription through canonical transcription factor and histone variant mechanisms, while other remodelers, including SMARCAL1, impact transcription indirectly by maintaining genomic stability.
+Our findings define classes of SNF2 remodelers in regulating the CRE-associated transcriptome.

@@ -1,0 +1,14 @@
+All SARS-CoV-2 genomes sequences in the final dataset from May 2020 were copied into a separate FASTA file (n = 778 sequences), then 100 bases were trimmed from the 5′ and 3’ ends of each sequence to remove low-quality degenerate nucleotides.
+To assess the inclusivity of oligonucleotides from these assays, we curated a dataset of 15,001 SARS-CoV-2 genome sequences from specimens collected between Dec 31, 2019 and May 31, 2020.
+The composition of the dataset by region and collection month is shown in Fig. 1
+.
+Using PCR_strainer, we identified genomes in our dataset with nucleotide mismatches in locations targeted by the early SARS-CoV-2 LDTs described above.
+Two sets of oligonucleotides had mismatches against all 15,001 SARS-CoV-2 reference genomes in our dataset: the Charité group’s RdRP gene assay and the Japan NIID’s N gene assay.
+One of these variants, which we will call the ‘AAC’ variant, was present in 18.8 % of genomes in our dataset (Table 3).
+Next, we constructed a phylogeny of all SARS-CoV-2 genomes in our dataset from May 2020, the most recent completed month at the time of writing (Fig. 4
+).
+Furthermore, this clade closely overlapped with the GISAID ‘GR’ clade: 99.5 % of genomes with the ‘AAC’ variant were identified as members of Clade ‘GR’, and 100 % of genomes identified as members of clade ‘GR’ contained the ‘AAC’ variant.
+Single mismatches in the Charité group and Japan NIID assays were uniform and pervasive, suggesting they were artefacts of the oligonucleotide design process.
+The mismatch in the Japan NIID’s assay was due to an error in the first reported SARS-CoV-2 genome assembly, and investigations by the assay’s designers did not find any impact on clinical performance [11].
+Mismatches in the Charité group and Japan NIID assays were both 14 positions from the more-crucial 3’ end of the primers.
+Indeed, as stated above, the Japan NIID group failed to observe a difference in detection between primers with and without the mismatch [11].

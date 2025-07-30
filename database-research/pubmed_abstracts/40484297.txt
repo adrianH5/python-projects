@@ -1,0 +1,10 @@
+Currently certain mushrooms are used as low-calorie food supplements due to their excellent taste, and presence of a variety of essential vitamins, minerals and secondary metabolites.
+Many of them have therapeutic significance and are used in traditional medicines.
+Mushrooms cells can also be used as biocatalysts for the derivatization of organic compounds.
+During the current study, 3β-hydroxy-24-methylenelanost-8-en-21-oic acid (1) was isolated from Laetiporus sulphureus (Bull.)
+Murrill.
+The cell culture of the same mushroom was used for the biotransformation of breast cancer drug, exemestane (2) into a new metabolite, 18-hydroxy-6-methylene-androsta-1,4-diene-3,17-dione (3).
+Compounds 1, and 3 were purified by using various chromatographic techniques, and their structures were determined with the help of 1D- and 2D-NMR, HREI-MS, and IR spectroscopic techniques.
+Since compound 1 also has a steroidal skeleton (like aromatase inhibiting drug exemestane (2)), the metabolite 1 was also evaluated for its aromatase inhibiting potential along with a new transformed product 3.
+Aromatase plays a crucial role in estrogen biosynthesis, making its inhibition a key therapeutic strategy for treating estrogen receptor-positive (ER+) breast cancer.
+Compounds 1 and 3 demonstrated significant aromatase inhibition, with IC

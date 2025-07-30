@@ -1,0 +1,8 @@
+Obesity is associated with worse breast cancer outcomes and decreased therapeutic efficacy.
+However, the mechanisms driving obesity-associated therapy resistance remain unclear; in part due to a lack of suitable models that recapitulate the obese tumour microenvironment.
+To address this, we developed a 3D in vitro model of obesity-associated breast cancer, to investigate biological mechanisms and to use as a drug testing tool.
+A penta-culture system was developed by co-culturing adipocyte spheroids with breast tumour cells, myoepithelial cells, macrophages, and fibroblasts in a collagen matrix.
+Tumour cells and macrophages infiltrated adipocyte spheroids, replicating the inflamed-adipose border typical of obese patients.
+This model was then assessed as a drug testing platform.
+Obese cultures exhibited increased sensitivity to metformin and, conversely, resistance to paclitaxel, compared to non-obese cultures.
+This 3D organotypic model effectively recapitulates key features of the obese adipose tumour microenvironment, providing a useful tool to interrogate mechanisms underpinning obesity-related therapy resistance.

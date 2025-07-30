@@ -1,0 +1,11 @@
+Head and neck squamous cell carcinoma (HNSCC) is one of the most diagnosed malignancies globally, with a 5-year survival rate of only 40-50%.
+Current therapies are limited to aggressive chemoradiotherapy combinations and disfiguring resection.
+Recent research has demonstrated that inhibition of Bruton's tyrosine kinase (BTK) by ibrutinib is an effective treatment for aggressive solid cancers.
+However, little is known about the effects of ibrutinib on aggressive HNSCC.
+We tested the efficacy of ibrutinib against HNSCC in vitro and in a metastatic, aggressive MOC2 orthotopic murine model and determined the underlying mechanisms.
+Ibrutinib decreased cancer cell growth in vitro, reduced tumor burden in vivo, decreased metastasis to the tumor draining lymph nodes and lungs, and enhanced overall survival outcomes.
+Flow cytometric analysis revealed decreased infiltration of tumor-infiltrating immunosuppressive T cells expressing the co-inhibitory markers PD-1, LAG-3, and IL-10.
+Furthermore, ibrutinib treatment increased cytotoxic T cell infiltration into the tumor microenvironment.
+Further analysis demonstrated that the effects on immunosuppressive T cell phenotypes were directly mediated by ibrutinib.
+Immunosuppressive myeloid cells were also observed to express lower levels of PDL1 in ibrutinib-treated mice.
+Our study demonstrates the potential of BTK inhibitors, specifically ibrutinib, in the treatment of HNSCC, mediated by its inhibitory effect on HNSCC cancer cell growth and metastasis, as well as modulation of the T cell anti-tumor immune microenvironment.

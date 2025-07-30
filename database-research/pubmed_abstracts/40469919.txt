@@ -1,0 +1,12 @@
+Clear cell renal cell carcinoma (ccRCC) is the most prevalent type of kidney cancer.
+Defects in transfer RNA (tRNA) modification can lead to significantly impaired protein synthesis and misfolding, contributing to various pathologies, including malignancies.
+The present study aimed to develop a method predict survival outcomes and guide both immunotherapy and chemotherapy in patients with ccRCC.
+Patient data was collected from The Cancer Genome Atlas and tRNA modification-related genes from the Molecular Signature Database were identified.
+External validation of the prognostic model was conducted using the GSE29609 dataset from the Gene Expression Omnibus database.
+Molecular subtypes were determined through univariate Cox analysis of tRNA modification-related genes and the 'ConsensusClusterPlus' package.
+Multivariate Cox regression and the least absolute shrinkage and selection operator analyses were employed to establish a prognostic profile consisting of six independent prognostic genes: FTSJ1, LCMT2, METTL6, PUS1, TRMO and TRMT5.
+Higher risk scores and Cluster 2 classification were associated with poorer overall survival and increased expression of human leukocyte antigens and immune checkpoints.
+The assessment of immune cell infiltration and the tumor microenvironment was conducted using the ESTIMATE, CIBERSORT and single sample Gene Set Enrichment Analysis algorithms, were compared with the molecular subtypes and risk profiles of tRNA modification regulators.
+Additional analyses included somatic mutation analysis, nomogram construction, chemotherapy response prediction and small molecule drug prediction.
+Finally, the expression levels of the six identified genes in ccRCC cell lines were validated using reverse transcription-quantitative PCR, which confirmed consistency with the predictions made.
+The present study introduced a six-gene prognostic signature that may improve prognosis and facilitate personalized treatment strategies for patients with ccRCC in the future, thereby potentially enhancing individualized patient management.

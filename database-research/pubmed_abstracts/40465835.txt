@@ -1,0 +1,6 @@
+In target-based drug discovery, quantification of target engagement is required to build structure-activity relationships and develop a potent clinical candidate.
+Target engagement data also provides evidence of a drug's mechanism of action (MoA) which although is not required for approval, can increase the chance of a successful clinical outcome.
+Consequently, a plethora of assays has been developed to provide information about target engagement on isolated proteins and in cells.
+These techniques monitor changes in stability, structure, optical properties or mass difference between proteins and their complexes with ligands.
+They also provide characterization of the compound with thermodynamic, kinetic and structural binding parameters.
+The diversity of approaches reflects the challenges faced when drugging different protein classes, with each method having advantages, trade-offs and target specificity.

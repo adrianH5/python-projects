@@ -1,0 +1,4 @@
+Accurate preoperative evaluation of cT1N0M0 papillary thyroid carcinoma (PTC) is essential for guiding appropriate treatment strategies.
+Although ultrasound is widely used for clinical staging, it has limitations in detecting lymph node metastasis (LNM) and capsular invasion (CI), which may lead to misclassification of high-risk patients.
+Such undetected risks pose safety concerns for those undergoing radiofrequency ablation.
+This study aimed to develop an artificial intelligence (AI)-assisted predictive model that integrates ultrasound radiomics and deep learning features to improve the identification of LNM and CI, thereby enhancing risk stratification and optimizing treatment strategies for cT1N0M0 PTC patients.

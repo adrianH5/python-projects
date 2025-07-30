@@ -1,0 +1,8 @@
+Receptor-interacting protein kinase 3 (RIP3)-mediated necroptosis has attracted interest as a potential target for cancer therapy as it boosts tumor immunogenicity.
+Here, we synthesized a pH-sensitive polymer (CA) by conjugating aminopropyl imidazole (API) to chondroitin sulfate (CHS) for RIP3 gene delivery.
+CA can target cancer cells due to the specific binding ability of CHS to CD44 which is overexpressed in cancer cells.
+In addition, the introduction of API conferred pH sensitivity, facilitating efficient endosomal escape and enhancing gene delivery efficiency.
+Increased levels of high mobility group box-1, EEA1, and Rab5 and high activation of RIP3/mixed-lineage kinase domain-like pseudokinase (MLKL) signaling were observed in the CA-shielded RIP3 complex (CA-PEI/RIP3)-treated groups.
+Significant tumor selectivity and ablation efficacy of CA-PEI/RIP3 were confirmed in A549 xenografts and LLC1 orthotopic lung cancer mouse models.
+Furthermore, CA-PEI/RIP3-induced necroptotic cell death could enhance the immune response by increasing phagocytosis of dendritic cells (DCs), resulting in large numbers of CD4+ and CD8+ T cells and mature DCs infiltrating tumor tissues and lymph nodes.
+Collectively, CA-PEI/RIP3 showed significant potential in cancer gene therapy due to the enhanced transfection efficiency and the tumor-targeting properties of CA, providing a safe and robust strategy to activate the immune response for cancer immunotherapy.

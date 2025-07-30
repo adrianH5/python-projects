@@ -1,0 +1,5 @@
+Current cancer treatments are challenged by multidrug resistance (MDR).
+MDR can be a result of overexpression of ABC transporters, such as the multidrug resistance-associated protein 1 (MRP1).
+They act as efflux pumps expelling chemotherapy outside of the cells, and ABC transport inhibitors can overcome MDR.
+To identify and characterize new MRP1 inhibitors, 16 tetrahydroquinoline/4,5-dihydroisoxazole derivatives (A1 - D4) were tested in stably transfected cells overexpressing MRP1 (BHK21-MRP1).
+Compounds A1 and D1 showed the best results (IC

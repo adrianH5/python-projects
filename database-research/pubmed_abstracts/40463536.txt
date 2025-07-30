@@ -1,0 +1,4 @@
+Data on COVID-19 outcomes in Asian Americans and Pacific Islanders (AAPI) are lacking.
+We analyzed data from 6,244 patients from the COVID-19 and Cancer Consortium, including 6.0% AAPI patients, to examine disparities in outcomes following acute COVID-19.
+Despite AAPI patients having lower median BMI than non-Hispanic White (NHW) patients and higher diabetes rates, both groups showed similar 30-day mortality and COVID-19 outcomes.
+In multivariable analyses, morbid obesity (BMI >35 kg/m

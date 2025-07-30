@@ -1,0 +1,6 @@
+Mature tRNAs and rRNAs are derived from larger precursor transcripts through intricate endo- and exonuclease processing steps.
+Here, we present a protocol to analyze rRNA and tRNA processing using total RNA extracted from human cells.
+We describe steps for separating RNA by denaturing electrophoresis, followed by northern blotting.
+We detail procedures for detecting pre-rRNA intermediates or specific tRNA species using biotin-labeled probes imaged via fluorescence or chemiluminescence.
+This non-radioactive, high-sensitivity assay enables the investigation of rRNA and tRNA expression dynamics.
+For complete details on the use and execution of this protocol, please refer to Hwang et al.

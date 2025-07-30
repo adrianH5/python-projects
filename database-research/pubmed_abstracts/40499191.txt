@@ -1,0 +1,4 @@
+Developmental processes are carefully regulated programs that are present in multiple kingdoms of life and that generally result in cell differentiation and specialization.
+This regulation can be mediated in part by checkpoints that monitor the progression of development to ensure that earlier steps occur successfully before later steps are initiated.
+Bacterial endospore formation (i.e., sporulation) is a well-studied developmental program that transforms a progenitor cell into a dormant cell type in response to environmental stress and that serves as a model for the discussion of checkpoint mechanisms used to monitor development.
+This review focuses on the checkpoints monitoring bacterial sporulation, with an emphasis on the model gram-positive bacterium

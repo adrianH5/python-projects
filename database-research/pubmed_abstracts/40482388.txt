@@ -1,0 +1,6 @@
+Hypoxia is a common feature of solid tumors, and activation of hypoxia-inducing factors in the tumor hypoxia microenvironment can lead to complex reprogramming of glucose metabolism in tumor cells.
+In particular, the unique glucose metabolism pattern of tumor cells, mainly glycolysis pathway, provides conditions for tumor growth, metastasis, immune escape and drug resistance.
+Drug development for glycolysis-related targets is more targeted and safer than traditional chemotherapy drugs, and drug delivery systems offer favorable strategies for improving the targeted therapy of these drugs in vivo.
+Here, we review drug delivery systems that target tumor glycolysis, including specific small molecule inhibitors, siRNA, and other nanodelivery systems that affect glycolysis, and note the multifunctional anti-tumor nanodelivery systems that combine multiple therapeutic modalities including chemotherapy, photothermal, photodynamic, sonodynamic, chemodynamic therapies, as well as photoacoustic, magnetic resonance imaging.
+Several major challenges and future directions in the development and transformation of anti-tumor nanostrategies for glycolysis are discussed.
+The development of innovative anti-tumor nanodelivery systems related to tumor glycolysis could provide powerful weapons against tumor progression in the foreseeable future.

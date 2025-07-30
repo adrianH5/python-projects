@@ -1,0 +1,5 @@
+Although progress has been made in treating glioblastoma (GBM), with fewer than 5% of patients surviving more than 5 years after diagnosis.
+For reasons that are not well understood, females are roughly 60% as likely as males to develop GBM, and female patients consistently respond better to treatment than do males.
+Understanding the molecular etiology of these sex differences in tumor progression and resiliency to treatment could reveal potent new therapeutic targets, ultimately improving survival of both male and female GBM patients.
+Here we show that the transcription factor Egr1 is a primary mediator of sex differences in multiple GBM tumorigenic phenotypes.
+In multivariate analysis, high levels of

@@ -1,0 +1,7 @@
+Combining radiotherapy with immune checkpoint inhibitors is a promising approach to improve the effectiveness of cancer treatment.
+However, the success rates of these clinical studies are limited.
+It is essential to determine the optimal irradiation scheme that maximizes the therapeutic effect by taking into account the balance between the positive and negative effects of radiation on immunity.
+In this context, we developed a mathematical mechanistic model that simulates (1) the balance between effector and exhausted cytotoxic T-lymphocytes (CTLs), (2) the number of neoantigens released by high-dose irradiation, and (3) the impact of radiation on draining lymph nodes (DLNs) for systemic anti-tumor immunity, and tested whether this mathematic model fits in several animal experiments.
+Our mechanistic model reproduced the anti-tumor effects of several cancer treatment models for combination therapies with radiation, immune checkpoint inhibitors, and/or a metabolic modulator.
+Furthermore, this mechanistic model simulated that tumor suppression in distant metastatic foci, known as the abscopal effect, was dysregulated by hypofractionated high-dose irradiation or by the direct radiation exposure on DLN.
+The mechanistic model successfully reproduced tumor control under various treatment conditions with appropriate parameters, indicating that it may be useful for optimizing immunoradiotherapy prescriptions.

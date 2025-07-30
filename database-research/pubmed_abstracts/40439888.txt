@@ -1,0 +1,11 @@
+Hepatocellular carcinoma (HCC) is the most prevalent type of primary liver cancer.
+Many medications that had been used for a long period to treat the illness were eventually stopped due to negative effects or the development of drug resistance in HCC patients.
+Canagliflozin (CANA), a sodium-glucose cotransporter 2 (SGLT2) inhibitor, showed in vitro anti-carcinogenic efficacy against various cancer models' other livers.
+The current study used rat models to examine canagliflozin's therapeutic role against experimentally induced HCC.
+A total of 32 rats were divided into four groups, eight in each: negative control; HCC control: rats were fed a choline-deficient diet (CDD) and subjected to diethyl nitrosamine and thioacetamide (DEN/TAA) injections for 15 weeks; and treated groups: rats were given CANA (10 and 20 mg/kg b.wt.)
+orally from the 7th week of the experiment till the end.
+All the measured markers of HCC, liver function, and inflammatory markers were elevated in the HCC control group compared to the negative control (CTRL).
+Regarding immunohistochemistry, the HCC group showed downregulation in caspase-3 expression and upregulation in PCNA expression.
+On the other hand, canagliflozin-treated groups showed dose-dependent improvement in the measured parameters associated with HCC.
+Moreover, canagliflozin therapy ameliorates the histopathological alterations in HCC-induced rats.
+Taken together, CANA exhibits anti-HCC effects by activating AMP-activated protein kinase (AMPK) and suppressing the HIF-1α/YAP/TAZ pathway, making it a forthcoming therapeutic option for HCC.

@@ -1,0 +1,15 @@
+Translation of symbols in one chemical language into another defined genetics.
+Yet, the co-linearity of codons and amino acids is so commonplace an idea that few even ask how it arose.
+Readout is done by two distinct sets of proteins, called aminoacyl-tRNA synthetases.
+Aminoacyl-tRNA synthetases must enforce the rules first used to assemble themselves.
+To understand the roots of translation, we must experimentally test the structural codes that the earliest aminoacyl-tRNA synthetases used to recognize both amino acid and RNA substrates.
+We present here new results on five different facets of that problem.
+(i) The surfaces of structures coded by opposite strands of the same gene have opposite polarities.
+Core residues in proteins from one strand are surface residues in proteins from the other strand.
+The complementarity of base pairing thus projects into the proteome.
+That leads in turn to contrasting amino acid and RNA substrate binding modes.
+(ii) Escherichia coli reproduces in vivo a nested hierarchy of active excerpts, or "urzymes," similar to those we had designed as models for ancestral aminoacyl-tRNA synthetases.
+(iii) A third novel deletion produced in vivo and a new Class II urzyme suggest how to design bidirectional urzyme genes.
+(iv) Codon middle base pairing provides a basis to constrain Class I and II aminoacyl-tRNA synthetase family trees.
+(v) Aminoacyl-tRNA synthetase urzymes acylate class-specific subsets of an RNA library, showing urzyme RNA substrate specificity for the first time.
+Four new tree-building tools augment these results to compose a viable platform for experimental study of the origins of genetic coding.

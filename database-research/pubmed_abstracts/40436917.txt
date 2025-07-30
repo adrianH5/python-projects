@@ -1,0 +1,14 @@
+Pemetrexed, a multi-target antifolate chemotherapeutic widely used in non-small cell lung cancer (NSCLC) and malignant pleural mesothelioma (MPM), is associated with various adverse drug events (ADEs), some of which may be underrecognized in clinical trials.
+This study conducted a comprehensive pharmacovigilance analysis using two major spontaneous reporting systems-FAERS (2004Q1-2024Q3) and JADER (2007Q1-2024Q3)-to evaluate pemetrexed-related ADEs.
+Disproportionality analysis was performed using four algorithms: Reporting Odds Ratio (ROR), Proportional Reporting Ratio (PRR), Bayesian Confidence Propagation Neural Network (BCPNN), and Multi-Item Gamma Poisson Shrinker (MGPS).
+Time-to-onset (TTO) patterns were assessed using Weibull distribution modeling.
+A total of 12,026 and 4,522 pemetrexed-related ADE reports were retrieved from FAERS and JADER, respectively.
+The most frequently reported ADEs included hematologic toxicities (anemia, neutropenia, thrombocytopenia), gastrointestinal disorders (nausea, vomiting, diarrhea), and renal impairment.
+Strong safety signals were consistently identified for these events.
+Notably, novel ADE signals such as hepatobiliary injury, endocrine dysfunction, and thromboembolic events were observed in both databases.
+Subgroup analyses revealed sex- and age-specific ADE patterns, with younger patients and males showing distinct toxicity profiles.
+Sensitivity analysis excluding combination therapies confirmed the robustness of primary signals.
+TTO analysis revealed that most ADEs occurred within the first two months after pemetrexed initiation, with a median TTO of 27 days and a predominance of early failure patterns (Weibull β < 1), highlighting the importance of close monitoring during early treatment.
+Rare but severe ADEs, including myocarditis, sepsis, cholestasis, and pseudocellulitis, were identified, several of which are not currently listed in official drug labeling.
+This study provides a comprehensive safety assessment of pemetrexed, confirming known toxicities and identifying new safety signals.
+Continuous pharmacovigilance is essential to optimize its clinical use and improve patient safety.

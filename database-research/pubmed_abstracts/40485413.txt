@@ -1,0 +1,5 @@
+Cervical dislocation (CD) is a widely used method worldwide for humanely killing adult laboratory mice in accordance with national legislation, such as the Animals (Scientific Procedures) Act 1986 in the UK.
+However, concerns have been raised regarding the limitations and potential risks associated with CD, including a reported failure rate of up to 20% and the risk of injury to the thoracic or lumbar spine region.
+To address these concerns, we have adopted a CD method that avoids the use of tension on the tail or any additional tools.
+In this study, we detail our process of validation through self-reporting and direct observation leading up to present our implementation of computerised tomography and three-dimensional imaging software to evaluate the effectiveness and efficiency of this tail-force free CD method.
+Our findings reveal a 100% success rate in achieving accurate cervical dislocation without causing damage to other vertebrae, thereby providing an improved and more reliable approach to humane killing for both male and female adult laboratory mice.

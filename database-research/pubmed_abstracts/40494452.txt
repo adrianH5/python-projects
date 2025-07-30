@@ -1,0 +1,11 @@
+Radiation resistance poses a significant challenge in colorectal cancer (CRC) treatment.
+Transfer RNA-derived fragments (tRFs) have emerged as crucial regulators in cancer biology, yet their roles in CRC radioresistance remain largely unexplored.
+In this study, high-throughput sequencing was performed to identify differentially expressed tRFs in radioresistant and radiosensitive CRC cells, followed by qRT-PCR validation in cell lines and clinical specimens.
+The functional role of tRF-17-877S6V2 was investigated through gain- and loss-of-function experiments, while target prediction, dual-luciferase reporter assays, and western blot analyses were conducted to identify and validate the downstream target.
+Our results revealed that tRF-17-877S6V2 was significantly downregulated in radioresistant CRC cells and tissues.
+Mechanistically, we identified ENO1 as a direct target of tRF-17-877S6V2, with their expression levels showing significant inverse correlation.
+Overexpression of tRF-17-877S6V2 enhanced radiosensitivity, while its inhibition promoted radioresistance.
+ENO1 overexpression promoted radioresistance, which was reversed by tRF-17-877S6V2, while ENO1 knockdown enhanced radiosensitivity and was partially rescued by tRF-17-877S6V2 inhibition.
+In vivo experiments further validated the radiosensitizing effect of tRF-17-877S6V2 in xenograft models.
+The tRF-17-877S6V2/ENO1 axis was demonstrated to modulate CRC cell radiation response through regulation of DNA damage repair and cellular survival pathways.
+This study characterizes the tRF-17-877S6V2/ENO1 regulatory axis as a novel mechanism in CRC radioresistance and a potential therapeutic target for improving radiation outcomes.

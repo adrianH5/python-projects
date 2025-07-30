@@ -1,0 +1,3 @@
+Castration-resistant prostate cancer (CRPC) has a poor prognosis and requires novel therapeutic approaches.
+Previously, we discovered that a high dose of human peripheral blood-derived natural killer (PB-NK) cells can have antitumor effects against CRPC.
+However, whether antibodies against prostate-specific membrane antigen (PSMA) can direct adoptive NK cells to the tumor site and therefore decrease NK cell dosage through antibody-dependent cellular cytotoxicity remains unknown.

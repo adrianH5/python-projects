@@ -1,0 +1,8 @@
+As one of the most advanced in vitro drug screening platforms, tumor organoids require accurate pharmacosensitivity assessments to ensure reliable results.
+However, achieving accurate volume assessment of these 3D organoid models remains a challenge in traditional drug screening processes.
+Here, a label-free organoids photoacoustic imaging (LFOPI) system is introduced for high-resolution 3D imaging of tumor organoids.
+The capabilities of the LFOPI system are evaluated by monitoring structural transformations in melanoma organoids.
+The LFOPI system is further employed for volumetric drug screening of melanoma tumor organoids.
+Drug screening with cisplatin and temozolomide reveal that LFOPI-based organoid volume data correlates more strongly with viability trends (0.8627 and 0.9069) than traditional diameter-based methods (0.8190 and 0.7849).
+Additionally, immunotherapy drug screening demonstrates the capability of the system to precisely assess the 3D volumes of irregularly shaped organoids.
+This LFOPI system provides a promising method for label-free drug screening and personalized treatment.

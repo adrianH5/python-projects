@@ -1,0 +1,11 @@
+Colorectal cancer (CRC) progression is closely associated with the dynamic evolution of the tumor microenvironment.
+As a key component of the tumor microenvironment, tumor-associated neutrophils exhibit protumor properties and dynamically regulate malignant processes by secreting bioactive mediators that coordinate interactions among immune cells.
+RACGAP1, a cytoplasmic division protein, is highly expressed in various cancers.
+Here, we investigated the impact of RACGAP1 on CRC cells and the immune microenvironment.
+Bioinformatics analysis revealed that RACGAP1 was overexpressed in CRC patients.
+In vitro, Racgap1 silencing triggered G2/M phase arrest and significantly inhibited CRC cell proliferation and induced CRC cell apoptosis.
+In vivo, Racgap1 knockdown impaired tumor growth in mouse CRC models.
+RNA sequencing analysis demonstrated that Racgap1 expression significantly influenced immune-related pathways.
+Further analyses and experimental validation showed that Racgap1 was negatively correlated with neutrophil infiltration in CRC.
+Chemokine array data indicated that chemokines upregulated following Racgap1 silencing affected neutrophil migration and chemotaxis.
+Overall, our study suggests that RACGAP1 regulates the CRC microenvironment by modulating tumor cell apoptosis and neutrophil infiltration, highlighting its potential as a biomarker and immunotherapeutic target in CRC.

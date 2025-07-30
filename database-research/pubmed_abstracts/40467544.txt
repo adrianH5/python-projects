@@ -1,0 +1,6 @@
+In homeostasis, counterbalanced morphogen signalling gradients along the vertical axis of the intestinal mucosa regulate the fate and function of epithelial and stromal cell compartments.
+Here, we use a disease-positioned mouse and human tissue to explore the consequences of pathological BMP signalling dysregulation on epithelial-mesenchymal interaction.
+Aberrant pan-epithelial expression of the secreted BMP antagonist Grem1 results in ectopic crypt formation, with lineage tracing demonstrating the presence of Lgr5(-) stem/progenitor cells.
+Isolated epithelial cell Grem1 expression has no effect on individual cell fate, indicating an intercompartmental impact of mucosal-wide BMP antagonism.
+Treatment with an anti-Grem1 antibody abrogates the polyposis phenotype, and triangulation of specific pathway inhibitors defines a pathological sequence of events, with Wnt-ligand-dependent ectopic stem cell niches forming through stromal remodelling following BMP disruption.
+These data support an emerging co-evolutionary model of intestinal cell compartmentalisation based on bidirectional regulation of epithelial-mesenchymal cell fate and function.

@@ -1,0 +1,9 @@
+Inotuzumab Ozogamicin (InO) is an antibody-calicheamicin conjugate with high efficacy in lymphoid malignancies.
+It targets the B-cell surface protein CD22, which is expressed in most B-ALL cases, albeit with variable intensity.
+However, factors governing CD22 expression and thus leukemia sensitivity to InO remain incompletely understood.
+Using multi-omic characterization of 196 human B-ALL samples, coupled with ex vivo InO sensitivity profiling, we show that early leukemia differentiation arrest at the Pre-pro-B stage is associated with resistance to InO.
+Screening 1,639 transcription factor genes prioritized Early B-cell Factor 1 (EBF1) as a key regulator of CD22 expression (false discovery rate=7.1×10-4).
+Comparing the ATAC-seq profiling results of the most InO-sensitive and -resistant cases (LC50 <10th vs. >90th percentile, n=18), the binding motif for EBF1 was strikingly enriched in regions with differential open chromatin status (P=8×10-174).
+CRISPR interference targeting EBF1 binding sites at the CD22 locus led to ~ 50-fold reduction in cell surface CD22 expression, and consequently ~ 22-fold increase in InO resistance in ALL cell lines.
+Interestingly, within BCR::ABL1 ALL, we observed intra-subtype heterogeneity linked to EBF1 transcriptional downregulation (P=1.1×10-15) and/or somatic alteration (P=0.004), which led to reduced CD22 expression (P=8.3×10-11) and ex vivo and in vivo resistance to InO.
+Collectively, these findings point to the direct impact of EBF1 on CD22 expression during B-cell development, which in turn contributes to inter-patient variability in InO response, even within the same subtype of B-ALL.

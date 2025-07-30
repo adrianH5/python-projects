@@ -1,0 +1,4 @@
+Minimally-invasive liver resection (MILR) has been increasingly adopted across the world with improvements in surgical technique and instrumentation.
+While MILR has been shown to confer several perioperative benefits compared to open liver resection, the steep learning curve associated with MILR remains a significant hurdle.
+Robotic liver resection (RLR) leverages on inherent technical advantages the robotic platform has over conventional laparoscopy, holding the potential for RLR to achieve the perioperative advantages of MILR while overcoming the limitations of laparoscopic liver resection (LLR).
+In this review, we summarize the current evidence comparing the outcomes of RLR and LLR from the International Robotic and Laparoscopic Liver Resection Study Group.

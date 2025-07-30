@@ -1,0 +1,10 @@
+Ovarian cancer (OC) is one of the most lethal gynecological cancers worldwide, with vague symptoms, an insidious onset, and high recurrence rates.
+With limitations in screening tests, OC is often diagnosed in late stages, resulting in high mortality rates and poor prognosis.
+To improve survival and quality of life for OC patients, there is an urgent need for effective biomarkers that can aid in early detection, treatment monitoring, and prognosis.
+Despite technological advancements, clinical applications remain limited and existing OC biomarkers often lack high sensitivity and specificity.
+As proteins are direct executors of biological processes, they are key to understanding the molecular and cellular mechanisms underlying pathological changes.
+Proteome-based biomarkers hold promise for improving OC diagnosis and management.
+Here, we review established and emerging technologies for identifying proteome-based biomarkers that, alone or in combination, could enhance OC diagnostics with a focus on future improvements.
+Single and multiple proteome biomarkers, including glycoproteome and peptidome-based ones, are assessed with respect to their sensitivity, specificity, and clinical utility for ovarian cancer diagnosis.
+Key diagnostic techniques are critically reviewed, including mass spectrometry-based methods for biomarker discovery, immunoassay-based approaches for biomarker validation and current clinical applications, and emerging technologies such as molecular Raman spectroscopy, which shows promise for identifying spectral markers linked to biomarkers and future clinical use.
+In future, a multiplexed biomarker panel─utilizing either single or multimodal diagnostic platforms─would offer diverse applications in ovarian cancer diagnosis, further strengthening its translational potential in clinical practice.

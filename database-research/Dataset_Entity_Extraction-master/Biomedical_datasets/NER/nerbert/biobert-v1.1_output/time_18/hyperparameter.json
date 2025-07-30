@@ -1,0 +1,20 @@
+{
+    "time": 18,
+    "MAX_LEN": 128,
+    "optimizer": "AdamW",
+    "bs": 4,
+    "SEED": 42,
+    "learning_rate": 1e-05,
+    "eps": 1e-08,
+    "epochs": 10,
+    "max_grad_norm": 1.0,
+    "warmup_steps": 500,
+    "model_name": "dmis-lab/biobert-v1.1",
+    "BIOES": "False, use BIO",
+    "do_lower_case": false,
+    "special_tokens": true,
+    "add_token": true,
+    "updated_data": true,
+    "no_spacy": true,
+    "loss_weights": true
+}

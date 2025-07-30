@@ -1,0 +1,11 @@
+Colorectal cancer (CRC) presents significant challenges due to limited targeted therapeutic options.
+This study integrates multi-omics analysis and AI to identify tumor antigens and immune gene targets for personalized immunotherapy.
+Using TCGA, differential expression and mutation analysis, we identified overexpressed and mutated genes in CRC.
+Among these, 62 neoantigens were shortlisted as potential tumor antigens.
+Survival analysis highlighted prognostic antigens, while their correlation with immune gene expression suggested these antigens could trigger immune activation.
+Three key neoantigens (TTK, EZH2, and KIF4A) emerged as promising candidates for immunotherapy.
+Based on immune gene activity, patients were categorized into three Immune Subtypes (IS).
+IS groups 1 and 2, characterized by high immune gene expression and immune activation markers, exhibited better survival outcomes, while IS 3, with low immune gene expression, showed poor survival and immune unresponsiveness.
+Neoantigen-based vaccines could potentially boost tumor recognition and improve survival for patients in immune-cold subtypes.
+Machine learning models like LightGBM, XGBoost, and XGBRF predicted optimal immune targets for vaccine design, validated through SHAP analysis.
+This study provides a machine learning- driven framework to identify tumor antigens and immune targets, offering a promising strategy for CRC immunotherapy tailored to immune subtype-specific responses.

@@ -1,0 +1,10 @@
+Unchecked growth in three-dimensions (3D) in culture is a key feature of immortalized cells on the path to malignant transformation and hence a potential target phenotype for prevention.
+Also, expression of genes driving this process, but not that of 2D growth, would likely be more specific to cancer development and their inhibition would be less toxic to normal cells, many of which can grow in 2D but rarely in 3D culture.
+To define such genes, we compared CRISPR depletion screens performed in HBLAK, a spontaneously immortalized, non-tumorigenic human urothelial cell line, grown in 2D to those in 3D.
+Using the CRISPR Bassik DTKP (drug target kinase phosphatase) deletion library targeting 2,333 genes, we identified 85 genes which were specifically lost in 3D cultures.
+Prioritizing hits to those associated with bladder cancer in patients provided us with a set of 11 genes.
+Only one gene, MAPK1 remained relevant if a human pan-cancer criteria was applied.
+Single gene in vitro validation confirmed that MAPK1 inhibition was specific to 3D growth.
+We also found that MAPK1 depletion led to significant growth reductions in human tumor xenografts in vivo.
+Inhibition of MAPK1 by Ulixertinib, an orally active MAPK1 inhibitor, led to human bladder cancer growth inhibition in both 3D in vitro and in vivo models.
+In summary, screening for genes specifically driving 3D growth in immortalized cells may provide targets for both prevention and early therapy in bladder and other cancers while potentially limiting therapeutic toxicity.

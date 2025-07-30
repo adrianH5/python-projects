@@ -1,0 +1,7 @@
+Autophagy inhibitors are promising compounds to treat pancreatic ductal adenocarcinoma (PDA) but their efficacy in patients is unclear, highlighting a need to understand mechanisms of resistance.
+We used a novel approach to uncover metabolic adaptations that bypass autophagy inhibition.
+Utilizing PDA cells with acquired resistance to different autophagy inhibitors, we found that severe autophagy depletion induces metabolic rewiring to sustain TCA intermediates and nucleotides for biosynthesis.
+Long-term autophagy inhibition results in altered pyruvate metabolism likely regulated by lower pyrimidine pools.
+Cells adapting to loss of autophagy preferentially salvage pyrimidines to replenish these pools instead of synthesizing them de novo.
+Exploiting this metabolic vulnerability, we found that acquired resistance to autophagy inhibition promotes increased salvage and therefore sensitivity to pyrimidine analogues, including gemcitabine and trifluridine/tipiracil leading to combinatory effects with autophagy inhibitors and pyrimidine analogs.
+These studies provide mechanistic insight defining how autophagy inhibition can be leveraged to treat pancreatic cancer.

@@ -1,0 +1,6 @@
+Artificial Intelligence (AI) has become part of our everyday lives and is also increasingly applied in psychosocial healthcare as it can enhance it, make it more accessible, and reduce barriers for help seeking.
+User behaviour and readiness for AI can be predicted by various factors, such as perceived usefulness (PU) of AI, personality traits and mental health-related variables.
+Investigating these factors is essential for understanding user acceptance and the future use of AI tools in mental health.
+This study examines the individual factors that influence the PU of AI in mental health care.
+In addition, it examines how PU of AI affects the use of mental health apps.
+For ethical and practical reasons, these apps were considered independently of their AI integration, aiming to support the development of AI-driven mental health applications.

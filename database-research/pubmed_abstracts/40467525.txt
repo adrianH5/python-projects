@@ -1,0 +1,7 @@
+Radioactive iodine therapy (I-131) is widely used in both human and veterinary medicine for treating thyroid cancer, utilising the common biological behaviour of thyroid tissues.
+Recognising the need to better understand the prognostic factors affecting heterogeneous treatment outcomes, this retrospective study analysed 32 dogs with thyroid carcinoma treated at the University of Missouri Veterinary Health Center.
+The study examined variables such as patient demographics, tumour characteristics, and first-order radiomic features.
+Purposeful feature selection was employed to identify both significant and confounding factors, with a focus on treatment response and survival time.
+Specific administered activity (SAA) emerged as a significant predictor of treatment response, with higher SAA levels improving odds of response (p value = 0.02, OR = 10.28), while clinical signs and nodal stage (N-stage) were identified as significant confounders.
+Moreover, metastasis stage (M-stage) (p < 0.01, OR = 0.35) and tumour-to-salivary gland dose uptake ratio (TSGR) significantly affected survival time (p = 0.02, OR = 1.57), with TSGR displaying a notable nonlinear effect.
+These results underline the importance of refined patient stratification and highlight the potential for personalised dose adjustments to enhance outcomes in canine thyroid cancer.

@@ -1,0 +1,15 @@
+T1	Repository 1146 1152	gnomAD
+T2	Creator 1154 1177	Karczewski et al., 2020
+T3	Repository 1180 1212	Korean Reference Genome Database
+T4	Creator 1214 1231	Jung et al., 2020
+T5	Repository 1238 1245	TogoVar
+T6	URL 1298 1331	https://togovar.biosciencedbc.jp/
+T7	Dataset 1384 1404	1000 Genomes Project
+T8	Creator 1406 1425	Clarke et al., 2017
+T9	Dataset 1428 1450	Gene-Tissue Expression
+T10	Creator 1452 1475	Consortium et al., 2017
+T11	Dataset 1482 1513	Simons Genome Diversity Project
+T12	Creator 1515 1535	Mallick et al., 2016
+T13	Repository 1829 1835	gnomAD
+T14	Creator 1837 1860	Karczewski et al., 2020
+R1	hasAttr	Arg1:T5	Arg2:T6

@@ -1,0 +1,10 @@
+Multiple myeloma (MM) is a hematological malignancy characterized by expanding clonal plasma cells in the bone marrow (BM) that produce monoclonal immunoglobulin.
+It is an incurable disease, accounting for about 10% of blood malignancies and the second most common hematologic malignancy.
+Therefore, in-depth research into the molecular mechanisms and therapeutic targets of the disease is crucial.
+For the first time, we performed high-throughput chromosome conformation capture (Hi-C) analysis of plasma cells in five multiple myeloma patients, and integrated it with genome resequencing and transcriptomic associated with genomic variation and gene expression.
+As a result, 19 specific TAD (Topologically Associating Domain) boundaries in MM samples related to the immune response and Wnt signaling pathways were identified.
+Additionally, Loop structures were also analyzed, revealing that promoter-enhancer-associated loops were the most prevalent.
+Genomic characteristics of MM patients were explored, identifying SNPs, InDels, and CNVs, with variations in the CDS region potentially affecting gene function.
+Transcriptome analysis showed differentially expressed genes in MM patients, mainly involved in p53 signaling and cell adhesion.
+Multi-omics analysis identified overlapping genes related to MM, including those involved in MHC class II protein complex assembly and antigen presentation.
+The study provides insights into the complex genomic and transcriptomic changes in MM plasma cells, potentially aiding in identifying therapeutic targets.

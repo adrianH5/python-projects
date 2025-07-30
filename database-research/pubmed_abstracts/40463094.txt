@@ -1,0 +1,8 @@
+Phosphatase of Regenerating Liver 3 (PRL-3) is frequently upregulated in cancer and associated with poor prognosis, yet its oncogenic mechanism remains unresolved.
+Although traditionally studied for its phosphatase activity, PRL-3 also engages in protein-protein interactions via its catalytic site, notably binding the CNNM magnesium transporters, rendering these functions mutually exclusive.
+The commonly used C104S mutant disrupts both activities, confounding interpretations of prior studies.
+To dissect PRL-3's distinct functions, we employed mutants selectively deficient in phosphatase activity (C104D) or CNNM binding (R138E).
+In zebrafish models of acute lymphoblastic leukemia (ALL) and rhabdomyosarcoma (RMS), as well as in human cancer cell lines, both wild-type PRL-3 and C104D enhanced tumor initiation, growth, and dissemination, while R138E had no effect.
+These findings indicate that PRL-3 promotes cancer via non-catalytic mechanisms.
+To support therapeutic development, we established an in vitro FRET-based assay to screen for inhibitors of the PRL-3:CNNM interaction and validated a cyclic peptide as a positive control.
+By demonstrating that PRL-3 enhances cancer progression independently of its catalytic activity, this study shifts focus toward targeting its binding functions as a therapeutic strategy.

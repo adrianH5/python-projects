@@ -1,0 +1,7 @@
+Risk stratification in localized prostate cancer (PCa) remains imprecise.
+Computational pathology has emerged as an attractive option for improving risk stratification, but current approaches either lack interpretability or focus solely on tumor morphology.
+Here, we identify, validate, and provide interpretability for an immune microenvironment-derived computational pathology biomarker for high-grade PCa.
+Using digitized hematoxylin and eosin-stained (H&E) slides from two independent cohorts of patients treated with radical prostatectomy (n=490), we found that spatial clustering of immune clusters, but not immune cell abundance, was independently associated with reduced risk of distant metastasis for high-grade disease but not low-grade.
+Joint analysis of H&E images and RNA sequencing (n=326) revealed that in high-grade disease, high-cluster samples were enriched in CD8+ T cells, activated memory CD4+ T cells, and Tregs, as well as clonal T cell populations, overall suggestive of an underlying T cell-mediated antitumor response.
+No such enrichment was found in low-grade tumors.
+These findings establish immune spatial architecture as a novel, interpretable computational pathology biomarker and provide insight into the immune landscape of high-grade PCa.

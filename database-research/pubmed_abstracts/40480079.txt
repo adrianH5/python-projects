@@ -1,0 +1,3 @@
+The TCbHP regimen, consisting of combining docetaxel (T), carboplatin (Cb), trastuzumab (H), and pertuzumab (P), is the preferred neoadjuvant treatment for locally advanced human epidermal growth factor 2 (HER2)-positive breast cancer.
+However, about 40 % of patients develop resistance to this treatment.
+Adding TKIs like pyrotinib to anti-HER2 antibodies may enhance efficacy and reduce resistance, but the mechanisms are not fully understood.

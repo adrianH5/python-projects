@@ -1,0 +1,9 @@
+The interpretation of radiological images for head and neck tumors often lacks standardized protocols, increasing the risk of diagnostic inconsistencies.
+This study introduces a computerized radiological checklist designed to enhance diagnostic accuracy and standardize the evaluation of oropharyngeal squamous cell carcinoma (OPSCC) imaging among otolaryngologists (ENTs).
+A radiological checklist was developed based on a comprehensive literature review and digitized into an intuitive interface.
+A concordance study involving 15 ENTs was conducted, assessing 90 OPSCC cases in two phases: before and after using the checklist.
+Diagnostic agreement with radiologists was measured using Cohen's kappa coefficient, and a mixed-effects linear model evaluated accuracy improvements, accounting for patient sex, age, stage, and HPV status.
+The checklist significantly improved diagnostic concordance, increasing Cohen's kappa from 0.28 (95% CI: 0.09-0.46) without it to 0.66 (95% CI: 0.55-0.77) with it (p < 0.01).
+The mixed-effects model showed a mean improvement of 2.66 correct responses in the checklist group (SE 0.31, p < 0.001).
+This study supports the effectiveness of this checklist in improving the diagnostic consistency and accuracy of OPSCC imaging.
+This method shows promise as a practical tool to reduce errors and enhance clinical practice among ENT specialists.

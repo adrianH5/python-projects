@@ -1,0 +1,7 @@
+Polymeric hydrogels are paramount to outstanding applications in materials science, biology, medicine, pharmacy.
+Their similarity to living tissues is leveraged in clinical branches (oncology, cardiology, immunology, neurology, wound healing) for delivering a large range of drugs (encompassing DNA, RNA, protein molecules) and realizing in-vivo models of stimuli-responsive or controlled drug release.
+Rubber elasticity theory and the swollen network hypothesis are key for properly designing the geometric and mechanical features of hydrogels and polymer networks.
+The assumption of a Gaussian distribution of end-to-end lengths in a polymer molecule, however, can break down in several cases.
+Here, strongly supported by Low field NMR and rheology experiments, we propound the generalized Weibull law of extreme value statistics (EVS) to have universal validity in hydrogel materials.
+Mesh size values that account for an intrinsic statistical dependence between monomeric positions (or stiffness) show much better agreement with measurements conducted on physically crosslinked samples (agar, alginate and scleroglucan), including sputum specimens (rich in mucins) from patients affected by chronic respiratory conditions (cystic fibrosis) and on chemically crosslinked samples (poly-vinylpyrrolidone, PVP; poly-(ethylene-glycol/propylene-glycol), PEG/PPG).
+Across all ten gels, the Gaussian distribution yields the smallest average mesh size, ranging roughly from 7 nm for the densest alginate 2 % (9 gL

@@ -1,0 +1,9 @@
+The first coronavirus diasease 2019 (COVID‐19) case in South America was reported on 25 February 2020, in Sao Paulo, Brazil, and since has spread so that as of 20 March, cases of SARS‐CoV‐2 infection have been reported from all Latin American countries.
+Therefore, genomic epidemiology studies must be in place to understand the dynamics of COVID‐19 epidemic.
+Colombia, the fifth largest country in South America is the fourth country in number of confirmed new COVID‐19 cases in the region by 30th July 2020.
+Following identification of the first COVID‐19 case in Colombia, on 6 March 2020, in a female traveler returning from Milan, Italy, the Colombian government implemented early control measures.
+Comparative genome analysis of our 88 cases and three previously reported Colombian cases was carried out relative to publicly available background data from 2744 cases sampled from the GISAID EpiCoV database to obtain a full representation of global lineage diversity.
+Consensus viral sequences from each case were also submitted to GISAID (accessions: EPI_ISL_447734‐EPI_ISL_447817).
+Whole genome sequences for the samples included in each dataset were aligned using MAFFT v7.40755
+ with FFT‐NS‐2 algorithm and default parameter settings.
+The genome sequence of 88 samples isolated from patients with COVID‐19 from different regions of Colombia allowed identifying 11 independent lineages, suggesting a massive introduction of the virus in the country (Figure 1).

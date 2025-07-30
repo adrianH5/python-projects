@@ -1,0 +1,8 @@
+CDK5RAP2/CEP215 is a key pericentriolar material (PCM) protein that recruits microtubule-nucleating factors at human centrosomes.
+Using an in vitro reconstitution system, we show that CDK5RAP2 is sufficient to form micron-scale scaffolds using nanometer-scale nucleators in a PLK-1-regulated manner.
+CDK5RAP2 assemblies recruited and activated gamma tubulin ring complexes (γ-TuRCs) which, in the presence of α/β tubulin, generated microtubule asters.
+We found that amino acid F75 in CDK5RAP2 helps to recruit γ-TuRC and is indispensable for γ-TuRC activation.
+Furthermore, our system recapitulated key features of centrosome-amplified cancer cells.
+CDK5RAP2 scaffolds recruited the molecular motor KifC1/HSET, which enhanced concentration of α/β tubulin, microtubule polymerization, and clustering of the assemblies.
+Our results highlight the specificity and selectivity of in vitro generated CDK5RAP2 scaffolds and identify a minimal set of components required for human PCM assembly and function.
+This minimal model offers a powerful tool for studying centrosome biology and dysfunction in human health and disease.

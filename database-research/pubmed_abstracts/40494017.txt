@@ -1,0 +1,14 @@
+Osteosarcoma (OS) is a rare primary malignant bone tumor.
+Despite ongoing research efforts, improvements in the five-year survival rate of OS patients remain limited.
+Therefore, there is an urgent need to identify novel therapeutic agents to improve OS prognosis.
+Brusatol (Bru), a quassinoid extracted from the seeds of Brucea javanica and Brucea sumatrana, has been shown to possess the potential to inhibit tumor metastasis and proliferation.
+In recent years, increasing evidence has highlighted the critical role of ferroptosis-a distinct form of regulated cell death-in cancer therapy.
+However, whether Bru exerts its anti-OS effects by modulating ferroptosis in OS cells remains unexplored.
+Our study demonstrates that Bru exhibits significant anti-OS activity.
+In vivo, Bru inhibited the proliferation of subcutaneous OS cells, prevented OS cell-induced tibial and fibular osteolysis, and prolonged the survival of nude mice.
+In vitro, Bru suppressed OS cell migration and proliferation in a dose-dependent manner.
+Additionally, Bru induced mitochondrial dysfunction and a marked increase in reactive oxygen species in OS cells.
+Integrating RNA-seq analysis, our findings indicate that Bru exerts its anti-OS effects by inducing ferroptosis through the regulation of the Keap1/Nrf2/SLC7A11 signaling pathway.
+Notably, the Keap1 inhibitor KI696 reversed Bru-induced ferroptosis.
+Importantly, we found that the combination of Bru and the chemotherapeutic agent doxorubicin (DOX) significantly enhanced DOX's anti-OS efficacy by activating apoptotic pathways.
+Our study reveals that Bru, as a potent ferroptosis inducer in OS cells, holds promise as a potential therapeutic agent for the treatment of OS.

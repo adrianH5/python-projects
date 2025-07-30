@@ -1,0 +1,8 @@
+MicroRNAs (miRNAs) play crucial roles in various biological processes, and their dysregulation is associated with numerous diseases.
+Accurate quantification of mature miRNAs is essential for their use as biomarkers.
+However, distinguishing between mature miRNAs and pre-miRNAs remains challenging.
+This study introduces a novel method called Blocker Displacement SMOS-qPCR (BL-SMOS-qPCR) to enhance the differentiation between miRNAs and pre-miRNAs.
+The method employs a blocker sequence complementary to the 3' end of pre-miRNA cDNA, effectively competing with the Linker sequence and reducing non-specific amplification.
+We optimized various parameters, including blocker modification, length, concentration, and reaction temperature.
+Results showed that MGB-modified blockers at optimal concentrations significantly improved discrimination between miRNAs and pre-miRNAs, reducing pre-miRNA signals by approximately 3.2-fold.
+The BL-SMOS-qPCR maintained similar dynamic ranges (6˟10

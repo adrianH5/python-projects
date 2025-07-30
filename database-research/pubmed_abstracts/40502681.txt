@@ -1,0 +1,8 @@
+Immune checkpoint therapy targeting PD-L1/PD-1 represents a key cancer treatment strategy.
+PD-L1 binds PD-1 on T cells, suppressing activation and enabling tumor immune escape.
+Although the blockade of the PD-L1/PD-1 pathway has demonstrated significant anti-tumor effects, the overall response rate remains suboptimal in solid tumors.
+Therefore, understanding the molecular mechanisms underlying PD-L1 deregulation is essential for enhancing the efficacy of PD-L1/PD-1 blockade therapies.
+As our comprehension of the regulatory mechanisms governing the PD-L1/PD-1 pathway continues to evolve, ongoing exploration of new immunotherapy targets remains critical.
+This article provides a comprehensive review of recent research concerning the regulation of PD-L1 expression.
+It encompasses aspects such as its structural characteristics, genomic alterations and rearrangements, epigenetic modifications, inflammatory signaling pathways, oncogenic signaling pathways, microRNA regulation, and post-translational modifications.
+Additionally, this article illustrates notable advancements and limitations regarding the application of PD-L1 as an immunotherapeutic target in current clinical settings.

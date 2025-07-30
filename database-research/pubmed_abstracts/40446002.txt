@@ -1,0 +1,15 @@
+Individuals can face various mental and physical health challenges after a cancer diagnosis.
+Digital health platforms can address some of these challenges by providing self-management tools for improving lifestyle behaviors, while reducing the burden on healthcare systems and enhancing healthcare access to underserved populations.
+Involving individuals with a history of cancer, termed here as "cancer survivors", in the development and evaluation of digital health platforms can improve their effectiveness.
+This scoping review aimed to explore the state of patient engagement in research on digital health platforms for cancer survivors, including strategies for engagement, characteristics, and identifying gaps and barriers.
+A systematic search was conducted in OVID Medline, OVID EMBASE, and Scopus from inception until May 2023.
+The review followed Joanna Briggs Institute's guidance for scoping reviews.
+Eligible studies actively involved cancer survivors in the development or evaluation of digital health platforms.
+These studies focused on self-management digital health platforms delivering nutrition, physical activity, and/or mental health interventions.
+Reporting of patient engagement was evaluated according to the Guidance for Reporting Involvement of Patients and the Public 2 (GRIPP2).
+The search strategy captured 7 studies using various patient engagement approaches, with patient and public involvement being the most frequently used (43%, n = 3).
+Studies were conducted in 6 countries and most focused on the development or evaluation of web-based digital health platforms (71%, n = 5).
+Few studies reported all elements of GRIPP2's reporting checklist (29%, n = 2).
+We further identified barriers and areas of improvement for patient engagement in digital health research.
+Patient engagement improves digital health platforms, but few studies have meaningfully included patients, therefore reporting and evaluation of patient engagement is necessary to support its adoption in digital health research projects.
+In addition to exploring the gaps in patient engagement practices, this scoping review serves as a foundation for future research to advance patient-oriented digital health interventions for cancer survivors.

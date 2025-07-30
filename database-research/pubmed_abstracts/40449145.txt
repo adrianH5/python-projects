@@ -1,0 +1,8 @@
+Sensitive detection of circulating tumor cells (CTCs) from peripheral blood can serve as an effective tool in the early diagnosis and prognosis of cancer.
+Many methods based on modern object detectors were proposed in recent years for automatic abnormal cells detection in slide images.
+Although the modes of these methods can also be applied to the CTCs detection, several practical difficulties lead to suboptimal performance of them, such as accurate capture of CTCs in a large number of mixed cells and identification of CTCs and CTC-like cells with similar visual characteristics.
+Here, we develop a new cell-interacting and multi-correcting detector called CMD, and apply H&E-stained slide images to detect CTCs automatically for the first time.
+Specifically, the proposed method incorporates two task-oriented novel modules: (1) a self-attention module for aggregating feature interactions between cells and allowing the model to pay more attention to key abnormal cells, (2) a hard sample mining sampler for progressively correcting predictions of cells with ambiguous classification boundaries.
+Experiments conducted on a multi-center dataset of 1247 annotated slide images confirm the superiority of our method over state-of-the-art cell detection methods.
+The results of ablation experiment part also prove the effectiveness of two modules.
+The source codes of this paper are available at https://github.com/zx333445/CMD.

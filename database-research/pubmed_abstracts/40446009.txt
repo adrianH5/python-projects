@@ -1,0 +1,10 @@
+Identifying genetic mutations contributing to solid tumors by altering the biological pathways related to tumor formation and development is essential for the development of targeted therapies.
+This study aimed to identify commonly mutated genes and altered pathways in canine solid tumors.
+Four dogs with different types of naturally occurring neoplasias (urothelial carcinoma, adenocarcinoma, rhabdomyosarcoma, and chondrosarcoma) were randomly selected and classified into carcinoma and sarcoma groups based on histopathological findings.
+Tumor tissues were analyzed using whole-genome sequencing, and significant variants shared within each tumor group were identified.
+Gene set enrichment analyses were conducted to compare the biological and functional pathways altered by the mutations in each carcinoma and sarcoma group.
+Forty-three and fifty-eight genes were identified in the carcinoma and sarcoma groups, respectively.
+Distinctions between the two tumor groups were noted for mutations related to tumor metastatic function.
+Mutations were identified in genes encoding cell adhesion molecules in the carcinoma group, whereas significant variations in extracellular matrix-related molecules were evident in the sarcoma group.
+This study revealed mutations and modified pathways associated with immune and tumor metastatic functions in canine carcinoma and sarcoma, indicating their significant relevance to the development and progression of each tumor group.
+Additionally, the distinctions indicated that different therapeutic approaches were required for each tumor group.

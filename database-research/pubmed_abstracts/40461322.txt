@@ -1,0 +1,11 @@
+The optimal approach for prostate cancer (PC) screening, including the ideal starting age and most effective diagnostic method, remains under investigation.
+We evaluated the diagnostic performance of magnetic resonance imaging (MRI)-targeted biopsy (TBx) and systematic biopsy (SBx) in detecting clinically significant PC (csPC) in men aged 45-50 yr in PROBASE, a prospective, randomized trial of a risk-adapted screening strategy.
+A total of 525 participants with elevated prostate-specific antigen (≥3 ng/ml) underwent MRI followed by biopsy.
+Of the 209 PC cases detected, 148 (71%) were csPC.
+SBx identified 94% of csPC cases, while TBx detected 74% (p ≤ 0.05).
+SBx also diagnosed significantly more low-grade PCs than TBx (p < 0.001).
+These findings suggest that relying solely on MRI-TBx may lead to underdiagnosis of csPC.
+Combining SBx with TBx remains the most effective strategy for early detection of PC in young men undergoing screening.
+Future research should explore optimization strategies to reduce unnecessary biopsies while maintaining high detection rates for csPC.
+This trial is registered on the ISRCTN registry as ISRCTN37591328 (https://www.isrctn.com/ISRCTN37591328).
+The study protocol can be accessed at https://doi.org/10.1016/j.eururo.2013.05.022.

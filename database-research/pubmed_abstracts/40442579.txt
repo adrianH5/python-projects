@@ -1,0 +1,9 @@
+Identifying the population at risk of rapid progression from hormone-sensitive prostate cancer (HSPC) to lethal castration-resistant prostate cancer (CRPC) is a challenge.
+This work has highlighted important prognostic insights based on proteomics data, magnetic resonance imaging (MRI) and histopathological specimens.
+We retrospectively developed a multi-omics-based model based on 77 patients with HSPC.
+In order to identify the features related to survival time under each mode, we used the Boruta algorithm for feature screening.
+In order to demonstrate the effectiveness of our selected features, we used six machine learning methods to validate the classification of the selected features for each mode.
+A total of 63 proteome signatures, 60 HE signatures, 56 T2WI signatures, and 54 ADC signatures were identified as features related to the speed of HSPC progression.
+Ultimately, 30 multi-omics-based features were determined by the least absolute shrinkage and selection operator (LASSO) method and multivariate cox regression.
+In order to stratify patients with significant disparities in progress, a nomogram model was developed, of which the C-index was 0.906.
+Accordingly, the developed model could help identify patients who are at a high risk of rapid CRPC progression, and aid clinicians in guiding personalized clinical management and decision-making.

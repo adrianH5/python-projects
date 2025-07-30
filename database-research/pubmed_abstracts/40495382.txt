@@ -1,0 +1,9 @@
+Emerging evidence suggests genetic ancestry may influence childhood cancer outcomes, but its impact on pediatric rhabdomyosarcoma (RMS) is unknown.
+We explored genetic ancestry's impact on survival among children with RMS.
+This multi-center observational cohort study is a secondary analysis of previously collected biobanking, genomic, and clinical data.
+The study included 920 individuals with newly diagnosed RMS under 40 years of age enrolled from 2005 to 2017 under the COG soft tissue sarcoma biobanking protocol D9902.
+The primary endpoints were: 1) event-free survival (EFS), defined as the time from study enrollment to tumor recurrence/progression, secondary malignancy, or death from any cause; and 2) overall survival (OS), defined as the time from study enrollment to death from any cause.
+Genetic ancestry was estimated using Grafpop software, and Cox regression assessed the association between genetic ancestry and EFS and OS, considering RMS overall, by fusion status, and histologic subtype.
+Covariates included sex, age at diagnosis, tumor stage, and histology, except during stratified analyses.
+In embryonal RMS and PAX3/7::FOXO1 fusion-negative RMS, individuals with South Asian or Asian-Pacific Islander ancestry showed worse EFS (HR: 2.06; 95% CI: 1.07-3.97; p = 0.03 and HR: 2.01; 95% CI: 1.07 - 3.76; p = 0.03, respectively) and OS (HR: 2.30; 95% CI: 1.09-4.84; p = 0.03 and HR: 2.33; 95% CI: 1.15 - 4.70; p = 0.020, respectively) compared to those with primarily European genetic ancestry.
+These findings suggest that genetic ancestry influences survival outcomes within RMS subtypes, and further understanding may improve precision medicine-based efforts.

@@ -1,0 +1,7 @@
+Small-molecule-binding proteins can neutralize toxins and cytotoxic drugs, but their development is hindered by unpredictable in vivo behaviour and the poor immunogenicity of small molecules, which limits antibody-based approaches.
+Here we present a strategy to engineer de novo-designed proteins for the effective clearance of Food and Drug Administration-approved drugs in healthy mice.
+As a proof of concept, we designed proteins that bind to the anticoagulant apixaban.
+Since apixaban lacks chirality, we used mirror-image synthesis and cyclization to enhance the designed protein's in vivo stability.
+Both protein variants demonstrated effective activity, facilitating the rapid clearance of apixaban within 30 min.
+To assess the broader applicability of this approach, we extended our analysis to a de novo-designed protein targeting the anticancer drug rucaparib, further confirming its potential for small-molecule clearance.
+Our study shows that de novo-designed small-molecule-binding proteins can be used as antidotes in vivo, and that computational tools can be integrated with medicinal chemistry strategies for precise pharmacological interventions.

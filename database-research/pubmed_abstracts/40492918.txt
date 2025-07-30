@@ -1,0 +1,8 @@
+Background The CT/MRI Liver Imaging Reporting and Data System (LI-RADS) diagnostic algorithm classifies liver observations in patients with high-risk hepatocellular carcinoma (HCC) using imaging features.
+However, data regarding the diagnostic performance of specific LI-RADS major feature combinations is limited.
+Purpose To conduct a systematic review and individual participant data (IPD) meta-analysis to establish the positive predictive values (PPVs) of LI-RADS major feature combinations using CT/MRI LI-RADS version 2018 in patients at risk for HCC.
+Materials and Methods Medline, Embase, Cochrane Central, and Scopus were searched for studies published from January 2014 to February 2023.
+Studies reporting HCC percentages for LI-RADS categories in patients at high risk for HCC were included.
+A one-stage random-effects IPD meta-analysis was used to calculate the PPV for HCC diagnosis and 95% CIs of major feature combinations.
+Wald test was used to compare combinations.
+Risk of bias (RoB) was assessed using Quality Assessment of Diagnostic Accuracy Studies 2, known as QUADAS-2 (protocol:

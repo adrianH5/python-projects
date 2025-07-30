@@ -1,0 +1,10 @@
+Circular RNAs (circRNAs) constitute a large class of non-coding RNAs with gene regulatory capabilities, mainly through microRNA binding, a mechanism that has been linked to cancer development.
+The circRNA ciRS-7 (also known as CDR1as) is an interesting candidate as it harbors over 60 binding sites for miR-7, which is known to have tumor-suppressing properties.
+Here, we investigated the spatial expression patterns and epigenetic regulation of ciRS-7 across nine different adenocarcinomas originating from the colon, pancreas, ovary, endometrium, breast, stomach, bile duct, lung, and prostate.
+The study included primary patient samples and 18 different cell lines.
+ciRS-7 expression was analyzed using Reverse Transcription-quantitative PCR (RT-qPCR), single molecule in situ hybridization, and Nanostring nCounter, while epigenetic modifications were examined through bisulfite sequencing, Sensitive Melting Analysis after Real Time - Methylation Specific PCR (SMART-MSP), and chromatin immunoprecipitation.
+The functional relevance of epigenetic modifications was examined using DNA methyltransferase and histone deacetylase inhibitors.
+Across all adenocarcinomas, ciRS-7 was absent in the cancer cells in most of the primary tumor specimens, except for the breast tumors, while being expressed in the tumor microenvironment (TME).
+In line with this, ciRS-7 was not detected in most of the cell lines.
+Moreover, we demonstrated that DNA methylation and H3K9 acetylation, but not H3K27 methylation, are important epigenetic modifications that impact ciRS-7 expression.
+In conclusion, our data show that ciRS-7 is mainly expressed in the TME and is regulated through DNA methylation and histone acetylation across all major types of adenocarcinomas.

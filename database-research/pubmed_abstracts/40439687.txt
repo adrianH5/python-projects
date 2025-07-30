@@ -1,0 +1,9 @@
+Gastrointestinal cancers (GICs), including gastric cancers (GCs) and colorectal cancers (CRCs), are among the leading causes of cancer-related deaths worldwide.
+Metastatic GCs and CRCs often develop resistance or fail to respond to current therapies.
+Adoptive T-cell immunotherapy, especially with T cells expressing chimeric antigen receptors (CAR) targeting CD19, has revolutionized leukemia treatment.
+However, the development of CAR T-cell therapy for GICs is still in progress.
+Here, we used a Sequentially Tumor-selected Antibody and Antigen Retrieval (STAR) system to isolate a nanobody that directs CAR T cells to attack GI tumor cells in preclinical mouse models.
+The nanobody VHHB30 specifically binds to the N-terminal (non-glycosylated) domain of carcinoembryonic antigen (CEA).
+The resulting VHHB30-CAR T cells (CEACARTs) exhibited cytotoxicity against both CRC and GC cell lines in vitro in a CEA-dependent manner.
+Moreover, third-generation CEACARTs showed enhanced antitumor activity compared to second-generation CEACARTs.
+Further, in vivo studies demonstrated that the CEACARTs eradicated various colorectal and gastric tumor xenografts in preclinical mouse models, highlighting a promising approach for CAR T-cell therapy development in GICs through unbiased in vivo selection of potent VHH binders.

@@ -1,0 +1,7 @@
+Metabolic reprogramming is a hallmark of tumor progression.
+Here, we examined the metabolic profile of hepatocellular carcinoma (HCC), a disease that responds poorly to immune checkpoint blockade (ICB).
+Polyamine metabolism increased in HCC samples.
+Of the polyamine spectrum analyzed, N1-acetylspermidine (N1-Ac-Spd) accumulated in HCC tissue as compared with nontumoral liver tissue and was elevated in paired plasma.
+Injection of N1-Ac-Spd promoted tumor progression in preclinical models and compromised the efficacy of ICB.
+Inflammatory macrophages increased expression of the spermidine/spermine N1-acetyltransferase 1, SAT1, in hepatoma cells, leading to increased N1-Ac-Spd efflux via the polyamine transporter protein SLC3A2.
+Mechanistically, N1-Ac-Spd efflux activated SRC signaling in a charge-dependent manner, which in turn induced CCL1

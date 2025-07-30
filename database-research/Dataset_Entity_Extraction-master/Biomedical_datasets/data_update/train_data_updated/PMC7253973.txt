@@ -1,0 +1,6 @@
+The outbreak of SARS-CoV-2 (the cause of the disease known as COVID-19) was first reported in Wuhan city (Hubei province), China, in December 2019, and swept across the nation and then around the world within 2 months, leading to its declaration as a pandemic by the World Health Organisation (WHO) on 11 March 2020.
+As of 20 May 2020, the worldwide COVID-19 death toll has reached 318 789, and nearly 5 million confirmed cases have been reported across all continents [1].
+Several studies using mathematical modeling of COVID-19 and other coronavirus transmission have suggested that measures such as social distancing and city lockdown may be effective methods of disease control [5,6], but these seldom assess individual transmission chains.
+This is seen in the SARS-CoV-2 dataset used by Lu et al. [7], which has relatively few genomes from outside Guangdong province (e.g., only 32 genomes from Hubei province, which had >60000 cases at the time).
+Notably, the SARS-CoV-2 genome dataset publicly available at time of writing remains highly uneven across different countries.
+For instance, the GISAID (Global Initiative on Sharing All Influenza Data; https://www.gisaid.org) database had only five full genome sequences from Iran where >120000 cases have been reported; by contrast, it has ~1300 genomes from ~7000 cases reported in Australia.

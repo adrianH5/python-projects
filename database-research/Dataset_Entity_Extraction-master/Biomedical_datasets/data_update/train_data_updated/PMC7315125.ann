@@ -1,0 +1,9 @@
+T1	Repository 62 91	Gene Expression Omnibus [GEO]
+T2	AccessionNumber 109 118	GSE147507
+T3	Repository 457 460	GEO
+T4	AccessionNumber 478 486	GSE38597
+T5	AccessionNumber 1364 1373	GSE147507
+T6	Repository 1408 1437	Gene Expression Omnibus (GEO)
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T6	Arg2:T5

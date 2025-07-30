@@ -1,0 +1,12 @@
+Atypical parathyroid tumors (APTs) are a rare subtype of parathyroid neoplasms characterized by diagnostic challenges and an uncertain prognosis.
+This study aimed to validate the subtypes of APTs using transcriptome sequencing.
+We applied a clustering model developed for our previous study, in which we had successfully distinguished parathyroid cancer from adenomas using gene expression patterns.
+Sixteen patients with APT who had undergone parathyroidectomy were enrolled, and we analyzed their baseline data, pathologic reports, and follow-up records and performed transcriptome sequencing of their APT samples.
+We then used our clustering model to classify tumors as either cancer- or adenoma-type APTs and compared these results with clinical findings.
+The median age of patients was 48.9 years, with median calcium and parathyroid hormone (PTH) levels of 11.4 mg/dL and 420.0 pg/mL, respectively.
+Pathologic and immunohistochemical results did not reveal any remarkable differences between adenoma-type and cancer-type APTs.
+However, clustering analysis classified four of the 16 APTs as being cancer-type and 12 as being adenoma-type tumors.
+Cancer-type patients had a median age of 30.0 years, with median calcium and PTH levels of 12.6 mg/dL and 800.8 pg/mL, respectively, clinically resembling parathyroid cancer.
+One patient exhibited a somatic CDC73 two-hit mutation and positive WT1 staining, suggesting a high malignant potential.
+Clustering analysis through transcriptome sequencing shows promise for risk stratification of patients with APTs.
+For those classified as having cancer-type tumors, close monitoring and long-term follow-up may be warranted.

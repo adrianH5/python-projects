@@ -1,0 +1,10 @@
+The role of gut microbiota, especially viruses, in colorectal cancer (CRC) pathogenesis remains unclear.
+This study investigated the interplay between gut microbiota and CRC development.
+We developed a viral/bacterial sequence analysis pipeline to reanalyze gut metagenomic datasets from eight CRC studies.
+A multisample co-occurrence network was constructed to delineate microbiota species interconnections.
+Our analysis confirmed dysbiosis in CRC patients and revealed enrichment of viral species, particularly those hosted by Lactococcus and Escherichia.
+These viruses were identified as central hubs in the multikingdom interaction network.
+We developed a network-based model using single sample networks (SSN) that distinguished CRC patients from controls with an area under the curve (AUC) of 0.93.
+Models combining relative abundance and SSN assessment achieved an AUC of 0.97, outperforming SSN-based models without viral data.
+This study highlights the crucial role of viruses in the gut microbiome network and their potential as targets for CRC prevention and intervention.
+Our approach offers a new perspective on noninvasive diagnostic criteria for CRC.

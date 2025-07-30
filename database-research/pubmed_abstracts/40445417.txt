@@ -1,0 +1,11 @@
+Intraoperative magnetic resonance imaging (IMRI) has been increasingly used in glioma surgery, but previous studies did not differentiate low-grade (LGG) and high-grade gliomas (HGG).
+We conducted a meta-analysis to assess the efficacy and safety of IMRI compared to non-IMRI surgery, without association with fluorophores or multi-modality surgery (IMRI combined with other interventions), following PRISMA guidelines.
+Primary outcomes included gross total resection (GTR), extent of resection (EOR), and safety.
+A total of 22 studies (4 RCTs and 18 observational) were included.
+IMRI was associated with higher GTR rates in RCTs (RR 1.6, 95% CI 1.41-1.83) and observational studies (RR 1.53, 95% CI 1.39-1.68).
+Stratified analyses showed superior GTR rates for both LGG (RR 1.7, 95% CI 1.41-2.05) and HGG (RR 1.52, 95% CI 1.4-1.66).
+EOR was higher in observational studies (MD 7.3%, 95% CI 3.96-10.64%), with similar results for both LGG (MD 5.75%, 95% CI 2.66-8.83%) and HGG (MD 6.05%, 95% CI 1.75-10.3%).
+Regarding safety, IMRI was associated with fewer motor (RR 0.84; 95% CI 0.62-1.14; p = 0.27) and language deficits (RR 0.63; 95% CI 0.51-0.78; p < 0.0001).
+The incidence of early and late deficits was also lower in the IMRI group for both motor (early: RR 0.97; late: RR 0.57) and language (early: RR 0.51; late: RR 0.63) deficits.
+IMRI-assisted glioma surgery was associated with higher GTR and EOR, with better safety outcomes.
+However, the lack of significant differences in RCTs suggests further high-quality trials are needed to confirm the benefits.

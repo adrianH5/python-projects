@@ -1,0 +1,16 @@
+This virus belongs to the genera Betacoronavirus and has been designated as Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), and the disease is named as Coronavirus Disease 2019 (COVID-19) [7].
+As of April 14, 2020, the outbreak of COVID-19 has resulted in 1,844,863 confirmed cases and 117,021 deaths worldwide [8], among which 393 confirmed cases and 6 deaths were reported in Taiwan [9].
+With rapidly increasing number of infections, the Global Initiative on Sharing All Influenza Data (GISAID) [10] provides a platform for sharing SARS-CoV-2 sequences and their metadata.
+Three major clades, including clade G (with G variant at position 614 within the spike protein, as S-D614G), clade S (ORF8-L84S), and clade V (ORF3a-G251V), were designated by the GISAID (https://www.gisaid.org/hcov-19-analysis-update/).
+SPAdes (version 3.14.0) [14] was then used to perform de novo assembly for constructing contig sequences, and BLASTN was used to query the assembled contigs by searching the nucleotide sequence (NT) database of the National Center for Biotechnology Information (NCBI).
+To specifically determine the SARS-CoV-2 genome of interest, on the other hand, we used a reference strain Wuhan-1 (accession number MN908947.3) as the mapping template and used an iterative mapping approach [15] to increase the read depth and coverage.
+In total, genomic data of 26 strains were deposited in the GISAID with accession numbers also given in Table 1.
+We also downloaded all complete and high-coverage genomes of SARS-CoV-2 from GISAID as of March 14, 2020 and obtained 332 sequences after removing those with sequence gaps or ambiguous nucleotides.
+Complete genomic data of 20 SARS-CoV-2 strains obtained in this study were derived from 3 specimens (CGMH-CGU-01, -07, and -08) and 17 isolates (-02 to -06 and -09 to -20), and have been uploaded in GISAID.
+Figure 1A shows the NGS coverage and depth distribution of CGMH-CGU-01, which has an identical genome as the Wuhan-1 strain (accession number MN908947.3).
+To better illustrate phylogenetic clades, we designated and numbered yellow clade as IV harbouring ORF1ab-V378I mutation in this study and three others (blue clade I of ORF8-L84S, gray clade II of ORF3a-G251V, and pink clade III of S-D614G) identified based on previous GISAID annotations of clades S, V, and G, respectively.
+Five Australian strains (NSW05, NSW06, NSW11, NSW12, and NSW13) [19] and one German strain (BavPat2, according to the metadata from the GISAID) from patients having a travel history to Iran were also grouped in this clade.
+COVID-19 can be transmitted via close contact with infected patients.
+In addition to the signature mutation S-D614G annotated by GISAID in clade III, all the Taiwanese genomes shared two ORF1ab mutations C2772T and C14144T (P4715L) (Figure 3E).
+Ou et al. recently detected Haemophilus parainfluenzae and Moraxella catarrhalis from sputum samples collected from a severe COVID-19 case [37].
+ABSTRACT  Taiwan experienced two waves of imported infections with Coronavirus Disease 2019 (COVID-19).

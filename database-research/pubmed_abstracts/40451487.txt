@@ -1,0 +1,9 @@
+Glycosylation, the enzymatic attachment of glycans to biomolecules, is a vital post-translational modification that impacts protein stability, immune recognition, and cellular communication.
+Traditionally associated with proteins and lipids, recent discoveries have revealed the existence of glycosylated RNAs (glycoRNAs), expanding our understanding of RNA modifications.
+GlycoRNAs challenge conventional paradigms by suggesting that glycosylation may regulate RNA stability, localization, and interactions with glycan-binding proteins, such as sialic acid-binding immunoglobulin-type lectins (Siglecs) and selectins.
+These interactions are particularly significant in the immune system, where glycosylation plays a key role in antigen recognition, immune cell trafficking, and pathogen detection.
+The potential implications of glycoRNAs in immune regulation and disease are profound, with roles in autoimmune disorders, cancer, and infectious diseases.
+Advances in glycobiology, including mass spectrometry, RNA sequencing, glycan microarrays, and click chemistry technologies, are driving the growth of glycoRNA research and its translational applications.
+Understanding glycoRNAs could lead to new therapeutic opportunities, including glycoengineering, biomarker discovery, and targeted immune interventions.
+Despite challenges including low abundance and complex structure, research into glycoRNA is progressing rapidly, revealing their roles in immune responses and disease mechanisms.
+This review synthesizes the current knowledge on glycoRNAs, highlighting their emerging significance in immunology and outlining future research directions.

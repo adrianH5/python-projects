@@ -1,0 +1,7 @@
+Tocotrienols (T3) have been known to have potential cytotoxic activity against cancer cells.
+However, their ability to effectively target cancerous tissue is hampered by their lipophilic characteristics and poor bioavailability.
+In this study, encapsulating T3 into nanoemulsions (NE) prepared from palm oil (5-20%) and Tween-80 (3-7%) assisted with ultrasonication (5-20 min) resulted in improved stability of NE-T3 (kinetic, thermodynamic, long-term storage) and biological activity.
+Response Surface Methodology with Box-Behnken Design predicted the significant effect of palm oil concentrations on nanosized particle formation, while Tween-80 concentration and ultrasonication time had minimal effect on particle size.
+The optimum formulation achieved nanoscale characteristics of NE-T3, including a mean particle size of 64.8 ± 8 nm, polydispersity index of 0.288, and ζ-potential of - 19.16 mV, with only 5.2 ± 0.8% size variation after 60-day storage at 40 °C.
+It also demonstrated condition-specific thermodynamic stability, long-term storage capability, controlled drug release properties (77.97 ± 4.41% cumulative release over 54 h), and significantly enhanced antioxidant activity.
+The antioxidant activity (ABTS and DPPH) of NE-T3 showed IC

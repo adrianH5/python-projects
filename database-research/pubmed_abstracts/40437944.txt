@@ -1,0 +1,10 @@
+Recently, scanning ion conductance microscopy (SICM) as a noncontact nanoprobe tool has offered great advantages for applications in revealing biophysicochemical properties of soft biological samples, specifically for living cells.
+These physical properties, e.g., stiffness, of the cell surface provide an efficient label-free biomarker for differing tumor from normal cells, leading to gradually increasing interest in cancer biological studies.
+However, expanding potential application of SICM for cancer treatment, especially targeting chemotherapy facing a challenge in drug resistance, is still rarely explored.
+In addition, in biology, some clues indicate that the physical factors (matrix stiffness and stress) can contribute to tumor drug resistance.
+Meanwhile, fundamental studies to quantify these unique physical properties of drug-resistant cancer cells correlated with leverage for targeted therapy are less known.
+Here, we utilized chemotherapy drugs, 5-fluorouracil (5-FU) and oxaliplatin (OXA), to establish three drug-resistant cell lines from human colorectal cancer, including DLD1, SW620, and HT29 cells.
+High-speed SICM measurements were performed to visualize surface characteristics of subcellular physical properties (heights, roughness, and stiffness) on the control (ctrl) sample and drug-resistant samples derived from ctrl samples.
+Statistical analysis of stiffness showed a reduced change from drug-resistant samples, especially those resistant to 5-FU and OXA simultaneously, in comparison to ctrl samples.
+This work sheds light on subcellular physical properties of drug-resistant cell lines.
+The SICM technique as an important strategy would provide useful assistance in biomedicine in leveraging for targeted therapy.

@@ -1,0 +1,14 @@
+Limited data exist on hereditary breast cancer characteristics and treatment driven by germline mutations beyond BRCA.
+Our primary aim is to describe the tumour and patient characteristics, treatment patterns and outcomes in patients with non-BRCA hereditary breast cancer with a focus on CHEK2, ATM, PALB2 and TP53 variants.
+This is a retrospective single centre hospital-based cohort study of adult patients with a known (likely) pathogenic germline mutation and breast cancer diagnosis in UZ Leuven before April 2022.
+Data collection included baseline demographics, breast cancer characteristics, treatment patterns and disease outcome variables.
+Cohorts of patients with variants in different genes will be compared.
+We retrieved 185 patients with variants in ATM (N = 40), CHEK2 (N = 114), PALB2 (N = 8) and TP53 (N = 23).
+Median age was significantly lower in the TP53 group (36 years, p = 0.001).
+Only estrogen receptor (ER) status (p = 0.005) and breast cancer subtype (p < 0.001) differed significantly across the defined gene cohorts.
+HER2-positive disease was more frequent in the TP53 subgroup (59.1%, p < 0.001).
+Neoadjuvant chemotherapy was more commonly administered in the PALB2 and TP53 cohorts (p = 0.011).
+Univariate and multivariate survival analysis by gene cohort showed no significant difference in survival outcomes.
+In our series, we confirm that TP53 carriers are younger at breast cancer diagnosis and have more often HER2-positive breast cancer.
+Triple-negative breast cancer is more frequent in the PALB2 carriers, while ER-positivity is most common in ATM and CHEK2 carriers.
+Survival outcomes were similar across different gene cohorts in this study.

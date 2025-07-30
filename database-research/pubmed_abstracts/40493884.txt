@@ -1,0 +1,6 @@
+TET2 is among the most commonly mutated genes in both clonal hematopoiesis and myeloid malignancies, thus, the ability to identify selective dependencies in TET2 deficient cells has broad translational significance.
+Here, we identify regulators of Tet2 knockout (KO) hematopoietic stem and progenitor cell (HSPC) expansion using an in vivo CRISPR-Cas9 KO screen, in which nucleotide barcoding enabled large-scale clonal tracing of Tet2 deficient HSPCs in a physiological setting.
+Our screen identified candidate genes, including Ncoa4, that are selectively required for Tet2 KO clonal outgrowth compared to wild-type (WT).
+Ncoa4 targets ferritin for lysosomal degradation (ferritinophagy), maintaining intracellular iron homeostasis by releasing labile iron (Fe2+) in response to cellular demands.
+In Tet2-deficient HSPCs, increased mitochondrial ATP production correlates with increased cellular iron requirements, and in turn, promotes Ncoa4-dependent ferritinophagy.
+Restricting iron availability reduces Tet2 KO stem cell numbers, revealing a dependency in TET2-mutated myeloid neoplasms.

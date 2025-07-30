@@ -1,0 +1,6 @@
+T1	Dataset 73 79	GISAID
+T2	URL 81 104	https://www.gisaid.org/
+T3	Repository 110 117	GenBank
+T4	URL 119 155	http://www.ncbi.nlm.nih.gov/genbank/
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4

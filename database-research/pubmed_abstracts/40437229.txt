@@ -1,0 +1,7 @@
+Cholesterol derived from high-density lipoprotein (HDL) is rapidly redistributed to intracellular compartments in steroidogenic and bile-producing cells, but the molecular mechanisms governing this essential transport process remain poorly understood.
+Here we uncover a signalling cascade coordinating HDL-derived cholesterol transport through membrane contact sites between the endoplasmic reticulum (ER) and plasma membrane (PM).
+We find that HDL-resident sphingosine-1-phosphate (S1P) activates S1P receptor 3 and its associated G protein αq, leading to phospholipase-C-β3-mediated hydrolysis of phosphatidylinositol 4,5-bisphosphate and an elevation in cytosolic calcium.
+This calcium signal triggers the rapid recruitment of Extended-Synaptotagmin 1 to ER-PM membrane contact sites.
+Genetic or pharmacological disruption of this pathway impairs the non-vesicular transfer of HDL-derived cholesterol to intracellular compartments.
+Our findings reveal how HDL binding to the cell surface alters ER-PM membrane contact site dynamics through S1P signalling.
+This ensures efficient offloading and redistribution of HDL cholesterol to support steroid and bile acid synthesis.

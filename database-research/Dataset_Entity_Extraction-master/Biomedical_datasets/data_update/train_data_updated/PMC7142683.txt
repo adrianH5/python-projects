@@ -1,0 +1,3 @@
+SARS-CoV-2 is responsible for the coronavirus disease 2019 (COVID-19) pandemic which includes asymptomatic upper and lower respiratory tract infections.
+Among the first European cases of COVID-19, six were associated with a cluster of transmissions in the French Alps in late January 2020 [2].
+The whole-genome sequence (WGS) generated from sample #2 was deposited on GISAID (Global Initiative on Sharing All Influenza Data) (EPI_ISL_410486).

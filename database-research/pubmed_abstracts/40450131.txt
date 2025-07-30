@@ -1,0 +1,9 @@
+Metformin is a traditional antidiabetic drug for type 2 diabetes mellitus.
+However, it showed antitumor activity in many types of tumors, and it also has an influence on tumor metastasis in several types of tumors.
+It is transported through organic cationic transporters (OCTs), OCT1, OCT2, and OCT3, into the cells or into tumor microenvironment (TME).
+The complex interaction of metformin and its transporters on immune infiltration in TME of different types of tumors of The Cancer Genomic Atlas (TCGA) is not yet studied.
+The objective of this study is to identify the most suitable therapeutic target of tumors and immune infiltrates for metformin and its transporters in the TME.
+TIMER2.0, a bioinformatic tool, and other computational analysis were used to investigate this complex interaction; moreover, the identification of metformin target protein in TME is also investigated.
+The results revealed that the most suitable therapeutic target for metformin and OCTs among 32 types of TCGA data tumor types is Breast Invasive carcinoma (BRCA), and the most relevant immune infiltrate among 14 types of immune infiltrates that yields better prognosis and better therapeutical effect in TME is Macrophage M1.
+Furthermore, metformin showed a cytotoxic effect and an inhibitory effect on Urokinase Plasminogen Activator (uPA) gene expression in a concentration dependent fashion in MDA-MB-231 breast cancer cell line.
+This may suggest that metformin is a promising antitumor drug, stimulant for natural antitumor immune infiltrates, and inhibitor for metastasis in breast cancer.

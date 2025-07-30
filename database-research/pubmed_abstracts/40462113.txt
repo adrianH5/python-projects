@@ -1,0 +1,13 @@
+Melanoma is a highly malignant skin cancer with significant morbidity and mortality, and current treatments have shown limited efficacy in substantially improving clinical outcomes.
+This highlights an urgent need for alternative therapeutic strategies.
+Identifying key factors that promote or inhibit melanoma progression presents a promising approach for developing novel therapeutic targets.
+The UXT protein levels are increased in multiple human tumor tissues, such as bladder, breast, ovarian, and thyroid cancers, while showing no alteration in the corresponding normal tissues.
+UXT has previously been shown to be associated with the inhibition of P53, a tumor suppressor factor that plays a crucial role in regulating cancer progression.
+However, the specific role of UXT in melanoma remains unclear.
+This study investigates the impact of UXT on melanoma progression, focusing on its effects on cell proliferation, apoptosis, and invasion, alongside its underlying molecular mechanisms.
+We employed Western blotting, quantitative RT-PCR, immunohistochemistry, CCK-8 assays, colony formation, flow cytometry, wound healing, and invasion assays to explore these functions.
+Results indicate that UXT is aberrantly upregulated in melanoma cell lines.
+In vitro experiments demonstrated that silencing UXT inhibited melanoma cell proliferation, migration, and invasion, while also inducing apoptosis.
+Conversely, overexpression of UXT promoted melanoma cell proliferation, migration, invasion, and facilitated cell cycle progression.
+In vivo experiments yielded consistent results, showing that UXT knockdown suppressed tumor growth, while UXT overexpression promoted tumor development.
+Additionally, our study revealed that UXT knockdown activated the p53 signaling pathway in melanoma cells, suggesting that UXT could serve as a potential therapeutic target for melanoma.

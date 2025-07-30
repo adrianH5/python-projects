@@ -1,0 +1,7 @@
+The coronavirus disease 2019 (COVID-19), is caused by severe acute respiratory syndrome corona virus-2 (SARS-CoV-2), has emerged from Wuhan, China, in December 2019 [1] and spread rapidly across worldwide.
+On 11th March 2020, the World Health Organization (WHO) declared COVID-19 as a pandemic (https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020).
+ACE2 receptor plays a crucial role in cellular invading of SARS-CoV-2 as well as various pathophysiological conditions of the COVID-19 [16].
+However, in the present report, we observed a positive correlation of allele D with infection an mortality rate of COVID-19.
+The minor allele of ACE I/D was linked with COVID-19 mortality in the Asian population.
+Several reports have been highlighted the importance of ACE-2 on the pathogenesis of COVID-19.
+Data on COVID-19 infection rate (per million), mortality/million, and percentage of recovery were acquired form worldometer website.

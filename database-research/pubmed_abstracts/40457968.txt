@@ -1,0 +1,11 @@
+Breast cancer (BC) remains a leading cause of cancer-related mortality among women worldwide, underscoring the urgent need for sensitive, non-invasive biomarkers to improve diagnosis, prognosis, and treatment monitoring.
+Traditional biomarkers like ER, PR, and HER2 offer limited efficacy, particularly for heterogeneous subtypes such as triple-nega-tive breast cancer (TNBC).
+Extracellular vesicles (EVs), including exosomes and microvesi-cles, have emerged as promising biomarker carriers due to their stability and ability to encap-sulate diverse bioactive molecules reflective of the parental cell's state.
+Among EV cargoes, tRNA-derived fragments (tRFs), which are small non-coding RNAs produced by precise cleavage of tRNAs, have gained increasing attention.
+Once considered mere degradation prod-ucts, tRFs are now recognized for their roles in gene regulation, translation control, apoptosis modulation, and immune response.
+Recent studies have revealed the selective enrichment of tRFs within EVs, highlighting their role in intercellular communication in breast cancer.
+Dif-ferential expression of EV-associated tRFs correlates with BC subtype, stage, and patient prog-nosis, highlighting their potential as minimally invasive biomarkers.
+Specifically, altered lev-els of certain 5'- and 3'-tRFs in patient sera and tumor tissues have been associated with poor survival, metastasis, and therapeutic resistance.
+Despite these promising findings, gaps remain regarding the mechanisms of tRF sorting into EVs and their functional impact on the tumor microenvironment.
+This review systematically examines the current understanding of EV-as-sociated tRFs in breast cancer, emphasizing their clinical relevance, detection strategies, and translational potential.
+By addressing existing challenges, we aim to provide insights into the utility of EV-tRFs as novel biomarkers and therapeutic targets in BC.

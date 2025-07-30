@@ -1,0 +1,10 @@
+Polycystic ovary syndrome (PCOS) is one of the most prevalent endocrine disorders in women of reproductive age.
+However, the underlying molecular mechanism remains unclear.
+In this study, we employed RNA sequencing analysis to identify differentially expressed protein-coding genes and long noncoding RNA (lncRNA) expression profiles in granulosa cells from women with and without PCOS.
+It was established that the level of NONHSAT233728.1 was diminished in women with PCOS.
+The present study demonstrated the role of NONHSAT233728.1 in granulosa cells from patients with PCOS and further investigated the potential mechanism of NONHSAT233728.1 in the KGN cell line.
+Additionally, the knockdown of NONHSAT233728.1 has been observed to promote cell apoptosis, inhibit cell proliferation, promote mitochondrial dysfunction, and inflammation.
+Western blot analyses confirmed that phospho-extracellular regulated protein kinases (ERK)1/2 were decreased following lnc-NONHSAT233728.1 knockdown.
+Consequently, we propose that ROS accumulation activates the endogenous mitochondrial apoptosis pathway, leading to granulosa cell apoptosis via the MEK/ERK1/2 pathway, which contributes to follicular atresia.
+We observed a negative correlation between NONHSAT233728.1 and both LH levels and the LH/FSH ratio.
+These findings indicate that lncRNA NONHSAT233728.1 is linked to the pathogenesis of PCOS and offer new insights into its underlying mechanisms.

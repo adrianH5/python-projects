@@ -1,0 +1,11 @@
+Zebrafish serve as a valuable model organism for studying human genetic diseases.
+While generating knockout lines is relatively straightforward, introducing precise disease-specific genetic variants by knock-in (KI) remains challenging.
+KI lines, however, enable more accurate studies of molecular and physiological consequences of genetic diseases.
+Their generation is often hampered by low editing efficiency (EE) and potential off-target effects.
+Here, we optimized conventional CRISPR-Cas9-mediated homology-directed repair (HDR) strategies for precise KI of genetic variants in zebrafish and compared their efficacy with prime editing, a recently developed technique that is not yet commonly used.
+Using next-generation sequencing, we determined KI EE by HDR for six unique base-pair substitutions in three different zebrafish genes.
+We assessed the effect of (1) varying Cas9 amounts, (2) HDR templates with chemical modifications to improve integration efficiency, (3) different microinjection procedures and (4) introduction of additional synonymous guide-blocking variants in the HDR template.
+Increasing Cas9 amounts augmented KI EE, with optimal injected amounts of Cas9 between 200 pg and 800 pg.
+The use of Alt-R HDR templates further increased KI EE, while guide-blocking modifications did not.
+Injecting components directly into the cell was not superior to injections into the yolk.
+Prime editing, however, increased EE up to fourfold and expanded the F

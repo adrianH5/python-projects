@@ -1,0 +1,3 @@
+Mutation accumulated in severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) genomes during its pandemic spread can cause unpredictable effects on coronavirus disease 2019 (COVID-19) and further complicate epidemic control efforts (1).
+We collected 95 SARS-CoV-2 samples from the Sichuan Province of China for amplification-free whole-genome sequencing and acquired 13 whole-genome sequences, which were analyzed for sequence variation and evolution together with 199 SARS-CoV-2 genomes publicly released in the GISAID EpiFlu database (https://www.gisaid.org/)
+(2) and 7 genomes downloaded from the National Genomics Data Center (NGDC) database (https://bigd.big.ac.cn/ncov).

@@ -1,0 +1,9 @@
+Accurate estimation of malignant cell fractions in tissues plays a critical role in cancer diagnosis, prognosis, and subsequent treatment decisions.
+However, most currently available methods provide only point estimates, neglecting the quantification of uncertainties, which is essential for both clinical and research applications.
+This study introduces DeepDeconUQ, a deep neural network model developed to estimate prediction intervals for malignant cell fractions based on bulk RNA-seq data.
+This approach addresses limitations in current malignant cell fraction estimation methods by integrating uncertainty quantification into predictions of cancer cell fractions.
+DeepDeconUQ leverages single-cell RNA sequencing (scRNA-seq) data in conjunction with conformalized quantile regression to produce reliable prediction intervals.
+The model trains a quantile regression neural network to establish upper and lower bounds for cancer cell proportions, followed by a calibration step that refines these intervals to ensure both statistical validity (coverage probability) and discrimination (narrow intervals).
+Benchmark analyses indicate that DeepDeconUQ consistently surpasses existing methods, achieving high coverage accuracy with tight prediction intervals across simulated and real cancer datasets.
+The robustness of DeepDeconUQ is further demonstrated by its resilience to various gene expression perturbations.
+The DeepDeconUQ method is publicly accessible at https://github.com/jiaweih14/DeepDeconUQ.

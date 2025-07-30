@@ -1,0 +1,6 @@
+The Wnt/β-catenin signaling pathway is a highly conserved signaling pathway closely linked to cancer development through various biological processes, including oncogenic transformation, genomic instability, cancer cell proliferation, stemness, metabolism, cell death, immune regulation, and metastasis.
+Notably, its activation plays a crucial role in drug resistance to chemotherapy, targeted therapy and immunotherapy.
+Recent advances in drug development have identified several targeted inhibitors acting at key nodal points of this pathway, with some demonstrating synergistic efficacy when combined with immunotherapeutic agents.
+This review provides a comprehensive analysis of current understanding regarding the Wnt/β-catenin pathway in malignancy, emphasizing its multifaceted roles in tumor initiation, therapeutic resistance, and immune regulation.
+Additionally, we summarized the clinical performance of combination therapies targeting the Wnt/β-catenin pathway in conjunction with chemotherapy, targeted therapy, and immunotherapy.
+Although clinical development remains at a relatively early stage, pharmacological modulation of Wnt/β-catenin signaling offers considerable potential as a novel therapeutic paradigm in precision oncology.

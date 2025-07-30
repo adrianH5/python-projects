@@ -1,0 +1,3 @@
+Circular RNAs (circRNAs) are critical regulators in tumorigenesis, functioning as microRNA sponges or protein decoys.
+Although numerous circRNAs have been implicated in gastric cancer progression, the role of hsa_circRNA_101996 remains unclear.
+This study hypothesizes that hsa_circRNA_101996 promotes gastric cancer cell proliferation and apoptosis

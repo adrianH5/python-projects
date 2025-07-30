@@ -1,0 +1,7 @@
+Despite advances in machine learning and computer vision for biomedical imaging, machine reading and learning of colors remain underexplored.
+Color consistency in computer vision, color constancy in human perception, and color accuracy in biomedical imaging are intertwined, complicating digital color-based diagnostics.
+Existing color reference charts and correction algorithms are inadequate for mobile health (mHealth) and telemedicine in digital health applications where detecting subtle color changes is critical.
+We present a machine reading and learning platform for color recognition and quantification to extract diagnostic information from colors.
+A unique combination of spectroscopic gamut determination, reference color optimization, nonsubjective quantification metrics, and neural network-based color recovery retrieves absolute colors of biological tissue.
+Studies on inflammation bioimaging of photocarcinogenesis and mHealth blood hemoglobin assessment demonstrate accuracy and precision in color recovery across diverse acquisition scenarios.
+The reported framework overcomes limitations of conventional colorimetric detection, enabling machine-compatible color-based bioassays and bioimaging, advancing digital diagnostics.

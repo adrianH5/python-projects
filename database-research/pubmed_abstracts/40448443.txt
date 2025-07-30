@@ -1,0 +1,9 @@
+The urea cycle occurs mainly in the liver and undergoes changes during hepatocarcinogenesis.
+Argininosuccinate synthase 1 (ASS1) is a key enzyme in the urea cycle and is expressed at low levels in certain cancers.
+LM2I, a specific activator of ASS1, exhibits significant antitumor activity.
+However, the antitumor mechanism of LM2I in liver cancer remains unclear.
+In this study, we find that LM2I is more effective for liver cancer cells with low ASS1 expression.
+The results of the IP-LC/MS experiments reveal that ASS1 interacts with CAD.
+The expressions of ASS1 and CAD in liver cancer tissues and cells are negatively correlated.
+LM2I promotes the ubiquitination of CAD protein through ASS1.
+LM2I inhibits the proliferation of liver cancer cells

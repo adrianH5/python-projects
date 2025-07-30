@@ -1,0 +1,8 @@
+Despite the success of chimeric antigen receptor T (CART) cell therapy in hematological malignancies, durable remissions remain low.
+Here, we report CART senescence as a potential resistance mechanism in 41BB-costimulated CART cell therapy.
+To mimic cancer relapse, we utilized an in vitro model with repeated CART cell activation cycles followed by rest periods.
+Using CD19-targeted CART cells with costimulation via 4-1BB-CD3ζ (BBζ) or CD28-CD3ζ (28ζ), we showed that CART cells undergo functional, phenotypical, and transcriptomic changes of senescence, which is more prominent in BBζ.
+We then utilized two additional independent strategies to induce senescence through MYC activation and irradiation.
+Induction of senescence impaired BBζ activity but improved 28ζ activity in preclinical studies.
+These findings were supported by analyses of independent patient data sets; senescence signatures in CART cell products were associated with non-response to BBζ but with improved clinical outcomes in 28ζ treatment.
+In summary, our study identifies senescence as a potential mechanism of failure predominantly in 41BB-costimulated CART cells.

@@ -1,0 +1,13 @@
+Glioblastoma is one of the most aggressive and lethal forms of brain cancer, with limited therapeutic options and poor patient prognosis.
+Recent research has identified the TMED family of proteins as key regulators of tumor progression and aggressiveness across multiple cancer types.
+TMED members are cargo receptors expressed within the early secretory pathway and involved in bidirectional traffic of various proteins including EGFR, TGF-ɑ and WNT.
+In this study, we explored the therapeutic potential of genetic and pharmacologic inhibition of the cargo receptor TMED9 in glial tumor models.
+Our findings demonstrate that TMED9 expression is upregulated in glioma and that this upregulation is associated with poor patient survival.
+Using patient-derived glioma tumor cells, we demonstrate that TMED9 is highly expressed in the cancer stem cell population and that this upregulation promotes the cells' self-renewal and migration.
+This is the first time, to the best of our knowledge, that TMED9 has been shown to play a major role in the function and tumorigenesis of brain tumor cancer stem cells.
+BRD4780, a small molecule that targets TMED9, effectively reduced TMED9 abundance, resulting in decreased viability, migration and stemness of patient-derived glioma stem cells.
+Moreover, BRD4780 mitigated the proliferation and migration of differentiated glioma tumor cells.
+When applied together with temozolomide, an established glioblastoma treatment, BRD4780 elicited an enhanced anti-tumor response.
+Lastly, to demonstrate the broad applicability of our findings, we targeted TMED9 in pediatric glioma cells and showed efficient inhibition of various oncogenic functions.
+Collectively, our study identifies TMED9 inhibition as a promising therapeutic approach that impairs the tumorigenesis and aggressiveness of brain tumors, with high efficacy against the tumor stem cell population.
+The effectiveness of TMED9 targeting in different tumor cell populations, the potential of combining this strategy with established therapies and the broad applicability of this approach to multiple cancer types highlight the significance of these findings.

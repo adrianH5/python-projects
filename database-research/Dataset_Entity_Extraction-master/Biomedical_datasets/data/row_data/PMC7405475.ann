@@ -1,0 +1,27 @@
+T1	Repository 501 504	PDB
+T2	AccessionNumber 508 512	2CJR
+T3	Repository 626 629	PDB
+T4	AccessionNumber 634 638	6WJI
+T5	AccessionNumber 640 644	6YUN
+T6	AccessionNumber 646 650	6ZCO
+T7	AccessionNumber 656 660	7C22
+T8	Repository 705 708	PDB
+T9	AccessionNumber 712 716	7C22
+T10	Repository 1715 1718	PDB
+T11	AccessionNumber 1722 1726	6VYO
+T12	Repository 1895 1898	PDB
+T13	AccessionNumber 1902 1906	6M3M
+T14	AccessionNumber 1911 1915	6VYO
+T15	Repository 3236 3239	PDB
+T16	AccessionNumber 3243 3247	2GIB
+T17	Repository 3427 3437	NextStrain
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T3	Arg2:T5
+R4	hasAttr	Arg1:T3	Arg2:T6
+R5	hasAttr	Arg1:T3	Arg2:T7
+R6	hasAttr	Arg1:T8	Arg2:T9
+R7	hasAttr	Arg1:T10	Arg2:T11
+R8	hasAttr	Arg1:T12	Arg2:T13
+R9	hasAttr	Arg1:T12	Arg2:T14
+R10	hasAttr	Arg1:T15	Arg2:T16

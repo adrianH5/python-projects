@@ -1,0 +1,9 @@
+The ubiquitin proteasome system is the major pathway for intracellular protein degradation and relies on ATP supply to specifically degrade misfolded or damaged proteins.
+The system consists of E1, E2, and E3 enzymes that mediate the ubiquitination modification of substrate proteins, followed by proteasomal recognition and degradation of the substrate proteins.
+The substrate specificity and structural diversity of E3 ubiquitin ligases allow for precise recognition and degradation of proteins by the system.
+E3 ubiquitin ligases function by specifically recognizing target proteins, and catalyze the transfer of ubiquitin molecules from E2 ubiquitin-conjugating enzymes to substrate proteins.
+Trim45 is a member of the a member of the triadic motif (Trim) family of proteins that regulate biological processes such as the cell cycle, cell proliferation, apoptosis, and transcription, and are involved in pathological processes such as inflammatory responses and tumour progression.
+Trim45 is thought to be closely associated with the development and progression of many cancers, including cervical cancer, glioblastoma, non-small cell lung cancer, breast cancer, hepatocellular carcinoma and colon cancer.
+This review focuses on the mechanism, function, and clinical significance of Trim45 in various cancers and demonstrates that Trim45 is involved in regulating multiple signaling pathways as well as maintaining protein stability.
+Therefore, Trim45 is a potential biomarker and therapeutic target in tumour therapy, providing reference value for patient prognosis.
+Subject terms: Trim45, Cancer, Cell biology, Ubiquitination.

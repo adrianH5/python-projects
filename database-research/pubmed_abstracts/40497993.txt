@@ -1,0 +1,9 @@
+The rising incidence of colorectal cancer and ulcerative colitis underscores an urgent need for regenerative solutions to address functional deficits after colectomy.
+However, the creation of clinically applicable large intestine scaffolds remains underdeveloped.
+Here, we report the successful generation and thorough characterisation of transplantable-sized porcine large intestinal scaffolds via perfusion decellularisation.
+This method effectively preserved extracellular matrix (ECM) structural and biochemical integrity while minimising immunogenicity through cellular component removal.
+Crucially, native vasculature remained intact, confirmed by histology, DNA quantification, and high-resolution CT angiography.
+Despite efficient decellularisation, challenges including residual nucleic acids, ECM heterogeneity, and partial microvascular occlusion were noted, echoing ongoing limitations in engineered, perfusable, full-thickness scaffolds.
+In vivo implantation demonstrated favourable biocompatibility and host integration; however, thrombosis occurred due to the lack of pre-seeded cells, emphasising the necessity of recellularisation for functional perfusion prior to implantation.
+This study addresses significant field limitations, presenting the first reproducible approach for structurally intact, perfusable, full-thickness large intestinal scaffolds of transplantable dimensions.
+Our innovations offer a strong foundation for future integration of patient-derived cells, stem cells, and organoids, progressing toward clinically viable, scalable, tissue-engineered large intestine constructs, from xenogeneic sources, relevant for regenerative medicine, disease modelling, and pharmacological screening.

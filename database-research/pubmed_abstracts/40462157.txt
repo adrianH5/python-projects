@@ -1,0 +1,5 @@
+The rapid advancements in spatially resolved transcriptomics (SRT) enable the characterization of gene expressions while preserving spatial information.
+However, high dropout rates and noise hinder accurate spatial domain identification for understanding tissue architecture.
+We present DeepGFT, a method that simultaneously models spot-wise and gene-wise relationships by integrating deep learning with graph Fourier transform for spatial domain identification.
+Benchmarking results demonstrate the superiority of DeepGFT over existing methods.
+DeepGFT detects tumor substructures with immune-related differences in human breast cancer, identifies the complex germinal centers accurately in human lymph node, and accurately reveals the developmental changes in 3D Drosophila data.

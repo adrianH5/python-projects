@@ -1,0 +1,6 @@
+Serine metabolism is of growing biologic and therapeutic interest in cancer.
+Upregulation of the serine synthesis pathway (SSP) can fuel tumor growth, and cancers with this phenotype are often sensitive to SSP inhibitors.
+In parallel, dietary restriction of serine and glycine (SG) can suppress some cancers, but the determinants of sensitivity to this approach are poorly understood.
+This is especially true in acute myeloid leukemia (AML), where serine metabolism has been less explored.
+We report that a subset of human AML cell lines and primary samples are completely dependent on external serine, known as serine auxotrophy.
+These leukemias consistently suppressed the SSP enzyme PSAT1, failed to synthesize serine, responded to SG restriction

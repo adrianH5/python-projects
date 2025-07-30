@@ -1,0 +1,10 @@
+Pancreatic neuroendocrine tumors (PanNETs) often have low malignancy, but some develop distant metastasis or recurrence.
+This study aimed to investigate the prognostic utility of a Ki-67 index 10% cut-off using clinicopathological and multiomics analyses.
+Eighty-seven resected PanNETs were classified as G1, G2-low, G2-high, and G3 according to the World Health Organization classification, incorporating a 10% Ki-67 threshold.
+These groups comprised 29 (33%), 33 (38%), 16 (18%), and 9 (10%) patients, respectively.
+Comprehensive analyses evaluated tumor characteristics and mutation profiles across the groups.
+Significant differences in tumor size, recurrence, and overall survival were observed between the G2-low and G2-high groups.
+Genomic profiling of 19 samples revealed that the G3 (4 patients) and G2-high (6 patients) groups showed greater tumor mutation burdens and more driver gene mutations than the G2-low (6 patients) and G1 (3 patients) groups.
+Gene expression profiling revealed distinct patterns between the G3/G2-high and G2-low/G1 groups, with the oncogene SERPINA1 significantly upregulated in the G3/G2-high group.
+The multiomics approach identified key genes, emphasizing the significance of the Ki-67 index 10% cut-off in predicting tumor behavior.
+The findings support using the Ki-67 index of 10% as a critical threshold for stratifying PanNETs and guiding prognosis and treatment.

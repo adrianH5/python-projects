@@ -1,0 +1,16 @@
+Hepatocellular carcinoma (HCC) is a primary liver cancer with a high mortality rate.
+The pathogenic mechanism of HCC is complex.
+In this study, we aimed to explore the functions of Solute Carrier Family 38 Member 1 (SLC38A1) and transcription factor 12 (TCF12) in HCC malignancy.
+Immunohistochemistry (IHC) assay was performed to estimate the expression of SLC38A1 in HCC.
+qRT-PCR assay and western blot assay were conducted to determine the expression of SLC38A1, TCF12, epithelial-mesenchymal transition (EMT)-related markers and ferroptosis-related markers.
+Colony formation assay and EdU assay were utilized to evaluate cell proliferation ability.
+Transwell assay was employed for cell migration and invasion.
+Reactive oxygen species (ROS), glutathione (GSH), malondialdehyde (MDA), and iron levels were examined with related kits.
+ChIP assay and dual-luciferase reporter assay were performed to verify the relationship between TCF12 and SLC38A1.
+The in vivo experiment was conducted to assess the function of TCF12 in vivo.
+SLC38A1 was upregulated in HCC tissues and cells.
+SLC38A1 knockdown suppressed HCC cell proliferation, migration, invasion, and EMT and inhibited ferroptosis in vitro.
+The transcription factor TCF12 could activate the transcription level of SLC38A1.
+TCF12 overexpression ameliorated the effects of SLC38A1 knockdown on HCC cell malignant behaviors.
+Moreover, TCF12 silencing inhibited tumorigenesis in vivo.
+TCF12 targeted SLC38A1 to promote HCC cell proliferation, migration and invasion and restrained ferroptosis, providing a novel sight for HCC pathogenesis.

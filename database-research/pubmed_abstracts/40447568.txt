@@ -1,0 +1,7 @@
+Genome-wide association studies have suggested numerous colorectal cancer (CRC) susceptibility genes, but their causality and therapeutic potential remain unclear.
+To prioritise causal associations between gene expression/splicing and CRC risk (52,775 cases; 45,940 controls), we perform a transcriptome-wide association study (TWAS) across six tissues with Mendelian randomisation and colocalisation, integrating sex- and anatomical subsite-specific analyses.
+Here we reveal 37 genes with robust causal links to CRC risk, ten of which have not previously been reported by TWAS.
+Most likely causal genes with evidence of cancer cell dependency show elevated expression linked to risk, suggesting therapeutic potential.
+Notably, SEMA4D, encoding a protein targeted by an investigational CRC therapy, emerges as a key risk gene.
+We also identify a female-specific association with CRC risk for CCM2 expression and subsite-specific associations, including LAMC1 with rectal cancer risk.
+These findings offer valuable insights into CRC molecular mechanisms and support promising therapeutic avenues.

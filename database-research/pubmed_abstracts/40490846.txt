@@ -1,0 +1,12 @@
+There is limited clinical evidence of docosahexaenoic acid (DHA) efficacy during breast cancer neoadjuvant chemotherapy (NAC).
+This randomized, double-blind, placebo-controlled trial aimed to investigate the safety and efficacy of DHA supplementation in breast cancer patients undergoing NAC.
+Participants (n = 49) were assigned to receive either DHA 4.4 g/day orally (algae triacylglycerol) or a placebo (corn/soy oil) over six cycles (18 weeks) of NAC.
+The primary outcome was the evaluation of changes in the percentage of Ki-67 expression, assessed by immunohistochemistry analysis from pre- to post-treatment.
+Secondary outcomes included pathological complete response, incidence of adverse effects, and 3-year survival analysis.
+Compliance was evaluated by fatty acid analysis of plasma phospholipids and erythrocyte total lipids quantified by gas-liquid chromatography.
+The expression of Ki-67 significantly decreased in both groups, with no significant effects of the DHA intervention (p = 0.38).
+When stratified by breast cancer subtype, there was a trend of greater reduction in Ki-67 expression in the human epidermal growth receptor 2 (HER2+++) subtype in the DHA group compared to placebo (p = 0.1).
+The % of DHA in erythrocytes and plasma phospholipids was increased by two-fold at 9 and 15 weeks of therapy in the DHA group, while it remained unchanged in the placebo group (p-interaction <0.001).
+There was no reported incidence of adverse effects related to the intervention, and no significant effects were found in the other secondary outcomes.
+NAC significantly decreased the expression of Ki-67, with no additional beneficial effects observed by DHA supplementation.
+Further research is necessary to confirm these findings.

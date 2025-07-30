@@ -1,0 +1,7 @@
+Recent clinical trials have explored the combination of androgen receptor (AR) pathway inhibitors and poly (ADP-ribose) polymerase (PARP) inhibitors as a potential treatment for castration-resistant prostate cancer.
+This combination treatment is based on the premise that AR directly regulates expression of DNA repair genes, leading to synergy between PARP and AR inhibition.
+Despite some promising preclinical evidence, this combination therapy has shown limited efficacy in patients with homologous recombination (HR)-proficient tumors.
+To investigate this discrepancy between preclinical and clinical results, we profiled the effects of PARP inhibition in prostate cancer models in the presence or absence of AR inhibition.
+Surprisingly, AR inhibition impaired response to PARP inhibitors in castration-sensitive cells and had no effect on response in castration-resistant cells.
+AR inhibition also did not regulate DNA repair in either the castration-resistant or castration-sensitive setting.
+Instead, we find that cell cycle progression is required for response to PARP inhibition in homologous-recombination proficient prostate cancer.

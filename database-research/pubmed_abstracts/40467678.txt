@@ -1,0 +1,10 @@
+Cold plasma therapy, a revolutionary approach to treating cancer cells, has attracted significant interest due to its capacity to trigger programmed cell death.
+This study was performed with the aim of investigating the apoptotic effects of A549 and LL/2 lung cancer cells exposed to cold atmospheric pressure plasma (CAP).
+Herein, the impact of direct helium (He) plasma therapy was evaluated on the programmed cell death of the cancer cell lines at different treatment times ranging from 30 to 180 s. Moreover, as a control to compare with the cancer cells, the normal HUVEC cells were cultured and their cell viability evaluated using the MTT method.
+The apoptosis was also evaluated in the specific cancer cells using flow cytometry and real-time PCR methods.
+The treatments were administered at 4, 6, and 8 kV of He-plasma jet.
+The viability of the cells and SOD activity were assessed at 24 h after the treatment.
+The results revealed that the observed levels of p53 and caspase-3 genes were in consistent with the results from the MTT assay.
+The apoptotic effects of He-plasma on A549 and LL/2 cells were induced from altered expressions of p53 and caspase-3 genes which mechanistically taken place via the mitochondrial pathway.
+Both A549 and LL/2 cancer cells exhibited a substantial rise in apoptosis rates at 4 and 6 kV, while, a noticeable decline was detected at 8 kV.
+In addition, H

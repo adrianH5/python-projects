@@ -1,0 +1,13 @@
+Patients with ovarian high-grade serous carcinoma (OHGSC) gradually acquire resistance to standard chemotherapy following recurrence.
+In our previous study on OHGSC, histone deacetylase (HDAC) 6 upregulation led to a poor prognosis, and programmed death ligand-1 (PD-L1) expression was positively correlated with HDAC6 expression.
+We analyzed HDAC6 and PD-L1 expression before and after chemotherapy to investigate their association with chemotherapy resistance and patient survival.
+PD-L1 and HDAC6 expression were immunohistochemically analyzed using clinical samples from 54 patients with OHGSC before and after standard chemotherapy.
+High PD-L1 expression (≥ 5%) was detected in five and nine patients before and after chemotherapy, respectively.
+The mean PD-L1-positive rate after chemotherapy was 3.88%, which was significantly higher than the rate before chemotherapy (0.68%).
+The high HDAC6 expression frequency significantly increased from four patients before chemotherapy to 13 patients after.
+High PD-L1 expression after chemotherapy was significantly correlated with a chemotherapy response score of three, signifying a good chemo-response.
+High PD-L1 expression after chemotherapy was associated with poor progression-free survival and overall survival in patients who underwent complete surgical resection.
+In OHGSC, residual tumors after chemotherapy show enhanced HDAC6 and PD-L1 expression.
+Upregulated PD-L1 after neoadjuvant chemotherapy (NAC) has contradictory characteristics, indicating a good response to chemotherapy but unfavorable survival.
+It is a wolf in sheep's clothing, and physicians should not make an optimistic prognosis even if the patient shows a good response to NAC.
+HDAC6 and PD-L1 may be therapeutic targets and prognostic factors for residual tumors after chemotherapy in OHGSC.

@@ -1,0 +1,12 @@
+Although current treatment strategies have improved clinical outcomes for gastric cancer, they present a challenging prognosis that necessitates novel therapeutic approaches.
+The 5-HT7 receptor, a member of the serotonin receptor family, plays a significant role in influencing the pathogenesis of various cancer types.
+This study seeks to investigate the complex interactions among 5-HT7 receptors, gastric cancer, and apoptotic processes.
+A comprehensive set of experimental techniques was employed, including in vitro staining assays for apoptosis assessment, real-time PCR, and cell proliferation assays.
+The findings indicate that the 5-HT7 receptor agonist enhances the proliferation of primary gastric tissue cancer cells and KATO-III cells, whereas treatment with the 5-HT7 receptor antagonist significantly inhibits cellular proliferation.
+Analysis of 5-HT7 receptor mRNA expression in gastric cancer patient populations indicated significantly elevated levels in cancerous tissues when compared to those in healthy tissues.
+The administration of a 5-HT7 receptor agonist (LP44) resulted in increased cell proliferation in primary gastric cancer cells and KATO-III cell lines, whereas treatment with a 5-HT7 receptor antagonist (SB-269970) significantly inhibited proliferation.
+Additionally, KATO-III cells treated with the 5-HT7 receptor antagonist demonstrated a marked upregulation of caspase-3, caspase-9, and BAX gene mRNA levels.
+In contrast, treatment with the 5-HT7 receptor antagonist was associated with a significant reduction in the expression of nuclear factor kappa B and 5-HT7 receptor mRNA levels.
+Annexin V-FITC/PI and Hoechst 33342 staining demonstrated a pronounced apoptotic effect through antagonism of 5-HT7 receptors compared to other groups.
+Collectively, the findings of this study suggest that the enhanced expression of 5-HT7 receptors influences gastric cancer formation by regulating the apoptotic axis.
+This provides a novel perspective for understanding the molecular mechanisms underlying the potential of 5-HT7 receptors as a targeted approach for combating gastric cancer via the apoptotic pathway.

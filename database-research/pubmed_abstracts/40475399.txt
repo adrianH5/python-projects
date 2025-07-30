@@ -1,0 +1,5 @@
+Metastasis remains the leading cause of cancer-related mortality, yet predicting future metastasis is a major clinical challenge due to the lack of validated biomarkers and effective assessment methods.
+Here, we present EmitGCL, a deep-learning framework that accurately predicts future metastasis and its corresponding biomarkers.
+Based on a comprehensive benchmarking comparison, EmitGCL outperformed other computational tools across six cancer types from seven cohorts of patients with superior sensitivity and specificity.
+It captured occult metastatic cells in a patient with a lymph node-negative breast cancer, who was declared to have no evidence of disease by conventional imaging methods but was later confirmed to have a metastatic disease.
+Notably, EmitGCL identified

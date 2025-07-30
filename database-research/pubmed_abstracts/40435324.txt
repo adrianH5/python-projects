@@ -1,0 +1,6 @@
+Small thiolate-protected gold molecular clusters have gained significant interest in research due to their unique size-dependent properties.
+Their molecular to nanoscale sizes lead to distinctive quantum confinement effects, resulting in a discrete electronic energy band gap structure and molecule-like properties, including HOMO-LUMO electronic transitions, enhanced photoluminescence, and intrinsic magnetism and chirality.
+Near-infrared II (NIR-II, 1000-3000 nm) emissive gold clusters have emerged as a fascinating class of nanomaterials that are well-suited for biomedical applications.
+The unique combination of stability, biocompatibility, and tunable emission properties position them as valuable tools for high-resolution and deep-tissue imaging, with potential real-world applications ranging from disease diagnostics and prognosis to therapeutics.
+In this review, we focus on the NIR-II photoluminescence properties of gold molecular clusters for preclinical in vivo NIR-II imaging of vasculature, brain, kidney, liver, and gastrointestinal organs, and molecular targeted tumor imaging and theranostic treatment.
+The imaging capabilities combined with fast excretion and a high safety profile make molecular gold clusters highly promising for clinical translation.

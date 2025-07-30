@@ -1,0 +1,12 @@
+Pancreatic ductal adenocarcinoma (PDAC) is associated with a high mortality rate and short survival time.
+Long noncoding RNAs (lncRNAs) play a significant role in the progression of PDAC.
+However, prognostic lncRNAs associated with overall survival (OS) in patients with PDAC remain elusive.
+RNA sequencing was used to identify differential lncRNA expression between short-term and long-term PDAC patients.
+We identified a novel lncRNA (ENSG00000253924), termed ST18-AS1 (ST18-associated lncRNA), that is highly expressed in the tissues of long-term PDAC patients.
+High ST18-AS1 expression was correlated with favorable clinical outcomes, and the upregulation of ST18-AS1 expression in PDAC cell lines suppressed cell proliferation and promoted apoptosis both in vivo and in vitro.
+The key downstream target regulated by ST18-AS1 was Suppression of tumorigenicity 18 (ST18).
+We also found that ST18 expression was lower in PDAC tissues compared to non-tumorous adjacent tissues (NATs) and that higher ST18 expression was correlated with better clinical outcomes.
+Accordingly, the forced expression of ST18 inhibited proliferation and promoted apoptosis in tumor cells.
+Mechanistic studies showed that ST18-AS1 maintained the stability of ST18 mRNA by binding to Fused in sarcoma (FUS) and anchoring FUS in the cytoplasm.
+Overall, we identified ST18-AS1 as a novel biomarker that inhibits PDAC cell proliferation and promotes PDAC cell apoptosis through ST18.
+Targeting ST18-AS1/ST18 may be a potential therapeutic strategy for treating PDAC.

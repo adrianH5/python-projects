@@ -1,0 +1,25 @@
+Colorectal cancer (CRC) is a serious global health problem.
+Even with improvements in CRC diagnosis and treatment, many patients are diagnosed with metastatic disease, indicating the tumor has metastasized, and the survival rate for those with advanced CRC is still low.
+Immune checkpoint inhibitors (ICIs) have shown some promise for certain groups of CRC patients, specifically for those with mismatch repair deficiencies or microsatellite instability, but their overall effectiveness is still limited.
+Novel biomarkers and treatment targets are critically needed for the improvement of the diagnosis and treatment of CRC, ultimately improving patient outcomes.
+MDM4 (murine double minute 4) protein is important in controlling the tumor suppressor p53.
+MDM4 is similar in structure to MDM2 and is known to block p53's transcriptional ability, which can contribute to tumorigenesis.
+MDM4 is often found at higher levels in many cancers, including CRC, and has been linked to cancer progression through mechanisms that don't involve p53.
+However, MDM4's role in the tumor immune microenvironment of CRC remains unclear; its role in CRC prognosis and response to immunotherapy isn't fully understood.
+This study explores the biological, clinical, and immunological impact of MDM4 in CRC, focusing on its potential as a marker for prognosis and treatment target.
+This study is the first to comprehensively link MDM4 overexpression in CRC to immune evasion through reduced infiltration of CD8+ T cells and dendritic cells, establishing its role as an independent prognostic marker and a potential immunotherapy target.
+We explored the role of MDM4 in CRC by combining bioinformatic analyses and laboratory experiments.
+We gathered data from The Cancer Genome Atlas (TCGA) and Gene Expression Omnibus (GEO) databasesWe performed Gene Ontology (GO), Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analysis, and Gene Set Enrichment Analysis (GSEA) to identify the key biological pathways linked to MDM4 in CRC.
+We also explored how MDM4 expression is associated with the immune microenvironment by examining the tumor-infiltrating lymphocytes in CRC tissues.
+Laboratory experiments were conducted to test the functional role of MDM4 in CRC cell lines.
+Our analysis showed that MDM4 expression was higher in CRC than in normal colorectal tissues, with even higher levels found in more advanced tumor stages.
+Increased MDM4 expression was linked to poorer progression-free survival (PFS) in CRC patients and was identified as an independent predictor of prognosis.
+Through pathway enrichment analyses, we found that MDM4 was involved in important tumor-related and immune pathways, including those regulating cell cycle progression and immune response.
+Notably, overexpression of MDM4 was associated with lower infiltration of CD8 T cells, natural killer (NK) cells, and dendritic cells in the tumor microenvironment, suggesting that MDM4 might help the tumor evade the immune system.
+In vitro experiments further confirmed these findings, showing that reducing MDM4 expression significantly slowed CRC cell growth and induced apoptosis.
+These results highlight the tumor-promoting role of MDM4 in CRC and suggest its possibility of becoming a therapeutic target.
+MDM4 is important in the progression and immune evasion of CRC.
+Its increased expression is implicated in disease progression and worse clinical outcomes, making it a valuable independent prognostic marker for CRC.
+Furthermore, MDM4's involvement in immune regulation, particularly in decreasing immune cell infiltration, suggests its potential as a target for immunotherapy.
+Targeting MDM4 could provide a new CRC treatment strategy, potentially improving patient outcomes by inhibiting tumor growth and boosting immune responses.
+Further research is needed to confirm MDM4 as a therapeutic target and to gain a deeper understanding of its function in CRC immunotherapy.

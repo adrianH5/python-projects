@@ -1,0 +1,1 @@
+This study aims to predict the early efficacy of induction chemotherapy (ICT) in patients with locally advanced nasopharyngeal carcinoma (LA-NPC) through habitat subregion analysis and multimodal MRI radiomics techniques.

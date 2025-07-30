@@ -1,0 +1,9 @@
+T1	Repository 2490 2493	pdb
+T2	AccessionNumber 2498 2502	6M0J
+T3	Repository 3210 3213	pdb
+T4	AccessionNumber 3218 3222	6VYB
+T5	Repository 5356 5359	pdb
+T6	AccessionNumber 5364 5368	6M17
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T5	Arg2:T6

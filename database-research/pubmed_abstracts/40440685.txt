@@ -1,0 +1,6 @@
+Colorectal cancer (CRC) is one of the most prevalent cancers worldwide and poses significant clinical challenges.
+In the context of multi-omics advancements, the intricate relationships between the gut microbiota and the onset, progression, and treatment responses of CRC, as well as the components of the suppressive tumour immune microenvironment (TME), have become increasingly evident.
+Researchers have found that pathogenic bacteria in the gut release metabolites and proteins that affect the development of CRC by interfering with the host's colonic epithelium and immune system.
+The gut microbiota has been implicated in modulating responses to chemotherapy, targeted therapy, and immunotherapy in CRC patients.
+Ongoing research is focused on combination therapies designed to achieve optimal efficacy by activating anti-tumour immune cells within the TME.
+In this review, we summarise the current understanding of the role of the gut microbiota in CRC, focus on how the gut microbiota influences the TME, explore the development prospects of the gut microbiota and TME as potential biomarkers, and discuss the translational and clinical implications of microbiota-related treatments in combination with immunotherapy and other therapeutic approaches for the precise prevention and treatment of CRC.

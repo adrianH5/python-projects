@@ -1,0 +1,5 @@
+Immune checkpoint blockade (ICB) immunotherapies are a powerful tool in the clinical management of cancer, but response rates to ICB remain limited, and treatment-related toxicities can be significant.
+Therapeutic efficacy of ICB can be enhanced by delivering synergistic immunomodulators to tumor-draining lymph nodes (TdLNs).
+However, achieving sustained release of small molecule immunomodulators into the lymphatics and TdLNs remains challenging.
+To address this limitation, a sustained release system for delivering an oligonucleotide adjuvant to lymph nodes (LNs) was developed.
+CpG oligonucleotide was complexed with a redox-responsive cationic polymer and mixed with F127-

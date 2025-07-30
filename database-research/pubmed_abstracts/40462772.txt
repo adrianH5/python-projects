@@ -1,0 +1,3 @@
+A series of novel 2-oxoindolin-3-ylidene thiazole derivatives were designed and synthesized, inspired by the pharmacophoric features of the VEGFR-2 inhibitor sunitinib.
+These compounds were evaluated for antiproliferative activity against a panel of sixty cancer cell lines at the US National Cancer Institute, identifying derivatives 4b, 4c, 4d, 4l, and 6c as the most potent, with mean growth inhibition percentages of 118.86%, 135.32%, 148.27%, 126.16%, and 78.46%, respectively.
+Further cytotoxicity assessments against the HepG2 cell line revealed IC

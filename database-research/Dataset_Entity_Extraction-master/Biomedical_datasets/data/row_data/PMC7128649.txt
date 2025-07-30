@@ -1,0 +1,3 @@
+During the submission process of this manuscript, the crystal structure of 2019-nCoV Mpro was solved (PDB ID: 6LU7), of which the lopinavir/ritonavir binding pocket region is nearly identical to our predicted model (Fig. S1).
+Based on these results, we performed virtual docking to screen for commercial medicines in the DrugBank database that could bind to the above mentioned pocket site of 2019-nCoV Mpro, and identified 10 candidate clinical medicines (Table 1
+; Figs. 1B and S3).

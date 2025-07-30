@@ -1,0 +1,11 @@
+Recurrence and metastasis remain significant challenges in the clinical treatment of hepatocellular carcinoma (HCC).
+The integration of photodynamic therapy and immunotherapy has emerged as a promising strategy for treating cancer in terms of safety and efficacy.
+However, conventional photodynamic therapy and anti-tumor immunotherapy face several limitations, including inadequate light source penetration, poor targeting precision, low response rates, and immune-related adverse effects.
+To address these issues, we developed a tumor microenvironment responsive polymer nano-immunomodulator for precise photodynamic immunotherapy of HCC.
+The nano-immunomodulator is self-assembled from glutathione responsive amphiphilic polymers (TPS) and pH-activatable photosensitizers (LET-Br), and is further loaded with the anticancer drug docetaxel.
+Additionally, it is conjugated with small-molecule agonists of Toll-like receptor 7/8 (TLR 7/8) and cyclic RGD (cRGD) targeting peptides.
+Upon reaching the tumor site, the PNI undergoes hydrolysis, enabling the efficient release of anticancer drugs in response to the tumor microenvironment.
+Furthermore, under near-infrared (NIR) photoirradiation, the PNI exerts potent photodynamic effects to directly eliminate tumors.
+Remarkably, the PNI also functions as an in situ light-activated cancer vaccine, capable of inducing systemic antitumor immune responses and remodeling the immunosuppressive tumor microenvironment to establish long-lasting immune memory.
+This synergistic combination of photodynamic therapy and targeted antitumor immune responses effectively inhibits tumor growth.
+Thus, this study not only presents a novel strategy for designing vaccine-like prodrugs to precisely modulate cancer immunotherapy, but also opens new avenues for the development of advanced therapies for HCC.

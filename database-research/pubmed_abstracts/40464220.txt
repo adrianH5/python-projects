@@ -1,0 +1,9 @@
+Circadian organization is involved in many gastrointestinal tract (GIT) functions such as the maintenance of intestinal barrier integrity.
+There is compelling evidence that perturbation of the circadian clock decreases intestinal epithelial cells' resiliency to alcohol-induced injury.
+One of the most common causes of circadian misalignment is wrong-time eating (largest meal at dinner) in modern societies.
+Yet, few studies have examined the importance of peripheral circadian rhythms of the GIT to alcohol consumption.
+Eating patterns during physiologic rest time, defined as wrong-time eating (WTE), misalign the peripheral circadian clock of the GIT and the body's central clock.
+This study aims to fill this knowledge gap by testing the hypothesis that: (1) WTE worsens alcohol-induced disruption of intestinal barrier integrity and (2) decreased intestinal barrier resiliency to alcohol effects by WTE-disrupted circadian is, at least in part, due to microbiota dysbiosis.
+Alcohol (20% v/v) and a restricted timed-food paradigm were administered to PERIOD2 luciferase (PER2:LUC) reporter BL/6 mice for 10 weeks.
+Intestinal barrier integrity, intestinal (stool) microbiota, and microbial metabolites (cecal-derived) were examined.
+Peripheral circadian misalignment exacerbated alcohol-induced disruption of intestinal barrier integrity (tight junctional proteins) leading to increased intestinal permeability (

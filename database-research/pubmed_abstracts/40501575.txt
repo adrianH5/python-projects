@@ -1,0 +1,6 @@
+Exposure to hypoxia is linked to increased cellular plasticity and enhanced metastasis; effects which are primarily attributed to the transcriptional activation of large gene programs downstream of hypoxia inducible factors (HIFs).
+However, translational effects in hypoxia, that likely precede transcriptional effects, have remained largely unexplored.
+Using ribosome-profiling, we uncovered a selective translational response in acute hypoxia that is eIF3d/eIF3e-dependent and controls downstream hypoxic responses including HIF1a accumulation and cellular invasion.
+We further demonstrated that eIF3e copy number and an eIF3e-expression signature are associated with worsened outcomes for breast cancer patients.
+Finally, we identified a class of novel small molecules that target eIF3e specifically, reducing the translational response to hypoxia and to ER stress, another stressor that is dependent on eIF3d/eIF3e-mediated translation.
+Our data uncover critical functions for eIF3d/eIF3e in the hypoxic response and identify a potential means to inhibit stress-induced translation, and potentially plasticity and metastasis, mediated by eIF3e.

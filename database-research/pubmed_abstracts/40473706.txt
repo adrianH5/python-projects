@@ -1,0 +1,14 @@
+Liquids irradiated with nonequilibrium atmospheric pressure plasma exert antitumor effects.
+Here, we produced plasma-activated acetated Ringer (PAA) and plasma-activated sodium acetate (PASA) solutions, each at 1%, 3%, and 5% mass concentrations.
+We evaluated the antitumor effects of PAA and PASA on gastric cancer (GC).
+Two GC cell lines (MKN1-Luc and MKN45-Luc) as well as normal human peritoneal mesothelial cells were subjected to cell viability assays using PAA, 1% PASA, 3% PASA, and 5% PASA.
+To elucidate the functional mechanisms, we examined morphological changes induced by 3% PASA following 10 min of irradiation.
+To further elucidate the underlying biological processes, we compared the expression of apoptosis-related proteins following the administration of 3% sodium acetate solution without plasma exposure and 3% PASA irradiated for 10 min.
+Additionally, MKN45-Luc cells were intraperitoneally injected into mice, followed by intraperitoneal administration of acetated Ringer's solution without plasma exposure (control-1 group), 3% sodium acetate solution without plasma exposure (control-2 group), and 3% PASA irradiated for 10 min (treatment group).
+Peritoneal dissemination was observed using in vivo bioluminescent imaging and laparotomy.
+PAA and PASA achieved an antitumor effect in a sodium acetate concentration-dependent manner.
+PAA and 3% PASA caused significantly less damage to normal peritoneal mesothelial cells compared to GC cells at 5 and 10 min of plasma exposure (p < 0.001).
+Blebs, indicative of apoptosis, were observed at 1.5 h after 3% PASA treatment in GC cells.
+3% PASA treatment increased the expression of phosphorylated MKK3/MKK6 and phosphorylated p38 MAPK, suggesting that apoptosis may be mediated through the p38 MAPK pathway.
+The intraperitoneal administration of 3% PASA significantly reduced the number of peritoneal nodules, and no adverse events were detected.
+Here we show that PASA exerted an antitumor effect on GC, indicating that the intraperitoneal administration of 3% PASA may serve as a novel treatment for the peritoneal dissemination of GC.

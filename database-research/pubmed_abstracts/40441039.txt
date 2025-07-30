@@ -1,0 +1,7 @@
+Inspired by the strong permeability, sensitive response, accurate biological recognition and efficient biotransformation of viruses, we designed virus-mimic nanoparticles for cancer therapy.
+We first prepared virus-like mesoporous silica nanoparticles (VSN) with a spiky tubular rough surface via a single-micelle epitaxial growth procedure, grafted glutathione (GSH) sensitive disulfide bonds and chiral dipeptide cysteine-arginine (Cys-Arg) onto VSN (VSCA) to enable easier engulfment and stimuli response release in the reductive tumor microenvironment, and modified hyaluronic acid (HA) acting both as a tumor-targeting ligand to CD44 receptors and a natural biodegradable polysaccharide to construct VSCA-HA.
+Studies demonstrated the virus-like morphology, mesoscopic structure, highly stability and redox responsiveness of VSCA-HA.
+Considering the advantages of viruses in packaging, protecting, and delivery the payload, doxorubicin (DOX) was load into VSCA-HA, wherein the drugs existed in an amorphous form to increase their stability and solubility.
+VSCA-HA could target to tumor cell via nanospikes multi-sited anchor, chiral recognize and CD44 receptor-mediated endocytosis.
+Once entering the tumor cell, the redox sensitive disulfide bond was breakage to release DOX, achieving a good anti-tumor effect.
+By mimicking both the structure and function of viruses, VSCA-HA discovered the strong permeability, active targeting ability, smart responsiveness, admirable cancer therapy efficacy and excellent biocompatibility.

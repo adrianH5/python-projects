@@ -1,0 +1,9 @@
+Compared to traditional tumor treatment modalities, such as radiotherapy, chemotherapy, and surgical intervention, tumor immunotherapy offers potential benefits by enhancing the immune system's functionality, diminish immune evasion, and establish enduring immune memory, ultimately aiming for the destruction or eradication of tumor cells.
+However, the intricate tumor microenvironment (TME) poses challenges for immunotherapy due to its suppressive effects on immune cell activity, leading to issues such as low immune responsiveness and insufficient targeting.
+Sonodynamic immunotherapy (SDT) emerges as an innovative therapeutic approach， where sonosensitizers localize around tumor cells and, upon ultrasound (US) stimulation, generate substantial reactive oxygen species (ROS).
+This mechanism facilitates targeted tumor cell killing and enhances treatment specificity.
+ROS also induce immunogenic cell death (ICD) through various pathways, bolstering the immune response.
+Recent research suggests that piezoelectric biomaterials, used as sonosensitizers, can amplify the anti-tumor effects of SDT.
+The piezoelectric effect of these materials enhances ROS production efficiency, improves the TME, mitigates immune cell suppression, and promotes ICD.
+This review article provides an overview of piezoelectric biomaterials classification, introduce the piezoelectric effect, and examines the applications of piezoelectric biomaterials in sonodynamic immunotherapy.
+It serves as a reference for the development of piezoelectric materials and the advancement of tumor treatment strategies.

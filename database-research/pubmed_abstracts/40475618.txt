@@ -1,0 +1,6 @@
+Medulloblastoma (MB) is the most common malignant primary pediatric brain tumor.
+Current therapies are ineffective for targeting proliferation, leptomeningeal migration, and metastasis of MB cancer cells to visceral organs and therefore, novel treatments are needed.
+The small GTPase, RAC1, has emerged as an important regulator of actin cytoskeletal dynamics, proliferation, and migration in several cancers.
+However, it has not been characterized in MB and no clinical drug candidates have been described for RAC1 in MB.
+Here we demonstrate that RAC1 levels are higher in MB tissue relative to normal cerebellum.
+Further, RAC1 depletion significantly reduces proliferation and migration of Shh-MB cells

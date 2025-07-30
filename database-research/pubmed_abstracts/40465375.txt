@@ -1,0 +1,8 @@
+Fusogenic peptides have been developed to enhance the delivery efficiency of nucleic acids such as small interfering RNAs (siRNAs).
+Fusogenic peptides can protect nucleic acids from degradation and facilitate endosomal escape, but their systemic delivery capabilities remain unrefined.
+Active targeting of delivery systems to overexpressed cell receptors can be used to enhance cell- and tissue-specific delivery of therapeutic payloads while reducing off-target and systemic effects.
+We aimed to develop a targeted fusogenic (tandem) peptide, LHRHR-DIV3W, capable of targeting the luteinizing hormone-releasing hormone receptor (LHRHR), which is overexpressed in ovarian cancer cells and tissues.
+Characterization studies revealed that our tandem peptide, LHRHR-DIV3W, formed monodisperse nanocomplexes that protected siRNAs in physiological environments.
+We also demonstrated receptor-specific internalization of peptide-siRNA nanocomplexes in ovarian cancer cell lines with upregulated LHRHR expression.
+Furthermore, we observed that the inclusion of both the fusogenic DIV3W sequence and the LHRHR-targeting sequences in the tandem peptide enhanced receptor-specific siRNA internalization in ovarian cancer cells by up to 40% compared with the LHRHR-targeting peptide alone, indicating the necessity of combining both peptide regions.
+Finally, we demonstrated significant silencing of

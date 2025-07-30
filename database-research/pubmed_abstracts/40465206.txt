@@ -1,0 +1,10 @@
+Hybrid gold nanoparticles (AuNPs) are defined as a combination of organic and inorganic materials used as nanocarriers in the drug delivery system to enhance the performance of the drugs.
+Methods to fabricate the hybrid AuNPs such as double emulsion and nanoprecipitation require several steps and are inconsistent in their physicochemical characteristics limiting their application in drug delivery.
+The electrospray method has become a powerful tool for fabricating nanoparticles due to its simplicity, rapidity and consistency.
+Hence, this study aims to evaluate the performance of hybrid AuNPs prepared by two different methods; double emulsion and electrospray including the physicochemical characteristics, drug release profile and in vitro cytotoxicity.
+Hybrid AuNPs were prepared using double emulsion and electrospray methods.
+Then, the formed particles' hydrodynamic size, polydispersity index (PDI) and zeta potential were characterised using a Zetasizer Nano ZS.
+Furthermore, the drug release kinetics and cytotoxicity effects were evaluated using the dialysis method and the MTT assay.
+Hybrid AuNPs formed by the electrospray method (HAES) exhibit smaller particle sizes at 147.00 ± 10.4 nm with a PDI value of 0.35 ± 0.01 and zeta potential of -31.5 ± 2.6 compared to hybrid AuNPs formed using double emulsion methods (HADE) which exhibit larger particle sizes of 287.47 ± 1.87 nm with PDI value of 0.25 ± 0.09 and zeta potential of -23.30 ± 0.6.
+This study suggests that HAES prevent burst effects during drug release due to polymer composition changes under different temperatures that can enhance the drug delivery system.
+From the MTT assay, at 50 mg mL

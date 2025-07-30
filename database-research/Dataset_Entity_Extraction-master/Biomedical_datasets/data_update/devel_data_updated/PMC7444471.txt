@@ -1,0 +1,35 @@
+Coronavirus disease 2019 (COVID-19) is caused by a novel coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) [1], which shares high genetic similarity with the most closely-related bat origin SARS-like virus (RaTG13) [2].
+The design of risk assessments and successful interventions for COVID-19 now depend on how well we understand the course of SARS-CoV-2 infection.
+The COVID-19 pandemic is underway [5].
+Social measures for monitoring, controlling and treating COVID-19 vary among and within countries.
+It has been suggested that the detection of antibodies to SARS-CoV-2 could serve as the basis for an “immunity passport”, however it is currently unclear whether recovered COVID-19 cases have neutralizing antibodies that protect them from a second infection.
+There have been reports that some recovered COVID-19 cases have re-tested positive for SARS-CoV-2 RNA some time after discharge [6,7].
+Guangdong Province reported the highest number of COVID-19 cases in China except Hubei.
+Guangdong launched an enhanced surveillance network and a series of intervention measures in response to the outbreak soon after the first COVID-19 case was reported in December 2019 [8].
+Since 23 January, all discharged COVID-19 cases were isolated in designated hotels under medical observation for another 14 days.
+In this study, we screened 619 recovered COVID-19 cases in Guangdong discharged between 23 January and 19 February.
+The Discharge criteria for COVID-19 cases in Guangdong include: 1) body temperature is normal for more than three days, 2) respiratory symptoms including fever, dry cough and tiredness noticeably improve, 3) pulmonary imaging shows obvious absorption of inflammation, and 4) nucleic acid tests are negative twice consecutively, on both respiratory tract samples (such as sputum and nasopharyngeal swabs) and digestive tract samples (such as stool and anal swabs), with a sampling interval of at least 24 h.
+The intervention measures for discharged COVID-19 cases are as follows: 1) all discharged COVID-19 cases are isolated in designated hotels for another 14 days; 2) during isolation, discharged cases live in a well-ventilated single room, dine separately, practice hand hygiene, and minimize close contact with others, 3) health status is monitored during isolation and SARS-CoV-2 RT-PCR tests are performed on 7th and 14th days after discharge or more frequently, 4) cases return home only when nucleic acid tests are negative on both respiratory tract samples and digestive tract samples during isolation.
+The ARTIC bioinformatics pipeline for COVID (https://artic.network/ncov-2019) was used to generate consensus sequences and call single nucleotide changes relative to the reference sequence (MN908947).
+Assembly of the nanopore raw data was performed using the ARTIC bioinformatic pipeline for COVID-19 with minimap2 [11] and medaka (https://github.com/nanoporetech/medaka) for consensus sequence generation.
+Sequencing data after mapping to SARS-COV-2 reference genome (MN908947.3) have been deposited in the Genome Sequence Archive [12] in BIG Data Center [13], Beijing Institute of Genomics (BIG), Chinese Academy of Sciences, under project accession numbers CRA002500, publicly accessible at https://bigd.big.ac.cn/gsa.
+A total of 619 COVID-19 cases were discharged from designated hospitals between 23 January and 19 February 2020.
+The demographic characteristics of the 87 re-positive cases are as follows: (i) gender distribution was equal, with 45 males and 42 females; (ii) re-positive detection of virus RNA was observed in all age groups, ranging from 3 months to 69 years, with a median age of 28 years, which is significantly younger than that of discharged COVID-19 patients in Guangdong in general (median age of 47 years, Table 1).
+The median time for discharged COVID-19 cases re-tested as viral RNA positive was 7 days (range 2 to 19 days) post-discharge.
+Possibly due to their moderate clinical symptoms, re-positive cases had shorter hospital stays (median, 14 days) than general discharged COVID-19 cases (median, 28 days) (Table 1).
+An impaired immune response has been associated with fatal COVID-19 infections that exhibit prolonged persistence of viral RNA [14].
+One possible explanation for the re-positive detection of SARS-CoV-2 RNA is that some COVID-19 patients may have insufficient immune responses and neutralization antibodies (NAbs) to clear infection completely.
+To investigate the immunological and virological characteristics of re-positive COVID-19 cases, 70 of 87 re-positive cases were sampled by the Guangdong Provincial Center for Disease Control and Prevention (GDCDC) between 22 February and 1 March 2020, including 59 serum and 137 swab samples (Fig. 1a).
+Our results demonstrated competent immune activation in re-positive cases, which exhibit a distribution of NAbs titres similar to that of cases who detected as negative in 14 days after discharge and COVID-19 cases in hospitalization (Kruskal-Wallis H test, p = 0.2663, Fig. 1b).
+Millions of people have recovered from COVID-19 infection, and there have been preliminary reports of people testing re-positive for SARS-CoV-2 viral RNA after recovery [7, 8].
+Here, we use data from the Guangdong COVID-19 surveillance system to analyze the characteristics of re-positive cases between 23 January and 26 February 2020.
+The first question we addressed is the re-positive rate in COVID-19 discharged cases.
+All re-re-positive cases in our study developed only mild or moderate symptoms in the initial diagnosis, with the median age being significantly lower than that of the general COVID-19 cases (Table 1).
+The relatively mild symptoms may explain why the median time from onset to discharge in re-positive cases (median 17 days) is slightly lower than that of the other discharged COVID-19 cases (median 33 days).
+The time from symptom onset to discharge (the time when COVID-19 cases have twice tested negative by PCR) for re-positive cases (median 17, Table 1) is consistent with the time that detectable SARS-CoV-2 RNA is reported on other studies to persist (median 20) in respiratory sites [14,15].
+These data indicate that the course in re-positive cases is similar to other COVID-19 cases.
+Our microneutralization result shows that 58 of 59 (98%) re-positive cases generated specific NAbs to SARS-CoV-2, and their titre distribution is similar to cured COVID-19 cases that were SARS-CoV-2 negative after discharge and to hospitalized COVID-19 cases (Fig. 1b).
+Background  Some COVID-19 cases test positive again for SARS-CoV-2 RNA following negative test results and discharge, raising questions about the meaning of virus detection.
+Methods  Clinical data were obtained through Guangdong's COVID-19 surveillance network.
+Findings  Among 619 discharged COVID-19 cases, 87 re-tested as SARS-CoV-2 positive in circumstances of social isolation.
+Re -positive cases ( n = 59) exhibited similar neutralization antibodies (NAbs) titre distributions to other COVID-19 cases ( n = 218) tested here.

@@ -1,0 +1,6 @@
+Erdheim-Chester disease (ECD) is a clonal-inflammatory neoplasm driven by mutations in MAPK pathway proto-oncogenes, such as BRAF.
+Clinical manifestations are protean, affecting virtually every system.
+This cohort study analyzed 661 patients with ECD to classify them based on clinical features and mutational profiles using unsupervised clustering.
+Nineteen clinical and mutational variables were subjected to hierarchical clustering combined with k-means.
+A three-cluster model emerged as the most stable.
+Most patients were classified according to key features, namely BRAF

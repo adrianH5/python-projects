@@ -1,0 +1,6 @@
+The timing of developmental transitions is critical for environmental adaptation, allowing organisms to align stress tolerant and sensitive stages with harsh and benign periods, respectively.
+This timing across seasons (i.e.
+phenology) is often under spatially-varying selection across climate gradients, and species often exhibit genetic clines in phenology.
+Clines for transitions like germination and flowering time are well documented; less is known about the juvenile-to-adult vegetative phase change (VPC) - a conserved (among plants) yet visually subtle developmental transition marked by changes in leaf morphology and physiology.
+Alternatively, developmental tradeoffs can reduce fitness differences between genotypes and promote diversity within populations.
+Here, we tested 158 diverse genotypes of

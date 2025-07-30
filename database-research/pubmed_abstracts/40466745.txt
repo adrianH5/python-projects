@@ -1,0 +1,7 @@
+Infectious pathogens exert a profound impact on global health and socio-economic stability, positioning them as a critical focus of scientific inquiry.
+To safeguard public health, propel advancements in medical diagnostics, and ensure food safety, the development of efficient technologies for rapid, onsite detection of pathogens is imperative.
+In light of recent research breakthroughs, CRISPR/Cas-based technologies for pathogen biosafety and molecular diagnostics have emerged as particularly promising in the realm of infectious disease detection.
+This review succinctly introduces the working principles of CRISPR/Cas systems and thoroughly discusses the design and development of various CRISPR/Cas-based biosensors.
+Importantly, this paper explores the robust applications of CRISPR/Cas-assisted biosensing for emerging infectious diseases, highlighting its potential in pathogen diagnostics with features like cost-effectiveness, multiplex detection and POCT applications.
+Furthermore, challenges and future developments of CRISPR/Cas-based biosensors for rapid and accurate pathogen detection in specialized settings are also summarized, integrating CRISPR detection with portable POCT biosensors, nanomaterials and novel colorimetric materials.
+As it builds on a lot of foundational work and offers new insights and detailed reference to advance the development and application of CRISPR technologies in clinical pathogens diagnostics, opening new avenues in medical diagnostics and the prevention and control of infectious diseases.

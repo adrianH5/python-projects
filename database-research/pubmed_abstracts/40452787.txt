@@ -1,0 +1,3 @@
+Small interfering RNA (siRNA) provides a new method for anti-tumor therapy by targeting Survivin gene in liver cancer.
+However, free Survivin siRNA is easily degraded and cleared by endonucleases or macrophages in the blood circulation.
+Therefore, it is urgent to construct a safe and efficient delivery system to achieve effective transfection of Survivin siRNA.

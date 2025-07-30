@@ -1,0 +1,19 @@
+T1	Repository 78 82	NCBI
+T2	AccessionNumber 115 125	ALW82742.1
+T3	Repository 211 214	PDB
+T4	AccessionNumber 219 223	5X59
+T5	Repository 229 246	Protein-Data-Bank
+T6	Repository 671 678	Genbank
+T7	Repository 800 816	Protein databank
+T8	Repository 818 821	PDB
+T9	AccessionNumber 826 830	3VCL
+T10	Repository 1005 1008	PDB
+T11	AccessionNumber 1013 1017	5X59
+T12	Repository 1188 1191	PDB
+T13	AccessionNumber 1196 1200	3VCL
+T14	Repository 1268 1271	PDB
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T8	Arg2:T9
+R4	hasAttr	Arg1:T10	Arg2:T11
+R5	hasAttr	Arg1:T12	Arg2:T13

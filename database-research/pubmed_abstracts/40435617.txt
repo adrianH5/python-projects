@@ -1,0 +1,4 @@
+Trihalomethanes (THMs) in drinking water are regulated for carcinogenic health risks.
+However, frequent water quality monitoring imposes significant resource burdens.
+This study proposes a framework integrating interpretable machine learning (ML) with virtual data augmentation to predict THM occurrence and associated cancer risks.
+Based on 146 real samples, this study uniquely uses COD

@@ -1,0 +1,7 @@
+Phototherapies harness light's spatial and temporal precision to noninvasively modulate biomolecular interactions, providing a powerful platform for precision oncology.
+This approach is particularly effective in targeting disease-associated molecular structures such as G-quadruplexes (G4s), noncanonical nucleic acid conformations found in oncogene promoters and telomeres.
+These unique structures can impede DNA polymerase progression along the duplex, triggering DNA damage that ultimately compromises genomic stability.
+Stabilizing G4s with tailored ligands is currently being explored as a promising anticancer strategy, as it may induce toxic DNA damage specifically in rapidly dividing cancer cells.
+Unlike conventional G4 ligands, which remain continuously active, newly developed light-responsive molecules incorporate an OFF-ON switching mechanism that allows for spatiotemporal control over G4 dynamics and phototherapeutic effects.
+This concept article reviews a diverse array of light-responsive molecular tools, including photosensitizers (PSs), photocages, photochemically transformed ligands, and photoswitches, that selectively modulate G4-interactive binding properties, thereby laying the foundation for a versatile photopharmacological platform.
+Additionally, the article highlights recent advancements in this rapidly evolving field and discusses the challenges that remain for clinical translation, underscoring the significant potential of G4-targeted phototherapies to shape next-generation cancer treatments.

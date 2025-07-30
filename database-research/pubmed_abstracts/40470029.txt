@@ -1,0 +1,9 @@
+With advancements in drug repurposing, the search for effective and less harmful anticancer agents remains a critical endeavor.
+Raloxifene, although not a typical anticancer drug, holds promise in this context.
+However, its poor solubility poses a significant challenge to its therapeutic potential and formulation efficiency.
+Functional excipients such as cyclodextrins (e.g., β-cyclodextrin, hydroxy propyl β-cyclodextrin, and Captisol) and pH-modifying excipients (e.g., tartaric acid, azelaic acid, and arginine) were investigated to enhance solubility, dissolution, cytotoxicity and cellular uptakes employing Caco-2 cell lines through binary solid dispersions.
+In silico studies suggested the potential for salt formation with raloxifene-azelaic acid and raloxifene-tartaric acid, as well as inclusion complexes with cyclodextrins.
+Experimental results showed that pH-modifying excipients, particularly tartaric and azelaic acids, significantly improved solubility (up to an 800-fold increase), outperforming cyclodextrins (8-fold increase) compared to the untreated drug.
+Cytotoxicity studies on the human breast cancer (Michigan cancer foundation, MCF-7) cells revealed that raloxifene-tartaric acid significantly enhanced cell killing, achieving efficacy comparable to the standard anticancer drug Taxol.
+Additionally, both fluorescence-labeled raloxifene: hydroxy propyl β-cyclodextrin coprecipitated mixtures (Coppt) and raloxifene: tartaric acid Coppt exhibited concentration- and time-dependent cellular uptake, with mean fluorescence intensity increasing significantly at 24 h, indicating rapid internalization and sustained intracellular retention, especially at higher concentrations.
+More interestingly, the superior cellular uptake was in favor of the latter, indicating the pH-modifying excipient tartaric acid, and these findings correlated well with solubility and dissolution studies.

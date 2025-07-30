@@ -1,0 +1,11 @@
+The nerve-sparing step of prostatectomy is crucial for post-operative sexual recovery, and excessive countertraction on the neurovascular bundle (NVB) during retraction has been associated with adverse sexual function outcomes.
+Our objective is to utilize computer vision to quantitatively assess the degree of this countertraction to study its impact on post-operative sexual recovery.
+Sixty-four nerve-sparing prostatectomy videos were used to extract snapshots prior to and at the maximum point of retraction gestures on the NVB.
+Semantic image segmentation, conducted with the Computer Vision Annotation Tool (CVAT), was used to label features such as the proportion of tissue grasped relative to retractor size and tissue stretch (measured by percent area increase and angular deviation from baseline).
+Supervised machine learning models, including Random Forest, Multi-layer Perceptron, and XGBoost, were then developed to predict the likelihood of erections sufficient for intercourse at a 12-month post-operative follow-up.
+Predictions were based on clinical and surgical gesture features (age, PSA, extent of nerve sparing, and post-operative Gleason scores, number of NVB retractions) alone and in combination with segmentation-derived features.
+One thousand one hundred four instances of NVB retraction were labeled.
+For patients with insufficient erectile function for intercourse at the 12-month follow-up, the mean angular deviation, percent area increase, and proportion of tissue grasped were 25.80° (SD 13.1), 41.81% (SD 33.3), and 0.310 (SD 0.093), respectively.
+In contrast, for patients with sufficient erectile function, these values were 21.07° (SD 7.4), 20.10% (SD 12.5), and 0.206 (SD 0.127), respectively.
+Integrating segmentation-derived features into the models enhanced predictive performance, with the AUC increasing from 0.78 (IQR 0.56-0.98) to 0.83 (IQR 0.63-1.00) for the Random Forest model, from 0.61 (IQR 0.35-0.85) to 0.74 (IQR 0.50-0.94) for the Multi-layer Perceptron, and from 0.70 (IQR 0.44-0.92) to 0.78 (IQR 0.58-0.97) for XGBoost.
+Delicate handling of the neurovascular bundle is crucial for better post-operative sexual recovery, and computer vision can provide an objective assessment of retraction on the NVB, offering insights beyond clinical and gesture features alone.

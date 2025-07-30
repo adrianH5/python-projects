@@ -1,0 +1,26 @@
+An outbreak of Coronavirus disease 2019 (COVID-19) occurred in Wuhan, China in December 2019 and has spread rapidly across the globe.
+Several studies have provided evidence that coagulation dysfunction is a major cause of death in severe COVID-19 patients [1], [2], [3], [4].
+Awareness regarding thrombotic complications in COVID-19 patients is extremely important for deciding the appropriate course of treatment.
+A large number of COVID-19 infected patients have been reported to have other chronic diseases such as cardiovascular disease, malignancy, respiratory diseases and kidney and liver abnormalities.
+Presence of such comorbidities results in increased severity of COVID-19 infection.
+Increasing viral load during COVID-19 infection progression leads to cascade of events like inflammation and sepsis releasing inflammatory cytokines which in turn leads to increase in circulating thrombin levels.
+Various recent reports have shown increasing concerns of hypercoagulability in COVID-19 patients [14], [15].
+Higher incidences of thrombotic complications have been observed in COVID-19 patients admitted in Intensive Care Unit (ICU).
+Reports have also shown that coagulopathy in COVID-19 infection results in higher D-dimer levels and subsequently high mortality rates [14] and this mortality is reduced by the use of anticoagulation therapy with heparin [15].
+Thus, abnormal coagulation parameters, especially increased D-dimer and FDP levels are associated with deaths in COVID-19 patients.
+This study was conducted on 449 severe COVID-19 patients and 99 of them received low molecular weight heparin (LMWH) treatment for 7 days or longer.
+They further reported that among patients had higher mortality rates and raised D-dimer levels in absence of heparin treatment and LMWH treatment was associated with better prognosis in severe COVID-19 patients [15].
+Researchers further stated that VTE incidence in severe NCP patients was the prime cause of their poor prognosis and significant increase in the D-dimer levels could be a good parameter for identifying high VTE risk amongst COVID-19 patients.
+Furthermore, the abnormality in coagulation in COVID-19 differs from what is typically found in other infectious diseases.
+In the non-survivors of COVID-19 there was a marked decrease in fibrinogen levels and elevation in FDP.
+Most recent reports demonstrate that D dimer levels are significantly increased in COVID-19 non-survivors and thus its prognosis can be predicted based on this parameter [1], [4], [18].
+Asakura et al. suggested combination therapy of heparin and Nafamostat against COVID-19 infection [22].
+Other recent reports also suggest thromboprophylaxis for all hospitalized COVID-19 patients [23].
+During these unforeseen conditions with worldwide pandemic of coronavirus, it is extremely important to consider risk of thrombotic complications while treating an infected COVID-19 patient.
+Highlights     •  Coagulation parameters such should be checked at the time of admission of COVID-19 patient.
+Background  Recent reports on outbreak of SARS-CoV-2 coronavirus (COVID-19) have shown its association with abnormal blood clots.
+Spread of COVID-19 has been associated with disseminated intravascular coagulation (DIC) and subsequent coagulopathy.
+Initially coagulopathy in COVID-19 patients result in significant elevation of D-dimer, fibrin/fibrinogen degradation products (FDP), and abnormalities in coagulatory parameters, which resulting in formation of thrombus and eventually death.
+Methodology  Present report intends to summarize the information of the research reports available so far on the complications of formation of unusal blood clots (thrombosis) during COVID-19 infection and its therapeutic strategies.
+Extensive web search was done for various reports associating COVID-19 infection with increased coagulopathy and abnormal coagulatory parameters such as PT, PTT, and platelet counts; along with increased D-dimer and fibrinogen levels.
+Results and conclusion  Findings of these research reports were summarized to recommend cautions for clinicians while treating COVID-19 patient.

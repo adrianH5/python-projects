@@ -1,0 +1,8 @@
+In recent years, molybdenum disulfide (MoS₂)-based nanozymes have demonstrated significant potential for enhancing the efficacy of photothermal therapy (PTT) in the treatment of cancer.
+The unique properties of two-dimensional MoS₂ such as high surface area, good biocompatibility, high photothermal conversion efficiency in the near-infrared region, catalytic activity and ability to modify their surfaces for targeted cancer therapy make them an ideal candidate for PTT-based combination therapies.
+MoS₂-based nanomaterials also function as nanozymes and exhibit peroxidase and Fenton-like catalytic activity within tumor cells while displaying superoxide dismutase-like activity in normal cells.
+Additionally, their intrinsic catalytic properties facilitate the generation of reactive oxygen species and enhance the anticancer efficacy.
+Hence, this review provides an in-depth examination of the structural properties, surface modifications, and atomic defects in MoS₂ nanozymes, highlighting strategies to optimize their photothermal efficiency and biocompatibility.
+We also explore the mechanisms of action, therapeutic outcomes, and the challenges associated with MoS₂-based nanozymes.
+The synergistic action of nanozymes supports their use in cancer PTT while preventing bacterial infections, highlighting the potential of MoS₂ as a multifunctional therapeutic agent.
+Finally, the review outlines future directions and the potential for integrating MoS₂ nanozymes into synergistic cancer treatments.

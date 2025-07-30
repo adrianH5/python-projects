@@ -1,0 +1,7 @@
+Despite the widespread use of chemotherapeutic agents, their reliance on apoptosis often limits therapeutic efficacy and leads to drug resistance.
+To overcome these challenges, alternative cell death mechanisms such as cuproptosis have gained significant attention.
+While previous studies have primarily focused on incorporation of Cu into nanostructures, this work presents the first example of a molecular tripodal Cu(II) complex as a potent cuproptosis inducer.
+Herein, a series of tripodal Cu(II) complexes were chemically synthesized and biologically evaluated.
+The most promising compound demonstrated remarkable cytotoxicity in the low micromolar to nanomolar range.
+Mechanistic studies revealed that the compound catalytically produced hydroxyl radicals in the mitochondria of cancerous cells, causing protein oligomerization and the disruption of iron-sulfur cluster proteins, ultimately triggering cell death by cuproptosis.
+Contrary to traditional chemotherapeutic agents that cause reduction in tumor size, this compound induced the fragmentation of three-dimensional tumor spheroids.

@@ -1,0 +1,11 @@
+MGI platforms hold promise to become a widespread instrument for various clinical next-generation sequencing applications, from whole genome sequencing to COVID-19 genotyping.
+However, in the clinical oncology setting it is still restricted to large panel sequencing limiting capacity for routine biomarker screening.
+In this article, we describe our experience of tailoring amplicon-based library construction for the MGI platform.
+Illumina compatible reagents served as a prototype in order to introduce platform specific adapters.
+Elaborated reagent kits were used for BRCA1/2 or 34 oncogenes testing both with whole blood and FFPE-derived DNA.
+Our data show that amplicon-based DNBSEQ-tailored library preparation demonstrates sufficient analytical efficiency in terms of coverage uniformity (average MAPD 1.08 and 1.19 for ABC plus and Atlas plus panels) and amplicon drop-out rate (ranging from 0.3% to 2.5%).
+Additionally, it shows efficiency in terms of single sample sensitivity, maintaining 99% sensitivity compared to 99% for the Illumina prototype.
+We show that it also outreaches expected diagnostic parameters of MGI exome sequencing (99% vs 95% for WES).
+Per-amplicon coverage of sticky-end libraries sequenced on Illumina and MGI were highly correlated demonstrating that the platform itself does not introduce any bias to amplicon coverage.
+Across three tested variations of library preparation protocol, discordances were related to ligation mix component composition and resulted in underrepresentation of GC-low and GC-high amplicons and low uniformity as a result.
+Overall, we outline the successful adaptation of PCR-based library preparation for MGI signifying the importance of tailoring component composition of reagent kit for uniform coverage.

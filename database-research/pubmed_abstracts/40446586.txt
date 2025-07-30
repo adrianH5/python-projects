@@ -1,0 +1,8 @@
+Twenty-four heterocyclic derivatives bearing a phenolic moiety were prepared with good to excellent yields.
+Their antioxidant properties were examined using various in vitro methods, including DPPH, FRAP, metal chelation, and PRAP assays.
+The vanillin derivatives 6, 9, 12, and 15 showed the most pronounced antioxidant effects, with derivative 15 exhibiting the highest activity in multiple tests, indicating its antioxidant potential.
+The antioxidant mechanism of 15 was studied using the DFT-based QM-ORSA protocol, revealing that it acts via formal hydrogen transfer (FHT) and the single proton loss electron transfer (SPLET) mechanisms depending on the environment, with superior scavenging activity under polar conditions.
+In addition, 15 showed effective Cu(II) chelation, indicating its potential as a type II antioxidant.
+The cytotoxicity of all the prepared compounds was studied against human gastric adenocarcinoma (AGS) and lung cancer (A549) cell lines.
+Among the tested compounds, 9 showed significant anticancer activity against both gastric and lung cancer cell lines, while displaying minimal toxicity toward human non-cancerous keratinocytes (HaCaT cell line).
+Further investigations revealed that 9 triggered apoptosis via a caspase-dependent pathway, highlighting its potential for anticancer therapy development.

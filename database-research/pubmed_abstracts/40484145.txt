@@ -1,0 +1,12 @@
+The mortality rate of primary liver malignant tumors is very high.
+Curcumin (Cur) is one of the most commonly used drugs for the treatment of liver cancer.
+However, due to its low bioavailability, nano-drug delivery systems are rapidly developing.
+Zeolitic imidazolate framework-8 (ZIF-8), is pH-sensitive and biodegradable in acidic environments, providing a very suitable platform for drug delivery.
+Here, the anti-tumor properties of Cur and the anti-inflammatory properties of gold nanoparticles (Au NPs) were integrated and encapsulated in ZIF-8 material to prepare a composite drug delivery system (Cur/Au@ZIF-8).
+The prepared materials were characterized by scanning electron microscopy and elemental analysis, transmission electron microscopy, and powder X-ray diffraction.
+The drug loading efficiency of Cur in this delivery system reached 47.16 %.
+The drug release curve showed that the release rate of Cur/Au@ZIF-8 was faster at pH 5.5, with a release rate of 72.34 %.
+Ultrasound-guided in situ liver cancer models were constructed in SD rats to investigate the in vivo anti-tumor effects of Cur/Au@ZIF-8 and its impact on the metabolomics of tumor-bearing rats before and after treatment.
+In vivo results indicated that Cur/Au@ZIF-8 showed better anti-tumor effects, with a tumor inhibition rate of 46.81 %.
+After treatment, 26 key differential metabolites (p < 0.05) were identified from expression patterns and metabolic pathways, which were mainly related to fatty acid metabolism.
+This treatment strategy provides a reference for future cancer treatment and mechanism exploration.

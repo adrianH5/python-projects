@@ -1,0 +1,5 @@
+T1	Repository 293 296	PDB
+T2	AccessionNumber 318 322	6VWW
+T3	AccessionNumber 327 331	6W01
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T1	Arg2:T3

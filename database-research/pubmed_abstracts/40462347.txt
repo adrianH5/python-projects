@@ -1,0 +1,8 @@
+Nuclear translocation of the transcription regulatory proteins yes-associated protein (YAP) and transcriptional coactivator with PDZ-binding motif (TAZ) is a critical readout of cellular mechanotransduction.
+Recent experiments have demonstrated that cells on substrates with well-defined nanotopographies demonstrate mechanoadaptation through a multitude of effects - increased integrin endocytosis as a function of nanopillar curvature, increased local actin assembly on nanopillars but decreased global cytoskeletal stiffness, and enhanced nuclear deformation.
+How do cells respond to local nanotopographical cues and integrate their responses across multiple length scales?
+This question is addressed using a biophysical model that incorporates plasma membrane (PM) curvature-dependent endocytosis, PM curvature-sensitive actin assembly, and stretch-induced opening of nuclear pore complexes (NPCs) in the nuclear envelope (NE).
+This model recapitulates lower levels of global cytoskeletal assembly on nanopillar substrates, which can be partially compensated for by local actin assembly and NE indentation, leading to enhanced YAP/TAZ transport through stretched NPCs.
+Using cell shapes informed by electron micrographs and fluorescence images, the model predicts lamin A and F-actin localization around nanopillars, in agreement with experimental measurements.
+Finally, simulations predict nuclear accumulation of YAP/TAZ following rupture of the NE and this is validated by experiments.
+Overall, this study indicates that nanotopography tunes mechanoadaptation through both positive and negative feedback on mechanotransduction.

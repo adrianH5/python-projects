@@ -1,0 +1,1 @@
+To develop and validate interpretable machine learning models for differentiating glioblastoma (GB) from solitary brain metastasis (SBM) using radiomics features from contrast-enhanced T1-weighted MRI (CE-T1WI), and to compare the impact of low-order and high-order features on model performance.

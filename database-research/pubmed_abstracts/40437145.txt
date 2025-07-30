@@ -1,0 +1,9 @@
+Long-term exposure to arsenic (As), which is a ubiquitous environmental contaminant, significantly enhances the risk of multiple cancers, including bladder and lung cancers.
+In recent years, the important roles of circular RNAs (circRNAs) in tumorigenesis and development have attracted widespread attention.
+However, the specific molecular mechanisms by which circRNAs promote bladder cancer development following exposure to arsenic remain incompletely understood.
+This study is the first to demonstrate that circPDE3B is significantly upregulated in a cell model of transformation triggered by arsenic and that it promotes this transformation process.
+Our study elucidated the biological function of circPDE3B in vitro, in SV-HUC-1 cells, showing that it accelerates the malignant transformation from arsenic via increasing cell proliferation and inhibiting apoptosis.
+Furthermore, we delineated a novel molecular mechanism whereby circPDE3B directly binds to NF-κB and STAT3, inhibiting their ubiquitination and increasing their stability.
+This, in turn, affects downstream HIF-1α expression, promoting the malignant transformation of SV-HUC-1 cells and eventually resulting in bladder carcinogenesis.
+Our research reveals the critical regulatory role of circPDE3B in the arsenic-triggered malignant transformation within SV-HUC-1 cells.
+This study offers broader perspectives on the molecular mechanisms driving bladder cancer progression, while also identifying potential targets for early diagnosis and treatment of bladder tumour.

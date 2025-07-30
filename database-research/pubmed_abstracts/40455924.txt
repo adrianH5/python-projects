@@ -1,0 +1,7 @@
+In order to maintain genomic integrity, DNA replication must be highly coordinated.
+Disruptions in this process can cause replication stress which is aberrant in many pathologies including cancer.
+Despite this, little is known about the mechanisms governing the temporal regulation of DNA replication initiation, thought to be related to the limited copy number of firing factors.
+Here, we present a high (1-kilobase) resolution stochastic model of Saccharomyces cerevisiae whole-genome replication in which origins compete to associate with limited firing factors.
+After developing an algorithm to fit this model to replication timing data, we validated the model by reproducing experimental inter-origin distances, origin efficiencies, and replication fork directionality.
+This suggests the model accurately simulates the aspects of DNA replication most important for determining its dynamics.
+We also use the model to predict measures of DNA replication dynamics which are yet to be determined experimentally and investigate the potential impacts of variations in firing factor concentrations on DNA replication.

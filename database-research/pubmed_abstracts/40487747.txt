@@ -1,0 +1,7 @@
+Metabolic disturbance plays a critical role in the initiation of colorectal cancer (CRC), yet the identification of metabolites that are useful for early detection of CRC and its precursor lesions remains elusive.
+We conducted an untargeted plasma metabolomic profiling by liquid chromatography-mass spectrometry in a two-stage case-control study, including 219 CRC cases, 164 colorectal adenoma (CRA) cases, and 219 normal controls (NC) as a training set, and 91 CRC, 115 CRA, and 109 NC as a validation set.
+Among 891 named metabolites, 239 were significantly altered in CRC versus NC, 26 in CRA versus NC, and 88 in CRC versus CRA within the training set.
+The results were stable when adjusting for potential confounders.
+A panel of 10 metabolites, including six lipid species, one benzenoid, one organoheterocyclic compound, one organic acid derivative, and one organic oxygen compound, showed optimal performance in discriminating CRC from NC (AUC = 0.81) in the validation.
+Moreover, a panel of seven metabolites exhibited optimal performance in discriminating CRA from NC, with an AUC of 0.89.
+Our findings provide novel evidence supporting specific plasma metabolites, particularly those implicated in lipid metabolism, as promising biomarkers for the early detection of CRC.

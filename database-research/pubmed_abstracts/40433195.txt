@@ -1,0 +1,1 @@
+To develop a generalizable extraction, transform, and load (ETL) process and workflow for prospective harmonization of data from active cohort studies being conducted in different geographic locations across the Region of the Americas.

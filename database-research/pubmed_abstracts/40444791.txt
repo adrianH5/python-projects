@@ -1,0 +1,10 @@
+Despite chemotherapy's limitations and toxic effects, it remains the primary treatment for most triple-negative breast cancer (TNBC) patients, with or without immune checkpoint inhibitors (ICI).
+While cyclin-dependent kinase 4/6 inhibitors (CDK4/6i) combined with endocrine therapy have revolutionized luminal BC treatment, CDK4/6i alone are largely ineffective in TNBC, even with functional retinoblastoma protein (pRB).
+Activation of the receptor activator of nuclear factor-κB (RANK) pathway has been associated with poor prognosis in TNBC and with resistance to CDK4/6i in luminal BC, effects that can be reversed by RANK ligand inhibitors (RANKLi).
+In this study, we analyzed the effect of RANK knockdown (KD) or RANKLi in the response of pRB-proficient TNBC to CDK4/6i in vitro.
+RANK+ patient-derived xenograft (PDX) and cell line-derived xenograft models were used to assess therapeutic efficacy of CDK4/6i + RANKLi in vivo.
+Two syngeneic models of TNBC and luminal BC were used to portrait the main therapy-induced alterations in the tumor immune microenvironment.
+RANK KD or RANKLi sensitized pRB-proficient TNBC cells to CDK4/6i in vitro.
+The combination of palbociclib and RANKLi regressed or prevented tumor growth and metastasis in vivo, enhancing cell cycle arrest.
+Both CDK4/6i and RANKLi elicited an anti-tumor immune response, characterized by an increase in CD4+ and CD8+ T cells and a decrease in tumor-associated macrophage's (TAMs) infiltrating the tumor microenvironment.
+These findings suggest that combining CDK4/6i and RANKLi could offer a new therapeutic strategy for pRB-proficient TNBC, holding potential immunomodulatory benefits across BC subtypes.

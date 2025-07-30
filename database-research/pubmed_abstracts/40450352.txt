@@ -1,0 +1,2 @@
+Proton resonance frequency (PRF)-based magnetic resonance (MR) thermometry plays a critical role in thermal ablation therapies through focused ultrasound (FUS).
+For clinical applications, accurate and rapid temperature feedback is essential to ensure both the safety and effectiveness of these treatments.

@@ -1,0 +1,5 @@
+DNA methylation is a key epigenetic regulator often disrupted in cancer, yet how promoter methylation dynamics translate into transcriptional changes during cancer progression remains incompletely understood.
+Here, we employed targeted bisulfite sequencing and RNA-seq on paired tumor and non-tumor tissues from 80 Korean colorectal cancer (CRC) patients to map promoter methylation and gene expression dynamics.
+Promoters with high baseline methylation in non-tumor tissues tended to become hypomethylated in tumors, while those with low baseline methylation underwent partial hypermethylation.
+However, these changes did not consistently correlate with gene silencing or activation.
+Strikingly, promoters marked by Polycomb (PcG

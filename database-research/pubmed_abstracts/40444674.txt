@@ -1,0 +1,7 @@
+Tumor microenvironment (TME) alteration can lead to tumorigenesis, where tumors evade the immune system and spread.
+Thus, immunomodulation inside the TME may be a useful therapeutic approach.
+In this regard, bioprinting has become a potential technique for developing therapeutic solutions that offer improved control over immune modulation.
+Through the use of novel immune cell therapies and realistic tumor models, it provides a platform for advancing cancer immunotherapy.
+By examining the complex mechanisms of immunomodulation in tumorigenesis, this review article clarifies how interactions between the immune system and the tumor microenvironment affect the initiation and spread of cancer.
+Additionally, the effectiveness of 3D bioprinting in modulating and activating immune cells, such as T cells, dendritic cells, and macrophages, has also been analyzed.
+A summary of current research shows the pivotal role of 3D bioprinting in establishing a solid foundation for advancing anticancer studies and revolutionizing cancer treatment through immunotherapeutic strategies.

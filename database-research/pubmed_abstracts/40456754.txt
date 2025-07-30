@@ -1,0 +1,8 @@
+Earthworms have been extensively studied as ancient soil invertebrates, that are highly diverse.
+Previous studies of these invertebrates have mainly focused on their ecosystem services, medicinal value, and ecological habits.
+However, their genomic analysis remains inadequate.
+In this study, we generated the first high-quality telomere-to-telomere (T2T) assembly of the genome of the earthworm, Amynthas aspergillum (Perrier, 1872), which belongs to the genus Amynthas of the family Megascolecidae.
+The T2T assembly was 758.86 Mb with an N50 contig size of 16.59 Mb.
+The sequences were anchored to 43 chromosomes (2n = 2x = 86) with a coverage of 98.43% (746.95 Mb), and 83 telomeres were detected.
+In addition, we also predicted 35,723 protein-coding genes with 97.02% being functionally annotated.
+This T2T genome assembly will establish substantial groundwork for exploring the evolutionary mechanisms of the earthworm genome and enhance the specificity of its pharmacological effects.

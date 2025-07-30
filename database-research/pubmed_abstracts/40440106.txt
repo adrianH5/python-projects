@@ -1,0 +1,6 @@
+Protein arginine methyltransferase 5 (PRMT5), which uniquely binds to 5'-methylthioadenosine (MTA) among the PRMT family, is emerging as an attractive epigenetic target for 5'-methylthioadenosine phosphorylase (MTAP)-deleted cancer treatments.
+Here, we report the discovery of a novel inhibitor 16-19F, which is a potent binder to the PRMT5•MTA, PRMT5•SAH, and PRMT5•SAM complexes and selectively inhibited MTAP-deleted cancer cell growth.
+Based on transcriptome analysis, we found that kinetochore metaphase signaling and cell cycle control of the chromosomal replication pathway were downregulated after 16-19F treatment in the MDA-MB-231 TNBC cell line.
+Additionally, we identified a new PRMT5 substrate, MCM7, an important component of DNA helicase, and figured out the potential methylation site Arg219 by site-directed mutagenesis and computational analysis.
+Moreover, we showed that 16-19F treatment regulated MCM7 localization, which is involved through liquid-liquid phase separation mechanisms, including the formation of stress granules.
+Together, we discovered a potential novel drug candidate and revealed an unknown mechanism in which PRMT5 methylation altered MCM7 localization by modulating stress granule formation.

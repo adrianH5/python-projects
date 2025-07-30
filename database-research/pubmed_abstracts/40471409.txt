@@ -1,0 +1,10 @@
+The purpose of the study is to investigate the degree and performance in the differential diagnosis of bronchiectasis/airspace enlargement in an iodine map obtainable from CT pulmonary angiography compared with monochromatic images.
+This retrospective study included 62 patients with a lung nodule who underwent CT pulmonary angiography.
+The iodine map and monochromatic image (70 keV) were reconstructed.
+Three readers evaluated the degree of bronchiectasis/airspace enlargement with a 4-point scale.
+A reference standard was established in 39 patients, and the performance of bronchiectasis/airspace enlargement in the differential diagnosis was evaluated in them.
+The degree of bronchiectasis/airspace enlargement in the iodine map (median score = 1/2/1 for reader 1/2/3) was significantly more prominent than that in the monochromatic image (median score = 0/1/0 for reader 1/2/3) (p < 0.001 for all readers).
+Using bronchiectasis/airspace enlargement, primary lung carcinoma and malignant lymphoma could be differentiated from other diseases, excluding lung infarct, with an area under the receiver operating characteristic curve (AUC) (reader 1/2/3) of 0.718/0.867/0.803 in the combinations of iodine map plus monochromatic image and 0.496/0.828/0.450 in the monochromatic image (p ≤ 0.047 for two readers).
+Lung metastasis from colorectal carcinoma could be differentiated from other diseases with an AUC of 0.851/0.976/0.838 in the combinations of iodine map plus monochromatic image, which was significantly superior to the monochromatic image (0.378/0.780/0.459) (p ≤ 0.012 for all readers).
+Bronchiectasis/airspace enlargement was more prominently observed in the iodine map than in the monochromatic image.
+This image finding in the iodine map provided added value in the differential diagnosis of malignant lung nodules compared with monochromatic images alone.

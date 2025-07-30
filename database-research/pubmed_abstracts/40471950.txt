@@ -1,0 +1,5 @@
+High-efficiency detection of circulating tumor cells (CTCs) provides real-time information for cancer diagnosis and therapy.
+The light-addressable photoelectrochemical biosensor array (LAPECBA) is the best candidate for rapid and high-throughput detection.
+However, strong background interference, baseline drift, and batch deviation hinder the further application of LAPECBA.
+Here, we reported a LAPECBA with self-calibration for high-throughput and accurate detection of CTCs.
+The α-Fe

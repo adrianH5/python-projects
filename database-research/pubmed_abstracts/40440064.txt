@@ -1,0 +1,6 @@
+FSP1 is an FAD-dependent oxidoreductase that uses NAD(P)H to regenerate the reduced forms of lipophilic quinone antioxidants, such as coenzyme Q10 and vitamin K. These quinone antioxidants function as radical scavenging agents that prevent the propagation of lipid peroxidation and the induction of ferroptosis.
+Although several small-molecule inhibitors of FSP1 have been developed and found to sensitize cancer cells to ferroptosis, our understanding of their molecular mechanisms remains limited and no structures of FSP1 in complex with its inhibitors have been solved.
+Here, we solve the cocrystal structure of FSP1 in complex with the FSP1 inhibitor FSEN1, revealing that FSEN1 binds within the FSP1 substrate-binding pocket.
+FSEN1 makes key interactions with a critical phenylalanine, which is absent in mouse FSP1, providing an explanation for the selectivity of FSEN1 for human FSP1.
+These conclusions are supported by mutagenesis of FSP1 and biochemical and cellular assays of FSP1 function.
+Our findings provide the first cocrystal structure of FSP1 in complex with an inhibitor, enhancing our understanding of the mechanism of FSP1 inhibition and enabling future rational medicinal chemistry efforts to advance FSP1 inhibitors as therapeutics.

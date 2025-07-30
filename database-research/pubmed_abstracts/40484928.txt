@@ -1,0 +1,12 @@
+The nucleoside analogue 6-thio-2'-deoxyguanosine (6-thio-dG, also known as THIO) is a telomere-targeting agent with important clinical potency.
+It can selectively kill telomerase-positive tumor cells.
+We previously reported that THIO could successfully induce immunogenic cell death (ICD) in multiple mouse tumor cell lines.
+In this study, we further explored the potential impact of THIO on remodeling the tumor microenvironment, regulating anti-tumor immune responses, and its possible synergistic effects with other therapeutic methods, such as tumor vaccines.
+Our results showed that THIO could also induce ICD in various human tumor cell lines.
+The induction of ICD in tumor cells promoted the migration and maturation of antigen-presenting cells.
+Administration of THIO significantly inhibited the growth of established CT26 and TC-1 tumors in mice.
+Meanwhile, it enhanced the anti-tumor CTL response and reduced the levels of immunosuppressive myeloid-derived suppressor cells (MDSCs) in both the spleen and tumor tissues.
+Additionally, THIO had a direct inhibitory effect on the proliferation and differentiation of MDSCs.
+Moreover, when combined with bacterial biomimetic vesicles or a nanovaccine, such as THIO with BBV or different Q11-tumor antigen peptide nanofibers, it exhibited enhanced anti-tumor effects and immune responses compared to monotherapy in either "immune hot" TC-1 tumors or "immune cold" B16-F10 tumors.
+In summary, THIO has the ability to remodel the tumor microenvironment, exert a specific killing effect on tumor cells, and effectively cooperate with tumor vaccines.
+This broadens the anti-tumor mechanisms of THIO and provides a promising strategy for improving anti-tumor immunotherapies.

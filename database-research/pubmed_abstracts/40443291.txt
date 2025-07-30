@@ -1,0 +1,9 @@
+While Raman spectroscopy itself stands on the principle of inelastic scattering of light, surface-enhanced Raman spectroscopy (SERS) amplifies those normally rather weak Raman signals by way of interactions between molecules and nanostructured metal surfaces.
+The technique has rapidly evolved into a very powerful analytical tool with enormous potential in combating cancer and COVID-19.
+SERS is a useful tool for diagnostics and treatment monitoring because of its remarkable sensitivity and ability to detect low-abundance molecules; nevertheless, standardizing techniques, guaranteeing reproducibility across several platforms, and overcoming problems related to signal enhancement and sensitivity under different experimental conditions remain challenges.
+SERS is also being explored about the COVID-19 pandemic, where its high sensitivity and specificity hold a promise in diagnostics, treatment monitoring, and even environmental tracing of the virus.
+When it comes to treatment, SERS-based theragnostic applications offer a two-pronged approach by combining therapeutic interventions with diagnostic capabilities that would make different therapies more accurate and effective.
+Approaches to SERS-guided drug delivery systems are discussed that would allow the drug to reach exactly where the antiviral agent is wanted, hence reducing side effects and enhancing treatment outcomes.
+Other approaches examined, including nanoparticle-based SERS for targeted therapy and the design of SERS tags, allow therapy and develop new ways of treatment against this virus.
+Finally, potential future developments of SERS technology and its wider applications in cancer and virology are discussed, with a specific view on the impact SERS might have on how infectious diseases are treated.
+In addition to discussing its present and potential uses, this narrative review emphasizes the critical role that SERS plays in developing and tracking cancer and COVID-19 treatments.

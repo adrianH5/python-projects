@@ -1,0 +1,8 @@
+The human brain contains a rich milieu of extracellular matrix (ECM) components that are often dysregulated in pathologies including the malignant cancer glioblastoma (GBM).
+Here, we have used in situ single-cell spatial transcriptomic platforms to map the expression patterns of nearly 400 ECM genes in normal brain and GBM samples.
+Our analysis identifies at least four different GBM cell populations with unique ECM expression profiles that show spatial enrichment in distinct intratumor regions.
+Spatial mapping also demonstrates largely non-overlapping expression signatures of various ECM components in GBM stromal cell types, particularly in vascular endothelial cells and reactive microglia/macrophages.
+Comparisons of GBM (IDH1 wild type) versus lower-grade II and III astrocytoma samples (IDH1 R132H) identifies differential expression of key ECM components, including elevated levels of select ECM glycoproteins (IGFBP2 and MGP) and ECM-affiliated proteins (ANXA1 and ANXA2).
+In addition, we detect spatially enriched expression of COL8A1 (collagen), LUM (proteoglycan), and POSTN (ECM glycoprotein) in perivascular stromal cells in GBM but not in lower grade tumors.
+Computational analysis of putative ligand-receptor interactions reveals novel ECM communication networks between cancer cells and stromal components, particularly in regions of GBM microvascular proliferation and pseudopalisading necrosis.
+In summary, this comprehensive spatial map provides new insights into microenvironmental control of GBM initiation and progression and identifies potential therapeutic targets in the ECM.

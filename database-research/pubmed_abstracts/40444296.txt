@@ -1,0 +1,14 @@
+Breast cancer (BC) is a global disease.
+A polyphenol-based therapeutic strategy is utilised to discover novel biotargets for breast cancer by assessing their drug-likeliness and toxicity.
+1067 mRNAs associated with the ten initial hallmarks are retrieved from a publicly available database.
+However, no interacting mRNA data were found for two of the new hallmarks.
+The mRNAs are compared with the GEPIA database data to obtain the final 15 differentially expressed genes (DEGs) for the hallmarks.
+The interacting miRNAs of the DEGs are retrieved from a publicly available database.
+56 druggable polyphenols are finalised for the study owing to their drug-likeliness and toxicity.
+Finally, a comprehensive interaction network-based analysis was carried out for the DEGs-interacting miRNAs and common druggable polyphenols.
+This revealed daidzein (DAI), resveratrol and 6-Gingerol; miR-663, miR-148a, miR328 and miR27b; BIRC5, CCNA2, EGFR, STAT5B and CDKN2A as significant polyphenols, miRNAs and mRNAs, respectively.
+Subsequently, a two-step docking approach along with molecular dynamics simulation (MDS) was also used to assess the therapeutic potential of the three polyphenols.
+Molecular docking revealed DAI-CCNA2 as the best fit among all the test complexes.
+For MDS, DAI-CCNA2 was simulated in comparison with CCNA2-Olaparib (OLA), an approved drug for breast cancer.
+MDS results verified DAI (the proposed drug) to be a potential candidate to combat breast cancer.
+Identification of druggable polyphenols using such a comprehensive

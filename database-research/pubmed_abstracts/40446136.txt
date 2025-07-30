@@ -1,0 +1,4 @@
+Photodynamic therapy (PDT) is a clinically effective antitumor treatment offering spatiotemporal precision, minimal invasiveness, and low systemic toxicity.
+However, its application is limited by the shallow penetration of external light sources, particularly for deep-seated tumors.
+Moreover, PDT alone often fails to fully inhibit tumor growth, prompting its combination with other modalities such as photothermal therapy (PTT), which induces tumor cell death through localized heating.
+In this study, we developed a nano-bacteria biohybrid, EcN-QS-iLux@Pd@MC540, by biomineralizing the engineered probiotic

@@ -1,0 +1,8 @@
+Papillary renal cell carcinoma (pRCC), a main pathological subtype of non-clear cell RCC (nccRCC), has strong heterogeneity.
+Comparing to other nccRCC subtypes, advanced pRCC has the poorest prognosis.
+Due to its lower incidence compared to ccRCC, clinical research and exploration of non-invasive biomarkers for pRCC are limited, and it is often misclassified.
+Herein, we leveraged the advantages of non-invasive plasma samples and the extensive coverage of mass spectrometry (MS)-based proteomics to develop a series of predictive models.
+First, we established the RCC subtype diagnostic model, which accurately differentiates pRCC, ccRCC, chromophobe RCC (chRCC), and healthy controls, achieving robust performance with an area under the receiver operating characteristic curve (AUROC) of 0.96 and averaged precision (AP) score of 0.91.
+Furthermore, recognizing the pivotal role of TNM staging in pRCC clinical management, we developed the the TNM staging diagnostic model with AUROC was 0.92 as the complementary noninvasive strategy.
+Finally, to facilitate real-time clinical monitoring of progression-free survival (PFS), we integrated routine blood indicators and proteomic features to develop the time-clock progression model, which demonstrated high predictive performance (AUROC > 0.95, AP > 0.95).
+In summary, this study provides a comprehensive plasma proteomic analysis and establishes diagnostic and prognostic predictive models for pRCC.

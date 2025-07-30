@@ -1,0 +1,4 @@
+Chemoradiotherapy (CRT) followed by surgery is a treatment option for esophageal cancer (EC).
+However, concerns persist regarding cardiopulmonary toxicity and inconsistent daily target coverage due to anatomical changes.
+To address these challenges, we implemented a CBCT-based online adaptive radiotherapy (oART) workflow for EC.
+This study provides updated dosimetric results and evaluates toxicity and treatment response using daily oART on the Ethos™ platform for EC in the neoadjuvant setting.

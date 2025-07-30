@@ -1,0 +1,12 @@
+O-GlcNAcase (OGA) is the sole eraser for the intracellular O-linked N-acetylglucosamine (O-GlcNAc).
+OGA has many roles in distinct biological processes, such as cancer and embryonic stem cells, but its precise regulatory mechanism is far from being understood.
+Herein we studied the small ubiquitin-like modifier (SUMO) modification of OGA, and found that OGA is SUMOylated at K358.
+SUMOylation targets OGA to the chaperone-mediated autophagy (CMA) pathway, which shunts client proteins to the lysosome for degradation.
+We demonstrate that SUMOylation increases the association between OGA and the heat shock cognate protein 70 (HSC70), the CMA chaperone, and facilitates OGA further degradation.
+We further mapped a SUMO-interacting motif (SIM) (VLIFD, aa.
+195-199) on HSC70.
+Notably, HSC70-SIM is essential for affinity with other CMA client proteins, such as PKM2.
+We thus posit that the SIM of HSC70 binds SUMOylated client proteins in a lock-and-key manner to confer substrate selectivity during CMA.
+To further test our hypothesis, we used label-free quantitative mass spectrometry to study the HSC70-SIM mutant interactome, and generated a proteome-wide SUMO-mediated CMA client pool.
+We then validated this model by studying YEATS domain containing 2 (YEATS2) from the protein pool, and demonstrated that YEATS2 is SUMOylated at K592, targeting it to CMA.
+Our work uncovers the SUMO-SIM interaction as a fundamental mechanism governing CMA substrate selectivity and identifies a potential CMA client proteome to deepen our understanding of its pathophysiological relevance.

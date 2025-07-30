@@ -1,0 +1,10 @@
+Visual search is a daily activity, yet people often miss targets when they occur infrequently, leading to costly errors, such as overlooking rare cancerous tumors during routine screenings.
+Previous research on this low-prevalence effect (LPE) has focused on situations where the target can appear anywhere in the visual field, raising questions about how the LPE interacts with other statistical learning mechanisms.
+This study examines how people integrate a search target's spatial probability with its prevalence rate.
+In two experiments, participants searched for a target present either 50% (high prevalence) or 10% (low prevalence) of the time.
+When present, the target disproportionately appeared in one visual quadrant, allowing participants to learn its spatial probability.
+We tested whether participants could learn this spatial probability and if learning was affected by the target's prevalence rate.
+Results showed that participants prioritized high-probability spatial locations under both prevalence conditions.
+When tested in a neutral phase with an even spatial distribution and a 50% target prevalence, the two experiments showed equivalent probability learning, indicating that neither short-term repetition (stronger in high prevalence) nor spaced learning (more likely in low prevalence) was significant.
+Miss rates were higher during low-prevalence training, but the LPE was smaller in high-probability target locations.
+These findings suggest that prevalence rates and spatial probability have independent effects, and the LPE may be reduced in high-probability locations.

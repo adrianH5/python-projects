@@ -1,0 +1,8 @@
+Cancer treatments like chemotherapy, radiotherapy, and combined immunotherapies have significantly increased patient survival.
+However, these treatments are frequently linked to cardiovascular toxicity, which has a significant impact on clinical outcomes and patient well-being.
+Chemotherapy, targeted therapy, and radiotherapy induce significant cellular stress in cardiomyocytes and endothelial cells, causing DNA damage, activating pro-inflammatory and pro-apoptotic signalling pathways.
+Cumulative damage causes cardiomyocyte loss, followed by fibrosis, resulting in pathological structural and functional remodelling of the myocardium.
+Endothelial cell damage disrupts vascular integrity, increasing the risk of atherosclerosis, coronary artery disease, and ischaemia.
+Over time, these changes can lead to clinical conditions like dilated and restrictive cardiomyopathy, which are frequently accompanied by arrhythmias and can result in heart failure and sudden cardiac death.
+To overcome this problem, the novel field of cardio-oncology aims to provide effective cancer treatments with a multifaceted cardioprotection approach involving pharmacological, diagnostic, natural compounds, and lifestyle interventions during and after cancer therapy.
+In this review, we cover the important cancer therapies, and their cardiotoxic mechanisms and detail different cardioprotective strategies aimed at mitigating these adverse effects and improve patient outcomes.

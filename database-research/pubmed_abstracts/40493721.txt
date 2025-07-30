@@ -1,0 +1,11 @@
+Random fluctuations (noise) in gene expression can be studied from two complementary perspectives: following expression in a single cell over time or comparing expression between cells in a proliferating population at a given time.
+Here, we systematically investigated scenarios where both perspectives can lead to different levels of noise in a given gene product.
+We first consider a stable protein, whose concentration is diluted by cellular growth.
+This protein inhibits growth at high concentrations, establishing a positive feedback loop.
+Using a stochastic model with molecular bursting of gene products, we analytically predict and contrast the steady-state distributions of protein concentration in both frameworks.
+Although positive feedback amplifies the noise in expression, this amplification is much higher in the population framework compared to following a single cell over time.
+We also study other processes that lead to different noise levels even in the absence of such dilution-based feedback.
+When considering randomness in the partitioning of molecules between daughters during mitosis, we find that in the single-cell perspective, the noise in protein concentration is independent of noise in the cell cycle duration.
+In contrast, partitioning noise is amplified in the population perspective by increasing randomness in cell-cycle time.
+Overall, our results show that the single-cell framework that does not account for proliferating cells can, in some cases, underestimate the noise in gene product levels.
+These results have important implications for studying the inter-cellular variation of different stress-related expression programs across cell types that are known to inhibit cellular growth.

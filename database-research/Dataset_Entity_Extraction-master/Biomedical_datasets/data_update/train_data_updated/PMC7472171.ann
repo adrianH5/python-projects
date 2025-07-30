@@ -1,0 +1,10 @@
+T1	Repository 87 97	Nextstrain
+T2	Dataset 110 165	global initiative on sharing all influenza data (GISAID
+T3	URL 167 189	https://www.gisaid.org
+T4	Dataset 265 271	GISAID
+T5	Repository 314 324	Nextstrain
+T6	Dataset 411 417	GISAID
+T7	URL 481 547	https://github.com/nextstrain/ncov/blob/master/defaults/clades.tsv
+T8	Dataset 750 756	GISAID
+R1	hasAttr	Arg1:T2	Arg2:T3
+R2	hasAttr	Arg1:T5	Arg2:T7

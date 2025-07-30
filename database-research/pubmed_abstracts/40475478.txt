@@ -1,0 +1,4 @@
+Robust growth control is an essential requirement for the survival of living organisms, while its dysregulation results in diseases such as cancer.
+However, a significant knowledge gap exists in understanding how precise organ growth control is achieved.
+The growing arsenal of optogenetic toolkits allows precise, noninvasive control of cellular signaling in vivo, enabling research into how bioelectrical and chemical cues regulate organ growth.
+Here, we used the red-light-activated channelrhodopsin, CsChrimson, to stimulate intracellular calcium signaling dynamics in the wing epithelium of

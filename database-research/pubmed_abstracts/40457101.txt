@@ -1,0 +1,18 @@
+Laser-interstitial thermal therapy (LITT) is a minimally invasive technique used in neurosurgery for ablation of epileptic foci and malignant lesions, especially for glioma located in regions that pose high surgical risk.
+Current research mainly focuses on maximizing the safety of the procedure and proving the non-inferiority compared to open resection of glioma.
+However, data regarding the current applicability in real-time cohorts are lacking.
+The goal of this study is to evaluate the real-world applicability of LITT in glioma patients, specifically focusing on those who had undergone stereotactic biopsy, and to define limiting factors.
+For this retrospective study, we analyzed n = 207 glioma patients from a monocentric stereotactic surgery database over a 5-year period (2018-2022).
+Clinical, histopathological and radiological data were assessed.
+To define a lesion suitable for LITT, a two-step approach was used.
+In a first step, predefined selection criteria were applied consisting of a Karnofsky Performance Score of 70 or higher, an ASA Score of 3 or less, MRI compatibility, and glioma presenting as a single or bifocal lesion.
+In a second step, the LITT simulation was performed with additional criteria consisting of at least 90% possible ablation volume, a safe trajectory with avoidance of vessels, and optimal lesion accessibility without brainstem involvement.
+Out of 207 patients, 137 cases met initial preselection criteria, while 36 cases (17.4%) were ultimately deemed suitable for LITT post-simulation.
+Common exclusion factors included multifocal lesions, irregular lesion shape, and size constraints.
+Among suitable cases, 94.4% had unifocal lesions.
+For 44.4% of cases, only a single catheter was needed, with the number of ablation points varying from one to twelve per trajectory.
+The average lesion diameter for LITT-suitable cases was 26.4 mm.
+Even though LITT offers a promising alternative for glioma not suitable for open resection, the current application is limited.
+Main reasons were due to lesion morphology and size.
+Enhancing LITT applicability could involve addressing constraints posed by lesion geometry and volume.
+Prospective studies comparing LITT with conventional resection could better define the subset of glioma patients who may benefit most, advancing the potential for LITT in clinical neurosurgical practice.

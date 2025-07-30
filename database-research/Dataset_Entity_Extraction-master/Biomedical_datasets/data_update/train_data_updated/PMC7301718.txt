@@ -1,0 +1,6 @@
+Although viral RNA can be detected in multiple organs in COVID-19 patients, infectious SARS-CoV-2 has only been isolated from respiratory specimens [3,4].
+Since the viral receptor, angiotensin-convertase-2 (ACE2) protein, is expressed in the kidney, the testis and the bladder [5,6] and viral RNA has been detected in the sink and toilet of COVID-19 patients, the virus may be secreted through the urinary system [7].
+Full-length viral genome sequence was acquired by next-generation sequencing (Accession number MT446312) with 5 nucleotide mutations as compared to the original Wuhan viral stain (Accession number NC045512.2) (Table S1).
+ABSTRACT  SARS-CoV-2 caused a major outbreak of severe pneumonia (COVID-19) in humans.
+Viral RNA was detected in multiple organs in COVID-19 patients.
+Here, infectious SARS-CoV-2 was successfully isolated from urine of a COVID-19 patient.

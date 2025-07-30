@@ -1,0 +1,8 @@
+Abdominal aortic aneurysm (AAA) poses a critical and imminent threat due to the potential for rupture, presenting a life-threatening scenario.
+Despite the urgency, there is a lack of an effective clinical drug to impede aneurysm growth and prevent rupture.
+Addressing the intricate pathological changes inherent in AAA lesions, this project introduces a multifunctional nanomedicine utilizing tea polyphenol nanoparticles as carriers for doxycycline (DC) targeted specifically to AAA.
+Through SH-PEG-cRGD modification, the nanoparticles (NPs) demonstrate a remarkable 5-fold increase in accumulation at AAA lesions, achieving precise delivery by recognizing the overexpressed integrin αvβ3 receptors on lesion cell membranes.
+This nanomedicine achieves controlled DC release at the AAA site triggered by elevated reactive oxygen species (ROS) levels, which synergizes with the inherent antioxidant prowess of the nanocarrier.
+The combined effect encompasses anti-inflammatory, antioxidant, macrophage repolarization, antiapoptotic, and anticalcification capabilities, along with matrix metalloproteinase (MMP) inhibition, effectively addressing diverse AAA-associated pathological changes and therapy.
+Notably, nanocarrier delivery significantly mitigates the hepatic and renal toxicity induced by DC, highlighting exceptional biocompatibility.
+This study propounds a targeted nanomedicine with substantial potential for aneurysm treatment and serves as a blueprint for the development of targeted drugs for various vascular diseases.

@@ -1,0 +1,58 @@
+Since its emergence, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which causes COVID-19, has become a global health threat.
+As of July 22, 2020, more than 15 million cases of COVID-19 have been documented worldwide, with nearly 618 000 deaths.
+Guidelines from the UK and the USA recommend mask use for health-care workers caring for people with COVID-19.9, 10 However, global shortages of masks, respirators, face shields, and gowns, caused by surging demand and supply chain disruptions, have led to efforts to conserve PPE through extended use or reuse, and disinfection protocols have been developed, for which scientific consensus on best practice is scarce.
+11, 12, 13
+Although addressing the needs of front-line health-care workers during the COVID-19 pandemic is a high priority,6, 14 data to inform such efforts are scarce, and particularly so among Black, Asian, and minority ethnic communities.
+Thus, we did a prospective population-based study using data from a smartphone-based application (app) to investigate the risk of testing positive for COVID-19, the risk of developing symptoms associated with SARS-CoV-2 infection, or both, among individuals in the UK and the USA.
+We did a prospective, observational cohort study using the COVID Symptom Study app.
+Our study was approved by the Partners Human Research Committee (protocol 2020P000909) and King's College London ethics committee (REMAS ID 18210, LRS-19/20-18210).
+Information obtained through the COVID Symptom Study app has been described in detail.
+Briefly, on first use, participants were asked to provide demographic factors and were questioned separately about a series of COVID-19 risk factors (appendix pp 4–8).
+Participants were also asked if they had been tested for COVID-19 and the results (none, negative, pending, or positive).
+Our primary outcome was a report of a positive COVID-19 test.
+Follow-up started when participants first reported on the COVID Symptom Study app and continued until a report of a positive COVID-19 test or the time of last data entry, whichever occurred first.
+We used standard calculations to determine the minimum detectable hazard ratio (HR) for our primary categorical exposure (health-care worker status) and risk of reporting a positive COVID-19 test with 80% power.
+Because our primary outcome (positive COVID-19 test) required a participant to receive a test, we did several prespecified secondary analyses.
+First, we tested a symptom-based classifier predictive of positive COVID-19 testing.
+Briefly, using logistic regression and symptoms preceding testing, we have previously described that loss of smell or taste, fatigue, persistent cough, and loss of appetite predicted COVID-19 positivity with high specificity (appendix p 2).
+To assess factors associated with PPE adequacy, work in especially high-risk clinical settings, or greater exposure to patients with COVID-19 (including a post-hoc analysis of race and ethnicity), we used multivariable logistic regression models to estimate adjusted odds ratios (ORs) and 95% CIs.
+Between March 24 and April 23, 2020, we enrolled 2 810 103 consecutive users of the COVID Symptom Study app to our study.
+The prevalence of COVID-19 was 2747 cases per 100 000 front-line health-care workers compared with 242 cases per 100 000 people in the general community (figure
+).
+After excluding 670 298 participants with less than 24 h of follow-up and 4615 individuals who reported a positive COVID-19 test at baseline, we included 2 135 190 participants in our prospective inception cohort, of whom 99 795 (4·7%) identified as front-line health-care workers (appendix p 14).
+Based on this cohort, we had 80% power to detect a minimum HR of 1·16 for risk of reporting a positive COVID-19 test between health-care workers and the general community.
+We recorded 5545 incident reports of positive COVID-19 testing over 34 435 272 person-days.
+In a prespecified secondary analysis, a validated model was used based on a combination of symptoms predictive of COVID-19 infection.
+Compared with the general community, health-care workers initially free of symptoms had an increased risk of predicted COVID-19 (adjusted HR 2·05, 95% CI 1·99–2·10), which was higher in the UK (2·09, 2·02–2·15) than in the USA (1·31, 1·14–1·51; pdifference<0·0001).
+In a post-hoc analysis, compared with individuals in the general community from a non-Hispanic white ethnic background, the risk for a positive COVID-19 test was increased for individuals from Black, Asian, and minority ethnic backgrounds in the general community (adjusted HR 2·51, 95% CI 2·18–2·89), for Black, Asian, and minority ethnic health-care workers (21·88, 17·78–26·94), and for non-Hispanic white health-care workers (12·58, 11·42–13·86; table 2).
+In post-hoc analyses, the association of race and health-care worker status with risk of COVID-19 was assessed.
+Black, Asian, and minority ethnic health-care workers had an increased risk of COVID-19 (adjusted HR 1·81, 95% CI 1·45–2·24) compared with non-Hispanic white health-care workers.
+Among front-line health-care workers, availability and use of PPE, COVID-19 patient exposures, and subsequent risk for testing positive were assessed in prespecified analyses.
+Compared with health-care workers who reported adequate PPE, front-line health-care workers reporting PPE reuse had an increased risk of a positive COVID-19 test (adjusted HR 1·46, 95% CI 1·21–1·76), with inadequate PPE associated with a comparable increase in risk after multivariable adjustment (1·31, 1·10–1·56; table 3
+).
+In a prespecified secondary analysis, front-line health-care workers with inadequate PPE caring for patients with documented COVID-19 had an increased risk for COVID-19 after multivariable adjustment (adjusted HR 5·91, 95% CI 4·53–7·71) compared with those with adequate PPE not caring for patients with suspected or documented COVID-19 (table 3).
+Risk for front-line health-care workers reusing PPE and exposed to patients with documented COVID-19 was also increased (adjusted HR 5·06, 95% CI 3·90–6·57).
+Notably, even among front-line health-care workers reporting adequate PPE, the risk for COVID-19 was increased for those caring for patients with suspected COVID-19 (adjusted HR 2·39, 95% CI 1·90–3·00) and for those caring for patients with documented COVID-19 (4·83, 3·99–5·85), compared with health-care workers who did not care for either group (table 3).
+In a post-hoc analysis, differences were noted in PPE adequacy according to race and ethnicity, with non-white health-care workers more frequently reporting reuse of or inadequate access to PPE, even after adjusting for exposure to patients with COVID-19 (adjusted OR 1·49, 95% CI 1·36–1·63; table 4
+).
+In a prespecified secondary analysis, risk of COVID-19 by practice location was assessed.
+In a post-hoc analysis, compared with non-Hispanic white health-care workers, Black, Asian, and minority ethnic health-care workers were more likely to work in higher risk clinical settings, including inpatient hospital or nursing homes (adjusted OR 1·13, 95% CI 1·03–1·23) and to care for patients with suspected or documented COVID-19 (1·20, 1·09–1·30).
+Our findings could help provide greater context for previous cross-sectional reports from public health authorities suggesting 10–20% of SARS-CoV-2 infections occur among health-care workers.6, 7 Our results offer individual-level data additionally accounting for workplace risk factors that complement these limited reports by providing a more precise assessment of the magnitude of increased risk among health-care workers during the initial phases of the COVID-19 pandemic.
+Taken in the context of the requirement for testing to establish a COVID-19 diagnosis, our range of results based on either reporting a positive test for COVID-19 or symptoms predictive of COVID-19 offer several complementary estimates for risk among front-line health-care workers.
+We also provide evidence that sufficient availability of PPE, quality of PPE, or both reduce the risk of COVID-19, but reuse of PPE or inadequate PPE might confer comparably increased risk, which is compatible with findings from one of the first studies to specifically investigate PPE reuse.
+However, even with adequate PPE, health-care workers who cared for patients with COVID-19 remained at increased risk, highlighting the importance of not only ensuring PPE quality and availability but also other aspects of appropriate use, including correct application and removal of PPE and clinical situation (practice location).
+Furthermore, health-care workers were at greater risk of developing symptoms predictive of eventual COVID-19, which does not reflect access to testing.
+Second, we obtained information from participants who did not have a positive COVID-19 test, which offered an opportunity to prospectively assess risk factors with minimal recall bias.
+Finally, we gathered information on a wide range of known or suspected risk factors for COVID-19 generally not available in existing registries or population-scale surveillance efforts.
+Our primary outcome was based on the report of a positive COVID-19 test.
+Background  Data for front-line health-care workers and risk of COVID-19 are limited.
+We sought to assess risk of COVID-19 among front-line health-care workers compared with the general community and the effect of personal protective equipment (PPE) on risk.
+We did a prospective, observational cohort study in the UK and the USA of the general community, including front-line health-care workers, using self-reported data from the COVID Symptom Study smartphone application (app) from March 24 (UK) and March 29 (USA) to April 23, 2020.
+Participants were voluntary users of the app and at first use provided information on demographic factors (including age, sex, race or ethnic background, height and weight, and occupation) and medical history, and subsequently reported any COVID-19 symptoms.
+We used Cox proportional hazards modelling to estimate multivariate-adjusted hazard ratios (HRs) of our primary outcome, which was a positive COVID-19 test.
+The COVID Symptom Study app is registered with ClinicalTrials.gov , NCT04331509 .
+Findings  Among 2 035 395 community individuals and 99 795 front-line health-care workers, we recorded 5545 incident reports of a positive COVID-19 test over 34 435 272 person-days.
+Compared with the general community, front-line health-care workers were at increased risk for reporting a positive COVID-19 test (adjusted HR 11·61, 95% CI 10·93–12·33).
+To account for differences in testing frequency between front-line health-care workers and the general community and possible selection bias, an inverse probability-weighted model was used to adjust for the likelihood of receiving a COVID-19 test (adjusted HR 3·40, 95% CI 3·37–3·43).
+In the UK and the USA, risk of reporting a positive test for COVID-19 was increased among front-line health-care workers.
+Health-care systems should ensure adequate availability of PPE and develop additional strategies to protect health-care workers from COVID-19, particularly those from Black, Asian, and minority ethnic backgrounds.

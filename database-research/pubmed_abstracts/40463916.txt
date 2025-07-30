@@ -1,0 +1,10 @@
+Digital health technologies (DHTs), including those incorporating artificial intelligence (AI), have the potential to improve healthcare access, efficiency, and quality, reducing gaps between healthcare capacity and demand.
+Despite prioritisation in health policy, the adoption of DHTs remains limited, especially for AI, in part due to complex system requirements.
+Target product profiles (TPPs) are documents outlining the characteristics necessary for medical technologies to be utilised in practice and offer a way to align DHTs' research and development with health systems' needs.
+This systematic review examines current DHT TPPs' methodologies, stakeholders, and contents.
+A total of 14 TPPs were identified, most targeted at low- and middle-income settings and communicable diseases.
+Only one TPP outlined the requirements for an AI device specifically.
+In total, 248 different characteristics were reported across the TPPs identified and were consolidated down to 33 key characteristics.
+Some considerations for DHTs' successful adoption, such as regulatory requirements or environmental sustainability, were reported inconsistently or not at all.
+There was little standardisation in TPP development or contents, and limited transparency in reporting.
+Our findings emphasise the need for guidelines for TPP development, could help inform these, and could be used as a basis to develop future DHT TPPs.

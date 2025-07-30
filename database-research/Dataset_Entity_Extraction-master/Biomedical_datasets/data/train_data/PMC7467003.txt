@@ -1,0 +1,6 @@
+A global pandemic of the coronavirus disease COVID-19, a severe respiratory illness caused by a novel virus from the family Coronaviridae (SARS-CoV-2), has infected millions and caused hundreds of thousands of deaths (World Health Organization 2020a).
+COVID-19 manifestation in patients can range from a lack of symptoms to severe pneumonia and death (Huang ).
+Despite these measures, the number of confirmed COVID-19 cases has continued to rise (World Health Organization 2020a), highlighting the need for an effective vaccine and antiviral agents.
+Synthesized viral coding sequences were incorporated into Gateway Entry plasmids: either pDONR207 (Invitrogen Cat #12213013) or pDONR223 (Rual ).
+These clones were made by either PCR-amplifying the whole plasmid with primers that eliminated the stop codon, or by amplifying CDS regions from the first collection, using downstream primers with complementary regions that were internal to each stop codon, and which simultaneously incorporated the flanking sequences necessary for incorporation into a Gateway Entry plasmid [pDONR207, pDONR221 (Invitrogen Cat #12536017) or pDONR223].
+The world is facing a global pandemic of COVID-19 caused by the SARS-CoV-2 coronavirus.

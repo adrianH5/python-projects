@@ -1,0 +1,3 @@
+Liver diseases are among the top global health burdens.
+Recently, there has been an increasing significance of diagnostics without discomfort to the patient; among them, ultrasound is the most used.
+Deep learning, in particular convolutional neural networks, has revolutionized the classification of liver diseases by automatically performing some specific analyses of difficult images.

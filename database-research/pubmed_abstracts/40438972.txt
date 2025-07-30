@@ -1,0 +1,6 @@
+Hepatocellular carcinoma (HCC) is one of the most common causes of cancer-related death worldwide.
+Unfortunately, the inherently immunosuppressive tumor microenvironment (TME) severely limits the anti-tumor efficacy of conventional therapies.
+Immunogenic cell death (ICD) is a rare immunostimulatory form of cell death and can activate adaptive immune responses as a way to remodel the immunosuppressive tumor microenvironment.
+In this study, we found that bufadienolide-based nanocrystalline formulations (HBE NCs) can reshape the tumor microenvironment by inducing an ICD, thereby achieving superior anti-tumor efficacy.
+HBE NCs could effectively induce Hepa1-6 cells to release damage-associated molecular patterns, such as CRT as an "eat me" signal, HMGB1 as a "danger" signal and ATP as a "find me" signal to an active immune system.
+HBE NCs improved the maturation of dendritic cells, enhanced the infiltration of CD4

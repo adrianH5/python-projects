@@ -1,0 +1,12 @@
+Breast cancer remains the most common malignancy among women and a leading cause of cancer-related mortality worldwide.
+Early detection through imaging is critical for improving patient prognosis.
+While conventional two-dimensional ultrasound (2D-US) is widely utilized in clinical practice, it has several limitations, including high operator dependency, limited reproducibility, and the lack of standardized examination protocols.
+To overcome these challenges, the Automated Breast Volume Scan (ABVS) has been developed as an advanced ultrasound technique, offering fully automated, high-resolution breast imaging with improved reproducibility and standardized acquisition.
+Furthermore, ultrasound elastography (UE) provides complementary functional information by assessing tissue stiffness, aiding in the differentiation between benign and malignant breast lesions.
+This study aimed to assess the diagnostic performance of ABVS combined with UE in distinguishing benign from malignant breast lesions.
+A prospective study was conducted involving 93 patients with a total of 103 breast lesions, all classified as Breast Imaging-Reporting and Data System (BI-RADS) category 4 or higher on conventional ultrasound.
+Between October 2023 and October 2024, all participants underwent both ABVS and UE, with pathological biopsy results serving as the diagnostic "gold standard".
+Of the 103 lesions, 47 were confirmed malignant, while 56 were benign.
+The combined diagnostic approach yielded a sensitivity of 91%, specificity of 75%, and overall accuracy of 84%, demonstrating superior diagnostic performance compared to either ABVS or UE alone.
+Our findings indicate that the integration of ABVS and UE enhances diagnostic accuracy, improves lesion localization, reduces operator dependency, and strengthens the reliability of breast cancer detection.
+This combined imaging strategy holds significant potential for optimizing breast cancer screening and early diagnosis, ultimately contributing to better clinical outcomes.

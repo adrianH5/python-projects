@@ -1,0 +1,7 @@
+Transforming growth factor-β (TGF-β) is a multifunctional molecule with a dual role in carcinogenesis.
+Recent studies have demonstrated its various effects on cancer-related processes.
+However, the identification of TGF-β and TGF-β signaling pathway regulators in extracellular vesicles (EVs) appears promising for targeting them to control cancer progression associated with drug resistance.
+Exosomal TGF-β has been shown to be implicated in cancer cell phenotypic plasticity, a dynamic feature of cancer cells, and an evasive process hampering treatment efficacy.
+Additionally, EVs can influence the metastatic cascade through mechanisms, including their effects on the immune system and their binding to extracellular matrix (ECM) proteins.
+These processes collaborate to provide a supportive microenvironment for the development and growth of metastatic tumors.
+A deeper understanding of the mechanisms by which EVs facilitate TGF-β-mediated intercellular communication may have practical implications for better controlling oncological disorders and providing new methods for cancer diagnostics and treatment, including approaches targeting EVs.

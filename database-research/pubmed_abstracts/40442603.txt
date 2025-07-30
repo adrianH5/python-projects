@@ -1,0 +1,5 @@
+The plasmodium interspersed repeats (pir) multigene family is found across malaria parasite genomes, first discovered in the human-infecting species Plasmodium vivax, where they were initially named the virs.
+Their function remains unknown, although studies have suggested a role in virulence of the asexual blood stages.
+Sub-families of the P. vivax pir/virs have been identified, and are found in isolates from across the world, however their transcription at different localities and in different stages of the life cycle have not been quantified.
+Multiple transcriptomic studies of the parasite have been conducted, but many map the pir reads to existing reference genomes (as part of standard bioinformatic practice), which may miss members of the multigene family due to its inherent variability.
+This obscures our understanding of how the pir sub-families in P. vivax may be contributing to human/vector infection.

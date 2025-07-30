@@ -1,0 +1,8 @@
+Cancer immunotherapy is a treatment approach that harnesses the body's immune system to fight cancer.
+Despite the development of various immune-based therapies in recent years, the broad application of immunotherapy drugs is limited by several challenges, including drug delivery issues, dose restrictions, autotoxicity, low tumor permeability, low uptake and response rates, and potential immune-related adverse reactions.
+To address these challenges, researchers are investigating the use of nanomaterials, which offer advantageous properties, such as easy modification, precise targeting, controlled release, and strong penetration.
+When reduced to the nanoscale, materials exhibit new properties in fields such as acoustics, optics, electricity, magnetism, thermology, structure, and assembly.
+These unique properties enable nanomaterials to create distinct internal and external environments, allowing for diverse and personalized therapeutic approaches.
+This review focuses on two categories of nanomaterials: organic and inorganic.
+It explores their applications in immunotherapy, chemotherapy, phototherapy, light therapy, photodynamic therapy, radiation therapy, and gene therapy.
+Lastly, this study discusses the current challenges and potential future directions for the use of nanomaterials in immunotherapy and immune-combination therapy.

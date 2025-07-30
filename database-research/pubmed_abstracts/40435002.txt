@@ -1,0 +1,14 @@
+The human papillomavirus is a prevalent sexually transmitted disease.
+Studies have shown a connection between HPV and malignancies of the cervix, penis, vulva, vagina, anus, and oropharynx.
+Colon cancer ranks 10th among all cancers in Pakistan, with 2.7% incidence and 2.4% mortality, while rectal cancer ranks 16th with 1.8% incidence and 1.5% mortality, according to Globocan 2020 data.
+The native Pakistani population has been progressively affected by colorectal cancer in just four years.
+The frequency of the disease in males increased threefold, from 2.3 to 6.8%, and in females, from 2.5 to 6.7%.
+This study was based on 135 paraffin-embedded biopsy specimens collected from several hospitals in Hazara division, Pakistan.
+Predominantly, the samples were Adenocarcinoma of the colon, rectal squamous carcinoma, and adenoma of the colon.
+Ten normal biopsy specimens were taken as controls.
+After processing and treatment with liquid nitrogen, specimens were tested using the GeneXpert PCR to detect HPV DNA and high-risk genotypes HPV16, HPV18, and HPV45.
+No HPV DNA was found in any of the control samples.
+85 (62%) of the 135 specimens had HPV DNA identified, while seven specimens were detected with low-risk genotypes HPV6, HPV11, and HPV55.
+In the In-silico study, the role of E6 in colorectal cancer development was investigated through pathway analysis.
+E6 protein structures were retrieved and visualized in MOE 2015.10.
+The structure of P16INK4A was also retrieved from Pdb, and docking was performed between E6 and P16INK4A to generate a docking complex.

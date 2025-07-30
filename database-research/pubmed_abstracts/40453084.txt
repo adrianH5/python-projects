@@ -1,0 +1,7 @@
+Regulatory immune cells are pivotal in maintaining immune homeostasis and modulating immune responses to prevent pathologies.
+While T regulatory cells (Tregs) are extensively recognized for their immunosuppressive roles, emerging subsets of regulatory cells, including regulatory CD8+ cells (CD8+Tregs) regulatory B cells (Bregs), myeloid-derived suppressor cells (MDSCs), regulatory dendritic cells (DCregs), regulatory innate lymphoid cells (ILCregs), and regulatory natural killer cells (NKregs), are garnering increased attention.
+This review delves into the phenotypic characteristics, mechanisms of action, and immune-regulatory functions of these lesser-known but crucial immune cell subsets.
+The review provides a comprehensive examination of each cell type, detailing their origins, unique functionalities, and contributions to immune homeostasis.
+It emphasizes the complex interplay among these cells and how their coordinated regulatory activities influence immune responses in diverse pathological and therapeutic contexts, including autoimmunity, cancer immunotherapy, chronic inflammation, and transplant tolerance.
+By unraveling these mechanisms, the review outlines novel therapeutic avenues, such as targeting these regulatory cells to modulate immune activity and enhance precision medicine approaches.
+The future of immunotherapy and immune modulation lies in leveraging the expanded knowledge of these regulatory immune cells, presenting challenges and opportunities in clinical applications.

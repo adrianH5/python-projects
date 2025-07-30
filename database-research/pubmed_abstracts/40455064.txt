@@ -1,0 +1,8 @@
+CAR T-cell therapy is an effective treatment strategy in B-cell malignancies, however, its efficacy in solid tumors remains limited.
+VEGF-targeted drugs are used as antitumor agents to target abnormal tumor vasculature, however, toxicities associated with systemic VEGF blockade limit their maximal therapeutic benefit.
+Increasing evidence suggests a role for VEGF in the immunosuppressive tumor microenvironment (TME), including through direct induction of T cell-effector dysfunction.
+Herein, we show that CAR T cells from patients treated with FDA-approved CAR T-cell products express members of the VEGF signaling pathway and this expression is correlated with patient non-response.
+To overcome putative VEGF-induced CAR T-cell dysfunction and deliver local VEGF blockade, we generated CAR T cells that secrete a VEGF-targeting scFv to block T-cell and tumor-derived VEGF within the TME.
+These CAR T cells potently inhibited VEGF signaling and angiogenesis in vitro, and exhibited enhanced activation, cytotoxicity, proliferation, and effector function across different antigen and solid tumor contexts.
+VEGF scFv-secreting CAR T cells showed improved tumor control in immunocompromised murine metastatic and orthotopic models of ovarian and lung cancer.
+These findings suggest that CAR T cell-secreted VEGF blockade augments CAR T-cell performance, inhibits VEGF without systemic toxicity, and warrants further development.

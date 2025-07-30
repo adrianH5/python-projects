@@ -1,0 +1,7 @@
+ATR (Ataxia Telangiectasia and Rad3-related) is a serine/threonine protein kinase that plays a critical role in DNA replication stress response.
+Based on the mechanism of "synthetic lethality" and their radiosensitizing/chemosensitizing properties, ATR inhibitors have become a popular target for drug design.
+Currently, several ATR inhibitors have entered clinical trials and shown promising potential in cancer treatment.
+However, the clinical efficacy and safety of ATR inhibitors in different cancers remain issues that cannot be overlooked.
+This review summarizes the protein structure and biological functions of ATR, along with its mechanisms in combination therapies.
+We highlight the design strategies, structure-activity relationships, and biological activity assessments of ATR inhibitors.
+Finally, this review endeavors to provide a comprehensive perspective on the evolving field of ATR-targeted drug discovery, offering valuable insights for future drug development.

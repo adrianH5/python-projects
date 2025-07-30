@@ -1,0 +1,11 @@
+Most thyroid nodules can be diagnosed preoperatively by ultrasonography and fine-needle aspiration biopsy.
+However, accurately differentiating between benign nodules or indolent thyroid tumors and aggressive thyroid cancers remains a significant clinical challenge when the biopsy results are indeterminate.
+In this study, we aim to explore a novel biomarker to determine the malignancy of thyroid nodules.
+Fifteen tissue samples from patients with Stage I&II papillary thyroid carcinoma (PTC) and benign thyroid nodule (BTN) were analyzed by EPIC Methylation 850 K and RNA-Sequencing.
+Altered and inversely correlated methylation and expression in SERPINA1 gene in PTC was found in the discovery study.
+PTC-associated SERPINA1 hypomethylation was further verified by mass spectrometry in case-control studies from two clinical centers (Validation I: 140 PTCs vs. 182 BTNs, ORs ≥ 2.48, and Validation II: 224 PTCs vs. 217 BTNs, ORs ≥ 2.04; P ≤ 3.07E-15, for all measurable CpG sites).
+Moreover, SERPINA1 methylation had an outstanding clinical application value to differentiate PTC from BTN (the AUC combining Validation I and Validation II was 0.92).
+Our study also revealed that the upregulated SERPINA1 could promote cell proliferation, migration and invasion in the PTC cell lines, and thereby facilitate the malignant progression of PTC.
+Mechanistically, SERPINA1 activated the AKT/mTOR pathway via binding to MAPK6.
+Intervention targeting either SERPINA1 or MAPK6 has a significant impact on the malignancy of PTC cells.
+Together, we identified SERPINA1 methylation as a functional and effective diagnostic marker for PTC and provided a novel epigenetic insight into the etiology of PTC.

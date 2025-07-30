@@ -1,0 +1,9 @@
+Ultraviolet (UV) light causes cyclobutane pyrimidine dimers (CPDs) and other DNA lesions that must be efficiently repaired to prevent cell death and mutagenesis.
+While mammals utilize the nucleotide excision repair (NER) pathway to repair CPDs, many species primarily utilize photolyase enzymes to repair UV damage.
+Our understanding of how different genomic and chromatin features impact photolyase repair across a eukaryotic genome is limited.
+Here, we map repair of CPDs by photolyase across the yeast genome at single-nucleotide resolution.
+Our data indicate that yeast photolyase repairs CPDs more rapidly than NER, but photolyase activity is inhibited at certain classes of transcription factor binding sites and in nucleosomes.
+Repair in nucleosomes is particularly inhibited when CPDs are located along the 3' side of the nucleosomal DNA or at minor-in rotational settings.
+Our data indicate that photolyase efficiently repairs the non-transcribed strand of yeast genes, but repair of the transcribed strand (TS) is inhibited.
+Genome-wide analysis of UV-induced mutations in NER-deficient photoreactivated yeast reveals a striking enrichment of mutations along the TS of yeast genes.
+These data indicate that inhibition of photolyase repair along the TS, likely due to occlusion of CPDs by RNA polymerase II stalling, promotes UV mutagenesis.

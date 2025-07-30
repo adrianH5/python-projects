@@ -1,0 +1,3 @@
+The X‐ray diffraction experiments were carried out at the Structural Biology Center 19‐ID beamline at the Advanced Photon Source, Argonne National Laboratory.
+The data set was processed and scaled with the HKL3000 suite.
+The atomic coordinates and structure factors have been deposited in the PDB under accession code 6VWW and 6W01 for Nsp15/apo and Nsp15/cit, respectively.

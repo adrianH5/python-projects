@@ -1,0 +1,13 @@
+Depicting a global landscape of essential gene-targeting drugs would provide more opportunities for cancer therapy.
+However, a systematic investigation on drugs targeting essential genes still has not been reported.
+We suppose that drugs targeting cancer-type-specific essential genes would generally have less toxicity than those targeting pan-cancer essential genes.
+A scoring function-based strategy was developed to identify cancer-type-specific targets and drugs.
+The EssentialitySpecificityScore ranked the essential genes in 19 cancer types, and 1151 top genes were identified as cancer-type-specific targets.
+Combining target-drug interaction databases with research/marketing status, 370 cancer-type-specific drugs were identified, bound to 100 out of all identified targets.
+Profiles of applied cancer types of identified targets and drugs illustrate the scoring strategy's effectiveness: most drugs apply to cancer types <10.
+Seven drugs with no previous anticancer evidence were validated in 11 lung adenocarcinoma cell lines, and lower inhibition rates (from 9.4% to 44.0%) were observed in 10 normal cell lines.
+This difference is statistically significant (Student's t-test, P ≤ .0001), confirming the rationality of our supposition.
+Our built EGKG (Essential Gene Knowledge Graph) forms a computational basis to uncover essential gene targets and drugs for specific cancer types.
+It is available at http://gepa.org.cn/egkg/.
+Also, our experimental result suggests that combining drugs with orthogonal essentiality may be an alternative way to improve anticancer effects while maintaining biocompatibility.
+The code and data are available at https://github.com/KKINGA1/EGKG_data_process.

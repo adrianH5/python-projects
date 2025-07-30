@@ -1,0 +1,11 @@
+Autophagy is a fundamental cellular process responsible for breaking down and recycling damaged organelles and proteins, thereby maintaining cellular homeostasis.
+Under stress conditions, autophagy is upregulated to restore cellular equilibrium.
+However, excessive activation of autophagy can lead to cell death.
+The interplay between autophagy and cell death pathways is highly complex, with disturbances in autophagic activity contributing to disease development.
+Notably, autophagy plays a critical role in the pathogenesis and progression of cancer, tightly regulating tumour cell behavior.
+Gastric cancer (GC) ranks as the fifth leading cause of cancer-related mortality worldwide.
+Among its subtypes, gastroesophageal junction cancer (GEJC) stands out due to its prevalence in both developed and developing countries.
+Autophagy has a dual and dynamic role in GC and GEJC, capable of acting as both a tumour suppressor and a tumour promoter, depending on various context-specific factors including the tumour stage, microenvironment, and genetic alterations.
+Emerging evidence highlights the involvement of autophagy in modulating the therapeutic response of GC and GEJC cells, emphasizing its potential as a promising target for cancer therapy.
+Autophagy-related genes (ATGs) and other regulatory proteins are pivotal in controlling the progression of GC and GEJC, serving as valuable biomarkers for diagnosis and treatment strategies.
+Additionally, autophagy influences tumour initiation and reshapes the tumour microenvironment in GC and GEJC.

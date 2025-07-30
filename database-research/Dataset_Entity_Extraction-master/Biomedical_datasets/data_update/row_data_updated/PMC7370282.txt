@@ -1,0 +1,5 @@
+A total of 65 SARS-CoV-2 patient isolate sequences were collected from NCBI and GISAID databases and aligned against SARS-CoV-2 reference sequence NC_045512.2 (Table S1).
+Using databases and published data, we filtered our considered miRNA to those with documented expression in SARS-CoV-2 target cells, and additionally focused on miRNAs that have been reported as components of the anti-viral miRNA-mediated defence system.
+It is well established that patients with cardiovascular disease are overrepresented in symptomatic COVID-19 cohorts and have a higher mortality rate [55].
+Nsp4 A9259G is present in a sequence obtained from Vietnam (GISAID: EPI_ISL_416429).
+However, further investigations into the interactions of miR-197-5p expression, the C3037U mutation, and COVID-19 disease severity in this cardiovascular patients are required.

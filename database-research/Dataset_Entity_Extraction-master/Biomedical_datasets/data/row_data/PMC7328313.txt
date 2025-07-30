@@ -1,0 +1,18 @@
+Coronavirus disease, or COVID-19, caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), may be more severe in patients with chronic lung disease, including patients with asthma (1).
+Among patients with asthma, it is possible that demographic or biological factors influence susceptibility to SARS-CoV-2 infection or severity of COVID-19 disease.
+We reasoned that differences in ACE2 or TMPRSS2 gene expression in sputum cells among patients with asthma may identify subgroups at risk for worse COVID-19 outcomes.
+In particular, we hypothesized that comorbidities such as diabetes mellitus or hypertension may affect ACE2 or TMPRSS2 gene expression in sputum cells, because these diseases are reported to influence the severity of COVID-19 or its outcome (1, 4).
+Models incorporate the same demographic features in Figure 3 and the three asthma control factors.
+ACE2 and TMPRSS2 expression mediate SARS-CoV-2 infection of host lung cells (3), and it is reasonable to infer that increases in their expression in lung cells will increase susceptibility to SARS-CoV-2 infection or lead to more severe COVID-19 disease.
+Although gene expression for ACE2 and TMPRSS2 did not differ from health in asthma, we report that males, African Americans, and patients with diabetes mellitus have increased expression of ACE2 and TMPRSS2 in their sputum cells, and these patient subgroups should therefore be monitored for poor COVID-19 outcomes.
+In contrast, we report lower expression of ACE2 and TMPRSS2 in sputum cells from patients with asthma taking ICS, and this finding warrants prospective research to determine if ICS use predicts decreased susceptibility to SARS-CoV-2 infection or decreased COVID-19 morbidity.
+The higher expression of ACE2 that we report in male patients is notable because of the high mortality of COVID-19 in males (1, 5).
+This finding is interesting, because diabetes is a risk factor for severe morbidity or death from COVID-19 (1).
+Hypertension is also a risk factor for COVID-19 morbidity (1), but we did not find increases in ACE2 expression in sputum cells from patients with asthma with and without hypertension.
+The higher expression of ACE2 in African Americans is also noteworthy, because COVID-19 outcomes in African Americans, Africans, or other persons of African descent have not yet been reported in any detail.
+The similar increases in both genes in the same patient subgroups provide a mechanism for a “double hit” susceptibility for SARS-CoV-2 infection and COVID-19 morbidity in these patients.
+Non–asthma-related factors, such as male sex, African American race, and metabolic disease (diabetes mellitus), may be more important and more generalizable risks for susceptibility to SARS-CoV-2 infection and more severe COVID-19 morbidity.
+Rationale: Coronavirus disease (COVID-19) is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+We reasoned that differences in ACE2 or TMPRSS2 gene expression in sputum cells among patients with asthma may identify subgroups at risk for COVID-19 morbidity.
+Conclusions: Higher expression of ACE2 and TMPRSS2 in males, African Americans, and patients with diabetes mellitus provides rationale for monitoring these asthma subgroups for poor COVID-19 outcomes.
+The lower expression of ACE2 and TMPRSS2 with ICS use warrants prospective study of ICS use as a predictor of decreased susceptibility to SARS-CoV-2 infection and decreased COVID-19 morbidity.

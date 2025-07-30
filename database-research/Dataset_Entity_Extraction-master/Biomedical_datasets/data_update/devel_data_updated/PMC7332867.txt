@@ -1,0 +1,13 @@
+Finally, World Health Organization (WHO) declared it as Corona Viruses Disease 2019 (COVID-19).
+Third, this number of peak list associated with the abstract number of peaks obtained by in-silico digestion using various databases.
+So, we selected a medicinal plant and a drug to check its activity against COVID-19.
+HCQ is also included in the triallist to treat COVID-19 (Liu et al., 2020; Wang et al., 2020).
+There is theoretical, experimental, preclinical, and clinical evidence of the effectiveness of hydroxychloroquine in patients affected with COVID-19.
+The whole genome sequence of novel coronavirus was obtained through NCBI (https://www.ncbi.nlm.nih.gov/) with accession no: MN908947.3, 29,903bp in length and described as severe acute respiratory syndrome coronavirus 2 originated from Wuhan-Hu-1 on 18 March 2020 (Kruse, 2020).
+This server determines the active peptides by comparing the calculated peak lists with already existing masses of peptides in the database, resulting in the active peptides with additional information.
+We picked Swissprot for the search database because it is nonredundant and fairly small, helpful for statistically meaningful matches (Bairoch and Apweiler, 2000).
+MASCOT database identifies the viruses and proteins which contain the matched peptides sequences along with complete annotation.
+So, from the aforementioned findings, it is confirmed that the chosen antiviral compounds are effective inhibitors against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and can help the immune system to fight against COVID-19 (Figures 5 and 6).
+An rare pandemic of viral pneumonia occurs in December 2019 in Wuhan, China, which is now recognized internationally as Corona Virus Disease 2019 (COVID-19), the etiological agent classified as Severe Acute Respiratory Syndrome Corona Virus 2 (SARS-CoV-2).
+Molecular peptide docking with Moringa oleifera, phytochemicals (aqueous and ethanolic) leaf extracts of flavonoids (3.56 ± 0.03), (3.83 ± 0.02), anthraquinone (11.68 ± 0.04), (10.86 ± 0.06) and hydroxychloroquine present therapy of COVID-19 in Pakistan for comparative study.
+In conclusion, it is proposed that these compounds are effective antiviral agents against COVID-19 and can be used in clinical trials.

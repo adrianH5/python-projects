@@ -1,0 +1,7 @@
+We studied 8612 genomes obtained from GISAID’s EpiCoV™ presenting less than 1% non-DNA characters (high coverage only option) (Elbe and Buckland-Merrett, 2017; Shu and McCauley, 2017).
+The final, high-quality dataset had 4,333 genomes.
+Shortly, we made an R script that takes a sequence (the query) from the dataset, determines which sequences are identical to it, put these together in an identity cluster, and record the size (number of sequences, interpreted as SV abundance) of the cluster.
+The process was repeated until all the sequences in the dataset were processed.
+Once aligned, our high-quality dataset presented 2713 polymorphic sites of which 885 were parsimony informative.
+The dataset was phylogenetically analyzed with IQTREE (Minh et al., 2020) using the GTR +
+The database used in this study is the major SARS-CoV-2 sequence repository and can be considered reliable.

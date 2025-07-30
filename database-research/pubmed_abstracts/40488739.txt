@@ -1,0 +1,6 @@
+Alterations in the homologous recombination repair genes, such as BRCA1 and BRCA2, are prevalent in various cancers, presenting a unique opportunity to develop synthetic lethal strategies that target homologous recombination deficiency (HRD).
+Poly ADP-ribose polymerase inhibitors (PARPis) have been developed to induce synthetic lethality in tumors with HRD by inhibiting the repair of single-strand DNA breaks.
+Beyond the initial approach to target cancers associated with HRD, the utility of PARPis has expanded to combination therapy with immune checkpoint inhibitors, anti-angiogenic drugs, or anti-androgen drugs based on the molecular biological rationale.
+In the field of genitourinary (GU) cancer, PARPis, such as olaparib, rucaparib, and talazoparib, are approved by the Food and Drug Administration in metastatic prostate cancer patients with BRCA1/2 mutations, sometimes in combination with other agents (e.g., olaparib plus abiraterone acetate, or talazoparib plus enzalutamide).
+More recently, pivotal clinical trials have broadened the potential of PARPis to the other GU cancers, including urothelial carcinoma and renal cell carcinoma.
+In this review, we examine the biomarkers for the response to PARPis beyond mutations in BRCA1/2 and discuss the current state and future perspectives of PARPis in GU cancers.

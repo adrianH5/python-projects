@@ -1,0 +1,12 @@
+Neurotrophic factors (NTFs) are known for their specific functions in the nervous system.
+One of the latest factors to be studied is neuron-derived neurotrophic factor (NDNF).
+NDNF was first introduced as NTF in 2010.
+However, the NDNF-specific expression and function are somewhat different from other NTFs.
+The most significant known function of NDNF seems to be its role in facilitating the migration of GnRH neurons.
+To date, limited studies have been conducted on this gene.
+Therefore, this study aims to review all the information from previous investigations.
+Additionally, bioinformatics tools and other databases were used to investigate the functions, interactions, and conservation of NDNF.
+The functional analysis suggested the involvement of conserved NDNF in various molecular and signaling pathways, such as cGMP-PKG and PI3K-AKT.
+The association of NDNF variants and defects with other diseases and malignancies, such as cancers, seems to be clear.
+The present study presents all available information on NDNF.
+Further research is necessary to enhance our knowledge of NDNF.

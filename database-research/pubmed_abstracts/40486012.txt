@@ -1,0 +1,3 @@
+Uterine corpus endometrial cancer (UCEC) is known as the sixth most common cancer in the world.
+Advances in bioinformatics and deep learning have provided the 2 tools for screening large-scale genomic data and discovering potential biomarkers indicative of disease states.
+This study aimed to investigate the identification of important genes for diagnosis and prognosis in the uterus using bioinformatics and machine learning algorithms.

@@ -1,0 +1,12 @@
+Estimating the required sample size is an essential task for a clinical trial.
+It ensures statistical power and makes it possible to draw meaningful conclusions from the study results.
+Moreover, to minimize treatment imbalances within each covariate subgroup, covariate-adaptive randomization is a popular method.
+The first aim of this study is to investigate the required sample size for covariate-adaptive randomization based on survival outcomes.
+We evaluate the testing performance using the calculated sample size under simple randomization, stratified permuted block randomization, and covariate-adaptive biased coin randomization.
+To provide preliminary insights into the trial's progress and potential efficacy, an interim analysis is commonly conducted.
+The second aim of the study is to provide a strategy for interim analysis in covariate-adaptive randomization trials, which involves stopping the trial early based on accumulating data if one treatment arm proves to be significantly more effective or harmful than the others.
+Because the data collected before and after the interim monitoring time are dependent, performing multiple tests may inflate the overall Type I error rate.
+We thus re-estimate the required sample size, propose a valid hypothesis testing method for interim analysis, and study the underlying theoretical properties of the testing statistics, incorporating covariate-adaptive randomization.
+The performance of the proposed formula and interim strategy is evaluated through comprehensive simulations, including a sensitivity analysis.
+We also provide the R code to benefit the readers.
+Finally, two survival trials, the RE01 trial and a lung cancer study, are treated as pilot studies, and we show that the proposed strategies are valid under covariate-adaptive randomization.

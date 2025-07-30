@@ -1,0 +1,4 @@
+Concurrent chemoradiotherapy (CCRT) is the standard treatment for advanced cervical cancer, but tumor recurrence within 3-5 years remains a significant challenge.
+In this study, using 10 × single-cell sequencing, we constructed a cellular atlas of the tumor microenvironment from six CSCC patients, including three with recurrence and three without, prior to CCRT.
+We analyzed cellular subsets, focusing on T cells, myeloid cells and cancer associated fibroblasts (CAFs), and their interactions within the tumor.
+Key findings revealed that CXCL13

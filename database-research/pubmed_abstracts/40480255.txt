@@ -1,0 +1,2 @@
+This study investigated whether the rate of sublethal damage repair after x-ray irradiation-measured as the repair half-time (Tsdr) from split-dose clonogenic survival-correlates with intrinsic radiosensitivity in four human cancer cell lines: HeLa (cervical), PC3 (prostate), and HCT116 and HT29 (colorectal).
+It also compared survival-based repair kinetics with molecular indicators, specifically γH2AX and 53BP1 foci clearance.

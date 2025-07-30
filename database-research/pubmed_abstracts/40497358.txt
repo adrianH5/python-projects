@@ -1,0 +1,6 @@
+MAP1LC3/LC3 is an essential autophagy regulator involved in both the formation of autophagosome and the recruitment of autophagy cargo.
+Although several post-translational modifications (PTMs) have been identified to regulate the function of LC3, the effect of protein methylation on its function has not been well characterized.
+Here, we show that SETD5 interacts with and methylates nuclear LC3B (a member of the LC3 subfamily) at lysines 5 and 65, leading to its nuclear retention.
+In the nucleus of human ovarian cancer (OC) cells, methylated LC3B binds the nuclear transcription factor PRDM10 to the promoter regions of autophagy-related genes (ATGs), including ATG2a, ATG7, ATG12, and ATG16L1, to suppress their transcription, thereby resulting in reduced formation of autophagosomes.
+Moreover, the methylation of LC3B facilitates OC cell migration by inhibiting autophagy.
+Overall, our study defines a novel modification of LC3B and unveils a SETD5-mediated methylation-dependent regulatory mechanism controlling nuclear LC3B function in autophagy and migration in OC cells, offering potential therapeutic targets for OC.

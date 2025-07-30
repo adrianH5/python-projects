@@ -1,0 +1,8 @@
+With the raging COVID-19 pandemic ongoing, the interaction between aging and immune response to the pathogen SARS-CoV-2 has attracted great attention.
+It has been widely reported that elderly people are more susceptible to COVID-19 and, once infected, the consequence is much more severe.
+The deaths associated with COVID-19 have been largely attributed to respiratory failure, sepsis, cardiac failure, kidney injury, or coagulopathy.
+Having quantified the changes in PBMC due to aging, the authors went on to analyze the interaction between aging and COVID-19.
+Through a four-way comparison of young and old subjects with and without COVID-19, the authors found that COVID-19 infections lead to a depletion of TC and an increase of MC population, and in particular a depletion of CD4+ naive TC and increase of CD16+
+MC, and that aged subjects with COVID-19 further exacerbated these trends.
+Since CD16+ MC has highly pro-inflammatory properties (e.g., high expression of proinflammatory cytokines) compared with the non-CD16 expressing classic monocytes and are expanded in various inflammatory diseases (Ziegler-Heitbrock, 2007), the observation of Zheng et al., suggests that aging and COVID-19 act synergistically to drain the adaptive immune system and to exacerbate the overly inflammatory response that may be partially responsible for the severity of the infection in aged patients.
+Future studies should examine the interactions between aging and other viral infections using a similar approach, to see whether the observed effect is general or specific to COVID-19.

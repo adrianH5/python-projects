@@ -1,0 +1,5 @@
+Gastric cancer ranks as the fifth most common human cancer worldwide and has a poor survival rate and limited treatment options.
+Despite the high prevalence and mortality rate, the genetic etiology is largely unknown.
+In dogs, a clinically and histologically similar disease disproportionately affects two breeds, the Belgian Tervuren and Belgian Sheepdog, which develop the intestinal and diffuse tumor subtypes observed in humans.
+We performed a Bayesian genome-wide association study and selection analyses in this naturally occurring canine model to elucidate underlying genetic risk factors for gastric cancer and identified 15 associated loci.
+Variant filtering revealed germline putative regulatory variants for the

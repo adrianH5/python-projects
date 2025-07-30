@@ -1,0 +1,6 @@
+In this study, carbazole-thiosemicarbazone hybrids were designed, synthesized and investigated for their topoisomerase II (Topo II) inhibition and antiproliferative activity.
+Results showed that compounds C1 and C3 could significantly inhibit the activity of Topo II at 10 μM.
+Meanwhile, mechanism studies revealed that these hybrids act as non-intercalative Topo II catalytic inhibitors.
+Additionally, molecular docking revealed the promising binding of the investigated members toward Topo II, with the potential to occupy the ATPase domain.
+Interestingly, these hybrids exhibited strong antiproliferative activity against HeLa, A549, LNCaP, and MG63 cancer cell lines.
+Furthermore, compounds C1 and C3 could significantly induce apoptosis and inhibit the migration and clonogenic survival of MG63 cells.

@@ -1,0 +1,9 @@
+Leigh syndrome (LS) is the most common pediatric presentation of genetic mitochondrial disease and characterized by neurological and metabolic abnormalities.
+The hallmark of the disease is the presence of progressive, bilateral, symmetric neurodegenerative lesions in the brainstem and/or basal ganglia.
+Recent studies in the Ndufs4(-/-) mouse model of LS indicate that disease is causally driven by the immune system.
+Both microglia and peripherally originating macrophages are enriched in the lesions of Ndufs4(-/-) mice and pharmacologic elimination of these cell types prevents disease indicating a crucial role for innate immune cells.
+Here, we investigated the role of the adaptive immune system in Ndufs4(-/-) disease pathogenesis.
+We crossed Ndufs4(-/-) mice with mice expressing a null form of interleukin 2 receptor gamma (Il2rg) and monitored disease onset and progression.
+Il2rg knockout (KO) mice have dramatically depleted numbers of B-, T-, the adaptive immune system's key cellular actors, and NK-cells.
+We observed no difference in neurological disease progression or overall survival between Ndufs4(-/-)/Il2rg(WT) and Ndufs4(-/-)/Il2rg(KO) mice, strongly suggesting that T cells, B cells, and NK cells do not play a significant role in CNS disease pathogenesis in Ndufs4(-/-) mice.
+Combined with previous studies indicating a causal role for macrophages, we conclude that LS CNS pathology is primarily driven by the monocyte/macrophage innate immune system.

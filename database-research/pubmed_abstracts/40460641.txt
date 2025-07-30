@@ -1,0 +1,7 @@
+While it has been established that exosomal circRNAs play a crucial role in facilitating communication between tumor cells and macrophages, there remains limited understanding regarding their specific functions and mechanisms related to both macrophage polarization as well as colorectal cancer (CRC) development.
+Verification for presence of CRC-derived Exo involved utilization of transmission electron microscopy (TEM), nanoparticle tracking analysis (NTA), as well as western blotting techniques.
+Uptake assessment for these Exo by TAMs was conducted using tracer analysis methods while determining precise roles played by circulating UBQLN1-containing Exo involved CCK-8 assays, Transwell experiments along with in vivo imaging studies on mice models.
+A significant increase was observed in expression levels for circUBQLN1 within CRC-derived Exo which could then be internalized by TAMs leading to induction towards an M2-like phenotype among them.
+Mechanistically this process involves regulation via miR-34c-5p/CSFIR signaling axis resulting ultimately into promotion for proliferation alongside metastasis among CRC cell populations.
+Exo-circUBQLN1 was identified as a critical mediator that promoted intercellular communication between the CRC cells and TAMs.
+Exo-circUBQLN1 caused M2-like phenotypic changes in the TAMs, while also encouraging the growth and spread of CRC cells by regulating miR-34c-p/CSFIR axis.

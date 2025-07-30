@@ -1,0 +1,9 @@
+This study aimed to investigate the predictive value of serum lipid levels, total cholesterol (TC)/ high-density lipoprotein cholesterol (HDL-C) ratio (TC/HDL-C), low-density lipoprotein cholesterol (LDL-C), and triglycerides in metastatic renal cell carcinoma (mRCC) treated with targeted therapy, sunitinib or pazopanib.
+A total of 111 mRCC patients were enrolled in this study.
+The correlation of lipid parameters with progression-free survival (PFS) and overall survival (OS) was performed with the Kaplan-Meier method and univariate and multivariate Cox regression models.
+The median PFS and OS of all patients were 12.2 months and 38.6 months, respectively.
+Receiver operating characteristic analysis showed that TC/HDL-C levels of 3.8 and 4 were optimal cut-off values in predicting PFS and OS, respectively.
+Patients with a high TC/HDL-C ratio had worse PFS and OS times than those with a low ratio (8.7 months vs. 19.3, p < 0.001; 24 months vs. 74.7 months, p = 0.003, respectively).
+Univariate analyses showed that among serum lipids, only the TC/ HDL-C ratio was associated with PFS (HR: 2.30, p < 0.001) and OS (HR:2.26, p = 0.004).
+When adjusted for the number of covariates, TC/ HDL-C was determined as an independent variable for the PFS (HR: 2.31, p < 0.001) and the OS (HR: 2.46, p = 0.003), respectively.
+The present study shows that TC/HDL-C ratio assessed in serum could be an important determinant for survival outcomes of mRCC patients treated with targeted therapy.

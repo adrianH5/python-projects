@@ -1,0 +1,3 @@
+To develop a framework for shared decision-making (SDM) in prostate cancer (PC) by identifying key topics that are covered during consultations.
+Although SDM is the guidelines-endorsed standard of care, there is no widely accepted standard for what to discuss during SDM.
+Previous data suggests content discussed during SDM is highly variable.

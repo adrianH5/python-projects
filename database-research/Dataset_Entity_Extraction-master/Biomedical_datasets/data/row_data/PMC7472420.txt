@@ -1,0 +1,10 @@
+The ongoing pandemic of COVID-19 has infected over 20 million people globally, of which over 750,000 have died (as of 13 August 2020) [1].
+COVID-19 is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), a novel coronavirus, which emerged in December 2019 [2].
+For COVID-19, the rapid development of diagnostic polymerase chain reaction (PCR) was facilitated by the availability of genome sequences of SARS-CoV-2 isolates [4,5].
+The primary objective of this analysis is to compare genome sequencing results from direct amplification of the SARS-CoV-2 genome (i.e., the Liverpool or ARTIC PCR protocols) [7] with bait capture enrichment from COVID-19 patient swabs with markedly different viral RNA concentrations.
+To confirm the epidemiological origin of both isolates, the best genome sequence of each was included in a uniform manifold approximation and projection (UMAP) involving the aligned genomes of 8074 SARS-CoV-2 isolates (obtained from Global Initiative on Sharing All Influenza Data, GISAID, https://www.gisaid.org) labelled by country of origin [28].
+FASTQ sequences and assembly FASTA have been deposited in NCBI Bioproject PRJNA636446, with assembly FASTA sequences additionally submitted to GISAID (Wuhan-derived: EPI_ISL_413015 as submitted previously, Iran-derived: EPI_ISL_450747).
+There is very little variation among available SARS-CoV-2 genome sequences, as summarized at GISAID (www.gisaid.org) and exemplified by our own detection of only 6 SNPs between the original Wuhan genome and our Iran-derived sample.
+Cross-referencing with GISAID metadata revealed that within this small cluster, isolates from Australia (2 isolates), India (4 isolates), and Pakistan (1 isolate) also had travel history associated with the outbreak in Iran.
+Unfortunately, GISAID did not contain sequences from Iran, but phylogenetic analysis confirmed these UMAP results, placing our Iran-derived sample and the nearby UMAP samples in a well supported clade (Figure S1).
+However, our work did detect mismatches for currently used diagnostics PCR primers, specifically in primers designed by the CDC and the Japanese NID.

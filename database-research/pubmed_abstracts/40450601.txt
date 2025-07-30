@@ -1,0 +1,7 @@
+In this study, we developed a tumor-target biotinylated cytarabine (Ara-C) prodrug linked through a disulfide bond (Bio-SS-Ara).
+To enhance its delivery, Bio-SS-Ara was found to be able to self-assemble into uniform nanoparticles (BSSA NPs) with an average particle size of 230 nm, a PDI of 0.265, a critical micelle concentration (CMC) of 5.89 μg/mL, and a zeta potential of -15 mV.
+BSSA NPs showed good storage stability over 6 weeks.
+In a glutathione-rich environment, the drug release of BSSA NPs was more rapid than that of BCCA NPs.
+Concentration-dependent size analysis suggested that BSSA NPs were formed through a dynamic, reversible assembly process.
+Cellular uptake studies showed significantly increased internalization of BSSA NPs compared to free Ara-C, with enhancements of 4.13-fold in HeLa cells and 3.13-fold in A549 cells.
+Cytotoxicity assays demonstrated enhanced efficacy, reducing the IC

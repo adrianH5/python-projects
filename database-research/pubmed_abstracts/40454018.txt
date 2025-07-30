@@ -1,0 +1,7 @@
+Breast cancer poses a significant global health challenge, requiring improved diagnostic solutions for its timely intervention and treatment.
+Real-time diagnostic approaches in current practice offer promising avenues for early detection.
+However, these techniques often lack specificity, necessitating the development of robust diagnostic tools for real-time applications.
+In the current study, fluorescence spectroscopy is integrated with machine learning algorithms, and a graphical user interface (GUI) is developed for rapid breast cancer prediction.
+This study records 206 native fluorescence spectra, 103 spectra each from 31 normal and 31 malignant breast tissues using 325 nm excitation, followed by discrimination analysis using different machine learning algorithms, including backpropagation artificial neural network (BP-ANN), support vector machine (SVM), and Naïve Bayes (NB).
+Comparative analysis reveals that SVM in combination with a polynomial kernel demonstrated the superior performance of accuracy (98.78%), sensitivity (100%), specificity (97.56%), and precision (97.62%), among others.
+Furthermore, the in-house developed GUI applied to the current data showed the possibility of real-time prediction of pathological breast tissues, facilitating standalone applications.

@@ -1,0 +1,16 @@
+Kinesiophobia is particularly common in postoperative lung cancer patients, which causes patients may be reluctant to cough and move due to misperception, internal fear or fear of pain, and avoid rehabilitation training affecting postoperative recovery.
+Therefore, it is clinically important to discover the factors associated with the occurrence of kinesiophobia and to develop a prediction model.
+This study aims to investigate the occurrence of kinesiophobia in postoperative lung cancer patients and to develop a prediction model to assess its performance, thereby providing a reference for clinical decision-making.
+A cross-sectional study involving 519 postoperative lung cancer patients from a tertiary hospital in Liaoning Province was conducted.
+The least absolute shrinkage and selection operator (LASSO) and multifactor logistic regression were used to screen predictors.
+Subsequently, six machine learning (ML) models were developed and compared to identify the optimal model.
+The importance of feature variables was ranked and interpreted to facilitate risk assessment.
+The incidence of kinesiophobia among postoperative lung cancer patients was 43.74%.
+Positive coping style, social support, pain severity, personal income, surgical history, and gender were identified as significant predictors of kinesiophobia.
+Among the evaluated models, the RF model demonstrated the best performance, with an AUROC of 0.893, accuracy of 0.803, precision of 0.732, recall of 0.870, and F1 score of 0.795.
+The calibration curve of the RF model closely aligned with the ideal 45-degree diagonal, indicating strong agreement between predicted and observed outcomes.
+Furthermore, DCA revealed that the RF model provided the highest net benefit in predicting postoperative agoraphobia in lung cancer patients.
+This study demonstrates that machine learning models-particularly the RF algorithm-hold substantial promise for predicting kinesiophobia in postoperative lung cancer patients.
+By integrating individual background characteristics along with physical, psychological, and social factors, the RF model effectively identifies high-risk patients and provides a valuable foundation for early clinical screening and intervention.
+These findings underscore the critical influence of multidimensional factors in the development of postoperative kinesiophobia and highlight the advantages of machine learning in enhancing predictive accuracy and supporting personalized medical decision-making.
+To improve the model's generalizability and clinical utility, future research should incorporate heterogeneous datasets from multiple regions and healthcare institutions to ensure broader applicability and greater robustness.

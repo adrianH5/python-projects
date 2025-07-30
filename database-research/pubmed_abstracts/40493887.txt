@@ -1,0 +1,10 @@
+AL amyloidosis is a disorder characterized by expansion of clonal plasma cells in the bone marrow and distant end organ damage mediated by misfolded immunoglobulin free light chains.
+There are currently limited data regarding the functional characteristics of AL amyloidosis plasma cells and their surrounding bone marrow microenvironment.
+We performed 5' single cell RNA sequencing on newly diagnosed, treatment naïve AL amyloidosis patients and healthy subjects.
+We identified generalized suppression of normal bone marrow hematopoiesis with distinct expansion of monocytes and subsets of CD4+ T cells in AL amyloidosis patients.
+We detected significant transcriptional changes broadly occurring among immune cells with increased TNF-a signaling and interferon response accompanied by increased inflammatory response in bone marrow plasma as measured via quantitative proteomics with specific elevation of co-stimulatory molecule soluble CD276 (sB7-H3).
+A transcriptionally distinct population of non-malignant plasma cells was disproportionately expanded in AL amyloidosis patients and characterized by increased expression of CRIP1.
+Finally, clonal AL amyloidosis plasma cells were identified based on their unique VDJ rearrangement and showed increased expression of genes involved in proteostasis when compared to autologous, polyclonal plasma cells.
+Inter-patient transcriptional heterogeneity was evident, with transcriptional states reflective of common genomic translocations easily identifiable.
+This study defines the transcriptional characteristics of AL amyloidosis plasma cells and their surrounding bone marrow microenvironment with identification of altered genes previously involved in the pathogenesis of other protein deposition disorders.
+Our data provide the rationale for functional validations of these genes in future studies.

@@ -1,0 +1,7 @@
+Prostate cancer, when detected early, can be either actively observed or treated radically based on clinical, pathological, and imaging features.
+Radical treatment options include radical prostatectomy, radical radiation as external beam radiotherapy (EBRT), or brachytherapy.
+EBRT for prostate cancer can be given in different ways.
+It may be delivered in smaller doses over several weeks, known as conventionally fractionated radiation therapy (CF-RT), or in larger doses over fewer sessions, as in moderately hypofractionated radiotherapy and ultra hypofractionated radiotherapy, also known as stereotactic body radiation therapy (SBRT).
+Recent studies have shown that SBRT is non-inferior to CF-RT, and the National Comprehensive Cancer Network guidelines also suggest SBRT as a treatment option for localized disease.
+As SBRT uses a high dose per fraction for treatment, it requires a very tight margin around the planning target volume and intrafractional motion management to prevent the organs at risk from receiving a high dose and subsequent toxicities developing from it.
+In this case series, we report our clinical experience with prostate SBRT using the Radixact® X9 (Accuray, Sunnyvale, CA, United States) tomotherapy machine with Synchrony® fiducial tracking for real-time motion tracking and correction.

@@ -1,0 +1,8 @@
+Video laryngoscopes have become increasingly vital in tracheal intubation, providing clear imaging that significantly improves success rates, especially for less experienced clinicians.
+However, accurate recognition of laryngeal structures remains challenging, which is critical for successful first-attempt intubation in emergency situations.
+This paper presents MPE-UNet, a deep learning model designed for precise segmentation of laryngeal structures from video laryngoscope images, aiming to assist clinicians in performing tracheal intubation more accurately and efficiently.
+MPE-UNet follows the classic U-Net architecture, which features an encoder-decoder structure and enhances it with advanced modules and innovative techniques at every stage.
+In the encoder, we designed an improved multi-scale feature extraction module, which better processes complex throat images.
+Additionally, a pyramid fusion attention module was incorporated into the skip connections, enhancing the model's ability to capture details by dynamically weighting and merging features from different levels.
+Moreover, a plug-and-play attention mechanism module was integrated into the decoder, further refining the segmentation process by focusing on important features.
+The experimental results show that the performance of the proposed method outperforms state-of-the-art methods.

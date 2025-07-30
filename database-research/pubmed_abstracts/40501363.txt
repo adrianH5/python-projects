@@ -1,0 +1,8 @@
+The ECM is a complex meshwork of proteins forming the framework of all multicellular organisms.
+Protein interactions are critical to building and remodeling the ECM meshwork, while interactions between ECM proteins and receptors are essential to initiate signal transduction.
+Here, we present MatriCom, a web application (https://matrinet.shinyapps.io/matricom) and a companion R package, devised to infer communications between ECM components and between different cell populations and the ECM from scRNA-Seq datasets.
+MatriCom relies on a unique database, MatriComDB, of over 25,000 curated interactions involving matrisome components to impute interactions from expression data.
+MatriCom offers the option to query user-generated or open-access datasets sourced from large sequencing efforts.
+MatriCom also accounts for specific rules governing ECM protein interactions.
+We illustrate how MatriCom can generate novel biological insights by building the first human kidney matrisome communication network.
+Last, applied to a panel of 46 scRNA-Seq datasets of healthy adult tissues, we demonstrate how MatriCom can shed light on the mechanisms of conservation and diversification of ECM assemblies and cell/ECM interactions.

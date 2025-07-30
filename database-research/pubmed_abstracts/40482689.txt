@@ -1,0 +1,9 @@
+Ferroptosis, an iron-dependent form of regulated cell death driven by lipid peroxidation, plays a critical role in various pathological conditions, including cancer and organ injury.
+Post-translational modifications (PTMs) dynamically regulate ferroptosis by modulating the stability, activity, and interactions of key proteins such as GPX4, SLC7A11, and ACSL4.
+A single protein can undergo multiple PTMs, and the same regulatory enzyme may exert opposing effects on ferroptosis by modifying different proteins.
+Therefore, a comprehensive analysis of PTMs in regulatory proteins is essential for elucidating their overall impact on ferroptosis.
+This review systematically examines the roles of ubiquitination, ubiquitin-like modifications (e.g.
+UFMylation, SUMOylation), alkylation, and succination in ferroptosis regulation.
+We highlight how E3 ligases, deubiquitinating enzymes (DUBs), and other PTM-associated enzymes modulate ferroptosis by governing the degradation or stabilization of key targets, thereby influencing redox homeostasis and iron metabolism.
+Clinically, PTM-targeting agents, including E3 ligase modulators and SUMOylation inhibitors, demonstrate therapeutic potential in preclinical models, though their clinical translation remains in its early stages.
+This review underscores the complexity of PTM-mediated ferroptosis regulation and highlights the need to explore PTM crosstalk, refine therapeutic strategies, and develop novel PTM modulators for the treatment of malignancies and iron-related disorders.

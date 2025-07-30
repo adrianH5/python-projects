@@ -1,0 +1,10 @@
+Background Ultrasound (US) can aid in lung cancer diagnosis and staging in peripheral-based lesions by demonstrating chest wall invasion, aiding as a guide to biopsy, and detecting supraclavicular lymph nodes which are often missed by computed tomography (CT).
+Objective This study is to compare the ultrasound with computed tomography in the diagnosis and staging of lung cancer.
+Method This was an observational prospective study conducted from October 2020 to April 2023 in patients with or suspected lung cancer sent for imaging assessment to the Department of Radiology and Imaging.
+Out of 306 patients who underwent computed tomography scan, a total of 234 patients with proven lung cancer were subjected to ultrasound of the chest, liver, bilateral adrenal, and supraclavicular regions for the evaluation of lung mass, pleural effusion, and metastasis in lung, adrenal, and supraclavicular lymph nodes.
+Diagnostic values of ultrasound to detect peripheral lung lesions, chest wall invasion, pleural effusion, liver and adrenal metastasis, and supraclavicular lymph nodes were compared with contrast-enhanced computed tomography scans.
+Ultrasound's performance was evaluated against computed tomography scans as the gold standard, using the chi-square test, z-test, and area under the curve for comparison (p < 0.05 for significance).
+Result The majority of patients (53.8%, n=126) were aged 61-75, with 53% being male and 89% smokers.
+Ultrasound was superior in detecting pleural effusion (sensitivity 80.3%, NPV 92.2%, AUC 0.860) and supraclavicular lymph nodes (sensitivity 72.2%, NPV 91.6%, AUC 0.817).
+Conclusion In resource-constrained settings like Nepal, where advanced imaging may be limited, integrating ultrasound with contrast-enhanced computed tomography significantly improves lung cancer diagnosis.
+This non-radiation approach is particularly beneficial for peripheral lesions, patients with renal function impairment and aiding effective staging of lung cancer.

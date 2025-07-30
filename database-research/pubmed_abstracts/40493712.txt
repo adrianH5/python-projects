@@ -1,0 +1,9 @@
+The B-cell antigen receptor (BCR) plays an essential role in the pathogenesis of B-cell malignancies such as chronic lymphocytic leukemia (CLL).
+CLL exhibits two main subtypes based on immunoglobulin heavy chain variable (IGHV) region mutational status: About half of the cases carry somatically mutated immunoglobulin V genes and hence derive from germinal center experienced memory B cells, whereas unmutated CLL derives from (likely CD5-positive) antigen-stimulated, but germinal center independent mature B cells.
+CLL precursor cells can be found years before diagnosis.
+The IGHV mutational status of CLL clones serves as one of the strongest prognostic markers.
+CLL often carries highly similar, i.e.
+stereotyped BCRs pointing to recognition of a restricted set of antigens.
+Indeed, the BCRs of many CLL clones are autoreactive for particular autoantigens, including the BCR itself.
+Pathogenic antigens are further drivers in CLL development.
+Thus, BCR-mediated signaling and antigen recognition play a major role in CLL pathogenesis.

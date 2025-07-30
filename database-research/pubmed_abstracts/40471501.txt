@@ -1,0 +1,3 @@
+Immune evasion in non-small cell lung cancer (NSCLC) is largely mediated by programmed death-ligand 1 (PD-L1), which is upregulated by interferon-gamma (IFN-γ)-induced STAT1 activation.
+Targeting this pathway may improve immunotherapy outcomes.
+Curcumin, a natural polyphenol, has been reported to modulate various oncogenic signaling pathways, but its role in inhibiting IFN-γ-driven PD-L1 expression in NSCLC remains unclear.

@@ -1,0 +1,11 @@
+Diabetes mellitus (DM) and sarcopenic obesity are common conditions associated with increased morbidity and mortality.
+DM, characterized by chronic hyperglycemia, is a recognized risk factor for cardiovascular disease and premature death.
+Sarcopenic obesity, characterized by reduced muscle mass and increased adiposity, contributes to physical frailty and metabolic dysfunction.
+This study investigated the effect of DM on mortality rates and causes of death among individuals with high adiposity and low muscle mass (HA-LM) by using data from the National Health and Nutrition Examination Survey (NHANES) linked to mortality records from 2011 to 2018.
+A total of 2366 patients with HA-LM patients were analyzed, including 194 (8.199%) with DM and 2172 (91.80%) without DM.
+During the study period, the mortality rate was 1.19% in the HA-LM without DM group and 5.15% in the HA-LM with DM group.
+Kaplan-Meier survival analysis demonstrated a significantly higher mortality rate in the HA-LM patients with DM group, supported by both crude (hazard ratio [HR]: 4.34, 95% confidence interval [CI]: 2.09-9.00, p < 0.001) and adjusted (HR: 2.88, 95% CI: 1.23-6.73, p < 0.01) models.
+Cause-specific analysis revealed that heart disease (40%) was the leading cause of mortality in the HA-LM with DM group, followed by other residual causes (30%).
+By contrast, other residual causes were predominant among those without DM (34.62%), followed by malignant neoplasms (19.23%).
+These findings underscore the synergistic effects of DM and sarcopenic obesity on the risk of mortality and emphasize the need for targeted interventions aimed at managing diabetes and preserving muscle mass.
+The study findings may inform interventions aimed at improving health outcomes and reducing mortality in this high-risk population.

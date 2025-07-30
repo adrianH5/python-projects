@@ -1,0 +1,10 @@
+An essential structural component of bacterial biofilms is functional amyloid (FuA), which also has great potential as an engineerable nano-biomaterial.
+However, experimentally based high resolution structures of FuA that resolve individual residues are lacking.
+A fully experimentally based 3.2 Å resolution cryo-electron microscopy density map of the FuA protein FapC from Pseudomonas sp.
+UK4 is presented, which reveals a Greek key-shaped protofilament.
+The structure supports bioinformatic identification of conserved motifs and is broadly consistent with the AlphaFold prediction but with important modifications.
+Each FapC monomer consists of three imperfect repeats (IRs), with each repeat forming one cross-β layer.
+An array of highly conserved Asn and Gln residues with an extensive H-bonding network underpins this conserved Greek key-shape and reveals the role of heterogeneous cross-β stacking in amyloid cross-seeding.
+The covariation of residues in the hydrophobic core among different IRs suggests a cooperative monomer folding process during fibril elongation, while heterogeneous stacking of IRs reduces charge repulsion between layers to stabilize the monomer fold.
+The FapC fibrils show intrinsic catalytic activity and strain-dependent nanomechanical properties.
+Combined with mutagenesis data, the structure provides mechanistic insights into formation of FapC FuA from disordered monomers and a structural foundation for the design of novel biomaterials.

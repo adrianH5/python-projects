@@ -1,0 +1,18 @@
+SARS-CoV-2, the virus that causes coronavirus disease 2019 (COVID-19), can spread rapidly in high-risk congregate settings such as skilled nursing facilities (SNFs) ().
+In Minnesota, SNF-associated cases accounted for 3,950 (8%) of 48,711 COVID-19 cases reported through July 21, 2020; 35% of SNF-associated cases involved health care personnel (HCP*), including six deaths.
+During April–June 2020, the Minnesota Department of Health (MDH), with CDC assistance, conducted weekly serial testing at two SNFs experiencing COVID-19 outbreaks.
+As part of comprehensive COVID-19 preparation and response, including early identification of cases, SNFs should conduct serial testing of residents and HCP, maximize HCP testing participation, ensure availability of personal protective equipment (PPE), and enhance IPC practices (–).
+Interim guidance for HCP mask use and SNF visitor restriction was implemented statewide by March 31, 2020; however, during April, an increase in COVID-19 diagnoses and deaths among SNF residents in Minnesota occurred.
+Paul metropolitan area contacted MDH after identifying multiple confirmed resident and HCP COVID-19 cases.
+Starting in mid-March, HCP were screened daily for COVID-19–compatible symptoms, and symptomatic HCP were sent home per MDH and CDC guidance.
+Data on symptoms, demographic characteristics, and HCP work assignment were collected from resident charts, MDH COVID-19 case interviews, and SNF administrator interviews.
+Residents with positive SARS-CoV-2 test results were moved to a COVID-19 care unit within each facility, and HCP with positive test results were excluded from work for at least 10 days ().
+Before serial testing (April 17–29), COVID-19 was laboratory-confirmed in 14 (18%) symptomatic residents.
+Date of serial testing round and daily specimen test results*,†,§ for SARS-CoV-2 detection by reverse transcription–polymerase chain reaction (RT-PCR) testing — two skilled nursing facilities, Minnesota, April–June 2020
+During April 15–29, 15 (10%) symptomatic HCP at facility A received diagnoses of confirmed COVID-19 by their health care providers (Figure 1).
+Overall, among 182 residents tested, 114 (63%) COVID-19 cases were identified; 19 (17%) were hospitalized, and 40 (35%) died.
+Among the 31 HCP COVID-19 cases, 18 (58%) HCP worked on the first floor, where 21 (88%) of 24 infected residents were initially identified.
+Among 114 total HCP COVID-19 cases diagnosed at facilities A and B, 73 (64%) were in nurses or nursing assistants who provided direct resident care.
+Phylogenetic trees showing genetic distance between available* SARS-CoV-2 virus specimens collected from health care personnel (HCP) and residents at facility A† and facility B§— Minnesota, April–June 2020
+Serial testing of residents and all HCP, until no new cases are detected after 14 days (), together with IPC strengthening, are critical strategies necessary to control COVID-19 outbreaks in SNFs.
+Because residents and HCP can sustain SARS-CoV-2 transmission and HCP present an ongoing risk for introducing SARS-CoV-2-from the community, barriers to HCP testing must be addressed and overcome for test-based approaches to successfully reduce COVID-19–related morbidity and mortality.

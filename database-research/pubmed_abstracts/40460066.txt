@@ -1,0 +1,15 @@
+In the evolving landscape of technology, robots have emerged as social companions, prompting an investigation into social bonding between humans and robots.
+While human-animal interactions are well-studied, human-robot interactions (HRI) remain comparatively underexplored.
+Ethorobotics, a field of social robotic engineering based on ecology and ethology, suggests designing companion robots modeled on animal companions, which are simpler to emulate than humans.
+However, it is unclear whether these robots can match the social companionship provided by their original models.
+This study examined social bonding between humans and AIBOs, dog-inspired companion robots, compared to real dogs.
+Nineteen female participants engaged in 12 affiliative interactions with dogs and AIBOs across two counter-balanced, one-month bonding phases.
+Social bonding was assessed through urinary oxytocin (OXT) level change over an interaction, self-reported attachment using an adapted version of the Lexington Attachment to Pets Scale, and social companionship evaluations administering the Robot-Dog Questionnaire.
+To examine OXT level changes and self-reported attachment by comparing the two social companions, we conducted mixed-effects model analyses and planned follow-up comparisons.
+Frequency comparison, binary logistic regression, and thematic analysis were performed to analyze social companionship evaluations.
+Results revealed significant differences between dogs and AIBOs in fostering social bonds.
+OXT level change increased during interactions with dogs but decreased with AIBOs.
+Participants reported stronger attachment to dogs and rated them as better social companions.
+These findings highlight the current limitations of AIBOs in fostering social bonding immediately compared to dogs.
+Our study contributes to the growing HRI research by demonstrating an existing gap between AIBOs and dogs as social companions.
+It highlights the need for further investigation to understand the complexities of social bonding with companion robots, which is essential to implement successful applications for social robots in diverse domains such as the elderly and health care, education, and entertainment.

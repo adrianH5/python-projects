@@ -1,0 +1,5 @@
+Proton beam therapy is an advanced treatment for patients with unresectable hepatocellular carcinoma.
+However, evaluating the response to treatment with tumor size alone is insufficient.
+Herein, we used kinetic [18F]-FDG PET and diffusion-weighted MR imaging to monitor the biological responses to proton beam therapy in hepatocellular carcinoma mice to assess treatment efficacy.
+Murine BNL HCC cells were orthotopically implanted into the livers of 8-week-old male BALB/c mice, which received 20 Gy of the single dose in proton beam therapy.
+The biological responses to proton beam therapy were assessed on pre-treatment and post-treatment days 1, 3, and 7.

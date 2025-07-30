@@ -1,0 +1,10 @@
+Flavones, recognized as "privileged scaffolds" in drug discovery, hold significant promise as anti-cancer agents.
+This study aimed to develop a quantitative structure-activity relationship (QSAR) model to accelerate the optimization of lead compounds.
+Using pharmacophore modeling against three cancer targets (PI3K, Tankyrases, and CDK-6), 89 flavone analogs were designed and synthesized with varied substitution patterns to explore potency and selectivity.
+Biological evaluation identified promising candidates with enhanced cytotoxicity against MCF-7 and HepG2 cells while demonstrating reduced toxicity towards normal Vero cells.
+A machine learning (ML)-driven QSAR approach was employed to correlate structural features with inhibitory activity.
+Three ML models-random forest (RF), extreme gradient boosting (XGB), and artificial neural network (ANN)-were developed and compared.
+The RF model exhibited superior performance, achieving R² of 0.820 for MCF-7 and 0.835 for HepG2, with cross-validation (R²cv) of 0.744 and 0.770, respectively.
+Validation using 27 test compounds yielded RMSEtest values of 0.573 (MCF-7) and 0.563 (HepG2), demonstrating model robustness.
+SHAP analysis identified critical molecular descriptors influencing anti-cancer activity, offering insights into key structural features.
+This study presents a robust QSAR model as a valuable tool for the rational design and development of potent flavone-based anti-cancer agents, contributing to the advancement of targeted cancer therapies.

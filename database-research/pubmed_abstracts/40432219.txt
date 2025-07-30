@@ -1,0 +1,6 @@
+The electrochemical aptamer-based detection of mucin 1 (MUC1) has been widely used for the early diagnosis and detection of breast cancer, which is of vital significance for reducing the incidence and mortality of this disease.
+However, the immutability of electrodes restricts the binding efficiency between electrodes and target biomolecules during the incubation process, limiting the ability of electrochemical aptasensors to efficiently and rapidly detect target molecules.
+Herein, the fabrication of a three-layer MXene-Au electrochemical actuator is reported for the active MUC1 detection.
+Using cyclic actuation characteristics achieved via the reversible insertion and detachment of ions in electrodes, the MXene-Au electrochemical actuator actively captures MUC1 in the region distant from the electrode during the incubation process.
+This improves the binding efficiency between the electrode and MUC1 and significantly reduces the aptamer-MUC1 binding time.
+The ultrasensitive and active detection of MUC1 was achieved with a detection limit of 0.65 fg mL

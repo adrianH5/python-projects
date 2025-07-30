@@ -1,0 +1,8 @@
+Breast cancer is a type of cancer with relatively good prognosis; however, once it metastasizes to the brain, it deteriorates clinical outcomes.
+Previously, we compared the brain-topical proliferative activity of multiple breast cancer cell lines by intracranial injection and identified UACC-893 cells as highly proliferative in the brain.
+In this study, we performed RNA-seq analysis of brains harboring UACC-893 tumors and explored the genes characteristically expressed in tumor cells colonizing the brain and in their surrounding brain tissue.
+Enrichment analysis suggested that immune-related signals may be involved in the brain-topical proliferative activity of tumor cells.
+In addition, ligand-coding genes were extracted among those characteristically expressed in the intracranial tumor or in the brain containing it.
+This result was validated by quantitative real-time PCR analysis.
+NicheNet analysis using RNA-seq data suggested the interaction between tumor cells and the brain microenvironment, which suggested possible communications via the ligand-receptor axis.
+In summary, this study highlights the genes and signals characteristic of highly proliferative tumor cells and the affected brain tissue influencing tumor colonization.

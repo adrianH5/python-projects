@@ -1,0 +1,6 @@
+A classic problem in metabolism is that fast-proliferating cells use seemingly wasteful fermentation for energy biogenesis in the presence of sufficient oxygen.
+This counterintuitive phenomenon, known as overflow metabolism or the Warburg effect, is universal across various organisms.
+Despite extensive research, its origin and function remain unclear.
+Here, we show that overflow metabolism can be understood through growth optimization combined with cell heterogeneity.
+A model of optimal protein allocation, coupled with heterogeneity in enzyme catalytic rates among cells, quantitatively explains why and how cells choose between respiration and fermentation under different nutrient conditions.
+Our model quantitatively illustrates the growth rate dependence of fermentation flux and enzyme allocation under various perturbations and is fully validated by experimental results in

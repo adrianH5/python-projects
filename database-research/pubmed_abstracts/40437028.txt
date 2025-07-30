@@ -1,0 +1,14 @@
+Inflammation associated with incessant ovulation plays a key role in epithelial ovarian cancer (EOC) pathogenesis.
+Ion channels, such as acid-sensing ion channel-2 or ASIC2 are known to be upregulated in inflammatory conditions and may play a role in cancer cell invasion and metastasis.
+Previously we reported the role of phosphodiesterase 10A (PDE10) modulation of β-catenin in ovarian cancer, and are currently investigating its contribution to ovarian pathogenesis.
+Differential ASIC2 expression was noted with PDE10 modulation in both pre-malignant and ovarian cancer tissues.
+Hence, we presently report the potential role of ASIC2 in EOC development and progression as well as involvement with PDE10.
+ASIC2 protein is expressed across all EOC cell lines, primarily within the nucleus.
+Knockout of PDE10 decreased ASIC2.
+Conversely, ASIC2 inhibition decreased ASIC2 as well as PDE10 protein levels.
+ASIC2 inhibition via Diminazene also produced marked ovarian cancer death.
+While changes in extracellular pH did not impact ASIC2 expression, intracellular pH and calcium levels increased with ASIC inhibition.
+Calcium increases induced a decrease in oncogenic β-catenin.
+There may be a direct relationship between PDE10 and ASIC2 protein expression in EOC through convergence on a β-catenin mediated signaling pathway.
+This could potentially implicate ion channels, specifically ASIC2, as a link between the acidic tumor microenvironment and cancer cell signaling.
+It is also possible that ASIC2 plays a crucial role in acidosis-mediated tumorigenesis in ovarian cancer.

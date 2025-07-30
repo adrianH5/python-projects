@@ -1,0 +1,10 @@
+Hepatocellular carcinoma (HCC) has attracted global and local interest, with alarming current and forecasted statistics.
+This is mainly due to its late-stage diagnosis, high recurrence rate and potential resistance to conventional therapies.
+Thus, there is an emerging need to explore new molecular targets and novel treatment strategies to effectively combat HCC.
+In this study, we analyzed four GEO datasets (GSE112790, GSE62232, GSE60502 and GSE84402) to identify upregulated differentially expressed genes (DEGs) associated with HCC.
+Enrichment analysis and protein‒protein interaction (PPI) network construction were performed on the overlapping upregulated DEGs to predict and prioritize potential therapeutic targets.
+Six hub genes (RRM2, TOP2A, CCNB1, CDK1, BIRC5 and PBK) were identified, with RRM2 emerging as the top candidate.
+The role of RRM2 in HCC was then validated through a literature review, in silico analysis and CRISPR/Cas9-mediated gene disruption, followed by in vitro functional assays in HepG2 cells.
+RRM2 knockdown resulted in significant reductions in cell viability, proliferation inhibition, migration impairment, G2/M phase cell cycle arrest and apoptosis.
+Our findings emphasize RRM2 as a critical player in HCC progression.
+Targeting RRM2 with CRISPR/Cas9 effectively reversed several hallmarks of HCC, offering new opportunities for the development of precise HCC therapeutic options.

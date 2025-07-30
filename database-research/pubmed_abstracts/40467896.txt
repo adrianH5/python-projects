@@ -1,0 +1,10 @@
+Triple-negative breast cancer (TNBC) is a highly aggressive subtype of breast cancer with poor prognosis.
+The current first-line treatment for advanced TNBC (aTNBC) is determined by the expression of programmed cell death-ligand 1 (PD-L1).
+In the ATRACTIB trial-a multicenter, single-arm, phase 2 study-we evaluated the combination of atezolizumab, paclitaxel and bevacizumab as first-line treatment for patients with aTNBC, independently of PD-L1 status.
+The primary endpoint was investigator-assessed progression-free survival.
+One hundred female patients were enrolled, with most evaluable tumors being PD-L1-negative (97.6%).
+The primary endpoint was met, with a median progression-free survival of 11.0 months (95% confidence interval (CI): 9.0-13.4; P < 0.001).
+The objective response rate was 63.0% (95% CI: 52.8-72.4) and median overall survival was 27.4 months (95% CI: 23.4-37.4).
+No treatment-related deaths or new safety signals were observed.
+This combination demonstrated significant antitumor activity as first-line therapy for aTNBC patients and merits further investigation.
+ClinicalTrials.gov Identifier: NCT04408118 .

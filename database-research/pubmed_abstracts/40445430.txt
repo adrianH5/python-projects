@@ -1,0 +1,8 @@
+Pancreatic neuroendocrine tumors (pNETs) are a rare subset of pancreatic cancers often diagnosed late and characterized by complex behaviors.
+Recent evidence suggests the gut microbiome (GM) significantly influences various diseases by modulating the immune system.
+This study utilized a Mendelian randomization (MR) approach to investigate the causal relationship between GM and pNETs, using single nucleotide polymorphism data as instrumental variables.
+Two-sample MR analysis identified significant correlations between GM and immune cell types.
+The study found eight specific GMs affecting pNETs risk: the family Sutterellaceae (OR: 1.52, 95% CI 1.10-2.10, p = 0.01), the genus Paraprevotella (OR: 1.34, 95% CI 1.05-1.72, p = 0.02), the species Paraprevotella unclassified (OR: 1.40, 95% CI 1.08-1.81, p = 0.01), and the species Ruminococcus torques (OR: 1.45, 95% CI 1.12-1.89, p = 0.01) increased risk, while the class Gammaproteobacteria (OR: 0.75, 95% CI 0.57-0.98, p = 0.04), the family Acidaminococcaceae (OR: 0.70, 95% CI 0.52-0.94, p = 0.02), the species Paraprevotella xylaniphila (OR: 0.72, 95% CI 0.54-0.96, p = 0.03), and the species Bacteroides finegoldii (OR: 0.68, 95% CI 0.51-0.91, p = 0.01) decreased it.
+Mediation analysis indicated the species Ruminococcus torques mediated the effect of CD25 on CD45RA+ CD4 non-regulatory T cells on pNETs, accounting for 3.6% of the total effect.
+This study provides evidence suggestive of a potential causal role of specific GM compositions in pNETs progression and their mediation through immune cell signatures.
+However, mechanistic studies are required to further validate this relationship.

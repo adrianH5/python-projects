@@ -1,0 +1,26 @@
+It was designated as coronavirus disease 2019 (COVID-19) by the World Health Organization (WHO) [3].
+In late January 2020, WHO declared the outbreak a global pandemic with cases in more than 45 countries where the COVID-19 was spreading fast outside China, most significantly in South Korea, Italy, and Iran with over 2,924 deaths and 85,212 cases confirmed while 39,537 recovered on 29 February 2020, 06:05 AM (GMT).
+COVID-19 is a positive-sense single-stranded RNA virus (+ssRNA).
+The phylogenetic analysis indicates that COVID-19 likely originated from bats [15].
+The sequence of COVID-19 RBD, together with its RBM that contacts receptor angiotensin-converting enzyme 2 (ACE2), was found similar to that of SARS coronavirus.
+In January 2020, a group of scientists demonstrated that ACE2 could act as the receptor for COVID-19 [17–21].
+However, COVID-19 differs from other previous strains in having several critical residues at the 2019-nCoV receptor-binding motif (particularly Gln493) which provide advantageous interactions with human ACE2 [15].
+At present, there is no vaccine or approved treatment for humans, but Chinese traditional medicines, such as ShuFengJieDu capsules and Lianhuaqingwen capsules, could be possible treatments for COVID-19.
+Sequences of proposed epitopes were selected from the COVID-19 reference sequence using UCSF Chimera 1.10 and saved as a PDB file.
+Sequence alignment of the COVID-19 envelope protein was done using BioEdit software which shows total conservation across four sequences which were retrieved from China and the USA (Figure 3).
+Applying the advanced bioinformatics tools and databases, various peptide-based vaccines could be designed where the peptides act as ligands [61–63].
+The COVID-19 is an RNA virus which tends to mutate more commonly than the DNA viruses [67].
+These mutations lie on the surface of the protein, which makes COVID-19 more superior than other previous strains by inducing its sustainability leaving the immune system in a blind spot [68].
+In our present work, different peptides were proposed for designing a vaccine against COVID-19 (Figure 1).
+In the beginning, the whole genome of COVID-19 was analyzed by a comparative genomic approach to determine the potential antigenic target [69].
+The Artemis Comparison Tool (ACT) was used to analyze human coronavirus (HCoV-HKU1) reference sequence vs. Wuhan-Hu-1 COVID-19.
+New genes (ORF8 and ORF6) were found inserted in COVID-19 which were absent in HCoV-HKU1 that might be acquired by the horizontal gene transmission [70].
+Multiple sequence alignment (MSA) was performed using ClustalW for the seven strains of coronavirus, which are COVID-19 (NC_04551), SARS-CoV (FJ211859), MESA-CoV (NC_019843), HCoV-HKU1 (AY884001), HCoV-OC43 (KF923903), HCoV-NL63 (NC_005831), and HCoV-229E (KY983587).
+The maximum likelihood phylogenetic tree revealed that COVID-19 is found in the same clade of SARS-CoV; thus, the two strains are highly related to each other (Figure 4).
+Unfortunately, IEDB did not give any result for B-cell epitopes; this might be due to the length of the COVID-19 (75 amino acids).
+Although both flu and anti-HIV drugs are used currently in China for treatment of COVID-19, chloroquine phosphate, an old drug for treatment of malaria, has recently been found to have apparent efficacy and acceptable safety against COVID-19 [77, 78]; nevertheless, more studies are required to standardize these therapies.
+To the best of our knowledge, this is the first study to identify certain peptides in the envelope (E) protein as candidates for COVID-19.
+Within few weeks, the World Health Organization (WHO) announced a novel coronavirus designated as coronavirus disease 2019 (COVID-19).
+Currently, there is no vaccine or approved treatment for this emerging infection; thus, the objective of this study is to design a multiepitope peptide vaccine against COVID-19 using an immunoinformatics approach.
+Results  Extensive mutations, insertion, and deletion were discovered with comparative sequencing in the COVID-19 strain.
+The T-cell epitope-based peptide vaccine was designed for COVID-19 using the envelope protein as an immunogenic target.

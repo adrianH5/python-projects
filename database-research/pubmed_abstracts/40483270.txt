@@ -1,0 +1,7 @@
+Understanding the dynamics of the tumor-immune ecosystem is crucial for advancing neoadjuvant strategies in cancer treatment.
+This study investigated alterations in the tumor-immune microenvironment related to the response to preoperative combination therapy with paclitaxel, carboplatin, and cetuximab in patients with advanced head and neck squamous cell carcinoma.
+Thirty patients underwent combination therapy.
+Biopsy or surgical specimens were obtained before and after treatment.
+Single-cell-based, 14-marker multiplex immunohistochemistry and image cytometry were employed to assess changes in immune cell densities and profiles.
+Three distinct immune profiles were identified: hypo-, lymphoid-, and myeloid-inflamed.
+Significant decreases in tumor volume and increases in CD45

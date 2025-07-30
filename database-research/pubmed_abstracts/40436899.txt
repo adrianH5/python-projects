@@ -1,0 +1,7 @@
+Glioblastoma (GB) is a highly aggressive brain tumor resistant to chemoradiotherapy, largely due to glioma stem-like cells (GSCs) with robust DNA damage repair capabilities.
+Here we reveal that GSCs enhance their DNA repair capacity by activating non-homologous end-joining (NHEJ) through upregulation of the apoptosis antagonizing transcription factor (AATF), thereby promoting therapeutic resistance in GB.
+AATF interacts with XRCC4, a core NHEJ subunit, preventing its degradation via ubiquitin-mediated proteasomal processes.
+Upon DNA damage, AATF undergoes phosphorylation at Ser189 by ATM, leading to its dissociation from XRCC4 and rapid recruitment of XRCC4 to DNA break sites for efficient NHEJ repair.
+Moreover, AATF depletion or deficient AATF phosphorylation impedes NHEJ in GSCs, sensitizing GB xenografts to chemoradiotherapy.
+Additionally, elevated levels of AATF inform poor prognosis in GB patients.
+Collectively, our findings unveil a crucial role of AATF in XRCC4-mediated NHEJ repair, and underscore targeting AATF as a potential strategy to overcome GB resistance to chemoradiotherapy.

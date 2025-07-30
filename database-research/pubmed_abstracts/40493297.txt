@@ -1,0 +1,8 @@
+The bone marrow (BM) niche plays a critical role in the development of acute lymphoblastic leukemia (ALL), while the central nervous system (CNS) is a common site of dissemination.
+Existing in vitro models of childhood ALL lack complexity and fail to recapitulate the in vivo microenvironments.
+This study aimed to improve ALL in vitro models by integrating key elements of the BM and CNS niches.
+We optimized the culture medium by evaluating the impact of cytokines and human platelet lysate in medium, which significantly improved ALL cell viability (p < 0.05) with a maximum viability of 54.61% achieved.
+Expression of cancer-associated fibroblast (CAF) markers in human Mesenchymal Stromal Cells (hMSCs) and human Meningeal Cells (HMCs) were examined, but co-culture with primary ALL cells did not induce an increase in CAF marker expression in our stromal cells.
+ALL cells exhibited enhanced viability in 5% oxygen compared to 21% oxygen (p < 0.05).
+The final BM and CNS models demonstrated superior survival of ALL cells (p < 0.05) compared to more simple models with a maximum viability achieved of 92.25% for BM model and 92.99% for CNS.
+These findings indicate that mimicking BM and CNS microenvironments enhances the survival of primary ALL cells in vitro.

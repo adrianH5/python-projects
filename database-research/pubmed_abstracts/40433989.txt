@@ -1,0 +1,9 @@
+Exosomes shape the tumor microenvironment (TME) by modulating tumor-associated macrophages (TAMs) and promoting ovarian cancer (OC) progression.
+This study reveals that exosomal CKLF Like MARVEL Transmembrane Domain Containing 4 (CMTM4) enhances OC malignancy and orchestrates immune evasion.
+Excessive macrophage infiltration in the TME, particularly in the presence of CMTM4, is strongly associated with poor prognosis.
+Within the TME, exosomal CMTM4 is actively internalized by macrophages, promoting M2 polarization and subsequently initiating immunosuppressive signaling.
+Exosomal CMTM4 activates the NF-κB pathway in TAMs, suppressing immune function through enhanced secretion of cytokines, including TGF-β1 and CXCL12, while simultaneously upregulating intercellular adhesion molecule-1 (ICAM1) expression to further promote M2 polarization and facilitate cancer metastasis.
+Depletion of CMTM4 increases sensitivity to anti-PD-1 therapy by reversing immunosuppression.
+Notably, eltrombopag is identified as a CMTM4 inhibitor that attenuates OC progression in vivo and modulates the tumor immune microenvironment, synergizing with PD-1 blockade immunotherapy to enhance therapeutic efficacy.
+The exosomal CMTM4-ICAM1-CD206 axis exacerbates disease risk in patients with OC.
+Collectively, the study highlights the critical role of tumor-derived exosomal CMTM4 in immune suppression, emphasizing its potential as both a prognostic biomarker and a therapeutic target in OC immunotherapy.

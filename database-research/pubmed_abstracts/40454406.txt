@@ -1,0 +1,5 @@
+Epigenetic alterations have been found in chronic lymphocytic leukemia (CLL), but the functional importance of these changes remains underexplored.
+Here, we characterized the genome-wide histone modification landscapes of CLL using patient-derived samples across the disease course.
+Compared with normal B cells, we found that the enhancers specifically lost in CLL B cells are associated with the downregulation of genes involved in immune response.
+Importantly, these lost enhancers exhibit an increased level of heterochromatin marks, including H3K9me3 and H3K27me3.
+Using the

@@ -1,0 +1,7 @@
+This workshop examined the effects of ionizing radiation on certain understudied populations, including pregnant/lactating, in utero, pediatric, and geriatric populations.
+Research using animal models has revealed significant age and condition-related differences in radiation-induced injuries, highlighting the need for tailored triage and treatment strategies.
+Historical data from Hiroshima, Nagasaki, and Chernobyl further support these findings, demonstrating that radiation effects lead to wide-ranging issues with unique profiles during pregnancy, childhood and elderly age.
+While some research has been conducted on these groups, ethical and logistical challenges make it difficult to study these populations extensively.
+Therefore, developing alternative approaches that offer promising avenues for further research is critical.
+Radiation-induced biomarkers and biodosimetry also show age-related differences, including distinctive metabolic disruptions, necessitating further validation of biodosimetry tools.
+These findings emphasize the importance of considering age, sex, and demographic factors in preclinical and clinical radiation research to develop treatments that improve outcomes of understudied populations after a radiological or nuclear public health emergency.

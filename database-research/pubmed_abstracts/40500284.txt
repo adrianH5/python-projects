@@ -1,0 +1,8 @@
+Glioma is a highly aggressive central nervous system tumor with limited treatment options, presenting a significant challenge for effective therapy.
+Despite advancements, the role of tumor-associated macrophages (TAMs) in glioma remains poorly understood, especially regarding their polarization and its impact on the immune response.
+This study investigates the effects of Lysosomal-associated protein transmembrane 4 A (LAPTM4A) deficiency on the polarization of TAMs and its role in modulating anti-tumor immunity.
+Using C57BL/6 male mice, we established an orthotopic glioma model and employed single-cell RNA sequencing, flow cytometry, in vitro co-culture systems, and in vivo anti-PD-1 therapy experiments to explore the functional role of LAPTM4A.
+We found that LAPTM4A promotes M2 polarization of TAMs, contributing to glioma progression by enhancing cell proliferation and invasion.
+In contrast, LAPTM4A-deficient glioma models show a shift towards M1 macrophage phenotypes, leading to stronger immune activation and increased sensitivity to anti-PD-1 therapy.
+These results suggest that targeting LAPTM4A may provide a novel strategy to improve glioma treatment by modulating TAM polarization and enhancing immune responses.
+This research lays the groundwork for future therapies aimed at reprogramming the tumor microenvironment to combat glioblastoma.

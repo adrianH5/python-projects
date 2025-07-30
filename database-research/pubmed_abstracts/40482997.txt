@@ -1,0 +1,7 @@
+Cisplatin, a widely used chemotherapeutic agent, is often limited by its nephrotoxic and hepatotoxic effects, largely driven by oxidative stress and inflammation.
+This study evaluates the protective effects of irosustat, the steroidal bissulfamate STX140, and a sulfonate derivative (1G) against cisplatin-induced organ toxicity in a rat model, with silymarin and losartan as reference standards.
+Male Wistar rats (n = 5/group) received daily oral doses of the test compounds for two weeks, with a single intraperitoneal cisplatin injection (10 mg/kg) on day 7 to induce toxicity.
+Biochemical, histopathological, and molecular analyses assessed renal and hepatic function, oxidative stress markers, and inflammatory mediators (TNF-α, Nrf-2) via qRT-PCR and immunohistochemistry.
+Pre-treatment with each compound improved kidney and liver function, as evidenced by significant reductions in serum creatinine and blood urea nitrogen levels, and restoration of serum albumin levels.
+Oxidative stress and inflammatory markers were downregulated, correlating with histopathological improvements in renal and hepatic tissues.
+Notably, STX140 co-treatment reduced the IC

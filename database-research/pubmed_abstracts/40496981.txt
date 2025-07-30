@@ -1,0 +1,10 @@
+Ototoxicity is a major dose-limiting side effect of cisplatin, a highly effective anti-cancer drug used to treat many solid tumors.
+Oxidative stress plays a central role in mediating cisplatin-induced ototoxicity.
+However, broad-spectrum antioxidants that prevent ototoxicity compromise the anti-cancer activity of cisplatin.
+Therefore, there is a need to identify novel interventional targets/compounds for otoprotection.
+Recent reports indicated that cisplatin-induced nitration of cochlear proteins is a critical factor in causing ototoxicity, and inhibition of cochlear nitrative stress mitigated cisplatin-induced ototoxicity.
+The use of peroxynitrite decomposition catalysts that selectively target nitrative stress appears to be an attractive strategy for mitigating the ototoxic effects of cisplatin because they do not scavenge free radicals.
+We hypothesized that cotreatment with selective inhibitors of nitrative stress prevents cisplatin-induced ototoxicity without compromising the anti-cancer effects.
+Here, we test this hypothesis by investigating the effect of MnTBAP cotreatment on cell viability, nitrative stress, DNA damage, and cell migration in cisplatin-treated organ of Corti as well as cancer cells.
+Our results indicate that cisplatin treatment decreases cell viability in both auditory and cancer cells, while cotreatment with MnTBAP mitigates cisplatin-induced cytotoxicity in the auditory cells but not in the cancer cells.
+Collectively, the findings of this study suggest that selective targeting of cisplatin-induced nitrative stress is a promising strategy for mitigating the ototoxic effects of cisplatin because it does not compromise the anti-cancer effects.

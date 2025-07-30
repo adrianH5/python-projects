@@ -1,0 +1,5 @@
+Multimodal artificial intelligence (AI) is a powerful new technological advance, capable of simultaneously learning from diverse data types, such as text, images, video, and audio.
+Because clinical decisions are usually based on information from multiple sources, multimodal AI has the potential to significantly improve clinical practice.
+However, unlike most developed multimodal AI workflows, clinical medicine is both a dynamic and interventional process in which the clinician continually learns about the patient's health and acts accordingly as data is collected.
+In this article we argue that multimodal clinical AI must be fully attuned to the particular challenges and constraints of the clinic, and clinician involvement is needed throughout development-not just at clinical deployment.
+We propose ways that clinician involvement can add value at each stage of the multimodal AI development pipeline, and argue for the establishment of actively managed multidisciplinary communities to work collaboratively towards the shared goal of improving the health of all.

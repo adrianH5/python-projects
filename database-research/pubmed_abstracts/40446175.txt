@@ -1,0 +1,3 @@
+Lymph node metastasis (LNM) significantly affects prognosis and treatment strategies in non-small cell lung cancer (NSCLC).
+Current diagnostic methods, including imaging and histopathology, have limited sensitivity and specificity.
+This study aims to develop and evaluate machine learning (ML) models that predict LNM in NSCLC using single-nucleotide polymorphism (SNP) data from The Cancer Genome Atlas.

@@ -1,0 +1,3 @@
+While the fallopian tube epithelium (FTE) is known to be composed of various differentiated cells such as secretory and ciliated cells, the upstream regulatory mechanisms of cell differentiation that are essential for tissue homeostasis remain under investigation.
+In this study, we established human FTE organoids and identified quiescent cells within the early organoid formation by observing cellular proliferation heterogeneity.
+We also analyzed two single-cell transcriptomic data to trace the differentiation trajectory in human FTE, and found that the gene

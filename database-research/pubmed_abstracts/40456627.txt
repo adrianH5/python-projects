@@ -1,0 +1,10 @@
+During cancer development and progression, many genetic alterations lead to the acquisition of novel features that confer selective advantage to cancer cells and that resemble developmental programs.
+SRY-box transcription factor 2 (SOX2) is one of the key pluripotency transcription factors, expressed during embryonic development and active in adult stem cells.
+In cancer, SOX2 is frequently dysregulated and associated with tumor stemness and poor patient survival.
+SOX2 expression is suppressed in differentiated cells by tumor suppressor proteins that form a transcriptional repressive complex.
+We previously identified some of these proteins and found that their absence combined with deficiency in Trp53 leads to maximal dysregulated expression of Sox2.
+Using cancer cell lines of different origin and with different p53 status, we show here that manipulating TP53 to restore or decrease its activity results in repression or induction of SOX2, respectively.
+Mechanistically, we observed that the regulation of SOX2 expression by TP53 is transcriptional and identified Trp53 bound to the promoter region and the Sox2 Regulatory Region 2 enhancer of Sox2.
+Forcing high levels of SOX2 in cancer cells leads to morphological changes that molecularly correspond to the acquisition of a more mesenchymal phenotype, correlating with an increased migratory capacity.
+Finally, the analysis of human breast cancer samples shows that this correlation between TP53 status, levels of expression of SOX2, and a more metastatic phenotype is also observed in cancer patients.
+Our results support the notion that lack of TP53 in tumor cells results in deregulated expression of developmental gene SOX2 with phenotypic consequences related to increased malignization.

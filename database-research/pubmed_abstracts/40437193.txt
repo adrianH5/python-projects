@@ -1,0 +1,8 @@
+RNA-based fluorogenic aptamers, such as Mango, are uniquely powerful tools for imaging RNA that activate the fluorescence of a weakly or non-fluorescent small molecule when bound.
+A central challenge has been to develop brighter, more specific and high-affinity aptamer-ligand systems for cellular imaging.
+Here we report an ultrabright fluorophore for the Mango II system discovered using a structure-informed, fragment-based small-molecule microarray approach.
+This dye-termed SALAD1 (structure-informed, array-enabled LigAnD 1)-exhibits subnanomolar aptamer affinity and 3.5-fold brighter fluorescence than Mango II-TO1-biotin pair, a widely used fluorogenic system.
+Performance was improved by modulating RNA-dye molecular recognition without altering the fluorophore's π-system.
+High-resolution X-ray structures reveal the binding mode for SALAD1, which exhibits improved pocket occupancy, a more defined binding pose and a unique bonding interaction with potassium.
+SALAD1 is cell-permeable and facilitates improved in-cell confocal RNA imaging.
+This work introduces an additional RNA-activated fluorophore demonstrating how fragment-based ligand discovery can be used to create high-performance ligands for RNA targets.

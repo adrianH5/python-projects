@@ -1,0 +1,7 @@
+Phenotypic screening offers an effective path for discovering protein degraders, particularly targeting proteins that are poorly characterized or lack sufficient ligand-binding information.
+Nonetheless, phenotypic protein degrader discovery (PPDD) faces practical hurdles, such as synthetic complexity in generating chemically diverse libraries and difficulties in reliably identifying degradation-driven phenotypes in direct-to-biology (D2B) assays.
+In response to these challenges, we developed an integrated PPDD platform that combines optimized solid-phase parallel synthesis with a robust D2B screening workflow.
+Leveraging photocleavable linkers and versatile synthetic strategies, this platform facilitates rapid generation of chemically diverse, ready-to-screen bifunctional molecule libraries requiring minimal purification.
+As a proof of concept, we synthesized and phenotypically screened 130 cereblon-recruiting molecules, leading to several promising protein degradation-dependent hits.
+Subsequent hit optimization and target identification validated compound 12-60 as a structurally novel GSPT1 degrader with compelling cellular activity.
+Overall, our integrated platform represents an efficient and practical toolkit for PPDD, establishing a versatile foundation to accelerate future campaigns and expand the degradable proteome.

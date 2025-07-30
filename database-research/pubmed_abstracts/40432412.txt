@@ -1,0 +1,9 @@
+This study investigates the molecular mechanisms underlying anthracyclines (ANT)-induced cardiotoxicity, with a specific focus on ferroptosis regulated by the long non-coding RNA (lncRNA) H19/heme oxygenase-1 (Hmox1) signaling axis.
+A retrospective analysis was performed on 50 breast cancer patients who developed ANT-associated cardiac dysfunction.
+Clinical assessments included measurements of left ventricular ejection fraction (LVEF) and serum markers, such as cardiac troponin I (cTnI), creatine kinase-MB (CK-MB), N-terminal pro-B-type natriuretic peptide (NT-proBNP), and serum iron levels.
+Serum analysis revealed a marked downregulation of lncRNA H19 and upregulation of Hmox1, both significantly correlated with impaired cardiac function and disrupted iron homeostasis.
+To further elucidate the mechanism, an Epirubicin (EPI)-induced injury model in HL-1 cardiomyocytes was established.
+EPI exposure led to suppression of lncRNA H19, upregulation of Hmox1, and induction of apoptosis and ferroptotic cell death.
+RNA-seq analysis identified potential downstream targets linking lncRNA H19 to iron metabolism via Hmox1 modulation.
+Functional assays demonstrated that overexpression of lncRNA H19 mitigated EPI-induced ferroptosis, while enforced expression of Hmox1 reversed these protective effects.
+Collectively, these findings identify the lncRNA H19/Hmox1 axis as a critical regulator of ferroptosis in ANT-induced cardiotoxicity and suggest it as a potential therapeutic target for mitigating cardiac injury in breast cancer patients undergoing anthracycline chemotherapy.

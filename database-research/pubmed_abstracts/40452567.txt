@@ -1,0 +1,6 @@
+Anti-obesity medications (AOMs) have not been studied in survivors of adolescent and young adult (AYA) cancer.
+In this retrospective analysis, generalized additive mixed model with penalized spline described body mass index (BMI) over time among survivors of AYA cancer prescribed an AOM.
+Body weight and BMI at pre-AOM maximum and last follow-up were summarized, with 95% confidence intervals.
+Over a median follow-up time of 249 days, 63.4% of survivors had ≥5% weight reduction.
+The proportion of survivors with severe obesity decreased from 60% to 35%.
+These findings suggest that AOMs are effective for weight reduction in survivors of AYA cancer.

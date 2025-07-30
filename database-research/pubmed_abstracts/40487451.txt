@@ -1,0 +1,4 @@
+Cells overexpressing MYC depend on SUMOylation for survival and cell division.
+To assess the therapeutic potential of SUMO inhibition, we screened 30 patient-derived ovarian cancer models (OCMs) with the SUMO-activating enzyme inhibitor ML-792.
+While most were resistant, seven displayed intermediate sensitivity, and a further five were particularly sensitive, with sensitivity accompanied by mitotic errors, polyploidy, apoptosis, and PML body expansion.
+Resistance was linked to

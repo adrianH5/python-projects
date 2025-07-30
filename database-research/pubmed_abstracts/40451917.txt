@@ -1,0 +1,13 @@
+The growing applications of the hybrid nanofluids in drug delivery, cancer treatment, and other fields of science and engineering encouraged researchers and scientists to pay their attention towards such important fluid flow problems.
+This motivated the authors to carry out the novel current study, which is confined to fluid flow and heat transfer mechanisms in the Maxwell hybrid nanofluid based on the AA7072-AA7075 nanoparticles are suspended in methanol.
+The moving thin needle of variable thickness embedded in a porous medium.
+The impact of the Lorentz force applied perpendicular to the flow direction is considered to control the boundary layer flow and boundary layer thickness.
+The equations for the problem in partial differential equations are transformed to ordinary differential equations with an appropriate similarity transformation for a similar solution with the help of the bvp4c solver.
+The results show that increasing the volume fraction of the nanoparticles enhances the thermal effects of the fluid.
+Further, the increasing Lorentz force controls the flow speed, leading to control of the boundary layer thickness.
+The Maxwell fluid parameter also influences the fluid speed and thermal efficiency of the fluid.
+Results reflect that the skin friction coefficient reduces and the Nusselt number or heat transfer rate increases with increasing Prandtl number.
+For better visualization of the flow pattern, the streamlines and isotherms are plotted.
+The validity of the current solution is ensured by the comparison of the current results with already published results in the theoretical study.
+Overall, it is concluded that the combined effects of the time relaxation, magnetic field, and porosity of the medium on the moving thin needle of variable thickness increase the thermal performance of the hybrid nanofluid based on the AA7072-AA7075/Methanol.
+The results are asymptotic.

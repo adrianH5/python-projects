@@ -1,0 +1,11 @@
+Cancer remains a significant global health challenge, with a multifaceted etiology that includes genetic factors.
+Among these, CYP24A1 stands out for its pivotal role in vitamin D metabolism and regulates biological processes influencing cancer risk.
+Single nucleotide polymorphisms in CYP24A1 are associated with variations in vitamin D bioavailability, potentially impacting the initiation and progression of cancer.
+To date, no comprehensive review has been conducted on this topic.
+Therefore, this systematic review aims to investigate the association between common CYP24A1 polymorphisms and cancer susceptibility, by analyzing studies retrieved from PubMed, Scopus, Cochrane Library, and Web of Science databases up to January 2024.
+Using PRISMA guidelines and quality assessments with the Newcastle Ottawa Scale (NOS), 22 studies, with 28,132 participants (12,751 cases and 15,381 controls) were included.
+The reported odds ratio and p-value were used to assess the association between CYP24A1 SNPs (rs2296241, rs6068816, rs927650, rs2181874 and rs2585428) with various cancer risks.
+Key findings revealed that SNP rs2296241 was linked to increased risk of follicular thyroid cancer but lower risks in papillary thyroid cancer, esophageal squamous cell carcinoma, oral cancer, and prostate cancer.
+SNP rs6068816 correlated with reduced breast and lung cancer risks, while rs927650 and rs2181874 were associated with lower risks in papillary thyroid cancer and prostate cancer, respectively.
+SNP rs2585428 showed a lower risk in breast and prostate cancers suggesting a protective effect against these malignancies.
+These results highlight CYP24A1 polymorphisms as potential molecular markers for cancer susceptibility, underscoring their clinical relevance in risk assessment and personalized interventions.

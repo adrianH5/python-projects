@@ -1,0 +1,7 @@
+Macrophages are versatile innate immune cells that act as sentinels, warriors, and healers in virtually every tissue.
+This review synthesizes current insights into their developmental origins and the organ-specific cues that imprint diverse tissue-resident and monocyte-derived programs.
+We detail how pattern-recognition pathways, metabolic and epigenetic rewiring, and environmental signals govern macrophage plasticity, steering transitions between pro-inflammatory and reparative phenotypes during homeostasis, infection, and sterile injury.
+Dysregulated macrophage responses drive chronic inflammatory, autoimmune, metabolic, neurodegenerative, and neoplastic diseases; inter-individual variability rooted in genetic polymorphisms and enhancer landscapes further modulates susceptibility.
+Advances in single-cell and spatial multi-omics are redefining macrophage subsets and exposing disease-associated states, while approaches such as checkpoint blockade, chimeric antigen receptor macrophages, nanoparticles, metabolic modulators, and pro-resolving mediators showcase the therapeutic promise of re-programming these cells.
+Remaining challenges include integrating the layered genetic, metabolic, and microenvironmental inputs that dictate macrophage fate.
+Addressing these gaps will unlock precision strategies that harness macrophage plasticity to combat infection, resolve inflammation, repair tissue, and augment anti-tumor immunity.

@@ -1,0 +1,7 @@
+Liver cancer is a leading cause of cancer mortality globally, with high Body Mass Index (BMI), alcohol consumption, and smoking identified as major modifiable risk factors.
+This study assessed global trends in liver cancer mortality attributable to these factors from 1990 to 2021, using data from the 2021 Global Burden of Disease Study.
+Mortality and Disability-Adjusted Life Years (DALYs) attributable to liver cancer were analyzed by gender, age, and Socio-Demographic Index (SDI) region.
+The age-standardized mortality rates (ASMRs) for liver cancer attributable to smoking showed a decreasing trend (EAPC: - 0.844 (- 0.961, - 0.727)), while ASMRs for liver cancer attributable to high BMI increased across all age groups, especially in high-SDI regions.
+Age-Period-Cohort (APC) modeling indicated that the liver cancer burden attributable to high BMI rose sharply in recent years, with projections suggesting global DALYs for liver cancer attributable to high BMI will reach 145,100 by 2050, predominantly affecting males.
+A visualization platform for these results is available at http://116.196.73.86:3838/GBD-LiverCancer/ .
+These findings highlight the urgent need for targeted health policies to mitigate the impact of high BMI on liver cancer, particularly through obesity prevention efforts in high-SDI regions.

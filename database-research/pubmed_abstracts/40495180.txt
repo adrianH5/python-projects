@@ -1,0 +1,7 @@
+Oncolytic viruses (OVs) have been introduced as a promising anti-cancer platform capable of selectively killing cancer cells (oncolysis) without causing damage to normal cells.
+These viruses also stimulate the innate and adaptive immune responses and can remodel the tumor microenvironment (TME) in favor of anti-tumor immunity.
+Still, successful and efficient OV application in the clinical settings encounters several challenges including immune mediated clearance and low tumor tissue targeting.
+Extracellular vesicles (EVs) have emerged as a useful vehicle for efficient and selective delivery of various therapeutics including chemotherapy drugs, nucleic acid-based anti-cancer agents and immunostimulatory molecules into the TME.
+EVs can also be employed as a proper vehicle to enhance OVs tumor-selective delivery and protect them from the host immune system mediated removal following systemic administration as a key hurdle on the way of an efficacious oncolytic virotherapy.
+OVs can also take advantage of EVs to spread their oncolytic activity to metastatic sites distant from the primary tumor as well as instigate robust anti-tumor immune responses.
+In this paper, we have tried to review the current literature regarding the roles and applications of EVs in cancer OV therapy and provide a conclusion on future directions and application of this novel technology.

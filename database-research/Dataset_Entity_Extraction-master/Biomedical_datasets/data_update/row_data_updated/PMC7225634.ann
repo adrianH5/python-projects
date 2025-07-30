@@ -1,0 +1,17 @@
+T1	Repository 469 475	ELIXIR
+T2	Repository 524 530	ELIXIR
+T3	URL 593 638	elixir-europe.org/services/covid-19-resources
+T4	Repository 737 743	ELIXIR
+T5	Repository 1402 1408	ELIXIR
+T6	Repository 1447 1495	Federated European Genome-phenome Archive (FEGA)
+T7	Repository 1819 1845	1 Million European Genomes
+T8	Repository 2451 2457	ELIXIR
+T9	Repository 2606 2612	ELIXIR
+T10	Repository 2741 2749	EMBL–EBI
+T11	Repository 2893 2899	ELIXIR
+T12	Repository 3088 3096	EMBL–EBI
+T13	Repository 3580 3586	ELIXIR
+T14	Repository 3594 3600	ELIXIR
+T15	Repository 3618 3624	ELIXIR
+T16	Repository 3844 3850	ELIXIR
+R1	hasAttr	Arg1:T2	Arg2:T3

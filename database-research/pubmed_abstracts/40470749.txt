@@ -1,0 +1,6 @@
+This study presents BrainFusion, a unified software framework designed to improve reproducibility and support translational applications in multimodal brain-computer interface (BCI) and brain-body interaction research.
+While ​electroencephalography (EEG)​​-based BCIs have advanced considerably, integrating multimodal physiological signals remains hindered by analytical complexity, limited standardization, and challenges in real-world deployment.
+BrainFusion addresses these gaps through standardized data structures, automated preprocessing pipelines, cross-modal feature engineering, and integrated machine learning modules.
+Its application generator further enables streamlined deployment of workflows as standalone executables.
+Demonstrated in two case studies, BrainFusion achieves 95.5% accuracy in within-subject EEG-functional near-infrared spectroscopy (fNIRS)​​ motor imagery classification using ensemble modeling and 80.2% accuracy in EEG-electrocardiography (ECG)​​ sleep staging using deep learning, with the latter successfully deployed as an executable tool.
+Supporting EEG, fNIRS, electromyography (EMG)​, and ECG, BrainFusion provides a low-code, visually guided environment, facilitating accessibility and bridging the gap between multimodal research and application in real world.

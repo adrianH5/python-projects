@@ -1,0 +1,5 @@
+Several use cases in precision oncology require accurately extracting and standardizing Real-World Data from Electronic Health Records (EHRs).
+We developed the infrastructure and a toolset incorporating data mining and natural language processing scripts to automatically retrieve selected descriptive and common endpoint variables from EHRs.
+This toolset was evaluated against a reference dataset of 106 lung cancer and 45 sarcoma patient cases pulled from two databases complying with the Precision Oncology Core Data Model (Precision-DM) and maintained by the Johns Hopkins Molecular Tumor Board and a research team.
+We accurately retrieved most descriptive EHR fields but less efficiently extracted the Date of Diagnosis and Treatment Start Date that supported calculating the Age at Diagnosis, Overall Survival, and Time to First Treatment (accuracy range 50%-86%).
+Our infrastructure and Precision-DM-based standardization could inspire similar efforts in other cancer centers, however, the toolset should be enhanced to improve accuracy in certain variables.

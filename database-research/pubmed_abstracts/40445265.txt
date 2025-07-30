@@ -1,0 +1,8 @@
+Although probiotics can modulate immune cell function and secrete antineoplastic metabolites, their clinical application is hindered by inherently poor motility and the accumulation of detrimental metabolites within the tumor microenvironment (TME).
+Herein, a biohybrid nanodevice is designed, which can serve as an adaptive "nano-engine" and "TME-regulator" by engineering clinically relevant probiotics.
+The Lactobacillus reuteri (Lr) can secrete anticancer compounds but is restricted by non-motility and detrimental metabolites, such as hydrogen peroxide and glutathione in the TME.
+These engineered probiotics with Janus structure are prepared by asymmetrically modifying Lr surfaces with PEGylated Fe/Co/Cu/W nanoparticles (Fcw) via electrostatic interactions.
+With catalase-like and S-nitrosoglutathione (GSNO)-degrading activity, Fcw enables the decomposition of hydrogen peroxide and GSNO to generate oxygen and nitric oxide, propelling Lr to overcome complex biological barriers while reducing local hydrogen peroxide levels to enhance Lr survival.
+Importantly, Fcw with glutathione peroxidase-like activity can enhance the oxidative stress induced by Lr, thereby improving the anticancer activity of probiotics.
+Therefore, the design can not only enhance the Lr motility to increase tumor infiltration but also modulate the TME to improve probiotic viability and efficiency.
+This method can also be adopted for other probiotics and will certainly promote the design of nanoengine-powered probiotics-mediated therapy.

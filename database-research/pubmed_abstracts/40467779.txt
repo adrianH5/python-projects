@@ -1,0 +1,7 @@
+Breast cancer, the leading cause of death in females, is profoundly affected by cooperative changes of molecular and pathological characters in fatty acid metabolism.
+To investigate the core molecule of fatty acid metabolism in breast cancer progression, we performed in-silico analyses and found 2,4-Dienoyl-CoA reductase (DECR1) was overexpressed in breast cancer tissues with impaired prognoses of patients.
+In vitro experiments showed that the proliferation and migration of breast cancer cells were significantly inhibited after DECR1 knockdown.
+Multi-omics analyses and metabolite detection indicated that DECR1 knockdown induced cell ferroptosis, and inhibited the production of arachidonic acid (AA) with phosphatidylcholine (PC) accumulation, AA was previously identified as ferroptosis inducer via up-regulating ACSL4, accordingly we found that knocking-down DECR1 increased the expression of ACSL4 with ferroptosis inhibitor GPX4 and SCL7A11downregulation.
+Additionally, we found the expression of phospholipase A2, group XIIA (PLA2G12A), a key enzyme in metabolic regulation of PC to AA, was elevated in DECR1 knocking-down cells.
+Further, by computer aided virtual screening, we identified various compounds with DECR1 targeting properties, and verified-Erigoster B, exerts antitumor effects by promoting ferroptosis.
+In conclusion, DECR1 could be a candidate target for breast cancer, and the DECR1 inhibitor Erigoster B can be a potential drug to exert therapeutic effect on breast cancer.

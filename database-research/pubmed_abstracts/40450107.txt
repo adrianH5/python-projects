@@ -1,0 +1,9 @@
+Colon adenocarcinoma (COAD) is one of the most prevalent malignancies worldwide and its prognosis is extremely poor.
+Angiogenesis has been linked to clinical outcomes, tumor progression, and treatment sensitivity.
+However, the role of angiogenesis in the COAD microenvironment and its interaction with immunotherapy remains unclear.
+In this study, an integrative machine learning approach, including ten algorithms, was used to construct a prognostic consensus angiogenesis-related signature (CARS) for COAD.
+The optimal CARS constructed using the RSF + StepCox [forward] algorithm had superior performance for clinical prognostic prediction and served as an independent risk predictor for COAD.
+Patients in the low-CARS group, characterized by immune activation, elevated tumor mutation/neoantigen burden, and greater responsiveness to immunotherapy, had a superior prognosis.
+Patients in the high-CARS group exhibited a poor prognosis with higher angiogenesis activity and immunosuppressive status, indicating lower immunotherapy benefits.
+However, axitinib and olaparib may be promising treatment options for such patients.
+Taken together, we constructed a prognostic CARS that provides prognostic stratification and elucidates the characteristics of the tumor microenvironment, which might guide the selection of personalized treatments for patients with COAD.

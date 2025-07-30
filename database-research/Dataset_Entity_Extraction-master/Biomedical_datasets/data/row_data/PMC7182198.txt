@@ -1,0 +1,95 @@
+This was later attributed to a novel coronavirus (the COVID-19 virus), and represents the third major zoonotic human coronavirus of this century [31]:
+On February 28, 2020, the World Health Organization set the COVID-19 risk assessment for regional and global levels to “Very High” [32].
+From analyses employing whole genome to viral protein-based comparisons, the COVID-19 virus is thought to belong to lineage B (Sarbecovirus) of Betacoronavirus.
+From phylogenetic analysis of the RdRp protein, spike proteins, and full genomes of the COVID-19 virus and other coronaviruses, it was found that the COVID-19 virus is most closely related to two bat SARS-like coronaviruses, bat-SL-CoVZXC21 and bat-SL-CoVZC45, found in Chinese horseshoe bats Rhinolophus sinicus [12, 33–37].
+Along with the phylogenetic data, the genome organization of the COVID-19 virus was found to be typical of lineage B (Sarbecovirus) Betacoronaviruses [33].
+From phylogenetic analysis of full genome alignment and similarity plots, it was found that the COVID-19 virus has the highest similarity to the bat coronavirus RaTG13 [38].
+Within the COVID-19 virus sequences, over 99% sequence similarity and a lack of diversity within these strains suggest a common lineage and source, with support for recent emergence of the human strain [12, 31].
+There is ongoing debate whether the COVID-19 virus arose following recombination with previously identified bat and unknown coronaviruses [39] or arose independently as a new lineage to infect humans [38].
+In combination with the identification that the angiotensin converting enzyme 2 (ACE2) protein is a receptor for COVID-19 virus, as it is for SARS and other Sarbecovirus strains, the hypothesis that the COVID-19 virus originated from bats is deemed very likely [12, 33, 35, 38, 40–44].
+In this study, we use MLDSP [50] and MLDSP-GUI [51] with CGR as a numerical representation of DNA sequences to assess the classification of the COVID-19 virus from the perspective of machine learning-based alignment-free whole genome comparison of genomic signatures.
+Using MLDSP and MLDSP-GUI, we confirm that the COVID-19 virus belongs to the Betacoronavirus, while its genomic similarity to the sub-genus Sarbecovirus supports a possible bat origin.
+The Wuhan seafood market pneumonia virus (COVID-19 virus/SARS-CoV-2) isolate Wuhan-Hu-1 complete reference genome of 29903 bp was downloaded from the National Center for Biotechnology Information (NCBI) database on January 23, 2020.
+All of the available 28 sequences of COVID-19 virus and the bat Betacoronavirus
+RaTG13 from the GISAID platform, and two additional sequences (bat-SL-CoVZC45, and bat-SL-CoVZXC21) from the NCBI, were downloaded on January 27, 2019.
+Accession numbers for all the sequences used in this study can be found in S1 File of S2 and S3 Tables.
+The trained machine learning models are then used to test the COVID-19 virus sequences.
+To determine whether there is a correlation between k-mer frequencies in COVID-19 virus genomes and specific taxonomic groups, a Spearman’s rank correlation coefficient test is conducted for k = 1 to k = 7.
+Table 1 provides the details of three datasets Test-1, Test-2, Test-3a and Test-3b used for analyses with MLDSP-GUI.
+Each dataset’s composition (clusters with number of sequences), the respective sequence length statistics, and results of MLDSP-GUI after applying 10-fold cross-validation as classification accuracy scores are shown.
+As shown in Table 1, for the first test (Test-1), we organized the dataset of sequences into 12 clusters (11 families, and Riboviria realm).
+After filtering out the sequences, our pre-processed dataset is left with 3273 sequences organized into 12 clusters (Adenoviridae, Anelloviridae, Caudovirales, Geminiviridae, Genomoviridae, Microviridae, Ortervirales, Papillomaviridae, Parvoviridae, Polydnaviridae, Polyomaviridae, and Riboviria).
+All six classification models trained on 3273 sequences were used to classify (predict the labels of) the 29 COVID-19 virus sequences.
+Test-1 classified the COVID-19 virus as belonging to the realm Riboviria.
+The second test (Test-2) is designed to classify the COVID-19 virus among the families of the Riboviria realm.
+We completed the dataset pre-processing using the same rules as in Test-1 and obtained a dataset of 2779 sequences placed into the 12 families (Betaflexiviridae, Bromoviridae, Caliciviridae, Coronaviridae, Flaviviridae, Peribunyaviridae, Phenuiviridae, Picornaviridae, Potyviridae, Reoviridae, Rhabdoviridae, and Secoviridae), see Table 1.
+MLDSP-GUI with CGR at k = 7 as the numerical representation was used for the classification of the dataset in Test-2.
+All six classification models trained on 2779 sequences were used to classify (predict the label of) the 29 COVID-19 virus sequences.
+Test-2 correctly predicted the family of the COVID-19 virus sequences as Coronaviridae.
+The third test (Test-3a) is designed to classify the COVID-19 virus sequences at the genus level.
+MLDSP-GUI with CGR at k = 7 as the numerical representation was used for the classification of the dataset in Test-3a.
+All six classification models trained on 208 sequences were used to classify (predict the label of) the 29 COVID-19 virus sequences.
+All six classification models trained on 60 sequences were used to classify the 29 COVID-19 virus sequences.
+Given confirmation that the COVID-19 virus belongs to the Betacoronavirus genus, there now is a question of its origin and relation to the other viruses of the same genus.
+To examine this question, we preprocessed our dataset from our third test to keep the sub-clusters of the Betacoronavirus with at least 10 sequences (Test-4).
+All six classifiers trained on 124 sequences predicted the label as Sarbecovirus, when used to predict the labels of 29 COVID-19 virus sequences.
+For Test-5, we added the COVID-19 virus with 29 sequences as the fifth cluster, see Table 3.
+In the MoDMap3D plot from Test-5, COVID-19 virus sequences are placed in a single distinct cluster, see Fig 2(b).
+As visually suggested by the MoDMap3D (Fig 2(b)), the average inter-cluster distances confirm that the COVID-19 virus sequences are closest to the Sarbecovirus (average distance 0.0556), followed by Merbecovirus (0.0746), Embecovirus (0.0914), and Nobecovirus (0.0916).
+The three closest sequences based on the average distances from all COVID-19 virus sequences are RaTG13 (0.0203), bat-SL-CoVZC45 (0.0418), and bat-SL-CoVZXC21 (0.0428).
+For Test-6, we classified Sarbecovirus (47 sequences) and COVID-19 virus (29 sequences) clusters and achieved separation of the two clusters visually apparent in the MoDMap3D, see Fig 2(c).
+We generated phylogenetic trees (UPGMA and neighbor-joining) based on all pairwise distances for the dataset in Test-6 that show the separation of the two clusters and relationships within the clusters (Figs 3 and 4).
+As observed in Test-5, the phylogenetic trees show that the COVID-19 virus sequences are closer to the Betacoronavirus
+RaTG13 sequence collected from a bat host.
+The CGR plots visually suggest and the pairwise distances confirm that the genomic signature of the COVID-19 virus Wuhan-Hu-1 (Fig 5(a)) is closer to the genomic signature of the BetaCov-RaTG13 (Fig 5(b); distance: 0.0204), followed by the genomic signatures of bat-SL-CoVZC45 (Fig 5(c); distance: 0.0417), bat-SL-CoVZXC21(Fig 5(d); distance: 0.0428), Alphacoronavirus /DQ811787 PRCV
+ISU-1 (Fig 5(e); distance: 0.0672), Gammacoronavirus / Infectious bronchitis virus NGA /A116E7/2006/FN430415 (Fig 5(f); distance: 0.0791), and Deltacoronavirus / PDCoV / USA / Illinois121 /2014/KJ481931 (Fig 5(g); distance: 0.0851).
+The first test in Fig 6 shows COVID-19 virus being compared to the four genera; Alphacoronavirus, Betacoronavirus, Gammacoronavirus and Deltacoronavirus.
+The COVID-19 virus showed the highest k-mer frequency correlation to Betacoronavirus at k = 7 (Table 4), which is consistent with the MLDSP results in Test-3 (Table 2).
+The COVID-19 virus was then compared to all sub-genera within the Betacoronavirus genus: Embecovirus, Merbecovirus, Nobecovirs and Sarbecovirus seen in Fig 7.
+These tests confirm the findings in MLDSP and are consistent with the COVID-19 virus as part of the sub-genus Sarbecovirus.
+The strongest correlation value was found between Betacoronavirus and Sarbecovirus when using the data sets from Test 3a from Table 2 and Test 4 from Table 3, respectively.
+Prior work elucidating the evolutionary history of the COVID-19 virus had suggested an origin from bats prior to zoonotic transmission [12, 33, 35, 38, 41, 62].
+Most early cases of individuals infected with the COVID-19 virus had contact with the Huanan South China Seafood Market [26–31].
+Still, the early COVID-19 virus genomes that have been sequenced and uploaded are over 99% similar, suggesting these infections result from a recent cross-species event [12, 31, 40].
+These prior analyses relied upon alignment-based methods to identify relationships between the COVID-19 virus and other coronaviruses with nucleotide and amino acid sequence similarities.
+When analyzing the conserved replicase domains of ORF1ab for coronavirus species classification, nearly 94% of amino acid residues were identical to SARS-CoV, yet overall genome similarity was only around 70%, confirming that the COVID-19 virus was genetically different [64].
+Within the RdRp region, it was found that another bat coronavirus, RaTG13, was the closest relative to the COVID-19 virus and formed a distinct lineage from other bat SARS-like coronaviruses [38, 40].
+Other groups found that two bat SARS-like coronaviruses, bat-SL-CoVZC45 and bat-SL-CoVZXC21, were also closely related to the COVID-19 virus [12, 33–37].
+There is a consensus that these three bat viruses are most similar to the COVID-19 virus, however, whether or not the COVID-19 virus arose from a recombination event is still unknown [38–40].
+Regardless of the stance on recombination, current consensus holds that the hypothesis of the COVID-19 virus originating from bats is highly likely.
+Whether or not the COVID-19 virus was transmitted directly from bats, or from intermediary hosts, is still unknown, and will require identification of the COVID-19 virus in species other than humans, notably from the wet market and surrounding area it is thought to have originated from [30].
+Snakes had been proposed as an intermediary host for the COVID-19 virus based on relative synonymous codon usage bias studies between viruses and their hosts [39], however, this claim has been disputed [79].
+China CDC released information about environmental sampling in the market and indicated that 33 of 585 samples had evidence of the COVID-19 virus, with 31 of these positive samples taken from the location where wildlife booths were concentrated, suggesting possible wildlife origin [80, 81].
+Viral outbreaks like COVID-19 demand timely analysis of genomic sequences to guide the research in the right direction.
+The main advantage alignment-free methodology offers is the ability to analyze large datasets rapidly.
+In this study we confirm the taxonomy of the COVID-19 virus and, more generally, propose a method to efficiently analyze and classify a novel unclassified DNA sequence against the background of a large dataset.
+We namely use a “decision tree” approach (paralleling taxonomic ranks), and start with the highest taxonomic level, train the classification models on the available complete genomes, test the novel unknown sequences to predict the label among the labels of the training dataset, move to the next taxonomic level, and repeat the whole process down to the lowest taxonomic label.
+The objective is to train the classification models with the known viral genomes and then predict the labels of the COVID-19 virus sequences.
+The trained models are then used to predict the labels of 29 COVID-19 virus sequences.
+As expected, all classification models correctly predict that the COVID-19 virus sequences belong to the Riboviria realm, see Table 2.
+When the COVID-19 virus sequences are tested using the models trained on Test-2, all of the models correctly predict the COVID-19 virus sequences as Coronaviridae (Table 2).
+All trained classification models correctly predict the COVID-19 virus as Betacoronavirus, see Table 2.
+MLDSP-GUI obtains 100% classification accuracy for this additional test and still predicts all of the COVID-19 virus sequences as Betacoronavirus.
+These tests confirm that the COVID-19 virus sequences are from the genus Betacoronavirus.
+All of the classification models trained on the dataset in Test-4 predicted the label of all 29 COVID-19 virus sequences as Sarbecovirus.
+This suggests substantial similarity between the COVID-19 virus and the Sarbecovirus sequences.
+Test-5 and Test-6 (see Table 3) are designed to verify that the COVID-19 virus sequences can be differentiated from the known species in the Betacoronavirus genus.
+This shows that although the COVID-19 virus and Sarbecovirus are closer on the basis of genomic similarity (Test-4), they are still distinguishable from known species.
+Therefore, these results suggest that the COVID-19 virus may represent a genetically distinct species of Sarbecovirus.
+All the COVID-19 virus sequences are visually seen in MoDMap3D generated from Test-5 (see Fig 2(b)) as a closely packed cluster and it supports a fact that there is 99% similarity among these sequences [12, 31].
+The MoDMap3D generated from the Test-5 (Fig 2(b)) visually suggests and the average distances from COVID-19 virus sequences to all other sequences confirm that the COVID-19 virus sequences are most proximal to the RaTG13 (distance: 0.0203), followed by the bat-SL-CoVZC45 (0.0418), and bat-SL-CoVZX21 (0.0428).
+The phylogenetic trees placed the RaTG13 sequence closest to the COVID-19 virus sequences, followed by the bat-SL-CoVZC45 and bat-SL-CoVZX21 sequences.
+We further confirm our results regarding the closeness of the COVID-19 virus with the sequences from the Betacoronavirus genus (especially sub-genus Sarbecovirus) by a quantitative analysis based on the Spearman’s rank correlation coefficient tests.
+The COVID-19 virus was compared to all genera under the Coronaviridae family and the k-mer frequencies showed the strongest correlation to the genus Betacoronavirus, and more specifically Sarbecovirus.
+The Spearman’s rank tests corroborate that the COVID-19 virus is part of the Sarbecovirus sub-genus, as shown by CGR and MLDSP.
+Attributes of the COVID-19 virus genomic signature are consistent with previously reported mechanisms of innate immunity operating in bats as a host reservoir for coronaviruses.
+The Spearman’s rank correlation data and the patterns observed in the CGR images from Fig 5, of the coronavirus genomes, including the COVID-19 virus identify patterns such as CG underepresentation, also present in vertebrate and, importantly, bat host genomes.
+Due to the high amino acid similarities between the COVID-19 virus and SARS-CoV main protease essential for viral replication and processing, anticoronaviral drugs targeting this protein and other potential drugs have been identified using virtual docking to the protease for treatment of COVID-19 [29, 43, 44, 92–95].
+The human ACE2 receptor has also been identified as the potential receptor for the COVID-19 virus and represents a potential target for treatment [41, 42].
+MLDSP-GUI took just 10.55 seconds to compute a pairwise distance matrix (including reading sequences, computing magnitude spectra using DFT, and calculating the distance matrix using PCC combined) for the Test-1 (largest dataset used in this study with 3273 complete genomes).
+All of the tests combined (Test-1 to Test-6) are doable in under 10 minutes including the computationally heavy 10-fold cross-validation, and testing of the 29 COVID-19 virus sequences.
+The 2019 novel coronavirus (renamed SARS-CoV-2, and generally referred to as the COVID-19 virus) has spread to 184 countries with over 1.5 million confirmed cases.
+This paper identifies an intrinsic COVID-19 virus genomic signature and uses it together with a machine learning-based alignment-free approach for an ultra-fast, scalable, and highly accurate classification of whole COVID-19 virus genomes.
+These tools are used to analyze a large dataset of over 5000 unique viral genomic sequences, totalling 61.8 million bp, including the 29 COVID-19 virus sequences available on January 27, 2020.
+Our results support a hypothesis of a bat origin and classify the COVID-19 virus as Sarbecovirus , within Betacoronavirus .
+Our method achieves 100% accurate classification of the COVID-19 virus sequences, and discovers the most relevant relationships among over 5000 viral genomes within a few minutes, ab initio , using raw DNA sequence data alone, and without any specialized biological knowledge, training, gene or genome annotations.

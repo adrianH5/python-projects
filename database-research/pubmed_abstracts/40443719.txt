@@ -1,0 +1,7 @@
+The exploration of cell death and cellular senescence (CDS) in cancer has been an area of interest, yet a systematic evaluation of CDS features and their interactions in lung adenocarcinoma (LUAD) to understand tumor heterogeneity, tumor microenvironment (TME) characteristics, and patient clinical outcomes is previously uncharted.
+Our study characterized the activities and interconnections of 21 CDS features in 1788 LUAD cases across 15 cohorts, employing unsupervised clustering to categorize patients into three CDS subtypes with distinct TME profiles.
+The CDS index (CDSI), derived from principal component analysis, was developed to assess individual tumor CDS regulation patterns.
+Twelve CDSI core genes, enriched in proliferating T cells within the TME as per single-cell analysis, were identified and their functional roles and prognostic significance were validated.
+High CDSI correlated with improved overall survival in discovery cohort, four independent validation cohorts, and subgroup analysis.
+CDSI-low patients exhibited a favorable clinical response to immunotherapy and potential sensitivity to mitosis pathway drugs, while CDSI-high patients might benefit from drugs targeting ERK/MAPK and MDM2-p53 pathways.
+The clinical utility of CDSI was further validated using 9185 pan-cancer samples, demonstrating the broad relevance of our prediction model across various cancer types and its potential clinical implications for cancer management.

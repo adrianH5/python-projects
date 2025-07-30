@@ -1,0 +1,6 @@
+Beyond its function in transcription initiation, the Mediator complex coordinates the processes of transcription elongation and mRNA splicing.
+Here, we report that Mediator associates with the cleavage and polyadenylation specificity factor (CPSF) complex in the pre-mRNA 3' end processing machinery, partially through the MED23-FIP1 connection, for control of transcription termination in human cells.
+We observed the physical association and coordinated occupancy of MED23 and FIP1 at both promoter and terminator regions and found that MED23 directly binds to hundreds of 3' mRNAs.
+Depleting MED23 or FIP1 or overexpressing the intrinsically disordered regions (IDRs) of FIP1 compromised the Mediator-CPSF association and reduced the genomic occupancy of CPSF.
+Consequently, MED23 deficiency led to hundreds of readthrough events and fusion transcripts, and the 3' RNA binding of MED23 is critical for the transcription termination regulation.
+Moreover, integrative analysis revealed that MED23 deficiency contributed to readthrough events in breast cancers, thus providing critical molecular insights into carcinogenesis.

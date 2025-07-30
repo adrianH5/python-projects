@@ -1,0 +1,9 @@
+The cytokine-signaling inhibitor ruxolitinib causes disease flares of chronic lymphocytic leukemia (CLL).
+This tumor-promoting activity correlates with its ability to inhibit interleukin (IL)-10 production by CLL B cells that have been activated with IL-2 and the Toll-like receptor 7 (TLR7) agonist resiquimod (called 2S cells) in vitro.
+In TLR-activated normal human B cells, IL-10 production is regulated by cholesterol biosynthesis and can be inhibited by statins.
+The goal of this study was to determine if statins affect IL-10 production by 2S cells.
+Lipophilic statins decreased IL-10 production from 2S CLL cells by inhibiting activation of MYC along with secondary signaling events that amplify and maintain IL10 transcription.
+IL-10 production was restored when the prenylation defect imposed by statins was corrected by adding geranylgeranyl pyrophosphate.
+CLL cells activated by ruxolitinib in vivo were enriched with genes associated with prenylation inhibition in TLR-activated human B cells in vitro.
+These findings suggest IL-10 production by 2S-activated CLL cells is regulated by cholesterol biosynthesis in part through geranylgeranyl pyrophosphate production and substrate prenylation.
+If IL-10 production in the 2S model constitutes a surrogate test for drug responses in vivo, realization of the potential clinical benefits of statins in CLL may require coadministration of other agents.

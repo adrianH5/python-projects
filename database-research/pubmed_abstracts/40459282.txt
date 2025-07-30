@@ -1,0 +1,9 @@
+Large congenital melanocytic nevi/nevus (LCMN) are caused by genetic events that activate the mitogen-activated protein kinase (MAPK) and extracellular signal-regulated kinase (ERK) pathway.
+Individuals with LCMN are prone to developing aggressive melanomas during childhood.
+Targeted therapies are needed to treat this form of melanoma and manage LCMN symptoms such as pruritus and pain, which significantly impact quality of life.
+Here, we present the first case of an LCMN with an NTRK fusion driver event.
+The patient presented with an atypical proliferative nodule arising in the background nevus.
+RNA sequencing of the proliferative nodule with background nevus identified a pathogenic LMNA::NTRK1 fusion.
+The fusion resulted in constitutive expression of TrkA, demonstrated by strong cytoplasmic pan-TRK staining, along with activation of the MAPK/ERK pathway, as indicated by positive nuclear and cytoplasmic staining for phosphorylated ERK.
+The background nevus beneath the proliferative nodule also expressed pan-TRK and phosphorylated ERK, suggesting that the NTRK1 fusion occurred prior to the formation of the proliferative nodule.
+This case broadens the spectrum of driver events for LCMN and suggests that screening for TRK fusions in LCMN should be considered when systemic therapy is being considered for melanoma or symptom management.

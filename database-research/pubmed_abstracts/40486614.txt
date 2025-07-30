@@ -1,0 +1,9 @@
+Neutrophils, key components of the innate immune system, have emerged as pivotal players in the tumor microenvironment (TME), particularly in breast cancer.
+These versatile cells contribute to both pro-tumorigenic and anti-tumorigenic processes through inflammatory signaling pathways that influence tumor progression, immune evasion, and therapeutic responses.
+Their recruitment to the TME, mediated by chemokines such as CXCL1 and CXCL8, and their subsequent activation underscore their complex role in breast cancer biology.
+Neutrophil extracellular traps, cytokine secretion, and reactive oxygen species production further highlight their dualistic nature in cancer pathophysiology.
+Critical inflammatory signaling pathways, including nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB), Janus kinase/signal transducer and activator of transcription (JAK/STAT), mitogen-activated protein kinase (MAPK), and phosphatidylinositol 3-kinase (PI3K)/AKT, regulate neutrophil activity in breast cancer.
+Dysregulation of these pathways can lead to the promotion of angiogenesis, immune suppression, and metastasis.
+For example, the NF-κB pathway fosters the secretion of pro-inflammatory cytokines, while JAK/STAT signaling drives the differentiation of tumor-associated neutrophils.
+The MAPK and PI3K/AKT pathways influence neutrophil survival and chemotactic responses, further enhancing their contribution to the tumor-supportive microenvironment.
+Understanding these mechanisms provides a framework for therapeutic intervention.

@@ -1,0 +1,10 @@
+The persistence of drug resistance and relapses post-remission in B-chronic lymphocytic leukemia (B-CLL) underscores the exploration of novel therapeutic interventions.
+Given the pivotal role of autophagy in cancer cell resistance to apoptosis, this study aims to investigate the therapeutic potential of Berberine in modulating autophagy function associated with drug resistance in B-CLL.
+Peripheral blood mononuclear cells (PBMCs) from 10 CLL patients and 5 healthy individuals were treated with Berberine and Idelalisib (as a control).
+Flow cytometry analysis was employed to assess the protein expression levels of Beclin1, indicative of autophagy function, and high mobility group protein 1 (HMGB1), serving as an internal control for drug resistance.
+Furthermore, qRT-PCR was utilized to measure the expression levels of drug resistance markers including Beclin1, HMGB1, heat shock factor binding protein 1 (HSBP1), and receptor for advanced glycation end products (RAGE).
+Our findings revealed that Berberine exhibited a dual suppressive effect on Beclin1 and HMGB1 levels compared to the control drug.
+Moreover, Berberine downregulated the expression of the primary HMGB1 receptor, RAGE, in PBMCs from CLL patients.
+Notably, no significant alteration was observed in HSBP1 expression, a mediator of autophagy induction, upon Berberine treatment.
+These findings suggest that Berberine may target specific mechanisms associated with autophagy-mediated drug resistance, underscoring its therapeutic potential in B-CLL.
+Further clinical trials are warranted to validate the therapeutic efficacy of Berberine in B-CLL.

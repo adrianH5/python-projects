@@ -1,0 +1,3 @@
+A paradigm of childhood cancers is that they have a low mutation burden, with some ostensibly bearing fewer mutations than the normal tissues from which they derive.
+We set out to resolve this paradox by examining paediatric renal cancers with exceptionally few mutations using high resolution, high depth sequencing approaches.
+We find that apparent hypomutation is the result of unusual clonal architecture due to a normal tissue-like mode of tumour evolution, raising the possibility that the mutation burden of some cancers has been systematically misjudged.

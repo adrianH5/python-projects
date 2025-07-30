@@ -1,0 +1,11 @@
+Capillary electrophoresis-mass spectrometry (CE-MS) is a powerful tool for the separation and characterization of a wide range of biomolecules with the joint merits of both CE separation and MS detection; yet its potential in multiplexed microRNAs (miRNAs) analysis remains relatively underdeveloped, owing to their extremely low expression level and high family sequence homology in complex biological matrices.
+To address these limitations, we develop an integrated microreactor-assisted CE-MS platform that enables signal amplification and automated sample processing.
+Specifically, the uniquely-designed RNA-immobilized capillary microreactor (RNA-IMR) is fabricated at the inlet of a capillary and the successive CE-MS analysis is performed via the outlet of the same capillary as the electrospray ionization (ESI) source.
+Target miRNAs are converted into large amount of single-stranded DNAs (ssDNAs, hereafter referred to as outputDNAs) containing poly(adenine) or poly(guanine) segments with the T7 Exo mediated recycling amplification.
+The resultant outputDNAs are subsequently injected into the capillary, specifically recognized by the immobilized RNAs.
+The captured outputDNAs then undergo acid-catalyzed depurination to hydrolyze glycosidic bonds in the poly(adenine) or poly(guanine) segments, releasing free adenine (A) or guanine (G) as signaling molecules.
+These small nucleobases exhibit high ionization efficiency in MS due to their low molecular weight and polarity, enabling direct MS detection without labeling.
+The proposed RNA-IMR CE-MS integrates purification/pre-concentration, signal conversion, CE separation and MS detection with one injection, with reduced preparation time compared to RT-qPCR and improved multiplexing compared to hybridization-based methods.
+Using miRNA-21 and miRNA-155 as model targets, we show that the method exhibits detection limits in the low femtomolar range and specificity for multiplexing detection of miRNAs.
+The method is successfully applied to simultaneously detect miRNA-21 and miRNA-155 levels in MCF-7, HepG2 cancer cells and HL-7022 cells, showing its potential value in clinical applications.
+By bridging enzymatic signal amplification with automated CE-MS analysis, our study establishes a generalizable framework for the utilization of CE-MS as a universal method for highly sensitive miRNA assays.

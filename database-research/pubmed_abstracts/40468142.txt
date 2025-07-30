@@ -1,0 +1,10 @@
+The decision to admit patients to the intensive care unit (ICU) can be difficult, especially when it is unclear which patients will benefit the most.
+Therefore, identifying the determinants of complications can aid in patient therapy.
+The aim of this study was to evaluate the characteristics of patients who were admitted late to the ICU and identify the main factors that contribute to their admission.
+This case‒control study was conducted in a tertiary hospital and included 4 years of follow-up (using medical records).
+The study included patients who were at risk for deterioration and admitted to clinical wards.
+The main measure, whether ICU admission was needed or not, was compared among the patients.
+We included 170 patients aged 60.6 ± 13.6 years.
+The multivariate analysis revealed that the qSOFA and CCI values were independent factors in determining whether a patient required ICU admission (OR = 8.25, CI 95% = 4.4-15.3 and OR = 1.37, CI 95% = 1.03-1.82, respectively); the ROC value was 0.89 (95% CI 0.83-0.93).
+The Cox regression model used to assess 90-day survival revealed that only the qSOFA value was strongly associated with shorter survival (qSOFA = 1, HR = 9.42, P = 0.03; qSOFA = 2, HR = 17.7, P = 0.005; and qSOFA = 3, HR = 73.7, P < 0.001).
+Although selecting high-risk patients for ICU admission is a difficult task, the qSOFA score appears to be a useful tool for differentiating patients.

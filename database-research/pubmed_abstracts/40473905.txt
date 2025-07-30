@@ -1,0 +1,9 @@
+The human epidermal growth factor receptor 2 (HER2, also known as ERBB2) is a commonly over-expressed oncoprotein in oesophageal adenocarcinoma (OAC).
+Nonetheless, HER2-blocking agents have failed to significantly improve the outcome for OAC patients, despite achieving striking clinical success in breast cancer.
+To address this conundrum, we investigated how resistance progressively emerges when HER2 is targeted.
+We discovered that OAC cell lines that are capable of surviving in the presence of the dual HER1/HER2 tyrosine kinase inhibitor lapatinib exhibit a significant increase in the protein level of nuclear factor erythroid 2-related factor 2 (NRF2).
+Indeed, NRF2 knockdown enhanced the cytotoxic effect of lapatinib, while increased NRF2 expression in OAC cells reduced their sensitivity to HER inhibition.
+Furthermore, prolonged overexpression of NRF2 made OAC cell lines increasingly dependent on NRF2 for growth.
+Further analyses indicated that the activation of NRF2-mediated transcription that was associated with lapatinib-induced persistent and resistant phenotypes coincided with a subsequent increase in glutathione metabolism.
+Importantly, lapatinib resistant OAC xenografts become exquisitely sensitive to pharmacological inhibition of the NRF2 pathway.
+Together, these findings highlight a promising therapeutic strategy for treating refractory OAC by targeting the NRF2 pathway in combination with receptor tyrosine kinase inhibition.

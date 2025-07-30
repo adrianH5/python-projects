@@ -1,0 +1,53 @@
+From its origin in Wuhan, China, in December 2019, the novel coronavirus disease, COVID‐19, caused by severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) virus, has spread rapidly throughout the world [1].
+In Israel, the first case of the COVID‐19 infection was reported on February 21st, 2020.
+On March 11th, 2020, the World Health Organization (WHO) declared COVID‐19 disease a global pandemic [2].
+Immediate targeted actions were needed to identify risk factors of COVID‐19.
+In particular, the pronounced impact of vitamin D metabolites on the immune system response, and on the development of COVID‐19 infection by the novel SARS‐CoV‐2 virus, has been described [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15].
+Therefore, we aimed to determine associations between low plasma 25(OH)D and the risk of COVID‐19 infection and hospitalization, using real‐world Israeli population‐based data.
+We hypothesized that the mean plasma level of 25(OH)D would be significantly lower and, accordingly, the rate of suboptimal plasma 25(OH)D levels would be found frequently among persons testing positive for COVID‐19 infection, and among persons subsequently hospitalized, in a large population‐based epidemiological study.
+Of 14 022 subjects, aged 2 months to 103 years, who were tested for COVID‐19 infection, 1416 (10.1%) had at least one positive result; 12 606 (89.9%) had only negative results (Fig. 1).
+Also for this sample, the proportion of infected individuals was 10.02% (782/7807) for COVID‐19‐positive (COVID‐19‐P), and 7025 (89.98%) for COVID‐19‐negative (COVID‐19‐N; Fig. 1).
+We run an univariate logistic regression analysis, assessing the odds ratio (OR) for COVID‐19 infections and different categories of plasma 25 (OH) D levels (Table 1).
+In a primary univariate analysis, COVID‐19‐P subjects were younger, and more likely to be males and to reside in a lower socioeconomic status (SES) area than were COVID‐19‐N subjects (Table 2).
+The mean plasma 25(OH)D level was significantly lower for COVID‐19‐P subjects (Table 2), and the proportion of individuals with low vitamin D levels was higher (89.90% vs. 84.91%, P < 0.001; Table 3).
+Interestinly, the prevalence of dementia, hypertension, cardiovascular disease and chronic lung disorders was greater among persons who were COVID‐19‐N than those who were COVID‐19‐P (P < 0.05, P < 0.001, P < 0.001, P < 0.001; Table 3).
+Multivariate analysis, after controlling for the demographic variables, and psychiatric and somatic disorders, demonstrated an independent and significant association between the low 25(OH)D levels and the increased likelihood of COVID‐19 infection [adjusted OR of 1.50 (95% confidence interval (CI): 1.13–1.98, P < 0.001); Fig. 2A].
+The risk of COVID‐19 infection was independently positively associated with being male [adjusted OR of 1.49 (95% CI: 1.24–1.79, P < 0.05)], aged older than 50 years [adjusted OR of 1.56 (95% CI: 1.26–1.92, P < 0.05)] and residing in a low–medium SES city or town [adjusted OR of 2.06 (95% CI: 1.65–2.59, P < 0.001)] (Fig. 2B).
+Independent negative associations were observed between the risk of COVID‐19 infection and having a diagnosis of dementia [adjusted OR of 0.56 (95% CI: 0.32–0.98, P < 0.05], of cardiovascular disease [adjusted OR of 0.59 (95% CI: 0.44–0.79 P < 0.001] and of a chronic lung disorder [adjusted OR of 0.58 (95% CI: 0.42–0.79 P < 0.001] (Table 4).
+Interestingly, the hospitalized COVID‐19‐P individuals were older [58.69 years (95% CI: 54.78‐62.61) vs. 46.88 (95% CI: 46.42–47.35)], and more likely to be male (47.8% vs. 41.3%, P < 0.001) and to reside in a city or town of low–medium SES (73.64% vs. 69.45%, P < 0.001).
+In a univariate analysis, a low plasma 25(OH)D level was associated with an increased likelihood of hospitalization for COVID‐19 infection [crude OR of 2.09 (95% CI: 1.01–4.31, P < 0.05)].
+Therefore, in this analysis, only age over 50 years was statistically significant associated with the likelihood for hospitalization due to COVID‐19 [adjusted OR of 2.71(95% CI: 01.55‐ 4.78, P < 0.001); Table 5 and Fig. 3].
+The main finding of this study was the low plasma 25(OH)D level association with COVID‐19 hospitalization as a risk factor, particularly, for patients tested positively for COVID‐19, after adjusting for age, gender, SES and chronic, mental and physical disorders.
+Hence, low 25(OH)D level was identified as independently associated with the likelihood of COVID‐19 infection.
+Notably, a recent study from the UK [31, 32, 33] that included 449 subjects (from the UK Biobank) with confirmed COVID‐19 infection did not find an association between vitamin D metabolite concentration and the risk of viral infections [45] as well as COVID‐19 infection [5, 7, 9, 10, 11, 12, 13, 14, 15, 19, 30, 31, 32, 33, 34, 35, 36, 37, 39, 40, 41, 42, 46].
+According to our analysis, persons with COVID‐19‐P were younger than noninfected ones.
+Two‐peak distributions for age groups were demonstrated to confer increased risk for COVID‐19: ages 25 years old and 50 years old (Fig. 4).
+Other clinical characteristics that were significantly linked to the likelihood of COVID‐19 infection included male gender and low residential SES.
+Despite its being discussed as a risk factor in prior publications [47, 48, 49], obesity had not been significantly associated with either an increased risk for COVID‐19 infection or with hospitalization due to COVID‐19 in this study.
+Two‐peak age groups as a high risk for COVID‐19: ages 25 and 50 years old (red bars).
+This might indeed minimize the risk of COVID‐19 infection in that particular group of patients.
+Finally, in a subset analysis of only COVID‐19‐P subjects, hospitalized patients were significantly older (58.69 vs. 46.88 years).
+To conclude, the plasma 25(OH)D level under 20 ng/mL almost doubled the risk for hospitalization due to the COVID‐19 infection in the Israeli studied cohort.
+An additional strength was the analysis of a multitude of variables that may affect the risk of COVID‐19 infection, independent of plasma 25(OH)D levels.
+However, the major weakness of the study was the retrospective database design.
+Data regarding COVID‐19 symptoms and the hospitalization due to COVID‐19 infection, and also adverse clinical outcomes (for example, mechanical ventilation) should be further assessed.
+Therefore, our study found that suboptimal plasma vitamin D levels may be a potential risk factor for COVID‐19 infection, particularly, for the high hospitalization risks, independent of demographic characteristics and medical conditions.
+The finding is important, since it could guide healthcare systems in identifying populations at risk, and contribute to interventions aimed to reduce the risk of the COVID‐19 infection.
+More studies are required to assess the effects of vitamin D3 supplements on the risk of hospitalizations due to COVID‐19 infection.
+We conducted a population‐based study utilizing data from the Leumit Health Services (LHS) database, a large health maintenance organization in Israel that provides services to around 730 000 members nationwide.
+The comprehensive computerized database of LHS is continuously updated with regard to demographics, medical visits, laboratory tests and hospitalizations.
+The study population included all members of LHS who were tested for COVID‐19 infection during the study period and who had at least one previous test for plasma 25(OH)D level (7807 subjects).
+COVID‐19 testing was done only by physician referral (based on clinical criteria of exposure to confirmed COVID‐19 patients or symptoms suggesting COVID‐19) using the AllplexTM 2019‐nCoV Assay (Seegene Inc., Seoul, Korea) [23].
+Data of each subject were collected from the LHS computerized database and included age, gender, SES, weight, height, BMI, current smoking status, psychiatric and somatic comorbidities, and hospitalizations as a result of the COVID‐19 infection.
+The aim of this study was to evaluate associations of plasma 25(OH)D levels with the likelihood of coronavirus disease 2019 (COVID‐19) infection and hospitalization.
+The study population included the 14 000 members of Leumit Health Services, who were tested for COVID‐19 infection from February 1 st to April 30 th , 2020, and who had at least one previous blood test for the plasma 25(OH)D level.
+Of 7807 individuals, 782 (10.02%) were COVID‐19‐positive, and 7025 (89.98%) COVID‐19‐negative.
+The mean plasma vitamin D level was significantly lower among those who tested positive than negative for COVID‐19 [19.00 ng/mL (95% confidence interval (CI) 18.41–19.59) vs. 20.55 (95% CI: 20.32–20.78)].
+Univariate analysis demonstrated an association between the low plasma 25(OH)D level and increased likelihood of COVID‐19 infection [crude odds ratio (OR) of 1.58 (95% CI: 1.24–2.01, P < 0.001)], and of hospitalization due to the SARS‐CoV‐2 virus [crude OR of 2.09 (95% CI: 1.01–4.30, P < 0.05)].
+In multivariate analyses that controlled for demographic variables, and psychiatric and somatic disorders, the adjusted OR of COVID‐19 infection [1.45 (95% CI: 1.08–1.95, P < 0.001)] and of hospitalization due to the SARS‐CoV‐2 virus [1.95 (95% CI: 0.98–4.845, P = 0.061)] were preserved.
+In the multivariate analyses, age over 50 years, male gender and low–medium socioeconomic status were also positively associated with the risk of COVID‐19 infection; age over 50 years was positively associated with the likelihood of hospitalization due to COVID‐19.
+We concluded that low plasma 25(OH)D levels appear to be an independent risk factor for COVID‐19 infection and hospitalization.
+Vitamin D deficiency is recognized as a significant health concern in which there is heightened interest because of the potential impact on COVID‐19 risk.
+In a landmark study involving a large Israeli population, Milana Morgenstern and colleagues found that the plasma level of vitamin D is lower among individuals who have tested positive for COVID‐19 and have been hospitalized.
+This indicates that low vitamin D status is an independent risk factor for severe COVID‐19; male gender and low‐medium socioeconomic status were also shown to be positively associated with the risk of infection.
+Moreover, age (being > 50 years old) was associated with COVID‐19 hospitalization.

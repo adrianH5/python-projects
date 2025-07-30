@@ -1,0 +1,13 @@
+Bisphenols are widely found in plastic products and may be hazardous to human health due to their estrogenic effects.
+Bisphenols may be involved in the carcinogenic process through endocrine-disrupting properties, especially in breast cancer.
+However, the specific targets and mechanisms of bisphenols remain unclear.
+By integrating network toxicology, transcriptomics, and molecular docking technology, this study aims to methodically identify the possible targets and mechanisms of five bisphenols in causing breast cancer.
+Targets linked to breast cancer were screened using the disease database, and bisphenols targets were screened using the compound and its prediction database.
+Ultimately, 424 targets associated with bisphenols and breast cancer were selected.
+With the STRING database, Cytoscape, and enrichment analysis, 12 core targets were identified, which are predominantly engaged in chemical carcinogenesis - receptor activation and estrogen signaling pathway.
+Furthermore, 26 common differentially expressed genes, including the core target PGR, were found by transcriptomic analysis in human breast cancer cells exposed to four bisphenols.
+Molecular docking showed that the PGR protein and five bisphenols had the lowest binding energy (-7.7 ∼ -7.0 kcal/mol) and the highest binding affinity.
+This study suggests that bisphenols may bind to PGR and induce its expression, thus contributing to breast carcinogenesis.
+This may happen via chemical cancer-receptor activation, estrogen signaling pathway, and endocrine resistance pathway.
+This study offers a theoretical basis for disease prevention and control besides providing a new perspective on the pathogenic mechanism of environmental pollutants.
+It also promotes the application of the integrated research strategy of network toxicology, bioinformatics, and molecular docking technology in environmental pollutants research.

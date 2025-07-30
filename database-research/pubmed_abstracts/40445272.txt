@@ -1,0 +1,1 @@
+This study aimed to evaluate the image quality and clinical utility of a deep learning reconstruction (DLR) algorithm in ultra-high-resolution computed tomography (UHR-CT) for the diagnosis of pancreatic cystic neoplasms (PCNs).

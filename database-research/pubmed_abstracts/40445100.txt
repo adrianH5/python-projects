@@ -1,0 +1,10 @@
+Purpose To develop and evaluate a novel deep learning-based approach for registering presurgical MR and whole-mount histopathology (WMHP) images of the prostate.
+Materials and Methods This retrospective study included patients who underwent prostate MRI before radical prostatectomy between July 2016 and June 2020.
+High-resolution ex vivo MRI was used as a reference to assess the structural relationship between in vivo MRI and WMHP.
+An Anatomy-Aware Morph model, a hybrid attention and convolutional neural network-based approach, was developed for multimodality prostate image registration.
+The pipeline included a module to estimate and correct distortion and motion between the prostate specimen and outside the human body.
+The dataset was divided into 270 and 45 patients for training and testing, respectively.
+Registration accuracy was evaluated using Dice similarity coefficient (DSC), Hausdorff distance, and target registration error.
+Results The proposed approach was validated using 160 images extracted from 45 male patients in the testing dataset with the average age ± SD of 64.0 years ± 6.6.
+The method achieved a DSC and Hausdorff distance of 0.95 ± 0.06 and 1.84 mm ± 0.38.
+The two-dimensional target registration errors between 90 sets of landmarks on in vivo MR images and WMHP images were 3.93 mm ± 0.80 and 1.18 mm ± 0.28 before and after registration (

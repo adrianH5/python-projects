@@ -1,0 +1,5 @@
+Paracetamol has been used for decades to relieve mild-to-moderate pain.
+Its analgesic effect is mainly attributed to its metabolite, AM404, acting on cannabinoid receptors or TRPV1 channels in central nervous system (CNS) neurons.
+Here, we show that AM404 is produced by primary sensory neurons.
+It inhibits sodium current in nociceptor neurons, blocking action potential (AP) generation and reducing nocifensive behavior in naïve and inflamed rats.
+We demonstrated that this analgesic effect of AM404 is mediated by its direct inhibition of nociceptive voltage-gated sodium channels (Na

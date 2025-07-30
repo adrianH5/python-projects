@@ -1,0 +1,8 @@
+The identification of specific miRNA biomarkers has considerably advanced colorectal cancer (CRC) diagnostics.
+Our prior research identified four key miRNA signatures-miR-10b-5p, miR-130a-3p, miR-561-5p, and miR-4684-5p-as potential diagnostic markers for CRC.
+To enhance the clinical utility of these biomarkers, we developed a novel multi-miRNA detection platform, RCA-SDA-CRISPR (RS-CRISPR), which integrates rolling circle amplification (RCA), strand displacement amplification (SDA), and CRISPR/Cas12a technologies.
+This platform employs RCA products as SDA templates, maximizes miRNA binding sites, and utilizes the spatial arrangement of miRNAs to bypass limitations of traditional enzymatic cleavage, enabling rapid, simultaneous detection of multiple miRNAs.
+RS-CRISPR achieved a detection sensitivity of 57.8fM for target miRNAs.
+In clinical validation, this method successfully distinguished tumor tissue from adjacent non-cancerous tissue in five patients with CRC.
+In addition, during the serum analysis of 12 normal controls (NC) and 12 CRC patients, we found that the levels of four specific miRNAs were significantly higher in CRC patients compared to NC (p = 0.00646), underscoring its diagnostic potential.
+These findings establish RS-CRISPR as a promising, precise, and efficient diagnostic tool for clinical CRC management through multi-miRNA detection.

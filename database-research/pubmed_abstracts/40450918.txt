@@ -1,0 +1,9 @@
+Immune checkpoint blockade (ICB) is a tumor therapy that leverages the activation mechanisms of T cells in the immune system.
+A key challenge in ICB is poor T-cell infiltration and low tumor immunogenicity.
+Immunogenic cell death (ICD) can increase tumor immunogenicity and make tumors more sensitive to ICB.
+Programmed death ligand 1 (PD-L1) a major target for ICB.
+In this paper, a novel carbon nitride/methyl pyrophaeophorbide a‑copper/folate (abbreviated as CNMCF) nanocomposite was prepared for induced ICD.
+In CNMCF nanostructures, methyl pyrophaeophorbide a (MPPa) serves as the photodynamic therapy (PDT) agent, and copper ion serves as the chemodynamic therapy (CDT) agent.
+CNMCF not only induced ICD, but also alleviated tumor hypoxia.
+This led to down-regulation of hypoxia-inducing factor (HIF-1α) and PD-L1, promoted T lymphocyte invasion, effectively enhanced tumor immunogenicity, and elicited strong anti-tumor immune response, thereby suppressing primary tumor growth and metastasis.
+This research expanded the application of natural chlorophyll derivatives and C

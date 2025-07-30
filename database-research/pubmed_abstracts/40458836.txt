@@ -1,0 +1,13 @@
+ObjectivesIdentify and explore risk factors associated with COVID-19 infection and mortality rates in care homes in the West of England and gain an understanding of challenges faced during the pandemic, how they were addressed and how care homes can be better equipped for future pandemics.MethodsA mixed-methods study combined observational analysis of numbers of infections and deaths with potential risk factors supported by semi-structured interviews.
+Thirty-three care homes within a single local authority (LA) in the West of England were included in the quantitative analysis and, in the qualitative study, five care homes were included, including those located outside the participating LA.
+The quantitative analysis assessed two outcomes: number of weekly COVID-19 cases and deaths between 31/08/2020 and 21/02/2021.
+Associations with potential care risk factors were analysed using Poisson regression.
+14 interviews were conducted with care home staff in various roles between November 2022 and September 2023.
+Data were analysed thematically.ResultsCare home size was associated with higher COVID-19 infection (large compared with small care homes: incidence rate ratio (IRR) = 12.60, 95% confidence interval (CI) 2.54 to 62.51) and mortality rates (large compared with small care homes: IRR = 16.48, 95% CI 0.81 to 335.88).
+Qualitative data revealed that care home managers recognized these risks and were focussed on the challenges of implementing infection control within the limitations of their buildings.
+The primary challenge identified was staff shortages, requiring care home staff to assume expanded responsibilities.
+There was no evidence of association between hospital discharges and COVID-19 cases (IRR = 0.45, 95% CI 0.11 to 1.83) or deaths (IRR = 0.61, 0.11 to 3.22).
+The qualitative data highlighted care home staff had feelings of separation and felt under-valued in relation to the wider health care sector.
+There was also concern that COVID-19 prevention measures prioritised infection control over the psycho-social welfare of residents.ConclusionResearch on the risk factors for infection spread and associated mortality should be prioritised to better protect care homes in future pandemics.
+This requires making routine data in social care more readily available for research purposes.
+Proactive planning for future pandemics, by care homes and local authorities, should recognise the individual nature of buildings and the needs of residents.

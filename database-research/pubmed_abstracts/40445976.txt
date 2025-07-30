@@ -1,0 +1,7 @@
+Merkel cell polyomavirus (MCPyV) is a small, DNA tumor virus that is causally linked to an aggressive form of human skin cancer called Merkel cell carcinoma.
+MCPyV is the only polyomavirus definitively shown to cause cancer in humans, yet little is known about how it establishes infection in target cells.
+In this study, we report an unconventional mechanism by which MCPyV enters the host cell nucleus, where viral genome replication occurs.
+We demonstrate that, unlike other known polyomaviruses, MCPyV does not require the nuclear pore complex during entry.
+Instead, it takes advantage of cell cycle-dependent nuclear envelope breakdown to deliver its genetic material into the nucleus.
+We further show that the VP1 major capsid protein is sufficient to facilitate this process.
+Overall, our findings reveal a novel mechanism of polyomavirus nuclear entry and provide insight into the diverse mechanisms that these viruses use to cause infection.

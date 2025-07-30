@@ -1,0 +1,20 @@
+Glioblastoma (GBM) is classified into subtypes according to the molecular expression profile; the proneural subtype has a relatively good prognosis, and the mesenchymal type is the most aggressive form with the worst prognosis.
+GBM undergoes proneural-mesenchymal transition (PMT) during its evolution or in response to changes in the microenvironment or therapeutic interventions.
+PMT is accompanied by infiltration of non-tumor cells, decreased tumor purity, and immune evasion.
+However, the cellular and molecular mechanisms underlying PMT remain unclear.
+Differentially expressed genes (DEGs) were identified using GBM transcriptome datasets, and prognostic analysis was performed to screen for PMT-related genes (PMTRGs).
+Consensus cluster analysis was followed by Gene Set Enrichment Analysis, Gene Ontology, and Kyoto Encyclopedia of Genes and Genomes analyses of DEGs to determine the biological functions and pathways regulated by PMTRGs.
+CIBERSORT, TIMER, MCPCOUNTER, and XCELL algorithms were used to analyze immune cell infiltration patterns.
+The TIDE algorithm was used to examine immunotherapy scores.
+The Lasso, Cox, and Step machine learning algorithms were used to construct and screen the optimal risk assessment prognostic model.
+PMTRG expression patterns in patient tissues and different cell subsets were examined by proteomics and single-cell transcriptome data analysis.
+Seventeen DEGs and prognostic PMTRGs were identified in proneural and mesenchymal subtypes.
+PMTRG-related mRNA interactions and protein-protein interaction networks were associated with the immune activity of GBM.
+Consensus cluster analysis based on PMTRGs divided GBM into three independent subclusters.
+Functional and pathway analyses showed that PMTRGs were highly expressed in the C1 subcluster, which was associated with GBM mesenchymal isoforms, pathways, and poor prognosis, and showed stronger immune responses.
+Four immune evaluation algorithms and TIDE analysis showed that the C1 cluster had high levels of immune cell infiltration and immune molecule scores.
+The prognostic risk assessment model based on PMTRGs can effectively predict the prognosis of GBM patients.
+Proteomic data from immunohistochemistry and single-cell transcriptome data suggested that PMTRGs are predominantly expressed in monocytes, macrophages, and blood vessels rather than in tumor cells.
+This study identified 17 key genes associated with PMT in GBM.
+These PMTRGs are mainly expressed on immune cells and blood vessels in the GBM microenvironment and are associated with poor prognosis, suggesting that PMT events mainly arise from the infiltration and activation of immune cells derived from the bone marrow and blood vessels.
+These findings provide new evidence and targets for the treatment of GBM.

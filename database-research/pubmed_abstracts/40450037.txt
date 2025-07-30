@@ -1,0 +1,7 @@
+Neoantigen (nAg) vaccines can induce anti-tumor specific immunity, and tumor killing promotes further antigen diffusion, which is expected to improve prognosis.
+However, the mutation of cancer cells under the selective pressure of vaccines and the immunosuppressive tumor microenvironment make the therapeutic effect unsatisfactory.
+Here, we develop a nanovaccine (nAg-MRDE/Mn) that can deliver nAg and induce in situ cancer vaccination to synergistically promote a personalized immune response, enhance antigen diffusion, and improve the microenvironment by modulating immunosuppressive cells and activating the innate immune response.
+Experiments show that nAgs are presented by dendritic cells and expressed by T cells, which cooperate with in situ vaccination to stimulate specific immunity.
+Cells involved in immunosuppression, such as M2 macrophages and regulatory T cells, are down-regulated, while M1 macrophages and natural killer cells are increased.
+In addition, the hydrogel loaded with chemokines and nAg-MRDE/Mn inhibits postoperative tumor recurrence, and the combination of nAg-MRDE/Mn and αPD-1 improves the therapeutic effect of αPD-1.
+This study validates the clinical potential of this strategy and provides ideas for improving neoantigen vaccines.

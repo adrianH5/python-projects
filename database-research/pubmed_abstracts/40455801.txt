@@ -1,0 +1,10 @@
+In nutritional epidemiology, self-reported dietary data are commonly used to investigate diet-disease relationships.
+However, the resulting association estimates are often subject to biases due to random and systematic measurement errors.
+Regression calibration has emerged as a crucial method for addressing these biases by refining self-reported nutrient intake with objective biomarkers, which differ from the true values only by a random "noise" component.
+This paper presents methodological tools for analyzing nutritional epidemiology cohort studies involving time-to-event data when a biomarker subsample is available alongside dietary assessments.
+We introduce novel regression calibration methods to tackle two common challenges in this field.
+First, a widely used approach assumes that the log hazard ratio (HR) follows a linear function of dietary exposure.
+However, assessing whether this assumption holds-or if a more flexible model is needed to capture potential deviations from linearity-is often necessary.
+Second, another prevalent analytical strategy involves estimating HRs based on categorized dietary exposure variables.
+New methods are critically needed to minimize bias in defining category boundaries and estimating hazard ratios within exposure categories, both of which can be distorted by measurement error.
+We apply these methods to reassess the relationship between sodium and potassium intake and cardiovascular disease risk using data from the Women's Health Initiative.

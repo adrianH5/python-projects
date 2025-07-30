@@ -1,0 +1,8 @@
+Metabolic processes and epigenetic reprogramming are intricately interconnected; however, their mechanistic interplay remains unclear.
+This study elucidates the role of ATP-citrate lyase (ACLY), an essential enzyme in acetyl-CoA production that uniquely localizes to the nucleus in oocytes and early embryos.
+Maternal Acly deletion in oocytes preserves fertility due to the compensatory upregulation of Acetyl-CoA Synthetase 2 (ACSS2), whereas zygotic Acly knockout causes developmental arrest at the pre-blastocyst stage without ACSS2 induction.
+Mechanistically, nuclear ACLY recruits and interacts with histone acetyltransferases, specifically E1A binding protein p300 (P300) and histone acetyltransferase 1 (HAT1), supplying acetyl-CoA for histone acetylation to activate transcription, which is essential for embryogenesis.
+Clinically, enhanced ACLY nuclear localization correlates with superior quality of human embryos.
+Functionally, AKT-mediated phosphorylation (Thr447/Ser451/Ser455) drives the nuclear translocation of ACLY and facilitates its interaction with HAT1 and P300.
+Inhibition of ACLY or its phosphorylation disrupts the promoting effects of AKT activators, such as insulin-like growth factor-1 (IGF-1), on blastocyst formation.
+These findings suggest that ACLY is a metabolic hub that bridges signaling and epigenetic remodeling, ensuring acetyl-CoA availability for chromatin modifications, and offering insights into the metabolic determinants of embryo viability and potential therapeutic targets for infertility.

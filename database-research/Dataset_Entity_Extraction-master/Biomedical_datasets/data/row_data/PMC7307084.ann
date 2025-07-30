@@ -1,0 +1,6 @@
+T1	Dataset 520 533	GISAID EpiFlu
+T2	URL 544 567	https://www.gisaid.org/
+T3	Repository 607 643	National Genomics Data Center (NGDC)
+T4	URL 654 681	https://bigd.big.ac.cn/ncov
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4

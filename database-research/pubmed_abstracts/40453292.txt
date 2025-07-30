@@ -1,0 +1,6 @@
+Introduction This study aimed to evaluate the prognostic significance of preoperative positron emission tomography-computed tomography (PET-CT) in resectable colorectal cancer (CRC), specifically examining the association between standardized uptake value max (SUVmax) and recurrence risk, stratified by pathological stage.
+Methods A retrospective analysis was conducted on 164 CRC patients who underwent PET-CT before curative resection.
+SUVmax values were assessed for their correlation with overall survival (OS) and recurrence-free survival (RFS).
+Receiver operating characteristic (ROC) curve analysis was used to determine the SUVmax cutoff for recurrence prediction.
+Multivariate Cox regression identified independent prognostic factors.
+Results In stage 3 CRC, SUVmax was significantly associated with recurrence risk, with a cutoff of 13.5 (area under the ROC curve (AUC) = 0.72,

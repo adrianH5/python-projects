@@ -1,0 +1,8 @@
+Cysteine-rich protein 61 (CYR61) is a matricellular protein in the CCN family that is involved in cellular adhesion, migration, proliferation, and angiogenesis.
+CYR61 interacts with integrins α6β1, αvβ3, αvβ5, and αIIbβ3 to modulate tumor progression and metastasis while modifying the tumor microenvironment.
+CYR61 exhibits context-dependent roles in cancer, acting as both a tumor promoter and suppressor.
+Increased CYR61 expression is linked to extracellular matrix remodeling, immune modulation, and integrin-mediated signaling, making it a potential prognostic biomarker and therapeutic target.
+Emerging research highlights the utility of CYR61 in liquid biopsies for cancer detection and monitoring.
+Integrin-targeted therapies, including CYR61-blocking antibodies and CAR-T approaches, offer novel treatment strategies.
+However, therapy-induced toxicity and resistance remain challenges with these strategies.
+The further elucidation of the molecular mechanisms of CYR61 may enhance targeted therapeutic interventions and improve patient outcomes.

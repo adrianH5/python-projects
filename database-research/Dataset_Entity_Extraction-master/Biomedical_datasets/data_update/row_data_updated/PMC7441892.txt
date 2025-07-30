@@ -1,0 +1,9 @@
+The coronavirus disease 2019 (COVID-19) pandemic, as declared by the World Health Organization on 11 March 2020 [1], has accumulated 6057.853 confirmed cases globally until June 1 [2].
+The etiologic agent of COVID-19 is a novel beta coronavirus [3], which was named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) by the International Committee on Taxonomy of Viruses [4].
+The outbreak of the COVID-19 pandemic shows marked geographic variation in its prevalence and mortality.
+It was recently suggested that a renin-angiotensin system (RAS) imbalance impacts all stages of SARS-CoV-2 infection and clinical findings thereof, placing RAS molecules at the center of COVID-19 pathophysiology.
+In this context, Delanghe et al. [49] analyzed not only the prevalence and mortality data (per 1,000,000 inhabitants) of the COVID-19 infection of several countries but also the frequency of several polymorphisms in genes of some human plasma proteins, including the ACE I/D polymorphism.
+The results of this study suggest that the prevalence of COVID-19 is significantly correlated with the ACE1 polymorphism.
+In our study, we included only information from the dbSNPs, Ensembl Genome Browser, and 1000 Genome Project databases.
+Discrete sequence databases of individuals infected with SARS-CoV2 were not analyzed.
+The prevalence and mortality of the outbreak of the COVID-19 pandemic show marked geographic variation.

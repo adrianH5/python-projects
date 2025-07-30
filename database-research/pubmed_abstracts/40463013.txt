@@ -1,0 +1,9 @@
+Mitochondria play critical roles in energy production and cellular metabolism.
+Despite the Warburg effect, mitochondria are crucial for the survival and proliferation of cancer cells.
+Heat Shock Factor 1 (HSF1), a key transcription factor in the cellular heat shock response, promotes malignancy and metastasis when aberrantly activated.
+To understand the multifaceted roles of HSF1 in cancer, we performed a genome-wide CRISPR screen to identify epistatic interactors of HSF1 in cancer cell proliferation.
+The verified interactors of HSF1 include those involved in DNA replication and repair, transcriptional and post-transcriptional gene expression, and mitochondrial functions.
+Specifically, we found that HSF1 promotes cell proliferation, mitochondrial biogenesis, respiration, and ATP production in a manner dependent on TIMM17A, a subunit of the inner membrane translocase.
+HSF1 upregulates the steady-state level of the short-lived TIMM17A protein via its direct target genes, HSPD1 and HSPE1, which encode subunits of the mitochondrial chaperonin complex and are responsible for protein refolding once imported into the matrix.
+The HSF1-HSPD1/HSPE1-TIMM17A axis remodels the mitochondrial proteome to promote mitochondrial translation and energy production, thereby supporting robust cell proliferation.
+Our work reveals a mechanism by which mitochondria adjust protein uptake according to the folding capacity in the matrix by altering TIM complex composition.

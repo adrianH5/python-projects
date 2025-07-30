@@ -1,0 +1,11 @@
+As a traditional Chinese medicine prescription, BXSD has attracted extensive attention for its potential in cancer treatment.
+The proliferation and metastasis of tumor cells are regulated by a variety of signaling pathways, among which AKT1 and CASP3 proteins play an important role in the occurrence and development of cancer.
+The aim of the study was to explore the potential of BXSD decoction in the treatment of cancer through the molecular mechanism of AKT1 and CASP3 proteins, and to reveal its mechanism in the treatment of cancer, especially cervical cancer, through the combination of network pharmacology and molecular docking analysis.
+We used network pharmacology to screen the chemical constituents of BXSD and its associated targets, and identified key targets by constructing protein-protein interaction (PPI) networks.
+On this basis, the component disease target network was constructed, and GO biological function and KEGG pathway enrichment analysis were performed.
+The binding ability of BXSD to AKT1 and CASP3 was confirmed by molecular docking analysis.
+Finally, the effects of BXSD on the proliferation, migration and invasion of cervical cancer cells were verified in vivo and in vitro.
+The results of network pharmacological analysis showed that several chemical components of BXSD were associated with AKT1 and CASP3, which were identified as key targets by PPI network analysis.
+Molecular docking results showed that BXSD was stably bound to AKT1 and CASP3.
+Experimental verification showed that BXSD significantly inhibited the proliferation, migration and invasion of HeLa cells, and this effect was related to the downregulation of AKT1 and CASP3.
+Therefore, BXSD decoction can inhibit the growth and metastasis of cancer cells by regulating the expression and function of AKT1 and CASP3.

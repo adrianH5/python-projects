@@ -1,0 +1,5 @@
+Satellite glial cells (SGCs) in trigeminal ganglion (TG) are pivotal in the pathogenesis of trigeminal neuropathic pain (TNP).
+While astrocytic Kir4.1 and its potential downstream neurotrophic factors recently emerge as therapeutic targets for depression and pain, the specific role of Kir4.1 in SGCs related to TNP, along with underlying moleculars and cellular mechanisms, remains inadequately characterized.
+This study employed the chronic constriction injury of infraorbital nerve (CCI-ION) model to induce TNP, manifesting as orofacial mechanical hypersensitivity and activation of SGCs marked by GFAP expression.
+Kir4.1 was specifically expressed in SGCs and was downregulated following CCI-ION.
+To elucidate its role, tamoxifen or AAV2/8 targeting Kir4.1 was administered to wild-type and Kir4.1

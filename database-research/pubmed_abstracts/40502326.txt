@@ -1,0 +1,8 @@
+This study provides a detailed pharmacological evaluation of the recently approved antibody-drug conjugates (ADCs), fam-trastuzumab deruxtecan-nxki and sacituzumab govitecan-hziy, focusing on their adverse event (AE) profiles post-approval by the United States Food and Drug Administration (US FDA) for breast cancer (BC) treatment.
+By assessing their safety profiles, this study aims to provide clinically relevant insights into their impact and highlight the necessity for ongoing post-marketing surveillance.
+AE data were extracted from the US FDA's Adverse Event Reporting System (FAERS) (2019-2023), focusing on reports filed after each drug's approval, and descriptive statistical methods were used to classify and compare AE frequencies for both therapies.
+FAERS recorded eight AEs for fam-trastuzumab deruxtecan-nxki and thirteen for sacituzumab govitecan-hziy, despite the latter's later approval.
+AEs linked to fam-trastuzumab deruxtecan-nxki were musculoskeletal and infection-related, while sacituzumab govitecan-hziy showed broader systemic effects (musculoskeletal, gastrointestinal, cardiovascular, and dermatological).
+One patient receiving fam-trastuzumab deruxtecan-nxki experienced elevated ALT levels, suggesting potential hepatic involvement.
+While both therapies demonstrate therapeutic promise, continuous safety monitoring is essential.
+The FAERS dataset's demographic limitations highlight the need for more comprehensive post-marketing surveillance to assess long-term AE risks and optimize BC treatment safety.

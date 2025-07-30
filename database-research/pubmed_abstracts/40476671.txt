@@ -1,0 +1,3 @@
+Large-scale three-dimensional (3D) cell culture plays a critical role in vaccine production, regenerative medicine, and drug development.
+However, the 3D carriers currently used for large-scale cell culture are limited by high production costs, poor reusability, and a lack of multifunctionality.
+In this study, we develop a magnetic gelatin microcarrier (GM) platform by combining amino-modified gelatin (AmGel) and vinyl-modified Fe

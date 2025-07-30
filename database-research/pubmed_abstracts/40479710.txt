@@ -1,0 +1,9 @@
+Genetic instability is a major hazard threatening the fate of cells and ultimately of organisms.
+DNA double-strand break (DSB) is a highly toxic lesion, jeopardizing genome stability.
+Using cytogenetic and differential exome sequencing, we show here that upregulation of the kinase PKB/AKT1 leads to genomic rearrangements and chromosome fusions.
+By combining various approaches, at the genome scale and at precise loci, we show that PKB/AKT1 stimulates DSB end-joining, leading to inter- and intrachromosomal genomic rearrangements.
+The MRE11-RAD50-NBS1 (MRN) complex plays an essential role in the early steps of DSB signaling/repair.
+We show here that PKB/AKT1 favors the assembly of MRN, leading to the stimulation of DSB signaling via the MRE11/ATM axis.
+We identify MRE11 as a phosphorylation effector of PKB/AKT1 and reveal several sites whose phosphorylation is required for PKB-mediated stimulation of DSB end-joining and chromosome fusions.
+These data reveal that PKB/AKT1 actively promotes genetic instability by increasing the efficiency of DSB end-joining through MRE11 phosphorylation on these sites.
+These results highlight that not only a defect of DSB signaling/repair but also its stimulation, can lead to genome rearrangements and underline the importance of a precise regulation of the DNA damage response to maintain genome stability.

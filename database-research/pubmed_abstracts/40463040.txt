@@ -1,0 +1,4 @@
+Advanced prostate cancer (PrCa) remains a leading cause of cancer-related death among men because nearly all patients progress on standard therapy that targets androgen receptor (AR) signaling.
+An important mechanism driving therapeutic resistance is lineage plasticity, the ability of PrCa cells to reprogram into lineage variants like neuroendocrine (NE) PrCa that no longer depend on AR signaling.
+The histone methyltransferase EZH2 has been implicated in PrCa lineage plasticity and EZH2 inhibitors are being evaluated clinically for the treatment of PrCa.
+Here we test how

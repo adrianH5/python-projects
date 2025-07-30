@@ -1,0 +1,8 @@
+In recent years, due to increased exposure to ultraviolet rays, the incidence of melanoma has increased significantly.
+Despite the progress in early diagnosis and treatment methods, managing metastatic melanoma remains challenging.
+Resistance to programmed cell death (PCD) is a hallmark of various cancers, including melanoma.
+This resistance can affect cell growth, survival, metastasis, and resistance to therapies.
+In recent years, non-coding RNAs (ncRNAs) have been acknowledged as master regulators of various biological processes, including PCD.
+This regulatory network acts as a double-edged sword in melanoma progression, either promoting tumor survival by preventing PCD or acting as an anti-tumor agent by inducing it.
+Such diverse functions make ncRNAs invaluable as diagnostic and prognostic biomarkers and potential therapeutic targets.
+This review explores the multifaceted roles of ncRNAs in regulating different forms of PCD, comprising apoptosis, autophagy, necroptosis, pyroptosis, ferroptosis, cuproptosis, and anoikis, highlighting their potential applications in melanoma research and treatment.

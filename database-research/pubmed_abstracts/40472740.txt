@@ -1,0 +1,12 @@
+Oral squamous cell carcinoma (OSCC) is an aggressive malignancy frequently characterized by dysregulated epidermal growth factor receptor (EGFR) signaling.
+Among EGFR mutation, EGFRvIII, an extracellular domain truncated form without exons 2-7, exhibits ligand-independent and constitutive EGFR activation.
+Although EGFRvIII functions as an oncogene in glioblastoma, its role in OSCC remains unclear.
+Here, we demonstrate that EGFRvIII is highly prevalent in OSCC, with approximately 70 % of OSCC tumor samples revealing high EGFRvIII expression.
+EGFRvIII enhances metastatic and proliferative potential, while its knockdown significantly reduces these malignant phenotypes.
+Beyond its direct oncogenic effects, EGFRvIII actively remodels the tumor microenvironment (TME) by recruiting and activating fibroblasts.
+In both xenograft models and co-culture systems, OSCC cells expressing EGFRvIII stimulated the expression of fibroblast activation markers-including α-smooth muscle actin (α-SMA), platelet-derived growth factor receptors (PDGFRA/PDGFRB), and collagen-thereby promoting a tumor-supportive stroma.
+Moreover, RNA sequencing and cytokine array analyses revealed that EGFRvIII induces lipocalin-2 (LCN2) expression and secretion.
+Elevated LCN2 in the conditioned medium from OSCC-EGFRvIII cells further stimulates fibroblast activation via the STAT3 signaling pathway, as pharmacological inhibition of STAT3 attenuates LCN2-driven fibroblast activation.
+Furthermore, exposure to environmental carcinogens such as nicotine-derived nitrosamine ketone (NNK) and arecoline enhances EGFRvIII expression and downstream signaling, exacerbating tumor aggressiveness.
+These findings reveal a positive feedback loop in which EGFRvIII fosters OSCC progression by stimulating LCN2-STAT3-mediated fibroblast activation.
+Targeting EGFRvIII and its downstream effectors may therefore represent a promising strategy to mitigate OSCC progression and improve therapeutic outcomes.

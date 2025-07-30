@@ -1,0 +1,8 @@
+In recent years, the incidence of cutaneous squamous cell carcinoma (CSCC) has been increasing year by year.
+Due to its characteristics of high recurrence and high invasion, CSCC poses a great potential threat to the prognosis of patients.
+Aromatic turmerone, an active component of Curcuma longa, has been shown to have anti-tumor, anti-inflammatory and anti-oxidation effects in modern pharmacological research, but its influence on CSCC remains unclear.
+In this study, we used AT to intervene in human CSCC A431 cell line.
+The results showed that the growth ability of A431 was significantly inhibited by the intervention of AT.
+Also, we found that compared to normal A431, the cell invasion number and migration rate of A431 were reduced to (116.00±8.00) and (39.87±4.20) %, respectively, after the intervention of AT.
+And detecting the inflammatory response in the cells, we found that AT reduced the inflammatory factors and oxidative stress in A431.
+Meanwhile, aromatic turmerone suppressed the autophagy of A431 and silenced the IGF-1/PI3K/AKT pathway expression, which further reveals the mechanism and pathway of action of aromatic turmerone on CSCC, laying a reliable foundation for the clinical application of aromatic turmerone.

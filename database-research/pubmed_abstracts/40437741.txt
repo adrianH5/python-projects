@@ -1,0 +1,8 @@
+Pancreatic ductal adenocarcinoma (PDAC) is characterized by a unique tumor microenvironment (TME) that plays pivotal roles in cancer progression, angiogenesis, metastasis, and drug resistance.
+This complex and dynamic ecosystem comprises cancer cells, stromal cells, and extracellular matrix (ECM) components, which interact synergistically to drive cancer aggressiveness.
+Among the stromal cells, cancer-associated fibroblasts (CAFs) and pancreatic stellate cells (PSCs), mainly accepted as a group of CAFs, are central players in shaping the desmoplastic, hypoxic, and immunosuppressive stroma of PDAC.
+PSCs, the most abundant stromal cells in PDAC, are resident pancreatic cells that undergo phenotypic changes upon activation, driving tumor progression through the secretion of cytokines, growth factors, ECM components (e.g., collagen, hyaluronic acid, fibronectin), and matrix metalloproteinases.
+In addition to cellular elements, ECM components significantly contribute to cancer aggressiveness by forming a physical barrier that hinders drug penetration, activating signaling pathways through specific receptor interactions, and generating peptides originating from the fragmentation of proteins to induce cancer migration.
+Regarding their critical roles in tumor progression, therapeutic approaches targeting PSCs and the ECM have garnered increasing interest in recent years.
+However, PSCs and stromal components may exhibit dual roles, with the potential to both promote and suppress tumor progression under different conditions.
+Therefore, targeting PSCs or stroma may lead to unintended outcomes, including exacerbation of cancer aggressiveness.

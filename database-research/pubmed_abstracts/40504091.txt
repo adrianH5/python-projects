@@ -1,0 +1,11 @@
+Gastric cancer (GC) confined to the mucosa (pT1a-GC) has a low incidence (approximately 3%) of lymph node metastasis (LNM), making it a suitable candidate for endoscopic resection.
+However, the current risk stratification system inadequately identifies high-risk patients.
+Although RhoGAP fusion has been identified as a risk factor for LNM in pT1b-GC, its role in pT1a-GC remains unclear.
+In the present study, medical records of 1099 surgically resected pT1a-GC cases over 12 years were reviewed, identifying 33 cases (3.0%) with LNM.
+A case-control study compared these cases to 99 LNM-negative cases based on clinicopathological data.
+Histological reviews and fluorescence In Situ hybridization assays to evaluate RhoGAP fusions, represented by CLDN18::ARHGAP26, were conducted.
+Univariate analysis revealed significant associations between LNM and larger tumor size (> 30 mm), mixed histological type, muscularis mucosae invasion (MMI), microtubular-mucocellular histology, and RhoGAP fusion.
+Multivariate analysis identified RhoGAP fusion and MMI as independent LNM predictors.
+Among LNM-positive cases, RhoGAP fusion was observed in 51.5% (17/33) and was associated with younger age and less frequent MMI.
+In conclusion, RhoGAP fusion and MMI may be significant biomarkers for LNM in pT1a-GC.
+Incorporating these factors could enhance risk stratification and inform clinical management strategies for pT1a-GC.

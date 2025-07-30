@@ -1,0 +1,6 @@
+T1	Repository 799 806	GenBank
+T2	Repository 914 921	GenBank
+T3	AccessionNumber 941 949	MN058045
+T4	AccessionNumber 950 958	MN058073
+R1	hasAttr	Arg1:T2	Arg2:T3
+R2	hasAttr	Arg1:T2	Arg2:T4

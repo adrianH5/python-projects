@@ -1,0 +1,2 @@
+Understanding cellular heterogeneity within tissues hinges on knowledge of their spatial context.
+However, it is still challenging to accurately map cells to their spatial coordinates.

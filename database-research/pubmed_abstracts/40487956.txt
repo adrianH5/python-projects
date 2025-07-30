@@ -1,0 +1,3 @@
+Colorectal cancer (CRC) is a leading cause of cancer-related death globally, with the tumor immune microenvironment (TIME) influencing prognosis and immunotherapy response.
+Current TIME evaluation relies on invasive biopsies, limiting its clinical application.
+This study hypothesized that computed tomography (CT)-based deep learning (DL) radiomics models can non-invasively predict key TIME biomarkers: Tumor-stroma ratio (TSR), tumor-infiltrating lymphocytes (TILs), and immune score (IS).

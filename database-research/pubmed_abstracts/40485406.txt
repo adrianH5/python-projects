@@ -1,0 +1,6 @@
+Programmed death ligand (PD-L1) binds to its receptor PD-1 on T-cells and inhibits the immune response of T-lymphocytes.
+Cancer cells evade immune surveillance by upregulating PD-L1 expression, leading to tumor progression.
+Anti-PD-L1 immunotherapy has emerged as a new treatment modality in various solid carcinomas.
+Food and Drug Administration (FDA) has approved PD-1/PD-L1 axis immunotherapy for immunohistochemically PD-L1 positive cervical cancer.
+In India, cervical cancer accounts for approximately 17% of all cancer deaths among women between 30 and 70 years.
+More than three-fourths of patients are diagnosed at an advanced stage.

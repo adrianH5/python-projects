@@ -1,0 +1,9 @@
+Lung cancer remains the leading cause of cancer-related deaths globally, often detected in advanced stages with poor prognosis.
+While surgical resection is the mainstay of curative treatment, early detection remains a significant challenge.
+Advances in personalized medicine, including genomic profiling and low-dose CT scans, have led to more tailored therapies, offering improved outcomes.
+Integrating artificial intelligence (AI) and machine learning (ML) into oncology has the potential to revolutionize lung cancer management by enhancing early detection, improving treatment precision, and supporting surgical decision-making.
+AI-driven technologies, such as deep learning algorithms and predictive models, have demonstrated effectiveness in identifying lung nodules, predicting immunotherapy response, and reducing diagnostic errors.
+Additionally, AI-powered robotics have contributed to improved surgical precision and better patient recovery.
+However, the widespread adoption of AI in clinical practice faces challenges, including data standardization, ethical concerns, and the need for robust validation.
+This study explores the question: How can AI and ML optimize thoracic surgical oncology by improving early detection, enhancing surgical precision, and enabling personalized care?
+This review highlights the significance of AI and ML in thoracic surgery and oncology, discussing their current applications, limitations, and future potential to advance personalized cancer care and improve patient outcomes.

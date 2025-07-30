@@ -1,0 +1,8 @@
+Metabolites are small molecules crucial for metabolic processes, while their analogs are structurally similar compounds used to study and manipulate these pathways in medicine and science.
+Metabolite analogs serve as powerful tools in drug development, research, and therapeutics by mimicking or inhibiting natural metabolites to alter biochemical pathways, impacting both catabolism and anabolism.
+These analogs are pivotal in research and treatment, influencing pathways like catabolism and anabolism.
+Common metabolites like glucose, amino acids, and nucleotides play vital roles in pathways such as PTEN and mTOR, which are essential for regulating cell growth, proliferation, and survival.
+By influencing these pathways, metabolite analogs can help elucidate metabolic mechanisms and offer potential treatments for diseases like cancer and metabolic disorders.
+This protocol chapter will detail the preparation and handling of metabolites, specifically focusing on a PTEN inhibitor.
+We will outline the steps for dissolving and storing these compounds, followed by a comprehensive protein extraction protocol.
+Finally, the use of Proteome Discoverer software will be discussed to analyze the resultant proteome changes.

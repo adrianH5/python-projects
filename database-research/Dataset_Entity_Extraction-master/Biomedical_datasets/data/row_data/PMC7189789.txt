@@ -1,0 +1,27 @@
+After multiple sample collections and laboratory analyses, the pathogen was identified as a novel coronavirus named severe acute respiratory syndrome coronavirus 2 by the International Committee of Taxonomy of Viruses [1], and the disease was named coronavirus disease (COVID-19) by the World Health Organization on February 11, 2020 [2].
+Other countries such as Japan, South Korea, Thailand, Singapore, and the United States also reported COVID-19 cases in their countries [4].
+The rapid spread of COVID-19 has already caused great public attention and many heated discussions, and the Chinese mass media have been reporting relevant information about the virus and the outbreak.
+Data from Chinese news and related articles were collected from the WiseSearch database [6].
+The WiseSearch database is one of the most reputable, ever-growing Chinese media content databases, containing the news and article data from more than 1500 print media sources and over 10,000 internet media sources.
+It is famous for its reproducibility, timeliness, great coverage, and high data integrity compared with the other database [7].
+The news and article data in the WiseSearch database are updated in a timely manner [6].
+We also built a document-term matrix and used term frequency–inverse document frequency (TF–IDF) to process the data.
+TF–IDF is a numerical statistic that is used to reflect the importance of a word to an article in a corpus [19].
+To seek a suitable LDA topic number and the explanations to investigate the relationship between the COVID-19 crisis and news reports, we conducted multiple studies.
+We selected topic 1 and the system visualized the word frequency distribution relative to the full corpus.
+The increase in the number of cases on February 12 and 13, 2020, was due to the updated diagnosis criteria in the COVID-19 protocol (fifth version) [28].
+University affinitive hospitals and university alumni associations participated actively in the fight against COVID-19.
+The COVID-19 crisis has aroused great public concern in China and around the world.
+Topic modeling provides an alternative perspective to investigate the relationship between media reports and the COVID-19 outbreak.
+Although several COVID-19 cases were found in December 2019, we observed few news reports about them, showing that the press media did not focus on this disease at that time.
+These two themes indicate that the mass media adopts a people-oriented principle when reporting on the COVID-19 crisis, contributing to the warm society phenomenon.
+This study is the first step to understanding the Chinese mass media’s role during the COVID-19 crisis.
+First, we included a large number of Chinese news articles about COVID-19 from the WiseSearch mass media database, which only covers text news articles.
+Some relative studies introduced sentiment analysis to investigate the emotional differences in the message content [35]; it would be valuable if we could also apply sentiment analysis to supervise the news and investigate the public’s reaction to news related to COVID-19.
+In December 2019, a few coronavirus disease (COVID-19) cases were first reported in Wuhan, Hubei, China.
+As this dreadful disease spreads rapidly, the mass media has been active in community education on COVID-19 by delivering health information about this novel coronavirus, such as its pathogenesis, spread, prevention, and containment.
+The aim of this study was to collect media reports on COVID-19 and investigate the patterns of media-directed health communications as well as the role of the media in this ongoing COVID-19 crisis in China.
+We adopted the WiseSearch database to extract related news articles about the coronavirus from major press media between January 1, 2020, and February 20, 2020.
+Comparing the number of articles for each day and the outbreak development, we noted that mass media news reports in China lagged behind the development of COVID-19.
+The COVID-19 crisis has become a worldwide issue, and society has become concerned about donations and support as well as mental health among others.
+We recommend that future work addresses the mass media’s actual impact on readers during the COVID-19 crisis through sentiment analysis of news data.

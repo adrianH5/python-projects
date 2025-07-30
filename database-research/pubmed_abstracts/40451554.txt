@@ -1,0 +1,9 @@
+PROteolysis TArgeting Chimeras (PROTACs) have gained significant attention for targeted protein degradation in cancer therapy.
+However, their clinical application is limited by low bioavailability, poor tumor distribution, and potential off-target effects.
+This study presents NaC4A-PROTACs, a hypoxia-responsive host-guest drug delivery system where azo-modified calixarene derivative (Naph-SAC4A) acts as the host molecule, encapsulating PROTAC molecules as the guest.
+The PROTAC molecules are incorporated into the host cavity of Naph-SAC4A through reversible non-covalent interactions, forming well-defined supramolecular complexes, which, to our knowledge, represent the first supramolecular host-guest PROTAC delivery system.
+These complexes remain stable under normoxic physiological conditions.
+But in the hypoxic tumor microenvironment, Naph-SAC4A undergo enzyme-catalyzed azo bond cleavage, significantly reducing the host-guest binding affinity of the supramolecular complex.
+Subsequently, PROTAC molecules are efficiently released from the calixarene cavity to degrade bromodomain-containing protein 4 (BRD4) proteins.
+We demonstrate the efficacy of NaC4A-PROTACs for hypoxia-targeted therapy both in vitro and in vivo, showing significant enhancement of PROTACs bioavailability, improved tumor-specific delivery, and potent anti-tumor effects.
+Our study provides a simple, universal, and reproducible platform for the controlled release of PROTACs, which can effectively enhance the precision and efficacy of cancer therapy, providing a promising approach for the application of PROTACs in cancer treatment.

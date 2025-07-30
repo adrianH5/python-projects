@@ -1,0 +1,5 @@
+High-quality cancer data are fundamental for public health research and policy, but cancer data for small geographic units and population subgroups in the United States are rarely available due to small-sample suppression rules, spatial coarsening, and data incompleteness.
+These limitations hinder high-resolution spatial analyses and precision public health interventions.
+This study provides a high-resolution cancer incidence dataset for the U.S., generated through a multi-constraint Monte Carlo simulation framework that reconstructs suppressed county-level cancer data and systematically disaggregates them to ZIP Code Tabulation Areas (ZCTAs), guided by demographic constraints.
+This method integrates population subgroup structures and macro-level incidence rates as constraints, ensuring consistency and reliability across spatial scales.
+The resulting dataset spans multiple geographic units, from state and county levels to ZCTAs, enabling comprehensive analyses of cancer burden, in-depth spatial analyses, and precision public health interventions across multiple scales.

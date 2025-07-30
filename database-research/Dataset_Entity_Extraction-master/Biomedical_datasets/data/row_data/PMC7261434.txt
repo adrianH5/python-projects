@@ -1,0 +1,5 @@
+The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) viral pandemic that causes coronavirus disease 2019 (COVID-19) is the worst respiratory disease outbreak of the generation, if not a century, and currently crippling the entire global fabric of the human socioeconomic life.
+With no known efficacious therapy for COVID-19, repurposing other known antiviral drugs and pathologies related to the lethal episode of COVID-19 are our best approach for rigorous experimental (in vitro and in vivo) tests and clinical trials.
+Good examples of antiviral drugs with protease and polymerase mechanism of action are indinavir, saquinavir, lopinavir/ritonavir and remdesivir, which gained attention in recent weeks for clinical trial of COVID-19 infection (1).
+On these bases, studies on the potential of viral helicase inhibitors in SARS-CoV-2 infection or COVID-19 is well justified.
+Highlighting the experience gained from targeting Nsp13 in similar coronaviruses (SARS-CoV and MERS) and known inhibitors, the article calls for research on helicase inhibitors as potential COVID-19 therapy.

@@ -1,0 +1,7 @@
+T1	Dataset 212 218	GISAID
+T2	Repository 365 371	RefSeq
+T3	AccessionNumber 373 384	NC_045512.2
+T4	Repository 408 415	GenBank
+T5	Dataset 1105 1111	GISAID
+R1	hasAttr	Arg1:T2	Arg2:T3
+R2	hasAttr	Arg1:T4	Arg2:T3

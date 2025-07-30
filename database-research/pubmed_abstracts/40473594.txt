@@ -1,0 +1,11 @@
+Hepatocellular carcinoma (HCC) is a leading cause of global cancer-associated mortality.
+Although various therapies have substantially ameliorated clinical outcome, patients invariably suffer from cancer relapse, highlighting the need for more optimized therapeutic strategies.
+Here, we report that deficiency of DNA methylcytosine dioxygenase TET2 sensitizes HCC cells to sorafenib and verteporfin treatments.
+Mechanistically, knockout of TET2 enhances the dephosphorylation of YAP Ser127, thus promoting its activity.
+RNA-seq analysis reveals that MC1R, a GPCR, is strikingly decreased upon TET2 deficiency.
+Furthermore, TET2 catalyzes demethylation of MC1R promoter to stimulate its transcription.
+MC1R subsequently boosts cAMP-PKA signaling to phosphorylate YAP Ser127 in both ligand dependent and independent manners.
+Importantly, deletion of MC1R accelerates tumor growth of HCC, which is reversed by the treatment of YAP-TEAD complex inhibitor verteporfin.
+Synergistic combination of MC1R expression driver vitamin C and its ligand α-MSH dramatically represses HCC growth.
+Notably, TET2-MC1R-YAP axis is evidenced in HCC specimens and plays a vital role in prognosis of HCC.
+Collectively, these findings not only elucidate a previously unidentified epigenetic regulatory mechanism of MC1R transcription and underscore the functional significance of MC1R signaling in tumorigenesis of HCC, but also provide potential targets and clinical strategies for HCC therapy.

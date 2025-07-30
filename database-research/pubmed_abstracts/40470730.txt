@@ -1,0 +1,8 @@
+Penile squamous cell carcinoma (PSCC) is a highly aggressive malignancy without effective treatment due to limited knowledge of its development and tumor microenvironment (TME).
+In this study, single-nucleus RNA sequencing (snRNA-seq) and high-resolution spatial transcriptomics are employed to comprehensively investigate the development trajectories and the TME.
+The results revealed that PSCC cells mimicked the differentiation and tissue organization of normal penile epithelium, independent of the human papillomavirus (HPV) infection status.
+Notably, a spatial subtype, Tum_1, appeared at early stage of tumor differentiation and in tumor-normal boundary regions.
+This subtype exhibited enhanced basal-like and stemness features and showed high LAMC2 expression, which activated laminin-integrin signaling via ITGA6/ITGB4, promoting tumor invasiveness.
+Furthermore, the results indicated that HPV-positive basal stem-like neoplasms dampened the immune function of T cells and macrophages, promoting an immunosuppressive environment that facilitates tumor progression.
+Supporting this, the patients with head and neck squamous cell carcinoma and lung squamous cell carcinoma who have high expression of HPV-positive Tum_1 signatures derived greater benefit from PD-1 blockade therapy.
+In summary, the findings provide a comprehensive spatial landscape of the PSCC TME and suggest potential treatment approaches targeting laminin-integrin interaction and immunotherapy, especially in HPV-positive patients.

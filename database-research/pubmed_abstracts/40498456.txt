@@ -1,0 +1,7 @@
+The chemokine receptor CXCR4 is overexpressed in many cancers and contributes to pathogenesis, disease progression, and resistance to therapies.
+CXCR4 is known to form oligomers, but the potential functional relevance in malignancies remains elusive.
+Using a nanobody-based BRET method, we demonstrate that oligomerization of endogenous CXCR4 on lymphoid cancer cell lines correlates with enhanced expression levels.
+Specific disruption of CXCR4 oligomers reduced basal cell migration and prosurvival signaling via changes in the phosphoproteome, indicating the existence of constitutive CXCR4 oligomer-mediated signaling.
+Oligomer disruption also inhibited growth of primary CLL 3D spheroids and sensitized primary malignant cells to clinically used Bcl-2 inhibitor venetoclax.
+Given its limited efficacy in some patients and the ability to develop resistance, sensitizing malignant B cells to venetoclax is of clinical relevance.
+Taken together, we established a noncanonical and critical role for CXCR4 oligomers in lymphoid neoplasms and demonstrated that their selective targeting has clinical potential.

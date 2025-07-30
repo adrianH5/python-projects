@@ -1,0 +1,5 @@
+Chimeric antigen receptor T (CAR-T) cell therapy has undergone vigorous development in recent years, yet it still faces significant challenges and difficulties in its clinical application and further development.
+A systematic synthesis of global trends in CAR-T clinical trials is essential to identify knowledge gaps, optimize treatment strategies, and guide future research directions.
+This review analyzed 1,580 CAR-T clinical trials registered at ClinicalTrials.gov as of April 2024, and extracted characteristic data in multiple dimensions, including target specificity, treatment indication, and development stage etc.
+The transparency of trial outcomes was assessed by validation with articles published in PubMed/Google Scholar.
+Additionally, it is complemented by investigator surveys assessing to barriers to CAR-T development, prospects, and recommendations.

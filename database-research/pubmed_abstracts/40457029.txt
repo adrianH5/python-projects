@@ -1,0 +1,14 @@
+This study aimed to develop a model for predicting the bladder volume ratio between daily CBCT and CT to determine adequate bladder filling in patients undergoing treatment for prostate cancer with external beam radiation therapy (EBRT).
+The model was trained using 465 datasets obtained from 34 prostate cancer patients.
+A total of 16 features were collected as input data, which included basic patient information, patient health status, blood examination laboratory results, and specific radiation therapy information.
+The ratio of the bladder volume between daily CBCT (dCBCT) and planning CT (pCT) was used as the model response.
+The model was trained using a bootstrap aggregation (bagging) algorithm with two machine learning (ML) approaches: classification and regression.
+The model accuracy was validated using other 93 datasets.
+For the regression approach, the accuracy of the model was evaluated based on the root mean square error (RMSE) and mean absolute error (MAE).
+By contrast, the model performance of the classification approach was assessed using sensitivity, specificity, and accuracy scores.
+The ML model showed promising results in the prediction of the bladder volume ratio between dCBCT and pCT, with an RMSE of 0.244 and MAE of 0.172 for the regression approach, sensitivity of 95.24%, specificity of 92.16%, and accuracy of 93.55% for the classification approach.
+The prediction model could potentially help the radiological technologist determine whether the bladder is full before treatment, thereby reducing the requirement for re-scan CBCT.
+HIGHLIGHTS: The bagging model demonstrates strong performance in predicting optimal bladder filling.
+The model achieves promising results with 95.24% sensitivity and 92.16% specificity.
+It supports therapists in assessing bladder fullness prior to treatment.
+It helps reduce the risk of requiring repeat CBCT scans.

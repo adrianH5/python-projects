@@ -1,0 +1,10 @@
+Gastric cancer (GC) remains one of the leading causes of cancer-related mortality worldwide.
+Accurate prognostic assessment, which is essential for enhancing overall survival (OS), currently depends on pathologic and clinical staging.
+This underscores the urgent need for reliable and real-time prognostic biomarkers.
+The triglyceride-glucose (TyG) index, a readily available marker of insulin resistance, has recently emerged as a potential prognostic tool in GC.
+Numerous studies have consistently shown a significant association between elevated TyG levels and inferior OS as well as progression-free survival.
+Despite these promising findings, several challenges must be addressed before the TyG index can be widely adopted in clinical practice.
+Firstly, the TyG index lacks cancer-specificity, reflecting broader metabolic disturbances commonly observed in conditions such as obesity, diabetes, and cardiovascular disease.
+This lack of specificity complicates its interpretation in oncological settings.
+Additionally, the cutoff values for TyG index vary across studies, hindering the establishment of a standardized threshold for clinical application.
+While the TyG index provides valuable insights into a patient's metabolic health, its limited cancer specificity necessitates cautious use when evaluating the prognosis of GC treatment.

@@ -1,0 +1,15 @@
+The prevalence of malignancies in patients undergoing percutaneous coronary intervention (PCI) is increasing with aging.
+Active malignancy is a significant contributor to high bleeding risk.
+For cancer patients requiring oral anticoagulant (OAC) therapy, the choice between direct oral anticoagulants (DOAC) and warfarin is critical.
+The aim of this study was to investigate long-term bleeding events in patients with malignancy undergoing PCI.
+The CLIDAS (Clinical Deep Data Accumulation System) multicenter database includes data from seven tertiary medical hospitals in Japan.
+This retrospective analysis included 6451 patients who underwent PCI between April 2013 and March 2019 and completed 3-year follow-up.
+The patients were divided into two groups; No malignancy (n = 5787) and Malignancy group (n = 664).
+Malignancy was defined by a history of cancer treatment.
+These groups were further subcategorized based on OAC therapy; (1) No malignancy without OAC (n = 5134), (2) No malignancy with DOAC (n = 261), (3) No malignancy with warfarin (n = 392), (4) Malignancy without OAC (n = 589), (5) Malignancy with DOAC (n = 38), and (6) Malignancy with warfarin (n = 37).
+The primary outcome was the incidence of bleeding events, defined according to the Global Use of Streptokinase and t-PA for Occluded Coronary Arteries classification of moderate and severe bleeding.
+The secondary outcomes were major adverse cardiac events (MACE) and net adverse clinical events (NACE).
+Multivariable Cox regression analysis showed that the malignancy with warfarin group had a significantly higher risk of bleeding events compared to the malignancy without OAC group (hazard ratio [HR], 3.64; 95% confidence interval [CI], 1.38-9.61, p value = 0.009).
+No significant differences were observed for MACE (HR, 1.39; 95% CI 0.59-3.25, p value = 0.454) or NACE (HR, 1.62; 95% CI, 0.80-3.29; p value = 0.184).
+Malignancy patients receiving warfarin were associated with a higher risk of bleeding events.
+DOACs may represent a preferable alternative to warfarin with regard to bleeding risk in patients with malignancy undergoing PCI.

@@ -1,0 +1,7 @@
+In recent years, chimeric antigen receptor T cell (CAR-T) immunotherapy has made considerable progress in the treatment of glioblastoma.
+The aim of this study was to comprehensively explore the prospects and future trends of CAR-T immunotherapy for glioblastoma through systematic bibliometric analysis.
+Publications pertaining to glioblastoma and CAR-T immunotherapy from 2008 to 2024 were extracted from the Web of Science Core Collection.
+Utilizing VOSviewer (version 1.6.20), CiteSpace (version 6.3.R1), and R 4.3.3, this study concentrated on evaluating contributions from countries, institutions, authors, and journals, while also identifying research hotspots and emerging trends.
+A total of 570 publications were identified, demonstrating an annual growth rate of 31.71%.
+The USA led the field with 269 publications, followed by China (113).
+The University of Pennsylvania, Harvard University, and the University of California System emerged as the most prolific institutions.

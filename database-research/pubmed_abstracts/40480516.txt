@@ -1,0 +1,7 @@
+Cardiovascular disease (CVD) is the leading cause of death worldwide.
+Atherosclerosis or plaque buildup in the arterial walls is the most common cause of CVD.
+For atherosclerosis, statins and PCSK9 inhibitors are prescribed to patients to lower circulating low-density lipoprotein (LDL) cholesterol.
+However, lowering LDL does not reduce the risk of cardiovascular events, such as myocardial infarction (MI) and stroke, for all patients.
+Targeting phenotypic switching of plaque-resident cells offers an alternative therapeutic strategy.
+To that end, we previously showed mircroRNA-145 (miR-145) incorporated into monocyte chemoattractant protein 1 (MCP-1) peptide amphiphile micelles bind CC chemokine receptor 2 (CCR2) that is upregulated in synthetic vascular smooth muscle cells (VSMC) and activated endothelial cells (ECs) during atherosclerosis.
+Previously, miR-145 micelles delivered in murine ApoE

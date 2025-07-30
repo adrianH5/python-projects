@@ -1,0 +1,5 @@
+The emergence of drug resistance poses a serious threat to cancer chemotherapy.
+by a single agent.
+Tumor cell heterogeneity, mutation and/or desensitization of receptor render monotherapy ineffective.
+Combination encompassing multiple targets or biochemical pathways, seems promising for cancer treatment.
+Combination of HDAC inhibitor(s) with other inhibitor(s) have shown synergistic activity in cancer chemotherapy by modulating a variety of therapeutic targets including epigenetic target of cancer cells by restoring acetylation and reactivating tumor suppressor genes leading to cell cycle arrest, promoting apoptosis, and thus inhibiting cancer cell proliferation.

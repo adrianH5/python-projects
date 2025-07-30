@@ -1,0 +1,9 @@
+Despite new therapies for cervical cancer, innovative strategies are essential to overcome drug resistance and high toxicity.
+The present study focuses on the metabolic profiling of cervical carcinoma using a non-targeted metabolomics approach using liquid chromatography-mass spectrometry.
+Our study identified over 70 metabolites in cervical tissue samples (both cancerous and adjacent normal) using HILIC and reversed-phase chromatography in the positive and negative ionization modes.
+Major metabolic alterations included changes in nicotinamide metabolism, ammonia recycling, amino acid metabolism and nucleotide metabolism, in a grade-dependent manner.
+Compared to normal tissue, HPV-positive tumors showed elevated nicotinamide metabolism, and phosphatidylethanolamine biosynthesis, whereas HPV-negative tumors showed enriched purine and pyrimidine metabolism.
+We validated our findings by analyzing transcriptomics datasets from the Gene Expression Omnibus database to understand the expression patterns of the underlying genes involved in the dysregulated pathways.
+We observed that nicotinamide metabolism exhibits significant effects in lower-grade cervical cancers and specific HPV genotypes.
+We treated cervical cancer cell lines with niacinamide (NAM), an amide form of niacin, to evaluate its therapeutic efficacy.
+NAM treatment modulated NAD

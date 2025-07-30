@@ -1,0 +1,11 @@
+Background： Globally, gastric cancer (GC) incidence trends and risk factors vary by age group and subtype, cardia (CGC) and non-cardia (NCGC).
+However, in-depth temporal studies remained lacking.
+Methods： Using data from Cancer Incidence in Five Continents Volumes VII-XII for 25 countries, we applied the joinpoint regression to assess trends in age-standardized incidence rate (ASIR).
+The age-period-cohort (APC) analysis yielded cohort effects, and the Bayesian APC (BAPC) analysis generated predictions.
+Results： We observed declines in NCGC incidence and cohort effect between 1988 to 2017 in most countries.
+However, rising trends in subpopulations in China, the U.S., and New Zealand warrant attention.
+Notably, NCGC incidence among females under age 50 years (defined as the 'young population' in this study) was higher than for males in 22 countries, which is contrary to previous reports showing a higher incidence in males in the whole population.
+CGC incidence trends were diverse, with notable increases in the overall and/or younger populations in some countries.
+Projections to 2032 suggest that CGC and NCGC incidences will converge, notably in males across 12 countries-9 for the whole male population and 10 for the young males.
+Conclusions: Long-term incidence trends of CGC and NCGC, combined with cohort effects, reveal global shifts in incidence and risk factors, with a rising incidence of CGC and higher NCGC rates in young females compared to males.
+Impact: This study underscores changing GC trends in young populations, emphasizing the need for targeted screening and risk factor investigation.

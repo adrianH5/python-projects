@@ -1,0 +1,12 @@
+Melanoma is the most dangerous skin cancer due to its difficulty in treatment, high recurrence rate and metastatic ability.
+As a vector for oncolytic viruses (OVs), vesicular stomatitis virus (VSV) has been shown to be effective against malignant melanoma.
+However, the glycoprotein G protein of VSV has potential neurotoxicity.
+It has been shown that replacing glycoprotein G with E3-E2-6K-E1 of chikungunya virus (CHIKV) reduces its neurotoxicity and targets gliomas.
+Therefore, the aim of this study was to investigate the oncolytic effect of recombinant VSV-CHIKV on melanoma and the underlying mechanism.
+In this study, we found that recombinant VSV-CHIKV triggered GSDMD-mediated melanoma cell pyroptosis.
+Importantly, the NLRP3/Caspase-1/GSDMD axis was activated after VSV-CHIKV infection in melanoma cell lines and in a xenograft mouse model.
+Inhibition of GSDMD blocked cell pyroptosis, antitumor immunity and the tumor response in response to VSV-CHIKV treatment, suggesting that VSV-CHIKV act through the GSDMD pathway.
+VSV-CHIKV-triggered GSDMD-mediated tumor pyroptosis recruited cytotoxic T lymphocytes (CTLs) into the tumor microenvironment, which was accompanied by the release of inflammatory mediators.
+This remodeled the tumor microenvironment and turned immunologically "cold" tumors into "hot" tumors, thereby sensitized these tumors to checkpoint blockade.
+Finally, the combination therapy of VSV-CHIKV and an immune checkpoint inhibitor (anti-PD-1) prolonged the survival of mice.
+In conclusion, the VSV-CHIKV strategy is an attractive biologic therapy against melanoma.

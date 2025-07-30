@@ -1,0 +1,12 @@
+Permanent prostate brachytherapy has inherent intraoperative organ deformation due to the inflatable trans-rectal ultrasound probe cover.
+Since the majority of the dose is delivered postoperatively with no deformation, the dosimetry approved at the time of implant may not accurately represent the dose delivered to the target and organs at risk.
+We aimed to evaluate the biological effect of the prostate deformation and its correlation with patient-reported outcomes.
+We prospectively acquired ultrasound images of the prostate pre- and postprobe cover inflation for 27 patients undergoing I-125 seed implant.
+The coordinates of implanted seeds from approved clinical plan were transferred to deformation-corrected prostate to simulate the actual dosimetry using a machine learning-based deformable image registration.
+The DVHs of both sets of plans were reduced to biologically effective dose (BED) distribution and subsequently to Tumor Control Probability (TCP) and Normal Tissue Complication Probability (NTCP) metrics.
+The change in fourteen patient-reported rectal and urinary symptoms between pretreatment to 6 months post-op time points were correlated with the TCP and NTCP metrics using the area under the curve (AUC) and odds ratio (OR).
+Between the clinical and the deformation corrected research plans, the mean TCP decreased by 9.4% (p < 0.01), whereas mean NTCP of rectum decreased by 10.3% and that of urethra increased by 16.3%, respectively (p < 0.01).
+For the diarrhea symptom, the deformation corrected research plans showed AUC=0.75 and OR = 8.9 (1.3-58.8) for the threshold NTCP>20%, while the clinical plan showed AUC=0.56 and OR = 1.4 (0.2 to 9.0).
+For the symptom of urinary control, the deformation corrected research plans showed AUC = 0.70, OR = 6.9 (0.6 to 78.0) for the threshold of NTCP>15%, while the clinical plan showed AUC = 0.51 and no positive OR.
+Taking organ deformation into consideration, clinical brachytherapy plans showed worse tumor coverage, worse urethra sparing but better rectal sparing.
+The deformation corrected research plans showed a stronger correlation with the patient-reported outcome than the clinical plans for the symptoms of diarrhea and urinary control.

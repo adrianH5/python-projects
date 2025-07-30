@@ -1,0 +1,10 @@
+Proteasome inhibitors can eliminate malignant, alloreactive, or autoreactive plasma cells.
+These cells are key players in antibody-mediated autoimmune disorders and thus suitable therapeutic targets for these drugs.
+However, certain proteasome inhibitors cause toxic peripheral neuropathy in patients.
+Ixazomib (MLN9708, Ninlaro), an oral proteasome inhibitor, has a more favorable safety profile in multiple myeloma patients.
+Here we tested its efficacy in preventing and treating experimental autoimmune myasthenia gravis (EAMG).
+Female Lewis rats were treated with two subcutaneous doses of 0.35 mg/kg of ixazomib per week, starting either 4 weeks before or at disease onset; both substantially lowered final total IgG and rat acetylcholine receptor (AChR) autoantibody levels.
+Interestingly, two weekly doses of 0.20 mg/kg of ixazomib for the last 4 weeks did not reduce autoantibody levels.
+A single dose of 0.50 mg/kg was acutely toxic in rats.
+In cultures of thymic cells from early-onset myasthenia gravis (EOMG) patients, 30 nM ixazomib or higher almost completely eliminated plasma cells and halted their IgG and AChR antibody production.
+We conclude that proteasome inhibition with ixazomib effectively depletes plasma cells from MG patients

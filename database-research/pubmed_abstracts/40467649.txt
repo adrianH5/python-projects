@@ -1,0 +1,11 @@
+Telomerase reverse transcriptase is crucial for cellular development, regeneration, and disease processes.
+Strategies for both telomerase activation and inhibition have been intensively explored in the past decades.
+In this study, we present a highly miniaturized, microarray-based assay designed to identify compounds that target telomerase.
+The active protein was either recombinantly derived from E. coli or obtained from cell lysates of human cancer cell lines and mouse cells expressing telomerase.
+Using non-contact spotter technology, these lysates or purified telomerase proteins were transferred onto nitrocellulose pads on a microarray.
+A telomerase binding assay, incorporating fluorescent labelled primer, the template RNA telomerase RNA component, and fluorescent labelled nucleotide as a primer cocktail, was conducted in incubation chambers.
+Binding of this primer cocktail to spotted telomerase from cell lysates, and from purified recombinant telomerase resulted in an increase in bound fluorescence.
+Epigallocatechin gallate, a known telomerase inhibitor, reduced this fluorescence in a dose-dependent manner with micromolar affinity.
+The inhibitory effect on telomerase was validated by thermophoresis and its impact on activity was shown in a Telomerase Repeated Amplification Protocol (TRAP) assay.
+Additional screening identified that 4'-iodo cytochalasin H inhibits primer cocktail binding to cell lysate in the low micromolar range.
+Molecular modeling and docking pinpointed a putative binding site for epigallocatechin gallate in a human telomerase homologue, and a putative binding site for 4'-iodo cytochalasin H. In summary, we developed an assay that can be employed to discover new telomerase inhibitors and that will serve as a valuable tool for screening of activators.

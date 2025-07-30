@@ -1,0 +1,7 @@
+Advancements in tumor research have highlighted the potential of epigenetic therapies as a targeted approach to cancer treatment.
+However, the application of these therapies has faced challenges due to the issue of substrate availability since the discovery of epigenetic modifications.
+Interestingly, metabolic changes are closely associated with epigenetic changes, and notably, certain metabolic enzymes exhibit nuclear localization within epigenetically active cellular contexts.
+This suggests that nuclear localization of metabolic enzymes may provide a mechanistic foundation for addressing substrate availability issues in epigenetic regulation.
+To date, there has been limited progress in synthesizing this information systematically.
+In this study, we provide an overview of the interplay between metabolic enzymes and epigenetic mechanisms, highlighting their critical roles.
+Subsequently, we summarize recent advances regarding the nuclear localization of metabolic enzymes, shedding light on their emerging roles in epigenetic regulation and oncogenesis.

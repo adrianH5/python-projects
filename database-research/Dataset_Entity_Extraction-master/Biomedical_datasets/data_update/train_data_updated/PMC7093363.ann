@@ -1,0 +1,4 @@
+T1	Dataset 91 97	GISAID
+T2	Repository 143 150	GenBank
+T3	AccessionNumber 166 174	MN908947
+R1	hasAttr	Arg1:T2	Arg2:T3

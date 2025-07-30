@@ -1,0 +1,10 @@
+Liquid biopsy has emerged as a promising non-invasive, cost-effective and real-time approach for cancer diagnosis and monitoring, allowing for the detection of biomarkers in bodily fluids.
+Among these, microRNAs (miRNAs) are a valuable choice due to their stability and ability to reflect the tumor's heterogeneity.
+Concerning triple negative breast cancer (TNBC), an aggressive subtype, several studies have demonstrated consistent upregulation of miRNA-21.
+Its elevated levels, linked to poor prognosis, make it valuable for early detection, risk stratification, and targeted therapies.
+While traditional miRNA quantification methods are accurate, they often require complex procedures and skilled personnel, limiting their accessibility in low-resource environments.
+These challenges can be addressed by electrochemical point-of-care (POC) platforms, inspired by the glucose strip, offering a good alternative by reducing matrix effects, integrating cost-effective and eco-friendly substrates.
+In this work, miRNA-21 was selectively detected using a complementary DNA probe modified with methylene blue, as a redox mediator, immobilized onto an AuNPs-functionalized, paper-based screen-printed electrode.
+Significant experimental parameters and sensor's selectivity were carefully evaluated, allowing miRNA-21 detection in both standard solution and human serum with limit of detection (LOD) 1.2 nM and satisfactory repeatability of about 8%.
+The platform's performance improved tenfold with an external paper-based origami pre-concentration device, enabling pM-level miRNA detection and advancing its potential for real clinical practice applications.
+The platform is envisioned as a starting point for developing accessible, rapid, cost-effective POC testing, with significant implications for personalized medicine and early TNBC detection.

@@ -1,0 +1,3 @@
+Metastatic breast cancer (MBC) remains an incurable disease with a 5-year overall survival rate below 25%.
+Metastases often emerge from subclinical, disseminated tumor cells that persist despite systemic therapy of primary disease - referred to as minimal residual disease (MRD).
+Detecting MRD is critical for identifying patients at high risk of recurrence and enabling timely intervention.

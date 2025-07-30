@@ -1,0 +1,2 @@
+The reconstruction of a computed tomography (CT) image can be compromised by artifacts, which, in many cases, reduce the diagnostic value of the image.
+These artifacts often result from missing or corrupt regions in the projection data, for example, by truncation, metal, or limited angle acquisitions.

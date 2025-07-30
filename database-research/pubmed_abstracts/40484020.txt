@@ -1,0 +1,10 @@
+Sensors based on Gallium arsenide (GaAs) nanowires (NWs) have excellent sensitivity and can directly detect individual virus particles and individual DNA molecules.
+Gallium arsenide (GaAs) nanowire photodetectors have attracted wildly attentions due to their direct band gap, specific surface area and high optical absorption coefficient.
+However, GaAs nanowires suffer the problem of serious surface states, leading to the development of high performance GaAs nanowire photodetectors.
+Plasma treatment with inert gas is one of the important methods to reduce the density of surface states.
+In this paper, the effect of nitrogen plasma treatment on the performance of GaAs nanowire photodetector is investigated.
+The results show that the light current of GaAs nanowire photodetector is obviously increased.
+Besides, the responsivity, specific detectivity and external quantum efficiency are also improved.
+Under 808 nm laser with the light intensity is 2966.8 mW/cm2, the responsivity changes from 56.4 A/W to 117.6 A/W and 18.7 A/W, the specific detectivity changes from 4.7×1011 Jones to 9.9×1011 Jones and 3.2×1011 Jones, the external quantum efficiency changes from 13146% to 27434% and 4359% when the nitrogen plasma treatment time is 0 s, 10 s and 20 s, respectively.
+This may be related to the defect states density of nanowires is changed after nitrogen plasma treatment.
+This work promotes the further development of GaAs nanowire photodetectors for biosensing techniques.&#xD.

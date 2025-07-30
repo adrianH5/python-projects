@@ -1,0 +1,2 @@
+Enhancer elements interact with target genes at a distance to modulate their expression, but the molecular details of enhancer-promoter interaction are incompletely understood.
+G-quadruplex DNA secondary structures (G4s) have recently been shown to co-occur with 3D chromatin interactions; however, the functional importance of G4s within enhancers remains unclear.

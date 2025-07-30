@@ -1,0 +1,10 @@
+p53 is a transcription factor that functions as a tumor suppressor and the active unit of which is a tetramer.
+Nearly all cancers inactivate the p53 pathway, primarily through missense mutations in TP53.
+Most mutant p53 proteins lose their function and often exhibit increased protein stability.
+In addition to this loss of function, mutant p53 can drive oncogenicity through a dominant-negative effect by forming mixed tetramers with wild-type (WT) p53 to inhibit its activity.
+The study in this issue of Cancer Research by Klemm and colleagues provides definitive evidence for the mechanism by which mutant p53 inactivates WT p53 function.
+The p53R248Q mutant has a longer half-life than WT p53, resulting in an approximate ratio of 3 or 4 mutant molecules to every WT molecule.
+This imbalance facilitates the dominant-negative effect, which can be overcome either by exogenously increasing WT p53 levels or by selectively degrading mutant p53.
+In experiments whereby mutant p53 was degraded using a degron-tagged construct combined with iberdomide as a molecular glue, remarkable therapeutic efficacy was observed when this approach was used in combination with an MDM2 inhibitor.
+This work paves the way for therapeutic strategies that aim to degrade mutant p53 proteins in cases in which a WT TP53 allele is retained.
+See related article by Klemm et al., p. 1978.

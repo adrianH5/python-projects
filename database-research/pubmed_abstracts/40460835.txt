@@ -1,0 +1,5 @@
+Lysosome damage activates multiple pathways to prevent lysosome-dependent cell death, including a repair mechanism involving endoplasmic reticulum (ER)-lysosome membrane contact sites, phosphatidylinositol 4-kinase-2a (PI4K2A), phosphatidylinositol-4 phosphate (PI4P), and oxysterol-binding protein-like proteins (OSBPLs) lipid transfer proteins.
+PI4K2A localizes to the trans-Golgi network and endosomes, yet how it is delivered to damaged lysosomes remains unknown.
+During acute sterile damage and damage caused by intracellular bacteria, we show that ATG9A-containing vesicles perform a critical role in delivering PI4K2A to damaged lysosomes.
+ADP ribosylation factor interacting protein 2 (ARFIP2), a component of ATG9A vesicles, binds and sequesters PI4P on lysosomes, balancing OSBPL-dependent lipid transfer and promoting the retrieval of ATG9A vesicles through the recruitment of the adaptor protein complex-3 (AP-3).
+Our results identify a role for mobilized ATG9A vesicles and ARFIP2 in lysosome homeostasis after damage and bacterial infection.

@@ -1,0 +1,7 @@
+Overexpression of sialylated glycoprotein is a stage-specific process and is regarded as a common manifestation of tumor progression.
+Accurate quantification of protein-specific sialylation on biological membranes contributes to a thorough comprehension of cellular signal transduction as well as the search for sialylated glycan-related biomarkers.
+Herein, we propose triple recognition-mediated proximity ligation coupled with rolling-circle amplification to examine protein-specific sialylation on living cell membranes and their derived exosomes.
+Multiple recognitions in spatial proximity provide three key advantages: (1) significantly improved identification precision, (2) flexible and scalable target options, and (3) minimized off-target effects.
+Using this approach, we successfully visualize sialylation-dependent interactions between exosomes and cells.
+By converting certain recognition sites and combining duplex calculations, we establish a quantitation method of exosomal protein-specific sialylation capping ratio, which could act as a useful noninvasive indicator in a customizable 3D-printed microfluidic chip (ExoTRAP) for exosome-based cancer discrimination.
+This platform enables multiplexed profiling of protein-specific sialylation with high sensitivity (e.g., the LOD of sialylated MUC1-positive MCF-7 exosomes is 2.81 × 10

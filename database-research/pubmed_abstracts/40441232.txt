@@ -1,0 +1,14 @@
+Epidemiological studies have demonstrated that inflammatory cytokines are associated with cancer development.
+However, the causal relationship between inflammatory cytokines and glioblastoma remains unclear.
+We used a two-sample Mendelian randomization approach to determine the potential causal effects of inflammatory cytokines on glioblastoma.
+Genome-wide association study summary statistics for 41 inflammatory cytokines were obtained from the University of Bristol database, and 91 inflammatory cytokines were acquired from the genome-wide association study catalog database.
+Genetic data on glioblastoma were downloaded from the FinnGen consortium (R10).
+Mendelian randomization analysis and Bayesian weighted Mendelian randomization analysis were performed to investigate the causal relationship between inflammatory cytokines and glioblastoma risk.
+A combination of Mendelian randomization (MR)-Egger, MR-Pleiotropy Residual Sum and Outliers, and Radial MR methods was employed to assess horizontal pleiotropy, which is a potential bias in MR studies.
+The Cochran Q test was used to quantify the degree of heterogeneity.
+Finally, we conducted a comprehensive meta-analysis to confirm the robustness of our findings.
+Increased levels of tumor necrosis factor β (odds ratio [OR] = 1.597, 95% CI: 1.143-2.230, P = .006) and interleukin-10 (OR = 1.452, 95% CI: 1.059-1.992, P = .021) were associated with an increased risk of glioblastoma.
+Conversely, higher levels of circulating fibroblast growth factor 21 (OR = 0.456, 95% CI: 0.276-0.754, P = .002) and macrophage inflammatory protein 1a (OR = 0.743, 95% CI: 0.558-0.990, P = .042) were associated with a decreased risk of glioblastoma.
+No significant causal effect on inflammatory cytokines from glioblastoma was detected, and no significant heterogeneity in instrumental variables or horizontal pleiotropy was observed.
+Our findings indicate that specific inflammatory cytokines may play a role in glioblastoma development, acting as either protective factors or risk factors.
+This offers valuable insights into the disease mechanism and suggests that targeting these cytokines could be a potential strategy for glioblastoma prevention and treatment.

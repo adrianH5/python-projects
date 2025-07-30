@@ -1,0 +1,3 @@
+Drug delivery systems typically need to be equipped with targeting moieties in order to be efficiently internalized by cells.
+Alternatively, magnetic nanoparticles (MNs) combined with active compounds may be driven by magnetic field to the site of action.
+Delivery of hydrophobic drugs using this approach is challenging as it would require coupling of MNs and hydrophobic environment within nanocarriers and triggering of the drug release.

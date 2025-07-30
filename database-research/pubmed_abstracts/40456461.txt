@@ -1,0 +1,11 @@
+Colorectal cancer (CRC) is the third most common malignancy and the second leading cause of cancer-related deaths worldwide, with a 5-year survival rate below 20 %.
+Immunotherapy, particularly immune checkpoint blockade (ICB)-based therapies, has become an important approach for CRC treatment.
+However, only specific patient subsets demonstrate significant clinical benefits.
+Although the TIDE algorithm can predict immunotherapy responses, the reliance on transcriptome sequencing data limits its clinical applicability.
+Recent advances in artificial intelligence and computational pathology provide new avenues for medical image analysis.
+In this study, we classified TCGA-CRC samples into immunotherapy responder and non-responder groups using the TIDE algorithm.
+Further, a pathomics model based on convolutional neural networks was constructed to directly predict immunotherapy responses from histopathological images.
+Single-cell analysis revealed that fibroblasts may induce immunotherapy resistance in CRC through collagen-CD44 and ITGA1 + ITGB1 signaling axes.
+The developed pathomics model demonstrated excellent classification performance in the test set, with an AUC of 0.88 at the patch level and 0.85 at the patient level.
+Moreover, key pathomics features were identified through SHAP analysis.
+This innovative predictive tool provides a novel method for clinical decision-making in CRC immunotherapy, with potential to optimize treatment strategies and advance precision medicine.

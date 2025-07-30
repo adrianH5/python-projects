@@ -1,0 +1,10 @@
+Single-molecule techniques are exceptionally well suited for analyzing the complex dynamic behavior of macromolecules involved in fundamental biological processes.
+Nevertheless, time and cost usually restrict current single-molecule methods to examining a limited number of different samples.
+At the same time, a broad sequence or chemical space often needs to be investigated to gain a thorough understanding of complex biological phenomena.
+To address this urgent need, we have developed multiplexed single-molecule characterization at the library scale (MUSCLE), a method that combines single-molecule fluorescence microscopy with next-generation sequencing to enable highly multiplexed observations of complex dynamics on millions of individual molecules spanning thousands of distinct sequences or barcoded entities.
+In this protocol, we outline the implementation of MUSCLE and present examples from our recent research, such as the sequence-dependent dynamics of Cas9-induced target DNA unwinding and rewinding.
+This example demonstrates that MUSCLE can be applied to study protein-nucleic acid interactions, going beyond nucleic-acid-only model systems.
+We detail the sample and library design, high-throughput single-molecule data acquisition, next-generation sequencing, spatial registration of single-molecule fluorescence and sequencing data and downstream data analysis.
+The ligation-based surface immobilization approach of MUSCLE ensures high clustering efficiency (>40%), increasing throughput and simplifying registration.
+In addition, MUSCLE includes a 3D-printed flow cell adapter that enables liquid exchange during single-molecule fluorescence microscopy.
+The complete procedure typically spans 3-4 days and yields a dataset that comprehensively characterizes the dynamic behavior of a library of constructs.

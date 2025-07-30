@@ -1,0 +1,11 @@
+Multiple myeloma (MM) is a malignancy of clonal plasma cells that arises from precursor conditions, including monoclonal gammopathy of undetermined significance (MGUS) and smoldering multiple myeloma (SMM).
+Disease progression is driven by a complex interplay of genetic alterations, epigenetic dysregulation, and support from the bone marrow microenvironment.
+Early events such as chromosomal translocations (e.g.
+t(4;14)), copy number abnormalities (e.g.
+del(17p), gain(1q)), and driver mutations in KRAS, NRAS, TP53, and DIS3 promote clonal evolution.
+These are complemented by non-coding regulatory mutations, aberrant splicing, and dysregulated non-coding RNAs that contribute to transcriptional reprogramming.
+The tumor microenvironment further supports MM progression through cytokine signaling, immune evasion, and enhanced angiogenesis.
+MM cells also undergo metabolic rewiring, favoring glycolysis, oxidative phosphorylation, and amino acid metabolism to sustain growth and resist therapy.
+Epigenetic alterations-including DNA methylation changes, histone modifications, and chromatin remodeling-shape gene expression and reinforce malignant behavior.
+This review comprehensively examines the genetic, epigenetic, and molecular alterations that underlie the initiation and progression of MM and its precursor states, with particular emphasis on the interplay between plasma cell-intrinsic mechanisms and microenvironmental influences.
+These insights help elucidate the biological complexity of MM pathogenesis and inform future research directions.

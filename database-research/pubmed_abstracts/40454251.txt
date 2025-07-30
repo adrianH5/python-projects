@@ -1,0 +1,10 @@
+This study introduces an approach to classifying histopathological images for detecting dysplasia in oral cancer through the fusion of support vector machine (SVM) classifiers trained on deep learning features extracted from InceptionResNet-v2 and vision transformer (ViT) models.
+The classification of dysplasia, a critical indicator of oral cancer progression, is often complicated by class imbalance, with a higher prevalence of dysplastic lesions compared to non-dysplastic cases.
+This research addresses this challenge by leveraging the complementary strengths of the two models.
+The InceptionResNet-v2 model, paired with an SVM classifier, excels in identifying the presence of dysplasia, capturing fine-grained morphological features indicative of the condition.
+In contrast, the ViT-based SVM demonstrates superior performance in detecting the absence of dysplasia, effectively capturing global contextual information from the images.
+A fusion strategy was employed to combine these classifiers through class selection: the majority class (presence of dysplasia) was predicted using the InceptionResNet-v2-SVM, while the minority class (absence of dysplasia) was predicted using the ViT-SVM.
+The fusion approach significantly outperformed individual models and other state-of-the-art methods, achieving superior balanced accuracy, sensitivity, precision, and area under the curve.
+This demonstrates its ability to handle class imbalance effectively while maintaining high diagnostic accuracy.
+The results highlight the potential of integrating deep learning feature extraction with SVM classifiers to improve classification performance in complex medical imaging tasks.
+This study underscores the value of combining complementary classification strategies to address the challenges of class imbalance and improve diagnostic workflows.

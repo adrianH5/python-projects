@@ -1,0 +1,1 @@
+To develop a flexible and open-source stereotactic surgical planning toolkit, validated through clinical data to assess its performance in frame registration and stereotactic neurosurgical planning.

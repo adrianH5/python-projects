@@ -1,0 +1,8 @@
+In this study, 102 cisplatin-ineligible patients with muscle-invasive bladder cancer (MIBC) who received neoadjuvant RC48-ADC combined with immunotherapy were included.
+We evaluated the pathological responses and explored multiple clinical characteristics to identify independent predictive indicators of the efficacy.
+The results showed that neoadjuvant RC48-ADC combined with immunotherapy had promising efficacy.
+Furthermore, we collected 11 MIBC samples and performed single-cell RNA sequencing.
+All BLCA epithelial cells were identified as four subclusters.
+We conducted differential gene expression/functional enrichment analysis, cell proportion analysis, cell cycle analysis, CNV analysis, and pseudotemporal analysis on all tumor cells to evaluate potential efficacy-predictive biomarkers and the evolutionary patterns of tumor cells during neoadjuvant treatment.
+The results indicated that the combined detection of HER2 and HSPA1A expression in C3 subcluster based on single-cell RNA sequencing is a potential strategy for predicting efficacy.
+In addition, C3 plays a dominant role in the emergence of drug-resistance during the evolution of BLCA epithelial cells.

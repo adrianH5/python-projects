@@ -1,0 +1,9 @@
+Chiral drug enantiomers frequently exhibit marked differences in pharmacological efficacy and toxicity profiles.
+However, the resolution limitations of traditional detection methodologies render them incapable of resolving the spatial heterogeneity of drug distribution within individual cells and obscure our understanding of subcellular drug distribution and mechanism of action.
+Here, we employ terahertz scattering-type scanning near-field optical microscopy (THz s-SNOM), a cutting-edge technique offering nanoscale spatial resolution and label-free imaging capabilities, to investigate single-cell response heterogeneity to chiral drug exposure.
+We systematically analyzed morphological and biochemical compositional differences between control cells and those treated with RS-ibuprofen, (R)-(-)-ibuprofen, and (S)-(+)-ibuprofen.
+Our high-resolution analysis revealed that the mean area of plasma membrane-derived extracellular vesicles (PEVs) in drug-treated cells increased by 24.6%, 25.4%, and 39.9%, respectively, compared to the representative control cell.
+Through principal component analysis and Euclidean distance distribution methods, we identified distinct spectral variations in both intracellular and nuclear regions.
+Notably, these three enantiomeric forms induced fundamentally different patterns of heterogeneous evolution within cellular compartments.
+RS-ibuprofen treatment specifically resulted in increased membrane heterogeneity concomitant with decreased nuclear heterogeneity.
+Quantitative analysis of spectral intensity differences within nuclear regions (

@@ -1,0 +1,4 @@
+Human epidermal growth factor receptor 2 (HER2) is highly expressed in various solid tumors, and its abnormal activation is closely associated with poor tumor prognosis, establishing it as a prominent target in contemporary research.
+The successful clinical treatment of multiple HER2-positive tumors with HER2 antibodies has prompted researchers to design chimeric antigen receptor T (CAR-T) cells targeting HER2 for solid tumor immunotherapy.
+To date, the development of CAR structures has progressed to the fifth generation, with most HER2-CAR-T cell structures being modified based on the second-generation CAR architecture.
+This review will delineate the structure and cytotoxic mechanism of HER2-CAR-T cells, elucidate the difficulties and optimization strategies for HER2-CAR-T cell therapy, and summarize recent clinical applications and advancements.

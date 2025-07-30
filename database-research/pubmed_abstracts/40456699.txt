@@ -1,0 +1,9 @@
+Triple-negative breast cancer (TNBC) accounts for approximately 15% of breast cancers and lacks estrogen receptor (ER), progesterone receptor (PR), and human epidermal growth factor receptor 2 (HER2), rendering it unresponsive to hormonal or anti-HER2 therapies.
+Due to its poor prognosis and limited treatment options, there is an urgent need for targeted therapies.
+In this study, we developed highly adaptable polyamidoamine (PAMAM) dendrimer-based gel nanoparticles with dual-targeting capabilities against urokinase-type plasminogen activator receptor (uPAR) and ribonucleotide reductase R2 (R2).
+These nanoparticles were designed to target both TNBC cells and cancer-associated stromal cells by leveraging uPA-uPAR interactions and delivering the antisense oligonucleotide GTI-2040 (GTI) against R2.
+The resulting dual-functional dendrimer gel nanoparticles, GDP-uPA/GTI, demonstrated good biocompatibility, with an average size of ∼16.45 nm.
+GDP-uPA/GTI enhanced GTI delivery by 3.4-fold in TNBC cells (MDA-MB-231) and by 4.8-fold in stromal cells (HCC2218) compared to GTI alone.
+It reduced R2 expression by 83.1% and induced ∼30% TNBC cell death.
+In a TNBC xenograft model, GDP-uPA/GTI significantly inhibited tumor growth by 50.5%.
+These findings highlight the unique design of the dual-functional dendrimer gel nanoparticles and their dual-targeting efficacy, demonstrating their potential as a promising therapeutic strategy for TNBC.

@@ -1,0 +1,13 @@
+The aim of present study mainly focuses on the green synthesis of silver nanoparticles (Ag-NPs) utilizing an aqueous extract of Delonix elata, which is an ecologically friendly and sustainable approach.
+The synthesized Ag-NPs were characterized by UV-visible spectroscopy, FTIR, XRD, SEM with EDAX, TEM and X-ray photoelectron spectroscopy (XPS).
+A prominent absorption peak at 404 nm in the UV-visible spectrum proved successful nanoparticle synthesis, while FTIR confirmed various functional groups, including methyl, carboxylic acids, and phenolic compounds, involved in the reduction and capping of Ag-NPs.
+The XRD spectrum shows distinct peaks at 2θ values of 38.02º, 46.15º, 64.41º, and 77.31º, which correspond to the (111), (200), (220), and (311) crystalline planes, respectively.
+The outcomes validate the existence of Ag-NPs by confirming the face-centered cubic (FCC) shape.
+SEM and TEM showed spherically arranged particles ranging from 7 to 25 nm.
+EDAX spectra indicated significant silver content (65.5%) with protein capping.
+The D. elata produced Ag-NPs had an average zeta potential of - 19.8 mV and a standard variation of 0.8 mV, indicating considerable electrostatic stability.
+The X-ray photoelectron spectroscopy (XPS) assessment confirmed the production of metallic silver and revealed the surface state makeup of Ag-NPs.
+Ag-NPs exhibited excellent antibacterial activity, with inhibition zones against E. coli (15.2 mm), P. aeruginosa (17.5 mm), S. mutans (19.2 mm), and S. aureus (12.5 mm).
+Additionally, the nanoparticles demonstrated strong antioxidant activity, with inhibition rates of 72.55% (ABTS) and 78.23% (DPPH) at 100 μg/mL.
+Anti-inflammatory tests showed 87% membrane stability in human red blood cells at 100 μg/mL.
+Additionally, cytotoxicity test against MCF-7 cancer cells revealed an IC

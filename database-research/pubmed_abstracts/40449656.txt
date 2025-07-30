@@ -1,0 +1,8 @@
+Pemphigus is a group of autoimmune blistering diseases characterized by the presence of autoantibodies against desmogleins, which are critical components of desmosomes.
+These autoantibodies disrupt the adhesive function of desmosomes, leading to loss of cell-cell adhesion in the epidermis, which manifests clinically as blistering and erosions of the skin and mucous membranes.
+Here, we explored the potential use of midostaurin, a multi-kinase inhibitor commonly employed in the treatment of FLT3-mutated cancers, as a therapeutic option for pemphigus.
+The results demonstrated that midostaurin effectively rescued loss of adhesion and keratin retraction induced by both pemphigus vulgaris (PV) and pemphigus foliaceus (PF) IgG in cultured keratinocytes.
+Additionally, midostaurin prevented PV-IgG-mediated relocalization of desmoglein (Dsg) 3 within the cell membrane as well as loss of Dsg3 adhesion on single molecule level as revealed by atomic force microscopy (AFM).
+In ex vivo human skin, midostaurin treatment successfully prevented PV-IgG-induced blister formation.
+Ultrastructural analyses revealed that midostaurin restored the integrity of desmosomes.
+These findings indicate that midostaurin can counteract the pathogenic effects of pemphigus autoantibodies, suggesting its potential as a therapeutic agent for pemphigus.

@@ -1,0 +1,7 @@
+Spermine is a potential biomarker for cancer diagnosis.
+In this study, yellow fluorescent nitrogen-doped carbon dots (N-CDs) were prepared using the hydrothermal carbonization method using urea and o-phenylenediamine as carbon source materials.
+The prepared N-CDs have been utilised as a turn-on nanoprobe for the selective detection of spermine.
+On successive additions of spermine, the obtained N-CDs exhibited a significant enhancement in emission intensity due to the aggregation-induced emission (AIE) mechanism.
+The fluorescence enhancement of N-CDs in spermine detection exhibited a linear plot within the concentration range of 1.00 to 10.00 µM, and the determined limit of detection (LOD) was as low as 52.7 nM.
+The fluorescent turn-on mechanism between N-CDs and spermine has been thoroughly investigated using emission data, zeta potential and lifetime measurements.
+Further, the present method is an easy-to-implement and cost-effective analytical strategy for the sensitive and selective detection of spermine in urine samples through fluorescence turn-on assays.

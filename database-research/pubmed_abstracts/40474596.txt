@@ -1,0 +1,7 @@
+Holothurian glycosaminoglycan (hGAG) is an extract from the body wall of sea cucumber and previous studies have proved many unique bioactivities of it, such as anti-tumor, anti-coagulation and immune regulation.
+Previous studies of our research group have shown hGAG promoted cell apoptosis in human lung adenocarcinoma A549 cells by upregulating Bax and caspase-3 and downregulating Bcl-2, indicating mitochondrial apoptosis pathway participated in the process.
+In the mitochondrial apoptosis pathway, Bim induces cell apoptosis by either direct activation of pro-apoptotic Bax/Bak or neutralization of anti-apoptotic Bcl-2 proteins.
+The transcription of Bim was regulated by FOXO3a.
+Akt, one of the most important cellular signaling molecules, regulates apoptosis through its phosphorylation.
+Phosphorylation of Akt results in translocation of FOXO3a from nuclear to cytoplasm.
+This study aimed to explore the mechanism by which hGAG induced apoptosis in A549 cells, focusing on its regulation of the Akt/FOXO3a/Bim signaling pathway.

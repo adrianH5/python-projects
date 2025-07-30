@@ -1,0 +1,11 @@
+Recent findings have indicated that the F-box E3 ubiquitin ligase, F-box only protein 11 (FBXO11), may serve a tumor-suppressing role in certain types of cancers.
+However, its specific function in ovarian cancer (OC) remains to be elucidated.
+This study revealed that FBXO11 expression is reduced in OC tissues compared to normal tissues.
+To assess the role of FBXO11 in OC cells, we established stable human OC cell lines with tetracycline-inducible (Tet-on) expression of FBXO11 CDS or shRNA.
+FBXO11 inhibited OC cell proliferation, colony formation, migration, invasion, and cell cycle transition from G0/G1 to S phase in vitro.
+Moreover, FBXO11 suppressed xenograft tumor growth in mice in vivo.
+Concurrently, FBXO11 reduced the volume of ascites and the number of metastatic tumor nodules in the peritoneal metastasis model.
+Mechanistically, FBXO11 promoted kinesin family member 2C (KIF2C) to undergo K48-linked ubiquitination and proteasomal degradation, and KIF2C knockdown reversed the tumor-promoting function of FBXO11 downregulation.
+Additionally, we demonstrated that FBXO11 is a transcriptional target of zinc-finger protein 217 (ZNF217), a known transcriptional repressor that has been implicated in the promotion of OC progression and the prediction of poor prognosis.
+In summary, FBXO11 functions as a tumor suppressor in OC through ubiquitin-proteasomal degradation of KIF2C; and the low expression level of FBXO11 in OC may be attributed to its transcriptional inhibition by transcription factor ZNF217.
+These findings provided new insights into understanding the molecular mechanism of OC progression.

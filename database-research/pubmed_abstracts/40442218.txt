@@ -1,0 +1,14 @@
+DNA methylation plays a critical role in myelodysplastic syndrome (MDS).
+Here, we aimed to observe the effects of polydatin (PD) on DNA methylation in MDS cells on a genome-wide scale and explore the underlying mechanisms, providing new evidence for PD as a novel hypermethylation agent.
+We used the Gene Expression Omnibus (GEO) online database to evaluate the DNA methylation characteristics of MDS patients.
+A Human Methylation 850 K BeadChip was used to evaluate the effects of PD on DNA methylation in SKM-1 cells.
+Western blotting (WB) was used to observe changes in the expression of related proteins.
+Cytoscape was used to determine the key genes that were hypermethylated by PD.
+The therapeutic effects were evaluated using flow cytometry experiment and a cell counting kit-8 (CCK-8) assay in vitro.
+Data from the GEO online database revealed that aberrant gene hypomethylation plays an important role in MDS.
+In MDS cells, 448 genes (71.91%) were hypermethylated following PD treatment.
+These hypermethylated genes are related to cancer-related signaling pathways.
+Moreover, key hypermethylated genes, including PIK3CA, ITPR3 and SPOPL, were identified, and these three genes are all oncogenes.
+Most importantly, PD decreased the protein expression of the above three oncogenes.
+Finally, we found that PD could inhibit the proliferation of MDS cells, arrest them in the S phase and induce their apoptosis.
+Our findings demonstrated that PD has therapeutic effects on MDS by inhibiting the protein expression of oncogenes via hypermethylation in vitro, indicating that PD may be a novel hypermethylation agent.

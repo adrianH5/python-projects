@@ -1,0 +1,9 @@
+Liver transplant recipients (LTRs) are at risk of graft injury, leading to cirrhosis and reduced survival.
+Liver biopsy, the diagnostic gold standard, is invasive and risky.
+We developed a hybrid multi-class neural network (NN) model, 'GraftIQ,' integrating clinician expertise for non-invasive graft pathology diagnosis.
+Biopsies from LTRs (1992-2020) were classified into six categories using demographic, clinical, and lab data from 30 days pre-biopsy.
+The dataset (5217 biopsies) was split 70/30 for training/testing, with external validation at Mayo Clinic, Hannover Medical School, and NUHS Singapore.
+Bayesian fusion was used to combine clinician-derived probabilities with NN predictions, improving performance.
+Here we show that GraftIQ (MulticlassNN+clinical insight) achieved an AUC of 0.902 (95% CI:0.884-0.919), up from 0.885 with NN alone.
+Internal and external validation demonstrated 10-16% higher AUC than conventional ML models.
+GraftIQ demonstrates high accuracy in identifying graft etiologies and offers a valuable clinical decision support tool for LTRs.

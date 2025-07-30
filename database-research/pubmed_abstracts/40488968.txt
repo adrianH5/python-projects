@@ -1,0 +1,6 @@
+MYC proteins are potent oncoproteins that drive tumorigenesis in a wide range of cancers, making it critical to understand their oncogenic functions and underlying mechanisms.
+Although MYC overexpression induces transcriptional and replication-associated stress, recent studies have paradoxically identified MYC as a key resilience factor that protects cancer cells from these stressors.
+In this review, we explore the dual role of MYC in both driving and mitigating cellular stress to achieve its oncogenic function.
+We also examine how MYC-induced transcriptional and replicative stress generates potentially immunogenic nucleic acid species while simultaneously helping cancer cells evade host immune recognition.
+We propose a model in which MYC plays a critical role in managing the stress it induces, thereby maintaining a balance that promotes tumor growth.
+Based on this model, we discuss potential therapeutic strategies targeting MYC-dependent stress responses, offering new avenues for cancer treatment and highlighting the complexity of MYC-driven oncogenesis.

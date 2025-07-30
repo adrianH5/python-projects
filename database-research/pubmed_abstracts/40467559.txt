@@ -1,0 +1,5 @@
+Precise identification of T cell antigens in silico is crucial for the development of cancer mRNA vaccines.
+However, current computational methods only utilize sequence-level rather than atomic level features to identify T cell antigens, which results in poor representation of those that activate immune responses.
+Here we propose deepAntigen, a graph convolutional network-based framework, to identify T cell antigens at the atomic level.
+deepAntigen achieves excellent performance both in the prediction of antigen-human leukocyte antigen (HLA) binding and antigen-T cell receptor (TCR) interactions, which can provide comprehensive guidance for identification of T cell antigens.
+The tumor neoantigens predicted by deepAntigen in lung, breast and pancreatic cancer patients are experimentally validated through ELISPOT assays, which detect successful activation of CD8

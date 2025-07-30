@@ -1,0 +1,5 @@
+Commonly used digital health technologies, such as electronic health record systems and patient portals as well as custom-built digital decision aids, have the potential to enhance person-centered shared decision-making (SDM) in cancer care.
+SDM is a 2-way exchange of information between at least a clinician and the patient and a shared commitment to make informed decisions.
+However, there is little evidence in the literature on how technologies are used for SDM or how best they can be designed and integrated into workflows and practice.
+This may be due to the nature of SDM, which is fundamentally human interactions and conversations that produce desired human outcomes.
+Therefore, technology must be nonintrusive while supporting the human decision-making process.

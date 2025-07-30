@@ -1,0 +1,8 @@
+Prostate cancer and its treatment can impact health-related quality of life.
+Evidence for physical activity strategies sustained over long periods to improve quality of life is limited.
+Given the limited feasibility of a randomized trial to answer this question, we emulated a target trial of physical activity strategies based on current clinical guidelines and 6-year quality of life using observational data from 1,549 men in the Health Professionals Follow-up Study diagnosed with nonmetastatic prostate cancer between 2004-2016.
+Eligible individuals were free of conditions that may preclude high levels of physical activity at baseline.
+We estimated 6-year mean physical quality of life scores (based on EPIC-CP symptom domains; range: 1-12, lower is better) under sustained, dynamic physical activity strategies, adjusting for baseline and time-varying variables using the parametric g-formula.
+Estimated 6-year mean differences (adherence to physical activity recommendations vs. non-adherence) were 0.1 (95% confidence interval: 0.0,0.2) for bowel symptoms, -0.1 (-0.2,0.1) for urinary incontinence, 0.0 (-0.1,0.2) for urinary irritation/obstruction, -0.3 (-0.7,0.1) for sexual symptoms, and -0.1 (-0.2,0.1) for vitality/hormonal symptoms.
+Estimated 6-year mean differences comparing adherence to physical activity recommendations vs. no intervention (observed physical activity in this population) were close to zero.
+Adhering to current physical activity recommendations may help to improve 6-year symptoms in the sexual domain, with little expected influence on symptoms in the bowel, urinary, and vitality/hormonal domains.

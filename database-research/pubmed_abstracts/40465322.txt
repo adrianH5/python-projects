@@ -1,0 +1,13 @@
+Nomograms are commonly used in oncology to assist clinicians in individualized decision-making processes, such as considering sentinel node biopsy (SNB) for melanoma patients.
+Concurrently, artificial intelligence (AI) is increasingly being utilized in medical predictions.
+This study aims to compare the predictive accuracy of nomograms and AI platforms for SNB positivity in a real-world cohort of melanoma patients.
+A retrospective analysis of melanoma patients who underwent SNB from 2020 to 2024 in a single institution was performed.
+Three open-access nomograms and three public AI platforms were employed to assess SNB positivity based on comprehensive clinical and pathological characteristics.
+Our cohort comprised 62 melanoma patients who have undergone SNB, of whom 12 (19.4%) were positive.
+There was no concordance among the three nomograms, nor among AI platforms ( P  < 0.001).
+Only the Memorial Sloan Kettering Cancer Center (MSKCC) nomogram scored statistically different between positive and negative SNB ( P  = 0.04), and ChatGPT was the only AI platform that was also statistically significant ( P  = 0.02).
+Only ChatGPT score was statistically significant for SNB positivity after univariate logistic regression (odds ratio: 1.05; 95% confidence interval: 1.004-1.108; P = 0.03).
+A receiver operating characteristic curve based on ChatGPT predictions generated a model with an area under the curve (AUC) of 0.702.
+Integrating MSKCC predictions marginally improved the model's predictive performance, enhancing the AUC to 0.715.
+In conclusion, SNB positivity could be better performed by an AI platform in this cohort of patients.
+Enhancing AI platforms could provide better populations for nomogram validation, which would lead to better predictive models.

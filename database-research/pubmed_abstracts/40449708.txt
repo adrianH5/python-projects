@@ -1,0 +1,9 @@
+Prostate cancer is a leading cause of cancer-related mortality among men worldwide.
+Early and accurate detection is critical for effective treatment and improved patient outcomes.
+Although prostate-specific antigen (PSA) remains the primary biomarker for screening, conventional assays often lack the sensitivity and specificity required for reliable diagnostics.
+In this review, we evaluate the emerging role of graphene-based biosensors in PSA detection and their potential to transform prostate cancer diagnostics.
+Graphene's exceptional properties including a high surface-to-volume ratio and outstanding electrical conductivity make it an ideal platform for biosensing applications.
+We classify graphene-based sensors into three categories: electrochemical sensors, field-effect transistors (FETs), and fluorescence-based sensors, and discuss the mechanisms by which each detects PSA.
+Strategies for integrating graphene with other nanomaterials to enhance analytical performance are highlighted.
+We also assess the clinical feasibility of these platforms, emphasizing their rapid response times, high accuracy, and minimally invasive operation.
+Finally, we discuss current challenges and future perspectives for translating graphene-based PSA biosensors from laboratory research to routine clinical practice.

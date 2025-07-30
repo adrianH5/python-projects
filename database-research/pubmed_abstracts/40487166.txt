@@ -1,0 +1,5 @@
+Cancer immunotherapy, which activates the patient's immune system to combat tumors, has made significant progress in recent years.
+However, the immunosuppressive nature of the tumor microenvironment and the side effects associated with systemic administration limit its efficacy.
+Taking advantage of bioactive polydopamine (PDA) materials in controlled drug and immunomodulator release owing to their unique physicochemical properties and biocompatibility, recent efforts have focused on engineered PDA nanomedicines with intrinsic immunomodulatory functions, but relevant systematic reviews are lacking.
+This review summarizes recent advances in the application of bioactive PDA nanomedicines in cancer immunotherapy, focusing on their roles in inducing immunogenic cell death, reprogramming tumor-associated macrophages, as cancer vaccine, and enhancing immune checkpoint blockade.
+With further in-depth discussion of the challenges and future perspectives of bioactive PDA nanomedicines, with the aim that this systematic review can promote interdisciplinary intersections and provide inspiration for the further growth and clinical translation of PDA materials.

@@ -1,0 +1,23 @@
+A novel coronavirus disease, named COVID-19, responsible for SARS, appeared in late 2019, originating most likely from a seafood market in Wuhan, in the Hubei province of China.
+3
+COVID-19 infection has rapidly spread and was declared a pandemic by the WHO on 11 March 2020.
+An analysis of 1524 patients admitted to a radiation and medical oncology unit in Wuhan from December 2019 to February 2020 found a twofold increase of the risk of COVID-19 infection rate in patients with cancer compared with the general population (0.79% vs 0.37%) over the same period of time.
+5 Data derived from a nationwide analysis in China reported that COVID-19-positive patients with cancer (N=18) had a higher risk of severe events compared with patients without cancer (39% vs 8%, p=0.0003), especially patients in active treatment compared with cancer survivors.
+Facing this exceptional and rapidly developing situation, no standard operating procedures for care organisations existed in oncologiocal institutions, although general recommendations for healthcare in hospital units, for COVID-19 and suspected case management were rapidly drafted.
+We aimed to assess how oncology centres and departments reacted to the health crisis related to the COVID-19 pandemic, in order to improve oncological care and to implement preventive measures.
+A survey (online supplementary material) was sent by email to 30 representatives of oncological departments in 12 of the most affected countries by COVID-19 in Europe and the USA in order to provide quality assessment.
+The burden on the health system for each country at the moment of the survey completion was reported as the number of affected cases per 100 000 inhabitants, with data extracted from the Johns Hopkins University COVID-19 Data Repository.
+The burden of COVID-19 cases on the health system is calculated as the number of total infections per 100 000 inhabitants in each country (figure 1).
+For Italy, Belgium, Switzerland, Spain and the other centre from USA, 200–400 patients were affected by COVID-19 per 100 000 inhabitants.
+In 10/21 (47.6%) centres, physicians discussed the option to avoid intensive care in case of worsening of clinical conditions in those with terminal illness, regardless of COVID-19 infection, accepting the risk of early death.
+In 13/20 (65%) centres, swab tests were performed before hospitalisation, and in 10/20 (50%) centres, admissions were limited to COVID-19-negative patients.
+Although some legal and reimbursement issues remain, COVID-19 crisis has led to a rapid expansion of telemedicine, which could remain a good option also outside the pandemic crisis, especially when a clinical examination is not necessary and in areas of the world where reaching the hospital raises practical difficulties for patients.
+Chest CT scan seems to be more sensitive than RT-PCR for COVID-19 diagnosis and in 60%–93% of the cases becomes positive before the RT-PCR.25 27 However, the disadvantage of CT is the limited availability in terms of number of exams per day in each institution compared with the swab, which can be easily made on a large scale and is less cost-effective.
+32 33
+Finally, predisposed dedicated facilities to manage cancer care during COVID-19 pandemic could be advisable.
+34 Although COVID-19 wards have been organised in most centres, in only 57.1% of the centres healthcare professionals caring for oncohaematological patients did not take part in the care of COVID-19-positive patients.
+Although some recommendations for hospital management during the COVID-19 pandemic are actually available, such as those of the European Centre for Disease Prevention and Control, our study allows assessment of adherence to this recommendation, in addition to providing an insight into the management of oncological care during the pandemic in a real-world context.
+Background  COVID-19 appeared in late 2019, causing a pandemic spread.
+Separated pathways for COVID-19-positive and COVID-19-negative patients were organised, with separate inpatient units and day care areas.
+Self-isolation was required for COVID-19-positive or symptomatic staff, while return to work policies required a negative swab test in 76.2% of the centres.
+Conclusion  Many pragmatic measures have been quickly implemented to deal with the health emergency linked to COVID-19, although the relative efficacy of each intervention should be further analysed in large observational studies.

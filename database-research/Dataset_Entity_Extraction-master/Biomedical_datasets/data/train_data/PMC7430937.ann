@@ -1,0 +1,23 @@
+T1	Dataset 1934 2017	Toxicogenomics Project-Genomics Assisted Toxicity Evaluation System (Open TG-GATEs)
+T2	Creator 2019 2039	Igarashi et al. 2015
+T3	Repository 2042 2087	National Center for Biotechnology Information
+T4	Repository 2088 2111	Gene Expression Omnibus
+T5	Repository 2113 2117	NCIB
+T6	Repository 2118 2121	GEO
+T7	URL 2123 2155	https://www.ncbi.nlm.nih.gov/geo
+T8	Repository 2165 2208	European Bioinformatics Institute (EMBL-EBI
+T9	URL 2210 2231	https://www.ebi.ac.uk
+T10	Repository 2286 2294	TG-GATEs
+T11	AccessionNumber 2417 2425	GSE30351
+T12	Repository 2484 2494	DrugMatrix
+T13	AccessionNumber 2519 2527	GSE57805
+T14	Dataset 2828 2910	Toxicogenomic Project-Genomics Assisted Toxicity Evaluation System (Open TG-GATEs)
+T15	AccessionNumber 2915 2923	GSE30351
+T16	Repository 3164 3174	DrugMatrix
+T17	AccessionNumber 3199 3207	GSE57805
+R1	hasAttr	Arg1:T4	Arg2:T7
+R2	hasAttr	Arg1:T6	Arg2:T7
+R3	hasAttr	Arg1:T8	Arg2:T9
+R4	hasAttr	Arg1:T10	Arg2:T11
+R5	hasAttr	Arg1:T12	Arg2:T13
+R6	hasAttr	Arg1:T16	Arg2:T17

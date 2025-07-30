@@ -1,0 +1,13 @@
+There is a great deal of interest in cancer stem cells (CSCs) in cancer therapy related to hallmarks of stemness and capacity for tumor relapse.
+Inhibition of CSCs by natural compounds represents a potential therapeutic approach.
+Thus, this study aimed to investigate potential effects of glyasperin A (GlyA) against CSCs by regulating possible stemness markers and signaling pathways as well.
+The NCCIT cell, a cell line derived from extragonadal germ cell tumors, was used as the cancer stem cell model for this study.
+The growth of teratocarcinoma cells under GlyA treatment in two-dimensional (2D) and three-dimensional (3D) cell culture patterns was revealed by MTT assay.
+The flow cytometry analysis was accessed to determine the expression of stemness surface markers and cell cycle arrest.
+In addition, the immunoblotting and human phospho-kinase array were applied to determine the possible target molecules in NCCIT cells under GlyA intervention.
+The collected results revealed that GlyA strongly inhibited the growth of NCCIT cells.
+The compound made cell cycle progression from the G0/G1 to the S phase.
+GlyA induced apoptosis by upregulating Bax and phosphorylated ERK1/2 protein levels.
+On the other hand, it also downregulated the expression of several transcription factors (Nanog, Oct4, c-Myc), which are closely correlated with stemness.
+Moreover, the levels of some proteins involved in the Akt/mTOR/IKK signaling pathways, which play critical roles in maintaining the self-renewal and proliferative features of CSCs, were also decreased.
+These results show that GlyA affects multiple targets that sustain the stemness features and proliferation or cell death of CSCs.

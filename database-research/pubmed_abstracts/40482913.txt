@@ -1,0 +1,8 @@
+Uveal melanoma (UVM) is resistant to immune checkpoint therapy and chemotherapy, resulting in high mortality rates, primarily due to liver metastases.
+While vasoactive intestinal peptide (VIP) signaling has been identified as an immune checkpoint and therapeutic target in pancreatic cancer, its role in melanoma remains unexplored.
+This study investigated the impact of a novel VIP receptor antagonist, ANT308, on melanoma cell behavior and tumor growth.
+Using both murine and human UVM/cutaneous melanoma cell lines, we examined the inhibition of VIP receptor signaling and its effects on cell migration and proliferation in vitro.
+Mechanistically, ANT308 downregulated melanoma cell adhesion molecule (MCAM) and N-cadherin expression at both the RNA and protein levels, as demonstrated by RNA sequencing and western blot analyses.
+Knockdown of the VIP receptor VPAC2 in mouse and human melanoma cells produced similar effects on cell migration, proliferation, and MCAM protein expression, further implicating VIP-VPAC2 signaling in tumor progression.
+In vivo studies revealed that ANT308 treatment decreased MCAM expression in intraocular primary tumors, reduced the number and size of liver metastases following intraocular or subcutaneous melanoma injection, and showed a trend toward reduced tumor volume at the primary tumor site.
+In conclusion, our findings indicate that VIP receptor signaling promotes liver metastasis in melanoma, and targeting this pathway with VIP receptor antagonists may represent a novel therapeutic strategy for treating metastatic UVM.

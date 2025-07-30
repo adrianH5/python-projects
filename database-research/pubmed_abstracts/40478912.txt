@@ -1,0 +1,12 @@
+Extrachromosomal circular DNA (eccDNA) amplification promotes oncogene expression and cancer development.
+However, the global transcriptional landscape mediated by eccDNA has not yet been extensively profiled.
+Here we report a comprehensive analysis spanning cancer, non-cancerous disease and health by developing a new approach to catalog eccDNA-driven genes (EDGs).
+EDG expression is significantly higher than the average level.
+Our study identifies 27 common EDGs (CEDGs) existing in most cancer types.
+Integrated analysis of the CEDGs on gene expression, pathway and network, genetic alteration, epigenetic state, single-cell state, immune infiltration, microbiome and clinically-related features reveals their crucial roles in tumorigenesis and clinical significance.
+A 17-gene CEDG signature and nomogram was constructed to predict pan-cancer patients' outcomes.
+By a novel eccDriver algorithm, 432 candidate eccDNA-driven drivers were identified.
+We show the candidate drivers regulate five major biological processes including immune system process, developmental process, metabolic process, cell cycle and division, and regulation of transport.
+275 of the 432 candidate drivers are clinically actionable with approved drugs.
+We also demonstrate that eccDNA generation is associated with DNA methylation.
+Our study reveals general EDG function in humans and provides the most comprehensive discovery of eccDNA-driven driver genes in cancer and non-cancerous diseases to date for future research and application.

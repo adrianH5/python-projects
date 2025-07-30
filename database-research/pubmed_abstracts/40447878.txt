@@ -1,0 +1,3 @@
+Hepatocellular carcinoma (HCC) is characterized by high heterogeneity, and its molecular features and microenvironment complexity contribute to varied patient prognoses.
+Anoikis, a form of programmed cell death, is considered closely linked to the development and progression of liver cancer.
+This study aimed to analyze the cellular heterogeneity of HCC using single-cell sequencing and to construct an anoikis-related prognostic model for predicting patient outcomes.

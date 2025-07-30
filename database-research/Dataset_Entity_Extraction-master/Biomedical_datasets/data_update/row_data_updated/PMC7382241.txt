@@ -1,0 +1,8 @@
+To discover BGCs encoding members of the FK506/rapamycin structural class (FK gene clusters), we developed a biosynthetic “search term” to query our microbial sequence database containing partial sequences of pooled DNA samples from ∼135,000 Actinomycete species.
+Pipecolate is incorporated in the final and shared step of FK506 and rapamycin assembly-line biosynthesis (19, 20) and directly binds the FKBP active site.
+Once we identified genetic matches to the search term in our fragmentary sequence database, we identified the candidate Actinomycete strains harboring putative FK gene clusters.
+In addition to CEP250, 11 other targets were identified in the proteomic target-identification (ID) screen of FKBP12–WDB002, albeit less reproducibly and with significantly lower spectral counts than CEP250 (Fig. 2), suggesting that they either bind weakly to FKBP12:WDB002, or they are associated with the complex containing CEP250.
+We report the structure of CEP25011.4 bound to FKBP12 in the presence of WDB002 (Fig. 3, Protein Data Bank [PDB] ID 6OQA).
+In a recent cellular protein interactome screen for SARS-CoV-2, the causative agent of COVID-19 disease, CEP250 was identified as a host factor that is engaged by the viral Nsp13 protein (42), suggesting the possibility that WDB002 may carry inhibitory activity against SARS-CoV-2 by binding to CEP250.
+Finally, since WDB002 targets CEP250, it may be a promising starting point for developing a treatment for COVID-19.
+As CEP250 was recently found to be an interaction partner with the Nsp13 protein of the SARS-CoV-2 virus that causes COVID-19 disease, it is possible that WDB002 or an analog may exert useful antiviral activity through its ability to form high-affinity ternary complexes containing CEP250 and FKBP12.

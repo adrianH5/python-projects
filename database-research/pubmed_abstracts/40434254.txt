@@ -1,0 +1,5 @@
+Cells interact dynamically with the extracellular matrix (ECM), which provides both structural support and biochemical signals that regulate various cellular processes.
+Among these, the mechanical properties of the ECM, particularly stiffness, play a crucial role in governing cell differentiation, migration, and survival.
+Recent studies have highlighted the intricate relationship between ECM stiffness and cellular metabolism, influencing key pathways such as glucose, lipid and amino acid metabolism.
+This review explores how ECM stiffness modulates these metabolic processes, emphasizing the underlying mechano-transduction mechanisms.
+Additionally, we discuss emerging techniques that enable the investigation of ECM-mediated force sensing and response, providing new insights to the mechanoregulation of metabolism and its implications in disease and therapy.

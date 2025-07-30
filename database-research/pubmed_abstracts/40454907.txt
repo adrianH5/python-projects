@@ -1,0 +1,7 @@
+Mitochondria-targeting synergistic photothermal/dynamic therapy (PTT/PDT) represents a promising approach for enhancing cancer therapy.
+However, only a few such smart nanoparticles are currently available and most of them with existing moieties for targeting mitochondria are based on the delocalized lipophilic cations, which pose potential toxicity due to their accumulation in the mitochondrial membrane.
+Herein, a multifunctional "nano-magic bullet" (AuNR-Ce6) is designed engineered with negatively charged peptides for mitochondria-targeting, and imaging-guided synergistic PTT/PDT.
+AuNR-Ce6 is prepared with gold nanorods (AuNRs, as PTT) as the bullet cores and engineered with a negatively charged peptide linked Ce6 (as PDT).
+It is proved that the nanorod-like structure formed by negatively charged peptides can efficiently deliver AuNRs into the mitochondria and be specifically cleaved by the enterokinase (ENTK, overexpressed in the mitochondria of cancer cells), subsequently resulting in the fluorescence ON and reactive oxygen species (ROS) burst.
+Furthermore, Ce6 from AuNR-Ce6 is proved to generate enhanced ROS in cancer cells, thereby leading to the selective killing of cancer cells and regression of tumor growth.
+Thus, this nanoplatform can not only be used for mitochondria-targeting and guided imaging in cancer cells via detecting intracellular ENTK levels, but also efficiently inhibit tumor growth in vitro and in vivo through synergistic PTT/PDT.

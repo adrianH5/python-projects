@@ -1,0 +1,4 @@
+A ribonuclease-targeting chimera (RiboTAC) is a heterobifunctional compound that binds to an RNA target and recruits a ribonuclease to cleave the bound RNA.
+This study investigates the impact of linker length and composition on RiboTAC potency in leukemia and breast cancer cellular models.
+Increasing linker length from two polyethylene glycol units to eight increased RiboTAC potency, while longer linker lengths decreased potency.
+The optimized RiboTAC reduced the abundance of oncogenic

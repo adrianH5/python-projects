@@ -1,0 +1,6 @@
+Head and neck squamous cell carcinoma (HNSCC) is a prevalent cancer with poor response to conventional treatments such as surgery, chemotherapy and radiotherapy.
+Immune checkpoint inhibitors (ICIs) have revolutionized the treatment of HNSCC, but many patients still exhibit poor responses due to insufficient T cell infiltration and impaired dendritic cell (DC) function within the tumor microenvironment.
+DCs are crucial for initiating anti-tumor immune responses, but their dysfunction in HNSCC leads to inadequate T cell activation and immune evasion.
+DC-based immunotherapy offers a promising approach to enhance ICIs therapy efficacy by improving DC function and enhancing T cell-mediated anti-tumor immune response.
+This review discusses the mechanisms underlying DC dysfunction in HNSCC, recent advances in DC-based immunotherapy, and the potential for combination therapies to overcome resistance to ICIs.
+Future strategies should focus on optimizing DC vaccines and developing personalized treatments to improve outcomes for HNSCC patients.

@@ -1,0 +1,64 @@
+On 11 February 2020, the International Committee on Taxonomy of Viruses officially renamed the novel coronavirus (ie, previously 2019‐nCoV) responsible for the current outbreak of COVID‐19, severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2).
+The virus, which emerged in December 2019 in the Chinese city of Wuhan, causes a respiratory illness called COVID‐19, which can spread from person to person.
+,
+World Health Organization (WHO) officials outlined their top research priorities for controlling the outbreak of the coronavirus‐associated disease known as COVID‐19 and highlighted the importance of developing candidate therapeutics and easy‐to‐apply diagnostics for identifying active, asymptomatic, and resolved infections.
+The discovery of a virus closely related to the newly emerged SARS‐CoV‐2 in a data set from pangolins sampled more than a year ago illustrates that the sampling of other mammals handled or consumed by humans could uncover even more closely related viruses.
+As of 9 February 2020, 73 genomes of SARS‐CoV‐2 strains obtained from humans have been released on GISAID (http://gisaid.org/).
+The final data set (“dataset_70”) included 70 genomes of SARS‐CoV‐2 strains from Australia (n = 4), Belgium (n = 1), China (n = 40), Finland (n = 1), France (n = 4), Germany (n = 1), Japan (n = 1), Korea (n = 1), Singapore (n = 3), Thailand (n = 2), UK (n = 2), and USA (n = 10) with sampling dates between 24 December 2019 and 3 February 2020.
+To investigate the potential intermediate hosts of SARS‐CoV‐2 (between originating animal and human hosts), two samples (SRR10168377 and SRR10168378) obtained from previously reported Malayan pangolin (Manis javanica) viral metagenomic sequencing data (Bio Project PRJNA573298) were downloaded from the NCBI SRA public database.
+We defined another data set (“dataset_6”) composed of six genome sequences of coronavirus strains.
+The two data sets (“dataset_70” and “dataset_6”) were aligned using MAFFT v7.222
+ and then manually curated using BioEdit v7.2.5.
+To assess the recombination of “dataset_70,” we employed the pairwise homoplasy index (PHI) to measure the similarity between closely linked sites using SplitsTree v4.15.1.
+The best‐fit nucleotide substitution models for the two data sets were identified according to the Bayesian information criterion (BIC) method with 3 (24 candidate models) or 11 (88 candidate models) substitution schemes in jModelTest v2.1.10.
+To evaluate the phylogenetic signals of “dataset_70” and “dataset_6,” we performed likelihood‐mapping analysis
+ using TREE‐PUZZLE v5.3,
+ with 25 000 to 175 000 randomly chosen quartets for the two data sets.
+For “dataset_70,” split network analysis was performed using Kishino‐Yano‐85 distance transformation with the NeighborNet method, which can be loosely thought of as a “hybrid” between the neighbor‐joining (NJ) and split decomposition methods, implemented in TREE‐PUZZLE v5.3.
+For “dataset_70,” NJ
+ phylogenetic trees were constructed using the Kimura 2‐parameter method
+ implemented in MEGA v7.0.26.
+For “dataset_6,” NJ
+ phylogenetic trees were constructed using the Maximum Composite likelihood (MCL) method,
+ and rate variation among sites was modeled with a gamma distribution (shape parameter = 4) in MEGA v7.0.26.
+For “dataset_70,” maximum‐likelihood (ML) phylogenies were reconstructed using the Hasegawa‐Kishino‐Yano (HKY)
+ nucleotide substitution model in PhyML v3.1.
+For “dataset_6,” ML phylogenies were reconstructed using the general time reversible
+ nucleotide substitution model with gamma‐distributed rate variation among sites (GTR + G) model in PhyML v3.1.
+For all NJ and ML phylogenies of the two data sets, bootstrap support values were calculated with 1 000 replicates
+ and trees were midpoint rooted.
+For “dataset_70,” regression analyses were used to determine the correlations among sampling dates and root‐to‐tip genetic divergences of the respective ML phylogenies with TempEst v1.5.
+We also estimated the evolutionary rate and time to the most recent common ancestor (TMRCA) for “dataset_70” using ML dating in the TreeTime package.
+We used two schemes to set the time‐scale prior for each data set: that is, constrained evolutionary rate method with a log‐normal prior (mean = 1.0 × 10−3 substitutions per site per year; 95% Bayesian credible interval [BCI]: 1.854 × 10−4 to 4 × 10−3 substitutions per site per year) placed on the evolutionary rate parameter, as per previous studies,
+, 
+, 
+ and the tip‐dating method, for which the overall estimated evolutionary rate was given an uninformative continuous‐time Markov chain (CTMC) reference prior.
+The HIV TRAnsmission Cluster Engine (HIV‐TRACE; www.hivtrace.org)
+ was employed to infer transmission network clusters for SARS‐CoV‐2 “dataset_70.”
+We divided “dataset_6” into four clades (ie, Clade A, Clade B, Clade C, and Clade D), with Clade A designated as the query group.
+For “dataset_70” and “dataset_6,” HKY and GTR +
+G were the models of best‐fit, respectively, across the two different substitution schemes (ie, 24 and 88 candidate models) according to the BIC method, and were thus used in subsequent likelihood‐mapping and phylogenetic analyses for the two data sets.
+The PHI tests of “dataset_70” did not find statistically significant evidence of recombination (P = 1.0).
+Likelihood‐mapping analysis of “dataset_70” revealed that 69.7% of the quartets were distributed in the center of the triangle, indicating a strong star‐like topology signal reflecting a novel virus, which may be due to exponential epidemic spread (Figure 1A).
+Likewise, 25.9% of the quartets from “dataset_6” were distributed in the center of the triangle, indicating a strong phylogenetic signal (Figure 1B).
+The split network generated for “dataset_70” using the NeighborNet method was highly unresolved, and the phylogenetic relationship of “dataset_70” was probably best represented by a network rather than a tree (Figure 1C).
+Both the NJ and ML phylogenetic analyses of SARS‐CoV‐2 “dataset_70” also showed star‐like topologies, in accordance with the likelihood‐mapping results (Figures 2 and S1).
+The ML phylogenetic tree showed greater star‐like topology than the NJ phylogenetic tree, indicating that the ML method was more reasonable for “dataset_70.”
+Root‐to‐tip regression analyses between genetic divergence and sampling date using the best‐fitting root showed that “dataset_70” had a minor strong positive temporal signal (R
+ML dating analyses between genetic divergence and sampling date also showed that “dataset_70” had a minor strong positive temporal signal (R
+Based on Bayesian time‐scaled phylogenetic analysis using the constrained evolutionary rate method with a log‐normal prior (mean = 1.0 × 10−3 substitutions per site per year; 95% BCI: 1.854 × 10−4 to 4 × 10−3 substitutions per site per year) placed on the evolutionary rate parameter, the estimated TMRCA dates and evolutionary rates for SARS‐CoV‐2 from “dataset_70” ranged from 21 May 2019 to 13 October 2019 (95% BCI: 27 and 30 January 2020) and from 1.57 × 10−4 to 1.06 × 10−3 substitutions per site per year (95% BCI: 1.08 × 10−4 to 3.10 × 10−3), respectively (Table 1).
+Furthermore, based on Bayesian time‐scaled phylogenetic analysis using the tip‐dating method, the estimated TMRCA dates and evolutionary rates from “dataset_70” ranged from 22 to 24 November 2019 (95% BCI: 23 October 2019 and 16 December 2019) and from 1.19 × 10−3 to 1.31 × 10−3 substitutions per site per year (95% BCI: 6.22 × 10−4 to 1.96 × 10−3), respectively (Table 1).
+Thus, the estimated TMRCA dates and evolutionary rates for SARS‐CoV‐2 from “dataset_70” were consistent among the different clock models (strict and relaxed) but were distinct among the different dating methods (constrained‐dating and tip‐dating).
+The estimated TMRCA dates and evolutionary rates for SARS‐CoV‐2 from “dataset_70” using the tip‐dating method exhibited much narrower 95% BCIs than the constrained‐dating method.
+In addition, the estimated TMRCA dates and evolutionary rates for SARS‐CoV‐2 from “dataset_70” were consistent between the different coalescent tree models (ie, constant and exponential) when using the tip‐dating method but were distinct when using the constrained‐dating method.
+For each data set, we employed the HKY nucleotide substitution model, as well as a constant size coalescent tree prior and strict molecular clock model to estimate the TMRCA.
+Based on this, we identified one large transmission cluster that included 66 of 70 (94.29%) genomes, thus suggesting low genetic divergence for “dataset_70” (Figure S3).
+Based on this, we identified 6 transmission clusters that included 37 of 70 (52.86%) genomes for “dataset_70” (Figure 5).
+On the basis of “dataset_70,” our likelihood‐mapping analysis confirmed additional tree‐like signals over time compared with our previous results.
+,
+, 
+ Split network analysis for SARS‐CoV‐2 “dataset_70” using the NeighborNet method was highly unresolved, indicating an explosive, star‐like evolution of SARS‐CoV‐2, and recent and rapid human‐to‐human transmission (Figure 1C).
+These results are consistent with the ML phylogenetic analyses, which showed polytomy topology from “dataset_70” (Figure 2).
+Therefore, we concluded that the human SARS‐CoV‐2 virus, which is responsible for the current outbreak of COVID‐19, did not come directly from pangolins.
+To explore the potential intermediate animal host of the SARS‐CoV‐2 virus, we reanalyzed virome data sets from pangolins and representative SARS‐related coronaviruses isolates from bats, with particular attention paid to the spike glycoprotein gene.
+Therefore, we concluded that the human SARS‐CoV‐2 virus, which is responsible for the recent outbreak of COVID‐19, did not come directly from pangolins.

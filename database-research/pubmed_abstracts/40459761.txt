@@ -1,0 +1,12 @@
+Doxorubicin-induced cardiotoxicity (DIC) is a serious condition that limits its use.
+Thus, this study aimed at evaluating the efficacy and safety of fenofibrate in attenuating DIC in patients with breast cancer.
+In this randomized controlled parallel study, 44 patients with stage II and/or stage III breast cancer were randomly allocated into two groups: group 1 (control group; n = 22) which received doxorubicin/cyclophosphamide (AC regimen) for four cycles (cycle is every 3 weeks) and group 2 (fenofibrate group; n = 22) which received AC regimen for four cycles (cycle is every 3 weeks) plus 160 mg of oral fenofibrate 24 h prior to the first cycle of chemotherapy and then once daily until the end of the four chemotherapy cycles.
+At baseline and after the fourth chemotherapy cycle, all participants were submitted to echocardiography (echo) to evaluate left ventricular ejection fraction (LVEF) and blood sample collection to assess the serum levels of N-terminal pro-B-type natriuretic peptide (NT-proBNP), myeloperoxidase (MPO), alanine aminotransferase (ALT), and aspartate aminotransferase (AST).
+Data was analyzed using paired and unpaired t-tests, chi-square test, and Fisher exact test.
+Compared to baseline, the control group (AC) produced a significant increase in the serum levels of both NT-proBNP (P = 0.004) and MPO (P < 0.001).
+At the end of the study and as compared to the control group, the fenofibrate group showed significantly higher LVEF (P = 0.048) and a lower incidence of cardiotoxicity (P = 0.036).
+Additionally, the fenofibrate group showed a significant decline in the serum levels of NT-proBNP (P < 0.001) and MPO (P < 0.001).
+Moreover, fenofibrate was safe and well-tolerated and did not provoke a significant elevation in liver enzymes (P > 0.05).
+Fenofibrate could represent a promising prophylactic therapy against doxorubicin-induced cardiotoxicity.
+Trial registration: ClinicalTrials.gov ID: NCT06155331.
+Trial registration date 1-12-2023.

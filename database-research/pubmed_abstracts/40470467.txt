@@ -1,0 +1,7 @@
+Cyclic GMP-AMP synthase (cGAS) functions as a pivotal intracellular sensor for the innate immune sensing of double-stranded DNA (dsDNA), monitoring those nucleic acids from foreign and endogenous sources.
+Upon assembling into cellular condensates with dsDNA and regulators, cGAS synthesizes 2'3'-cGAMP that activates the downstream STING signaling.
+This activation triggers a variety of intracellular responses, including autophagy, mRNA translation, interferon signaling, and inflammatory responses.
+Context-dependently, cGAS resides in diverse cellular compartments, including the nucleus, micronuclei, plasma membrane, and organelle surfaces.
+Beyond its DNA-sensing role, cGAS can play complex roles in these locations, such as DNA damage repairing, membrane restoration, chromatin condensation, angiogenesis, and aging regulation.
+This comprehensive review summarizes recent advances in the activation, regulation, and pharmacological management of cGAS, focusing on its molecular mechanisms, post-translational modifications (PTMs), and therapeutic interventions.
+The functional implications of cGAS in various disease contexts, including infectious diseases, autoinflammatory diseases, autoimmune diseases, aging, and cancers, are also covered.

@@ -1,0 +1,10 @@
+The cell cycle is a tightly coupled series of events that enable cells to grow and proliferate.
+Cyclin-dependent kinases (CDKs) play crucial roles in the cell cycle by enabling cells to transition between different phases when they are activated.
+Cell cycle proteins enhance the activity of CDKs, while natural CDK inhibitors (CDKIs) suppress them.
+The cell cycle continues in cycles under normal conditions, but when conditions change, cells halt or terminate the cell cycle.
+Tumors are tissues that grow out of control, and the mechanisms of various types of tumors are different; however, almost all tumor cells share several common characteristics, including proliferation, prevention of apoptosis and genomic instability.
+Cellular division is essential in the progression of cancer.
+A key characteristic of cancer is the uncontrolled growth of tumor cells, which is due to the erratic behavior of several proteins during the cell cycle.
+Therefore, cell cycle regulators are considered attractive targets for the treatment of cancer.
+The present analysis highlights proteins that play a direct role in controlling the tumor cell cycle, such as CDKs, and provides a brief overview of checkpoint kinases.
+The present review also discusses how cell cycle proteins contribute to cancer and describes some of the antitumor drugs that are being researched.

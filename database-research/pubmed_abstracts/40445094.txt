@@ -1,0 +1,4 @@
+Purpose To determine the impact of method of detection (MOD) on breast cancer stage, treatment, and breast cancer-related mortality in patients aged 40 years or older.
+Materials and Methods This retrospective observational cohort study included consecutive female individuals aged 40 years or older diagnosed with breast cancer at a tertiary referral center between January and December 2016.
+Odds ratios (ORs) and 95% CIs were computed using logistic regression modeling to determine the impact of MOD (screen-detected vs symptom-detected) on pathologic stage (American Joint Commission on Cancer, eighth edition), surgical treatment, and chemotherapy, with Cox regression to find the hazard ratio (HR) and 95% CI for mortality.
+Significance level was set at a

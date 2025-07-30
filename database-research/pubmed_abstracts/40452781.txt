@@ -1,0 +1,9 @@
+Cancer stem cells (CSCs), harboring stem cell-like properties involving self-renewal and aberrant differentiation potential, have been known to be one of the determining factors that contribute to therapeutic resistance and tumor recurrence.
+However, much remains to be understood about the reprogramming network leading to the generation of CSCs driven by chemotherapy.
+In this study, guided by bioinformatics study, we uncover and provide deeper insight into the CSC enrichment mechanism driven by cisplatin (CDDP) treatment.
+We discover that CDDP can repopulate the level of CSC by activating AKT1 oncogenic pathway that is further enhanced by COX-2 inflammatory signaling.
+Simultaneously blocking these two pathways can synergistically restrain the number of CSCs.
+Under the guidance of a series of advanced hierarchical computational modeling, including molecular docking, molecular dynamics (MD) simulation and binding free energy analysis, MK-2206 is selected as the AKT1 inhibitor to achieve optimal codelivery of CDDP, MK-2206 and 5-ASA (COX-2 inhibitor) through the use of 5-ASA-derivatized dual functional immunostimulatory nanocarrier (PASA).
+This triple combination (PASA/CDDP/MK-2206) significantly reduces tumor burden in both orthotopic and metastatic lung cancer models.
+Mechanistic studies show that this improved therapeutic activity is due to elimination of CSCs and reversal of the immunosuppressive tumor microenvironment.
+Our study suggests that PASA/CDDP/MK-2206 may represent a simple and effective lung cancer therapy via reversing CSCs-associated chemoresistance.

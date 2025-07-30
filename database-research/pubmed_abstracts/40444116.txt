@@ -1,0 +1,13 @@
+Bile acids, which originate in the liver as primary bile acids, facilitate the absorption of lipophilic components into the intestines and exist as micellar structures.
+Intestinal bacteria convert primary bile acids to secondary bile acids, such as deoxycholic acid (DCA), which is associated with colorectal cancer.
+Therefore, their elimination from the body is preferred.
+Soy protein hydrolysates are known for their bile acid-binding properties, which prompted our investigation of DCA-specific binding and micelle-disrupting peptides.
+We designed a peptide library from eight soy protein sequences and selected 42 candidate peptides based on their DCA-binding activity.
+These peptides were synthesized, and their ability to disrupt bile acid micelles was assessed using a 96-well high-throughput assay system.
+Of the 42 peptides evaluated, 41 exhibited significant DCA micelle degradation, and 21 showed specific activity only for DCA micelles.
+Further research involved preparing soy protein pepsin hydrolysates and identifying 1,354 free peptides.
+Among these, 10 peptides containing sequences from the initial peptide library were identified.
+All peptides exhibited DCA micelle-disrupting activity.
+These peptides are believed to facilitate the excretion of secondary bile acids.
+Notably, FGSLRKNAM and SLRKNAM selectively disrupted DCA micelles without affecting the micelles of other bile acids.
+As these two peptides were also identified in the undigested high molecular weight fraction, they are considered key peptides with high potential for efficiently promoting the excretion of DCA.

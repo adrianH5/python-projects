@@ -1,0 +1,10 @@
+We checked the linked original reports from the WHO MERS-CoV disease outbreak news [20] and the Saudi MoH [21] for each human case listed on FluTrackers [19] and extracted data on disease risk factors, including date of notification, date of symptoms onset, date of hospitalization, laboratory confirmation date, complications, death and type of case based on the specified contact history (hospital outbreak-associated case and sporadic case: camel-linked, sheep-linked, community-linked, unknown exposure) to enhance the dataset.
+We included the remaining 120 complete genome sequences in our dataset.
+Each sequence contained the basic information of accession number, date of sample collection and location (city).
+We classified all the criteria into three groups (Figure S1):
+Based on the available information in the two datasets, we matched each sequence with the human case.
+Three levels of likelihood of matching were defined (Tables S2 and S3):
+Using Geneious v.11.0.4 [22], we annotated all the complete genome sequences with accession numbers.
+The majority of sequences (n = 103, 86%) were matched to individuals in the MERS-CoV human cases epidemiological dataset (Tables S1–S3), including 40 (33%) unique matched isolates and 63 (53%) likely matched isolates.
+In this study, we linked and used enhanced surveillance datasets for phylogeographic analysis.
+We enhanced the dataset and identified 12 MERS-CoV isolates from the Al Ahsa hospital outbreak for phylogenetic analysis to minimize the bias caused by the small size of the sequence data.

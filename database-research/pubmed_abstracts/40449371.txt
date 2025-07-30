@@ -1,0 +1,7 @@
+Protein biomarkers on breast cancer-derived small extracellular vesicles (BC-sEVs) hold great promise in liquid biopsy.
+However, it remains challenging due to their inherent heterogeneity and low abundance.
+Herein, we developed an AND logic gate-based DNA cascade signal amplification strategy, termed Alternating Primer Exchange Reaction-activated Cas12a (Alt-PER-Cas12a), for the ultrasensitive detection of BC-sEVs in clinic samples.
+This dual-protein recognition system employs EpCAM/MUC1-specific capture probes to release two DNA hairpins (Hep and Hmu) as AND gate inputs in Alt-PER.
+The corresponding Hep and Hmu hairpins can initiate the Alt-PER with a large amount of primers to generate long single-stranded DNA products with alternating repeat units.
+Each repeating unit serves as a CRISPR activator, inducing the trans-cleavage activity of Cas12a and enabling cascade signal amplification.
+The as-constructed strategy exhibits excellent sensitivity with LOD of 2.6 × 10

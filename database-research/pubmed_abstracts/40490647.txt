@@ -1,0 +1,7 @@
+Treatment delay in breast cancer care represents a significant concern in oncology, potentially impacting patient survival outcomes.
+While various factors can contribute to delayed treatment initiation, the quantitative relationship between specific delay intervals and survival remains incompletely understood in breast cancer management.
+Our study aims to explore the impact of treatment delays on survival outcomes in breast cancer.
+A comprehensive literature search was conducted in PubMed, Scopus, and Web of Science databases, covering publications from 2000 to 2025.
+From an initial 6222 records, 18 eligible studies comprising 25 cohorts were included.
+Hazard ratios (HRs) for all-cause and breast cancer-specific mortality were extracted or calculated for treatment delays of 4, 8, and 12 weeks.
+Random-effects meta-analyses were performed, and heterogeneity and publication bias were assessed using I

@@ -1,0 +1,5 @@
+Oncolytic vaccinia viruses armed with interleukins represent a promising frontier in tumor therapy.
+Oncolytic vaccinia viruses express IL-2, IL-10, IL-12, IL-15, IL-21, IL-23, IL-24, and IL-36γ remodel the tumor microenvironment,enhance immune cell infiltration, suppress immunosuppressive elements and promot systemic antitumor immunity.
+Combinatorial strategies with chemotherapy, radiotherapy, metabolic modulators, immune checkpoint inhibitors, or natural compounds amplify therapeutic efficacy for tumors.
+In addition, we review the existing solutions to the problems of the immune clearance of virus, such as the use of inhibitors to prevent neutralizing antibodies from binding to the virus and the use of polymer encapsulation or mesenchymal stem cell loading.
+We also discussed Current directions include optimizing delivery systems, leveraging Artificial Intelligence for personalized designs of Oncolytic vaccinia virus inserted interleukins to guide the research in the future.

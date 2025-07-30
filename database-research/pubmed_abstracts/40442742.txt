@@ -1,0 +1,7 @@
+Chromodomain Helicase DNA-binding protein 1-Like (CHD1L) is a chromatin remodeling enzyme increasingly recognized as an oncogenic factor promoting tumor progression and metastatic potential by orchestrating transcriptional programs that drive epithelial-mesenchymal transition (EMT), cytoskeletal remodeling, and metastatic dissemination.
+In parallel, CHD1L has emerged as a master regulator of tumor cell survival by regulating DNA damage response and repair and enforcing G1 cell cycle progression.
+Furthermore, CHD1L plays a key role in immune evasion pathways by regulating signaling cascades and by suppressing both apoptotic and non-apoptotic cell death.
+In particular, CHD1L is a key suppressor of PARthanatos, a caspase-independent mechanism triggered by poly(ADP-ribose) (PAR) polymer fragmentation and apoptosis-inducing factor (AIF) activation.
+By regulating SPOCK1, MDM2, and TCTP, CHD1L further supports survival under cellular stress.
+Its overexpression correlates with metastasis, therapy resistance, and poor prognosis across many solid tumors.
+This review covers CHD1L's structure, oncogenic functions, and developmental origins, and highlights emerging therapeutic strategies that target CHD1L as a druggable vulnerability in cancer.

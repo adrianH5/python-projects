@@ -1,0 +1,7 @@
+Cutaneous melanoma is an aggressive type of cancer characterized by rapid progression, resistance to chemotherapy, and metastasis to the lung.
+Conventional chemotherapy and radiotherapy are the principal approaches for treating metastasizing tumors, but the lack of targeting results in severe side effects and low treatment efficacy.
+Nanoparticles reportedly increase selectivity, given that they can accumulate at specific locations owing to the enhanced permeation and retention (EPR) effect.
+In this respect, plasmonic nanoparticles, such as gold nanorods (AuNRs), are interesting because of their photothermal and optical properties, making them suitable for biomedical applications, such as drug delivery, tumor ablation, and theranostics.
+To increase the tumor accumulation of AuNRs, extracellular vesicles (with sizes ranging from 40-150 nm) have attracted attention because of their remarkable biocompatibility and natural cell-accumulation selectivity.
+To further increase the targeting properties of the nanosystem, we functionalized the AuNRs with methotrexate (MTX), which is known to interact with the overexpressed folate receptors in cancer cells.
+We combined the inherent homing properties of exosomes from B16F10 cells with the active targeting properties of MTX to increase the accumulation of AuNRs in metastatic lung melanoma tumors.

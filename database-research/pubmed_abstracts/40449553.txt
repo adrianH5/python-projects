@@ -1,0 +1,8 @@
+The randomized controlled I CARE trial evaluated the impact of general practitioner (GP)-led vs surgeon-led survivorship care on quality of life (QoL) in colorectal cancer survivors, alongside the effect of the eHealth application Oncokompas.
+The trial was conducted in 8 hospitals and 225 general practices across the Netherlands, including 303 patients who underwent surgery for stage I-III colon cancer or rectosigmoid carcinoma.
+Patients were randomized into four groups: surgeon-led care, surgeon-led care with Oncokompas, GP-led care, and GP-led care with Oncokompas.
+QoL was assessed at multiple time points over 60 months.
+At 60 months, no clinically meaningful differences in QoL were found between GP-led and surgeon-led care (difference in summary score: -0.5 [95% CI -1.6 to 0.5]) or with Oncokompas (difference: 0.8 [0.0 to 1.6]).
+In conclusion, neither GP involvement nor access to Oncokompas significantly improved long-term QoL outcomes.
+Survivorship care can be tailored to preferences.
+Netherlands Trial Register; NTR4860.

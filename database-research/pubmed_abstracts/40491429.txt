@@ -1,0 +1,5 @@
+Malaria is a vector-borne parasitic disease that affects millions worldwide.
+To achieve the objective set by the World Health Organization of reducing malaria cases by 2030, antimalarial drugs with novel modes of action are required.
+Previously, a novel mechanism of action of chloroquine (CQ) was reported involving features of programmed cell death in the parasite, mainly characterized by calcium efflux from digestive vacuole permeabilization.
+Increased intracellular calcium induces suicidal death of erythrocytes, a process known as eryptosis.
+This study aimed to identify the hallmarks of eryptosis due to calcium redistribution and examine the downstream cellular effects during CQ treatment in infected red blood cells (iRBCs).

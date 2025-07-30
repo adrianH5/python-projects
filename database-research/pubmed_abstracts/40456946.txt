@@ -1,0 +1,7 @@
+Cancer stem cells (CSCs) play a crucial role in cancer progression, recurrence, and therapy resistance through their abilities to self-renew, differentiate, and evade treatment.
+Disrupting the interaction between CSCs and their tumor microenvironment, especially cancer-associated fibroblasts (CAFs), represents a promising therapeutic strategy.
+We screened microbial metabolites to identify compounds that specifically inhibit anchorage-independent (3D) growth, a key characteristic of CSCs, in the presence of CAF-conditioned medium (CAF-CM).
+Two new oligomycin analogs, oligomycins EX-1 (1) and 2 (2), were successfully isolated from Nocardia sp.
+MK165-SF8.
+Structural analysis using NMR and MS techniques revealed their distinctive chemical characteristics, particularly the presence of an exomethylene group.
+In biological assays, 1 and 2 demonstrated potent inhibitory activity against mitochondrial complex V, comparable to oligomycin A. Additionally, they showed enhanced effectiveness in suppressing both 3D growth and the expression of CD44 variants in pancreatic cancer cells cultured in CAF-CM.

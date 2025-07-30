@@ -1,0 +1,9 @@
+The medium-chain fatty acyl-CoA synthetase-5 (ACSM5) plays a crucial role in the development of some cancers.
+However, its impact on liver cancer is still not clear.
+In this study, we found that the proliferation ability of LM3 and HepG2 cells was significantly inhibited after ACSM5 was overexpressed, and this change was blocked by the ferroptosis inhibitor deferoxamine.
+ACSM5 increased the levels of malondialdehyde (MDA) and lipid reactive oxygen species (ROS), reduced the level of glutathione (GSH), and thus triggered ferroptosis.
+Furthermore, ACSM5 promoted the upregulation of cytochrome P450 oxidoreductase (POR).
+Knocking down POR blocked the promoting effect of ACSM5 on ferroptosis in HCC.
+Moreover, ACSM5 promoted the generation of arachidonic acid and thus increased the sensitivity to ferroptosis.
+In summary, our findings indicate that ACSM5 induces ferroptosis in hepatocellular carcinoma (HCC) by upregulating POR.
+The metabolic transformation of linoleic acid to arachidonic acid was also promoted by ACSM5; therefore, sensitivity to ferroptosis was increased.

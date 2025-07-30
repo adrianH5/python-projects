@@ -1,0 +1,4 @@
+Local anesthetics promote anticancer immune responses.
+A machine learning-based algorithm trained with information on the biological effects and molecular descriptors of analgesics, anesthetics, hypnotics and opioids predicted antitumor effects for dexmedetomidine (DEX).
+DEX is a sedative acting as an alpha2-adrenoceptor (ADRA2) agonist.
+Based on these premises, we investigated the putative antineoplastic effects of DEX.

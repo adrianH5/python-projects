@@ -1,0 +1,8 @@
+Enhancers, as distal cis-regulatory elements in the genome, have a pivotal influence on orchestrating precise gene expression.
+Enhancer RNAs (eRNAs), transcribed from active enhancer regions, are increasingly recognized as key regulators of transcription.
+N6-methyladenosine (m6A), the most plentiful internal modification in eukaryotic mRNAs, has garnered significant research interest in recent years.
+With advancements in high-throughput sequencing technologies, it has been established that m6A modifications are also present on eRNAs.
+An accumulative body of evidence demonstrates that aberrant enhancers, eRNAs, and m6A modifications are intimately connected with carcinoma onset, progression, invasion, metastasis, treatment response, drug resistance, and prognosis.
+However, the underlying molecular mechanisms governing m6A modification of eRNAs in cancer remain elusive.
+Here, we review and synthesize current understanding of the regulatory roles of enhancers, eRNAs, and m6A modifications in cancer.
+Furthermore, we investigate the possible roles of eRNAs m6A modification in tumorigenesis based on existing literature, offering novel perspectives and directions for future research on epigenetic regulatory mechanisms in cancer cells.

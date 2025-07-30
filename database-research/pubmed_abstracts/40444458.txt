@@ -1,0 +1,9 @@
+Tumor hypoxia is typically linked to increased therapy resistance and poor prognosis of many malignancies, including HPV-positive cancers.
+One possible resistance mechanism is the increased resistance of hypoxic tumor cells to cellular senescence.
+It is thus highly interesting to identify strategies which could increase their pro-senescent susceptibility.
+In comparative analyses of normoxic and hypoxic HPV-positive cancer cells, we here uncover that the interconnection between B-MYB and its paralog A-MYB plays a key role for their senescence response, but shows a differential regulation under normoxia and hypoxia.
+In specific, we demonstrate that the pro-senescent response to B-MYB loss is counteracted by a compensatory upregulation of A-MYB under normoxia.
+Therefore, efficient induction of senescence in normoxic cells requires the downregulation of both B-MYB and A-MYB.
+Interestingly, this compensatory A-MYB induction is absent under hypoxia, rendering hypoxic cancer cells particularly sensitive to the pro-senescent effect of B-MYB repression.
+We further show that these regulatory effects are not confined to HPV-positive cancer cells, indicating that they could be broadly conserved between different cancer types.
+Collectively, our findings reveal that hypoxic cancer cells are particularly sensitive to B-MYB inhibition, which could provide a new strategy to target this therapeutically challenging cancer cell population.

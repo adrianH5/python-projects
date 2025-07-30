@@ -1,0 +1,5 @@
+Pyroptosis and cuproptosis are promising strategies in cancer therapy.
+However, strategies to induce cell pyroptosis and cuproptosis are limited by the tumor microenvironment (TME).
+In this study, a multifunctional copper-based composite nanomaterial (CCS-ICG) was developed to enhance antitumor efficacy through a synergistic combination of chemodynamic therapy (CDT), photodynamic therapy (PDT), and photothermal therapy (PTT), alongside ion interference.
+This nanomaterial integrates endogenous and exogenous stimulation mechanisms to promote reactive oxygen species (ROS) production.
+Upon entering tumor cells, CCS-ICG decomposes to release H

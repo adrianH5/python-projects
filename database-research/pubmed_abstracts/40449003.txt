@@ -1,0 +1,5 @@
+MicroRNAs (miRNAs) significantly contribute to melanoma plasticity, a key factor in metastasis and therapy resistance.
+Here, we provide a protocol for analysis of miRNAs in human melanoma cells.
+We describe two approaches for plating cells, either using cell chambers or attaching cells to microscopy slides by means of centrifugation.
+We first focus on cell pretreatment and staining procedures using the RNAscope Plus small RNA-RNA high-definition (RNAscope Plus smRNA-RNA HD) assay.
+We then detail the quantitative analysis of miRNA expression and co-localization.

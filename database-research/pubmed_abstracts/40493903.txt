@@ -1,0 +1,11 @@
+Gastric cancer (GC) is a widespread cancerous disease with an unfavorable prognosis, linc01105 appears to have a significant connection with the development of GC, but the precise regulatory mechanism remains obscure.
+Real-time quantitative polymerase chain reaction (RT-qPCR) was utilized to determine the expression of linc01105, miR-650, and TCEA3.
+Proliferative capacity of GC cells was measured by CCK8.
+Cell apoptosis rates were analyzed via flow cytometry assessment.
+The invasive capability was assessed through the Transwell experiment.
+The targeted regulation of linc01105, miR-650, and TCEA3 was validated through dual luciferase reporter gene assay.
+Low expression of linc01105, high expression of miR-650, and low expression of TCEA3 were observed in GC tumor tissues and cell lines.
+High expression of linc01105 was correlated with a positive prognosis in GC patients.
+linc01105 affected GC cell function by miR-650/TCEA3 axis.
+This study suggested that linc01105 may possess inhibitory functions towards GC.
+In addition, linc01105 may be a prognostic marker for GC.

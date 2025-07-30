@@ -1,0 +1,12 @@
+The use of Radixact Synchrony real-time adaptive motion management for lung cancer patients depends on automated detection and delineation of the tumor from surrounding tissues, in addition to the use of surrogate tracking.
+This functionality should ideally be tested during commissioning using quality assurance phantoms prior to clinical use.
+However, most dynamic thorax phantoms feature simplistic lung tumors-easily delineated spheres surrounded by low-density tissue.
+The aim of this project was to design and fabricate more realistic phantoms for Synchrony testing.
+A selection of eight lung cancer patient CT datasets was retrospectively selected, encompassing variations in size, edge definition, soft tissue attachment, and surrounding fibrosis.
+Tissues were segmented within 3D Slicer to produce multiple 3D models (in STL format), each corresponding to a range of CT number values.
+These 3D models were printed at different densities within a larger lung insert that could be inserted into a CIRS Dynamic Thorax Phantom.
+Mock treatment plans were prepared for these treatments.
+Replacement lung rods containing more realistic tumors were printed and successfully used for Radixact Synchrony commissioning tests.
+Results found that across all 3D-printed lung inserts, Radixact Synchrony was able to track motion within 1 mm in both the superior-inferior and left-right directions for a typical lung motion.
+During erratic breathing motions in the high-frequency breathing trace, Radixact Synchrony was able to approximately pause treatment when the correlation model aged.
+3D printing provides an easy and affordable way to extend the functionality of existing phantoms and to assist in the commissioning of novel technologies such as Radixact Synchrony.

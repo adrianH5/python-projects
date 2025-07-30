@@ -1,0 +1,9 @@
+Breast cancer is a widely studied cancer that involves multiple complex molecular mechanisms in its development and progression.
+To gain a deeper understanding of the molecular mechanisms of breast cancer and to search for potential therapeutic targets and prognostic markers, we performed an in-depth analysis of breast cancer gene expression data using weighted co-expression network analysis.
+First, we downloaded breast cancer-related gene expression data from public databases and performed weighted co-expression network analysis.
+Through the analysis, we identified the purple modules that are closely related to breast cancer and screened out 224 genes for further functional enrichment analysis.
+To construct the protein interactions network, we selected 90 of these genes for analysis after screening.
+The GO enrichment analysis mainly focused on the response of extracellular matrix organization to hormones, negative regulation of angiogenesis, positive regulation of cell proliferation, positive regulation of epithelial-to-mesenchymal transition, transforming growth factor β-receptor signaling pathway, localization of proteins to membranes, response to cortisol, positive regulation of protein kinase B signaling, and other biological processes.
+KEGG pathway enrichment analysis mainly includes PI3K-Akt signaling pathway, TGF-β signaling pathway, cell cycle, proteoglycan in cancer, MAPK signaling pathway, and many other cancer disease pathways.
+Finally, we screened the key genes in the protein interactions network using Cytoscape's MCODE plug-in and identified nine key markers, namely THBS2, ACTA2, TIMP1, VCAN, TGFB2, FN1, BGN, CCN2, and TAGLN.
+These genes may play an important role in the pathogenesis of breast cancer providing new ideas for breast cancer treatment and prognosis.

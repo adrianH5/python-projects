@@ -1,0 +1,8 @@
+Genome instability (GIN) is a cell pathology linked to cancer promotion and tumor evolution.
+Transcription is an essential cellular process but also a potential source of DNA damage and GIN.
+Transcription-replication conflicts (TRCs) are a predominant source of GIN, and defective TRC resolution may seriously compromise genome integrity.
+Importantly, chromatin dynamics helps orchestrate the response to TRCs to preserve genome integrity.
+Multiple epigenetic deficiencies have been shown to cause transcription-induced replication stress, resulting in DNA breaks and mutations.
+Consistently, chromatin alterations are frequent in cancer and correlate with increased mutation burden at TRC sites in tumors.
+Here, we review our current knowledge of TRC processing, the consequences of its dysfunction, and its relevance in cancer.
+We focus on the interplay between the DNA damage response (DDR) and chromatin dynamics and discuss the clinical potential of targeting TRCs as anticancer strategies and drugging the associated epigenetic signatures.

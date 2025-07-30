@@ -1,0 +1,6 @@
+Protein asparagine (N)-glycosylation, which promotes the folding and trafficking of cell surface receptors, has not traditionally been viewed as a viable target in oncology due to the essential and non-redundant enzymatic activities required for glycan synthesis and transfer.
+However, in mammals, an exception is the presence of the oligosaccharyltransferase (OST) catalytic subunit paralogs, STT3A and STT3B.
+In this study, we investigate the biological activity of OST inhibitors and develop a strategy for selectively inhibiting N-glycosylation that is optimized for its downstream effects on the EGFR glycoprotein.
+Small molecules with improved pharmacokinetic properties and selective preferences for STT3A or STT3B were synthesized, characterized in vitro, and advanced to in vivo testing.
+The lead compound from this series, NGI-189, induces tumor regression or growth delay in patient-derived and TKI-resistant EGFR-mutant lung cancer xenografts without causing toxicity.
+Collectively, these findings suggest that bioavailable OST inhibitors can be developed as therapeutic agents for oncology.

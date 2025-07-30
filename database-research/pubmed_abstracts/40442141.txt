@@ -1,0 +1,10 @@
+High-quality whole-slide scanning is expensive, complex, and time-consuming, thus limiting the acquisition and utilization of high-resolution histopathology images in daily clinical work.
+Deep learning-based single-image super-resolution (SISR) techniques provide an effective way to solve this problem.
+However, the existing SISR models applied in histopathology images can only work in fixed integer scaling factors, decreasing their applicability.
+Though methods based on implicit neural representation (INR) have shown promising results in arbitrary-scale super-resolution (SR) of natural images, applying them directly to histopathology images is inadequate because they have unique fine-grained image textures different from natural images.
+Thus, we propose an Implicit Self-Texture Enhancement-based dual-branch framework (ISTE) for arbitrary-scale SR of histopathology images to address this challenge.
+The proposed ISTE contains a feature aggregation branch and a texture learning branch.
+We employ the feature aggregation branch to enhance the learning of the local details for SR images while utilizing the texture learning branch to enhance the learning of high-frequency texture details.
+Then, we design a two-stage texture enhancement strategy to fuse the features from the two branches to obtain the SR images.
+Experiments on publicly available datasets, including TMA, HistoSR, and the TCGA lung cancer datasets, demonstrate that ISTE outperforms existing fixed-scale and arbitrary-scale SR algorithms across various scaling factors.
+Additionally, extensive experiments have shown that the histopathology images reconstructed by the proposed ISTE are applicable to downstream pathology image analysis tasks.

@@ -1,0 +1,8 @@
+Cancer remains one of the leading causes of morbidity and mortality worldwide, necessitating the development of diverse treatment options to improve patient outcomes.
+The tumor microenvironment (TME) plays a critical role in determining the efficacy of these different therapies, yet the reciprocal impact of treatment on the TME, particularly the tumor immune microenvironment (TIME), remains incompletely understood.
+This review investigates the different effects of cancer therapies - chemotherapy, targeted therapy, immunotherapy, and radiotherapy - on immune cells within the TIME and associated extracellular vesicles (EVs).
+The broader impact on the TME belies a complex and nuanced tumor response.
+These treatments have been shown to have an impact on the function of various immune cells, influencing their activity to either promote or block tumor growth.
+Importantly, this review also considers how these therapies play an indirect role in modulating the TIME by influencing the release and contents of EVs, highlighting the significant role that EVs play in intercellular communication within the TIME.
+By analyzing recent findings, this review aims to provide a comprehensive understanding of how different cancer therapies reshape the TIME.
+Understanding these dynamic relationships can help pave the way for optimizing existing treatments, developing new therapies, and enhancing patient outcomes.

@@ -1,0 +1,10 @@
+Hepatocellular carcinoma (HCC) is a common and highly lethal malignant tumor, and the traditional treatment has limited effect.
+In recent years, gene therapy as a new treatment strategy for liver cancer has attracted much attention.
+The role of Vp1 protein peptide and L-amino acid oxidase (LAAO) fusion protein in targeting tumor cell proliferation pathway still needs further study.
+This study investigated the role of Vp1 protein peptide and LAAO fusion protein (VN-NsLAAO) in liver cancer gene therapy, especially its regulatory mechanism on mir-149-RAS pathway and proliferation of Huh7 liver cancer cells.
+HN7 cells and HepG2 cells were cultured and treated using a variety of experimental techniques, including plasmid construction, cell transfection, RAPI assay, Western blot, CCK-8 cell activity assay, real-time quantitative PCR, viral recombination assay, and flow cytometry.
+The expression level of LAAO-related fusion protein was analyzed to compare its inhibitory effect on hepatoma cells, and the specific role of Vp1 protein in tumor inhibition was discussed.
+The results showed that VN-NsLAAO fusion protein was effectively expressed in Huh7 cells and had significant anti-cancer targeting properties.
+Compared with NsLAAO, VN-NsLAAO showed enhanced nuclear penetration in Huh7 cells and showed specific interactions against miR-149.
+Further analysis showed that VN-NsLAAO mediated the inhibition of Huh7 cell proliferation by down-regulating the expression of RAS.
+Both in vivo and in vitro experiments showed that the anti-liver cancer effect of VN-NsLAAO-rAAV8 was better than that of traditional drug PDD.

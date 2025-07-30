@@ -1,0 +1,10 @@
+Intracranial mesenchymal tumors with female expressed transcript::cyclic AMP responsive element binding protein (FET::CREB) fusion, characterized by Ewing sarcoma breakpoint region 1/EWS RNA binding protein 1 (EWSR1) rearrangements, represent a rare and complex category of neoplasms with varied morphologies and significant diagnostic challenges.
+These tumors commonly occur in young adults, presenting as dural-based masses with solid and cystic components on radiological imaging, often mimicking meningioma.
+Histopathologically, they exhibit a spectrum of features, including spindle, stellate, and epithelioid cells within myxoid or collagenous stroma, occasionally with hemangioma-like vasculature or chronic inflammatory infiltrates.
+Immunohistochemistry typically reveals strong positivity for cluster of differentiation 99 (CD99) and epithelial membrane antigen (EMA), with variable expression of Desmin, S100, and MUCIN 4 (MUC4).
+Molecular studies confirm EWSR1 rearrangements via fluorescence in situ hybridization (FISH), while RNA sequencing further elucidates specific fusion partners, such as cyclic AMP response element binding protein (CREB)1 or ATF1.
+Differential diagnosis includes solitary fibrous tumors, inflammatory myofibroblastic tumors, and chordoid meningiomas, necessitating thorough morphological and immunohistochemical analysis.
+Emerging genomic profiling divides these tumors into two epigenetic subgroups with distinct molecular and clinical profiles, influencing prognosis and progression-free survival.
+This case series highlights five instances of such tumors, underscoring the importance of recognizing their unique histopathological and molecular characteristics for accurate diagnosis.
+While the study employed FISH for cost-effective analysis, the absence of RNA sequencing limits identification of fusion partners.
+Overall, the study contributes valuable insights into these rare tumors, advancing understanding of their pathology and potential clinical implications.

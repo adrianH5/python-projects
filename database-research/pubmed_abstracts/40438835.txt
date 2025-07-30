@@ -1,0 +1,18 @@
+Cancer care faces challenges with chemotherapy-induced nausea and vomiting (CINV).
+Olanzapine and aprepitant, alone or with traditional antiemetics, promise CINV prevention.
+Their mechanisms target neurotransmitters, providing better control with manageable side effects.
+This study aims to rigorously review the efficacy and safety of olanzapine versus aprepitant in preventing CINV.
+Randomized clinical trials comparing olanzapine versus aprepitant in preventing CINV were selected following Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA) 2020 guidelines.
+A comprehensive literature search was conducted in various databases and registries through March 21, 2024.
+Quality assessment utilized Cochrane's 'Risk of Bias tool (RoB2)', and Review Manager 5.4.1 synthesized results using a random effect model.
+The main outcomes focused on odds ratios (ORs) for complete response (CR) in acute, delayed, and overall phases.
+Safety was assessed from trial descriptions.
+The certainty of evidence was assessed using GRADE Pro.
+Two hundred and eighty-two records were identified initially, yielding eight eligible RCTs with a total of 1056 participants after screening.
+All studies targeted CINV in adults undergoing highly emetogenic chemotherapy.
+In the acute phase, both drugs demonstrated similar efficacy in nausea and vomiting control (OR = 1.01, 95% CI = 0.63,1.62).
+During the delayed phase, no significant difference was observed (OR = 0.81, 95% CI = 0.62,1.04).
+In the overall phase, olanzapine exhibited slightly better nausea control than aprepitant, with statistical significance (OR = 0.76, 95% CI = 0.59,0.99).
+Emetic control was comparable across treatment arms (OR 0.93, 95 % CI 0.70-1.24).
+Olanzapine provided a clinically meaningful reduction in nausea.
+However, the sedation caused by olanzapine, which is significantly higher than that caused by aprepitant, can impair daily functioning, diminish treatment adherence, and increase fall risk.

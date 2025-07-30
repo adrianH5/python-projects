@@ -1,0 +1,13 @@
+Volumetric muscle loss (VML) is characterized by contractile weakness, dysfunctional mitochondrial bioenergetics, and poor rehabilitation plasticity.
+A hyperpolarized mitochondrial membrane potential is one attribute of the dysfunction bioenergetics and can lead to excessive reactive oxygen species (ROS) emissions.
+The primary objective of this study was to define the role of acute ROS emissions after VML injury.
+Male C57BL/6J mice were randomized into experimental and control groups.
+A time course of ROS emissions and antioxidant buffering capacity (AoxBC) for VML-injured muscles was established across the first 60-days post-injury (dpi).
+SS-31, a mitochondrial-targeted peptide, was administered s.c. (8mg/kg/d) for up-to 14-dpi and specific electron transport chain complex ROS emissions and mitochondrial bioenergetics were investigated.
+SS-31 and wheel running were combined in a regenerative rehabilitation model to determine if attenuating acute ROS emissions improved adaptive capability of the remaining muscle.
+Lipidomic and proteomic analyses were conducted to explore mechanisms of SS-31 benefit after VML.
+ROS emissions were greater and AoxBC less during the first 14-dpi and this was associated with dysfunctional mitochondrial bioenergetics regardless of carbohydrate or fat fuel substrate.
+Complexes I, II, and III were identified as the primary sources of ROS emissions.
+SS-31 attenuated ROS emissions at both 7- and 14-dpi and led to greater mitochondrial respiratory conductance and efficiency out to 30-dpi.
+Regenerative rehabilitation did not produce greater contractile adaptations, but there was modest evidence of greater metabolic adaptations compared to rehabilitation alone.
+Lipidomic and proteomic analyses suggest that SS-31 contributes to redox protein abundance alterations after VML injury.

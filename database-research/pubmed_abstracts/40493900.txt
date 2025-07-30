@@ -1,0 +1,11 @@
+Expression and functional dysregulation of ion channel genes are correlated with an unfavorable prognosis in lung adenocarcinoma (LUAD).
+Ion channel signature for predicting the prognosis of individuals with LUAD.
+94 ion channel-related differentially expressed genes in LUAD were identified from TCGA-LUAD, and ion channel-based LUAD risk model was established and validated using the GEO cohort.
+Survival analysis outcomes demonstrated that low-risk LUAD patients were accompanied with higher survival rates.
+Cox analysis manifested that LUAD prognostic risk score was an independent prognosticactor.
+We plotted a nomogram with clinical utility based on LUAD risk score and clinical factors.
+Differentially expressed genes in LUAD patients of different risk groups were enriched in biological functions and signaling pathways related to ion channels, cancer transcription dysregulation, and immunity.
+Immune infiltration results suggested that LUAD patients with low risk scores exhibited better immune cell infiltration and function.
+Prediction results of immunotherapy response showed that LUAD patients with low risk scores had a higher chance of benefiting from immunotherapy.
+The drug prediction results showed that individuals with LUAD in the low-risk group were more sensitive to paclitaxel, BI 2536, pyrimethamine, and VX-680, while individuals with LUAD in the high-risk group to erlotinib, sorafenib, panitumumab, PHA-665752, and roscovitine.
+In summary, ion channel-related genes can provide valuable information for prognosis assessment and drug treatment of LUAD patients.

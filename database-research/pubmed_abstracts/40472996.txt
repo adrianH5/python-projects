@@ -1,0 +1,2 @@
+It remains unclear whether improving contouring efficiency using AI-driven contouring (AIseg) significantly shortens the OAR contouring task time in a real world setting, or the overall radiotherapy planning-CT to treatment time.
+This single institution multidisciplinary study aims to evaluate how AIseg changes the duration taken for contouring tasks as well as the time to complete the overall treatment planning carepath from planning CT to treatment start.

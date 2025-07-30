@@ -1,0 +1,7 @@
+Long stress-induced non-coding transcript 5 (LSINCT5) is a long non-coding RNA (lncRNA) that has been demonstrated to exhibit oncogenic properties as its upregulation was found to be commonly associated with malignant clinicopathological features in various cancers.
+Numerous studies have reported that LSINCT5 overexpression may promote cancer progression by regulating the expression of genes that modulate important aspects of cell activity and by interfering with signalling pathways via precise mechanisms such as microRNA (miRNA) sponging, protein interactions, as well as acting as a downstream target of transcription factors.
+Eventually, these processes stimulate malignant behaviour such as proliferation, invasion, migration, and epithelial-mesenchymal transition (EMT).
+Research suggests LSINCT5 could be a useful biomarker and therapeutic target.
+However, understanding their complex nature and impact on physiological processes is crucial for determining their oncogenic properties and potential use in therapy.
+This review focuses on LSINCT5's biological functions, expression patterns, oncogenic roles, and molecular mechanisms in cancers.
+We further highlight the potential of LSINCT5 as a biomarker for early diagnosis and prognosis, as well as a therapeutic target in cancer therapy.

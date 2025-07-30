@@ -1,0 +1,11 @@
+Gastrointestinal malignancies present a significant menace to the well-being of people across the globe.
+Consequently, the prompt and precise identification of such tumors is of utmost importance.
+Biosensor technology emerges as a promising avenue in this regard, possessing considerable potential for the detection and diagnosis of gastrointestinal tumors.
+This is achieved through the integration of biometric components with physical and chemical transducers, enabling rapid, sensitive, and specific detection capabilities.
+In the context of colorectal cancer, notable advancements have been made in the detection of nucleic acids, proteins, cells, and exosomes.
+For instance, the detection threshold for miRNA has been refined to the amole level, while the detection methodologies for diverse protein markers are under continuous improvement.
+In addition, exosome detection techniques are evolving steadily.
+Esophageal cancer, on the other hand, exhibits its own characteristic enzyme cascade and immune sensors, among others.
+Similarly, in the detection of gastric cancer, there are numerous innovative approaches for the identification of miRNA, proteins, and exosomes.
+Looking ahead, the performance of biosensors in tumor detection is anticipated to enhance further.
+The combination of multiple markers for joint detection is expected to gain prominence, and the realization of integration and miniaturization holds the potential to drive improvements in the diagnosis and treatment of gastrointestinal tumors, ultimately leading to better patient outcomes and a more effective approach to combating these life-threatening diseases.

@@ -1,0 +1,8 @@
+Breast cancer (BC) is the most prevalent cancer in women and ranks first in diagnosed cancers worldwide, thanks to effective screening strategies.
+However, morbidity and mortality rates remain high among aggressive subtypes, forcing oncologists to adopt the philosophy of precision oncology in clinical practice.
+Immunohistochemical analysis of the tumour establishes diagnosis and stratifies BC into four types, according to a globally recognised classification.
+Tumour cells present a wide diversity in morphological, histological and molecular characteristics, indicating the heterogeneous nature of BC that reflects on different proliferation rates, risks of relapse and metastasis.
+The differentiation in prognosis and response to treatment underscores the vital need for targeted therapy, specific for each tumour's genetic status, that enhances therapeutic effectiveness.
+The aim of the present article is to designate the potential of using a novel molecular modality as a diagnostic tool that enlightens oncologists during their therapeutic decisions and raises awareness of therapeutic failure.
+Next-generation sequencing (NGS) detects a wide gamut of biomarkers and gene mutations in biopsy samples, revealing the precise genetic profile and implicating a personalised therapy.
+Incorporation of molecular testing in the diagnostic algorithm promises amelioration of therapeutic outcomes, prevention of recurrence and reduction of BC-related mortality.

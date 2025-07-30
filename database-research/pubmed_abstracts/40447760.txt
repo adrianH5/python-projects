@@ -1,0 +1,7 @@
+Somatic genome editing in mouse models has increased our understanding of the in vivo effects of genetic alterations.
+However, existing models have a limited ability to create multiple targeted edits, hindering our understanding of complex genetic interactions.
+Here we generate transgenic mice with Cre-regulated and constitutive expression of enhanced Acidaminococcus sp.
+Cas12a (enAsCas12a), which robustly generates compound genotypes, including diverse cancers driven by inactivation of trios of tumour suppressor genes or an oncogenic translocation.
+We integrate these modular CRISPR RNA (crRNA) arrays with clonal barcoding to quantify the size and number of tumours with each array, as well as the impact of varying the guide number and position within a four-guide array.
+Finally, we generate tumours with inactivation of all combinations of nine tumour suppressor genes and find that the fitness of triple-knockout genotypes is largely explainable by one- and two-gene effects.
+These Cas12a alleles will enable further rapid creation of disease models and high-throughput investigation of coincident genomic alterations in vivo.

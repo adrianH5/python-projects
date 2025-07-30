@@ -1,0 +1,3 @@
+Toward characterization of protein-metabolite interactomes, we recently introduced PROMIS, a co-fractionation-based mass spectrometry approach.
+However, the challenge lies in distinguishing true interactors from coincidental co-elution when a metabolite co-fractionates with numerous proteins.
+To address this, we integrated two chromatographic techniques-size exclusion and ion exchange-to enhance the mapping of protein-metabolite interactions (PMIs) in

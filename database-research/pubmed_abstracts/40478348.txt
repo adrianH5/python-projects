@@ -1,0 +1,2 @@
+To assess the impact of image post-processing steps on the generalisability of MRI-based radiogenomic models.
+Using a human papillomavirus (HPV) status in oropharyngeal squamous cell carcinoma (OPSCC) prediction model, this study examines the potential of different post-processing strategies to increase its generalisability across data from different centres and image acquisition protocols.

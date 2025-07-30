@@ -1,0 +1,8 @@
+Tumor-infiltrating nerves play a critical role in cancer progression and treatment resistance.
+Our recent work identified ALKAL2, a ligand for the Anaplastic Lymphoma Kinase (ALK) receptor, as a key mediator of inflammatory pain, with its expression significantly elevated in TRPV1+ sensory neurons during inflammation.
+Here, we explored the regulation of neuronal ALKAL2 in a colitis-associated colorectal cancer (CAC) model.
+We found that neuronal ALKAL2 is upregulated at early stages of CAC, which in turn activates ALK signaling in the colonic mucosa.
+Notably, treating mouse colonic organoids with exogenous ALKAL2 triggered ALK activation.
+In vivo, mice treated with the ALK inhibitor lorlatinib at the onset of colitis exhibited a remarkable 90% reduction in tumor burden without significantly affecting overall inflammation.
+Moreover, activating TRPV1+ neurons using DREADD technology exacerbated tumor growth, whereas silencing these neurons significantly reduced it.
+These findings reveal that TRPV1+ nociceptors drive CAC progression via the ALKAL2/ALK pathway.

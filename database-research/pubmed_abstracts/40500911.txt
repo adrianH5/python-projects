@@ -1,0 +1,5 @@
+Cisplatin-based chemotherapy is widely used to combat cancers through an apoptosis pathway.
+However, drug resistance induced by upregulated glutathione (GSH) in tumor cells and systemic side effects significantly compromise its therapeutic efficacy.
+The application of nanocarriers with a GSH-scavenging ability is a promising strategy to overcome these obstacles.
+In addition, ferroptosis has shown great potential in eliminating the limitation of apoptosis-mediated chemotherapeutics.
+Herein, a multifunctional nanoplatform (S4MON-Cis@TA-Fe

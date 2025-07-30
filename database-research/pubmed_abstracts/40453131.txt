@@ -1,0 +1,11 @@
+Replication stress exerts an important role in fueling genomic instability characterizing multiple myeloma (MM) evolution and is a leading cause of drug resistance.
+Normal and malignant plasma cells (PCs) are associated with a high transcriptional stress due to the huge production of immunoglobulins.
+Transcription-replication conflicts (TRCs), arising from collisions between replication and transcription machineries, can promote tumor progression and represent an Achilles' heel to cancer cells.
+We reported a gene signature related to TRCs management (TRC score), overexpressed in malignant vs normal PCs.
+High TRC score identified patients with MM with a poor prognosis who could benefit from a TRC-enhancing therapy, in independent cohorts of patients with MM treated with high-dose melphalan chemotherapy or anti-CD38 immunotherapy.
+Here, we investigated the therapeutic interest of increasing TRCs to target specifically malignant PCs using the G-quadruplex (G4) stabilizer pyridostatin (PDS).
+PDS exerted significant toxicity in MM cell lines and primary MM cells, inducing DNA damage, cell cycle arrest, and apoptosis.
+Importantly, primary myeloma cells are significantly more sensitive to PDS treatment than normal bone marrow cells.
+Moreover, PDS improved the efficacy of MM treatments such as melphalan and histone deacetylase (HDAC) or bromodomain (BRD) inhibitors.
+Thus, our study shows that G4 stabilizers could be used to specifically target MM cells that exhibit concomitant replication stress and a high level of transcription, through the increase of TRCs.
+These molecules could be used to increase the efficacy of other treatments including melphalan, HDAC inhibitors, and BRD inhibitors.

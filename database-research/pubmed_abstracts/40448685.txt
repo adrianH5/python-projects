@@ -1,0 +1,12 @@
+T lymphocytes expressing the CD8 coreceptor, often referred to as cytotoxic T-lymphocytes (CTL), are critical in defending against virus infections and cancers.
+CD8 encompasses a diverse family of proteins, including homodimers, heterodimers, isoforms, and splice variants.
+CD8αβ heterodimers are the predominant form of the CD8 membrane protein, often anchored to lipid rafts to facilitate the activation of the T cell receptor (TCR).
+Small molecules like itaconate have been shown to modulate CD8+ T cell expression.
+Anti-CD8 monoclonal antibodies (mAbs) targeting either CD8α or CD8β are available to study the functions of CD8+ cells in experimental models.
+Additionally, various immuno-imaging probes, such as 89Zr-crefmirlimab berdoxam, have been developed to predict the response of cancers to immunotherapy.
+The potential use of anti-CD8 mAbs to treat diseases associated with hyperactivation of cytotoxic CD8+ T cells is also under investigation.
+This includes conditions such as acute (e.g., ischemic heart failure, ischemic stroke), subacute (e.g., myocarditis) and chronic cardiovascular diseases (atherosclerosis).
+The use of anti-CD8 mAbs represents a promising therapeutic strategy to combat diseases characterized by excessive cytolytic activity of T cells.
+Experimental models have shown that anti-CD8 depleting mAbs can effectively limit tissue damages caused by CD8+ T cells.
+As a result, the time is ripe to evaluate these treatments in humans.
+Preclinical development of the first therapeutic anti-CD8 mAb (PLG101) is currently underway.

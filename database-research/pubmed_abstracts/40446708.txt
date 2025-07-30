@@ -1,0 +1,10 @@
+The Aurora kinases are a family of serine/threonine kinases crucial for regulating mitosis.
+Overexpression of the Aurora kinases has been reported in multiple cancer types.
+They play important roles in driving an oncogenic transformation of cancer cells by regulating their survival and proliferation, mainly because of the kinases' mitotic activity.
+Aurora kinase inhibitors (AKIs) were developed and tested in clinical trials and effectively suppressed many cancer types, suggesting the potential for Aurora kinases as a novel therapeutic target.
+Aurora kinase inhibition has also been well-documented to enhance chemotherapy effectiveness in various cancers.
+However, not all cancer types respond to AKIs, and the mechanisms behind the resistance are still elusive.
+This review will first briefly summarize the gene expression, regulation, and substrates of the Aurora Kinases, describe the function of Aurora kinases in mitosis, and then review the Aurora kinases' oncogenic roles in different cancer types as well as tumorigenesis, including cancer metabolism and anti-tumor immune evasion.
+In addition, we recapped the recent studies that revealed the critical role of Aurora Kinases in various cancer therapies and discussed the clinical outcomes of AKIs in combination with other types of therapies.
+Furthermore, we reviewed the current development of a new generation of AKI, such as PROTAC degrader.
+Further understanding the mechanism underlying the responsiveness of AKIs could help evaluate their effect and improve them as potential therapeutic targets.

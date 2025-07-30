@@ -1,0 +1,3 @@
+T1	Repository 120 127	GenBank
+T2	AccessionNumber 142 150	MK462255
+R1	hasAttr	Arg1:T1	Arg2:T2

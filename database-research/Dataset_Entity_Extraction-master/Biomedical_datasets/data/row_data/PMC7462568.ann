@@ -1,0 +1,13 @@
+T1	Repository 1986 1990	NCBI
+T2	URL 1992 2021	https://www.ncbi.nlm.nih.gov/
+T3	Repository 2167 2175	InterPro
+T4	URL 2186 2217	https://www.ebi.ac.uk/interpro/
+T5	Repository 2270 2274	NCBI
+T6	Repository 2584 2588	NCBI
+T7	AccessionNumber 2804 2814	AGV15514.1
+T8	AccessionNumber 3610 3619	IPR032500
+T9	AccessionNumber 3836 3845	IPR042578
+T10	Repository 6333 6337	NCBI
+T11	Repository 7907 7911	IEDB
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4

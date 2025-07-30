@@ -1,0 +1,9 @@
+Distinguishing driver mutations from the large background of passenger mutations remains a major challenge in cancer genomics.
+Evidence-based approaches to nominate driver mutations are often limited by the availability of experimental or clinical validation for specific variants.
+As clinical sequencing becomes integrated into patient care, computational methods provide powerful opportunities to analyze expanding genomic datasets and identify functional candidates beyond the current knowledge base.
+Among various analytical frameworks, mutual exclusivity, the observation that mutations in two or more genes tend not to co-occur within the same tumor, has been particularly attractive.
+Building on this principle, we propose BayesMAGPIE, a refined version of a statistical method, MAGPIE, developed previously for identifying driver genes within oncogenic pathways.
+The new method introduces two key innovations.
+First, it incorporates information on mutation type using a Bayesian hierarchical modeling framework, enabling the distinction between potential differences in functional effects among variants within the same gene, thereby improving the accuracy of driver identification.
+Second, it models gene-specific driver frequencies with a Dirichlet prior which effectively controls the sparsity of the inferred driver set and aligns with the biological expectation that most tumor types are driven by a small number of genes.
+We evaluate BayesMAGPIE through extensive simulation studies to assess its estimation bias and accuracy in driver identification, and benchmark its performance against MAGPIE using TCGA data from eight cancer types.

@@ -1,0 +1,5 @@
+Prostate cancer (PCa) is marked by significant ancestral bias, with African men disproportionately impacted.
+However, genome profiling studies have yet to explore the mutational landscape and disparity contribution of the male-determining Y chromosome.
+Using a cohort of 106 African and 57 European PCa cases, biased toward aggressive presenting primary disease, we performed complete Y chromosome interrogation for inherited and somatic variance.
+Capturing unexplored early-diverged Y-haplogroup substructure, while European men are 3.1-fold more likely to present with a rare potentially deleterious germline variant, a higher proportion of African patients acquired Y chromosome tumorigenic events (26.4% African, 14% European).
+While somatic copy number alterations were universally more common to aggressive tumors, besides shared alterations impacting

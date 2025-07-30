@@ -1,0 +1,9 @@
+Stereotactic brain biopsy is a crucial diagnostic tool for brain lesions; however, post-biopsy hemorrhage remains a significant complication.
+Recent studies have indicated that the intratumoral susceptibility signal (ITSS) grading derived from susceptibility-weighted imaging (SWI) may function as a predictor of hemorrhagic risk.
+To evaluate the predictive value of ITSS grading for post-biopsy hemorrhage and associated complications, and to identify variables associated with high ITSS grades.
+This retrospective study included 200 patients who underwent stereotactic brain biopsies between April 2019 and September 2021.
+ITSS grading was conducted using preoperative SWI, and post-biopsy hemorrhages were evaluated using CT. Multivariate analyses were performed to ascertain the association between the ITSS grade and complications.
+Post-biopsy hemorrhage occurred in 24% of the patients, with 14.5% exhibiting hemorrhage > 10 mm in diameter.
+High ITSS grades (grades 2 and 3) were observed in 45% of the patient population, and were significantly associated with larger lesions, glioblastomas, IDH-wildtype, and contrast enhancement.
+Symptomatic complications occurred in 9 biopsies (4.5%).
+A high ITSS grade was an independent predictor of significant hemorrhage (OR 3.2,

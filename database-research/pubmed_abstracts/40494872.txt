@@ -1,0 +1,8 @@
+Bladder cancer (BCa) is a representative of urological cancer with a high recurrence and metastasis is the leading cause of death from BCa.
+The underlying mechanism of BCa metastasis remains poorly defined.
+Here, we found RNF41 was significantly downregulated in BCa tissue and low level of RNF41 is associated with BCa progression and poor prognosis.
+RNF41 knockdown promoted cell migration and invasion in both in vitro and in tail vein lung metastasis model, while ectopic RNF41 expression exhibited the opposite effects.
+Mechanically, we revealed that RNF41 directly interacted with NUDC and ubiquitinates NUDC to promote its degradation.
+Clinically, RNF41 was significantly downregulated in metastatic BCa tissues and negatively associated with NUDC expression.
+Furthermore, we identified that RNF41 promoted BCa lung metastasis through NUDC regulated β-tubulin depolymerization.
+In summary, these findings support that RNF41 was a tumor suppressor in BCa metastasis and highlights that targeting RNF41-NUDC-β-tubulin axis could be a valuable strategy to ameliorate BCa progression and metastasis.

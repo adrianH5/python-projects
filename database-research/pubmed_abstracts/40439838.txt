@@ -1,0 +1,8 @@
+Triple-negative breast cancer (TNBC) is an aggressive subtype of breast cancer with limited treatment options and a poor prognosis.
+Immunotherapy has emerged as a promising approach for TNBC, with tumor-infiltrating immune cells (TICs) in the tumor microenvironment (TME) serving as a critical cellular basis for its efficacy.
+However, the success of immunotherapy in TNBC is often limited due to the immunosuppressive nature of the TME and the heterogeneity of TNBC.
+Ferroptosis, a form of iron-dependent programmed cell death regulated by metabolic networks including iron, glutathione (GSH), and lipid metabolism, has shown potential to enhance anti-tumor immunity.
+Recent studies have demonstrated that ferroptosis can modulate immune responses by promoting the infiltration and activation of TICs, thereby improving the outcomes of immunotherapy.
+However, ferroptosis in immunosuppressive cells such as regulatory T cells (Tregs) and myeloid-derived suppressor cells (MDSCs) can trigger an "immunosuppressive wave," affecting other immune cells in the tumor immune microenvironment.
+This demonstrates the dual role of ferroptosis in TNBC therapy, emphasizing the need for a nuanced understanding of its effects on different immune cells and tumor cells.
+Herein, we further elaborate the role of ferroptosis in TNBC cells and its interactions with tumor-infiltrating immune cells (TICs) within the TME.

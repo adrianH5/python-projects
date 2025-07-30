@@ -1,0 +1,10 @@
+Mono(2-ethylhexyl) phthalate (MEHP) is a ubiquitous environmental contaminant and endocrine-disrupting chemical (EDC), identified as a potential carcinogen.
+Emerging studies have begun to elucidate the impact of MEHP on prostate cancer (PCa), yet its pathogenic effects and the underlying molecular mechanisms remain unclear.
+This study seeks to explore the molecular basis through which MEHP affects the onset and progression of PCa.
+Using network toxicology and bioinformatics, we identified MEHP-related pathogenic genes in PCa.
+An innovative predictive model was developed by employing multiple machine learning ensemble algorithms, and its performance was validated using the area under the receiver operating characteristic (ROC) curve.
+Furthermore, at the single-cell resolution, the role of key MEHP-associated molecules, including several critical genes, in the oncogenic progression of PCa was identified.
+Through the construction of an environmental pollutant-key gene-PCa network, we investigated the interactions between environmental pollutants and the key genes VGF, ASPN, FOXS1, APLN, and AMH.
+Molecular docking studies demonstrated that the APLN, FOXS1, and ASPN genes exhibited favorable binding energies and high affinities for MEHP.
+The findings of this study provide a theoretical foundation for understanding the pathogenic role of MEHP in PCa and its potential molecular mechanisms.
+They also promote the application of network toxicology, molecular docking, machine learning, and single-cell analysis in the study of environmental pollutants.

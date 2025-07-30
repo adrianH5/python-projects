@@ -1,0 +1,6 @@
+The sudden rise of the SARS-CoV-2 virus and the delay in development of effective therapeutics for mitigation made evident a need for ways to screen compounds that can block infection and prevent further pathogenesis and spread.
+However, identifying effective drugs that are efficacious against viral infection and replication with minimal toxicity for the patient can be difficult.
+Monoclonal antibodies were shown to be effective, but as the SARS-CoV-2 mutated, these antibodies became ineffective.
+Small-molecule antivirals were identified using pseudovirus constructs to recapitulate infection in nonhuman cells, such as Vero E6 cells.
+However, the impact was limited due to poor translation of these compounds in the clinical setting.
+This is partly due to the lack of similarity of screening platforms to the

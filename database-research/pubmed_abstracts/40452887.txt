@@ -1,0 +1,9 @@
+Circulating tumor cells (CTCs) are cancer cells that are detached from the primary and metastatic tumor site and invade the bloodstream.
+Most importantly, CTCs are the key players in the development of metastasis.
+As one of the main components of liquid biopsy, they may significantly contribute to improvements in early cancer diagnosis, monitoring response to therapy, and predicting recurrence of the disease.
+Although identifying and analyzing CTCs offers the potential for a real-time liquid biopsy, their detection is associated with a number of challenges, which mainly stem from three sources: complexity of the CTCs, complexity of the media (blood), and performance of the detection assays.
+Particularly, low concentration of the CTCs and the presence of a vast population of hematopoietic cells in the blood make their detection technically complex.
+The heterogeneity of the target cells and not enough sensitivity of the measuring platforms are also among major technical challenges in CTC detection.
+Therefore, this review aims to give an update on various methods developed for CTC isolation, including chip-based assays and biosensors.
+The work will elucidate various challenges associated with the isolation and detection of CTCs and showcase the studies that aimed to tackle them.
+A number of available commercial platforms for CTC detection and hurdles associated with their widespread applications in clinical settings will also be discussed.

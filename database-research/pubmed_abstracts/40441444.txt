@@ -1,0 +1,8 @@
+Breast cancer remains a major global health concern where timely and accurate pathologic diagnosis is critical for effective management.
+The traditional reliance on expert interpretation of histopathology is increasingly challenged by rising workloads, inter-observer variability, and the complexity of current precision pathology.
+The advent of digital pathology through whole slide imaging (WSI) has enabled the integration of artificial intelligence (AI) into breast pathology practice, offering promising solutions to these challenges.
+This review explores the major advancements of AI in breast pathology, including its applications in diagnosis and classification, histological grading, lymph node metastasis detection, and biomarker quantification (ER, PR, HER2, Ki-67, and others).
+We also discuss AI's emerging roles in prognosis, treatment response, tumor microenvironment analysis, and the discovery of novel biomarkers.
+Despite the significant progress, barriers such as data quality, generalizability, model interpretability, regulatory challenges, and integration into clinical workflows remain.
+Future directions emphasize the development of foundation models, multimodal data integration, explainable AI, real-world clinical validation, and decentralized learning approaches.
+With careful navigation of these challenges and continued interdisciplinary collaboration, AI is poised to transform breast pathology and advance patient care.

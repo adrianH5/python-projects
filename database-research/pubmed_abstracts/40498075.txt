@@ -1,0 +1,7 @@
+The mammalian non-homologous end joining (NHEJ) is required for class switch and V(D)J recombination as well as repairing DNA double-strand breaks (DSBs).
+Initiated by the binding of Ku70/Ku80 (Ku) dimer to DNA ends and the recruitment of the DNA-dependent protein kinase catalytic subunit, NHEJ plays a key role in DSB repair.
+While the overall function of Ku70 in NHEJ is well documented, the specific role of its highly conserved C-terminal SAP (SAF-A/B, Acinus, and PIAS) domain remains elusive.
+In this study, we developed a novel mouse model by deleting the SAP domain but preserving Ku70 nuclear localization and its dimerization ability with Ku80.
+We found that Ku70 SAP deletion (ΔSAP) had little effect on class switch and V(D)J recombination or animal development but sensitized the animals and cells to radiation and chemotherapy agents.
+Ku70-ΔSAP cells exhibited reduced Ku70 recruitment and dampened DNA ligase IV retention to DNA damage sites after radiation exposure and displayed a spreading pattern of DSB marker γH2AX after DNA damage.
+Our findings suggest that the SAP domain is required for cells to optimally cope with DNA damage, making it a potential target to modulate cell sensitivity to therapeutic DSB-inducing agents without interfering with the developmental function of Ku70.

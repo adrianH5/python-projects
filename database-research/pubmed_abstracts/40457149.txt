@@ -1,0 +1,10 @@
+Oral cancer is among the most prevalent malignant tumours worldwide; prognosis can be affected by several factors, including molecular subtypes, immune microenvironment and clinical characteristics.
+In this study, we aimed to apply machine learning methods in conjunction with single-cell sequencing data to characterise the immune microenvironment of oral cancer and build an immune infiltration prediction model to provide a theoretical basis for the personalised therapy and prognosis assessment of oral cancer.
+Clinico-genomic data were obtained from patients with oral cancer and single-cell sequencing was utilised to delineate the immune cell composition in the tumour microenvironment.
+Model construction and immune-related gene screening were performed using machine learning algorithms such as Lasso regression, random forest and gradient boosting machine.
+We assessed the predictive performance of the model by cross-validation on its training dataset and by testing the model on an independent dataset.
+Certain subsets of immune cells correlate with the prognosis of patients with oral cancer.
+C-index (given in supplementary) yielded a good discrimination ability (C-index > 0.75) in the training set and validation set.
+Moreover, the model-identified immune-related genes presented remarkable expression differences in the two different risk groups and played important roles in the response to immune therapy.
+By exploring the complexity of the oral cancer immune microenvironment with machine learning techniques, in this study, we build a reliable prognostic model based on immune infiltration.
+The model could be applied in clinical practice to personalisation treatment decision-making and prognosis evaluation.

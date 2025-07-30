@@ -1,0 +1,8 @@
+T1	Repository 2414 2443	Genome Sequence Archive (GSA)
+T2	AccessionNumber 2445 2454	CRA002577
+T3	AccessionNumber 2463 2472	CRA002689
+T4	Repository 2537 2540	GSA
+T5	AccessionNumber 2542 2551	CRA002810
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T1	Arg2:T3
+R3	hasAttr	Arg1:T4	Arg2:T5

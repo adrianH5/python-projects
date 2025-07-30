@@ -1,0 +1,6 @@
+Accumulating evidence has connected the chemically unstable, DNA-damaging gut bacterial natural product colibactin to colorectal cancer, including the identification of mutational signatures that are thought to arise from colibactin-DNA interstrand crosslinks (ICLs).
+However, we currently lack direct information regarding the structure of this lesion.
+Here, we combine mass spectrometry and nuclear magnetic resonance spectroscopy to elucidate the specificity and structure of the colibactin-DNA ICL.
+We find that colibactin alkylates within the minor groove of AT-rich DNA, explaining the origins of mutational signatures.
+Unexpectedly, we discover that the chemically unstable central motif of colibactin mediates the sequence specificity of crosslinking.
+By directly elucidating colibactin's interactions with DNA, this work enhances our understanding of the structure and genotoxic mechanisms of this unique cancer-linked gut bacterial natural product.

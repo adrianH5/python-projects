@@ -1,0 +1,4 @@
+Proton therapy requires dose monitoring, often performed based on repeated computed tomography (reCT) scans.
+However, reCT scans may not accurately reflect the internal anatomy and patient positioning during treatment.
+In-room cone-beam CT (CBCT) offers a potential alternative, but its low image quality limits proton dose calculation accuracy.
+This study therefore evaluated different methods for quality-improvement of CBCTs (synthetic CTs; sCTs) for use in adaptive proton therapy of head-and-neck cancer patients.

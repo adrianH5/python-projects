@@ -1,0 +1,10 @@
+Imaging genetics aims to uncover the hidden relationship between imaging quantitative traits (QTs) and genetic markers [e.g., single nucleotide polymorphism (SNP)] and brings valuable insights into the pathogenesis of complex diseases, such as cancers and cognitive disorders (e.g., Alzheimer's disease).
+However, most linear models in imaging genetics did not explicitly model the inner relationship among QTs, which might miss some potential efficiency gains from information borrowing across brain regions.
+In this work, we developed a novel Bayesian regression framework for identifying significant associations between QTs and genetic markers while explicitly modeling spatial dependency between QTs, with the main contributions as follows.
+First, we developed a spatial-correlated multitask linear mixed-effects model to account for dependencies between QTs.
+We incorporated a population-level mixed-effects term into the model, taking full advantage of the dependent structure of brain imaging-derived QTs.
+Second, we implemented the model in the Bayesian framework and derived a Markov chain Monte Carlo (MCMC) algorithm to achieve the model inference.
+Further, we incorporated the MCMC samples with the Cauchy combination test to examine the association between SNPs and QTs, which avoided computationally intractable multitest issues.
+The simulation studies indicated improved power of our proposed model compared with classical models where inner dependencies of QTs were not modeled.
+We also applied the new spatial model to an imaging dataset obtained from the Alzheimer's Disease Neuroimaging Initiative database (https://adni.loni.usc.edu).
+The implementation of our method is available at https://github.com/ZhibinPU/spatialmultitasklmm.git.

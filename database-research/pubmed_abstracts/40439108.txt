@@ -1,0 +1,6 @@
+Microtubule-targeting agents (MTAs) are widely used as first- and second-line chemotherapies for various cancers.
+However, current MTAs exhibit positive responses only in subsets of patients and are often accompanied by side effects due to their impact on normal cells.
+This underscores an urgent need to develop novel therapeutic strategies that enhance MTA efficacy while minimizing toxicity to normal tissues.
+Here, we demonstrate that inhibition of the p38 MAPK-MK2 signaling pathway sensitizes cancer cells to MTA treatment.
+We utilize CMPD1, a dual-target inhibitor, to concurrently suppress the p38-MK2 pathway and microtubule dynamicity.
+In addition to its established role as an MK2 inhibitor, we find that CMPD1 rapidly induces microtubule depolymerization, preferentially at the microtubule plus end, leading to the inhibition of tumor growth and cancer cell invasion in both

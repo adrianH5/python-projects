@@ -1,0 +1,1 @@
+To compare the image quality and pulmonary nodule detectability and measurement accuracy between deep learning reconstruction (DLR) and hybrid iterative reconstruction (HIR) of chest ultra-low-dose CT (ULDCT).

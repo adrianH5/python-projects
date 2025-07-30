@@ -1,0 +1,13 @@
+Immune checkpoint inhibitors are important for treatment across tumor types but are not universally effective in controlling disease.
+Early understanding of tumor response, or lack thereof, can inform treatment decisions.
+This study evaluates changes in circulating tumor DNA (ctDNA) and blood tumor mutational burden (bTMB) for associations with response to programmed cell death 1 ligand 1 (PD-L1) blockade.
+We sequenced cell-free DNA collected at the start of therapy, on treatment, and at the end of therapy for 153 patients treated with atezolizumab as part of the pan-tumor MyPathway study (NCT02091141).
+ctDNA tumor fraction (TF) and bTMB were assessed for correlation with progression-free survival (PFS) and overall survival (OS).
+We found that molecular response (MR, ≥50% decrease in TF at cycle 3 day 1) was associated with improved PFS (9.7 vs 1.5 months from C3D1; HR = 0.27) and OS (21.1 vs 14.3 months from C3D1; HR = 0.44).
+These findings were consistent when limited to patients with stable disease (SD; PFS HR = 0.55; OS HR = 0.39).
+bTMB was correlated with tissue-based TMB (tTMB) when TF was high (≥1%), but not with OS in this cohort.
+In total, 61% of baseline samples had predicted clonal hematopoiesis (CH) variants.
+No correlation between maximum variant allele frequency (maxVAF) of predicted CH and TF was seen.
+In summary, MR is associated with outcomes for patients treated with atezolizumab and could stratify patients with SD.
+While CH was common, maxVAF for CH variants was not associated with ctDNA TF.
+Quantification of ctDNA enables therapy response monitoring and is critical for interpretation of bTMB as a proxy for tTMB.

@@ -1,0 +1,7 @@
+Colloidal nanozymes, enzyme-mimetic nanocatalysts with tunable catalytic activity, are revolutionizing cancer diagnosis and therapy by integrating catalytic precision with biomedical functionality.
+Their ability to regulate redox homeostasis, generate reactive oxygen species (ROS), and modulate tumor microenvironments provides a foundation for targeted therapeutic interventions, while their intrinsic catalytic properties enhance biosensing and imaging for early cancer detection.
+However, the rational design of nanozymes remains a challenge, particularly in optimizing their catalytic efficiency, biocompatibility, and specificity for tumor-selective reactions.
+This review explores how surface chemistry, interfacial engineering, and catalytic mechanisms dictate nanozyme activity, stability, and interactions with biological systems.
+We critically analyze the fundamental catalytic mechanisms peroxidase-like, oxidase-like, catalase-like, and superoxide dismutase (SOD)-like reactions driving nanozyme applications in cancer therapy, as well as their role in biosensors, imaging probes, and theranostic platforms for early cancer diagnosis.
+Additionally, we examine cutting-edge surface modification strategies, including atomic dispersion, ligand coordination, and defect engineering, to enhance nanozyme selectivity and reduce off-target effects.
+By integrating fundamental catalysis with translational biomedical applications, this review establishes a comprehensive framework for advancing nanozyme-based diagnostics and therapeutics in precision oncology.

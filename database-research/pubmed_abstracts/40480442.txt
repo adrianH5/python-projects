@@ -1,0 +1,10 @@
+Although recent advancements in immunotherapy have improved clinical outcomes, non-small cell lung cancer (NSCLC) is still the deadliest cancer type, as current treatments fail in many patients.
+This highlights a need for continued studies on this complex and multifaceted malignancy.
+The lung tumor microenvironment (TME) is marked by an infiltration of innate immune cells of the myeloid lineage, including macrophages and neutrophils, which affect patient outcomes.
+These cells induce inflammation and functional responses that can both promote and inhibit tumor growth and progression, with these functions being directly linked to their intracellular metabolism.
+The lung TME provides a milieu of signals, including cytokines and metabolites, that induce metabolic reprogramming in tumor-associated myeloid cells.
+Here, we review the present understanding of tumor-associated myeloid cell metabolism specifically in the context of NSCLC.
+Recent studies demonstrated that some metabolic pathways have the potential to be manipulated pharmacologically to eliminate or reprogram pathogenic, pro-tumor, and/or immunosuppressive myeloid cells to anti-tumor states for NSCLC therapies.
+Therefore, we highlight and propose potential metabolic targets in these myeloid cells, focusing on macrophages and neutrophils.
+These cells have direct roles in affecting subsequent responses of adaptive cells and their cellular metabolism must be further investigated to identify potential pharmacologic therapeutic targets.
+Targeting myeloid cell metabolism in the TME may be used in combination with the current regimen of immune checkpoint inhibition (ICI) and chemotherapy to improve outcomes for lung cancer patients.

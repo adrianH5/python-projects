@@ -1,0 +1,14 @@
+Epithelial ovarian carcinoma (EOC) is a highly lethal gynecological malignancy with limited treatment options.
+This study aimed to explore the regulatory roles of IRE1α and YAP1 in EOC progression and identify potential therapeutic targets.
+Blood and tissue samples were collected from 26 EOC patients and 10 patients with ovarian cysts.
+The expression of inflammatory factors in the blood was measured using ELISA.
+The proliferation, migration, invasion, and cell cycle of human ovarian cancer cell lines SK-OV-3, SW626, and Anglene were evaluated using MTT assays, scratch tests, Transwell assays, and flow cytometry.
+The effects of IRE1α inhibition on EOC cell proliferation, migration, and apoptosis were investigated using pharmacological inhibitors and shRNA knockdown.
+IRE1α was highly expressed in EOC patients and was negatively correlated with patient survival rates.
+Additionally, IRE1α scores in EOC patients were positively correlated with serum levels of TNF-α and VEGF-a.
+Compared to normal controls, significantly higher expressions of IRE1α and XBP1 were observed in ovarian cancer tissues and cells.
+Knockdown of IRE1α in ovarian cancer cells led to a significant reduction in the expression of IRE1α and XBP1s, as well as inhibited cell proliferation and survival.
+The IRE1α inhibitors STF-083100 and 4μ8C suppressed the proliferation, invasion, and migration of SK-OV-3 cells and reduced the expression levels of related factors.
+4μ8C inhibited the degradation of YAP within SK-OV-3 cells while downregulating the expression of Cyclin D1 protein.
+Compared to the group treated with 4μ8C alone, the combined intervention of 4μ8C and a YAP inhibitor showed a more pronounced inhibitory effect on the proliferation of SK-OV-3 cells.This study first reveals that the IRE1α/YAP signal drives the malignant progression of EOC through the regulation of cell proliferation, migration, and invasion.
+The dual-targeted synergistic inhibition of IRE1α/YAP1 offers an innovative therapeutic paradigm for the treatment of EOC.

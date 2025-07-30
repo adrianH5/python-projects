@@ -1,0 +1,12 @@
+Protamine is a naturally occurring cationic protein derived from marine organisms.
+Due to its unique protective and self-repairing properties, it has attracted significant attention in the biomedical field.
+This study investigates the anticancer effects of SOP and its PEGylated derivative (SOP-PEG) in hepatocellular carcinoma (HCC).
+Both SOP and SOP-PEG demonstrated significant tumor growth inhibition in both in vitro and in vivo experiments, with no apparent toxicity observed.
+Mechanistically, SOP and SOP-PEG induce the generation of reactive oxygen species (ROS), which activate the P53-mediated mitochondrial apoptosis pathway, thereby promoting apoptosis in Hepa1-6 cells.
+Furthermore, SOP and SOP-PEG downregulate the expression of CDK1, leading to G2/M phase cell cycle arrest, inhibition of the PI3K-Akt signaling pathway, and further amplification of apoptotic signaling.
+Notably, PEGylation significantly improves the pharmacokinetic properties and targeting ability of SOP, thereby enhancing its therapeutic efficacy.
+Moreover, CDK1 knockdown further potentiates the G2/M phase arrest and apoptosis induced by SOP and SOP-PEG.
+In summary, this study reveals the potential of SOP and SOP-PEG as marine-derived biological macromolecules with potent anti-HCC activity and establishes the critical regulatory role of CDK1 within the CDK1/PI3K/Akt signaling pathway.
+Targeting this pathway could offer novel strategies for HCC treatment.
+These findings suggest that SOP and SOP-PEG are promising candidates for HCC therapy and support CDK1 inhibition as a potential therapeutic strategy.
+This study provides new biomacromolecular candidates for HCC treatment and offers significant theoretical insights for future drug development and targeted therapeutic strategies.

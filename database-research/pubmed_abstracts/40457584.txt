@@ -1,0 +1,6 @@
+Metastatic renal cell carcinoma (mRCC) is notably resistant to chemotherapy and radiotherapy.
+However, tyrosine kinase inhibitors (TKIs) and checkpoint immunotherapy have significantly improved outcomes.
+Still, about 20% of patients experience disease progression as their best response to TKIs, and 16-63% endure severe toxicities, reducing quality of life.
+Optimizing dosing is therefore essential.
+Therapeutic drug monitoring (TDM) is a promising strategy for individualizing treatment.
+The TKI-TDM trial aims to identify a therapeutic plasma concentration range for six TKIs (axitinib, cabozantinib, pazopanib, sorafenib, sunitinib, tivozanib) in mRCC patients.

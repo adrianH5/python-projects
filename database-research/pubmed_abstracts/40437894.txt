@@ -1,0 +1,7 @@
+Traumatic brain injury (TBI) and subsequent neurodegeneration is partially driven by chronic inflammation both locally and systemically.
+Yet, current clinical intervention strategies do not mitigate inflammation sequelae necessitating the development of innovative approaches to reduce inflammation and minimize deleterious effects of TBI.
+Herein, a subcutaneous formulation based on polymer of alpha-ketoglutarate (paKG) delivering glycolytic inhibitor PFK15 (PFKFB3 inhibitor, a rate limiting step in glycolysis), alpha-ketoglutarate (to fuel Krebs cycle) and peptide antigen from myelin proteolipid protein (PLP139-151) is utilized as the prophylactic immunosuppressive formulation in a mouse model of TBI.
+In vitro, the paKG(PFK15+PLP) formulation stimulates proliferation of immunosuppressive regulatory T cells and induces generation of T helper-2 cells.
+When given subcutaneously in the periphery two weeks prior to mice sustaining a TBI, the formulation increases frequency of immunosuppressive macrophages and dendritic cells (DCs) in the periphery and the brain at day 7 post-TBI and by 28 days post-TBI enhanced PLP-specific immunosuppressive cells infiltrate the brain.
+Immunohistology measurements of neuroinflammation are altered 28 days post-TBI, spatial proteomics reveals evidence of enhanced autophagy in the injury penumbra, and the active formulation improves motor function.
+Overall, these data suggest that the TBI immunosuppressive formulation successfully induces an anti-inflammatory profile and decreases TBI-associated inflammation.

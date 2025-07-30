@@ -1,0 +1,13 @@
+Instigating novel therapeutic strategies to combat breast cancer has become an urgent need.
+Astaxanthin (ASX), a keto-carotenoid, has been confirmed to possess antitumor activity, yet studies on breast cancer are still limited.
+The present study was deployed to unveil ASX's antitumor effects, alone or combined with doxorubicin (DOX), on 7,12-dimethylbenz(a)anthracene (DMBA)-induced mammary tumors in Sprague‒Dawley female rats.
+Five groups of rats were assigned (n = 10), including normal group, which received the vehicle only, whereas other groups received DMBA for tumor induction, after which: group 3 received ASX (25 mg/kg/day; orally), group 4 received DOX (2 mg/kg/week; i.p.
+), and group 5 received both drugs.
+This study focused on assessing the role of Notch-1 signaling with some miRNAs orchestrating the pathway.
+Herein, ASX boosted miR-34a expression, which decreased the level of Notch-1 protein.
+In addition, miR-34a upregulation halted cell cycle progression by augmenting p21 protein level and triggering apoptosis by decreasing survivin and increasing Bax protein levels.
+Moreover, the downregulated miR-146a and miR-210 were escorted by decreased NF-κB and VEGF protein levels, respectively, suggesting their potential role in angiogenesis.
+Remarkably, ASX/DOX combination showed greater effects than either agent alone.
+Correlation and bioinformatics analyses manifested a significant relationship among all studied parameters.
+The ASX's restorative effect was further confirmed by histopathological examination.
+To the best of our knowledge, this study verified ASX's ability to abrogate DMBA-induced mammary tumors by impeding Notch-1 pathway, thus mitigating cell cycle progression and angiogenesis and augmenting apoptosis, exemplifying the interplay between Notch-1 and its downstream targets with different miRNAs.

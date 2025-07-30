@@ -1,0 +1,5 @@
+CD73 (ecto-5'-nucleotidase) is a metabolic immune checkpoint that dephosphorylates AMP to produce adenosine.
+Adenosine plays a pivotal role in immunosuppressive tumor microenvironment (TME) through adenosine receptors expressed on various immune cells.
+AB680, a specific CD73 inhibitor, is currently undergoing clinical trials for highly refractory cancers.
+In this study, we investigated the antitumor effects and mechanisms of AB680 in glioblastoma (GBM).
+By analyzing the expression pattern of CD73 across all cell types in orthotopic naïve G422

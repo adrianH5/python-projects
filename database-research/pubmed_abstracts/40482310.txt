@@ -1,0 +1,8 @@
+Breast cancer associated gene 1 (BRCA1) mutation and consequential reduction in transcription cause cancer, predominantly in the breast and ovarian tissues.
+However, its noncancer-related functions in ovarian tissues remain largely unknown.
+Here, we report BRCA1 is strongly involved in sow granulosa cell (sGC) apoptosis and cycle, and is targeted and inhibited by the pro-apoptotic miR-1307.
+BRCA1 is highly abundant in sGCs, and up-regulated during sow follicular development, but weakly expressed in atretic follicles, indicating a close correlation with sow follicular development and atresia.
+A loss-of-function assay showed that BRCA1 suppresses sGC apoptosis and promotes cell cycle progression.
+Furthermore, miR-1307 is a pro-apoptotic factor that inhibits BRCA1 by targeting the 3'UTR of the latter.
+In addition, the miR-1307 and BRCA1 axis can be activated by oxidative stress (OS), which is related to the transcriptional activation of miR-1307 by FoxO3, a transcription factor activated by OS.
+In conclusion, this study provides a basis for understanding the role of BRCA1 in sow reproduction and a theoretical target for improving sow fertility.

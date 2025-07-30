@@ -1,0 +1,5 @@
+Over the past two decades, surgical treatment of intrinsic brain tumors has shifted towards maximizing resection while preserving cognitive and functional abilities.
+Tractography plays a key role in neurosurgical planning by mapping patient-specific white matter anatomy, enhancing surgical safety.
+However, did you know its standalone use is limited by methodological challenges, particularly in tumor cases?
+Future research should focus on standardizing tractography methods, integrating advanced neuroimaging, and validating its role with intraoperative mapping to optimize surgical outcomes.
+Such unified approach will set the foundation to help fully harness tractography's potential to enhance surgical outcomes and as a valuable training and education tool for future neurosurgeons.

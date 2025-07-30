@@ -1,0 +1,10 @@
+The ability to grow undifferentiated oocytes in vitro from primordial follicles would increase the availability of fully grown oocytes in fertility preservation programs and other downstream applications.
+To date, the development of living offspring in vitro from the primordial follicle reserve has only been achieved in mice, proving the principle of the potential value of follicle culture as a source of competent oocytes.
+In certain pathophysiological conditions, such as polycystic ovarian syndrome, premature ovarian failure, or ovarian and blood cancer, where the ovarian tissue cannot be reintroduced into the patient, it is essential to isolate these follicles from the surrounding tissue and culture them in vitro.
+However, the culture systems that produce mature oocytes from isolated primordial follicles are still under investigation.
+Upon isolation from the ovarian microenvironment, a critical limiting factor is follicle death after a short period of culture.
+Previous studies suggest that glycine, a key component of glutathione (GSH), plays a protective role against the programmed cell death mechanism, ferroptosis, in in vitro matured porcine oocytes via the System Xc-/GSH/glutathione peroxidase 4 (GPX4) axis.
+Employing a previously developed high-yielding primordial follicle mechanical isolation strategy and a defined culture system, we used RNA-seq to advance the knowledge of the main transcriptional events and molecular factors determining follicle fate in a 2D culture system.
+Our transcriptome analyses identified genes involved in ferroptosis that may bring about primordial follicle death.
+To suppress ferroptosis, glycine supplementation maintained the viability of primordial follicles at approximately 85% for 16 hours.
+Future improvements to the culture system should inhibit programmed cell death mechanisms and ensure the physiological compliance of the genes regulating primordial follicle activation and transition to the primary stage, along with effective supplementation media to develop isolated primordial follicles in vitro.

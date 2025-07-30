@@ -1,0 +1,7 @@
+The mechanistic target of rapamycin (mTOR) serves as an essential hub in sensing metabolic stress and regulating aging, although the differential contributions of mTOR-regulated protein and cholesterol synthesis are unclear.
+Post-transcriptional modifications of mRNAs, such as N6-methyladenosine (m6A), occur rapidly in response to acute environmental changes to maintain tissue homeostasis.
+Here, we showed that loss of YTH m6A RNA-binding protein 1 (YTHDF1) accelerated murine aging.
+Mechanistically, YTHDF1 is anchored to the lysosome surface by lysosome-associated membrane protein (LAMP2), whereby it recruits tuberous sclerosis complex (TSC2) to inhibit mTOR complex 1 (mTORC1).
+Ythdf1 loss activated mTORC1-sterol regulatory element-binding protein 2 (SREBP2)-axis-mediated cholesterol biosynthesis but not m6A-reader-regulated protein translation.
+Rapamycin restored murine healthspan in contrast to the maximum lifespan shortening caused by Ythdf1 depletion.
+Our data reveal an m6A-independent function of YTHDF1, which differentiates the contributing roles of mTORC1 in the regulation of aging.

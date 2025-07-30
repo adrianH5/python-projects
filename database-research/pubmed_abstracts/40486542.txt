@@ -1,0 +1,8 @@
+Iron metabolism plays a crucial role in breast cancer progression by supporting rapid cell proliferation, metastasis, and therapy resistance.
+Breast cancer cells exhibit increased iron uptake through overexpression of transferrin receptor 1, leading to intracellular iron accumulation.
+Elevated ferritin levels further protect tumor cells from oxidative stress-induced damage, while reduced ferroportin expression limits iron export, creating an iron-rich microenvironment that favors tumorigenesis.
+These alterations in iron homeostasis contribute to an aggressive cancer phenotype and are associated with poor clinical outcomes.
+Beyond its role in tumor growth, dysregulated iron metabolism influences the tumor microenvironment by promoting angiogenesis and immune evasion.
+Iron-laden macrophages within the tumor stroma support cancer progression by supplying iron to malignant cells, fueling their metabolic demands.
+Moreover, iron-driven oxidative stress generates reactive oxygen species, leading to DNA damage, genomic instability, and the activation of pathways involved in epithelial-mesenchymal transition.
+These processes enhance breast cancer cell invasion and metastasis, particularly in aggressive subtypes such as triple-negative breast cancer.

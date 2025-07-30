@@ -1,0 +1,5 @@
+Of the 384,096 contigs assembled by Megahit, the longest (30,474 nucleotides (nt)) had a high abundance and was closely related to a bat SARS-like coronavirus (CoV) isolate—bat SL-CoVZC45 (GenBank accession number MG772933)—that had previously been sampled in China, with a nucleotide identity of 89.1% (Supplementary Tables 1, 2).
+This virus strain was designated as WH-Human 1 coronavirus (WHCV) (and has also been referred to as ‘2019-nCoV’) and its whole genome sequence (29,903 nt) has been assigned GenBank accession number MN908947.
+The viral genome organization of WHCV was determined by sequence alignment to two representative members of the genus Betacoronavirus: a coronavirus associated with humans (SARS-CoV Tor2, GenBank accession number AY274119) and a coronavirus associated with bats (bat SL-CoVZC45, GenBank accession number MG772933).
+Sequence reads generated in this study are available from the NCBI Sequence Read Archive (SRA) database under BioProject accession number PRJNA603194.
+The complete genome sequence of WHCV has been deposited in GenBank under accession number MN908947.

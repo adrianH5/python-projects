@@ -1,0 +1,8 @@
+Breast cancer has now overtaken lung cancer as the "world's leading cancer," yet detecting and implementing effective therapies remains a significant challenge.
+Substantial advances have been made in photothermal therapy (PTT), where photosensitizers use photonic energy to induce localized hyperthermia for cancer eradication.
+This pioneering approach is gaining traction in clinical settings.
+However, traditional PTT faces inherent limitations, including the risk of damage to neighboring healthy tissues and potential inflammatory responses due to overheating.
+Drawing inspiration from the distinct characteristics of aggregation-induced emission the small molecule, PM331, was chosen for study.
+This donor-acceptor-donor system displays good photothermal conversion efficiencies (40% and 66%) upon excitation at 808 nm and 1,064 nm, respectively.
+It is also characterized by attractive optical features in the second near-infrared (NIR-II) window.
+Using nanoparticles containing PM331,

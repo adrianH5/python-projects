@@ -1,0 +1,11 @@
+Protein folding is an essential component of protein biosynthesis, allowing for post-translational modifications that ensure proper protein structure and function to support cellular physiology.
+The presence of unfolded proteins triggers cellular mechanisms to either remove the unfolded proteins or reduce protein synthesis.
+However, the accumulation of improperly folded proteins may lead to diseases, including neurological disorders and cancers.
+Indeed, cancer cells have a dysregulated protein synthesis capacity that enables them to survive in higher proliferative and growth states.
+The anterior gradient 2 (Agr2) protein is often overexpressed in multiple cancers to support the need for increased protein synthesis resulting from uncontrolled cell proliferation.
+Agr2 acts like a protein disulfide isomerase (PDI), catalyzing the formation of disulfide bonds in native proteins.
+Its expression in cancers has been associated with increased cell proliferation, metastasis, and invasion.
+Conversely, the lack of Agr2 has been associated with ER stress (ERS) and the activation of the unfolded protein response (UPR) pathway to restore cellular protein homeostasis.
+Furthermore, Agr2 can be secreted into the extracellular environment and has been detected in human urine and serum, highlighting its potential use as a cancer biomarker.
+This review discusses Agr2 and its role in protein synthesis and ERS.
+We examine recent developments regarding its detection and use as a biomarker and delve into emerging therapeutic strategies focused on targeting Agr2.

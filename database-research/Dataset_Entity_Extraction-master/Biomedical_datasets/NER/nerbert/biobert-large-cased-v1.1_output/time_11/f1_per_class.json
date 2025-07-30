@@ -1,0 +1,6 @@
+{
+    "0": "           precision    recall  f1-score   support\n\n  Dataset     0.8525    0.8387    0.8455        62\n\nmicro avg     0.8525    0.8387    0.8455        62\nmacro avg     0.8525    0.8387    0.8455        62\n",
+    "1": "           precision    recall  f1-score   support\n\n  Dataset     0.8730    0.8871    0.8800        62\n\nmicro avg     0.8730    0.8871    0.8800        62\nmacro avg     0.8730    0.8871    0.8800        62\n",
+    "2": "           precision    recall  f1-score   support\n\n  Dataset     0.8462    0.8871    0.8661        62\n\nmicro avg     0.8462    0.8871    0.8661        62\nmacro avg     0.8462    0.8871    0.8661        62\n",
+    "3": "           precision    recall  f1-score   support\n\n  Dataset     0.9000    0.8710    0.8852        62\n\nmicro avg     0.9000    0.8710    0.8852        62\nmacro avg     0.9000    0.8710    0.8852        62\n"
+}

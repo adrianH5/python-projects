@@ -1,0 +1,18 @@
+Endometrial cancer (EC) is one of the most common malignancies in women.
+In recent years, immunotherapy has gradually become a significant treatment option.
+However, the mechanisms underlying immune checkpoint inhibitor (ICI)-related Adverse Events (AEs) remain poorly understood, posing significant challenges for optimizing clinical treatment strategies.
+This study aims to integrate the FAERS database and single-cell transcriptomic data to investigate potential mechanisms underlying PD-1 inhibitor-related AEs in EC immunotherapy, with a focus on exploring the PD-1-associated cell communication network and its potential compensatory activation pathways.
+Data related to AEs were extracted from the FAERS database.
+Disproportionality analyses, including Reporting Odds Ratio (ROR), Proportional Reporting Ratio (PRR), Bayesian Confidence Propagation Neural Network (BCPNN), and Multi-item Gamma Poisson Shrinker (MGPS), were used to quantify signals of immune-related AEs (irAEs) associated with ICIs.
+We compared the occurrence timing and characteristics of AEs across different drugs.
+Subsequently, scRNA-seq was performed to analyze the tumor microenvironment of EC, focusing on PD-1-high expressing cell populations.
+Cell Communication was analyzed and key receptor-ligand pairs were identified.
+From Q1 2004 to Q3 2024, 21,838,627 drug-related reports were retrieved from FAERS, including 2,202 related to ICIs.
+ICI-associated irAEs involved 26 organ systems, with general disorders, gastrointestinal disorders, and injury/poisoning as the top System Organ Class (SOC).
+Fatigue, product use issues, and diarrhea were the most reported Preferred Terms (PTs).
+PD-1 inhibitors were associated with faster onset of AEs compared to PD-L1 inhibitors and Weibull modeling indicated an early failure-type AE pattern for both treatments.
+Single-cell analysis further demonstrated that PD-1 was highly expressed in CD8 + cytotoxic T cells and Tfh cells, which communicated with other cells within the tumor microenvironment through key receptor-ligand pairs such as CXCL12-CXCR4 and CXCL16-CXCR6.
+These findings suggested that PD-1 inhibitors may induce AEs through compensatory activation of the CXCR4 and CXCR6 pathways.
+This study suggested that PD-1 inhibitors may contribute to irAEs in EC, potentially through compensatory activation of the CXCR4 and CXCR6 pathways.
+By integrating FAERS and scRNA-seq data, key receptor-ligand interactions were identified, providing preliminary insights that could inform future efforts to optimize immunotherapy efficacy and mitigate AEs.
+However, further validation through clinical studies and mechanistic research is needed to confirm these findings.

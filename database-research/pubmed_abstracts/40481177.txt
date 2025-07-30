@@ -1,0 +1,2 @@
+Lung cancer survival can be improved through treatment, but several factors can influence the pattern of treatment received by a given individual.
+Using national-data across the lung cancer treatment pathway, here we describe treatment variation according to clinical and sociodemographic factors.

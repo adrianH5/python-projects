@@ -1,0 +1,6 @@
+The outbreak of the COVID-19 pandemia in 2019/2020 has stimulated research on clinical laboratory findings in this condition, as evidenced by two recent papers in this journal [1], [2].
+As this D/I polymorphism shows an important geographical variation [7], we postulated that the variability in D/I genotype distribution might partly explain the variable prevalence of the COVID-19 infection amongst continental European countries.
+Therefore, we compared the D-allele frequency of the ACE1 gene as obtained in 25 different European countries with the prevalence and mortality of COVID-19, as calculated on March 20, 2020 by Johns Hopkins [8].
+The log transformed prevalence of COVID-19 infections inversely correlates with the ACE D allele frequency: log (prevalence; number of cases/106 inhabitants) = 6.358–0.079 (D-allele frequency, %), r2 = 0.378; p = 0.001.
+Similarly, a significant correlation could be noted between COVID-19 caused mortality (Spearman r = −0.510, p = 0.01) and the prevalence of the ACE1 D-allele.
+These data suggest that ACE1 D/I polymorphism may be regarded as a confounder in the spread of COVID-19 and the outcome of the infection in various European populations.

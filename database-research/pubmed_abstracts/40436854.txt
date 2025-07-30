@@ -1,0 +1,9 @@
+Functional loss of the intracellular peptide Transporter associated with Antigen Processing (TAP) fosters resistance to T-cell based immunotherapy.
+We discovered the presentation of an alternative set of shared tumor antigens on such escaped cancers and developed a LRPAP1 synthetic long peptide vaccine (TEIPP24) to stimulate T-cell immunity.
+In this first-in-human multicenter dose-escalation study with extension cohort, HLA-A*0201-positive patients with non-small cell lung cancer progressive after checkpoint blockade were treated with TEIPP24 (NCT05898763).
+Dose escalation followed an adapted 3 + 3 scheme where in each cohort six patients received the TEIPP24 peptide emulsified in Montanide ISA-51 at either 20, 40, 100 µg of peptide, subcutaneously injected three times every three weeks in alternating limbs.
+The extension cohort of six patients received the highest safe dose of TEIPP24 combined with the PD-1 checkpoint blocker pembrolizumab.
+The primary objectives of the study were safety, tolerability and immunogenicity of the TEIPP24 vaccine.
+Secondary objectives included the evaluation of specificity and immune modulatory effects of the vaccine, antigen and immune status of the patients, progression free (PFS) and overall survival (OS) and radiological tumor response rate and duration.
+A total of 26 patients were enrolled across 2 institutions.
+Treatment was well tolerated, and vaccine-induced LRPAP1-specific CD8

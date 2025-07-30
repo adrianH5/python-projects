@@ -1,0 +1,9 @@
+Gastric cancer (GC) is a significant global health issue, characterized by poor prognosis due to its metastatic nature.
+This study investigates the role of microRNA-146a-5p (miR-146a-5p) in regulating migration and invasion of KATO III GC cells by targeting vimentin and matrix metalloproteinase-9 (MMP-9), critical mediators of epithelial-mesenchymal transition (EMT).
+miR-146a-5p expression was analyzed in GC cell lines, and functional assays were performed after transfection with a miR-146a-5p mimic.
+Results showed that miR-146a-5p expression was significantly reduced in GC cells, particularly in KATO III.
+Transfection with the mimic reduced cell viability, increased apoptosis, and inhibited migration, as shown by wound-healing assays.
+Additionally, miR-146a-5p downregulated vimentin and MMP-9 mRNA expression.
+These findings suggest that miR-146a-5p may influence metastatic behavior in GC cells through regulation of EMT-related genes.
+However, further studies, including protein-level validation and direct target confirmation, are needed.
+These results provide a basis for future investigation into the potential therapeutic role of miR-146a-5p in GC.

@@ -1,0 +1,12 @@
+Extracellular vesicles (EVs) are an important carrier of cellular communication that contain cargo such as cytokines, RNAs, or microRNAs (miRNA) and have been proven to play an important role in breast cancer tumorigenesis, progression, and metastasis.
+Although the role of cancer associated fibroblasts (CAFs), and EVs originated from them have been studied extensively, there is a lack in knowledge on the contribution of normal fibroblasts surrounding the tumor and their roles with respect to their proximity to the tumor.
+Here we investigate how the proximity of the tumor affects the EV production of the normal fibroblasts.
+We created stromal models by 3D bioprinting two different fibroblasts, normal human mammary fibroblasts (hMFs) and normal tumor adjacent fibroblasts (NTAF), within a collagen gel.
+We isolated EVs from both the effluent media and the 3D stromal model, which were then characterized and we found that EVs from each group were of consistent exosome size and displayed traditional exosome markers, however, the EVs from different groups also displayed different cytokine profiles of their cargo, with the NTAF media group showing an upregulation of cytokines associated with breast cancer progression.
+After this, we used the EVs to treat breast cancer cells to investigate the effects of the EV groups on the breast cancer cell behavior.
+The breast cancer cells treated with the NTAF groups had increased migration.
+Finally, we utilized a 3D breast tumor model to investigate the effects of the EVs on a tumor spheroid.
+Tumor spheroids treated with either NTAF EV groups showed increased proliferation, tumor diameter, and local invasion.
+This study is the first to investigate the effect of proximity to a breast tumor on EV production and the first to utilize 3D bioprinting of stromal models specifically to obtain EVs.
+Overall, our results show that EVs from normal fibroblasts closer to a tumor produce EVs that promote breast cancer progression, regardless of the secretion location of the EVs.
+These cells have a distinct EV secretome different from normal human mammary fibroblasts, showing that the proximity to a tumor influences the normal fibroblasts surrounding the tumor.

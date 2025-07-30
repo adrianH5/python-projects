@@ -1,0 +1,2 @@
+To develop a computational framework coupling multiscale vascular models of the human liver for improved radiation dosimetry calculations that clearly distinguish the absorbed dose to tissue parenchyma and that to its blood content at all spatial scales.
+This framework addresses limitations of homogeneous blood/tissue organ models in present use in radiopharmaceutical therapy.

@@ -1,0 +1,5 @@
+The tumor microenvironment, including the peripheral nervous system, plays a key role in regulating tumor biology, from initiation to cancer progression.
+Here, by modeling aggressive melanoma in larval zebrafish xenografts, we shed light on the dynamics of tumor innervation in the tumor microenvironment (TME).
+Axonogenesis and dendritogenesis were detected in the neurons surrounding the melanoma niche and neurogenesis was observed in the nearby population of the enteric nervous system.
+We also demonstrate the crucial role of noradrenaline in promoting melanoma progression with the dissemination and invasion of cancer cells to distant tissues.
+This zebrafish model will allow to uncover neural markers associated with melanoma progression to help in the design of innovative anti-neurogenic therapies targeting specifically the neuronal signals that regulate melanoma progression.

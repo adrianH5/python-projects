@@ -1,0 +1,11 @@
+Targeting cyclin-dependent kinase 6 (CDK6) in cancer treatment is a promising strategy due to the central role of this enzyme in regulating cell proliferation.
+As research continues, more selective CDK6 inhibitors may emerge, potentially offering even greater specificity and fewer side effects.
+Xanthatin as a bioactive sesquiterpene lactone extracted from Xanthium strumarium L., has recently been revealed to have potential anticancer activities.
+However, the anticancer mechanisms triggered by xanthatin in prostate cancer (PCa) cells are not fully investigated.
+MTT and colony formation assays were performed to detect the cytotoxicity of xanthatin in DU145 cells.
+Also, HUVEC was used as a noncancerous cell line model.
+Oxidative stress marker, qRT-PCR and ELISA assays were performed to analyze the ROS stress and apoptosis as well as th downregulation of CDK6.
+Fluorescence quenching, circular dichroism, UV-visible, molecular docking, and molecular dynamics simulation studies were also done to explore the interaction of xanthatin with CDK6.
+The results showed that xanthatin significantly and selectively repressed the viability of PCa cells in a concentration-and time-dependent manner, while the IC50 values of xanthatin for PCa cells and HUVEC were 9.95 μM and 48.85 μM, respectively after 48 h. Xanthatin markedly increased oxidative stress marker production mediated by downregulation of GSH and SOD.
+Furthermore, xanthatin treatment resulted in overexpression of caspase-3 and downregulation of CDK6.
+Furthermore, it was shown that xanthatin strongly binds with CDK6 with a logK

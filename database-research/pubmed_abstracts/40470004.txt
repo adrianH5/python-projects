@@ -1,0 +1,4 @@
+Breast cancer remains a leading cause of cancer-related mortality, with postoperative recurrence and metastasis being major challenges despite advancements in surgical intervention.
+Current prognostic tools primarily rely on histopathological staging and tumor biomarkers, which lack dynamic monitoring capabilities for postsurgical outcomes.
+Emerging evidence highlights the roles of soluble E-cadherin (sEC) and soluble endoglin (s-CD105) in tumor progression: sEC reflects epithelial-mesenchymal transition (EMT) and tumor invasiveness, while s-CD105 correlates with angiogenesis.
+However, limited studies have jointly evaluated their predictive value in postoperative breast cancer patients.

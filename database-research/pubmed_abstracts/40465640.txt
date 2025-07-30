@@ -1,0 +1,4 @@
+Multistate models, which allow the prediction of complex multistate survival processes such as multimorbidity, or recovery, relapse and death following treatment for cancer, are being used for clinical prediction.
+It is paramount to evaluate the calibration (as well as other metrics) of a risk prediction model before implementation of the model.
+While there are a number of software applications available for developing multistate models, currently no software exists to aid in assessing the calibration of a multistate model, and as a result evaluation of model performance is uncommon.
+calibmsm has been developed to fill this gap.

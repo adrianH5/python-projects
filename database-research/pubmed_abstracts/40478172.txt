@@ -1,0 +1,5 @@
+Over the past decade, immunotherapy has revolutionized the treatment algorithm for solid tumors.
+Immune checkpoint inhibitors (ICIs) demonstrated efficacy against several tumor types, but they can favor the development of immune-related adverse events (irAEs).
+IrAEs can sometimes be life-threatening.
+In this review, we will briefly analyze the main gastro-intestinal toxicities and focus on potential strategies for mitigating irAEs, particularly through the modification of gut microbiota (GM) composition.
+Finally, we will briefly dwell on the potential role of artificial intelligence (AI) in the prediction of irAEs.

@@ -1,0 +1,6 @@
+The arginine methyltransferase CARM1 is amplified/overexpressed in a variety of cancers, including triple-negative breast cancer (TNBC), spurring the interest of developing CARM1 inhibitors (CARM1i).
+Here, we discovered that CARM1i treatment leads to elevated CARM1 levels as well as activation of AKT, which could result in long-term treatment resistance in breast cancer cells.
+CARM1 methylated MAP2K4 at arginine 58 in TNBC, and methylated-MAP2K4 localized to the nucleus and potentiated the proliferation- and metastasis-promoting function of MAP2K4 via activation of JNK signaling.
+Inhibition of MAP2K4 by CARM1i led to AKT activation, which was abrogated by treatment with a PI3K inhibitor (PI3Ki).
+Combining CARM1i and PI3Ki elicited synergistic anti-cancer effects in TNBC cell lines, organoids, and patient-derived xenografts.
+This study demonstrates that, through inhibiting MAP2K4 methylation, CARM1i abrogates the feedback loop of MAP2K4 and PI3K signaling, supporting treatment with CARM1i as a therapeutic approach to improve the sensitivity of TNBC to PI3Ki.

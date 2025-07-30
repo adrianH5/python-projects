@@ -1,0 +1,9 @@
+Papillary thyroid carcinoma (PTC) is the most common endocrine carcinoma in recent years, necessitating more precise risk stratification to accurately identify low-risk patients.
+Although preliminary evidence exists, studies on lysosomes in PTC are limited.
+This study utilized multi-omics data from the TCGA database to comprehensively investigate the genomic and biological characteristics of lysosomes in PTC patients and identify lysosome-associated genes (LAGs) linked to PTC prognosis.
+We developed a LAG scoring system for risk stratification based on the expression levels of risk coefficients and independent prognostic LAG variables.
+Clinical value was assessed through immune infiltration analysis, pathological subgroup analysis, immunotherapy response, and drug sensitivity prediction.
+Single-cell sequencing from the GEO database was used to analyze PTC samples, and bioinformatics findings were validated using western blot, qRT-PCR, colony formation, and Transwell assays.
+A new LAG scoring system was developed based on five prognostic LAGs, with single-cell sequencing revealing their expression in different cell types.
+The role of one LAG, DNASE2B, in PTC cell cloning, proliferation, and invasion was further confirmed in vitro.
+This comprehensive study highlights the complex interactions between lysosomes and PTC biology, offering new insights into the role of lysosomes in PTC and identifying potential targets for intervention.

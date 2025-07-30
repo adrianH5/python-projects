@@ -1,0 +1,3 @@
+Circulating tumor cells (CTCs) are promising biomarkers for cancer diagnosis, while detecting CTCs in clinical samples is still challenging due to the scarcity and heterogeneity of CTCs.
+Herein, a triple-mode sensing platform based on an antifouling capture and dual-targeting recognition strategy is presented for sensitive detection of human cervical cancer cells (HeLa).
+First, the target CTCs can be specifically captured using antifouling magnetic nanoparticles (AMNPs) encoded with AS1411 aptamers (AMNPs-Apt

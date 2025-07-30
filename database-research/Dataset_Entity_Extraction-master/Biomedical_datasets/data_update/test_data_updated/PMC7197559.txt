@@ -1,0 +1,12 @@
+Coronavirus disease 2019 (COVID-19) is a newly recognized illness caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which firstly emerged in December 2019 in the city of Wuhan in Hubei province, China.
+As of 29 February 2020, a cumulative total of 79 394 COVID-19 cases were reported in China, which led to 2838 deaths, according to the report of the World Health Organization–China Joint Mission on Coronavirus Disease 2019 (COVID-19) [1].
+We hypothesized that a genetic variant of the interferon-induced transmembrane protein 3 (IFITM3) gene (IFITM3) was associated with the severity of COVID-19, specifically the single-nucleotide polymorphism rs12252.
+It is currently unknown whether IFITM3 shows genetic association with the severity of COVID-19.
+To investigate whether the IFITM3 variant was associated with disease severity, we recruited a cohort of hospitalized patients with laboratory-confirmed COVID-19.
+COVID-19 was diagnosed according to the diagnosis and treatment of COVID-19 recommended by the National Health Commission of China [6].
+Mild disease was defined as COVID-19 with the presence of fever, respiratory symptoms, and pneumonia at imaging.
+Severe disease was defined as COVID-19 with the additional presence of significant respiratory distress (respirations, >30/min), blood oxygen saturation <93%, ratio of arterial oxygen pressure to fraction of inspired oxygen <300 mm
+To determine whether the homozygous C-allele carriers associate with the severity of COVID-19, we genotyped the cohort by sequencing a 300–base pair locus spanning rs12252.
+These findings require further validation but represent important early evidence in a carefully phenotyped cohort for a role of IFITM3 in the severity of COVID-19.
+Larger cohort studies are needed to confirm this genetic association with severity of COVID-19, but the data presented here support the need for such genetic analyses in different global populations, with the opportunity for early targeted intervention in persons at risk if robust genetic biomarkers can be established and potential therapeutic targets highlighted.
+Abstract  A major unanswered question in the current global coronavirus disease 2019 (COVID-19) outbreak is why severe disease develops in a small minority of infected individuals.

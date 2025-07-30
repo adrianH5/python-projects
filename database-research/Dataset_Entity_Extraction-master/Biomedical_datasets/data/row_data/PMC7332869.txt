@@ -1,0 +1,9 @@
+2745 protein and 1702 complete genome sequences reported sequences available on May 18th 2020 were downloaded from the COVID 19 data hub.
+Sequences with the following IDs NC_045512 and YP_009724390.1 were considered as reference sequences (refseq) since they are both available at the COVID 19 data hub.
+From the NCBI database, the primary sequence of SARS-CoV-2 spike glycoprotein (ID Sequence: YP_009724390.1) was found.
+The PDB ID: 6VYB represents the up conformation, whereas PDB ID: 6VXX constitutes the down conformation.
+In the PDB database we searched for the structures of the MHC-I-II proteins; for the HLA-DRB1*0401 molecule, the crystal with the PDB ID: 6BIJ, for HLA-A*2402 we used the crystal structure PDB ID: 3W0W, and for HLA-A*0301 we used the structure PDB ID: 2XPG whereas for the HLA-DRB1*0701 molecule, we did not find a structure in the PDB, so we modeled the structure by homology modeling using Program Modeller 9.23 (Webb & Sali, 2016).
+We employed the crystal structure PDB ID: 3PDO as a template, with an identity of 100% for the alpha chain and an identity of 89.90% for the beta chain.
+The sequence ID YP_009724390.1 was analyzed through the Servers NetMHC 4.0 Server and NetMHCII 2.3 to predict immunogenic regions which could induce antibodies against the virus SARS-CoV-2.
+In addition, as mentioned in the databases where the frequency of the alleles has been investigated, we found that the HLA-DRB1*0401 and HLA-A*2401 alleles are distributed in different ethnic groups, therefore these peptides could be used as a base to design new vaccines for different human races or ethnic groups, which are important because SARS-CoV-2 is not only in China but also distributed in different countries.
+Abstract  The Coronavirus disease named COVID-19 is caused by the virus reported in 2019 first identified in China.

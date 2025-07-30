@@ -1,0 +1,12 @@
+Diabetic wounds (DW) are one of the complications of diabetes.
+They are difficult to repair and current treatment options are limited.
+In this study, we employed a network pharmacology approach to investigate the therapeutic potential of Apigenin (API) in the treatment of DW.
+We used TCMSP, ETCM and SwissTargetPrediction to identify API's drug targets and DisGeNET, GeneCards, TTD, and OMIN for DW-related targets, yielding a set of intersecting genes.
+Then, we constructed the PPI network by STRING and visualized with Cytoscape software.
+Further refinement through relevant algorithms of Cytohubba identified nine core genes: HSP90AA1, ACTB, AKT1, BCL2, EGFR, SRC, CCND1, ESR1, and JUN.
+GO/KEGG analysis were conducted using the DAVID database.
+The results show that the targets are enriched in biological processes related to cell and smooth muscle movement and migration, as well as pathways associated with anti-inflammatory, diabetes, and inflammatory stimuli.
+Moreover, the binding affinity of API to identified core targets was confirmed through molecular docking using Autodock software.
+We further carried out Molecular docking simulations to verify that API exhibits significant binding affinities towards these core targets, suggesting a robust interaction profile.
+Finally, the experimental validation further confirmed the regulatory effect of API on PI3K-AKT signaling and cell apoptotic pathway.
+Our research elucidated that API holds significant promise as a therapeutic agent for the treatment of DWs.

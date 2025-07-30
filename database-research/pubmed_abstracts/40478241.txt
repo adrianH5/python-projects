@@ -1,0 +1,9 @@
+RNA-based therapies are often hampered by low RNA stability and cytoplasmic delivery efficiency.
+Coacervate droplets formed by liquid-liquid phase separation (LLPS) exhibit great potential in drug loading and transfection efficiency for delivering biomacromolecules into the cytoplasm due to their condensed and fluid nature.
+Here, we developed a type of coacervate droplet as the delivery vector formed by the LLPS of sodium hexametaphosphate (SHMP) and antioxidant peptide SS-31, followed by loading with microRNA-223 (miRNA-223) as a coacervate artificial cell (Coac@miR).
+In addition, an erythrocyte membrane coating on the Coac@miR (EMCoac@miR) is employed to shield the miRNA-223 from ribonuclease degradation during blood transfer.
+The coacervate artificial cells demonstrate increased cytoplasmic delivery efficiency of miRNA-223 by 10-fold higher than the miRNA-223 alone.
+With acute lung injury (ALI) mouse model, we find that both intratracheal injection (i.t.)
+of Coac@miR and intravenous injection (i.v.)
+of EMCoac@miR could alleviate ALI by reprogramming macrophages to an anti-inflammatory (M2) phenotype, inhibiting inflammatory factors, and relieving ROS stress.
+This work provides a novel delivery system for miRNAs within polyP-peptide-based coacervate artificial cells, demonstrating therapeutic potential for immune-related and inflammatory diseases.

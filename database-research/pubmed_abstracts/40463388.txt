@@ -1,0 +1,8 @@
+Immune checkpoint inhibitors (ICIs) are widely used for cancer immunotherapy; however, the clinical efficacy of anti-PD-1/PD-L1 monotherapy is generally limited, highlighting the need to develop combination therapies.
+Dogs develop spontaneous tumors in immunocompetent settings, and anti-PD-1/PD-L1 antibodies exert similar clinical benefits.
+However, no clinically relevant anti-CTLA-4 antibody has been reported, limiting the value of canine tumors as comparative models for human ICI research.
+Here, canine CTLA-4 was molecularly characterized, and a caninized anti-CTLA-4 antibody (ca1C5) that blocks CTLA-4/ligand binding was developed.
+Treatment with ca1C5 increased cytokine production in canine immune cell cultures, and the immunostimulatory effect was enhanced when used in combination with the anti-PD-L1 antibody c4G12.
+As a proof-of-concept, a veterinary clinical study was conducted to demonstrate the safety and clinical efficacy of anti-CTLA-4 antibody as salvage combination therapy in dogs with advanced tumors refractory to prior c4G12 monotherapy.
+The combination treatment (c4G12 plus ca1C5) was well-tolerated, and evidence of antitumor activity was observed in one dog with oral malignant melanoma.
+Further studies are warranted to advance veterinary care for dogs and to better characterize canine ICI models for human onco-immunology research.

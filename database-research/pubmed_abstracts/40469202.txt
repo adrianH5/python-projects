@@ -1,0 +1,13 @@
+Benzene, toluene, ethylbenzene, and xylene (BTEX) have been associated with certain cancers in the occupational population.
+This study aimed to investigate the associations between low-level ambient BTEX exposure and cancer risks in the general population.
+We leveraged data from the UK Biobank and included individuals free of cancer at 2006-2010 baseline.
+Annual concentrations of BTEX were estimated using a chemistry-climate model, and the associations between BTEX and incident overall and 18 site-specific cancers were investigated with Cox proportional hazard models.
+We also fitted restricted cubic splines to explore the exposure-response relationships.
+The study sample comprised 409,579 participants [mean age 56.2 (8.11) years; 219,315 (53.5%) females].
+Over a mean (SD) follow-up period of 11.2 (2.64) years (4,597,164 person-years), 60,777 overall incident cancer cases occurred.
+The results showed significant associations between overall cancers and benzene [HR 1.93 (95% CI: 1.89, 1.96)], toluene [1.25 (1.23, 1.26)] and xylene [1.11 (1.10, 1.12)].
+Benzene and toluene were associated with a higher risk of 18 site-specific cancers.
+For xylenes (a summation of ethylbenzene, m/p-xylene, and o-xylene in the model), significant associations with multiple myeloma, hepatobiliary tract, thyroid, or connective soft tissue were not observed.
+Exposure-response curves suggested a higher risk of overall cancer beyond the benzene threshold.
+For toluene and xylene, there was no threshold or plateau across the range of exposures.
+This large-scale prospective cohort study demonstrates that long-term exposure to low-level ambient BTEX could increase the risk of overall and site-specific cancers in the general population.

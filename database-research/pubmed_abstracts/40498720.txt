@@ -1,0 +1,13 @@
+Memory T cells play an important role in mediating long-lasting adaptive immune responses to viral infections, such as SARS-CoV-2.
+In the context of the latter, much of our current knowledge stems from studies in vaccinated individuals or repeatedly infected individuals.
+However, limited knowledge is available on these responses in fully naive individuals in German communities.
+We performed immunophenotyping of a previously naive SARS-CoV-2 cohort in convalescent individuals after asymptomatic to moderate COVID-19.
+The samples were collected median 250 days post infection during the first wave of the COVID pandemic in Germany (March - May 2020).
+In this cohort of 174 individuals, we phenotyped different leukocyte cell populations in peripheral blood (B, T and Natural Killer cells).
+We then assessed the serostatus against the SARS-CoV-2 antigens Nucleocapsid (N) and Spike subunit (S1) with its receptor binding domain (RBD), as these are important correlates of protection, by testing for presence of immunoglobulin G (IgG) antibodies.
+We also measured IgG antibody responses against the N antigen of the common cold coronaviruses HCoV-OC43, HCoV-HKU1, HCoV-NL63 and HCoV-229E, to determine possible cross-reactivity.
+In a subset of the cohort (n = 76), we performed intracellular staining assays (ICS) after stimulation with SARS-CoV-2 and HCoV antigens.
+Key findings are significant differences in frequency of CD4+ memory T cell populations, notably CD4+ TEM and CD4+ TEMRA cells, between the group of SARS-CoV-2 positive individuals and the control group.
+These differences correlated with cytokine production (TNFα, IFNγ) after stimulation with SARS-CoV-2 peptides, indicating a specific T cell immune response.
+In conclusion, a clear memory T cell and humoral response can be detected up to 250 days post mild to moderate COVID-19 disease.
+Our results underline findings reported by others indicating a lasting cellular immune response even in a population which previously had not been exposed to SARS-CoV-2.

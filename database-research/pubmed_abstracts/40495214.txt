@@ -1,0 +1,8 @@
+Triple-negative breast cancer (TNBC) is recognized for its aggressiveness, yet the mechanism underlying metastasis remains unclear.
+Here, we report that CREPT/RPRD1B, which exhibits somatic gene copy-number amplifications and elevated expression, correlates with poor patient survival and drives TNBC metastasis.
+We demonstrate that CREPT alters three-dimensional genome structures in topologically-associating domain (TAD) status and chromatin loops via occupying promoters and enhancers.
+Specifically, CREPT mediates 1082 co-operational chromatin loops configured by enhancer-promoter and promoter-termination loops, which are validated by HiChIP analyses and visualized by Tn5-FISH experiments.
+These loops orchestrate RNAPII loading and recycling to enhance the metastatic gene expression.
+Disruption of these co-operational loops using CRISPR-dCas9 suppresses TNBC metastasis in vivo.
+Furthermore, depletion of CREPT using an AAV-based shRNA blocks TNBC metastasis in both preventative and therapeutic mouse models.
+We propose that targeting CREPT to disrupt the co-operational chromatin loop structures represents a promising therapeutic strategy for metastatic TNBC.

@@ -1,0 +1,4 @@
+Malignant gliomas (MG) are the most common primary brain malignancies and are considered universally fatal.
+Oncolytic HSVs (oHSV) are promising immunotherapeutics capable of selectively lysing cancer cells, eliciting anti-tumor immunity, and providing local delivery of immune-activating transgenes.
+IL-27 is a pleiotropic cytokine capable of enhancing tumor-reactive cytotoxic T cell (CTL) function while also possessing neuroprotective properties.
+We hypothesized that IL-27 expression by oHSV would enhance CTL function and improve anti-glioma therapeutic activity.

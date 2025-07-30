@@ -1,0 +1,11 @@
+Exosomes, lipid bilayer nanovesicles secreted by nearly all cell types, play pivotal roles in intercellular communication by transferring proteins, nucleic acids, and lipids.
+This review comprehensively summarizes their multiple functions in inflammation and cancer.
+In inflammation, exosomes exhibit context-dependent pro- or anti-inflammatory effects: they promote acute responses by delivering cytokines and miRNAs to activate immune cells, yet suppress chronic inflammation via immunoregulatory molecules.
+Two representative inflammatory diseases, namely sepsis and inflammatory bowel disease, were highlighted to elucidate their roles in the acute and chronic inflammatory diseases.
+In cancer, exosomes orchestrate tumor microenvironment (TME) remodeling by facilitating angiogenesis, metastasis, and immune evasion through interactions with cancer-associated fibroblasts, tumor-associated macrophages, and extracellular matrix components.
+Furthermore, exosomes can facilitate the transition from inflammation to cancer by impacting pertinent signaling pathways via their transported oncogenic and inflammatory molecules.
+Tumor-derived exosomes also serve as non-invasive biomarkers correlating with disease progression.
+Clinically, exosomes demonstrate promise as therapeutic agents and drug carriers, evidenced by ongoing trials targeting inflammatory diseases and cancers.
+However, challenges in isolation standardization, scalable production, and understanding functional heterogeneity hinder clinical translation.
+Future research should prioritize elucidating cargo-specific mechanisms, optimizing engineering strategies, and advancing personalized exosome-based therapies.
+By bridging molecular insights with clinical applications, exosomes hold great potential in precision medicine for inflammation and oncology.

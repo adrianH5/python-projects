@@ -1,0 +1,4 @@
+The mechanisms by which epithelial stem cells (SCs) sense mechanical cues within their niche and convert the information into biochemical signals to govern their function are not well understood.
+Here, we show that hair follicle SCs (HF-SCs) sense mechanical forces through cell adhesion and maintain quiescence in a PIEZO1-dependent mechanism.
+PIEZO1 interacts with E-cadherin in HF-SCs, and mechanical pulling of E-cadherin with a force of ~20 pN triggers PIEZO1-dependent, localized calcium flickers.
+Deletion of

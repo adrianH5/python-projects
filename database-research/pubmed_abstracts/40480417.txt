@@ -1,0 +1,8 @@
+Gastric cancer (GC) metastasis remains a significant cause of cancer-related mortality, yet the molecular mechanisms underlying this process have not been fully elucidated.
+CHD4, a chromatin remodeling factor, has been associated with oncogenic processes, but its precise role in GC metastasis has not been defined.
+In this study, we identify CHD4 as a critical regulator of GC metastasis through the MYH9/GSK3β/β-catenin axis and the activation of the WNT pathway and epithelial-mesenchymal transition (EMT).
+Clinically, CHD4 was significantly overexpressed in GC tissues and strongly correlated with advanced disease stages and poor prognosis.
+Mechanistically, CHD4 interacted with MYH9 via its ATPase domain and promoted the nuclear-to-cytoplasmic translocation of MYH9, thereby enabling MYH9 to orchestrate inhibitory phosphorylation and ubiquitination-dependent degradation of GSK3β.
+This, in turn, stabilized β-catenin, leading to its nuclear accumulation and activation of downstream WNT target genes, such as Cyclin D1, along with the induction of EMT.
+Functionally, suppression of CHD4 expression inhibited GC cell migration, invasion, and metastasis in vivo, while MYH9 restoration reversed these effects.
+Collectively, these findings establish CHD4 as a key regulator of GC metastasis through the MYH9/GSK3β/β-catenin axis and underscore its potential as a therapeutic target for inhibiting GC progression.

@@ -1,0 +1,6 @@
+4-hydroxyphenylpyruvate dioxygenase (HPD) is an important metabolic enzyme in the tyrosine metabolic pathway and displays aberrant expression and function in cancer.
+Unexpectedly, it is discovered that HPD functions as an RNA-binding protein (RBP) to drive ovarian cancer progression.
+HPD is shown to bind to the RRACH motif of these target mRNAs through its two dsRNA binding domains (RBDs), resulting in increased global mRNA translation.
+In particular, HPD binding is demonstrated to mediate translation of glycolytic enzymes triosephosphate isomerase (TPI) and alpha-enolase (ENO1) mRNAs, which facilitates ovarian cancer glycolysis and tumor growth.
+Thus, targeting the RBD domain of HPD disrupts its RNA binding ability, leading to blocking glycolysis flux, tumor growth, and enhancing drug response.
+HPD is a novel RNA-binding protein, and this moonlighting function highlights the knowledge of HPD in regulating cancer development and drug response beyond only as a metabolic enzyme.

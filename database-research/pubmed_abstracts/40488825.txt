@@ -1,0 +1,7 @@
+Graft-versus-host disease (GVHD) limits the curative potential of allogeneic hematopoietic cell transplant (HCT).
+This immune-mediated disease can result in multisystem organ morbidity, chronic debility, or mortality.
+Prevention of GVHD is a primary objective when treating patients with allogeneic HCT.
+While many factors are considered in transplant planning, the choice of GVHD prophylaxis is a critical and modifiable factor that impacts the risk of GVHD.
+Each regimen is associated with variable GVHD risk, immune reconstitution, infection risk, graft-versus-tumor effect, and drug-related adverse events.
+Furthermore, the utility of a specific regimen must be considered in the context of the transplant platform such as conditioning regimen and donor choice.
+In this chapter, we review the current state of GVHD prophylaxis, highlighting the historical standard approach of calcineurin inhibitor-based regimens, as well as the emerging standard of post-transplant cyclophosphamide.

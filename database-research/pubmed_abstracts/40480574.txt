@@ -1,0 +1,7 @@
+B and T lymphocyte attenuator (BTLA) is a co-inhibitory receptor of B7 family that shares structural homology with cytotoxic T lymphocyte associated antigen-4 (CTLA-4) and programmed death-1 (PD-1).
+Overlapping BTLA binding sites in herpes virus entry mediator (HVEM) for different ligand/receptor interactions including CD160 and herpes simplex virus (HSV) glycoprotein D (gD) (HSV gD) trigger competitions and provide opportunities to block one direction instead allowing the activity of another, such as LIGHT (CD258) for tumor targeted purposes.
+BTLA seemingly masks the therapeutic potential of anti-programmed death-1 (PD-1), so it can be a target in cancer immunotherapy.
+It seems that BTLA predominantly take inhibitory pro-tumor path.
+PD-1 mainly recruits SHP-2, while BTLA mainly recruits SHP-1 to promote immunosuppression.
+Targeting BTLA-HVEM ligation using BTLA inhibitors or application of peptides occupying the BTLA site in HVEM are strategies for targeting BTLA in cancer immunotherapy.
+However, there is also another side of the coin so that activation of growth factor receptor-bound protein 2 (Grb2) which only exists in the cytoplasmic tail of BTLA promotes stimulatory route to this checkpoint, and recalling the stimulatory path with appropriate inducers may positively affect responses to adoptive cell therapy (ACT) using tumor-infiltrating lymphocytes (TILs) against cancer.

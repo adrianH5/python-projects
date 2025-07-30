@@ -1,0 +1,4 @@
+Leucine-rich alpha-2 glycoprotein 1 (LRG1) is an extracellular protein whose elevated expression has been linked to cancers with poor prognosis and low survival rates.
+Given its significance as a biomarker, this manuscript explores the role of LRG1 in cancer, as several studies have identified it as a promoter of proliferation, angiogenesis, invasion, and metastasis in breast, ovarian, pancreatic, and neuroblastoma cancers.
+However, contrasting evidence suggests that LRG1 inhibits proliferation in hepatocellular carcinoma cells and suppresses migration and invasion in esophageal squamous cell carcinoma.
+We also examine its regulation and the associated signaling pathways, including TGF-β and PI3K/AKT/mTOR.

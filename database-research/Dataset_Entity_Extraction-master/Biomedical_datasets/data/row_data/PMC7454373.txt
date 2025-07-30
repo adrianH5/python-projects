@@ -1,0 +1,5 @@
+Abstract   Background  Coronavirus disease 2019 (COVID-19) is a global public health problem that has already caused more than 662,000 deaths worldwide.
+Although the clinical manifestations of COVID-19 are dominated by respiratory symptoms, some patients present other severe damage such as cardiovascular, renal and liver injury or/and multiple organ failure, suggesting a spread of the SARS-CoV-2 in blood.
+We herein intended to use the droplet-based digital PCR technology to obtain sensitive detection and precise quantification of plasma SARS-CoV-2 viral load (SARS-CoV-2 RNAaemia) in hospitalized COVID-19 patients.
+Methods  Fifty-eight consecutive COVID-19 patients with pneumonia 8 to 12 days after onset of symptoms and 12 healthy controls were analyzed.
+Conclusion  SARS-CoV-2 RNAaemia measured by droplet-based digital PCR constitutes a promising prognosis biomarker in COVID-19 patients

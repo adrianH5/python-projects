@@ -1,0 +1,4 @@
+Breast cancer treatment remains challenged by the non-specific distribution and systemic toxicity of conventional chemotherapeutics.
+Celastrol (CEL), a natural compound with antitumor efficacy, faces clinical limitations due to its toxicity and poor solubility.
+Glycyrrhizic acid (GA), known for tumor-suppressive and membrane-modifying properties, offers potential to enhance targeted drug delivery.
+This study aimed to develop GA-modified liposomes (GA/LIP-CEL) to synergistically improve CEL's therapeutic specificity and safety.

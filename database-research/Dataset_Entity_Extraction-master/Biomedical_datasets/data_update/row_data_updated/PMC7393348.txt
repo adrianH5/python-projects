@@ -1,0 +1,16 @@
+Coronaviruses (CoVs) induced three major outbreaks of respiratory distress syndrome in the last decades including severe acute respiratory syndrome (SARS) in 2003 with an epicenter in Guangdong, China [1], Middle East respiratory syndrome (MERS) in 2012 in Saudi Arabia [2], and novel coronavirus disease (COVID-19) firstly observed in Wuhan province, China, in late 2019 [3].
+The COVID-19 symptoms vary from mild to severe that can eventually lead to death.
+The human-to-human transmission of COVID-19 is reported to occur by respiratory droplets or direct contact with the patients [4, 5].
+World Health Organization (WHO) announced COVID-19 as a pandemic on 11th March 2020 [6].
+The number of infected cases and deaths by COVID-19 is sharply rising daily.
+According to the WHO report, as of 18th April 2020, COVID-19 has spread to more than 200 countries and territories with over 2,160,207 confirmed cases and over 146,088 confirmed deaths worldwide.
+Novel coronavirus (2019-nCoV) also known as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the causative agent of COVID-19 [9].
+This functional prominence of Mpro in the viral life cycle, along with the lack of closely associated homologues in humans, makes the Mpro a promising target for COVID-19 antiviral drug design [13–17].
+Many research groups have carried out the repurposing process, and to date many approved drugs are being tried in more than 100 clinical trial studies, but as of now, none of them turned out to be completely effective for COVID-19 treatment.
+Unfortunately, no vaccine has been developed/approved yet to combat COVID-19 [18].
+To meet this urgent medical need for an effective drug for COVID-19, we planned to identify potential SARS-CoV-2 Mpro inhibitors as possible anti-COVID-19 agents, by carrying out screening of a drug library containing drugs and diagnostic agents (approved by FDA or other world authorities) [19, 20] and the Asinex BioDesign library [21].
+The resulted scaffolds, mainly from Asinex BioDesign library, are discussed in detail that could be utilized as potential hits for further drug development to find out an acceptable drug treatment of COVID-19.
+Asinex BioDesign library [21], which consists of pharmacologically important structural features from natural products in the chemical scaffolds having synthetic feasibility, was obtained from Asinex database and 175,815 molecules (database updated in early 2020) were prepared using LigPrep module [25].
+On the basis of protein amino acids present, excluded volume was calculated to avoid false selection of ligands during screening of the database.
+Abstract  The Co rona vi rus D isease (COVID-19) is caused because of novel coronavirus (SARS-CoV-2) pathogen detected in China for the first time, and from there it spread across the globe creating a worldwide pandemic of severe respiratory complications.
+These could be used as potential molecules or hits for further drug development to obtain clinically useful therapeutic agents for the treatment of COVID-19.

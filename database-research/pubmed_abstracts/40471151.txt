@@ -1,0 +1,7 @@
+Tumor-associated macrophages (TAMs) exhibit a dual role in tumor progression and antitumor immunity.
+However, understanding the functional states and molecular mechanisms of antitumor TAMs remains a challenge.
+Herein, we show that intratumoral administration of a combination of agonists against TLR3 and CD40 (hereafter termed myeloid cell treatment, MCT) reprogrammed TAMs in situ to adopt a protective antitumor phenotype in an orthotopic mouse breast cancer model, and that this led to tumor regression.
+Single-cell RNA sequencing of TAMs from different tumor stages and post-MCT revealed a transient antitumor TAM phenotype, present at 12h post-MCT, characterized by markers such as iNOS and CD38, which was replaced by TAMs co-expressing tumor-limiting and promoting features by 72h post-MCT.
+Maintenance of antitumor TAMs required repeated MCT administration, and this promoted the activation of CD8+ T cells and long-term tumor eradication.
+Mechanistically, ROS and TNF-α were pivotal in TAM-mediated tumor control.
+Our findings uncover the vulnerability of transient TAM reprogramming and show that it can be overcome by repeated MCT administrations to sustain efficient antitumor immune responses.

@@ -1,0 +1,6 @@
+Photodynamic therapy (PDT) has gained significant attention as a minimally invasive cancer treatment that induces localized cytotoxicity with limited systemic side effects.
+When activated by light, typically in the visible or near-infrared spectrum, photosensitizers generate reactive oxygen species (ROS), leading to direct tumor cell death, vascular disruption, and stimulation of antitumor immune responses.
+This review provides an in-depth overview of the current understanding of PDT's antitumor mechanisms, focusing on ROS-induced cell death, immunogenic cell death, and tumor microenvironment modulation.
+Additionally, this review provides a critical evaluation of both clinically approved and investigational photosensitizers, detailing their chemical structures, photophysical properties, and therapeutic applications.
+We also discuss recent advances in combination strategies that integrate PDT with chemotherapy, radiotherapy, or immunotherapy to achieve enhanced therapeutic outcomes.
+Special emphasis is placed on emerging smart photosensitizers and tumor-targeted delivery systems that respond to microenvironmental stimuli, enhancing therapeutic precision and efficacy.

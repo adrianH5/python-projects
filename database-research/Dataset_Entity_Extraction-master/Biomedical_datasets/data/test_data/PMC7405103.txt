@@ -1,0 +1,56 @@
+Coronavirus disease 2019 (COVID‐19), caused by the severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2), was declared a pandemic by the World Health Organisation (WHO) on 12 March 2020 after rapid global spread.
+COVID‐19 has a varied clinical presentation ranging from asymptomatic/mild infection to life‐threatening illness requiring multi‐organ support.
+Data from other cohorts worldwide suggest mortality from COVID‐19 is higher in haematology patients compared to the general population,
+, 
+, 
+ with reported mortality rates between 39% and 50% in other British haematology patient cohorts.
+, 
+,
+In particular, a recent UK case series reported significantly higher case fatality rates in haematology patients receiving immunosuppressive or cytotoxic therapy within three months of COVID‐19 diagnosis, raising concerns about the delivery of systemic anti‐cancer therapy (SACT) during the pandemic.
+We studied 55 patients ≥ 18 years old with a haematological disorder who tested positive for SARS‐CoV‐2 or were diagnosed with COVID‐19 based on radiological or clinical criteria, between 20 March and 20 April 2020.
+Cases were identified through departmental surveillance which identified haematology patients testing positive for SARS‐CoV‐2 or with suspected or confirmed COVID‐19 in outpatient and inpatient departments.
+This cohort included 52 patients with an underlying haematological malignancy, two with bone marrow failure syndromes and one with immune‐mediated thrombotic thrombocytopenic purpura (TTP) receiving elective immunosuppressive therapy Table I. Patients had laboratory‐confirmed SARS‐CoV‐2 [defined as a positive result on reverse‐transcriptase‐polymerase‐chain‐reaction (RT‐PCR) assay on a combined nose and throat swab specimen] or a high clinical suspicion of COVID‐19 (defined as SARS‐CoV‐2 RT‐PCR‐negative patients who had radiological evidence of pneumonia or an influenza‐like illness in the absence of another identifiable cause).
+Among patients requiring hospital admission 86% (44/51) were on SACT at the time of COVID‐19 diagnosis, 87% (48/55) had a laboratory‐confirmed diagnosis of COVID‐19, 9% (5/55) were diagnosed based on radiological appearances on a plain chest radiograph (CXR) or computed tomography (CT), while 4% (2/55) had indeterminate radiology but a highly suggestive clinical picture of COVID‐19.
+Median age at time of COVID‐19 diagnosis was 63 (range 23–88) years, and 67% (37/55) were male.
+Four patients were admitted with symptoms including cough and fever but were found to be pancytopenic and a new diagnosis of acute leukaemia/myelodysplastic syndrome (MDS) was made [two acute myeloid leukaemia (AML), one B‐cell acute lymphoblastic leukaemia (B‐ALL), one high‐risk MDS] with concomitant COVID‐19.
+Two patients were admitted to hospital for management of their haematological malignancy and were asymptomatic or had mild symptoms of COVID‐19.
+Four patients had been in hospital for greater than seven days before they developed symptoms and thus likely acquired COVID‐19 in hospital.
+Four patients were neutropenic (neuts < 1 × 109/l) at time of COVID‐19 diagnosis.
+Thirteen percent (7/55) developed neutropenia (<1 × 109/l) in the seven days following COVID‐19 diagnosis.
+Of those who were currently on or had recently received SACT, 65% (34/52) had their therapy modified by dose change (n = 1), treatment delay (n = 28) and/or a change in treatment regimen (n = 5) due to concerns regarding the administration of standard chemotherapy during the COVID‐19 pandemic and in line with national guidance.
+These regimens were felt to be less myelosuppressive compared to standard therapy.
+, 
+ A patient with a new diagnosis of Philadelphia‐positive B‐ALL and a mild clinical presentation of COVID‐19 underwent reduced‐intensity imatinib‐based induction therapy on the UKALL60+ protocol.
+All four patients recovered from COVID‐19 despite undergoing induction therapy during their illness.
+In all, 86% (43/50) of patients received systemic antibiotics, and 6% (3/50) antifungal therapy during their COVID‐19 illness.
+A number of patients had other concomitant infections diagnosed during their COVID‐19 admission (Table SIII).
+We report the outcomes of a large cohort of haematology patients with COVID‐19, the majority of whom were receiving SACT.
+Despite valid concerns regarding the vulnerability of haematology patients to COVID‐19, our observed mortality of 37% in hospitalised patients indicates that a significant proportion of haematology patients recover from COVID‐19, despite recent or concurrent SACT.
+Despite heterogeneity in our patient cohort and methodology, the mortality rate described here is consistent with those from other UK cohorts of patients with haematological malignancy and COVID‐19 (39–52%).
+, 
+,
+While a direct comparison with a non‐haematology cohort has not been performed, our data corroborate existing studies that haematology patients are at increased risk of severe disease and mortality from COVID‐19, with a large UK population study reporting lower mortality of 33% of all hospitalised cases, despite an older median study age of 72 years.
+Several risk factors for severe COVID‐19 in the general population are relevant to patients with haematological disorders.
+In this patient cohort, 81% had SACT modifications (delay or de‐intensification) in light of their COVID‐19 diagnosis, including when receiving induction treatment for new diagnoses of haematological malignancies, in line with emerging evidence and guidance.
+While patients who received SACT within 28 days of COVID‐19 diagnosis had higher rates of severe disease and mortality, this was not statistically significant, although analysis is limited by the size and heterogeneity of the cohort.
+While a recent UK series has suggested that recent SACT confers a higher risk of death from COVID‐19 in haemato‐oncology patients,
+ two recent multicentre cohort studies including haematology patients have found no impact of SACT timing on COVID‐19 outcome,
+, 
+ highlighting the need for further data regarding the implications for different disease subtypes and treatment modalities.
+While caution in instituting SACT is clearly warranted, our data suggest that modification of therapy including the use of non‐standard treatment regimens can be considered in haematology patients with COVID‐19 to allow treatment of the haematological diagnosis while accepting risks of COVID‐19 infection.
+Where the COVID‐19 pandemic has forced a paradigm shift in therapy, the long‐term follow‐up of these patients will be crucial to assess efficacy in comparison to more intensive chemotherapy‐based regimens.
+Furthermore, the cases of newly diagnosed leukaemia highlight the importance of COVID‐19 testing as part of routine investigation of patients with haematological malignancies in the current climate.
+Recent data from patients in the general population with COVID‐19 have identified that haematological parameters including anaemia or thrombocytopenia are risk factors for severe disease.
+,
+Coagulopathy in COVID‐19 pathophysiology is an ongoing area of research, with early observations highlighting high rates of VTE occurrence, particularly in those with severe COVID‐19.
+, 
+, 
+, 
+ Prophylactic LMWH, unless contraindicated, is, therefore, advised for all COVID‐19 patients.
+Summary  Haematology patients receiving chemo‐ or immunotherapy are considered to be at greater risk of COVID‐19‐related morbidity and mortality.
+We aimed to identify risk factors for COVID‐19 severity and assess outcomes in patients where COVID‐19 complicated the treatment of their haematological disorder.
+A retrospective cohort study was conducted in 55 patients with haematological disorders and COVID‐19, including 52 with malignancy, two with bone marrow failure and one immune‐mediated thrombotic thrombocytopenic purpura (TTP).
+COVID‐19 diagnosis coincided with a new diagnosis of a haematological malignancy in four patients.
+Among patients, 82% were on systemic anti‐cancer therapy (SACT) at the time of COVID‐19 diagnosis.
+The majority of patients recovered from COVID‐19, despite receiving recent SACT.
+This suggests that SACT, where urgent, should be administered despite intercurrent COVID‐19 infection, which should be managed according to standard pathways.

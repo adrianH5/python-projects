@@ -1,0 +1,7 @@
+The MYC oncoprotein regulates numerous genes involved in processes such as cell cycle control and mitochondrial and ribosomal structure and function.
+This requires heterodimerization with its partner, MAX, and binding to specific promoter and enhancer elements.
+Here, it is shown that MYC and MAX also bind near transcriptional end sites (TESs) of over one-sixth of all annotated genes.
+These interactions are dose-dependent, evolutionarily conserved, stabilize the normally short-lived MYC protein and regulate expression both in concert with and independent of MYC's binding elsewhere.
+MYC's TES-associated binding, occurring in coordination with other transcription factors, alters the chromatin landscape, increases nuclease susceptibility and alters transcriptional read-through, particularly in response to certain stresses.
+MYC-bound TESs can directly contact promoters and appear to fine-tune gene expression in response to both physiologic and pathologic stimuli.
+Collectively, these findings support a previously unrecognized role for MYC in regulating transcription and its read-through via direct intragenic contacts between TESs and promoters.

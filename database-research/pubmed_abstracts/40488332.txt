@@ -1,0 +1,9 @@
+Novel antibody-drug conjugates highlight the benefits for breast cancer patients with low human epidermal growth factor receptor 2 (HER2) expression.
+This study aims to develop and validate a Vision Transformer (ViT) model based on dynamic contrast-enhanced MRI (DCE-MRI) to classify HER2-zero, -low, and -positive breast cancer patients and to explore its interpretability.
+The model is trained and validated on early enhancement MRI images from 708 patients in the FUSCC cohort and tested on 80 and 101 patients in the GFPH cohort and FHCMU cohort, respectively.
+The ViT model achieves AUCs of 0.80, 0.73, and 0.71 in distinguishing HER2-zero from HER2-low/positive tumors across the validation set of the FUSCC cohort and the two external cohorts.
+Furthermore, the model effectively classifies HER2-low and HER2-positive cases, with AUCs of 0.86, 0.80, and 0.79.
+Transcriptomics analysis identifies significant biological differences between HER2-low and HER2-positive patients, particularly in immune-related pathways, suggesting potential therapeutic targets.
+Additionally, Cox regression analysis demonstrates that the prediction score is an independent prognostic factor for overall survival (HR, 2.52; p = 0.007).
+These findings provide a non-invasive approach for accurately predicting HER2 expression, enabling more precise patient stratification to guide personalized treatment strategies.
+Further prospective studies are warranted to validate its clinical utility.

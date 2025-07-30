@@ -1,0 +1,6 @@
+Innate immunity comprises intricate cellular and tissue responses critical for host defense and tissue homeostasis.
+Intercellular communication is central to these responses and significantly influences infection, inflammatory disorders, and cancer.
+Connexins form hemichannels, gap junctions, and connexosomes to mediate signaling molecule transfer, including nucleotide derivatives, ions, antigens, and mitochondria, which occur between adjacent cells or between cells and their microenvironments.
+By modulating intercellular communication, connexins regulate various immune cell functions and contribute significantly to the coordination of innate immunity.
+This review summarizes recent insights into connexin-mediated innate immune networks and their implications in pathological contexts such as viral infections, inflammation, and tumorigenesis.
+Additionally, we discuss targeting connexins as an emerging pharmacological strategy for clinical intervention.

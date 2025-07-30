@@ -1,0 +1,6 @@
+Background The optimal duration of immune checkpoint inhibitor (ICI) therapy for maximum benefits remains unclear.
+Recently, the long-term follow-up data from clinical trials suggest the existence of a durable response (DR) that maintains the therapeutic effect even after ICI discontinuation.
+The study aimed to explore how the characteristics of ICI therapy influence the effectiveness of subsequent treatments in patients with advanced non-small-cell lung cancer (NSCLC).
+Methods The medical records of 134 patients with NSCLC who received ICIs before December 31, 2022, were retrospectively reviewed.
+We evaluated the impact of pretreatment ICIs on survival after completion of ICI administration.
+Results Among the 116 included patients, long ICI use (≥180 days) was the only independent prognostic factor for post-ICI overall survival (OS) in the multivariate analysis (HR: 0.382, 95% CI: 0.206-0.708,

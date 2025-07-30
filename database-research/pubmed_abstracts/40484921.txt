@@ -1,0 +1,8 @@
+Lysine lactylation (Kla) is a recently discovered post‑translational modification in which a lactyl moiety is transferred onto the ε‑amino group of lysine residues, linking cellular metabolism to epigenetic and signaling pathways.
+This process is regulated by a range of enzymes and metabolites, including lactate, "lactyltransferases (writers)", "Delactylases (erasers)", and "readers" involved in the modification.
+Histone lactylation has been observed in H2A, H2B, H3, and H4, with H3K18la and H4K12la being the most extensively studied sites, linked to numerous biological functions.
+Beyond chromatin, Kla has also been identified in a growing number of non-histone proteins, further expanding its functional significance.
+For instance, non-histone proteins such as AARS1-K120la, ACSS2-Kla, MRE11-K673la, NBS1-K388la and GNAT13-Kla has illuminated novel regulatory mechanisms and reinforced the potential of non-histone Kla as a promising avenue for research.
+Importantly, aberrant Kla patterns have been linked to various disease states, including cancer, inflammation, and metabolic disorders, highlighting its emerging potential as a biomarker and therapeutic target.
+In this review, we systematically summarize the molecular mechanisms, biological functions, disease associations, and therapeutic implications of both histone and non-histone Kla.
+By integrating current findings and discussing existing challenges, we aim to provide a comprehensive overview that will deepen understanding of Kla biology and inspire future research into its diagnostic and therapeutic potential.

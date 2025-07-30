@@ -1,0 +1,17 @@
+T1	Dataset 706 762	global initiative on sharing all influenza data (GISAID)
+T2	URL 764 787	https://www.gisaid.org/
+T3	Repository 1047 1051	NCBI
+T4	AccessionNumber 1092 1101	NC_045512
+T5	Dataset 2258 2314	global initiative on sharing all influenza data (GISAID)
+T6	URL 2316 2339	https://www.gisaid.org/
+T7	AccessionNumber 2779 2788	NC_045512
+T8	AccessionNumber 2798 2809	NC_045512.2
+T9	Dataset 3185 3191	GISAID
+T10	AccessionNumber 3299 3308	NC_045512
+T11	AccessionNumber 3318 3329	NC_045512.2
+T12	Dataset 3441 3497	global initiative on sharing all influenza data (GISAID)
+T13	URL 3499 3522	https://www.gisaid.org/
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T5	Arg2:T6
+R4	hasAttr	Arg1:T12	Arg2:T13

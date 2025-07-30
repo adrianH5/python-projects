@@ -1,0 +1,9 @@
+T1	Dataset 402 408	GISAID
+T2	Repository 856 863	GenBank
+T3	AccessionNumber 881 892	NC_045512.2
+T4	Dataset 929 935	GISAID
+T5	AccessionNumber 968 982	EPI_ISL_412972
+T6	Dataset 1060 1066	GISAID
+T7	Dataset 1329 1335	GISAID
+R1	hasAttr	Arg1:T2	Arg2:T3
+R2	hasAttr	Arg1:T4	Arg2:T5

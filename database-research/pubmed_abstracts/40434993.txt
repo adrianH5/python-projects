@@ -1,0 +1,12 @@
+Phosphatidylethanolamine cytidyltransferase 2 (PCYT2) is commonly regarded as the rate-limiting enzyme in eukaryotic phosphatidylethanolamine synthesis.
+However, the role of PCYT2 in the development of hepatocellular carcinoma (HCC) unknow.
+In this study, the role of PCYT2 overexpression in the development of HCC was examined by culturing HepG2 cells.
+We compared the expression levels of PCYT2 in L02 cells and HepG2 cells.
+Then, the HepG2 cells were infected with the lentivirus, establishing PCYT2 overexpression cell models.
+The proliferation, migration, and apoptotic abilities of PCYT2 overexpression in HepG2 cells was observed using western blotting, CCK-8 assay, Transwell assay, wound healing, and plate cloning methods.
+Based on this overexpression model, we determined the mitochondrial function and lipid content of HepG2 cells using lipidomics.
+CDP-ethanolamine (CDP-Etn), a downstream product of PCYT2, was added to the HepG2 cells, inhibiting their proliferation and migration.
+BALB/c female nude mice inoculated with subcutaneously transplanted tumors were used to explore the role of PCYT2.
+The results of the in-vitro experiments, shown that the expression of PCYT2 in normal hepatocytes was higher than that in HCC cells, and addition of CDP-Etn and PCYT2 overexpression inhibited the proliferation and migration of HCC cells, promoted the apoptosis of HCC cells, and caused mitochondrial damage.
+The results of in vivo experiments demonstrated that the tumor volume in the PCYT2 overexpression group was significantly smaller than that in the blank control group.
+Thus, PCYT2 overexpression inhibits the development of HCC, and its mechanism may be related to the impairment of mitochondrial function.

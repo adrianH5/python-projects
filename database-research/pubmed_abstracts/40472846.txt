@@ -1,0 +1,9 @@
+Inositol-requiring enzyme 1α (IRE1α) signaling is one of three arms of the unfolded protein response, playing a vital role in maintaining endoplasmic reticulum homeostasis.
+Pharmacological modulation of this pathway offers potential therapeutic strategies for various diseases.
+Molecular glues may regulate protein stability and activity by inducing protein-protein interaction.
+Here, we find that verteporfin functions as a molecular glue, promoting IRE1α dimerization and activation.
+Specifically, verteporfin binds to IRE1α, facilitating its dimerization, which relies on the His692 residue.
+This activation of IRE1α triggers XBP1 splicing and miR-153-mediated downregulation of PTEN, along with AKT phosphorylation.
+Additionally, we identify the pro-metastasis gene BACH1 as a novel target of miR-153, which is downregulated by IRE1α and verteporfin.
+While verteporfin inhibits breast cancer cell viability and invasion, its combination with an AKT inhibitor synergistically suppresses breast cancer progression.
+Our findings establish a mechanistic link between IRE1α and PI3K/AKT signaling, highlighting a possibility for therapeutic intervention.

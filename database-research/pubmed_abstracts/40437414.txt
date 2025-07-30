@@ -1,0 +1,4 @@
+Diffuse large B-cell lymphoma (DLBCL) is an aggressive hematopoietic malignancy, necessitating the exploration of innovative therapeutic approaches.
+Targeting epigenetic mechanisms has emerged as a promising avenue for cancer treatment.
+EP300 belongs to the KAT3 family of histone/non-histone lysine acetyltransferases, regulating gene expression by acetylating H3K27.
+However, the role of EP300 and its potential as a targeted therapy in DLBCL remains unknown.

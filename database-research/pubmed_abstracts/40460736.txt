@@ -1,0 +1,6 @@
+Paclitaxel (PTX) is one of the most widely used antineoplastic drugs for the treatment of solid cancers.
+Its mechanism of action involves binding to β-tubulin subunits, leading to the stabilization of microtubule polymers and subsequent cell cycle arrest.
+Despite its efficacy, PTX is associated with significant adverse effects, most notably peripheral neurotoxicity and neuropathic pain, which represent the primary dose-limiting side effects.
+In sensory neurons, PTX affects multiple molecular pathways, with early alterations in excitability and calcium signaling following acute drug exposure.
+To investigate these mechanisms, we employed a combination of calcium imaging, electrophysiological techniques, and pharmacological approaches to explore the role of ORAI channels in the excitability and calcium dynamics of mouse dorsal root ganglion neurons.
+Our findings reveal that acute exposure to low doses of PTX triggers IP

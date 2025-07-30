@@ -1,0 +1,3 @@
+Previous studies have suggested the missense variant NM_000051.4(ATM):c.7271T>G is associated with a high risk of breast cancer (BC), but the magnitude of the association, and the associations with other cancer types, are unclear.
+Cancer associations were evaluated using sequence data linked to cancer registration data (348 488 participants, 56 640 cancer cases) from UK Biobank (UKB), and targeted sequence or genome-wide array data (126 428 cases, 115 495 controls) from the Breast Cancer Association Consortium (BCAC).
+The magnitudes of the association of c.7271T>G with invasive BC were similar using UKB (relative risk (RR): 4.57, 95% CI: 2.25 to 9.30, p=2.7×10

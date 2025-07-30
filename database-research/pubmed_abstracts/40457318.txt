@@ -1,0 +1,8 @@
+The advent of precision therapy has revolutionized breast cancer treatment, driven by the development of innovative diagnostic techniques and targeted drugs.
+Identifying biomarkers related to therapy response is crucial for tailoring treatment strategies for breast cancer patients.
+Liquid biopsies have emerged as minimally invasive techniques for biomarker profiling, leveraging the increasing sensitivity for detecting oncogenic drivers.
+These liquid biopsy methods, involving the testing of circulating tumor cells (CTCs) and circulating tumor DNA (ctDNA) in biofluids, offer more opportunities for early cancer detection, monitoring treatment efficacy, and identifying resistance mechanisms.
+This review focuses on the technical methodologies employed for the detection of CTCs and ctDNA.
+Beyond the technical aspects, we discuss the clinical applications of these biomarkers in breast cancer, including their roles in early detection, monitoring treatment response, and guiding therapeutic decisions.
+We also address the challenges associated with CTC and ctDNA detection, such as low concentrations in biofluids and tumor heterogeneity, which can complicate analysis and interpretation.
+By discussing the current landscape of CTC and ctDNA methodologies and their clinical implications, this review highlights the potential of liquid biopsies to enhance personalized medicine approaches in breast cancer management.

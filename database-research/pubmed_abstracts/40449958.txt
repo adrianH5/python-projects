@@ -1,0 +1,3 @@
+The majority of patients with melanoma develop immune-related adverse events (irAEs), and over half do not respond to anti-PD-1 (Programmed cell death protein 1) checkpoint inhibitor (CPI) immunotherapy.
+Accurate predictive biomarkers for both response to therapy and development of irAEs are currently lacking in clinical practice.
+Here, we conduct deep immunophenotyping of circulating regulatory and class-switched B cell and antibody immune states in patients with advanced stage III/IV melanoma prior to and longitudinally during CPI.

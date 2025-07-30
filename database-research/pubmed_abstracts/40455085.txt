@@ -1,0 +1,9 @@
+Efficient delivery of small interfering RNA (siRNA) to solid tumors remains a major challenge in RNA interference (RNAi)-based therapies.
+To address this challenge, we developed a peptide-based virus-like nanoparticle (pVLP) system inspired by viral entry mechanisms.
+The pVLP consists of EphA2 and CD13 targeting peptides for tumor cell specific delivery, a self-assembling peptide for stabilizing nanoparticle formation, and an arginine-rich peptide for efficient siRNA encapsulation.
+This system induces the formation of filopodia, increasing their number, length, and membrane coverage.
+These structural changes create a favorable microenvironment by providing more contact points for internalization, thereby enhancing nanoparticle-cell membrane interactions and facilitating efficient siRNA transfection, resulting in a 10.9-fold increase in cellular uptake compared to nanoparticles that did not employ filopodia-mediated internalization.
+In vitro, the pVLP@siRNA system demonstrated over 90% silencing of the signal transducer and activator of the transcription 3 (STAT3) gene, a key regulator of tumor growth, with a selectivity ratio of 4.5, indicating that pVLP@siRNA induces gene silencing in tumor cells while showing no significant silencing in normal cells.
+In an orthotopic pancreatic cancer model, these pVLP reduced STAT3 mRNA expression 3.7-fold more than that of commercially available lipid nanoparticles (MC3 LNPs), resulting in 91.6% mRNA degradation.
+Furthermore, the combination of pVLP@siRNA and gemcitabine led to a synergistic suppression of tumor growth of up to 87%.
+This virus-inspired strategy overcomes current limitations in siRNA delivery, such as inefficient cellular uptake and nonspecific toxicity, and holds promise for the clinical translation of RNAi-based therapeutics in cancer treatment.

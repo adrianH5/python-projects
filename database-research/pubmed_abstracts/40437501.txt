@@ -1,0 +1,8 @@
+Heparan sulphate proteoglycans (HSPGs) are cell surface and extracellular matrix proteoglycan family members, playing a key role in diverse biological activities including signal transduction or endocytosis.
+To date, many HSPG ligands have been identified, including growth factors interacting via sulfated domains of heparan sulphate (HS) chains.
+Due to significant overexpression of HSPGs in various cancers, discovering novel biomolecules capable of HSPGs recognition, which may act as HSPGs biosensors or drug carriers targeting HSPGs, is essential.
+Fibroblast growth factors (FGFs), mainly paracrine FGFs, are natural ligands of membrane-bound HSPGs, forming ternary signaling complex with HSPGs and fibroblast growth factor receptors (FGFRs).
+Here we employed the natural capability of FGF1 to bind HSPGs to develop HSPGs-specific proteinaceous probe.
+We identified three point mutations within FGF1 that elevate its affinity for heparin-S116R, S17K and L72R, named B, C and D respectively.
+Together with substitutions increasing FGF1 stability and abolishing FGF1 binding to FGFRs, we have generated eight HSPGs-specific variants.
+Among tested mutants, FGF1

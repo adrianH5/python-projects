@@ -1,0 +1,91 @@
+Coronavirus disease 2019 (COVID-19) is caused by a novel coronavirus (severe acute respiratory syndrome coronavirus 2 [SARS-CoV-2]), which primarily affects the respiratory system.
+Patients with COVID-19 present with variable disease symptoms and severity, some can be severe, resulting in hospitalization, respiratory failure, or even death.
+A recent meta-analysis of 35 COVID-19 studies reported that the pooled prevalence of digestive symptoms was 15% and pooled prevalence of digestive system comorbidities was 4%.
+In addition, SARS-CoV-2 virus was detected in the feces and anal swabs in patients with COVID-19 and can infect human intestinal epithelium.3, 4, 5 Altogether these data suggest that the GI tract is an important extrapulmonary site for SARS-CoV-2 infection.
+Our recent study showed that the gut bacterial microbiome was significantly altered in patients with COVID-19 with a significant expansion of opportunistic pathogens in the gut, which was associated with disease severity and fecal SARS-CoV-2 shedding.
+It is unclear if the gut mycobiome is also altered and whether fungal pathogens cobloom in COVID-19 and underlie disease course.
+In this pilot study, we hypothesize that the intestinal fungal microbiome (mycobiome) is altered in SARS-CoV-2 infection and COVID-19 is associated with blooms of certain fungi in the gut.
+We prospectively included 30 patients with COVID-19 (Table 1
+, Figure 1
+, Supplementary Figure 1), admitted between February 16, 2020, and April 1, 2020, in Hong Kong, China, followed from hospital admission until discharge.
+We investigated intestinal fungal compositions in patients with COVID-19 as compared with healthy individuals and patients with community-acquired pneumonia, and their temporal changes over time of hospitalization, via broad-target deep shotgun metagenomics sequencing.
+This prospective study involved 30 patients with COVID-19 hospitalized with laboratory-confirmed SARS-CoV-2 infection, 9 patients hospitalized with community-acquired pneumonia (pneumonia controls), and 30 healthy individuals (controls) (Table 1).
+Thirty hospitalized patients with COVID-19 were admitted between February 16, 2020, and April 1, 2020, in Hong Kong, China, and were followed from hospital admission until discharge (Figure 1).
+Patients with COVID-19 and pneumonia controls were admitted to the Prince of Wales Hospital or the United Christian Hospital, Hong Kong.
+Severity of COVID-19 infection was categorized as (1) mild, if there was no radiographic evidence of pneumonia; (2) moderate, if pneumonia was present along with fever and respiratory tract symptoms; (3) severe, if respiratory rate ≥30/min, oxygen saturation ≤93% when breathing ambient air, or PaO2 / FiO2 ≤300 mm Hg (1 mm Hg = 0.133 kPa); or (4) critical, if there was respiratory failure requiring mechanical ventilation, shock, or organ failure requiring intensive care.
+Fecal samples from patients with COVID-19 were collected serially 2 to 3 times per week until discharge.
+Contaminating human reads were filtering using Kneaddata (Reference database: GRCh38 p12) with default parameters.
+Nonmetric multidimensional scaling analyses were performed on all baseline fecal mycobiomes between groups, and serial fecal mycobiomes in each COVID-19 case during the disease course, based on Bray-Curtis dissimilarities using vegan package (v2.5–3).
+Differential fungal taxa between patients with COVID-19 (at baseline or across all time points during hospitalization) and healthy controls were identified using LefSE.
+A total of 30 patients hospitalized with COVID-19, 30 healthy controls, and 9 patients hospitalized with community-acquired pneumonia were included (
+Table 1; Supplementary Table 1).
+All patients with COVID-19 presented with respiratory symptoms and 4 also had diarrhea at presentation.
+To understand alterations of the gut mycobiome that underlies SARS-CoV-2 infection, we compared baseline fecal mycobiome composition (first time point of stool sampling after hospitalization) between patients with COVID-19, healthy controls, and pneumonia controls.
+At the whole fungal community level, fecal mycobiome of healthy controls densely clustered together, whereas that of patients with COVID-19 formed a substantially broader cluster significantly different from that of controls (PERMANOVA test, P = .001, Figure 2
+A).
+Fecal mycobiome was more heterogeneous across patients with COVID-19 than controls, as demonstrated by an approximately 6-fold increase in interindividual mycobiome dissimilarity in patients with COVID-19 relative to controls (P < 2.22e-16, Figure 2
+B).
+Patients with community-acquired pneumonia also showed heterogeneous fecal mycobiome configurations (Figure 2
+B), indicating that both community-acquired pneumonia and COVID-19–associated pneumonia were associated with fungal dysbiosis in the gut.
+We next identified differential fungal species in fecal samples between patients with COVID-19 and healthy controls adjusting for antibiotics use and comorbidities.
+We found that Candida albicans was significantly enriched in 6 (20%) of 30 patients with COVID-19 but was absent in healthy controls (false discovery rate P = .04, Figure 2
+C).
+These data suggest that gut mycobiome was significantly altered in patients with COVID-19 with an increase in Candida species.
+We investigated longitudinal dynamics of the gut mycobiome in COVID-19 over time of hospitalization and explored whether recovery from SAR-CoV-2 infection was associated with restoration of gut mycobiome to a community similar to that of healthy individuals.
+The gut mycobiome in most (22 of 30) patients with COVID-19 was stable over the course of hospitalization and remained similar to that of healthy controls at the latest follow-up (Figure 3
+).
+The diversity of the fecal mycobiome did not differ between healthy controls and patients with COVID-19 at baseline (Figure 4
+A).
+In contrast, the diversity and richness of the gut mycobiome were both significantly higher in patients with community-acquired pneumonia than patients with COVID-19 at baseline (Figure 4
+A and B, P < .05 and < .01, respectively).
+At the last follow-up after hospitalization, patients with COVID-19 showed a 2.5-fold higher diversity of the fecal mycobiome compared with healthy controls (P < .05, Figure 4
+A).
+Overall, during disease course, the diversity of the fecal mycobiome showed constant changes in 53% (16 of 30) of patients with COVID-19 (Supplementary Figure 1).
+Altogether these data suggest that the gut mycobiome was unstable in a subset of patients with COVID-19 during the time of hospitalization.
+These data indicate persistent gut fungal dysbiosis despite disease resolution in a subset of patients with COVID-19.
+Across all time points during hospitalization, C. albicans, Candida auris and Aspergillus flavus were overrepresented in fecal samples of patients with COVID-19; these species however were absent in healthy controls (Figure 4
+C, Supplementary Figures 2 and 3, and Figure 5
+A).
+Two fungal species from the genus Aspergillus, A. flavus and Aspergillus niger, known to cause pulmonary aspergillosis and respiratory illnesses (particularly cough),
+,
+ were detected in serial fecal samples of 6 and 4 patients with COVID-19, respectively, during hospitalization (Figure 5).
+All 6 patients presented with cough and varying degree of COVID-19 severity.
+A. niger was absent at baseline but showed a low relative abundance of <1% in 4 of 30 patients with COVID-19 over time of hospitalization (Figure 5
+B).
+These data indicate cobloom of opportunistic fungal pathogens, Candida species and Aspergillus species, in the gut of patients with COVID-19 over the disease course.
+We showed for the first time that the gut mycobiome was disturbed in patients with COVID-19.
+These data suggest that gut microbiota changes induced by SARS-CoV-2, might at least in part, be stochastic, therefore leading to transition from a stable to unstable microbial community state in COVID-19.
+In line with our findings in patients with COVID-19, a highly heterogeneous assembly of microbial community in response to disease stressors have been reported in the gut of patients with inflammatory bowel disease and in the lungs of patients with human immunodeficiency virus/AIDs.
+,
+,
+ Human immunodeficiency virus/AIDs is associated with decreased CD4+
+In favor of this hypothesis, the overall gut mycobiome was unstable in a subset of patients with COVID-19 over time of hospitalization, and these individuals ended up with a different gut mycobiome composition compared with that of healthy individuals.
+In addition, gut mycobiome diversity of patients with COVID-19 at the last follow-up during hospitalization was significantly higher than that of healthy individuals.
+These data indicate expansion of fungi in the gut of patients with COVID-19 and SARS-CoV-2 infection may be associated with a persistent gut mycobiome dysbiosis in some patients.
+Secondary fungal infection or coinfection in patients with COVID-19 during the pandemic is garnering increased attention.
+Specific enrichments of opportunistic fungal pathogens, Candida and Aspergillus lineages, were observed in patients with COVID-19 during the disease course.
+Among them, C. albicans was overrepresented in COVID-19.
+Aspergillus infections were recently reported in respiratory tract secretions and tracheal aspirates in patients with COVID-19 from 2 studies (detection rate of 10% and 20%, respectively, in cohorts from China and France).
+,
+ Population-based studies have reported 19% to 33% incidence of pulmonary aspergillosis in patients with COVID-19.31, 32, 33
+Aspergillus is a genus of ubiquitous fungi that cause a variety of pulmonary and respiratory symptoms.
+To date, there are a lack of data on whether fungal pathogens exist in the gut of patients with COVID-19.
+In this case series, we provide the first evidence demonstrating the presence of opportunistic Aspergillus pathogens in the feces of patients with COVID-19; A. flavus were detected in the feces of 20% of patients with COVID-19 via metagenomics sequencing.
+All 6 patients with COVID-19 who had fecal A. flavus presented with cough during hospitalization, suggestive of a systemic effect of Aspergillus infection and the intricate link between the GI and respiratory systems.
+Two of the 3 patients (CoV1 and 3) who had both fungal species A. flavus and A. niger in their feces presented with critical COVID-19 and were admitted to intensive care unit, and the third case (CoV7) had high fever and moderate COVID-19 severity.
+Patient CoV19 who had mild COVID-19 showed clearance of A. flavus and A. niger over time of hospitalization.
+Although the overall gut mycobiome structure in patients with COVID-19 gradually resembled that of healthy individuals over time of hospitalization (Figure 3), Aspergillus species continued to be present in a subset of patients with COVID-19 (CoV3 and CoV15) even after nasopharyngeal clearance of SARS-CoV-2 (Figure 5).
+The post-recovery existence of Aspergillus species underscores a potential prolonged detrimental effect of secondary fungal infection on host health after SARS-CoV-2 infection, cautioning on long-term monitoring of patients with COVID-19 after recovery.
+Similar to patients with COVID-19, blooms of opportunistic fungal pathogens, Candida species and Aspergillus species, were also seen in patients with community-acquired pneumonia.
+In contrast, patients with community-acquired pneumonia showed more heterogeneous gut mycobiome configurations than patients with COVID-19, indicating that the gut mycobiome in community-acquired pneumonia may be more “dysbiotic” than that in COVID-19.
+In addition, the diversity and richness of the gut mycobiome were both significantly lower in patients with COVID-19 than patients with community-acquired pneumonia.
+These data collectively suggest that patients with COVID-19 have a similar but less severe dysbiosis of gut mycobiome compared with patients with community-acquired pneumonia.
+We performed deep shotgun metagenomic sequencing analysis of fecal samples from 30 patients with coronavirus disease 2019 (COVID-19) in Hong Kong, from February 5 through May 12, 2020.
+We compared fecal mycobiome compositions of patients with COVID-19 with those from 9 subjects with community-acquired pneumonia and 30 healthy individuals (controls).
+Results  Patients with COVID-19 had significant alterations in their fecal mycobiomes compared with controls, characterized by enrichment of Candia albicans and a highly heterogeneous mycobiome configuration, at time of hospitalization.
+Although fecal mycobiomes of 22 patients with COVID-19 did not differ significantly from those of controls during times of hospitalization, 8 of 30 patients with COVID-19 had continued significant differences in fecal mycobiome composition, through the last sample collected.
+The diversity of the fecal mycobiome of the last sample collected from patients with COVID-19 was 2.5-fold higher than that of controls ( P < .05).
+Samples collected at all timepoints from patients with COVID-19 had increased proportions of opportunistic fungal pathogens, Candida albicans , Candida auris , and Aspergillus flavus compared with controls.
+Two respiratory-associated fungal pathogens, A. flavus and Aspergillus niger , were detected in fecal samples from a subset of patients with COVID-19, even after clearance of SARS-CoV-2 from nasopharyngeal samples and resolution of respiratory symptoms.
+In a pilot study, we found heterogeneous configurations of the fecal mycobiome, with enrichment of fungal pathogens from the genera Candida and Aspergillus, during hospitalization of 30 patients with COVID-19 compared with controls.
+Unstable gut mycobiomes and prolonged dysbiosis persisted in a subset of patients with COVID-19 up to 12 days after nasopharyngeal clearance of SARS-CoV-2.

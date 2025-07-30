@@ -1,0 +1,11 @@
+Efficient siRNA delivery is highly desirable for disease treatment.
+However, the application of conventional nanoparticles is limited by the inability to escape from endo-lysosomes.
+Herein, we report a strategy using small-molecule drugs to enhance siRNA endo-lysosomal release,addressing this challenge.
+We encapsulated gentamicin(GM) into the marketed Onpattro® formulation to establish LNP-siRNA/GM nanoparticles that promote siRNA endo-lysosomal escape through endosomal disruption, mechanistically exhibiting unique functionality and synergistic effects of LNP-siRNA/GM to improve cancer therapy.
+Besides, GM induced reactive oxygen species (ROS) and phospholipids accumulation in endo-lysosomes, as well as the physical characteristics of lipid nanoparticles (LNPs) were preserved.
+We also revealed that GM causes endo-lysosomal swelling and disrupts the endosomal membrane to enable siRNA release, as confirmed by Galectin 3 recruitment and acridine orange release.
+This approach achieved ∼81% mRNA-EGFR silencing, which is more than LNP-siEGFR (∼56.23%) by enhancing siRNA endo-lysosomal escape efficiency.
+Meanwhile, LNP-siEGFR/GM exhibited significant biological activities in HepG2 cells, driven by the synergistic effects of siEGFR and GM with the VEGF and CXCL12 downregulation of, and ROS and phospholipids upregulation.
+Furthermore, tumor growth was notably suppressed after intravenous injection of LNP-siEGFR/GM in tumor-bearing nude mice.
+The combination of EGFR-siRNA and GM could also greatly inhibit angiogenesis, be antiproliferative, and induce tumor cells apoptosis.
+Therefore, this GM and siRNA co-delivery system would provide an efficient strategy for siRNA endosomal escape, significantly improving knockdown in various LNPs based siRNA delivery systems and efficiently enhancing cancer therapy.

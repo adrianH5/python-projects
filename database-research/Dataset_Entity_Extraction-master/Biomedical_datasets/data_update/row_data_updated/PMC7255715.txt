@@ -1,0 +1,44 @@
+The risk of morbidity and mortality from COVID-19 as a consequence of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection is not uniform across the UK population.
+The evidence to support this claim is scarce and limited to retrospective series arising from China, the epicentre of the COVID-19 pandemic, and involving small numbers of patients.2, 3, 4 However, despite these severe limitations, the promulgation of this hypothesis has led to widespread global changes to patterns of prescribing chemotherapy and anticancer treatment.
+In a global health emergency, oncologists must secure evidence from a large dataset, which can then inform their risk-benefit analyses for individual patients in terms of the use of anticancer treatments.6, 7
+On March 18, 2020, we launched the UK Coronavirus Cancer Monitoring Project (UKCCMP), with widespread support across our national cancer network.
+Within 5 weeks, the UKCCMP had generated the largest prospective database of COVID-19 in patients with cancer that had been generated to date.
+We aimed to describe the clinical and demographic characteristics and COVID-19 outcomes in this cohort of patients with cancer and symptomatic COVID-19, and attempted to assess how the presence of cancer and the receipt of cytotoxic chemotherapy and other anticancer treatments affects the COVID-19 disease phenotype.
+The UKCCMP database of UK patients COVID-19 who have cancer with was launched with the support of the UK oncology professional bodies, including the Association of Cancer Physicians, the Royal College of Radiologists, the National Oncology Trainees Research Collaborative for Healthcare Research, patient support groups including Macmillan Cancer Support, and charities including Action Radiotherapy.
+The database was designed as a public health surveillance registry to support rapid clinical decision making, in accordance with the UK Policy Framework for Health and Social Care Research, the UK National Research Ethics Service, and the UK Governance Arrangement for Research Ethic Committees.
+Case reporting was led by a COVID-19 emergency response reporting individual (ERRI), supported by a local emergency response reporting group (LERRG) at each centre.
+The data fields were then updated as soon as treatment and outcomes had been identified and also to reflect the worse COVID-19 severity categories during hospitalisation.
+Patient demographics, treatment details, COVID-19 disease course, and cancer features were obtained by the direct assessment of the ERRI and LERRG, or through hospital medical records.
+The COVID-19 severity category was determined according to WHO guidelines.
+This definition included deaths described as related to COVID-19 during admission, as well as deaths reported as a consequence of any other cause during admission, such as due to cancer progression or treatment toxicity.
+55 cancer centres had appointed a COVID-19 LERRG and formed part of this clinical network of cancer centres.
+Our patient cohort consisted of the first 800 patients with active cancer who had documented SARS-CoV-2 infection presenting as symptomatic COVID-19 disease.
+The median time from identification of documented COVID-19 disease until study endpoints were met (death or discharge from hospital) was 5 days (range 0–38).
+A mild COVID-19 severity category was recorded in 412 (52%) patients, with 96 (12%) patients not requiring hospital admission.
+226 (28%) patients died, with reports stating that the death was principally attributable to COVID-19 in most patients (211 [93%]).
+To explore this relationship in greater detail, we did an in-depth analysis of the 281 patients who had received recent chemotherapy (ie, within 4 weeks of testing positive for COVID-19; figure 3
+).
+Therefore, we did a multivariate analysis with adjustment for age, gender, and comorbidities and found that deaths in patients with COVID-19 who have cancer who had received recent chemotherapy were still no more likely than in those who had not (table 3
+).
+Finally, we analysed the use of other forms of anticancer therapies within 4 weeks of testing positive for SARS-CoV-2 infection and presenting with COVID-19.
+Second, many oncologists are being redeployed to general or acute medicine roles to support the many COVID-19 admissions requiring intensive medical support and input.
+Third, two small studies2, 3 reporting COVID-19 outcomes in patients with cancer have resulted in the community being fearful of giving effective anticancer treatments.
+These studies concluded that cancer patients are not only more susceptible to contracting the virus compared with the general population, but also at risk of developing more severe sequelae.3, 4 In the largest cohort of 105 cancer patients, consisting of only 17 on chemotherapy, six patients on immunotherapy, and four on targeted therapies, strong recommendations were made about the COVID-19 risk from anticancer treatments.
+To clarify the relationship between cancer, anticancer treatments, and COVID-19, larger-scale datasets are necessary.
+We described the demographics of patients with COVID-19 who have cancer and explored the effect of cytotoxic chemotherapy and other anticancer treatments on the trajectory of COVID-19.
+We identified that the phenotype of diagnosed COVID-19 disease in over half of cancer patients is mild, but death from COVID-19 in this cohort was observed in a substantial proportion of patients.
+Using our dataset, we are unable to answer the question as to whether this finding might arise as a result of advance patient health-care directives, hospital and ITU admission policies, a reluctance of treating physicians to use ITU resources for patients with cancer, or historically fewer ITU beds available in the UK.
+Our analysis is partly dependent on the UK national COVID-19 testing policy, which is less permissive than that of other nations,18, 19 and also relies on RT-PCR, which has a well described false-negative result.
+The project might therefore under-report total COVID-19 cases in patients with cancer, particularly those with no or mild symptoms and who do not require treatment at or present to health-care centres.
+A selection bias might exist, in that those patients who were not on chemotherapy might have stopped chemotherapy because of a poor performance status, thus increasing the risk of death from COVID-19 disease, and reducing our ability to assess the real risk of anticancer treatments in a population with a better performance status.
+Finally, we have not commented on overall incidence of COVID-19 positivity among cancer patients because we do not yet have secure numerators and denominators for that calculation.
+Background  Individuals with cancer, particularly those who are receiving systemic anticancer treatments, have been postulated to be at increased risk of mortality from COVID-19.
+We aimed to describe the clinical and demographic characteristics and COVID-19 outcomes in patients with cancer.
+The UKCCMP is the first COVID-19 clinical registry that enables near real-time reports to frontline doctors about the effects of COVID-19 on patients with cancer.
+We excluded patients with a radiological or clinical diagnosis of COVID-19, without a positive RT-PCR test.
+Findings  From March 18, to April 26, 2020, we analysed 800 patients with a diagnosis of cancer and symptomatic COVID-19.
+412 (52%) patients had a mild COVID-19 disease course.
+281 (35%) patients had received cytotoxic chemotherapy within 4 weeks before testing positive for COVID-19.
+After adjusting for age, gender, and comorbidities, chemotherapy in the past 4 weeks had no significant effect on mortality from COVID-19 disease, when compared with patients with cancer who had not received recent chemotherapy (1·18 [0·81–1·72]; p=0·380).
+Interpretation  Mortality from COVID-19 in cancer patients appears to be principally driven by age, gender, and comorbidities.
+We are not able to identify evidence that cancer patients on cytotoxic chemotherapy or other anticancer treatment are at an increased risk of mortality from COVID-19 disease compared with those not on active treatment.

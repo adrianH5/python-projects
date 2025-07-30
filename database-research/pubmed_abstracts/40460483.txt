@@ -1,0 +1,9 @@
+Rab proteins, a subset of small monomeric GTPases, represent the largest subfamily within the Ras superfamily, which also includes Ras and Rho proteins.
+Over 70 Rab members have been identified, acting as molecular switches that toggle between an active GTP-bound state and an inactive GDP-bound state.
+Rab GTPases are crucial for intracellular vesicle formation and membrane trafficking.
+Stem cells, known for their self-renewal and multipotent differentiation abilities, likely depend on paracrine signaling mechanisms, essential for their application in regenerative medicine.
+Exosomes, pivotal in cellular paracrine communication, are distinguished by their abundance, biocompatibility, and low immunogenicity.
+Rab27, a member of the Rab family, is critical in exosome secretion by aiding the targeting of multivesicular endosomes to the cell periphery and their docking at the plasma membrane.
+Cancer stem cells, a tumor cell subset with unlimited proliferative capacity, can initiate tumor formation.
+Recent research indicates that Rab27 also influences tumor initiation and progression by modulating exosome secretion.
+This review summarizes Rab27-mediated exosome secretion regulation and its biological effects on various types of mesenchymal stem cells and cancer stem cells.

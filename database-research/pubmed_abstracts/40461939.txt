@@ -1,0 +1,2 @@
+Idecabtagene vicleucel (ide-cel, ABECMA) is an autologous, B-cell maturation antigen (BCMA)-directed, chimeric antigen receptor (CAR) T-cell therapy.
+The current modeling analyses aim to characterize the cellular kinetics (CK) of ide-cel and to assess the covariate effects impacting ide-cel cellular kinetics in patients with relapsed/refractory multiple myeloma.

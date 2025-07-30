@@ -1,0 +1,8 @@
+Rapid technological advances have allowed for molecular profiling across multiple omics domains for clinical decision-making in many diseases, especially cancer.
+However, as tumor development and progression are biological processes involving composite genomic aberrations, key challenges are to effectively assimilate information from these domains to identify genomic signatures and druggable biological entities, develop accurate risk prediction profiles for future patients, and identify novel patient subgroups for tailored therapy and monitoring.
+We propose integrative frameworks for high-dimensional multiple-domain cancer data.
+These Bayesian mixture model-based approaches coherently incorporate dependence within and between domains to accurately detect tumor subtypes, thus providing a catalog of genomic aberrations associated with cancer taxonomy.
+The flexible and scalable Bayesian nonparametric strategy performs simultaneous bidirectional clustering of the tumor samples and genomic probes to achieve dimension reduction.
+We describe an efficient variable selection procedure that can identify relevant genomic aberrations and potentially reveal underlying drivers of disease.
+Although the work is motivated by lung cancer datasets, the proposed methods are broadly applicable in a variety of contexts involving high-dimensional data.
+The success of the methodology is demonstrated using artificial data and lung cancer omics profiles publicly available from The Cancer Genome Atlas.

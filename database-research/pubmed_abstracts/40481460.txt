@@ -1,0 +1,11 @@
+Galectin-3 (Gal-3) plays an important role in adhesion and proliferation of cancer cells.
+The level of Gal-3 in blood and the expression of Gal-3 in colon cancer tissue are significantly increased in patient with colon cancer.
+The elevated Gal-3 promotes the migration and drug resistance of colon cancer.
+Therefore, Gal-3 is a promising target to inhibit the growth and metastases of cancer cells.
+Besides, integrin αvβ3, a receptor of Gal-3, is highly expressed in colon cancer cell and blood vessel in colon cancer tissue.
+In this paper, an automatic target-seeking nanoparticle (SP@MCaP) contained siGal-3 and paris saponin VII (PSVII) was prepared.
+In vivo, by automatically capturing Gal-3 in the blood circulation, SP@MCaP actively recognized cancer tissue vessel and drug-resistant colon cancer cells with elevated integrin αvβ3 expression, resulting in specifical accumulation in orthotopic drug-resistant colon cancer tissue.
+SP@MCaP diminished Gal-3 level in serum and orthotopic drug-resistant colon cancer tissue, and then suppressed the proliferation of drug-resistant colon cancer cells.
+Importantly, SP@MCaP reconstructed the adhesion of drug-resistant colon cancer cells and reversed the immunosuppressive microenvironment in orthotopic drug-resistant colon cancer tissue and liver tissue.
+Finally, under the synergistic effect of siGal-3 and PSVII, SP@MCaP successfully inhibited the growth of orthotopic drug-resistant colon cancer and its liver metastases.
+In a word, this paper explored a novel concept of the active co-delivery of siGal-3 and PSVII by modification of nanoparticle, which holds promise for targeted therapy in orthotopic drug-resistant colon cancer and its liver metastases.

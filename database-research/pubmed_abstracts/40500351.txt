@@ -1,0 +1,10 @@
+Approximately 200 genetic skeletal disorders can present prenatally, detectable through ultrasound abnormalities during pregnancy.
+Severe forms are typically identified during the first or second trimester, whereas milder phenotypes are recognized later, in the third trimester.
+Diagnosing skeletal dysplasia prenatally is challenging due to the large number of disorders and the overlapping clinical findings that can be detected by ultrasound.
+This study, conducted at Karolinska University Hospital between 2015 and 2022, examines the genetic and radiographic findings in 32 fetuses (14 female and 18 male, from unrelated families) with skeletal abnormalities detected on prenatal ultrasound and confirmed by radiographs at birth or after pregnancy termination.
+Fetal DNA samples from all 32 fetuses underwent singleton genome sequencing using an in silico skeletal dysplasia gene panel.
+As a second step, for six fetuses with molecularly unsolved diagnoses, trio genome sequencing analysis involving the fetus and both parents was performed.
+The diagnostic yield of genome sequencing was 72%, with pathogenic or likely pathogenic variants identified in 23 of the 32 fetuses.
+Additionally, four variants of uncertain significance, strongly suspected to be causative based on clinical and radiographic features, as well as structural protein analyses, were identified in four fetuses with autosomal recessive conditions.
+The diagnoses of five fetuses remain molecularly unsolved.
+In conclusion, by combining detailed phenotypic data with singleton genome sequencing we were able to reach a genetic diagnosis in 72% of 32 fetal genetic skeletal disorder cases investigated at the Karolinska University Hospital.

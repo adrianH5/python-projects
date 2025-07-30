@@ -1,0 +1,3 @@
+Metastatic pancreatic ductal adenocarcinoma (PDAC) is highly lethal.
+Promoter hypermethylation of SFRP1 (phSFRP1) in cell-free DNA is an established prognostic biomarker in PDAC.
+We used digital droplet PCR (ddPCR) to examine whether the prognostic impact of phSFRP1 was allele fraction (AF) dependent.

@@ -1,0 +1,10 @@
+This study reports the multifunctional potential of gold nanoparticles (AuNPs) biosynthesized by using Salvia splendens leaf extract (SSLE).
+The biosynthesized AuNPs were characterized by UV-Visible spectroscopy, transmission electron microscopy (TEM), and dynamic light scattering, followed by the assessment of their anti-cancer, anti-oxidant, anti-inflammatory and anti-bacterial potentials.
+The biosynthesized SSLE-AuNPs showed a characteristic absorbance peak at 559 nm that corresponds to the surface plasmon resonance (SPR) band of the AuNPs.
+The zeta potential of SSLE-AuNPs was estimated to be ‒ 21 ± 1.9 mV, and TEM analysis confirmed the particles to be spherical with an average size of 94.8 ± 5.1 nm.
+The SSLE-AuNPs exhibited dose-dependent antioxidant activity, with IC50 values of 218.5 ± 4.2 µg/mL (DPPH) and 185.3 ± 3.7 µg/mL (ABTS), compared to ascorbic acid (32.1 ± 1.8 µg/mL and 28.6 ± 1.5 µg/mL, respectively.
+In addition, SSLE-AuNPs exerted potent anti-bacterial effect against Staphylococcus aureus (MIC50 68 ± 2.1 μg/mL) and Klebsiella pneumoniae (MIC50 82 ± 2.3 μg/mL), which was comparable to that of the standard antibacterial agent, tetracycline.
+Moreover, SSLE-AuNPs induced significant reduction in cellular viability of A549 cells at concentrations of 100, 200 and 400 μg/mL, respectively (p < 0.001).
+Such cytotoxic potential of SSLE-AuNPs was accompanied by considerable instigation of nuclear fragmentation and condensation, caspase activation, and ROS generation in A549 cells.
+Furthermore, in vitro studies highlighted the anti-inflammatory potential of SSLE-AuNPs on murine alveolar macrophages (J774A.1) via deflating inflammatory mediators such as the proinflammatory cytokines.
+To sum up, the present findings have substantiated the antioxidant, antibacterial, anticancer and antiphlogistic properties of SSLE-AuNPs, paving the way for subsequent investigations into green synthesized nano-formulations.

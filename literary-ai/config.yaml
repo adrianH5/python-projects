@@ -1,0 +1,31 @@
+data:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+
+output:
+  embeddings_dir: "output/embeddings"
+  knowledge_graph_dir: "output/knowledge_graph"
+  logs_dir: "output/logs"
+  reports_dir: "output/reports"
+
+models:
+  embedding_model: "sentence-transformers/all-MiniLM-L6-v2"
+  llm_model_engine_summary: "gpt-4o" # Model used to generate intermediary summaries
+  llm_model_engine_final_report: "gpt-4.5-preview" # Model used to generate final comparative report
+
+llm_settings:
+  OPENAI_API_KEY: "<REMOVED>" # probably should move this to environment variable in shell
+  temperature: 0.3
+  max_tokens: 1024
+
+vector_store:
+  faiss_index_type: "IndexFlatIP"
+
+pipeline:
+  chunk_size: 1024 # approx tokens or words per chunk
+  top_k: 10
+  theme_query: "excerpts about social isolation, loneliness, alienation"
+  enable_knowledge_graph: true
+  enable_multi_agent: true
+  enable_self_refinement: true
+  enable_factcheck: true

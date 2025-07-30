@@ -1,0 +1,12 @@
+Cancer cells exploit epigenetic modifications and post-transcriptional regulations to form oncogenic gene expression networks.
+However, how these machineries collaboratively orchestrate malignancy remains elusive.
+One of aberrant epigenetic pathways in cancer is Polycomb repressive complex 1 (PRC)-mediated H2AK119 monoubiquitination (H2AK119ub1) with subsequent silencing of tumor suppressor genes.
+Despite previous efforts, the biological and clinical significance of PRC1 remains unclear in neuroblastoma (NB), an aggressive sympathoadrenal solid tumor in children.
+In this study, we demonstrated that knockdown of RING1A, one of the E3 ubiquitin ligases of PRC1, reduced cell viability and enrichment of H2AK119ub1 in NB cells.
+Transcriptional profiling revealed RING1A-specific targets, whose lower expression was associated with poor outcomes in NB patients.
+Among these genes, BTG2, a component of the CCR4-NOT polyA deadenylase complex, harbored a hypomethylated CpG island occupied by H2AK119ub1 and accessory proteins of noncanonical PRC1.1 (ncPRC1.1).
+Biological experiments uncovered that BTG2 suppressed NB cell growth in vitro and inhibited tumor formation in vivo.
+Moreover, BTG2 perturbed cell cycle progression and selectively destabilized the mRNAs of the cyclin genes CCNA2, CCNB1, and CCNB2.
+In NB patient cohorts, lower expression of BTG2 was associated with poor outcomes and inversely correlated with those cyclin gene expression.
+Collectively, we have uncovered a crosstalk between epigenetic modifications and post-transcriptional regulations, in which ncPRC1.1-mediated silencing of BTG2 retains cyclin gene expression and cell proliferation in NB.
+This study provides new insights into how epigenetic pathways contribute to NB malignancy.

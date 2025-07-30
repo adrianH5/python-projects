@@ -1,0 +1,8 @@
+Pediatric leukemia is one of the most prevalent childhood malignancies, and its pathogenesis involves complex molecular and genetic mechanisms.
+Among the critical players in leukemogenesis, the Janus kinase 2 (JAK2) gene has garnered significant attention due to its role in aberrant signal transduction and hematopoietic dysregulation.
+Mutations such as JAK2 V617F, while more commonly associated with myeloproliferative neoplasms, have also been implicated in pediatric leukemia subtypes, including acute lymphoblastic leukemia and acute myeloid leukemia.
+These mutations result in constitutive activation of the JAK-STAT pathway, promoting unchecked cell proliferation, survival, and resistance to apoptosis.
+The dysregulation of the JAK2 signaling pathway not only drives malignant transformation but also facilitates interactions with the bone marrow microenvironment, creating a niche that supports leukemia cell survival and immune evasion.
+Therapeutic advancements have focused on JAK2 inhibitors such as ruxolitinib and fedratinib, which show promise in preclinical and early clinical settings.
+However, challenges such as drug resistance and off-target effects limit their efficacy, necessitating the exploration of combination therapies and novel drug formulations.
+Current strategies include combining JAK2 inhibitors with chemotherapy, immune checkpoint inhibitors, or epigenetic modulators to achieve synergistic effects.

@@ -1,0 +1,10 @@
+Gangliosides are sialic acid-containing glycosphingolipids integral to the cell membrane and are particularly abundant in the nervous system.
+Aberrant ganglioside metabolism contributes to pathological conditions including neurodegenerative diseases, lysosomal storage disorders, and cancer.
+Currently, tools to visualize and detect gangliosides are very limited and non-specific.
+Here, we describe a dual fluorescent and Raman-active ManNAlk derivative, phenanthrene-9-Pr4ManNAlk (MM-JH-2), capable of one-step selective labeling of gangliosides in cells.
+This modified ManNAlk derivative produces a biologically unique Raman spectral signature, which arise from the carbon-carbon triple bond augmented by conjugation to a fluorescent phenanthrene moiety.
+By using this dual probe, unambiguous identification is achieved within cells.
+Raman maps generated using the alkyne stretching frequency indicate a distribution of MM-JH-2 overlapping with intracellular membrane lipids.
+Using confocal fluorescence imaging, the cellular transport of labeled gangliosides was tracked from synthesis to recycling in the acidic compartments.
+Notably, MM-JH-2 can differentiate between cells that differ in ganglioside biosynthetic flux, such as malignant and nonmalignant cells, as well as distinguish between B cells and T cells.
+Thus, MM-JH-2 is a novel next-generation metabolic chemical reporter (MCR) that is Raman-active, fluorescent, and can be broadly applied to cellular studies investigating ganglioside biosynthetic flux.

@@ -1,0 +1,3 @@
+The standard adjuvant chemotherapy for early-stage, high-risk breast cancer includes anthracyclines and taxanes.
+While anthracycline-based regimens have proven effective in human epidermal growth factor receptor 2 (HER2)-positive breast cancer, their efficacy may be reduced in HER2-negative patients due to the lack of co-amplification of DNA topoisomerase IIα, the primary target of anthracyclines.
+This study compared the efficacy and safety of the regimen of docetaxel, anthracycline, and cyclophosphamide (TAC) versus a novel regimen consisting of docetaxel, cyclophosphamide, and capecitabine (TCX), hypothesizing that replacement of anthracycline with capecitabine could offer superior outcomes in this patient population.

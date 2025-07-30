@@ -1,0 +1,5 @@
+Fully wearable devices are crucial for real-time health monitoring, but existing devices often lack stable power, on-site signal processing, and multimodal sensing.
+To overcome these limitations, we introduce the first self-powered and fully wearable sensor (MESFW) based on multiplexed green biofuels.
+The MESFW integrates a microfluidic module, sensing module, laser-induced graphene (LIG) electrodes, and customized electronics, enabling highly sensitive detection of glucose and alcohol in noninvasive biofluids (sweat, breath, saliva, tears) while monitoring daily activities (temperature, pressure, touch).
+Experiments show the MESFW can track glucose and alcohol levels before and after meals/drinking, powered continuously for 24 h. With machine learning, it accurately identifies wearing types and enables real-time health prediction.
+This innovation offers a novel approach to real-time physiological monitoring.

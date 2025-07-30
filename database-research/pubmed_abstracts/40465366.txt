@@ -1,0 +1,9 @@
+Extracellular vesicles (EVs) hold great potential for delivering cancer therapy drugs.
+However, limited efficiency and sophisticated drug encapsulation procedures have hindered their effectiveness.
+Herein, β-D-glucose is modified with the synthesized photosensitizer (1-(4-carboxybutyl)-4-(7-(4-(diphenylamino)phenyl)benzo[c][1,2,5] thiadiazol-4-yl)pyridin-1-ium, named TB) via amide bond to form a glucose-conjugated photosensitizer, referred to as TBG, which is further utilized as a metabolic substrate for cancer cells.
+Through simple co-incubation with TBG, cancer cells directly generate TBG-engineered EVs in situ via a metabolism-driven process, in which glucose transporters play a critical role.
+Notably, a higher yield of engineered EVs is observed in TBG-treated cells compared to the TB-treated group.
+This enhancement could be attributed to increased glucose transporter activity and adenosine triphosphate (ATP) synthesis, highlighting the significance of glucose-modified chemicals.
+Remarkably, this metabolism-driven strategy has been successfully validated across three cell lines, highlighting its versatility and broad applicability.
+The extracted TBG-EVs maintain a strong targeting ability toward cancer cells and demonstrate enhanced efficacy in photodynamic therapy for tumor ablation.
+The study offers an alternative strategy to efficiently produce cargo-loading EVs via direct biological metabolism.

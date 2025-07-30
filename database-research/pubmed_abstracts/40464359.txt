@@ -1,0 +1,8 @@
+The Ubiquitin-like protein FUBI is encoded in humans by the FAU gene, whose down-regulation in prostate, ovarian and breast cancer is significantly associated with poor prognosis.
+Despite its implications in disease progression, the regulatory mechanisms orchestrated by FUBI remain elusive.
+To address this knowledge gap, we developed a linear synthetic platform to generate FUBI chemical tools, enabling the site-specific incorporation of unnatural building blocks and the introduction of fluorophores, tags and reactive warheads.
+Using this platform, we created activity-based probes for FUBI conjugation and deconjugation enzymes, validating them in cell lysate-based assays and proteomics.
+Additionally, we synthesized a triazole-linked Di-FUBI to investigate FUBI chain modulators.
+Among the proteomics hits, we identify IMPDH1 and the deubiquitinase UCHL3 as novel Di-FUBI specific interactors.
+Further characterization revealed that Di-FUBI inhibits UCHL3 cleavage activity in a concentration-dependent manner, suggesting a novel regulatory interplay between UCHL3 and FUBI.
+Collectively, these tools demonstrate the versatility of our synthetic FUBI platform, advancing the characterization of FUBI-related enzymes in the ongoing efforts to decipher the complex code of Ubiquitin-like signaling.

@@ -1,0 +1,9 @@
+Protein deubiquitination via deubiquitinases is a crucial aspect of the dynamic modification of biomacromolecules.
+The deubiquitinase USP7 plays a key role in tumorigenesis through diverse pathways, thus representing a promising novel target for anti-cancer therapies.
+In this paper, in order to find novel USP7 inhibitors, a series of compounds scaffold-hopping from the reported USP7 inhibitor CP41 were designed, synthesized and biologically evaluated.
+Most of them exhibited certain inhibition against the in vitro USP7 enzyme activity.
+The most potent compounds (X12, X16, X21, X22 and X23) were highly selective for USP7 over a panel of other tested DUBs and showed significant in vitro inhibition against cancer cell proliferation.
+Interestingly, in RS4; 11 cancer cells, the selected compound X21 not only regulated the level of the extensively studied proteins (e.g.
+MDM2, p53, TRIM27) but also remarkably reduced the protein level of PCLAF, a key factor involved in TLS.
+In colon cancer animal models, X21 exerted in vivo anti-tumor efficacy, probably through synergistic effects of direct cytotoxicity and immune microenvironment improvement.
+These findings may provide directions for future design of novel USP7 inhibitors and facilitate the exploration of new mechanism of USP7 inhibitors.

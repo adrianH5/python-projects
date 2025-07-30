@@ -1,0 +1,10 @@
+Trastuzumab deruxtecan (T-DXd) is an antibody-drug conjugate (ADC) that has demonstrated remarkable efficacy in HER2+ and HER2-low metastatic breast cancer (mBC).
+Yet, 40-50% of patients fail to respond, and mechanisms underlying resistance, particularly those involving the immune microenvironment, remain poorly understood.
+To address this gap, we conducted spatial proteomic profiling of metastatic lesions from 25 HER2+ mBC patients treated with T-DXd, using the Bruker GeoMX Digital Spatial Profiler (DSP) platform.
+Regions of interest (ROIs) were segmented by CD45 expression to distinguish immune-rich versus immune-poor compartments, and spatial marker expression was compared between responders (R) and non-responders (NR).
+Spearman correlation analysis was used to assess spatial coordination among HER2, fibronectin, and immune markers.
+Non-responders exhibited greater HER2 heterogeneity, lower CD45+ immune infiltration, and consistent upregulation of fibronectin and granzyme B.
+In both bone and brain metastases, NR tissues showed strong correlations between fibronectin and T cell markers, indicating spatial immune exclusion.
+In contrast, NR lymph node metastases displayed negative correlations between fibronectin and immune markers and uncoordinated B-T cell clustering, suggesting an alternative resistance mechanism rooted in immune disorganization rather than exclusion.
+Collectively, these results implicate HER2 heterogeneity, fibrotic immune exclusion, and immune suppression as key drivers of T-DXd resistance across metastatic sites.
+By integrating spatial proteomics with clinical outcomes, this study provides novel insights into the spatial immune landscape of ADC resistance and identifies actionable biomarkers for patient stratification and combination therapy design, laying a critical foundation for developing biomarker-guided therapies and personalized treatment strategies to overcome ADC resistance in metastatic breast cancer.

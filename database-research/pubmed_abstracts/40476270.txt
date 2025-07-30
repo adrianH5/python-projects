@@ -1,0 +1,9 @@
+In recent years, the integration of advanced technologies in surgery has transformed health care, with urology consistently pioneering these innovations.
+Unlike the structured drug development process, surgical advancements follow a distinct pathway, exemplified by the Innovation, Development, Exploration, Assessment, and Long-term follow-up (IDEAL) framework, which supports safe, evidence-based innovation.
+Complementary technologies, including three-dimensional (3D) models and augmented reality (AR), have emerged as transformative tools in robotic urological surgery, particularly for complex cases.
+These technologies enhance surgical planning, intraoperative navigation, and postoperative outcomes, especially in kidney and prostate cancer surgeries.
+Despite growing adoption, structured training programs tailored to 3D and AR applications remain underdeveloped.
+To address this gap, we conducted an online survey of participants from the 12th Techno Urology Meeting (2024) to evaluate the current use and training needs for these technologies.
+Among 126 respondents, the majority utilized 3D models (64.5%) and AR (40.3%) in clinical practice, highlighting their role in robotic partial nephrectomy and radical prostatectomy.
+Respondents overwhelmingly emphasized the need for dedicated multidisciplinary courses with hands-on training and proficiency-based progression methodologies.
+This study underscores the necessity of structured, technology-specific training to maximize the potential of 3D models and AR in robotic urology, offering critical insights for advancing surgical education and improving patient care outcomes.

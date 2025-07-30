@@ -1,0 +1,11 @@
+Triple-negative breast cancer (TNBC), the deadliest breast cancer subtype, lacks broadly applicable targeted therapies.
+Induction of 'viral mimicry' by activation of viral double-stranded RNA (dsRNA) sensors has potential therapeutic applications for TNBC and other cancers.
+Suppressors of dsRNA sensing prevent sensing of endogenous dsRNAs and resulting autoimmunity.
+Depletion of the suppressor of dsRNA sensing ADAR1 causes activation of dsRNA sensors and cell death in many cancer cell lines.
+These ADAR1-dependent cells are generally also dependent on the dsRNA-binding protein PACT, which is highly expressed and essential in many TNBC cell lines.
+While PACT is known as an activator of the dsRNA sensor PKR, overexpression of PACT had no effect on activation of PKR in multiple TNBC cell lines.
+Conversely, depletion of PACT in PACT-dependent cell lines caused robust activation of the dsRNA sensor PKR and cell death, in addition to induction of integrated stress response genes and NF-κB targets.
+These phenotypes were entirely dependent on PKR.
+Rescue experiments revealed that PACT dimerization and dsRNA binding is required to suppress PKR activation.
+While depletion of PACT alone in ADAR1/ PACT-independent cell lines had no effect on PKR activation, combined depletion of both PACT and ADAR1 in those cell lines caused robust PKR activation and cell death, supporting a partially redundant role for ADAR1 and PACT in suppression of dsRNA sensing.
+Taken together, these findings support a vital role for PACT in suppressing PKR activation and highlight the therapeutic potential of targeting PACT to treat TNBC.

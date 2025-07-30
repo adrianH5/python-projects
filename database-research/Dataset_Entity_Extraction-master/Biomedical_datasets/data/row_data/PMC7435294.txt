@@ -1,0 +1,17 @@
+The fast-spreading of COVID-19 raised a notion that mutations may drive its evolution.
+The genome of COVID-19 is evoluted from SARS- CoV and MERS CoV6.
+Comparison of the genome sequences of the COVID-19, SARS-CoV, and MERS-CoV showed that 2019-CoV has better sequence identity with SARS-CoV than the MERS CoV6.
+Kabir et al. [3] extensively reviewed factors that affect COVID-19 genetic diversity and its evolution.
+The COVID-19 has a unique amino acid sequence from other coronaviruses entirely in the regions of 1ab polyprotein and surface glycoprotein or S-protein.
+Studies indicate that the human receptor for COVID-19 could be angiotensin-converting enzyme 2 (ACE2).
+The coronavirus disease 2019 (COVID-19) virus is spreading rapidly worldwide, and the global interested scientists are endeavoring to discover drugs for its efficacious treatment.
+Chloroquine phosphate, an old drug for the treatment of malaria, is shown to have apparent efficacy and acceptable safety against COVID-19 associated pneumonia in multicenter clinical trials conducted in China [5].
+Excessive inflammation, oxidation, and an exaggerated immune response very likely contribute to COVID-19 pathology.
+The authors in this report concluded that a synthesized mRNA of COVID 19 vaccine-induced anti–SARS-CoV-2 immune responses in all participants, and no trial-limiting safety concerns were identified.
+Recently, a complete genome sequence for a severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) strain isolated from an oropharyngeal swab specimen of a Nepalese patient with coronavirus disease 2019 (COVID-19) was published in GenBank (accession number NC_045512), excluding the poly(A) tail of the genome [14].
+Taking this advantage, we hypothesized that designing a synthetic miRNA complemented to COVID-19 at 3′ UTR and another essential region, including ORF9, which encodes a nucleocapsid phosphoprotein (N).
+This protein is a basic RNA-binding protein encoded in the most 3′ protein of the COVID genome, plays both structural and non-structural roles in infection.
+The 3′ UTR region and ORF9 of COVID-19 were identified using the sequence (Acc.#: NC_045512).
+Therefore, Thei-score designer (www.med.nagoya-u.ac.jp/neurogenetics/i_Score/i_score.html) was used to deduce some candidates of miRNAs complemented of COVID-19.
+As pandemic, COVID-19, and its consequences on the global economy, we hypothesized a new approach for the treatment of COVID-19 paints.
+This approach includes designing a mix of miRNAs targeting several regions on COVID-19 open reading frame (ORF) and 3 UTR and suitable delivery system targeting respiratory system tissues.

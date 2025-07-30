@@ -1,0 +1,11 @@
+Tumor-associated macrophages (TAMs) are known to be involved in the manifestation of aggressive and therapy-resistant phenotypes in solid tumors.
+Nevertheless, the effects of dynamic intervention by TAMs on the DNA damage response of cancer cells are largely unexplored.
+Herein, we report that TAMs modulate the DNA damage repair pathways of ovarian cancer cells in response to platinum-(Pt) based therapeutic regimen.
+We demonstrate that coculture of TAMs with cancer cells directly upregulate Pol η, along with RAD18 and REV1 of the Translesion DNA synthesis (TLS) pathway, while concurrently downregulating components of the high-fidelity nucleotide excision repair (NER) mechanism.
+Consequently, we observed a better survival probability, DNA repair capacity, and enrichment of stemness properties in ovarian cancer cells.
+DNA bulky adducts produced by cisplatin are resolved through differential activation NER and TLS pathways.
+However, we elucidated that TAMs provide favorable conditions for activating the error-prone TLS pathway for lesion bypass over damage resolution.
+Furthermore, cellular crosstalk in cocultured cancer cells stimulates the nuclear translocation and expression of RelA, which recruits Pol η by acting as a potent transcription factor.
+In fact, with pristimerin-mediated disruption of p65 (RelA) translocation, the cancer cells become more prone to DNA damage-induced cell death and compromised regenerative potential.
+In both in vitro cell cultures and in vivo mouse xenograft models, cocultured macrophages exhibited predominantly M2-like phenotype with prevalence in the invasive zone of xenograft tumor margins.
+Taken together, our investigation revealed multifaceted crosstalk-mediated regulation of DNA damage repair between TAMs and ovarian cancer cells.

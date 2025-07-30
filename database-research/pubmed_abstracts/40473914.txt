@@ -1,0 +1,4 @@
+Tumor imaging or therapy using cancer specific carriers combined with a radioisotope has huge potential.
+In radiopharmaceutical development, it is important to ensure target specificity and minimal binding to normal tissues for both tumor detection and treatment.
+In previous studies, we identified CAPRIN-1 as a cancer-specific antigen, which is widely expressed on the cell surface membrane in many types of solid cancers, and created TRK-950, a humanized monoclonal antibody raised against CAPRIN-1, followed by conducting clinical development.
+In this proof-of-concept study, we prepared radiolabeled form of TRK-950 and investigated their potential as tumor imaging or therapeutic agents.

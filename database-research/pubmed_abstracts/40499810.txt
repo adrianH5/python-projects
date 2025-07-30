@@ -1,0 +1,7 @@
+Tunneling nanotubes (TNTs) are open membranous channels between connected cells, TNTs-mediated substance transfer between tumor cells plays an important role in drug resistance, metastasis and recurrence of tumors.
+This study aims to explore the composition of TNTs between tumor cells and the function of cofilin in TNTs formation.
+Oxidative stress induces the formation of TNTs between tumor cells.
+The components of TNTs include microfilaments and cell membranes, some of which contain microtubules, as well as mitochondria, endoplasmic reticulum, lysosomes, lipid droplets, ions, etc.
+Förster resonance energy transfer (FRET) analysis of living cells showed that cofilin and actin only interact in TNTs, and inhibition of cofilin can suppress oxidative stress-induced TNTs production.
+Doxorubicin (DOX) induced senescent tumor cells (STC) can form TNTs, and TNTs mediated material transfer between STC can promote tumor cell survival, while inhibition of cofilin can promote STC death.
+In summary, our data suggests that cofilin plays an important role in the formation of TNTs, and targeted inhibition of TNTs mediated intercellular communication and material exchange holds significant potential as a novel cancer treatment strategy.

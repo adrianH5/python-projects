@@ -1,0 +1,15 @@
+Considering that the sequence of SARS-CoV-2 is similar to the SARS-CoV and that SARS-CoV-2 appears to use the same ACE2 receptor to enter cells, analyses of ACE2 expression and distribution in lung and related biological processes may help us understand the pathogenesis and design therapeutic strategies for COVID-19.
+COVID-19 patients often have underlying diseases, including chronic respiratory disease and cardiovascular disease.
+To investigate the virus-related potential biological processes associated with ACE2, we extracted the expression profiles of 15 healthy non-smokers from dataset GSE89809 and divided them into two groups: high and low-expression level of ACE2.
+This may be related to pyroptosis, which has been suggested as another pathogenic mechanism involved in COVID-19 infection.
+The fact that tissue injury and death may be related to a pro-inflammatory process resulting from the viral infection suggests that the use of IL-1β blockers or IL-18 blockers may have some benefit in COVID-19 patients.
+In view of the role of the ACE2 receptor in the ability of SARS-CoV-2 to enter host cells [20], the question arises as to the effect of ACE inhibitors and angiotensin-receptor blockers (ARBs) in the pathogenesis of COVID-19.
+At present there is no strong evidence to discontinue ACE inhibitors or ARBs in patients with COVID-19, nor conversely, to use these drugs as treatment for COVID-19.
+It is postulated that this may be related to the higher mortality in Chinese patients with COVID-19 who have hypertension as a comorbidity.
+If ACE2 is downregulated by SARS-CoV-2 S protein binding to ACE2, this may explain why cardiac impairment is observed to be a significant characteristic of patients who die from COVID-19 [32]
+This illustrates a proposed mechanism of the effects of ACE2 in COVID-19 infection.
+In conclusion, COVID-19 is a global pandemic that has already caused over 110,000 deaths worldwide so far.
+These findings may help clinicians and researchers gain more insight into the pathogenesis and use this to design therapeutic strategies for COVID-19.
+In this study, we utilized previously uploaded information on ACE2 expression in various conditions including SARS-CoA to evaluate the role of ACE2 in SARS-CoV and extrapolate that to COVID-19.
+However, based on the elevated expression of ACE2 in cigarette smokers, we speculate that long-term smoking may be a risk factor for COVID-19.
+Our findings may help clinicians and researchers gain more insight into the pathogenesis of SARS-CoV-2 and design therapeutic strategies for COVID-19.

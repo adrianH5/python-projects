@@ -1,0 +1,9 @@
+Radiation therapy (RT) can release pro-inflammatory signals to jumpstart an anti-tumor immune response.
+However, glioblastoma (GBM) often recurs, suggesting that RT might not act as an immune adjuvant in this disease.
+A possible explanation for the lack of immune stimulation is the use of irradiation regimens that do not effectively stimulate anti-tumor immunity against GBM.
+Here, we tested the ability of various RT schedules to elicit type I interferon (IFN-I) response and explored its synergy with immunotherapy (IT) to trigger anti-tumor immunity against GBM.Using three murine GBM models, we show in vitro that single dose radiation ranging from 0Gy to 20Gy and fractionated radiation schedules (i.e.
+3 daily fractions of 8Gy; 3x8Gy and 5 daily fractions of 6Gy; 5x6Gy) accumulates double stranded DNA and release IFN-I related cytokines in a dose-dependent fashion; with fractionated schedules being superior in triggering cancer-cell intrinsic IFN-I responses.
+Side-by-side comparison of various radiation regimen in vivo revealed that 5x6Gy better control GBM across the three GBM models tested.
+However, the addition of anti-PD1 or anti-CTLA4 to an immunogenic radiation schedule (i.e.
+5x6Gy) did not prolong survival of irradiated mice.
+Surprisingly, only the dual blockade of PD-1 and CTLA4 promoted the expansion of proliferative T cells and conveyed immunological memory against irradiated GBM.Overall, this study demonstrates that an immunogenic radiation regimen is not sufficient to mount an anti-tumor immune response when combine with IT as monotherapy and highlights the need to combine an immunogenic irradiation with multiple IT to overcome immunosuppression of GBM.

@@ -1,0 +1,9 @@
+The global prevalence of overweight and obesity has risen sharply over the past few decades as a result of excess calorie intake and sedentary lifestyles.
+Obesity increases the risk for various metabolic disorders, such as hyperlipidemia, fatty liver disease, and diabetes mellitus.
+Isothiocyanates, which are abundant in cruciferous vegetables, have been shown to exhibit anti-cancer, anti-inflammatory, and antioxidant properties.
+However, the efficacy of benzyl isothiocyanate (BITC) in preventing the adverse effects of obesity, such as hepatic steatosis and insulin resistance, remains uncertain.
+To address this knowledge gap, we assessed whether BITC protects against hepatic insulin resistance by using primary mouse hepatocytes and AML12 cells treated with palmitic acid (PA) and mice fed a high-fat diet supplemented with cholesterol and cholic acid (HFCCD).
+We found that the impairments in insulin sensitivity caused by PA, such as decreases in the phosphorylation of insulin receptor substrate (IRS) 1 (Tyr608), Akt, glycogen synthase kinase (GSK) 3β, and FOXO1 and increases in the expression of glucose-6-phosphatase (G6Pase) and phosphoenolpyruvate carboxykinase 1 (PEPCK) mRNA in hepatocytes, were mitigated by pretreatment with BITC.
+BITC also attenuated PA-induced hepatic lipid accumulation and reactive oxygen species production.
+In vivo, BITC significantly reduced blood glucose levels and the HOMA-IR and inhibited hepatic lipid accumulation, IRS1 phosphorylation at Ser307, and G6Pase and PEPCK expression compared with that in mice fed the HFCCD alone.
+These results show that BITC ameliorates the lipotoxicity associated with insulin resistance by activating the IR/IRS/Akt/FOXO1 and GSK3β pathways, which leads to decreased gluconeogenesis and increased glycogen synthesis.

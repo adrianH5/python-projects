@@ -1,0 +1,9 @@
+In response to DNA replication stress, DNA damage signaling kinases inhibit origin firing and promote the remodeling and stabilization of replication forks, leading to a systemic reduction in DNA synthesis that protects genomic integrity.
+Little is understood about the regulatory mechanisms of replication stress recovery, including the mechanisms involved in the restart of stalled replication forks.
+Here, we identify the oncogenic phosphatase PPM1D/WIP1 as a critical regulator of replication fork restart.
+Upon recovery from replication stress, PPM1D prevents excessive MRE11- and DNA2-dependent nucleolytic degradation of stalled forks.
+Loss of PPM1D function leads to defects in RAD51 recruitment to chromatin and impairs RAD51-dependent fork restart.
+Phosphoproteomic analysis reveals that PPM1D regulates a network of ATM substrates, several of which are phosphorylated at an S/T-Q-(E/D)n motif.
+Strikingly, inhibition of ATM suppresses the deleterious consequences of impaired PPM1D function at replication forks, enabling timely fork restart.
+The dominant effect of ATM hyper-signaling in suppressing fork restart occurs, in part, through the excessive engagement of 53BP1 and consequent RAD51 antagonization.
+These findings uncover a new mode of ATM signaling responding to fork stalling and highlights the need for PPM1D to restrain ATM signaling and enable proper fork restart.

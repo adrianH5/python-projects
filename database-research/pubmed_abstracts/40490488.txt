@@ -1,0 +1,4 @@
+Intrinsically disordered proteins have key signalling and regulatory roles in cells and are frequently dysregulated in diseases such as cancer, neurodegeneration, inflammation and autoimmune disorders.
+Preventing the pathological functions mediated by structural disorder is crucial to successfully target proteins that drive transcription, biomolecular condensation and protein aggregation.
+However, owing to their heterogeneous, highly dynamic structural states, with ensembles of rapidly interconverting conformations, disordered proteins have been considered largely 'undruggable' by traditional approaches.
+Here, we review key developments of the field and suggest that the synergy of advanced experimental and computational approaches needs to be pursued to conquer this barrier in drug discovery.

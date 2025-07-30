@@ -1,0 +1,7 @@
+The incorporation of ribonucleotides (rNMPs) into the nuclear genome leads to severe genomic instability, including strand breaks and short 2-5 bp deletions at repetitive sequences.
+Curiously, the detrimental effects of rNMPs are not observed for the human mitochondrial genome (mtDNA) that typically contains several rNMPs per molecule.
+Given that the nuclear genome instability phenotype is dependent on the activity of the nuclear topoisomerase 1 enzyme (hTOP1), and mammalian mitochondria contain a distinct topoisomerase 1 paralog (hTOP1MT), we hypothesized that the differential effects of rNMPs on the two genomes may reflect divergent properties of the two cellular topoisomerase 1 enzymes.
+Here, we characterized the endoribonuclease activity of hTOP1MT and found it to be less efficient than that of its nuclear counterpart, a finding that was partly explained by its weaker affinity for its DNA substrate.
+Moreover, while hTOP1 and yeast TOP1 were able to cleave at an rNMP located even outside of the consensus cleavage site, hTOP1MT showed no such preference for rNMPs.
+As a consequence, hTOP1MT was inefficient at producing the short rNMP-dependent deletions that are characteristic of TOP1-driven genome instability.
+These findings help explain the tolerance of rNMPs in the mitochondrial genome.

@@ -1,0 +1,6 @@
+Reactive oxygen species can oxidatively modify enzymes to reroute metabolism according to tumor needs, rendering identification of oxidized proteins important for understanding neoplastic survival mechanisms.
+Thiol groups are most susceptible to oxidative modifications but challenging to analyze in clinical settings.
+We here describe the protein and small-molecular thiol oxidation landscape of 70 human lung tumors (and their paired healthy counter parts) and demonstrate that cancer adapts metabolism to increase glutathione synthesis to counteract oxidative stress.
+Glyoxalases, the key enzymes in the detoxification of methylglyoxal, a byproduct of glycolysis and precursor of advanced glycation end-products, are compromised by oxidation and downregulation.
+Despite decreased methylglyoxal detoxification capacity, cancers do not accumulate advanced glycation end-products.
+Since in vitro downregulation or inhibition of GAPDH upregulates glyoxalases, we propose that tumors reduce methylglyoxal by activating GAPDH.

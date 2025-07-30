@@ -1,0 +1,4 @@
+Mitotic Arrest Deficient 1 (MAD1), an essential component of the mitotic spindle assembly checkpoint, is commonly overexpressed in breast cancers where it serves as a marker of poor prognosis.
+MAD1 overexpression is sufficient to permit nontransformed cells to form orthotopic mammary tumors and to promote tumorigenesis in a recently described mouse model with inducible expression of endogenous Mad1.
+However, the mechanism of MAD1 upregulation in cancer is unclear.
+Here we report a 440 bp region of the

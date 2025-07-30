@@ -1,0 +1,3 @@
+RET gene rearrangements yield oncogenic fusion proteins that drive a subset of lung adenocarcinomas (LUAD).
+The tyrosine kinase inhibitors (TKIs) selpercatinib and pralsetinib are approved therapies for RET+ lung cancers and have markedly improved clinical outcomes in these patients, but acquired resistance remains a hurdle to their durable management.
+Using a recently developed murine model of RET+ lung cancer driven by a

@@ -1,0 +1,8 @@
+Confirming the patient benefit of progression-free survival (PFS) in B-cell non-Hodgkin lymphoma (B-NHL) and multiple myeloma (MM) has become increasingly challenging due to the improved outcomes brought by novel therapies.
+In parallel, the U.S. Food and Drug Administration recommends conducting randomized trials, focusing on evaluating early endpoints to compare study and control arms for accelerated approval (AA).
+From both the clinical and regulatory perspectives, identifying early surrogate endpoints for PFS is imperative.
+In principle, the complete response rate (CRR) is a potential early endpoint for granting AA.
+This study aimed to evaluate whether the CRR is a surrogate early endpoint for PFS in patients with B-cell malignancies.
+We investigated the results of randomized trials with data on CRR and PFS using a combined approach of PubMed and Clinical Trial.gov (CTG), identifying 52 trials after applying exclusion criteria.
+A meta-regression plot showed a significant correlation between the CRR and PFS with an R-squared of 0.822 in 13 trials of aggressive B-NHL, 0.941 in the 8 trials of indolent N-NHL and 0.492 in the 31 trials of MM.
+This meta-analysis suggests that the CRR can be considered an early surrogate endpoint for PFS in B-NHL and MM.

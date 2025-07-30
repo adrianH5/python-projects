@@ -1,0 +1,3 @@
+Bone repair and tissue engineering require biomaterials that offer both mechanical stability and biocompatibility.
+Titanium is renowned for its mechanical durability but has limited bioactivity, whereas magnesium offers high bioactivity but degrades too quickly.
+This study develops a novel hybrid scaffold using fused filament fabrication (FFF) to combine polylactic acid (PLA) with magnesium titanate (MgTiO

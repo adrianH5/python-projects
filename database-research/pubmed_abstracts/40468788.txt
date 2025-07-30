@@ -1,0 +1,4 @@
+Lymphomas constitute a molecularly and clinically heterogeneous group of hematological malignancies, classically classified into two distinct types: Hodgkin lymphoma (HL) and non-Hodgkin lymphoma (NHL).
+These subtypes demonstrate fundamental divergences in their pathobiology and immune microenvironmental profiles.
+Nanovaccines-nanoparticle-based platforms encapsulating tumor-associated antigens (TAAs) or neoantigens-offer precision immunotherapy by enabling controlled antigen delivery and enhanced dendritic cell cross-presentation.
+Subtype-specific designs target EBV-associated HL (using LMP1/2 or EBNA1) or NHL (

@@ -1,0 +1,8 @@
+The androgen receptor (AR) is a critical driver of prostate cancer (PCa).
+To study regulators of AR protein levels and oncogenic activity, we created the first live cell quantitative endogenous AR fluorescent reporters.
+Leveraging this novel AR reporter, we performed genome-scale CRISPRi flow cytometry sorting screens to systematically identify genes that modulate AR protein levels.
+We identified and validated known AR protein regulators including HOXB13 and GATA2 and also unexpected top hits including PTGES3, a poorly characterized gene in PCa.
+PTGES3 repression resulted in loss of AR protein, cell cycle arrest, and cell death in AR-driven PCa models.
+PTGES3 is not a commonly essential gene, and our data nominate it as a prime PCa therapeutic target.
+Clinically, analysis of PCa data demonstrate that PTGES3 expression is associated with AR-directed therapy resistance.
+Mechanistically, we show PTGES3 binds directly to AR, forms a protein complex with AR in the nucleus, regulates AR protein stability

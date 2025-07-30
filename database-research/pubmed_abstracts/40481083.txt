@@ -1,0 +1,7 @@
+Triple negative breast cancer (TNBC) is the most malignant subtype of breast cancer that portends a poor prognosis and limited treatment.
+PTPN2 is a member of the non-receptor protein tyrosine phosphatase family that regulates biological processes by dephosphorylating various signaling molecules.
+Endoplasmic reticulum stress (ERS) plays a dual regulatory role by promoting both survival and apoptosis.
+This study aims to elucidate the role of PTPN2 in mediating the pro-apoptotic effects of ERS induced by Thapsigargin (TG), and its influence on the fate of TNBC cells, utilizing both loss-of-function and gain-of-function methodologies.
+Our findings indicate that PTPN2 modulates TG-induced ERS via the IRE1-XBP1 and PERK/EIF2α/ATF-4 signaling pathways.
+Furthermore, PTPN2 mitigates the TG-induced reduction in cell proliferation and the concomitant increase in apoptosis.
+Specifically, PTPN2 appears to inhibit several facets of TG-induced apoptosis, including: (1) Ca

@@ -1,0 +1,7 @@
+Aging is one of the most prominent risk factors for neurodegeneration, yet the molecular mechanisms underlying the deterioration of old neurons are mostly unknown.
+To efficiently study neurodegeneration in the context of aging, we transdifferentiated primary human fibroblasts from aged healthy donors directly into neurons, which retained their aging hallmarks, and we verified key findings in aged human and mouse brain tissue.
+Here we show that aged neurons are broadly depleted of RNA-binding proteins, especially spliceosome components.
+Intriguingly, splicing proteins-like the dementia- and ALS-associated protein TDP-43-mislocalize to the cytoplasm in aged neurons, which leads to widespread alternative splicing.
+Cytoplasmic spliceosome components are typically recruited to stress granules, but aged neurons suffer from chronic cellular stress that prevents this sequestration.
+We link chronic stress to the malfunctioning ubiquitylation machinery, poor HSP90α chaperone activity and the failure to respond to new stress events.
+Together, our data demonstrate that aging-linked deterioration of RNA biology is a key driver of poor resiliency in aged neurons.

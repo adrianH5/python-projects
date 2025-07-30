@@ -1,0 +1,11 @@
+BACKGROUND Polycystic ovarian syndrome (PCOS) is characterized by anovulation, hyperandrogenism, and, predominantly, insulin resistance.
+Such characteristics are often associated with disrupted follicle-stimulating hormone receptor (FSHR) function.
+Conventionally, metformin is commonly used to enhance insulin sensitivity, reduce androgen levels, and indirectly restore FSHR signalling.
+However, to date, there have been no binding studies investigating metformin-induced FSHR activation and its associated genetic polymorphisms in PCOS.
+MATERIAL AND METHODS The present study used a systematic approach to examine the structural consequences of wild-type and polymorphic variants of FSHR (A307T and N680S, respectively), along with metformin efficacy, through homology modelling, structural stability analysis, molecular docking, and dynamic simulations.
+RESULTS The three-dimensional structures of wild-type and variant (A307T and N680S, respectively) FSHR were modelled and validated using computational tools.
+Pathogenicity prediction revealed that these variants impact the structural stability of FSHR.
+Molecular docking calculations with metformin showed binding affinities for wild-type (-4.205 kcal/mol), A307T (-4.321 kcal/mol), and N680S (-4.294 kcal/mol).
+Molecular dynamics (MD) simulations revealed that metformin showed more stable confirmation with A307T and N680S variant forms than wild-type FSHR.
+These findings suggest that PCOS patients with the A307T and N680S polymorphisms may respond to metformin treatment better than those with wild-type.
+CONCLUSIONS Our computational findings suggest that PCOS patients with the A307T and N680S polymorphisms may exhibit a better response to metformin treatment than those with the wild-type FSHR, potentially enhancing ovulation activation in insulin-resistant individuals.

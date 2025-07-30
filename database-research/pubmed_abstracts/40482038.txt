@@ -1,0 +1,6 @@
+Carbohydrate sulfotransferase 8 (CHST8) promotes immune checkpoint activation by sulfating GalNAcβ1-4GlcNAc (LacdiNAc) termini on glycoproteins.
+We present a protocol for quantifying LacdiNAc levels in mammalian cells using a lectin-captured luciferase reporter assay.
+We describe steps for preparing plasmid encoding NanoLuc-fused protein and lectin-coated multiple well plates, expressing NanoLuc-fused protein, and detecting luciferase activity.
+We then detail procedures for the lectin-capture assay and analyzing data after luminescence signals are measured.
+This protocol is adaptable for other glycoforms by substituting appropriate lectins.
+For complete details on the use and execution of this protocol, please refer to Chou et al.

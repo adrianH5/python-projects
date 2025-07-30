@@ -1,0 +1,17 @@
+A major lesson that the coronavirus disease 2019 (COVID-19) pandemic has already taught the scientific community is that timely international data sharing and collaborative data analysis is absolutely vital to navigate through policy decisions that have life-or-death consequences.
+Some of the most pressing issues about COVID-19 infections require urgent sharing of high-quality data concerning, for example, risk factors that influence infection, prognosis, and predictions of drug response from phenotypic, genotypic, and epigenetic data.
+To generate or test scientific hypotheses, we need large-scale and well-characterized patient-level datasets to provide sufficient statistical power.
+Building and sharing massive datasets containing personal health information have numerous legal and ethical implications that hinder new discoveries and prevent the scientific community from assessing their validity.
+In this respect, the case of 2 COVID-19 related articles published by The Lancet and The New England Journal of Medicine serves as an example.
+These instances reinforce the need for a robust privacy- and confidentiality-compliant data-processing and sharing system to address these challenges in the era of COVID-19 and future pandemics.
+Numerous data-driven projects have been launched across the globe to combat COVID-19, as summarized below.
+On the 1 hand, several data-sharing projects on COVID-19 are based on a decentralized approach, employing the computation of local statistics (sometimes obfuscated to hide small numbers) that are subsequently shared and aggregated through meta-analysis.
+On the other hand, other projects aim to centralize patient-level data from COVID-19 at a single site and then perform the analysis.
+With this goal in mind, we have established an international consortium for Secure Collective Research (SCOR) to deploy the next-generation distributed infrastructure and tools for secure data sharing, analysis, and mining while respecting patient privacy and maximizing data utility during global disease outbreaks like the current COVID-19 pandemic.
+SCOR is a new initiative that complements existing multicentric data-sharing efforts to face the COVID-19 pandemic.
+COVID-19 research moves rapidly with new initiatives announced daily.
+In Table 1 we summarize the major initiatives we are aware of (as of June 2020) and compare them to SCOR along the following axes:
+Comparison of fully automated systems for COVID-19 data sharing is reported in Table 2 below.
+This issue is alleviated when safe settings are used to create large (protected) virtual datasets compared to applying data obfuscation to local datasets.
+By using MedCo, health professionals and scientists can query data scattered among diverse institutions as if it were stored in a single location (virtual collective dataset) but without the need of seeing nor moving the data (see Figure 2).
+Existing health informatics systems do not incorporate the latest progress in modern security and federated machine learning algorithms, which are poised to offer solutions.

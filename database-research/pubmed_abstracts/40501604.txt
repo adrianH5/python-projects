@@ -1,0 +1,9 @@
+CHI3L1, a chitinase-like protein, is a potent immune modulator involved in various diseases, including lung cancer.
+While recent studies have demonstrated that kasugamycin (KSM) is a pan-chitinase inhibitor with strong anti-fibrotic activity, its effects on specific chitinase-like proteins remain undefined.
+This study shows that KSM effectively abrogates CHI3L1-stimulated cellular signaling and bioactivities.
+In a B16/F10 melanoma lung metastasis model, where CHI3L1 plays a critical role, KSM treatment significantly reduced melanoma lung metastasis dose-dependently.
+The anti-tumor effect of KSM was found to be CHI3L1-specific, as CHI3L1 overexpression enhanced melanoma lung colony formation, which was effectively blocked by KSM.
+In melanoma-challenged lungs, KSM treatment significantly reduced the elevation of M2 macrophages expressing CD206, CD163, and PD-L1.
+In studies using human monocytic THP-1 cells, CHI3L1 promoted M2 macrophage differentiation, which KSM significantly suppressed.
+Bulk RNA sequencing of differentiated macrophages revealed that CHI3L1 highly induced the expression of epidermal growth factor receptor (EGFR), and this induction was counter-regulated by KSM, and CHI3L1-driven M2 macrophage activation was reduced with EGFR blocker treatment.
+These findings reveal a novel anti-tumor mechanism of KSM, which inhibits M2-like tumor-associated macrophage differentiation, potentially through the CHI3L1-EGFR axis.

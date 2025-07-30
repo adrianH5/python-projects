@@ -1,0 +1,9 @@
+Hospital readmissions represent a major challenge for healthcare systems due to their impact on patient outcomes and associated costs.
+As many readmissions are considered preventable, predictive modeling offers a valuable tool for early identification and intervention.
+This study aimed to develop and validate a predictive model for 30-day readmissions in a 200-bed community hospital in Argentina.
+A retrospective analysis was conducted on 3388 adult admissions.
+The primary endpoint was readmission within 30 days of discharge.
+Predictor variables included demographic and clinical factors such as age, length of stay, hypertension, diabetes, heart failure, coronary artery disease, stroke, cancer, dementia, chronic kidney disease, chronic obstructive pulmonary disease, and bedridden status.
+Three models-Logistic Regression (LR), Random Forest (RF), and LightGBM (LGBM)-were developed, with hyperparameter tuning via Bayesian optimization.
+Model performance was assessed using calibration, discrimination (C-statistics), and decision curve analysis.
+Internal validation was performed using 250 bootstrap resamples.

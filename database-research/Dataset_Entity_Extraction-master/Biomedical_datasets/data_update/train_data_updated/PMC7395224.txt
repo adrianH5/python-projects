@@ -1,0 +1,13 @@
+The ongoing pandemic of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) causing the coronavirus disease 2019 (COVID-19) has imposed an increasing demand on daily diagnostic screening.
+Given the high specificity of the RT-qPCR (Alcoba-Florez et al., 2020), focus was on evaluating the rate of false negatives (FN) and assay sensitivity using the same 98 COVID-19 patient samples.
+Since all samples were COVID-19 positive for at least one solution/viral target, results with threshold cycle (Ct) values >40 or those that remained undetected during the 45 cycles of the experiments were considered FN observations (Fig. 1
+, Table 1).
+Attending to individual targets, it was found that the most sensitive solution was the LightMix® Modular SARS-CoV (COVID19) (TIB MOLBIOL, Berlin, Germany) used in combination with a primer-probe set for the E-gene (97.9% [92.8–99.7]) (Table 1).
+Finally, because the LightMix® Modular SARS-CoV (COVID19) kit with primer-probes for the E-gene showed the highest sensitivity, it was tested on samples that were preheated at 70 °C for 10 minutes in a substitution of the RNA extraction (Alcoba-Florez et al., 2020).
+RT-qPCR for selected target genes of SARS-CoV-2 has been key in the global response to the COVID-19 pandemic.
+Given the rapid spread of the virus at this time, it is likely that the RT-qPCR assays will continue to be a central tool for controlling COVID-19.
+However, as happened in the past due to supply chain issues, policy decisions and laboratory testing capacities (Alcoba-Florez et al., 2020), it is predictable that the diagnosis of COVID-19 will continue relying on a variety of solutions among laboratories and countries (Vogels et al., 2020).
+These findings will help to assess the impact of the selected solution on FN diagnoses of COVID-19 (Ramdas et al., 2020) and to choose a solution that minimizes misdiagnoses of an active SARS-CoV-2 infection.
+The ongoing COVID-19 pandemic continues to impose demands on diagnostic screening.
+Six different RT-qPCR alternatives were evaluated for SARS-CoV-2/COVID-19 diagnosis based on standard RNA extractions.
+These results will help to calibrate the impact of false negative diagnoses of COVID-19, and to detect and control new SARS-CoV-2 outbreaks and community transmissions.

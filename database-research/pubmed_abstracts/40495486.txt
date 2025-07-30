@@ -1,0 +1,5 @@
+Base editors, including adenine base editors (ABEs) and cytosine base editors (CBEs), are widely used in numerous organisms to introduce site-specific sequence modifications in genomic DNA without causing double-strand breaks (DSBs).
+However, these editors exhibit low editing efficiencies, particularly in dicot plants, thereby limiting their application in dicot plant genome engineering.
+In this study, we assessed the editing efficiencies of various base editors to identify those optimal for base editing in dicot plants.
+We discovered that ABE8e, an ABE variant, demonstrated superior A-to-G base editing efficiency within A5-A8 windows, and A3A/Y130F-V04, a CBE variant, exhibited the highest C-to-T base editing efficiency within C4-C15 windows in both Arabidopsis and soybean protoplasts.
+Overall, we recommend these two base editors as prime choices for efficient genome engineering in a range of crop plants.

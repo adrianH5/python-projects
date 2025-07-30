@@ -1,0 +1,9 @@
+Osteosarcoma is a common primary malignant bone tumor.
+S100A16 gene was reported to highly expressed in several tumor tissues while the relationship between S100A16 and osteosarcoma remains less well-understood.
+This study aimed to investigate the expression characteristics of S100A16 in osteosarcoma and the mechanism by which it promotes osteosarcoma progression.
+Firstly, by analyzing databases and assessing mRNA and protein level, we found that the expression of S100A16 was significantly promoted in osteosarcoma, as compared with normal tissue.
+Then transfection techniques were employed to upregulate and downregulate S100A16 in osteosarcoma cells, the results demonstrated that S100A16 can increase osteosarcoma cell viability, migration and invasion capacities, while decline osteosarcoma cell apoptosis.
+GSEA (gene set enrichment analysis) revealed that increased expression of S100A16 was enriched in the PI3K/AKT pathway.
+Cellular experiments showed that the S100A16 promoted osteosarcoma progression by activating the PI3K/AKT signaling pathway, and upregulated expression of ANXA2, a crucial protein in occurrence and development of tumors.
+We also found that overexpression of ANXA2 can restore the decreased levels of p-PI3K and p-AKT induced by S100A16 inhibition, which indicated that S100A16 stimulates PI3K/AKT pathway activation via ANXA2.
+To sum up, S100A16 can promotes osteosarcoma progression by activating the PI3K/AKT signaling pathway through ANXA2, suggesting that the S100A16/ANXA2 axis may represent a novel therapeutic target for osteosarcoma.

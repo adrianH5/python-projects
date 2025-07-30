@@ -1,0 +1,12 @@
+African cobra (Naja spp.)
+venom contains toxins dominated by proteins and peptides with inter- and intra-specific variations.
+There are several FDA-approved drugs from snake venom toxins from other regions, including South America and Asia.
+Profiling the proteomes of medically important African cobra venoms from different locations will aid in developing more effective anticancer agents.
+The venoms of spitting cobras (Naja pallida and Naja nigricincta woodi) and non-spitting cobras of the Uraeus subgenus (Naja anchietae, Naja annulifera, and Naja nivea) were fractionated by reverse phase-high performance liquid chromatography (RP-HPLC).
+Using label-free LC-MS/MS, the venom toxins were identified and grouped into families based on their relative abundance.
+Venom cytotoxicity of both crude and fractionated samples was tested in pancreatic carcinoma cell lines (MIA PaCa-2) using the Alamar Blue assay.
+Cell viability analysis revealed a cytotoxic effect of spitting cobra venoms against MIA PaCa-2 cell lines compared to normal MRC-5 cells.
+Conversely, venoms of non-spitting cobras showed no cytotoxic activity against MIA PaCa-2 cells.
+Selected RP-HPLC venom fractions from the spitting cobras revealed that N. pallida Fraction 6 and N. n. woodi Fraction 9 at a minimal level were cytotoxic against MIA PaCa-2 cells.
+LC-MS/MS data showed that while N. pallida Fraction 6 was dominated by basic phospholipase 2 CM-III and Cytotoxin 2, N. n. woodi Fraction 9 was dominated by basic phospholipase 2 CM-III, basic phospholipase 2 CM-II and Cytotoxin 3.
+These fractions will be purified and studied to determine the mechanisms behind the underlying cytotoxicity against MIA PaCa-2 cells.

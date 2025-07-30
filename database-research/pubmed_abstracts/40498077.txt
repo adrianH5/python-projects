@@ -1,0 +1,11 @@
+During mitosis, the microtubule depolymerase KIF2C, the tumor suppressor BRCA2, and the kinase PLK1 contribute to the control of kinetochore-microtubule attachments.
+Both KIF2C and BRCA2 are phosphorylated by PLK1, and BRCA2 phosphorylated at T207 (BRCA2-pT207) serves as a docking site for PLK1.
+Reducing this interaction results in unstable microtubule-kinetochore attachments.
+Here we identified that KIF2C also directly interacts with BRCA2-pT207.
+Indeed, the N-terminal domain of KIF2C adopts a Tudor/PWWP/MBT fold that unexpectedly binds to phosphorylated motifs.
+Using an optogenetic platform, we found that KIF2C forms membrane-less organelles that assemble through interactions mediated by this phospho-binding domain.
+KIF2C condensation does not depend on BRCA2-pT207 but requires active Aurora B and PLK1 kinases.
+Moreover, it concentrates PLK1 and BRCA2-pT207 in an Aurora B-dependent manner.
+Finally, KIF2C depolymerase activity promotes the formation of KIF2C condensates, but strikingly, KIF2C condensates exclude tubulin: they are located on microtubules, especially at their extremities.
+Altogether, our results suggest that, during the attachment of kinetochores to microtubules, the assembly of KIF2C condensates amplifies PLK1 and KIF2C catalytic activities and spatially concentrates BRCA2-pT207 at the extremities of microtubules.
+We propose that this novel and highly regulated mechanism contributes to the control of microtubule-kinetochore attachments, chromosome alignment, and stability.

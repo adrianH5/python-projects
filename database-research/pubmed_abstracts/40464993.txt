@@ -1,0 +1,5 @@
+This study investigates the complex dynamics of vascular tumors and their interplay with macrophages, key agents of the innate immune response.
+We model the tumor microenvironment as a multiphase fluid, with each cellular population treated as a distinct, non-mixing phase.
+The framework also incorporates diffusible species that are critical for processes such as nutrient transport, angiogenesis, chemotaxis, and macrophage activation.
+A central contribution of this work is the explicit modeling of macrophage infiltration and polarization within the tumor microenvironment.
+The model captures the divergent roles of

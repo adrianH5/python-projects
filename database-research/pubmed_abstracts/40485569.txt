@@ -1,0 +1,8 @@
+mRNAs undergo a series of chemical modifications to become competent for nuclear export and translation.
+This is referred to as mRNA maturation or processing and includes capping, splicing, and 3'end formation.
+These steps can be hijacked in cancer to alter proteins' forms and levels in the absence of mutation or changes to transcript levels.
+Here, we focus on an emerging idea that some factors act in multiple processing events and that their dysregulation in both their canonical and noncanonical functions contributes to cancer with a focus on Acute Myeloid Leukaemia (AML).
+As examples, we discuss the eukaryotic translation initiation factor (eIF4E), splice factor 3 complex B subunit 1 (SF3B1), U2 small nuclear auxiliary factor (U2AF1), and associated factors.
+These physically interact with each other and play roles in splicing, export, and translation.
+Malignant dysregulation of this mRNA processing-export-translation axis diversifies the proteome to support cancer.
+Finally, we discuss the simultaneous dysregulation of mRNA processing in malignancy and related therapeutic development.

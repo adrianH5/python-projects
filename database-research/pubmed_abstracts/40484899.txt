@@ -1,0 +1,7 @@
+Experimental results have shown that anti-cancer therapies, such as radiotherapy and chemotherapy, can modulate the cell cycle and generate cell cycle phase-dependent responses.
+As a result, obtaining a detailed understanding of the cell cycle is one possible path towards improving the efficacy of many of these therapies.
+Here, we consider a basic structured partial differential equation (PDE) model for cell progression through the cell cycle, and derive expressions for key quantities, such as the population growth rate and cell phase proportions.
+These quantities are shown to be periodic and, as such, we compare the PDE model to a corresponding ordinary differential equation (ODE) model in which the parameters are linked by ensuring that the long-term ODE behaviour agrees with the average PDE behaviour.
+By design, we find that the ODE model does an excellent job of representing the mean dynamics of the PDE model within just a few cell cycles.
+However, by probing the parameter space we find cases in which this mean behaviour is not a good measure of the PDE population growth.
+Our analytical comparison of two caricature models (one PDE and one ODE system) provides insight into cases in which the simple ODE model is an appropriate approximation to the PDE model.

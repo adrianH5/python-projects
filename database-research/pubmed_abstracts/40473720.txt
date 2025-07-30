@@ -1,0 +1,12 @@
+Breast cancer is the most common type of cancer in women, and while current treatments can cure the majority of early-stage primary BC cases, recurrence remains a significant challenge.
+Traditional methods of assessing patient prognosis, such as AJCC, TNM staging, and biochemical markers, are no longer sufficient in the era of precision medicine.
+Existing tumor models often rely on single selection and simpler algorithms, which can lead to poor effectiveness or overfitting.
+To address these limitations, this study systematically analyzed RNA-seq high-throughput data and combined 10 machine learning algorithms to construct 117 models.
+The optimal algorithm combination, StepCox[both] and ridge regression, was identified, and an immune-related gene signature (IRGS) composed of 12 genes was developed.
+The IRGS demonstrated outstanding predictive performance across multiple datasets and surpassed 10 previously published signatures.
+GSEA analysis revealed significant enrichment differences in cellular processes, diseases, and immune-related pathways between high- and low-risk recurrence patients.
+The low recurrence risk group based on IRGS exhibited a stronger immune phenotype and better survival prognosis, which may be associated with higher infiltration of CD4 + and CD8 + T cells.
+However, high M2 macrophage infiltration suggests potential immune escape in low recurrence risk patients.
+Combined with immune checkpoint expression levels and TIDE results, it is suggested that low-risk patients may respond positively to immunotherapy.
+Through drug sensitivity analysis, potential drugs that are more effective for both high- and low-risk groups have been identified.
+Therefore, the IRGS developed in this study can serve as an adjunct tool for assessing the recurrence risk of breast cancer, potentially enhancing personalized treatment planning, and improving the clinical management of patients with breast cancer.

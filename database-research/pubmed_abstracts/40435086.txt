@@ -1,0 +1,8 @@
+Breast cancer is the leading cause of cancer-related mortality among women worldwide.
+The development of predictive biomarkers and immunologic markers has revolutionized breast cancer diagnosis and treatment, enabling personalized medicine approaches.
+This study aims to review the current status, challenges, and future directions of predictive and immunologic biomarkers in breast cancer.
+Predictive biomarkers such as HER2/neu expression, estrogen receptor (ER)/progesterone receptor (PR) status, and genomic signatures play a crucial role in treatment decisions, particularly for hormone receptor-positive and HER2-positive tumors.
+Immunologic markers, including PD-L1 expression, microsatellite instability (MSI), tumor mutational burden (TMB), and tumor-infiltrating lymphocytes (TILs), are essential for predicting responses to immunotherapy, especially in aggressive subtypes like triple-negative breast cancer (TNBC).
+However, challenges such as tumor heterogeneity, therapy resistance, and standardization of biomarker testing remain significant barriers.
+This study also explores emerging technologies like artificial intelligence (AI), genomic profiling, and liquid biopsy, which are expected to enhance precision medicine, improve early diagnosis, and optimize treatment strategies.
+The integration of these advanced molecular approaches holds great promise for improving patient outcomes and overcoming existing limitations in breast cancer management.

@@ -1,0 +1,7 @@
+Triple-negative breast cancer (TNBC) and pancreatic ductal adenocarcinoma (PDAC) are aggressive malignancies characterized by uncontrolled tumor growth, high recurrence rates, and resistance to chemotherapy.
+OZ-001 is a small molecule with a dual mechanism of action targeting T-type Ca2+ channels and inhibiting activation of the signal transducer and activator of transcription 3 (STAT3) protein.
+These properties suggest a potential use as a therapeutic agent for TNBC and PDAC, addressing the urgent need for effective treatments.
+This study evaluates the anticancer efficacy and underlying mechanism of action of OZ-001.
+The anticancer activities of OZ-001 were assessed in MDA-MB-231 cells (against TNBC) and MIA PaCa-2 cells (against PDAC) through analyses of cell viability, apoptosis, protein characterization, and cell cycles.
+Protein affinity and intracellular calcium measurements were conducted to investigate its effects on STAT3 and T-type calcium channels.
+Xenograft animal models were developed using MDA-MB-231 and MIA PaCa-2 cells to evaluate the

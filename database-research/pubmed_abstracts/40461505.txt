@@ -1,0 +1,14 @@
+Metastatic risk stratification is critical for uveal melanoma (UM) management, as approximately up to half of patients develop metastatic disease.
+Current prognostication for patients undergoing eye-preserving therapies relies on tumor staging and molecular analysis of tumor tissue obtained through potentially invasive biopsy, which can be challenging.
+While liquid biopsy using cell-free DNA (cfDNA) has emerged as a less invasive alternative for other cancers, studies have shown limited utility of blood-derived cfDNA in UM due to low tumor DNA fractions.
+This study investigates the potential of aqueous humor (AH) and vitreous body (VB) aspirates as alternative sources of tumor DNA for molecular prognostication in UM patients at the time of diagnosis.
+In this prospective study, AH and/or VB samples were collected from 96 consecutive UM patients undergoing enucleation, transretinal endoresection or transretinal biopsy.
+DNA was extracted from the ocular fluids and analyzed for the presence of tumor-derived DNA using deep amplicon sequencing targeting mutations in GNAQ and GNA11.
+This approach achieved an average read depth of 120,000, enabling highly sensitive detection of tumor-specific variants.
+Tumor DNA was detected in at least one ocular fluid (AH or VB) in 43 of 88 evaluable patients (49%), with variant allele fractions (VAFs) ranging from 0.3 to 50%.
+Of these positive cases, tumor DNA was identified in VB only in 22 patients, AH only in 5 patients, and both fluids in 16 patients.
+Importantly, tumor DNA in AH was almost exclusively observed in patients with monosomy 3 UM.
+No significant correlation was found between the presence of tumor DNA in either ocular fluid and primary tumor size or location.
+Liquid biopsy of AH and VB offers a promising, minimally invasive strategy for obtaining tumor DNA in nearly half of UM patients at diagnosis.
+The strong association between detectable tumor DNA in AH and monosomy 3 status warrants further investigation and may offer valuable insights into UM biology and dissemination mechanisms.
+This approach may improve risk stratification and inform personalized treatment strategies for patients with UM.

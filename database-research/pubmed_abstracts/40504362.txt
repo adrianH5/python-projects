@@ -1,0 +1,11 @@
+Esophageal cancer (EC) is a highly aggressive malignancy, with esophageal squamous cell carcinoma (ESCC) accounting for the majority of cases worldwide.
+Despite advances in treatment, the prognosis for ESCC remains poor, underscoring the urgent need for reliable prognostic biomarkers to guide clinical decision-making.
+In this study, we constructed a novel prognostic model by integrating cuproptosis-related genes with ferroptosis and immune-associated genes-three critical pathways implicated in tumor progression and immune modulation.
+Gene expression and clinical data from ESCC patients were obtained from the GSE53625 and TCGA-ESCC cohorts.
+Ferroptosis- and immune-related genes (FIRGs) were sourced from FerrDb and ImmPort databases, and their association with cuproptosis-related genes was determined via Pearson correlation, yielding a set of cuproptosis-associated FIRGs (FI-CRGs).
+Thirteen prognostically relevant FI-CRGs were identified through Cox regression analysis and used to develop a risk score model (FI-CRS).
+The FI-CRS demonstrated robust predictive performance in both the training cohort (GSE53625, n = 179) and the independent validation cohort (TCGA-ESCC, n = 81), where high-risk patients exhibited significantly reduced overall survival (p < 0.05).
+Functional enrichment analyses (GO and KEGG) revealed strong associations between high FI-CRS and immunoregulatory pathways.
+Further investigation showed notable differences in immune cell infiltration and drug sensitivity between risk groups.
+Additionally, a prognostic nomogram incorporating clinical features (age, gender, TNM staging, and FI-CRS) was established to enhance individualized survival prediction.
+Altogether, this study presents a novel, integrative in silico framework that not only offers promising biomarkers for prognosis but also provides mechanistic insights into ESCC biology, potentially informing future therapeutic strategies.

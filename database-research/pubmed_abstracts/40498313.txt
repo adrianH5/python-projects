@@ -1,0 +1,4 @@
+The interactions between intestinal mucins and the gut microbiota significantly influence digestive processes, metabolic activities, and pathogen resistance in the gastrointestinal tract.
+To explore this dynamic relationship, this chapter describes a workflow for studying the degradation of mucin oligosaccharides from isolated mucins.
+The approach involves purifying mucins from intestinal tissues and then subjecting them to a mixture of fecal glycosidases originating from commensal bacteria.
+The remaining oligosaccharides attached to the mucins after glycosidase treatment are released and then characterized and quantified using liquid chromatography-mass spectrometry (LC-MS)

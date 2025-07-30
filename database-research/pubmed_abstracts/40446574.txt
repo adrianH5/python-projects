@@ -1,0 +1,2 @@
+The aim of this study was to screen the biomarkers of ginger against gastric cancer (GC) by network pharmacology, WGCNA and machine algorithms.
+To find the upstream transcription factors and downstream signaling proteins constituting the signaling axis, so as to predict the possible mechanism of action of ginger against GC.

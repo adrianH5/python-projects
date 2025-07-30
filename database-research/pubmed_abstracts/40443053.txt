@@ -1,0 +1,8 @@
+Despite the promising results of non-thermal plasma (NTP) devices for cancer therapy, the potential adverse effects of NTP irradiation have remained unexplored, including the effects on epithelial-mesenchymal transition (EMT) and subsequent cancer metastasis.
+In this study, we investigate NTP-induced EMT initiation and progression.
+A microsecond-pulsed dielectric barrier discharge plasma device was used for NTP treatment, and chicken chorioallantoic membrane (CAM) and spheroids were used as 3D tumor models.
+NTP treatment reduced tumor volume in the CAM model, but a shift towards a mesenchymal-like phenotype was also measured in melanoma tumors via analysis of the six EMT biomarkers, though changes in cancer cell migration to other organs were not significant.
+In the spheroid model, molecular analysis also indicated an EMT response following NTP treatment, and enhanced cell migration was measured in one cell line.
+EMT induction with NTP was dose-dependent and transient; high NTP treatments caused significant EMT response and enhanced migration, but low NTP doses did not.
+Our findings highlight the important role of NTP parameters for cancer treatment and consequential EMT responses.
+The insights obtained here further build the foundation for clinical optimization, harnessing the cancer-killing potential of NTP while safeguarding against undesirable EMT-related outcomes.

@@ -1,0 +1,5 @@
+The proper function of lysosomes depends on their ability to store and release calcium.
+While several lysosomal calcium release channels have been described, how lysosomes replenish their calcium stores in placental mammals has not been determined.
+Using genetic depletion and overexpression techniques combined with electrophysiology and visualization of subcellular ion concentrations and their fluxes across the lysosomal membrane, we show here that TMEM165 imports calcium to the lysosomal lumen and mediates calcium-induced lysosomal proton leakage.
+Accordingly, TMEM165 accelerates the recovery of cells from cytosolic calcium overload thereby enhancing cell survival while causing a significant acidification of the cytosol.
+These data indicate that in addition to its previously identified role in the glycosylation of proteins and lipids in the Golgi, a fraction of TMEM165 localizes on the lysosomal limiting membrane, where its putative calcium/proton antiporter activity plays an essential role in the regulation of intracellular ion homeostasis and cell survival.

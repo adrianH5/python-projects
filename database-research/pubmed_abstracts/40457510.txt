@@ -1,0 +1,3 @@
+To examine the effect of incorporating self-supervised denoising as a pre-processing step for training deep learning (DL) based reconstruction methods on data corrupted by Gaussian noise.
+K-space data employed for training are typically multi-coil and inherently noisy.
+Although DL-based reconstruction methods trained on fully sampled data can enable high reconstruction quality, obtaining large, noise-free datasets is impractical.

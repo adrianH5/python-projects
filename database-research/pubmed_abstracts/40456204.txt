@@ -1,0 +1,7 @@
+Despite advances in treating pediatric malignant tumors like SHH-medulloblastoma (SHH-MB), the current standard of care remains surgery followed by chemo- and radiotherapy.
+This aggressive therapy goes along with a significant morbidity with many long-term side effects, especially in children and adolescents.
+Therefore, more targeted therapies are urgently needed.
+Immunotoxins (ITs) conjugated to tumor-antigen specific antibodies have shown potential for selectively targeting tumor cells.
+In this study, we generated a single chain variable fragment (scFv)-based IT that incorporates a truncated, less immunogenic variant of Pseudomonas Exotoxin A (ETA').
+The IT specifically targets the epidermal growth factor receptor (EGFR), a tumor-associated antigen commonly overexpressed in SHH-MB.
+Wecould demonstrate that this immunotherapeutic approach reduces tumor cell viability and induces apoptosis in MB-cell lines with IC

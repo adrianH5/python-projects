@@ -1,0 +1,7 @@
+Developing nanomedicine delivery systems that respond to endogenous stimuli from the tumor microenvironment for the precise tumor targeting and controlled release of chemotherapeutic drugs has become a promising candidate to enhance cancer therapy.
+Here, we designed a zwitterionic nanogel system (named PMm) with charge-switchable and hypoxia-responsive properties for tumor targeting and on-demand drug release.
+PMm was synthesized through precipitation polymerization, strategically integrating a sulfamide-quaternary ammonium zwitterionic monomer (MPTA) and an azobenzene (azo) based crosslinker (MEFA).
+In the weakly acidic tumor microenvironment, PMm@DOX nanogels underwent a rapid surface charge reversal (to positive) via protonation of imine moieties, promoting deep tumor penetration and cellular uptake.
+Following cellular internalization, hypoxia-activated cleavage of the MEFA crosslinker induced the nanogel disassembly and DOX release, leading to the apoptosis of tumor cells.
+In vitro and in vivo studies demonstrated this dual-responsive nanogel platform synergistically integrated charge-driven targeting and hypoxia-triggered drug release, overcoming the limitations of conventional nanocarriers, enhancing tumor accumulation and showing superior antitumor efficacy.
+By intelligent surface engineering and microenvironmental responsiveness, the PMm@DOX system represents a promising strategy to amplify chemotherapeutic efficacy while minimizing off-target toxicity.

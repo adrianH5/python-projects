@@ -1,0 +1,3 @@
+Chimeric antigen receptor (CAR) T-cell therapies are highly efficacious for several different hematologic cancers.
+However, for most CAR T targets it is observed that low surface antigen density on tumors can significantly reduce therapeutic efficacy.
+Here, we explore this dynamic in the context of CD72, a surface antigen we recently found as a promising target for refractory B-cell cancers, but for which CD72 low antigen density can lead to therapeutic resistance in preclinical models.

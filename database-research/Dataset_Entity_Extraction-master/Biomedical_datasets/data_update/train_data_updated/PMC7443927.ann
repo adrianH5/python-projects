@@ -1,0 +1,14 @@
+T1	Dataset 943 999	Global Initiative on Sharing All Influenza Data [GISAID]
+T2	Dataset 1276 1282	GISAID
+T3	Dataset 1438 1444	GISAID
+T4	Repository 2795 2802	GenBank
+T5	AccessionNumber 2807 2815	MN908947
+T6	Dataset 3138 3151	GISAID EpiCoV
+T7	Dataset 3424 3430	GISAID
+T8	AccessionNumber 3435 3449	EPI_ISL_402125
+T9	Repository 3451 3458	GenBank
+T10	AccessionNumber 3463 3473	MN908947.3
+T11	Dataset 3570 3576	GISAID
+R1	hasAttr	Arg1:T4	Arg2:T5
+R2	hasAttr	Arg1:T7	Arg2:T8
+R3	hasAttr	Arg1:T9	Arg2:T10

@@ -1,0 +1,6 @@
+P53 protein is one of the main cancer biomarkers, and its detection is of great significance for early diagnosis and treatment of various cancers such as breast, rectal, and lung cancer.
+In this paper, a cascaded tapered seven-core fiber (CTSCF) biosensor is proposed for rapid detection of p53 protein.
+The experiment results show that the proposed CTSCF biosensor can effectively detect the p53 protein at concentrations of 0.05-5 ng/mL, and the limit of detection (LoD) can be as low as 0.0496 ng/mL.
+Moreover, the ability of the CTSCF biosensor to detect the p53 protein in 293T cell lysate was validated and compared with traditional western blotting (WB) method.
+The results show that the LoD of the CTSCF biosensor is much lower than that of the WB method.
+The proposed CTSCF biosensor has rapid detection time, good stability and specificity, high sensitivity, and low LoD, which has great potential for application in clinical medicine and pathophysiology.

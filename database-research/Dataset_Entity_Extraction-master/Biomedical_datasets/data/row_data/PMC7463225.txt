@@ -1,0 +1,13 @@
+As of April 30th, 2020 there were approximately 3.1 M confirmed cases of COVID-19 worldwide and more than 217.000 infection-related deaths.
+Therefore, in our study, CFR was calculated as the ratio between the death cases due to COVID-19, over the total number of SARS-CoV-2 reported cases 14 days before, as previously described [11].
+Mortality calculations during the epidemics are difficult, mostly due to calculation biases: during the initial period of the epidemic, many patients were diagnosed with COVID-19 only after developing critical illness or even at the time of death, whereas asymptomatic or paucisymptomatic patients were untested, leading to an underestimation of the denominator [11].
+We chose to analyze the Country-specific data relative to the number of COVID-19 deaths in April 2020, when some of the initial biases were likely attenuated, using the method described [11].
+However, even if the daily number of death patients divided per age is available for each Country, we could not provide in this study a further normalization of the CFR taking into account patients age, since a similar daily database of infected people divided per age is not publicly available.
+A database of 487 genome sequences isolated from patients infected with SARS-CoV-2 in Italy, Spain, Germany, France, UK, Sweden and USA has been randomly collected from the GISAID database, aligned and compared to the SARS-CoV-2 reference genome.
+The only significant difference is the newly emerged mutation nt24368, that in our database was detected only in the genomes analyzed in Sweden.
+Background  Severe acute respiratory syndrome CoV-2 (SARS-CoV-2) caused the first coronavirus disease 2019 (COVID-19) outbreak in China and has become a public health emergency of international concern.
+Case fatality rate was calculated as the ratio between the death cases due to COVID-19, over the total number of SARS-CoV-2 reported cases 14 days before.
+We also analyzed 487 genomic sequences from the GISAID database derived from patients infected by SARS-CoV-2 from January 2020 to April 2020 in Italy, Spain, Germany, France, Sweden, UK and USA.
+SARS-CoV-2 reference genome was obtained from the GenBank database (NC_045512.2).
+We calculated case fatality rates by dividing the death number of a specific day by the number of patients with confirmed COVID-19 infection observed 14 days before and normalized by a ρ factor which takes into account the diagnostic PCR testing capability of each Country and the number of positive cases detected.
+Data available in the GISAID database and in a public repository that does not issue datasets with DOIs.

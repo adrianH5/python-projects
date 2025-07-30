@@ -1,0 +1,11 @@
+Background This study aimed to determine the accuracy of the muscle-retracting sign (MRS) to detect deep submucosal invasion (SMI) in early rectal cancer.
+Methods In this prospective, observational, single-centre study consecutive rectal lesions that underwent endoscopic resection using the pocket-detection method (PDM) between August 2023 and March 2025 were included.
+Directionality of initial submucosal dissection targeted any morphological or surface vascular pattern at risk of deep SMI to attempt MRS identification.
+Histopathology was the reference standard for MRS diagnostic accuracy in detecting deep SMI.
+Results 38 rectal lesions, median size 30 mm (IQR 20), were included.
+PDM for MRS detection was successful in all cases, with MRS-positive in 15/38 (39.5%).
+Deep SMI was confirmed in 15/38 (39.5%).
+Accuracy of MRS-positive for deep SMI detection was 84.2%, (95% CI 69.6-92.6%), sensitivity 80% (95% CI 54.8-92.9%), specificity 87% (95% CI 67.9-95.5%), positive likelihood ratio 6.13, negative likelihood ratio 0.23, area under the curve 0.83 (95% CI: 0.71-0.96).
+The rate of R0 resection was 92.1% (35/38).
+Conclusions MRS detected using the PDM demonstrated moderate-to-high accuracy in predicting deep SMI in early rectal cancer.
+This finding may allow the precise selection of an endoscopic resection strategy based on invasion depth for the minimally invasive treatment of early rectal cancer.

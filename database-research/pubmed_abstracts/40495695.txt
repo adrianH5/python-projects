@@ -1,0 +1,9 @@
+Immune checkpoint blockade (ICB) therapy has revolutionized cancer treatment but only benefits a subset of patients because of insufficient infiltration and inactivation of effector T cells.
+Bacterial outer membrane vesicles (OMVs) can activate immunity and deliver therapeutic agents for immunotherapy.
+However, efficiently targeting and packaging therapeutic molecules into OMVs remains challenging.
+Here, the engineered E. coli BL21-derived OMVs enable the packaging of multiple genes, resulting in a 7-fold increase in DNA enrichment efficiency and gene silencing in vitro.
+Moreover, the engineered OMVs carrying genes encoding CXCL9 and IL12 (OMV-C9I12) reprogram tumor cells to secrete these factors, significantly enhancing T-cell chemotaxis and activation.
+More importantly, this system markedly inhibits tumors, extends survival, and synergizes with anti-PD-1/PD-L1 therapy in murine MB49 and B16F10 tumor models.
+Single-cell RNA sequencing (scRNA-seq) further reveals significant upregulation of T-cell chemotaxis and activation-related pathways following OMV-C9I12 treatment.
+Finally, OMV-C9I12 potentiates T cell-mediated immunotherapy and suppresses the growth of bladder and breast cancer tumors in humanized mouse models.
+These findings highlight the potential of this engineered OMV platform for cancer gene therapy and provide novel strategies to overcome resistance to immunotherapy.

@@ -1,0 +1,9 @@
+The cGAS-STING pathway is a central signalling mechanism in inflammatory responses and can be activated by cisplatin.
+Increased autophagic activity has been linked to cisplatin resistance in non-small cell lung cancer (NSCLC); however, how autophagy-STING interactions influence the cisplatin response remains unclear.
+This study investigates how autophagy modulation affects STING expression and cisplatin sensitivity in NSCLC cells with different basal STING levels.
+Autophagy was inhibited using chloroquine and induced by serum starvation in Calu-1 and H2030 cells.
+In Calu-1 cells, cisplatin treatment increased STING expression, activated the cGAS-STING pathway, and induced interferon responses correlated with cisplatin concentration.
+Autophagy inhibition reduced STING expression and interferon activation while enhancing cisplatin sensitivity.
+Conversely, autophagy induction caused fluctuations in STING expression and decreased cisplatin sensitivity, with ISG15 expression being selectively increased under serum starvation.
+In contrast, H2030 cells exhibited low basal STING expression and showed minimal responses to cisplatin or autophagy modulation.
+These findings suggest that STING expression levels critically influence autophagy-mediated responses to DNA-damaging chemotherapy in NSCLC.

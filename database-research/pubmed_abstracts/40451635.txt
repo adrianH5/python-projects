@@ -1,0 +1,2 @@
+The development of web-based decision support systems that can support the management of symptoms at home may improve patients' quality of life (QoL) and patient outcomes.
+This study aimed to develop a decision support system for symptom self-management (Lymphoma Symptom CARE [LympCARE]) in patients with NHL and to evaluate the effect of the application on symptom management, QoL, and unplanned hospital admissions.

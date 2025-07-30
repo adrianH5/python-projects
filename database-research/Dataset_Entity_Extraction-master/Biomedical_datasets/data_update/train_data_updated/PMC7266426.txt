@@ -1,0 +1,17 @@
+The recent outbreak of the novel coronavirus disease 2019 (COVID-19) and the associated need for vital social practices that reduce further spread have disrupted clinical research functions worldwide [1].
+Ironically, this interruption coincides with an especially critical need for human biospecimen research to better understand the biology of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and the pathology of COVID-19.
+Building a COVID-19 biorepository is a delicate and complex task that requires maximum biosafety measures and minimum interruption in an overburdened clinical delivery system.
+We also feature the earliest outcome of this pipeline, which is the recently reported genomic characterization linking the US and European viral strains, a crucial development in our efforts to combat COVID-19 [3].
+The CBRD adheres to all biosafety level-3 guidelines for COVID-19 collections as outlined by the Center for Disease Control [4].
+To maximize COVID-19 collections, we modified this protocol to prospectively enroll all patients presenting to NYULH with a COVID-19 nasopharyngeal diagnostic test performed into Labvantage.
+The clinical information from enrolled patients is extracted from the electronic medical record and recorded in 107 discrete demographic, medical, and COVID-19-specific data fields (Additional file 1: Appendix S1) in a REDCap [5] database.
+The protocol for COVID-19 biospecimen collections for research at NYULH minimizes interruptions in the delivery of care, includes vital biosafety measures, and maximizes the research potential for banked COVID-19 biospecimens (Fig. 1).
+NYULH saw its first confirmed case of COVID-19 on March 11, 2020.
+In accordance with national and international policies, the IRB approved a waiver of consent to permit COVID-19 biospecimen collection on March 28, 2020.
+Of the first 11,120 patients accrued to the COVID-19 database, 4267 (38.4%) tested positive and approximately 10% required hospitalization.
+We therefore suggest establishing a main biorepository with institutional governance for all patients tested for COVID-19.
+The creation of this resource at NYULH has enriched the community with high-quality patient-linked COVID-19 specimens, which has already contributed to novel findings about SARS-CoV-2 epidemiology [3].
+The outbreak of the novel coronavirus disease 2019 (COVID-19) and consequent social distancing practices have disrupted essential clinical research functions worldwide.
+Ironically, this coincides with an immediate need for research to comprehend the biology of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and the pathology of COVID-19.
+However, building a COVID-19 biorepository amidst the active pandemic is a complex and delicate task.
+Using an amended institutional biobanking protocol, these efforts led to accrual of 11,120 patients presenting for SARS-CoV-2 testing, 4267 (38.4%) of whom tested positive for COVID-19.

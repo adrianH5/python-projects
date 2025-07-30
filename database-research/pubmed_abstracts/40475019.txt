@@ -1,0 +1,10 @@
+Glioblastoma (GBM) is an extremely aggressive brain tumor.
+Its standard treatment currently involves surgery followed by radiotherapy and temozolomide.
+However, recurrence is frequently unavoidable, and the effect of various treatments is not ideal due to numerous inherent obstacles.
+Immunotherapy has demonstrated promising prospects in the management of various cancers.
+Despite several preclinical studies have shown that immunotherapy may improve the survival in GBM mouse model, the results from completed clinical trials reveal that it brings only limited benefit for GBM patients to date.
+Interestingly, several studies have demonstrated that radiotherapy not only eliminates tumor cells by inducing DNA damages but also improves the effect of immunotherapy by modulating immune response.
+Combining immunotherapy with radiotherapy for GBM has been evaluated extensively.
+Herein, we present the immunotherapy applied in GBM and highlight the importance of tumor microenvironment in immunotherapy for GBM.
+Moreover, we review the preclinical and clinical data for applying immunotherapy combined with radiotherapy for GBM.
+Finally, we also discuss the challenges facing combined treatment of immunotherapy and radiotherapy for GBM and further research aspects in the discussion section.

@@ -1,0 +1,13 @@
+Among the various genotypes of the human papillomavirus (HPV), the HPV16 genotype is the most oncogenic by far, and some (sub)lineages may be associated with an increased risk of cancer.
+Thus, characterizing the full genome is important to understand the link between the HPV16 genome variability and its transforming role.
+We set up a multiplex PCR approach combined with Oxford Nanopore Technologies for the HPV16 full-genome characterization.
+The primers were designed with PrimalScheme, and the optimization of the monoplex/multiplex PCR was performed on SiHa cells.
+After library preparation, the sequencing was performed on a GridION sequencing device to determine the sensitivity, the specificity, and the performance of the method.
+Fourteen primer pairs were selected to span the full genome.
+With the monoplex PCR, 12 primer pairs showed good amplification, while a double concentration of two primers was required to improve the amplification.
+We then performed a multiplex PCR approach by generating two pools comprising non-overlapping primer pairs.
+The multiplex PCR showed good sensitivity, allowing the amplification of HPV16 with a Ct value below 27 and providing a coverage greater than 99.9% and a sequencing depth greater than 100×.
+In addition, the specificity of the method was validated by the absence of amplification of other high-risk HPV genotypes compared with HPV16.
+We set up an amplicon-based approach to characterize the full genome and diversity of the HPV16 (sub)lineages.
+This approach shows good sensibility and specificity with limited cost, opening new perspectives in the field of whole-genome HPV sequencing.IMPORTANCEHPV16 is by far the most oncogenic genotype, so characterizing the genetic variability of its genome is important to better understand the link with its transforming role.
+We developed an amplicon-based approach combined with Oxford Nanopore Technologies next-generation sequencing to overlap the HPV16 genome, which is easy to implement in the laboratory and inexpensive in the field.

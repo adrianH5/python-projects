@@ -1,0 +1,19 @@
+Employees in the woodworking industry, including carpentry workshops, wood product factories, and the wooden house industry, are exposed to wood dust at work.
+In Norway, this industry is exempt from regulations banning air recirculation, intended to prevent harmful substance buildup in working environments.
+While wood dust exposure is linked to increased risks of cancer and respiratory diseases, eliminating the exemption could have significant economic consequences for companies reliant on heated air recirculation during winter.
+A detailed characterization of the exposure is needed to evaluate the health risks associated with recirculated air.
+Wood dust contains components like resin acids, endotoxins, fungi, bacteria, monoterpenes, and aldehydes, which can irritate the skin, eyes, and respiratory system.
+Understanding these exposures is crucial for evaluating whether existing occupational exposure limits (OELs) adequately protect workers' health.
+This study aimed to assess wood dust and associated exposures in companies with and without air recirculation or humidification.
+Between 2019 and 2023, full-shift personal aerosol sampling was conducted in 23 companies during winter.
+Samples were analyzed for wood dust mass, endotoxin, bacteria and fungi, resin acid, monoterpenes, and aldehydes.
+Log-transformed exposure data were analyzed by mixed models using company types and work-related conditions as fixed effects.
+Results showed average exposure below OELs but with significant variability.
+About 25% of measurements exceeded the OEL for inhalable wood dust of 1 mg/m3.
+Air recirculation had mixed effects; it lowered the monoterpene exposure by 95% (from GM 597 µg/m3 to GM 27 µg/m3) but increased the GM microbial exposure 2 to 5 times across companies.
+The impact of air recirculation varied across company types.
+For building element production, it nearly doubled the wood dust exposure from soft woods (from GM 0.15 mg/m3 to GM 0.27 mg/m3), while for door/window manufacturers, exposure was nearly halved compared to those not using air recirculation (from GM 0.44 mg/m3 to GM 0.25 mg/m3).
+Air humidification lowered the inhalable dust exposure by 59% across the company (from GM 1.36 mg/m3 to 0.56 mg/m3) but led to increases in monoterpene by 90 % (from GM 86 µg/m3 to GM 792 µg/m3) and microbial exposure by up to 64%.
+Companies manufacturing interior products without a humidification system had resin acid exposure levels that were 10 times higher (GM 3323 ng/m3) compared to those with a humidification system (GM 344 ng/m3).
+The variability in exposures was mostly influenced by company-specific practices.
+Evaluation of preventive measures should therefore be tailored to the individual company.

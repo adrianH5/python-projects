@@ -1,0 +1,5 @@
+We read with interest a recent article in this journal regarding co-infections in people with COVID-19.
+Rapid and simultaneous detection of SARS-CoV-2, the cause of COVID-19, and co-infections is essential for clinical management of COVID-19 patients.
+Detection of SARS-CoV-2 and co-infections in the obtained sequence data was carried out using a combination of publically availably pipelines namely IDseq (idseq.net) and DISCVR (https://bioinformatics.cvr.ac.uk/software/discvr/).
+SARS-CoV-2 was detected in sequence data obtained from all eight RT-PCR positive NTS samples by both IDseq and DISCVR, but not in the NTS sample.
+Notably, the vast majority of SARS-CoV-2 infections are asymptomatic or mild, while COVID-19 patients present with signs/symptoms undistinguished with respiratory diseases caused by other viruses.

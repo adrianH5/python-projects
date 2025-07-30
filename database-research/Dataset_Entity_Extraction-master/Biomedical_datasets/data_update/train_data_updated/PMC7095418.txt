@@ -1,0 +1,6 @@
+By de novo assembly and targeted PCR, we obtained a 29,891-base-pair CoV genome that shared 79.6% sequence identity to SARS-CoV BJ01 (GenBank accession number AY278488.2).
+This sequence has been submitted to GISAID (https://www.gisaid.org/) (accession number EPI_ISL_402124).
+Four more full-length genome sequences of 2019-nCoV (WIV02, WIV05, WIV06 and WIV07) (GISAID accession numbers EPI_ISL_402127–402130) that were more than 99.9% identical to each other were subsequently obtained from four additional patients using next-generation sequencing and PCR (Extended Data Table 2).
+We carried out full-length sequencing on this RNA sample (GISAID accession number EPI_ISL_402131).
+We demonstrate that all samples were able to neutralize 100 TCID50 (50% tissue-culture-infective dose) of 2019-nCoV at a dilution of 1:40–1:80.
+Sequence data that support the findings of this study have been deposited in GISAID (https://www.gisaid.org/) with accession numbers EPI_ISL_402124, EPI_ISL_402127–EPI_ISL_402130 and EPI_ISL_402131; GenBank with accession numbers MN996527–MN996532; National Genomics Data Center, Beijing Institute of Genomics, Chinese Academy of Sciences (https://bigd.big.ac.cn/databases?lang=en) with accession numbers SAMC133236–SAMC133240 and SAMC133252.

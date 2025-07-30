@@ -1,0 +1,3 @@
+It was found that 33.8-52.5% of patients experienced nausea and vomiting after Transcatheter Arterial Chemoembolization (TACE) for liver cancer, based on prior literature.
+But there are no models that predict this risk.
+In this study, we investigated the factors associated with nausea and vomiting after TACE and developed a predictive model to predict these adverse events.

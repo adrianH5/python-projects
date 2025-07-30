@@ -1,0 +1,7 @@
+Cancer research in animal models is critical for understanding disease mechanisms and testing potential therapies.
+Among the various models, zebrafish (Danio rerio) has gained prominence due to its genetic similarity to humans, rapid development, and transparency during early stages.
+The objective of this article is to explore the zebrafish as a powerful model for studying cancer, particularly focusing on the role of oxidative stress (OS) and genetic factors (oncogenes, tumor suppressor genes) in cancer progression.
+The interaction between oxidative stress, DNA damage, and genetic mutations is examined, highlighting how these processes contribute to tumor formation.
+Additionally, the study investigates the various behavioral tests used to assess the effects of carcinogenic and non-carcinogenic substances, such as sodium arsenate (As(V), N-ethyl-N-nitrosourea (ENU), dimethylbenzanthracene (DMBA), N-methyl-N1-nitro-N-nitrosoguanidine (MNNG), Atrazine and Methylmercury (MeHg) on zebrafish cognitive functions.
+The review included 170 papers published in English up to December 2024 and was conducted in accordance with PRISMA guidelines, using multiple electronic databases (Science Direct, PubMed and Google Scholar) to perform a comprehensive and systematic search using keywords.
+Through this approach, zebrafish emerge as a versatile model for cancer research, offering insights into both the physiological and behavioral impacts of chemical exposures.

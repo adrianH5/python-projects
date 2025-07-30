@@ -1,0 +1,9 @@
+Bone metastasis is the second most common site of distant metastatic spread in renal cell carcinoma (RCC) patients, significantly contributing to cancer-related mortality.
+The metastatic process is driven by both intrinsic tumor cell properties, such as cancer stem cell-like characteristics, and the bone microenvironment.
+Understanding the complex interactions between cancer cells and their niche is crucial for identifying therapeutic targets to eliminate metastasis-initiating cells and prevent overt metastasis.
+In this study, a murine bone metastasis model is developed using renal cancer cells derived from fibrin gel-induced 3D tumor spheres, which exhibit stem-like phenotypes.
+It is found that a stable form of vitamin C, L-ascorbic acid 2-phosphate sesquimagnesium (APM), significantly inhibits the growth of renal cancer stem-like cells in vitro and the progression of RCC bone metastasis in vivo.
+Single-cell RNA sequencing revealed that APM induces cell cycle arrest and reduces the metastatic potential of cancer cells.
+Furthermore, APM remodels the tumor microenvironment by suppressing osteoclast differentiation and neutrophil recruitment.
+Combining APM with a CXCR2 antagonist, SB225002, further inhibits bone metastasis progression.
+This study provides a high-resolution profile of vitamin C's antitumor effects in the bone metastatic microenvironment and supports the rationale for clinical trials of vitamin C in bone metastatic RCC.

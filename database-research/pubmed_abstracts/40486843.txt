@@ -1,0 +1,4 @@
+Most cancers are currently incurable, partly due to abnormal post-translational modifications (PTMs).
+In this study, we initially used multiple myeloma (MM) as a working model and found that SUMOylation activating enzyme subunit 1 (SAE1) promotes the malignancy of MM.
+Through proteome microarray analysis, SAE1 was identified as a potential target for bioactive colcemid or its derivative colchicine.
+Elevated levels of SAE1 were associated with poor clinical survival and increased MM proliferation

@@ -1,0 +1,8 @@
+Interleukin-1 receptor antagonist (IL1RA) is an anti-inflammatory and anti-tumor protein, and a member of the Interleukin-1 (IL-1) family.
+Our previous finding showed that IL1RA is a tumor marker for oral squamous cell carcinoma (OSCC), but the exact mechanism is unknown.
+The present study aims to investigate the biological role of IL1RA in the progression of OSCC in vitro and in vivo and the underlying molecular mechanism.
+IL1RA was lowly expressed in OSCC specimens and cells, and its overexpression significantly inhibited the proliferation and migration of OSCC cell lines CAL27 and HN6.
+In nude mice bearing OSCC xenografts, in vivo overexpression of IL1RA significantly reduced tumor growth without influencing epithelial-mesenchymal transition (EMT).
+Differentially expressed genes (DEGs) in OSCC cells overexpressing IL1RA were identified by RNA sequencing (RNA-seq), and they were significantly enriched in cancer-associated signaling pathways like type I interferon response.
+IL1RA upregulated interferon alpha (IFNA) and interferon beta (IFNB), known for their anti-cancer properties, in OSCC cells and specimens.
+In conclusion, IL1RA inhibits the malignant progression of OSCC by mediating the type I interferon response.

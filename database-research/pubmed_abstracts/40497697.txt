@@ -1,0 +1,8 @@
+Almost half of patients with triple-negative breast cancer (TNBC) develop distant metastases, heralding unfavorable outcomes.
+Here we provide novel insights into the contribution of the PI3K-mTOR pathway to the TNBC phenotypes that promote growth, migration, metastasis, and therapy resistance.
+Specifically, we demonstrate that dual targeting of PI3K and mTOR but not PI3K alone inhibits cancer cell proliferation and migration in vitro.
+Dual PI3K-mTOR inhibition with paxalisib not only promotes a favorable mesenchymal to epithelial phenotype but also inhibits signatures associated with MICs, including the highly aggressive CSC phenotype, persister cancer cell phenotype (p65, FOXQ1, NRF2, NNMT), and a cancer drug resistance signature (ABCB5, SNAIL, ALDH1).
+In vivo, paxalisib overcomes immunotherapy resistance to reduce primary tumor burden, circulating tumor cells, and direct and indirect indicators of metastasis with a favorable toxicity profile.
+Gene expression and spatial analyses show that paxalisib profoundly affects the immune microenvironment in tumors, reducing adaptive immune phenotypes associated with immunotherapy resistance (exhausted T cells, Tregs) and pro-tumor innate immune populations such as mast cells.
+PI3K-mTOR blockade acts upstream of EZH2, impacting both the classical repressive catalytic p85β-EZH2-H27ME3 and active EZH2-NFκB pathways.
+Our data suggest that dual targeting of the PI3K-mTOR pathway disrupts both the catalytic and non-catalytic axes of EZH2 to inhibit metastasis and enhance cancer immune visibility, potentially increasing the utility of immunotherapy in resistant individuals.

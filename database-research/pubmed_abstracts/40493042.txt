@@ -1,0 +1,3 @@
+Magnetic actuation of endoscopes is promising-as the endoscope can be pulled from its front.
+Our team developed a novel Magnetic Flexible Endoscope (MFE) that uses magnetic field sensing, robotic control, and real-time image processing for colonoscopy.
+We conducted a Phase 1 first-in-human clinical trial to assess platform safety and tolerability.

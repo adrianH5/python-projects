@@ -1,0 +1,11 @@
+Per- and polyfluoroalkyl substances (PFAS) are persistent and widespread contaminants.
+Epidemiological effects of PFAS include increased serum cholesterol, decreased immune response to vaccination and disease, and increased incidence of cancer; however, PFAS modes of action remain unclear.
+Herein, we analyzed gene expression data from human liver spheroids that were exposed to several concentrations of 24 different PFAS.
+Benchmark concentration (BMC) response modeling was used to identify the 250 lowest gene BMCs for each PFAS.
+Hierarchical clustering analysis revealed four functionally diverse gene sets.
+Each gene set was affected by a distinct group of PFAS, while individual PFAS were usually part of more than one PFAS group.
+The biological roles of these gene sets relate to: 1) cholesterol biogenesis and cholesterol clearance (downregulated by 7 fluorocarbon or longer PFAS), putatively through discordance of cholesterol sensing by SCAP and LXR due to membrane integration of PFAS; 2) lipolysis (upregulated by 8 carbon or shorter PFAS); 3) innate immunity (downregulated by most PFAS); and 4) adaptive immunity (downregulated by sulfonate type PFAS).
+The distinctions between the four PFAS groups suggests that PFAS can act through at least four independent mechanisms.
+The molecular characteristics of each PFAS group may by useful for understanding the molecular interactions leading to their effect on gene expression.
+That some PFAS congeners are included in more than one PFAS group suggests that individual PFAS can act through multiple unrelated molecular interactions.
+This transcriptomic analysis offers a major advancement to the understanding of the molecular mechanisms underlying the effects of PFAS exposure, and provides guidance for future work that may strengthen links between PFAS exposure and their proposed effects on human health.

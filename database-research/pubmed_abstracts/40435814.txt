@@ -1,0 +1,7 @@
+Drainage tube (DT) intubation is frequently accompanied by distressing and even life-threatening complications.
+Herein, we engineer a peritoneum-inspired adaptive hydrogel sheath orchestrating long-term lubrication and broad-spectrum antibacterial properties onto the commercially-available DT surface for safe medical intervention.
+A thin conformal hydrogel sheath is formed by constructing the semi-interpenetrating hydrogel network to serve as the hydration layer, mimicking the lubricative peritoneal fluid layer of the peritoneum.
+The exposed protonated amino group of the semi-interpenetrating hydrogel network imparts the hydrogel sheath with an intrinsic antibacterial capacity, imitating the peritoneal inherent immunoregulatory function that resists bacterial invasion.
+The resultant hydrogel sheath exhibits the long-term lubricity, prominent broad-spectrum antibacterial property, remarkable robustness in various harsh environments, and excellent antifouling property without comprising biocompatibility.
+As demonstrated by an in vivo rabbit model of peritoneal drainage, the application of the hydrogel sheath on DT not only alleviates skin tissue trauma and inflammation effectively, but also inhibits bacterial invasion to avoid potential infection.
+The current work opens a valuable avenue to develop the functional DT to meet clinical needs.

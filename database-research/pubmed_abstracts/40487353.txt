@@ -1,0 +1,7 @@
+Circular RNAs (circRNAs) are stable noncoding RNAs that play a crucial role in neurodegenerative diseases, and they have been implicated in the pathogenesis of postoperative cognitive dysfunction (POCD).
+However, their underlying molecular mechanisms in POCD remain poorly understood.
+This study identified hsa_circRNA_061570 as significantly upregulated in plasma after anesthesia/surgery using high-throughput circRNA microarray screening, correlating with cognitive decline.
+Its murine homolog, circITSN1, was further investigated using shRNA-mediated knockdown in the hippocampus.
+Behavioral tests (open field, Y maze, and fear conditioning) revealed that circITSN1 suppression improved spatial and contextual memory without affecting motor function.
+Neuronal damage analysis via Golgi staining demonstrated that circITSN1 knockdown alleviated synaptic and dendritic spine impairments.
+Mechanistically, circITSN1 directly bound to RNA-binding protein EIF4A3, stabilizing

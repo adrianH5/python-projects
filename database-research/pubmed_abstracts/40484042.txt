@@ -1,0 +1,4 @@
+Pancreatic cancer is a highly aggressive malignancy with poor prognosis and high mortality rates.
+KRAS mutations are ubiquitous in pancreatic cancer and drive tumorigenesis by promoting uncontrolled cell proliferation, survival, and metastasis.
+Therefore, identifying therapeutic agents effective against KRAS-mutant pancreatic cancer are urgent.
+Erianin, a benzyl compound isolated from Dendrobium candidum, exhibited potent cytotoxicity in KRAS-mutant pancreatic cancer cells (PANC-1: IC

@@ -1,0 +1,11 @@
+Sideroflexin 1 (SFXN1), a newly identified mitochondrial serine transporter, exhibits great potential to modulate mitochondrial function and promote tumor development.
+However, its role in bladder cancer (BLCA) remains unclear.
+Our study revealed that SFXN1 was enriched in clinical BLCA tissues, and high SFXN1 expression in BLCA was positively associated with the progression and poor prognosis.
+Further, SFXN1 deficiency remarkably suppressed the proliferation and metastasis of BLCA cells in vitro and in vivo, indicating an oncogenic role of SFXN1 in BLCA.
+Additionally, our results demonstrated that SFXN1 promotes metastasis through its unknown function of restraining PINK1 (PTEN-induced kinase 1)-dependent mitophagy rather than its classical role as a mitochondrial serine transporter to mediate one-carbon metabolism.
+Mechanistically, SFXN1 acted as a bridge to promote PINK1 degradation by interacting with PARL (presenilin-associated rhomboid-like protein) and MPP-β (mitochondrial processing peptidase-β), leading to mitophagy arrest.
+Notably, when mitophagy was restrained by highly-expressed SFXN1, mitochondrial reactive oxygen species were considerably enriched, thus activating TGF-β (transforming growth factor-β)-mediated epithelial-mesenchymal transition and promoting metastasis of BLCA cells.
+This study highlights SFXN1 as a novel promising therapeutic target for BLCA and identifies a new mitophagic modulator to improve our understanding of an association between mitophagy and BLCA progression.
+Schematic diagram of the proposed mechanism by which SFXN1 promotes bladder cancer metastasis by restraining PINK1-dependent mitophagy.
+SFXN1 is upregulated in BLCA tissues, and promotes BLCA metastasis through its unrevealed function of restraining PINK1-dependent mitophagy rather than its classical role as a mitochondrial serine transporter to promote cell proliferation.
+Specifically, SFXN1 acted as an essential bridging factor to promote PINK1 degradation by interacting with PARL and MPP-β on the IMM, leading to mitophagy arrest and mtROS accumulation, thus activated TGF-β-mediated EMT and promoted BLCA metastasis (This figure was created by Figdraw).

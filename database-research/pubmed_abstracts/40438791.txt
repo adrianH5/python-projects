@@ -1,0 +1,5 @@
+Cancer treatments often lose effectiveness as tumors develop resistance to single-agent therapies.
+Combination treatments can overcome this limitation, but the overwhelming combinatorial space of drug-dose interactions makes exhaustive experimental testing impractical.
+Data-driven methods, such as machine and deep learning, have emerged as promising tools to predict synergistic drug combinations.
+In this work, we systematically investigate the use of categorical embeddings within Deep Neural Networks to enhance drug synergy predictions.
+These learned and transferable encodings capture similarities between the elements of each category, demonstrating particular utility in scarce data scenarios.

@@ -1,0 +1,9 @@
+Ovarian cancer remains a challenging malignancy to diagnose and manage, with prognosis heavily dependent on the stage at detection.
+Accurate grading and staging, primarily based on histopathological examination of biopsy tissue samples, are crucial for treatment planning and predicting outcomes.
+However, this manual process is time-consuming and subject to inter-observer variability among pathologists.
+The increasing volume of digital histopathology slides necessitates the development of robust, automated methods to assist in this critical diagnostic step for ovarian cancer.
+(Methods) This study presents a deep learning framework for the automated prediction of ovarian cancer stage (classified into five categories: 0, I, II, III, IV) using routine histopathological images.
+We employed a transfer learning approach, fine-tuning a ResNet-101 convolutional neural network pre-trained on ImageNet.
+The training process incorporated comprehensive data augmentation, weighted random sampling, and class weighting to address dataset characteristics.
+Hyperparameter optimization for learning rate, dropout rate, and weight decay was performed using a genetic algorithm to enhance model performance and generalization.
+(Results) Evaluated on an independent test set of ovarian thin tissue brightfield images, the developed model achieved a high overall classification accuracy of 97.62%.

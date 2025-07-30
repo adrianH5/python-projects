@@ -1,0 +1,11 @@
+This study aimed to investigate the target genes of active components in Dingxiang Guanshitong (DGST) and evaluate their significance in the prognosis of esophageal cancer (EC) through integrated approaches, including network pharmacology, molecular docking, prognostic analysis, and in vitro experiments.
+EC-related data were obtained from TCGA database, while SymMap and TCMSP databases were utilized to identify DGST's bioactive components and their targets.
+A comprehensive network was constructed to map component-target-pathway interactions.
+Bioinformatics analysis revealed 113 key signaling pathways and 424 differentially expressed targets associated with DGST and EC.
+Univariate Cox regression analysis identified 21 target genes significantly correlated with overall survival (OS) in EC patients, among which six exhibited pharmacological activity.
+Molecular docking confirmed strong binding affinities between DGST's active components and critical targets.
+In vitro experiments demonstrated that DGST suppressed migration, invasion, and proliferation of TE-1 and EC-109 cell lines while promoting apoptosis.
+Furthermore, DGST significantly upregulated the protein and mRNA expression of the prognostic factor NFKBIA, while downregulating GPER1, HK2, MAOB, TNFRSF10B, and ECE1.
+This study is the first to elucidate the molecular mechanisms underlying DGST's anti-EC effects.
+DGST exerts its anti-cancer activity by targeting prognosis-related genes and modulating the expression of critical molecular markers, thereby inhibiting EC progression and improving therapeutic outcomes.
+These findings provide a robust scientific foundation for the clinical application of DGST and further exploration of its mechanistic basis.

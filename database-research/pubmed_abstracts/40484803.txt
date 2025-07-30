@@ -1,0 +1,7 @@
+Electrohydrodynamic direct writing (EHDDW) has demonstrated significant advantages in fabricating high-resolution structures for biomedical applications.
+However, the limited biopolymers for thick architectures and the low geometric complexity constrain the broader application of EHDDW.
+Here, an electrohydrodynamic liquid bridge (ELB) printing method is reported that expands the boundaries of available materials and structural complexities in EHDDW, while retaining its high-resolution capabilities.
+This method employs an ELB for stable and controllable deposition of tiny ink, coupled with in situ UV illumination for the rapid solidification of the ink.
+ELB printing allows to fabricate a variety of synthetic and natural biopolymers into solid or hydrogel architectures with heights of 5 mm and a resolution of up to 20 µm, while also facilitating the creation of complex geometries with intricate internal structures.
+The application of ELB printing in producing advanced scaffolds is further demonstrated, including 4D-printed anisotropic cylinders and highly porous, cartilage-biomimetic hydrogels.
+The ELB printing provides a versatile and high-resolution technique for scaffold fabrication in tissue engineering.

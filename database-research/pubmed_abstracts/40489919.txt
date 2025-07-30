@@ -1,0 +1,11 @@
+Lung cancer remains the leading cause of cancer-related mortality worldwide, with non-small cell lung cancer (NSCLC) accounting for most cases.
+Among NSCLC patients, approximately 15-30 % harbor activating mutations in the Epidermal Growth Factor Receptor (EGFR), making them eligible for treatment with tyrosine kinase inhibitors (TKIs) like osimertinib, which has shown significant therapeutic benefits.
+However, acquired resistance to these therapies remains a major challenge in improving long-term clinical outcomes, underscoring the urgent need for novel strategies to address treatment resistance.
+In this study, we investigated the therapeutic potential of Amiloride (MK-870), a sodium channel inhibitor, as an adjuvant to EGFR-targeted therapies for NSCLC.
+Our findings demonstrate that MK-870 exhibits synergistic effects with EGFR PROTACs and small-molecule inhibitors, significantly enhancing antitumor activity in NSCLC cell lines.
+We identified α-ENaC (encoded by SCNN1A) as a key regulator of EGFR stability, with high α-ENaC expression correlating with reduced sensitivity to EGFR.
+MK-870 achieves dual downregulation of EGFR at both transcriptional and protein levels via targeted inhibition of sodium channel proteins.
+Furthermore, MK-870 enhances lysosomal activity in multiple NSCLC cell lines and EGFR-overexpressing NIH/3 T3 cells-a phenomenon potentially linked to its inhibition of sodium‑hydrogen exchanger (NHE) to promote cellular acidification.
+Mechanistically, the resultant acidification promotes apoptosis while simultaneously enhancing lysosome-mediated degradation of EGFR proteins by PROTAC molecules.
+Collectively, MK-870 synergizes with EGFR-targeting agents through coordinated modulation of sodium channel proteins and NHE-mediated pH homeostasis.
+These novel insights highlight MK-870 as a promising adjuvant for overcoming EGFR-targeted therapeutic resistance in NSCLC, offering a new avenue for improving patient outcomes in this challenging disease.

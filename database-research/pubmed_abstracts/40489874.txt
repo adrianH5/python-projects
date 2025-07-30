@@ -1,0 +1,12 @@
+The plasma lipidome has been found to be closely related to inflammation, obesity, aging, and other diseases, including various cancers.
+However, the causal relationship between specific plasma lipid species and the risk of urological cancers remains unclear.
+This study aimed to investigate the causal relationship between 179 lipid species and 3 common types of urological cancers using a two-sample Mendelian randomization (MR) approach.
+Large-scale genome-wide association study datasets of 179 lipid species were analyzed to evaluate the association between the plasma lipidome and urological cancers, including bladder cancer, kidney cancer, and prostate cancer.
+The inverse variance weighted method was employed as the primary analysis approach, supplemented by MR-Egger regression, weighted median, weighted mode, and simple mode methods to ensure the reliability of the findings.
+Sensitivity analyses, including Cochran Q test, MR-Egger intercept test, MR Pleiotropy Residual Sum And Outlier, and leave-one-out analysis, were performed to assess the stability and robustness of the causal relationship.
+The inverse variance weighted analysis showed that higher levels of sterol ester (SE) (27:1/16:0) and other plasma lipidome were causally associated with increased bladder cancer risk.
+Similarly, elevated levels of phosphatidylcholine (16:0_22:6) and others were linked to increased kidney cancer risk.
+For prostate cancer, higher levels of SE (27:1/17:0) and others were associated with increased risk, while higher levels of SE (27:1/18:2) and others were associated with decreased risk.
+The study provides strong evidence for the causal relationships between plasma lipidome and bladder, kidney, and prostate cancers.
+These findings illuminate complex lipid metabolism pathways in urinary system cancer etiology and highlight specific lipid structures' differential impact on cancer risk.
+This research lays a foundation for further exploring biological mechanisms and developing early screening tools and targeted therapies for urological cancers.

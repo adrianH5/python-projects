@@ -1,0 +1,4 @@
+Abstract  Coronavirus Disease 2019 (COVID-19) is a sudden viral contagion that appeared at the end of last year in Wuhan city, the Chinese province of Hubei, China.
+The fast spread of COVID-19 has led to a dangerous threat to worldwide health.
+In this research, an automated system is created to differentiate between the COVID-19, SARS-CoV and MERS-CoV epidemics by using their genomic sequences recorded in the NCBI GenBank in order to facilitate the diagnosis process and increase the accuracy of disease detection in less time.
+The selected database contains 76 genes for each epidemic.

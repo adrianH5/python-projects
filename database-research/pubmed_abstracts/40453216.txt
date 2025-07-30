@@ -1,0 +1,8 @@
+Modern biomedical datasets are often high-dimensional at multiple levels of biological organization.
+Practitioners must therefore grapple with data to estimate sparse or low-rank structures so as to adhere to the principle of parsimony.
+Further complicating matters is the presence of groups in data, each of which may have distinct associations with explanatory variables or be characterized by fundamentally different covariates.
+These themes in data analysis are explored in the context of classification.
+Vertex Discriminant Analysis (VDA) offers flexible linear and nonlinear models for classification that generalize the advantages of support vector machines to data with multiple classes.
+The proximal distance principle, which leverages projection and proximal operators in the design of practical algorithms, handily facilitates variable selection in VDA via nonconvex distance-to-set penalties directly controlling the number of active variables.
+Two flavors of sparse VDA are developed to address data in which instances may be homogeneous or heterogeneous with respect to predictors characterizing classes.
+Empirical studies illustrate how VDA is adapted to class-specific variable selection on simulated and real datasets, with an emphasis on applications to cancer classification via gene expression patterns.

@@ -1,0 +1,5 @@
+Immunotherapy has revolutionized the oncology treatment paradigm, and CAR-T cell therapy in particular represents a significant milestone in treating hematological malignancies.
+Nevertheless, tumor resistance due to target heterogeneity or mutation remains a Gordian knot for immunotherapy.
+This review elucidates molecular mechanisms and therapeutic potential of next-generation immunotherapeutic tools spanning genetically engineered immune cells, multi-specific antibodies, and cell engagers, emphasizing multi-targeting strategies to enhance personalized immunotherapy efficacy.
+Development of logic gate modulation-based circuits, adapter-mediated CARs, multi-specific antibodies, and cell engagers could minimize adverse effects while recognizing tumor signals.
+Ultimately, we highlight gene delivery, gene editing, and other technologies facilitating tailored immunotherapy, and discuss the promising prospects of artificial intelligence in gene-edited immune cells.

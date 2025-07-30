@@ -1,0 +1,48 @@
+T1	Dataset 304 310	GISAID
+T2	Creator 312 343	Elbe and Buckland-Merrett, 2017
+T3	Dataset 466 472	GISAID
+T4	Dataset 851 857	GISAID
+T5	Dataset 949 955	GISAID
+T6	Dataset 1295 1301	GISAID
+T7	Dataset 1444 1450	GISAID
+T8	Dataset 1672 1678	GISAID
+T9	Dataset 1824 1830	GISAID
+T10	Repository 1909 1916	GenBank
+T11	AccessionNumber 1919 1927	MN908947
+T12	Repository 1995 2002	GenBank
+T13	AccessionNumber 2004 2012	MN996532
+T14	Repository 2079 2086	GenBank
+T15	AccessionNumber 2088 2096	AY278741
+T16	Repository 2104 2111	GenBank
+T17	AccessionNumber 2113 2121	KF367457
+T18	Repository 2165 2172	GenBank
+T19	AccessionNumber 2174 2182	KF569996
+T20	Repository 2189 2196	GenBank
+T21	AccessionNumber 2198 2206	DQ071615
+T22	Repository 2216 2223	GenBank
+T23	AccessionNumber 2225 2233	DQ022305
+T24	Repository 2240 2247	GenBank
+T25	AccessionNumber 2249 2257	DQ412042
+T26	Repository 2266 2273	GenBank
+T27	AccessionNumber 2275 2283	MG772934
+T28	Repository 2291 2298	GenBank
+T29	AccessionNumber 2300 2308	MG772933
+T30	Repository 2323 2330	GenBank
+T31	AccessionNumber 2332 2340	NC014470
+T32	Dataset 2492 2498	GISAID
+T33	Dataset 2614 2620	GISAID
+T34	Dataset 2697 2703	GISAID
+T35	Dataset 3092 3098	GISAID
+T36	Dataset 3198 3204	GISAID
+T37	URL 3438 3545	https://github.com/jbloomlab/SARS-CoV-2-RBD_DMS/blob/master/data/plasmid_maps/2736_HDM_IDTSpike_EcoKozak.gb
+R1	hasAttr	Arg1:T10	Arg2:T11
+R2	hasAttr	Arg1:T12	Arg2:T13
+R3	hasAttr	Arg1:T14	Arg2:T15
+R4	hasAttr	Arg1:T16	Arg2:T17
+R5	hasAttr	Arg1:T18	Arg2:T19
+R6	hasAttr	Arg1:T20	Arg2:T21
+R7	hasAttr	Arg1:T22	Arg2:T23
+R8	hasAttr	Arg1:T24	Arg2:T25
+R9	hasAttr	Arg1:T26	Arg2:T27
+R10	hasAttr	Arg1:T28	Arg2:T29
+R11	hasAttr	Arg1:T30	Arg2:T31

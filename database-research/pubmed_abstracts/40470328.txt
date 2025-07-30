@@ -1,0 +1,4 @@
+Late-stage functionalization is an attractive strategy that allows chemists to bypass lengthy synthetic processes, facilitating the rapid generation of drug analogs with potentially enhanced pharmacokinetic and pharmacological properties.
+This study describes a novel approach for cross-dehydrogenative oxyalkylation, leveraging a unique γ-ray-enabled photoredox process to generate oxyalkyl radicals, followed by a Minisci-type addition in an aqueous solution.
+The metal- and oxidant-free aqueous conditions, coupled with excellent functional group compatibility, establish this method as a versatile protocol for the late-stage oxyalkylation of unprotected, structurally complex drug molecules.
+Notably, this method demonstrated improved pharmacokinetics in hydroxymethylated fibroblast activation protein inhibitor (FAPI) molecules, highlighting its potential to accelerate drug discovery efforts.

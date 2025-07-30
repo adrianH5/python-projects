@@ -1,0 +1,8 @@
+Mast cells (MCs) are tissue resident immune cells which are best known for their detrimental role in allergy.
+Increasing evidence indicates that MCs are also central to the pathogenesis of chronic urticaria.
+Abnormal increase in MC burden, in most cases driven by gain-of-function mutations in the receptor KIT, can also lead to mastocytosis, a potentially severe malignant disease.
+Thus, MCs represent important therapeutic targets in all these diseases, and likely in a number of additional inflammatory conditions.
+In recent years, several monoclonal antibodies (mAbs) and small molecule inhibitors have been developed to directly target MCs or their mediators.
+Some of these therapeutics, including antagonists of the receptor MRGPRX2, tyrosine kinase inhibitors, anti-Siglec-6 and anti-KIT mAbs are now undergoing clinical evaluation.
+In this review, we describe the main mechanisms leading to MC activation, and their known functions in allergic diseases, chronic urticaria and mastocytosis.
+We then discuss recent preclinical and clinical data obtained with novel biologics aimed at targeting MCs in these diseases.

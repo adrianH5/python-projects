@@ -1,0 +1,11 @@
+Specific-pathogen-free (SPF) mice are widely used in biomedical research to model human infections.
+However, these animals do not always accurately recapitulate human immune responses.
+This is due, in part, to their lack of infection history.
+A growing number of studies show that the host microbiome influences the development, progression, and responses of many diseases.
+To date, the majority of research on the microbiome has focused on the bacterial populations and less on the eukaryotic virome of the host.
+Here, we characterize a transmission model where SPF mice are exposed to natural mouse pathogens at physiologic doses and routes.
+We found that pet store mice acquired from different sources have distinct viromes and infection histories.
+We also found significant heterogeneity in the kinetics of the transmission of natural mouse viruses.
+A common virus found in our model was murine Kobuvirus.
+Surprisingly, murine Kobuvirus infection was found in the glandular stomach epithelia and not intestinal epithelia like other enteric picornaviruses.
+Together, these data characterize the heterogeneity of the dirty mouse cohousing system and provide a foundation for studying the biology of natural mouse viruses.

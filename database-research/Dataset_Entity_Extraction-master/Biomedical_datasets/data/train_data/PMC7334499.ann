@@ -1,0 +1,13 @@
+T1	Repository 472 495	Protein Data Bank [PDB]
+T2	AccessionNumber 504 508	2ajf
+T3	Repository 528 531	PDB
+T4	AccessionNumber 540 544	6m0j
+T5	Repository 565 568	PDB
+T6	AccessionNumber 577 581	4l72
+T7	Repository 716 719	PDB
+T8	AccessionNumber 728 732	6vxx
+T9	Repository 764 767	PDB
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T5	Arg2:T6
+R4	hasAttr	Arg1:T7	Arg2:T8

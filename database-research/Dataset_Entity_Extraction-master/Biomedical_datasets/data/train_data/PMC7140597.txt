@@ -1,0 +1,11 @@
+An outbreak of a viral respiratory illness (officially named by the World Health Organization coronavirus disease, COVID-19) caused by the newly discovered severe acute respiratory syndrome coronavirus (SARS-CoV-2), started around mid-December 2019, in the city of Wuhan, Hubei province, China [1].
+The outbreak subsequently spread further and as at 31 March 2020, 750,890 cases of COVID-19 have been confirmed worldwide including 668,345 outside China [2].
+Since 20 February 2020, sustained local transmission has been documented in Italy [3], where to date, 98,716 COVID-19 cases testing positive for SARS-CoV-2 have been diagnosed, with 10,943 deaths [4].
+The reads were trimmed for quality and length and assembled by mapping to the reference genome from Wuhan, China (GenBank accession number: NC_045512.2) using Geneious Prime (www.geneious.com) [5].
+Viral sequences from the two patients were deposited in the Global Initiative on Sharing All Influenza Data (GISAID; https://www.gisaid.org/epiflu-applications/next-hcov-19-app/
+).
+To analyse the obtained SARS-CoV-2 genomes respectively derived from the infected Chinese tourist (GISAID accession ID: EPI_ISL_412974) and the Italian patient (GISAID accession ID: EPI_ISL_412973) in a phylogenetic context, a dataset of 40 available SARS-Cov-2 complete genomes from different countries was retrieved from GISAID (https://www.gisaid.org/, last access 2 March 2020; Supplementary material).
+The viral genome sequence of the Chinese tourist (GISAID accession ID: EPI_ISL_412974) was identical to that retrieved from one sample of another Chinese tourist, hospitalised at the same hospital in Rome (GISAID accession ID: EPI_ISL_410546).
+The latter was closely related to that of another sample taken from the same patient (GISAID accession ID: EPI_ISL_410545).
+The genome-wide SNPs are reported in Table 1 (positions referred respect to the reference sequence; GenBank accession number: NC_045512).
+The genome sequence from the Chinese tourist hospitalised in Rome differed in two nt positions from that of the COVID-19 patient in Wuhan (NC_045512), while the genome sequence isolated from the Italian patient showed four nt variations (Table 1).

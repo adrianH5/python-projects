@@ -1,0 +1,15 @@
+Efferocytosis, the process by which phagocytes like macrophages and dendritic cells clear apoptotic cells, is crucial for maintaining tissue homeostasis.
+However, its function in bladder cancer (BLCA) remains unclear and warrants further exploration.
+This study seeks to establish a prognostic and treatment response signature based on efferocytosis-related genes (EFRGs) for bladder cancer patients.
+BLCA-related datasets were sourced from the Cancer Genome Atlas (TCGA, https://portal.gdc.cancer.gov/ ) and the Gene Expression Omnibus (GEO, https://www.ncbi.nlm.nih.gov/geo/ ).
+A comprehensive analysis was performed on 28 prognostic EFRGs.
+Clustering analysis was carried out using ConsensusClusterPlus.
+Prognostic differentially expressed genes (DEGs) were identified based on expression variations across the subtypes.
+A prognostic model was subsequently developed using least absolute shrinkage and selection operator (LASSO) and multivariate Cox regression.
+Lastly, a thorough analysis was conducted to explore the relationship between risk scores and the tumor immune microenvironment, somatic mutations, as well as responses to immunotherapy and chemotherapy.
+Consensus clustering revealed two efferocytosis subtypes, Cluster A and Cluster B, and identified 61 prognostic DEGs between them.
+A risk scoring model, incorporating four key DEGs-SERPINE2, DPYSL3, CTSE, and KRT16-was constructed and validated.
+This model successfully stratified patients into high-risk and low-risk groups, with high-risk patients showing worse prognosis, increased immune infiltration, and higher immune checkpoint gene expression.
+The risk scores also provide insights into patient responsiveness to treatment.
+In conclusion, we identified four key genes-SERPINE2, DPYSL3, CTSE, and KRT16-that can be used to develop a prognostic model for bladder cancer.
+These findings may provide valuable molecular targets for the clinical diagnosis and therapeutic strategies of bladder cancer.

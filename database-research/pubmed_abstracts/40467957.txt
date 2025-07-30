@@ -1,0 +1,4 @@
+Cone-beam CT (CBCT) scans that are affected by motion often require motion compensation to reduce artifacts or to reconstruct 4D (3D+time) representations of the patient.
+To do so, most existing strategies rely on some sort of gating strategy that sorts the acquired projections into motion bins.
+Subsequently, these bins can be reconstructed individually before further post-processing may be applied to improve image quality.
+While this concept is useful for periodic motion patterns, it fails in case of non-periodic motion as observed, for example, in irregularly breathing patients.

@@ -1,0 +1,3 @@
+Extracellular vesicles (EVs) play a crucial role in intercellular communication.
+While the effects of EVs released from living or non-dying cancer cells are well characterized, the impact of EVs released from chemotherapy-treated or apoptotic cancer cells is less understood.
+This study investigated the effects of the chemotherapy agent cisplatin on EV release and miRNA content in apoptotic medulloblastoma cells, as well as their influence on the growth of drug-naïve recipient cancer cells.

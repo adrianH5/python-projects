@@ -1,0 +1,10 @@
+The hepatic immune microenvironment governs liver disease susceptibility by balancing immune defense and tolerance.
+While phthalate esters (PAEs), emerging pollutants derived from plastics, have been acknowledged as hepatoxic substances, the immunomodulatory and clinical impacts of subacute PAEs exposure remain underexplored.
+In this study, we identified dibutyl phthalate (DBP) as a predominant PAE in liver tissues from hepatitis B virus (HBV)-infected patients.
+Based on the murine model mimicking specific scenarios of subacute DBP exposure, single-cell RNA sequencing and flow cytometry revealed that DBP significantly depleted hepatic T cells and induced functional exhaustion.
+Moreover, HBV-carrier mice exposed to DBP sub-acutely exhibited prolonged viral persistence, delayed HBsAg clearance and heightened liver injury markers.
+The co-culture assays mechanistically linked the persistent HBV infection to T cell dysfunction in the context of DBP exposure.
+Epidemiological analyses further correlated elevated urinary DBP metabolites with increased positivity of HBV indicators.
+Among individuals with HBV infection history, higher DBP metabolite levels were associated with reduced liver function.
+In conclusion, our findings elucidated that subacute DBP exposure exacerbates HBV progression by driving T cell exhaustion and synergistically leading to the collapse of hepatic immune microenvironment.
+Therefore, we propose DBP as a facilitator of HBV, positioning subacute DBP exposure as risk factors for viral hepatitis, advocating for monitoring of PAEs in high-risk populations and therapeutic strategies targeting immune exhaustion to mitigate PAEs-viral synergism in liver diseases.

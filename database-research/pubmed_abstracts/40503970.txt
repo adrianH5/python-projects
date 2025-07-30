@@ -1,0 +1,4 @@
+Inhibiting γ-secretase mediated Notch signaling has been explored as a potential treatment for Alzheimer's disease and cancer.
+However, clinical trials have revealed that this approach can lead to side effects, such as gut inflammation.
+Notch signaling has been shown to be a key mediator of intestinal epithelial homeostasis.
+We aimed to investigate the molecular mechanisms of γ-secretase inhibition-associated colitis.

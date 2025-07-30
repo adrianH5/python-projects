@@ -1,0 +1,5 @@
+Exosomes (Exos) derived from mesenchymal stem cells (MSCs) are known to influence cancer cell behavior; however, the clinical use of MSCs is limited due to the gradual loss of their differentiation potential with continuous passaging.
+Induced mesenchymal stem cells (iMSCs) have emerged as a promising alternative source, but the effects of Exos derived from iMSCs (iMSC-Exos) on cancer cells remain incompletely understood.
+This study aims to compare the effects of iMSC-Exos with ADMSC-Exos derived from adipose tissue-derived mesenchymal stem cells (ADMSCs) on the viability, invasion, and migration of breast (MCF7) and lung (A549) cancer cells.
+Conditioned media from iMSCs and ADMSCs were collected for isolation and characterization of Exos.
+MCF7 and A549 cell lines were treated with iMSC- and ADMSC-Exos, and Exos uptake, cell viability, migration, senescence, and expression of

@@ -1,0 +1,9 @@
+Silencing NOP2/Sun RNA methyltransferase family member 2 (NSUN2) effectively inhibits gastric cancer (GC) progression but is limited by RNase degradation, rapid renal clearance, and low uptake.
+Based on the characteristic high levels of reactive oxygen species (ROS) in the tumor microenvironment, this study designed and synthesized a novel ROS-responsive ferrocene nanoparticle loaded with siNSUN2 (PRPFc@siNSUN2).
+Under ROS conditions, the nanoparticle disintegrates to release siNSUN2.
+Characterization by proton nuclear magnetic resonance, transmission electron microscopy, dynamic light scattering, and ultraviolet-visible spectrophotometry revealed that PRPFc@siNSUN2 is spherical, with an average diameter of 88.79 ± 1.14 nm, an encapsulation efficiency of 83.10%, and a drug loading capacity of 13.85%.
+Moreover, these nanoparticles demonstrated excellent stability and, under hydrogen peroxide conditions, exhibited structural disruption leading to the release of siNSUN2, thereby confirming their high ROS responsiveness.
+In vitro, PRPFc@siNSUN2 markedly enhanced the inhibition of GC cell proliferation, migration, and invasion, and promoted apoptosis, accompanied by increased intracellular ROS and improved siNSUN2 uptake.
+In vivo studies further confirmed that PRPFc@siNSUN2 markedly enhanced the therapeutic efficacy of siNSUN2 against GC, while exhibiting low cytotoxicity and good biocompatibility.
+Overall, our findings indicate that PRPFc@siNSUN2, with its favorable morphology, stability, and ROS-triggered release, substantially improves the anti-GC effects of siNSUN2 by inhibiting GC cell proliferation, migration, and invasion, as well as by promoting apoptosis.
+These results support NSUN2 as a promising therapeutic target and underscore the potential of PRPFc@siNSUN2 nanoparticles in drug delivery, offering a novel strategy to improve clinical outcomes for GC patients.

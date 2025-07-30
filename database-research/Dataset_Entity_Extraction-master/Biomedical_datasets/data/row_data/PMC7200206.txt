@@ -1,0 +1,13 @@
+The World Health Organization (WHO) declared the outbreak of a coronavirus disease of 2019 (COVID-19) as public health emergency of international concern and put in place a series of temporary recommendations on January 30.
+The current outbreak of COVID-19 has nearly 3 million confirmed cases worldwide with more than 200,000 deaths, as of April 27, 2020, according to the WHO.
+Many researches are now underway to develop effective interventions for controlling and preventing the COVID-19 pandemic, including therapeutic drugs such as inhibitors of the RNA-dependent RNA polymerase or the viral protease, and blockers of virus-cell membrane fusion as well as vaccines, and large scale clinical trials have just begun [6, 7].
+Full-length viral nucleotide sequences of SARS-CoV-2 (accession number MN908947 and MN996527-MN996531) [1, 2], SARS-CoV (accession number AY274119, AY278488 and AY390556), bat-derived SARS-like coronavirus (bat-SL-CoV) RaTG13 (accession number MN996532), and MERS-CoV (accession number JX869059) were downloaded from the NCBI GenBank.
+Epitope prediction was carried out using the predicted proteins, including S, E, N, M, and ORFs (corresponding to accession numbers QHD43415-QHD43423, QHI42199) of the reference SARS-CoV-2_Wuhan-Hu-1 (accession number MN908947).
+We first aligned each of these SARS-CoV-2 sequences to the reference sequence SARS-CoV-2_Wuhan-Hu-1 (accession number MN908947) using BLAT software [14].
+After the alignment, we extracted nucleotide sequences corresponding to individual proteins of SARS-CoV-2, translated them to amino acid sequences, and then compared them to reference amino acid sequences of SARS-CoV-2_Wuhan-Hu-1 (accession numbers QHD43415-QHD43423, QHI42199).
+Genome sequences of SARS-CoV-2_WIV02 (accession number MN996527), SARS-CoV_GZ02 (AY390556), and Bat-CoV_RaTG13 (MN996532) were compared with SARS-CoV-2_Wuhan-Hu-1 (MN908947)
+156 amino acid mutations, which were observed at more than 0.5% frequencies in at least one region, were plotted
+To control the current COVID-19 pandemic and prevent the second pandemic in the near future, the development of new drugs and vaccines, and the establishment of tools investigating the immune responses in patients or silently-infected individuals are urgent issues.
+In addition, several reports have suggested that a subset of patients with severe COVID-19 might have a cytokine release syndrome [19, 20].
+These HLA-oligomers might be useful to predict and monitor acute T-cell responses in COVID-19 patients who cause these life-threatning symptoms.
+To control and prevent the current COVID-19 pandemic, the development of novel vaccines is an emergent issue.

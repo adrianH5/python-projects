@@ -1,0 +1,8 @@
+The unique characteristics of cancer are crucial for comprehending the processes underlying cancer initiation, development, and maintenance.
+These hallmarks guide the development of novel therapeutic strategies aimed at fundamental traits of cancer, resulting in more targeted therapies with the possibility for sustained effectiveness and minimized adverse effects.
+Drug repurposing, a novel approach that leverages the known safety and pharmacological properties of existing drugs, has surfaced as a viable alternative to traditional drug development.
+This method expedites the timescale for introducing novel medicines into clinical practice, often demonstrating reduced failure rates in clinical trials.
+Recent data substantiates the therapeutic efficacy of many repurposed medications in the management of oral squamous cell carcinomas (OSCC), a highly aggressive and treatment-resistant malignancy.
+Prominent instances include metformin, phenformin, propranolol, acetylsalicylic acid, celecoxib, itraconazole, statins, dihydroartemisinin, and methotrexate.
+These pharmaceuticals demonstrated diverse anticancer actions, rendering them valuable tools in the therapy of OSCC.
+This review provides a comprehensive overview of molecular signaling in the reprocessing of drugs for OSCC.

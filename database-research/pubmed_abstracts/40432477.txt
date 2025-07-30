@@ -1,0 +1,11 @@
+This review highlights the role of reverse transcriptase (RT) inhibition in cellular regulation associated with non-terminal repeat retrotransposons and endogenous retroviruses.
+Based on their pleiotropic characteristics, RT inhibitors (RTIs) are discussed as potential anticancer agents.
+Both the nucleoside/nucleotide reverse transcriptase inhibitors (NRTIs) and non-nucleoside reverse transcriptase inhibitors (NNRTIs) display cytotoxicity in cancer cells which are likely mediated by endogenous RT inhibition and not necessarily by differing molecular structures.
+Three features of RTIs are evident in inducing cytotoxicity in cancer cells.
+Firstly, NRTIs and NNRTIs induce cell cycle arrest.
+Secondly, they suppress transposable elements, inhibit long interspersed nuclear elements (LINE)-1, with RTI key in cytotoxicity in cancer cells.
+Thirdly, the cyclic GMP-AMP-synthase-stimulator of interferon genes (cGAS-STING) pathway can be activated by LINE-1-derived cytoplasmic DNA with promotion of p21-dependent cell cycle arrest and cell-mediated immune response.
+This suggests that RTIs induce DNA strand breaks with incomplete retrotransposition, initiate cell cycle arrest and an immune response.
+Additionally, poly (ADP-ribose) polymerase 1 and 2 (PARP1, PARP2) and its relationship with DNA methylation is highlighted in the context of LINE-1 retrotransposition.
+There is a need to examine the relationship between PARP1, PARP2 and mutated BRCA proteins in normal and abnormal LINE-1 retrotransposition.
+This review explores how efavirenz and related RT inhibitors suppress endogenous reverse transcriptase, providing a basis for preclinical evaluation of RT inhibitors as potential repurposed drugs for cancer treatment.

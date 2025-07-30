@@ -1,0 +1,2 @@
+In this article, we particularly address the problem of assessing the impact of different prognostic factors, such as clinical stage and age, on the specific survival times of men with breast cancer when cure is a possibility.
+To this end, we developed a quantile regression model for survival data in the presence of long-term survivors based on the generalized Gompertz distribution in a defective version, which is conveniently reparametrized in terms of the

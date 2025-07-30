@@ -1,0 +1,8 @@
+How the host immune system loses its surveillance function during the evolution from normal cell to malignancy is still largely unknown.
+Here, we investigate the dynamics changes of the pancreatic ductal adenocarcinoma (PDAC) tumor microenvironment by profiling 132,115 single-cell transcriptomes derived from 51 tissues, including healthy pancreatic tissue, non-metastatic PDAC primary tumors, metastatic primary tumors, and patient-matched liver metastases.
+The cellular proportion, bio-functional, and interaction between each cell type are carefully characterized.
+Aberrant copy number variations (CNVs) indicating malignant intensity are identified at chromosomes 7 and 20 of epithelial cells during tumor development.
+A bio-functional transition of predominant genes from physiology to pancreatic oncogenesis and metastasis is observed.
+Combinatorial analysis of epithelial cells and immunocytes indicates a gradient loss of immune surveillance during the malignant transformation.
+By dissecting cellular interaction, we unravel an incremental tumor cell-triggered apoptosis of DCs through molecular pair ANXA1-FPR1/3.
+Consequently, the activation and infiltration of cytotoxic CD8

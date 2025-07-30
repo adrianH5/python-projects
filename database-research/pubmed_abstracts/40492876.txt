@@ -1,0 +1,7 @@
+Optical methods can show different chemical components in tissues and are non-invasive, non-destructive, and non-ionizing.
+Near-infrared II light distinguishes itself among numerous light wavelengths by virtue of its unique advantages and has become a more preferred choice when selecting light wavelengths.
+Its notable advantages include being able to penetrate deep into biological tissues with greater efficacy and effectively reducing the impact of tissue scattering and absorption phenomena.
+Utilizing fluorophores in the near-infrared II window generates superior diagnostic spatial resolution, additional signal-to-background ratio, and greater depth of tissue optical imaging.
+Organic small molecule fluorophores, as a new generation of fluorophores with potential for clinical application, have made remarkable progress in biomedical imaging, drug delivery, and cancer therapy in near-infrared II and have become a research hotspot.
+This review is concentrated on the advancements made recently by different near-infrared II emitting organic small molecule fluorophores in the domains of molecular structure design, methods to improve biocompatibility, water solubility, targeted transport, bioimaging, phototherapy, near-infrared II emitting organic small molecule fluorophores prospects and challenges.
+We hope to open a path for the progress of future near-infrared II emitting organic small molecule fluorescence technology and accelerate its application in clinical medicine.

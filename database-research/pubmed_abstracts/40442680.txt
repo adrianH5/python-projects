@@ -1,0 +1,9 @@
+Nuclear receptors (NRs) are a superfamily of transcription factors that are involved in various pathophysiological processes.
+The human genome contains 48 types of nuclear receptors, including steroid hormone receptors (e.g., estrogen receptor [ER] and vitamin D receptor [VDR]), nonsteroid hormone receptors (e.g.
+peroxisome proliferator-activated receptor [PPAR] and retinoic acid receptor [RAR]), and orphan nuclear receptors (e.g.
+neuron-derived clone 77 [Nur77] and testicular nuclear receptor 4 [TR4]) and certain nuclear receptors are specifically overexpressed in tumor cells or surrounding normal tissues.
+Radiotherapy is one of the main methods of tumor treatment, but radioresistance in tumors and radiotoxicity to normal tissues strongly affect radiotherapy efficacy.
+Accumulating evidence has indicated the critical role of nuclear receptor modulators (including agonists and antagonists) as promising radiosensitizers in radiotherapy through various mechanisms.
+In addition, several nuclear receptors and their agonists alleviate normal tissue toxicity during radiotherapy.
+Thus, nuclear receptors serve as novel targets for tumor radiosensitization and for protecting of normal tissues from radiation damage.
+This review summarizes the research progress of nuclear receptors and highlights a promising synergistic strategy in radiotherapy.

@@ -1,0 +1,35 @@
+T1	Repository 175 179	NCBI
+T2	AccessionNumber 191 197	K03455
+T3	Repository 1528 1531	SRA
+T4	AccessionNumber 1695 1706	PRJNA506879
+T5	Repository 1727 1730	SRA
+T6	Creator 1782 1796	Babcock et al.
+T7	AccessionNumber 1822 1832	SRR1170557
+T8	AccessionNumber 1834 1844	SRR1170560
+T9	AccessionNumber 1845 1855	SRR1170568
+T10	AccessionNumber 1857 1867	SRR1170576
+T11	AccessionNumber 1868 1878	SRR1170579
+T12	AccessionNumber 1880 1890	SRR1170671
+T13	AccessionNumber 1891 1901	SRR1170679
+T14	AccessionNumber 2089 2098	NC_004102
+T15	AccessionNumber 2517 2528	SRR11140744
+T16	AccessionNumber 2530 2541	SRR11140746
+T17	AccessionNumber 2543 2554	SRR11140748
+T18	AccessionNumber 2556 2567	SRR11140750
+T19	AccessionNumber 2737 2746	NC_045512
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T5	Arg2:T7
+R4	hasAttr	Arg1:T5	Arg2:T8
+R5	hasAttr	Arg1:T5	Arg2:T9
+R6	hasAttr	Arg1:T5	Arg2:T10
+R7	hasAttr	Arg1:T5	Arg2:T11
+R8	hasAttr	Arg1:T5	Arg2:T12
+R9	hasAttr	Arg1:T5	Arg2:T13
+R10	hasAttr	Arg1:T6	Arg2:T7
+R11	hasAttr	Arg1:T6	Arg2:T8
+R12	hasAttr	Arg1:T6	Arg2:T9
+R13	hasAttr	Arg1:T6	Arg2:T10
+R14	hasAttr	Arg1:T6	Arg2:T11
+R15	hasAttr	Arg1:T6	Arg2:T12
+R16	hasAttr	Arg1:T6	Arg2:T13

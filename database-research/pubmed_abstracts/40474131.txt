@@ -1,0 +1,1 @@
+To create an automated PET/CT segmentation method and radiomics model to forecast Mismatch repair (MMR) and TP53 gene expression in endometrial cancer patients, and to examine the effect of gene expression variability on image texture features.

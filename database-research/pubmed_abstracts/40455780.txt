@@ -1,0 +1,8 @@
+Skin cancer is a severe and rapidly advancing condition that can be impacted by multiple factors, including alcohol and tobacco use, allergies, infections, physical activity, exposure to UV light, viral infections, and the effects of climate change.
+While the steep death tolls continue rising at an alarming rate, lack of symptoms recognition and its preventive measures further worsen the case.
+In this article, we employ the ISBI-2017 dataset to present an improved FrCN-based hybrid image segmentation method with U-Net to improve detection performance.
+This paper proposes a hybrid approach using the FrCN-(U-Net) image segmentation technique to enhance results compared to an advanced method for detecting skin cancer types, such as Benign or Melanoma.
+The classification phase is then handled using the R-CNN algorithm.
+Our model shows better performance in both training and testing accuracy than any other existing approaches.
+The results show that the combined method is effective in enhancing early disease diagnosis, which in turn improves treatment outcomes and prognosis.
+This paper presents an alternative technique for skin cancer detection, which can serve as a guide for clinical practices and public health strategies on how to lower skin-cancer-related deaths.

@@ -1,0 +1,9 @@
+Oral squamous cell carcinoma (OSCC) progresses from epithelial cell proliferation to malignancy.
+Given the higher proportion of male patients compared to female patients, the androgen signaling pathway is believed to play a significant role in promoting epithelial cell proliferation.
+However, the underlying molecular mechanisms remain unclear.
+Here, we identified RBAP48 as a novel androgen receptor (AR) co-activator in OSCC cells.
+Our results show that RBAP48 was highly expressed in OSCC tumor tissues from patients with a poor prognosis.
+Further, RBAP48 knockdown decreased genome-wide oncogene transcription.
+RBAP48 and AR interacted to activate CCND1 and RAB31 transcription, and upregulated RELA and CCNE1 mRNA expression through an AR-independent pathway.
+Additionally, RBAP48 promoted OSCC cell proliferation and was involved in the cellular response to drugs and external compounds in vitro, ultimately driving cancer progression.
+Our results indicate that RBAP48 is a novel oncogene and a promising target for predicting and treating OSCC progression.

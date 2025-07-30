@@ -1,0 +1,15 @@
+BNT162b2 is a mRNA vaccine, approved by the US Food and Drug Administration and the European Medicines Agency that was designed to target Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), the causative agent of Coronavirus disease 2019 (COVID-19).
+Despite its widespread use, predictors of humoral immune responses after BNT162b2 administration remain uncertain.
+Consequently, a case-control study was conducted involving 273 employees at the National Cancer Institute (Bratislava, Slovakia) for the present study.
+Specifically, the present study aimed to determine the incidence of symptomatic COVID-19.
+In addition, the association between the safety of the third-dose BNT162b2 and sex and body mass index (BMI) was assessed.
+The present study also explored the potential determinants of plasma IgG antibody levels following vaccination.
+In total, 294 participants were recruited and 273 met the inclusion criteria.
+At a median follow-up of 4.7 months, 38 participants had symptomatic SARS-CoV-2 infection after vaccination.
+The incidence of adverse events (AEs) was found to be significantly higher in female patients compared with that in male patients.
+Furthermore, patients with a high BMI (≥30 kg/m²) had higher number of AEs compared with those with low BMI (P<0.05).
+IgG levels were observed to be significantly higher in male patients compared with those in female patients, in participants with high BMI compared with those with low BMI, in those experiencing three or more AEs compared with those with fewer AEs and in participants who had contracted COVID-19 compared with those who had not (P<0.05 for all).
+Multivariate analysis identified sex, BMI, number of AEs and prior COVID-19 infection as independent predictors of IgG plasma level (P<0.05).
+Therefore, the present study found the low number of COVID-19 in the subjects vaccinated with the third dose of BNT162b2 and revealed that the safety profile of the vaccine is associated with sex and BMI.
+Higher IgG levels, indicating more efficient protection against SARS-CoV-2, were observed in male patients, in participants with high BMI, those experiencing a higher frequency of AEs and those who had previously contracted COVID-19 despite vaccination against SARS-CoV-2.
+These findings could lead to the stratification of subjects within future clinical studies and the development of specific vaccination protocols in regard to sex, BMI and history of SARS-CoV-2.

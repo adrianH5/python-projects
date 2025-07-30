@@ -1,0 +1,6 @@
+Simulation models inform health policy decisions by integrating data from multiple sources and forecasting outcomes when there is a lack of comprehensive evidence from empirical studies.
+Such models have long supported health policy for cancer, the first or second leading cause of death in over 100 countries.
+Discrete-event simulation (DES) and Bayesian calibration have gained traction in the field of Decision Science because they enable efficient and flexible modeling of complex health conditions and produce estimates of model parameters that reflect real-world disease epidemiology and data uncertainty given model constraints.
+This uncertainty is then propagated to model-generated outputs, enabling decision makers to determine the optimal strategy to recommend, assess confidence in the recommendation, and estimate the value of collecting additional information.
+However, there is limited end-to-end guidance on structuring a DES model for cancer progression, estimating its parameters using Bayesian calibration, and applying the calibration outputs to policy evaluation and other downstream tasks.
+To fill this gap, we introduce the

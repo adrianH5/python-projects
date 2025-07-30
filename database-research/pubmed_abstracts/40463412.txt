@@ -1,0 +1,4 @@
+Early detection and removal of suspicious polyps during routine colonoscopies play an important role in reducing the risk of colorectal cancer.
+Patient management and follow-up are determined by the type of polyps removed and the degree of dysplasia present on histological evaluation.
+Whereas discerning between a benign polyp and a dysplastic one is a trivial task, distinguishing between tubular adenomas with low-grade dysplasia (LGD) and high-grade dysplasia (HGD) is a challenging task.
+In this study, we trained a deep learning model to distinguish between colorectal adenomas with LGD and HGD.

@@ -1,0 +1,8 @@
+Purpose To investigate the association between hormonal contraceptive use and the risk of retinal vascular occlusions in women of reproductive age.
+Design Register-based, nationwide cohort study.
+Participants A total of 2208172 women aged 15 - 49 years were followed from January 1, 1996, to June 30, 2021, excluding those with prior venous or arterial thrombosis, thrombophilia, cancer (except non-melanoma skin cancer), liver disease, chronic kidney disease, hysterectomy, bilateral oophorectomy, hormone therapy, infertility treatment, endometriosis, or polycystic ovary syndrome.
+Methods Women were followed until study end, age 50, emigration, death, or occurrence of exclusion criteria.
+Individual-level, time-updated hormonal contraception use was identified through prescription records; retinal vascular occlusion events were detected through hospital diagnoses.
+Poisson regression models estimated incidence rate ratios of retinal vascular occlusion by duration, dosage, and type of hormonal contraceptives, adjusting for age, educational level, hypertension, diabetes, hypercholesterolemia, atrial fibrillation/flutter during observation.
+Main Outcome Measures Adjusted incidence rate ratios (AIRR) and standardized incidence rate differences (SIRD) of retinal vein occlusion and retinal artery occlusion with hormonal contraceptive use compared to non-use.
+Results The cohort contributed 23882016 person-years with a median follow-up time of 10 years (1

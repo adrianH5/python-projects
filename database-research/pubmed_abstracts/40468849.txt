@@ -1,0 +1,7 @@
+Integrating external data into a clinical trial can introduce systematic bias in estimates and inflate the study's type I error due to differences in study design and enrollment criteria.
+Existing prior designs for information borrowing lack the ability to dynamically adjust the weight based on the similarity between concurrent and external data.
+To address this challenge, we thereby introduce a novel method called the elastic commensurate prior (ECP), which combines the commensurate prior with the elastic prior method.
+By dynamically adjusting the weight of external data using a measure of congruence, this method demonstrates strong performance in maintaining power while providing adequate type I error control across different scenarios, including congruence, approximate congruence, and incongruence between external and concurrent data.
+Compared to existing methods such as the modified power prior, meta-analytic-predictive (MAP) prior, robust MAP prior, non-informative prior, and fully informative prior, the ECP method is flexible and performs well across all settings.
+Furthermore, our method also allows for the integration of covariates in estimating data congruence for dynamic information borrowing, achieving both strong performance in power and adequate control of type I error.
+Overall, the ECP represents a promising option for leveraging external data in clinical trials, reducing costs by decreasing the sample size requirement, and thereby accelerating research and drug development timelines.

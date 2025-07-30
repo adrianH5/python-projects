@@ -1,0 +1,14 @@
+The given name to the disease associated with the coronavirus was COVID19, while novel CoV was named as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+COVID19 is milder but a highly transmissible infectious disease compared with SARS (severe acute respiratory syndrome) and MERS (Middle East respiratory syndrome) outbreaks, according to morbidity and mortality rates [2, 3].
+Today, the involvement of the Huanan market with COVID19 origin seems controversial [12, 13].
+Maximum likelihood phylogenetic analysis involved 87 amino acid sequences from CoV S protein obtained from NCBI Protein database (www.ncbi.nlm.nih.gov/protein/).
+Malayan pangolin MT084071 sequence was translated from annotated coding region obtained from NCBI Genbank database (www.ncbi.nlm.nih.gov/genbank/).
+Accession codes were included in each taxon name.
+There were a total of 1494 positions in the final dataset.
+All amino acids sequences were obtained by NCBI Protein database (www.ncbi.nlm.nih.gov/protein/).
+All sequences were obtained from NCBI Protein database (www.ncbi.nlm.nih.gov/protein/).
+R. sinicus ASM188883v1 sequence was translated based on genome assembly obtained from NCBI Genome database (www.ncbi.nlm.nih.gov/genome/).
+Accession codes were included in each taxon name.
+There were a total of 829 positions in the final dataset
+An emergence of a novel coronavirus, causative agent of COVID19, named as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), occurred due to cross-species transmission.
+All the data obtained from NCBI Protein and NCBI GenBank databases included in this research study presented accession code/numbers for research or reanalysis.

@@ -1,0 +1,7 @@
+Non-invasive liquid biopsy is a promising strategy for ovarian cancer (OC) detection.
+We evaluated the feasibility and efficacy of a multi-analyte approach combining circulating tumor DNA (ctDNA) detection with protein biomarkers for early OC detection.
+At 95% specificity, CA125 and ctDNA alone exhibited an overall sensitivity of 79.0% and 58.7%, respectively; however, when CA125 was combined with ctDNA, sensitivity reached 85.5%.
+Integrating CA125 and human epididymis protein-4 (HE4) in the risk of ovarian malignancy algorithm (ROMA) index, yielded a sensitivity of 86.2%.
+When four additional proteins (HE4, cancer antigen 19-9, prolactin, and interleukin-6) were added to CA125 and ctDNA in the EarlySEEK model, sensitivity increased to 94.2%.
+Meanwhile, the EarlySEEK model was not affected by menopausal status, and outperformed CA125 in distinguishing benign and malignant ovarian tumors.
+These findings demonstrate that EarlySEEK could effectively identify OC at early stage when they are more likely to be curable.

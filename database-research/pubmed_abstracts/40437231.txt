@@ -1,0 +1,11 @@
+SAPHO syndrome is an inflammatory disorder with bone and cutaneous manifestations, for which whole-body bone scintigraphy (WBBS) is frequently used in diagnosis.
+The WBBS findings of SAPHO syndromes and secondary bone tumors (SBT) have overlapping features, posing diagnostic challenges.
+In this multicenter study, we aim to identify different bone and joint involvement patterns between the two disease entities through multiple methods to build machine-learning models and explore interpretable variables.
+The study included 1,193 patients, of which 593 were diagnosed with SAPHO syndrome and 600 with SBT.
+LASSO regression, logistic regression, and random forest techniques were applied in the training set to identify significant risk factors.
+Manual management and other methods were evaluated in the validation set to identify the top-performing model and the most interpretable terms.
+The study developed a model using 15 manually selected terms and multiple machine learning techniques, which demonstrated high diagnostic accuracy in the G1 dataset for (training AUC 0.934, testing AUC 0.929, accuracy = 88.3%, precision = 88.7%, Recall = 88.3%, F1 score = 0.882).
+The model was compared with logistic regression and random forest models and showed consistent results in the G2 dataset for external validation (AUC 0.957, Youden index = 0.806, sensitivity = 0.820, specificity = 0.986).
+The pelvis, femur, and ribs (excluding anterior ribs 1st-5th) and thoracic vertebrae 1st-8th were significant predictors of SBT, whereas the sacroiliac joints, sternum, foot, anterior ribs 1st-5th, and clavicle were indicative of SAPHO.
+This study assesses the effectiveness of WBBS terms in identifying SBT from SAPHO syndrome and utilizes machine learning to help screen features for patients.
+The final model demonstrates its dependability, providing a valuable tool for accurate and timely diagnosis.

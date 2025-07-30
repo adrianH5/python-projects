@@ -1,0 +1,8 @@
+Acute lymphoblastic leukemia (ALL) is a prevalent malignant hematologic disease characterized by the abnormal proliferation and accumulation of immature lymphocytes in bone marrow and lymphoid tissues.
+In our study, Oxford Nanopore Technologies (ONT) sequencing was performed to investigate four types of methylation modifications-6 mA, CHG, CHH, and CpG-in a pair of monozygotic twins, where one twin has ALL and the other is healthy.
+The results showed the significant global hypomethylation of CpG sites and an increase in 6 mA, CHG, and CHH methylation in the twin diagnosed with ALL.
+Notably, the hypomethylation of CpG was particularly increased in the open sea, gene body, and 3'UTR regions, while 6 mA and CHG modifications exhibited high methylation levels in the gene body, TSS1500, TSS200, and 3'UTR regions.
+Additionally, CHH modifications showed high methylation across all genomic regions.
+Within the differential methylation loci (DML), we identified several genes related to tumorigenesis and progression (such as ZDHHC11, NBPF1, and TPTE).
+Furthermore, we systemically reviewed the literatures on leukemia and DNA methylation modifications, providing a comprehensive description of their correlation.
+In summary, these findings indicate that DNA methylation plays a crucial role in the onset and progression of ALL, offering valuable insights for future research into its impact on leukemia development.

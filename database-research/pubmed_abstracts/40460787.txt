@@ -1,0 +1,5 @@
+Ferroptosis serves as a pivotal mechanism in diverse clinical chemotherapeutics and physiological processes, profoundly impacting tumor metabolism and the tumor microenvironment.
+Recently, the immunosuppression induced by ferroptosis has raised major concerns regarding tumor recurrence upon ferroptosis-based antitumor therapies.
+However, due to the lack of cell specificity, the antitumor and immunosuppressive effects in ferroptosis are inherently intertwined.
+Herein, we address the conflicting challenges between immunosuppression and antitumor efficacy in ferroptosis-based therapy by enabling cell-specific ferroptosis, thereby targeting tumors while sparing immune cells.
+By employing a specially designed nanoagent, i.e., ferrous selenide half-shell-covered gold, we induce notable upregulation of glutathione peroxidase 4 (GPX4) and downregulation of prostaglandin E2, leading to an increase in CD

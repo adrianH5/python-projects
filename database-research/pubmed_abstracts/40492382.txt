@@ -1,0 +1,9 @@
+High-grade serous ovarian cancer (HGSOC) is the most lethal type of gynecological cancer, and platinum-resistance is a serious challenge in its treatment.
+Long non-coding RNAs (lncRNAs) play critical regulatory roles in the occurrence and development of cancers.
+Here, using RNA sequencing of tumor small extracellular vesicles (sEVs) from HGSOC patients, the lncRNA CATED is identified as significantly upregulated in both tumors and tumor-derived sEVs in platinum-resistant HGSOC, and low CATED levels correlate with good prognosis.
+Functionally, CATED enhances cisplatin resistance by promoting cell proliferation and inhibiting apoptosis in vitro and in vivo.
+These effects could be transferred via CATED-overexpressing sEVs from donor cells and HGSOC tumor sEVs.
+Mechanistically, CATED binds to and upregulates DHX36 via PIAS1-mediated SUMOylation at the K105 site, and elevated DHX36 levels increase downstream RAP1A protein levels by enhancing RAP1A mRNA translation, consequently activating the MAPK pathway to promote platinum-resistance in HGSOC.
+Antisense oligonucleotide mediated knockdown of CATED reverse platinum-resistance in sEV-transmitted mouse models via the DHX36-RAP1A-MAPK pathway.
+This study newly identifies a sEV-transmitted lncRNA CATED in driving HGSOC platinum-resistance and elucidates the mechanism it regulates the interacting protein through SUMOylation.
+These findings also provide a novel strategy for improving chemotherapy in HGSOC by targeting CATED.

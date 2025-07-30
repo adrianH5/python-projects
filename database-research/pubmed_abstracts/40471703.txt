@@ -1,0 +1,4 @@
+Single-cell DNA sequencing (scDNA-seq) and multi-modal profiling with the addition of cell-surface antibodies (scDAb-seq) have recently provided key insights into cancer heterogeneity.
+Scaling these technologies across large patient cohorts, however, is cost and time prohibitive.
+Multiplexing, in which cells from unique patients are pooled into a single experiment, offers a possible solution.
+While multiplexing methods exist for scRNAseq, accurate demultiplexing in scDNAseq remains an unmet need.

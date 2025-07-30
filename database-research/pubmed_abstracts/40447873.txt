@@ -1,0 +1,12 @@
+Hypoxia is a critical mechanism within the microenvironment of tumors.
+Exosomes, serve as conduits for intercellular communication and transport the biomolecule miRNA by facilitating intercellular signal exchange, which partially regulate cancer metastasis.
+Our research investigated whether the role of hypoxic breast cancer cell-derived exosomal miR-143-3p in cancer progression.
+Real-time PCR explored miR-143-3p expression in hypoxia breast cancer cell-derived exosomes.
+Co-culturing of breast cancer with hypoxia exosome-primed M0 macrophages, transwell detected the invasiveness of breast cancer cells.
+Western blot showed the effect of hypoxia exosomes on the levels of M2 makers in macrophages and the epithelial-mesenchymal transition (EMT) indicators in breast cancer cells.
+Bioinformatics prediction and dual luciferase reporter assay determined the interaction between miR-143-3p and RICTOR.
+We found that exosomal miR-143-3p expression was downregulated in hypoxic conditions.
+Hypoxia breast cancer cell-derived exosomal miR-143-3p negatively correlated with the presentation of the M2 macrophage marker CD206 and regulated the levels of Arg-1, CD206 and CD163 mRNA levels.
+In addition, hypoxia exosome-mediated polarization of M2 macrophages promotes breast cancer cell migration and invasion.
+Mechanistically, miR-143-3p acted antagonistically with RICTOR, thereby suppressing macrophage M2 polarization.
+In summary, our study reveals that the hypoxia downregulates the exosomal miR-143-3p derived from breast cancer cells to increase macrophage RICTOR expression, thereby promoting M2 macrophage polarization to enhance breast cancer cell invasiveness, suggesting that miR-143-3p may be a candidate molecule for microRNA alternative therapy in breast cancer.

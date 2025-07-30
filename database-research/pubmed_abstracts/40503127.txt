@@ -1,0 +1,16 @@
+Head and neck cancer (HNC) and its treatment outcomes have a substantial impact on the quality of life of the patients.
+This study aimed to translate and psychometrically validate the European Organization for Research and Treatment of Cancer head and neck cancer-specific quality of life module, updated version (EORTC QLQ-H&N43) in Odia language for use in Eastern India.
+Forward-backward translation and pilot testing of the pre-final Odia version of the EORTC QLQ-H&N43 was done according to the EORTC quality of life group questionnaire translation guidelines.
+The psychometric properties were tested in a sample of 120 HNC patients attending a public tertiary hospital in Odisha.
+The patients filled in both the EORTC QLQ H&N 43 module and the EORTC QLQ C 30 questionnaire.
+Internal consistency was tested using Cronbach's alpha and the test-retest reliability using interclass correlation coefficients (ICC).
+The known group validity by disease stage was assessed and the convergent and discriminant validity were explored using the Spearman's correlation coefficient test.
+Exploratory factor analysis was performed to obtain information about the loading of the items and factor naming of the potential constructs was done.
+The Cronbach's Alpha of the scales ranged from 0.68 to 0.89 and was > 0.70 in 11 out of the 12 multi-item scales indicating good internal consistency.
+The ICC = 0.79 (95% confidence interval of 0.71-0.93) indicates a 'moderate' to 'good' test-retest reliability.
+The magnitude of the correlation of each item with its scale exceeded the correlation with another scale confirming item discriminant validity.
+All QLQ-H&N43 scales correlated negatively as predicted with all QLQ-C30 functioning scales.
+Significant known-group differences were observed between those in different stages of the disease.
+The factor analysis resulted in 3 different components namely oral/mouth-related symptoms, general functional disturbances, and psychosocial issues.
+The results suggest that the Odia version of EORTC QLQ-H&N43 is a reliable and valid tool for measuring the symptom burden of HNC patients in India.
+Future research on larger sample sizes can employ confirmatory factor analysis to further substantiate the findings of the present study.

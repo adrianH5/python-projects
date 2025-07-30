@@ -1,0 +1,4 @@
+Spatial transcriptomics enables multiplex profiling of gene cellular expression and location within the tissue context.
+Although large volumes of spatial transcriptomics data have been generated, the lack of systematic curation and analysis limits biological discovery.
+We present Spatial transcriptOmics Analysis Resource (SOAR), a comprehensive spatial transcriptomics platform with 3461 uniformly processed samples across 13 species, 42 tissue types, and 19 different spatial transcriptomics technologies.
+Using SOAR, we found that

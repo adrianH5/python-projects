@@ -1,0 +1,5 @@
+Polypyrimidine tract-binding protein 1 (PTBP1), a key regulator of mRNA alternative splicing, has emerged as a promising therapeutic target for neurodegenerative diseases and cancer treatment.
+Given the critical role of its RRM4 domain's lysine residues in binding to polypyrimidine single-stranded RNA, nonspecific biotinylation could potentially alter PTBP1's activity.
+Here, we describe a method for the concurrent high-level expression and site-specific biotinylation of the PTBP1 RRM3/4 domain using the pQE80L vector and AVB101 host strain.
+By optimizing codon usage and GC content, we achieved a maximum expression level of approximately 85 μg/mL in bacterial culture, with over 99 % purity and a 72.4 % biotinylation rate.
+The recombinant 6His-Avi

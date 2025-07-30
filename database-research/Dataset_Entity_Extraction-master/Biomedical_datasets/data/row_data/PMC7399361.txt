@@ -1,0 +1,21 @@
+COVID-19 is caused by SARS-CoV-2, a novel beta coronavirus and now affecting more than 210 countries, areas or territories (WHO 2020; Zhou et al.
+2020; Zhu et al.
+2020).
+The World Health Organization (WHO) has declared the COVID-19 outbreak as a global pandemic.
+SARS-CoV-2 is highly contagious with an estimated R0 of 2–3 and causes COVID-19 with a wide range of clinical manifestations including asymptomatic infection to severe pneumonia with deadly outcome (Hellewell et al.
+According to different reports published so far, COVID-19 has a mortality rate of 2%–10% (Li et al.
+2020b; Yang et al.
+2020a).
+COVID-19 has an incubation period of 2–14 days (Jiang et al.
+2020).
+Therefore, a highly sensitive and specific laboratory method is essential for early diagnosis of SARS-CoV-2 infection, which is critical for appropriate management of suspected COVID-19 patients.
+In fact, a sequential change of positive-to-negative-to-positive results could not be properly explained but could cause great concern about potential viral reactivation and re-infection in cured COVID-19 patients (Chen et al.
+2020a; Ye et al.
+2020).
+SARS-CoV-2 RT-PCR may fail to provide a positive result with specimens from COVID-19 patients.
+A retrospective analysis showed that only 39.1% of 573 sputum specimens and 19.2% of 579 throat specimens from COVID-19 patients collected at different time points were consistently tested positive for SARS-CoV-2 RNAs by RT-PCR (Fig. 1A, 1B).
+To validate the performance of these cutoff values, these cutoff values were applied to data for 253 specimens from patients with conflicting positive and negative test results and for that from patients with multiple samples and data for 254 pairs of sputum and throat swab specimens from confirmed COVID-19 patients, respectively.
+In recent reports, recovered COVID-19 patients, defined by negative test results for SARS-CoV-2 RNA in at least two independent tests, were found repeatedly positive for SARS-CoV-2 RNA testing during post-discharge monitoring (Chen et al.
+2020a).
+In addition, contradicting test results from the same patients are not rare in the diagnosis and clinical care for COVID-19 patients.
+Multiple sputum and throat swab specimens from 161 confirmed COVID-19 patients were tested with a commercial fluorescent RT-PCR kit targeting the ORF1ab and N regions of SARS-CoV-2 genome.

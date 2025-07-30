@@ -1,0 +1,7 @@
+Since its advent about ten years ago, the CRISPR-Cas9 system has been frequently used in biomedical applications.
+It has advanced various fields, and CRISPR-Cas9-based therapeutics have shown promising results in the treatment of specific hematological diseases.
+Furthermore, CRISPR gene editing technologies have revolutionized cancer research by enabling a broad range of genetic perturbations, including genetic knockouts and precise single nucleotide changes.
+This perspective focuses on the state-of-the-art methodology of CRISPR knock-ins to engineer immune cells.
+Since this technique relies on homology-directed repair (HDR) of double-strand breaks (DSBs) induced by the Cas9 enzyme, it can be used to introduce specific mutations into the target genome.
+Therefore, this methodology offers a valuable opportunity to functionally study specific mutations and to uncover their impacts not only on overall cell functions but also on the mechanisms behind cancer-related alterations in common signaling pathways.
+This article highlights CRISPR knock-in strategies, protocols, and applications in cancer and immune research, with a focus on diffuse large B cell lymphoma.

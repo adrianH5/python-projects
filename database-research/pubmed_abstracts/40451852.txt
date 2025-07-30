@@ -1,0 +1,7 @@
+Ulcerative colitis (UC) and colon cancer (CC) represent significant global health burdens.
+Current first-line chemotherapeutic agents, including capecitabine, oxaliplatin and irinotecan, face two principal limitations: poor tumour specificity and dose-limiting toxicities.
+The oral colon targeted drug delivery system (OCTDDS) has garnered significant research interest for its capacity to enhance therapeutic outcomes in colonic pathologies.
+Polymeric micelles, self-assembled nanostructures formed by amphiphilic block copolymers, have emerged as promising OCTDDS platforms.
+These nanocarriers enhance the bioavailability of hydrophobic agents, preserve pharmaceutical integrity in gastrointestinal transit, facilitate tumour-specific cellular internalisation, and enable spatiotemporal drug release profiles, collectively optimising therapeutic efficacy.
+Based on explaining the pathological mechanisms of colonic diseases, this review describes the traditional OCTDDS targeting strategy, reviews the targeting approaches of polymer micelles in treating UC and CC, summarises common hydrophilic and hydrophobic groups, as well as copolymers used in polymer micelles, discusses the preparation methods and characterisation techniques of polymer micelles, and examines research studies on oral colon-targeted polymer micelles.
+This review aims to provide a reference for the further design and development of OCTDDSs using polymer micelles as carriers.

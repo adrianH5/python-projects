@@ -1,0 +1,11 @@
+Guidelines from the American Society of Clinical Oncology and College of American Pathologists (ASCO/CAP) recommend an equivocal score (2+) and reflex in situ hybridization (ISH) testing for invasive breast cancer (IBC) with moderate to strong lateral or basolateral staining by HER2 immunohistochemistry (IHC).
+While this recommendation mainly addresses aggressive tumor types such as micropapillary carcinoma, it is applied to low-grade, tubule-forming IBCs unlikely to show HER2 amplification.
+A total of 62 cases of IBC with equivocal HER2 IHC, low histologic grade (1/3), and tubule formation scores of 1 or 2 according to Nottingham criteria were retrospectively identified from 2020 to 2023 to determine the frequency of HER2 amplification using fluorescent ISH (FISH).
+Following slide review, 3 cases were reclassified as grade 2, leaving 59 cases for analysis.
+Demographic and clinicopathological data were collected from medical records and analyzed.
+A total of 98.3% of cases were not amplified by HER2 FISH, with only 1 case showing amplification.
+All cases were ER positive.
+Oncotype DX scores, available for select cases, showed low recurrence scores (below 25).
+The single HER2-amplified case contained a ductal carcinoma in situ component with HER2 3+ staining, potentially leading to a false positive result.
+In conclusion, HER2 amplification is rare in low-grade, tubule-forming IBCs.
+These results suggest reconsidering current guidelines to reduce unnecessary FISH testing, potentially improving cost-effectiveness and clinical efficiency without compromising diagnostic accuracy.

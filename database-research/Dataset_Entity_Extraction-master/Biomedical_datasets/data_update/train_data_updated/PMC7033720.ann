@@ -1,0 +1,9 @@
+T1	URL 209 273	https://ftp.ncbi.nih.gov/blast/db/ref_viruses_rep_genomes.tar.gz
+T2	Repository 613 620	GenBank
+T3	AccessionNumber 621 629	MN988668
+T4	AccessionNumber 634 642	MN988669
+T5	Repository 644 665	Sequence Read Archive
+T6	AccessionNumber 696 707	PRJNA601736
+R1	hasAttr	Arg1:T2	Arg2:T3
+R2	hasAttr	Arg1:T2	Arg2:T4
+R3	hasAttr	Arg1:T5	Arg2:T6

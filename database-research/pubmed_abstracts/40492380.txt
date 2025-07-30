@@ -1,0 +1,9 @@
+Among the plethora of cancer immune evasion mechanisms, T-cell-inhibiting factors within the tumor microenvironment impose a major challenge for the development of novel immunotherapies.
+Strategies to overcome immunosuppression and remodel the TME are therefore urgently needed.
+Therapeutic cancer vaccines based on engineered arenaviruses have been proven to generate potent tumor specific CD8+ T-cell responses in preclinical models and cancer patients.
+Despite signs of clinical activity as monotherapy, combination therapies are needed to further increase the therapeutic effect.
+To address this need, we evaluated the efficacy of recombinant vectors based on lymphocytic choriomeningitis virus encoding the T-cell stimulating cytokines IL-7, IL-12 and IL-15 with or without tumor-associated antigens.
+These vectors were tested in three different mouse tumor models (TC-1, MC-38 and B16.F10).
+Our results demonstrate that only IL-12 encoding vectors led to increased immunogenicity and efficacy, which, after systemic administration, was associated with adverse events.
+The safest and most potent regimen consisted of systemic vaccination with tumor antigen encoding vectors and local injection of IL-12-encoding vectors.
+A single round of this treatment regimen resulted in 86-100% tumor-free mice and warrants further investigation.

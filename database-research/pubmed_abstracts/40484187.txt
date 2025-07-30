@@ -1,0 +1,10 @@
+Biliary tract cancer is associated with distinct metabolic alterations, particularly in lipid metabolism.
+This study aimed to classify biliary tract cancer cells automatically based on lipid droplet (LD) characteristics using three-dimensional (3D) optical diffraction tomography (ODT) combined with convolutional neural networks (CNNs).
+Human biliary tract cancer cell lines (SNU1196, SNU308, and SNU478) and a normal cholangiocyte cell line (H69) were cultured to evaluate the LD volume, mass, and count.
+We generated 3D refractive index tomograms and developed a CNN-based diagnostic system for automated classification.
+The biliary tract cancer cells exhibited significantly increased LD volume, mass, and count compared with those of normal cholangiocytes, reflecting distinct metabolic profiles.
+The EfficientNet-b3 model achieved an area under the curve (AUC) of 0.982 and an accuracy of 93.79%.
+Incorporating LD metadata, such as volume and dry mass, improved performance, yielding an AUC of 0.997 and an accuracy of 97.94%.
+Combining LD metadata with multi-view score fusion enhanced diagnostic performance (AUC: 0.999, accuracy: 98.61%).
+Further, LayerCAM analysis revealed that the model focused on LD-rich cytoplasmic regions, thereby aligning with known metabolic phenotypes.
+Overall, our findings demonstrate the diagnostic potential of LD characteristics and support the clinical utility of 3D ODT combined with deep learning for early detection of biliary tract cancer and future multimodal applications.

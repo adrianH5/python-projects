@@ -1,0 +1,10 @@
+T1	Repository 152 159	GenBank
+T2	AccessionNumber 177 186	NC_045512
+T3	Repository 250 280	Immune Epitope Database (IEDB)
+T4	Repository 603 610	GenBank
+T5	AccessionNumber 628 636	MT012098
+T6	Repository 769 776	GenBank
+T7	AccessionNumber 794 803	NC_045512
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T4	Arg2:T5
+R3	hasAttr	Arg1:T6	Arg2:T7

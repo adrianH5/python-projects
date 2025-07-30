@@ -1,0 +1,5 @@
+Limited data on the potential safety risk of vaccine-associated transverse myelitis (TM) is available.
+Thus, we aimed to identify the global burden and clinical features of vaccine-associated TM to facilitate tailored monitoring of potential adverse vaccine reactions.
+This study used data from the World Health Organization pharmacovigilance database, which contains over 35 million reports from over 140 countries.
+We extracted individual case safety reports from 1967 to 2023.
+To investigate the potential association between 19 vaccines and TM, we calculated global reporting counts, reported odds ratios (ROR) with 95% confidence intervals (CI), and information components (IC) with IC

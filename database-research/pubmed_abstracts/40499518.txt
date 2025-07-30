@@ -1,0 +1,5 @@
+A key feature of immunoglobulin G (IgG) antibodies is their capacity to deplete target cells, which is broadly referred to as antibody-dependent cellular cytotoxicity (ADCC).
+The capacity to kill target cells has made cytotoxic antibodies the standard of care for many malignant, autoimmune, and infectious diseases.
+However, cytotoxic antibody activity in therapeutic settings is often limited, and current optimization approaches have only mildly enhanced therapeutic efficacy.
+In this review, we discuss the highly complex molecular and cellular pathways underlying an ADCC reaction and how these are impacted by the type of target cell, the effector cells, and the tissue environment.
+We also discuss implications for improving therapies and provide an updated model of cytotoxic IgG activity.

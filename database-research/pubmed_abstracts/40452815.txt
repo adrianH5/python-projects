@@ -1,0 +1,7 @@
+This study explores the efficacy and safety of combining immunotherapy with chemotherapy for neoadjuvant non-small cell lung cancer (NSCLC) treatment.
+Despite the rapid advancement of immunotherapy, direct evidence comparing it with chemotherapy alone is limited.
+Following PRISMA guidelines, we analyzed global phase II and III randomized controlled trials data.
+Our meta-analysis included nine trials with 3431 participants, showing that combined treatment significantly improved event-free survival, pathological complete response, major pathological response, surgical acceptance, and R0 resection rates in NSCLC compared with chemotherapy alone.
+Safety analysis revealed similar all adverse event incidences between treatments, while Grade ≥3 adverse events were higher than those in neoadjuvant chemotherapy.
+Network meta-analysis confirmed the benefits of different immunotherapeutic drugs and efficacy in different subgroups.
+The study's high-quality evidence suggests that neoadjuvant immunotherapy plus chemotherapy should be considered in clinical practice for NSCLC, with further research needed to optimize treatment strategies and improve patient outcomes.

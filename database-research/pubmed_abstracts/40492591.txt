@@ -1,0 +1,8 @@
+Liver metastasis is prevalent among patients with neuroendocrine prostate cancer (NEPC) and other types of neuroendocrine (NE) cancers, featuring with an aggressive clinical course and a dismal prognosis.
+However, the cellular and molecular mechanisms underlying liver-specific metastatic tropism in NE cancers remain poorly understood.
+Intriguingly, it is found that NEPC liver metastatic foci are frequently associated with thrombi.
+NEPC cells express an aberrantly elevated level of glycosyltransferase Galnt9.
+Notably, the Galnt9-mediated O-GalNAc glycosylation on the cell membrane of NE cancer cells, particularly on the adhesion molecule Annexin A2, activates the mannose-binding lectin (MBL) complement signaling in the liver.
+This cascade stimulates platelet activation and thrombus formation, ultimately facilitating hepatic metastasis of NEPC.
+Inhibition of O-GalNAc glycosylation or knockdown of Galnt9 demonstrates efficacy in restraining the liver metastasis of NEPC, small cell lung cancer (SCLC), and colorectal neuroendocrine cancer.
+These findings identify Galnt9-mediated O-GalNAc glycosylation as a targetable mechanism driving liver metastasis through activation of MBL complement and coagulation cascades across a broad spectrum of NE cancers.

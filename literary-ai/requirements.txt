@@ -1,0 +1,43 @@
+# Core
+python-dotenv
+PyMuPDF
+pdfminer.six
+ebooklib
+lxml
+beautifulsoup4
+tika
+tqdm
+numpy
+pandas
+scikit-learn
+
+# NLP & Embeddings
+spacy
+nltk
+torch
+transformers
+sentence-transformers
+sentencepiece
+
+# Vector Databases & Search
+faiss-cpu
+
+# Knowledge Graph
+networkx
+
+# LLM Integration
+openai
+
+# Prompt Engineering / Orchestration
+langchain
+langchain-community
+langchain-openai
+
+
+# Additional
+bitsandbytes
+accelerate
+
+# Testing (just to make sure individual modules work)
+pytest
+

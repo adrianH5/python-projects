@@ -1,0 +1,7 @@
+Recent findings have indicated that pharmacological inhibition of the mTOR kinase can become a widely used experimental approach to generate dormant cancer cells in vitro.
+However, the suppression of mTOR, which is responsible for global translation, can significantly rewire basic cellular functions influencing the expression of housekeeping genes.
+To prevent incorrect selection of a reference gene in dormant tumor cells, we analyzed the expression stability of the widely used housekeeping genes GAPDH, ACTB, TUBA1A, RPS23, RPS18, RPL13A, PGK1, EIF2B1, TBP, CYC1, B2M, and YWHAZ in the T98G, A549, and PA-1 cancer cell lines treated with the dual mTOR inhibitor AZD8055.
+It has been revealed that the expression of the ACTB gene, encoding the cytoskeleton, and the RPS23, RPS18, and RPL13A genes, encoding ribosomal proteins, undergoes dramatic changes, and these genes are categorically inappropriate for RT-qPCR normalization in cancer cells treated with dual mTOR inhibitors.
+B2M and YWHAZ were determined to be the best reference genes in A549 cells, and the TUBA1A and GAPDH genes were the best reference genes in T98G cells.
+The optimal reference genes among the 12 candidate reference genes were not revealed in the PA-1 cell line.
+Validation of the stability of the 12 investigated genes demonstrated that the incorrect selection of a reference gene resulted in a significant distortion of the gene expression profile in dormant cancer cells.

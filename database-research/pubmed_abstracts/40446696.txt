@@ -1,0 +1,4 @@
+Tumor-associated macrophages (TAMs) play a pivotal role in immune suppression, tumor progression, and metastasis within the tumor microenvironment (TME) of ovarian cancer.
+While TAMs are known to promote T-cell dysfunction, the precise molecular mechanisms governing this process remain poorly understood.
+Here, we performed an integrated analysis of six high-grade serous ovarian cancer (HGSOC) single-cell sequencing datasets to investigate the molecular and functional diversity of TAMs in HGSOC.
+We identified an SPP1

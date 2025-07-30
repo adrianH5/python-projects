@@ -1,0 +1,4 @@
+Artificial intelligence-based facial recognition (AI-FR) is promising in diagnosis of diseases with distinct facial features.
+Our team has retrospectively constructed an AI-FR system for Turner Syndrome (TS) based on 1295 facial photographs in previous research.
+This study aims to evaluate this AI-FR system for TS screening in a prospective cohort in real-world clinic setting.
+We also aim to elucidate the impact of complexity of facial features on diagnostic accuracy of AI-FR in this cohort.

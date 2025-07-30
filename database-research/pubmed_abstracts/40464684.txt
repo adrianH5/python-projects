@@ -1,0 +1,5 @@
+N 4-Acetylcytidine (ac4C) is an emerging epitranscriptomic mark involved in regulating RNA stability, translation, and gene expression.
+Despite its emerging role in gene regulation and disease, current methods for in situ detection of ac4C-modified RNA lack sensitivity and specificity.
+To overcome these challenges, we developed fluorine metabolic labeling mediated proximity ligation assay (FMPLA), a method combining fluorine-based metabolic labeling with a proximity ligation assay for precise detection of newly synthesized fluoro-metabolically labeled ac4C sites.
+This approach enables high-sensitivity visualization of multiple RNA species, and provides insights into the abundance and spatial dynamics of ac4C-modified RNAs during the cell cycle and under chemotherapeutic stress.
+Additionally, FMPLA reveals distinct RNA modification patterns in drug-resistant cancer cells, highlighting its potential in studying functions and mechanisms of RNA ac4C modification.

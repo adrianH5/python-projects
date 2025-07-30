@@ -1,0 +1,9 @@
+DNA double-strand breaks (DSBs) are among the most hazardous cellular damages, potentially leading to cell death or oncogenesis if unrepaired.
+Genome editing methods, such as the CRISPR/Cas9 system, induce DSBs and utilize these repair pathways for gene knockout and knock-in.
+Although ionizing radiation also induces DSBs, it is not clear whether the efficiency of genome editing is affected by ionizing radiation.
+This study investigated the impact of gamma-ray exposure on the genome editing efficiency of the improved genome editing via oviductal nucleic acid delivery (i-GONAD) method.
+Gamma-rays were exposed to pregnant mice receiving i-GONAD targeting the Hr gene, whose mutation causes hair loss in mice.
+The exposure on the fertilization day (Day 0) decreased natural delivery rates and litter sizes, with notable effects at 0.3 Gy or higher.
+Although the proportions of hairless offspring obtained by i-GONAD differed greatly between single-guide RNAs (sgRNAs) used, total mutation rates, including hairless, mosaic, and indel, were equivalent.
+Gamma-ray exposure on Day 0 and the day after fertilization (Day 1) similarly and almost dose-dependently enhanced the genome editing efficiency evaluated by the total mutation rate.
+This study suggests the improvement of genome editing efficiency by gamma-ray exposure, at least in i-GONAD method, potentially facilitating the creation of diverse experimental animal models.

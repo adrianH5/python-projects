@@ -1,0 +1,6 @@
+BET proteins facilitate transcription of most eukaryotic genes but the specific mechanisms by which BET proteins perform their functions remain poorly understood.
+As chromatin readers, BET proteins use their tandem bromodomains to interact with acetylated lysine residues on histones and other protein partners.
+However, recent findings illustrate that bromodomain activity does not fully explain BET protein roles in transcription, highlighting the significance of other BET protein domains.
+We evaluated the importance of all conserved domains of BET proteins and determined that the extra-terminal (ET) domain is essential for cell viability, genome-wide transcription and BET protein chromatin occupancy.
+Furthermore, we provide evidence that the ET domain performs these functions serving as a hub for interactions with other factors involved in transcription regulation.
+Our findings expand current understanding of the complex biology of BET proteins and suggest the mechanisms by which cells can bypass bromodomain inhibition in pathologic states.

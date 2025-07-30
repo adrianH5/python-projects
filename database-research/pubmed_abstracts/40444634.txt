@@ -1,0 +1,6 @@
+Bacteria take up environmental DNA using dynamic appendages called type IV pili (T4P) to elicit horizontal gene transfer in a process called natural transformation.
+Natural transformation is widespread amongst bacteria yet the parameters that enhance or limit this process across species are poorly understood.
+We show that the most naturally transformable species known, Acinetobacter baylyi, owes this property to uniquely high levels of DNA binding by its orphan minor pilin, FimT.
+Expression of A. baylyi FimT in a closely related Acinetobacter pathogen substantially improves its capacity for natural transformation, showing that the acquisition of a single gene is sufficient to increase rates of horizontal gene transfer.
+We show that, compared with its homologs, A. baylyi FimT contains multiple regions of positively charged residues that additively promote DNA binding efficiency.
+These results demonstrate the importance of T4P-DNA binding in establishing natural transformation rates and provide a basis for improving or limiting this mechanism of horizontal gene transfer in different species.

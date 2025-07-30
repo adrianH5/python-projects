@@ -1,0 +1,5 @@
+Red blood cell (RBC) membrane has emerged as innovative biological nanocarriers.
+In this study, RBCs membrane-coated sorafenib (SF)-MXene-Au nanocomposite (SF-MX-Au@RBCs), was developed as a smart drug delivery (SDD) system, offering enhanced photothermal therapy (PTT) under near-infrared (NIR) irradiation.
+The synthesized SF-MX-Au@RBCs exhibited an average size of approximately 65 nm and a zeta potential of -22.11 mV.
+The cumulative SF release from SF-MX-Au@RBCs reached 61.4 % under NIR irradiation at pH 7.4 over 96 h. Furthermore, the treatment effectiveness of SF-MX-Au@RBCs as a chemo-PTT treatment was evaluated against HepG2 liver cancer cells.
+In vitro assay demonstrated significant cytotoxicity, with chemo-PTT achieving an IC

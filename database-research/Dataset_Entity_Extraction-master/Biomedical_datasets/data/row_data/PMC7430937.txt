@@ -1,0 +1,19 @@
+Emerging epidemiological studies have brought the attentions towards liver injury and liver impairment as a potential outcome of COVID19 infection.
+Similarly, in COVID-19, more than half of patients developed abnormal levels of alanine aminotransferase and aspartate aminotransferase (AST) (Zhang et al. 2020).
+Moreover, higher liver dysfunction was observed with more severe presentations of COVID-19 and more admission to intensive care units (Guan et al. 2020; Huang et al. 2020).
+In the COVID-19, the resulting hepatic dysfunction is accompanied by abnormal coagulation and fibrinolytic pathways leading to worse outcomes (Tang et al. 2020; Thachil et al. 2020).
+Liver impairment during COVID-19 infection could be due to several factors including the direct infection of liver cells with SARS-CoV-2 (Wang et al. 2020; Zhao et al. 2020), cytokine storm and inflammation, and drug-induced toxicity.
+Understanding that may reflect how such medications may affect the level of infectivity and permissibility of the liver following COVID-19 infection (Boeckmans et al. 2020).
+Not all medications present in Fig. 1b were available in this dataset.
+Within the analgesics, acetaminophen revealed a dose-dependent reduction in expression level of ACE2, while the effect of non-steroidal anti-inflammatory drugs (NSAIDs) ranged between no expression change with ibuprofen and meloxicam and mixed effect of decreased ACE2 and increased TMPRSS2 expressions with diclofenac, naproxen, and nimesulide (Fig. 1b; Supplementary Table 1).
+Our results are based on public gene expression datasets and thus they may or may not reflect changes in protein expression.
+Although the increased risk of developing severe COVID-19 infections should not be correlated solely with the use of medications, data presented here suggest that we should be vigilant about the potential medication effects.
+Publicly available gene expression datasets available via Toxicogenomics Project-Genomics Assisted Toxicity Evaluation System (Open TG-GATEs) (Igarashi et al. 2015), National Center for Biotechnology Information Gene Expression Omnibus (NCIB GEO, https://www.ncbi.nlm.nih.gov/geo) and the European Bioinformatics Institute (EMBL-EBI, https://www.ebi.ac.uk) were used.
+Medication treatments were extracted from TG-GATEs database using the high and middle concentrations.
+The data for chloroquine derivative medication were extracted from the GSE30351 dataset.
+The rat in-invitro treatments were obtained from DrugMatrix toxicogenomic database (GSE57805).
+Emerging epidemiological studies brought the attentions towards liver injury and impairment as a potential outcome of COVID19.
+Understanding that may reflect how such medications may affect the level of infectivity and permissibility of the liver following COVID-19.
+Using transcriptomic datasets, Toxicogenomic Project-Genomics Assisted Toxicity Evaluation System (Open TG-GATEs) and GSE30351, we have tested the ability of ninety common medications to regulate COVID-19 receptors expression in human primary hepatocytes.
+To confirm the observed effects on primary human hepatocytes, rat hepatocyte treatments data was obtained from DrugMatrix toxicogenomic database (GSE57805), which showed a similar ACE2 and TMPRSS2 expression pattern.
+More research is needed to determine the effect of different medications on COVID-19 receptors.

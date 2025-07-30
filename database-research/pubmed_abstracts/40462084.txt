@@ -1,0 +1,7 @@
+Tumor-associated macrophages (TAMs) represent the dominant immune cell subset within the ovarian tumor microenvironment, which exhibits remarkable plasticity.
+They can readily undergo polarization toward an immunosuppressive M2-like phenotype in response to various factors secreted by tumor cells, playing a pivotal role in ovarian cancer advancement and the development of resistance to chemotherapy.
+M2 TAMs promote the invasiveness of ovarian cancer cells and their resistance to therapeutic agents through the secretion of numerous tumor-promoting factors, including cytokines, chemokines, enzymes, and exosomes.
+Furthermore, M2 TAMs significantly contribute to the peritoneal metastasis of cancer cells by aiding in the formation of spheroids and facilitating adhesion at metastatic sites.
+Concurrently, TAMs can suppress immune responses by interacting with lymphocytes, natural killer cells, and dendritic cells, thereby fostering an immunosuppressive milieu.
+Extensive research has indicated that M2-like TAMs exert detrimental effects in ovarian tumors, with elevated levels correlating positively with diminished overall survival rates.
+This review seeks to summarize the existing knowledge regarding the mechanisms through which TAMs affect both the progression of ovarian cancer and the development of chemotherapy resistance, underscoring the necessity for innovative therapeutic approaches aimed at targeting these cells within the tumor microenvironment.

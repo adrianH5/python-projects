@@ -1,0 +1,7 @@
+Rho GTPases are key regulators of cell motility and membrane trafficking, influencing critical processes such as epithelial-mesenchymal transition (EMT).
+Among them, the small GTPase RhoB plays a pivotal role, but the mechanisms underlying its regulation remain largely unclear.
+We have previously identified the Rho guanine nucleotide exchange factor (RhoGEF) Solo (ARHGEF40) as a regulator of endosomal RhoB in epithelial cells.
+Here, we find that Solo is upregulated in breast cancer cells with high EMT scores and promotes cell motility through its RhoGEF activity.
+Solo's ability to enhance migration is further regulated by phosphorylation at tyrosine 242, mediated by the proto-oncogene Src.
+By combining high-resolution imaging with photoconversion assays, we further demonstrate that Solo regulates Src trafficking dynamics, localization, and consequently signaling at focal adhesions.
+Together, our data identify Solo as a novel feedback regulator of Src and a key driver of the motility of breast cancer cells with mesenchymal characteristics.

@@ -1,0 +1,9 @@
+Elucidating the role of somatic mutations in cancer, healthy tissues, and aging depends on methods that can accurately characterize somatic mosaicism across different cell types, as well as assay their impact on cellular function.
+Current technologies to study cell-type-specific somatic mutations within tissues are low-throughput.
+We developed Duplex-Multiome, incorporating duplex consensus sequencing to accurately identify somatic single-nucleotide variants (sSNV) from the same nucleus simultaneously analyzed for single-nucleus ATAC-seq (snATAC-seq) and RNA-seq (snRNA-seq).
+By introducing strand-tagging into the construction of snATAC-seq libraries, duplex sequencing reduces sequencing error by >10,000-fold while eliminating artifactual mutational signatures.
+When applied to 98%/2% mixed cell lines, Duplex-Multiome identified sSNVs present in 2% of cells with 92% precision and accurately captured known sSNV mutational spectra, while revealing unexpected subclonal lineages.
+Duplex-Multiome of > 51,400 nuclei from postmortem brain tissue captured sSNV burdens and spectra across all major brain cell types and subtypes, including those difficult to assay by single-cell whole-genome sequencing (scWGS).
+This revealed for the first time that diverse neuronal and glial cell types show distinct rates and patterns of age-related mutation, while also directly discovering developmental cell lineage relationships.
+Duplex-Multiome identified clonal sSNVs occurring at increased rates in glia of certain aged brains, as well as clonal sSNVs that correlated with changes in expression of nearby genes, in both neurotypical and autism spectrum disorder (ASD) individuals, directly demonstrating that somatic mutagenesis can contribute to gene expression phenotypes.
+Duplex-Multiome can be easily adopted into the 10X Multiome protocol and will bridge somatic mosaicism to a wide range of phenotypic readouts across cell types and tissues.

@@ -1,0 +1,10 @@
+Epigenetic modulators in combination with proapoptotic drugs have become the standard of care treatment in hematological malignancies.
+Conversely, these combinations have failed to demonstrate clinical efficacy in solid tumors.
+To address this discrepancy, we conducted a comprehensive analysis of the anti-tumor activity of epigenetic inhibitors in combination with BH3 mimetics that block anti-apoptotic proteins BCL-XL, BCL2 or MCL1 in a large set of solid tumor cell lines derived from patients and mouse models.
+Treatment with epigenetic drugs targeting DNA methyltransferase, histone methyltransferase, and histone deacetylase enzymes in combination with a BCL-XL inhibitor resulted in marked synergistic in vitro responses both in human and mouse solid tumor cell lines.
+This unique BCL-XL dependency was in clear contrast to hematological malignancies, which are largely dependent on BCL2 or MCL1 inhibition under epigenetic drug treatment.
+Mechanistically, co-targeting of epigenetic regulators and BCL-XL induced expression of endogenous retroelements that led to immunogenic cell death.
+We thus hypothesized that this response may sensitize tumor cells to immune checkpoint blockade (ICB).
+Accordingly, treatment with a triple combination of epigenetic and BCL-XL inhibitors with an anti-PD-1 monoclonal antibody in vivo reduced tumor growth and prolonged overall survival in a panel of murine syngeneic and orthotopic models of lung, colorectal and breast carcinomas, melanoma, and glioblastoma, as well as in an immunocompetent human colon cancer model.
+Using flow cytometry and single-cell RNA sequencing of the tumor microenvironment, we found that the broad activity of the triple therapy relied on the expansion of T and NK cells with cytotoxic potential, an increase in the M1/M2 macrophage ratio, and a reduction of immunosuppressive Treg cells, dendritic cells, and B lymphocytes.
+In conclusion, we report a novel regimen combining epigenetic and BCL-XL inhibitors with ICB that produces potent anti-tumor responses in multiple preclinical models of solid tumors.

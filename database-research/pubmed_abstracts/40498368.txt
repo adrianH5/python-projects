@@ -1,0 +1,8 @@
+Long non-coding RNAs (lncRNAs) are a class of non-protein-coding RNAs that have over 200 nucleotides.
+Various studies have shown that aberrant expression of lncRNAs can lead to the development of different tumors.
+Furthermore, recent findings revealed that abnormal lncRNA expression can significantly influence cancer-related processes such as proliferation, migration, invasion, metastasis, and epithelial-mesenchymal transition.
+Colon cancer-associated transcript 2 (CCAT2), a type of lncRNA, was initially identified as an oncogene in colon cancer and subsequently identified as a prognostic biomarker in different cancers, including hepatocellular carcinoma, esophageal squamous cell carcinoma, ovarian cancer, lung cancer, breast cancer, and other tumors.
+Cumulative studies have revealed that the overexpression of CCAT2 is significantly correlated with tumor size, tumor node metastasis (TNM stage), tumor progression, and poor clinical outcomes.
+The significant role of CCAT2 in various gastrointestinal (GI) malignancies has drawn increased attention in recent years.
+In the present study, we reviewed recent literature concerning lncRNA CCAT2's role in the development and progression of different GI cancers, including colorectal, gastric, hepatocellular, and oropharyngeal cancer, its interaction with cancer-related molecular mechanisms, and evaluate its potential as a diagnostic and prognostic biomarker in GI patients.
+In addition, this study shows that CCAT2 can be applied as a novel target for treatment strategies in gastrointestinal cancers.

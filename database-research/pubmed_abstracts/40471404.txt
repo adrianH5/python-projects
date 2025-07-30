@@ -1,0 +1,11 @@
+Prostate cancer is a prevalent malignancy, and effective biomarkers are needed to improve patient management.
+This study aimed to explore the prognostic value and potential functions of POLR2H in prostate cancer.
+Prognosis-related genes for prostate cancer were screened through high-throughput functional screening using CRISPR.
+qPCR was used to detect POLR2H expression in different prostate cancer cell lines, prostate hyperplasia cell lines, and normal human prostate epithelial cells.
+Transwell and scratch assays were conducted to assess cell migration ability.
+Cell proliferation ability was evaluated by CCK-8 and colony formation assays.
+POLR2H emerged as a gene of interest associated with patient outcomes.
+Its expression was found to be elevated in prostate cancer cell lines compared with benign and normal prostate cells.
+Functional assays indicated that altering POLR2H levels affected cell migration and proliferation.
+Moreover, analysis across patient cohorts suggested an association between POLR2H expression and immune cell infiltration, implying a potential role in immunotherapy response.
+These findings support the role of POLR2H as a promising prognostic marker and potential therapeutic target in prostate cancer.

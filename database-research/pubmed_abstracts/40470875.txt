@@ -1,0 +1,9 @@
+Extracellular matrix (ECM) remodeling plays critical roles in cancer progression and involves alterations in its composition and biophysical properties.
+Aggressiveness and malignancy of solid tumors are strongly correlated with tissue stiffening, mainly due to upregulated ECM production and cross-linking.
+However, nothing is known about the tensional alterations that occur at the single-fiber level during tumorigenesis in humans.
+The well-validated peptide tension probe (FnBPA5) now reveals that Fibronectin fibers lose their tension as invasive tumors progress while they are stretched in healthy human breast tissue stroma and in ductal carcinoma in situ (DCIS), the non-invasive precursor of breast cancer.
+In invasive carcinomas, cancer cells, cancer-associated fibroblasts (CAFs) and infiltrating immune cells (cytotoxic T cells and regulatory T cells), are predominantly located in proximity to untensed Fibronectin fibers.
+This is significant, as Fibronectin fiber stretching can mechano-regulate the reciprocal cell-ECM crosstalk and the bioavailability of ECM-bound molecules.
+Not only tissue stiffening, but also the accumulation of untensed Fibronectin fibers may serve as a mechanical biomarker that correlates with tumor grade.
+Loss of Fibronectin fiber tension may play a central role in regulating tumor invasiveness.
+This suggests that physically altered ECM fibers can be exploited for stroma-targeted drug delivery and immunotherapy.

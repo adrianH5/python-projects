@@ -1,0 +1,12 @@
+T1	Repository 71 78	GenBank
+T2	AccessionNumber 94 102	MN975262
+T3	AccessionNumber 210 218	MN975262
+T4	AccessionNumber 371 381	MG772934.1
+T5	AccessionNumber 386 396	MG772933.1
+T6	AccessionNumber 398 406	KP886808
+T7	AccessionNumber 408 416	KP886809
+T8	AccessionNumber 421 429	DQ022305
+T9	AccessionNumber 501 509	AY390556
+T10	AccessionNumber 514 522	AY274119
+T11	AccessionNumber 576 584	AY515512
+R1	hasAttr	Arg1:T1	Arg2:T2

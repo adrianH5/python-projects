@@ -1,0 +1,12 @@
+Tumor microenvironment (TME) is a highly intricate and variable system.
+The Warburg effect has made researchers further realize that TME is a highly hypoxic microenvironment.
+Currently, it is reported that lactate is not merely a metabolic waste but also serves important biological functions, which provides a large number of reaction substrates for lactylation.
+Post-translational modification (PTM) is crucial for signaling and physiological regulation in both normal and cancer cells.
+Various PTMs play pathological roles in tumor proliferation, metabolism, and the remodeling of the tumor immunosuppressive microenvironment (TIME).
+Lactylation, as a newly reported PTM, plays an important role in shaping TIME and aggravating tumor immunotherapy resistance.
+Numerous studies have demonstrated that histone lactylation can directly stimulate gene transcription within chromatin, thereby contributing to tumor promotion and diminishing the efficacy of therapeutic agents against tumors.
+Advancements in multi-omics technology enable researchers to investigate lactylation-related substrates more effectively.
+By precisely targeting these sites, it is possible to reduce histone lactylation in order to mitigate their effects on tumor immune resistance.
+Despite the existence of numerous studies, there remains a notable deficiency of systematic reviews in this field.
+Therefore, this review focuses on the novel mechanisms of lactylation that promote tumor progression and its impact on tumor immune resistance.
+Finally, we propose relevant therapeutic regimens for reversing lactylation to guide tumor combined therapy, thus providing benefits upon more patients with tumor immune resistance.

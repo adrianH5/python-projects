@@ -1,0 +1,15 @@
+This study aimed to explore the exact roles of lysine acetyltransferase 5 (KAT5) in prostate cancer (PCa).
+PCa tumour tissue samples and paired adjacent normal prostate tissues as well as three PCa cell lines were used.
+Gene expression was determined utilizing real-time PCR, western blotting and immunohistochemical staining.
+Cell viability, migration, and invasion was determined utilizing CCK-8, Transwell and Scratch assays, respectively.
+Levels of glucose, lactate, and ATP were measured utilizing corresponding assay kits.
+Extracellular acidification rate (ECAR) and oxygen consumption rates (OCR) were measured using Seahorse method.
+Xenografted tumor mice model was established to detect the roles of KAT5 in vivo.
+KAT5 expression was elevated in PCa tissue and cell lines, particularly in castration-resistant PCa tissue and DU145 cells.
+Overexpression of KAT5 promoted proliferation, migration, invasion, and expression of phosphorylated p38 and JNK of DU145 cells, whereas such effects was reversed after transfecting si-KAT5 or inhibiting p38 and JNK.
+KAT5 expression positively correlated with PKM and GLUT1, and its overexpression elevated PKM2 and GLUT1 levels.
+KAT5 overexpression promoted glucose uptake, lactate production, ATP levels in DU145 cells, and these were reversed after si-KAT5 treatment or inhibiting p38 and JNK.
+ECAR and OCR assays further confirmed that KAT5 facilitating aerobic glycolysis.
+After inhibiting glycolysis using 2-DG, KAT5 mediated cells proliferation was partly suppressed.
+Inhibition KAT5 expression suppressed tumor growth in vivo.
+KAT5 may involve in PCa tumor progression via p38-mediated aerobic glycolysis, which might be a promising anti-tumor strategy in PCa.

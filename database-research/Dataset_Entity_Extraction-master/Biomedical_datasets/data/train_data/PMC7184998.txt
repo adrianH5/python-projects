@@ -1,0 +1,7 @@
+The present outbreak of the coronavirus-associated acute respiratory disease is named coronavirus disease 19 (COVID-19) by WHO.
+Since the pandemic of COVID-19, more than 332, 930 people from 147 countries and territories have been confirmed sicked and more than 14, 510 have died from the rapidly-spreading SARS-CoV-2 virus as of March 23, 2020 [2].
+Total 558 complete genome sequences of the SARS-CoV-2 strains from the infected individuals are retrieved from the GISAID database [26] as of March 23, 2020.
+Only the complete genomes of high-coverage and having no stretches of’NNNNN’ are included in the dataset.
+The GISAID Ids of SARS-CoV-2 isolates are listed in the supplementary material.
+This study retrieved the SNP genotypes of 558 SARS-CoV-2 strains in GISAID database from the globe.
+The emerging global infectious COVID-19 disease by novel Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) presents critical threats to global public health and the economy since it was identified in late December 2019 in China.

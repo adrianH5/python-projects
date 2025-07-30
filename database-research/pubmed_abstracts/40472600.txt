@@ -1,0 +1,8 @@
+Breast cancer is the leading cause of mortality among women worldwide.
+The largest prevalence of breast cancer is present in high-income nations, but the incidence in low- to middle-income countries has risen in recent years, which is the consequence of various causes, such as dietary habits.
+Dietary fat intake is a factor associated with the risk of developing breast cancer, and a moderate positive association between n-6 fatty acids and breast cancer risk has been described.
+Linoleic acid (LA) is an omega-6 polyunsaturated fatty acid (PUFA), which represents an essential PUFA and the major fatty acid consumed in occidental diets.
+It has been demonstrated that LA promotes cellular processes involved with invasion/metastasis in MDA-MB-231 breast cancer cells.
+In this study, we demonstrate that LA induces migration via FFAR1 and FFAR4, invasion and secretion of matrix metalloproteinase (MMP)-2 and MMP-9 in 4T1 triple negative breast cancer cells.
+In addition, 4T1 cells treated with 60 µM LA for 7 days and then inoculated in Balb/cJ mice induces an increase in the weight and volume of mammary tumors, and an increase in the metastasis to brain and liver compared with Balb/cJ mice inoculated with untreated 4T1 cells.
+In conclusion, LA induces cellular processes involved with invasion/metastasis and an increase in the growth of mammary tumors and metastasis in a murine model of breast cancer using Balb/cJ mice and 4T1 cells.

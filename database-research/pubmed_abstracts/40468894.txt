@@ -1,0 +1,12 @@
+Decreased kidney function is observed in some people receiving carboplatin, but limited literature explores this in dogs.
+The aim of this study was to evaluate the incidence and risk factors for decreased kidney function in dogs receiving carboplatin.
+A single-institute retrospective cohort study compared the incidence of decreased kidney function between non-azotaemic dogs receiving carboplatin and an age- and weight-matched cancer-bearing control group not receiving chemotherapy.
+Change in creatinine concentration and a linear mixed effects model were used to compare trends in creatinine between groups.
+Decreased kidney function was defined as a sustained increase in creatinine ≥ 26.5 μmol/L on ≥ 2 consecutive measurements compared to baseline; the VCOG-CTCAE v2 grading system for increased creatinine was also applied.
+Risk factors were explored.
+Ninety-eight dogs were included (n = 49/group).
+There was no difference in median change in creatinine concentration (+2.0 μmol/L; p = 0.311) or creatinine trends (p = 0.958) across the study period between groups.
+Incidence of decreased kidney function was low and did not significantly differ between groups (carboplatin group n = 4 [8.2%]; control group n = 2 [4.1%]; p = 0.678); no risk factors were identified.
+There was no difference in the frequency of VCOG grade one (p = 0.731), two (p = 0.641) or three (p = 0.429) creatinine adverse events between groups.
+Non-azotaemic dogs receiving carboplatin do not have a significantly increased short-term risk of decreased kidney function compared to those not receiving chemotherapy, although the numerical increase in incidence in dogs receiving carboplatin could be clinically relevant.
+Larger studies should aim to explore this further and investigate carboplatin's impact on subclinical and long-term renal function.

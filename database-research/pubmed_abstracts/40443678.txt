@@ -1,0 +1,5 @@
+Pancreatic cancer is projected to become the second leading cause of cancer-related death by 2030.
+Conventional interventions including surgery, radiotherapy, and chemotherapy provide only modest survival benefits, underscoring an urgent need for more effective therapies.
+Although immunotherapy has revolutionized the management of several solid tumors, its clinical benefit in pancreatic cancer has so far been disappointing.
+Mounting evidence indicates that a highly immunosuppressive tumor microenvironment (TME), dominated by tumor-associated macrophages (TAMs), myeloid-derived suppressor cells (MDSCs), and regulatory T cells (Tregs), drives immune evasion, tumor progression, metastasis, and chemoresistance through complex cytokine and chemokine networks.
+This review summarizes current knowledge of these immunosuppressive mechanisms and provides emerging strategies aimed at re-educating or depleting these cellular constituents to enhance the efficacy of immunotherapy in pancreatic cancer.

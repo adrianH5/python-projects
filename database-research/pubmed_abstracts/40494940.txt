@@ -1,0 +1,4 @@
+Physical activity (PA) has been consistently associated with improved cancer outcomes across multiple epidemiological studies.
+While the evidence for clinical benefits is strong, the underlying molecular mechanisms remain poorly understood.
+Recent technological advances now enable both continuous monitoring of PA through wearable devices and comprehensive molecular profiling through multi-omics approaches, including whole-genome sequencing (WGS)-based molecular residual disease (MRD) detection.
+This review examines current evidence regarding PA's effects on cancer biology and introduces the LIFELOG study, which aims to address critical knowledge gaps in this field.

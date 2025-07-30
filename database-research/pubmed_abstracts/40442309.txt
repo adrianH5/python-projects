@@ -1,0 +1,11 @@
+Our study introduces a novel bacteriophage-based vaccine strategy and evaluates its antitumor efficacy, both as a standalone therapy and in combination with gene electrotransfer (GET) of interleukin-12 (IL-12) plasmids.
+Using phage display technology, we produced engineered M13 bacteriophages expressing tumour peptides MAGE-A1, gp100, or MART-1/MELAN-A on the surface of the capsid.
+The therapeutic potential of bacteriophage vaccination alone or in combination with GET IL-12 was tested in vivo in a mouse malignant melanoma model.
+Response to treatment was further characterized by histological and immunohistochemical analyses of tumour tissue.
+No negative side effects were observed during treatment in mice.
+Engineered bacteriophage therapy significantly delayed tumour growth.
+GET IL-12 contributed to the therapeutic effect of engineered bacteriophages and increased tumour growth delay.
+Both therapies had a synergistic effect and led to complete responses in 30% of cases.
+Histological and immunohistochemical analyses have shown that both bacteriophage monotherapy and, especially in combination with GET IL-12, activate the immune system and increase the proportion of necrosis and the infiltration of macrophages, CD4 + and CD8 + T lymphocytes in tumours.
+For the first time, a cocktail of three engineered M13 bacteriophages displaying different melanoma-associated antigens with intratumoral IL-12 gene electrotransfer were applied, demonstrating a synergistic therapeutic effect in a highly aggressive melanoma model.
+Nanotechnological approaches, such as the use of genetically engineered bacteriophages, offer promising new avenues for the development of anti-tumour vaccines.

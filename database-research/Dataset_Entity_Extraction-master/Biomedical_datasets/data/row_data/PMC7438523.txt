@@ -1,0 +1,19 @@
+The rapid spread of the COVID-19 pandemic is a sparking challenge for the entire world, and climate change may also affect the emergence of this novel coronavirus.
+The recent emerging evidences suggested that the transmission of COVID-19 is associated with weather conditions, with dry and cold conditions appeared to boost the spreading of the infections.
+Moreover, the per day mortality rate of COVID-19 is positively associated with diurnal temperature range (DTR) but negatively with relative humidity.
+Therefore, this study has targeted the genome-wide mutational spectra covering nucleotide, aa and deletion mutations in 2,492 complete (and/or near complete) genomes of SARS-CoV-2 retrieved from the global initiative on sharing all influenza data (GISAID) (https://www.gisaid.org/) up to 30 March 2020 (Supplementary Fig. 1, Supplementary Table 1a).
+Nucleotide (nt) sequence alignment revealed a total of 1,516 mutations (synonymous vs nonsynonymous ratio = 2.5:1) across the entire set of genomes of the SARS-CoV-2 strains compared to the NCBI reference strain, Wuhan-Hu-1 (Accession NC_045512).
+To our knowledge and based on this dataset, the 24-nt deletion (G32:L39) is only found in Japanese strain.
+Also, the high morbidity and mortality of immune-compromised patients infected by COVID-19 might be correlated with the disastrous consequences of these mutations.
+Further phylogenic study targeting those unique mutations may guide to proper global phylodynamics of the virus and modulate the regional control strategy against the COVID-19 pandemic.
+Temperate European countries such as Italy, Spain, France, Netherlands and England are major COVID-19 infected countries with higher mortality rates at this initial stage.
+Regardless of the importance of geography on the COVID-19 epidemiology, the effects of global mobility upon the genetic diversity and molecular evolution of SARS-CoV-2 are underappreciated and only beginning to be comprehended.
+Moreover, the recent monograph on the spatial epidemiology of COVID-19 makes no reference to the genetic variation of SARS-CoV-2.
+To decipher the genetic variations, we retrieved two thousand four hundred and ninety-two (n = 2,492) complete or near-complete genomes of SARS-CoV-2 available at the global initiative on sharing all influenza data (GISAID) (https://www.gisaid.org/) up to 30 March 2020.
+To estimate the case fatality (mortality) rates of SARS-CoV-2 infections, we collected information on total infected cases, and total reported deaths in these countries from the World Health Organization (WHO) COVID-19 Reports up to March 30, 2020.
+We aligned the SARS-CoV-2 genome sequences using MAFFT online server using default parameters, and the complete genome sequence SARS-CoV-2 Wuhan-Hu-1 strain (Accession NC_045512, Version NC_045512.2) was used as a reference genome.
+Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2), a novel evolutionary divergent RNA virus, is responsible for the present devastating COVID-19 pandemic.
+To explore the genomic signatures, we comprehensively analyzed 2,492 complete and/or near-complete genome sequences of SARS-CoV-2 strains reported from across the globe to the GISAID database up to 30 March 2020.
+We used the complete genome sequence SARS-CoV-2 Wuhan-Hu-1 strain (Accession NC_045512, Version NC_045512.2) as a reference genome.
+The annotated genomes (n = 2,492) have been retrieved from publicly open database, the global initiative on sharing all influenza data (GISAID) (https://www.gisaid.org/) up to March 30, 2020.
+Further information regarding the accession numbers of the studied genomes could be found in the Supplementary Data 1.

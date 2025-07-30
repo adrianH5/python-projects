@@ -1,0 +1,13 @@
+In addition to individual factors, differences in community-level factors impact mortality rates of cervical cancer (CC), especially in the Southeast United States, where CC one-year mortality is significantly higher than national average.
+This study investigated the association between community-level social vulnerability measured using the Centers for Disease Control and Prevention's Social Vulnerability Index (SVI) and overall and one-year CC mortality in Alabama.
+Retrospective cohort study using Alabama State Cancer Registry data from 2012 to 2021.
+Outcome of interest was mortality due to CC.
+Residential addresses were geocoded to determine SVI scores categorized into quartiles.
+Cox proportional hazards model was used to assess associations between SVI quartiles and overall and one-year CC mortality adjusting for age at diagnosis, race, marital status, and insurance status.
+Further, CC mortality in younger adults (≤50 years) was compared with older adults (> 50 years).
+A total of 1,325 women with CC were included in the study.
+The median age at diagnosis was 49 years (IQR: 39-62) and 69.73% were White.
+Median follow-up time was 9 months (IQR: 5-17).
+Among older adults, we observed statistically significant association between higher SVI quartiles and overall mortality (Q4: aHR 1.86; 95% CI 1.15, 3.01; p = 0.012] and one-year mortality (Q3: aHR 2.66; 95% CI 1.34, 5.29; p = 0.005; Q4: aHR 2.45; 95% CI 1.18, 5.08; p = 0.016).
+This study highlights the role of community factors in CC mortality among older women.
+Community-level strategies are needed to reduce the burden of CC mortality in Alabama and other high-risk regions.

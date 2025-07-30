@@ -1,0 +1,6 @@
+This study aims to comprehensively assess the clinical performance of the Versius robotic platform in the context of robot-assisted radical prostatectomy (RARP), focusing on its safety profile, practicality, and postoperative functional recovery, in order to support its integration into urologic cancer management.
+An extensive literature search was performed using databases including PubMed, Embase, Web of Science, the Cochrane Library, and ClinicalTrials.gov, covering publications up to December 2024.
+The eligible studies were those reporting on perioperative metrics or functional outcomes associated with Versius-assisted RARP.
+Data extraction and synthesis were carried out under a single-arm meta-analytic framework.
+The aggregated measures such as operative duration, intraoperative blood loss, length of hospitalization, complication frequency, positive surgical margin (PSM) rate, and continence outcomes were calculated using Stata 18 SE.
+The study heterogeneity was quantified via the I

@@ -1,0 +1,5 @@
+Neutrophils are the first responders of our innate immune system, crucial for defense against various infections.
+The intricate regulation of neutrophil migration is essential for neutrophil function.
+However, a complete mechanistic understanding is missing.
+We performed a miRNA overexpression screen and identified miR-190 as a potent suppressor of neutrophil migration in zebrafish.
+Through a second round of small-scale screening using neutrophil-specific knockouts of putative miR-190 targets, we identified that

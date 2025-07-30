@@ -1,0 +1,9 @@
+Lung cancer is the most frequently diagnosed malignancy worldwide and remains the leading cause of cancer-related mortality.
+Non-small-cell lung cancer (NSCLC) is the most prevalent type of lung cancer, with epidermal growth factor receptor (EGFR) gene mutations being among the most frequently reported.
+ARID1A (AT-Rich Interactive Domain 1A), a key component of the switch/sucrose non-fermentable (SWI/SNF) chromatin remodeling complex, has emerged as a tumor suppressor in multiple cancers and is mutated in approximately 8 % of lung cancers, primarily as a loss-of-function (LOF) alteration, which allows the gene to be considered a potential molecular marker, predictive of poor NSCLC prognosis.
+Co-occurrence of ARID1A LOF mutations and EGFR alterations presents complex biological and therapeutic challenges.
+ARID1A LOF mutations negatively affect the efficacy of EGFR tyrosine kinase inhibitors (EGFR-TKIs) via several molecular mechanisms, including the aberrant activation of the phosphoinositide 3-kinase/serine-threonine kinase (PI3K/AKT) signaling pathway.
+This leads to decreased apoptosis, increased tumor angiogenesis, enhanced proliferation, and greater metastatic potential.
+On the other hand, ARID1A LOF mutations have emerged as promising predictive biomarkers for favorable responses to immune checkpoint inhibitors (ICIs).
+The underlying mechanisms include modulation of epithelial-to-mesenchymal transition (EMT), alterations in the tumor immune microenvironment (TIME), impaired mismatch repair (MMR) function, increased tumor mutation burden (TMB), enhanced neoantigen presentation, and upregulation of programmed death ligand 1 (PD-L1) and type I interferon (IFN-I) expression.
+These findings highlight the dual role of ARID1A mutations as prognostic and predictive biomarkers, underscoring the need for further investigation into their complex biological and therapeutic implications.

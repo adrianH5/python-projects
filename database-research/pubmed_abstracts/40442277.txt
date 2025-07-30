@@ -1,0 +1,11 @@
+The present study attempts to uncover eHealth literacy and cancer screening attitudes among chronic patients receiving inpatient treatment.
+We collected the data of this cross-sectional study from 300 chronic patients face-to-face between August 1 and November 30, 2023.
+Participants were administered a demographic information form, the e-Health Literacy Scale, and the Attitude Scale for Cancer Screening.
+We analyzed the data using independent samples t-test, one-way analysis of variance, and simple linear regression analysis.
+Our findings showed that only one-fifth of participants were knowledgeable about cancer screening programs.
+The most prevalent facilitating and hindering factors of getting screened for cancer were found to be professional healthcare guidance and lack of knowledge, respectively.
+Participants had a mean score of 14.17 ± 10.29 on the e-Health Literacy Scale and 89.66 ± 20.86 on the Attitude Scale for Cancer Screening.
+Moreover, we found that the greater the eHealth literacy, the more positive participants' attitudes toward cancer screening.
+Finally, 6.4% of the variance in the cancer screening attitudes was explained by eHealth literacy (p < 0.05).
+Insufficient eHealth literacy and cancer screening attitudes among chronic patients, particularly those receiving inpatient treatment, are likely to lead patients to remain incognizant of their elevated risks and unable to cooperate with their physicians.
+Our findings imply designing multidisciplinary initiatives to boost e-health literacy among chronic patients.

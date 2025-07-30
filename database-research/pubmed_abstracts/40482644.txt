@@ -1,0 +1,8 @@
+Extracellular vesicles (EVs) are heterogeneous in size, biogenesis, content, and function.
+Aggressive cancer cells release a distinct, poorly characterized, and particularly large EV subtype, namely large oncosomes (LOs).
+This study employs an optimized method to improve LO yields and integrates mass spectrometry and RNA sequencing (RNA-seq) to profile their molecular cargo.
+A consistent set of proteins enriched in LOs is identified across glioma, prostate, and breast cancer cell lines.
+These proteins are also present as mRNA in LOs from the prostate cancer model and are abundant in plasma LOs from 20 patients with metastasis.
+Single-LO RNA-seq confirms bulk LO cargo, demonstrating the utility of single-cell technologies for large vesicle analysis.
+Our patient study provides proof-of-principle evidence that we can use multiomics to delve into EV heterogeneity, biogenesis, and composition.
+It also suggests that plasma LOs help stratify patients, supporting their potential prognostic value for developing a multi-analyte approach for liquid biopsy.

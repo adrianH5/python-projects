@@ -1,0 +1,7 @@
+We quantified virus infectivity with the 50% tissue culture infectious dose TCID50 assay, and estimated the corresponding plaque forming units (PFU)/ml using the conversion PFU/ml = 0.7 TCID50
+.
+The results are reported as the estimate plaque forming units (PFU)/ml using the conversion PFU/ml = 0.7 TCID50
+ by applying the Poisson distribution.
+It is also important to note that the previous results with H1N1 virus utilized a fluorescent focus assay to assess virus survival in contrast to this work which used the TCID50 assay.
+While both assays are widely used to accurately determine viral infectivity, the former employs immunofluorescence to detect a specific viral antigen, instead of depending on cytopathic effects as in the TCID50 assay.
+The dataset file generated during and/or analysed during the current study is available in the Open Science Framework (OSF) repository, identifier: DOI 10.17605/OSF.IO/KGZAF.

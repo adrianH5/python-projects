@@ -1,0 +1,17 @@
+This study aimed to compare image quality and solid focal liver lesion (FLL) assessments between free-breathing, diffusion-weighted imaging using deep learning reconstruction (FB-DL-DWI) and conventional DWI (FB-C-DWI) in patients undergoing clinically indicated liver MRIs.
+Our retrospective study included 199 patients who underwent 3 T-liver MRIs with FB-DL-DWI and FB-C-DWI.
+DWI was performed using a single-shot, spin-echo, echo-planar, fat suppression technique during free-breathing with matching parameters.
+Three radiologists independently evaluated subjective image quality across two sequences.
+The apparent diffusion coefficient (ADC) was measured in 15 liver regions.
+Four radiologists analyzed 138 solid FLLs from 60 patients for the presence of diffusion restriction, lesion conspicuity, and sharpness.
+Among the 199 patients, 110 (55.3%) had underlying chronic liver disease (CLD).
+FB-DL-DWI was found to be 43.0% faster than FB-C-DWI (119.4 ± 2.2 sec vs. 209.6 ± 3.7 sec).
+Furthermore, FB-DL-DWI scored higher than FB-C-DWI for all subjective image quality parameters (all, P < 0.001); however, FB-DL-DWI exhibited greater artificial sensation than FB-C-DWI (P < 0.001).
+In patients with CLD, FB-DL-DWI exhibited a better subjective image quality (all, P < 0.001) than FB-C-DWI.
+ADC values ranged from 1.06-1.12 × 10-3 mm2/sec in FB-DL-DWI and 1.06-1.20 × 10-3 mm2/sec in FB-C-DWI.
+Among the 138 lesions analyzed, 116 malignancies (61 hepatocellular carcinomas, 3 cholangiocarcinomas, 52 metastases) and 22 benignities were included.
+Four readers identified 88, 93, 93, and 105 diffusion-restricted FLLs in FB-DL-DWI and 84, 80, 98, and 95 in FB-C-DWI.
+FB-DL-DWI (75.9-90.5%) demonstrated comparable or superior diffusion restriction rates for malignant FLLs compared to FB-C-DWI (68.1-82.8%).
+Furthermore, FB-DL-DWI presented higher lesion-edge sharpness and lesion-conspicuity compared to FB-C-DWI.
+Overall, FB-DL-DWI provided better image quality, lesion sharpness, and conspicuity for solid FLLs, with a shorter acquisition time than FB-C-DWI.
+Therefore, FB-DL-DWI may replace FB-C-DWI as the preferred imaging method for liver evaluations.

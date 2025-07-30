@@ -1,0 +1,6 @@
+Fibroblast growth factor receptors (FGFRs) represent promising therapeutic targets in various malignancies, yet the clinical application of FGFR covalent inhibitors has been impeded by several significant challenges, including unquantifiable target engagement, undefined off-target effects, and the emergence of drug resistance.
+In this study, we designed and synthesized a series of FGFR activity-based probes (ABPs) derived from FIIN-2, a pioneering selective, next-generation irreversible covalent FGFR inhibitor with demonstrated efficacy against gatekeeper mutations.
+Among them, FP1 exhibited comparable inhibitory potency to FIIN-2.
+FP1 could facilitate precise in vitro and in situ labeling and visualization of both FGFR1-4 and their mutants.
+Utilizing FP1, we successfully mapped the target spectrum of FIIN-2 in MDA-MB-453 cells through activity-based protein profiling (ABPP), and established a robust framework for employing our probe as a generalizable tool to systematically evaluate the on- and off-target activities of prospective FGFR covalent inhibitors.
+Overall, the FGFR ABP offers a promising strategy for elucidating the engagement of FGFR, profiling the target specificity and mechanisms of covalent FGFR inhibitors, and offering potential avenues for overcoming drug resistance.

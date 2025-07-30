@@ -1,0 +1,9 @@
+Bone Morphogenetic Proteins might be the most prospective in glioma treatment because of the facts that they can differentiate glioma cells, inhibit tumor growth and manage glioma stem cells.
+Its clinical application is hindered by several challenges, including limited permeability across the blood-brain barrier, which impedes effective delivery to the central nervous system; high susceptibility to enzymatic degradation, which compromises stability and therapeutic efficacy; and nonselective binding, which reduces specificity and may result in unintended off-target effects.
+This review systematically covers the advanced BMP delivery systems such as nanoparticles, smart carriers, gene therapy, and exosome-based system.
+Hydrogels, scaffolds, and microspheres' local delivery methods are also discussed as prospective options.
+The in vitro studies reveal that BMPs are effective and using in vivo glioma models there is also evidence of the effectiveness of BMPs.
+In addition, new clinical trials reveal concern with safety, tolerability, and therapeutic effects of BMPs, especially their combination with chemotherapy and immunotherapy.
+BMP specificity and therapeutic performance are further optimized by Personalized medicine and CRISPR/Cas engineering.
+However, regulatory barriers and product commercialization are challenging issues.
+This review highlights the need for novel approaches and advanced technologies to address the challenges associated with BMP delivery, aiming to establish BMP-based therapies as an effective treatment strategy for glioma.

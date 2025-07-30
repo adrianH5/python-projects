@@ -1,0 +1,7 @@
+Chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL) predominantly affects older adults and is characterized by a prolonged disease course.
+While overall survival has improved, the psychosocial burden, including suicide risk, remains underexplored.​ METHODS: A retrospective cohort study was conducted using data from 95,517 patients diagnosed with CLL/SLL between 2000 and 2021 from the SEER 17 registry.
+LASSO regression was utilized for variable selection, followed by univariate and multivariate Cox proportional hazards and Fine-Gray competing risk analyses to identify independent predictors.
+A nomogram was developed based on significant predictors and validated using time-dependent receiver operating characteristic (ROC) curves, calibration plots, and decision curve analysis (DCA).​ RESULTS: The cohort's mean age was 69.2 years, with 21.6% aged ≥ 80 years and a male-to-female ratio of 1.5:1; 88.8% were White.
+Although the suicide rate was low (0.1%), multivariate analysis showed that male sex, non-married status, lower income, and White race were significantly associated with increased suicide risk.
+Advanced age (≥ 80) was significant in Cox but not in competing risk models.
+The nomogram demonstrated good predictive accuracy (AUC > 0.71 at 3, 5, and 10 years) and clinical utility.

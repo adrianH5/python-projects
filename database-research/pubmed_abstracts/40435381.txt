@@ -1,0 +1,2 @@
+This article discusses current research on the detection of urinary cancers using surface-enhanced Raman spectral analysis of human serum by Song et al., which was published in the Analytical Chemistry journal.
+Despite the high performance of the suggested approach (ROC AUC of 0.94), the demonstrated performance could be treated as overoptimistic because of an overestimation of classification models.

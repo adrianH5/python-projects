@@ -1,0 +1,3 @@
+The tumor microenvironment has an important role in the growth and progression of diffuse large B-cell lymphoma (DLBCL).
+Immune checkpoint molecules, including PD1, LAG3, and CTLA4, are crucial to regulate the T cells function in the tumor microenvironment.
+Exploring the expression of these molecules in DLBCL microenvironment is crucial for developing targeted therapies enhancing anti-tumor immune responses.

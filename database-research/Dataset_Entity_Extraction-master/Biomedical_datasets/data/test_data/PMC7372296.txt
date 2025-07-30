@@ -1,0 +1,9 @@
+As of May 23, 2020, over 5100,000 confirmed cases of Coronavirus Disease 2019 (COVID-19) and 330,000 deaths were reported globally [3], with over 200 countries impacted [4], [5], [6], [7].
+ACE2 has also been shown recently as the cellular receptor for SARS-CoV-2 in virological studies or bioinformatic analyses (PMID: 32015508, 32142651) [9].
+The S gene sequence of SARS-CoV-2 (GISAID, No. EPI_ISL_402119) and SARS-CoV (GenBank No. AY278489.2) were codon-optimized for expression in human cells.
+SARS-CoV-2 was added to the cells (200 50% tissue culture infective dose, TCID50).
+The Ct value of the measured sample was analyzed with the standard curve to calculate the corresponding TCID50 value of the sample.
+To test whether hACE2 is required for SARS-CoV-2 infection, we infected Vero cells with 50 TCID50 of live SARS-CoV-2 virus in the presence of various concentrations of recombinant ACE2, as a soluble form of ACE2-Fc [14].
+Vaccines inducing broad and sustained immunity could offer effective protection against infectious diseases such as COVID-19 [19,20].
+Unfortunately, there are currently no approved vaccines available against any human coronavirus, despite the huge medical, social and economic impacts imposed by the SARS, MERS, and the COVID-19 pandemics.
+Developing a vaccine, ideally a universal prophylactic effective against coronaviruses, will be extremely useful for combating the ongoing COVID-19 pandemic as well as future outbreaks caused by SARS-CoV variants and possibly other coronaviruses.

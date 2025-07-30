@@ -1,0 +1,9 @@
+Thyroid cancer (TC) ranks among the most prevalent cancers globally.
+The incidence rate of thyroid cancer has significantly risen in the past few decades.
+Most patients with differentiated thyroid cancer can be effectively treated with thyroidectomy and radioiodine adjuvant therapy.
+However, the management of locally advanced or distant metastatic TC remains challenging, especially in radioactive iodine-resistant tumors.
+Targeted therapy is the use of drugs designed to target overexpressed molecules in cancer cells.
+Epidermal growth factor receptor (EGFR) is a cell surface protein that plays a crucial role in cell proliferation, differentiation, and migration.
+Several studies have indicated that EGFR is overexpressed in thyroid cancer, making it a promising target in cancer treatment.
+In this review, we aimed to provide the functional significance of EGFR signaling pathway in TC.
+In addition, current strategies using anti-EGFR monoclonal antibodies and EGFR tyrosine kinase inhibitors for treating thyroid cancer are explored.

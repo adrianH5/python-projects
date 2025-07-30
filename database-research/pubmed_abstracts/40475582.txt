@@ -1,0 +1,9 @@
+Cancers maintain their telomeres through two main telomere maintenance mechanisms (TMMs): 85-90% of cancers rely on telomerase, while 10-15% of cancers adopt the Alternative Lengthening of Telomere (ALT) pathway.
+Previously, we and others reported that FANCM, one of the Fanconi Anemia proteins, plays a critical role in suppressing replication stress and DNA damage at ALT telomeres by actively disrupting TERRA R-loops [1-4].
+Here, we showed that inactivation of DNA2 in ALT-positive (ALT+) cells, but not in telomerase-positive (TEL+) cells, induces a robust increase of replication stress and DNA damage at telomeres, which leads to a pronounced increase of many ALT properties, including telomere dysfunction-induced foci (TIFs), ALT-associated PML bodies (APBs), and C-circles.
+We further demonstrated that depletion of DNA2 induces a pronounced increase of TERRA R-loops and a decrease in replication efficiency at ALT telomeres.
+Most importantly, we uncovered a strong additive genetic interaction between DNA2 and FANCM in the ALT pathway.
+Furthermore, co-depletion of DNA2 and FANCM causes synthetic lethality in ALT+ cells, but not in TEL+ cells, suggesting that targeting DNA2 and FANCM could be a viable strategy to treat ALT+ cancers.
+Finally, utilizing the single-molecule telomere assay via optical mapping (SMTA-OM) technology, we thoroughly characterized genome-wide changes in DNA2 deficient cells and FANCM deficient cells and found that most chromosome arms manifested increased telomere length.
+Unexpectedly, we uncovered many chromosome arm-specific telomere changes in those cells, suggesting that telomeres at different chromosome arms may regulate and respond to replication stress differently.
+Collectively, our study not only shed new light on the molecular mechanisms of the ALT pathway, but also discovered a new strategy for targeting ALT+ cancer.

@@ -1,0 +1,7 @@
+Resective surgery is an effective approach for long-term seizure control in drug-resistant focal epilepsy when the epileptic focus (EF) can be accurately delineated and removed.
+However, intraoperative mapping of EF with electrocorticography is laborious, time-consuming, and highly vulnerable to the effects of anesthesia.
+Here, we demonstrated that activated microglia can be reliable biomarkers for EF localization.
+Leveraging a newly developed ratiometric Raman nanosensor, ultraHOCls, we successfully visualize proinflammatory microglia in live epileptic mice, allowing for precise EF delineation without the interference of anesthesia.
+Compared to electrocorticography-guided surgery, ultraHOCl-guided surgery results in a substantial 61% reduction in total seizure burden in epileptic mouse models.
+Notably, ultraHOCls sprayed on freshly excised human brain tissues can effectively discriminate epileptic regions from non-epileptic tissues with high sensitivity (94.89%) and specificity (93.3%).
+This work provides an alternative strategy for delineating the EF intraoperatively, potentially revolutionizing surgery outcomes in epilepsy patients.

@@ -1,0 +1,6 @@
+Peritoneal metastasis (PM) is a prevalent mode of metastasis in colorectal cancer (CRC) with rapid disease progression and limited treatment options.
+Locoregional infusion of immune cells have been explored in different types of solid tumors, but the feasibility and safety of locoregional chimeric antigen receptor-natural killer (CAR-NK) cells in treating CRC-PM is still unknown.
+We report the results of a phase 1 dose-escalation clinical trial (NCT05213195) using intraperitoneal infusion of NKG2D CAR-NK cells in heavily-pretreated patients with CRC-PM, and the immune-modulatory effect of CAR-NK cells was also illustrated using multi-omics analysis and functional validation.
+Locoregional NKG2D CAR-NK cell therapy showed preliminary efficacy and tolerable toxicity in this study.
+Of nine patients, three achieved stable disease, and the disease control rate was 33.3%.
+Notably, CD8

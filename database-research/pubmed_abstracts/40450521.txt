@@ -1,0 +1,4 @@
+Colorectal cancer (CRC) is a major cause of cancer deaths, with poor outcomes in advanced stages.
+CD47, overexpressed in CRC, helps tumors evade immune detection by blocking macrophage phagocytosis, while CD47 blockade has shown limited efficacy in CRC.
+Our study showed that dual blockade of CD47 and TNFR2 demonstrated synergistic antitumor effects in murine colorectal cancer models.
+Since TNFR2 was highly expressed on Tregs and M-MDSCs, combination therapy targeting both CD47 and TNFR2 was tested, resulting in improved tumor control, prolonged survival, and enhanced immune responses by reducing Tregs and M-MDSCs further increasing CD8

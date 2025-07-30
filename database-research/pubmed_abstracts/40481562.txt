@@ -1,0 +1,8 @@
+AlkB homolog (ALKBH) belongs to 2-oxoglutarate (2OG) and ferrous iron-dependent oxygenases, which can catalyze the demethylation of DNA/RNA and play an important role in human diseases represented by cancer.
+Although ALKBH has been extensively studied, the biological explanation for its specific recognition of DNA/RNA and its mechanism of action in cancer remains unclear.
+This review explores the molecular mechanism of ALKBH protein binding to DNA/RNA through structural fitting and ChIP-Seq analysis and summarizes the structural biology factors that lead to its specific substrate recognition.
+Furthermore, the expression of ALKBH protein across different tissues is systematically compiled, with a tissue-specific expression map generated for 15 organs and 50 tissues.
+These maps provide valuable insights into the protein's function in various physiological contexts.
+Additionally, this review systematically summarizes the regulatory role of the ALKBH protein in the occurrence and development of cancer.
+It highlights the protein's involvement in key signaling pathways, including Wnt, AKT, AMPK, NF-κB, Hippo, and Notch, revealing its potential for application in early diagnosis and targeted cancer therapy.
+Overall, this review comprehensively expounds the biological functions of the ALKBH protein and its important role in cancer, which has important theoretical value and application prospects.

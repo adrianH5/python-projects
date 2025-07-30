@@ -1,0 +1,16 @@
+Thyroid nodule, as a common clinical endocrine disease, has become increasingly prevalent worldwide.
+Ultrasound, as the premier method of thyroid imaging, plays an important role in accurately diagnosing and managing thyroid nodules.
+However, there is a high degree of inter- and intra-observer variability in image interpretation due to the different knowledge and experience of sonographers who have huge ultrasound examination tasks everyday.
+Artificial intelligence based on computer-aided diagnosis technology maybe improve the accuracy and time efficiency of thyroid nodules diagnosis.
+This study introduced an artificial intelligence software called SW-TH01/II to evaluate ultrasound image characteristics of thyroid nodules including echogenicity, shape, border, margin, and calcification.
+We included 225 ultrasound images from two hospitals in Shanghai, respectively.
+The sonographers and software performed characteristics analysis on the same group of images.
+We analyzed the consistency of the two results and used the sonographers' results as the gold standard to evaluate the accuracy of SW-TH01/II.
+A total of 449 images were included in the statistical analysis.
+For the seven indicators, the proportions of agreement between SW-TH01/II and sonographers' analysis results were all greater than 0.8.
+For the echogenicity (with very hypoechoic), aspect ratio and margin, the kappa coefficient between the two methods were above 0.75 (P < 0.001).
+The kappa coefficients of echogenicity (echotexture and echogenicity level), border and calcification between the two methods were above 0.6 (P < 0.001).
+The median time it takes for software and sonographers to interpret an image were 3 (2, 3) seconds and 26.5 (21.17, 34.33) seconds, respectively, and the difference were statistically significant (z = -18.36, P < 0.001).
+SW-TH01/II has a high degree of accuracy and great time efficiency benefits in judging the characteristics of thyroid nodule.
+It can provide more objective results and improve the efficiency of ultrasound examination.
+SW-TH01/II can be used to assist the sonographers in characterizing the thyroid nodule ultrasound images.

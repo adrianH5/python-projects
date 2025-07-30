@@ -1,0 +1,13 @@
+This study aimed to investigate the impact of the COVID-19 pandemic on the management and outcomes of adult cardiac arrest patients by assessing the incidence, patient outcomes, and influence of comorbidities during the pandemic.
+This retrospective cross-sectional study analyzed the clinical data of 500 patients who experienced cardiac arrest in the Emergency Department of Esenyurt Necmi Kadioğlu State Hospital between September 1, 2018, and August 31, 2024.
+Patient data were obtained from the hospital's electronic records and included variables such as age, sex, arrest location, etiology, initial rhythm, intervention time, and outcomes.
+Data analysis was performed using SPSS version 26.
+Chi-square tests were used for categorical variables, while independent sample t tests and Mann-Whitney U tests were used for continuous data.
+The incidence of cardiac arrest increased during the pandemic.
+COVID-19-positive patients had a lower return of spontaneous circulation (ROSC) rates (30%) compared with negative patients (50%) and suspected cases (40%).
+Mortality was higher in COVID-19-positive patients (70%) and their discharge rates were lower (20%).
+Ventricular fibrillation as the initial rhythm was associated with better ROSC rates.
+Comorbidities such as chronic obstructive pulmonary disease, cancer, and heart failure were associated with lower ROSC rates and higher mortality rates.
+In conclusion, the COVID-19 pandemic has increased the number of cardiac arrest cases and worsened patient outcomes.
+Comorbidities significantly affected the prognosis.
+Future preparedness should focus on reducing intervention time, optimizing resource management, and implementing targeted care plans for high-risk patient groups.

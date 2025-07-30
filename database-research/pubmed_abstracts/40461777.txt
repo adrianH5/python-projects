@@ -1,0 +1,9 @@
+Clinical advancement of novel therapeutics is often hindered by variable patient responses.
+Therefore, clinically translatable biomarkers of response are urgently required to facilitate precision medicine trials.
+Endogenous volatile organic compounds (VOCs) can be non-invasively detected in exhaled breath and biofluids and have shown great potential for early cancer detection.
+Since emerging evidence suggests that cancer-associated VOCs may reflect alterations in the tumour lipidome, we speculated that the response to metabolically active therapies could be monitored through VOC measurement.
+In this proof-of-concept study, we investigated the lipidomic and volatilomic profiles of mTOR catalytic inhibitors (mTORci)-resistant and -sensitive colorectal cancer cells.
+Distinct lipid-derived VOC signatures, including upregulated alkenes, aldehydes, and fatty acids were observed in mTORci-resistant cells.
+These enriched VOCs correlated with phospholipid structure and desaturation positions, suggesting that they may be surrogates of dysregulated lipid metabolism.
+This novel association between VOCs and drug response establishes a precedent for further investigation into VOC biomarkers of treatment response.
+VOCs associated with therapy response in vitro need to be targeted in clinical trials to identify biomarkers that could be translated to monitor therapeutic response in a clinical setting.

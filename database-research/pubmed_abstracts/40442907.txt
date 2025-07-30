@@ -1,0 +1,13 @@
+Although cutaneous melanoma accounts for only about 2% of skin cancers, its rapid progression makes it an aggressive skin cancer with a high mortality rate.
+As of 2018, the SEER database estimated that the 5-year overall survival (OS) rate is 29.8% in patients with stage IV disease at diagnosis in the United States.
+Non-cutaneous melanoma, including mucosal and uveal subtypes, carries a generally worse prognosis.
+Once considered refractory to conventional treatments, such as chemotherapy and radiation therapy, the advent of immunotherapy, including immune checkpoint inhibitors (ICIs), vaccines, and tumor-infiltrating lymphocytes (TIL), and of targeted therapy over the past decade has resulted in dramatic improvements in melanoma.
+Importantly, ICIs have resulted in long-term remission for patients with melanoma, thus introducing the possibility of a cure for some patients with metastatic disease.
+These include antibodies against programmed cell death-1 (PD-1)/programmed cell death ligand-1 (PD-L1), cytotoxic T-lymphocyte antigen-4 (CTLA-4), and lymphocyte activation gene-3 (LAG-3).
+In this review, we will provide an overview of metastatic melanoma while focusing on its current pharmacologic armamentarium, toxicities of treatment, including ICIs and targeted therapy, and its therapeutic clinical strategies.
+The therapeutic advances presented in this review serve as the foundation for an ever-expanding repertoire of innovative approaches.
+These include mRNA vaccines, oncolytic viruses, bispecific engagers, oral immunomodulators, and novel cytokines.
+Adoptive cellular strategies are evolving to TILS transduced with conditional gene expression cassettes, as well as non-T cell approaches involving dendritic cells and natural killer (NK) cells.
+Targeted therapy strategies have broadened to include upstream components of RAS, other MAP kinase pathways, and HDAC inhibitors, among others.
+All these new paradigms translate into increasingly complex decision-making for the treatment team, a burden that is more than offset by the tremendous benefit for melanoma patients.
+This is truly the beginning of a new era.

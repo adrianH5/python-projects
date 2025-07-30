@@ -1,0 +1,9 @@
+Cancer neoepitopes have emerged as strong candidates as cancer vaccines.
+Mouse models of cancer neoepitopes often test their activity in models of prophylaxis, while the human setting is always in therapy of preexisting disease.
+We have previously identified 7 MHC I-presented cancer neoepitopes of the BALB/c sarcoma Meth A by mass spectrometry; 3 of the 7 neoepitopes showed anti-tumor activity in assays of prophylaxis.
+Here, we test these neoepitopes for activity in treatment of preexisting 3-, 10- and 17-d old cancers, and observe that: (i) activity in prophylaxis is not predictive of efficacy in treatment of preexisting cancers.
+(ii) The higher activity of a neoepitope in therapy, albeit not in prophylaxis, correlates well with the high precursor frequency of CD8 T cells.
+(iii) Co-immunization with CD4 and CD8 neoepitopes is essential for optimal therapeutic efficacy.
+CD4 help can be obtained from an MHC II-restricted neoepitope of the tumor, or from an irrelevant MHC II-epitope.
+(iv) The CTL and helper epitopes, linked or un-linked to each other, are equally effective.
+These insights stress and stretch some of our current suppositions and shall inform designs for use of neoepitopes in cancer treatment.

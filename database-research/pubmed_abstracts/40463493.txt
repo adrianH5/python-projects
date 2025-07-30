@@ -1,0 +1,5 @@
+Lung vasculature arises from both pulmonary and systemic (bronchial) circulations.
+Remodeling and structural changes in lung vasculature have been recognized in end-stage fibrotic lung diseases such as idiopathic pulmonary fibrosis (IPF) but have not been well characterized.
+The vasculature that expands and supplies lung cancers is better described, with the recent recognition that systemic bronchial circulation expands to be the main blood supply to primary lung tumors.
+Here, we use publicly available single-cell RNA-sequencing (scRNA-seq) data to compare vascular endothelial cell (EC) populations in multiple progressive interstitial lung diseases (ILD) and non-small cell lung cancer (NSCLC) to identify common and distinct features.
+Lung tissue specimens were collected from healthy lung tissue (

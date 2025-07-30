@@ -1,0 +1,11 @@
+SARS-CoV-2 is a pathogenic virus, which exhibits high contagiousness.
+Therefore, a rapid and sensitive SARS-CoV-2 detection strategy is imperative.
+Herein, a one-pot assay by the combination of protospacer adjacent motif (PAM)-free recombinase polymerase amplification with CRISPR/Cas12a for detecting SARS-CoV-2 N gene was reported.
+To avoid the constraint of the PAM site for double-stranded DNA (dsDNA) in CRISPR/Cas12a system, we designed two individual crRNAs to hybridize with two different regions of the target sequence.
+The presence of N gene DNA was able to initiate the amplification of RPA, exposing the recognition site of crRNA and activating the Cas12a.
+Whereafter, the Cas12a activation resulted in the digestion of nontarget DNA reporters to induce significant fluorescence signal.
+The assay completed the detection of N gene DNA within 30 min.
+And a high sensitivity of 100 aM was obtained because of RPA amplification and Cas12a trans cleavage activity.
+Meanwhile, the proposed assay showed excellent specificity due to the site-specific recognition ability of CRISPR/Cas12a.
+More importantly, analysis of spiked samples verified the excellent practical application of the proposed method.
+Thus, the assay earned promising potential in molecular diagnostics.

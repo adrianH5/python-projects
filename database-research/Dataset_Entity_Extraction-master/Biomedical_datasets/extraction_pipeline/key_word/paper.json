@@ -1,0 +1,2082 @@
+{
+    "bioctype": "BioCCollection",
+    "source": "PMC",
+    "date": "20240531",
+    "key": "pmc.key",
+    "version": "1.0",
+    "infons": {},
+    "documents": [
+        {
+            "bioctype": "BioCDocument",
+            "id": "11133521",
+            "infons": {
+                "license": "CC BY"
+            },
+            "passages": [
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 0,
+                    "infons": {
+                        "article-id_doi": "10.3389/fimmu.2024.1386517",
+                        "article-id_pmc": "11133521",
+                        "article-id_pmid": "38812504",
+                        "elocation-id": "1386517",
+                        "kwd": "acute myeloid leukemia immune system venetoclax hypomethylating agents immune checkpoints receptors immune checkpoint inhibitors (ICIs)",
+                        "license": "This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.",
+                        "name_0": "surname:Corradi;given-names:Giulia",
+                        "name_1": "surname:Forte;given-names:Dorian",
+                        "name_10": "surname:Ocadlikova;given-names:Darina",
+                        "name_11": "surname:Curti;given-names:Antonio",
+                        "name_2": "surname:Cristiano;given-names:Gianluca",
+                        "name_3": "surname:Polimeno;given-names:Andrea",
+                        "name_4": "surname:Ciciarello;given-names:Marilena",
+                        "name_5": "surname:Salvestrini;given-names:Valentina",
+                        "name_6": "surname:Bandini;given-names:Lorenza",
+                        "name_7": "surname:Robustelli;given-names:Valentina",
+                        "name_8": "surname:Ottaviani;given-names:Emanuela",
+                        "name_9": "surname:Cavo;given-names:Michele",
+                        "section_type": "TITLE",
+                        "type": "front",
+                        "volume": "15",
+                        "year": "2024"
+                    },
+                    "text": " Ex vivo characterization of acute myeloid leukemia patients undergoing hypomethylating agents and venetoclax regimen reveals a venetoclax-specific effect on non-suppressive regulatory T cells and bona fide PD-1+TIM3+ exhausted CD8+ T cells",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 241,
+                    "infons": {
+                        "section_type": "ABSTRACT",
+                        "type": "abstract"
+                    },
+                    "text": "Acute myeloid leukemia (AML) is an aggressive heterogeneous disease characterized by several alterations of the immune system prompting disease progression and treatment response. The therapies available for AML can affect lymphocyte function, limiting the efficacy of immunotherapy while hindering leukemia-specific immune reactions. Recently, the treatment based on Venetoclax (VEN), a specific B-cell lymphoma 2 (BCL-2) inhibitor, in combination with hypomethylating agents (HMAs) or low-dose cytarabine, has emerged as a promising clinical strategy in AML. To better understand the immunological effect of VEN treatment, we characterized the phenotype and immune checkpoint (IC) receptors’ expression on CD4+ and CD8+ T cells from AML patients after the first and second cycle of HMA in combination with VEN. HMA and VEN treatment significantly increased the percentage of naïve CD8+ T cells and TIM-3+ CD4+ and CD8+ T cells and reduced cytokine-secreting non-suppressive T regulatory cells (Tregs). Of note, a comparison between AML patients treated with HMA only and HMA in combination with VEN revealed the specific contribution of VEN in modulating the immune cell repertoire. Indeed, the reduction of cytokine-secreting non-suppressive Tregs, the increased TIM-3 expression on CD8+ T cells, and the reduced co-expression of PD-1 and TIM-3 on both CD4+ and CD8+ T cells are all VEN-specific. Collectively, our study shed light on immune modulation induced by VEN treatment, providing the rationale for a novel therapeutic combination of VEN and IC inhibitors in AML patients.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 1828,
+                    "infons": {
+                        "section_type": "INTRO",
+                        "type": "title_1"
+                    },
+                    "text": "Introduction",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 1841,
+                    "infons": {
+                        "section_type": "INTRO",
+                        "type": "paragraph"
+                    },
+                    "text": "Acute myeloid leukemia (AML) is an aggressive heterogeneous disease. Despite recent advances, the 5-year AML patients’ overall survival (OS) is still largely unsatisfactory, reaching only 30% and dropping to 5-10% in the elderly. To improve AML patients’ clinical outcomes, novel drugs have entered the clinical stage with favorable results. Although their direct mechanisms of action are defined, some bystander and/or off-target effects are not fully elucidated. In particular, the activity of novel drugs in modulating the immune cell repertoire has been poorly investigated.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 2424,
+                    "infons": {
+                        "section_type": "INTRO",
+                        "type": "paragraph"
+                    },
+                    "text": "The immune microenvironment of AML is characterized by a broad spectrum of alterations, including a marked dysfunction in the T cell compartment, leading to the creation of an immunosuppressive milieu, which favors immune escape and alters the response to therapy. Furthermore, AML cells can enhance T cell dysfunction through the expression of ligands activating immune checkpoint (IC) receptors expressed on T cells, modulating their functionality. These findings have provided the rationale for IC inhibitor (ICI)-based therapies in AML patients. However, despite the solid preclinical background, the early clinical results from trials addressing the impact of ICIs in AML have been globally disappointing. These data indicate the need for a more in-depth understanding of the complex cellular network operating within the AML immune microenvironment. Furthermore, considering that many studies have already shown that chemotherapy can be detrimental to the activity and survival of immune cells, a better characterization of the immunological effects of novel drugs is of utmost importance for fully exploiting immunotherapy strategies in AML.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 3573,
+                    "infons": {
+                        "section_type": "INTRO",
+                        "type": "paragraph"
+                    },
+                    "text": "The targeting of the anti-apoptotic B-cell lymphoma 2 (BCL-2) pathway has emerged as an efficacious and well-tolerated clinical strategy in AML. In particular, the remarkable results of Venetoclax (VEN), a specific BCL-2 inhibitor in combination with hypomethylating agents (HMAs) or low-dose cytarabine, have led to the drug approval for the treatment of newly diagnosed unfit-for-chemotherapy AML patients. It is well-known that VEN causes leukemic cell apoptosis through several characterized mechanisms. However, VEN resistance can occur and biomarkers able to predict response to treatment are still under investigation. Furthermore, few studies analyzed the bystander effect of VEN on immune cells. In particular, it has been shown that VEN enhances T cell-mediated activity against AML cells both in vitro and in vivo through the generation of reactive oxygen species (ROS), and in parallel, azacitidine increases AML cell susceptibility to T cell-mediated cytotoxicity through viral mimicry. Furthermore, in AML patients, HMA and VEN treatment modulates the phenotype of NK and T cells, IFN-γ secretion by CD8+ T cells and Treg proliferation. Finally, an increased expression of perforin, CD39 and IFN-γ production by T cells as a pre-treatment signature is associated with VEN-resistance.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 4879,
+                    "infons": {
+                        "section_type": "INTRO",
+                        "type": "paragraph"
+                    },
+                    "text": "Despite its recognized importance for therapeutic purposes, the expression of several IC receptors on T cells has not been evaluated in AML patients after VEN treatment. In this study, we aimed to characterize the immunological repertoire of AML patients treated with VEN in combination with HMA by focusing on the modulation of IC receptors’ expression.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 5236,
+                    "infons": {
+                        "section_type": "METHODS",
+                        "type": "title_1"
+                    },
+                    "text": "Material and methods",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 5257,
+                    "infons": {
+                        "section_type": "METHODS",
+                        "type": "title_2"
+                    },
+                    "text": "Patients and sample collection",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 5288,
+                    "infons": {
+                        "section_type": "METHODS",
+                        "type": "paragraph"
+                    },
+                    "text": "The whole patient population included 27 patients, including 23 patients treated with the combination of HMAs and VEN and 4 patients with HMAs alone. The research was approved by the institutional review board of Area Vasta Emilia Centro (AVEC) Ethical Committee (approval code: 94/2016/O/Tess). Patients with AML were recruited at IRCCS Azienda Ospedaliero-Universitaria, Seràgnoli Hematology Institute in Bologna. Clinical samples and data were collected after written informed consent. According to normal clinical practice and to the study rationale, peripheral blood (PB) samples were collected from AML patients before the start of the treatment (baseline), and at the end of the first and second treatment cycle. Patients’ characteristics are summarized in  Table 1 . PB samples were used for flow cytometry analysis or centrifuged over a Ficoll-Hypaque gradient (Lympholyte CL5020, Cedarlane, Burlington, Canada) to collect mononuclear cells (MNCs), and then cryopreserved for sample collection and storage.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 6308,
+                    "infons": {
+                        "file": "T1.xml",
+                        "id": "T1",
+                        "section_type": "TABLE",
+                        "type": "table_caption"
+                    },
+                    "text": "Patient characteristics.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 6333,
+                    "infons": {
+                        "file": "T1.xml",
+                        "id": "T1",
+                        "section_type": "TABLE",
+                        "type": "table",
+                        "xml": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<table frame=\"hsides\" rules=\"groups\"><thead><tr><th valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Patient ID</th><th valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Sex</th><th valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Age</th><th valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Disease status</th><th valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Therapy</th><th valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Cytogenetics</th><th valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Mutational status</th></tr></thead><tbody><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 1</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">M</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">65</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Relapse</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">DEC+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Normal</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Wild Type</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 2</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">M</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">60</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Relapse</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">DEC+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Complex</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">\n<italic>FLT3-ITD</italic>\n</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 3</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">F</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">70</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Onset</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AZA+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Normal</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Wild Type</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 4</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">F</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">67</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">MRD</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AZA+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Normal</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">\n<italic>NPM1; IDH1</italic>\n</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 5</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">M</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">67</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Relapse</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AZA+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Inv(16)</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">\n<italic>FLT3-TKD</italic>\n</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 6</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">M</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">60</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Onset</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">DEC+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Complex</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">\n<italic>TP53</italic>\n</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 7</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">M</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">41</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">MRD</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AZA+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Normal</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">\n<italic>NPM1</italic>\n</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 8</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">F</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">58</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">MRD</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AZA+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Normal</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">\n<italic>NPM1; FLT3-TKD; IDH1</italic>\n</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 9</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">F</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">68</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Onset</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AZA+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Normal</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">\n<italic>NPM1</italic>\n</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 10</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">M</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">69</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Onset</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AZA+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Normal</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">\n<italic>IDH2</italic>\n</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 11</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">M</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">81</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Onset</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AZA+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Trisomy (19)</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Wild Type</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 12</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">F</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">74</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Onset</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AZA+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Monosomy (7)</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Wild Type</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 13</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">F</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">65</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Onset (secondary to MDS)</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AZA+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Complex</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">\n<italic>TP53</italic>\n</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 14</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">M</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">76</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Onset</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AZA+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Complex</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">\n<italic>TP53</italic>\n</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 15</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">M</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">79</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Onset</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AZA+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Normal</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">\n<italic>FLT3-ITD</italic>\n</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 16</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">M</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">71</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Onset</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AZA+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Normal</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Wild Type</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 17</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">M</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">60</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Onset</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AZA+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Complex</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">\n<italic>IDH2</italic>\n</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 18</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">M</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">66</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Onset</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AZA+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Normal</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">\n<italic>NPM1</italic>\n</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 19</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">F</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">67</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Onset</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AZA+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Normal</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">\n<italic>NPM1; FLT3-ITD</italic>\n</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 20</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">F</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">69</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Onset</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AZA+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Monosomy (7)</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Wild Type</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 21</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">F</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">80</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Onset</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AZA+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Del (5q)</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Wild Type</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 22</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">M</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">70</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Onset</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">DEC+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Normal</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">NPM1; FLT3-ITD</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 23</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">M</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">73</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Onset</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AZA+VEN</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Normal</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">\n<italic>FLT3-TKD</italic>\n</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 24</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">M</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">72</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Onset</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">DEC</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Normal</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Wild Type</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 25</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">M</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">86</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Onset</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AZA</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Monosomy (7)</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Wild Type</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 26</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">M</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">84</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Onset</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AZA</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Not Evaluable</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Wild Type</td></tr><tr><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AML 27</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">M</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">85</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">Onset</td><td valign=\"middle\" align=\"center\" rowspan=\"1\" colspan=\"1\">AZA</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Normal</td><td valign=\"top\" align=\"center\" rowspan=\"1\" colspan=\"1\">Wild Type</td></tr></tbody></table>\n"
+                    },
+                    "text": "Patient ID\tSex\tAge\tDisease status\tTherapy\tCytogenetics\tMutational status\t \tAML 1\tM\t65\tRelapse\tDEC+VEN\tNormal\tWild Type\t \tAML 2\tM\t60\tRelapse\tDEC+VEN\tComplex\tFLT3-ITD\t \tAML 3\tF\t70\tOnset\tAZA+VEN\tNormal\tWild Type\t \tAML 4\tF\t67\tMRD\tAZA+VEN\tNormal\tNPM1; IDH1\t \tAML 5\tM\t67\tRelapse\tAZA+VEN\tInv(16)\tFLT3-TKD\t \tAML 6\tM\t60\tOnset\tDEC+VEN\tComplex\tTP53\t \tAML 7\tM\t41\tMRD\tAZA+VEN\tNormal\tNPM1\t \tAML 8\tF\t58\tMRD\tAZA+VEN\tNormal\tNPM1; FLT3-TKD; IDH1\t \tAML 9\tF\t68\tOnset\tAZA+VEN\tNormal\tNPM1\t \tAML 10\tM\t69\tOnset\tAZA+VEN\tNormal\tIDH2\t \tAML 11\tM\t81\tOnset\tAZA+VEN\tTrisomy (19)\tWild Type\t \tAML 12\tF\t74\tOnset\tAZA+VEN\tMonosomy (7)\tWild Type\t \tAML 13\tF\t65\tOnset (secondary to MDS)\tAZA+VEN\tComplex\tTP53\t \tAML 14\tM\t76\tOnset\tAZA+VEN\tComplex\tTP53\t \tAML 15\tM\t79\tOnset\tAZA+VEN\tNormal\tFLT3-ITD\t \tAML 16\tM\t71\tOnset\tAZA+VEN\tNormal\tWild Type\t \tAML 17\tM\t60\tOnset\tAZA+VEN\tComplex\tIDH2\t \tAML 18\tM\t66\tOnset\tAZA+VEN\tNormal\tNPM1\t \tAML 19\tF\t67\tOnset\tAZA+VEN\tNormal\tNPM1; FLT3-ITD\t \tAML 20\tF\t69\tOnset\tAZA+VEN\tMonosomy (7)\tWild Type\t \tAML 21\tF\t80\tOnset\tAZA+VEN\tDel (5q)\tWild Type\t \tAML 22\tM\t70\tOnset\tDEC+VEN\tNormal\tNPM1; FLT3-ITD\t \tAML 23\tM\t73\tOnset\tAZA+VEN\tNormal\tFLT3-TKD\t \tAML 24\tM\t72\tOnset\tDEC\tNormal\tWild Type\t \tAML 25\tM\t86\tOnset\tAZA\tMonosomy (7)\tWild Type\t \tAML 26\tM\t84\tOnset\tAZA\tNot Evaluable\tWild Type\t \tAML 27\tM\t85\tOnset\tAZA\tNormal\tWild Type\t \t",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 7635,
+                    "infons": {
+                        "file": "T1.xml",
+                        "id": "T1",
+                        "section_type": "TABLE",
+                        "type": "table_footnote"
+                    },
+                    "text": "AML, acute myeloid leukemia; MRD, measurable residual disease; DEC, Decitabine; VEN, Venetoclax; AZA, Azacitidine.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 7750,
+                    "infons": {
+                        "section_type": "METHODS",
+                        "type": "title_2"
+                    },
+                    "text": "Flow cytometry analysis",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 7774,
+                    "infons": {
+                        "section_type": "METHODS",
+                        "type": "paragraph"
+                    },
+                    "text": "Fresh PB was used for multi-parametric flow cytometry analysis. The monoclonal antibodies (mAbs) used for flow cytometry are listed in  Supplementary Table 1 . For the surface marker staining, PB samples containing at least 0.5x106 white blood cells (WBCs) were labeled with dye-conjugated antibodies by incubation in the dark for 15 min at room temperature. Then, the red blood cells (RBC) were lysed, adding the FACS lysing solution (Beckton Dickinson Biosciences-BD, La Jolla, CA, USA), according to the manufacturer’s instruction.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 8312,
+                    "infons": {
+                        "section_type": "METHODS",
+                        "type": "paragraph"
+                    },
+                    "text": "The T cell compartment was monitored using the following markers: CD45, CD3, CD4, and CD8. The expression of CD45RA and CD197 (CCR7) was used to distinguish T-cell subsets defined as CD45RA+/CCR7+ (naïve=N); CD45RA+/CCR7- (terminally differentiated=TD); CD45RA-/CCR7+ (central memory=CM); CD45RA-/CCR7- (effector memory=EM) ( Supplementary Figure 1A ). Furthermore, we also evaluated the expression of the following exhaustion/senescent markers: CD279 (PD-1), TIM-3 (CD366), LAG-3, (CD223), CD244 (2B4), and CD57 and activating co-stimulatory ICs: OX40 (CD134) and ICOS (CD278). The Human Regulatory T Cell Whole Blood Staining kit (Thermo Fisher Scientific, Waltham, MA, USA) was used for the intracellular staining, according to the manufacturer’s instruction. Briefly, PB samples containing at least 1x106 WBCs were stained for the surface markers in the dark for 15 min at room temperature. The RBC were then lysed for 20 minutes at room temperature using the RBC lysing solution. After 2 washes in PBS, the cells were resuspended in Fixation and Permeabilization Buffer for 30 minutes at 4°C. After 2 washes, cells were labeled with mAbs listed in  Supplementary Table 1  and incubated for 30 minutes at 4°C. Total Tregs were characterized as CD45+CD3+CD4+CD25+/highCD127low/- cells. The following evaluation of CD25 and CD45RA expression dichotomizes FOXP3+ Tregs into 3 populations: CD25+/CD45RA+/FOXP3+ as naïve, CD25high/CD45RA-/FOXP3high as effector and CD25+/CD45RA-/FOXP3+ as secreting non Tregs ( Supplementary Figure 1B ). Moreover, the expression of further markers, including ICOS, OX40, PD-1, and TIM-3, was assessed in the effector Treg population. Analysis was performed on a Cytoflex flow cytometer from Beckman Coulter, and results were obtained using the software analysis Kaluza 2.1 (Beckman Coulter, Brea, CA, USA).",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 10161,
+                    "infons": {
+                        "section_type": "METHODS",
+                        "type": "title_2"
+                    },
+                    "text": "Statistical analysis",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 10182,
+                    "infons": {
+                        "section_type": "METHODS",
+                        "type": "paragraph"
+                    },
+                    "text": "Statistical analyses were performed using GraphPad Prism software (v6.0). T-test and one-way ANOVA followed by Tukey’s multiple comparison post hoc test were used for comparison of groups. P value <0.05 was considered significant.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 10415,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "title_1"
+                    },
+                    "text": "Results",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 10423,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "title_2"
+                    },
+                    "text": "Patients’ characteristics",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 10451,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "paragraph"
+                    },
+                    "text": "To analyze VEN-dependent immune cell repertoire modifications, a group of 23 patients treated with the combination of VEN and HMAs (azacitidine or decitabine), hereafter defined as HMA plus VEN treatment and a control subgroup of 4 patients who received HMAs alone, were considered. Within the first group, 3 patients were enrolled and started therapy at relapse; 3 more patients received therapy in the phase of persistent MRD positivity, and 17 patients were included at disease onset. In the second group, the 4 patients were also enrolled at onset. Of note, regarding cytogenetics evaluation, 15 out of 27 patients had normal karyotype; 9 patients had high-risk cytogenetics; one was at low risk; one had trisomy 19, and one was not evaluable. Regarding molecular status, 7 patients were NPM1 mutated, 4 had FLT3-ITD mutations, and 3 were TP53 mutated ( Table 1 ). The NGS analyses was used and performed using a 30 myeloid-related gene capture-based panel (Myeloid Solution, Sophia Genetics, Switzerland) on a Miseq instrument (Illumina, San Diego, California). The following genes and exons are included in the panel: ABL1 (4-9), ASXL1 (9,11,12,14), BRAF (15), CALR (9), CBL (8,9), CEBPA (all), CSF3R (all), DNMT3A (all), ETV6 (all), EZH2 (all), FLT3 (13-15,20), HRAS (2,3), IDH1 (4), IDH2 (4), JAK2 (all), KIT (2,8-11,13,17,18), KRAS (2,3), MPL (10), NPM1 (10,11), NRAS (2,3), PTPN11 (3,7-13), RUNX1 (all), SETBP1 (4), SF3B1 (10-16), SRSF2 (1), TET2 (all), TP53 (2-11), U2AF1 (2,6), WT1 (6-10), ZRSR2 (all). The platform Sophia DDM (Sophia Genetics) was used for bio-informatic data analysis. Intronic and synonymous variants were filtered out and variants present with a minor allele frequency (MAF) >1%, according to population databases (ExAc, 1000 genomes), were considered polymorphic changes. Variants were also filtered according to the variant allele frequency (VAF): all variants with VAF ≥5% were reported. COSMIC and VARSOME databases, as well as in silico functional predictors (SIFT, PolyPhen) were used for variant interpretation; only variants described as pathogenic or potentially pathogenic were reported.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 12585,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "paragraph"
+                    },
+                    "text": "Eighteen patients received azacitidine, while 5 patients were treated with decitabine. Furthermore, 7 patients from the first group, treated with HMA plus VEN, were consolidated with allogeneic hematopoietic stem cell transplant (HSCT).",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 12822,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "title_2"
+                    },
+                    "text": "HMA plus VEN modifies T cell subsets",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 12859,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "paragraph"
+                    },
+                    "text": "To evaluate the effects of the treatment of HMA plus VEN on circulating immune cell repertoire, we first analyzed CD4+ and CD8+ T cell subsets in the PB of AML patients during treatment, compared to PB examined before treatment (baseline). Total T lymphocytes were slightly increased, although not significantly, after the first and second cycles of HMA plus VEN treatment, compared to baseline ( Supplementary Figure 2A ). Focusing on T cell subsets, we found that the percentage of CD4+ and CD8+ T cells did not change during HMA plus VEN treatment ( Supplementary Figures 2B, C ). A more detailed analysis of effector CD4+ T-cell subpopulations, identified as naïve/central memory/effector memory/terminally differentiated by CD45RA and CCR7 expression, did not show significant changes during HMA plus VEN treatment, compared to baseline ( Figure 1A ). Interestingly, regarding CD8+ T-cell subpopulations, we found a significant increase of CD8+ naïve T cells during the first and second cycles of HMA plus VEN treatment (mean ± SEM, baseline: 11.56 ± 2.07; cycle 1: 20.04 ± 2.89; cycle 2: 20.14 ± 3.18; baseline vs cycle 1, *P=0.037; baseline vs cycle 2, *P=0.034), while the memory subsets were not modified ( Figure 1B  left panel). Finally, we also studied the Treg population, and found that total Tregs, identified as CD4+CD25+CD127low/- T cells, tended to decrease after HMA plus VEN treatment ( Figure 1C  left panel). A more detailed analysis of Treg subsets revealed that the HMA plus VEN only slightly affected the naive and effector Treg distribution ( Supplementary Figures 2D, E ). On the contrary, the percentage of cytokine-secreting non-suppressive Tregs, which includes Th17 cells, was significantly decreased after the first cycle of HMA plus VEN treatment, compared to the baseline (mean ± SEM, baseline: 4.51% ± 0.855%; cycle 1: 2.63% ± 0.34%; cycle 2: 3.28% ± 0.40%; baseline vs cycle 1, *P=0.041;  Figure 1C  right panel).",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 14826,
+                    "infons": {
+                        "file": "fimmu-15-1386517-g001.jpg",
+                        "id": "f1",
+                        "section_type": "FIG",
+                        "type": "fig_caption"
+                    },
+                    "text": "Distribution of T cell subsets during HMA plus VEN treatment. All the samples were analyzed by flow cytometry and data are represented as mean ± SEM. (A) CD4+ T cell subsets. Frequencies of CD45RA+/CCR7+ cells (naïve=N, upper left panel), CD45RA-/CCR7+ cells (central memory=CM, upper right panel); CD45RA-/CCR7- cells (effector memory=EM, lower left panel), CD45RA+/CCR7- cells (terminally differentiated=TD, lower right panel). Baseline, at least n=11; cycle 1 at least, n=16; cycle 2, n=12. (B) CD8+ T cell subsets. Cells were analyzed as described for A). Baseline, at least n=11; cycle 1, at least n=17; cycle 2, n=12. For naïve CD8+ T cells (upper left panel): baseline vs cycle 1, *P=0.037; baseline vs cycle 2, *P=0.034. (C) Frequencies of Tregs (CD3+CD4+CD25+CD127low/- cells) before treatment (n=12), after first (n=17), and second (n=12) cycle of HMA plus VEN (left panel). Frequencies of cytokine secreting non-suppressive Tregs (CD45RA-CD25highFOXP3+ cells; right panel) within the CD3+CD4+CD25+CD127low/- Treg population, expressed as a percentage of CD4+ cells, in patients before treatment (baseline, n=12), after first (n=17), and second (n=12) cycle of HMA plus VEN; baseline vs cycle 1 *P=0.041.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 16044,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "paragraph"
+                    },
+                    "text": "These data suggest that HMA plus VEN treatment induces a redistribution of immune cell subsets towards a more naïve phenotype for CD8+ T-cell subsets. On the contrary, HMA plus VEN treatment does not significantly modify the Treg compartment, while it induces a decrease in the percentage of cytokine-secreting non-suppressive Tregs.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 16379,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "title_2"
+                    },
+                    "text": "HMA plus VEN treatment alters the expression of PD-1 and TIM-3 on CD4+ and CD8+ T cells",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 16467,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "paragraph"
+                    },
+                    "text": "Then, we evaluated the effects of HMA plus VEN treatment on the expression of IC inhibitory receptors, such as PD-1, TIM-3, and LAG-3, and activating co-stimulatory molecules, including ICOS and OX-40. Interestingly, we found that HMA plus VEN treatment induced changes in the percentage of PD-1+ and TIM-3+ CD4+ T cells compared to baseline ( Figure 2 ). In particular, the percentage of PD-1+ CD4+ T cells was slightly reduced after the first cycle of HMA plus VEN treatment, while TIM-3+ CD4+ T cells were significantly increased after the first cycle (mean ± SEM, baseline: 11.32% ± 1.63%; cycle 1: 19.33% ± 2.55%; cycle 2: 15.86% ± 2.97%; Baseline vs cycle 1, *P=0.041), as shown in  Figures 2A, B , respectively. PD-1+/TIM-3+ T cells showed a statistically significant decrease after the second cycle of HMA plus VEN treatment, compared to baseline (mean ± SEM, baseline: 5.07% ± 1.06%; cycle 1: 5.39% ± 0.74%; cycle 2: 2.70% ± 0.37%; baseline vs cycle 1, *P=0.017;  Figure 2C ). Of note, VEN plus HMA treatment did not change the expression of LAG-3, OX40 and ICOS on CD4+ T cells (data not shown).",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 17584,
+                    "infons": {
+                        "file": "fimmu-15-1386517-g002.jpg",
+                        "id": "f2",
+                        "section_type": "FIG",
+                        "type": "fig_caption"
+                    },
+                    "text": "Analysis of ICs on T cells during HMA plus VEN treatment. All the samples were analyzed by flow cytometry and data are represented as mean ± SEM. (A) Percentage of CD4+PD-1+ T cells before treatment (n=12), after first (n=18), and second (n=12) cycle of HMA plus VEN. (B) Percentage of CD4+ TIM-3+ T cells before treatment (n=12), after first (n=17) and second (n=12) cycle of HMA plus VEN (baseline vs cycle 1, *P=0.041. (C) Percentage of PD-1+/TIM-3+ CD4+ T cells before treatment (n=12), after first (n=18), and second (n=11) cycle of HMA plus VEN, baseline vs cycle 1, *P=0.017. (D) Percentage of CD8+PD-1+ T cells before treatment (n=12), after first (n=18), and second (n=12) cycle of HMA plus VEN. (E) Percentage of CD8+ TIM-3+ T cells before treatment (n=12), after first (n=17), and second (n=12) cycle of HMA plus VEN. Baseline vs cycle 1, *P=0.039. (F) Percentage of PD-1+/TIM-3+ CD8+ T cells before treatment (n=12), after first (n=17), and second (n=12) cycle of HMA plus VEN.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 18575,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "paragraph"
+                    },
+                    "text": "We next analyzed the expression of IC receptors on CD8+ T cells, and we found a slight not significant increase in PD-1 expression after the second cycle of HMA plus VEN treatment ( Figure 2D ). Similar to what we found for CD4+ T cells, TIM-3+ CD8+ T cells resulted significantly increased after the first cycle of HMA plus VEN treatment, compared to baseline (mean ± SEM, baseline: 18.17% ± 1,70%; cycle 1: 24.60% ± 2.18%; cycle 2: 21.31% ± 3.78%; baseline vs cycle 1, *P=0.039;  Figure 2E ). At the same time, we found a trend toward a decrease in the PD-1+/TIM-3+ CD8+ T cells after the first treatment cycle ( Figure 2F ).",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 19210,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "paragraph"
+                    },
+                    "text": "To further characterize the expression of markers involved in T cells’ exhausted and senescent status in AML patients treated with HMA plus VEN, we analyzed the expression of CD244 and CD57 on CD4+ and CD8+ T cells. No significant differences were found after HMA plus VEN treatment ( Figures 3A, B ). Regarding Tregs, the expression of CTLA-4, OX-40, ICOS, PD-1 and TIM-3 was analyzed in the effector Tregs, known to have the highest suppressive potential among Treg subsets, but we did not find any differences in their expression after treatment ( Supplementary Figure 3 ).",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 19791,
+                    "infons": {
+                        "file": "fimmu-15-1386517-g003.jpg",
+                        "id": "f3",
+                        "section_type": "FIG",
+                        "type": "fig_caption"
+                    },
+                    "text": "Expression of CD244 and CD57 on CD8+ T cells during HMA plus VEN treatment. All the samples were analyzed by flow cytometry and data are represented as mean ± SEM. (A) Percentage of CD8+CD244+ T cells before treatment (n=12), after first (n=18), and second (n=12) cycle of HMA plus VEN. (B) Percentage of CD8+ CD57+ T cells before treatment (n=12), after first (n=18), and second (n=12) cycle of HMA plus VEN.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 20202,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "paragraph"
+                    },
+                    "text": "Overall, these findings indicate that HMA plus VEN modify the expression of ICs on CD4+/CD8+ T cells but not in Treg cells.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 20326,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "title_2"
+                    },
+                    "text": "VEN specifically decreases cytokine-secreting non-suppressive Tregs and regulates TIM-3 expression on CD8+ and PD-1/TIM-3 expression on CD4+ and CD8+ T cells",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 20484,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "paragraph"
+                    },
+                    "text": "To dissect the specific contribution of VEN in modulating the immune cell repertoire of AML patients treated with HMA plus VEN, we considered pair-matched samples comparing the time points before treatment (baseline considered as 1), treated only with HMA and treated with the combination of HMA plus VEN. Focusing on T lymphocyte subsets, we found that VEN did not change the distribution of CD8+ naïve T cells ( Figure 4A ). In contrast, VEN specifically induced a significant reduction in the percentage of cytokine-secreting non-suppressive Tregs (mean ± SEM, HMA+VEN cycle 1: 0.62% ± 0.1%; baseline vs cycle 1 HMA plus VEN, **P=0.008;  Figure 4B ).",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 21143,
+                    "infons": {
+                        "file": "fimmu-15-1386517-g004.jpg",
+                        "id": "f4",
+                        "section_type": "FIG",
+                        "type": "fig_caption"
+                    },
+                    "text": "Analysis of pair-matched patients. All the samples were collected from patients during only 1 cycle of HMA (grey) or 1 cycle of HMA plus VEN treatment (black), and were analyzed by flow cytometry. Fold change percentages (FCH) were calculated normalizing the baseline value to 1 shown as the red line (cycle 1/baseline), and data are represented as mean ± SEM. (A) FCH of CD45RA+/CCR7+ cells (naïve) CD8+ T cells before and after first treatment cycle (HMA, n=4; HMA plus VEN, n=7). (B) FCH of cytokine secreting non-suppressive Tregs (CD45RA-FOXP3+ cells) within the CD3+CD4+CD25+CD127low/- Treg population, expressed as a percentage of total CD4+ T cells (HMA, n=4; HMA plus VEN, n=7; baseline vs cycle 1 HMA plus VEN, **P=0.008). (C) FCH of CD4+PD-1+ T cells before and after first treatment cycle (HMA, n=4; HMA plus VEN, n=8). (D) FCH of CD4+ TIM-3+ T cells before and after first treatment cycle (HMA, n=4; HMA plus VEN, n=8). (E) FCH of CD4+ PD-1+TIM-3+ T cells before and after first treatment cycle (HMA, n=4; HMA plus VEN, n=7; baseline vs cycle 1 HMA plus VEN, *P=0.025). (F) FCH of CD8+PD-1+ T cells before and after first treatment cycle (HMA, n=3; HMA plus VEN, n=8). (G) FCH of CD8+TIM-3+ T cells before and after first treatment cycle (HMA, n=4; HMA plus VEN, n=7; baseline vs cycle 1 HMA plus VEN, *P=0.020). (H) FCH of CD8+PD-1+TIM-3+ T cells before and after first treatment cycle (HMA, n=4; HMA plus VEN, n=7; baseline vs cycle 1 HMA plus VEN, **P=0.007).",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 22621,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "paragraph"
+                    },
+                    "text": "Next, we analyzed the IC expression and, interestingly, in contrast to what was observed considering the entire group of patients, we found that the expression of PD-1 on CD4+ T cells was slightly decreased by VEN treatment for matched patients ( Figure 4C ). A similar pattern was observed for TIM-3 expression on CD4+ T cells, whose expression was not affected by VEN and seemed to decrease after HMA treatment ( Figure 4D ). On the contrary, we observed a significant decrease of CD4+ T cells expressing TIM-3 and PD-1 only in patients treated with the combination HMA plus VEN after one cycle of HMA (mean ± SEM, HMA+VEN cycle 1: 0.58% ± 0.14%; baseline vs cycle 1 HMA plus VEN, *P=0.025;  Figure 4E ). Next, we analyzed the expression of ICs on CD8+ T cells, and we found that PD-1 expression is not influenced by VEN ( Figure 4F ). Conversely, the expression of TIM-3 remained stable after HMA treatment only, but was significantly increased after HMA plus VEN treatment indicating a VEN-specific effect (mean ± SEM, HMA+VEN cycle 1: 1.47 ± 0.15%; *P=0.020;  Figure 4G ). Interestingly, VEN treatment specifically and significantly decreased the expression of PD-1/TIM-3 on CD8+ T cells ( Figure 4H ; mean ± SEM, HMA+VEN cycle 1: 0.68 ± 0.08%; baseline vs cycle 1 HMA plus VEN, **P=0.007). Importantly, we found a statistically significant difference between the percentage of CD8+Tim-3+ T cells at baseline and therapy response after the first cycle ( Supplementary Figure 4 ). In particular, the increased percentage of Tim-3+CD8+ T cells was positively correlated with complete remission (CR) compared to the patients which did not achieve CR ( Supplementary Figure 4A ). The population of CD8+ T cells co-expressing PD-1 and Tim-3, strongly associated with exhaustion status, was not correlated with therapy response ( Supplementary Figure 4B ).",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 24492,
+                    "infons": {
+                        "section_type": "RESULTS",
+                        "type": "paragraph"
+                    },
+                    "text": "Overall, an in-depth analysis performed comparing samples collected after HMA only and at the first cycle of HMA plus VEN treatment with respect to the baseline, suggested a specific role of VEN in modulating the expression of inhibitory IC receptors on both CD4+ and CD8+ T cells. In particular, VEN induces an increase of the TIM-3+ CD8+ T cell population and a reduction of PD-1+/TIM-3+ CD4+ and CD8+ T cells.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 24905,
+                    "infons": {
+                        "section_type": "DISCUSS",
+                        "type": "title_1"
+                    },
+                    "text": "Discussion",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 24916,
+                    "infons": {
+                        "section_type": "DISCUSS",
+                        "type": "paragraph"
+                    },
+                    "text": "In this study, we analyzed the immune cell repertoire of 23 AML patients treated with HMA plus VEN. We focused on the modulation by treatment of IC receptors’ expression on T cells. Our data unravel the ability of VEN to modulate the immune cell compartment and the expression of ICs.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 25203,
+                    "infons": {
+                        "section_type": "DISCUSS",
+                        "type": "paragraph"
+                    },
+                    "text": "While the HMA plus VEN treatment is becoming the backbone for AML therapy, new combinatorial drug strategies, including immunotherapies, have been considered to improve the survival of AML patients. For this reason, increased knowledge of the immunological effects of VEN treatment is fundamental for fully exploiting new immunotherapy strategies in AML.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 25558,
+                    "infons": {
+                        "section_type": "DISCUSS",
+                        "type": "paragraph"
+                    },
+                    "text": "VEN is a specific BCL-2 inhibitor. Interestingly, various T cell subsets depend on BCL-2 for their survival to varying degrees and, thus, may be influenced by the treatment with VEN. In particular, naïve and memory T cells require BCL-2 for survival and/or homeostasis. In our study, after HMA plus VEN treatment, we did not find a modulation of either the total percentage of CD3+, CD4+ and CD8+ T cells nor the percentage of CD4/CD8 immune T cell subsets, except for an increase of naïve CD8+ T cells. This finding contrasts with previous works showing that BCL-2 inhibition in different settings led to a reduction of total and naïve T cells and to an increase in the proportion of memory T cells. In particular, in AML patients treated with HMA and VEN a depletion of total T, B and NK cells and an increase of the CD4+ and CD8+ T-cell frequencies with an effector memory phenotype at the expense of naïve T cells have been observed. However, despite a decrease in the total number of CD4+ and CD8+ T cells, their differentiation status did not change after 1 year of VEN-based therapy in patients with chronic lymphocytic leukemia. The discrepancy in these findings could be due to different reasons:1) the different timing of blood collection during the therapy; 2) the analysis of percentages compared to the absolute numbers, and 3) the different cell surface markers used to identify the T cell immune subsets. Furthermore, it must be considered that our particular and previously unexplored setting, i.e. the paired analysis conducted on patients treated with HMA plus VEN or HMA only, may have allowed us to distinguish a VEN-dependent effect from an HMA-dependent effect. In our hands, VEN did not alter the percentage of CD8+ naïve T cells.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 27317,
+                    "infons": {
+                        "section_type": "DISCUSS",
+                        "type": "paragraph"
+                    },
+                    "text": "Next, we found that HMA plus VEN treatment did not affect total Tregs and their subsets, according with a previous study. These results are corroborated by the demonstration that Tregs are relatively resistant to apoptosis induced by BCL-2 inhibition compared to other T cells. Indeed, BCL-2 is not required for Treg survival, as opposed to MCL-1, another member of the BCL-2 pathway, the loss of which leads to fatal autoimmunity in a mouse model. Interestingly, by analysing Tregs’ subset after HMA plus VEN treatment, we found a decrease in the CD25+/CD45RA-/FOXP3+ T cells, which represent a cytokine-secreting and non-suppressive population with Th17 cell potential. Of note, we did not observe such reduction in patients treated with HMA only, suggesting a putative-specific role of VEN.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 28113,
+                    "infons": {
+                        "section_type": "DISCUSS",
+                        "type": "paragraph"
+                    },
+                    "text": "To our knowledge, this is the first study reporting the effect of VEN treatment on this cell population. The plasticity of CD4+ T cell subsets is well-known, and in particular, the plasticity between Th17 and Tregs has been described. The Th17 and Treg differentiation networks play a critical role in the development of autoimmune diseases. Interestingly, Th17 cells are considered a double-edged sword in solid tumors, promoting at the same time tumor progression, angiogenesis, and anti-tumor response, and immune cells’ recruiting. In line with this, Th17 cells can promote both pro- and anti-tumor immunity in hematological malignancies. An increase in Th17 cells was associated both with better and worse clinical outcomes in AML patients. Moreover, an increase in Th17 cells population was found in not responding relapsed/refractory AML patients, compared to responders treated with HMA and the anti-PD-1 Nivolumab.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 29039,
+                    "infons": {
+                        "section_type": "DISCUSS",
+                        "type": "paragraph"
+                    },
+                    "text": "By specifically addressing the expression of inhibitory and stimulatory IC receptors, we found a significant increase in TIM-3+CD4+ T cells after the first cycle of treatment. However, when we paired patients to dissect the contribution of VEN, this finding was not confirmed. On the contrary, we found a VEN-specific increased expression of TIM-3 on CD8+ T cells after the first cycle. As previously mentioned, TIM-3 expression has been associated with exhaustion and dysfunction of T cells, and with immune evasion in AML. Interestingly, AML cells can enhance the expression of inhibitory receptors, including TIM-3, thus determining CD4+ T cell exhaustion in vitro, and TIM-3 expression on immune cells has been correlated to both a better and a poor prognosis in AML patients. Besides its expression on immune cells, TIM-3 has been found in AML leukemia stem cells but not in their normal counterparts, and increased levels of Galectin- 9, a TIM-3 ligand, were found in AML patients’ serum. However, despite its implications in cell survival and disease progression, the role of TIM-3 on AML cells is still unknown and the blockade of TIM-3 as a single agent did not show a substantial clinical benefit. However, our finding showing the increased TIM-3 expression on CD8+ T cells after VEN treatment could support on-going clinical trials based on the use of TIM-3 inhibitor (NCT03066648, NCT04150029, NCT04623216) in combination with VEN.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 30485,
+                    "infons": {
+                        "section_type": "DISCUSS",
+                        "type": "paragraph"
+                    },
+                    "text": "Of note, we found a significant VEN-dependent decrease of PD-1+TIM-3+ CD4+ and CD8+ T cells after the first treatment cycle. PD-1+TIM-3+  double-positive T cells have been indicated as prognostic in different settings. The exhausted T cell population PD-1highTIM-3+ was shown to be functionally deficient and was associated with AML relapse after allogeneic HSCT. A higher proportion of PD-1+TIM-3+  CD3+  T cells in the bone marrow and of PD-1+  TIM-3+  CD4+  T cells in the PB of non-complete remission versus CR patients after first-cycle chemotherapy were observed. In mouse model, the PD-1 and TIM-3 co-expression on CD8+ T cells was increased during AML progression. Within the CD8+ PD-1+ T cells, the TIM-3 expression identifies the most dysfunctional T-cell population in human chronic viral infections. This finding could indicate a beneficial effect of VEN on functional T-cell response confirming a previous study showing that VEN, leading to increased ROS generation, enhances T cell-mediated cytotoxicity against AML cells in vitro and in vivo.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 31563,
+                    "infons": {
+                        "section_type": "DISCUSS",
+                        "type": "paragraph"
+                    },
+                    "text": "In conclusion, our study had new evidence in support of the ability of VEN to modulate immune cell composition and phenotype. In particular, we identified two significant VEN-specific effects 1) a decrease of cytokine-secreting non-suppressive Tregs with Th17 cell potential, the clinical significance of which deserves to be explored; 2) a decrease of the PD-1+/TIM-3+ CD4+ and CD8+ T cells, which may have a beneficial effect. Furthermore, we also found an enhanced expression of TIM-3 on CD8+ T cells. Understanding the immunological microenvironment under the action of the selective BCL-2 inhibition can potentially reveal both novel mechanisms of resistance and new treatment combinations.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 32259,
+                    "infons": {
+                        "section_type": "SUPPL",
+                        "type": "title_1"
+                    },
+                    "text": "Data availability statement",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 32287,
+                    "infons": {
+                        "section_type": "SUPPL",
+                        "type": "paragraph"
+                    },
+                    "text": "The original contributions presented in the study are included in the article/ Supplementary Material . Further inquiries can be directed to the corresponding author.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 32454,
+                    "infons": {
+                        "section_type": "SUPPL",
+                        "type": "title_1"
+                    },
+                    "text": "Ethics statement",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 32471,
+                    "infons": {
+                        "section_type": "SUPPL",
+                        "type": "paragraph"
+                    },
+                    "text": "The studies involving humans were approved by The institutional review board of Area Vasta Emilia Centro (AVEC) Ethical Committee (approval code: 94/2016/O/Tess). The studies were conducted in accordance with the local legislation and institutional requirements. The participants provided their written informed consent to participate in this study.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 32821,
+                    "infons": {
+                        "section_type": "AUTH_CONT",
+                        "type": "title_1"
+                    },
+                    "text": "Author contributions",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 32842,
+                    "infons": {
+                        "section_type": "AUTH_CONT",
+                        "type": "paragraph"
+                    },
+                    "text": "GC: Data curation, Formal analysis, Methodology, Writing – original draft, Writing – review & editing. DF: Writing – review & editing, Formal analysis. GC: Resources, Writing – review & editing. AP: Formal analysis, Writing – review & editing. MC: Writing – review & editing. VS: Formal analysis, Writing – review & editing. LB: Methodology, Writing – review & editing. VR: Methodology, Writing – review & editing. EO: Methodology, Writing – review & editing. MC: Funding acquisition, Writing – review & editing. DO: Conceptualization, Supervision, Writing – review & editing. AC: Conceptualization, Supervision, Writing – review & editing.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 33512,
+                    "infons": {
+                        "section_type": "COMP_INT",
+                        "type": "title_1"
+                    },
+                    "text": "Conflict of interest",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 33533,
+                    "infons": {
+                        "section_type": "COMP_INT",
+                        "type": "paragraph"
+                    },
+                    "text": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 33706,
+                    "infons": {
+                        "section_type": "COMP_INT",
+                        "type": "title_1"
+                    },
+                    "text": "Publisher’s note",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 33725,
+                    "infons": {
+                        "section_type": "COMP_INT",
+                        "type": "paragraph"
+                    },
+                    "text": "All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 34072,
+                    "infons": {
+                        "section_type": "SUPPL",
+                        "type": "title_1"
+                    },
+                    "text": "Supplementary material",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 34095,
+                    "infons": {
+                        "section_type": "SUPPL",
+                        "type": "paragraph"
+                    },
+                    "text": "The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fimmu.2024.1386517/full#supplementary-material ",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 34256,
+                    "infons": {
+                        "section_type": "REF",
+                        "type": "title"
+                    },
+                    "text": "References",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 34267,
+                    "infons": {
+                        "fpage": "11",
+                        "lpage": "224",
+                        "name_0": "surname:Ferrara;given-names:F",
+                        "name_1": "surname:Lessi;given-names:F",
+                        "name_2": "surname:Vitagliano;given-names:O",
+                        "name_3": "surname:Birkenghi;given-names:E",
+                        "name_4": "surname:Rossi;given-names:G",
+                        "pub-id_doi": "10.3390/cancers11020224",
+                        "section_type": "REF",
+                        "source": "Cancers (Basel)",
+                        "type": "ref",
+                        "volume": "2)",
+                        "year": "2019"
+                    },
+                    "text": "Current therapeutic results and treatment options myeloid leukemia",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 34334,
+                    "infons": {
+                        "fpage": "1",
+                        "lpage": "12",
+                        "name_0": "surname:Daver;given-names:N",
+                        "name_1": "surname:Wei;given-names:AH",
+                        "name_2": "surname:Pollyea;given-names:DA",
+                        "name_3": "surname:Fathi;given-names:AT",
+                        "name_4": "surname:Vyas;given-names:P",
+                        "name_5": "surname:Dinardo;given-names:CD",
+                        "pub-id_doi": "10.1038/s41408-020-00376-1",
+                        "pub-id_pmid": "31915364",
+                        "section_type": "REF",
+                        "source": "Blood Cancer J",
+                        "type": "ref",
+                        "volume": "10",
+                        "year": "2020"
+                    },
+                    "text": "New directions for emerging therapies in acute myeloid leukemia : the next chapter",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 34417,
+                    "infons": {
+                        "name_0": "surname:Wang;given-names:X",
+                        "name_1": "surname:Zheng;given-names:J",
+                        "name_2": "surname:Liu;given-names:J",
+                        "name_3": "surname:Yao;given-names:J",
+                        "name_4": "surname:He;given-names:Y",
+                        "name_5": "surname:Li;given-names:X",
+                        "pub-id_doi": "10.1111/j.1600-0609.2005.00537.x",
+                        "section_type": "REF",
+                        "source": "Eur J Haematol",
+                        "type": "ref",
+                        "volume": "75",
+                        "year": "2005"
+                    },
+                    "text": "Increased population of CD4 + CD25 high regulatory T cells with their higher apoptotic and proliferating status in peripheral blood of acute myeloid leukemia patients",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 34584,
+                    "infons": {
+                        "issue": "13",
+                        "name_0": "surname:Szczepanski;given-names:MJ",
+                        "name_1": "surname:Szajnik;given-names:M",
+                        "name_2": "surname:Czystowska;given-names:M",
+                        "name_3": "surname:Mandapathil;given-names:M",
+                        "name_4": "surname:Strauss;given-names:L",
+                        "name_5": "surname:Welsh;given-names:A",
+                        "pub-id_doi": "10.1158/1078-0432.CCR-08-3010",
+                        "section_type": "REF",
+                        "source": "Clinical Cancer Research",
+                        "type": "ref",
+                        "volume": "15",
+                        "year": "2009"
+                    },
+                    "text": "Increased frequency and suppression by regulatory T cells in patients with acute myelogenous leukemia",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 34686,
+                    "infons": {
+                        "name_0": "surname:Corradi;given-names:G",
+                        "name_1": "surname:Bassani;given-names:B",
+                        "name_2": "surname:Simonetti;given-names:G",
+                        "name_3": "surname:Sangaletti;given-names:S",
+                        "name_4": "surname:Vadakekolathu;given-names:J",
+                        "name_5": "surname:Fontana;given-names:MC",
+                        "pub-id_doi": "10.1158/1078-0432.CCR-21-3594",
+                        "section_type": "REF",
+                        "source": "Clin Cancer Res",
+                        "type": "ref",
+                        "volume": "28",
+                        "year": "2022"
+                    },
+                    "text": "Release of IFN g by acute myeloid leukemia cells remodels bone marrow immune microenvironment by inducing regulatory T cells",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 34811,
+                    "infons": {
+                        "name_0": "surname:Knaus;given-names:HA",
+                        "name_1": "surname:Berglund;given-names:S",
+                        "name_2": "surname:Hackl;given-names:H",
+                        "name_3": "surname:Blackford;given-names:AL",
+                        "name_4": "surname:Zeidner;given-names:JF",
+                        "name_5": "surname:Montiel-esparza;given-names:R",
+                        "pub-id_doi": "10.1172/jci.insight.120974",
+                        "section_type": "REF",
+                        "source": "JCI Insight",
+                        "type": "ref",
+                        "volume": "3",
+                        "year": "2018"
+                    },
+                    "text": "Signatures of CD8 + T cell dysfunction in AML patients and their reversibility with response to chemotherapy Signatures of CD8 + T cell dysfunction in AML patients and their reversibility with response to chemotherapy",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 35029,
+                    "infons": {
+                        "fpage": "2900",
+                        "name_0": "surname:Daver;given-names:N",
+                        "name_1": "surname:Basu;given-names:S",
+                        "name_2": "surname:Garcia-Manero;given-names:G",
+                        "name_3": "surname:Cortes;given-names:JE",
+                        "name_4": "surname:Ravandi;given-names:F",
+                        "name_5": "surname:Ning;given-names:J",
+                        "pub-id_doi": "10.1182/blood.V128.22.2900.2900",
+                        "section_type": "REF",
+                        "source": "Blood",
+                        "type": "ref",
+                        "volume": "128",
+                        "year": "2016"
+                    },
+                    "text": "Defining the immune checkpoint landscape in patients (pts) with acute myeloid leukemia (AML)",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 35122,
+                    "infons": {
+                        "name_0": "surname:Barrett;given-names:AJ",
+                        "pub-id_doi": "10.1111/bjh.16310",
+                        "section_type": "REF",
+                        "source": "Br J Haematol",
+                        "type": "ref",
+                        "volume": "188",
+                        "year": "2020"
+                    },
+                    "text": "Acute myeloid leukaemia and the immune system : implications for immunotherapy",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 35201,
+                    "infons": {
+                        "fpage": "13",
+                        "lpage": "22",
+                        "name_0": "surname:Tettamanti;given-names:S",
+                        "name_1": "surname:Pievani;given-names:A",
+                        "name_2": "surname:Biondi;given-names:A",
+                        "name_3": "surname:Dotti;given-names:G",
+                        "name_4": "surname:Serafini;given-names:M",
+                        "pub-id_doi": "10.1038/s41375-021-01350-x",
+                        "pub-id_pmid": "34302116",
+                        "section_type": "REF",
+                        "source": "Leukemia",
+                        "type": "ref",
+                        "volume": "36",
+                        "year": "2022"
+                    },
+                    "text": "Catch me if you can : how AML and its niche escape immunotherapy",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 35266,
+                    "infons": {
+                        "name_0": "surname:Khaldoyanidi;given-names:S",
+                        "name_1": "surname:Nagorsen;given-names:D",
+                        "name_2": "surname:Stein;given-names:A",
+                        "name_3": "surname:Ossenkoppele;given-names:G",
+                        "name_4": "surname:Subklewe;given-names:M",
+                        "pub-id_doi": "10.1200/JCO.20.00475",
+                        "section_type": "REF",
+                        "source": "J Clin Oncol",
+                        "type": "ref",
+                        "volume": "39",
+                        "year": "2021"
+                    },
+                    "text": "Immune biology of acute myeloid leukemia : implications for immunotherapy",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 35340,
+                    "infons": {
+                        "fpage": "6",
+                        "lpage": "13",
+                        "name_0": "surname:Wherry;given-names:EJ",
+                        "pub-id_doi": "10.1038/ni.2035",
+                        "section_type": "REF",
+                        "source": "Nat Publ Gr",
+                        "type": "ref",
+                        "volume": "12",
+                        "year": "2011"
+                    },
+                    "text": "T cell exhaustion",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 35358,
+                    "infons": {
+                        "elocation-id": "1",
+                        "lpage": "9",
+                        "name_0": "surname:Gómez-Llobell1;given-names:M",
+                        "name_1": "surname:Andrés Peleteiro;given-names:R",
+                        "name_2": "surname:Medina Climent;given-names:J",
+                        "name_3": "surname:Centurión Gómez;given-names:I",
+                        "name_4": "surname:Orgueira Mosquera;given-names:A",
+                        "pub-id_doi": "10.3389/fonc.2022.882531",
+                        "section_type": "REF",
+                        "source": "Front Oncol",
+                        "type": "ref",
+                        "volume": "12",
+                        "year": "2022"
+                    },
+                    "text": "Immune checkpoint inhibitors in acute myeloid leukemia: A meta-analysis",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 35430,
+                    "infons": {
+                        "name_0": "surname:Aldarouish;given-names:M",
+                        "name_1": "surname:Su;given-names:X",
+                        "name_2": "surname:Qiao;given-names:J",
+                        "name_3": "surname:Gao;given-names:C",
+                        "name_4": "surname:Chen;given-names:Y",
+                        "name_5": "surname:Dai;given-names:A",
+                        "pub-id_doi": "10.1177/2058738419839592",
+                        "section_type": "REF",
+                        "source": "Int J Immunopathol Pharmacol",
+                        "type": "ref",
+                        "volume": "33",
+                        "year": "2019"
+                    },
+                    "text": "Immunomodulatory effects of chemotherapy on blood lymphocytes and survival of patients with advanced non-small cell lung cancer",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 35558,
+                    "infons": {
+                        "fpage": "690",
+                        "lpage": "714",
+                        "name_0": "surname:Galluzzi;given-names:L",
+                        "name_1": "surname:Buqué;given-names:A",
+                        "name_2": "surname:Kepp;given-names:O",
+                        "name_3": "surname:Zitvogel;given-names:L",
+                        "name_4": "surname:Kroemer;given-names:G",
+                        "pub-id_doi": "10.1016/j.ccell.2015.10.012",
+                        "pub-id_pmid": "26678337",
+                        "section_type": "REF",
+                        "source": "Cancer Cell",
+                        "type": "ref",
+                        "volume": "28",
+                        "year": "2015"
+                    },
+                    "text": "Immunological effects of conventional chemotherapy and targeted anticancer agents",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 35640,
+                    "infons": {
+                        "elocation-id": "1",
+                        "lpage": "10",
+                        "name_0": "surname:Ocadlikova;given-names:D",
+                        "name_1": "surname:Lecciso;given-names:M",
+                        "name_2": "surname:Isidori;given-names:A",
+                        "name_3": "surname:Loscocco;given-names:F",
+                        "pub-id_doi": "10.3389/fonc.2019.01004",
+                        "pub-id_pmid": "30761267",
+                        "section_type": "REF",
+                        "source": "Front Oncol",
+                        "type": "ref",
+                        "volume": "9",
+                        "year": "2019"
+                    },
+                    "text": "Chemotherapy-induced tumor cell death at the crossroads between immunogenicity and immunotolerance : focus on acute myeloid leukemia",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 35773,
+                    "infons": {
+                        "name_0": "surname:Ysebaert;given-names:L",
+                        "name_1": "surname:Gross;given-names:E",
+                        "name_2": "surname:Kühlein;given-names:E",
+                        "name_3": "surname:Blanc;given-names:A",
+                        "name_4": "surname:Corre;given-names:J",
+                        "name_5": "surname:Fournié;given-names:JJ",
+                        "pub-id_doi": "10.1038/leu.2010.89",
+                        "section_type": "REF",
+                        "source": "Leukemia",
+                        "type": "ref",
+                        "volume": "24",
+                        "year": "2010"
+                    },
+                    "text": "Immune recovery after fludarabine – cyclophosphamide – rituximab treatment in B-chronic lymphocytic leukemia : implication for maintenance immunotherapy",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 35930,
+                    "infons": {
+                        "name_0": "surname:DiNardo;given-names:CD",
+                        "name_1": "surname:Jonas;given-names:BA",
+                        "name_2": "surname:Pullarkat;given-names:V",
+                        "name_3": "surname:Thirman;given-names:MJ",
+                        "name_4": "surname:Garcia;given-names:JS",
+                        "name_5": "surname:Wei;given-names:AH",
+                        "pub-id_doi": "10.1056/NEJMoa2012971",
+                        "section_type": "REF",
+                        "source": "N Engl J Med",
+                        "type": "ref",
+                        "volume": "383",
+                        "year": "2020"
+                    },
+                    "text": "Azacitidine and venetoclax in previously untreated acute myeloid leukemia",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 36004,
+                    "infons": {
+                        "fpage": "7",
+                        "lpage": "17",
+                        "name_0": "surname:Dinardo;given-names:CD",
+                        "name_1": "surname:Pratz;given-names:K",
+                        "name_2": "surname:Pullarkat;given-names:V",
+                        "name_3": "surname:Jonas;given-names:BA",
+                        "name_4": "surname:Arellano;given-names:M",
+                        "name_5": "surname:Becker;given-names:PS",
+                        "pub-id_doi": "10.1182/blood-2018-08-868752",
+                        "pub-id_pmid": "30361262",
+                        "section_type": "REF",
+                        "source": "Blood",
+                        "type": "ref",
+                        "volume": "133",
+                        "year": "2019"
+                    },
+                    "text": "Venetoclax combined with decitabine or azacitidine in treatment-naive , elderly patients with acute myeloid leukemia",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 36121,
+                    "infons": {
+                        "fpage": "1",
+                        "lpage": "23",
+                        "name_0": "surname:Brancati;given-names:S",
+                        "name_1": "surname:Gozzo;given-names:L",
+                        "name_2": "surname:Romano;given-names:GL",
+                        "name_3": "surname:Vetro;given-names:C",
+                        "name_4": "surname:Dulcamare;given-names:I",
+                        "name_5": "surname:Maugeri;given-names:C",
+                        "pub-id_doi": "10.3390/cancers14010022",
+                        "pub-id_pmid": "35008165",
+                        "section_type": "REF",
+                        "source": "Cancers (Basel)",
+                        "type": "ref",
+                        "volume": "14",
+                        "year": "2021"
+                    },
+                    "text": "Venetoclax in relapsed / refractory acute myeloid leukemia : are supporting evidences enough",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 36214,
+                    "infons": {
+                        "fpage": "89",
+                        "lpage": "98",
+                        "name_0": "surname:Roberts;given-names:AW",
+                        "name_1": "surname:Huang;given-names:DCS",
+                        "pub-id_doi": "10.1002/cpt.553",
+                        "pub-id_pmid": "27806433",
+                        "section_type": "REF",
+                        "source": "Clin Pharmacol Ther",
+                        "type": "ref",
+                        "volume": "101",
+                        "year": "2017"
+                    },
+                    "text": "Targeting BCL2 with BH3 mimetics : basic science and clinical application of venetoclax in chronic lymphocytic leukemia and related B cell Malignancies",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 36366,
+                    "infons": {
+                        "fpage": "1",
+                        "lpage": "12",
+                        "name_0": "surname:Pham;given-names:TD",
+                        "name_1": "surname:Pham;given-names:PQ",
+                        "name_2": "surname:Li;given-names:J",
+                        "name_3": "surname:Letai;given-names:AG",
+                        "name_4": "surname:Wallace;given-names:DC",
+                        "name_5": "surname:Burke;given-names:PJ",
+                        "pub-id_doi": "10.1038/srep35907",
+                        "section_type": "REF",
+                        "source": "Nat Publ Gr",
+                        "type": "ref",
+                        "volume": "6",
+                        "year": "2016"
+                    },
+                    "text": "Cristae remodeling causes acidification detected by integrated graphene sensor during mitochondrial outer membrane permeabilization",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 36498,
+                    "infons": {
+                        "name_0": "surname:Pollyea;given-names:DA",
+                        "name_1": "surname:Stevens;given-names:BM",
+                        "name_2": "surname:Jones;given-names:CL",
+                        "name_3": "surname:Winters;given-names:A",
+                        "name_4": "surname:Minhajuddin;given-names:M",
+                        "name_5": "surname:Alessandro;given-names:AD",
+                        "pub-id_doi": "10.1038/s41591-018-0233-1",
+                        "section_type": "REF",
+                        "source": "Nat Med",
+                        "type": "ref",
+                        "volume": "24",
+                        "year": "2020"
+                    },
+                    "text": "Venetoclax with azacitidine disrupts energy metabolism and targets leukemia stem cells in acute myeloid leukemia patients",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 36620,
+                    "infons": {
+                        "fpage": "724",
+                        "lpage": "740.e4",
+                        "name_0": "surname:Jones;given-names:CL",
+                        "name_1": "surname:Stevens;given-names:BM",
+                        "name_2": "surname:Alessandro;given-names:AD",
+                        "name_3": "surname:Reisz;given-names:JA",
+                        "name_4": "surname:Culp-hill;given-names:R",
+                        "name_5": "surname:Nemkov;given-names:T",
+                        "pub-id_doi": "10.1016/j.ccell.2018.10.005",
+                        "pub-id_pmid": "30423294",
+                        "section_type": "REF",
+                        "source": "Cancer Cell",
+                        "type": "ref",
+                        "volume": "34",
+                        "year": "2018"
+                    },
+                    "text": "Inhibition of amino acid metabolism selectively article inhibition of amino acid metabolism selectively targets human leukemia stem cells",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 36758,
+                    "infons": {
+                        "fpage": "380",
+                        "lpage": "400",
+                        "name_0": "surname:Ong;given-names:F",
+                        "name_1": "surname:Kim;given-names:K",
+                        "name_2": "surname:Konopleva;given-names:MY",
+                        "pub-id_doi": "10.20517/cdr",
+                        "pub-id_pmid": "35800373",
+                        "section_type": "REF",
+                        "source": "Cancer Drug Resist",
+                        "type": "ref",
+                        "volume": "5",
+                        "year": "2022"
+                    },
+                    "text": "Venetoclax resistance : mechanistic insights and future strategies",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 36825,
+                    "infons": {
+                        "name_0": "surname:Waclawiczek;given-names:A",
+                        "name_1": "surname:Leppä;given-names:A",
+                        "name_2": "surname:Renders;given-names:S",
+                        "name_3": "surname:Stumpf;given-names:K",
+                        "name_4": "surname:Reyneri;given-names:C",
+                        "name_5": "surname:Betz;given-names:B",
+                        "pub-id_doi": "10.1158/2159-8290.CD-22-0939",
+                        "section_type": "REF",
+                        "source": "Cancer Discovery",
+                        "type": "ref",
+                        "volume": "13",
+                        "year": "2023"
+                    },
+                    "text": "Combinatorial BCL2 family expression in acute myeloid leukemia stem cells predicts clinical response to Azacitidine/Venetoclax",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 36952,
+                    "infons": {
+                        "name_0": "surname:Gangat;given-names:N",
+                        "name_1": "surname:Johnson;given-names:I",
+                        "name_2": "surname:McCullough;given-names:K",
+                        "name_3": "surname:Farrukh;given-names:F",
+                        "name_4": "surname:Al-Kali;given-names:A",
+                        "name_5": "surname:Alkhateeb;given-names:H",
+                        "pub-id_doi": "10.3324/haematol.2022.281214",
+                        "section_type": "REF",
+                        "source": "Haematologica",
+                        "type": "ref",
+                        "volume": "107",
+                        "year": "2022"
+                    },
+                    "text": "Molecular predictors of response to venetoclax plus hypomethylating agent in treatment-naïve acute myeloid leukemia",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 37069,
+                    "infons": {
+                        "name_0": "surname:De Weerdt;given-names:I",
+                        "name_1": "surname:Hofland;given-names:T",
+                        "name_2": "surname:De Boer;given-names:R",
+                        "name_3": "surname:Dobber;given-names:JA",
+                        "name_4": "surname:Dubois;given-names:J",
+                        "name_5": "surname:Van Nieuwenhuize;given-names:D",
+                        "pub-id_doi": "10.1182/bloodadvances.2019000360",
+                        "section_type": "REF",
+                        "source": "Blood Adv",
+                        "type": "ref",
+                        "volume": "3",
+                        "year": "2019"
+                    },
+                    "text": "Distinct immune composition in lymph node and peripheral blood of CLL patients is reshaped during venetoclax treatment",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 37188,
+                    "infons": {
+                        "name_0": "surname:Lee;given-names:JB",
+                        "name_1": "surname:Khan;given-names:DH",
+                        "name_2": "surname:Hurren;given-names:R",
+                        "name_3": "surname:Xu;given-names:M",
+                        "name_4": "surname:Na;given-names:Y",
+                        "name_5": "surname:Kang;given-names:H",
+                        "pub-id_doi": "10.1182/blood.2020009081",
+                        "section_type": "REF",
+                        "source": "Blood",
+                        "type": "ref",
+                        "volume": "138",
+                        "year": "2021"
+                    },
+                    "text": "Venetoclax enhances T cell – mediated antileukemic activity by increasing ROS production",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 37279,
+                    "infons": {
+                        "fpage": "1",
+                        "lpage": "21",
+                        "name_0": "surname:Zhigarev;given-names:D",
+                        "name_1": "surname:Varshavsky;given-names:A",
+                        "name_2": "surname:Macfarlane;given-names:AW",
+                        "name_3": "surname:Jayaguru;given-names:P",
+                        "name_4": "surname:Barreyro;given-names:L",
+                        "name_5": "surname:Khoreva;given-names:M",
+                        "pub-id_doi": "10.3390/cancers14143352",
+                        "section_type": "REF",
+                        "source": "Cancers (Basel)",
+                        "type": "ref",
+                        "volume": "14",
+                        "year": "2022"
+                    },
+                    "text": "Lymphocyte exhaustion in AML patients and impacts of HMA / venetoclax or intensive chemotherapy on their biology",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 37392,
+                    "infons": {
+                        "fpage": "899",
+                        "lpage": "911",
+                        "name_0": "surname:Miyara;given-names:M",
+                        "name_1": "surname:Yoshioka;given-names:Y",
+                        "name_2": "surname:Kitoh;given-names:A",
+                        "name_3": "surname:Shima;given-names:T",
+                        "name_4": "surname:Wing;given-names:K",
+                        "name_5": "surname:Niwa;given-names:A",
+                        "pub-id_doi": "10.1016/j.immuni.2009.03.019",
+                        "pub-id_pmid": "19464196",
+                        "section_type": "REF",
+                        "source": "Immunity",
+                        "type": "ref",
+                        "volume": "30",
+                        "year": "2009"
+                    },
+                    "text": "Functional delineation and differentiation dynamics of human CD4 + T cells expressing the FoxP3 transcription factor",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 37509,
+                    "infons": {
+                        "elocation-id": "1",
+                        "lpage": "9",
+                        "name_0": "surname:Zhan;given-names:Y",
+                        "name_1": "surname:Carrington;given-names:EM",
+                        "name_2": "surname:Zhang;given-names:Y",
+                        "name_3": "surname:Heinzel;given-names:S",
+                        "name_4": "surname:Lew;given-names:AM",
+                        "pub-id_doi": "10.3389/fimmu.2017.01809",
+                        "pub-id_pmid": "28149297",
+                        "section_type": "REF",
+                        "source": "Front Immunol",
+                        "type": "ref",
+                        "volume": "8",
+                        "year": "2017"
+                    },
+                    "text": "Life and death of activated T cells : how are they different from naïve T cells",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 37590,
+                    "infons": {
+                        "name_0": "surname:Carrington;given-names:EM",
+                        "name_1": "surname:Zhan;given-names:Y",
+                        "name_2": "surname:Brady;given-names:JL",
+                        "name_3": "surname:Zhang;given-names:J",
+                        "name_4": "surname:Sutherland;given-names:RM",
+                        "name_5": "surname:Anstee;given-names:NS",
+                        "pub-id_doi": "10.1038/cdd.2017.30",
+                        "section_type": "REF",
+                        "source": "Cell Death Differ",
+                        "type": "ref",
+                        "volume": "24",
+                        "year": "2017"
+                    },
+                    "text": "Anti-apoptotic proteins BCL-2 , MCL-1 and A1 summate collectively to maintain survival of immune cell populations both in vitro and in vivo",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 37730,
+                    "infons": {
+                        "name_0": "surname:Wojciechowski;given-names:S",
+                        "name_1": "surname:Tripathi;given-names:P",
+                        "name_2": "surname:Bourdeau;given-names:T",
+                        "name_3": "surname:Acero;given-names:L",
+                        "name_4": "surname:Grimes;given-names:HL",
+                        "name_5": "surname:Katz;given-names:JD",
+                        "pub-id_doi": "10.1084/jem.20070618",
+                        "section_type": "REF",
+                        "source": "J Exp Med",
+                        "type": "ref",
+                        "volume": "204",
+                        "year": "2007"
+                    },
+                    "text": "Bim / Bcl-2 balance is critical for maintaining naive and memory T cell homeostasis",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 37814,
+                    "infons": {
+                        "name_0": "surname:Khaw;given-names:SL",
+                        "name_1": "surname:Merino;given-names:D",
+                        "name_2": "surname:Anderson;given-names:MA",
+                        "name_3": "surname:Glaser;given-names:SP",
+                        "name_4": "surname:Bouillet;given-names:P",
+                        "name_5": "surname:Roberts;given-names:AW",
+                        "pub-id_doi": "10.1038/leu.2014.1",
+                        "section_type": "REF",
+                        "source": "Leukemia",
+                        "type": "ref",
+                        "volume": "28",
+                        "year": "2014"
+                    },
+                    "text": "Both leukaemic and normal peripheral B lymphoid cells are highly sensitive to the selective pharmacological inhibition of prosurvival Bcl-2 with ABT-199",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 37967,
+                    "infons": {
+                        "fpage": "68",
+                        "lpage": "79",
+                        "name_0": "surname:Kohlhapp;given-names:FJ",
+                        "name_1": "surname:Haribhai;given-names:D",
+                        "name_2": "surname:Mathew;given-names:R",
+                        "name_3": "surname:Duggan;given-names:R",
+                        "name_4": "surname:Ellis;given-names:PA",
+                        "name_5": "surname:Wang;given-names:R",
+                        "pub-id_doi": "10.1158/2159-8290.CD-19-0759",
+                        "pub-id_pmid": "32887697",
+                        "section_type": "REF",
+                        "source": "Cancer Discovery",
+                        "type": "ref",
+                        "volume": "11",
+                        "year": "2021"
+                    },
+                    "text": "Venetoclax increases intratumoral effector T cells and antitumor effi cacy in combination with immune checkpoint blockade",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 38089,
+                    "infons": {
+                        "fpage": "3704",
+                        "name_0": "surname:Mathew;given-names:R",
+                        "name_1": "surname:Haribhai;given-names:D",
+                        "name_2": "surname:Kohlhapp;given-names:F",
+                        "name_3": "surname:Duggan;given-names:R",
+                        "name_4": "surname:Ellis;given-names:P",
+                        "name_5": "surname:Riehm;given-names:JJ",
+                        "pub-id_doi": "10.1182/blood-2018-99-113134",
+                        "section_type": "REF",
+                        "source": "Blood",
+                        "type": "ref",
+                        "volume": "132",
+                        "year": "2018"
+                    },
+                    "text": "The BCL-2-selective inhibitor venetoclax spares activated T-cells during anti-tumor immunity",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 38182,
+                    "infons": {
+                        "name_0": "surname:Pierson;given-names:W",
+                        "name_1": "surname:Cauwe;given-names:B",
+                        "name_2": "surname:Policheni;given-names:A",
+                        "name_3": "surname:Schlenner;given-names:SM",
+                        "name_4": "surname:Franckaert;given-names:D",
+                        "name_5": "surname:Berges;given-names:J",
+                        "pub-id_doi": "10.1038/ni.2649",
+                        "section_type": "REF",
+                        "source": "Nat Immunol",
+                        "type": "ref",
+                        "volume": "14",
+                        "year": "2013"
+                    },
+                    "text": "Antiapoptotic Mcl-1 is critical for the survival and niche-filling capacity of Foxp3 + regulatory T cells",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 38288,
+                    "infons": {
+                        "fpage": "1",
+                        "lpage": "8",
+                        "name_0": "surname:Diller;given-names:ML",
+                        "name_1": "surname:KudChadkar;given-names:RR",
+                        "name_2": "surname:Delman;given-names:KA",
+                        "name_3": "surname:Lawson;given-names:DH",
+                        "name_4": "surname:Ford;given-names:ML",
+                        "pub-id_doi": "10.1155/2016/6309219",
+                        "section_type": "REF",
+                        "source": "Mediat Inflamm",
+                        "type": "ref",
+                        "volume": "2016",
+                        "year": "2016"
+                    },
+                    "text": "Balancing inflammation : the link between Th17 and regulatory T cells",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 38358,
+                    "infons": {
+                        "fpage": "1",
+                        "lpage": "14",
+                        "name_0": "surname:Lee;given-names:GR",
+                        "pub-id_doi": "10.3390/ijms19030730",
+                        "section_type": "REF",
+                        "source": "Int J Mol Sci",
+                        "type": "ref",
+                        "volume": "19",
+                        "year": "2018"
+                    },
+                    "text": "The balance of Th17 versus Treg cells in autoimmunity",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 38412,
+                    "infons": {
+                        "fpage": "1",
+                        "lpage": "13",
+                        "name_0": "surname:Zhao;given-names:J",
+                        "name_1": "surname:Chen;given-names:X",
+                        "name_2": "surname:Herjan;given-names:T",
+                        "name_3": "surname:Li;given-names:X",
+                        "pub-id_doi": "10.1084/jem.20190297",
+                        "section_type": "REF",
+                        "source": "J Exp Med",
+                        "type": "ref",
+                        "volume": "217",
+                        "year": "2019"
+                    },
+                    "text": "The role of interleukin-17 in tumor development and progression",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 38476,
+                    "infons": {
+                        "fpage": "15",
+                        "lpage": "25",
+                        "name_0": "surname:Asadzadeh;given-names:Z",
+                        "name_1": "surname:Mohammadi;given-names:H",
+                        "name_2": "surname:Safarzadeh;given-names:E",
+                        "name_3": "surname:Hemmatzadeh;given-names:M",
+                        "name_4": "surname:Mahdian-shakib;given-names:A",
+                        "name_5": "surname:Jadidi-Niaragh;given-names:F",
+                        "pub-id_doi": "10.1016/j.cellimm.2017.10.015",
+                        "pub-id_pmid": "29103586",
+                        "section_type": "REF",
+                        "source": "Cell Immunol",
+                        "type": "ref",
+                        "volume": "322",
+                        "year": "2017"
+                    },
+                    "text": "The paradox of Th17 cell functions in tumor immunity",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 38529,
+                    "infons": {
+                        "fpage": "199",
+                        "lpage": "204",
+                        "name_0": "surname:Wu;given-names:C",
+                        "name_1": "surname:Wang;given-names:S",
+                        "name_2": "surname:Wang;given-names:F",
+                        "name_3": "surname:Chen;given-names:Q",
+                        "name_4": "surname:Peng;given-names:S",
+                        "name_5": "surname:Zhang;given-names:Y",
+                        "pub-id_doi": "10.1111/j.1365-2249.2009.04011.x",
+                        "pub-id_pmid": "19737137",
+                        "section_type": "REF",
+                        "source": "Clin Exp Immunol",
+                        "type": "ref",
+                        "volume": "158",
+                        "year": "2009"
+                    },
+                    "text": "Increased frequencies of T helper type 17 cells in the peripheral blood of patients with acute myeloid leukaemia",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 38642,
+                    "infons": {
+                        "name_0": "surname:Han;given-names:Y",
+                        "name_1": "surname:Ye;given-names:A",
+                        "name_2": "surname:Bi;given-names:L",
+                        "name_3": "surname:Wu;given-names:J",
+                        "name_4": "surname:Yu;given-names:K",
+                        "name_5": "surname:Zhang;given-names:S",
+                        "pub-id_doi": "10.1111/cas.12459",
+                        "section_type": "REF",
+                        "source": "Cancer Sci",
+                        "type": "ref",
+                        "volume": "105",
+                        "year": "2014"
+                    },
+                    "text": "Th17 cells and interleukin-17 increase with poor prognosis in patients with acute myeloid leukemia",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 38741,
+                    "infons": {
+                        "name_0": "surname:Abousamra;given-names:NK",
+                        "name_1": "surname:El-Din;given-names:MS",
+                        "name_2": "surname:Helal;given-names:R",
+                        "pub-id_doi": "10.1007/s12032-013-0732-3",
+                        "section_type": "REF",
+                        "source": "Med Oncol",
+                        "type": "ref",
+                        "volume": "30",
+                        "year": "2013"
+                    },
+                    "text": "Prognostic value of Th17 cells in acute leukemia",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 38790,
+                    "infons": {
+                        "name_0": "surname:Daver;given-names:N",
+                        "name_1": "surname:Garcia-manero;given-names:G",
+                        "name_2": "surname:Basu;given-names:S",
+                        "name_3": "surname:Boddu;given-names:PC",
+                        "name_4": "surname:Cortes;given-names:JE",
+                        "name_5": "surname:Konopleva;given-names:M",
+                        "pub-id_doi": "10.1158/2159-8290.CD-18-0774",
+                        "section_type": "REF",
+                        "source": "Cancer Discovery",
+                        "type": "ref",
+                        "volume": "9",
+                        "year": "2019"
+                    },
+                    "text": "Efficacy, safety, and biomarkers of response to Azacitidine and Nivolumab in relapsed/refractory acute myeloid leukemia: A nonrandomized, open-label, phase II study",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 38955,
+                    "infons": {
+                        "fpage": "1",
+                        "lpage": "5",
+                        "name_0": "surname:Folgiero;given-names:V",
+                        "name_1": "surname:Cifaldi;given-names:L",
+                        "name_2": "surname:Pira;given-names:GL",
+                        "name_3": "surname:Goffredo;given-names:BM",
+                        "name_4": "surname:Vinti;given-names:L",
+                        "name_5": "surname:Locatelli;given-names:F",
+                        "pub-id_doi": "10.1186/s13045-015-0134-4",
+                        "pub-id_pmid": "25622682",
+                        "section_type": "REF",
+                        "source": "J Hematol Oncol",
+                        "type": "ref",
+                        "volume": "8",
+                        "year": "2015"
+                    },
+                    "text": "TIM-3/Gal-9 interaction induces IFNγ-dependent IDO1 expression in acute myeloid leukemia blast cells",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 39060,
+                    "infons": {
+                        "name_0": "surname:Ozkazanc;given-names:D",
+                        "name_1": "surname:Yoyen-Ermis;given-names:D",
+                        "name_2": "surname:Tavukcuoglu;given-names:E",
+                        "name_3": "surname:Buyukasik;given-names:Y",
+                        "name_4": "surname:Esendagli;given-names:G",
+                        "pub-id_doi": "10.1111/imm.12665",
+                        "section_type": "REF",
+                        "source": "Immunology",
+                        "type": "ref",
+                        "volume": "149",
+                        "year": "2016"
+                    },
+                    "text": "Functional exhaustion of CD4 T cells induced by co-stimulatory signals from myeloid",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 39144,
+                    "infons": {
+                        "name_0": "surname:Zahran;given-names:AM",
+                        "name_1": "surname:Mohammed;given-names:MF",
+                        "name_2": "surname:Sayed;given-names:MM",
+                        "name_3": "surname:Rayan;given-names:A",
+                        "name_4": "surname:Ali;given-names:AM",
+                        "name_5": "surname:Hetta;given-names:HF",
+                        "pub-id_doi": "10.3233/CBM-181368",
+                        "section_type": "REF",
+                        "source": "Cancer biomark",
+                        "type": "ref",
+                        "volume": "22",
+                        "year": "2018"
+                    },
+                    "text": "Up-regulation of regulatory T cells , CD200 and TIM3 expression in cytogenetically normal acute myeloid leukemia",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 39257,
+                    "infons": {
+                        "name_0": "surname:Li;given-names:C",
+                        "name_1": "surname:Chen;given-names:X",
+                        "name_2": "surname:Yu;given-names:X",
+                        "name_3": "surname:Zhu;given-names:Y",
+                        "name_4": "surname:Ma;given-names:C",
+                        "name_5": "surname:Xia;given-names:R",
+                        "section_type": "REF",
+                        "source": "Int J Clin Exp Pathol",
+                        "type": "ref",
+                        "volume": "7",
+                        "year": "2014"
+                    },
+                    "text": "Tim-3 is highly expressed in T cells in acute myeloid leukemia and associated with clinicopathological prognostic stratification",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 39386,
+                    "infons": {
+                        "name_0": "surname:Rakova;given-names:J",
+                        "name_1": "surname:Truxova;given-names:I",
+                        "name_2": "surname:Holicek;given-names:P",
+                        "name_3": "surname:Salek;given-names:C",
+                        "name_4": "surname:Hensler;given-names:M",
+                        "name_5": "surname:Kasikova;given-names:L",
+                        "pub-id_doi": "10.1080/2162402X.2021.1889822",
+                        "section_type": "REF",
+                        "source": "Oncoimmunology",
+                        "type": "ref",
+                        "volume": "10",
+                        "year": "2021"
+                    },
+                    "text": "TIM-3 levels correlate with enhanced NK cell cytotoxicity and improved clinical outcome in AML patients",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 39490,
+                    "infons": {
+                        "name_0": "surname:Kikushige;given-names:Y",
+                        "name_1": "surname:Shima;given-names:T",
+                        "name_2": "surname:Takayanagi;given-names:S",
+                        "name_3": "surname:Urata;given-names:S",
+                        "name_4": "surname:Miyamoto;given-names:T",
+                        "name_5": "surname:Iwasaki;given-names:H",
+                        "pub-id_doi": "10.1016/j.stem.2010.11.014",
+                        "section_type": "REF",
+                        "source": "Cell Stem Cell",
+                        "type": "ref",
+                        "volume": "7",
+                        "year": "2010"
+                    },
+                    "text": "TIM-3 is a promising target to selectively kill acute myeloid leukemia stem cells",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 39572,
+                    "infons": {
+                        "name_0": "surname:Silva;given-names:IG",
+                        "name_1": "surname:Gibbs;given-names:BF",
+                        "name_2": "surname:Bardelli;given-names:M",
+                        "name_3": "surname:Varani;given-names:L",
+                        "name_4": "surname:Sumbayev;given-names:VV",
+                        "pub-id_doi": "10.18632/oncotarget.v6i32",
+                        "section_type": "REF",
+                        "source": "Oncotarget",
+                        "type": "ref",
+                        "volume": "6",
+                        "year": "2015"
+                    },
+                    "text": "Differential expression and biochemical activity of the immune receptor Tim-3 in healthy and Malignant human myeloid cells",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 39695,
+                    "infons": {
+                        "name_0": "surname:Kikushige;given-names:Y",
+                        "name_1": "surname:Miyamoto;given-names:T",
+                        "name_2": "surname:Yuda;given-names:J",
+                        "name_3": "surname:Jabbarzadeh-tabrizi;given-names:S",
+                        "name_4": "surname:Shima;given-names:T",
+                        "name_5": "surname:Takayanagi;given-names:S",
+                        "pub-id_doi": "10.1016/j.stem.2015.07.011",
+                        "section_type": "REF",
+                        "source": "Stem Cell",
+                        "type": "ref",
+                        "volume": "17",
+                        "year": "2015"
+                    },
+                    "text": "A TIM-3 / Gal-9 autocrine stimulatory loop drives self-renewal of human myeloid leukemia stem cells and leukemic progression",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 39820,
+                    "infons": {
+                        "fpage": "1",
+                        "lpage": "11",
+                        "name_0": "surname:Kong;given-names:Y",
+                        "name_1": "surname:Zhang;given-names:J",
+                        "name_2": "surname:Claxton;given-names:DF",
+                        "name_3": "surname:Ehmann;given-names:WC",
+                        "name_4": "surname:Rybka;given-names:WB",
+                        "name_5": "surname:Zhu;given-names:L",
+                        "pub-id_doi": "10.1038/bcj.2015.58",
+                        "section_type": "REF",
+                        "source": "Blood Cancer J",
+                        "type": "ref",
+                        "volume": "5",
+                        "year": "2015"
+                    },
+                    "text": "PD-1 hi TIM-3 + T cells associate with and predict leukemia relapse in AML patients post allogeneic stem cell transplantation",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 39946,
+                    "infons": {
+                        "fpage": "1",
+                        "lpage": "9",
+                        "name_0": "surname:Tan;given-names:J",
+                        "name_1": "surname:Yu;given-names:Z",
+                        "name_2": "surname:Huang;given-names:J",
+                        "name_3": "surname:Chen;given-names:Y",
+                        "name_4": "surname:Huang;given-names:S",
+                        "name_5": "surname:Yao;given-names:D",
+                        "pub-id_doi": "10.1186/s40364-020-0185-8",
+                        "pub-id_pmid": "31921422",
+                        "section_type": "REF",
+                        "source": "biomark Res",
+                        "type": "ref",
+                        "volume": "8",
+                        "year": "2020"
+                    },
+                    "text": "Increased PD-1 + Tim-3 + exhausted T cells in bone marrow may influence the clinical outcome of patients with AML",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 40060,
+                    "infons": {
+                        "name_0": "surname:Zhou;given-names:Q",
+                        "name_1": "surname:Munger;given-names:ME",
+                        "name_2": "surname:Veenstra;given-names:RG",
+                        "name_3": "surname:Weigel;given-names:BJ",
+                        "name_4": "surname:Hirashima;given-names:M",
+                        "name_5": "surname:Munn;given-names:DH",
+                        "pub-id_doi": "10.1182/blood-2010-10-310425",
+                        "section_type": "REF",
+                        "source": "Blood",
+                        "type": "ref",
+                        "volume": "117",
+                        "year": "2011"
+                    },
+                    "text": "Coexpression of Tim-3 and PD-1 identifies a CD8 ϩ T-cell exhaustion phenotype in mice with disseminated acute myelogenous leukemia",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 40192,
+                    "infons": {
+                        "name_0": "surname:Mcmahan;given-names:RH",
+                        "name_1": "surname:Golden-mason;given-names:L",
+                        "name_2": "surname:Nishimura;given-names:MI",
+                        "name_3": "surname:Mcmahon;given-names:BJ",
+                        "name_4": "surname:Kemper;given-names:M",
+                        "name_5": "surname:Allen;given-names:TM",
+                        "pub-id_doi": "10.1172/JCI43127",
+                        "section_type": "REF",
+                        "source": "J Clin Invest",
+                        "type": "ref",
+                        "volume": "120",
+                        "year": "2010"
+                    },
+                    "text": "Tim-3 expression on PD-1 + HCV-specific human CTLs is associated with viral persistence , and its blockade restores hepatocyte-directed in vitro cytotoxicity",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                },
+                {
+                    "bioctype": "BioCPassage",
+                    "offset": 40350,
+                    "infons": {
+                        "name_0": "surname:Jin;given-names:H",
+                        "name_1": "surname:Anderson;given-names:AC",
+                        "name_2": "surname:Tan;given-names:WG",
+                        "name_3": "surname:West;given-names:EE",
+                        "name_4": "surname:Ha;given-names:S",
+                        "name_5": "surname:Araki;given-names:K",
+                        "pub-id_doi": "10.1073/pnas.1009731107",
+                        "section_type": "REF",
+                        "source": "Proc Natl Acad Sci U S A",
+                        "type": "ref",
+                        "volume": "107",
+                        "year": "2010"
+                    },
+                    "text": "Cooperation of Tim-3 and PD-1 in CD8 T-cell exhaustion during chronic viral infection",
+                    "sentences": [],
+                    "annotations": [],
+                    "relations": []
+                }
+            ],
+            "annotations": [],
+            "relations": []
+        }
+    ]
+}

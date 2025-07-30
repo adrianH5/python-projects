@@ -1,0 +1,8 @@
+T1	Repository 886 890	NCBI
+T2	AccessionNumber 892 902	MN908947.3
+T3	Dataset 912 968	Global Initiative on Sharing All Influenza Data (GISAID)
+T4	Repository 1444 1451	GenBank
+T5	AccessionNumber 1470 1481	NC_045512.2
+T6	Dataset 3160 3166	GISAID
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T4	Arg2:T5

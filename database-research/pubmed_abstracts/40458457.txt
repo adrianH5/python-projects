@@ -1,0 +1,12 @@
+Glioblastoma multiforme is a lethal disease, with a 5-year survival rate of <10%.
+The identification of risk factors for glioblastoma multiforme is essential for the understanding of this disease and could facilitate more effective stratification of high-risk individuals.
+However, our current knowledge of glioblastoma multiforme risk factors is limited.
+Given the complexity and heterogeneity of the disease, traditional epidemiological approaches may be insufficient to study risk factors for glioblastoma multiforme.
+The combination of traditional approaches with machine learning models could prove effective in identifying relevant factors for glioblastoma multiforme risk.
+In this study, we developed glioblastoma multiformerisk models in the UK Biobank cohort using 576 glioblastoma multiforme cases and 302 602 controls.
+First, 369 exposures were tested with traditional regression models in a case-control study and significant associations were identified.
+Subsequently, significant features were filtered based on their completion rate and correlation.
+The selected exposures were then used to develop two machine learning models: a support vector machine and a Multi-Layer Perceptron.
+To address the imbalance within the subpopulation, two controls per case with full data were selected, resulting in 442 glioblastoma multiforme cases and 884 controls being analysed with the machine learning models.
+Relevant factors for glioblastoma multiforme risk were identified by explaining the results of the two models with Shapley Additive explanations.
+Traditional regression methods identified 38 significant associations between environmental exposures and glioblastoma multiforme risk under the Bonferroni threshold (

@@ -1,0 +1,5 @@
+T1	Dataset 456 462	GISAID
+T2	URL 464 487	https://www.gisaid.org/
+T3	AccessionNumber 503 517	EPI_ISL_412973
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T1	Arg2:T3

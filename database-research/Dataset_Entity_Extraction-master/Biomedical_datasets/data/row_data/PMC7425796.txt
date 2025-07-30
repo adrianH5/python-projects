@@ -1,0 +1,47 @@
+However, some recent coronavirus infections have resulted in serious morbidity and mortality, including the severe acute respiratory syndrome coronavirus (SARS-CoV) [2–4], Middle East respiratory syndrome coronavirus (MERS-CoV) [5, 6], and SARS-CoV-2, which are responsible for the current worldwide pandemic, COVID-19.
+In Abelin et al. [34], we demonstrated that improved HLA-II binding prediction led to improved immunogenicity prediction by validating this approach on a data set of immune responses to a diverse collection of pathogens and allergens [35, 36].
+Here, we specifically validated the binding predictors utilizing Coronaviridae family peptides that had been assayed for T cell reactivity or MHC binding from the Virus Pathogen Resource (ViPR) database [34].
+The ViPR database integrates viral pathogen data from internally curated data, researcher submissions, and data from various external sources.
+Experimentally determined epitopes for the Coronaviridae family for human hosts were retrieved from the ViPR database (https://www.viprbrc.org/; accessed March 5, 2020) [39].
+To build a validation dataset, both positives and negatives for T cell assays and MHC binding assays were obtained.
+Peptide-HLA-I allele pairs in the ViPR validation dataset were scored using our HLA-I binding predictor, a neural network trained on mono-allelic MS data [33].
+Similarly, peptide-HLA-II allele pairs in the ViPR validation dataset were scored using our HLA-II binding predictor, a recently published convolutional neural network-based model also trained on mono-allelic MS data [34].
+In vitro MHC binding assays, which represent the vast majority of the ViPR dataset, do not require endogenous processing and presentation for a positive binding result.
+The GenBank reference sequence for SARS-CoV-2 (accession: NC_045512.2, https://www.ncbi.nlm.nih.gov/nuccore/NC_045512) was used for this study.
+In addition, due to its high expression level in recently published proteomic datasets [40–42], ORF9b, as annotated by UniProt (P0DTD2, https://www.uniprot.org/proteomes/UP000464024), was also used for epitope predictions.
+When comparing our 20 SARS-CoV-2-predicted epitopes with the ViPR dataset, 8 epitopes were previously assayed and confirmed as HLA-A02:01 binders.
+SARS-CoV-2 proteomic datasets were downloaded from the PRIDE repository (Bojkova et al. [40]: PXD017710, https://www.ebi.ac.uk/pride/archive/projects/PXD017710; Bezstarosti et al. [41]: PXD018760, https://www.ebi.ac.uk/pride/archive/projects/PXD018760; Davidson et al. [42]: PXD018241, https://www.ebi.ac.uk/pride/archive/projects/PXD018241).
+For the dataset from Bojkova et al. [40] which employed isobaric mass tags, TMT11 was added as a fixed modification to peptide N-termini and lysines, and 13C6-15N2-TMT11-lysine and 13C6-15N4-arginine were added as variable modifications.
+All datasets were searched against the SARS-CoV-2 proteome (UniProtKB, 28 April 2020, 14 entries) concatenated to databases containing either the Homo sapiens proteome ([40], UCSC Genome Browser hg19 annotation, 63,691 entries) or the Chlorocebus sabaeus proteome ([41, 42] UniProtKB, 9229 entries).
+Spectral counts were normalized to the length of each protein, and the maximum value within each dataset was set to 100%.
+To that end, we used the ViPR database [39], which lists the results of T cell immunogenicity and MHC-peptide binding assays for both HLA-I and HLA-II alleles for viral pathogen epitopes.
+We used all assays of Coronaviridae family viruses with human hosts from ViPR as our validation dataset.
+For HLA-I, within the validation dataset, there were a total of 4445 unique peptide-HLA allele pairs that were assayed for MHC binding, using variations of (1) cellular MHC or purified MHC, (2) a direct or competitive assay, and (3) measurement by fluorescence or radioactivity.
+We then applied our HLA-I binding predictor to the peptide-MHC allele pairs in the validation dataset and compared the computed HLA-I percent ranks of these pairs with the reported MHC binding assay results (Additional file 8: Table S8).
+In total, there were 4445 peptide-HLA-I allele pairs in the ViPR dataset we obtained (see the “Methods” section).
+There were 259 unique peptide-MHC allele pairs assayed by MHC binding assays in the ViPR validation dataset for HLA-II.
+This comparison could not be performed with the “Negative” pairs as an independent group since there was only one negative result in the validation dataset for HLA-II.
+Similar to the HLA-I T cell assays, there were too few recorded HLA-II T cell assays in our validation dataset to determine percent rank differences between peptide-HLA II allele pairs testing positive and negative.
+We first performed the analysis for HLA-I peptide binding and computed the likelihood of each peptide of lengths 8–12 amino acids from the 13 SARS-CoV-2 ORFs to bind to any HLA-I allele in our database.
+To test the validity of the SARS-CoV-2-predicted peptide-HLA pairs, we looked for peptide sequences in the Coronaviridae portion of the ViPR database which exactly matched SARS-CoV-2 peptide sequences (Fig. 2d).
+A total of 374 HLA-I peptide-MHC allele pairs from SARS-CoV-2 had both a percent rank lower than 1% by our predictor and were found in the HLA-I MHC binding validation dataset.
+As a comparison, we also tested for overlap between epitopes predicted to have low likelihood of MHC binding (percent rank 50% or higher) and the validation dataset.
+Despite the significantly smaller number of peptide-MHC allele pairs that were tested for T cell reactivity in the validation dataset, 10 assayed pairs were also highly predicted by our HLA-I binding predictor.
+No low-scoring pairs (percent rank of 50% or above) were reported in the validation dataset.
+In order to determine the relative abundance of SARS-CoV-2 proteins, we analyzed three publicly available proteomic datasets that acquired unbiased LC-MS/MS on tryptic digestions of SARS-CoV-2-infected host cells [40–42].
+Specifically, it confirmed that the N protein is the most abundant viral protein across all three datasets following SARS-CoV-2 infection (Fig. 5).
+This finding is corroborated by reports of N-derived peptides being detected in gargle solution samples from COVID-19 patients [57].
+Our database of supported HLA-I and HLA-II alleles provides us with the ability to not only identify many peptide-MHC allele pairs, but to generate a narrow list of peptides with many potential HLA pairings that could be presented by the entire US, European, and Asian-Pacific Islander populations.
+T cell responses to a small set of epitopes from the S protein in COVID-19 patient or healthy donor PBMCs.
+T cell responses in COVID-19 patients from healthy donor samples collected before or during the pandemic.
+Their data also show that 10 additional peptides sporadically induce responses in 2–3 individuals from either the healthy donor or the COVID-19 patient cohorts (total of 31 individuals).
+While focusing on a small set of two COVID-19 patients and one healthy donor, Chour et al. [61] demonstrate that five HLA-A02:01-restricted epitopes from the S protein elicited a CD8+
+The differences in training data lead to algorithms that prioritize substantially different epitope sets, even for well-studied alleles.
+Additional file 10: Table S10. spectral counts from published SARS-CoV-2 proteomic datasets.
+MS/MS spectra assigned to peptides from SARS-CoV-2 proteins were tallied across datasets, divided by protein length, and normalized within each dataset to generate Fig. 5.
+Additional file 13.
+The ongoing COVID-19 pandemic has created an urgency to identify novel vaccine targets for protective immunity against SARS-CoV-2.
+We first validated HLA-I and HLA-II predictions on Coronaviridae family epitopes deposited in the Virus Pathogen Database and Analysis Resource (ViPR) database.
+From our SARS-CoV-2-predicted peptide-HLA-I allele pairs, 374 pairs identically matched what was previously reported in the ViPR database, originating from other coronaviruses with identical sequences.
+All data generated or analyzed during this study are included in this published article, its supplementary information files, or the following external sources: SARS-CoV-2 reference sequences used in this study were obtained from GenBank (accession: NC_045512.2, https://www.ncbi.nlm.nih.gov/nuccore/NC_045512) and ORF9b, as annotated by UniProt (P0DTD2, https://www.uniprot.org/proteomes/UP000464024).
+SARS-CoV-2 proteomic datasets were downloaded from the PRIDE repository (Bojkova et al. [40]: PXD017710, https://www.ebi.ac.uk/pride/archive/projects/PXD017710; Bezstarosti et al. [41]: PXD018760, https://www.ebi.ac.uk/pride/archive/projects/PXD018760; Davidson et al. [42]: PXD018241, https://www.ebi.ac.uk/pride/archive/projects/PXD018241).

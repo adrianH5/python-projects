@@ -1,0 +1,12 @@
+The overexpression and amplification of HER2 occurs in breast cancer.
+However, the mechanism of HER2 action in tumor has not yet been elucidated.
+HER2 can be degraded by the UPS system, and several HER2-associated E3s have been identified, but the DUB for HER2 has not yet been uncovered.
+Targeted therapy against HER2 has achieved impressive efficacy in patients with HER2-positive breast cancer.
+Herein, using MTS, Western blot, Co-IP, colony formation, RT‒qPCR, EdU, flow cytometry, immunofluorescence assays and xenograft model, we elucidated that USP7 deletion inhibited the growth of HER2-positive breast cancer cell by decreasing HER2 protein abundance.
+We found that USP7 was highly expressed in HER2-positive breast cancer and the expression of USP7 and HER2 was positively correlated.
+USP7 overexpression accelerated cell cycle progression.
+Mechanistically, USP7 interacted with HER2 and decreased HER2 ubiquitination to stabilize its expression.
+Moreover, USP7 knockdown inhibited tumor growth in vivo and in vitro.
+In addition, HER2 overexpression partially reversed cell growth inhibition induced by USP7 inhibition.
+Analyses of clinical samples revealed that USP7 overexpression was associated with poor prognosis in patients with HER2+ breast cancer.
+Thus, this study revealed that USP7, as a DUB of HER2, may be a potential therapeutic target for patient with HER2+ breast cancer.

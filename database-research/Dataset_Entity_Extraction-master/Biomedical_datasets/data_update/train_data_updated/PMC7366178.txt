@@ -1,0 +1,5 @@
+As testing for SARS-CoV-2 was limited to hospitalised patients across much of Europe there is limited data on the self-reported clinical characteristics and outcomes of patients in the community with coronavirus disease 2019 (COVID-19).
+Anonymised record linkage was conducted between routinely collected healthcare datasets in order to ascertain clinical characteristics and outcomes of those who tested positive.
+Hospitalisations were recorded using the new ICD code for COVID-19: U07.1 [5]
+As testing for SARS-CoV-2 was limited to hospitalised patients across much of Europe there is limited data on the self-reported clinical characteristics and outcomes of patients in the community with coronavirus disease 2019 (COVID-19).
+Anonymised record linkage was conducted between routinely collected healthcare datasets in order to ascertain clinical characteristics and outcomes of those who tested positive.

@@ -1,0 +1,6 @@
+Tumor suppressor protein breast cancer susceptibility protein 2 (BRCA2) acts with RAD51 in replication fork protection (FP) and homology-directed DNA-break repair (HDR).
+Critical for cancer etiology and therapy resistance, the BRCA2 C terminus was thought to stabilize recombinogenic RAD51 after the assembly of ATP-extended RAD51 filaments on single-stranded DNA (ssDNA).
+Here, the detailed crystal structure of the human BRCA2 C-terminal interaction domain (TR2 interface [TR2i]) complexed with ATP-bound RAD51 prior to DNA binding instead reveals TR2i unexpectedly induces a unique ATP-RAD51 dimer conformation that accommodates nucleation onto double-stranded B-DNA unsuited for HDR initiation.
+Structural, biochemical, and molecular results with interface-guided mutations uncover TR2i's FP mechanism.
+Proline-driven secondary structure stabilizes residue triads and spans the RAD51 dimer, engaging pivotal interactions of RAD51 M210 and BRCA2 S3291/P3292, the cyclin-dependent kinase (CDK) phosphorylation site that toggles between FP during S phase and HDR in G2.
+TR2i evidently acts as an allosteric clamp, switching RAD51 from ssDNA to double-stranded and B-DNA binding, enforcing FP over HDR, challenging the current BRCA2-RAD51 dogma.

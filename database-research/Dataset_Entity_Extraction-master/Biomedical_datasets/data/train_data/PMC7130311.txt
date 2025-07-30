@@ -1,0 +1,20 @@
+One week later, on January 7, 2020, Chinese health authorities confirmed that they had identified a novel coronavirus (COVID-19).
+The Chinese Center for Disease Control and Prevention issued an epidemic update and risk assessment of COVID-19 in late January.
+Zhou et al showed that COVID-19 shares 79.5% sequence identity with SARS-CoV.
+It was also confirmed that COVID-19 uses the same cell entry receptor, angiotensin-converting enzyme 2, as SARS-CoV, which is highly expressed in airway epithelial cells.
+Zhu et al also identified and characterized COVID-19.
+COVID-19 seems to be the seventh member of the family of coronaviruses that infect humans.
+Notably, COVID-19 grew more readily in primary human airway epithelial cells than in standard tissue culture cells, unlike SARS-CoV or MERS-CoV, suggesting the potential for increased infectivity.
+Homology modeling revealed that COVID-19 had some amino acid variations at key residues benchmarked with SARS-CoV.
+A familial cluster of pneumonia due to COVID-19 has been reported.
+The basic reproductive number of COVID-19 was estimated to be 2.2, lower than that of SARS-CoV (around 3).
+,
+ However, host virus interactions may hasten the birth of potential super spreaders, leading to major outbreaks.
+The first reported patient with COVID-19 infection in the United States was administered remdesivir.
+Two randomized controlled trials have been registered to evaluate the safety and efficacy of remdesivir in mild/moderate or severe patients with COVID-19 viral pneumonia.
+,
+ Kirchdoerfer and Ward noticed that nonstructural proteins (nsp)12 polymerase may be a template for the design of novel antiviral therapeutic agents to interrupt the assembly of the SARS-CoV core RNA-synthesis machinery.
+COVID-19 has full-length genome sequences with > 75% nucleotide identity with that of SARS-CoV, which allows the molecular structure information to be used as a model for coronavirus antiviral design.
+It is of great significance to share what is known of COVID-19 genome sequences, the epidemiology, and clinical features of the illness.
+Hopefully, the early suggestion that COVID-19 infection is of lower lethality than SARS holds true.
+The goal is to break the transmission chain of COVID-19.

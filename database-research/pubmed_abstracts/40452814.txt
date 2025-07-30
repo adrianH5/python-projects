@@ -1,0 +1,10 @@
+Myeloid-derived suppressor cells (MDSCs) are a heterogeneous population of immature myeloid cells that expand aberrantly in cancer and exhibit potent immunosuppressive properties.
+They contribute to tumor progression through both immunological and nonimmunological mechanisms.
+Immunologically, MDSCs suppress antitumor responses by inhibiting effector cells such as T cells and NK cells, facilitating immune evasion.
+Nonimmunologically, they promote tumor growth and metastasis through processes such as the epithelial‒mesenchymal transition, angiogenesis, and premetastatic niche formation.
+MDSC accumulation is closely linked to accelerated tumor progression, including resistance to both immunotherapies and conventional treatments, making these cells critical therapeutic targets.
+Clinical studies have demonstrated the potential of MDSC-targeted strategies to improve treatment efficacy.
+However, challenges remain in achieving specificity and effectiveness in MDSC-targeted therapies, emphasizing the need for a deeper understanding of their biology.
+This review summarizes the origin, classification, and biological characteristics of MDSCs, their dual roles in tumor progression, and their clinical significance.
+We also discuss recent advances in clinical and preclinical studies, including both traditional targeted therapies and emerging innovative strategies.
+By integrating current findings, we aim to provide a comprehensive perspective on the role of MDSCs in cancer and valuable insights for advancing cancer treatment and drug development.

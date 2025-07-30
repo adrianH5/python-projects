@@ -1,0 +1,8 @@
+Uveal melanoma (UM) is a rare but frequently metastasizing cancer.
+Genome-wide association studies have identified three common genome-wide significant germline risk loci.
+Here, we perform a genome-wide association study on 401 new cases and conduct a meta-analysis with three independent previously published cohorts for a total sample size of 2,426 cases.
+We confirm the three previously identified risk loci and identify four additional genome-wide significant loci.
+We find that eye pigmentation decreasing variants are systematically associated with increased UM risk, and that selection for lighter pigmentation in the past 5000 years explains about 73% of the difference in UM incidence between Northern and Southern Europe.
+We find evidence of effect size heterogeneity at significant loci across cohorts, in particular, a weaker association between eye pigmentation and UM in a Finnish cohort.
+Finally, we confirm differential effect sizes between uveal melanoma cases with and without loss of chromosome 3, the major determinant of metastatic risk.
+Our study identifies novel germline risk factors for UM and highlights genetic and environmental heterogeneity in its etiology.

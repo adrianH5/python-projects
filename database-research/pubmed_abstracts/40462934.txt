@@ -1,0 +1,11 @@
+Plexin-semaphorin signaling regulates key processes such as cell migration, neuronal development, angiogenesis, and immune responses.
+Plexins stand out because they can directly bind with both Rho- and Ras-family small GTPases through their intracellular domains when these GTPases are in their active, GTP-bound states.
+This binding occurs via intracellular regions which include a Rho-GTPase Binding Domain (RBD) and a GTPase Activating Protein (GAP) segment.
+Studies have shown that Rho and Ras GTPases play vital roles in plexin signaling and activation.
+However, the structural dynamics of plexins and GTPases and how these conformational changes affect interactions when plexin is bound with both Ras and Rho-GTPases or bound to only one specific GTPase has remained unclear.
+In this study, we conducted molecular dynamics (MD) simulations on six distinct plexin-GTPase bound systems to investigate the differences in conformations and dynamics between Plexin-B1 and three GTPases: Rap1b, Rnd1, and Rac1.
+Our analysis revealed that dynamics with Rac1 are more altered, compared to Rnd1 depending on whether plexin's GAP domain is bound or unbound to Rap1b.
+In addition, we further investigated alterations in network centralities and compared the network dynamics of the Plexin-GTPases complexes, focusing on the differences when Plexin is bound to both Ras (Rap1b) and Rho-GTPases (Rnd1/Rac1) versus when it is bound to only one GTPase.
+Our study revealed that Rnd1 exhibits stronger and more stable interactions with Plexin-B1 in the absence of Rap1b, while Rac1 shows fewer and less stable connections in comparison.
+These computational models have features that broadly agree with experimental results from hydrogen-deuterium exchange detected by mass spectrometry (HDX-MS).
+Such insights provide a better understanding of the molecular mechanisms underlying Plexin-GTPase interactions and the complexities of signaling mechanisms involving GTPases in general.

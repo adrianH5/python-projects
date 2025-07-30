@@ -1,0 +1,9 @@
+Phenotypic information for cancer research is embedded in unstructured electronic health records (EHR), requiring effort to extract.
+Deep learning models can automate this but face scalability issues due to privacy concerns.
+We evaluated techniques for applying a teacher-student framework to extract longitudinal clinical outcomes from EHRs.
+We focused on the challenging task of ascertaining two cancer outcomes-overall response and progression according to Response Evaluation Criteria in Solid Tumors (RECIST)-from free-text radiology reports.
+Teacher models with hierarchical Transformer architecture were trained on data from Dana-Farber Cancer Institute (DFCI).
+These models labeled public datasets (MIMIC-IV, Wiki-text) and GPT-4-generated synthetic data.
+"Student" models were then trained to mimic the teachers' predictions.
+DFCI "teacher" models achieved high performance, and student models trained on MIMIC-IV data showed comparable results, demonstrating effective knowledge transfer.
+However, student models trained on Wiki-text and synthetic data performed worse, emphasizing the need for in-domain public datasets for model distillation.

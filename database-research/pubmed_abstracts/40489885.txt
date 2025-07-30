@@ -1,0 +1,11 @@
+This study investigates the causal relationships between circulating levels of 14 circulating micronutrients and the risk of nasopharyngeal carcinoma (NPC) using Mendelian randomization (MR) analysis.
+We conducted a 2-sample MR study using genome-wide association studies datasets.
+Data on 14 circulating micronutrients were obtained from UK Biobank datasets.
+The genome-wide association studies dataset of NPC (malignant neoplasm of nasopharynx) was downloaded from the FinnGen database.
+MR analyses were performed using the inverse variance weighted method, the MR-Egger method, and the weighted median method, with sensitivity analyses including MR-Egger, MR-PRESSO, and leave-one-out analyses to test for pleiotropy and heterogeneity.
+Using the inverse variance weighted method, MR univariate analysis showed that vitamin C, vitamin D, and zinc may have a causal relationship with the risk of NPC.
+Subsequently, MR multivariate analysis indicated that vitamin C (odds ratio: 1.55 × 1061, 95% confidence interval: 8.52 × 1011-2.81 × 10110, P = .015) and vitamin D (odds ratio: 8.62 × 10-10, 95% confidence interval: 1.73 × 10-17-0.043, P = .021) have a causal relationship with the risk of NPC.
+Sensitivity analyses confirmed no evidence of directional pleiotropy or significant heterogeneity, supporting the robustness of the findings.
+Our results provides evidence for causal relationships between circulating levels of vitamin C and vitamin D and the risk of NPC.
+Our findings underscore the importance of maintaining adequate vitamin D levels to potentially reduce NPC risk, while highlighting the need for caution regarding vitamin C supplementation in at-risk populations.
+Further research is essential to clarify the mechanisms underlying these relationships.

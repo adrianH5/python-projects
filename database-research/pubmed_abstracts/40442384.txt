@@ -1,0 +1,9 @@
+Insulin-like growth factor 1 (IGF1) plays a vital role in the brain and the body, acting to promote growth and repair, as well as aiding neuronal connections and brain states.
+Its action is modulated by IGF binding proteins (IGFBPs), which regulate its transport and access to its receptor, the type 1 IGF1 receptor (IGF1R).
+The activation of IGF1R regulates several downstream pathways, predominantly mitogen- activated protein kinases (MAPK) and Phosphoinositide 3-kinase (PI3K).
+In the body, IGF1 is primarily secreted by hepatocytes and transported in the bloodstream to act as a driver of growth, protein anabolism, and feedback for the action of growth hormone (GH).
+In the brain, IGF1 is produced by several cell types, and it is a regulator of several systems, exerting its action on neurogenesis, modulation of neuronal excitability and plasticity, and regulation of brain states.IGF1 concentration needs to be finely regulated, since its deficits or overexpression can have detrimental and potentially lethal effects.
+In addition, IGF1 plays an important role in pathologies including cancer, metabolic diseases, stroke, and brain disorders.IGF1 is one of the few molecules whose transport between the brain and body is regulated by a specialized mechanism present in the blood-brain barrier (BBB).
+Considering that IGF1 is produced in both brain and body, it is not clear why IGF1 needs to be transported in the brain from the body.
+We propose that IGF1 acts as a connector to improve brain function in response to the body's metabolic states and other factors.
+Therefore, IGF1 transport from body to brain represents a strategy to coordinate the whole-body well-being.

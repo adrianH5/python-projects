@@ -1,0 +1,7 @@
+With the advance of medical sciences and better understanding of human biological systems, the next generation of treatment has shifted toward personalized medicine.
+It is expected that personalized medicine, such as molecularly targeted anti-cancer agents, is more efficacious in marker-positive patients, while marker-negative patients may or may not benefit from the treatment.
+Due to technology limitations in marker identification and incomplete understanding of the role of biomarkers in treatment effect, it is possible that the marker is not predictive.
+Therefore, it is often of interest to test the treatment on the overall population as well as the biomarker-positive subgroup.
+Testing both the overall population and the biomarker-positive subgroup introduces a multiplicity issue and leads to type I error inflation if not adjusted appropriately.
+The available multiplicity adjustment procedures may not consider the logic needed in the two tests.
+A new method is proposed by applying the logical connections between the two hypothesis tests, and arbitrages between different rejection regions to make the testing strategy not only powerful but also sensible.

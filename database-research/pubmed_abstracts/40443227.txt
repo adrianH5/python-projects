@@ -1,0 +1,5 @@
+Immunotherapy has shown success against other cancers but not glioblastoma.
+Previous data has revealed that microbiota influences anti-PD-1 efficacy.
+We have previously found that, when using gnotobiotic mice transplanted with human fecal microbiota, the gut microbial composition influenced the response to anti-PD-1 in a mouse model of glioma.
+However, the role of the human microbiota in influencing the mouse immune cells in the glioma microenvironment and anti-PD-1 response was largely unknown.
+Using two distinct humanized microbiome (HuM) lines, we used single-cell RNA sequencing (scRNA-seq) to determine how gut microbiota affect immune infiltration and gene expression in a murine glioma model.

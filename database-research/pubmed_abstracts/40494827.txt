@@ -1,0 +1,8 @@
+Gold nanoparticles (AuNPs) have demonstrated significant potential for targeted imaging and drug delivery.
+However, their effectiveness may be compromised by the nonspecific adsorption of serum proteins, forming a protein corona that traps surface ligands and interferes with receptor targeting.
+This study investigates the impact of the branch morphology of anti-HER2 aptamer-functionalized gold nanostars (AuNS) on their ability to exert cytotoxicity in human epidermal growth factor receptor 2 (HER2)-overexpressing cancer cells in the presence of serum proteins.
+By controlling reaction kinetics using temperature in HEPES-mediated seeded-AuNS synthesis, we produced homogeneous populations of AuNS with varying branch lengths but comparable hydrodynamic sizes and concentrations.
+Transmission electron microscopy (TEM) revealed that longer and sharper branches on aptamer-functionalized AuNS were significantly more effective at avoiding sequestration by the protein corona than shorter branches.
+Subsequently, HER2-targeting AuNS with longer branches caused significantly greater cytotoxic effects in HER2-overexpressing SKOV3 cancer cells than did AuNPs with spheroidal morphologies.
+The differences in the cytotoxic effect caused by spheroidal AuNPs and AuNS with shorter branches were statistically insignificant.
+These findings underscore the importance of optimizing the AuNS branch morphology for improved receptor-specific drug delivery and targeted cancer therapies, offering valuable insights into nanomedicine design.

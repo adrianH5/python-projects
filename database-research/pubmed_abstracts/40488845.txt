@@ -1,0 +1,3 @@
+The thiosemicarbazone Dp44mT and its Pt complex were conjugated to coumarin-based fluorophores.
+These conjugates proved to be versatile lysosome tracking agents.
+Specifically, Pt complex 5 remained trapped and produced reliable fluorescence emission in the lysosomes of HeLa cancer cells over 72 h, revealing its potential as a robust lysosome tracker.

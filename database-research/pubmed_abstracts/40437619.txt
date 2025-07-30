@@ -1,0 +1,3 @@
+Transcriptome sequencing (RNA-seq) is a powerful technology for gene expression profiling.
+Selection of optimal parameters for cDNA library generation is crucial for acquisition of high-quality data.
+In this study, we investigate the impact of the amount of RNA and the number of PCR cycles used for sample amplification on the rate of PCR duplication and, in consequence, on the RNA-seq data quality.

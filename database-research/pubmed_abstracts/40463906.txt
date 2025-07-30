@@ -1,0 +1,11 @@
+Photodynamic nanodrugs (PDNS) have demonstrated significant advantages in enhancing therapeutic outcomes while reducing systemic toxicity, achieved primarily through optimized photosensitizer solubility, targeted biodistribution, and site-specific accumulation.
+This review systematically examines recent progress and future directions of PDNS development, encompassing fundamental research to clinical translation.
+Specifically, it analyzes the composition, mechanisms of action, inherent advantages, clinical applications, as well as the challenges faced in this domain.
+The introduction of nanocarriers has circumvented the limitations of the core photosensitizers, substantially enhancing the efficacy and safety of PDNS via targeted delivery and synergistic therapy.
+Moreover, the integration of stimuli-responsive and multifunctional nanoplatforms has further improved the spatiotemporal control of reactive oxygen species (ROS) generation, thereby minimizing off-target effects.
+In addition, the combination of PDNS with immunotherapy has exhibited synergistic effects, underscoring the potential of this integrated approach.
+PDNS has made remarkable progress in cancer treatment through receptor-mediated endocytosis, self-assembly, and precise targeting.
+Beyond cancer treatment, PDNS holds considerable promise in treating a diverse array of non-oncological diseases, such as acne, psoriasis, dry eye disease, and cardiovascular disorders, et al.
+In this regard, PDNS has emerged as a pivotal component within the realm of personalized medicine.
+Despite these notable advancements, challenges persist in optimizing drug delivery and achieving efficient clinical translation.
+Looking ahead, future perspectives encompass the development of highly efficient photosensitizers and ensuring accurate nanocarrier delivery, which will undoubtedly facilitate the progress of PDNS in the clinical application field.

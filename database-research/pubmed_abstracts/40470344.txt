@@ -1,0 +1,12 @@
+Breast cancer is one of the most prevalent cancers affecting women worldwide.
+Early detection and treatment are crucial in significantly reducing mortality rates Microcalcifications (MCs) are of particular importance among the various breast lesions.
+These tiny calcium deposits within breast tissue are present in approximately 30% of malignant tumors and can serve as critical indirect indicators of early-stage breast cancer.
+Three or more MCs within an area of 1 cm² are considered a Microcalcification Cluster (MCC) and assigned a BI-RADS category 4, indicating a suspicion of malignancy.
+Mammography is the most used technique for breast cancer detection.
+Approximately one in two mammograms showing MCCs is confirmed as cancerous through biopsy.
+MCCs are challenging to detect, even for experienced radiologists, underscoring the need for computer-aided detection tools such as Convolutional Neural Networks (CNNs).
+CNNs require large amounts of domain-specific data with consistent resolutions for effective training.
+However, most publicly available mammogram datasets either lack resolution information or are compiled from heterogeneous sources.
+Additionally, MCCs are often either unlabeled or sparsely represented in these datasets, limiting their utility for training CNNs.
+In this dataset, we present the MEXBreast, an annotated MCCs Mexican digital mammogram database, containing images from resolutions of 50, 70, and 100 microns.
+MEXBreast aims to support the training, validation, and testing of deep learning CNNs.

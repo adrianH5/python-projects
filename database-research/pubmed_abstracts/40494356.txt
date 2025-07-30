@@ -1,0 +1,3 @@
+Methods for spatially resolved cellular profiling of tissue sections enable in-depth study of inter- and intra-sample heterogeneity but often profile small regions, requiring evaluation of many samples to compensate for limited assessment.
+Recent advances in three-dimensional (3D) tissue mapping offer deeper insights; however, attempts to quantify the information gained in transitioning to 3D remains limited.
+Here, to compare inter- and intra-sample tissue heterogeneity, we analyze >100 pancreas samples as cores, whole-slide images (WSIs), and cm

@@ -1,0 +1,10 @@
+Primary liver cancer is the third leading cause of cancer-related deaths worldwide, with persistently high incidence and mortality rates.
+Hepatocellular carcinoma (HCC), the most common type of primary liver cancer, has a complex pathogenesis.
+Moreover, due to the low rate of early diagnosis and limited treatment options, the prognosis for HCC patients is poor, with a median overall survival of approximately one year for advanced-stage HCC.
+Cancer metastasis is one of the main reasons for HCC-related deaths.
+During the metastatic process, tumor cells undergo a series of complex biological changes, including epithelial-mesenchymal transition, extracellular matrix remodeling, angiogenesis, and resistance to anoikis, which are key steps.
+These changes promote the invasion and migration of tumor cells and are central mechanisms of cancer progression.
+In the metastatic process of HCC, signaling pathways that regulate cell proliferation, differentiation, and apoptosis, such as Hippo-YAP/TAZ, Wnt/β-catenin, Notch, Hedgehog and JAK/STAT, become dysregulated and play a promoting role in the aggressive growth and distant migration of HCC cells.
+Treatment strategies targeting these pathways are currently being developed.
+These new agents, being more targeted, may have better tolerability and fewer adverse effects.
+This review focuses on the role of these key signaling pathways in the metastatic process of HCC and summarizes the treatment strategies targeting these pathways.

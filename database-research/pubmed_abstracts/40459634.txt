@@ -1,0 +1,9 @@
+The involvement of leucine rich repeats protein 1 (LRR1) in various biological processes has been established, but its specific role and potential mechanisms in hepatocellular carcinoma (HCC) remain unclear.
+The aim of this study was to explore the potential expression, function, and mechanisms of LRR1 in HCC.
+Data acquired from TCGA, GEO and other online databases was used to investigate the expression and roles of LRR1 in HCC through various approaches, including expression profiling, clinical significance analysis, methylation status examination, immune infiltration assessment, genomic mutation analysis, and pathway network exploration.
+With findings in bioinformatic analysis, we further validated the involvement of LRR1 in HCC progression by cellular experiments.
+The expression of LRR1 is significantly upregulated in HCC compared to normal liver tissues and cell line.
+Additionally, the involvement of LRR1 was implicated in various modifications across diverse aspects associated with HCC.
+Enrichment analysis indicated that LRR1 was induced by hypoxia in HIF-1-dependent manner.
+The cell experiments convincingly demonstrated the pivotal role of LRR1 in tumor cell proliferation, migration, invasion and angiogenesis under the regulation of HIF-1.
+Our findings demonstrate a novel oncogene LRR1 in HCC, which is also a HIF-1 target gene and functions as a promising biomarker and contributes to the hypoxia-induced progression of HCC through a HIF-1/LRR1 manner.

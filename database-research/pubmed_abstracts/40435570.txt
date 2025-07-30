@@ -1,0 +1,11 @@
+This is the first assessment of evidence needed to determine whether exposure to radiofrequency electromagnetic fields (RF-EMF) exposures, below the levels recommended in the ICNIRP (2020) guidelines, can influence any of the ten key characteristics (KCs) of human carcinogens developed by the International Agency for Research on Cancer (IARC).
+We define the 10 KCs and their relevance to carcinogenesis; review in vivo and in vitro studies relevant to the KCs; and conduct a risk of bias (RoB) analysis using 6 criteria.
+We did not include KC studies on genotoxicity or oxidative stress since Romeo et al.
+(2024) and Meyer et al.
+(2024) recently published relevant systematic reviews, but note their respective conclusions.
+From the other 8 KCs we identified 119 in vitro and 40 in vitro measurements of in vivo studies through 30 June 2023, with 38 % reporting statistically significant effects of exposure.
+We identified a strong association between the quality of study and outcome, with those meeting more RoB criteria less likely to report statistically significant effects.
+Effects were reported over the entire frequency range, exposure levels, and biological endpoints with no apparent pattern of exposure parameters resulting in effects.
+Only KC10 (alters cell proliferation, cell death or nutrient supply) has sufficient studies to analyse, but the other KCs had few studies and diverse endpoints.
+A few relatively high-quality positive studies require follow-up through additional targeted studies.
+The heterogeneity and overall poor study quality suggest the need for high-quality studies on these endpoints, preferably adhering to standards such as the Organization for Economic Co-operation and Development [28].

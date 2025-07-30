@@ -1,0 +1,6 @@
+Mechanisms of tumorigenesis in sinonasal squamous cell carcinoma (SNSCC) remain poorly understood due to its rarity.
+A subset of SNSCC is associated with human papillomavirus (HPV), but it is unclear whether HPV drives tumorigenesis or acts as a neutral bystander.
+Here, we show that HPV-associated SNSCC shares mutational patterns found in HPV-associated cervical and head and neck squamous cell carcinoma, including lack of TP53 mutations, hotspot mutations in PI3K and FGFR3, enrichment of APOBEC mutagenesis, viral integration at known hotspots, and frequent epigenetic regulator alterations.
+We identify HPV-associated SNSCC-specific recurrent mutations in KMT2C, UBXN11, AP3S1, MT-ND4, and MT-ND5, with KMT2D and FGFR3 mutations correlating with reduced overall survival.
+We establish an HPV-associated SNSCC cell line, showing that combinatorial small-molecule inhibition of YAP/TAZ and PI3K synergistically suppresses clonogenicity.
+Combining YAP/TAZ blockade with vertical PI3K inhibition may benefit HPV-associated SNSCC, whereas targeting MYC and horizontal inhibition of RAS/PI3K may suit HPV-independent SNSCC.

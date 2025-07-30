@@ -1,0 +1,11 @@
+Nei endonuclease VIII-like 1 (NEIL1) is a bifunctional human DNA glycosylase that catalyzes the first step of the base excision repair (BER) pathway by recognizing and excising oxidized bases, including thymine glycol and the further oxidation products of 7,8-dihydro-8-oxoguanine (8-oxoG), spiroiminodihydantoin, and guanidinohydantoin.
+Despite its critical role in maintaining genome stability, NEIL1 is expressed at relatively low endogenous cellular levels compared to other BER proteins such as OGG1, Polβ, and APE1.
+As a result, most cellular studies have relied on overexpression systems.
+Additionally, progress in studying NEIL1 has been hindered by the inconsistent availability and continuity of specific commercially available antibodies.
+To address this challenge, we developed single-domain nanobodies (VHHs) targeting NEIL1.
+A yeast 2 hybrid (Y2H) screen identified ten VHH hits with the top candidate, henceforth called A5, emerging multiple times.
+Here, we characterize the binding properties of A5 using a combination of biochemical and molecular techniques.
+Differential scanning fluorimetry and glycosylase activity assays indicate that recombinant A5 specifically stabilizes recombinantly expressed NEIL1, while not interfering with its glycosylase activity.
+Moreover, our data suggest that A5 preferentially binds to NEIL1's N-terminal glycosylase domain rather than its C-terminal flexible tail, which is known to mediate protein-protein interactions.
+In live-cell imaging studies, an A5-mCherry chromobody colocalizes with NEIL1-GFP and is recruited to sites of laser-induced DNA damage, suggesting its potential as a molecular tool for visualizing NEIL1 dynamics.
+These findings establish A5 as a valuable probe for studying NEIL1 function and opens new avenues for exploring its role in DNA repair.

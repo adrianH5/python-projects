@@ -1,0 +1,11 @@
+We aimed to determine and compare the cytotoxic effects of curcumin (Cur), gingerol (Gin), berberine (Ber), resveratrol (Res), baicalin (Bai), and epigallocatechin-3-gallate (EGCG) both individually and in combination, across MCF-7, 3T3, A549, PC-12, and HT-29 cell lines.
+The findings also showed that IC50 values were not achieved for Bai and EGCG in all exposed cell lines.
+Furthermore, Cur was the most potent cytotoxic agent in monotherapy.
+In combination therapy, the Cur + Res combination indicated the most inhibitory effect in MCF-7 cells.
+The most inhibitory effects were for Res + Bai and Cur + Res combinations in 3T3 cells.
+In the resistant A549 cells, the combined administration of phytochemical enhanced cytotoxic effects.
+The combinations of Cur + Gin, Cur + Res, and Cur + Ber were identified as the most effective inhibitors in the PC-12 cell line.
+In HT-29 cells, the combinations of Cur + Gin, Cur + Res, Cur + Ber, and Cur + Res + Gin exhibited the highest inhibitory effects.
+Based on these findings, Cur was the most cytotoxic agent in monotherapy, while Cur + Res exhibited the greatest cytotoxicity in combination therapy.
+Moreover, combination therapy led to increased cytotoxic actions of phytochemicals in resistant cells.
+Therefore, combinational administration is recommended for future anti-cancer studies, as it allows for the use of lower concentrations of each phytochemical.

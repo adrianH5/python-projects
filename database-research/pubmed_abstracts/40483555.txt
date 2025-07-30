@@ -1,0 +1,11 @@
+BACKGROUND Endoscopic surgery has become increasingly important in management of nasopharyngeal carcinoma (NPC).
+However, limited research exists on postoperative hypotension in NPC patients undergoing endoscopic surgery.
+This retrospective study aimed to analyze the risk factors associated with postoperative hypotension in such patients.
+MATERIAL AND METHODS This retrospective study included NPC patients who underwent endoscopic surgery after radiotherapy at Guangdong Provincial People's Hospital between 2021 and 2023.
+Patients with systolic blood pressure (SBP) <90 mmHg or mean arterial pressure (MAP) <65 mmHg were categorized into the hypotension group.
+Multiple logistic regression analysis was performed to identify the risk factors associated with postoperative hypotension.
+RESULTS Among 264 patients, 86 (32.5%) experienced postoperative hypotension.
+Univariate analysis revealed significant associations between postoperative hypotension and factors such as sex, height, weight, admission SBP, admission MAP, preoperative hemoglobin level, and preoperative blood calcium level.
+Multivariate logistic regression identified height [odds ratio (OR): 0.957; 95% confidence interval (CI): 0.924-0.991], admission SBP (OR: 0.979; 95% CI: 0.963-0.995), preoperative blood calcium concentration (OR: 0.044; 95% CI: 0.003-0.734), and the use of dexmedetomidine during surgery (OR: 0.278; 95% CI: 0.091-0.848) as independent risk factors for postoperative hypotension.
+CONCLUSIONS Height, admission SBP, preoperative blood calcium concentration, and the use of dexmedetomidine during surgery were identified as independent risk factors for postoperative hypotension in NPC patients undergoing endoscopic surgery.
+Identifying and addressing these factors can help clinicians optimize perioperative management by carefully titrating dexmedetomidine doses, ensuring adequate preoperative blood pressure control, and correcting calcium imbalances to maintain hemodynamic stability.

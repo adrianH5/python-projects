@@ -1,0 +1,6 @@
+The Janus kinase/signal transducers and activators of transcription (JAK-STAT) control natural killer (NK) cells development and cytotoxic functions, however, whether long non-coding RNAs (lncRNAs) are involved in this pathway remains unknown.
+We found that miR155HG was elevated in activated NK cells and promoted their proliferation and effector functions in both NK92 and induced-pluripotent stem cells (iPSCs)-derived NK (iPSC-NK) cells, without reliance on its derived miR-155 and micropeptide P155.
+Mechanistically, miR155HG bound to miR-6756 and relieved its repression of JAK3 expression, thereby promoting the JAK-STAT pathway and enhancing NK cell proliferation and function.
+Further investigations disclosed that upon cytokine stimulation, STAT3 directly interacts with miR155HG promoter and induces miR155HG transcription.
+Collectively, we identify a miR155HG-mediated positive feedback loop of the JAK-STAT signaling.
+Our study will also provide a power target regarding miR155HG for improving NK cell generation and effector function in the field of NK cell adoptive transfer therapy against cancer, especially iPSC-derived NK cells.

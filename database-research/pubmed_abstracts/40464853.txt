@@ -1,0 +1,3 @@
+The hypoxic microenvironment affects the development of many types of tumors.
+It also triggers a series of immune response, and affects the level of immune cells infiltration.
+Here, the study aims to develop a gene marker based on hypoxia for prognosis evaluation in lung adenocarcinoma (LUAD), and investigate the relationship between hypoxia and immune cell infiltration in the tumor microenvironment (TME).

@@ -1,0 +1,45 @@
+By August 2020, the COVID-19 (Coronavirus Disease-2019) pandemic caused more than 20 million confirmed infections and more than 700000 deaths ().
+Most of COVID-19 cases are mild, while about 15 % develop severe disease that results in acute respiratory distress syndrome associated with dysregulated immune response, systemic inflammation and cytokine storm.
+The high fatality rate of COVID-19 may be partly due to excessive production of cytokines and inflammatory mediators(cytokine storm) leading to a hyperactive non-productive immune state causing lung and other organs injury (Zhou et al., 2020).
+As of August 12, 2020, there are more than 200 host genetics studies – with different study designs – trying to identify possible associations between human genetic variants and the prognosis of COVID-19 patients.
+Most of these studies are Genome-Wide Association Studies (GWAS) and depend on the association of genetic variations with different phenotypes such as severe COVID-19 disease ().
+It is essential for these investigators to have a list of candidate genes that are likely to be involved in COVID-19 pathogenesis.
+Genomics England used wide inclusion criteria to design a gene panel to investigate COVID-19.
+In our review, we refine this panel and create a gene list of the most likely genes that might be involved in severe COVID-19 disease based on a set of criteria discussed below in the methods section.
+These criteria dictate that our curated gene list contains only studies on humans and that genetic mutations predisposed to severe viral infections in otherwise healthy individuals (in case report studies) or predisposed to SARS-CoV or SARS-CoV-2 in GWAS studies providing the highest evidence for possible involvement in severe COVID-19 disease.
+This gene list can benefit investigators in two ways: the first one is to make sure that those genes are present in gene panels used for host genetic studies as they are likely candidates of association with severe COVID-19 disease.
+In addition, we provide new insights and different hypotheses for genes involved in severe COVID-19 disease based on our reviews of different viral susceptibility studies and briefly review the COVID-19 host genetics studies published up to this date.
+Next, we checked the OMIM database to find the related studies.
+We identified 40 genes that we expect to be highly involved in host genetic susceptibility to severe COVID-19, and hence deserve consideration during design and interpretation of case report and GWAS studies of COVID-19 and also during a meta-analysis of different GWAS studies.
+In some cases, a single gene (e.g., TLR3) was involved in predisposition to several viruses (Lim et al., 2019; Zhang et al., 2007) and a single mutation (P 554S) predisposed to different viral infections (HSE and ARDS due to IAV) which support our hypothesis of the possible involvement of our reviewed genes in COVID-19 susceptibility, and hence the need for a candidate gene list (Lim et al., 2019; Zhang et al., 2007).
+Accordingly, polymorphisms in C-lectin genes might explain severe COVID-19 disease.
+Consequently, we suggest dendritic cells might play the role of the safe house for SARS-CoV-2 explaining many cases of recurrent COVID-19 disease (Ravioli et al., 2020; Loconsole et al., 2020).
+Inflammasome activation is one of the main theories for explanation of the cytokine storm during COVID-19 causing severe manifestations in around 15 % of the infected population (van den Berg and te Velde, 2020; Rodrigues et al., 2020; Freeman and Swartz, 2020).
+NLRP3 activation in COVID-19 patients was proven in vitro in PBMCs and tissues of COVID-19 patients.
+Additionally, higher levels of IL-18 and Casp1p20(Inflammasome products) -in the sera of COVID-19 patients- were associated with COVID-19 severity and poor prognosis (Rodrigues et al., 2020).
+Hence, we invite researchers to study the possible involvement of NLRP1 in severe COVID-19 disease.
+We searched for IL-18 inhibition as a possible treatment option for severe COVID-19 using the keywords “COVID-19” and “IL-18” in clinicaltrials.gov and found no registered clinical trials.
+Accordingly, we think that IL-18 inhibition can provide a therapeutic option in patients with severe COVID-19 disease.
+We suggest that Inhibition of EndoU in SARS-CoV-2 might represent a potential therapeutic target in COVID-19 patients.
+Additionally, higher expression of antiviral genes is not always a good prognostic factor as in the example of MxA which we should investigate and take into consideration during interpretation of differential gene expression studies of COVID-19.
+Accordingly, studying close family members is essential to understand the penetrance of the suspected mutation and the inheritance pattern which can help us in prevention and prediction of severe COVID-19 disease in susceptible relatives of patients.
+Severe COVID-19 risk factors include old age, smoking and preexisting medical conditions such as diabetes mellitus, hypertension and cardiovascular disease (Ellinghaus et al., 2020).
+Unexpected clinical manifestations or complications from infection -e.g. COVID-19- in otherwise healthy individuals are a suggestion of the genetic origin of susceptibility.
+Statistical methods are essential to compare genetic variants in those patients with a matched control (e.g. general population or other family members who tested positive without severe manifestation or complication from COVID-19).
+Case report studies of COVID-19 represents an opportunity for researchers to identify the largest number of genes associated with severe viral infections in humans and to confirm previous case-report studies of viral susceptibility.
+In our case, severe COVID-19 affects a significant number of the population and different factors have been associated with severe manifestation, and it is time for GWAS to discover the role of common and rare variants -with different effect sizes- in the pathogenesis of the disease.
+Accordingly, we invite GWAS investigators to widen their inclusion criteria to include all patients of different age groups to find common and rare variants associated with severe COVID-19.
+We predict that GWAS studies are more able to discover gene regulation elements involved in COVID-19 susceptibility more than case report studies because of the tendency to suspect genetic mutation with deleterious effect on proteins and neglect gene regulatory elements in case report studies as we can see on the IUIS list and also because of the wide use of WGS instead of WES in GWAS (Tangye et al., 2020).
+As of August 21, 2020, we found 5 studies (one of them is a preprint) associating COVID-19 severity with different genes as in Table 2 (Ellinghaus et al., 2020; Kuo et al., 2020; Lu et al., 2020; Wu et al., 2020; Zhao et al., 2020).
+Three studies reported that ABO genes are associated with severity of COVID-19 disease and that blood group A individuals are more susceptible to risk of infection and severe manifestation while blood group O has a protective effect (Wu et al., 2020; Zhao et al., 2020; Ellinghaus et al., 2020).
+The largest COVID-19 GWAS published recently associates the locus 3p21.31 with severe manifestations of COVID-19(Mechanical ventilation).
+We suggest CCR1 and CCR9 as a potential therapeutic target in COVID-19 patients which needs further investigations.
+Other associated genes with severe COVID-19 are described in Table 2.
+During our review of genes potentially involved in the COVID-19 response, we excluded genes differentially expressed in patients such as ACE2 and TMPRSS2 genes whose polymorphisms were not proven to be associated with severe COVID-19 (Wen et al., 2020; Sungnak et al., 2020; Bilinska et al., 2020; Hoffmann et al., 2020) because we wanted our study to be restricted to genes with mutations involved directly in association with the severe disease.
+SARS-CoV-2 is an emergent viral disease that caused millions of COVID-19 cases all over the world.
+There is increasing evidence that severe manifestations of COVID-19 might be attributed to human genetic variants in genes related to immune deficiency and or inflammasome activation (cytokine storm).
+Objective  Identify the candidate genes that are likely to aid in explaining severe COVID-19 and provide insights to understand the pathogenesis of severe COVID-19.
+In this article, we systematically reviewed genes related to viral susceptibility that were reported in human genetic studies (Case-reports and GWAS) to understand the role of host viral interactions and to provide insights into the pathogenesis of severe COVID-19.
+We found 40 genes associated with viral susceptibility and 21 of them were associated with severe SARS-CoV disease and severe COVID-19.
+This compilation represents a list of candidate genes that are likely to aid in explaining severe COVID-19 which are worthy of inclusion in gene panels and during meta-analysis of different variants in host genetics studies of COVID-19.
+In addition, we provide several hypotheses for severe COVID-19 and possible therapeutic targets.

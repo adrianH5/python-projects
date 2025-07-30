@@ -1,0 +1,4 @@
+Lymph nodes are critical immune system components, filtering harmful substances and acting as indicators in various disease states, including cancer.
+Accurate differentiation between benign and malignant superficial lymph nodes is essential for diagnosis and treatment planning.
+However, conventional diagnostic methods often lack the required precision.
+High-frequency contrast-enhanced ultrasound (H-CEUS) offers improved temporal resolution and visualization of microvascular structures, potentially providing better diagnostic accuracy than standard contrast-enhanced ultrasound (CEUS).

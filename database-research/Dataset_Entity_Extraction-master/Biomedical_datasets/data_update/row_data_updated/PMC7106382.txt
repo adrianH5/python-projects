@@ -1,0 +1,4 @@
+Annotation of the 8 newly sequenced genomes MDS2, MDS4, MDS6, MDS11, MDS12, MDS14, MDS15 and MDS16, was performed by comparison with the HCoV−OC43 isolate from Mexico (Genbank accession KX344031) [16] using BlastN [17].
+For each of the two datasets, three distantly related bovine coronaviruses served as outgroup and multiple-sequence alignment was built using MUSCLE from SeaView 4.6.4 followed by a manual correction step taking into account protein coding sequences for coding regions [18,19].
+These estimates obtained from two different databases were consistent and show that the strains of the clusters 2013 emerged from a common ancestor in 2010.9 and those of 2014 emerged from another in 2011 +/-0.5.
+Due to limited HCoV−OC43 full-length genome published in databases, phylogenetic analyses were conducted on S gene sequences.

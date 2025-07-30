@@ -1,0 +1,10 @@
+Breast cancer (BC) is still the most diagnosed cancer for females with an increased focus on immunotherapy as a promising precise treatment.
+Selecting appropriate patients and monitoring patient treatments are crucial to ensure higher response rates with low adverse events.
+Various biomarkers were proposed to predict immunotherapy response, including tumor mutation burden, immune cell, and tumor microenvironment expression.
+However, traditional methods for evaluating immunotherapy are invasive and inaccurate, and their assessments could be biased due to the variability in quantification techniques.
+Artificial intelligence (AI) has emerged as a powerful technology that addresses these challenges, handling heterogeneous data to identify complex patterns and offering accurate and non-invasive solutions.
+In this paper, we review emerging AI-based models for immunotherapy prediction in BC using diverse biomarkers.
+We first discussed the application of AI models for each biomarker, highlighting both direct prediction of immunotherapy response and prognosis, as well as indirect approaches via the identification of immune subtypes or specific predictive biomarkers.
+Then, we investigated the integration of all biomarkers in multi-modal AI approaches for a precise and personalized prediction of immunotherapy response.
+We have also addressed the implication of integrating AI in the healthcare ecosystem with other new technologies, including nanodevices, and wearable technologies.
+We further elucidated the role of AI and healthcare providers with this convergence of personalized medicine and demonstrated its role in enhancing population health management and supporting personalized patient care.

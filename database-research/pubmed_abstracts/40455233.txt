@@ -1,0 +1,9 @@
+Although doxorubicin (DOX) chemotherapy is widely used to treat malignant tumors, its cardiotoxicity restricts its widespread use.
+Flavonoids may mitigate DOX-induced cardiotoxicity.
+A systematic review was conducted to determine whether flavonoids can prevent DOX-induced cardiotoxicity.
+Therefore, it would be interesting to examine the effects of flavonoids on DOX activity.
+Based on a Boolean query in the well-known Scopus database, we present our review of doxorubicin and flavonoids simultaneously as combination drugs for cancer treatment.
+Following the retrieval and review of the intended investigations based on the input keywords, the anticancer mechanisms of flavonoids and doxorubicin are discussed, along with their effects on different targets.
+Several apoptotic/pro-apoptotic proteins are induced through targeted signaling pathways, which may activate several caspases that cause apoptosis, leading to cell death.
+In this study, flavonoids differentially modulated the efficacy of doxorubicin chemotherapeutics by interfering with chemotherapy-induced apoptosis and cell cycle arrest.
+Based on this information, we were able to better understand how dietary agents may affect chemotherapy.

@@ -1,0 +1,14 @@
+Malignant melanoma is one of the most aggressive forms of cancer and a leading cause of death from skin tumors.
+With the rising incidence of melanoma diagnoses, there is an urgent need to develop effective treatments.
+Among the most modern approaches are cancer vaccines, which aim to enhance cell-mediated immunity.
+Recently, mRNA-based cancer vaccines have gained significant attention due to their rapid production, low manufacturing costs, and ability to induce both humoral and cellular immune responses.
+These vaccines hold great potential in melanoma treatment, yet their application faces several challenges, including mRNA stabilization, delivery methods, and tumor heterogeneity.
+The recent success of mRNA vaccines in combating COVID-19 has renewed interest in their potential for cancer immunotherapy.
+In particular, mRNA cancer vaccines offer high specificity and better efficacy compared to traditional treatments.
+They can target tumor-specific neoantigens, prompting a robust immune response.
+This chapter reviews the mechanism of action of mRNA vaccines, advancements in adjuvant identification, and innovations in delivery systems such as lipid nanoparticles.
+It also discusses ongoing clinical trials evaluating the efficacy of mRNA-based vaccines in melanoma, highlighting promising early-phase results.
+Despite their potential, the development of mRNA cancer vaccines faces significant obstacles.
+Tumor heterogeneity, immunosuppressive tumor microenvironments, and practical issues like vaccine administration and clinical evaluation methods are major barriers to success.
+By addressing these challenges and advancing innovations, mRNA cancer vaccines hold promise for transforming melanoma treatment.
+A careful balance between the opportunities and challenges will be key to unlocking the full potential of mRNA vaccines in cancer immunotherapy.

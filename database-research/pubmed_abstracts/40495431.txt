@@ -1,0 +1,10 @@
+Preclinical animal research plays a crucial role in studying colorectal cancer (CRC).
+Mouse models allow for testing the efficacy of potential medications and understanding the mechanisms behind CRC development.
+Carcinogens like 1,2-Dimethylhydrazine (DMH) and Azoxymethane (AOM) are used to induce CRC in these models, enabling researchers to investigate various treatment approaches.
+The availability of diverse animal strains facilitates the study of CRC progression and metastasis.
+By examining literature on animal models, researchers can assess the accuracy of reproducing different stages of CRC, from crypts to polyps and tumors.
+Animal models are essential for studying the tumor microenvironment and its impact on CRC.
+These models replicate key features of human CRC, including angiogenesis and immune responses.
+Both immunocompetent and immunocompromised rodents are used to evaluate immunotherapeutic drugs.
+This review summarizes common murine models for CRC and their applications in translational research.
+Future trends in this field likely include further advancements in animal models for studying tumor biology.

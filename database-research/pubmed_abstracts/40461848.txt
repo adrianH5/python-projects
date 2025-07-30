@@ -1,0 +1,8 @@
+Allogeneic hematopoietic stem-cell transplantation (allo-HCT) is a potentially curative treatment for hematological diseases, but the prolonged length of stay (LOS) post-transplant remains a significant challenge.
+This retrospective cohort study analyzed 977 patients undergoing allo-HCT at Princess Margaret Cancer Centre between 2017 and 2022 to identify predictors of prolonged LOS and their impact on overall survival (OS) and non-relapse mortality (NRM).
+The median LOS within the first year was 37 days (range: 15-340).
+Pre-transplant predictors of prolonged LOS included HLA-mismatched donors (HR = 1.11, P < 0.001), Karnofsky Performance Scale (KPS) < 90 (HR = 1.09, P = 0.007), age >65 (HR = 1.15, P < 0.001), hematopoietic cell transplantation comorbidity index ≥3 (HR = 1.07, P = 0.04), and high disease risk index (DRI) (HR = 1.09, P < 0.01).
+Patients without these risk factors had a 1-year OS of 82.9%, compared to 41.9% in those with four or five factors.
+Post-transplant complications associated with prolonged LOS included grade III-IV acute graft-versus-host disease (HR = 1.40, P < 0.001), graft failure (HR = 1.20, P < 0.001), hemorrhagic cystitis (HR = 1.18, P < 0.001), bloodstream infections (HR = 1.19, P < 0.001), and cytomegalovirus reactivation (HR = 1.10, P < 0.001).
+Despite advancements in transplant protocols, age>65, mismatched donors, KPS < 90, HCT-CI ≥ 3, and high DRI remain associated with prolonged LOS and worse OS.
+Personalized strategies are needed to mitigate risks, reduce LOS, and improve outcomes.

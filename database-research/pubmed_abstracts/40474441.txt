@@ -1,0 +1,10 @@
+Clinical oncology grapples with a daunting challenge therapy resistance in tumors evolves rapidly, undermining treatment efficacy.
+Chemotherapy, while inducing specific cancer cell death, often falls short due to intrinsic cellular defences.
+This underscores the urgent need for precision and controlled therapeutic strategies.
+A breakthrough emerges in tumor targeted drug delivery through interlamellar surface modification of hydroxyl groups in pristine Li-Al-based layered double hydroxide (LDH).
+Grafting polyurethane (PU) onto LDH enhances its mechanical integrity, achieving an extraordinary elongation at break of 1230%.
+This exceptional flexibility enables the material to withstand substantial deformation, ensuring adaptability within dynamic physiological environments - critical for injectable and implantable drug carriers navigating complex biological structures.
+The polyurethane graft fine-tunes the hydrophilic hydrophobic balance, orchestrating synchronized drug delivery.
+First principle density functional theory (DFT) analyses reveal intricate molecular interactions between the nanohybrid and doxorubicin (Dox)In vitro and in vivo studies, particularly in luciferase - expressing melanoma-bearing mice, demonstrate remarkable biocompatibility and synergistic anticancer efficacy.
+Furthermore, an injectable hydrogel beneath the tumor site mitigates chemotherapy's toxic side effects by precisely regulating drug release.
+This pioneering nanohybrid heralds a new era in multifunctional nanomedicine, offering enhanced precision, stability, and patient compatibility, transforming the landscape of next generation cancer therapies.

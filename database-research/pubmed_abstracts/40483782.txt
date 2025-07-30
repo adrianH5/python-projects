@@ -1,0 +1,10 @@
+Dioxins are persistent environmental pollutants that bioaccumulate in the food chain, posing significant risks to human health.
+Despite their low environmental concentrations, dioxins accumulate in tissues, particularly in top predators and humans, reaching levels far exceeding environmental exposure.
+Although the carcinogenic potential of dioxins is well recognized, the molecular mechanisms driving hepatocellular carcinoma (HCC) development remain poorly understood.
+To address this gap, single-cell and bulk transcriptomic analyses, combined with machine learning, identified dioxin-interacting differentially expressed genes (DI-DEGs) associated with immune evasion, metabolic reprogramming, and cell cycle regulation in HCC.
+A prognostic model based on these DI-DEGs stratified patients into high- and low-risk groups, revealing distinct survival outcomes.
+High-risk patients exhibited increased cell proliferation and aggressive tumor traits, while low-risk patients showed better metabolic stability and immune surveillance.
+Drug sensitivity analysis revealed differential responses to chemotherapy agents, suggesting therapeutic implications.
+In vitro experiments demonstrated that environmentally relevant dioxin concentrations promote HCC cell proliferation and migration.
+Additionally, molecular docking revealed strong binding between dioxin and DI-DEG proteins, suggesting them as therapeutic targets to mitigate dioxin's harmful effects.
+These findings underscore the pivotal role of dioxin accumulation in liver cancer progression and provide a foundation for personalized treatment strategies and improved prognostic assessment.

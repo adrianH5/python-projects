@@ -1,0 +1,7 @@
+Radiological imaging plays an indispensable role in both preclinical and clinical studies of multiple myeloma (MM).
+However, manual quantification in longitudinal small animal PET/CT is limited by annotator bias, signal artifacts from urinary/fecal excretion, and voxel misalignment due to non-rigid registration.
+To address these challenges and improve characterization of tumor biology, we developed a semi-automated PET/CT quantification pipeline targeting defined regions of interest (ROIs) within the bone marrow-rich mouse skeleton, achieving sub-organ spatial resolution, including in anatomically complex sites such as the pelvis.
+We applied this MM-specific preclinical pipeline to analyze tumor distribution in a longitudinal molecular PET study using an immunocompetent mouse model of skeletally disseminated MM.
+An Attention U-Net was trained to segment the thoracolumbar spine, pelvis and pelvic joints, sacrum, and femurs from 2D CT slices.
+A custom algorithm masked spillover signal from physiological excretion, and a PCA-based projection was used to map tumor distribution along the skeletal axis.
+Quantification metrics included mean and maximum standardized uptake values (SUV

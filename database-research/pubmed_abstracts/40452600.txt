@@ -1,0 +1,7 @@
+Immunotherapy has made remarkable strides in treatment of solid tumors, but its efficacy as a single agent in cold tumor remains limited.
+It is urgent to explore novel drug combinations to further optimize immunotherapy.
+Herein, we demonstrated the histone deacetylase inhibitor (HDACi), chidamide, enhanced chromatin accessibility at the promoters of effector molecules in CD8+ T cells, thereby augmenting their anti-tumor capabilities.
+Yet HDACi also induced the expression of VEGFa in pro-tumorigenic macrophages, which leaded to vascular abnormalization and hindered immune cells infiltration, compromising its potential synergistic effect with immunotherapy.
+Accordingly, combining anti-angiogenesis therapy counteracted the angiogenesis effects of HDACi, collaboratively unleashing the infiltration and functionality of cytotoxic CD8+ T cells.
+These findings were confirmed through scRNA-seq data from our patient samples.
+Thus, through mechanistic research, we proposed a new therapeutic approach by the combination of HDACi, anti-angiogenesis therapy, and immunotherapy and finally highlighted the potential application across diverse solid tumors.

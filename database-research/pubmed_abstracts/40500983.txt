@@ -1,0 +1,10 @@
+Amaranthus spinosus is a medicinal plant with notable pharmacological properties.
+In the present work, silver nanoparticles (AgNPs) were synthesized using methanolic leaf extract of A. spinosus.
+The synthesis of AgNPs was indicated by a color change from green to brown and confirmed through UV-Vis spectroscopy, FTIR, SEM, and XRD analyses.
+The XRD peaks between 20° and 50° confirmed the crystalline nature of AgNPs, while SEM (1 μm scale) revealed uniformly distributed spherical nanoparticles below 100 nm.
+The AgNPs exhibited potent antimicrobial activity, with the highest inhibition observed against Klebsiella pneumoniae (20 mm at 100 μg), surpassing the plant extract.
+Antioxidant assays proved the free radical scavenging capacity of AgNPs compared with standard ascorbic acid.
+At 500 μg/mL, AgNPs achieved 71% DPPH scavenging, 75% hydroxyl radical scavenging, and 68% reducing power, significantly outperforming the plant extract.
+The in vitro anticancer property of AgNPs against HT-29 colorectal cancer cells revealed a concentration-dependent cytotoxic effect, with maximum cell death at 100 μg/mL.
+AO/EtBr staining confirmed apoptosis through a shift from green to orange/red fluorescence, while DAPI staining indicated nuclear condensation and fragmentation.
+These findings highlight A. spinosus-derived AgNPs as promising candidates for biomedical applications, offering enhanced antimicrobial, antioxidant, and anticancer properties via eco-friendly synthesis.

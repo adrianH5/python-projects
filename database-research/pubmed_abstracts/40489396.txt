@@ -1,0 +1,10 @@
+Leptomeningeal metastasis (LM), the spread of cancer cells into the cerebrospinal fluid (CSF)-filled leptomeninges, is a rare yet devastating complication of advanced solid tumors.
+Patients with LM often have a poor prognosis, with survival measured in weeks to months.
+Developing in vivo models that accurately replicate the complexities of LM is essential for understanding its cellular and pathological mechanisms and evaluating potential therapies.
+Murine LM models are typically created through intra-cardiac, carotid artery, or cisterna magna injection of tumor cells.
+However, intra-cardiac or carotid injections often result in substantial extracranial and brain tumor burden, complicating bioluminescent imaging and leading to mortality unrelated to LM.
+Meanwhile, conventional cisterna magna injection requires invasive procedures, such as skin incision and muscle dissection, making it both traumatic and resource intensive.
+Here, we describe a minimally invasive procedure for tumor cell injection into the leptomeningeal space through the cisterna magna without the need for a skin incision.
+This approach reduces extracranial tumor formation, minimizes surgical trauma, and shortens the time and postoperative care required compared to other surgical methods.
+Importantly, it consistently induces LM with minimal brain parenchyma infiltration, as confirmed by two-photon microscopy and histological analysis.
+This streamlined approach offers an efficient and reliable model for studying LM in preclinical research.

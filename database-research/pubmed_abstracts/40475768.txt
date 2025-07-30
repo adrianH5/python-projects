@@ -1,0 +1,4 @@
+Laryngeal cancer (LCA) is the second most common type of head and neck malignancy, characterized by high recurrence rates and poor overall survival (OS).
+However, progress in curing LCA through molecular-targeted diagnostics and therapies is slow and limited.
+The occurrence and progression of cancer are closely associated with metabolic reprogramming.
+Therefore, this study aimed to identify metabolism-related LCA subtypes through a comprehensive analysis of transcriptomic, mutational, methylation, and single-cell RNA sequencing, in hopes of finding factors which influences the prognosis of LCA.

@@ -1,0 +1,2 @@
+Immune checkpoint inhibitors (ICIs) have shown limited success in glioblastoma due to the tumor's profoundly immunosuppressive microenvironment.
+Tumor treating fields (TTFields), a non-invasive electric field therapy, activate the type I interferon (T1IFN) pathway via DNA sensor-dependent inflammasomes, promoting in situ immunization against glioblastoma.

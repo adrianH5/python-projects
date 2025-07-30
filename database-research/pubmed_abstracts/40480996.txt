@@ -1,0 +1,6 @@
+Chemoselective dual functionalization of proteins has emerged as an invaluable tool to introduce two distinct payloads to proteins, thus greatly expanding their structural and functional repertoire for more advanced biomedical applications.
+Here, we introduce N-alkylpyridinium reagents as soft electrophiles for chemoselective dual modification of cysteine residues in peptides or proteins via a 1,6-addition reaction.
+The N-alkylpyridinium derivatives can be synthesized in two reaction steps revealing good water solubility, high labelling efficiency and chemoselectivity towards cysteine over lysine/N-terminal amine residues, even when used in large excess.
+This reaction can be combined with strain-promoted azide-alkyne click (SPAAC) and inverse-electron-demand Diels-Alder (iEDDA) reactions to achieve dual functionalization of proteins in a sequential simple one-pot reaction.
+As a proof-of-concept, the Rho-inhibiting enzyme Clostridium botulinum C3 is functionalized with a cancer cell-targeting peptide and a fluorescent dye for the inhibition of specific Rho-mediated intracellular pathways.
+The high stability, ease of synthesis, fast reaction kinetics, high water-solubility and chemoselectivity make N-alkylpyridinium reagents unique for dual modification of peptides and proteins to increase their functional diversities for medical applications.

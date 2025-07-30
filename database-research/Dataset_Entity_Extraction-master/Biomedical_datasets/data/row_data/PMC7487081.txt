@@ -1,0 +1,9 @@
+Severe acute respiratory syndrome-related coronavirus (SARS-CoV-2), COVID-19 clinically presents the symptoms with fever and mild respiratory illness, with ~20% of cases requiring hospital intervention, of which 5% require intensive support (Wu and Mc Googan, 2020; Huang et al., 2020; Zhou et al., 2020).
+For validation of differential expression of SARS-CoV-2 genes, total RNA was extracted from 70 COVID-19 infected patients using Exgene™ Viral DNA/RNA (GeneAll, Korea) following the manufacturer's instructions.
+All SARS-CoV-2 whole genome sequences obtained from human hosts with geographical annotations were obtained from NCBI and Global initiative on sharing all influenza data (GISAID).
+The average fold coverage of viral reads was sufficient to detect low-abundance microbial species genome from metagenomic datasets, implying the reliability of the assembled draft viral genome for SNP determination and further analyses (Albertsen et al., 2013).
+The viral RdRP is up regulated during the evolution of RNA viruses, since RdRP is the central enzyme during this process and has the optimal combination of RNA synthesis efficiency and nucleotide incorporation fidelity (Holland et al., 1982; Snijder et al., 2016).
+Since the branching order of the NJ tree shows location of virus linkage, in principle the NJ tree provides the details that COVID-19 spread from one place to another.
+The findings presented did not support the hypothesis, indicating that the COVID-19 may have begun to spread to several regions in the world before its outbreak in Wuhan.
+A novel coronavirus related to severe acute respiratory syndrome virus, (SARS-CoV-2) is the causal agent of the COVID-19 pandemic.
+Four throat swab samples from COVID-19 infected patients were pooled, with RNA-Seq read retrieved from SRA NCBI to detect 21 SNPs and a replacement across the SARS-CoV-2 genomic population.

@@ -1,0 +1,8 @@
+The liver is the primary target organ for hematologic metastasis of colorectal cancer (CRC), and CRC liver metastasis (CRLM) often precludes radical resection, making it the leading cause of death in CRC patients.
+To improve the identification and prediction of liver metastasis risk, we identified a celltype of liver metastasis-triggering malignant cells (LMTMCs) through integrating single-cell RNA sequencing (scRNA-seq) and spatial transcriptome (ST) analysis.
+Multi-omics cell communication analysis indicated that the interaction between fibroblasts and the LMTMCs through the COL1A1-CD44/SDC4 and LAMA4-CD44 signaling axes could promote CRLM.
+By applying OCLR algorithm, we developed a CRLM scoring system in the bulk RNA-seq data according to the abundance of LMTMCs in each individual.
+Using the grouping labels derived from the CRLM scoring system in the bulk data and the corresponding whole slide images (WSIs) without any manual annotations at region or pixel level, processed via slide level weakly supervised learning, a deep learning model based on the ResNet18 architecture, called Colorectal Liver Metastasis Pathomics Model (CLMPM), was developed to predict risk of liver metastasis in CRC patients.
+The CLMPM achieved an AUC of 0.84 at the internal test set of TCGA-CRC histology images.
+In the external independent validation sets, namely SWMU-AH and SWMU-ATCMH cohorts, the AUCs were 0.89 and 0.72, respectively, indicating effective classification performances.
+This study provided new insights and tools for the early identification of CRLM and demonstrated the potential of combing multi-omics with deep learning-based pathomics in cancer research.

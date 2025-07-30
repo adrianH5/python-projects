@@ -1,0 +1,4 @@
+Ever since BRCA1 germline mutations were found to confer a strong predisposition to the development of breast and ovarian cancers, there has been great interest in determining how this protein suppresses tumor formation.
+Through more than two decades of research, it has become clear that BRCA1 safeguards our genome mainly by promoting DNA repair through homologous recombination (HR).
+This opinion article outlines our evolving view of BRCA1's role in end resection, an upstream commitment step for HR, and highlights recent discoveries suggesting that the context in which DNA breaks are generated dictates whether BRCA1 is required for end resection.
+In addition, strong emerging evidence for the tumor-suppressive function of BRCA1 being mediated predominantly by its indispensable role in supporting RAD51-dependent recombination downstream of end resection is discussed.

@@ -1,0 +1,7 @@
+This paper describes PARADIM, a digital infrastructure designed to support research at the interface of data science and medical imaging, with a focus on Research Data Management best practices.
+The platform is built from open-source components and rooted in the FAIR principles through strict compliance with the DICOM standard.
+It addresses key needs in data curation, governance, privacy, and scalable resource management.
+Supporting every stage of the data science discovery cycle, the platform offers robust functionalities for user identity and access management, data de-identification, storage, annotation, as well as model training and evaluation.
+Rich metadata are generated all along the research lifecycle to ensure the traceability and reproducibility of results.
+PARADIM hosts several medical image collections and allows the automation of large-scale, computationally intensive pipelines (e.g., automatic segmentation, dose calculations, AI model evaluation).
+The platform fills a gap at the interface of data science and medical imaging, where digital infrastructures are key in the development, evaluation, and deployment of innovative solutions in the real world.

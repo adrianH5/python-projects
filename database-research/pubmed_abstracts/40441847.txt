@@ -1,0 +1,12 @@
+Cabazitaxel (CTX) has emerged as a significant chemotherapeutic drug.
+However, its poor hydrophilicity and adverse side effects limit its clinical application.
+In this study, we propose the preparation of self-assembled cabazitaxel-carboxymethylcellulose-mPEG polymer micelles (CTX-CMC-mPEG micelles).
+Initially, CTX-CMC-mPEG was synthesized via an esterification reaction using CMC as the backbone and mPEG as the hydrophilic end.
+Acetylation of CMC was performed to enhance the coupling rate of CTX and mPEG.
+Subsequently, the self-assembled CTX-CMC-mPEG micelles were prepared.
+The coupling efficiency of CTX and mPEG within the polymer, and the drug loading in micelles, were innovatively quantified using the quantitative nuclear magnetic resonance (qNMR) method.
+The CTX-CMC-mPEG micelles demonstrated high drug loading and sustained release behavior in vitro.
+The micelles can target tumor tissue and penetrate tumor cells via the enhanced permeability and retention (EPR) effect, releasing free CTX upon ester bond cleavage in the presence of esterases, thereby exerting antitumor effects.
+Notably, CTX-CMC-mPEG micelles showed efficient anticancer efficacy with low systemic toxicity.
+In conclusion, our study offers new insights into the delivery of toxic drugs using self-assembled CMC-coupled polymer micelles.
+Moreover, our study enabled CMC to be widely used in nanotechnology through customization and advanced the application of qNMR in colloid analysis.

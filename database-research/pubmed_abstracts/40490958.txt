@@ -1,0 +1,10 @@
+Lung cancer has the second-highest incidence rate after breast cancer and remains the leading cause of cancer-related mortality.
+The 1-year survival rate for lung cancer patients is below 50%, highlighting the urgent need for novel therapeutic strategies and drug development.
+Phytochemicals and their derivatives have been widely explored for their anticancer properties, serving as chemotherapeutic agents against various types of cancer.
+One of these herbal compounds, berberine (BBR), a quaternary isoquinoline alkaloid, has shown significant promise in preclinical studies and is currently undergoing clinical trials for cancer treatment.
+BBR exhibits diverse biological activities, contributing to its anticancer potential, including antioxidant, antidiarrheal, antidiabetic, antimicrobial, and so on.
+However, despite its multifunctional therapeutic potential, BBR faces several limitations, hindering its clinical application, like poor bioavailability, low tissue uptake, a short plasma half-life, and rapid metabolic elimination.
+To address these challenges, various targeted drug delivery approaches have been developed to improve its efficacy.
+This review aims to provide a comprehensive overview of drug delivery strategies designed to encapsulate BBR for enhanced lung cancer therapy, highlighting the most recent advancements in the field.
+Moreover, the molecular structure of BBR and the biological pathways it targets to inhibit lung cancer progression are discussed in detail.
+Finally, BBR-encapsulated nanocarriers specifically developed for lung cancer therapy are evaluated in terms of their benefits, limitations, and overall therapeutic potential.

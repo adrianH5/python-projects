@@ -1,0 +1,19 @@
+The high prevalence of obesity and overweight in adolescence has become a global public health problem that increases the likelihood of chronic diseases in adulthood.
+Having a high level of health literacy is a key approach to reducing obesity-related risk factors and ensuring the health of adolescents in the future.
+The present study aims to assess the relationship between HL and body mass index (BMI) among Iranian high school students.
+This cross-sectional study was conducted on 500 high school students (250 boys and 250 girls) in Jahrom during January-May 2024.
+The samples were selected with a random cluster sampling method.
+Jahrom was divided into two clusters including north and south, and four high schools were randomly selected in each cluster.
+In each high school, a list of names for ninth, tenth, and eleventh grade students was extracted and students were selected randomly from each grade.
+Health Literacy Measure for Adolescents (HELMA) was used to evaluate HL.
+In addition, multivariate ordinal logistic regression analysis was utilized to determine the relationship between BMI and HL.
+The analysis was performed with SPSS version 23 and STATA version 14 software.
+A significance level of < 0.05 was considered in this study.
+The average age of the students was 16.4 ± 0.94 years and the average HL score was 61.9 ± 20.5.
+The average HL score among girls was significantly higher than among boys (64.6 ± 19.7 vs. 59.3 ± 21.1).
+Further, the average HL score among the students of the experimental science was higher than that among the humanities and mathematics ones.
+Totally, the HL among the students was inadequate (28.6%), problematic (28.8%), sufficient (24.4%), and excellent (18.2%).
+A positive significant association was observed between HL and BMI.
+The odds of obesity (versus overweight and normal groups) among the students with inadequate HL was 2.1 times compared to those with sufficient/excellent HL.
+A positive significant association was reported between HL and BMI among high school students.
+Public health professionals should consistently incorporate educational interventions that focus on increasing health literacy into school health programs to prevent adolescent overweight and obesity.

@@ -1,0 +1,3 @@
+Acute chemoradiotherapy-induced intestinal injury (ACRIII) is a common and debilitating complication in patients with colorectal cancer, significantly impairing both quality of life and treatment outcomes.
+This study aimed to investigate the role of the gut microbiome in mitigating ACRIII.
+Through bioinformatics analysis of clinical fecal samples and fecal microbiota transplantation (FMT) experiments in mice, we identified a strong association between a high abundance of

@@ -1,0 +1,6 @@
+IntroductionAccurate machine learning-based prognostic models for the diagnosis and treatment of extensive-stage small cell lung cancer (ES-SCLC) are currently lacking, and the role of radiotherapy in ES-SCLC remains a subject of ongoing debate.MethodsThis study used data from the Surveillance, Epidemiology, and End Results (SEER) database of patients diagnosed with ES-SCLC.
+Cox regression analysis was performed to identify the key prognostic factors.
+Six machine learning models were developed: XGBoost, support vector machine, k-nearest neighbors, random forest, Iterative Dichotomiser 3, and logistic regression.
+External validation was conducted using the medical records of ES-SCLC patients who met the screening criteria at a local hospital.
+Propensity score matching was applied to address baseline imbalance.
+Kaplan-Meier (K-M) survival analysis was used to evaluate the prognostic impact of radiotherapy, followed by stratified K-M analysis to further explore its applicability across subgroups.ResultsThe analysis revealed that radiotherapy, chemotherapy, and liver metastasis were significantly associated with prognosis (

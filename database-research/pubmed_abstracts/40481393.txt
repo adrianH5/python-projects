@@ -1,0 +1,7 @@
+Genome data from cancer patients represents relationships between the presence of a gene mutation and cancer occurrence in a patient.
+Different types of cancer in human are thought to be caused by combinations of two to nine gene mutations.
+Identifying these combinations through traditional exhaustive search requires the amount of computation that scales exponentially with the combination size and in most cases is intractable even for cutting-edge supercomputers.
+We propose a parameter-free heuristic approach that leverages the intrinsic topology of gene-patient mutations to identify carcinogenic combinations.
+The biological relevance of the identified combinations is measured by using them to predict the presence of tumor in previously unseen samples.
+The resulting classifiers for 16 cancer types perform on par with exhaustive search results, and score the average of 80.1% sensitivity and 91.6% specificity for the best choice of hit range per cancer type.
+Our approach is able to find higher-hit carcinogenic combinations targeting which would take years of computations using exhaustive search.

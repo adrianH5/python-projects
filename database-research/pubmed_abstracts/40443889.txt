@@ -1,0 +1,3 @@
+Single-cell mass spectrometry (SCMS) has emerged as a powerful tool for analyzing metabolites in individual cells, including live cells.
+However, cell metabolites have a rapid turnover rate, whereas maintaining metabolites' profiles of live cells during sample transport, storage, or extended measurements can be challenging.
+In this study, a cell preparation method, which integrates cell washing by volatile salt solution, rapid liquid nitrogen (LN

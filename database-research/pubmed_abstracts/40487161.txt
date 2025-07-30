@@ -1,0 +1,5 @@
+Ferroptosis holds significant promise in cancer therapy due to its unique form of programmed cell death, marked by a strong ability to selectively target drug-resistant cells.
+However, therapeutic approaches leveraging ferroptosis face challenges associated with restricted efficacy, specificity, and unreliable imaging techniques for monitoring treatment progression.
+Herein, we design a sequential tandem-unlocked cascade nanoreactor (TPZ/HMOS/IO@GOx) for MRI-guided enhanced ferroptosis-chemo synergistic therapy.
+Specifically, within the tumor TME, GSH triggers the degradation of HMOS, leading to the release of GOx, IO, and TPZ from TPZ/HMOS/IO@GOx.
+The liberated GOx catalyzes the conversion of endogenous glucose, consuming O

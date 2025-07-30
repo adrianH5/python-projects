@@ -1,0 +1,13 @@
+From Bangladesh, the very first complete genome of SARS‐CoV‐2 (hCoV‐19/Bangladesh/CHRF_nCOV19_0001/2020 under GISAID Accession no: EPI/ISL/437912) was published by the Child Health Research Foundation (CHRF) on 12 May 2020.
+First, Bangladesh reported the first case of COVID‐19 on 8 March 2020 having a travel history from Italy.
+Secondly, the sequence is showing 99.99% identity to the strains of European, Arabian, and Asian countries (Table 1 listing the representative countries with the strain ID) considering a good number of the aligned sequences of the NCBI and GISAID databases.
+As Nextstrain or GISAID deals with a large number of data set (25,246 as of 14th April 2020) and generates an updated picture of the evolutionary timeframe using the maximum clade credibility (MCC) tree, at this stage, these results can be considered more reliable.
+We have found, considering this literature and online resources, that the Bangladeshi strain fell within the clade A2a containing a mutation at the 614th position of the spike protein changing amino acid aspartate to glycine (synonymous to G clade according to GISAID phylogenetic tree) and another mutation at the 323rd position of NSP12 (proline to leucine).
+,
+It was also claimed in the report of Ayub
+ as of 9th April 2020 that the predominant presence of SARS‐CoV‐2a substrain in a particular city or country, such as United Kingdom (26%), Belgium (31%), Netherland (50%), Portugal (60%), can be a cause of reduced cases of COVID‐19.
+Among them, mutation E261D (glutamic acid to aspartic acid) in the NSP13 protein (RNA helicase and/or 5′ triphosphatase activity) was found only in one Austrian strain (hCoV‐19/Austria/CeMM0004/2020) collected on 3rd March 2020.
+, 
+ Remarkably, another mutation (I120F: isoleucine to phenylalanine) in the NSP2 (predicted role in viral pathogenicity)
+ is not found in any other sequences available in the GISAID database.
+This may be explained by the fact of the return of a lot of immigrants to Bangladesh from other countries, some of which were declared as the COVID‐19 epicenters.

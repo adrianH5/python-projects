@@ -1,0 +1,10 @@
+Helicobacter pylori can be parasitic in gastric mucosa, which can cause a series of gastrointestinal diseases after infection and is closely related to gastritis, gastric ulcer, and gastric cancer.
+The high prevalence of H. pylori infection in regions with poor medical infrastructure and inadequate sanitation areas remains a significant public health concern.
+Consequently, the development of rapid, simple, and cost-effective screening methods for H. pylori detection in resource-limited settings is of paramount importance.
+In this study, we conducted a community-based screening in Shitan Village, Guangdong Province, a remote and underdeveloped area characterized by a permanent population of approximately 300 residents with generally low educational attainment.
+We employed a double antibody sandwich assay for the detection of H. pylori fecal antigen, a method chosen for its potential applicability in low-resource settings.
+A total of 261 participants from the village were enrolled, and their fecal samples were analyzed using this technique.
+For comparative validation, the same samples were subjected to quantitative polymerase chain reaction (qPCR) analysis.
+Compared with qPCR results, the sensitivity and specificity of the detection of H. pylori antigen in feces were 60.24% and 80.08%.
+The results demonstrated a strong agreement between the fecal antigen detection method and qPCR (Kappa = 0.630).
+This study systematically elucidated the principles, procedures, methodologies, and clinical applications of fecal antigen detection for H. pylori infection, aiming to explore latex-based double antibody sandwich technology and establish novel strategies and practical guidelines for its auxiliary diagnosis.

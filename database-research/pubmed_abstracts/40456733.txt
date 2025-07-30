@@ -1,0 +1,7 @@
+Lung cancer in never-smokers (LCINS) is a leading cause of cancer death globally, but no screening programs for LCINS exist.
+To identify medical conditions that could serve as markers of LCINS risk, we conducted a nested case-control study within the United Kingdom's Clinical Practice Research Datalink (CPRD-GOLD), consisting of 1581 LCINS cases and 14,318 never-smoking controls.
+Conditions significantly associated with LCINS 1-10 years before the index date were validated in an independent dataset, CPRD-Aurum (2188 LCINS cases, 19,597 never-smoking controls).
+These conditions include Chronic Obstructive Pulmonary Disease/Emphysema (COPD); gastroesophageal reflux disease (GERD); bronchitis and tracheitis; diabetes mellitus type 1; and gastritis and non-infective gastroenteritis and colitis.
+Adjusting for medication use only slightly attenuated these associations.
+Overall, inflammatory diseases appear to be important in LCINS pathogenesis although further studies need to confirm these associations.
+Conditions such as GERD or COPD could be considered as part of eligibility criteria for future LCINS screening programs.

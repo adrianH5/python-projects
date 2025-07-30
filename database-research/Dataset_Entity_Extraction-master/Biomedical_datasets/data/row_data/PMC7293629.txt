@@ -1,0 +1,6 @@
+We calculated a phylogenetic analysis network of the 160 severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) complete genomes submitted to the international Global Initiative on Sharing Avian Influenza Data (GISAID) database by early March 2020, to produce a snapshot of the beginning of the SARS-CoV-2 epidemic (1).
+Included in the dataset was the closest known nonhuman coronavirus, a bat coronavirus with more than 96% sequence similarity to the human virus.
+We ran the bat sequence as part of the human dataset.
+Mavian et al. (8) state that our findings are based on a nonrepresentative dataset of 160 genomes, with no significant correlation between prevalence of confirmed cases and number of sequenced strains per country.
+We respond that our data are based on the first 160 high-quality genomes collected, sequenced, and uploaded to the international GISAID database, in order to shed light on the early development of the coronavirus.
+The early outbreak was centered on China, and naturally in this early dataset China is well represented.

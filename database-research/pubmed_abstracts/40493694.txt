@@ -1,0 +1,12 @@
+Breast cancer (BC), the second most common cancer, is a genetically heterogeneous disease driven by angiogenesis, cell growth, metastasis, and oxidative stress.
+VEGFR2, a key angiogenesis regulator, presents a potential target for inhibiting the angiogenic process essential for tumor growth.
+The present study aimed to investigate the therapeutic potential of phytochemicals of Vitex trifolia to inhibit VEGFR2 for BC.
+The current study employed extensively in silico-based computational tools to assess the binding affinity and interactions through docking and validating through simulations, along with evaluating the molecular characteristics of the phytochemicals of Vitex trifolia.
+The docking results revealed that VT-6 (cynaroside) showed the highest docking score (-14.611 kcal/mol), followed by VT-10 (-13.641 kcal/mol) against the VEGFR2 protein.
+Significant stable interactions were formed by the key interacting residues of the binding pocket (GLU917, ASP1046, LYS868, CYS919, and GLU885), also highlighted through the SIFT analysis.
+Additionally, the density functional theory (DFT) analysis demonstrated balanced electrophilic and nucleophilic electronic distribution and reactivity for VT-6.
+The simulations further validated the stability of VT-6 within the binding cavity of VEGFR2, exhibiting flexibility within a range of <3Å and stable conformational changes.
+Moreover, the MM/GBSA calculations also signify that VT-6 exhibited stronger binding affinity with more negative free energies (-32.5 kcal/mol MM/PBSA, -34.7 kcal/mol MM/GBSA).
+Notably, principal component analysis (PCA) and free energy landscape (FEL) indicated that the VT-6 complex remained compact during 200 ns simulations.
+Conclusively, these findings underscore VT-6 as a potent VEGFR2 inhibitor against BC.
+However, optimizing the ADMET profile through structural modifications and nanocarrier delivery, along with in vivo and in vitro experimental validation, will enhance its therapeutic potential.

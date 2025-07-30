@@ -1,0 +1,14 @@
+The ongoing outbreak of COVID-19 in the Chinese city of Wuhan (Hubei province) [1] and its alarmingly quick transmission to 25 other countries across the world [2] resulted in the World Health Organization (WHO) declaring a global health emergency on 30 January 2020 [3].
+WHO, in its first emergency meeting [5], estimated the fatality rate of COVID-19 to be around 4%.
+A total of 120 whole genome sequences of SARS-CoV-2 were downloaded on 21 February 2020 from the GISAID database (https://www.gisaid.org/CoV2020/)
+We excluded sequences that likely had spurious mutations resulting from sequencing errors, as indicated in the comment field of the GISAID data.
+These nucleotide sequences were aligned to the GenBank reference sequence (accession ID: NC_045512.2) and then translated into amino acid residues according to the coding sequence positions provided along the reference sequence for SARS-CoV-2 proteins (orf1a, orf1b, S, ORF3a, E, M, ORF6, ORF7a, ORF7b, ORF8, N, and ORF10).
+Reference protein sequences for SARS-CoV and MERS-CoV were obtained following the same procedure from GenBank using the accession IDs NC_004718.3 and NC_019843.3, respectively.
+B cell and T cell epitopes were searched on the NIAID Virus Pathogen Database and Analysis Resource (ViPR) (https://www.viprbrc.org/; accessed 21 February 2020) [29] by querying for the virus species name: “Severe acute respiratory syndrome-related coronavirus” from “human” hosts.
+However, for brevity and to be consistent with the terminology used in the ViPR database, we will not make this qualification, and will simply refer to them as epitopes in this study.
+The number of B cell and T cell epitopes obtained from the database following the above procedure is listed in Table 1.
+We additionally included the Zaria Bat coronavirus strain (accession ID: HQ166910.1) to serve as an outgroup.
+We also computed the population coverage of this specific set of epitopes in China, the country most affected by the COVID-19 outbreak, which was estimated to be slightly lower (88.11%), as certain MHC alleles (e.g., HLA-A*02:01) associated with some of these epitopes are less frequent in the Chinese population (Table 3).
+On the other hand, all 6 SARS-CoV-derived discontinuous B cell epitopes obtained from the ViPR database (Table 5) were derived from the S protein.
+A preliminary analysis of linear SARS-CoV-derived B cell epitopes has been reported online on the ViPR database website (https://www.viprbrc.org/brcDocs/documents/announcements/Corona/2019-nCoV-ViPR-report_24JAN2020.pdf).
+The beginning of 2020 has seen the emergence of COVID-19 outbreak caused by a novel coronavirus, Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2).

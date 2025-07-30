@@ -1,0 +1,9 @@
+The life cycle of Plasmodium parasites involves intricate, multistage processes that are tightly regulated by stage-specific transcription factors.
+These factors bind to regulatory regions within gene promoters, enabling the precise expression of genes required for each developmental stage.
+Despite the importance of these transcriptional mechanisms, our understanding remains limited, particularly in the rodent model organism P. berghei.
+To address this, we conducted a genome-wide analysis of RNA-Seq data from different developmental stages of P. berghei by initially integrating data from human malaria parasites P. falciparum and P. vivax.
+We identified unique transcriptional signatures across Plasmodium species.
+Our analysis of P. berghei revealed stage-specific gene sets clustered by expression profiles and predicted regulatory motifs involved in their control.
+We interpreted these motifs using known binding sites for eukaryotic transcription factors including ApiAP2 proteins.
+Additionally, we expanded the annotation of the AGGTAA motif which resembles a de novo motif linked to erythrocytic development in P. falciparum, and identified its potential interacting proteins including members of the PfMORC and GCN5 complexes.
+This study enhances our understanding of gene regulation in P. berghei and provides new insights into the transcriptional dynamics underlying Plasmodium development.

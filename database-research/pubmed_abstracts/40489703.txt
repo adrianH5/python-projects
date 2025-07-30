@@ -1,0 +1,3 @@
+Early diagnosis of breast cancer relies on detecting multiple cancer biomarkers, which significantly enhances diagnostic accuracy.
+In this study, we developed a novel electrochemical dual immunosensor for the simultaneous detection of human epidermal growth factor receptor 2 (HER2) and mucin 1 (MUC1) biomarkers.
+The sensor is based on Ti

@@ -1,0 +1,2 @@
+Accurate preoperative discrimination of salivary gland pleomorphic adenoma (SPA) stromal subtypes is essential for therapeutic plannings.
+We aimed to establish and test machine learning (ML) models for classification of stromal subtypes in SPA based on ultrasound histogram analysis.

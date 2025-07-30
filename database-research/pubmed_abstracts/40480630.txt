@@ -1,0 +1,6 @@
+The interplay between calorie-dense food and chronic stress significantly accelerates obesity development, with neural circuits expressing Neuropeptide Y (NPY) in the central amygdala (CeA) emerging as the key mediator of this process.
+While these circuits are known to enhance hedonic feeding behavior and promote weight gain, the precise molecular mechanisms regulating NPY neuron activity at the translational level under the combined influence of high-fat diet and stress conditions have remained poorly understood.
+To address this, we employed translational ribosome affinity purification coupled with Next-Generation Sequencing (TRAPseq), allowing us to specifically identify RNA transcripts actively undergoing protein translation in NPY neurons under high fat diet (HFD) or high fat diet combined with stress conditions (HFDS).
+Our molecular profiling demonstrates that NPY neurons specifically co-express with genes marking the orexigenic (appetite-stimulating) population, while showing minimal overlap with anorexigenic (appetite-suppressing) markers.
+Gene ontology analysis identified distinct clusters involved in fatty acid metabolic processes, stress response pathways, and the production of feeding-related neuropeptides specifically under HFDS.
+Immunohistochemical investigations revealed in addition to local CeA (CeA

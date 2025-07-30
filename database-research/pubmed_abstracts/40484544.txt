@@ -1,0 +1,5 @@
+β-Galactosidase (β-Gal) is widely acknowledged as a crucial biomarker for primary ovarian cancer.
+Therefore, precise analysis of β-Gal plays a significant role in the early diagnosis of primary ovarian cancer.
+In contrast to organic molecule probes, silicon nanoparticles (Si NPs) have garnered significant attention owing to their outstanding photoluminescence stability and good biocompatibility.
+Nevertheless, most nanomaterials synthesized under stringent conditions generally produce a single signal that is susceptible to various external influences.
+Thus, there is an urgent need to develop multi-mode sensing techniques based on Si NPs synthesized under mild conditions for the measurement of β-Gal.

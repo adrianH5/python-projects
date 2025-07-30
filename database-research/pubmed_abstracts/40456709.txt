@@ -1,0 +1,7 @@
+Focal gene amplification serves as an oncogenic driver during tumorigenesis and is a hallmark of many forms of cancer.
+Oncogene amplifications promote genomic instability, which is integral to cancer cell survival and evolution.
+However, focal gene amplification potentially affords an opportunity for therapeutic exploitation.
+As a proof-of-concept, we leverage CRISPR-Cas9 nickase to selectively promote cancer cell death in MYCN-amplified neuroblastoma in a gene amplification-dependent manner.
+Our analysis demonstrates that CRISPR-Cas9 nickase can generate a lethal number of highly toxic, replication-dependent double-strand breaks in cells harboring amplified loci.
+Furthermore, we demonstrate that Cas9 nickase-mediated toxicity can be modulated in combination with small molecule inhibitors targeting key regulators of the DNA-damage response or cell death pathways.
+Importantly, our findings in MYCN-amplified neuroblastoma translate to other cancer types with distinct oncogene amplifications.

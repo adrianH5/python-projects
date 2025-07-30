@@ -1,0 +1,8 @@
+T1	Dataset 25 31	GISAID
+T2	URL 42 65	https://www.gisaid.org/
+T3	Dataset 277 335	Global Initiative on Sharing Avian Influenza Data (GISAID)
+T4	Dataset 467 473	GISAID
+T5	Dataset 608 614	GISAID
+T6	URL 625 648	https://www.gisaid.org/
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T5	Arg2:T6

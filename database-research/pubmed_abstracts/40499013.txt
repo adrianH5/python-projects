@@ -1,0 +1,10 @@
+Clonal hematopoiesis of indeterminate potential (CHIP) is associated with increased mortality and malignancy risk, yet the determinants of clonal expansion remain poorly understood.
+We performed sequencing at >4,000x depth of coverage for CHIP mutations in 6,976 postmenopausal women from the Women's Health Initiative at two timepoints: the WHI baseline exam and approximately 16 years later at the Long Life Study (LLS) visit.
+Among 3,685 CH mutations detected at baseline (VAF ≥ 0.5%), 24% were not detected at LLS, 26% were micro-CH at LLS (0.5% ≤ VAF < 2%), and 50% were CHIP (VAF ≥ 2%).
+We confirmed that clonal expansion is highly dependent on initial clone size and CHIP driver gene, with SF3B1 and JAK2 mutations exhibiting the fastest growth rate.
+We identified germline variants in TERT, IL6R, TCL1A, and MSI2 that modulate clonal expansion rate.
+Measured baseline leukocyte telomere length showed differential effects on incident CHIP risk, with shorter baseline leukocyte telomere length predisposing to incident PPM1D mutations and longer baseline leukocyte telomere length favoring incident DNMT3A mutations.
+We discovered that the IL6R missense variant p.Asp358Ala specifically impairs TET2 clonal expansion, supported by direct measurements of soluble interleukin-6 receptor and interleukin-6.
+Faster clonal growth rate was associated with increased risk of cytopenia, leukemia, and all-cause mortality.
+Notably, CHIP clonal expansion rate mediated 34.4% and 43.7% of the Clonal Hematopoiesis Risk Score's predictive value for leukemia and all-cause mortality, respectively.
+These findings reveal key biological determinants of CHIP progression and suggest that incorporating growth rate measurements could enhance risk stratification.

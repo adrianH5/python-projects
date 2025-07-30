@@ -1,0 +1,7 @@
+As of 12 July 2020, coronavirus disease 2019 (COVID-19) has caused over 12.5 million cases and 561 thousand deaths globally ().
+However, despite the thousands of virus genomes deposited on public access databases, there is a lack of consistent sampling structure, and limited data from Brazil (–), which hampers accurate reconstructions of virus movement and transmission using phylogenetic analyses.
+We then focused our sequencing efforts on generating a large and spatially representative genomic dataset with curated metadata in order to maximise the association between the number of sequences and the number of SARS-CoV-2 confirmed cases per state.
+When we include 63 additional available sequences from Brazil deposited in GISAID (29) (see data S1 and S2), we find the data set is representative of the spatial heterogeneity of the Brazilian epidemic.
+We estimated maximum likelihood and molecular clock phylogenies for a global dataset with a total of 1,182 genomes sampled from 24 Dec 2019 to 30 Apr 2020 (root-to-tip genetic distance correlation with sampling dates, r2 = 0.53; Fig. 3A and fig. S7).
+We provide a comprehensive analysis of SARS-CoV-2 spread in Brazil that shows the importance of community and nation-wide measures to control the COVID-19 epidemic Brazil.
+Sequencing of 427 new genomes and analysis of a geographically representative genomic dataset identified >100 international virus introductions in Brazil.

@@ -1,0 +1,12 @@
+Myocardial ischemia/reperfusion (I/R) injury seriously compromises patients' prognosis and survival rates.
+Accumulating evidence shows that ferroptosis is intricately involved in myocardial I/R injury.
+The activation of Notch1 exerts a protective effect on the heart.
+However, whether it plays a cardioprotective role by inhibiting cardiomyocyte ferroptosis and what the underlying mechanisms are remain unclear.
+Here, we found that activating the Notch signaling pathway during the ischemia/reperfusion (I/R) can effectively inhibit the levels of lipid peroxidation and oxidative stress in cardiomyocytes, thereby suppressing myocardial ferroptosis.
+In addition, we identified a small molecule compound, ZLY032, which is an agonist of PPARδ and possesses anti-inflammatory and antioxidant activities.
+Treatment with ZLY032 potently alleviated I/R-mediated cardiac contractile impairment, decreased the infarct area and mitigated cardiomyocyte ferroptosis.
+Mechanistically, activating Notch1 increases the expression of GPX4.
+The NICD (Notch intracellular domain), a functional domain of Notch1, interacts with GPX4 to inhibit its degradation.
+ZLY032 activates PPARδ, which in turn activates the Notch signaling pathway to inhibit ferroptosis and exert a cardioprotective effect.
+In conclusion, our study elucidates that Notch1 inhibits cardiomyocyte ferroptosis by modulating the protein stability of GPX4.
+Moreover, ZLY032 serves as a novel protective agent against myocardial ischemia-reperfusion injury through the PPARδ-Notch1-GPX4 axis, highlighting the potential of ZLY032 as a promising therapeutic agent for treating myocardial I/R injury.

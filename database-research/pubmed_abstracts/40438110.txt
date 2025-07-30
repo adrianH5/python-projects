@@ -1,0 +1,8 @@
+For more than two centuries, the field of vaccine development has progressed through the adaptation of novel platforms in parallel with technological developments.
+Building off the advantages and shortcomings of first and second-generation vaccine platforms, the advent of third-generation nucleic acid vaccines has enabled new approaches to tackle emerging infectious diseases, cancers, and pathogens where vaccines remain unavailable.
+Unlike traditional vaccine platforms, nucleic acid vaccines offer several new advantages, including their lower cost and rapid production, which was widely demonstrated during the COVID-19 pandemic.
+Beyond production, DNA and mRNA vaccines can elicit unique and targeted responses through specialized design and delivery approaches.
+Considering the growth of nucleic acid vaccine research over the past two decades, the evaluation of their efficacy in at-risk populations is paramount for refining and improving vaccine design.
+Importantly, the aging population represents a significant portion of individuals highly susceptible to infection and disease.
+This review seeks to outline the major impairments in vaccine-induced responses due to aging that may be targeted for improvement with design and delivery components encompassing mRNA and DNA vaccine formulations.
+Results of pre-clinical and clinical applications of these vaccines in aged animal models and humans will also be evaluated to outline current successes and limitations observed in these platforms.

@@ -1,0 +1,3 @@
+Lung adenocarcinoma (LUAD) is a refractory tumor with high incidence, high mortality, and easy development of drug resistance.
+Represented by PD-L1, the rise of immunotherapy and multidrug combinations offers a reliable approach to treating LUAD.
+However, there are still some patients with immunoresistance or insensitivity, and new combination therapies are still needed.

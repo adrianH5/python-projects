@@ -1,0 +1,4 @@
+Epigenetic changes, particularly DNA methylation, are crucial to breast cancer development.
+Tumor-adjacent normal (AN) tissue frequently serves as a reference for characterizing genomic alterations but is reported to share some characteristics with tumors.
+However, it is unclear whether AN's epigenetic profiles reflect a predisposition to cancer or a response to the presence of the tumor.
+We address this gap by systematically comparing methylation profiles of tumor, AN, and matched-benign tissues from both breasts, as well as to healthy donated breast tissue.

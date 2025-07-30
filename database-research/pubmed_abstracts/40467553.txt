@@ -1,0 +1,7 @@
+Human airways contain specialized rare epithelial cells including CFTR-rich ionocytes that regulate airway surface physiology and chemosensory tuft cells that produce asthma-associated inflammatory mediators.
+Here, using a lung cell atlas of 311,748 single cell RNA-Seq profiles, we identify 687 ionocytes (0.45%).
+In contrast to prior reports claiming a lack of ionocytes in the small airways, we demonstrate that ionocytes are present in small and large airways in similar proportions.
+Surprisingly, we find only 3 mature tuft cells (0.002%), and demonstrate that previously annotated tuft-like cells are instead highly replicative progenitor cells.
+These tuft-ionocyte progenitor (TIP) cells produce ionocytes as a default lineage.
+However, Type 2 and Type 17 cytokines divert TIP cell lineage in vitro, resulting in the production of mature tuft cells at the expense of ionocyte differentiation.
+Our dataset thus provides an updated understanding of airway rare cell composition, and further suggests that clinically relevant cytokines may skew the composition of disease-relevant rare cells.

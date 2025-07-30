@@ -1,0 +1,8 @@
+Accurate breast cancer prognosis helps clinicians in selecting optimal treatments, potentially improving patient survival.
+We tested whether combining deep learning with tumor histopathology images could reliably predict cancer spread.
+Advantages of this study include the use of deep learning, which often outperforms traditional methods, and the analysis of tumor histopathology images that offer higher resolution than MRI or CT. We also optimized tumor immunostaining by separately staining slides with AE1/AE3 pan-cytokeratin and hematoxylin and eosin (H&E), and evaluated different image color-depth representations (color, grayscale, and binary) for their prognostic utility.
+The results indicate that grayscale images outperformed both color and binary formats.
+Grayscale pan-CK-stained images achieved 94.4% accuracy [area under the curve (AUC) = 0.982], while grayscale H&E-stained images reached 85.7% accuracy (AUC = 0.992) on the test set.
+Notably, training the ResNet-50 model with experimentally augmented data comprising six distinct datasets differing in staining type and color depth, totaling 2,646 images, further enhanced performance, to 100% accuracy (AUC of 1.0).
+Importantly, our pipeline ensured no contamination between the development and test sets.
+Deep learning applied to tumor histopathology images of early-stage breast cancer patients using two stains and varying color depths achieved exceptional prognostic accuracy and robust generalization.

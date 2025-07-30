@@ -1,0 +1,8 @@
+In large-scale clinical informatics, there is a need to maximize the amount of usable data from electronic health records.
+With the adoption of large language models in medical research, there is potential to use them to extract structured data from unstructured clinical notes.
+We explored how ChatGPT could be used to improve data availability in cancer research.
+We assessed how GPT used clinical notes to answer six relevant clinical questions.
+Four prompt engineering strategies were used: zero-shot, zero-shot with context, few-shot, and few-shot with context.
+Few-shot prompting often decreased the accuracy of GPT outputs and context did not consistently improve accuracy.
+GPT extracted patients' Gleason scores and ages with an F1 score of 0.99 and it identified if patients received palliative care with and if patients were in pain with an F1 score of 0.86.
+Effective use of LLMs has potential to increase interoperability between healthcare and clinical research.

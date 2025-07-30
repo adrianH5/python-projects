@@ -1,0 +1,12 @@
+Background MRI protocols typically involve many imaging sequences and often require too much time.
+Purpose To simulate artificial intelligence (AI)-directed stratified scanning for screening breast MRI with various triage thresholds and evaluate its diagnostic performance against that of the full breast MRI protocol.
+Materials and Methods This retrospective reader study included consecutive contrast-enhanced screening breast MRI examinations performed between January 2013 and January 2019 at three regional cancer sites.
+In this simulation study, an in-house AI tool generated a suspicion score for subtraction maximum intensity projection images during a given MRI examination, and the score was used to determine whether to proceed with the full MRI protocol or end the examination early (abbreviated breast MRI [AB-MRI] protocol).
+Examinations with suspicion scores under the 50th percentile were read using both the AB-MRI protocol (ie, dynamic contrast-enhanced MRI scans only) and the full MRI protocol.
+Diagnostic performance metrics for screening with various AI triage thresholds were compared with those for screening without AI triage.
+Results Of 863 women (mean age, 52 years ± 10 [SD]; 1423 MRI examinations), 51 received a cancer diagnosis within 12 months of screening.
+The diagnostic performance metrics for AI-directed stratified scanning that triaged 50% of examinations to AB-MRI versus full MRI protocol scanning were as follows: sensitivity, 88.2% (45 of 51; 95% CI: 79.4, 97.1) versus 86.3% (44 of 51; 95% CI: 76.8, 95.7); specificity, 80.8% (1108 of 1372; 95% CI: 78.7, 82.8) versus 81.4% (1117 of 1372; 95% CI: 79.4, 83.5); positive predictive value 3 (ie, percent of biopsies yielding cancer), 23.6% (43 of 182; 95% CI: 17.5, 29.8) versus 24.7% (42 of 170; 95% CI: 18.2, 31.2); cancer detection rate (per 1000 examinations), 31.6 (95% CI: 22.5, 40.7) versus 30.9 (95% CI: 21.9, 39.9); and interval cancer rate (per 1000 examinations), 4.2 (95% CI: 0.9, 7.6) versus 4.9 (95% CI: 1.3, 8.6).
+Specificity decreased by no more than 2.7 percentage points with AI triage.
+There were no AI-triaged examinations for which conducting the full MRI protocol would have resulted in additional cancer detection.
+Conclusion AI-directed stratified MRI decreased simulated scan times while maintaining diagnostic performance.
+© RSNA, 2025

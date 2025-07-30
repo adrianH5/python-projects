@@ -1,0 +1,9 @@
+Aging involves the accumulation of various forms of molecular and cellular damage over time.
+Key features of aging, such as mitochondrial dysfunction, dysbiosis, and oxidative stress, are closely linked and largely driven by inflammation.
+This study examines the role of succinate, a key metabolite produced and utilized by cells of both host and microbes, and its receptor, succinate receptor 1 (SUCNR1), in age-related oral dysbiosis and inflammation.
+We examined young and aged wild-type (WT) and SUCNR1 knockout (KO) mice for this analysis.
+Our findings revealed significant aging-associated alveolar bone loss and succinate elevation in aged WT mice, along with notable changes in the oral microbiome.
+Conversely, aged KO mice showed reduced bone loss, lower succinate levels, less inflammation, and better-maintained microbial function.
+These results suggest that SUCNR1 is crucial in influencing aging-related succinate elevation, oral dysbiosis, and inflammation.
+Analysis of gene families and pathways in the oral microbiome demonstrated distinct aging-related changes between WT and KO mice, with the functional potential being preserved in the KO-aged group.
+This study underscores the importance of succinate elevation and signaling through SUCNR1 in regulating inflammation, alveolar bone loss, and shifts in the oral microbiome, offering potential targets for therapeutic interventions in age-related oral health issues.

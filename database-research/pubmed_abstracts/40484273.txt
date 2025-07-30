@@ -1,0 +1,5 @@
+Multiparametric MRI (mpMRI) with contrast medium is recommended in the prostate cancer diagnostic pathway.
+It is unclear if MRI without contrast medium (biparametric [bp]) can be used instead whilst remaining sensitive to detection of clinically significant cancers.
+For those with a positive MRI, is image-fusion targeting better than visual-registration (cognitive) targeting in detecting clinically significant prostate cancer?
+And does bpMRI represent better value for money than mpMRI?
+A randomised controlled trial testing clinical utility and cost-effectiveness of these approaches is vital before changes in practice.

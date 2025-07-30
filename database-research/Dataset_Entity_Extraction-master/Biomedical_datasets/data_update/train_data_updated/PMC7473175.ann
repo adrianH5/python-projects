@@ -1,0 +1,13 @@
+T1	Dataset 454 510	Global Initiative on Sharing All Influenza Data (GISAID)
+T2	Dataset 769 775	GISAID
+T3	URL 777 824	https://www.gisaid.org/hcov-19-analysis-update/
+T4	Repository 1042 1094	National Center for Biotechnology Information (NCBI)
+T5	AccessionNumber 1229 1239	MN908947.3
+T6	Dataset 1409 1415	GISAID
+T7	Dataset 1539 1545	GISAID
+T8	Dataset 1859 1865	GISAID
+T9	AccessionNumber 2009 2019	MN908947.3
+T10	Dataset 2292 2298	GISAID
+T11	Dataset 2484 2490	GISAID
+T12	Dataset 2700 2706	GISAID
+R1	hasAttr	Arg1:T2	Arg2:T3

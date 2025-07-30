@@ -1,0 +1,5 @@
+Irradiation and 5-fluorouracil (5-FU) are widely utilized tools in hematopoietic research to generate myeloablation and assess blood recovery dynamics.
+A comprehensive understanding of their effects on the hematopoietic system is essential for optimizing therapeutic strategies, refining experimental models to modulate hematotoxicity, and interpreting research outcomes.
+Despite their widespread application, the long-term hematopoietic impacts of irradiation and 5-FU, particularly on hematopoietic stem cells (HSCs), remain incompletely characterized.
+In this study, we therefore examined the long-term effects of 2 Gy medium-dose ionizing radiation (MDIR) and 150 mg/kg 5-FU on HSCs and the hematopoietic system's resilience to subsequent cytotoxic stress in mice.
+Our findings demonstrate that MDIR, but not 5-FU, induces sustained impairments in HSC function and results in the selective depletion of MHC class II

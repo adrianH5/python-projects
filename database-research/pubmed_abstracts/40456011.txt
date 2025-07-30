@@ -1,0 +1,14 @@
+Gastric cancer (GC) is one of the most common malignancies with limited treatment options and poor prognosis.
+Therefore, it is necessary to identify new markers for the development of novel therapeutic strategies.
+Long non-coding RNAs (lncRNAs) have emerged as pivotal players in cancer.
+However, RNA-based cancer therapy has been challenged by non-specificity and adverse immune effects.
+Thus, a comprehensive understanding of the functional roles of lncRNAs and their regulatory networks in downstream pathways may provide more specific targets.
+In this study, we identified a novel lncRNA, Lnc21q22.11, encoded by the region of chromosome 21q22.11.
+The full-length transcript was 1202 nt, and its expression was reduced in GC.
+The expression of Lnc21q22.11 was regulated by histone methylation.
+Lnc21q22.11 inhibited GC cell proliferation, colony formation, invasion, and migration.
+Lnc21q22.11 suppressed N87 cell xenograft growth in mice.
+Mechanistically, Lnc21q22.11 inhibited the mitogen-activated protein kinase kinase/extracellular signal-regulated kinase (MEK/ERK) signaling pathway by interacting with MYH9 in GC cells.
+Loss of or reduced Lnc21q22.11 expression sensitized GC cells to MEK inhibitor.
+In conclusion, Lnc21q22.11 is a novel lncRNA in gastric cancer.
+It suppresses gastric cancer growth by inhibiting the MEK/ERK signaling pathway both

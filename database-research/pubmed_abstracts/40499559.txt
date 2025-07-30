@@ -1,0 +1,6 @@
+Studies from our lab demonstrated that increasing miR-200 expression in human triple negative breast cancer (TNBC) reduced tumor growth and metastasis In Vivo.
+In this study, we found that overexpression of miR-200s in TNBC cells significantly reduced the expression of JAG1.
+When JAG1 was knocked out in MDA-MB-231 cells proliferation and invasion were significantly reduced In Vitro.
+Moreover, loss of JAG1 inhibited mammary tumor growth and metastasis In Vivo.
+RNA sequencing revealed that loss of JAG1 altered the expression of genes associated with the ECM, angiogenesis, and EMT.
+These results imply that miR-200s may mediate some of their antitumor actions through reducing JAG1 expression and suggest that agents targeting JAG1 should be further evaluated as a therapeutic strategy for TNBC.

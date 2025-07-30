@@ -1,0 +1,10 @@
+An association between maternal hormonal contraception use and childhood central nervous system (CNS) tumors has been suggested, but findings are inconclusive.
+This population-based cohort study includes Scandinavian nationwide registry data on liveborn children (1996-2018).
+Children were followed from birth until CNS tumor (<20 years) or censoring (other cancer, emigration, death, 20th birthday, or end of follow-up in 2017-2020).
+Cox proportional hazards models estimated hazard ratios (HRs) and 95% confidence intervals (95% CIs) for the association between maternal hormonal contraception use (any type, type-specific) and CNS tumor risk (any, any malignant, type-specific).
+Maternal use was categorized as "recent use" (0-3 months before or during pregnancy, except for non-oral progestin-only types), "previous use" (before recent use), and "no use".
+A total of 3,183,316 children were followed for 29,455,528 person-years, during which time 1384 children developed a CNS tumor (610 malignant).
+Compared with no use, maternal previous or recent use of any hormonal contraception (HR 0.93, 95% CI 0.82-1.05; HR 0.99, 95% CI 0.83-1.19), combined and progestin-only types (oral, non-oral), were not associated with childhood CNS tumor risk.
+However, maternal recent progestin-only injection use was associated with malignant childhood CNS tumors (HR 3.95, 95CI % 1.46-10.68), compared with no use (number needed to harm: 1 per 14,577 person-years).
+In conclusion, no association was found between maternal use of common types of hormonal contraception and CNS tumors in children.
+The rarely used progestin-only injections (medroxyprogesterone acetate) were associated with malignant CNS tumor risk in children, though based on few children.

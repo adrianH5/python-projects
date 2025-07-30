@@ -1,0 +1,4 @@
+Atypical teratoid rhabdoid tumors (ATRTs) are aggressive central nervous system tumors mainly affecting young children.
+Extensive molecular characterization based on gene expression and DNA methylation patterns has solidly established three major ATRT subtypes (MYC, SHH and TYR), which show distinct clinical features, setting the basis for more effective, targeted treatment regimens.
+Transcriptional activity of transposable elements (TEs), like LINE1s and LTRs, is tightly linked with human cancers as a direct consequence of lifting epigenetic repression over TEs.
+The sole recurrent biallelic loss-of-function mutation in

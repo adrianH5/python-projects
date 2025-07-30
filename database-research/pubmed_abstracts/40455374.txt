@@ -1,0 +1,7 @@
+MicroRNAs (miRNAs) are short single-stranded RNA sequences that play an important role in the initiation and progression of cancer.
+Therefore, the present work tries to establish an analytical platform for the quantitative determination of miRNA in cancer cell models without enzymatic amplification reactions.
+The developed assay is based on a sandwich double-hybridization reaction using a capture oligonucleotide conjugated to magnetic iron oxide microparticles and detecting oligonucleotide conjugated to a 40-nm gold nanoparticle, both particles coated with streptavidin.
+The optimization of the double-hybridization assay is conducted using inductively coupled plasma in single particle mode with a time-of-flight analyzer (SP-ICP-ToF-MS) for double detection of Au and Fe within the same event.
+The developed strategy was directly applied to the quantification of miR-16-5p in cell lysates without amplification reactions.
+For this aim, the cancer cell line of melanoma (A375) was studied, and two sample preparation strategies have been evaluated.
+Sequence capturing in extracted RNA provided best results allowing the determination at about 200 pM of miR-16-5p (for 2 × 10

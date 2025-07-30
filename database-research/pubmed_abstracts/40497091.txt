@@ -1,0 +1,4 @@
+Esophageal cancer is the sixth most common cancer worldwide, with a high mortality rate.
+Early prognosis of esophageal abnormalities can improve patient survival rates.
+The progression of esophageal cancer follows a sequence from esophagitis to non-dysplastic Barrett's esophagus, dysplastic Barrett's esophagus, and eventually esophageal adenocarcinoma (EAC).
+This study explored the application of deep learning technology in the precise diagnosis of pathological classification and staging of EAC to enhance diagnostic accuracy and efficiency.

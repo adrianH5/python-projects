@@ -1,0 +1,3 @@
+The management of brain metastases (BrM) remains a major clinical challenge due to limited drug delivery across the blood-brain barrier (BBB) and the need for simultaneous CNS and systemic disease management, often with competing therapeutic strategies.
+Antibody-drug conjugates (ADCs) are a promising class of drugs that offers precision therapy by combining the specificity of monoclonal antibodies with potent chemotherapeutics for targeted tumor delivery.
+This review explores the current landscape of ADCs in BrMs, challenges in BBB penetration, and CNS-specific toxicities, including interactions with radiotherapy and the risk of radiation necrosis.

@@ -1,0 +1,7 @@
+Bromodomain-containing protein 4 (BRD4) is a pivotal transcriptional regulator implicated in cancer, fibrosis, and inflammation, yet its phospho-regulatory network remains underexplored.
+This study leverages an extensive analysis of 1000 qualitative and 225 quantitative global phosphoproteome datasets to decode the BRD4 phosphorylation landscape.
+We identified S601 and S1117 as predominant phosphorylation sites, driving the majority of BRD4 phospho-signaling.
+Co-regulation analysis revealed 755 and 972 proteins positively cophosphorylated with S601 and S1117, respectively, including key interactors like TRIM28 (S473) and PRKAR2A (S78), which enhance transcriptional activity and cAMP signaling.
+Upstream kinases MAPK14 and GRK5 emerged as high-confidence regulators of S1117 and S601, respectively, with correlations in breast cancer highlighting disease relevance.
+In addition, 93 phosphosites in 71 transcription factors co-regulated with S1117 and 69 in 53 with S601 underscore the role of BRD4 in transcription control.
+These findings unveil a complex phospho-signaling network, offering novel therapeutic targets for BRD4-associated diseases and a foundation for future experimental validation.

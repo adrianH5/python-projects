@@ -1,0 +1,3 @@
+Medical image translation has become an essential tool in modern radiotherapy, providing complementary information for target delineation and dose calculation.
+However, current approaches are constrained by their modality-specific nature, requiring separate model training for each pair of imaging modalities.
+This limitation hinders the efficient deployment of comprehensive multimodal solutions in clinical practice.

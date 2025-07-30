@@ -1,0 +1,9 @@
+Communication between the endoplasmic reticulum (ER) and mitochondria through mitochondria-associated ER membranes (MAMs) is assisted by tethering proteins and signaling pathways, manifesting the dynamic exchange of lipids, calcium, and signaling molecules.
+However, dysregulation of tethering and signaling proteins contributes to the progression of breast cancer (BC).
+Abnormal MAM structures and altered ER-mitochondrial tethering impair mitochondrial functions and thereby drive BC progression.
+Altered mitochondrial dynamics, often characterized by dysregulated dynamin-related protein 1 (Drp1) and mitofusin-2 (Mfn2) activity, enhances BC cell survival.
+Similarly, ER stress and the unfolded protein response, both modulated by dysregulated ER-mitochondrial contacts, promote drug resistance.
+In BC, caveolae-dependent and -independent caveolin-1 signaling alongside Yes-associated protein (YAP) signaling pathway alters organelle dynamics by interacting with Drp1 and Mfn2, underscoring their therapeutic potential.
+This review explores potential therapeutic strategies targeting ER-mitochondrial communications and their potential for hindering BC progression.
+These strategies include modulating mitochondrial dynamics and promoting controlled ER stress by disrupting aberrant ER-mitochondrial tethering using chemotherapeutics, clinical inhibitors, and natural compounds, alone or in combination.
+Ultimately, targeting dysregulated ER-mitochondrial tethering has significant potential to improve patient outcomes in BC.

@@ -1,0 +1,2 @@
+Patient-Specific Quality Assurance in Radiotherapy (PSQA) demands high-resolution dosimetry to verify accurate dose delivery in personalized intensity-modulated radiotherapy (IMRT) and volumetric-modulated arc therapy (VMAT) treatments.
+A novel optically stimulated luminescence (OSL) film dosimeter made with BaFBr:Eu

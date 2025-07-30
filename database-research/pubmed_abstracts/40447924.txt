@@ -1,0 +1,13 @@
+Cancer has increasingly been recognized as a genetic disease, influenced by lifestyle changes, dietary patterns, and environmental pollutants.
+Lung cancer remains one of the most lethal malignancies worldwide, necessitating precise diagnostic and therapeutic approaches.
+Among these types, lung cancer is the third most common cancer, which affects all over the population.
+Lung cancer is a cancer that forms in tissues of the lung, usually in the cells that line the air passages.
+There are two main types of lung cancer: small cell and non-small cell lung cancer.
+These two types grow differently and are treated differently.
+This review explores the application of advanced deep learning (DL) techniques in enhancing biosignature immunotherapy tools for the prediction of immune phenotypes in lung cancer patients.
+The study systematically analyses recent research integrating multi-modal biomedical data, such as radiomics, genomics, transcriptomics, and histopathological images, to develop robust DL-based predictive models.
+A well-defined literature search strategy, inclusion/exclusion criteria, and a PRISMA-guided screening process ensure transparency and reproducibility.
+Emphasis is placed on identifying key predictive biomarkers, including Programmed Death-Ligand 1 (PD-L1) expression, Tumor Mutational Burden (TMB), Microsatellite Instability (MSI), and APOBEC mutational signatures, which are vital for personalizing immunotherapy.
+The review also incorporates a quality assessment framework to evaluate the methodological rigor of the included studies.
+Enhanced technical details, such as model architecture, validation strategies, hyperparameter tuning, and standardized performance metrics like AUC-ROC and Harrell's C-index, are presented to facilitate cross-study comparisons.
+This review underscores the transformative role of DL in precision oncology and highlights the potential for integrating biosignatures into clinical workflows to improve immunotherapy outcomes in lung cancer.

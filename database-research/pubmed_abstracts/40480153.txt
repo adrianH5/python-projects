@@ -1,0 +1,7 @@
+Cancer or malignant tumors are caused by many different factors, and there are many different treatments available.
+Among them, photothermal therapy (PTT) is a treatment method that does not require surgical intervention and has the advantage of killing tumor tissue by raising the temperature of the tumor tissue, causing no bleeding and no scarring.
+In this study, the effectiveness of photothermal therapy on squamous cell carcinoma (SCC) within the skin layer was confirmed through numerical analysis.
+Gold nanoparticles (AuNPs), one of the photothermal agents, were injected at various depths based on the SCC center line, and the distribution area of AuNPs was confirmed by analyzing the diffusion behavior over time.
+Furthermore, the temperature distribution inside the tissue was calculated by varying the laser power at each elapsed time after AuNPs injection.
+Lastly, two thermal damage discrimination models were applied to quantify the thermal damage in each treatment condition, and relative thermal damage analysis was performed for tumor and normal tissue.
+Numerical simulation conditions were selected as the AuNPs injection depth from 0.5 mm to 2.5 mm, the elapsed time after injection from 0 h to 12 h (treatment start time), and the laser power from 0 W to 0.8 W. We believe this will allow for more accurate PTT under the treatment conditions selected in this study.

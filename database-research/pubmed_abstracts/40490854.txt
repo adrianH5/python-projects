@@ -1,0 +1,10 @@
+Various genetic aberrations are suggested to initiate the development of acute lymphoblastic leukaemia (ALL) but alone are insufficient for disease onset.
+Epigenetic alteration, such as DNA methylation changes, plays a key role in human health.
+Evidence suggests DNA methylation may be an intermediate mechanism through which the environment contributes to ALL manifestation.
+ALL is categorized into subtypes based on leukaemia-associated genetic events, and it is plausible that different exposures pose differing risks for given subtypes.
+Using our previously established meet-in-the-middle approach, we performed CpG-level analysis to investigate DNA methylation as an intermediate mechanism between risk exposures and ALL.
+Differentially methylated CpGs (DMCs) were integrated, identifying overlapping methylation, with hypergeometric tests used to assess the probability of concurring methylation considering directionality.
+DMC analysis reinforced previous gene-level findings suggesting altered DNA methylation associated with maternal radiation exposure, alcohol intake, and plasma folate during pregnancy is also present in the disease.
+Whilst maternal folate-associated and leukaemia-associated methylation appear consistent across most subtypes, the effect of other exposures appears subtype-specific.
+We suggest environmentally associated methylation includes driver and/or 'navigator' changes, the latter influencing biological pathways contributing to ALL.
+This analysis aids understanding of which risk factors may contribute to specific subtypes or which influence ALL risk more generally.

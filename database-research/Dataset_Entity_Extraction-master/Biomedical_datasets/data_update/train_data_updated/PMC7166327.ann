@@ -1,0 +1,7 @@
+T1	Repository 187 191	NCBI
+T2	URL 193 229	http://www.ncbi.nlm.nih.gov/genbank/
+T3	Dataset 235 241	GISAID
+T4	URL 243 266	https://www.gisaid.org/
+T5	Repository 599 606	GenBank
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4

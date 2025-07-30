@@ -1,0 +1,9 @@
+Lung cancer is a significant health concern worldwide.
+It is caused by smoking and exposure to carcinogens, although other factors like genetics, epigenetics, and transcription factors also play a role.
+Yin Yang 1 (YY1) is a transcription factor with a multifaceted role in regulating cellular functions in various cancers.
+It has a vital role in lung cancer progression, but also has tumor-suppressing activity.
+YY1 regulates epigenetic changes through DNA methylation, histone alteration, and non-coding RNAs.
+In lung cancer, YY1 is overexpressed and involved in metastatic mechanisms, including epithelial and mesenchymal transition (EMT), invasion, migration, and angiogenesis.
+These metastatic properties are influenced by various signaling pathways (PI3K-Akt-mTOR, RAF-MEK-ERK, JAK-STAT, and Wnt-β-catenin) through PD-L1 expression, autophagy, and drug insensitivity.
+The current review recapitulates the recent advances on YY1 research in lung cancer progression and its influence on oncogenic pathways, immune regulation, and clinical significance.
+Furthermore, this review also discusses using YY1 as a biomarker and targeted molecule in lung cancer.

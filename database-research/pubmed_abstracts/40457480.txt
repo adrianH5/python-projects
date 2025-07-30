@@ -1,0 +1,6 @@
+Analyzing multi-sample spatial transcriptomics data requires accounting for biological variation.
+We present multi-sample non-negative spatial factorization (mNSF), an alignment-free framework extending single-sample spatial factorization to multi-sample datasets.
+mNSF incorporates sample-specific spatial correlation modeling and extracts low-dimensional data representations.
+Through simulations and real data analysis, we demonstrate mNSF's efficacy in identifying true factors, shared anatomical regions, and region-specific biological functions.
+mNSF's performance is comparable to alignment-based methods when alignment is feasible, while enabling analysis in scenarios where spatial alignment is unfeasible.
+mNSF shows promise as a robust method for analyzing spatially resolved transcriptomics data across multiple samples.

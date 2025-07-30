@@ -1,0 +1,7 @@
+Cancer is the second leading cause of death globally, which can be treated through invasive chemotherapeutic strategies, leading to severe toxic side effects, injury, and trauma to the patients.
+Recently, phototherapy gained lots of attention as an alternative, non-invasive cancer therapy.
+However, developing novel small molecules as chemophototherapeutic agents remained a major challenge.
+To address this, herein, we have designed and synthesized a small molecule library consisting of aromatic moieties as π-donor, 3-methoxy-pyrrole as π-electron-rich pharmacophore, and cyanine or N-methyl-quinolinium ion as π-acceptor in a concise strategy.
+Upon screening in colon (HCT-116), cervical (HeLa), and lung (A549) cancer cells, one small molecule (6a) was identified to induce remarkable HCT-116 cell killing under 740 nm LED irradiation by generating a diverse array of reactive oxygen species (ROS) and showing negligible toxicity toward non-cancerous, kidney fibroblast-like Cos-7 cells.
+Interestingly, compound 6a self-assembled into spherical nanoparticles that homed into the lysosomal compartment of HCT-116 cells efficiently within 3 h, impaired the lysosomal membrane, followed by induction of autophagy and generation of ROS to trigger late apoptosis and necrosis with increased penetration efficiency in 3D-HeLa spheroids under light irradiation.
+Compound 6a can be a tool for the development of a novel chemo-photodynamic probe for cancer therapy.

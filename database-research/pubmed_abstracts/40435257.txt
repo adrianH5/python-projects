@@ -1,0 +1,3 @@
+Metal ions are widely adopted to potentiate oxidative damage-induced immunogenic cell death (ICD) and regulate immune pathways.
+However, current ion delivery platforms lack precise administration over distribution and retention time within the tumor microenvironment, leading to high systemic toxicity and suboptimal therapeutic efficacy.
+Here, local electrochemical immunotherapy is developed by implanting a tumor microenvironment-activated Zn//MnO

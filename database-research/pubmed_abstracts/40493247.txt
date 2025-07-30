@@ -1,0 +1,9 @@
+Colorectal cancer (CRC) is the third most common malignancy worldwide.
+5-fluorouracil (5-FU) remains the first-line drug for treatment of the metastatic stage despite the limits of its efficacy.
+Here, we investigated the anti-tumor effect of two phytochemicals, baicalein and 6-(methylsulfinyl)hexyl isothiocyanate (6-MITC), on colorectal cancer cells (HCT-116 and RKO) and determined whether these individual agents, when used alone or in combination with 5-FU, could enhance treatment efficacy.
+The evaluations included assays that measure cell viability and proliferation (MTT), apoptosis, cell migration, cell cycle, gelatin zymography, and combination index analyses.
+In both cell lines, baicalein [HCT-116 cells; IC50 = 40.82 ± 7.77 μM (24 h) and 33.83 ± 1.99 μM (48 h), and RKO cells; IC50 = 55.84 ± 3.12 μM (24 h) and 45.11 ± 3.05 μM (48 h)] and 6-MITC [HCT-116 cells; IC50 = 24.66 ± 1.57 μM (24 h) and 8.28 ± 0.56 μM (48 h), and RKO cells; IC50 = 45.74 ± 1.63 μM (24 h) and 9.85 ± 1.42 (48 h) μM] suppressed cancer cell proliferation in a dose-dependent manner at 24 and 48 h, while 5-FU was cytotoxic only after 48 h [HCT-116 cells; IC50 18.43 ± 3.82, and RKO cells; IC50 = 30.57 ± 8.34 μM].
+Compared with 5-FU treatment only, the combined treatments induced significant increases in the pre-G1 phase and decreases in the G1 and S phases in both cell lines.
+In HCT-116 cells, combined treatments induced significantly greater apoptosis compared to 5-FU alone.
+Single and combination treatments with baicalein or 6-MITC significantly lowered the migration of cells compared to 5-FU alone in both cell lines.
+In conclusion, our study showed that both baicalein and 6-MITC induced similar anti-tumor effects compared to 5-FU alone in both cell lines, however, the combined treatments were more efficient.

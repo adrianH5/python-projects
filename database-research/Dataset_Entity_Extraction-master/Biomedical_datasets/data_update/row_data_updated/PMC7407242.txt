@@ -1,0 +1,8 @@
+Therefore, boosting the production of MGO into these cells by targeting deamidated HsTIM should deserve further studies as a potential therapy for COVID-19, even more considering that glycolysis sustains the SARS-CoV-2 replication and that its proteome is highly labile to MGO.
+Here, we used the numbering of amino acid residues according to the translated product of the human TIM cDNA (GenBank Accession Number: M10036.1).
+The atomic coordinates of WT and N16D HsTIM (PDB IDs: 2JK2 and 4UNK, respectively) were submitted to the PDBsum server (PDBsum-EMBL-EBI) to analyze the protein–protein contacts (interface) and tunnel formation (MOLEonline 2.0).
+These results indicate that the incorporation of de novo negative charges in N16D HsTIM leads to important structural alterations in the interatomic network of contacts at the interface of the enzyme.
+The N16D HsTIM incorporated a major number of DTNB molecules, which also docked deeper in the structure than those in the WT HsTIM (Figure 3).
+Thus, an urgent requirement is to search for new treatments for COVID-19.
+They proposed their findings as evidence of vulnerability of SARS-CoV-2 to inactivation by MGO and as a scientific rationale for repurposing these antitumor agents for treatment of COVID-19 [54].
+This study elucidates the properties of deamidated HsTIM regarding its selective inhibition by thiol-reactive drugs and how these drugs can contribute to the development of cell-specific therapeutic strategies for a variety of diseases, such as COVID-19 and cancer.

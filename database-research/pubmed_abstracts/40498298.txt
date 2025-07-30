@@ -1,0 +1,3 @@
+Response Evaluation Criteria in Solid Tumors (RECIST) is the primary tool for assessing tumor response in solid tumors.
+Immunotherapy elicits unique response patterns, and assessment of their contribution to overall survival (OS) is of interest.
+We evaluated tumor size changes (TSC) for association with OS, evaluated whether deeper response had greater association with OS than the 30% RECIST cutoff, and quantified the contribution of objective response rate (ORR) and duration of response (DOR) to OS benefit using data from KEYNOTE-189 and KEYNOTE-407 examining first-line pembrolizumab plus chemotherapy in metastatic non-small-cell lung cancer (NSCLC).

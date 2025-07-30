@@ -1,0 +1,4 @@
+Ductal Carcinoma In Situ (DCIS) can progress to ipsilateral invasive breast cancer (IBC) but over 75% of DCIS lesions do not progress if untreated.
+Currently, DCIS that might progress to IBC cannot reliably be identified.
+Therefore, most patients with DCIS undergo treatment resembling IBC.
+To facilitate identification of low-risk DCIS, we developed deep learning models using histology whole-slide images (WSIs) and clinico-pathological data.

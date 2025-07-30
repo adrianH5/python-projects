@@ -1,0 +1,10 @@
+Tumor-infiltrating lymphocytes (TILs) are capable of recognizing tumor antigens, impacting tumor prognosis, predicting the efficacy of neoadjuvant therapies, contributing to the development of new cell-based immunotherapies, studying the tumor immune microenvironment, and identifying novel biomarkers.
+Traditional methods for evaluating TILs primarily rely on histopathological examination using standard hematoxylin and eosin staining or immunohistochemical staining, with manual cell counting under a microscope.
+These methods are time-consuming and subject to significant observer variability and error.
+Recently, artificial intelligence (AI) has rapidly advanced in the field of medical imaging, particularly with deep learning algorithms based on convolutional neural networks.
+AI has shown promise as a powerful tool for the quantitative evaluation of tumor biomarkers.
+The advent of AI offers new opportunities for the automated and standardized assessment of TILs.
+This review provides an overview of the advancements in the application of AI for assessing TILs from multiple perspectives.
+It specifically focuses on AI-driven approaches for identifying TILs in tumor tissue images, automating TILs quantification, recognizing TILs subpopulations, and analyzing the spatial distribution patterns of TILs.
+The review aims to elucidate the prognostic value of TILs in various cancers, as well as their predictive capacity for responses to immunotherapy and neoadjuvant therapy.
+Furthermore, the review explores the integration of AI with other emerging technologies, such as single-cell sequencing, multiplex immunofluorescence, spatial transcriptomics, and multimodal approaches, to enhance the comprehensive study of TILs and further elucidate their clinical utility in tumor treatment and prognosis.

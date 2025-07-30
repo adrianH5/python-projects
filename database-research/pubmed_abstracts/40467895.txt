@@ -1,0 +1,10 @@
+Aberrant expression of histone deacetylases (HDACs) is associated with cancer drug resistance and tumor progression.
+While considerable studies and effort have been devoted to developing novel HDAC inhibitors in cancer therapy, hydroxamate-based HDAC inhibitors have gained growing interest for their broad-spectrum anti-tumor properties.
+We developed a series of HDAC inhibitors featuring a hydroxamate moiety, and WMJ-J-09 was selected due to its potent cytotoxic effect in colorectal cancer (CRC) cells, and its molecular mechanisms driving CRC cell death were characterized.
+WMJ-J-09 reduced cell viability, arrested the cell cycle at the G2/M phase, and triggered apoptosis.
+Mechanistically, it activated LKB1-p38MAPK signaling, leading to p53 phosphorylation and acetylation, which elevated p21 and suppressed survivin levels.
+WMJ-J-09 also acetylated α-tubulin, impaired microtubule assembly, and acetylated survivin, resulting in proteasomal degradation.
+Both LKB1 siRNA and anacardic acid, a histone acetyltransferase inhibitor, reversed WMJ-J-09-reduced survivin, confirming its dual effects on survivin at transcriptional and post-translational levels.
+In vivo, the subcutaneous growth of HCT116 CRC xenografts was reduced by WMJ-J-09.
+In conclusion, WMJ-J-09 causes CRC cell death via the LKB1-p53-survivin signaling pathway and HDAC inhibition, leading to acetylation of α-tubulin, p53, and survivin.
+This study highlights WMJ-J-09's potential as a promising therapeutic candidate for CRC treatment.

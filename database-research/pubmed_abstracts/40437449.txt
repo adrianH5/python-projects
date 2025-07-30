@@ -1,0 +1,13 @@
+The Ki-67 index, which is a proliferative index, has become more important in making treatment decisions for patients with breast cancer (BC) and plays both a predictive role and a prognostic role.
+However, a few factors limit its use in clinical practice, particularly the assessment of the percentage of Ki-67-positive cells and the cutoff value of Ki-67.
+In this study, we examined the expression of Ki-67 via immunohistochemistry and systematically evaluated the value of the Ki-67 index in patients with BC.
+This was a retrospective study including 280 patients diagnosed with BC.
+There were marked differences in overall survival (OS) between patients with BC when the Ki-67 index ranged from 46 to 68% (χ2 = 5.87, P = 0.0154; χ2 = 7.64, P = 0.0057, respectively), and the same results were also found when the staining density was added to the Ki-67 index; however, the staining density alone has limited value in assessing the value of Ki-67.
+There were marked differences in disease-free survival (DFS) among BC patients when the Ki-67 index ranged from 50 to 58% (χ2 = 7.31, P = 0.0069; χ2 = 7.88, P = 0.005).
+When 14% was used as a cutoff point to classify the molecular type of BC, the luminal A-type patients were significantly different from patients with HER2-overexpressing subtype BC in terms of OS (χ2 = 5.33, P = 0.021).
+There was a significant difference in the OS of patients with human epidermal growth factor receptor 2 (HER-2)-overexpressing subtype BC when the Ki-67 index fell within the range of 49-60% (χ2 = 4.86, P = 0.0275; χ2 = 5.50, P = 0.019, respectively).
+There were significant differences between luminal A-type BC and HER2-overexpressing subtype BC in terms of OS (χ2 = 5.53, P = 0.019), according to suggestions of the 2019 CSCO consensus.
+There were significant differences between the two groups of luminal B HER-2(-) BC when the Ki-67 index was 52% (χ2 = 6.61, P = 0.0101).
+The differentiated Ki-67 index can be used to assess the OS and DFS of patients with BC, and the staining density of Ki-67 has little value in assessing prognosis in these patients.
+Different molecular classification methods may influence the assessment of prognosis and the results of molecular subtype in patients with BC.
+To predict the prognosis of BC patients, it is more scientifically feasible to use the interval values of Ki-67 than a specific value.

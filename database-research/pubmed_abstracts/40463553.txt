@@ -1,0 +1,4 @@
+Chimeric antigen receptor (CAR) T cells are a leading immunotherapy for refractory B-cell malignancies, but their impact is constrained by toxicity and incomplete long-term efficacy.
+Daily (circadian) rhythms in immune function may offer a lever to boost therapeutic success.
+Studies suggest that time of day influences immune-based therapies, including vaccines, hematopoietic stem cell transplantation, and checkpoint inhibitors for cancer.
+However, the clinical relevance of biological rhythms to CAR-T cell therapy remains unknown.

@@ -1,0 +1,6 @@
+The foundation of COVID-19 diagnostic testing has included direct detection of viral genomes through nucleic acid amplification methods.
+Reports of false negative results from real time PCR testing indicate that even the high analytical sensitivity of RT-PCR may be challenged by the pathology of COVID-19 [6,7].
+Eluted RNA (5 μl for the CDC 2019-nCoV Real-Time RT-PCR Diagnostic Panel (111 specimens), 10 μl for the Taqpath COVID-19 (EUA) Multiplex assay (Thermo Scientific, Waltham, MA) (5 specimens) was subjected to real time PCR either by the CDC EUA Real Time PCR for SARS-CoV-2, or the Taqpath COVID-19 Multiplex assay.
+Comparison of the Taqpath COVID-19 Multiplex relative to the CDC 2019-nCoV Real-Time RT-PCR Diagnostic Panel showed 100 % sensitivity and specificity relative to one another, with 100 % concordance through 20 specimens.
+As shown in Table 1, the Taqpath COVID-19 Multiplex assay demonstrated detection capability of 5/5 (100 %) samples at 5.5 × 10e5 copies per milliliter and at least one SARS-CoV-2 gene in 5/5 (100 %) of samples at a concentration of 5.5 × 10e4 copies per milliliter.
+This ability to perform high-throughput testing, on a sensitive molecular detection platform has potential to make a significant contribution to the COVID-19 pandemic, where such high demands exist for testing.

@@ -1,0 +1,8 @@
+Platelets play a dual role in hemostasis and inflammation-associated thrombosis and hemorrhage.
+While the mechanisms linking inflammation to platelet dysfunction remain poorly understood, our previous work demonstrated that TNFα alters mitochondrial mass, platelet activation, and autophagy-related pathways in megakaryocytes.
+Here, we hypothesized that TNFα impairs platelet function by disrupting autophagy, a process critical for mitochondrial health and cellular metabolism.
+Using human and murine models of TNFα-driven diseases, including myeloproliferative neoplasms and rheumatoid arthritis, we found that TNFα downregulates STX17, a key mediator of autophagosome-lysosome fusion.
+This disruption inhibited autophagy, leading to the accumulation of dysfunctional mitochondria and reduced mitochondrial respiration.
+These metabolic alterations compromised platelet-driven clot contraction, a process linked to thrombotic and hemorrhagic complications.
+Our findings reveal a mechanism by which TNFα disrupts hemostasis through autophagy inhibition, highlighting TNFα as a critical regulator of platelet metabolism and function.
+This study provides new insights into inflammation-associated pathologies and suggests autophagy-targeting strategies as potential therapeutic avenues to restore hemostatic balance.

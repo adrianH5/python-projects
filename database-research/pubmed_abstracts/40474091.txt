@@ -1,0 +1,12 @@
+Cathepsin C (CTSC) is a cysteine protease in lysosomes that controls immunological responses.
+Upregulation CTSC expression was reportedly related with tumor progression and metastasis.
+The roles and mechanisms of CTSC in non-small cell lung cancer (NSCLC) are still unclear.
+Through systematic analysis, we found that the level of CTSC was higher in NSCLC and it was correlated with the overall survival (OS) of NSCLC patients.
+Furthermore, single-cell sequencing (scRNA-seq) analysis suggested that the vast majority of CTSC was expressed in epithelial cell, NK cell, M1 and M2 macrophages, and neutrophil.
+Gene set enrichment analysis (GSEA) demonstrated the involvement of CTSC in the immune responses and ssGSEA, CIBERSORT-abs, QUANTISEQ, XCELL algorithms results showed CTSC was positively associated with the M2 macrophages infiltration.
+Besides, CTSC was significantly co-expressed with M2 macrophage maker genes (CD68, CD163), and immune checkpoints.
+Then, CTSC, CD68, CD163 expression levels were detected by immunohistochemistry in our clinical NSCLC cohort.
+Subsequently, the regulatory roles of CTSC in the progression and metastasis of NSCLC were investigated both in vitro and in vivo.
+Our results indicated that knocking down CTSC in NSCLC cell lines restrained cell proliferation and migration.
+CTSC overexpression in NSCLC cells showed the opposite effects.
+Targeting CTSC may provide a promising treatment strategy for NSCLC patients.

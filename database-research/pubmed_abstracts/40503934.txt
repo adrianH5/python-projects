@@ -1,0 +1,6 @@
+Small RNA sequencing (smRNA-seq) reveals the complexity of tRNA-derived fragments (tRFs) in human physiology and disease.
+Here, we present a protocol for assessing tRF expression from smRNA-seq data.
+We describe steps for preprocessing, quality filtering, adapter trimming, and mapping reads.
+We then detail procedures for quantifying expressions and harmonizing data.
+We outline functional analyses using tRFUniverse, with a lung cancer case study from The Cancer Genome Atlas (TCGA) highlighting dysregulated tRFs and their roles.
+For complete details on the use and execution of this protocol, please refer to La Ferlita et al.

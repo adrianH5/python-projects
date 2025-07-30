@@ -1,0 +1,3 @@
+The sampling dates were incorporated into TMRCA estimation.
+We downloaded 137 SARS-CoV-2 genomes available from GISAID as of 2/23/2019.
+All genome sequences were downloaded from Global Initiative on Sharing Avian Influenza Data (GISAID, https://www.gisaid.org/) and GenBank (https://www.ncbi.nlm.nih.gov/nucleotide/).

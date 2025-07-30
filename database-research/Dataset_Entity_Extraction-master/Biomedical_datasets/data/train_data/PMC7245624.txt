@@ -1,0 +1,25 @@
+Early in the history of GenBank, Michael Waterman presciently wrote that “Entering new sequences into the databases requires the database staff to analyze and interpret the sequences and the associated scientific literature [4].”
+Even earlier, Margaret Dayhoff had justified her enormous efforts at sequence database curation reasoning that “a carefully verified collection [of sequences] was more economical in the long run than a quick and dirty collection” [5].
+VAPiD [7] is designed to simplify the submission of complete viral genome sequences to GenBank by adding metadata, and annotating each input sequence based on comparison with its best-matching reference sequence in a large reference dataset derived from GenBank.
+VIGOR [8, 9] annotates input sequences by first identifying the most relevant reference database in its collection and then comparing all reference protein and mature peptide sequences in that database to the input sequence to determine its annotation and to identify certain types of errors.
+Additional programs for viral annotation include VGAS [10], which incorporates ab initio ORF prediction as well as similarity-based annotation, and VIGA [11] which can be optimized for speed for huge metagenomics datasets.
+VADR compares each input sequence to a library of homology models of viral species built from reference sequences from the RefSeq database [12], identifies the most similar model, and uses that model to compute an alignment to the RefSeq from which feature annotation boundaries (e.g. coding sequences (denoted CDS), mature peptides, ncRNAs) are derived.
+Additionally, v-build.pl uses the makeblastdb program from BLAST v2.9.0+ [15] to create a BLAST database from amino acid translations of the RefSeq CDS features.
+v-annotate.pl uses this database with blastx to validate its nucleotide-based predictions of CDS features.
+We ran the VADR v1.0 v-annotate.pl script with default parameters on the four sequence datasets.
+Table 5 lists each type of fatal VADR alert observed in one of the four datasets with counts of instances reported and sequences for which one or more instances was reported.
+The next most common alert, noannotn, occurs for 2753 sequences, 2236 of which are in the DP dataset, indicating that no similar RefSeq was found for these sequences during the classification stage.
+The 34 fatal alert codes reported at least once for any test dataset are listed sorted by total number of reports.
+4 fatal alert types (unexdivg, lowsimis, incsbgrp and indfstrp) were not reported for any of the four test sets and are not shown.
+Therefore, here, we report VAPiD tests only on the NC and DC (complete) datasets.
+The version of VIGOR we tested (VIGOR3) lacks a Dengue virus database, so we tested VIGOR only on the Norovirus NC and NP.
+Table 6 shows the number of sequences that pass and fail with each of the three methods for the datasets on which they were tested.
+Table 7 further compares the results of VADR and VAPiD on the NC and DC datasets, and Table 8 further compares the results of VADR and VIGOR on the NC and NP datasets.
+To determine whether this is the case or not in our test sets, we examine the set of sequences that fail each method in turn below.
+In our tests of the NC and DC datasets, VAPiD failed 43 total sequences; 12 of these were also failed by VADR and 31 were passed by VADR and VIGOR (Table 7).
+In our tests of the NC and NP datasets, VIGOR failed seven total sequences, all seven of which also fail VADR (Table 8).
+In our tests of the NC, NP, and DC datasets, VADR failed 53 sequences; 18 of these were also failed by VAPiD and/or VIGOR as mentioned above (exactly one sequence, FV536857.1, in the NC dataset failed all three methods), and 35 passed VAPiD and/or VIGOR (Table 8).
+In the set of 4171 sequences that passed VADR in the full DC dataset of 4580 sequences, VADR annotated between 4 and 9 stem_loop features and exactly 1 ncRNA feature in each sequence for a total of 35,676 stem_loop features and 4171 ncRNA features.
+In the set of 17,276 sequences that passed VADR in the full 20,973 sequence DP dataset, VADR annotated between 1 and 6 stem_loop features in 2335 sequences, and exactly one ncRNA feature in 623 of those 2327 sequences for a total of 5157 stem_loop features and 623 ncRNA features.
+The failures of some sequences from the test datasets that pass VAPiD and/or VIGOR can be attributed to this, as discussed in the Results section.
+All data generated or analyzed during this study are included in this published article, its supplementary material, or NCBI’s GenBank database.

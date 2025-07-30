@@ -1,0 +1,15 @@
+Bladder cancer (BC) is a significant global health concern and includes non-muscle-invasive BC (NMIBC), which poses challenges due to recurrence and progression.
+Immunotherapy, such as immune checkpoint inhibitors (ICIs) and Bacillus Calmette-Guérin (BCG), shows promise particularly in cases of BCG failure or BCG-unresponsive NMIBC, with ICIs emerging as a potential treatment option for these challenging cases.
+To the best of our knowledge, the present study is the first to systematically compare the efficacy and safety of BCG with ICIs in NMIBC.
+The present meta-analysis identifies response predictors and treatment outcomes, which can help in recognizing potential biomarkers such as tumor characteristics, hemoglobin levels and baseline performance status, associated with therapy response.
+These insights may guide future research in developing personalized treatment strategies for BCG non-responsive NMIBC cases.
+Following the Preferred Reporting Standards for Systematic Reviews and Meta-Analyses guidelines, a systematic literature search identified relevant studies published between January 2015 and April 2024.
+Randomized controlled trials and clinical trials involving patients with BCG-refractory NMIBC were included in the primary analysis.
+Data extraction and analysis were conducted using Review Manager version 5.4, employing a random effects model.
+The risk of bias assessment followed the Cochrane guidelines.
+The present study included 2,154 participants across 10 studies evaluating treatments for NMIBC.
+Primary comparisons focused on BCG vs. ICIs: Pembrolizumab significantly improved tumor control (OR, 4.67; 95% CI, 1.43-15.25; P=0.01), progression-free survival (PFS; OR, 4.85; CI, 1.58-14.85; P=0.006), and overall survival (OS; OR, 3.61; CI, 1.28-10.19; P=0.02).
+Atezolizumab similarly outperformed BCG in metastatic disease (OR, 0.19; CI, 0.06-0.59; P=0.004) and lymph node involvement (OR, 0.43; CI, 0.20-0.93; P=0.03).
+ICIs exhibited a favorable safety profile vs. BCG, with fewer incidents of anemia (OR, 2.87; P=0.001) and diarrhea (OR, 1.79; P=0.03), despite higher rates of asthenia (OR, 7.33; P<0.00001) and pyrexia (OR, 3.26; P<0.00001).
+Exploratory comparisons with chemotherapy revealed pembrolizumab's advantages in terms of PFS (OR, 1.36; P=0.02) and OS (OR, 1.31; P=0.005), while atezolizumab improved metastatic control (OR, 0.54; P=0.0008).
+Heterogeneity was low for BCG comparisons (I

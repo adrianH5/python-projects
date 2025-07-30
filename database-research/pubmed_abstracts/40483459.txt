@@ -1,0 +1,5 @@
+Cilia are versatile, microtubule-based organelles that facilitate cellular signaling, motility, and environmental sensing in eukaryotic cells.
+These dynamic structures act as hubs for key developmental signaling pathways, while their assembly and disassembly are intricately regulated along cell cycle transitions.
+Recent findings show that factors regulating ciliogenesis and cilia dynamics often integrate their roles across other cellular processes, including cell cycle regulation, cytoskeletal organization, and intracellular trafficking, ensuring multilevel crosstalk of mechanisms controlling organogenesis.
+Disruptions in these shared regulators lead to broad defects associated with both ciliopathies and cancer.
+This review explores the crosstalk of regulatory mechanisms governing cilia assembly, disassembly, and maintenance during ciliary signaling and the cell cycle, along with the broader implications for development, tissue homeostasis, and disease.

@@ -1,0 +1,7 @@
+Large-scale profiling assays capture a cell population's state by measuring thousands of biological properties per cell or sample.
+However, evaluating profile strength and similarity remains challenging due to the high dimensionality and non-linear, heterogeneous nature of measurements.
+Here, we develop a statistical framework using mean average precision (mAP) as a single, data-driven metric to address this challenge.
+We validate the mAP framework against established metrics through simulations and real-world data, revealing its ability to capture subtle and meaningful biological differences in cell state.
+Specifically, we use mAP to assess a sample's phenotypic activity relative to controls, as well as the phenotypic consistency of groups of perturbations (or samples).
+We evaluate the framework across diverse datasets and on different profile types (image, protein, mRNA), perturbations (CRISPR, gene overexpression, small molecules), and resolutions (single-cell, bulk).
+The mAP framework, together with our open-source software package copairs, is useful for evaluating high-dimensional profiling data in biological research and drug discovery.

@@ -1,0 +1,7 @@
+Biomaterial-assisted stem cell therapies hold immense promise for regenerative medicine, yet clinical translation remains challenging.
+This review focuses on recent advances and persistent limitations in applying induced pluripotent stem cells (iPSCs), endothelial colony-forming cells (ECFCs), multipotent mesenchymal stromal cells (MSCs), and embryonic stem cells (ESCs) within engineered microenvironments.
+We introduce a novel "bottom-up" approach to biomaterial design.
+This approach focuses first on understanding the fundamental biological properties and microenvironmental needs of stem cells, then engineering cell-instructive biomaterials to support them.
+Unlike conventional methods that adapt cells to pre-existing materials, this strategy prioritizes designing biomaterials from the molecular level upward to address key challenges, including differentiation variability, incomplete matching of iPSCs to somatic counterparts, functional maturity of derived cells, and survival of ECFCs/MSCs in therapeutic niches.
+By replicating lineage-specific mechanical, chemical, and spatial cues, these tailored biomaterials enhance differentiation fidelity, reprogramming efficiency, and functional integration.
+This paradigm shift from passive scaffolds to dynamic, cell-instructive platforms bridges critical gaps between laboratory success and clinical translation, offering a transformative roadmap for regenerative medicine and tissue engineering.

@@ -1,0 +1,11 @@
+Hepatocellular carcinoma (HCC) remains a leading cause of cancer-related mortality worldwide, particularly among individuals with chronic liver diseases.
+Early detection through surveillance significantly improves survival rates and current guidelines recommend semiannual ultrasound, with or without alpha-fetoprotein (AFP) testing, for high-risk populations.
+However, limitations in ultrasound sensitivity, physician adherence, and patient compliance affect the effectiveness of these surveillance efforts.
+This review explores both current and emerging strategies for HCC surveillance.
+Individualized surveillance approaches, utilizing risk stratification tools such as the aMAP and PAGE-B scores, enable tailored monitoring based on individual risk profiles, potentially reducing unnecessary screening in low-risk groups.
+Advanced imaging techniques, including contrast-enhanced ultrasound and abbreviated magnetic resonance imaging, demonstrate improved sensitivity over traditional ultrasound, particularly for early-stage HCC detection.
+Additionally, combining clinical characteristics with novel HCC biomarkers-such as the Gender, Age, AFP-L3, AFP, and Des-gamma-carboxy prothrombin (GALAD) score; HCC early detection screening score version 2 (HES V2.0) score; Gender, Age, AFP, and Des-gamma-carboxy prothrombin (GAAD) score; and AFP, Sex, Age, and Protein induced by vitamin K absence-II (ASAP) score-has shown higher sensitivity for early detection, with GALAD and HES V2.0 performing particularly well in phase 3 biomarker studies.
+Emerging molecular diagnostics, including liquid biopsy and genetic markers, also show promise in refining future HCC surveillance protocols.
+Despite these advancements, a limited number of at-risk patients currently undergo surveillance.
+Therefore, solutions must focus on enhancing awareness, adherence, and accessibility to surveillance tools.
+This review discusses various strategies for optimizing HCC surveillance, emphasizing a multifaceted approach that integrates risk-assessment tools, advanced imaging, and novel biomarkers to improve early detection and reduce mortality.

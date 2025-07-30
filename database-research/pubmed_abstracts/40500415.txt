@@ -1,0 +1,7 @@
+Primary sclerosing cholangitis (PSC) is an idiopathic, progressive and incurable liver disease.
+Here, we aimed for systematic analyses of adaptive immune responses in PSC.
+By profiling the T cell repertoires of 504 individuals with PSC and 904 healthy controls, we identified 1,008 clonotypes associated with PSC.
+A substantial fraction of these clonotypes was restricted to known PSC human leukocyte antigen susceptibility alleles and known to target Epstein-Barr virus (EBV) epitopes.
+We further utilized phage-immunoprecipitation sequencing to determine antibody epitope repertoires of 120 individuals with PSC and 202 healthy controls, which showed a higher burden of anti-EBV responses in PSC than controls.
+EBV-specific monoclonal antibodies isolated from B cells in PSC livers corroborated convergent B and T cell responses against EBV.
+By analyzing electronic health records of >116 million people, we identified an association between infectious mononucleosis and PSC (odds ratio, 12; 95% confidence interval, 6.3-22.9), suggesting a link between EBV and PSC.

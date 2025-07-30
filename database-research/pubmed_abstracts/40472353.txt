@@ -1,0 +1,4 @@
+Drug efflux mediated by transporter proteins is one of the major mechanisms conferring multidrug resistance (MDR) to antimicrobial agents in bacteria and to chemotherapeutics in cancer cells.
+Therefore, the development or identification of efflux modulators represents a promising strategy to overcome the resistant phenotype.
+Various chemical compounds have been tested in experimental studies as reversal agents either in combination with antimicrobial or anticancer drugs and have shown sensitizing activity in resistant bacteria or cancer cell lines.
+Owing to the common resistance mechanisms exhibited by bacteria and cancer cells, the identification of chemical agents with dual reversal activity offers a strategy to simultaneously combat antibacterial and cancer multidrug resistance.

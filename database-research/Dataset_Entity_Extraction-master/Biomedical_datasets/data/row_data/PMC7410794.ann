@@ -1,0 +1,7 @@
+T1	URL 342 372	http://www.kazusa.or.jp/codon/
+T2	AccessionNumber 427 439	NW_011888782
+T3	Repository 460 464	NCBI
+T4	URL 466 494	https://www.ncbi.nlm.nih.gov
+T5	Repository 714 721	GtRNAdb
+R1	hasAttr	Arg1:T3	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4

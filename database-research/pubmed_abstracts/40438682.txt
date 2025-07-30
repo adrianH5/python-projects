@@ -1,0 +1,7 @@
+Genome instability, a hallmark of cancer, leads to endless mutations that eventually cause drug resistance against almost all chemotherapy drugs.
+This poses a significant obstacle to the success of cancer treatments.
+Here, we report that aurintricarboxylic acid (ATCA) effectively suppresses the malignant phenotypes, including proliferation, migration, invasion, and clone formation, of cancer cells of multiple cancers, including cisplatin-resistant lung cancer cells, paclitaxel-resistant lung cancer cells, and doxorubicin-resistant breast cancer cells.
+Interestingly, ATCA does not cause acute cytotoxicity.
+Proteome analysis of the whole proteome and nascent chains showed that ATCA reduced translation initiation and thus reduced the abundance of the highly abundant respiratory chain complex.
+This lowered the potential of the mitochondrial membrane and thus restricted the energy production.
+This principle could be hardly circumvented by cancer cells and thus may serve as a promising and universal candidate for a second-line therapeutic agent to control cancer progression after drug resistance.

@@ -1,0 +1,10 @@
+Pancreatic ductal adenocarcinoma (PDAC) is a fatal disease with increasing incidences worldwide.
+The overall 5-year survival rate remains low, underscoring the urgent need for effective therapies.
+Despite the promising efficacy of immunotherapy for various solid tumors, its benefits for pancreatic cancer have been disappointing.
+This is largely because of the complex and unique mechanisms of immune evasion inherent in PDAC.
+Emerging evidence has highlighted the pivotal role of tumor-associated macrophages (TAMs) in facilitating the immune escape of PDAC.
+TAMs significantly contribute to forming an immunosuppressive microenvironment, which hinders the effectiveness of immunotherapeutic approaches.
+They achieve this through multiple pathways, including the secretion of cytokines and the promotion or inhibition of multiple immune cells.
+In this review, we summarized the main pathways through which TAMs form an immunosuppressive microenvironment in PDAC.
+We also examined the current status and recent progress of immunotherapy strategies that specifically target macrophages.
+By understanding these mechanisms and exploring targeted therapies, we aimed to shed light on potential avenues for improving the treatment outcomes of this devastating disease.

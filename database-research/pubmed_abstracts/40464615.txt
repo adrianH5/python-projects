@@ -1,0 +1,5 @@
+Robotic-assisted surgery (RAS) has revolutionized the treatment of endometrial cancer (EC), providing a less invasive alternative to traditional open methods.
+In early-stage EC, RAS has shown similar oncological results compared to conventional techniques while offering notable improvements in perioperative outcomes, such as shorter hospital stays, less post-operative pain, and faster recovery times.
+Additionally, the robotic platform has seen widespread adoption in gynecologic oncology due to its ability to address the limitations of conventional laparoscopy, especially reduced conversion rate from minimally invasive surgery (MIS) to open/laparotomy.
+This approach is particularly beneficial for high-risk groups, including obese and elderly patients, where it has proven to be both safe and effective, presenting a favorable risk-benefit profile.
+Furthermore, robotic-assisted sentinel lymph node (SLN) mapping, utilizing the FireFly

@@ -1,0 +1,5 @@
+The virus causes the coronavirus disease 2019 (COVID-19), with common symptoms such as fever, cough, shortness of breath and fatigue., Early data indicated that about 20% of patients develop severe COVID-19 requiring hospitalization, including 5% who are admitted to the intensive care unit.
+The mortality from COVID-19 is higher in people older than 65 years and in people with underlying comorbidities, such as chronic lung disease, serious heart conditions, high blood pressure, obesity and diabetes.–
+Therefore, systematic tracking of demographic and clinical patient information, as well as strain information is indispensable to effectively combat COVID-19.
+In total, we downloaded 15 755 genome sequences from the following databases: the Chinese National Microbiology Data Center on 1 February 2020; the Chinese National Genomics Data Center Genome Warehouse on 4 February 2020; GISAID on 1 May 2020 and GenBank on 1 May 2020.
+Methods  Between 1 February and 1 May 2020, we downloaded 10 022 SARS CoV-2 genomes from four databases.

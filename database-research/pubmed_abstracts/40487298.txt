@@ -1,0 +1,7 @@
+Cell death is essential for maintaining physiological homeostasis and regulating pathological processes.
+tRNA-derived small RNAs (tsRNAs), an emerging non-coding small RNA, play key roles in a various form of cell death.
+The relationship between tsRNAs and diseases has attracted growing attention.
+However, many challenges remain, particularly in understanding how tsRNAs regulate cell death and their newly discovered roles in these pathways.
+This paper reviews the generation and classification of tsRNAs and their roles in different diseases through cell death processes, such as ferroptosis, apoptosis, necroptosis, autophagy and pyroptosis.
+We discuss in detail the dysregulation of tsRNA expression in neurological disorders, metabolic diseases and cancer.
+We highlight the potential of tsRNAs as biomarkers and therapeutic targets in the context of cell death pathways.

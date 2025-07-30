@@ -1,0 +1,13 @@
+COVID-19 (coronavirus disease 2019) has become a global pandemic, fueled by the rapid spread of the coronavirus SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2), a positive-strand RNA virus (Wu et al., 2020a; Sanche et al., 2020).
+While large-scale comparisons are not currently feasible due to lack of datasets measuring viral transcript localization, this example provides some reassurance that RNA-GPS’ predicted viral residencies are reasonable.
+(B) To evaluate the effect of the potentially noisy mitochondrial examples in our APEX-seq training set on predicted SARS-CoV-2 residencies, we trained a “denoised” variant of RNA-GPS on a subsetted dataset that excludes these examples.
+For additional analysis of the mitochondrial dataset and predictions, see Figure S1.
+To ensure that our results have not been driven by potentially noisy data in this regime, we excluded nuclear-encoded, “noncanonical” mitochondrial matrix transcripts with relatively low APEX-seq enrichment signal (lowest 20% of log-fold-change enrichment scores) and retrained RNA-GPS on this adjusted dataset.
+This “denoised” model recapitulates the same SARS-CoV-2 residency toward the mitochondrial matrix and nucleolus (Figure 2B), suggesting that our predictions are robust to potential noise in the training data.
+We used “RNA subcellular residency” rather than “RNA localization” to describe RNA-GPS prediction results, as this is more reflective of the underlying APEX-seq training data and its inherent differences compared with viral transcripts.
+SARS-CoV-2 viral genomes were programmatically queried from the NCBI GenBank online database using the BioPython library’s Entrez module (Cock et al., 2009).
+The model was implemented in PyTorch and was trained to minimize a binary cross-entropy loss using the Adam optimizer (Kingma and Ba, 2014) with a batch size of 1, with early stopping based on validation set area under the receiver operating characteristic (AUROC).
+Localization within this dataset is expressed as an enrichment score compared to the rest of the cell.
+As is conventional, the validation set was used for hyperparameter tuning and model architecture tuning.
+We use a database of 102 RNA binding protein binding motifs (Ray et al., 2013).
+Genes were compared in an overrepresentation test against a reference list of all genes in the Homo sapiens database using Fisher’s Exact test, with false discovery rate correction.

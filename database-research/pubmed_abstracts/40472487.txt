@@ -1,0 +1,5 @@
+Hsp90-Cdc37-kinase cycle plays a critical role in the development of cancers.
+And the phosphorylation of Cdc37 (Serine13) by CK2 is a prerequisite.
+Celastrol (CEL) can interfere with Hsp90-Cdc37-kinase cycle by inhibiting Hsp90-Cdc37 protein-protein interaction (PPI) to exhibit antitumor effect.
+In this study, the pharmacophore of CK2 inhibitors was first introduced to CEL to obtain 18 derivatives to improve the antitumor activity, and the anti-proliferation of the derivatives was evaluated.
+Among them, compound 11 exhibited the most potent activity against MDA-MB-231 (IC

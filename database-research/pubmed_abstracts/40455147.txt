@@ -1,0 +1,11 @@
+The pathogenesis of uterine carcinosarcoma (UCS) remains unclear due to a few mature cell lines.
+Herein, we established a new cell line, ESCA, from a Chinese woman.
+Especially, three sublines, named ESCA-2, ESCA-3, ESCA-5, were isolated based on the rate of cells' different sedimentation.
+All ESCA cells have been subcultured for more than 60 generations.
+ESCA sublines display different cell morphology and growth characteristics, as well as have different sensitivity to chemotherapeutic drugs.
+ESCA was most sensitive to paclitaxel and carboplatin, while ESCA-2 was most sensitive to ifosfamide.
+Besides, ESCA showed severe chromosome karyotype abnormalities and abnormal number of chromosomes.
+Whole exome sequence showed ESCA and its sublines, as well as tissue block shared similar single nucleotide variants, such as TP53, TRRAP mutations, while relatively large differences in mutational signature abundance.
+When all ESCA cells were xenotransplanted subcutaneously into BALB/c-nu mice, they developed into tumors that resembled the original tumor with positive AE1/3 and Vimentin in immunohistochemical staining.
+Interestingly, the transplanted tumor from ESCA-5 proliferated fastest with a relatively low level of glucose uptake evaluated by micro-PET/CT scanning.
+Taken together, ESCA and its sublines may be valuable tools to explore the molecular mechanism of UCS.

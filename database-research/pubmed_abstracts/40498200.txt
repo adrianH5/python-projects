@@ -1,0 +1,6 @@
+Mass Spectrometry Imaging (MSI) for small molecules has emerged as the optimal technique to ascertain meaningful biology from spatial distributions of metabolites, lipids, and other classes of molecules.
+The success or failure of this approach rests on the sample preparation.
+Each tissue can have its unique challenges.
+In addition, the established histological processes for embedding frozen tissue, such as optimal cutting temperature medium, produce large polyethylene glycol clusters that suppress and interfere with the signal of biological molecules.
+To address these challenges, we provide a reproducible protocol for sectioning lung cancer tissue using a commercially available histological embedding matrix using tissues from genetically engineered mouse models of lung adenocarcinoma with a fluorescent reporter cassette to highlight additional microscopy methods used in parallel with mass spectrometry imaging to select regions of interest to compare tumor and adjacent lung tissue.
+These improvements to existing techniques produce high-quality sections of frozen tissue for histology and mass spectrometry imaging.

@@ -1,0 +1,18 @@
+Recent release of the high-resolution crystal structure for the main proteinase 3CLpro (Protein Data Bank, PDB ID: 6Y2G), describing an additional amide bond with the α-ketoamide inhibitor pyridone ring to enhance the half-life of the compound in plasma [16] is suggested to accelerate the targeted drug discovery efforts.
+The complete genomes of SARS-Cov-2 from all over the world have been deposited at The Global Initiative on Sharing Avian Influenza Data (GISAID) [19] database and more sequences continue to be deposited with the passage of time.
+This may be attained by freely accessing the GISAID database and processing the data to enhance our understanding of the fine biochemical and genetic differences that differentiate this virus from the previously known strains [20].
+PDB ID: 3TNT, SARS main protease was selected as reference to analyse the variants in SARS-CoV-2 3CLpro (PDB ID: 6Y2G).
+The dataset comprises of flavones and biflavanoids, anti-viral, anti-malarial and vitamins as SARS-CoV-2 3CLpro inhibitors [16].
+In total 17 repurposed drugs were collected from the Pubchem database [33].
+Two-dimensional (2D) structures were downloaded from the Pubchem database in.sdf format.
+Crystal structure of the SARS-CoV-2 3CLpro was retrieved from PDB (PDB ID: 6Y2G).
+Chain A of PDB ID: 6Y2G containing alpha-ketoamide (O6K) inhibitor was used for identification of substrate binding site.
+A total of 9761 SARS-CoV-2 genomes were retrieved from The GISAID database (https://www.gisaid.org) that contain 3 sequences from bat (Betacoronavirus) and 9 sequences from Malayan Pangolin (Manis javanica) (Additional file 1: Table S1).
+We have divided our dataset into 6 different geographic areas: Europe (20.31%), North America (21.13%), Asia (35.37%), Oceania (20.86%), South America (16.63%) and Africa (10.35%).
+SARS-CoV-2 patient genome sequences deposited in GISAID database from more than 60 different countries (a) radial and (b) unrooted phylogeny created by Nextstrain program [66] (c) Pie chart representation of number of SARS-CoV-2 patient genomes deposited in GISAID till 15th April 2020 from six different regions; Asia (orange, 35.37%), Oceania (purple, 20.86%), North America (brown, 21.13%), Europe (blue, 20.31%), Africa (red, 10.35%) and South America (black, 16.63%).
+Our study highlights the presence of additional “conserved mutations” in the South American and African communities, considering only those occurring ≥ 5 times in our database.
+SARS and SARS-CoV-2 complete genomes were collected from NCBI, GenBank database (NC_004718 and NC_045512).
+Re-docking of O6K inhibitor occupied the similar docking pose in the SARS-CoV-2 3CLpro catalytic dyad active site as previously reported in the crystal structure (PDB ID: 6Y2G) (Fig. 5c, d).
+Furthermore, we report that in isolates of human Wuhan SARS-CoV-2 there is an 85.98% similarity in identity to Pangolin-SARS-CoV, which suggests that Pangolin may be associated with the evolution of subsequent outbreaks of COVID-19.
+SARS-CoV-2 host genomes were collected from The Global Initiative on Sharing All Influenza Data (GISAID) database containing 9 genomes from pangolin-CoV origin and 3 genomes from bat-CoV origin, Wuhan SARS-CoV2 reference genome was collected from GeneBank database.
+GISAID database (https://www.gisaid.org/), SARS-CoV-2 isolate Wuhan-Hu-1, complete genome (https://www.ncbi.nlm.nih.gov/nuccore/1798174254)

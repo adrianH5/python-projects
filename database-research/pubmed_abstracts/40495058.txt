@@ -1,0 +1,13 @@
+Cervical cancer (CC) is one of the most prevalent cancers among women globally.
+The primary cause of CC is persistent infection with high-risk types of human papillomavirus (HPV), particularly HPV16, whose E7 oncoprotein plays a pivotal role in carcinogenesis and the maintenance of stem cell-like characteristics.
+RTKN2 participates in the progression of various cancers.
+However, the precise functions of RTKN2 in regulating CC remain unclear.
+The effects of HPV16 E7 in CC cells were evaluated using MTT, western blotting, Transwell, and sphere formation assays.
+Transcriptome sequencing and bioinformatics analyses were used to identify the targets of HPV16 E7.
+The expression levels of the target (RTKN2) in clinical samples were assessed using immunohistochemistry (IHC).
+The function and mechanism of RTKN2 in CC cells were investigated by the knockdown and overexpression approaches, as well as dual-luciferase reporter assay.
+HPV16 E7 exhibited a positive correlation on the malignant phenotype and stemness of CC cells.
+RTKN2 was identified as a target of HPV16 E7, and a reduction in its expression levels was caused by knockdown of HPV16 E7.
+The high expression of RTKN2 was associated with a poor prognosis in CC.
+HPV16 E7 may regulate RTKN2 expression by modulating the binding activity of E2F1 to the RTKN2 promoter.
+Upregulated RTKN2 activates the NF-κB signaling pathway, enhances the stemness of CC cells, and ultimately promotes malignant progression.

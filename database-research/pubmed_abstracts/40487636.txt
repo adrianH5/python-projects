@@ -1,0 +1,3 @@
+Cuproptosis, a recently identified form of regulated cell death triggered by excess intracellular copper, has emerged as a promising cytotoxic strategy for cancer therapy.
+However, the therapeutic efficacy of copper ionophores such as elesclomol (ES) is often hindered by cellular copper homeostasis mechanisms that limit copper influx and cuproptosis induction.
+To address this challenge, we developed a nanoagent utilizing outer membrane vesicle (OMV) derived from

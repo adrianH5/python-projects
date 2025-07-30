@@ -1,0 +1,163 @@
+Clinical presentations of COVID-19 are highly variable, and while the majority of patients experiences mild to moderate symptoms, 10%–20% of patients develop pneumonia and severe disease (Huang et al., 2020a; Wang et al., 2020; Zhou et al., 2020a).
+This kinetic may suggest a role for secondary immune responses in the development of severe COVID-19 (Ong et al., 2020).
+However, the exact mechanisms that govern the pathophysiology of the different disease courses of COVID-19 remain ill-defined.
+Single-cell studies of bronchoalveolar lavage samples have suggested a complex dysregulation of the pulmonary immune response in severe COVID-19 (Chua et al., 2020; Liao et al., 2020).
+Overall, systemic inflammation is linked to an unfavorable clinical course of disease and the development of severe COVID-19 (Giamarellos-Bourboulis et al., 2020; Lucas et al., 2020; Ong et al., 2020).
+Patients with severe COVID-19 have high systemic levels of inflammatory cytokines, particularly interleukin (IL)-6 and IL-1β
+A number of studies and regular clinical observations indicate an increase of neutrophils and a decrease of non-classical (CD14loCD16hi) monocytes in severe COVID-19 (Hadjadj et al., 2020; Merad and Martin, 2020; Sanchez-Cerrillo et al., 2020).
+Profound immune dysregulation is commonly observed in severe infections and sepsis, characterized by a progression from hyperinflammatory states to immunosuppression (Remy et al., 2020; Ritchie and Singanayagam, 2020), and similar mechanisms have been proposed for severe COVID-19 (Giamarellos-Bourboulis et al., 2020).
+Yet, comprehensive insights into the immunopathology of severe COVID-19 are still missing.
+Mitigation of immunodysregulation is therefore viewed as a major therapeutic avenue for the treatment and prevention of severe COVID-19 (Dimopoulos et al., 2020; Jamilloux et al.
+In support of this view, a recent multicenter study reported that dexamethasone treatment significantly reduced mortality in hospitalized patients with COVID-19, particularly in patients on mechanical ventilation (Horby et al., 2020).
+Previous studies of peripheral blood mononuclear cell (PBMC) transcriptomes in a small number of patients with COVID-19 revealed changes in several cellular compartments, including monocytes, natural killer (NK) cells, dendritic cells (DCs), and T cells (Lee et al., 2020; Wilk et al., 2020).
+The heterogeneity of clinical manifestations and the complexity of immune responses to COVID-19 highlight the need for detailed analyses using high-resolution techniques and well-characterized clinical cohorts.
+We hypothesized that distinct responses, particularly within the innate immune system, underlie the different clinical trajectories of COVID-19 patients (Chua et al., 2020; Kuri-Cervantes et al., 2020; Mathew et al., 2020; McKechnie and Blish, 2020).
+Here, we used single-cell transcriptomics and single-cell proteomics to analyze immune responses in blood samples in two independent cohorts of COVID-19 patients.
+In order to probe the divergent immune responses in mild versus severe COVID-19, we analyzed blood samples collected from independent patient cohorts at two university medical centers in Germany.
+We analyzed a total of 24 million cells by their protein markers and >328,000 cells by scRNA-seq in 242 samples from 53 COVID-19 patients and 56 controls, including 8 patients with FLI (Figures 1
+A, 1B, and S1
+A; Table S1).
+(A) Pipeline for control and COVID-19 blood samples of the two cohorts (see also Table S1).
+Cells are colored according to donor origin (blue, age-matched controls; gray, FLI; yellow, mild COVID-19; red, severe COVID-19) and major lineage subtypes.
+(D) Box and whisker (10–90 percentile) plots of major cell lineage composition in whole blood from FLI (n = 8), COVID-19 patients with mild (n = 8) or severe disease (n = 9), age-matched controls measured by mass cytometry (ctrl CyTOF, n = 9) or by flow cytometry (ctrl flow, n = 19) (Kverneland et al., 2016).
+We first characterized alterations of the major leukocyte lineages by mass cytometry on whole blood samples from 20 COVID-19 patients collected between day 4 and day 29 after symptom onset and compared them to 10 age- and gender-matched controls and 8 FLI patients.
+Uniform manifold approximation and projection (UMAP) analysis revealed distinct clustering of samples from COVID-19 patients, FLI, and healthy controls, with marked changes of the monocyte and granulocyte compartment (Figure 1C).
+Leukocyte lineages were compared in the earliest available samples in COVID-19 patients (days 4–13), FLI, and controls (Figure 1D; Table S1).
+Cell counts of the published cohort could therefore be used as a reference to report absolute cell counts for leukocyte lineages in COVID-19 samples.
+In line with recent reports (Barnes et al., 2020; Xia et al., 2020), we observed elevated leukocytes and increased proportions of neutrophils in patients with severe COVID-19 (Figure 1D), whereas only proportional increases in neutrophils were evident in FLI and mild COVID-19 patients (Figure 1D).
+Total lymphocytes and T cells were strongly reduced in all COVID-19 and FLI patients, whereas non-classical monocytes were specifically depleted in COVID-19 (Figure 1D).
+Increased neutrophils in severe COVID-19 and loss of non-classical monocytes in both mild and severe disease were validated in cohort 2 by MCFC (Figure S1C; Tables S1 and S3).
+Given the dramatic changes in various immune cell populations (Figures 1C and 1D), we next assessed their composition and activation state by droplet-based scRNA-seq in 27 samples from 18 COVID-19 patients (8 mild and 10 severe, cohort 1, Table S1) collected between day 3 and day 20 after symptom onset.
+A total of 48,266 single-cell transcriptomes of PBMCs were analyzed together with 50,783 PBMCs from publicly available control datasets (21 control donors, Table S1).
+A distinct subset of CD14
+ monocytes (cluster 1) (Figure 2A) marked by high expression of HLA-DRA, HLA-DRB1, and co-stimulatory molecule CD83 (Figure S2D), the engagement of which has been linked to prolonged expansion of antigen-specific T cells (Hirano et al., 2006), was selectively detected in mild COVID-19 (Figure 2C).
+However, upon closer analysis, this cluster was found to originate from a single donor with mild COVID-19 (Figures 2A–2C and S2D).
+In patients with severe COVID-19, monocytes showed low expression of HLA-DR and high expression of alarmins S100A8/9/12 (cluster 3, Figures 2A–2C and S2D).
+The most prominent change in severe COVID-19 was the appearance of two distinct cell populations (cluster 5+6), absent in PBMCs of patients with mild COVID-19 and control donors (Figure 2A).
+(D) UMAP visualization of scRNA-seq profiles (BD Rhapsody, cohort 2) of 139,848 PBMCs (50 samples of 8 mild, 9 severe COVID-19; 14 samples of 13 controls; different time points), coloring as in (A) (see also Figure S2A and Table S4).
+In the second cohort, PBMCs from 17 COVID-19 patients (8 mild, 9 severe, Table S1), sampled between 2 and 25 days after symptom onset, and 13 controls, were collected for scRNA-seq on a microwell-based platform (BD Rhapsody).
+The monocyte compartment is particularly affected by COVID-19, indicated by a loss of CD14loCD16hi non-classical monocytes (Figures 1C and 1D).
+We further explored the phenotypic alterations of the monocyte compartment using mass cytometry (Table S2, panel 1) on whole blood samples from COVID-19 patients with a mild or severe disease (n = 8+9), patients with FLI (n = 8), and age- and gender-matched controls (n = 9, all collected within cohort 1, Table S1).
+Cells are colored according to main cell clusters (1 to 12, colors as in A) as defined in the table, donor origin (blue, controls; gray, FLI; yellow, mild COVID-19; red, severe COVID-19) and expression intensity of HLA-DR, CD11c, CD226, and CD69.
+Monocytes from COVID-19 patients separated from those of FLI patients and controls (Figure 3B), mainly based on elevated CD226 and CD69 expression in COVID-19.
+Monocytes in mild and severe COVID-19 clustered separately, and monocytes from mild COVID-19 clustered closer to monocytes in FLI.
+FLI patients and mild COVID-19 contained higher proportions of HLA-DRhiCD11chi cells (clusters 3 and 11), and total HLA-DRhiCD11chi monocytes were higher compared to controls and severe COVID-19, reflecting blunted monocyte activation in severe COVID-19, reminiscent of observations in sepsis (Janols et al., 2014) (Figures 3A, 3C, and 3D).
+Increased levels of activated HLA-DRhiCD11chi monocytes in mild COVID-19 patients were confirmed by MCFC in cohort 2 (Figure 3E).
+In severe COVID-19, we detected increased expression of CD226 and CD69 (cluster 10) and/or decreased expression of HLA-DR, and total CD226+CD69+ monocytes were elevated compared to controls.
+Thus, an alternative activation pattern of classical monocytes appeared to be COVID-19-specific and was associated with severe disease.
+Together, this activation pattern may contribute to the reduction of circulating monocytes in COVID-19.
+Next, we dissected COVID-19-associated phenotypic alterations of monocytes by scRNA-seq.
+Marker genes of the monocyte clusters derived from Figure 2A showed that mild COVID-19 associated clusters 1 and 2 were characterized by an ISG-driven transcriptional program (Figure S3
+A), and gene ontology enrichment analysis (GOEA) assigned these clusters to “type I interferon signaling pathway” (Figure S3B).
+S100A
+) was strongly associated with severe COVID-19 (Figures 2B, S2D, and S3A).
+For further in-depth analysis, we subclustered the monocyte compartment of the PBMC dataset of cohort 2 (Figures 2D and S3C; Table S1) resulting in 7 subclusters (Figure 4
+A).
+We identified two major clusters (0 and 2) and a smaller cluster (6) with low HLA-DR expression, which were associated with severe COVID-19 (Figures 4B, S3D, and S3E).
+Moreover, blood monocytes isolated from COVID-19 patients showed a blunted cytokine response to LPS stimulation, particularly monocytes from patients with severe COVID-19 (Figure 4D).
+Accordingly, HLA-DR
+ monocyte clusters (0, 2, and 6) were detected almost exclusively in severe COVID-19 (Figure 4E).
+CD83
+ monocytes (cluster 1) were found in all cases of mild COVID-19, even at late time points (Figures 4E and 4F).
+Expression levels were highest at early time points and consistently decreased over time, clearly indicating that the IFN response in COVID-19 is inversely linked to disease severity and time (Figures S3F and S3G).
+In contrast, decreased expression of HLA-DRA and HLA-DRB1 in severe COVID-19 is evident early on and sustained over time.
+Transcriptional Differences of Monocytes from Mild and Severe COVID-19, Related to Figure 4
+A, Dot plot of the top 10 marker genes sorted by average log fold change of the clusters within the monocyte space of cohort 1 (related to Figure 2, Table S4).
+(A) UMAP visualization of monocytes (43,772 cells; from Figure 2C, cohort 2); 46 samples from controls (n = 6) and COVID-19 (mild, n = 7; severe, n = 8).
+Three main clusters defining monocytes in COVID-19 (HLA-DRCD163, HLA-DRS100A, and HLA-DRCD83 monocytes) indicated by dashed areas.
+Transcription factor prediction indicated a STAT signaling-driven gene expression program in monocytes in COVID-19 (Figure 4H), with additional regulation by CEBPD and CEBPE, which have been implicated in gene expression programs of sepsis-associated monocytes (Reyes et al., 2020).
+PBMCs derived from blood samples of patients with severe COVID-19 contained two distinct clusters of LDNs (Figures 2A, clusters 5 and 6, and 2D, clusters 5 and 6).
+(A) UMAP representation and clustering of low-density neutrophils (LDNs, 3,154 cells) in PBMCs (cohort 1, clusters 5/6, Figure 2A) from 21 samples (6 mild, 10 severe COVID-19).
+NETs have recently been implicated in the pathogenesis of COVID-19 (Barnes et al., 2020; Zuo et al., 2020).
+Finally, known inhibitors of T cell activation, namely CD274 (PD-L1) and Arginase 1 (ARG1) (Bronte et al., 2003; Li et al., 2018) were highly expressed in neutrophils in COVID-19 patients (Figure 5E).
+ARG1
+ cells were mainly immature neutrophils (clusters 3–6) and did not overlap with CD274 (PD-L1) expressing cells, indicating different populations of dysfunctional and potentially suppressive neutrophils in severe COVID-19.
+Alterations of the neutrophil compartment were further interrogated by mass cytometry of whole blood samples of COVID-19 patients (n = 8 mild + 9 severe, cohort 1), FLI patients (n = 8), and age- and gender-matched controls (n = 9) (Table S1), using a panel designed to detect myeloid cell maturation and activation states as well as markers of immunosuppression or dysfunction (Table S2).
+Donor origin (blue, controls; gray, FLI; yellow, mild COVID-19; red, severe COVID-19).
+Neutrophils from COVID-19 patients clearly separated from those of controls and also FLI patients in UMAP analysis (Figure 6B), and neutrophils in patients with severe COVID-19 were distinct from those of patients with mild disease (Figure 6B).
+Neutrophils from COVID-19, particularly from patients with severe disease, primarily occupied immature pre- and pro-neutrophil-like clusters.
+In contrast, severe COVID-19 is associated with the appearance of immature pre- and pro-neutrophils (Figures 6D and 6E).
+Interestingly, immature cell clusters in severe COVID-19 showed signs of recent activation like upregulation of CD64 (Mortaz et al., 2018), RANK, and RANKL (Riegel et al., 2012), as well as reduced CD62L expression (Mortaz et al., 2018).
+In addition to loss of CD62L, immature and mature neutrophils from severe COVID-19 showed elevated PD-L1 expression compared to control samples (Figure 6E).
+In both cohorts, we observed a tendency toward (cohort 1) or significantly higher (cohort 2) proportions of granulocytes in severe versus mild COVID-19 patients, both at early and late time points (Figure S5
+A).
+We observed a persistent release of immature neutrophils (e.g., cluster 6) in severe COVID-19 (Figure S5B) showing high expression of CD64 and PD-L1, but downregulation of CD62L as a sign of activation, dysfunction, and immunosuppression (Figure S5C).
+In addition, severe COVID-19 patients show further increased frequencies of mature, partially activated neutrophils (cluster 3) at later time periods (Figure S5B).
+Thus, the neutrophil compartment of severe COVID-19 patients is characterized by a combination of persistent signs of inflammation and immunosuppression, which is reminiscent of long-term post-traumatic complications (Hesselink et al., 2019).
+Non-classical monocytes started to recover in COVID-19 patients during the later stages of the disease (Figure S5A).
+HLA-DRhiCD11chi monocyte cell clusters also declined at later time points in mild COVID-19 (Figures S5D–S5F), which correlates well with the longitudinal changes of IFI6 and ISG15 as well as HLA-DRA and HLA-DRB1 expression profiles (Figures 4G and S3F).
+In contrast, overall proportions of HLA-DRhiCD11chi monocytes in severe COVID-19 remained low throughout the course of the disease.
+Proportions of CD10hi macrophage-like cluster 10 and CD226+CD69+ monocytes were generally higher at later stages in severe COVID-19, which resembled the kinetics of HLA-DR
+This indicates a prolonged alternative activation of monocytes in severe COVID-19 (Figure S5E).
+Whole blood CyTOF analysis (cohort 1) clearly indicated very distinct phenotypic alterations of the neutrophil compartment in mild and severe forms of COVID-19.
+Overview of scRNA-Seq Dataset from Cohort 2 and Additional Characterization of Neutrophils, Related to Figure 7
+(A) UMAP of 35 fresh blood samples from cohort 2 (122,954 cells, PBMCs, and whole blood): controls (n = 17), mild COVID-19 (early, n = 3; late, n = 3) and severe COVID-19 (early, n = 3, late = 9).
+(B) UMAP visualization of neutrophils (58,383 cells; 34 whole blood samples, cohort 2): controls (n = 16), mild COVID-19 (early, n = 3; late, n = 3), and severe COVID-19 (early, n = 3; late, n = 9).
+Seven of the nine neutrophil clusters identified in whole blood in cohort 2 could also be mapped to the fresh PBMC transcriptomes in cohort 1 (Figure S6F), indicating that scRNA-seq of fresh PBMC in COVID-19 patients reveals relevant parts of the neutrophil space.
+Heatmap and UMAP visualization of the cell type distribution identified pro- and pre-neutrophils mainly at late time points in severe COVID-19 (Figures 7F and 7G).
+Furthermore, mature neutrophils with a high IFN-signature (cluster 1) were associated with severe COVID-19 (Figures 7E and S6G).
+This cluster was also enriched for markers identified by CyTOF as differentially expressed in patients with severe COVID-19 (Figure 6), such as elevated expression of CD274 (PD-L1) and FCGR1A (CD64) (Figure 7H).
+Cluster 2 was also enriched for cells from COVID-19 patients, mainly from severe but also mild cases (Figures 7F and 7G).
+Gene signatures from granulocytic MDSC (Bayik et al., 2020) and CD274(PD-L1)+ neutrophils after LPS exposure (de Kleijn et al., 2013), both shown to be immunosuppressive, were enriched in clusters 1, 2, and 6, which mainly harbor cells from severe COVID-19.
+This indicates a suppressive functionality of these cells in severe COVID-19 (Figure 7I).
+Predictions of transcription factor (TF)-based regulation of the cluster-specific gene signatures separated mature neutrophils from patients with severe COVID-19 (cluster 1) and control patients (cluster 0) (Figure 7J).
+Particularly CD274 (PD-1L) was enriched in cluster 1 compared to cluster 2, supporting the potential of neutrophils to progress toward a suppressive phenotype in severe COVID-19 (Figure S6J).
+Finally, we studied whether the persistent emergence of immature, potentially dysfunctional neutrophils in severe COVID-19 patients can be captured under routine diagnostic conditions.
+Therefore, samples of 32 COVID-19 patients (Table S1, cohort 1) were characterized by routine hematology analyses using a clinical flow cytometry system (Sysmex analyzer).
+Indeed, the assumption of rescue myelopoiesis in severe COVID-19 was supported by significantly higher counts in the population of immature granulocytes (IG, representing promyelocytes, myelocytes, and metamyelocytes) in this patient group (Figure 7K).
+As compared to patients with mild course, severely ill patients displayed increases in width of dispersion of activity and cell volume as surrogates for increased cellular heterogeneity, immaturity, and dysregulation in severe COVID-19 (Figure 7K), resembling previously described alterations in sepsis patients (Stiel et al., 2016).
+Furthermore, neutrophils of severe COVID-19 patients were partially dysfunctional, because their oxidative burst upon stimulation with standardized stimuli (E. coli or PMA) was strongly impaired in comparison to control and mild COVID-19 neutrophils, whereas phagocytic activity was preserved (Figure 7L; Table S1).
+SARS-CoV-2 infection generally causes mild disease in the majority of individuals, however, ∼10%–20% of COVID-19 patients progress to severe disease with pneumonia and respiratory failure.
+Dysregulated immune responses have been described in patients with severe COVID-19 (Chua et al., 2020; Giamarellos-Bourboulis et al., 2020; Lucas et al., 2020; Merad and Martin, 2020; Messner et al., 2020; Wei et al., 2020; Zhou et al., 2020b).
+Hence, detailed knowledge of the cellular and molecular processes that drive progression from mild disease to potentially fatal courses of COVID-19 is urgently needed to identify predictive biomarkers and therapeutic targets.
+Here, we employed four complementary technologies at single-cell resolution to assess alterations in the systemic immune response in mild or severe courses of COVID-19.
+Combining single-cell transcriptomics with single-cell proteomics, using different technological platforms in two independent patient cohorts, provided a detailed view of the systemic immune responses in COVID-19 and allowed for cross-validation and in-depth interrogation of key findings.
+This multipronged approach revealed drastic changes within the myeloid cell compartment during COVID-19, particularly in patients with a severe course of disease.
+CD83
+ monocytes with a strong antiviral IFN-signature was a hallmark of mild COVID-19, which receded during the natural course of disease.
+In contrast, HLA-DRlo dysfunctional monocytes along with clear evidence of emergency myelopoiesis with release of immature neutrophils including pro- and pre-neutrophils into the circulation marked severe COVID-19.
+Furthermore, we identified neutrophils in severe COVID-19 with transcriptional programs reminiscent of dysfunction and immunosuppression not observed in controls or patients with mild COVID-19.
+Previous immunophenotyping studies have reported an increase of inflammatory monocytes with a strong IFN-response in COVID-19 (Liao et al., 2020; Merad and Martin, 2020; Zhou et al., 2020b).
+Mononuclear phagocytes and neutrophils appear to dominate inflammatory infiltrates in the lungs, and resident alveolar macrophages are replaced by inflammatory monocyte-derived macrophages in patients with severe COVID-19 (Chua et al., 2020; Liao et al., 2020).
+Here, we report substantial time- and disease severity-dependent alterations of the monocyte compartment in COVID-19.
+Marked depletion of CD14loCD16hi non-classical monocytes observed in all COVID-19 patients, but not in patients with SARS-CoV-2 negative FLI (Figure 1D), is in line with previous reports on COVID-19, and other severe viral infections (Lüdtke et al., 2016; Naranjo-Gómez et al., 2019).
+CD83
+) monocytes in mild COVID-19.
+This was similar in patients presenting with common cold or FLI, but absent in severe COVID-19 (Figures 3 and 4).
+In contrast, in severe COVID-19, monocytes showed low expression of HLA-DR, and high levels of MAFB, PLBD1, and CD163, all of which are associated with anti-inflammatory macrophage functions (Bronte et al., 2016; Cuevas et al., 2017; Fischer-Riepe et al., 2020; MacParland et al., 2018).
+In fact, we observed that inflammatory cytokine production, including IL-1β release, was impaired in monocytes from patients with severe COVID-19 (Figure 4).
+LDN in PBMC fractions in severe COVID-19 contained immature neutrophils, including pro- and pre-neutrophils, which was not observed in mild cases (Figure 5).
+Emergence of pro-neutrophils in severe COVID-19 was also detected by single-cell proteomics on whole blood samples.
+Neutrophils from patients with severe COVID-19 showed an impaired oxidative burst response, while their phagocytic capacity was preserved (Figure 7).
+Single-cell transcriptomics of whole blood samples revealed mature activated neutrophils in both mild and severe COVID-19 (Figure 7B, cluster 2), however, expression of CD274 (PD-L1) was only found in severe COVID-19 (cluster 1), and it increased in later stages of the disease.
+Expression of PD-L1 on neutrophils has been associated with T cell suppression (Bowers et al., 2014; Castell et al., 2019; de Kleijn et al., 2013; Langereis et al., 2017), suggesting that neutrophils in severe COVID-19 might exert suppressive functions.
+Furthermore, the expression of CD177 on mature activated neutrophils and the identification of genes associated with anti-inflammatory functions (CD274 and ZC3H12A) suggest a model in which neutrophils emerging prematurely from the bone marrow are programmed toward an anti-inflammatory or even suppressive phenotype in severe COVID-19.
+The transcriptional programs induced in immature neutrophils, including pro- and pre-neutrophils, as well as in COVID-19-associated mature neutrophil clusters, align with other observations in severe COVID-19 patients, including increased NET formation (Barnes et al., 2020; Zuo et al., 2020), coagulation (Klok et al., 2020; Pfeiler et al., 2014), and immunothrombosis (Stiel et al., 2018; Xu et al., 2020).
+In contrast, these transcriptional programs were not observed in patients with mild COVID-19 or in SARS-CoV-2 negative controls, even though the latter exhibited a range of comorbidities (e.g., COPD, type II diabetes).
+The pathophysiological consequences of the dysfunctional phenotype of myeloid cells in severe COVID-19 remain unclear at this stage.
+While our dual cohort study design provided robust and reproducible results concerning the alterations within the myeloid compartment in COVID-19, it is too early to speculate on the underlying mechanisms driving this response, such as genetics, lifestyle, comorbidities, environmental factors, or initial viral load (Ellinghaus et al., 2020).
+Indeed, in future studies it will be interesting to dissect whether the myeloid subsets in COVID-19 are anti-inflammatory or even capable of suppressing other immune cells, and which pathways might be mainly involved.
+Samples from patients with COVID-19 were collected within two cohort studies (Kurth et al., 2020) designed to allow deep molecular and immunological transcriptomic and proteomic profiling of COVID-19 in blood.
+This study was designed to describe immunological deviations in COVID-19 patients without intention of the development of new treatments or new diagnostics, and therefore sample size estimation was not included in the original study design.
+This study includes a subset of patients enrolled between March 2 and July 02 2020 in the Pa-COVID-19 study, a prospective observational cohort study assessing pathophysiology and clinical characteristics of patients with COVID-19 at Charité Universitätsmedizin Berlin (Kurth et al., 2020).
+The patient population included in all analyses of cohort 1 consists of 10 control donors (samples collected in 2019 before SARS-CoV2 outbreak), 8 patients presenting with flu-like illness but tested SARS-CoV-2-negative, 25 mild and 29 severe COVID-19 patients (Figures 1A and 1B; Table S1).
+All COVID-19 patients were tested positive for SARS-CoV-2 RNA in nasopharyngeal swabs and allocated to mild (WHO 2-4) or severe (5-7) disease according to the WHO clinical ordinal scale.
+We also included publicly available single-cell transcriptome data derived from 22 control samples into the analysis; 3 samples were derived from 10x Genomics, San Francisco, CA 94111, USA (5k_pbmc_v3: https://support.10xgenomics.com/single-cell-gene-expression/datasets/3.0.2/5k_pbmc_v3, pbmc_10k_v3: https://support.10xgenomics.com/single-cell-gene-expression/datasets/3.0.0/pbmc_10k_v3, pbmc_1k_v3: https://support.10xgenomics.com/single-cell-gene-expression/datasets/3.0.0/pbmc_1k_v3), 19 samples derived from Reyes et al. (2020).
+After providing written informed consent, 19 control donors and 22 COVID-19 patients (Figures 1A and 1B; Table S1) were included in the study.
+COVID-19 patients who tested positive for SARS-CoV-2 RNA in nasopharyngeal swabs were recruited at the Medical Clinic I of the University Hospital Bonn between March 30 and June 17, 2020 and allocated to mild (WHO 2-4) or severe (5-7) disease according to the WHO clinical ordinal scale.
+These individuals were either tested negative for SARS-CoV-2, serologically negative or had no indication for acute COVID-19 disease based on clinical or laboratory parameters.
+1ml of fresh blood from control or COVID-19 donors was treated with 10ml of RBC lysis buffer (Biolegend).
+Whitney test was used to report differences in IG count, whereas mixed-effect-analysis and Sidak’s multiple comparison test was applied to report statistical differences of NE-WX, NE-WY and NE-WZ between mild and severe COVID-19 patients.
+Subsequently, the scRNA-seq data from cohort 1 was integrated with publicly available 10x scRNaseq data of healthy controls using the ‘harmony’ algorithm (Korsunsky et al., 2019) based on the first 20 principal components to correct for technical differences in the gene expression counts of the different data sources (Control samples from Reyes et al. (2020), 10x v3.1 PBMC benchmarking data from healthy controls and 10x v3.1 scRNA-seq data from cohort 1).
+Cluster marker genes were identified by applying the DE tests for upregulated genes between cells in one cluster to all other clusters in the dataset.
+To compare shifts in the monocyte and neutrophil populations in the PBMC compartment of COVID-19 patients, the percentages of the cellular subsets - as identified by clustering and cluster annotation explained above for the two independent scRNA-seq datasets (cohort 1 and cohort 2) - of the total number of PBMC in each dataset were quantified per sample and visualized together in boxplots.
+The monocyte space was investigated by subsetting the PBMC dataset to those clusters identified as monocytes (cluster 0-4), removing cells with strong multi-lineage marker expressions, and repeating the variable gene selection (top 2,000 variable genes), regression for the number of UMIs and scaling as described above.
+Subsequently, the dataset was subsetted for whole blood samples after erythrocyte lysis and clusters identified as neutrophils and immature neutrophils, and re-scaled and regressed.
+Gene set enrichment was performed on gene sets from the Kyoto Encyclopedia of Genes and Genomes (KEGG) database (Kanehisa, 2019), Hallmark gene sets (Liberzon et al., 2015) and Gene Ontology (GO) (Ashburner et al., 2000; Carbon et al., 2019) using the R package/ClusterProfiler v.3.10.1
+Coronavirus disease 2019 (COVID-19) is a mild to moderate respiratory tract infection, however, a subset of patients progress to severe disease and respiratory failure.
+The mechanism of protective immunity in mild forms and the pathogenesis of severe COVID-19 associated with increased neutrophil counts and dysregulated immune responses remain unclear.
+In a dual-center, two-cohort study, we combined single-cell RNA-sequencing and single-cell proteomics of whole-blood and peripheral-blood mononuclear cells to determine changes in immune cell composition and activation in mild versus severe COVID-19 (242 samples from 109 individuals) over time.
+HLA-DR hi CD11c hi inflammatory monocytes with an interferon-stimulated gene signature were elevated in mild COVID-19.
+Severe COVID-19 was marked by occurrence of neutrophil precursors, as evidence of emergency myelopoiesis, dysfunctional mature neutrophils, and HLA-DR lo monocytes.
+Our study provides detailed insights into the systemic immune response to SARS-CoV-2 infection and reveals profound alterations in the myeloid cell compartment associated with severe COVID-19.
+Graphical Abstract      Analysis of patients with mild and severe COVID-19 reveals the presence of dysfunctional neutrophils in the latter that is linked to emergency myelopoiesis.

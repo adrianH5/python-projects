@@ -1,0 +1,6 @@
+Aberrant microRNA expression is common in cancer, yet cell-type-specific microRNA activity in the tumor microenvironment (TME) remains poorly understood.
+Here, we show that germline deletion of miR-21 significantly attenuated the progression of MYC-driven prostate cancer (PCa), reducing prostate weight, tumor burden, and proliferation index in Hi-Myc mice.
+In situ hybridization revealed elevated miR-21 expression in multiple cell types during disease progression.
+Inflammatory and premalignant lesions in mouse and human prostate showed increased miR-21 in both stroma and epithelium, with further enrichment in the stroma of invasive adenocarcinoma.
+In Hi-Myc mice, single cell RNA-sequencing revealed miR-21 gene regulation in neoplastic, stromal, and immune cells in a cell-type-specific manner, impacting both direct and indirect targets.
+Notably, miR-21 deletion reduced immune infiltration into the prostate TME, particularly

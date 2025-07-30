@@ -1,0 +1,9 @@
+Understanding the variability of immune cell composition and responsiveness in health is critical to define changes that predict and explain immune-associated diseases like autoimmunity and cancer.
+Here, we comprehensively phenotyped a cohort of 100 healthy adults aged 25 to 35 and 55 to 65 years who were longitudinally followed for 10 visits over 2 years.
+Using mass cytometry, we identified four stable immunotypes derived from cell populations that remained stable within, but differed between, individuals.
+We characterized these immunotypes using whole-blood RNA sequencing, Olink proteomic profiling, and whole-blood ex vivo stimulation.
+Although cytomegalovirus (CMV) seropositivity, age, and sex are known to influence the immune landscape, the four immunotypes were not solely determined by these factors.
+A CMV-dominant immunotype exhibited exaggerated traditional markers of CMV positivity but also features unrelated to CMV positivity, including lower numbers of B cells and B cell-related transcripts.
+Immunotype was strongly associated with response to ex vivo stimulation with lipopolysaccharide (LPS) but not serological response to influenza vaccination, suggesting that these immunotypes are most relevant in understanding variations in innate immune responsiveness among healthy individuals.
+Last, we identified an immunotype comprising young females with unusually high LPS responsiveness, mature neutrophil frequency, and increased inflammatory markers.
+Overall, our findings establish that healthy individuals can exhibit one of four shared immunotypes, defined by adaptive and innate cell populations, that are stable over time, influence the response to innate signals, associate with clinical markers of inflammation, and shed light on overall immune health.

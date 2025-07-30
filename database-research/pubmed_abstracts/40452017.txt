@@ -1,0 +1,4 @@
+The human double minute 2 homolog hdm2, alias mdm2, is the main negative-regulator of the tumor suppressor p53.
+In that capacity, mdm2 is a promising but not yet utilized molecular target for the treatment of breast cancer, however, its inhibition by small molecules is rather inappropriate.
+Instead, mdm2 degradation by PROteolysis TArgeting Chimeras (PROTAC) is expected to be highly specific, to exhibit pronounced efficiency and minimal side effects.
+Moreover, there is profound evidence that mdm2-specific PROTAC degraders are efficient even in tumor cells harboring p53 loss-of-function mutations.

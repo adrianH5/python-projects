@@ -1,0 +1,9 @@
+Cervical cancer remains a leading cause of cancer-related death among women globally, despite the availability of effective prevention through human papillomavirus (HPV) vaccination and HPV-based screening.
+This review explores the state-of-the-art technologies for cervical cancer prevention, examining their efficacy, implementation challenges, and global disparities in access.
+Prophylactic HPV vaccination and HPV DNA testing have demonstrated high efficacy in reducing cervical cancer incidence, yet their uptake remains uneven-especially in low- and middle-income countries (LMICs), where the disease burden is greatest.
+Barriers include infrastructure limitations, workforce shortages, sociocultural obstacles, and competing health priorities.
+Strategies such as single-dose vaccination, early childhood immunization, self-sampling, and screen-and-treat approaches offer promising pathways to expand access.
+In high-income countries (HICs), where HPV vaccine uptake is higher and screening systems are more established, the reduced risk of infection and high negative predictive value of HPV testing support a shift toward screening deintensification.
+Precision prevention frameworks-leveraging biomarkers, genotyping, and artificial intelligence-offer further opportunities to enhance accuracy and efficiency.
+The review also underscores the importance of health system strengthening, international collaboration, and policy support to achieve the WHO's 90-70-90 targets for cervical cancer elimination.
+Moreover, innovations developed for cervical cancer prevention-such as decentralized screening, mobile health platforms, and task-shifting-offer a valuable model for improving strategies for primary and secondary prevention of other cancers.

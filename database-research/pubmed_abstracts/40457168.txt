@@ -1,0 +1,6 @@
+The heat shock factors (HSFs) form a family of transcription factors, which are evolutionarily conserved in eukaryotes.
+They are best known as transcriptional regulators of molecular chaperone genes, including those encoding heat shock proteins, in response to heat shock and other protein-damaging stresses.
+Since the discovery of the first HSF and its eponymous role in the heat shock response four decades ago, the currently known HSFs in vertebrates, that is, HSF1-5, HSFX, and HSFY, have been implicated in a wide array of physiological and pathological processes, including organismal development and cancer progression.
+To date, most studies have focused on individual HSFs, but it is becoming increasingly evident that the role of multiple HSFs and their potential crosstalk should be considered.
+In this review, we provide a comprehensive overview of the structures, functions, and regulation of the mammalian HSF family members and explore their interplay in biological processes.
+We highlight recent advancements regarding the roles of HSF family members in viral infection, cell adhesion, and spermatogenesis, and discuss the key questions to be addressed by forthcoming studies in HSF biology.

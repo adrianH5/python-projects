@@ -1,0 +1,14 @@
+HER2-positive metastatic breast cancer (MBC) represents a challenging subtype of breast cancer, characterized by aggressive disease and poor clinical outcomes.
+Trastuzumab emtansine (TDM1), an antibody-drug conjugate combining trastuzumab and emtansine, has demonstrated efficacy in clinical trials as a second-line treatment for patients progressing after prior therapies.
+This study aims to provide real-world evidence on the efficacy and safety of TDM1 in HER2-positive MBC patients.
+A retrospective analysis was conducted on 70 HER2-positive MBC patients treated with TDM1 at our centre between January 2020 and December 2022.
+Clinical characteristics, progression-free survival (PFS), overall survival (OS), response rates, and toxicity were evaluated using hospital records.
+PFS and OS were calculated using Kaplan-Meier methods, and survival curves were compared with log-rank tests.
+The median age of patients was 47 years, with a majority presenting with advanced disease and prior treatment lines.
+The median PFS was 6.1 months (95% CI, 4.5-7.6), and the median OS was 14.4 months (95% CI, 10.2-18.0).
+The objective response rate was 75.7%, with 12.8% achieving a complete response and 62.8% a partial response.
+PFS was significantly longer in hormone receptor-positive patients compared to hormone receptor-negative patients (8.1 vs. 4.1 months, p = 0.035).
+Toxicity was manageable, with grade 3-4 adverse events including elevated transaminases (8.5%), thrombocytopenia (5.7%), and anemia (4.2%).
+The efficacy of TDM1 in this real-world cohort aligns with clinical trial data, though PFS and OS were somewhat lower compared to trials, likely due to the inclusion of patients with more extensive disease and prior treatments.
+Notably, TDM1 demonstrated activity against CNS metastases and a manageable safety profile, with higher incidence of hepatic and hematologic toxicities.
+Our study supports the use of TDM1 as a viable option for treating HER2-positive MBC in routine clinical practice, confirming its effectiveness and safety profile observed in clinical trials.

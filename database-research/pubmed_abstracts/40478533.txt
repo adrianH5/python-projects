@@ -1,0 +1,9 @@
+The first 6 months of life are crucial for an infant's growth and gastrointestinal development.
+Proper nutrition is vital to support this maturation, especially considering the limited digestive capacity of infants at this stage.
+While breast milk is considered the optimal source, infant formula serves as an important alternative for mothers who cannot breastfeed.
+This study employed human embryonic stem cell-derived small intestinal organoids (SIOs) to simulate neonatal intestinal digestion and nutrient absorption.
+Breast milk and different brands of infant formulas were subjected to in vitro digestion and subsequent SIO absorption.
+Metabolomics analysis was conducted at three stages: predigestion, postdigestion, and postabsorption.
+Significant differences were found in the metabolic profiles between breast milk and infant formulas at each developmental stage, indicating distinct nutrient processing and absorption patterns.
+The study highlights the metabolic and absorption variations between breast milk and formula during early infancy.
+These findings provide important insights into how different nutritional sources influence gastrointestinal development, offering valuable guidance for optimizing infant formula composition to better replicate the benefits of breast milk.

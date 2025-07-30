@@ -1,0 +1,3 @@
+The rapid advancement in non-small-cell lung cancer (NSCLC) diagnostics demands ultrasensitive biosensors for detecting microRNA-21 (miRNA-21), a pivotal prognostic biomarker.
+An innovative electrochemiluminescence (ECL) biosensor was developed that leverages ECL resonance energy transfer (ECL-RET) as the primary amplification mechanism for ultrasensitive detection.
+The biosensor integrated a two-dimensional hafnium-based metal-organic layer (

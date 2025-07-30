@@ -1,0 +1,10 @@
+Myocardial ischemia-reperfusion injury (MIRI) is a life-threatening complication of myocardial infarcts, with inner mitochondrial membrane protein dysfunction involved in MIRI-induced heart injury.
+The role of outer mitochondrial membrane protein mitochondrial antiviral signaling protein (MAVS) is unknown.
+Here, we show that MAVS expression increases in infarcted myocardium of male wild-type mice.
+Global MAVS-knock-out or myocardial-specific MAVS knockdown protects male mice from acute and chronic MIRI.
+MIRI induces double-stranded RNA in affected myocardium, activating intracellular retinoic acid-inducible gene I (RIG-I) signaling, which leads to MAVS aggregation and subsequent non-canonical downstream signaling.
+MAVS aggregates recruit tumor necrosis factor-associated factor family 6 (TRAF6) and transforming growth factor-β-activated kinase 1 (TAK1), the activating mitogen-activated protein kinase (MAPK) pathway and apoptosis.
+MAVS-knock-out reduces c-jun-NH2 terminal kinase (JNK) phosphorylation and apoptosis.
+JNK inhibition protects against MIRI in wild-type male mice, whereas JNK agonist impairs protection in MAVS-knock-out male mice.
+MIRI activates RIG-I/MAVS pathway and subsequently triggers the TAK1/TRAF6 complex, leading to the activation of the MAPK/JNK signaling cascade.
+This sequential activation cascade may serve as a potential therapeutic target for MIRI.

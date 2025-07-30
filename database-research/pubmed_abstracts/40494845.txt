@@ -1,0 +1,5 @@
+Although multiple single-cell RNA sequencing (scRNA-seq) based studies have explored rheumatoid arthritis (RA), most have focused on synovial tissue, limiting the ability to perform paired pre- and post-treatment comparisons and to elucidate dynamic changes.
+Moreover, the single-cell impact of TNF-α and JAK inhibitors on RA remains poorly understood, hindering effects toward precision medicine for RA.
+Here, we present a comprehensive scRNA-seq analysis of synovial fluid samples of RA patients treated with tofacitinib or adalimumab, both pre- and post-treatment.
+Following stringent quality control, we analyzed 100,387 high-quality cells, providing an in-depth characterization of cell composition, molecular signaling pathways, and functional properties.
+This rich dataset offers a valuable resource to address diverse research questions, from uncovering the mechanisms of action of TNF-α and JAK inhibitors, to identifying novel therapeutic targets for RA, and advancing our understanding of the pathogenesis of inflammatory diseases.

@@ -1,0 +1,5 @@
+Group IV metal oxides have a broad impact on the environment and human health due to their diverse applications in industry, consumer products and biomedicine.
+However, their chemical inertness poses significant challenges for accurate quantification in biological matrices, which is essential for assessing biodistribution, toxicity, and regulatory compliance.
+Traditional digestion methods often rely on hydrofluoric acid (HF), a hazardous reagent requiring specialized handling and infrastructure.
+Here, we present an alternative, HF-free microwave assisted digestion protocol for group IV metal oxides in biological contexts, utilizing sulfuric acid/water/hydrogen peroxide mixtures to achieve complete solubilization across nano-to microscale particles.
+The method's efficacy was evaluated on various commercially available TiO

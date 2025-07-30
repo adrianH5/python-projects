@@ -1,0 +1,8 @@
+Downregulation of Receptor-Interacting Protein Kinase 4 (RIPK4) inhibits NF-κB and Wnt/β-catenin signaling in melanoma and xenograft growth in mice.
+The active form of vitamin D3 (1,25-D3), in addition to regulating calcium and phosphate metabolism in humans through the vitamin D receptor (VDR), can inhibit the NF-κB signaling pathway and can affect the proliferation and differentiation of normal and malignant cells, including melanoma.
+An hyperactive NF-κB pathway maintains the malignant behavior of melanoma, which can be influenced by both RIPK4 and activated VDR.
+As their interactions affecting the response to 1,25-D3 in melanoma have not been studied, we tested whether downregulation of RIPK4 affects the sensitivity of melanoma cells to 1,25-D3.
+Our results have shown that both siRIPK4 and CRISPR/Cas9-mediated RIPK4 knockout increase VDR expression in melanoma cells.
+Furthermore, a decrease in CYP24A1 expression and an increase in 1,25 D3-induced VDR levels were observed in cells with RIPK4 downregulation.
+Treatment with 1,25- D3 of RIPK4.KO cells, compared to their wild-type counterparts, significantly reduced proliferation in 2D and 3D culture (MTT or ATP assay) and decreased p-p65 and cyclin D1 levels in melanoma cells.
+These results indicate that RIPK4 knockout may enhance the therapeutic efficacy of 1,25-D3 against melanoma, which encourages further studies on targeting RIPK4 signaling for anti-melanoma effects in preclinical models.

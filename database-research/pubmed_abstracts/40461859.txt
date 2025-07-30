@@ -1,0 +1,7 @@
+Exosomes are pivotal in triple-negative breast cancer (TNBC) development, and accumulating evidence underscores their potential as therapeutic targets and diagnostic indicators.
+In this study, we revealed a significant enrichment of the POU domain, class 5, transcription factor 1 (POU5F1) in TNBC cells-derived exosomes.
+Functionally, silencing endogenous POU5F1 in TNBC cells substantially inhibited their aggressive phenotypes.
+Moreover, exosomes derived from TNBC cells contributed to macrophage M2 polarization by transferring POU5F1 to the recipient macrophages.
+Mechanistically, POU5F1 within these exosomes prevented the tumor necrosis factor receptor-associated factor 6 (TRAF6) degradation in macrophages, thereby activating the protein kinase B (AKT) signaling cascade and driving M2 polarization.
+Furthermore, in vivo experiments provided evidence that POU5F1 knockdown significantly reduced tumor growth and macrophage M2 polarization in a mouse model of TNBC cells by modulating the TRAF6/AKT signaling axis.
+Our study concludes that POU5F1 in TNBC cells-derived exosomes is vital for promoting macrophage M2 polarization by inhibiting TRAF6 ubiquitination and activating AKT signaling, thereby contributing to TNBC progression.

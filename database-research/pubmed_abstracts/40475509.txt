@@ -1,0 +1,8 @@
+Mutations that impact subunits of mammalian SWI/SNF (mSWI/SNF or BAF) chromatin remodeling complexes are found in over 20% of human cancers.
+Among these subunits, ARID1A is the most frequently mutated gene, occurring in over 8% of various cancers.
+The majority of ARID1A mutations are frameshift or nonsense mutations, causing loss of function.
+Previous studies have suggested that ARID1A may facilitate interactions between BAF complexes and various transcriptional coactivators, but a biochemical role for ARID1A in BAF remodeling activity has not been identified.
+Here, we describe the in vitro reconstitution of the cBAF, PBAF, and ncBAF complexes, and we compare their biochemical activities.
+In addition, we reconstitute a variety of cBAF subcomplexes, defining roles for several subunits in high affinity nucleosome binding and nucleosome sliding activity.
+Remarkably, we find that the ARID1A subunit of cBAF is largely dispensable for nucleosome binding, nucleosome sliding, and ATPase activity, but ARID1A is required for cBAF to transfer histone octamers between DNA templates.
+These data suggest a model in which the histone octamer transfer activity of BAF complexes is key for cancer prevention.

@@ -1,0 +1,10 @@
+Persistent infection with high-risk human papillomavirus (HPV) is a significant factor in cervical cancer (CC) development.
+Although CC screening programs have reduced the incidence of this neoplasm, the number of deaths remains high, especially in developing countries: CC remains the fourth most common neoplasm in the female population globally.
+Currently, an HPV test has been replacing cytological analysis because it is a more sensitive screening method.
+However, the collection of gynecological material is still necessary, which can be a barrier to adherence to testing in the target population.
+Host cells presenting with a viral infection release fragments of their DNA into circulation, known as cell-free DNA (cfDNA); this allows detection through venous puncture, a routine procedure in clinical laboratories.
+Thus, the objective of this review was to evaluate the role of cfDNA of HPV (cfHPV-DNA) as an alternative tool for CC screening, diagnosis, prognosis, and treatment response monitoring.
+Furthermore, the development of sensitive methods, such as droplet digital PCR (ddPCR) and next-generation sequencing (NGS), have proven useful in identifying tumor markers for CC.
+The specificity of the primers, the size of the target DNA fragments, and variables such as sample type and volume, in addition to the cfDNA extraction kit used, can influence the results of cfHPV-DNA detection.
+Although the detection of cfHPV-DNA in plasma and serum of patients with CC is feasible, there were conflicting results regarding cfHPV-DNA detection in the blood circulation of patients with premalignant lesions.
+On the other hand, when CC is already established, the detection and quantification of cfHPV-DNA have shown potential as a biomarker for tumor staging, prognosis definition, and treatment response monitoring.

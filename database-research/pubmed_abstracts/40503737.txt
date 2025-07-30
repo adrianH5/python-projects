@@ -1,0 +1,5 @@
+Non-small cell lung cancer (NSCLC) is a malignant tumor with a high incidence rate and mortality rate.
+This study aims to explore the efficacy and safety of dendritic cell cytokine-induced killer cell (DC-CIK) bioimmunotherapy in advanced NSCLC.
+Sixty-four NSCLC patients treated in our hospital from June 2019 to February 2021 were chosen as the DC-CIK group, all of whom received DC-CIK bioimmunotherapy based on synchronous radiotherapy and chemotherapy.
+Following the 1:1 matching principle, another 64 NSCLC patients treated with synchronous chemotherapy admitted at the same time were picked as the control group.
+The clinical efficacy, adverse effects, survival period, the content of immune-related indexes (NK, CD3

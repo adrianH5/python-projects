@@ -1,0 +1,13 @@
+Diffuse large B-cell lymphoma (DLBC) is one of the usual forms found in indolent or invasive non-Hodgkin's lymphoma.
+Cancerous inhibitor of protein phosphatase 2A (CIP2A) has been revealed to be dysregulated in multiple cancers and is closely associated with tumor growth.
+However, the regulatory influences of CIP2A in DLBC progression remain unclear.
+The protein expressions were determined through western blot.
+Cell survival was assessed through the CCK-8 assay.
+Cell proliferation was examined through colony formation assay.
+The cell migration and invasion were inspected through transwell assay.
+First, it was discovered that CIP2A exhibited higher expression in DLBC.
+Additionally, inhibition of CIP2A restrained cell growth and metastasis in DLBC.
+Next, it was discovered that E-cadherin protein expression was ascended as well as N-cadherin and α-SMA protein expressions were descended after CIP2A knockdown, indicating that CIP2A suppression can retard the epithelial-mesenchymal transition (EMT) progress in DLBC.
+Finally, it was demonstrated that suppression of CIP2A retarded the Wnt/β-catenin pathway.
+It was manifested that high expression of CIP2A can aggrandize cell proliferation, migration, and EMT process in DLBC, and triggered the Wnt/β-catenin pathway.
+This finding implied that CIP2A may serve as a hopeful target for treating DLBC.

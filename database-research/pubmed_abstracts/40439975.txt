@@ -1,0 +1,6 @@
+We aim to investigate the correlation between perioperative blood transfusion and postoperative ileus in patients who have undergone minimally invasive elective colectomy for cancer.
+This is a retrospective study using the 2016-2020 American College of Surgeons National Surgical Quality Improvement Program (ACS-NSQIP) database.
+Patients with colon cancer who underwent elective laparoscopic or robotic colectomy were selected.
+Perioperative transfusion was defined as receiving one or more units of whole/packed RBCs within 72 h of onset of operation.
+Using multivariable logistic regression with backward elimination, comorbidities, and intraoperative and postoperative variables were analyzed to identify risk factors for postoperative ileus.
+48,728 patients were included with a mean age of 64.7 years, 52.3% were males, and a mean BMI of 28.8 kg/m

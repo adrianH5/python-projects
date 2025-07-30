@@ -1,0 +1,9 @@
+The tumor cell-intrinsic cyclic GMP-AMP synthase (cGAS)-stimulator of interferon genes (STING) pathway is critical for activating anti-tumor immunity and enhancing immune checkpoint blockade therapy in colorectal cancer (CRC).
+Cancer-associated fibroblasts (CAFs), key components of the CRC tumor microenvironment, negatively regulate the anti-tumor immune response.
+However, their impact on tumor cell-intrinsic cGAS-STING expression remains unclear.
+In the present study, we investigated whether CAFs can downregulate cGAS-STING expression in CRC.
+We found that cGAS-STING expression in tumor cells inversely correlated with stromal expression of versican (VCAN), an immunosuppressive CAF marker, in CRC tissues.
+Co-culture experiments using primary human CAFs derived from CRC tissues revealed that CAFs downregulated cGAS and/or STING expression in CRC cell lines (WiDr, LoVo, HCT116).
+Furthermore, CAFs expressing VCAN and fibronectin 1 appeared to mediate this suppression.
+These findings suggest that immunosuppressive CAFs contribute to the downregulation of tumor cell-intrinsic cGAS-STING expression in CRC.
+Therefore, targeting CAFs to restore cGAS-STING expression may represent a promising strategy to enhance the efficacy of CRC treatment.

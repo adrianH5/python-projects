@@ -1,0 +1,13 @@
+Tongue squamous cell carcinoma (TSCC) is a major subtype of head and neck cancer with limited treatment regimens.
+This paper examined phospholipid scramblase 1 (PLSCR1) and forkhead box protein A1 (FOXA1) expression patterns and function in TSCC progression.
+Abnormally high expression of PLSCR1 was screened by the GEO datasets, and PLSCR1 expression in TSCC cells was verified.
+The upstream mechanism of abnormally elevated PLSCR1 was investigated by bioinformatics analysis, and FOXA1 expression in TSCC cells was detected.
+The interaction between FOXA1 and the PLSCR1 promoter in cells was detected by chromatin immunoprecipitation and dual-luciferase assay.
+The TSCC cell malignant phenotype was examined after different lentiviral vector treatments.
+Xenograft tumors were induced in mice to verify the mechanism.
+PLSCR1 was highly expressed in TSCC, while FOXA1 was downregulated.
+PLSCR1 knockdown inhibited TSCC cell proliferation, migration, and invasion, and upregulated apoptosis.
+Ectopic expression of FOXA1 repressed the malignant behaviors of TSCC cells.
+FOXA1 was enriched in the PLSCR1 promoter in TSCC cells, and FOXA1 transcriptionally inhibited PLSCR1 expression.
+In rescue experiments, overexpression of FOXA1 inhibited TSCC progression, and this could be reversed by overexpression of PLSCR1.
+Overall, FOXA1 prevents TSCC progression through transcriptional repression of PLSCR1.

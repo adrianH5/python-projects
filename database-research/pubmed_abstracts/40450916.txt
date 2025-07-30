@@ -1,0 +1,12 @@
+Endometrial adenocarcinoma carries a bleak prognosis, and the molecular markers that evaluate the progression of endometrial adenocarcinoma to advanced stages remain uncertain.
+Cell-cell communication plays a crucial role in the tumor microenvironment.
+We aimed to explore the ligand-receptor relationship between tumor cells and other cells and construct a prognostic model.
+To make further investigation, we downloaded and analyzed datasets of single-cell RNA-seq, spatial transcriptome sequencing for EC from GEO, bulk RNA sequencing and clinical data of TCGA-EC project from TCGA.
+Compared to the adjacent normal tissue, there is a significantly elevated Oncostatin M (OSM) signaling in the cell communication intensity and quantity of endometrial cancer tissues through analyzing the scRNA-seq dataset.
+Endometrial adenocarcinoma can be divided into four subtypes based on the OSM gene set.
+By comparing multiple machine learning methods, we have identified the random survival forest method as having the highest C-index.
+Based on this method, we constructed a seven-gene signature model to predict the survival prognosis of endometrial adenocarcinoma.
+The exogenous cytokine OSM induced Ishikawa cell proliferation and abnormal lipids metabolism, while the transcriptome sequencing results reveal that the pathways enriched with differentially expressed genes include AKT signaling pathways.
+The OSMR-knockout inhibited the tumorigenicity of Ishikawa Cells in the subcutaneous xenotransplanted tumor model of endometrial cancer.
+Our analysis revealed that OSM promotes the proliferation of Ishikawa cells via the AKT signaling pathway, abnormal lipids metabolism highlighting its significance in the regulation of TME.
+The prognostic model can provide valuable insights into guiding treatment strategies and suggesting further clinical management of endometrial adenocarcinoma patients.

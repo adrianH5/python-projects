@@ -1,0 +1,9 @@
+Azurin, a redox-active protein derived from Pseudomonas aeruginosa, has demonstrated antimicrobial and anticancer properties.
+In this study, we evaluated for the first time the immunomodulatory effects of its nanoparticle form (nano-azurin) on key innate immune cells-neutrophils, macrophages, and natural killer (NK) cells.
+Nano-azurin (0.1-1 µg/mL) significantly enhanced neutrophil-mediated killing of Campylobacter jejuni and Enterococcus faecalis, increasing killing efficiency from baseline values of -15 % and -7 % to -83 % and -76 %, respectively.
+It also potentiated neutrophil-mediated inhibition of cancer cell proliferation.
+In macrophages, nano-azurin stimulated phagocytic activity in a dose-dependent manner, with the highest enhancement observed against Bacillus cereus (404.6 % increase at 1 µg/mL).
+Cytokine analysis revealed that nano-azurin attenuated LPS-induced production of proinflammatory cytokines (TNF-α, IL-1β, IL-6) while markedly increasing anti-inflammatory IL-10, with levels rising up to 441.9 % compared to LPS treatment alone.
+In NK cells, nano-azurin significantly increased cytotoxicity against multiple cancer cell lines, reaching levels comparable to IL-2 stimulation.
+Additionally, nano-azurin elevated IFN-γ and TNF-α production, indicating activation of NK-mediated immune responses.
+These findings demonstrate that nano-azurin enhances antimicrobial and anticancer functions of innate immune cells and modulates cytokine responses, supporting its potential as a novel immunotherapeutic agent.

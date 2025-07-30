@@ -1,0 +1,19 @@
+The entire world is currently under the big threat of coronavirus disease (COVID-19) caused by the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS CoV2) virus.
+Epidemiological surveys show that diabetic patients are at high risk to contract COVID-19 infection [1].
+More importantly, they are also the major victims of COVID-19 associated mortalities.
+In a study done by the COVID-19 surveillance group of Italy on 3200 patients, 34% of 481 nonsurvivors had diabetes [3].
+Similarly, reports from the Centers for Diabetes Control and Prevention, United States show that 11% of COVID-19 patients have diabetes [5].
+The most populated country like India, more than 70% of COVID-19-associated mortalities are due to comorbidities including diabetes, hypertension, CVD, and pulmonary problems.
+The diabetic population has crossed 120 million worldwide in 2019 and this in turn poses an increased threat for further COVID-19 infection and related mortalities in these patients in upcoming days.
+Hence, understanding the pathobiology behind the increased mortality in COVID-19-affected diabetic patients is highly essential to develop prominent prognostic biomarkers and accurate therapies that save their lives.
+Furin cleaves this S1/S2 site and allows viral entry into host cells which in turn leads to the onset of COVID-19 infection in humans (Fig. 1) [9].
+This in turn broadens the cell tropism of the SARS CoV2 virus and may probably be the reason behind the multiple organ damages observed in COVID-19 patients.
+This is proven by the fact that organs severely affected by SARS CoV2 infection in COVID-19 patients including lungs, liver, kidney express high levels of furin.
+Hence, furin overexpression in diabetes patients may be the key reason behind their increased risk to contract COVID-19 infection.
+Blood clots are other major fatal complications that cause increased mortalities in COVID-19 patients [13].
+Hence, furin might also be associated with COVID-19-related mortalities that occur due to blood clots.
+This in turn might increase the susceptibility of diabetes patients to contract COVID-19 infection.
+Hence, it is highly plausible that furin might be the major risk factor for the increased mortality of COVID-19 infected diabetes patients.
+Detailed investigations on the correlation between plasma furin levels, viral load, and severity of fatal complications in COVID-19-infected diabetes patients are very much needed to decipher the link between furin and prognosis status in these patients.
+These findings will aid in determining if plasma furin could act as a prominent prognostic biomarker in COVID-19 patients.
+Also, it will provide clues for the utilization of furin inhibitors to save the lives of COVID-19-infected diabetes patients.

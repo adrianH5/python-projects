@@ -1,0 +1,6 @@
+The "hallmarks of cancer" concept provides a valuable framework for understanding fundamental organizing principles common to various cancers.
+However, without a consensus gene set for cancer hallmarks, data comparison and integration result in diverse biological interpretations across studies.
+Therefore, we aimed to form a consensus cancer hallmark gene set by merging data from available mapping resources and establishing a framework for mining these gene sets.
+By consolidating data from seven projects, 6763 genes associated with 10 cancer hallmarks were identified.
+A cancer hallmarks enrichment analysis was performed for prognostic genes associated with overall survival across 12 types of solid tumors.
+"Tissue invasion and metastasis" was most prominent in cancers of the stomach (

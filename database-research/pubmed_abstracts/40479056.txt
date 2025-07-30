@@ -1,0 +1,5 @@
+To systematically investigate the molecular and pathological mechanisms of enhancer RNA (eRNA)-mediated transcriptional regulation in glioma recurrence and progression, transcriptomic, regulatome, and genomic data were integrated to analyze eRNA behavior in lower-grade gliomas (stages II/III) and glioblastomas (stage IV).
+Most eRNAs exhibited dynamic expression during glioma progression, regulated by master transcription factors (TFs) and affected by genomic mutations.
+The constructed perturbed TF-mediated eRNA-promoter regulatory landscape revealed that rewiring eRNA-promoter networks contributed to glioma malignancy.
+Drug response-related eRNAs associated with poor prognosis were identified, highlighting their clinical potential.
+Overall, integrative analysis highlights the critical role of eRNA-mediated regulatory rewiring in glioma progression, providing valuable insights into transcriptional mechanisms and potential therapeutic targets.

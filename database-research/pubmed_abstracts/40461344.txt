@@ -1,0 +1,11 @@
+The radial forearm free flap (RFFF) remains a cornerstone in head and neck reconstruction.
+Despite various venous anastomotic techniques, including single and dual anastomoses, venous compromise continues to be the leading cause of free flap failure.
+Advocates of dual venous anastomoses suggest it may reduce venous compromise, but its effectiveness remains debated.
+This study systematically reviews and meta-analyzes the impact of single versus dual venous anastomoses on flap failure, venous compromise, and salvage success in head and neck microsurgery.
+Following PRISMA guidelines, two authors independently searched PUBMED, Web of Science, CENTRAL, and Google Scholar up until February 2, 2024.
+After screening 7248 articles, 14 studies met inclusion criteria.
+Data analysis was performed using the 'metafor' package in Rv.4.3.1.
+The odds ratio for flap failure between single and dual venous anastomoses was 1.52 (95 % CI 0.82-2.22; p < 0.001), and for venous compromise, 0.85 (95 % CI 0.18-1.53; p < 0.03), indicating a higher rate of flap failure and venous compromise in the single venous anastomosis group.
+This study suggests dual venous anastomoses that significantly reduce flap failure and vascular compromise in RFFF for head and neck reconstruction.
+However, no clear preference was observed regarding salvage success rate between the two techniques.
+Our analysis focused on dual (deep/superficial) versus single anastomosis, without distinguishing the specific venous types used, due to high heterogeneity among the included studies.

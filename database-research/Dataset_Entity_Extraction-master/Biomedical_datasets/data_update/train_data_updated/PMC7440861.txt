@@ -1,0 +1,30 @@
+In the UK, the death toll from severe COVID-19 is among the highest worldwide.
+Severe COVID-19 is characterised by respiratory failure, with so-called cytokine storm occurring in some patient subsets.
+Pathological correlates are required to understand the pathophysiology of COVID-19.
+In anticipation of the COVID-19 pandemic, our group produced national guidelines for autopsy performance in suspected COVID-19 cases.
+COVID-19 is caused by infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).4, 5 Although SARS-CoV-2 and its predecessor SARS-CoV (causing severe acute respiratory syndrome [SARS]) are similar on a molecular and clinical level, COVID-19 has a lower death rate (4% for COVID-19 vs 15% for SARS) and a substantially higher death toll (700 539 deaths worldwide from COVID-19 as of Aug 5, 2020 vs 774 from SARS) than SARS due to a higher basic reproduction number.
+Various autopsy series on COVID-19 have begun to emerge in the literature.7, 8, 9, 10, 11, 12, 13, 14, 15 Here, we document the major pathological findings of ten post-mortem examinations done on patients with clinically confirmed COVID-19.
+The conclusion by Copin and colleagues that COVID-19-related lung injury “is not diffuse alveolar damage” might relate to their sampling strategy and chronicity (five patients had spent approximately 3 weeks on a ventilator).
+Reports of lung histology in early COVID-19 also suggest a degree of lymphocytic pneumonia, although DAD is probably superimposed on this over time in the majority of fatal cases.
+Pulmonary macrophage infiltration and multinucleated giant cell reactions are prominent, similar to other series.8, 9, 10, 11, 12 Definite evidence of tissue-related lymphocyte depletion in COVID-19 will require quantitative analysis comparing tissues from COVID-19 patients with DAD associated with other conditions and unaffected tissues.
+Several cases of invasive pulmonary aspergillosis have been reported in patients with severe COVID-19 pneumonia.
+To our knowledge, this is the first description of histologically proven mucormycosis in patients with COVID-19 and suggests that other human fungal pathogens, including members of Mucoromycotina, can complicate COVID-19-associated infections.
+Numerous clinical features, including raised serum D-dimer concentrations, raised pro-calcitonin concentrations, and imaging findings, suggest thrombosis is prominent in patients with COVID-19.
+Thrombotic features were universal among patients who underwent full autopsies (all nine patients had thrombi in at least one major organ) and have been noted to be prominent in other COVID-19 autopsy series.
+Whether thrombosis in COVID-19 is more common than in other causes of DAD remains uncertain; however, our data support thrombosis as being a striking feature in these patients.
+A study suggested endotheliitis as a prominent feature in patients with severe COVID-19, but this was not a prominent feature in our patients.
+A raised cytokine profile has been documented in a subset of patients with severe COVID-19.
+A substantial feature in COVID-19 is lymphocyte depletion, and this is supported in our series by the spleen and lymph node findings.
+When compared with those with mild disease, patients with severe COVID-19 tend to have a higher neutrophil to lymphocyte ratio and higher CD4-positive to CD8-positive T-cell ratio.
+We have corroborated this evidence by documenting a low number of T cells (especially CD8-positive T cells and FOXP3-positive regulatory T cells) in the spleen and lymph nodes in severe fatal COVID-19.
+A report identified low viral load in the brain of three of 18 patients with COVID-19, but could not detect the virus in subsequent immunohistochemistry and concluded that the viral genomes might have been present in the blood.
+Pancreatic pathology was a major unexpected pathology in this series, which had not been previously reported in COVID-19 autopsies or large clinical COVID-19 series.
+Serum amylase is not part of the routine care bundle for COVID-19 in our Trust.
+Most cases had evidence of hepatic steatosis, which is consistent with clinical findings that obesity is a risk factor for poor outcome in COVID-19, and liver cirrhosis or bridging fibrosis was prominent in this cohort.
+Background  Severe COVID-19 has a high mortality rate.
+Comprehensive pathological descriptions of COVID-19 are scarce and limited in scope.
+We aimed to describe the histopathological findings and viral tropism in patients who died of severe COVID-19.
+In this case series, patients were considered eligible if they were older than 18 years, with premortem diagnosis of severe acute respiratory syndrome coronavirus 2 infection and COVID-19 listed clinically as the direct cause of death.
+Between March 1 and April 30, 2020, full post-mortem examinations were done on nine patients with confirmed COVID-19, including sampling of all major organs.
+Our series supports clinical data showing that the four dominant interrelated pathological processes in severe COVID-19 are diffuse alveolar damage, thrombosis, haemophagocytosis, and immune cell depletion.
+Additionally, we report here several novel autopsy findings including pancreatitis, pericarditis, adrenal micro-infarction, secondary disseminated mucormycosis, and brain microglial activation, which require additional investigation to understand their role in COVID-19.

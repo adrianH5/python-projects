@@ -1,0 +1,6 @@
+Metabolic reprogramming is a hallmark of cancer, enabling tumor cells to meet their increased biosynthetic and energetic demands.
+While cells possess the capacity for de novo serine biosynthesis, most transformed cancer cells heavily depend on exogenous serine uptake to sustain their growth, yet the regulatory mechanisms driving this metabolic dependency remain poorly understood.
+Here, we uncover a novel mechanism by which Polo-like kinase 1 (PLK1), often overexpressed in prostate cancer, orchestrates a metabolic shift in serine and lipid metabolism through the phosphorylation of phosphoglycerate dehydrogenase (PHGDH), the rate-limiting enzyme of the serine synthesis pathway (SSP).
+We demonstrate that PLK1 phosphorylates PHGDH at three specific sites (S512, S513, S517), leading to a marked reduction in its protein level and enzymatic activity.
+This downregulation of SSP forces cancer cells to increase their reliance on exogenous serine uptake via the ASCT2 transporter, which, in turn, fuels the biosynthesis of lipids, including sphingolipids essential for tumor growth and survival.
+Targeting the SSP, serine uptake, or downstream lipid biosynthetic pathways may offer promising therapeutic avenues in PLK1-high advanced cancers.

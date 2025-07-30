@@ -1,0 +1,10 @@
+Dysregulation of the mTOR serine/threonine protein kinase has been linked to the pathogenesis and prognosis of triple-negative breast cancer (TNBC).
+Meanwhile, the MAPK signaling pathway has been implicated in the progression and drug resistance of TNBC.
+Therefore, dual inhibition of the mTOR and MAPK pathways presents a promising therapeutic strategy against TNBC.
+Here, we report the design and synthesis of a novel selective mTOR inhibitor, HPT-15.
+Molecular docking and dynamics simulations confirmed that HPT-15 exhibited superior binding stability with mTOR as compared to the dual-target inhibitor PKI-587.
+In vitro experiments demonstrated that HPT-15 significantly inhibited the proliferation, migration, and invasion of TNBC cells.
+The anti-tumor effects of HPT-15 were mediated by inhibited phosphorylation of the downstream mTOR proteins 4EBP1 and Akt.
+RNA sequencing revealed that HPT-15 induced cell death by modulating the MAPK signaling pathway, cell cycle progression, and autophagy.
+In vivo experiments further confirmed that HPT-15 effectively suppressed tumor growth without apparent toxic side effects.
+These findings promote the potential of HPT-15 for treatment of TNBC.

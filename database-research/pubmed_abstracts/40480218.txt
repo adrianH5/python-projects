@@ -1,0 +1,5 @@
+Over the past five years, allogeneic off-the-shelf CAR-engineered cell therapies have advanced rapidly.
+By bypassing the individualized manufacturing, high cost, and eligibility constraints of autologous products, allogeneic platforms, especially those derived from induced pluripotent stem cells (iPSCs), promise broader, faster access for cancer patients.
+This perspective reviews recent preclinical and clinical milestones, outlining genetic designs, scalable production workflows, and early-phase trial outcomes.
+We assess safety profiles, antitumor activity, and in vivo persistence, spotlighting innovations like T cell receptor alpha constant (TRAC) knockout, human leukocyte antigen (HLA) camouflage, and interleukin (IL)-15 armoring.
+Finally, we identify emerging trends and challenges that will shape the future development of allogeneic iPSC-derived CAR therapies.

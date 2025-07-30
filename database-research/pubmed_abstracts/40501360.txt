@@ -1,0 +1,17 @@
+BackgroundThough stereotactic body radiation therapy (SBRT) has been widely used in advanced tumors, ablative doses may not be appropriate in the case of large tumors or those abutting to the gastrointestinal tracts, resulting in unfavorable outcomes.
+Therefore, partial irradiation with high doses to tumors have been investigated.
+In order to achieve a larger high dose area within the tumor center, we developed a novel radiation modality, which was central-boost ablative radiation therapy (CBART).
+It was delivered by SBRT, with a central ablative dose in the tumor and a relatively low margin dose.
+And we tried to assess the efficacy of CBART for patients with large tumors or tumors adjacent to the gastrointestinal tracts.MethodsIt is a prospective, single-arm, phase II trial.
+Eligible patients would receive CBART.
+Gross tumor volume (GTV) was defined as a radiographically evident gross disease.
+The margin of GTV was shrinked to form central core GTV (cGTV).
+The volume of cGTV should be 50% of GTV volume.
+A 2-5 mm margin expansion on GTV formed planning target volume (PTV).
+While no margin expansion was performed on cGTV.
+The prescription dose of tumor margin was 30-45Gy/5f, determined by the tumor location and pathological features.
+While the prescription dose of cGTV was 120%-150% of that of tumor margin.
+Ninety percent of PTV and cGTV should be covered by the prescription dose.
+After CBART, sequential systemic therapy, including chemotherapy, targeted therapy or immunotherapy would be given according to pathological types and tumor stages.
+The primary outcome is one-year local control rate.DiscussionAn ablative dose to the hypoxic tumor center while a relatively low dose to the tumor margin may improve local control in the case of large tumors or those abutting the gastrointestinal tracts.
+Further investigations are required to assess the clinical benefits of CBART.

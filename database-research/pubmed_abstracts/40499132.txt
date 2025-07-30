@@ -1,0 +1,2 @@
+The rapid advancements in natural language processing, particularly the development of large language models (LLMs), have opened new avenues for managing complex clinical text data.
+However, the inherent complexity and specificity of medical texts present significant challenges for the practical application of prompt engineering in diagnostic tasks.

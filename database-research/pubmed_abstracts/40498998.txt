@@ -1,0 +1,8 @@
+This study investigates the clinical relevance of the gut microbiome at taxonomic and metabolic levels in anti-CD19 CAR-T cell therapy, both in patients and in a preclinical syngeneic tumor model.
+B cell lymphoma patients treated with CD19-CAR-T cells exhibited profound intestinal dysbiosis, exacerbated after CAR-T infusion.
+This dysbiosis was characterized by low bacterial richness, low sMAdCAM-1 and loss of Akkermansia species, associated with resistance to therapy.
+Mechanistically, oral Akkermansia massiliensis supplementation increased CAR-T cell infiltration into bone marrow, inverted the CD4/CD8 CAR-T ratio, favored Tc1 CD8+ T cell polarization and promoted release of tryptophan-derived indole metabolites, leading to better tumor control.
+The clinical benefit of Akkermansia spp.
+supplementation was abolished when CAR-T cells were genetically deficient for the indole receptor, aryl hydrocarbon receptor (Ahr).
+Ahr-agonistic indoles alone failed to replicate the bacterium's anticancer effects.
+These findings suggest Akkermansia supplementation could improve CAR-T cell potency in patients with intestinal Akkermansia deficiency.

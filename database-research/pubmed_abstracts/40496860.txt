@@ -1,0 +1,10 @@
+Apoptosis plays a fundamental role in the regulation of immune responses mediated by neutrophils.
+Phosphatidylglucoside (PtdGlc), a glycosylated phospholipid abundantly expressed on the surface of human neutrophils, has been implicated in promoting both cellular differentiation and apoptosis.
+In the acute myeloid leukemia (AML) cell line HL-60, PtdGlc expression increases during differentiation, and treatment with the anti-PtdGlc monoclonal antibody DIM21 induces early apoptosis.
+To further investigate the role of PtdGlc in neutrophilic lineage cells, we examined three AML cell lines: HL-60 (AML-M2/M3), KG1 (AML-M1), and KG1a (AML-M0).
+PtdGlc was highly expressed in HL-60 and KG1 cells but was absent in KG1a cells.
+Both HL-60 and KG1 cells exhibited early apoptosis following DIM21 treatment, whereas KG1a cells remained resistant regardless of differentiation status.
+Notably, in KG1 cells, DIM21 induced late-stage apoptosis specifically after ATRA-mediated differentiation, and co-treatment with ATRA and DIM21 significantly enhanced this apoptotic response.
+Mechanistic analysis revealed that this process was independent of NADPH oxidase and Fas signaling, as neither a reactive oxygen species inhibitor nor a neutralizing anti-Fas antibody altered the apoptotic outcome.
+Instead, DIM21 activated caspase-3 and caspase-8, suggesting that PtdGlc mediates apoptosis through a caspase-dependent, but NADPH oxidase- and Fas-independent, pathway.
+Collectively, these findings provide new insight into the apoptotic signaling function of PtdGlc in neutrophilic lineage cells and highlight its potential as a novel therapeutic target in AML.

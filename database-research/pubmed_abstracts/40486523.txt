@@ -1,0 +1,7 @@
+With the rapid advancement of genetic engineering technologies, CAR-NK cell therapy, as an emerging immunotherapeutic approach, has demonstrated significant potential.
+CAR-NK cells recognize and eliminate tumor cells through chimeric antigen receptors (CARs).
+Genetic engineering techniques have enhanced the targeting and anti-tumor activity of CAR-NK cells by optimizing key components of the CAR structure, such as signal peptides, single-chain variable fragments (scFvs), linkers, and hinge regions.
+Additionally, NK cells can be derived from diverse sources, including peripheral blood, umbilical cord blood, stem cells, and NK cell lines, each with its unique advantages and limitations.
+Although CAR-NK cell therapy has shown promising anti-tumor efficacy in preclinical studies, it still faces numerous challenges.
+In the future, further optimization of CAR-NK cell design through genetic engineering and overcoming the immunosuppressive tumor microenvironment will be crucial for enhancing its clinical application efficacy.
+This review will comprehensively discuss the current applications, technical challenges, and future directions of genetic engineering in CAR-NK cell therapy.

@@ -1,0 +1,6 @@
+Skin tattoos represent the standard for surface alignment and setup of breast cancer radiotherapy yet contribute to adverse cosmesis and patient dissatisfaction.
+With the advent of contemporary surface imaging technology, we evaluated setup accuracy, time, and dosimetric parameters between traditional tattoo-based setup techniques and a "tattoo-less" approach for lymph node positive and high-risk breast cancer patients requiring chest wall and regional nodal radiation.Material/MethodsPatients receiving chest wall radiation for breast cancer underwent a traditional tattoo-based setup (TTB), alternating daily with a tattoo-less setup via surface imaging using AlignRT (ART) to serve as an internal control.
+Following initial setup (using tattoos or AlignRT), target position was verified by daily kV imaging, with matching on the chest wall bony anatomy representing ground truth.
+Translational (TS) and rotational shifts (RS) were ascertained, as were setup time and total in-room time.
+Delivered dosimetry was calculated using the reverse isocenter shift technique.
+Statistical analyses used the Wilcoxon Signed Rank test and Pitman-Morgan variance test.

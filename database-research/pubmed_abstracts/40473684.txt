@@ -1,0 +1,13 @@
+The defective function of succinate dehydrogenase promotes the development and progression of kidney renal clear cell renal cell carcinoma (ccRCC).
+However, the molecular mechanism of succinate metabolism-related genes (SMRGs) has not been extensively studied in KIRC.
+First, differentially expressed SMRGs (DE-SMRGs) were screened among genesets.
+Next, functional enrichment analysis was performed to investigate the functions of DE-SMRGs.
+The univariate Cox algorithm, LASSO, and multivariate Cox analysis were performed to obtain biomarkers and build a prognostic model.
+Afterward, enrichment and immune microenvironment analysis were carried out in two different risk subgroups.
+Finally, expression validation and expression intensity of prognostic gene was verified by in situ and in vitro experiments.
+In total, 138 DE-SMRGs were screened by overlapping SMRGs and differentially expressed genes.
+The functional enrichment results revealed that DE-SMRGs were implicated in retinoic acid metabolic process and retinol metabolism.
+Then, 8 succinate metabolism-related biomarkers were obtained, and prognostic model was developed and SLC25A4 ranked the highest in importance.
+SLC25A4 was down-regulated in KIRC, and its upregulation was related to better overall survival in patients from public datasets and in clinical cases.
+SLC25A4 attenuated cell proliferation, cell invasion, and exerted its biological function by inhibiting the STAT3 signaling pathway.
+Our study reveals that succinate metabolism-related biomarkers can provide a basis for exploring the prediction of prognosis in ccRCC.

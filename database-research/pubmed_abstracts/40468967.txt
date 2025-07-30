@@ -1,0 +1,8 @@
+Hematopoietic stem and progenitor cells (HSPC) from mobilized blood are the preferred graft source for allogeneic and autologous stem cell transplantation.
+The efficiency of CD34+ cell mobilization with granulocyte colony-stimulating factor (G-CSF) varies significantly between individuals, but is reproducible across mobilization cycles within an individual, suggesting a genetic component, a hypothesis that has been previously investigated by testing for candidate single-nucleotide polymorphisms (SNP) associations.
+As the genetic determinants of HSPC mobilization have not been analyzed on the genomic scale so far, we performed a genome-wide association study (GWAS) in a German population of 564 healthy G-CSF mobilized allogeneic stem cell donors.
+None of the association between about 5 million variants and the primary outcome investigated (CD34+ cell frequency in peripheral blood) reached genome-wide significance.
+Focused analysis of 11 variants previously shown to be associated with basal CD34+ cell levels confirmed an association of CXCR4-rs11688530 (A>G) and ARHGAP45-rs36084354 (A>G) with higher CD34+ frequency in G-CSF mobilized healthy donors showing an explained variance of 1.07% (p=0.004) and 0.86% (p=0.01), respectively.
+Demographic analysis revealed an association of peripheral blood CD34+ cell frequency with sex (Varex = 8.1%) and BMI (Varex = 7.2%) that exceeded the contribution of single variants.
+The current study is the first GWAS in mobilized stem cell donors and had a statistical power of 80% to detect SNPs with explained variance of ≥6.7% at genome-wide significance.
+The study results exclude a monogenetic cause of population G-CSF responsiveness and support the view that polygenetic risk scores are required as predictors.

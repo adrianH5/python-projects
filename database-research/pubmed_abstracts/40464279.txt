@@ -1,0 +1,3 @@
+This is a protocol for a Cochrane Review (intervention).
+The objectives are as follows: Primary To assess the comparative benefits and harms of immunomodulators and immunosuppressants for people with generalised myasthenia gravis through a network meta-analysis.
+Secondary To estimate the relative ranking of immunomodulators and immunosuppressants according to their effects.

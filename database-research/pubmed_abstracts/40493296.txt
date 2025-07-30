@@ -1,0 +1,9 @@
+Acute myeloid leukemia (AML) is an aggressive malignancy with poor prognosis.
+Recent studies highlight cuproptosis, a copper-dependent cell death mechanism, as a potential therapeutic target in cancers.
+This study investigates the expression and functional significance of CRGs, particularly PDHA1, in AML progression and cuproptosis regulation METHODS: We integrated bioinformatics analysis and experimental validation.
+Bioinformatics analysis of RNA-seq data from The Cancer Genome Atlas (TCGA) and Genotype-Tissue Expression (GTEx) was performed to identify CRGs associated with AML.
+Among these, pyruvate dehydrogenase E1 alpha subunit (PDHA1) was selected for further investigation.
+AML cell lines (Kasumi-1, U937, etc.)
+were treated with Elesclomol-CuCl2 to induce cuproptosis.
+PDHA1 was overexpressed via transfection, and its effects on proliferation (CCK-8, spheroid formation), apoptosis (flow cytometry), cell cycle (propidium iodide staining), and copper ion content were assessed.
+qPCR, Western blot, and glutathione (GSH) assays evaluated gene/protein expression and redox status.

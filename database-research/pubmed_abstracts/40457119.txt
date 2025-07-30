@@ -1,0 +1,9 @@
+Triple-negative breast cancer (TNBC) is associated with a poor prognosis due to insufficient molecular subtyping precision and limited actionable targets.
+Although metabolic reprogramming underlies TNBC chemotherapy resistance, establishing metabolic subtyping systems and investigating drug sensitivity across distinct metabolic subgroups could provide novel therapeutic avenues for breast cancer management.
+GSVA (Gene Set Variation Analysis) analysis of metabolic pathways reveals significant differences in TNBC (Triple-Negative Breast Cancer) patients.
+TNBC patients are classified into four metabolic subtypes through consensus clustering, based on their GSVA values of metabolic pathways.
+These subtypes are: MS_1, characterised by increased lipogenic activity; MS_2, characterised by increased carbohydrate and nucleotide metabolism; MS_3, a metabolism-active subtype with activation of all types of metabolism; and MS_4, characterised by suppressed metabolic activity across all types of metabolism.
+We next propose a novel method called MODIN (Multiomics-Driven Drug-Cell Interaction Network), which embeds multi-omics gene information (mRNA expression, copy number variation and DNA methylation) and drug SMILES data into a latent space, and then employs a multi-head attention-based interaction module to accurately predict the LN_IC50 values of 621 drugs in TNBC.
+Based on MODIN, noteworthy disparities in drug sensitivity emerge between the patient cohorts categorised as MS_2 and MS_3.
+MS_3 patients show a significantly higher sensitivity to chemotherapy regimens, especially for doxorubicin and docetaxel, while the MS_2 cohort displays marked resistance to these drugs.
+Our study reveals the metabolic heterogeneity of TNBC, and TNBC patients with increased carbohydrate and nucleotide metabolism exhibit the poorest prognoses and greater resistance to doxorubicin and docetaxel.

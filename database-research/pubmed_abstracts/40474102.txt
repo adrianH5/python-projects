@@ -1,0 +1,2 @@
+Glioma is a common primary malignant brain tumor.
+This study aimed to develop a predictive model for glioma risk by these screened key SNPs in the Chinese Han population.

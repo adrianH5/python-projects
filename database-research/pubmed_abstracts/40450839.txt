@@ -1,0 +1,7 @@
+Photodynamic therapy can be a powerful tool to combat two of the greatest challenges of 21st-century medicine - antibiotic-resistant infections and cancer.
+Each of these factors claims millions of human lives annually.
+In the presented study, a wide variety of cationic phthalocyanines was tested against selected pathogens: Staphylococcus aureus, methicillin-resistant Staphylococcus aureus, Enterococcus faecalis, Escherichia coli, Escherichia coli producing extended-spectrum β-lactamases, Pseudomonas aeruginosa, carbapenem resistant Pseudomonas aeruginosa, Trichophyton mentagrophytes, Candida albicans.
+The compounds used in this study, which are functionalized with pyridyloxy substituents and in some cases bear bulky substituents (tert-butylphenyl or pyrenyl moieties) at the 5th position of the pyridyloxy ring, proved to be remarkably effective against all pathogens, allowing for a reduction in the number of microorganisms between 1.4 and 5.6 logs.
+Additionally, coaction with the commonly used antibiotic - doxycycline - was achieved in in vitro studies.
+The effectiveness of these macrocycles was also evaluated against melanoma cells (MICH2), showing a significant reduction in melanoma cell viability up to 85 %.
+Therefore, the investigated compounds can be considered as promising photosensitizers in modern photodynamic therapy.

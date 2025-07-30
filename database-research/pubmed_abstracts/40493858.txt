@@ -1,0 +1,11 @@
+Protein variants of the same gene─proteoforms─can have high molecular similarity yet exhibit different biological functions.
+Thus, the identification of unique peptides that unambiguously map to proteoforms can provide crucial biological insights.
+In humans, four human tropomyosin (TPM) genes produce similar proteoforms that can be challenging to distinguish with standard proteomics tools.
+For example, TPM1 and TPM2 share 85% sequence identity with amino acid substitutions that play unique roles in muscle contraction and myopathies.
+In this study, we evaluated the ability of the recently released Platinum single-molecule protein sequencer to detect proteoform-informative peptides.
+Platinum employs fluorophore-labeled recognizers that reversibly bind to cognate N-terminal amino acids (NAAs), enabling polypeptide sequencing within nanoscale apertures of a semiconductor chip that can accommodate single peptide molecules.
+As a proof of concept, we evaluated the ability of Platinum to distinguish three main types of proteoform variation: paralogue-level, transcript-level, and post-translational modification (PTM).
+We distinguished paralogous TPM1 and TPM2 peptides differing in a single isobaric residue (leucine/isoleucine).
+We also distinguished tissue-specific TPM2 spliceforms.
+Notably, we found that a phosphotyrosine-modified peptide displayed a reduced recognizer affinity for tyrosine, showing sensitivity to PTMs.
+This study paves the way for the targeted detection of proteoform biomarkers at the single molecule level.

@@ -1,0 +1,7 @@
+The PARP inhibitor olaparib is effective in breast cancer patients; however, its efficacy is reduced in triple-negative breast cancer (TNBC) due to mechanisms of drug resistance.
+Recent studies demonstrate that the CDK4 inhibitor palbociclib can enhance the sensitivity of cancer cells to PARP inhibitors.
+We designed 43 hybrid compounds by combining the pyrido[3,4-d]pyrimidine moiety from palbociclib with the phthalazinone ring from olaparib.
+Pharmacokinetic profiling and molecular docking revealed compound 17 as a promising candidate, demonstrating a binding affinity of - 8.42 kcal/mol with PARP1 and - 10.05 kcal/mol with CDK4, in contrast to the native inhibitors.
+Furthermore, the induced fit docking validated its superiority compared to the native inhibitors.
+Molecular dynamics simulations over 500 ns confirmed the structural stability of compound 17 with both targets.
+Moreover, the QM/MM, DFT, TD-DFT, and MEP analyses yielded significant insights into charge transfer and electronic transitions, augmenting our understanding of the electronic and bonding properties of the hybrid compound.

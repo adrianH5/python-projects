@@ -1,0 +1,7 @@
+Helicobacter pylori is the main pathogenic factor in gastric cancer (GC), and the interleukin (IL)-17-mediated inflammatory response plays a crucial role in both H. pylori infection and gastric carcinogenesis.
+CMTM4, a subunit of the IL-17 receptor (IL-17R), has been implicated in immune responses, but its role in GC development remains unclear.
+In this study, we investigate the role of CMTM4 during H. pylori-induced gastric carcinogenesis using Cmtm4 knockout (KO) mice.
+Our findings indicated that Cmtm4 deficiency inhibited GC development and pseudopyloric metaplasia, while reducing DNA damage in the gastric mucosa.
+Mechanistically, Cmtm4 deletion downregulated the IL-17 signaling pathway in GC.
+Specifically, it suppressed the expression of IL-17 receptor RC (IL-17RC) and its downstream signaling molecules, resulting in the inhibition of nuclear factor-κ B (NF-κB) activation and a decrease in NADPH oxidase-1 (NOX1) levels.
+These results suggest that Cmtm4 deletion suppresses H. pylori-induced gastric carcinogenesis and precancerous lesion formation, potentially through the regulation of IL-17RC/NF-κB/NOX1 signaling, which may represent a new target for the early prevention of GC.

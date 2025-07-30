@@ -1,0 +1,4 @@
+Glioblastoma exhibits a very poor prognosis and profound metabolic alterations associated to its aggressiveness.
+Examining tumor metabolic states is crucial for identifying potential therapeutic targets, enabling personalized medicine applications.
+However, direct access to the functional glioblastoma tumor microenvironment (TME) in vivo is highly challenging, particularly due to the tumor location and risk of blood-brain-barrier disruption.
+Here, we developed a novel research platform combining the innovative sampling technology cerebral open flow microperfusion (cOFM) and HILIC-HRMS-based metabolomics to comprehensively characterize the local metabolic phenotype of human glioblastoma in xenograft animal model.

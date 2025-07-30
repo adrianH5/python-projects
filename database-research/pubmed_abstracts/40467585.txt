@@ -1,0 +1,10 @@
+Non-shivering thermogenesis of brown adipose tissue (BAT) is tightly controlled by neural innervation.
+However, the underlying mechanism remains unclear.
+Here, we reveal that BAT regulates its own thermoadaptive innervation by crosstalk with Schwann cells (SCs).
+Loss of Olfm4 (encoding Olfactomedin-4), a risk gene in human obesity, causes BAT dysfunction and reduces whole-body thermogenesis, predisposing to obesity in mice.
+Mechanistically, BAT-derived OLFM4 traps Noggin, an endogenous inhibitor of BMPs, liberating BMP7-BMPR1B signaling to promote SC differentiation.
+Conversely, Olfm4 loss reduced BMP7 signaling in mature SCs, leading to MEK/ERK-dependent dedifferentiation and dysfunction, ultimately impairing both sensory and sympathetic innervation.
+Thermoneutrality exposure reduces Olfm4 expression in BAT, resulting in a similar phenotype.
+MEK/ERK inhibition, ERK1 depletion, or cold exposure reverses this SC dedifferentiation, enhancing resistance to obesity.
+These findings suggest that this neurotrophic BAT-SC crosstalk controls thermoadaptive BAT innervation.
+Reactivating OLFM4 signaling may be a promising therapeutic strategy for obesity and related metabolic diseases.

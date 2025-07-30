@@ -1,0 +1,14 @@
+Gliomas, particularly glioblastomas, are highly malignant brain tumors with high recurrence rates and poor prognosis.
+Despite advances in treatment, recurrence remains a major challenge.
+Epithelial-mesenchymal transition (EMT) plays a key role in tumor invasion and recurrence.
+This study explores the transcriptional and regulatory mechanisms driving glioma recurrence, focusing on mesenchymal-like (MES-like) subpopulations.
+Single-nucleus RNA sequencing was performed on 52 IDH wild-type GBM specimens, including 26 primary and 26 recurrent tumors.
+Spatial transcriptomics data were also incorporated.
+Tumor subpopulations were identified through gene regulatory network analysis, copy number variation detection, and nonnegative matrix factorization.
+Functional validation was conducted using gene knockdown experiments, followed by xenograft studies.
+We discovered novel MES-like subpopulations in recurrent GBM enriched with EMT-related genes like EGR1 and SERPINE1.
+These subpopulations exhibited increased transcriptional activity and were associated with poor prognosis and invasiveness.
+Knockdown of SERPINE1 significantly reduced cell proliferation and migration.
+Spatial transcriptomics showed MES-like cells concentrated at the tumor margins, highlighting their role in invasion and recurrence.
+MES-like subpopulations, driven by EGR1 and SERPINE1, are critical in GBM.
+Targeting these regulators could offer new therapeutic strategies to reduce glioma recurrence and improve outcomes.

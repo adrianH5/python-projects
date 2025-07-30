@@ -1,0 +1,22 @@
+Coronavirus disease 2019 (COVID-19), a deadly disease induced by the novel coronavirus severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), was first discovered in China, and is accompanied by a high degree of morbidity and mortality [1].
+Clinical features of COVID-19 may include pyrexia, asthenia, dyspnea, as well as acute respiratory distress syndrome, septic shock, and coagulation dysfunction in critically ill patients [3].
+However, the medical pharmacotherapy to treat COVID-19 is still insufficient [7].
+Accordingly, it is necessary to explore and develop bioactive compounds to treat COVID-19.
+All these pieces of evidence suggest that vitamin A may be an optional treatment for COVID-19; however, to date there has been no investigation of VA against SARS-CoV-2, especially its pharmacological mechanism.
+In this report, we aimed to determine and identify the curative effect of VA for treating COVID-19 and to utilize a network pharmacology approach to uncover the mechanisms underlying the therapeutic role of VA.
+We assayed and identified 393 SARS-CoV-2-associated genes from the Genecard and OMIM datasets.
+These findings suggest that vitamin A could be a potential treatment for COVID-19.
+However, there are few existing drug treatments for COVID-19, and some of the immunotherapy treatments and antiviral drugs used in clinical practice have shown limited therapeutic effectiveness [18].
+VA may exert potent, beneficial pharmacological activity for the treatment of COVID-19 via associated cytoprotection, anti-viral and anti-inflammatory effects, and immunoregulation.
+In further bioinformatics and computational assays, the therapeutic mechanisms of VA for managing COVID-19 could be conjunctively actualized through collective regulation of the FoxO signaling pathway, GnRH signaling pathway, PD-L1 expression, and PD-1 checkpoint pathway.
+Adjuvant supplementation of VA may enhance the therapeutic efficacy of current clinical anti-viral agents and immunotherapy to treat potentially fatal COVID-19.
+More importantly, VA may be used clinically for the treatment of COVID-19, as evidenced by the identified biological processes—which indicate pharmacological functions—and the signaling pathways, which suggest therapeutic mechanisms (Figure 6).
+By using online datasets, in particular TCMSP, Drugbank, SuperPred, Swiss Target Prediction, ChemMapper, and BATMAN TCM, all target genes activated by VA were obtained.
+The genes activated by VA were collected for target correction from reviewed (Swiss-Prot) and Uniprot databases.
+The Genecard and OMIM datasets were employed to harvest SARS-CoV-2 genes.
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) causes coronavirus disease 2019 (COVID-19), an epidemic disease characterized by rapid infection and a high death toll.
+The clinical diagnosis of patients with COVID-19 has risen sharply, especially in Western countries.
+Globally, an effective treatment for COVID-19 is still limited.
+In this study, bioinformatics analysis and computation assays using a network pharmacology method were conducted to explore and uncover the therapeutic targets and mechanisms of VA for treating COVID-19.
+Furthermore, seven core targets of VA against COVID-19, including MAPK1, IL10, EGFR, ICAM1, MAPK14, CAT , and PRKCB were identified.
+With this bioinformatics-based report, we reveal, for the first time, the anti-SARS-CoV-2 functions and mechanisms of VA and suggest that VA may act as a potent treatment option for COVID-19, a deadly global epidemic.

@@ -1,0 +1,9 @@
+Abnormal cholesterol metabolism promotes the immunosuppressive microenvironment of pancreatic cancer and affects the long-term efficacy of chemotherapy drugs.
+Accurate diagnosis and targeted microenvironment-remodeling are challenging during the asymptomatic phase, considerably weakening the antitumor response.
+To modulate the cholesterol uptake pathway in pancreatic cancer, we developed a seamless diagnostic and chemoimmunotherapy system comprising gemcitabine-loaded nanobubbles with a cholesterol component shell (CHOL@GEM-NBs) fabricated to target the cholesterol transporter Niemann-Pick C1-like 1 (NPC1L1) precisely.
+The system achieved sufficient permeability to enhance the targeted accumulation of NBs extravasation in tumor blood vessels to locate the tumor region.
+The CHOL@GEM-NBs exhibited excellent ultrasound molecular imaging performance, with increased contrast intensity and duration time.
+Moreover, we employed ultrasound-targeted nanobubble destruction (UTND) to facilitate cytotoxicity by enhancing cellular uptake and drug release.
+This approach reduced NPC1L1 expression and mitigated cholesterol hijacking by tumor cells in the microenvironment.
+Additionally, ultrasound and cavitation triggered immunogenic cell death to release damage-associated molecular patterns.
+Essential cholesterol flow restoration and adaptive immunity activation improved the immunosuppressive microenvironment, as evidenced by the increased infiltration of CD8

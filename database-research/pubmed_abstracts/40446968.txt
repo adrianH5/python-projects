@@ -1,0 +1,10 @@
+Gastrointestinal stromal tumors (GISTs) are the most common mesenchymal malignancies of the digestive tract.
+About 85 % of them have gain-of-function mutations in KIT or PDGFRA, resulting in constitutive activation of these receptor tyrosine kinases, which are drivers of GIST development.
+While localized GIST can be cured by surgery alone, imatinib, a tyrosine kinase inhibitor, is the treatment of choice for advanced/metastatic disease.
+However, more than half of patients develop secondary resistance.
+Recent advances in the study of long non-coding RNA (lncRNA) have shed light on their role in the biology of GIST, revealing a complex level of gene expression regulation that contributes to pathogenesis, malignant progression, and therapeutic response to imatinib.
+This review aims to provide a comprehensive overview of the current knowledge regarding lncRNAs in GIST.
+An understanding of the roles of lncRNAs provides valuable insights into tumor behaviour and resistance mechanisms.
+The functions of the various lncRNAs are described as they can act as oncogenes or as tumor suppressor genes.
+The potential of lncRNAs in the clinical setting as prognostic and predictive indicators is also reviewed.
+The challenges in lncRNA research are discussed as well as the prospects of incorporating lncRNAs as target for GIST treatment, highlighting the importance of ongoing research to achieve its full potential to improve patient care.

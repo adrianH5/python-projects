@@ -1,0 +1,9 @@
+Immunotherapy has had a tremendous impact on cancer treatments.
+Although frequently used inside the clinics, the application of immunomodulating compounds remains restricted due to the immunosuppressive tumor microenvironment.
+Among the promising methods, the activation of the stimulator of interferon genes (STING) pathway has emerged as a next-generation immunotherapeutic target.
+Despite promising preliminary results, the application of STING activating agents is strongly limited due to poor tumor selectivity and poor bioavailability.
+To overcome these limitations, herein, the first example of a cobalt(III) cyclam prodrug capable of inducing a chemotherapeutic effect and activating the STING pathway is reported.
+The cobalt(III) complex was found to be stable under physiological conditions, but released its axial ligands within the reducing cancerous microenvironment.
+While the reduced metal complex triggered a strong cytotoxic response by chemotherapy, the released organic ligands induced a strong immune response using the STING pathway, resulting in a multimodal treatment.
+To further enhance the pharmacological properties and provide tumor selectivity, the metal complex was encapsulated in polymeric nanoparticles.
+Upon injection into the blood stream, the nanoparticles accumulated in the triple-negative breast cancer tumor of the mouse model, activated the immune response inside the animal, and caused a nearly complete eradication of the tumor.

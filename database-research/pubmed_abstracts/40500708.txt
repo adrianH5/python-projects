@@ -1,0 +1,10 @@
+Colorectal cancer is one of the most common malignant tumors worldwide.
+Colorectal cancer has a poor survival rate because it tends to metastasise to the liver and other organs.
+PELI2, an E3 ubiquitin ligase, is down-expressed in a variety of tumors.
+However, the role of PELI2 in colorectal cancer has not been revealed.
+In the present study, we found that expression level of PELI2 were reduced significantly in colorectal tumors compared with normal tissues.
+Patients with low level of PELI2 expression tended to have poor prognosis.
+Moreover, PELI2 decreased the proliferation, migration and anti-apoptosis of colorectal cancer cells in vitro.
+We also constructed xenograft tumor model to verify colorectal tumor growth slowed down after PELI2 overexpression.
+Transcriptome analysis suggested that PELI2 suppressed colorectal cancer progression via the MAPK signaling pathway.
+In brief, our study shows that PELI2 inhibits colorectal cancer development by MAPK signaling pathway.

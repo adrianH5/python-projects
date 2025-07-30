@@ -1,0 +1,13 @@
+Studies show that breast screening participants are open to artificial intelligence (AI) in breast screening, but hold concerns about AI performance, governance, equitable access, and dependence on technology.
+Little is known of consumers' views on how AI should be used in breast screening practice.
+Our study aims to determine what matters most to women regarding AI use in the workflow of publicly funded breast screening programs, and how women choose between workflow options.
+We recruited forty women of screening age to learn about AI, the Australian breast screening program, and four possible workflows that include AI - one where AI works alone, and three different combinations of humans and AI.
+Participants then joined one of eight 90-minute dialogue groups to discuss their normative judgements on workflow options.
+Women proposed four conditions on AI deployment: preserving human control, evidence to assure AI performance, time to become familiar with AI, and clearly justifying the need for implementation.
+These informed women's unified rejection of AI working alone, and divided preferences across the other three workflows, as they traded off workflow attributes.
+Current evidence on AI performance convinced some women, but not others.
+Most women believed humans mitigate risk the best, so workflows should continue to be designed around them.
+Public breast screening services are trusted and valued by women, so significant changes require careful attention to outcomes relevant to women.
+Our results - women's detailed judgements on workflow design options - are new to the research literature.
+We conclude that women expect that AI only be deployed to do tasks it can do well, only where necessary, and only to fill gaps that radiologists cannot meet.
+Advancements in AI accuracy alone are unlikely to influence all women to accept AI making final decisions, if clinicians are available to perform the same task.

@@ -1,0 +1,4 @@
+The challenges that remain in the treatment of solid tumors with chimeric antigen receptor (CAR)-T cells include limited solid tumor-specific targets and poor CAR-T cell expansion and function due to limited availability of solid tumor antigens outside the tumor microenvironment.
+Prostate cancer is the second most common cancer among men worldwide.
+Current CAR-T therapies for prostate cancer lack specific targets, posing safety risks.
+To overcome these problems, we identified prostatic acid phosphatase (PAP, also known as ACPP or ACP3) as a feasible CAR-T target for prostate cancer and developed CoupledCAR, a novel approach for expanding tumor-targeting CAR-T cells without tumor antigens.

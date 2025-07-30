@@ -1,0 +1,6 @@
+Histone deacetylases (HDAC) regulate diverse pathways in cancer cells.
+Previously, we identified that Ewing sarcoma tumors, which are caused by a translocation between the EWSR1 and FLI1 genes (EWS::FLI1), are sensitive to drugs that target DNA replication, including the RRM1 and RRM2 subunits of ribonucleotide reductase (RNR), and the ATR-CHK1-WEE1 signaling pathway.
+In this study, we identified that multiple HDAC inhibitors, including fimepinostat, romidepsin and panobinostat, downregulate the levels of the RRM1, RRM2, CHK1, and WEE1 proteins in Ewing sarcoma cells, and impair DNA replication.
+Moreover, transcriptome analyses identified that HDAC inhibitors downregulate the expression of multiple components of the pre-replication complex (pre-RC), including the MCM2-7 proteins and CDT1, that are essential for genomic DNA replication.
+Additionally, proteomic studies identified that HDAC inhibitors also downregulate the level of the BRD4 protein, a BET bromodomain protein that regulates both the transcriptional program of the EWS::FLI1 oncoprotein and DNA replication.
+Overall, these results provide novel insight into the molecular mechanisms by which HDAC inhibitors target cancer cells, regulate DNA replication, and inhibit the cellular response to DNA replication stress.

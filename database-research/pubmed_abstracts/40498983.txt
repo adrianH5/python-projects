@@ -1,0 +1,3 @@
+Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal malignancies due to its immunosuppressive tumor microenvironment.
+It is hypothesized that overcoming these barriers requires a dual approach: inducing immunogenic tumor cell death (ICD) and enhancing the cancer immunity cycle by exogenous neoantigen targeting on the spleen.
+In this study, a novel strategy is presented combining irinotecan-loaded silicasomes with spleen-targeting lipid nanoparticles (LNPs) carrying KRAS

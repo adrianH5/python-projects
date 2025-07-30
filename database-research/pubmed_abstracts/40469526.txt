@@ -1,0 +1,6 @@
+Chimeric antigen receptor (CAR) T-cell therapies have revolutionised the treatment of blood-based malignancies.
+The use of manual CAR T-cell manufacturing methods is one of the challenges that contributes to these delays.
+As CAR T therapy emerges as a potential first- or second-line treatment option for these cancers, the demand for these therapies continues to rise.
+However, challenges persist in ensuring that the patients who need these therapies receive them in a timely manner.
+Automated CAR T-cell manufacturing methods that use software to control the equipment used in the process can help overcome the roadblocks associated with manual manufacturing, ultimately enabling a reduction in variability, increased efficiency, improved product quality and better data management.
+This paper aims to present an end-to-end semi-automated methodology for manufacturing CAR T cells using the Cell Therapy Systems (CTS™) Cellmation software - an off-the-shelf software solution - to control physically connected modular cell therapy instruments that eliminates the roadblocks associated with manual manufacturing.

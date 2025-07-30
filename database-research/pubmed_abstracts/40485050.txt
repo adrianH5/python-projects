@@ -1,0 +1,8 @@
+Osimertinib is a third-generation EGFR tyrosine kinase inhibitor (TKI) widely used to treat advanced nonsmall cell lung cancer (NSCLC) with EGFR mutations.
+However, resistance to osimertinib frequently develops, limiting its long-term effectiveness.
+In this study, we used osimertinib-resistant lung cancer cell lines and lung cancer patient-derived organoids to demonstrate the potential of dauricine, a bioactive compound derived from menispermum dauricum, to overcome osimertinib resistance in lung cancer cells.
+Mechanistic studies reveal that dauricine, when combined with osimertinib, efficiently induces ferroptosis in resistant lung cancer cells.
+Notably, RNA interference and pharmacological inhibition assays identify SAT1, a key enzyme involved in polyamine metabolism and oxidative stress regulation, as a critical mediator of the synergistic effects observed with the dauricine-osimertinib combination therapy.
+Furthermore, we show that dauricine can directly interact with and stabilize SAT1 to enhance its activity.
+In vivo, when administered with osimertinib, dauricine significantly suppresses tumor growth in osimertinib-resistant lung cancer models.
+These findings provide novel insights into the role of SAT1 in overcoming osimertinib resistance and suggest that combining dauricine with osimertinib could be a promising therapeutic strategy to improve the efficacy of EGFR-TKI therapy in resistant NSCLC.

@@ -1,0 +1,12 @@
+Histone deacetylase inhibitors (HDACis) are promising anti-cancer agents but remain underexplored in glioblastoma (GBM).
+This study evaluated the effects of three HDACis-CAY10603, vorinostat (SAHA), and valproic acid (VPA)-on human GBM cell lines (U87, MGG8) with immortalized human astrocytes (IHAs) as healthy controls.
+HDACis were tested alone or in combination with temozolomide (TMZ), the standard chemotherapy for GBM, in both 2D (monolayer) and 3D (neurosphere) cultures.
+Additionally, co-culture of GBM cells with macrophages (M0, biochemically differentiated from THP-1 human monocytes) was used to examine the impact of HDACis on cancer-immune interactions.
+Results demonstrated that all three HDACis significantly reduced cell viability and synergistically enhanced the effect of TMZ.
+CAY10603 and SAHA induced early apoptosis and upregulated caspase 3 (CASP3) expression, whereas VPA primarily induced late apoptosis and necrosis in GBM cultures.
+VPA induced both G0/G1 and G2/M cell cycle arrest, while SAHA and CAY10603 only induced G2/M arrest.
+mRNA expression analysis following HDACi treatment in U87 neurospheres revealed that HDACis inhibited expression of markers for epithelial-to-mesenchymal transition (EMT), proliferation, and stemness pathways.
+In U87-M0 co-cultures, we observed significant upregulation of stemness markers and the pro-inflammatory cytokine TNF-α following CAY10603 and VPA treatments.
+In contrast, TMZ monotherapy upregulated the expression of the immunosuppressive cytokine TGF-β.
+These findings suggest that HDAC inhibition-including the novel small molecule CAY10603-sensitizes GBM to temozolomide and confers potent anti-tumor effects that combat GBM (e.g., reducing proliferation, EMT, stemness).
+Our

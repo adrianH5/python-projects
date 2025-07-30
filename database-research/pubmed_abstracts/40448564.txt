@@ -1,0 +1,7 @@
+Physicians' referral networks influence the information they obtain from peers and how fast they adopt new treatment modality.
+This study employs a cross-sectional design.
+We examined how urologists' referral network connections via primary care physicians influence the adoption of active surveillance for localized prostate cancer, using SEER-Medicare data (2001-2015).
+We developed a referral network index to measure urologists' connections outside their practice.
+Multinomial logistic regression estimated the likelihood of active surveillance adoption, adjusting for patient, urologist, and market factors.
+Findings revealed that each standard deviation increase in a urologist's referral network index was associated with a 1.90 percentage point rise in the likelihood of adopting active surveillance, with a more pronounced effect observed post-2010.
+The study concludes that primary care physicians may function as critical "information hubs," accelerating the diffusion of new treatment modalities among urologists, particularly following clinical guideline updates.

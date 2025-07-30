@@ -1,0 +1,7 @@
+Esophageal adenocarcinoma (EAC) is a highly lethal cancer of the upper gastrointestinal tract with rising incidence in western populations.
+To decipher EAC disease progression and therapeutic response, we perform multiomic analyses of a cohort of primary and metastatic EAC tumors, incorporating single-nuclei transcriptomic and chromatin accessibility sequencing along with spatial profiling.
+We recover tumor microenvironmental features previously described to associate with therapy response.
+We subsequently identify five malignant cell programs, including undifferentiated, intermediate, differentiated, epithelial-to-mesenchymal transition, and cycling programs, which are associated with differential epigenetic plasticity and clinical outcomes, and for which we infer candidate transcription factor regulons.
+Furthermore, we reveal diverse spatial localizations of malignant cells expressing their associated transcriptional programs and predict their significant interactions with microenvironmental cell types.
+We validate our findings in three external single-cell RNA sequencing (RNA-seq) and three bulk RNA-seq studies.
+Altogether, our findings advance the understanding of EAC heterogeneity, disease progression, and therapeutic response.

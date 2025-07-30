@@ -1,0 +1,11 @@
+Bone morphogenetic protein (BMP) antagonists have been increasingly linked to the development of colorectal cancer (CRC).
+BMP signalling operates in opposition to the WNT signalling pathway, which sustains stem-cell maintenance and self-renewal of the normal intestinal epithelium.
+Reduced BMP and elevated WNT signalling lead to expansion of the stem-cell compartment and the hyperproliferation of epithelial cells, a defining characteristic of CRC.
+Chordin-like-2 (CHRDL2) is a secreted BMP antagonist, with overexpression linked to poor prognosis and variants in the gene shown to be associated with an elevated CRC risk.
+However, the detailed mechanism by which CHRDL2 contributes to CRC is unknown.
+In this study, we explored the impact of CHRDL2 overexpression on CRC cells to investigate whether CHRDL2's inhibition of BMP signalling intensifies WNT signalling and enhances the cancer stem-cell phenotype and response to treatment.
+Our research approach combines 2D cancer cell lines engineered to inducibly overexpress CHRDL2 and 3D organoid models treated with extrinsic CHRDL2, complemented by RNA sequencing analysis.
+CHRDL2 was found to enhance the survival of organoids and CRC cells during chemotherapy and irradiation treatment due to activation of DNA damage response pathways.
+Organoids treated with secreted CHRDL2 exhibited elevated levels of stem-cell markers and reduced differentiation, as evidenced by diminished villi budding.
+RNA-seq analysis revealed that CHRDL2 increased the expression of stem-cell markers, WNT signalling and other well-established cancer-associated pathways through BMP inhibition.
+These findings collectively suggest that CHRDL2 overexpression could affect response to CRC therapy by enhancing DNA repair and the stem-cell potential of cancer cells, and its role as a biomarker should be further explored.

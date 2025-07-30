@@ -1,0 +1,7 @@
+Rhabdomyosarcoma (RMS) is a highly aggressive soft tissue sarcoma, affecting children and adolescents, with poor prognosis in some patient groups.
+Better therapeutic regimens and preclinical models to test them in are needed.
+Multi-receptor tyrosine kinase inhibitors (MRTKIs) are licensed for adult indications and explored in the clinic in sarcoma patients.
+The MRTKI Regorafenib is currently assessed in the relapse setting in patients with RMS (NCT04625907).
+Reliable biomarkers of response for MRTKIs are lacking.
+MRTKIs act not only against the cancer cell, but also the supporting stroma, particularly the vasculature.
+The embryonic zebrafish is translucent and allows assessment of this interaction with high-throughput

@@ -1,0 +1,9 @@
+The evaluation of bone marrow pathology is essential for diagnosing and classifying myeloproliferative neoplasms (MPNs).
+However, morphological assessments of bone marrow trephine (BMT) sections by hematopathologists are inherently subjective; thus, an accurate and objective diagnostic system is needed.
+Based on U2-Net, UNeXt, and ResNet, we developed an automatic quantitative analysis platform of BMT sections from MPNs patients and nonneoplastic cases (n=342 total) to enhance the accuracy of diagnosis and classification of MPNs.
+Bone marrow metrics, including marrow cellularity, the myeloid-to-erythroid (M: E) ratio, megakaryocyte morphology and distribution, and the grading of marrow fibrosis (MF), were quantitatively analyzed (with an accuracy of approximately 0.9) based on the accuracy segmentation and identification of various cells and tissues (with an intersection over union (IoU) of roughly 0.8).
+A bone marrow classification model incorporating bone marrow metrics, a clinical classification model utilizing clinical features, and a comprehensive classification model that includes both bone marrow metrics and clinical features were developed using random forest classifiers to differentiate MPN subtypes and nonneoplastic conditions.
+The bone marrow and comprehensive classification models reached a macro-average area under the curve (AUC) of 0.96 for differentiating MPN subtypes and nonneoplastic cases.
+The clinical classification model attained a macro-average AUC of 0.92.
+This platform is highly accurate for quantitatively analyzing bone marrow pathology and classifying MPN subtypes and nonneoplastic cases.
+It can be a potentially auxiliary diagnostic tool for hematopathologists when dealing with patients with suspected MPNs.

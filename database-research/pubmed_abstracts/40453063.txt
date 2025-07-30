@@ -1,0 +1,8 @@
+Myelodysplastic neoplasms (MDS) are hypothesized to remodel their bone marrow (BM) microenvironment to reinforce conditions for their propagation.
+In this study, we investigated interactions between MDS cells and the BM niche at single-cell level.
+In a patient-derived xenograft (PDX) model, we analyzed 13 000 cells from different murine niche cell populations after long-term (>24 weeks) exposure to MDS vs healthy human grafts.
+Subsequently, we analyzed over 24 000 primary human BM cells enriched for the nonhematopoietic compartment by using whole bone fragments from n = 8 patients with MDS and n = 7 healthy, age-matched donors.
+In PDX who received MDS transplantation, mesenchymal cell (MSC) subpopulations were forced to overexpress hematopoietic factors such as Cxcl12 and Il7 upon contact with hematopoietic MDS cells as compared with healthy grafts.
+Single-cell analyses of primary in situ BM cells from patients with MDS showed highly heterogeneous MSC subpopulations on a patient-individual level.
+We identified inflammatory gene expression profiles as well as overexpression of C-X-C Motif Chemokine Ligand 12, KIT ligand, and Interleukin 7 in MDS MSCs and endothelial cells.
+In conclusion, we demonstrate reprogramming of the BM microenvironment by MDS cells, pointing to altered MSC subpopulations with increased growth factor expression profiles in a subgroup of patients with MDS.

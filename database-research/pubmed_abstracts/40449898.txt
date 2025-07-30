@@ -1,0 +1,7 @@
+The deployment of AI in medical imaging, particularly in areas such as fracture detection, represents a transformative advancement in orthopaedic care.
+AI-driven systems, leveraging deep-learning algorithms, promise to enhance diagnostic accuracy, reduce variability, and streamline workflows by analyzing radiograph images swiftly and accurately.
+Despite these potential benefits, the integration of AI into clinical settings faces substantial barriers, including slow adoption across health systems, technical challenges, and a major lag between technology development and clinical implementation.
+This commentary explores the role of AI in healthcare, highlighting its potential to enhance patient outcomes through more accurate and timely diagnoses.
+It addresses the necessity of bridging the gap between AI innovation and practical application.
+It also emphasizes the importance of implementation science in effectively integrating AI technologies into healthcare systems, using frameworks such as the Consolidated Framework for Implementation Research and the Knowledge-to-Action Cycle to guide this process.
+We call for a structured approach to address the challenges of deploying AI in clinical settings, ensuring that AI's benefits translate into improved healthcare delivery and patient care.

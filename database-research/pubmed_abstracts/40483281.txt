@@ -1,0 +1,7 @@
+Thyroid cancer (THCA) is profoundly influenced by its immune microenvironment, with dendritic cells (DCs) serving as key mediators of tumor-immune interactions.
+This study leveraged single-cell RNA sequencing and transcriptome RNA sequencing to analyze DC populations in THCA tissues.
+The results revealed significant disparities in DC distribution and function, with formyl peptide receptor 1 (FPR1) emerging as a crucial factor associated with patient prognosis.
+Meta-analysis further validated the differential expression of FPR1, reinforcing its significance in THCA progression.
+Investigations into the TME highlighted the relationship between FPR1 and DC maturation and activation, elucidating the mechanistic basis for immune regulation.
+Experimental validation confirmed that Annexin A1 (ANXA1) interacts with FPR1 in DCs, promoting tumor progression through immune modulation.
+These findings advance the understanding of THCA immune mechanisms and underscore the potential of targeting the ANXA1-FPR1 axis as a novel approach for immunotherapy in THCA.

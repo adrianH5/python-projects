@@ -1,0 +1,22 @@
+T1	Repository 61 67	RefSeq
+T2	URL 78 126	ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/viral/
+T3	Repository 873 879	RefSeq
+T4	URL 890 938	ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/viral/
+T5	Repository 964 979	NCBI Nucleotide
+T6	URL 990 1035	https://www.ncbi.nlm.nih.gov/nuccore/MN908947
+T7	Repository 1181 1187	RefSeq
+T8	URL 1198 1246	ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/viral/
+T9	Repository 1330 1336	RefSeq
+T10	URL 1347 1395	ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/viral/
+T11	Repository 1454 1469	NCBI Nucleotide
+T12	URL 1480 1525	https://www.ncbi.nlm.nih.gov/nuccore/MN908947
+T13	Dataset 1614 1620	GISAID
+T14	Repository 1717 1727	Nextstrain
+T15	URL 1737 1771	https://nextstrain.org/ncov/global
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T5	Arg2:T6
+R4	hasAttr	Arg1:T7	Arg2:T8
+R5	hasAttr	Arg1:T9	Arg2:T10
+R6	hasAttr	Arg1:T11	Arg2:T12
+R7	hasAttr	Arg1:T14	Arg2:T15

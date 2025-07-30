@@ -1,0 +1,10 @@
+Over the past decade, magnetoelectric nanoparticles (MENPs) have proven effective in generating local electric fields in response to stimulation with a magnetic field.
+The applications of such nanoparticles are many and varied, with examples of prior research including use for on-demand drug release, wireless modulation and recording of neural activity, and organic dye degradation.
+This study investigates the potential for organic dye degradation to be used as a rapid and efficient screening tool to detect the magnetoelectric effect of MENPs, and how the results of such a test mirror the antiproliferative effect of said nanoparticles.
+Trypan blue was selected as an azo dye to test for dye degradation.
+Vials of the dye were treated with CoFe2O4@BaTiO3 core-shell MENPs of varying characteristics, both with and without concurrent 1-kHz 250-Oe magnetic stimulation.
+Dye degradation was measured using ultraviolet (UV)-vis spectroscopy.
+Dye degradation efficacy varied with varying nanoparticle synthesis parameters.
+As controls, nanoparticles of the same composition, but with an insignificant magnetoelectric effect, were used.
+SKOV-3 ovarian cancer cells were then treated with the same nanoparticles, and viability was measured with an adenosine triphosphate (ATP) assay.
+These measurements show a decrease in cell viability up to 60.3% of control (

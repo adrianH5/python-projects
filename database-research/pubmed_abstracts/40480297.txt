@@ -1,0 +1,14 @@
+SN38 has strong anti-tumor activity.
+However, issues such as its limited solubility and stability have restricted its development and application.
+To address these problems, we designed a formulation of SN38 nanocrystals encapsulated in liposomes (SN38-NC@Lipo), aiming to enhance the stability, permeability and anti-breast cancer efficacy of the drug.
+SN38-NC was prepared by reversolvent-ultrasound method and SN38-NC@Lipo by ethanol injection.
+The Box-Behnken response surface optimization method was used to determine and characterize SN38-NC@Lipo.
+The uptake of these nanoparticles by 4 T1 cells and its effect on cell apoptosis were studied.
+In vivo pharmacodynamic evaluation was conducted using 4 T1 cells to assess the anti-breast cancer effect of nanomedicines.
+Measure the body weight and tumor volume, calculate the tumor suppression rate, observe the pathological changes of the tumor, and detect the blood routine indicators.
+SN38-NC with a particle size of 196.4 ± 0.197 nm and a PDI of 0.174 ± 0.009, and SN38-NC@Lipo with a particle size of 177.5 ± 4.124 nm, a PDI of 0.328 ± 0.019, an encapsulation rate of 91.32 %±1.77, and a drug load of 6.88 %±0.13 were successfully prepared.
+In vivo pharmacodynamics showed significant anti-breast cancer effects on 4 T1 cells for SN38-NC@Lipo, SN38-NC, and SN38.
+The tumor inhibitory rate for the SN38-NC@Lipo group was 70.34 %, higher than the 61.45 % for the SN38-NC group and 45.73 % for the SN38 group.
+SN38-NC and SN38-NC@Lipo were prepared with small particle size and low PDI.
+SN38-NC@Lipo showed excellent drug loading and encapsulation rates.
+Both formulations exhibited enhanced anti-breast cancer effects in vivo and in vitro.

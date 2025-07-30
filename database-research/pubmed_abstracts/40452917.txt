@@ -1,0 +1,8 @@
+Recent studies reported that cytoplasmic dsDNA-induced activation of cyclic GMP-AMP synthase (cGAS)/stimulator of interferon genes (STING) signaling has tremendous potential for antitumor immunity by inducing the production of type I Interferon (IFN), resulting in activation of both innate and adaptive immunity.
+However, the potential role of STING signaling in modulating immunological checkpoint inhibitor (CPI) therapeutic efficacy remains unexplored.
+In this research, we employed the single-sample gene set enrichment analysis (ssGSEA) algorithm to calculate the enrichment score of STING signaling across 15 immunotherapy cohorts, including melanoma, lung, stomach, urothelial, and renal cancer.
+Logistic and Cox regression models were utilized to investigate the association between STING signaling and checkpoint inhibitor therapeutic response.
+Furthermore, we evaluated the tumor immunogenicity of STING1 molecule expression in the Cancer Genome Atlas (TCGA) pan-cancer datasets.
+STING signaling was associated with improved immune response in the Mariathasan2018_PD-L1, Gide2019_combined, Jung2019_PD-1/L1, and Gide2019_PD-1 datasets and with prolonged overall survival in the Gide2019_PD-1, Nathanson2017_post, Jung2019_PD-1/L1, and Mariathasan2018_PD-L1 datasets.
+However, the Braun_2020_PD-1 cohort exhibited worse prognosis outcomes in the high STING signaling subgroup.
+Our study extended the molecular knowledge of STING signaling activation in regulating the antitumor immune response and provided clinical clues about the combination treatments of STING agonists and CPIs for improving tumor therapeutic efficacy.

@@ -1,0 +1,16 @@
+The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), a novel RNA virus of the Coronaviridae family, caused an outbreak of coronavirus disease 2019 (COVID-19) in China in late December 2019, and has been rapidly spreading to more than 214 countries and areas since then [1], [2].
+COVID-19 is the third pandemic caused by coronavirus in the last 20 years; and it has resulted in more than 4,993,470 infections and claimed nearly 327,738 lives as of May 22, 2020, exceeding any other epidemic caused by betacoronaviruses in the human history, for example, SARS in 2002–2003 and the Middle East respiratory syndrome (MERS) in 2012 (https://www.ecdc.europa.eu/en/2019-ncov-background-disease).
+Among the extensive studies conducted on COVID-19, one essential question is to trace the origin and transmission between humans, shedding light on the molecular mechanism underlying epidemiological and pathological characteristics of the virus.
+One example of an infection cluster is the COVID-19 outbreak in the Diamond Princess cruise [9].
+The dataset used for this study includes 12,909 genomic sequences as of May 4, 2020, of which 487 genomes are from China (15 provinces and regions) and 12,422 genomes are from 72 other countries of the world.
+Second, from Jan 10, 2020 to Feb 29, 2020, only 11 out of the 718 samples in the public databases, i.e., 2019 Novel Coronavirus Resource (2019nCoVR) [14] and Global Initiative on Sharing All Influenza Data (GISAID), were collected from Wuhan.
+Third, before Dec 24, 2019, no sequence was collected in the databases during this early stage.
+Fifteen of the 68 (22.06%) H1 haplotypes were collected only from patients near WSM showing severe symptoms of COVID-19 in a short time interval (Dec 30, 2019–Jan 7, 2020), which was the initial period of COVID-19 outbreak.
+WSM was widely considered as the source of the COVID-19 outbreak since it was first identified around late December, 2019.
+However, some studies claimed COVID-19 might originate at an earlier time point and outside of WSM (e.g., [15]).
+The estimated TMRCA and the associated 95% CIs are both earlier than the outbreak time of COVID-19 in WSM.
+We observe remarkable changes in the prevalence of L lineage during the COVID-19 pandemic (Figure S3A).
+A total of 12,909 SARS-CoV-2 genomes available on May 4, 2020 were downloaded from GISAID (http://www.gisaid.org) and National Genomics Data Center (https://bigd.big.ac.cn/ncov/).
+A novel RNA virus, the severe acute respiratory syndrome coronavirus 2 ( SARS-CoV-2 ), is responsible for the ongoing outbreak of coronavirus disease 2019 ( COVID-19 ).
+Population genetic analysis could be useful for investigating the origin and evolutionary dynamics of COVID-19.
+The results indicate that COVID-19 might originate earlier than and outside of Wuhan Seafood Market.

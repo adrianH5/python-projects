@@ -1,0 +1,12 @@
+COVID-19 has infected over 20 million people and has killed more than 737,000 people by mid August 2020.
+There are currently no promising antiviral drugs or vaccines to combat COVID-19.
+Developing functional computational models and networks to predict potential SARS-CoV -miRNA/lncRNA association may benefit not only the understanding of COVID-19 mechanism at the noncoding RNA level, but also the detection of disease biomarkers for disease diagnosis, treatment, prognosis, and prevention.
+Since it is also important to consider the virus-host protein-protein interaction in order to understand its pathogenesis during infection [7,8]; we used Viruses- STRING, a protein–protein interaction database specifically designed to analyze the virus-host interactions [9].
+Furthermore, we used the miRWalk2.0 database to generate a network for a comprehensive overview of miRNA-lncRNA interactions using experimentally verified data [11].
+To generate an interactome network of Human SARS coronavirus (SARS-CoV) with human proteins, we used the STRING database http://viruses.string-db.org/ (version 10.5) [9].
+In order to disclose the most possible miRNAs regulating the selected mRNAs, the MiRTarBase (http://miRTarBase.cuhk.edu.cn/), one of the most important experimentally validated miRNA-target interactions (MTIs) databases, was employed.
+Further, miRNA-lncRNA interactions were determined using the miRWalk2.0 database (http://zmf.umm.uni-heidelberg.de/apps/zmf/mirwalk2/), a database on predicted and published noncoding RNAs; and seed length (SL) ≥ 13 were selected as the most significant interactions [11].
+Human SARS coronavirus (SARS-CoV) and the Homo sapiens interaction network was downloaded as a vector image from the viruses STRING dataset.
+Therefore, we aimed to follow a comprehensive bioinformatics approach to dissect the strongest possible changes in the noncoding RNA network in response to the viral infection in humans using the available online databases.
+STRING online database as a powerful platform to explore the most significant protein-protein interactions between SARS-CoV viral particles and host proteome.
+Thus, it is of utmost important priority to develop novel therapies for COVID-19.

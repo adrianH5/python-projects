@@ -1,0 +1,10 @@
+Tumor-associated macrophages (TAMs) in the tumor microenvironment play a key role in drug resistance, but the mechanisms underlying TAM polarization and its role in drug resistance remain unclear.
+Here, we identified BRD4 as a critical factor in TAM polarization and drug resistance in colorectal cancer (CRC).
+BRD4 deficiency in macrophages impaired M2-like TAM polarization, and tumors from myeloid-lineage specific Brd4 conditional knockout (Brd4-CKO) mice displayed a reduction in infiltrating M2-like TAMs and an enhanced anti-tumor microenvironment.
+Colon cancer cells treated with conditioned medium from polarized Brd4-deficient TAMs, as well as tumors in Brd4-CKO mice, were more sensitive to oxaliplatin.
+RNA-seq and cytokine microarray analysis revealed that mRNA and protein levels of PAI-1 were significantly decreased in Brd4-deficient polarized TAMs.
+BRD4 was recruited to the promoter of Serpine1, promoting SMAD-dependent PAI-1 expression.
+Supplementing Brd4-deficient TAMs with recombinant PAI-1 hampered the sensitivity of colon cancer cells to oxaliplatin.
+Moreover, PAI-1 inhibitor and oxaliplatin synergistically suppressed the growth of colon tumors.
+Clinically, the expression levels of BRD4 in TAMs and PAI-1 in tumors were elevated in CRC patients with chemoresistance, correlating with shorter recurrence-free survival.
+Collectively, our findings uncover a novel role for BRD4 in TAM polarization and drug resistance via PAI-1 upregulation, suggesting the BRD4/PAI-1 axis as a potential prognostic marker and therapeutic target in CRC.

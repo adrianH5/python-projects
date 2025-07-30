@@ -1,0 +1,18 @@
+Four and a half LIM domains protein 2 (FHL2) acts as a crucial role in tumorigenesis and progression.
+This study explored its involvement in lung squamous cell carcinoma (LUSC).
+Bioinformatics analysis assessed FHL2 expression and survival outcomes in non-small cell lung cancer (NSCLC).
+Subsequently, immunohistochemistry (IHC), qPCR, and Western blotting (WB) were performed to assess FHL2 levels in LUSC tissue microarrays (TMA) and cell lines.
+In vitro, CCK-8, plate colony formation, wound healing, and Matrigel Transwell assays were conducted to investigate the effects of FHL2 on LUSC cell proliferation, migration, and invasion.
+In vivo, xenograft tumor models were utilized to evaluate the role of FHL2 in LUSC progression.
+Mechanistically, immunoprecipitation (IP) and proximity ligation assays (PLA) were performed to explore the interaction between FHL2 and c-Jun.
+The cycloheximide (CHX) chase assay was conducted to assess c-Jun stability in the context of FHL2 overexpression or knockdown.
+The influence of differential FHL2 expression on the PI3K/AKT/mTOR (PAM) signaling pathway was analyzed via WB.
+Furthermore, xenograft tumor models, WB, and IHC were employed to determine whether FHL2 mediates LUSC resistance to afatinib.
+FHL2 expression was significantly upregulated in LUSC tissues, as demonstrated by the TCGA database analysis and validated through IHC staining of TMA.
+Moreover, elevated FHL2 expression was correlated with poor prognosis in LUSC patients.
+FHL2 overexpression enhanced LUSC cell proliferation, migration, and invasion in vitro while accelerating xenograft tumor growth in vivo.
+In contrast, FHL2 knockdown exhibited the opposite effects.
+Mechanistically, FHL2 interacts with c-Jun and suppresses its ubiquitination, thereby stabilizing the c-Jun protein, upregulating PDK1 expression, and subsequently activating the PAM signaling pathway.
+Notably, FHL2 overexpression induced afatinib resistance in LUSC cells, and patients with afatinib resistance exhibited high levels of FHL2 expression.
+Our results demonstrate that FHL2 promotes LUSC progression and induces afatinib resistance by regulating the PAM signaling pathway.
+FHL2 may serve as a crucial prognostic marker for the survival outcomes of LUSC patients and a promising therapeutic target for their treatment.

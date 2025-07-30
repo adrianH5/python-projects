@@ -1,0 +1,9 @@
+Prognostic uncertainty often leads to overtreatment of differentiated thyroid cancer (DTC) or unspecific management of more aggressive entities.
+MiR-139-5p (miR139-5p) has emerged as a promising prognostic factor that may enhance current individual risk assessment systems.
+Therefore, we aimed to validate miR139-5p expression as a prognostic marker in DTC using a standardized method and to establish expression cut-off values for discriminating prognostic groups.
+Additionally, we explored an in situ approach to analyze this miRNA expression as a potential molecular tool for clinical practice.
+We collected a tissue series of 132 samples, including thyroid tumors, adjacent normal thyroid tissue, and lymph node metastases from a long-term follow-up retrospective cohort of 60 DTC patients with either progressive/persistent disease or an excellent response to primary treatment.
+We first identified recurrent tumor driver mutations and TERT promoter mutations using Next-Generation Sequencing.
+Through a standardized paired tumor/normal qPCR analysis, we confirmed a significant reduction in miR139-5p expression in progressive/persistent-DTCs compared to excellent response-DTCs (p-value = 0.002).
+Further analysis, including thyroid cancer TCGA tumor/normal pairs (n = 59), showed a strong association between reduced miR139-5p expression and TERT promoter mutations (p-value < 0.001), as well as advanced local or distant metastasis at diagnosis (p-value = 0.031).
+Next, we established miR139-5p

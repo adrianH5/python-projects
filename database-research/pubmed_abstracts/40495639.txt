@@ -1,0 +1,8 @@
+To achieve the efficient cancer therapy, one-for-all phototheranostics are highly important, but their engineering of agents is still challenging.
+Particularly, the balancing of emission and reactive oxygen species (ROS) generation is urgently needed in NIR-II region.
+To address this issue, a conjugated D-A polymer of PY2V-BDTF is designed to combine the through-bond/through-space charge transfer (TBCT/TSCT) features in a single molecule by connecting D and A units with the rotatable vinyl linkers.
+It is observed that the TBCT feature red-shifts the emission wavelength into NIR-II region with peak at 1015 nm (PLQY = 2.51%) in PY2V-BDTF NPs.
+On the other hand, the TSCT feature lowers the energy gap of singlet and triplet excited-states to obtain efficient ROS generation in photodynamic therapy (PDT) process (Type I and Type II).
+In addition, high photothermal conversion efficiency (PCE) of 61.5% are also obtained in PY2V-BDTF NPs, which is also one of the highest values for organic agents in one-for-all phototheranostics.
+Finally, imaging-guided cancer therapy for both in vitro and in vivo are finally obtained to well achieve the tumor elimination.
+This work demonstrates that integrating the TBCT and TSCT into one system may be the efficient method to achieve agents for one-for-all phototheranostics in cancer therapy.

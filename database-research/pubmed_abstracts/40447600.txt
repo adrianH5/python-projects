@@ -1,0 +1,6 @@
+Cubic phase lipid nanoparticles (cubosomes) show promise as carriers for nucleic acids due to their outstanding delivery performance and physical stability.
+However, both theoretical analysis and experimental results have shown that encapsulating long RNA is almost impossible while maintaining a cubic structure.
+Here we show successful encapsulation of long RNA (up to 4000 bases) in cubosomes by premixing RNA and lipids before self-assembly.
+Surprisingly, we discovered that long RNA within cubosomes folded into an isotropic phase, similar to other lipid self-assembly structures encapsulating nucleic acids.
+The cubosome-long RNA complex maintained excellent delivery efficiency even after 24 days at room temperature, underpinning its exceptional stability.
+Our premixing strategy not only demonstrates the feasibility of developing cold chain-free mRNA vaccines, but also offers insights for incorporating large cargo into other liquid crystals, such as peptides and/or polymer materials.

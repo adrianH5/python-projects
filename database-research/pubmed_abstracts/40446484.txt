@@ -1,0 +1,9 @@
+The complex interplay between collagen and cancer cells within the tumor microenvironment (TME) highlights the pivotal role of collagens in cancer progression, prognosis and therapy resistance.
+As a critical structural protein of the extracellular matrix (ECM), collagen not only maintains tissue architecture but also regulates key physiological functions through complex biosynthetic pathways.
+Deregulation in collagen biosynthesis, characterized by abnormal transcription, post-translational modifications, and deposition, contributes to ECM remodeling and tumor progression.
+This review explores the involvement of diverse collagen family members in cancer progression across multiple cancer types.
+Several collagen isoforms have emerged as key players in cancer progression, influencing tumor behavior and act as potential biomarkers for prognosis.
+Furthermore, circulating collagen fragments in blood present promising avenues for non-invasive cancer diagnosis and disease monitoring.
+Tumor collagen remodeling alters ECM architecture, impacting tumor-stromal interactions and fostering a microenvironment conducive to favour invasion and metastasis.
+Mechanistic insights reveal that collagen-induced signalling pathways are the major drivers of stemness, drug resistance, EMT, metastasis, angiogenesis and immune evasion, which collectively shape tumor cell behavior and immune infiltration dynamics.
+Further, targeting tumor collagen appear to be a viable and robust strategy to treat aggressive desmoplastic and metastatic cancers.

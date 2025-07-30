@@ -1,0 +1,7 @@
+On January 23, 2020, a case of coronavirus disease (COVID-19) was detected in Toronto, Canada (); since then, multiple cases have been identified across Canada.
+The next day, we collected 200 μL of mid-turbinate swab samples from 2 COVID-19 patients, mixed it with 200 μL of DMEM containing 16 μg/mL TPCK-treated trypsin and inoculated the cells.
+Supernatant from the cells was used to determine virus titers (50% tissue culture infectious dose [TCID50]/mL) according to the Spearman and Karber method (,) as outlined previously ().
+For primary antibody staining, we used a combination of 6.6 μg/mL rabbit anti-SARS-CoV-2 N (BioVision, https://www.biovision.com) plus 10 μg/mL recombinant human anti-SARS-CoV-2 spike S1 (GenScript, https://www.genscript.com) and 1:100 diluted serum from a recovered COVID-19 patient (OM8073) (Figure 1, panels A, B).
+Furthermore, maximum-likelihood phylogenetic analysis including >1,900 SARS-CoV-2 isolates from GISAID (https://www.gisaid.org) placed both SARS-CoV-2/SB2 and SARS-CoV-2/SB3-TYAGNC within a clade of isolates from patients around the globe but with evidence of travel history associated with the COVID-19 outbreak in Iran (Appendix Figure 2).
+To enhance our ability to detect SARS-CoV-2 proteins in these cells, we immunostained the cells by using a cocktail of antibodies that included SARS-CoV-2 S1 antibody, SARS-CoV-2 N antibody, and diluted serum from a recovered COVID-19 patient (Figure 1, panels A and B).
+We report the isolation of 2 replication competent SARS-CoV-2 virus samples from COVID-19 patients in Canada.

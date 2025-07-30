@@ -1,0 +1,6 @@
+T1	Dataset 381 387	GISAID
+T2	Creator 398 429	Elbe and Buckland-Merrett, 2017
+T3	Dataset 481 487	GISAID
+T4	Dataset 794 800	GISAID
+T5	AccessionNumber 806 820	EPI_ISL_413489
+R1	hasAttr	Arg1:T4	Arg2:T5

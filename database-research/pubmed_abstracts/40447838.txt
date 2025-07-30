@@ -1,0 +1,10 @@
+Psoralea bituminosa L. (Fabaceae) is a medicinal plant traditionally used for its antimicrobial, antihyperglycemic, and antioxidant effects.
+This study investigated its anticancer and antioxidant potential using aqueous and methanol extracts.
+The methanol extract exhibited higher total phenol (81.57 mg/g) and total flavonoid (39.06 mg/g) contents compared to the aqueous extract.
+Antioxidant activity, assessed via the DPPH assay, showed moderate potency (IC₅₀: 330.77 µg/mL for aqueous- and 348.27 µg/mL for methanol extracts).
+Notably, the methanol extract demonstrated significant cytotoxicity against multiple cancer cell lines (IC₅₀: 27.73-53.90 µg/mL) particularly against A549, MDA-MB231, and PC3.
+Liquid chromatography-mass spectrometry (LC-MS) profiling revealed abundant flavonoids and isoflavones such as daidzein, biochanin A, and 7,3'-dimethoxy-5,6,4' trihydroxyisoflavone in the methanol extract, correlating with its anticancer effects.
+In contrast, glycosylated flavonoids in the aqueous extract aligned with antioxidant activity.
+Cheminformatics clustering supported these findings, identifying distinct structural groups with differing drug-likeness scores.
+Bioinformatics analysis further identified transcriptomic signatures enriched in oxidative phosphorylation and key cancer-related pathways (e.g., TP53, PI3K, NRF2, and MYC), offering mechanistic insight.
+This integrative approach combining LC-MS, cheminformatics, and bioinformatics provides a cost-effective framework for decoding phytochemical bioactivity and guiding natural product-based drug discovery.

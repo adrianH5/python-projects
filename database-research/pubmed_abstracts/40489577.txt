@@ -1,0 +1,11 @@
+D-2-hydroxyglutarate (D-2HG) is a potent oncometabolite capable of disrupting chromatin architecture, altering metabolism, and promoting cellular dedifferentiation.
+As a result, ectopic D-2HG accumulation induces neurometabolic disorders and promotes progression of multiple cancers.
+However, the disease-associated effects of ectopic D-2HG accumulation are dependent on genetic context.
+Specifically, neomorphic mutations in the mammalian genes Isocitrate dehydrogenase 1 (IDH1) and IDH2 result in the production of enzymes that inappropriately generate D-2HG from α-ketoglutarate (αKG).
+Within this genetic background, D-2HG acts as an oncometabolite and is associated with multiple cancers, including several diffuse gliomas.
+In contrast, loss-of-function mutations in the gene D-2-hydroxyglutarate dehydrogenase (D2hgdh) render cells unable to degrade D-2HG, resulting in excessive buildup of this molecule.
+D2hgdh mutations, however, are not generally associated with elevated cancer risk.
+This discrepancy raises the question as to why ectopic D-2HG accumulation in humans induces context-dependent disease outcomes.
+To enable such genetic studies in vivo, we generated two novel loss-of-function mutations in the Drosophila melanogaster gene D2hgdh and validated that these alleles result in ectopic D-2HG.
+Moreover, we observed that D2hgdh mutations induce developmental and metabolomic phenotypes indicative of elevated D-2HG accumulation.
+Overall, our efforts provide the Drosophila community with new mutant strains that can be used to study D-2HG function in human disease models as well as in the context of normal growth, metabolism, and physiology.

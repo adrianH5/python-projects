@@ -1,0 +1,11 @@
+Head and neck squamous cell carcinoma (HNSCC) remains a globally prevalent malignancy with high morbidity and mortality.
+Despite therapeutic advances, patient outcomes are hindered by tumor heterogeneity, treatment-related toxicity, and the limitations of traditional prognostic tools.
+Artificial intelligence (AI) offers the opportunity to improve personalized HNSCC management by integrating complex radiologic, pathologic, and molecular data into actionable information insights.
+This review synthesizes recent developments in AI applications across the HNSCC care continuum, from diagnosis through treatment planning, emphasizing their clinical relevance and translational potential.
+AI has shown promise in enhancing diagnostic accuracy through automated tumor burden assessment, extranodal extension prediction, and endoscopic image analysis.
+Deep learning applied to radiology and digital pathology enables the extraction of prognostic features that may inform risk stratification and treatment de-escalation, particularly in human papillomavirus-associated oropharyngeal carcinoma.
+Multimodal AI models that fuse imaging, histopathology, and electronic health records have demonstrated superior performance in predicting survival outcomes compared with unimodal approaches.
+Additional applications include early toxicity detection during radiotherapy, adaptive treatment planning, and surgical complication forecasting.
+AI also holds potential in predicting immunotherapy response by identifying imaging and histologic correlates of tumor immunogenicity.
+Barriers to clinical translation remain, and continued development of explainable models, prospective trials, and seamless integration into clinical workflows will be critical for broad adoption.
+AI has already begun to affect HNSCC radiotherapy and surgical planning, and with thoughtful implementation, it may enable safer, more personalized care across the HNSCC treatment landscape.

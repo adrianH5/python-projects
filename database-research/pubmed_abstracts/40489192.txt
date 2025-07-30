@@ -1,0 +1,7 @@
+Locoregional ablation therapies have considerable potential in eradicating cancers by killing tumor cells directly with different mechanisms, inducing immunogenic cell death, and subsequently forming the "in situ vaccine".
+Nevertheless, a short period of immune time post-ablation and rapidly reversed to an immunosuppressed state, may lead to a higher chance of tumor recurrence and metastasis.
+Therefore, boosting the efficacy of immunity and/or prolonging the duration of organismal immunity seem to be the key to suppressing tumor progression after minimally invasive ablation therapies.
+Currently, a number of nanoplatforms for post-ablation immunotherapy are developed to address this challenge, including amplifying antitumor immunostimulatory signals, modulating immunosuppressive microenvironment, and improving antitumor immune responses.
+These approaches portend great promise for applications to improve local control and prevent tumor recurrence and distant metastasis.
+This review provides a concise overview of recent advances in immune-inducible biomaterials for enhancing post-ablation antitumor immunity, as well as strategies for their application in targeted drug delivery and sustained release to potentiate immune responses.
+Furthermore, main obstacles and potential breakthroughs for future development are discussed and prospected, providing insights to drive further innovation in immune-inducible biomaterials for post-ablation cancers.

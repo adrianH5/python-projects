@@ -1,0 +1,4 @@
+Cell plasticity is a hallmark of cancer, enabling tumor cells to acquire multiple phenotypes responsible for tumor progression, metastasis, and therapy resistance.
+In this issue of the JCI, Kawai and colleagues leveraged genetically engineered mouse models (GEMM) of pancreatic ductal adenocarcinoma (PDAC) to demonstrate that loss of Pbrm1, a member of the SWI/SNF complex, drives dedifferentiation and aggressive tumor features.
+Pbrm1 loss activated a program of epithelial-to-mesenchymal transition (EMT) and allowed the emergence of poorly differentiated histologies that are commonly associated with high recurrence rate and dismal prognosis.
+These findings reveal the role of the SWI/SNF complex during PDAC evolution in maintaining cell identity and restraining the progression of this lethal disease.

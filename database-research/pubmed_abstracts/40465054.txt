@@ -1,0 +1,11 @@
+Recent advances in Artificial Intelligence (AI) methodologies and their application to medical imaging has led to an explosion of related research programs utilizing AI to produce state-of-the-art classification performance.
+Ideally, research culminates in dissemination of the findings in peer-reviewed journals.
+To date, acceptance or rejection criteria are often subjective; however, reproducible science requires reproducible review.
+The Machine Learning Education Sub-Committee of the Society for Imaging Informatics in Medicine (SIIM) has identified a knowledge gap and need to establish guidelines for reviewing these studies.
+This present work, written from the machine learning practitioner standpoint, follows a similar approach to our previous paper related to segmentation.
+In this series, the committee will address best practices to follow in AI-based studies and present the required sections with examples and discussion of requirements to make the studies cohesive, reproducible, accurate, and self-contained.
+This entry in the series focuses on image classification.
+Elements like dataset curation, data pre-processing steps, reference standard identification, data partitioning, model architecture, and training are discussed.
+Sections are presented as in a typical manuscript.
+The content describes the information necessary to ensure the study is of sufficient quality for publication consideration and, compared with other checklists, provides a focused approach with application to image classification tasks.
+The goal of this series is to provide resources to not only help improve the review process for AI-based medical imaging papers, but to facilitate a standard for the information that should be presented within all components of the research study.

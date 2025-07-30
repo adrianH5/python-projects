@@ -1,0 +1,5 @@
+In early March 2020, the GISAID database (https://www.gisaid.org/) contained a compilation of 253 severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) complete and partial genomes contributed by clinicians and researchers from across the world since December 2019.
+The Global Initiative on Sharing Avian Influenza Data (GISAID) was founded in 2006, and, since 2010, has been hosted by the German Federal Ministry of Food, Agriculture and Consumer Protection.
+GISAID has also become a coronavirus repository since December 2019.
+As of 4 March 2020, the cutoff point for our phylogenetic analysis, the GISAID database (https://www.gisaid.org/) had compiled 254 coronavirus genomes, isolated from 244 humans, nine Chinese pangolins, and one bat Rhinolophus affinis (BatCoVRaTG13 from Yunnan Province, China).
+The network faithfully traces routes of infections for documented coronavirus disease 2019 (COVID-19) cases, indicating that phylogenetic networks can likewise be successfully used to help trace undocumented COVID-19 infection sources, which can then be quarantined to prevent recurrent spread of the disease worldwide.

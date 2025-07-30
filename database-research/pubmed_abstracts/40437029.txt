@@ -1,0 +1,4 @@
+Genetic variants play a pivotal role in the initiation and progression of many diseases, including cancer.
+Detecting these variants is the first step in understanding their contribution to disease mechanisms.
+RNA sequencing (RNA-Seq) has become a crucial assay in cancer research, offering insights beyond those provided by DNA sequencing.
+This study introduces VarRNA, a novel method that utilizes RNA-Seq data to classify single nucleotide variants and insertions/deletions from tumor transcriptomes.

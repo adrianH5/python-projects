@@ -1,0 +1,11 @@
+Gastric cancer is a common malignant tumour.
+Copper-induced cell death, a recently discovered form of metal ion-related cell death, has garnered significant attention from researchers.
+We synthesised a multifunctional nanoparticle, ZnO@CuEA, and characterised its morphology using transmission electron microscopy.
+Cytotoxicity was analysed via CCK8 assays and calcein-AM staining.
+The tumour-targeting capability of ZnO@CuEA was validated using confocal microscopy and in vivo imaging experiments.
+RNA-seq and proteomic analysis were conducted to assess changes in mRNA and protein expression before and after ZnO@CuEA treatment.
+Lysosomal β-galactosidase staining was employed for cellular senescence detection, and protein expression levels were analysed via Western blot.
+Finally, in vivo experiments demonstrated the tumour-inhibitory effect of ZnO@CuEA.
+ZnO@CuEA is a multifunctional nanoparticle capable of targeting tumour cells and inducing cuproptosis.
+In vivo experiments showed that ZnO@CuEA exhibits significant antitumor activity.
+The multifunctional nanoparticles synthesised in this study provide a novel therapeutic approach for cancer treatment.

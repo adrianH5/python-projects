@@ -1,0 +1,3 @@
+Pancreatic cancer (PC) poses a significant global health challenge due to its aggressive nature, late-stage diagnosis, and high mortality despite advancements in treatment.
+Early detection remains crucial for timely intervention.
+This study aimed to identify clinically relevant predictors of pancreatic cancer using a supervised machine learning approach and to develop a risk stratification tool with diagnostic capabilities.

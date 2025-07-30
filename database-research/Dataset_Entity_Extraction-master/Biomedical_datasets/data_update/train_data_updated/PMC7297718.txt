@@ -1,0 +1,15 @@
+According to data presented by the COVID-19 situation report from World Health Organization (WHO), as of May 15, 2020, the virus has infected more than 4,347,935 people around the world including a staggering 297,241 deaths, with a cumulative mortality rate of >6.8% and exponentially increased in between March and April [2].
+Despite the instantaneous and monumental research efforts from the scientific community around the globe at present, no effective antiviral treatment or vaccine is available for COVID-19.
+Recently several repurposing studies on SARS-CoV-2 have been performed using clinically approved drugs [20], among which a very new study comes out on a clinical trial of Lopinavir–Ritonavir drug for COVID-19, which was indicated on top of our drug repurposing study [21].
+To this end, a recently elucidated X-ray crystal structure of SARS-CoV-2 Mpro (PDB ID: 6Y2F) which have been shown with an α-ketoamide as a potent inhibitor in the enzyme’s active site, was chosen and screened for several FDA approved antiviral drugs to simulate the Mpro–α-ketoamide interactions and thereby blocking the active pocket [16].
+The crystal structure of SARS-CoV-2 Mpro in the apo form (PDB ID: 6Y2E) and α-ketoamide bound form (PDB ID: 6Y2F) shows that the protein makes a crystallographic dimer composed of two monomers of identical conformations.
+For analysis, all the closely related and complete reference genome sequences of SARS-CoV-2 were downloaded from the NCBI GenBank database.
+The recently elucidated X-ray crystal structure coordinates of SAR-CoV-2 Mpro was downloaded from RCSB PDB (PDB ID: 6Y2F), having 1.75 Å resolution.
+To further identify the potent inhibitors for SAR-CoV-2 Mpro among the FDA approved antiviral drugs, we have downloaded more than 75 drug compounds from the PubChem chemical database [24].
+In the present study, the docked complexes of virtually screened top three drugs Lopinavir–Ritonavir, Tipranavir, and Raltegravir with the X-ray crystal structure of SARS-CoV-2 Mpro(PDB ID: 6Y2F) were analyzed through MD simulations.
+The rapidly spreading disease caused by the novel SARS-CoV-2 is now called COVID-19 [43].
+This drug is mainly used for HIV-AIDS to control HIV infection by inhibiting the protease and help to decrease the amount of HIV in the body by promoting the function of the body’s natural immune system to work better [48].
+This drug could also be used with other combinations like Raltegravir and Lopinavir for the treatment of COVID-19, if found producing desirable inhibitory effect against SARS-CoV-2 protease in biochemical activity assay or cell-based assays.
+This MD simulation analysis shows the promising binding stability of the drug compounds with the binding pocket of CoV-2 Mpro (PDB ID: 6Y2F).
+The rapidly enlarging COVID-19 pandemic caused by the novel SARS-corona virus-2 is a global public health emergency of an unprecedented level.
+The recently concluded α-ketoamide ligand-bound X-ray crystal structure of SARS-CoV-2 M pro (PDB ID: 6Y2F) from Zhang et al. has revealed the potential inhibitor binding mechanism and the molecular determinants responsible for substrate binding.

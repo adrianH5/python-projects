@@ -1,0 +1,10 @@
+Ovarian cancer remains the third most prevalent and deadliest gynecologic malignancy worldwide, with most patients eventually developing resistance to platinum-based chemotherapy.
+This highlights a critical unmet need for innovative multitargeted therapies to address current treatment challenges.
+In this study, we identified 35 differentially expressed genes (DEGs) through integrated analysis of four GEO ovarian cancer datasets, with validation using TCGA data.
+Gene Ontology (GO) and KEGG enrichment analyses highlighted key tumor-associated pathways, and protein-protein interaction (PPI) network modeling prioritized CDK1 and TTK as high-value therapeutic targets.
+We evaluated the association between molecular genomic features and drug responses across the NCI-60 ovarian cancer cell line panel (IGROV1, OVCAR-3, OVCAR-4, OVCAR-5, OVCAR-8, NCI/ADR-RES, and SK-OV-3), using a series of salicylanilide-derived compounds and four FDA-approved drugs (cabozantinib, paclitaxel, rapamycin, and niclosamide) from the NCI Developmental Therapeutics Program (DTP).
+Among these, NSC765690 (MCC22) emerged as the most promising candidate.
+It demonstrated potent antiproliferative activity, high target selectivity, and strong binding affinity to both CDK1 and TTK.
+Multi-omics integration, combined with AI-driven network modeling, further elucidated NSC765690's mechanism of action and its relevance to ovarian cancer pathogenesis.
+Additionally, ADMET and pharmacokinetic profiling confirmed its favorable drug-like properties and low predicted toxicity.
+Collectively, these findings establish NSC765690 as a potent dual-target inhibitor and exemplify a rational, data-driven drug discovery pipeline for overcoming chemotherapy resistance in ovarian cancer.

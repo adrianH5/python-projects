@@ -1,0 +1,9 @@
+Transfer learning has been widely applied to drug sensitivity prediction based on single-cell RNA sequencing, leveraging knowledge from large datasets of cancer cell lines or other sources to improve the prediction of drug responses.
+However, previous studies require model fine-tuning for different patient single-cell datasets, limiting their ability to meet the clinical need for high-throughput rapid prediction.
+In this research, we introduce single-cell Adaptive Transfer and Distillation model (scATD), a transfer learning framework leveraging large language models for high-throughput drug sensitivity prediction.
+Based on different large language models (scFoundation and Geneformer) and transfer strategies, scATD includes three distinct sub-models: scATD-sf, scATD-gf, and scATD-sf-dist.
+scATD-sf and scATD-gf employs an important bidirectional style transfer to enable predictions for new patients without model parameter training.
+Additionally, scATD-sf-dist uses knowledge distillation from large models to enhance prediction performance, improve efficiency, and reduce resource requirements.
+Benchmarking across more diverse datasets demonstrates scATD's superior accuracy, generalization and efficiency.
+Besides, by rigorously selecting reference background samples for feature attribution algorithms, scATD also provides more meaningful insights into the relationship between gene expression and drug resistance mechanisms.
+Making scATD more interpretability for addressing critical challenges in precision oncology.

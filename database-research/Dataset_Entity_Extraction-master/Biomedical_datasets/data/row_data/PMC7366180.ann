@@ -1,0 +1,19 @@
+T1	Dataset 545 552	FANTOM5
+T2	Repository 669 687	Human Proteome Map
+T3	AccessionNumber 1174 1182	GSE19190
+T4	AccessionNumber 1198 1206	GSE11906
+T5	Repository 1263 1297	NCBI Gene Expression Omnibus (GEO)
+T6	Dataset 1730 1737	FANTOM5
+T7	Creator 2152 2162	Kim
+et al.
+T8	Creator 2172 2185	Foster
+et al.
+T9	Creator 2369 2379	Kim
+et al.
+T10	Creator 2512 2525	Foster
+et al.
+T11	Dataset 3921 3928	FANTOM5
+T12	Dataset 5433 5440	FANTOM5
+T13	Dataset 6041 6048	FANTOM5
+R1	hasAttr	Arg1:T5	Arg2:T3
+R2	hasAttr	Arg1:T5	Arg2:T4

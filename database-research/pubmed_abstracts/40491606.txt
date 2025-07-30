@@ -1,0 +1,11 @@
+Prostate cancer is a global health issue and one of the most common reasons for cancer-related mortality.
+This research aimed to investigate the molecular mechanisms underlying the progression to castration-resistant prostate cancer (CRPC).
+Differential gene expression was analyzed by contrasting the PNT2 prostate epithelial cell line and the PC3M CRPC cell line.
+RNA sequencing was performed on three biological replicates of each cell type, and 1,000 differentially expressed genes were identified with a fold change ≥1 and a p<0.05.
+A heatmap was generated to visualize the gene expression profiles, and the top 10 significantly altered genes were identified.
+Functional enrichment analysis, including Gene Ontology and Kyoto Encyclopedia of Genes and Genomes pathway analysis, was conducted to map the biological processes, cellular components, and molecular functions associated with the differentially expressed genes.
+Furthermore, weighted gene co-expression network analysis was utilized to identify co-expression modules and significant genes, thereby highlighting the top 10 most significant differentially expressed genes in significant pathways.
+The findings indicate substantial molecular alterations associated with the development of castration-resistant prostate cancer, with major pathways including metabolic deregulation pathways and cell cycle regulation.
+The identified differentially expressed genes (DEGs) and pathways provide significant insights into disease progression and potential therapeutic targets.
+These findings contribute to the understanding of prostate cancer at the molecular level and can be used to identify new diagnostic and therapeutic strategies.
+However, further validation is required to determine the clinical significance of these targets in the treatment of CRPC.

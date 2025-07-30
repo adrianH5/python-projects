@@ -1,0 +1,9 @@
+Cancer and atherosclerotic cardiovascular disease (ASCVD) are the main causes of mortality worldwide.
+The complex relationship between these two diseases has long puzzled scientists, with lipid metabolism emerging as a promising area for research and therapy of both diseases.
+Cholesterol accumulation promotes the formation of atherosclerotic plaques, while dysregulated lipid metabolism favours the progression of tumours.
+MicroRNAs (miRNAs) have been identified as key post-transcriptional regulators of lipid metabolism, influencing cholesterol synthesis and efflux, fatty acid oxidation and lipoprotein function.
+MiR-33, miR-144 and miR-122 modulate important target proteins such as sterol regulatory element-binding proteins (SREBPs), ATP-binding cassette transporter A1 (ABCA1) and peroxisome proliferator-activated receptor gamma (PPARγ) and thus control metabolic reprogramming in both cancer and ASCVD.
+In cancer, miRNA-mediated lipid reprogramming promotes proliferation, immune evasion and metastasis, whereas dysregulated miRNAs in ASCVD contribute to foam cell formation, chronic inflammation and vascular dysfunction.
+The dual role of miRNAs, acting either as tumour suppressors or oncogenes, highlights their complex impact on lipid-related pathophysiology.
+Moreover, miRNA-based therapeutic strategies, including antagomirs and miRNA mimics, hold promise for targeted intervention in both diseases, which could reduce ASCVD risk in cancer patients and improve long-term outcomes.
+Understanding the intricate interactions between miRNAs, lipid metabolism and disease progression provides new insights into the overlapping molecular mechanisms of cancer and ASCVD and opens new therapeutic opportunities in the field of cardio-oncology.

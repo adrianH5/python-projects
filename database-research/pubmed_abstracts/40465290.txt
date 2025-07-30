@@ -1,0 +1,6 @@
+This unprecedented study reveals the excellent antimicrobial performance of soft, hydrogen-free, pristine diamond-like carbon (DLC) coatings against life-threatening methicillin-resistant Staphylococcus aureus (MRSA).
+In addition, most previous studies have separately reported the biocompatibility and antimicrobial performance of DLC coatings, perhaps due to a nuance between antimicrobial performance and cytotoxicity.
+However, this work concurrently reports the biocompatibility of soft DLC with mouse fibroblast L929 cells and its antimicrobial performance against MRSA, where concurrent reporting is desirous for holistic material assessment, regulatory consideration, and enhanced safety and efficiency for biomedical applications.
+The soft DLC coatings are prepared with direct-current, open-field, magnetron sputtering, and characterized for structural, physical, mechanical, and electrical properties.
+The soft DLC coatings show excellent biocompatibility with 168 h leached extracts and antimicrobial performance after 24 h superior to copper, an established antimicrobial agent.
+This work proposes soft DLC as a safe material for concurrent biocompatibility and antimicrobial actions, as desired in most healthcare applications.

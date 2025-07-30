@@ -1,0 +1,3 @@
+Personalizing Molecular Radiotherapy (MRT) is crucial for enhancing treatment efficacy and minimizing toxicity.
+The WIDMApp (Wearable Individual Dose Monitoring Apparatus) project aims to estimate patient-specific biokinetics -i.e., time-activity curves (TACs), through several radiation detectors and a data processing system.
+This study presents an advanced Bayesian unfolding algorithm that avoids assumptions about the functional form of the TACs.

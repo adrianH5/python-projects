@@ -1,0 +1,16 @@
+Coronavirus disease 2019 (COVID-19), caused by an outbreak of the severe acute respiratory syndrome-coronavirus 2 (SARS-CoV-2) in Wuhan, China, has led to an unprecedented health and economic crisis worldwide [1].
+Initially reported in December 2019 in the Chinese city of Wuhan, and potentially linked to a zoonosis related to a wild animal market, COVID-19 has rapidly spread globally, and the World Health Organization (WHO) declared a pandemic on March 11th 2020.
+These figures make COVID-19 the biggest health emergency of the 21st century.
+COVID-19 typically manifests as an acute respiratory distress syndrome with fever, dry cough and breathing difficulties.
+In any case, COVID-19 spreads at an alarming rate, and both mortality rate and severity increase with age and depend on pre-existing comorbidity, such as hypertension and diabetes, which are age-related diseases.
+This defines COVID-19 as an aging-dependent disease with outcomes determined by biological age.
+The input dataset for the analysis, formatted from Bojkova et al. [10], is compiled in Supplementary Table 1.
+The linoleic acid metabolism pathway is linked to arachidonic acid metabolism and eicosanoids pathway, and it could therefore play a role in the inflammatory response observed in disease stages II and III in COVID-19 patients [12].
+This observation suggests that these two proteins may serve as early systemic biomarkers for COVID-19 infection.
+We hypothesize that dysregulation of some of the key components of the renin-angiotensin system could be related to the lung injury and worsening observed in COVID-19.
+It has also been suggested that differential levels of ACE2 in the cardiac and pulmonary tissues of younger versus older adults may be at least partially responsible for the worse outcomes seen in elderly COVID-19 patients [30].
+The impact of reduced ACE2 expression, together with the poorer clinical outcomes observed when comorbidities are present [31], which is also generally associated to age, makes the link between COVID-19 and aging strong.
+In any case, discontinuation of ACE-Is/ARBs in hypertension patients with COVID-19 might further decrease ACE2 levels, therefore worsening disease prognosis.
+In support of this notion, a recent study found that COVID-19 patients with untreated hypertension presented higher mortality than those treated with ACE-Is/ARBs [33].
+Coronavirus disease 2019 (COVID-19), caused by an outbreak of the severe acute respiratory syndrome-coronavirus 2 (SARS-CoV-2) in Wuhan, China, has led to an unprecedented health and economic crisis worldwide.
+Upregulation of inflammatory response proteins is in line with the propagation of inflammatory reaction and lung injury that is observed in advanced stages of COVID-19 patients and which worsens with age.

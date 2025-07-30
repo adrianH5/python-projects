@@ -1,0 +1,7 @@
+Cardiotoxicity restricts the clinical use of anthracyclines.
+Although recent evidence indicates that aberrant activation of the cytosolic DNA-sensing pathway mediates cardiotoxicity, the function of extracellular DNA remains unclear.
+Here we observe a substantial increase in circulating neutrophil extracellular trap (NET) DNA in individuals with lymphoma experiencing cardiotoxicity after anthracycline-containing treatment.
+Using mouse models and human organotypic myocardial slices, we demonstrate that doxorubicin induces HMGB1-dependent cardiac NET formation, thereby promoting cardiac remodeling and dysfunction.
+Mechanistically, extracellular NET DNA is recognized by the transmembrane protein CCDC25 on cardiomyocytes, and their cross-talk generates reactive oxygen species and activates autophagic flux, subsequently impairing cardiac function.
+Targeting CCDC25 significantly alleviates anthracycline cardiotoxicity and synergizes with the antitumor efficacy of doxorubicin in lymphoma and breast cancer models.
+Overall, our findings demonstrate a previously unrecognized role of NETs and CCDC25 in anthracycline cardiotoxicity and suggest that targeting CCDC25 could provide a dual therapeutic and cardioprotective advantage.

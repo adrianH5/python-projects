@@ -1,0 +1,7 @@
+The development of precise molecular biomarkers for breast cancer prognosis holds immense potential to improve treatment outcomes.
+This study aimed to investigate the role of amino acid metabolism genes as predictive markers for breast cancer prognosis and their association with the immune-tumour microenvironment.
+By employing advanced machine learning algorithms and bioinformatics analysis techniques, the impact of amino acid metabolism-related genes (AAMRGs) on the immune status and overall survival of patients with breast cancer was examined.
+An AAMRG-based risk model was established to assess the prognostic significance.
+Validated risk models (AIMP2, IYD, and QARS1) accurately predicted patient outcomes [1 y: 0.87 (0.96-0.78); 3 y: 0.82 (0.87-0.76); 5 y: 0.80 (0.86-0.75)].
+Furthermore, this study revealed evidence suggesting that QARS1 may influence breast cancer cell proliferation through methionine metabolism.
+This analysis provides valuable insights into the mechanisms of breast cancer, emphasizing the significance of AAMRGs as prognostic biomarkers and potential therapeutic targets for optimizing personalized treatment strategies.

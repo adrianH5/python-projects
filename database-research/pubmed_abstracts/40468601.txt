@@ -1,0 +1,9 @@
+Barriers to incorporating pharmacogenetics into routine clinical practice in the United States are well documented.
+Initial surveys by the Clinical Pharmacogenetics Implementation Consortium (CPIC) in 2009 and 2010 identified barriers across four key domains that have hindered the widespread adoption of clinical pharmacogenetic testing.
+These are presented verbatim as: (i) absence of a definition of the processes required to interpret genotype information and to translate genetic information into clinical actions; (ii) need for recommended drug/gene pairs to implement clinically now; (iii) clinician resistance to consider pharmacogenetic information at the bedside; and (iv) concerns about test costs and reimbursement.
+Over time, many of these challenges have been overcome, and clinical pharmacogenetic testing has subsequently reached broader implementation.
+Despite this progress, several barriers remain that block further adoption.
+This narrative review used authors' expertise and experience to identify and describe current barriers to pharmacogenetic implementation across seven domains in the United States: equity and inclusion; guidelines and supporting evidence; regulatory agency oversight; payer coverage and insurance; availability of quality pharmacogenetic tests; electronic health records; and provider and patient education.
+Within each domain, it revisits past successes and challenges and explores remaining barriers.
+We also propose solutions to address ongoing challenges across these domains, including further expansion of recommendations beyond pharmacogenetic-specific guidelines, standards for designing clinical decision support tools, and broader pharmacogenetics education.
+Addressing these remaining obstacles directs work to enable broader adoption of clinical pharmacogenetic implementation to ultimately improve patient outcomes.

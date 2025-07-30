@@ -1,0 +1,10 @@
+The continued release of neurotransmitters from central projections of nociceptors during chronic pain requires synaptic vesicle (SV) recycling.
+Mediators of SV endocytosis and recycling are thus pivotal for sustained pain transmission in nociceptive spinal circuits.
+We hypothesized that disruption of SV endocytosis in dorsal root ganglia (DRG) nociceptors would impede synaptic transmission and thereby provide sustained relief from multimodalities of pain.
+Synaptojanin 1 (Synj1) and endophilin A1 (EndoA1), which mediate the neck formation of the endocytic pit and subsequent endocytosis, were detected in primary sensory neurons of mouse DRG by immunofluorescence and RNAScope in situ hybridization.
+Intrathecal injection of Synj1 and EndoA1 siRNA or shRNA successfully knocked down Synj1 and Sh3gl2 (EndoA1) mRNA in DRG neurons and suppressed acute nociception induced by agonists of pronociceptive receptors and ion channels in male mice, without affecting normal motor functions.
+Synj1 and EndoA1 knockdown inhibited synaptic transmission between primary sensory neurons and neurons in lamina I/II of the spinal cord dorsal horn by suppressing SV release from presynaptic primary afferent neurons.
+Synj1 and EndoA1 silencing reversed mechanical allodynia and thermal hyperalgesia in preclinical models of postoperative and cancer pain.
+Knockdown of dynamin 1 (Dnm1) and adaptor-associated protein kinase 1 (AAK1), previously characterized mediators of SV endocytosis in nociceptive spinal circuits, also alleviated pain-like behavior in these models.
+Thus, Synj1, EndoA1, Dnm1, and AAK1 mediate SV recycling and are thus required for sustained synaptic transmission in nociceptive spinal circuits.
+Disruption of SV recycling effectively reduces nociceptive transmission, providing a novel strategy for pain relief.

@@ -1,0 +1,6 @@
+Low-grade (LG) stage Ta non-muscle-invasive bladder cancer (NMIBC) is typically nonaggressive with low progression rates and favorable cancer-specific survival.
+However, frequent monitoring is required because of the risk of recurrence.
+In this study, we analyzed RNA sequencing data for 286 LG Ta tumors from the UROMOL consortium.
+Unsupervised consensus clustering of long noncoding RNA profiles identified a subgroup of patients with significantly worse recurrence-free and progression-free survival.
+These patients may benefit from intensified intravesical therapy or closer surveillance.
+Further validation of these molecular subgroups could enhance risk stratification and guide personalized treatment approaches.

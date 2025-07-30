@@ -1,0 +1,11 @@
+This multicenter, retrospective study evaluated the impact of pelvic lymph node dissection (PLND) on survival outcomes in non-muscle invasive bladder cancer (NMIBC) patients undergoing radical cystectomy (RC) and identified factors associated with upstaging.
+A total of 544 NMIBC patients who underwent RC with or without PLND between 2019 and 2024 were analyzed.
+Survival outcomes, including cancer-specific survival (CSS) and recurrence-free survival (RFS), were compared using Kaplan-Meier analysis and Cox proportional hazards models, while factors associated with upstaging were examined through logistic regression.
+Of the 544 patients, 509 (93.6%) were staged as cT1, and 412 (75.7%) underwent PLND.
+Upstaging occurred in 193 patients (35.5%), with pathological stages distributed as pT1 (50.0%), pT2 (20.8%), pT3 (11.2%), and pT4 (3.5%).
+Among patients who underwent PLND, 29 (7.0%) had positive lymph nodes.
+PLND was associated with improved RFS (5-year: 84.3% vs. 71.5%; adjusted hazard ratio [HR] = 0.33, 95% confidence interval [CI]: 0.20-0.56, p < 0.001) but did not significantly impact CSS (5-year: 86.5% vs. 81.6%; adjusted HR = 0.57, 95% CI: 0.32-1.02, p = 0.06).
+Lymph node positivity was linked to the worst prognosis.
+cT1 tumors, histological subtypes, and PLND were significant predictors of upstaging.
+In patients with cT1 tumors or histological subtypes, repeat transurethral resection is recommended to obtain more precise staging, which may inform further therapeutic decisions.
+While PLND is not routinely recommended for all NMIBC patients, it may be considered in those with high-risk features, particularly cT1 tumors or histological subtypes.

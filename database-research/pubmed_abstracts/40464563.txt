@@ -1,0 +1,9 @@
+Antiretroviral therapy (ART) suppresses HIV replication in people living with HIV (PWH), but a persistent population of reservoir cells prevents cure.
+Reservoir cells are mostly anatomically dispersed, latently infected CD4+ T cells harboring one copy of chromosomally integrated, replication-competent HIV proviral DNA.
+Despite their low frequency (0.01%-0.1%) among CD4+ T cells and the quiescence of most genetically intact proviruses, viremia usually recurs within weeks after ART cessation.
+When PWH are not on ART, the reservoir is sustained through viral infection and infected cell proliferation.
+During suppressive ART, HIV reservoir cells persist via mechanisms sustaining uninfected CD4+ T cells including antigen-responsive and homeostatic clonal proliferation, programmed cell death, and T cell subset differentiation.
+Rates of latently infected cell proliferation and death must exist in quasi-equilibrium to explain limited change in reservoir volume over decades of ART, and the rarity of cancers or lymphoproliferative disorders emerging from infected cells.
+Some reservoir cells are under additional selection forces during ART, illustrated by slightly higher clearance rates of genetically intact versus replication-defective HIV proviral DNA and by a gradual transition to a less transcriptionally active and more clonal reservoir.
+While a small but meaningful percentage of latently infected cells are negatively selected due to lytic viral replication or elimination by adaptive immune responses, most reservoir cell death occurs independently of harboring intact HIV DNA.
+Given that HIV is often a passenger in reservoir cells, CD4+ T cell proliferation, targeted death, and subset differentiation may be viable therapeutic targets for curative interventions.

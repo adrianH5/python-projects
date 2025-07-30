@@ -1,0 +1,8 @@
+Ferroptosis, a newly discovered form of cell death, has garnered significant attention in recent years, particularly in the development of anticancer drugs.
+This study was based on the marketed anticancer drug sorafenib and involved the design and synthesis of 12 novel derivatives of pyrrolo[2,1-f][1,2,4]triazine and quinazoline with various linkers to explore their potential to induce ferroptosis in cancer cells.
+Activity evaluations in three different cancer cell lines (HepG2, MDA-MB-231, and HT-1080) revealed that compounds using squaramide as a linker, particularly N-2-c1, exhibited significant anti-proliferative effects against ferroptosis-sensitive HT1080 cells, outperforming Sorafenib.
+Further mechanistic studies demonstrated that N-2-c1 effectively induced ferroptosis in HT1080 cells, leading to increased intracellular reactive oxygen species (ROS), lipid peroxidation accumulation, membrane potential damage, and elevated LDH release.
+Atomic force microscopy was employed to observe morphological changes in the cells, confirming ferroptosis-like alterations in HT1080 cells treated with N-2-c1.
+Additionally, computational docking analyses indicated that N-2-c1 exhibited superior binding affinity to GPX4 compared to Sorafenib and the control compound 7j-a1, further supporting its potential as a ferroptosis inducer.
+In conclusion, the compound N-2-c1 demonstrated selective induction of ferroptosis in tumor cells, providing a novel approach for the development of new anticancer therapies.
+Further investigations were recommended to elucidate the mechanisms and assess the clinical applicability.

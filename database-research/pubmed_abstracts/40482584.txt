@@ -1,0 +1,13 @@
+SETBP1 gene, located on 18q12.3, is a major oncogene in myeloid neoplasms.
+GATA2 gene, located on 3q21, is one of the six GATA transcription factors regulating gene expression via two conserved zinc finger domains (ZF).
+Previous data suggested that in patients with germline GATA2 mutation (m), acquisition of a somatic SETBP1 mutation (m) was associated with leukemic transformation among patients with AML, excess blast MDS and CMML.
+We hypothesize that the co-occurrence of SETBP1m and GATA2m have a unique impact on the clinical and molecular characteristics of myeloid neoplasms.
+After IRB approval, we retrospectively reviewed the charts of patients who had myeloid NGS panel results between 2016 and 2023.
+All patients with myeloid neoplasms who had either SETBP1m or GATA2m were included.
+One hundred sixty-eight patients had either SETBP1m and/or GATA2m; 105 patients had SETBP1m, 54 had GATA2m and 9 had both SETBP1m and GATA2m.
+Majority (66.1 %) were males with a median age of 71.3 years.
+At time of NGS, MDS/MPN was the most common diagnosis (32.1 %), followed by MDS (30 %) and AML (20.2 %).
+In SETBP1m/GATA2m patients, 7 GATA2m clustered in zinc finger 2 (ZF2) (77.8 %); higher than the ZF2 mutated cases among SETBP1wt/GATA2m (46.3 %, p = 0.1).
+Among SETBP1m/GATA2m, 77.8 % of patients had SRSF2 co-mutation, compared to 44.8 % among SETBP1m/GATA2wt (p = 0.08), and 27.8 % among SETBP1wt/GATA2m (p = 0.006).
+AML progression frequency for non-AML cases did not significantly differ between the 3 groups.
+Survival of SETBP1m/GATA2m patients was not worse compared to SETBP1wt/GATA2m or SETBP1m/GATA2wt.

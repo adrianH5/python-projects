@@ -1,0 +1,5 @@
+Telomerase reverse transcriptase (TERT) is one of the most well-established oncogenes in tumor development and progression.
+It is widely known that TERT promoter hypermethylation is associated with its transcription activation.
+Despite its canonical role in maintaining telomere length in cancer cells, TERT is also involved in various oncogenic processes independent of its enzymatic activity.
+However, the role of TERT in the tumor immune microenvironment has been largely unexplored.
+Hence, we assessed the associations between TERT promoter methylation and its expression, clinicopathological features, overall survival, immune cell infiltration, and response to immune checkpoint inhibitor therapy in clear cell renal cell carcinoma.

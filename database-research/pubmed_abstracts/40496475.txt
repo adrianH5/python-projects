@@ -1,0 +1,7 @@
+Papillary thyroid cancer (PTC) is frequently associated with inflammation and lymph node metastasis.
+Single-cell RNA sequencing (scRNA-seq) is a powerful tool to uncover rare cellular subpopulations and investigate the diverse functions inside tissue microenvironments.
+In the present study, scRNA-seq analysis was employed to analyze the differences in macrophages, dendritic cells (DCs) and T cells between a metastatic PTC (PTC-M) and its adjacent normal tissues, as well as a PTC tumor without metastasis.
+The findings revealed significant heterogeneity in immune cell populations in PTC-M, suggesting that immunosuppressive components contribute to the development and metastasis of PTC.
+The current study revealed that the presence of alternatively activated M2 macrophages, conventional type 2 DCs (DC2s) and regulatory T cells (Tregs) was associated with increased lymph node metastasis and a more advanced stage of cancer.
+On the other hand, monocytes and B cells may have a beneficial effect in fighting against tumors.
+A group of tumor-associated DC2s expressing both

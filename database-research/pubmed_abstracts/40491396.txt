@@ -1,0 +1,6 @@
+The recurrence rate of cancer following surgical procedures is markedly affected by the degree of tumor removal.
+During the operation, tumor-targeted imaging is of crucial significance as it assists surgeons in attaining the most comprehensive tumor excision.
+Herein, a theranostic platform (CDSP NPs) is developed through the assembly of carbon dots (CDs) with paclitaxel prodrugs.
+CDSP NPs can be utilized for near-infrared (NIR) afterglow imaging-guided precise removal of breast cancer, featuring a long lifetime (>2 h), deep tissue penetration (>13 mm), and a high signal-to-noise ratio (SNR, 103.9), thereby effectively preventing cancer recurrence.
+Additionally, the combined treatment of photodynamic therapy (PDT) and chemotherapy substantially enhances tumor regression, demonstrating the tremendous potential of CDSP NPs for synergistic cancer treatment.
+This study proposes a straightforward but efficient model to build a nanoplatform integrating diagnosis and treatment, which is utilized for image-guided surgical navigation and effective tumor treatment.

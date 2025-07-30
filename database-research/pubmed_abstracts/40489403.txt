@@ -1,0 +1,7 @@
+Metabolically regulated Akt activation is a critical node in the insulin signaling cascade and provides valuable insights into the relationship between diabetes and cancer.
+To precisely quantify Akt activity in HepG2 cells, we developed a robust, reproducible protocol utilizing Förster Resonance Energy Transfer (FRET) with genetically encoded Akt-specific biosensors.
+This protocol outlines detailed steps for cell culture, imaging dish preparation, and transfection of HepG2 cells to express FRET-based biosensors, alongside specific guidelines for laser scanning confocal microscope hardware and software configuration.
+The results demonstrated unique patterns of insulin signaling in HepG2 cells, which exhibit an irreversible switch characterized by constitutive Akt activation with a defined switch-on threshold but no switch-off threshold.
+In contrast, myotubes display a reversible switch.
+The persistent Akt activation in HepG2 cells suggests mechanisms underlying insulin resistance and metabolic dysregulation in hepatic cells, with broader implications for understanding the progression of metabolic disorders and cancer.
+This protocol offers a valuable framework for exploring Akt-related signaling pathways and cellular behaviors across various disease contexts.

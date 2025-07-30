@@ -1,0 +1,12 @@
+Open vascular reconstructions (OVR), including bypass grafts and dialysis access, are standard treatments for cardiovascular and renal diseases.
+Unfortunately, OVR often fail largely due to intimal hyperplasia (IH), and there are no clinical methods to prevent this complication.
+Perivascular drug administration during OVR presents a promising strategy for IH suppression.
+However, durations of drug release from carriers are generally short whereas sustained efficacy is essential for clinical success.
+This raises a critical question in clinical translation: can IH suppression be realistically maintained long-term (e.g., over 6 months) with short-term perivascular interventions?
+To address this question, we modified a rat vein-graft model to prolong IH progression.
+We then applied Pericelle, a nanoparticle/hydrogel hybrid system that we developed for perivascular delivery of rapamycin, an established IH-inhibitory drug.
+Surprisingly, despite short (∼3-month) drug release, Pericelle demonstrated IH suppression throughout 3, 6, and 9 months with IH reduced from 115.58 ± 27.89 to 40.34 ± 5.18 at 9 months (P < 0.05, n = 6 rats), as indicated by morphometric analysis.
+Live animal ultrasonography showed the same trend.
+Consistently, histone-3 lysine-27 trimethylation, an epigenetic mark associated with IH progression, was decreased at 6 months after Pericelle treatment.
+Moreover, Pericelle exhibited promising efficacy in mitigating IH in a porcine model of arteriovenous fistula that mimics dialysis access.
+These results suggest that Pericelle-mediated suppression of IH in rat vein-grafts extends much beyond drug release, offering potential solutions to longstanding translational challenges in reducing OVR failure.

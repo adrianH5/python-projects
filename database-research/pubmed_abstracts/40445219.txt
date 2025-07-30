@@ -1,0 +1,18 @@
+Pediatric long-level intramedullary spinal cord tumor (PLIMSCT) is one of the more complicated neurosurgical diseases, and there is very little research on PLIMSCT at present.
+This study aims to analyze the relevant clinical features and surgical outcomes of PLIMSCT through comparison.
+This study retrospectively analyzed pediatric intramedullary spinal cord tumor patients who underwent surgical treatment in our hospital from January 2015 to June 2024.
+The relevant data of patients were collected to conduct a comparison of the differences in clinical characteristics among various levels, and to analyze the potential factors that might influence the surgical outcomes.
+A total of 96 pediatric intramedullary spinal cord tumor patients were included, among which there were 42 cases in the long-level group.
+All patients underwent surgical treatment.
+The most common initial symptom in all parents was motor deficit (n = 51, 53.1%).
+In the long-level group, the symptom duration was mainly ≤ 1 year (n = 30; 66.7%), while in the short-level group, it was mostly > 3 years (n = 25; 83.3%).
+The most frequently involved level of tumors in both the long-level and short-level groups was the thoracic level (n = 14, 32.6% versus n = 29, 67.4%).
+Among all patients, 71 cases underwent gross total resection (GTR), including 32 cases (45.1%) in the long-level group and 39 cases (54.9%) in the short-level group.
+At admission, most patients had mild neurological deficits (MMS II).
+Comparison showed that there was no statistical difference in preoperative MMS between the two groups (p = 0.590), but it was different in postoperative MMS (p = 0.003).
+The overall survival rate was not related to the length of the tumor but was related to the WHO grade of the tumor.
+For PLIMSCT patients, logistic regression indicated that initial symptoms independently affected short-term neurological function, while WHO grade and postoperative MMS were related to long-term neurological function.
+In PLIMSCT patients, low-grade astrocytoma is the prevalent pathological type.
+The initial state of patients independently affects short-term neurological function.
+Surgical resection extent has no impact on postoperative neurological function, and tumor length doesn't influence long-term neurological decline.
+Long-term neurological function is mainly determined by the characteristics of the tumor and the postoperative neurological status.

@@ -1,0 +1,4 @@
+The role of basonuclin 1 (BNC1), a zinc finger protein-specific transcription factor, in gastric cancer remains unclear.
+In this study, BNC1 was downregulated in gastric cancer and functioned as a tumor suppressor.
+Through integrative analyses of transcriptome sequencing and functional assays, C-C motif chemokine ligand 20 (CCL20) was identified as a direct downstream target of BNC1.
+Overexpression of BNC1 inhibited the proliferation, migration, and invasion of gastric cancer cells both

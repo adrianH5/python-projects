@@ -1,0 +1,7 @@
+Bevacizumab targets the vascular endothelial growth factor signaling pathway, inhibiting tumor angiogenesis and reshaping the tumor microenvironment, positioning it as a cornerstone in ovarian cancer management.
+Its mechanisms of action include blocking VEGF-A-induced endothelial cell proliferation, promoting vascular normalization, alleviating hypoxic conditions, and reversing immunosuppression.
+Key phase III clinical trials, including GOG-0218, AURELIA, and PAOLA-1, have demonstrated that Bevacizumab significantly extends progression-free survival in the maintenance treatment of newly diagnosed advanced ovarian cancer, platinum-sensitive or resistant recurrent disease, and HRD-positive patients, with a median PFS of up to 37.2 months.
+However, its impact on overall survival remains limited, and challenges such as drug resistance, treatment-related toxicities, and high costs persist.
+Future advancements will hinge on multidisciplinary innovation, including dual-targeting approaches such as VEGF/Ang-2 bispecific antibodies, combination immunotherapies, intelligent nanodrug delivery systems, and AI-driven dynamic biomarker stratification.
+The use of biosimilars and adaptive platform trials offers promise in reducing costs and improving accessibility.
+These technological innovations mark a shift in ovarian cancer treatment from traditional chemotherapy to precision medicine, presenting new opportunities to improve long-term patient survival.

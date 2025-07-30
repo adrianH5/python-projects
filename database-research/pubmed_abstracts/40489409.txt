@@ -1,0 +1,10 @@
+The CRISPR-Cas9 system has been harnessed and repurposed into a powerful genome editing tool.
+By leveraging this technology, researchers can precisely cut, paste, and even rewrite DNA sequences within living cells.
+Nevertheless, the application of CRISPR screen technology goes far beyond mere experimentation.
+It serves as a pivotal tool in the fight against genetic diseases, systematically dissecting complex genetic landscapes, empowering researchers to unravel the molecular mechanisms underlying biological phenomena, and enabling scientists to identify and target the root causes of illnesses such as cancer, cystic fibrosis, and sickle cell anemia.
+Among all, cancer poses a formidable challenge for medicine, spurring eradication efforts.
+Radiotherapy, as a traditional treatment, yields results but has limitations.
+It eradicates cancer cells but also damages healthy tissues, causing adverse effects that reduce quality of life.
+Additionally, not all cancer cells respond to radiotherapy, and some may develop resistance, worsening the condition.
+To address this, a comprehensive whole-genome CRISPR screen technology is introduced, as it enables the efficient identification of radiosensitive and radioresistant genes, thereby advancing the field of cancer research and treatment.
+A genome-wide CRISPR screen was conducted in lung adenocarcinoma cells exposed to irradiation following the described protocol, through which both radioresistance- and radiosensitivity-associated genes were identified.

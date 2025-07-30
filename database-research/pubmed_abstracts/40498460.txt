@@ -1,0 +1,4 @@
+Immunotherapy has become the standard treatment for many types of cancers, but an increasing number of patients who initially respond to these treatments develop acquired immunotherapy resistance (AIR).
+Here, we recapitulated the entire process of immunotherapy from response to AIR in mice with non-small cell lung cancer (NSCLC).
+With implanted tumor organoids derived from these models and serial transplants, we demonstrated that tumor cell-intrinsic mechanisms contributed significantly to AIR.
+Single-cell RNA sequencing and electron microscope assays revealed that resistant tumor cell-expressing collagens, including

@@ -1,0 +1,24 @@
+T1	Repository 740 770	Immune epitope database (IEDB)
+T2	Repository 956 960	IEDB
+T3	Repository 1251 1254	PDB
+T4	AccessionNumber 1259 1263	3sci
+T5	Repository 1272 1275	PDB
+T6	AccessionNumber 1280 1284	2Z7X
+T7	Repository 1297 1300	PDB
+T8	AccessionNumber 1305 1309	4G8A
+T9	Repository 1420 1423	PDB
+T10	AccessionNumber 1428 1432	3KG5
+T11	Repository 1482 1485	PDB
+T12	AccessionNumber 1489 1493	4U6Y
+T13	Repository 1509 1512	PDB
+T14	AccessionNumber 1516 1520	4MJI
+T15	Repository 1552 1555	PDB
+T16	AccessionNumber 1559 1563	6ATF
+T17	Repository 1992 1996	IEDB
+R1	hasAttr	Arg1:T3	Arg2:T4
+R2	hasAttr	Arg1:T5	Arg2:T6
+R3	hasAttr	Arg1:T7	Arg2:T8
+R4	hasAttr	Arg1:T9	Arg2:T10
+R5	hasAttr	Arg1:T11	Arg2:T12
+R6	hasAttr	Arg1:T13	Arg2:T14
+R7	hasAttr	Arg1:T15	Arg2:T16

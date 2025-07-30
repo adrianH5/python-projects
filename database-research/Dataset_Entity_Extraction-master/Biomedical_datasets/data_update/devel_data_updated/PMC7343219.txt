@@ -1,0 +1,6 @@
+On 26 January 2020, the first coronavirus disease 2019 (COVID-19) case was reported in Arizona (third case in the United States) (1).
+In anticipation of COVID-19 spreading in Arizona, we initiated a surveillance effort for the local emergence of SARS-CoV-2 starting 24 January 2020.
+Given the estimated 1- to 14-day incubation period for COVID-19, the spike in cases might be related to university spring break holiday travel (8 to 15 March), as previously seen in other outbreaks (4, 5).
+This generated an NGS data set of 20.7 to 22.7 million paired-end reads per sample.
+GenBank and GISAID accession numbers were the following: SARS-CoV-2 AZ-ASU2922, MT339039 and EPI_ISL_424668; SARS-CoV-2 AZ-ASU2923, MT339040 and EPI_ISL_424669; SARS-CoV-2 AZ-ASU2936, MT339041 and EPI_ISL_424671; SARS-CoV-2 Wuhan1, MN908947.3; Pangolin, EPI_ISL_410721; Bat-RaTG13, MN996532.1; and SARS-CoV, AY278741.1.
+The 81-nt (27-amino-acid) deletion observed in SARS-CoV-2 AZ_ASU2923 ORF7a was not present in the 6,290 SARS-CoV-2 sequences available from GISAID as of 12 April 2020.

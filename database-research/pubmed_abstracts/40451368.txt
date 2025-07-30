@@ -1,0 +1,7 @@
+FAD/NAD(P)H dependent dehydrogenases represent a crucial class of enzymes involved in redox reactions, energy metabolism, and the regulation of apoptotic pathways.
+In this context, apoptosis-inducing factor (AIF), dihydrolipoamide dehydrogenase (DLD), glutathione reductase (GR), and thioredoxin reductase (TrxR) are central players in mitochondrial and cytosolic redox processes.
+Aberrant activity or expression of these enzymes has been implicated in cancer progression and neurodegenerative disorders, underscoring their therapeutic relevance.
+Our structural comparative analysis reveals a conserved overall fold across the four enzymes, with pairwise RMSD values consistently below 3.2 Å.
+Notably, their FAD and NAD(P)H cofactor-binding pockets are spatially aligned upon superposition, reflecting not only cofactor conservation but also striking structural/functional similarity in the catalytic mechanisms.
+While this structural similarity raises concerns for selective inhibitor design, the available crystallographic data provide valuable knowledge exploitable for drug-specificity.
+This review integrates the current knowledge on the structure, function, and pathological relevance of AIF, DLD, GSR, and TrxR, with a focus on their roles in cancer metabolism and neurodegenerative disorders, highlighting recent advances in structural studies.

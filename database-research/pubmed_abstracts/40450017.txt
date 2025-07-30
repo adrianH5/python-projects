@@ -1,0 +1,16 @@
+lncRNAs are densely related to many human diseases.
+Identifying new lncRNA-disease associations (LDAs) conduces to better deciphering mechanisms of diseases, finding new biomarkers, and further promoting their diagnosis and treatment.
+In this manuscript, we devise an LDA prediction framework called LDA-GARB.
+LDA-GARB first combines nonnegative matrix factorization to extract linear features of lncRNAs and diseases.
+Next, it computes lncRNA similarity and disease similarity and adopts a graph autoencoder to extract nonlinear features of lncRNAs and diseases.
+Subsequently, the extracted features are concatenated as a vector.
+Finally, it takes the obtained vector as inputs and designs a noise-robust gradient boosting model to uncover potential associations from unknown lncRNA-disease pairs.
+To investigate the LDA-GARB performance, we used precision, recall, accuracy, F1-score, AUC, and AUPR as measurement metrics and performed multiple comparison experiments.
+First, it was benchmarked with four representative LDA prediction methods, i.e., SDLDA, LDNFSGB, LDAenDL, and LDA-VGHB, under 5-fold cross validations on lncRNAs, diseases, and lncRNA-disease pairs.
+Next, it was compared with four representative boosting models, i.e., XGBoost, AdaBoost, CatBoost, and LightGBM, under the above three different cross validations.
+Subsequently, the performance of LDA-GARB against LDA-LNSUBRW, GAMCLDA, LDA-VGHB, LDAGM, and GANLDA on imbalanced data was evaluated.
+We also performed parameter sensitivity analysis and ablation experiments.
+The results demonstrated that LDA-GARB improved LDA prediction.
+Finally, LDA-GARB was applied to predict potential associated lncRNAs for colorectal cancer and breast cancer.
+CCDC26 and HAR1A have been inferred to have an association with the two cancers, respectively.
+As a useful LDA identification tool, LDA-GARB is freely available at https://github.com/smiling199/LDA-GARB .

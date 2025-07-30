@@ -1,0 +1,8 @@
+Tobacco-specific N-nitrosamines (TSNAs), which are associated with several cancers, are formed during the processing of tobacco alkaloids.
+Since tobacco smoking poses serious health risks, scientists, governments, and health regulators globally have denounced it and categorized its constituents according to their carcinogenicity.
+Tobacco smoke investigations are guided by standardized methods (ISO).
+With the help of standardized smoke-generating machines, precise quantification of TSNAs and other smoke constituents is now possible thanks to advancements in analytical techniques.
+This information supports initiatives to reduce the amount of TSNAs that smoking exposes people to.
+This review covers the occurrence, formation pathways, precursors, and control strategies through removal technologies, providing thorough analysis of the state of science today regarding TSNAs.
+The adsorption characteristics of different materials as possible filter additives or modifiers are critically discussed, emphasizing important elements like porosity, layering, acidity/alkalinity, and surface area that affect their performance for capturing TSNAs from smoke.
+While scientific understanding of these areas is still evolving, this review intends to provide for the first time research progress on the adsorption properties of various materials, including zeolites, silica, few-layer black phosphorus, metal-organic frameworks, and molecularly imprinted polymers, among others, for reducing TSNAs present in both cigarette smoke and aqueous solutions.

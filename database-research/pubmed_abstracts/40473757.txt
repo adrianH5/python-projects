@@ -1,0 +1,10 @@
+In clinical medicine, a reliable and resource-friendly computer-aided diagnosis (CAD) method for brain tumor segmentation is essential to enhance diagnostic accuracy and therapeutic outcomes, particularly in regions with uneven healthcare resource distribution.
+Convolutional neural networks (CNNs) perform extremely well in processing local detailed features.
+However, there restricted receptive field renders them incapable of capturing global context information.
+Although the combination of CNNs and Transformers balances the ability to capture local detailed features and global context information, it inevitably increases the model's parameters and computational cost, which restricts its equal deployment in real medical scenarios.
+To address this issue, We propose a Lightweight Network with Roberts edge enhancement (LR-Net) for brain tumor segmentation that achieves an optimal balance between parameters and diagnostic accuracy.
+We propose a 3D Spatial Shift Convolution and Pixel Shuffle (SSCPS) module, the SSCPS module present a low-parameter, low-computational-cost spatial shift convolution that overcomes the limitation of receptive field and improves the ability to extract global contextual information, Pixel Shuffle (PS) module extracts spatial information from feature dimensions, efficiently replacing traditional upsampling module.
+The Channel Dilation Mechanism in SSCPS module dynamically adjust the number of output channels to maintain the range and depth of network feature aggregation.
+Additionally, the network leverages a combination of Channel Attention and Roberts Edge Enhancement (CAREE) module, to improve the channel aggregation capability and sensitivity of fuzzy boundaries.
+Our method achieved Dice of 0.806, 0.881, and 0.860 in BraTS2019, BraTS2020, and BraTS2021 datasets, while the parameters is only 4.72 M, which is only 3.03% of UNETR's and 28.92% of UNet3D's.
+This balance of efficiency and accuracy makes the proposed network well-suited for practical clinical applications.

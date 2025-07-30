@@ -1,0 +1,2 @@
+Gold standards used in validation of new tests may be imperfect, with sensitivity or specificity less than 100%.
+The impact of imperfection in a gold standard on measured test attributes has been demonstrated formally, but its relevance in real-world oncology research may not be well understood.

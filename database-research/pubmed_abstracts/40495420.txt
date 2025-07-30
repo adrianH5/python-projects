@@ -1,0 +1,11 @@
+Treatment options for relapsed/refractory (R/R) diffuse large B-cell lymphoma (DLBCL) patients ineligible for autologous stem cell transplant (ASCT) or chimeric antigen receptor (CAR)-T-cell therapy remain limited.
+The PI3K inhibitor copanlisib has shown activity as a single agent in DLBCL.
+This phase II, single-arm, multicentre trial evaluated copanlisib with rituximab and bendamustine (copa-BR) in ASCT- and CAR-T-ineligible R/R DLBCL.
+Patients received six cycles of copa-BR, followed by up to 12 cycles of copanlisib maintenance.
+The primary end-point was 12-month progression-free survival (PFS).
+Thirty-seven patients (aged 68-87 years, R/R after 1-2 prior lines) were enrolled.
+The overall response rate was 24.3%, with complete responses in 13.5%.
+After a median follow-up of 20 months, the 12-month PFS and overall survival rates were 25.1% and 44.5% respectively.
+Grade ≥3 toxicities included neutropenia (56.8%), infections (27.0%, including 6 death due to COVID-19 infection with 25% fatality) and thrombocytopenia (16.2%).
+Due to limited efficacy, poor tolerability and emerging alternative treatments, the trial was terminated prematurely.
+Copa-BR showed limited activity and an unfavourable safety profile, discouraging further investigation of this combination in ASCT- and CAR-T-ineligible R/R DLBCL.

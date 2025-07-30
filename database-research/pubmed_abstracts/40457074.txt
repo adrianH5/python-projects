@@ -1,0 +1,6 @@
+Basal breast cancer is a subtype with a poor prognosis in need of more effective therapeutic approaches.
+Here we describe a unique role for the KDM4C histone lysine demethylase in KDM4C-amplified basal breast cancers, where KDM4C inhibition reshapes chromatin and transcriptomic landscapes without substantial alterations of its canonical substrates, trimethylated histone H3 lysine 9 (H3K9me3) and lysine 36 (H3K36me3).
+Rather, KDM4C loss causes proteolytic cleavage of histone H3 mediated by cathepsin L (CTSL), resulting in decreased glutamate-cysteine ligase expression and increased reactive oxygen species.
+CTSL is recruited to the chromatin by the grainyhead-like 2 (GRHL2) transcription factor that is methylated at lysine 453 following KDM4C inhibition, triggering CTSL histone clipping activity.
+Deletion of CTSL rescued KDM4-loss-mediated tumor suppression.
+Our study reveals a function for KDM4C that connects cellular redox regulation and chromatin remodeling.

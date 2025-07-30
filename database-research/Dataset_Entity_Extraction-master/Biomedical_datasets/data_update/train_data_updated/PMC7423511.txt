@@ -1,0 +1,15 @@
+The novel coronavirus disease 2019 (COVID-19), a viral outbreak caused by the severe acute respiratory syndrome-coronavirus 2 (SARS-CoV-2), first arose in Wuhan, China, in December 2019, and it was declared a Public Health Emergency of International Concern on January 30, 2020 (WHO, 2020b).
+Seven months into the COVID-19 pandemic, the number of cumulative cases continues to steadily increase.
+COVID-19 has placed an unparalleled burden on the health systems and economies of all affected countries, with a projected serious impact on African countries that are already saddled with weak health care provision and economic systems.
+Mass testing is being advocated, and this requires molecular techniques, the current gold standard for COVID-19 detection, as recommended by the World Health Organisation (WHO) (WHO/Africa, 2020).
+The use of high-throughput next-generation sequencing tools can provide additional data to refine strategies to fight against COVID-19.
+While SARS-CoV-2 sequence data are an integral part of the information used for making decisions on other continents (Lu et al., 2020, Zhu et al., 2020), Africa has yet to integrate this information into our decision making for managing COVID-19 outbreaks within the continent.
+To the present, only 900 SARS-CoV-2 genome sequences from 14 African countries have been uploaded out of a total of 62,267 whole-genome sequences in GISAID (GISAID, 2020), an online database for the rapid sharing of viral genomes and clinical and epidemiological data.
+Africa has recorded approximately 642,387 cases and close to 10,789 deaths from COVID-19 (WHO, 2020a).
+The above narrative could be different if each country appreciated the need for genetic data and deliberately empowered at least one molecular laboratory involved in COVID-19 detection and diagnostics with sequencing technologies.
+Recently, the African Union Commission/ACDC formally launched the Partnership to Accelerate COVID-19 Testing (PACT) on June 4, 2020.
+The goals of PACT are to improve testing for COVID-19, enhance the training of health workers across the continent, establish a central procurement system at ACDC and deploy one million community health workers to perform contact tracing of confirmed cases at the community level (ACDC, 2020).
+To respond to epidemics such as COVID-19, genomic data generation for real-time decision making could be enhanced by the adoption and decentralised application of small, portable and easily operated experimental tools such as the Oxford Nanopore technology-MinION sequencer, Illumina MiniSeq or the BGI-DNBSeq across all countries.
+The health impacts of COVID-19 are much more devastating in resource-poor settings such as Africa.
+•  SARS-CoV-2 genome samples from Africa are underrepresented in the GISAID data repository.
+Genomic technologies are vital for enhancing the understanding and development of intervention approaches against these pathogens, including Ebola and the novel coronavirus disease 2019 (COVID-19).

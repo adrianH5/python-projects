@@ -1,0 +1,20 @@
+The World Health Organization (WHO) termed the disease as coronavirus disease-2019 (COVID-19) on February 11, 2020 [17].
+With transmission of the virus possible before the onset of clinical signs, the COVID-19 outbreak has quickly expanded to worldwide [18–20].
+As of August 18, 2020, a total of 21,756,357 confirmed cases of COVID-19 and 771,635 deaths have been reported in more than 200 countries and territories.
+The first case of COVID-19 in Turkey was confirmed on March 112020.
+The reads were aligned to the previously assembled sequence of the SARS-CoV-2 genome (GenBank Accession: MN908947.3) using the Burrows-Wheeler aligner v.0.7.1 with the MEM algorithm [25].
+For multiple sequence alignment, complete (>29,000bp) and high-coverage genomes (n = 3970) were used from the GISAID database.
+The GISAID strain genomes including the genome of our strain were aligned using the MAFFT v7.450 tool [28].
+The whole genome sequence was submitted to GenBank (ID:MT327745.1) and GISAID (ID: EPI_ISL_424366) and the raw data deposited on SRA (SAMN15062833).
+Taken together, these results suggest that a SARS-CoV-2 strain named hCoV-19/Turkey/ERAGEM-001/2020 was successfully isolated from the nasopharyngeal sample of a patient in Turkey with confirmed COVID-19.
+According to published case reports and GISAID metadata entries, at least 9 SARS-CoV-2 samples in the nearby clusters had a recent travel history to Iran [30].
+The GISAID had only one full genome sequence of SARS-CoV-2 from Iran, which also included the two key mutations (G1397A and G29742T).
+In addition, analysis of the NP partial gene sequences of the Iranian samples in GISAID showed that all of the Iranian partial sequences (n = 15) also contain the T28688C, which is another key single nucleotide polymorphism (SNP) of this clade.
+Our strain also contained G23876A, a non-synonymous mutation in the S gene, which was not observed in any other full genome sequences in GISAID.
+In this study, we isolated the SARS-CoV-2 from the nasopharyngeal sample of a patient in Turkey with confirmed COVID-19.
+Lastly, we have compared the whole genome of hCoV-19/Turkey/ERAGEM-001/2020 with a dataset of 3970 available SARS-CoV-2 complete genomes from different countries retrieved from GISAID.
+The reason for the high fraction of Australian cases in this cluster was possibly due to the high number of submitted sequences, as Australia was the third country that had the most sequences submitted to GISAID by April 2020.
+Interestingly, hCoV-19/Turkey/ERAGEM-001/2020 has the G23876A mutation on the S gene, which is not found in any other full genome sequences in GISAID, including the Australian cluster.
+Coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and associated with severe respiratory illness emerged in Wuhan, China, in late 2019.
+Currently, there are no specific treatments or licensed vaccines available for COVID-19.
+We isolated SARS-CoV-2 from the nasopharyngeal sample of a patient in Turkey with confirmed COVID-19.

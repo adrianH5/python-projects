@@ -1,0 +1,10 @@
+The COVID-19 pandemic caused by the severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) resulted in millions of deaths globally.
+Adults with immunosuppression (e.g., solid organ transplant recipients) and those undergoing active cancer treatments experience worse infections and more severe COVID-19.
+It is difficult to conduct clinical studies in these populations, resulting in a restricted amount of data that can be used to relate mechanisms of immune dysfunction to COVID-19 outcomes in these vulnerable groups.
+To study immune dynamics after infection with SARS-CoV-2 and to investigate drivers of COVID-19 severity in individuals with cancer and immunosuppression, we adapted our mathematical model of the immune response during COVID-19 and generated virtual patient cohorts of cancer and immunosuppressed patients.
+The cohorts of plausible patients recapitulated available longitudinal clinical data collected from patients in Montréal, Canada area hospitals.
+Our model predicted that both cancer and immunosuppressed virtual patients with severe COVID-19 had decreased CD8 + T cells, elevated interleukin-6 concentrations, and delayed type I interferon peaks compared to those with mild COVID-19 outcomes.
+Additionally, our results suggest that cancer patients experience higher viral loads (however, with no direct relation with severity), likely because of decreased initial neutrophil counts (i.e., neutropenia), a frequent toxic side effect of anti-cancer therapy.
+Furthermore, severe cancer and immunosuppressed virtual patients suffered a high degree of tissue damage associated with elevated neutrophils.
+Lastly, parameter values associated with monocyte recruitment by infected cells were found to be elevated in severe cancer and immunosuppressed patients with respect to the COVID-19 reference group.
+Together, our study highlights that dysfunctions in type I interferon and CD8 + T cells are key drivers of immune dysregulation in COVID-19, particularly in cancer patients and immunosuppressed individuals.

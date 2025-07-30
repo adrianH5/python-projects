@@ -1,0 +1,22 @@
+The pandemic caused by the novel coronavirus SARS-CoV-2 (COVID-19) has resulted in significant pulmonary morbidity and mortality, but has also raised many questions regarding involvement of other organ systems such as the liver.
+Hepatologists and liver pathologists were therefore interested to find that researchers from China demonstrated liver function test (LFT) abnormalities in ~44% of COVID-19 patients and that these abnormalities seemed to correlate with the severity of pulmonary disease [1, 2].
+Nonetheless, the spectrum of histological liver injury in COVID-19 remains unknown.
+Early in the course of the pandemic, New York City was the global epicenter for cases of, and deaths from, COVID-19.
+Our volume of autopsies increased sharply, and most of the cases were due to sequelae of COVID-19.
+The lung findings predominated, as expected; however, ~2/3 of COVID-19 patients in our healthcare system had abnormal LFTs [10].
+Following approval from the Columbia University Irving Medical Center Institutional Review Board, we reviewed lung and liver sections from 40 consecutive autopsies from patients who died of illness related to COVID-19.
+Quantitative RT-PCR was performed on extracted RNA using Taqman 4X master mix and SARS-COV-2 primer/probe sets (IDT) to detect presence of virus per the CDC recommendations [11].
+We sequentially examined the liver sections of the first 44 COVID-19 autopsies at our institution; however, four were excluded for severe autolysis resulting in a cohort of 40 patients.
+This patient had been treated with a number of potentially hepatotoxic medications throughout the hospital course including hydroxychloroquine and tocilizumab for severe COVID-19, as well as amiodarone for atrial fibrillation and ceftriaxone and piperacillin/tazobactam for infection.
+Therefore, it would seem likely that the steatosis in some of these cases developed during the course of their COVID-19 illness.
+A series of over 300 COVID-19 cases in China investigated the relationship between steatosis and neutrophil to lymphocyte ratio (NLR).
+The exact mechanism/pathobiology of hepatic steatosis in COVID-19 is worthy of further investigation.
+The role of immunosuppression and allograft recipient status on liver injury associated with COVID-19 will need further study.
+The potential role of endothelial injury in COVID-19 continues to evolve.
+While we cannot exclude these findings being meaningful (if they are present throughout the entire liver), we do not believe that vascular injury is the major mechanism of injury in the liver in COVID-19 patients.
+As the epidemic evolves, it will be important to gather data on liver injury in patients with non-lethal COVID-19.
+We attempted to validate in-situ hybridization (ISH) protocols and IHC for SARS-CoV-2, but nonspecific marking of lipofuscin, and reaction with endogenous alkaline phosphatase in liver tissue from non-COVID-19 patients who died years ago was nearly ubiquitous (sometimes strong and diffuse).
+It will be important and interesting to attempt to identify virus in specific cells in the liver and to determine whether the ACE2 receptor is upregulated in hepatocytes in patients with severe COVID-19.
+The novel coronavirus SARS-CoV-2 (coronavirus disease 19, or COVID-19) primarily causes pulmonary injury, but has been implicated to cause hepatic injury, both by serum markers and histologic evaluation.
+Here we report the clinical and histologic findings related to the liver in 40 patients who died of complications of COVID-19.
+In conclusion, we found patients dying of COVID-19 had biochemical evidence of hepatitis (of variable severity) and demonstrated histologic findings of macrovesicular steatosis and mild acute hepatitis (lobular necroinflammation) and mild portal inflammation.

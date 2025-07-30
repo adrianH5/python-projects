@@ -1,0 +1,9 @@
+Tedious steps for double-stranded DNA (dsDNA) denaturation into single-stranded DNA (ssDNA) are necessary for most DNA samples for probe-based hybridization assays, which complicates the detection process.
+Herein, we propose a simple and low-cost direct detection of human papillomavirus dsDNA (HPV dsDNA) via a double duplex invasion mechanism using a dual-mode fluorescence/electrochemical paper-based sensor.
+The detection employs the non-self-pairing pyrrolidinyl peptide nucleic acid (acpcPNA) as probes, and a fluorogenic and electrochemically active dicationic DNA staining dye as a transducer.
+The device was fabricated by creating the hydrophobic zone pattern on the paper substrate using a wax printer, and the electrodes were screened onto it, followed by the immobilization of PNA probes.
+Addition of the target dsDNA together with the dye and another PNA probe, which is complementary to the immobilized probe, leads to enhanced fluorescence and electrochemical response, resulting from the interaction between the dye and the DNA in the double duplex invasion complex.
+The device offers decent analytical performance, with its limit of detection (LOD) at 4.7 copies/µL for fluorescence and 1 copy/µL for electrochemical detection.
+This sensor exhibits excellent selectivity towards HPV16, and the performance was evaluated in clinical samples, which shows results that are in good agreement with gel electrophoresis.
+Therefore, this dual-sensing platform offers a versatile, simple, portable, yet low-cost direct detection of HPV dsDNA for cervical cancer screening.
+The dual-mode detection allows flexibility in choosing the detection method based on the needs, equipment availability, or both detection modes can be used for self-validation of the results.

@@ -1,0 +1,10 @@
+Lung cancer is among the leading causes of cancer-related death in the U.S. Cigarette smoking remains the leading risk factor for lung cancer and can cause somatic mutations in the critical tumor suppressor gene TP53, among others.
+Mutations in TP53 not only cause loss of wild-type function but may also introduce oncogenic, gain-of-function (GOF) properties.
+The frequency of missense mutations at residues p.V157 and p.R158 in p53 increases dramatically in lung cancer relative to other cancers.
+These p53 mutants exhibit both loss of wild-type p53 function and GOF properties, including broadly rewiring gene expression programs in lung cancer cells.
+Several pan-cancer hotspot mutations in p53 impart GOF activities that reprogram cellular metabolism.
+To refine our understanding of the GOF properties conferred by the lung-enriched p53 mutants, the cellular metabolism of cells containing mutant p53 (V157F) was investigated.
+Untargeted metabolomics revealed that glutathione metabolism is among the top altered metabolic pathways related to mutant p53 (V157F).
+p53 mutants V157F and R158L provided resistance to oxidative stress induced by both menadione and cigarette smoke extract.
+The cell death experienced in the absence of mutant p53 (V157F; R158L) was due to the increase in reactive oxygen species (ROS).
+These findings suggest that the lung-enriched mutations in p53 (V157F; R158L) confer lung cancer cells with resistance to ROS, and ROS accumulation in the absence of mutant p53 causes cell death.

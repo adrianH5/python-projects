@@ -1,0 +1,16 @@
+Growing evidence indicates that thyroid hormone receptor interactor 13 (TRIP13) plays an oncogenic role in various malignancies.
+Pan-cancer analysis was performed to elucidate the prognostic value and oncogenic role of TRIP13, and detect TRIP13 expression levels in diverse cancer types.
+We found that TRIP13 was overexpressed in multiple tumors.
+Subsequently, we explored the relationship between TRIP13 expression-associated alterations and clinical prognosis, DNA methylation, immune cell infiltration, immune checkpoints, tumor mutational burden, microsatellite instability, and drug sensitivity.
+Gene set enrichment analysis was utilized to explore the molecular mechanism of TRIP13.
+A nomogram was developed to predict the impact of TRIP13 expression on an liver hepatocellular carcinoma prognosis.
+The miRDB database was used to predict miRNA targets for TRIP13.
+The results indicated that TRIP13 overexpression was associated with a poor overall survival, disease-specific survival, and progression-free interval in various cancer types.
+The mutation frequency of TRIP13 was the highest in individuals with lung squamous cell carcinoma.
+TRIP13 expression levels were negatively associated with immunocyte infiltration, immune scores, tumor mutational burden, microsatellite instability, and DNA methylation in certain cancers, and positively correlated with the expression of at least 5 immune checkpoint-related genes in bladder carcinoma, breast cancer, kidney clear cell carcinoma, liver hepatocellular carcinoma, lung adenocarcinoma, mesothelioma, and thyroid cancer.
+In addition, we discovered that TRIP13 participated in the cell cycle during Gene Ontology and Kyoto Encyclopedia of Genes and Genomes enrichment analysis for most cancers.
+The areas under the curve for the 1-, 3-, and 5-year survival rates in the nomogram exceeded 0.6, indicating that the model has good predictive performance, and was validated using samples obtained from liver hepatocellular carcinoma patients.
+We also found that miR-656-3p tends to bind to TRIP13 mRNA and regulate TRIP13 expression.
+Additionally, we identified 26 drugs sensitive to tumors with high TRIP13 expression levels from the CTRP and GDSC databases.
+Finally, the promoting effect of TRIP13 on lung cancer was verified, the results demonstrating TRIP13 could accelerate lung cancer cell proliferation, migration, and invasion.
+Collectively, our findings suggest that TRIP13 may act as a potential prognostic marker and novel target for cancer therapy.

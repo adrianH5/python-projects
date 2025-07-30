@@ -1,0 +1,6 @@
+Multiple myeloma (MM) ranks second only to lymphoma among hematologic malignancies in terms of incidence.
+Current treatment methods primarily rely on proteasome inhibitors (PIs) targeting the ubiquitin proteasome system (UPS).
+However, existing PIs regimens encounter several limitations, including severe adverse effects, rapidly developing resistance during treatment, and restricted therapeutic efficacy.
+In light of this, our work aims to explore strategies to mitigate poor conditions.
+We employed a systematic structural optimization process to design and synthesize the new compound BC12-3, based on prevailing PIs.
+JFCR39 COMPARE analysis was used to assess cytotoxic activity against 39 characteristic cancer cell lines, and the IC

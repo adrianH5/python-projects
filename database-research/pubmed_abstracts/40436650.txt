@@ -1,0 +1,5 @@
+Active regulation of T cell quiescence is important to sustain immune responses to vaccination and infection while preventing inappropriate responses such as autoimmunity.
+Recent studies highlight that quiescence in naïve T cells is actively regulated by transcription factors and tonic signaling.
+Loss of quiescence in aged T cells has significant consequences because the cells are less responsive to infection or vaccination.
+This review covers the current state of knowledge about transcriptional regulation of naïve T cell quiescence and how quiescence is lost in aged hosts and during chronic infection.
+Finally, we discuss the need for a deeper understanding of the factors involved in cell quiescence to identify targets to restore cell quiescence in dysfunctional T cells.

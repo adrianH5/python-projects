@@ -1,0 +1,4 @@
+The overexpression of the epidermal growth factor receptor (EGFR) and human epidermal growth factor receptor 2 (HER2) is widely acknowledged as having diagnostic and prognostic significance in breast cancer, and despite lapatinib (EGFR/HER2 dual inhibitor) achieves high cure rates in most breast cancer cases, many patients develop resistance and don't respond to it.
+Thus, the design of new approaches of EGFR/HER2 inhibitors for the management of breast cancer is an urgent need.
+Herein, novel pyrazolo [3,4-d]pyrimidine derivatives tethered to hydrazones, thiazoles, 1,3,4-thiadiazoles and 1,2,4-triazoles were developed and evaluated as EGFR/HER2 dual inhibitors.
+The thiazole bearing compound 10f achieved the highest EGFR/HER2 dual inhibitory potential with IC

@@ -1,0 +1,10 @@
+Dynamic cellular processes often employ protein phosphorylation for rapid information transfer within and between cells.
+Phosphorylation-inducing chimeric small molecules (PHICS) have been developed for targeted protein phosphorylation by on-demand inducing a kinase-protein pairing.
+However, widespread application of PHICS has been limited as previously reported PHICS that recruited AMP-activated protein kinase (AMPK) required serum starvation and target protein overexpression, recruited only a few of the potential AMPK complexes, and exhibited poor dose- and temporal control.
+Herein, we report an AMPK PHICS platform that operates under physiological conditions (i.e., no serum starvation or target overexpression), recruits multiple AMPK complexes, and can induce target protein phosphorylation with dose and temporal control.
+We demonstrated the utility of this platform for controlling phosphorylations that underlie two dynamic cellular processes, namely oncogenic signaling and phase separation.
+An AMPK PHICS directed against Bruton's Tyrosine Kinase (BTK), which is a driver of several B cell malignancies, was effective at inducing the death of drug-resistant cancer cells.
+Here, PHICS induced inhibitory phosphorylations on BTK and attenuated its oncogenic pathway.
+Phosphorylation of Liprin-α3 induces phase separation in neurons and is critical for neurotransmitter release.
+Using AMPK PHICS that phosphorylated Liprin-α3, we induced Liprin-α3 phase separation with dose and temporal control.
+We envision this PHICS platform to find utility in inducing and controlling protein phosphorylations for basic research and biomedicine.

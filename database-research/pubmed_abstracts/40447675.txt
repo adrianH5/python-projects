@@ -1,0 +1,7 @@
+Shikonin (SHK) is a plant-derived naphthoquinone known for its anti-inflammatory activity, though the mechanism remains largely unexplored.
+The NLRP3 inflammasome, one of the most studied inflammasomes, can cause uncontrolled inflammation and drive various diseases when dysregulated.
+Here, we confirmed that SHK specifically abolished NLRP3 inflammasome activation by suppressing caspase-1 maturation and the secretion of IL-1β and IL-18.
+Our data demonstrated that SHK disrupted NLRP3 inflammasome assembly, primarily by blocking NLRP3 and ASC binding, thereby preventing ASC oligomerization and ASC speck formation.
+Furthermore, SHK reduced reactive oxygen species (ROS) production, inhibiting the generation of oxidized mitochondrial DNA (ox-mtDNA), a known inducer of NLRP3 inflammasome activation.
+In vivo, we showed that SHK's anti-inflammatory effect in DSS-induced ulcerative colitis (UC) and LPS-induced systemic inflammation associated with the reduction of NLRP3 inflammasome activation, as confirmed by decreased IL-1β and IL-18 release.
+This paper reveals the mechanism through which SHK inhibits inflammation and provides a potentially effective pharmacological strategy for treating NLRP3-related diseases.

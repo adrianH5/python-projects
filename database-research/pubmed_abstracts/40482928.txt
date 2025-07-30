@@ -1,0 +1,8 @@
+Metastasis, a significant hurdle in cancer treatment, is driven by genetic alterations that shape tumor evolution and dissemination.
+Traditionally viewed as a late-stage event, recent evidence suggests that metastasis may initiate earlier in tumor progression than previously assumed.
+Genomic studies have been instrumental in exploring this complex process, yet inconsistencies persist, with findings supporting both early and late metastatic events.
+These discrepancies are likely due to methodological variations in how metastasis timing is inferred.
+Additionally, biases in sampling and the heterogeneity of metastatic seeding further obscure precise assessments of metastatic divergence.
+Addressing these challenges is essential to refining evolutionary models of metastasis, which will be crucial for advancing cancer research and improving therapeutic strategies.
+In this review, we examine the challenges in accurately timing metastatic events and discuss how insights into early versus late dissemination can inform personalized therapeutic strategies.
+Such perspectives can lead to more personalized and effective cancer management.

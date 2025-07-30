@@ -1,0 +1,24 @@
+The coronavirus disease 2019 (COVID-19) pandemic created an overwhelming need to define host-derived molecular mediators of disease severity evident in hospitalized patients.
+One approach to dissect protective and pathological immune responses to COVID-19 infection is to measure plasma biomarkers correlated to various stages of COVID-19 and determine which proinflammatory mediators are modulated in response to therapies improving patient outcomes.
+Analysis of the differential protein regulation patterns within severity classes of COVID-19 cases compared with healthy control (HC) revealed strong dysregulation of IFN-γ, IL-6, IL-10, monocyte chemoattractant protein (MCP)-3, CXCL9, CXCL10, CXCL11, ENRAGE, poly(ADP-ribose) polymerase 1 (PARP-1), and IL-1RA (Fig 1
+, A, B-bottom, C).
+We observed a 2-fold increase in IL-19 levels and, along with the aforementioned changes in IL-10, MCP-1, -2, and -3, this is consistent with the important role for inflammatory monocytes/macrophages in the immunopathogenesis of patients infected with COVID-19.
+A-C, Inflammatory panel (Fig 1, A) or the cardiovascular panel II (Fig 1, B) FC in baseline protein levels, patients with COVID-19 vs HC (n = 20) (bottom).
+Baseline samples of patients with COVID-19 were classified on the basis of patients receiving treatment for 2 days or less (n = 25).
+Correlations of biomarkers and clinical assessments such as Ordinal Scale, nasopharyngeal viral load (the most sensitive viral target gene, N gene, is shown), and inflammation status (CRP, ferritin, LDH) are shown for each biomarker across all longitudinal time points for patients with COVID-19 treated with baricitinib (top).
+Our analysis is consistent with a more prominent increase in IFN-γ and IL-10 levels in patients with COVID-19 as seen in the moderate/severe and critical patients who are more likely to suffer from adult respiratory distress syndrome.
+This indicates that inflammatory proteins observed in the plasma of patients with COVID-19 could be predictive of disease state and potentially clinical outcomes.
+Pathway mapping of the most prominent biomarkers that are altered in severe patients with COVID-19 (see Table E3 in this article’s Online Repository at www.jacionline.org) suggests changes in cytokines correlated with pneumonia such as IFN-γ and IL-10, along with chemokines such as CXCL10, MCP-3, CCL20, CXCL9, IL-8, ENRAGE, and MCP-2.
+,
+In addition to these identified immunologic changes, there is a growing consensus on the thromboembolic risk seen in patients with COVID-19.
+Severe endothelial injury, vascular thrombosis, and intussusceptive angiogenesis characterizes the lung damage observed, and the incidence of venous thromboembolism among severe and critically ill patients with COVID-19 is higher compared with that reported in other studies including patients with other disease conditions.
+,
+ Recent recommendations suggest that all hospitalized patients with COVID-19 should receive thromboprophylaxis or full therapeutic-intensity anticoagulation if such an indication is present.
+These changes suggest potential viral-mediated changes in endothelial function that may provide clues to the increased incidence of thromboembolic risks in patients with COVID-19.
+Notably, in moderate/severe and critical patients with COVID-19, these plasma markers are elevated relative to mild patients and HCs, which is consistent with thromboembolic risk in these patients potentially attributed to vast changes in the underlying endothelium of the most at-risk patients.
+Likewise, we observed downregulation of GDF-2 in the plasma of patients with COVID-19 (Fig 1, B).
+In recent work conducted in COVID-19 PBMCs using single-cell RNASeq, it was reported that a reconfiguration of peripheral immune cell phenotype leads to a heterogeneous IFN-stimulated gene signature, HLA class II downregulation, and appearance of a neutrophil population with acute respiratory failure requiring mechanical ventilation.
+Background  Physicians treating patients with coronavirus disease 2019 (COVID-19) increasingly believe that the hyperinflammatory acute stage of COVID-19 results in a cytokine storm.
+The circulating biomarkers seen across the spectrum of COVID-19 have not been characterized compared with healthy controls, but such analyses are likely to yield insights into the pursuit of interventions that adequately reduce the burden of these cytokine storms.
+Methods  Blood samples from adult patients hospitalized with COVID-19 were analyzed using high-throughput and ultrasensitive proteomic platforms and compared with age- and sex-matched healthy controls to provide insights into differential regulation of 185 markers.
+Results  Results indicate a dominant hyperinflammatory milieu in the circulation and vascular endothelial damage markers within patients with COVID-19, and strong biomarker association with patient response as measured by Ordinal Scale.

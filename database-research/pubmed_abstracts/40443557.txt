@@ -1,0 +1,9 @@
+Molecular imaging has emerged as a transformative tool in cancer diagnosis, enabling the visualization of biological processes at the cellular and molecular levels.
+Aptamers, single-stranded oligonucleotides with high affinity and specificity for target molecules, have gained significant attention as versatile probes for molecular imaging due to their unique properties, including small size, ease of modification, low immunogenicity, and rapid tissue penetration.
+This review explores the integration of aptamers with various imaging agents to enhance cancer diagnosis and therapy.
+Aptamer-based imaging probes offer high sensitivity and real-time visualization of tumor markers.
+Aptamer-based fluorescence probes and aptamer-conjugated magnetic resonance imaging (MRI) probes, including gadolinium-based contrast agents, improve tumor targeting and imaging resolution.
+Additionally, aptamers have been utilized in single-photon emission computed tomography (SPECT) and positron emission tomography (PET) imaging to enhance the specificity of radiotracers for cancer detection.
+Furthermore, aptamer-targeted ultrasound and computed tomography (CT) imaging demonstrate the potential for noninvasive and precise tumor localization.
+By leveraging the unique advantages of aptamers, these imaging strategies not only improve diagnostic accuracy but also pave the way for image-guided cancer therapies.
+This review highlights the significant role of aptamers in advancing molecular imaging and their potential to revolutionize cancer diagnosis and treatment.

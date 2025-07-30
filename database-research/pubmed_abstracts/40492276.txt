@@ -1,0 +1,8 @@
+Biomaterials play an important role in medicine from contact lenses to joint replacements.
+High-throughput screening coupled with machine learning has identified synthetic polymers that prevent bacterial biofilm formation, prevent fungal cell attachment, control immune cell attachment and phenotype, or direct stem cell fate.
+In-vitro preadsorption of proteins from culture medium plays a pivotal role in controlling cell response.
+However, there is a paucity of studies on the screening of protein adsorption into material libraries.
+Here, we show how quantitative analysis of protein adsorption on a 208-member polymer microarray can be achieved using liquid extraction surface analysis, combined with an adaptation of the droplet microarray (DMA) approach and tandem mass spectrometry (LESA-MS/MS) for protein identification.
+This study uses a fully defined cell culture medium containing only four proteins (Essential 8) to demonstrate the feasibility of the analysis approach.
+Our findings show that we can generate quantitative and predictive machine learning models of protein adsorption that elucidate key polymer features that describe the relationship between surface chemistry and protein adsorption.
+This information is of use for the rational design of new materials with bespoke protein attachment properties for biomaterials, medical devices, or in vitro compound screening.

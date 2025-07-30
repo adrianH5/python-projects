@@ -1,0 +1,7 @@
+BMI-1 (B cell-specific Moloney murine leukemia virus integration site 1) has been implicated in both normal and cancer cell biology.
+While the canonical function of BMI-1 involves epigenetic repression, novel extra-nuclear functions have been recently reported.
+In the present study, we demonstrate that the phosphorylation of BMI-1 in diffuse intrinsic pontine glioma (DIPG) cells occurs in M phase and that triggers simultaneous translocation of the phosphorylated BMI-1 to the cytoplasm.
+This translocation is mediated by the RanGTP-dependent transporter CRM1, also known as exportin.
+Furthermore, we uncovered a previously unidentified nuclear export signal (NES) in BMI-1 protein, suggesting an active transport type of modified BMI-1 mediated by CRM1.
+These findings associate BMI-1 phosphorylation with its trafficking in M phase.
+Collectively, this study sheds light on the molecular mechanisms underlying BMI-1 functions in DIPG, thereby potentially paving the way for the development of targeted therapeutic strategies related to M phase progression.

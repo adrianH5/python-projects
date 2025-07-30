@@ -1,0 +1,4 @@
+Triple-negative breast cancer (TNBC) is a highly aggressive subtype with limited therapeutic targets and poor immunotherapy outcomes.
+The tumor microenvironment (TME) plays a key role in cancer progression.
+Advances in single-cell transcriptomics have highlighted the impact of stromal cells on tumor progression, immune suppression, and immunotherapy.
+This study aims to identify stromal cell marker genes and develop a prognostic signature for predicting TNBC survival outcomes and immunotherapy response.

@@ -1,0 +1,10 @@
+Our study aims to target Met and EpCAM to inhibit angiogenesis in breast cancer, particularly triple-negative breast cancer (TNBC).
+We have developed a new bispecific antibody that targets both MET and EpCAM, which are commonly overexpressed in tumor cells.
+This antibody aims to reduce tumor cell proliferation and spread.
+After cloning and expressing the anti-Met/EPCAM sequence in Escherichia coli, we confirmed its accuracy through Western blot analysis.
+Flow cytometry indicated its binding activities to MET and EPCAM on MDA-MB-231 and MCF-7 cell lines.
+Our antibody showed anti-proliferative potential as indicated by apoptosis and MTT assay, leading to the inhibition of migration and invasion in breast cancer cell lines.
+After conducting a thorough analysis of cytokine production, we discovered that our bispecific antibody effectively influenced the levels of IL-8 and IL-6.
+These cytokines play crucial roles in angiogenesis and the progression of breast cancer.
+These findings indicate that our bispecific antibody holds promise as a potential therapy for triple-negative breast cancer.
+It has the potential to impede the formation of new blood vessels in tumors, thus restraining their growth and spread.

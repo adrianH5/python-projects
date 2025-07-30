@@ -1,0 +1,9 @@
+Preoperative identification of extracapsular extension (ECE) in prostate cancer (PCa) is crucial for effective treatment planning, as ECE presence significantly increases the risk of positive surgical margins and early biochemical recurrence following radical prostatectomy.
+AutoRadAI, an innovative artificial intelligence (AI) framework, was developed to address this clinical challenge while demonstrating broader potential for diverse medical imaging applications.
+The framework integrates T2-weighted MRI data with histopathology annotations, leveraging a dual convolutional neural network (multi-CNN) architecture.
+AutoRadAI comprises two key components: ProSliceFinder, which isolates prostate-relevant MRI slices, and ExCapNet, which evaluates ECE likelihood at the patient level.
+The system was trained and validated on a dataset of 1001 patients (510 ECE-positive, 491 ECE-negative cases).
+ProSliceFinder achieved an area under the ROC curve (AUC) of 0.92 (95% confidence interval [CI]: 0.89-0.94) for slice classification, while ExCapNet demonstrated robust performance with an AUC of 0.88 (95% CI: 0.83-0.92) for patient-level ECE detection.
+Additionally, AutoRadAI's modular design ensures scalability and adaptability for applications beyond ECE detection.
+Validated through a user-friendly web-based interface for seamless clinical integration, AutoRadAI highlights the potential of AI-driven solutions in precision oncology.
+This framework improves diagnostic accuracy and streamlines preoperative staging, offering transformative applications in PCa management and beyond.

@@ -1,0 +1,9 @@
+Allogeneic hematopoietic stem cell transplantation (allo-HSCT) offers a potentially curative treatment for peripheral T-cell lymphoma (PTCL), but the optimal conditioning regimen, particularly the use of total body irradiation (TBI), remains debated.
+To address this, we investigated outcomes from a cohort of 408 PTCL patients who underwent HSCT across five qualified medical centers in China.
+Focusing on a subset of 50 patients who received myeloablative conditioning prior to allo-HSCT, we compared outcomes between TBI-based (n = 28) and busulfan-based non-TBI (n = 22) regimens.
+Our analysis revealed comparable engraftment kinetics, incidence of acute and chronic graft-versus-host disease (GVHD), and overall survival (OS) between the TBI and non-TBI groups.
+These findings persisted even after propensity score matching (PSM) adjustment.
+Notably, at a median follow-up of 32.5 months, TBI conditioning was not identified as an independent risk factor for OS, progression-free survival (PFS), cumulative incidence of relapse, or non-relapse mortality.
+Importantly, non-TBI regimens demonstrated non-inferior OS and PFS compared to TBI, even in high-risk subgroups, including those with multiple prior treatments, elevated prognostic scores, or aggressive histology.
+Our findings suggest that non-TBI conditioning regimens represent a viable alternative for PTCL patients undergoing allo-HSCT, potentially offering comparable efficacy with reduced toxicity.
+Larger-scale studies are warranted to validate these findings.

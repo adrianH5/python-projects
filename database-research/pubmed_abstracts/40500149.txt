@@ -1,0 +1,9 @@
+The lncRNA Second Chromosome Locus Associated with Prostate 1 (SChLAP1) was previously identified as a predictive biomarker and potential driver of aggressive prostate cancer.
+Recent work suggested that SChLAP1 may bind the SWI/SNF chromatin remodeling complex to promote prostate cancer metastasis, though the exact role of SWI/SNF recognition is debated.
+To date, there are no detailed biochemical studies of apo SChLAP1 or SChLAP1:protein complexes.
+Herein, we report the first secondary structure model of SChLAP1 using SHAPE-MaP in vitro, in cellulo, and ex cellulo (protein-free).
+Comparison of the ex cellulo and in cellulo data via ΔSHAPE identified putative protein binding regions within SChLAP1.
+In addition, phylogenetic analysis revealed that SChLAP1 is a primate-conserved lncRNA, with two exons significantly derived from primate-specific retroviral insertions.
+In particular, we characterized a complex structural landscape in a protein binding region at the 3'end of SChLAP1 derived from a THE1B-type retroviral insertion, suggesting a role for an exapted RNA structure in SChLAP1:protein recognition and prostate cancer progression.
+Lastly, pulldowns of SChLAP1 substructures enabled identification of previously unestablished SChLAP1-interacting proteins.
+This work lays the foundation for future efforts to selectively target and disrupt SChLAP1 structures and/or protein interfaces and to develop new therapeutic avenues in prostate cancer treatment.

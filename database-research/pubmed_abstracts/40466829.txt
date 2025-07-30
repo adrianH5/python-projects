@@ -1,0 +1,7 @@
+Lung cancer, the leading cause of cancer-related deaths worldwide, presents a significant health challenge, with treatment options including radiotherapy, surgery, chemotherapy, and immunotherapy.
+Cisplatin-based chemotherapy is widely used as a first-line treatment but is often accompanied by severe side effects, such as peripheral neuropathy, myelosuppression, and nephrotoxicity, highlighting the urgent need for novel therapeutic approaches.
+Our study optimized the conjugation of D-alpha-tocopherol polyethylene glycol succinate (TPGS) with hyaluronic acid (HA) to develop the TPGS-g-HA copolymer (TSHA).
+This copolymer offers a more precise and efficient delivery system for TPGS by specifically targeting the CD44 protein on cancer cell membranes.
+In vitro, TSHA significantly inhibited the growth, migration, and invasion of highly metastatic non-small cell lung cancer CL1-5 cells.
+In vivo, TSHA administration effectively suppressed tumor growth in mice and improved their overall health status and physical activity while reducing the severity of side effects that are typically associated with cisplatin chemotherapy and minimizing systemic toxicity.
+These findings underscore the potential of TSHA as a promising new therapeutic strategy for lung cancer, paving the way for future research focused on developing polymeric drugs tailored to combat this devastating disease.

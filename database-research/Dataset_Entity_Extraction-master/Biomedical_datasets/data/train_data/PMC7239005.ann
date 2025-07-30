@@ -1,0 +1,4 @@
+T1	Repository 351 355	NCBI
+T2	URL 366 413	https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/
+T3	URL 420 448	https://bigd.big.ac.cn/ncov/
+R1	hasAttr	Arg1:T1	Arg2:T2

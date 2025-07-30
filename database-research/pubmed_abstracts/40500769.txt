@@ -1,0 +1,11 @@
+Among the human leukemia cell lines described in the literature, only the MDS-L cell line has been definitively established from a patient during the myelodysplastic syndrome (MDS) phase of the disease.
+However, the limited studies on its genomic complexity have restricted its applicability as an in vitro model for MDS.
+Here, we aimed to better characterize the chromosomal and genetic alterations of MDS-L. A comprehensive approach was employed combining conventional G banding, multicolor FISH (M-FISH), SNP arrays with the novel Optical Genome Mapping (OGM) technology.
+In addition, the mutational landscape was defined using targeted next-generation sequencing (NGS).
+G-banding revealed two karyotypically distinct cell populations, both exhibiting complex karyotypes.
+Using G-banding and OGM, we identified previously undescribed structural alterations, including der(1)t(1;7)(q11;q11.2), del(1)(q11), der(4)t(4;5)(p16;q11.2), i(5)(p10), der(6)t(6;15)(p21.3;q15), i(8)(q10), der(9)t(9;10)(q34;p11.21), der(19)t(6;19)(p13;p22) and i(22)(q10).
+Both OGM and SNP microarray analyses detected multiple copy number variants and regions of homozygosity.
+Chromosome breakpoints were precisely defined by OGM, allowing the identification of gene disruption events.
+Moreover, M-FISH technique validated the origins of additional chromosomal material observed in the karyotype, identified cryptic rearrangements, and distinguished the two clonal populations within the cell line.
+Finally, NGS revealed mutations in CEBPA, NRAS, TET2 and TP53 genes associated with MDS pathology.
+This multi-technique approach has enabled a precise characterization of the MDS-L cell line's genomic complexity, highlighting the unique contributions of each technique in uncovering various genetic alterations and establishing a valuable resource for mechanistic studies and pre-clinical drug development.

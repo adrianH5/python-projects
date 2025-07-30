@@ -1,0 +1,8 @@
+Glioblastoma is the most aggressive malignant brain tumor characterized by rapid development, poor prognosis and high mortality.
+The purpose of this in vitro study was to assess cytotoxic and anti-proliferative effects of arvanil, olvanil and LY2183240 (three cannabinoid receptor ligands), when used alone and in combination with cisplatin and temozolomide in various neuroblastoma (CHP-134 and KELLY) and glioblastoma (U87MG, C6, and T98G) cell lines in the MTT assay.
+Results indicate that arvanil, olvanil and LY2183240 considerably affected the viability of neuroblastoma and glioblastoma cell lines with selectivity index values ranging from 0.50 to 17.48 for arvanil; from 0.93 to 24.06 for olvanil; and from 1.68 to 14.52 for LY2183240.
+With isobolographic analysis we found that the combination of LY2183240 with cisplatin produced three different types of interactions: a synergy in CHP-134; an antagonism in T98G; and additivity in KELLY, C6 and U87MG cell lines in the MTT assay.
+The combinations of arvanil and olvanil with cisplatin exerted additive interaction in all the tested cell lines in the MTT assay.
+Similarly, the combinations of temozolomide with arvanil, olvanil and LY 2183240 produced the additive interaction in all the tested glioblastoma and neuroblastoma cell lines.
+In conclusion, the combinations of temozolomide with the three cannabinoids, due to their additive interactions, can be considered as a promising therapeutic direction in glioblastoma.
+Favorable combinations of cisplatin with arvanil, olvanil and LY2183240 can also be recommended, except for a combination of cisplatin with LY2183240 in glioblastoma T98G cell line in the MTT assay.

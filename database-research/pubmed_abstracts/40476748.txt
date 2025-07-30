@@ -1,0 +1,7 @@
+Cancer cachexia (CAC) remains a significant hurdle in the treatment of colon cancer, often resulting in poor clinical outcomes.
+This study explores the therapeutic potential of 3-hydroxybutyrate (3-HB) in the treatment of colon CAC by assessing its effects on tumor growth and cellular metabolism in a colon CAC mouse model and CT26 colon cancer cells.
+Using NMR-based metabolomics and molecular biology techniques, we show that 3-HB significantly suppresses tumor growth in CAC mice, possibly through lactate accumulation in tumor tissue and modulation of key metabolic pathways.
+Notably, this treatment leads to a paradoxical increase in intracellular lactate levels within tumor cells, accompanied by a decrease in extracellular lactate in the tumor microenvironment, due to 3-HB competing with lactate for monocarboxylate transporters (MCTs).
+Furthermore, 3-HB increases oxidative stress and induces apoptosis in CT26 cells, as evidenced by increased levels of reactive oxygen species (ROS) and caspase-3 activation.
+Mechanistically, 3-HB competes with lactate for monocarboxylate transporters (MCTs), resulting in intracellular lactate accumulation, acidification, and subsequent tumor suppression.
+These findings highlight the potential of 3-HB as a viable candidate for CAC therapy and provide new insights into metabolic reprogramming strategies in cancer treatment.

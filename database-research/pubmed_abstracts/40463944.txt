@@ -1,0 +1,7 @@
+This review explores the emerging role of aptamers in enhancing radiotherapy (RT) efficacy through their ability to target tumor sites with high specificity.
+Cancer, a complex disease, involves uncontrolled cell growth, and radiosensitization refers to the process of making cancer cells more sensitive to radiation therapy.
+As versatile carriers, aptamers facilitate the delivery of radiosensitizing agents such as nanoparticles, siRNAs, and therapeutic molecules.
+These conjugates modulate cell signaling, enhance free radical production, and influence the tumor microenvironment (TME) via immunomodulatory mechanisms, thereby indirectly increasing tumor radiosensitivity.
+Key findings highlight aptamer-based strategies for disrupting critical pathways, boosting immune responses, and overcoming tumor resistance.
+Advances in multi-agent and liposomal delivery systems further underscore their potential to address tumor heterogeneity and immune evasion.
+This review consolidates recent developments, emphasizing aptamers' role as precise delivery vehicles for optimizing RT outcomes and advancing cancer treatment.

@@ -1,0 +1,6 @@
+Valproic acid (VPA) constitutes a branched-chain, short-chain fatty acid that serves as an antiepileptic medication.
+It has been increasingly recognized that VPA has presented potential anti-tumor properties, including breast cancer.
+However, the exploration of novel breast cancer treatment methods necessitates a more comprehensive and in-depth understanding of the novel mechanism of VPA inhibition of breast cancer.
+It has been proven that farnesyl-diphosphate farnesyltransferase 1 (FDFT1) participate in oncogenesis and development of cancers.
+However, the effect of FDFT1 on breast cancer is still obscure.
+Thus, it is important to investigate the potential of VPA to trigger ferroptosis in breast cancer cells via targeting FDFT1.

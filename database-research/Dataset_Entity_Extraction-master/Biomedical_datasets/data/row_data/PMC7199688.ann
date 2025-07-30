@@ -1,0 +1,6 @@
+T1	Dataset 62 68	GISAID
+T2	URL 70 92	https://www.gisaid.org
+T3	Repository 164 216	NCBI (National Center for Biotechnology Information)
+T4	URL 227 255	http://www.ncbi.nlm.nih.gov/
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4

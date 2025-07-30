@@ -1,0 +1,4 @@
+Current methods for evaluating HER2 expression in breast cancer are invasive and fail to capture spatial and temporal heterogeneity between primary tumors and metastases.
+Nuclear imaging allows for whole-body, noninvasive assessment of human epidermal growth factor receptor 2 (HER2) and can distinguish between HER2-positive and HER2-negative lesions.
+MRI offers superior soft-tissue contrast and quantitative metrics, such as the apparent diffusion coefficient (ADC) from diffusion-weighted (DW) imaging, providing prognostic value.
+The goal of this study was to present quantitative imaging metrics from [

@@ -1,0 +1,8 @@
+A significant portion of human cancers utilize a recombination-based pathway, Alternative Lengthening of Telomeres (ALT), to maintain telomere length.
+Targeting the ALT is of growing interest as a cancer therapy, yet a substantial knowledge gap remains regarding the basic features of telomeres in ALT-positive cells.
+To address this, we adopted END-seq, an unbiased sequencing-based approach, to define the identity and regulation of the terminal sequences of chromosomes in ALT cells.
+Our data reveal that the terminal portions of chromosomes in ALT cells contain canonical telomeric sequences with the same 5' terminus bias (-ATC) observed in non-ALT cells.
+Furthermore, as reported for non-ALT cells, POT1 is required to preserve the precise regulation of the 5' end in cells that maintain telomere length using the ALT pathway.
+Thus, the regulation of the terminal 5' of chromosomes occurs independently of the mechanism of telomere elongation.
+Additionally, we employed an S1 endonuclease-based sequencing method to determine the presence and origin of single-stranded regions within ALT telomeres.
+These data shed light on conserved and unique features of ALT telomeres.

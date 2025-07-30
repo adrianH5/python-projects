@@ -1,0 +1,8 @@
+Autism Spectrum Disorder (ASD) affects 1 percent of the world's population with an increased prevalence of 178 percent since 2000.
+Although altered synaptic function putatively accounts for many of the abnormalities seen in ASD, the specific molecular mechanisms underlying this disorder remain poorly defined.
+A growing body of evidence suggests that extracellular vesicles (EVs), specifically exosomes, play a critical role in cellular communication within the brain.
+While they have been implicated in various types of diseases from cancer to neurodegeneration, their involvement in ASD remains largely unexplored.
+In this study, we utilized patient-derived cortical organoid models to characterize EVs secreted by human three-dimensional (3D) tissue and defined their cargo.
+Our study reports, for the first time, alterations in ASD organoid-derived EVs in comparison to healthy control cortical EVs.
+By utilizing small RNA sequencing, proteomics, nanoparticle tracking and microscopy, we provide a comprehensive characterization of the cargo carried by EVs secreted from human 3D forebrain models.
+Our findings reveal substantial differences both in the RNA and protein content of ASD-derived EVs, providing insight into disease mechanisms as well as highlighting the potential of exosome-based diagnostics and therapies for ASD.

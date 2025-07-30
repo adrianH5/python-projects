@@ -1,0 +1,6 @@
+Glioblastoma, the most common and aggressive primary brain tumor, remains a significant challenge in oncology due to its immunosuppressive tumor microenvironment (TME).
+This review summarizes the complex interplay of immune cells and cytokines within the TME, which contribute to immune evasion and tumor progression.
+We further emphasize the synergistic crosstalk among these components and how it shapes therapeutic vulnerability.
+Besides, we highlight recent advancements in immunotherapy, including immune checkpoint inhibitors, CAR-T cell therapy, NK cell therapy, oncolytic viruses, and vaccine-based strategies.
+Despite promising preclinical and clinical results, overcoming the immunosuppressive TME remains a critical hurdle.
+This review underscores the potential of targeting the TME to enhance therapeutic outcomes in glioblastoma.

@@ -1,0 +1,64 @@
+T1	Repository 104 145	China National GeneBank DataBase (CNGBdb)
+T2	Repository 147 151	NCBI
+T3	Repository 152 159	GenBank
+T4	Dataset 169 225	Global Initiative on Sharing All Influenza Data (GISAID)
+T5	Dataset 565 571	GISAID
+T6	Repository 573 577	NCBI
+T7	Repository 583 587	CNGB
+T8	Dataset 920 926	GISAID
+T9	AccessionNumber 938 952	EPI_ISL_402119
+T10	Dataset 1160 1166	GISAID
+T11	AccessionNumber 1178 1192	EPI_ISL_402119
+T12	Repository 2003 2009	Refseq
+T13	Dataset 3374 3380	GISAID
+T14	AccessionNumber 3392 3406	EPI_ISL_402119
+T15	Repository 4053 4091	CNSA (CNGB Nucleotide Sequence Archive
+T16	URL 4093 4118	https://db.cngb.org/cnsa/
+T17	Repository 4123 4129	CNGBdb
+T18	AccessionNumber 4147 4157	CNP0000951
+T19	AccessionNumber 4167 4177	CNP0000955
+T20	Dataset 4189 4195	GISAID
+T21	URL 4197 4220	https://www.gisaid.org/
+T22	AccessionNumber 4268 4282	EPI_ISL_414663
+T23	AccessionNumber 4284 4298	EPI_ISL_414686
+T24	AccessionNumber 4300 4314	EPI_ISL_414687
+T25	AccessionNumber 4316 4330	EPI_ISL_414688
+T26	AccessionNumber 4332 4346	EPI_ISL_414689
+T27	AccessionNumber 4348 4362	EPI_ISL_414690
+T28	AccessionNumber 4364 4378	EPI_ISL_414691
+T29	AccessionNumber 4384 4398	EPI_ISL_414692
+T30	Repository 4414 4418	NCBI
+T31	AccessionNumber 4442 4450	MT568634
+T32	AccessionNumber 4452 4460	MT568635
+T33	AccessionNumber 4462 4470	MT568636
+T34	AccessionNumber 4472 4480	MT568637
+T35	AccessionNumber 4482 4490	MT568638
+T36	AccessionNumber 4492 4500	MT568639
+T37	AccessionNumber 4502 4510	MT568640
+T38	AccessionNumber 4512 4520	MT568641
+T39	AccessionNumber 4530 4541	PRJNA637515
+R1	hasAttr	Arg1:T8	Arg2:T9
+R2	hasAttr	Arg1:T10	Arg2:T11
+R3	hasAttr	Arg1:T13	Arg2:T14
+R4	hasAttr	Arg1:T15	Arg2:T16
+R5	hasAttr	Arg1:T17	Arg2:T16
+R6	hasAttr	Arg1:T17	Arg2:T18
+R7	hasAttr	Arg1:T17	Arg2:T19
+R8	hasAttr	Arg1:T20	Arg2:T21
+R9	hasAttr	Arg1:T20	Arg2:T22
+R10	hasAttr	Arg1:T20	Arg2:T23
+R11	hasAttr	Arg1:T20	Arg2:T24
+R12	hasAttr	Arg1:T20	Arg2:T25
+R13	hasAttr	Arg1:T20	Arg2:T26
+R14	hasAttr	Arg1:T20	Arg2:T27
+R15	hasAttr	Arg1:T20	Arg2:T28
+R16	hasAttr	Arg1:T20	Arg2:T29
+R17	hasAttr	Arg1:T30	Arg2:T31
+R18	hasAttr	Arg1:T30	Arg2:T32
+R19	hasAttr	Arg1:T30	Arg2:T33
+R20	hasAttr	Arg1:T30	Arg2:T34
+R21	hasAttr	Arg1:T30	Arg2:T35
+R22	hasAttr	Arg1:T30	Arg2:T36
+R23	hasAttr	Arg1:T30	Arg2:T37
+R24	hasAttr	Arg1:T30	Arg2:T38
+R25	hasAttr	Arg1:T30	Arg2:T39

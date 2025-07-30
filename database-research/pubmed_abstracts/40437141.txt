@@ -1,0 +1,4 @@
+Tumor microenvironment (TME) plays a pivotal role in immunotherapy, especially in immune checkpoint inhibitors (ICIs) therapy, but how tumor cells and immune cells cross-talk with each other remains elusive.
+Thus, exploring the mechanisms is of urgent needs.
+Connexin 43 (Cx43) is a key gap junction (GJ) protein, which allows tumor cells and immune cells to interact.
+In this study, we systematically investigated the function of Cx43 in response to ICIs and observed that Cx43 promoted the activation of CD8

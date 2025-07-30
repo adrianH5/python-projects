@@ -1,0 +1,8 @@
+Pyroptosis, a form of programmed cell death, is known for its strong capacity to induce immunogenic cell death (ICD), triggering the release of damage-associated molecular patterns (DAMPs) that amplify cancer immunotherapy.
+Recently, photocontrolled pyroptosis has emerged as a promising strategy within photodynamic therapy (PDT).
+Nonetheless, most existing photosensitizers exhibit a reliance on both type I and type II reactive oxygen species (ROS) generation, which not only leads to suboptimal efficacy in hypoxic tumor environments but also limits therapeutic depth and selectivity.
+In this study, we report a lysosome-targeted aggregation-induced emission (AIE) photosensitizer, PTQ-TPA3, engineered through receptor unit loop fusion and rotor integration via molecular evolution strategies.
+PTQ-TPA3 uniquely achieves highly efficient pure type I ROS generation, alongside near-infrared-II (NIR-II) fluorescence emission and photothermal conversion properties.
+Under the guidance of multimodal imaging modalities, including photoacoustic, NIR-II fluorescence, and photothermal imaging, PTQ-TPA3 nanoparticles enable synergistic photodynamic and photothermal therapy to drive robust ICD-mediated phototherapy.
+Furthermore, PTQ-TPA3 demonstrates exceptional efficacy in hypoxic tumor environments by producing pure type I ROS while leveraging its photothermal effect to induce pyroptosis.
+This dual mechanism effectively eradicates cancer cells and stimulates systemic antitumor immunity, paving the way for innovative therapeutic strategies.

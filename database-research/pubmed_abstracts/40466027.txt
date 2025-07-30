@@ -1,0 +1,4 @@
+Recurrence occurs in 20%-30% of early-stage non-small cell lung cancer (NSCLC) treated with stereotactic body radiation therapy (SBRT).
+Hypoxia in the tumor microenvironment drives radiation resistance, immune evasion, and tumor progression.
+Biomarkers measuring hypoxia may be useful for prognostication of NSCLC treated with SBRT.
+We investigate an RNA-based approach to measure tumor hypoxia and associate these molecular biomarkers with clinical outcomes after SBRT.

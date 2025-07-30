@@ -1,0 +1,9 @@
+The near-infrared second window (NIR-II) offers excellent spatial resolution and tissue penetration, drawing attention to NIR-II laser-excited photothermal therapy (PTT) and NIR-II fluorescence imaging.
+However, integrating these two applications poses challenges due to safe laser power and reagent dosage constraints.
+To overcome these issues, we proposed modifying the ternary copolymer backbone by substituting 4H-cyclopenta[2,1-b:3,4-b']dithiophene (DTC) with 4,9-dihydro-s-indaceno[1,2-b:5,6-b']dithiophene (IDT), enabling a transition from a photothermal to a fluorescence agent.
+Adjusting molar ratios of donor and acceptor units coupling with either DTC or IDT in the polymer significantly affects their photophysical properties.
+Among the synthesized copolymers, PDTC-253 showed optimal photothermal performance, while PIDT-253 exhibited high fluorescence quantum yields.
+Both were used to create biocompatible nanoparticles (NPs).
+Under 1064 nm laser irradiation, PDTC-253 NPs effectively eliminated 4T1 cancer cells in vitro.
+In vivo studies with mice bearing 4T1 tumors showed that PDTC-253 NPs could accumulate at the tumor sites, facilitating the treatment of tumors of varying sizes under 1064 nm laser irradiation, while PIDT-253 NPs provided long-term tumor tracking through NIR-II fluorescence imaging, and clearly visualizing blood vessels even at wavelengths reaching 1500 nm.
+This approach advances the development of effective phototheranostic agents for tumor PTT and fluorescence imaging in the NIR-II window.

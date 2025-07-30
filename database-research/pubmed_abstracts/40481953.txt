@@ -1,0 +1,4 @@
+Colorectal cancer (CRC) is a highly prevalent and deadly disease that is largely refractory to immunotherapy.
+The only CRC subset that responds to these therapies is characterized by prevalent microsatellite instability (MSI), extensive  CD8+ T cell infiltration and high expression of innate immune signaling pathways.
+Endogenous activation of the cGAS/STING pathway is essential for this CD8+ T cell antitumor response in MSI CRCs, suggesting that activating it in other CRCs could boost immunotherapy response rates.
+In contrast, activation of the NLRP3 inflammasome is typically associated with tumor-promoting inflammation although this has primarily been studied in immune cells.

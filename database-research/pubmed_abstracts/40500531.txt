@@ -1,0 +1,14 @@
+Epstein-Barr virus (EBV) infection accounts for approximately 10% of gastric cancer (GC) cases and is strongly linked to immune evasion, although the precise mechanisms remain unclear.
+Transporter associated with antigen processing 1 (TAP1), a member of ATP-binding cassette subfamily B, is overexpressed in EBV-associated gastric cancer (EBVaGC) and is implicated in tumor immune evasion.
+TAP1 expression levels in EBV-positive and EBV-negative gastric cancer samples were analyzed using TCGA and GEO datasets.
+Molecular biology techniques were used to investigate the regulatory pathways involved in TAP1.
+The role of TAP1 in modulating immunotherapy responses was validated using T-cell cytotoxicity assays and mouse models.
+TAP1 was significantly overexpressed in EBV-positive gastric cancer tissues and cell lines.
+Mechanistic studies revealed that EBV latent membrane protein 2A (LMP2A) activates the NF-κB P65 pathway, which directly binds to the TAP1 promoter and enhances transcription.
+Furthermore, TAP1 expression was positively correlated with PD-L1 levels.
+In immunocompetent mice, shTAP1 MFC cells exhibited significantly reduced growth relative to that in immunodeficient mice.
+TAP1 upregulates PD-L1 via the JNK/STAT1 pathway, thereby influencing tumor immunotherapy responses.
+Notably, TAP1 silencing combined with PD-1 monoclonal antibody treatment significantly inhibited gastric cancer cell proliferation.
+This study revealed a mechanism through which the EBV protein LMP2A drives TAP1 expression via NF-κB signaling.
+TAP1, in turn, regulates PD-L1 expression via the JNK/STAT1 pathway, contributing to immune evasion.
+These findings highlight TAP1 as a promising therapeutic target for improving the efficacy of immunotherapy in gastric cancer.

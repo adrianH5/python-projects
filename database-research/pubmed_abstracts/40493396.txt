@@ -1,0 +1,10 @@
+MYCN amplification accounts for the most common genetic aberration in neuroblastoma and strongly predicts the aggressive progression and poor clinical prognosis.
+However, clinically effective therapies that directly target N-Myc activity are limited.
+N-Myc is a transcription factor, and its stability are tightly controlled by ubiquitination-dependent proteasomal degradation.
+Here, we discovered that Kelch-like protein 37 (KLHL37) played a crucial role in enhancing the protein stability of N-Myc in neuroblastoma.
+KLHL37 directly interacted with N-Myc to disrupt the N-Myc/FBXW7 interaction, thereby stabilizing N-Myc and enabling tumor progression.
+Suppressing KLHL37 effectively induced the degradation of N-Myc and exhibited a profound inhibitory effect on the growth of MYCN-amplified neuroblastoma.
+Notably, we identified RTA-408 as an inhibitor of KLHL37 to disrupt KLHL37-N-Myc complex, promoting the degradation of N-Myc and suppressing neuroblastoma in vivo and in vitro.
+Moreover, we elucidated the therapeutic potential of RTA-408 for neuroblastoma by utilizing the PDC and PDX tumor models.
+RTA408's anti-tumor effects may not be exclusively via KLHL37, and specific KLHL37 inhibitors are expected to be developed in the future.
+These findings not only uncover the biological function of KLHL37 in regulating N-Myc stability, but also indicate that KLHL37 inhibition is a promising therapeutic regimen for neuroblastoma, especially in MYCN-amplified patients.

@@ -1,0 +1,12 @@
+Lycopene (LY) is a major active natural product isolated from red fruits, which has been shown to have good antioxidant, antitumor, and antifibrosis activities.
+Previous studies have shown that LY has an antioral cancer effect, but its molecular mechanism of action is still unknown.
+Here, we found 56 interaction genes between LY and oral cancer using bioinformatic data analysis methods.
+The gene ontology (GO) and kyoto encyclopedia of genes and genomes (KEGG) enrichment analysis found that genes were enriched primarily in the positive regulation of cell proliferation and associated with sequence-specific DNA binding.
+These were mainly enriched in pathways in cancer, chemical carcinogenesis - receptor activation, proteoglycans in cancer, as well as other pathways.
+The protein with the highest degree in the protein-protein interaction (PPI) network is the epidermal growth factor receptor (EGFR).
+Our previous study found that aminolevulinic acid photodynamic therapy (ALA-PDT) could negatively regulate EGFR expression in oral cancer.
+Consequently, we address for the first time the potential combinations of ALA-PDT and LY in the treatment of oral cancer.
+This treatment regimen could synergistically reduce the growth and induced apoptosis of CAL-27 cells in vitro and significantly down-regulate EGFR gene expression, meanwhile, suppress the growth of oral cancer xenograft in nude mice.
+The antioxidant capacity as measured in vivo by the ferric reducing ability plasma (FRAP) assay was also significantly higher in the combined intervention group than in the ALA-PDT or LY groups alone.
+Taken together, these findings reaffirm the role of LY with ALA-PDT as a putative combination treatment scheme through their direct killing effect on tumor cells and their capacity to suppress EGFR activity.
+Clinical trial number Not applicable.

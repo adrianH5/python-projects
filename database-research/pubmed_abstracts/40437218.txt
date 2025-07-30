@@ -1,0 +1,6 @@
+Accurate detection of somatic structural variants (SVs) and somatic copy number aberrations (SCNAs) is critical to study the mutational processes underpinning cancer evolution.
+Here we describe SAVANA, an algorithm designed to detect somatic SVs and SCNAs at single-haplotype resolution and estimate tumor purity and ploidy using long-read sequencing data with or without a germline control sample.
+We also establish best practices for benchmarking SV detection algorithms across the entire genome in a data-driven manner using replication and read-backed phasing analysis.
+Through the analysis of matched Illumina and nanopore whole-genome sequencing data for 99 human tumor-normal pairs, we show that SAVANA has significantly higher sensitivity and 13- and 82-times-higher specificity than the second and third-best performing algorithms.
+Moreover, SVs reported by SAVANA are highly consistent with those detected using short-read sequencing.
+In summary, SAVANA enables the application of long-read sequencing to detect SVs and SCNAs reliably.

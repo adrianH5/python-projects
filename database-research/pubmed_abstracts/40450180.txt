@@ -1,0 +1,16 @@
+Central nervous system lymphoma (CNSL) are mainly diffuse large B-cell lymphomas (DLBCLs).
+Orelabrutinib is a second-generation Bruton's tyrosine kinase (BTK) inhibitor and has shown single-agent activity in CNSL.
+This study aims to evaluate the efficacy and safety of orelabrutinib combined with rituximab and high dose methotrexate (ORM) regimen in the treatment of patients with CNSL.
+We retrospectively analyzed data from CNSL patients treated with ORM regimen at Jiangsu Province Hospital, the First Affiliated Hospital of Nanjing Medical University from April 2021 to October 2023.
+Patients receiving rituximab plus high-dose methotrexate (RM regimen) from June 2017 to January 2024 were identified as the control group.
+Progression-free survival (PFS) and overall survival (OS) were estimated using the Kaplan-Meier method.
+Adverse events (AEs) were assessed according to Common Terminology Criteria for Adverse Events (CTCAE) version 5.0.
+A total of 32 patients were identified: 14 patients in the ORM group and 18 in the RM group.
+CR rates were 84.6% in the ORM group and 44.4% in the RM group (P = 0.032).
+Median PFS was 18.6 months in the RM group and 26.3 months in the ORM group (P = 0.133).
+Median OS was 34.1 months in the RM group and has not yet been reached in the ORM group (P = 0.041).
+Patients in the ORM group showed a higher 2-year OS rate than those in the RM group (82.1% vs. 57.5%).
+No grade 5 AE was reported in both groups.
+The incidence of grade 3-4 AE was comparable between the two treatment groups.
+ORM regimen was effective and well-tolerated in patients with CNSL.
+This combination therapy provides a new potential therapeutic strategy for patients with CNSL.

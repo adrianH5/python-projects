@@ -1,0 +1,8 @@
+Cytochrome P450 enzymes (CYPs) from families 1-3 play a crucial role in the bioconversion and detoxification of various compounds.
+While the liver is a primary site for these enzymes, the small intestine also significantly contributes to first-pass metabolism.
+Many food-derived compounds are known to regulate CYP expression.
+However, it remains unclear whether plant-derived extracellular vesicles can influence CYP expression in intestinal epithelial cells.
+In this study, based on a previously generated transcriptomic dataset, we tested the hypothesis that tomato-derived extracellular vesicles can upregulate CYP1A1 mRNA levels in differentiated human Caco-2 cells.
+Further experiments confirmed that this effect is specific to differentiated Caco-2 cells and does not occur in other non-cancerous cell models or undifferentiated Caco-2 cells.
+The increase in CYP1A1 mRNA following treatment with extracellular vesicles was not accompanied by changes in the expression of CYP1A1-regulating transcription factors such as AhR and Sp1.
+In conclusion, this study is the first to demonstrate that plant-derived extracellular vesicles can affect first-pass metabolism by regulating the expression of cytochrome P450 enzymes.

@@ -1,0 +1,8 @@
+Colorectal cancer (CRC) diagnosed before age 50 years (early-onset CRC, EO-CRC) is rising at an alarming rate, yet its molecular and microenvironmental drivers remain poorly understood.
+EO-CRC is highly heterogeneous, and while subtle differences from late-onset CRC (LO-CRC) have been reported, their full extent remains unresolved due to the limited scope of previous studies.
+Here, we integrate public data with in-house clinical samples profiled by single-cell RNA sequencing (scRNA-seq) and multiplex immunofluorescence (mIF) to compare EO-CRC and LO-CRC.
+Additionally, we employ gene regulatory network-based protein activity inference (VIPER), enabling a more precise characterization of key regulatory proteins driving tumor-stroma interactions.
+Our analysis reveals that EO-CRC and LO-CRC have a largely similar immune composition, challenging previous reports of an "immune-cold" phenotype in EO-CRC.
+However, we identify distinct stromal differences, including a significant enrichment of fibroblasts in EO-CRC.
+Notably, we define a previously unrecognized epithelial subpopulation in EO-CRC, marked by high expression of toll-like receptor 4 (TLR4) and C-C chemokine receptor type 5 (CCR5)-key mediators of inflammation-driven tumor progression and fibroblast recruitment.
+These findings suggest that EO-CRC may be driven by a tumor-intrinsic inflammatory phenotype with enhanced stromagenesis, providing new insights into potential mechanisms underlying its increasing incidence in young adults.

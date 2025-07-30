@@ -1,0 +1,8 @@
+DDX3X is a multifunctional DEAD-box RNA helicase that plays pivotal roles in diverse biological processes, including RNA metabolism, translation regulation, and the progression of various diseases such as intellectual disabilities, inflammation, viral infections, and cancer.
+Over the past decades, extensive research has unveiled the physiological and pathological functions of DDX3X.
+However, the precise molecular mechanisms underlying these processes remain incompletely understood, limiting the development of targeted therapies for DDX3X-related diseases.
+Recent studies have revealed that DDX3X can undergo liquid-liquid phase separation (LLPS), a biophysical phenomenon driven by multivalent weak interactions, which has been implicated in a wide range of physiological and pathological contexts.
+Understanding how LLPS contributes to DDX3X's multifaceted functions has emerged as a critical area of investigation.
+In this review, we provide a comprehensive overview of the molecular mechanisms governing DDX3X LLPS and its biological implications.
+We also discuss the functional consequences of DDX3X mutations that disrupt proper LLPS and examine the sexually dimorphic LLPS properties between DDX3X and its Y-chromosome homolog, DDX3Y.
+Finally, we highlight potential therapeutic strategies targeting LLPS as a novel approach for treating DDX3X-related diseases.

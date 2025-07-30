@@ -1,0 +1,3 @@
+Study advances current diagnostic efficiency of canine/feline (sub-)cutaneous tumors using machine learning and multimodal imaging data.
+White light (WL), fluorescence (FL) and ultrasound (US) imaging were combined into hybrid approaches to differentiate between malignant mastocytomas, soft tissue sarcomas and benign lipomas.
+Support Vector Machine and Ensemble classifiers were optimized

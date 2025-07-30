@@ -1,0 +1,9 @@
+Exosomes are a group of extracellular nanovesicles that are produced by all cells, including cancer cells.
+They carry the biological information of mother cells and can facilitate tumor growth.
+Another advantage of exosomes is their abundance in all body fluids such as saliva, urine, blood and peritoneal fluid.
+Therefore, identifying and isolating them as biomarkers is useful in early cancer detection.
+However, due to the limited concentration of exosomes in clinical samples and their interference with the internal environment, accurate identification and effective diagnosis of cancer cells faces problems.
+Therefore, there is a need to implement highly sensitive and specific biosensors to detect exosomes from cancer tumors in complex biological environments.
+In the present review, biosensors developed for the detection of colon, prostate, breast and bladder cancers are discussed.
+We discuss various sensing platforms, including electrochemical, optical, and microfluidic-based approaches, and their integration with exosome isolation and characterization techniques.
+Challenges and future directions in the field are also addressed, highlighting the potential of exosome-based biosensors to revolutionize cancer diagnostics and personalized medicine.

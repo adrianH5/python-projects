@@ -1,0 +1,6 @@
+Most genetic variants that confer risk of complex immune-mediated diseases (IMD) affect gene regulation in specific cell types.
+Their target genes and focus cell types are often unknown, partially because some effects are hidden in untested cell states.
+B cells play important roles in IMDs, including autoimmune, allergic, infectious, and cancerous diseases.
+However, despite this established importance, B cell activation states are underrepresented in functional genomics studies.
+In this study, we obtained B cells from 26 healthy female donors.
+We stimulated B cells

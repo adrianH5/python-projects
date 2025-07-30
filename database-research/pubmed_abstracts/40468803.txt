@@ -1,0 +1,13 @@
+Breast cancer is the most commonly diagnosed cancer worldwide.
+Thuja occidentalis L., a medicinal plant native to Southern Punjab, Pakistan, is evaluated for its potential anticancer properties through a combination of computational and experimental approaches.
+A comprehensive screening identified 87 bioactive compounds, from which four isothujol, p-coumaric acid, cedrol, and kaempferol were selected for further analysis on the basis of their oral bioavailability and drug-likeness properties.
+Molecular docking studies indicated strong binding affinities between these compounds and key breast cancer-related targets, including PARP1, ESR1, MDM2, EGFR, and HIF1A.
+A Venn diagram and protein-protein interaction (PPI) network analysis revealed 16 common targets that are likely involved in the plant's anticancer effects.
+KEGG pathway and Gene Ontology (GO) analyses identified 26 cancer-related pathways, including breast cancer, estrogen signaling, and PI3K-Akt signaling pathways.
+Molecular docking showed binding affinity ranges between -6.2 and -9.6 kcal/mol.
+The cytotoxic effects of two T. occidentalis extracts, ethyl acetate and n-hexane, were assessed using the MCF-7 breast cancer cell line.
+The ethyl acetate extract exhibited a dose-dependent cytotoxic effect, with significant inhibition at concentrations as low as 25 µg/mL, whereas the n-hexane extract showed limited activity.
+Liquid Chromatography-Mass Spectrometry (LC-MS) revealed the presence of key bioactive compounds, such as thujone, cedrol, kaempferol, and quercetin, known for their anticancer properties.
+In silico studies also suggested that isothujol may induce cancer cell apoptosis by activating the unfolded protein response (UPR) pathway and modulating pro-apoptotic factors.
+Overall, this study provides valuable insights into the molecular mechanisms underlying the anticancer effects of T. occidentalis, highlighting its potential as a source of therapeutic agents for breast cancer treatment.
+Further experimental validation is warranted to confirm these findings.

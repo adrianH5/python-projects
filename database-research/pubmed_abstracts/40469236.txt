@@ -1,0 +1,9 @@
+Actinic keratosis (AK) is a precancerous lesion that develops on chronically sun-exposed skin.
+Immunosuppression is known to increase the risk of both AK and other cancers, highlighting the need to evaluate potential associations between AK and subsequent nonskin cancers.
+To determine whether a diagnosis of AK is associated with an increased subsequent incident of nonskin cancers, we conducted a retrospective case-control study within a large integrated healthcare delivery system.
+The study included 53,778 patients with AK and 152,896 controls without prior cancer diagnoses at enrollment.
+AK was more prevalent in males (30.7 vs 23.5% in females).
+AK was not associated with increased risk of overall nonskin cancers after adjusting for demographic (age, sex), clinical (body mass index, immunosuppression history), behavioral (smoking, alcohol use), and healthcare utilization factors (adjusted hazard ratio = 0.99, 95% confidence interval = 0.95-1.02).
+However, significant associations were observed between AK and breast (adjusted hazard ratio = 1.11, 95% confidence interval = 1.03-1.19) and prostate (adjusted hazard ratio =1.14, 95% confidence interval = 1.03-1.26) cancers.
+This large study reveals that AK may be a predictor of risk for subsequent cancers, notably breast and prostate cancers.
+These findings emphasize the need for increased surveillance for these cancer types in individuals with AK.

@@ -1,0 +1,11 @@
+Human mitochondrial cytochrome P450 27A1 is a monooxygenase enzyme that oxidizes bile acids and other sterol derivatives.
+The enzyme plays an important role in sterol metabolism and is a potential target for clinical therapies related to metabolic conditions and certain cancers.
+To support the development of such therapies, detailed structural and functional studies of the enzyme should be pursued.
+Producing large quantities of purified, recombinant enzyme would enable these studies.
+Recombinant production of human cytochrome P450 27A1 in E. coli is challenging due to the enzyme being membrane associated.
+This work explores the optimization of human cytochrome P450 27A1 expression in E. coli by systematically testing the effects of cell strain, expression temperature, concentrations of induction reagents, and expression times.
+Western blot analysis is used to investigate the effects of variable changes prior to purification.
+E. coli cell strain (switching to C41(DE3)) appears to have the largest positive effect on overall yield.
+Increasing δ-aminolevulinic acid concentration (induces heme synthesis) also leads to significantly increased yields.
+Decreasing expression time decreases the amount of higher order cytochrome P450 aggregates that are formed.
+The combination of these changes is a more robust expression protocol with three major advantages: decreased expression time, lower aggregate to monomer ratios, and increased overall yield.

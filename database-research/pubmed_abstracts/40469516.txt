@@ -1,0 +1,10 @@
+The rapid advancement of multi-omics single-cell technologies has significantly enhanced our ability to investigate complex biological systems at unprecedented resolution.
+However, many existing analysis tools are complex, requiring substantial coding expertize, which can be a barrier for computationally less competent researchers.
+To address this challenge, we present single-cell analyst, a user-friendly, web-based platform to facilitate comprehensive multi-omics analysis.
+Single-cell analyst supports a wide range of data types, including six single-cell omics: single-cell RNA sequencing (scRNA-sequencing), single-cell assay for transposase accessible chromatin sequencing (scATAC-seq sequencing), single-cell immune profiling (scImmune profiling), single-cell copy number variation, cytometry by time-of-flight, and flow cytometry and spatial transcriptomics, and enables researchers to perform integrated analyses without requiring programming skills.
+The platform offers both online and offline modes, providing flexibility for various use cases.
+It automates critical analysis steps, such as quality control, data processing, and phenotype-specific analyses, while also offering interactive, publication-ready visualizations.
+With over 20 interactive tools for intermediate analysis, single cell analyst simplifies workflows and significantly reduces the learning curve typically associated with similar platforms.
+This robust tool accommodates datasets of varying sizes, completing analyses within minutes to hours depending on the data volume, and ensures efficient use of computational resources.
+By democratizing the complex process of multi-omics analysis, single-cell analyst serves as an accessible, all-encompassing solution for researchers of diverse technical backgrounds.
+The platform is freely accessible at www.singlecellanalyst.org.

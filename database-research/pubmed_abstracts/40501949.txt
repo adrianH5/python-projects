@@ -1,0 +1,12 @@
+Organotropism results from the functional versatility of metastatic cancer cells to survive and proliferate in diverse microenvironments.
+This adaptivity can originate in clonal variation of the spreading tumor and is often empowered by epigenetic and molecular reprogramming of cell regulatory circuits.
+Related to organotropic colonization of metastatic sites are environmentally-sensitive, differential responses of cancer cells to therapeutic attack.
+Accordingly, understanding the organotropic profile of a cancer and probing the underlying driver mechanisms are of high clinical importance.
+However, determining systematically the organotropism of one cancer versus the organotropism of another cancer, potentially with the granularity of comparing the same cancer type between patients or tracking the evolution of a cancer in a single patient for the purpose of personalized treatment, has remained very challenging.
+It requires a host organism that allows observation of the spreading pattern over relatively short experimental times.
+Moreover, organotropic patterns often tend to be statistically weak and superimposed by experimental variation.
+Thus, an assay for organotropism must give access to statistical powers that can separate 'meaningful heterogeneity', i.e., heterogeneity that determines organotropism, from 'meaningless heterogeneity', i.e., heterogeneity that causes experimental noise.
+Here we describe an experimental workflow that leverages the physiological properties of zebrafish larvae for an imaging-based assessment of organotropic patterns over a time-frame of 3 days.
+The workflow incorporates computer vision pipelines to automatically integrate the stochastic spreading behavior of a particular cancer xenograft in tens to hundreds of larvae allowing subtle trends in the colonization of particular organs to emerge above random cell depositions throughout the host organism.
+We validate our approach with positive control experiments comparing the spreading patterns of a metastatic sarcoma against non-transformed fibroblasts and the spreading patterns of two melanoma cell lines with previously established differences in metastatic propensity.
+We then show that integration of the spreading pattern of xenografts in 40 - 50 larvae is necessary and sufficient to generate a

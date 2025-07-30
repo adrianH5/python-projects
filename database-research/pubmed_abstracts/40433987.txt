@@ -1,0 +1,11 @@
+Polymorphic microbiomes play important roles in colorectal cancer (CRC) occurrence and development.
+In particular, Fusobacterium nucleatum (F. nucleatum) is prevalent in patients with CRC, and eliminating it is beneficial for treatment.
+Here, multiple metagenomic sequencing cohorts are combined with multiomics to analyze the microbiome and related functional alterations.
+Furthermore, local human metagenome and metabolomics are used to discover commensal consortia.
+A synthetic microbial community (SynCom) is then designed by metabolic network reconstruction, and its performance is validated using coculture experiments and an AOM-DSS induced mouse CRC model.
+The sequencing result shows that F. nucleatum is more abundant in both the feces and tumor tissues of CRC patients.
+It causes alterations through various pathways, including microbial dysbiosis, lipid metabolism, amino acid metabolism, and bile acid metabolism disorders.
+The designed SynCom contains seven species with low competition interrelationship.
+Furthermore, the SynCom successfully inhibits F. nucleatum growth in vitro and achieves colonization in vivo.
+Additionally, it promotes F. nucleatum decolonization, and enhances tryptophan metabolism and secondary bile acid conversion, leading to reduced lipid accumulation, decreased inflammatory reaction, and enhanced tumor inhibition effect.
+Overall, the bottom-up designed SynCom is a controllable and promising approach for treating F. nucleatum-positive CRC.

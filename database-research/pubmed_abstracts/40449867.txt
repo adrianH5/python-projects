@@ -1,0 +1,11 @@
+Organophosphate flame retardants (OPFRs) are widely used as additives in plastics, electronics, and construction materials due to their flame-retardant properties.
+However, previous evidence suggests that OPFRs may pose potential respiratory health risks, including airway hyperresponsiveness, impaired lung function, and potential carcinogenic effects.
+This study evaluated the effects of seven OPFRs-TBOEP, TPhP, EHDPhP, TDCPP, TEHP, TCP, and TCEP-on the phenotype and lipidomic profile of A549 lung cancer cells, using both 2D and 3D culture models.
+TDCPP and TPhP significantly reduced cell viability, while TBOEP caused the highest increase in reactive oxygen species (ROS), followed by TPhP, TDCPP, and TCP.
+Moreover, TPhP, TDCPP, EHDPhP, and TBOEP also elevated the levels of pro-inflammatory cytokine interleukin-8 (IL-8).
+The lipidomic analysis of 3D cell spheroids exposed to OPFRs for 72 h revealed distinct lipid profiles for each compound at low (25 μM) and high (100 μM) doses.
+Common features were observed, particularly at high doses, including significant increases in triacylglycerol, diacylglycerol, ceramide, ether-linked phosphatidylethanolamine, and phosphatidylinositol species.
+These effects were generally more pronounced for TPhP, TDCPP, EHDPhP, TCP, and TBOEP.
+The accumulation of triglycerides, indicative of augmented energy storage, was confirmed by the visualization of lipid droplets formation.
+Results suggest disruptions in key toxicological pathways, including oxidative stress, inflammatory signaling (IL-8 upregulation), and apoptosis (ceramide accumulation), all implicated in lung diseases, such as COPD and fibrosis.
+These results provide a basis for assessing the health risks associated with OPFRs, highlighting the need for further research on chronic low-dose exposure levels.

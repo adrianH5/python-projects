@@ -1,0 +1,8 @@
+The progression of disease (POD) within 24 months is well-established as an early indicator in various lymphomas.
+However, the aggressive nature of extranodal NK/T-cell lymphoma (ENKTL) necessitates a shorter assessment period.
+In this study, we examined POD metrics in 170 newly diagnosed ENKTL patients receiving asparaginase-based regimens.
+Patients were divided into three groups based on relapse/progression timing: aggressive group (POD6), progressive group (POD6-24), and stable group (POD > 24).
+The median overall survival (OS) in the POD6 group was 16.5 months, while the median OS was not reached in the remaining two groups.
+Survival outcomes were comparable between the populations with POD6 and POD24.
+Cox regression analysis identified POD6 as an independent risk factor for OS, regardless of traditional risk stratification.
+In conclusion, POD6 is a valuable early prognostic marker for ENKTL, serving as a long-term prognosis surrogate for clinical studies.

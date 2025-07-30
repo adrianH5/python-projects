@@ -1,0 +1,14 @@
+Measurable residual disease (MRD) assessment following initial therapy attempts to detect low levels of leukemia cells that remain undetectable by conventional cytomorphological methods.
+MRD-negativity after induction therapy in patients with acute myeloid leukemia (AML) is strongly associated with improved disease-free and overall survival, making results of MRD testing a more reliable indicator of treatment response compared to traditional methods.
+Unfortunately, due in part to genetic and phenotypical heterogeneity, no perfect MRD assay for AML currently exists although multiple tests are currently in use.
+Understanding the performance characteristics of AML MRD tests is critical for their clinical use.
+After achieving first complete remission with chemotherapy, consolidation therapy aims to deepen remission and prolong response duration.
+For patients with difficult-to-treat AML, allogeneic stem cell transplantation (allo-SCT) is a key strategy for achieving durable remission.
+However, for patients with a relatively favorable risk profile, the benefits of allo-SCT may not outweigh its risks, and durable remission can often be achieved with chemotherapy alone.
+When the benefits of allo-SCT are less clear, MRD can refine patient selection.
+MRD assessment after induction chemotherapy using validated methods can signal the need for more aggressive or alternative treatments to mitigate relapse risk.
+MRD-negative patients eligible for transplantation might benefit from reduced treatment intensity or modified conditioning to avoid overtreatment.
+Additionally, MRD can guide the intensity of conditioning therapy in transplant-eligible patients.
+Post-transplant MRD monitoring can further identify patients who may benefit from preemptive treatments to maintain remission.
+Integrating MRD into treatment protocols allows clinicians to enhance therapeutic precision, optimize patient outcomes, and improve the likelihood of achieving long-term remission in AML.
+However, due to limitations associated with current AML MRD testing, careful consideration and validation are essential before incorporating MRD findings into routine clinical practice.

@@ -1,0 +1,5 @@
+Bladder Cancer (BC) is one of the most commonly diagnosed malignancies worldwide, with high rates of mortality and morbidity.
+It can be classified as non-muscle invasive bladder cancer (NMIBC) or muscle-invasive bladder cancer (MIBC), with radical cystectomy being the treatment for MIBC, which significantly reduces quality of life.
+MicroRNAs (miRs) act as critical genetic regulators, with both oncogenic and tumor-suppressive roles.
+MiR-10a is described as a tumor suppressor in various neoplasms, but its role in BC is controversial.
+This study aims to assess the activity of miR-10a in cellular invasion and proliferation in two distinct BC cell lines.

@@ -1,0 +1,6 @@
+Bladder cancer is a common malignancy of the urinary system, where accurate grading plays a key role in guiding personalized treatment and improving patient outcomes.
+Traditional grading methods rely on manual assessment of pathological slides, which are prone to subjective bias.
+This paper proposes a deep learning-based multimodal fusion model, named RVCK-net, which integrates hyperspectral imaging (HSI) and pathological images to achieve precise bladder cancer grading.
+By leveraging spatial and spectral information from both modalities and employing an adaptive fusion mechanism, the proposed model achieves robust and reliable classification.
+Experimental results show that the method reaches an average accuracy of 94.1% under 10-fold cross-validation, significantly outperforming single-modality approaches and demonstrating improved diagnostic consistency.
+This study highlights the potential of multimodal deep learning for enhancing early diagnosis and accurate grading of bladder cancer.

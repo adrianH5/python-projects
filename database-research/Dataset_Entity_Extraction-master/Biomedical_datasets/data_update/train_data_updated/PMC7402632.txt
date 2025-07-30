@@ -1,0 +1,20 @@
+Early clinical descriptions of the first severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)–caused coronavirus disease 2019 (COVID-19) cases at the end of 2019 rapidly highlighted distinct patterns of disease progression ().
+On the basis of data from patients with laboratory-confirmed COVID-19 from mainland China, admission to intensive care unit (ICU), invasive mechanical ventilation, or death occurred in 6.1% of cases (), and the death rate from recent current French data was 0.70% ().
+However, little is known about the immunological features and the molecular mechanisms involved in COVID-19 severity.
+We next evaluated the response of whole blood cells to IFN-α stimulation () and observed a comparable increase in ISG score upon IFN-α stimulation between groups of any severity and controls (Fig. 3H), suggesting that the potential for response to type I IFN was not affected in COVID-19 patients.
+Overall, these data suggest that infected patients had no detectable circulating IFN-β and that an impaired IFN-α production characterized the most severe COVID-19 cases.
+Severe COVID-19 was reported to be associated with hypercytokinaemia (, ).
+Interleukin-6 (IL-6), a key player of the exacerbated inflammatory response in COVID-19 (), was not detected in peripheral blood at the transcriptional level (fig. S9B), contrasting with high amounts of IL-6 protein (Fig. 4B).
+These observations are in accordance with published studies in bronchoalveolar fluids from COVID-19 patients, describing the key role of monocytes ().
+In this study, we identified an impaired type I IFN response in severe and critical COVID-19 patients, accompanied by high blood viral load and an excessive NF-κB–driven inflammatory response associated with increased TNF-α and IL-6.
+We observed that SARS-CoV-2 infection was characterized by an absence of circulating IFN-β in COVID-19 patients with all disease-severity grades.
+In addition, most severe COVID-19 patients displayed impaired IFN-α production that was associated with lower viral clearance.
+It will be important to assess in severe and critical COVID-19 patients whether this reduced type I IFN production is present at the onset of infection, whether the production is delayed, or whether IFN production is exhausted after an initial peak.
+Comorbidities are risk factors for severe COVID-19 that could negatively affect IFN production and in contrast exacerbate inflammatory responses (, ).
+In this respect, data from Bost et al. describe a reduced type I IFN signature in bronchoalveolar lavage macrophages from severe COVID-19 patients, supporting the validity of our analysis ().
+Accordingly, IFN-λ has been proposed as a therapeutic in coronavirus disease 2019 (COVID-19) and other such viral respiratory diseases (see the Perspective by Grajales-Reyes and Colonna).
+Broggi et al. report that COVID-19 patient morbidity correlates with the high expression of type I and III IFNs in the lung.
+Complicating this picture, Hadjadj et al. observed that peripheral blood immune cells from severe and critical COVID-19 patients have diminished type I IFN and enhanced proinflammatory interleukin-6– and tumor necrosis factor-α–fueled responses.
+Coronavirus disease 2019 (COVID-19) is characterized by distinct patterns of disease progression that suggest diverse host immune responses.
+We performed an integrated immune analysis on a cohort of 50 COVID-19 patients with various disease severity.
+These data suggest that type I IFN deficiency in the blood could be a hallmark of severe COVID-19 and provide a rationale for combined therapeutic approaches.

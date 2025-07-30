@@ -1,0 +1,8 @@
+Epigenetic mechanisms play a crucial role in cancer development and progression, encompassing DNA methylation, chromatin organization, histone modifications, and noncoding RNA regulation.
+Lung cancer is a major cause of cancer-related deaths worldwide, with non-small cell lung cancer (NSCLC) accounting for approximately 85 % of all cases.
+Despite advances in detection and treatment, the prognosis for NSCLC patients remains poor, largely attributable to the development of chemoresistance.
+Chemoresistance is a key driver of cancer recurrence and metastasis.
+Targeting epigenetic modifications emerges as a promising strategy to reverse chemoresistance.
+Elucidating the mechanisms by which epigenetic modulation influences chemoresistance in NSCLC, coupled with the development of drugs to counteract this phenomenon, offers significant potential to improve the survival rates and quality of life for NSCLC patients.
+In this review, we comprehensively summarize the contributions of various epigenetic regulators to chemoresistance in NSCLC.
+We also explore the relationship between distinct epigenetic modifications and chemoresistance in NSCLC and discuss the translational potential of these findings into clinical therapies.

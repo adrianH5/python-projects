@@ -1,0 +1,2 @@
+Our Kaplan-Meier analysis reveals that gastric cancer patients with high androgen receptor (AR) expression demonstrate poorer survival outcomes compared to those with low AR expression, particularly in patients with characteristics typical of EBV-positive gastric cancer.
+However, the molecular mechanisms driving this seemingly contradictory relationship have remained poorly understood, as our experimental findings suggest AR signaling actually suppresses tumor growth in EBVaGC.

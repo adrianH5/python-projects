@@ -1,0 +1,8 @@
+Acute lymphoblastic leukemia (ALL) is a common childhood cancer characterized by the uncontrolled proliferation of immature white blood cells.
+While advancements in treatment have significantly improved outcomes in developed countries, significant challenges remain in resource-limited settings, such as Ethiopia.
+This study aimed to assess the clinical profiles and treatment outcomes of ALL patients at the University of Gondar Comprehensive Specialized Hospital (UoGCSH) and Tikur Anbessa Specialized Hospital (TASH) in Ethiopia.
+A prospective longitudinal study was conducted among 179 ALL patients receiving treatment at the outpatient department and pediatric oncology centers of the UoGCSH and TASH between December 25, 2022, and August 30, 2024.
+Sociodemographic and clinical data were collected using a structured questionnaire.
+The data were entered and analyzed using SPSS version 25.
+Descriptive statistics were employed to summarize patient characteristics, while overall survival was evaluated using Kaplan-Meier analysis.
+Additionally, both univariate and multivariate Cox proportional hazards regression analyses were performed, with statistical significance set at a P-value of < 0.05.

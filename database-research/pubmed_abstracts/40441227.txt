@@ -1,0 +1,10 @@
+With the global increase in glioblastoma (GBM) and ischemic stroke (IS) cases, the association between IS and GBM remains a topic of debate.
+In this study, we examined the causal relationship between genetically predicted IS and GBM.
+We conducted a Mendelian randomization analysis utilizing genome-wide studies data on IS and GBM within European populations.
+The inverse variance weighted method provided the main results.
+We utilized Cochran's Q-test and Mendelian randomization-Egger regression to assess heterogeneity.
+Leave-one-out analysis was conducted to assess the impact of individual single nucleotide polymorphisms on the observed effect.
+Our analysis indicated no significant causal link between IS and GBM risk (odds ratio with 95% confidence interval = 0.311 [0.068-1.422], P = .132).
+The inverse relationship between IS and GBM was also not statistically significant (odds ratio [95% confidence interval] = 1.005 [0.997-1.012], P = .249).
+The Mendelian randomization-Egger method and Cochran's Q-test showed no pleiotropy between the single nucleotide polymorphisms and GBM.
+This study presents strong evidence indicating no significant causal link between IS and the modified risk of GBM.

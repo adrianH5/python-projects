@@ -1,0 +1,1 @@
+To assess the performance of machine learning (ML) models trained on large publicly available databases in predicting extranodal extension (ENE) within a smaller single-institution cohort.

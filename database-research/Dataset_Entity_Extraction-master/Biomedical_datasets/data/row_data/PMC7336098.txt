@@ -1,0 +1,13 @@
+The Coronavirus Disease 2019 (COVID-19) pandemic has led to substantial morbidity and mortality globally, but initial reports suggest historically disadvantaged populations may be most afflicted.
+Recently, COVID-19 testing results for a subset of participants in England were made available [4].
+Individuals were excluded from this analysis if they had enrolled outside England, died prior to 2019, or had an outpatient test positive for COVID-19, in whom the clinical trajectory was uncertain.
+Additional details are provided in the Additional file 1.
+COVID-19 hospitalization was noted in 32 of 7714 (0.4%)
+To understand the relationship between socioeconomic status and COVID-19 hospitalization, individuals were stratified at enrollment into deciles of the Townsend Deprivation Index, a previously validated composite metric based on employment status, car or home ownership, and household crowding [5].
+Participants with greater Townsend Deprivation Indices were at substantially higher risk of COVID-19 hospitalization, with a similar pattern observed based on self-reported household income (Fig. 1b, c).
+The relationship between race and COVID-19 hospitalization was modestly attenuated in a logistic regression model that additionally adjusted for Townsend Deprivation Index, household income, hypertension, diabetes, heart failure, ischemic stroke, dementia, chronic obstructive pulmonary disease, prior pneumonia, dementia, chronic kidney disease, smoking status, statin use, and body mass index--odds ratios for Black and Asian participants of 2.4 (95%CI 1.5–3.7) and 1.8 (95%CI 1.1–2.9) as compared to White participants respectively.
+Within a large population of participants in a national biobank, striking gradients in risk of hospitalization for COVID-19 were noted according to race and a metric of socioeconomic deprivation.
+With respect to potential biologic factors, ongoing efforts seek to determine whether genetics--known to both vary substantially across racial groups and contribute to pre-existing comorbidities--plays an important role in COVID-19 disease severity.
+Preliminary reports suggest that the Coronavirus Disease 2019 (COVID− 19) pandemic has led to disproportionate morbidity and mortality among historically disadvantaged populations.
+We investigate the racial and socioeconomic associations of COVID− 19 hospitalization among 418,794 participants of the UK Biobank, of whom 549 (0.13%) had been hospitalized.
+We further observed a striking gradient in COVID− 19 hospitalization rates according to the Townsend Deprivation Index − a composite measure of socioeconomic deprivation − and household income.

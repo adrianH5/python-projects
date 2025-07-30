@@ -1,0 +1,10 @@
+Our previous research demonstrated that curcumin suppresses mouse colorectal cancer (CRC) cell CT26 migration and invasion by inhibiting heparanase (HPSE) mRNA expression.
+To further elucidate the mechanism of curcumin in human CRC treatment, we hypothesized that HPSE plays a pivotal role in human CRC metastasis and that curcumin inhibits this process by downregulating HPSE expression through epigenetic regulation mediated by non-coding RNAs.
+For further research, human CRC cells were infected with lentivirus to establish overexpression of HPSE cell lines and corresponding negative control cell lines.
+In vitro and in vivo experiments showed that curcumin inhibited the proliferation, migration, and metastasis of CRC cancer by inhibiting HPSE expression.
+In the tumor microenvironment, HPSE played an important role in activating the IL-6/STAT5 axis signaling pathway by destructing the extracellular matrix and releasing large number of cytokines, while changing the tumor microenvironment and EMT process, thus promoting tumor metastasis.
+RNA-seq analysis combined with qRT-PCR results showed that curcumin's inhibition of HPSE expression involved the regulation of non-coding RNAs.
+Taken together, our results suggested that HPSE promotes CRC metastasis by activating the IL-6/STAT5 signaling axis, disrupting the ECM, releasing cytokines, and altering the tumor microenvironment to facilitate EMT.
+Curcumin significantly inhibits CRC cell proliferation, migration, and metastasis by downregulating HPSE expression via non-coding RNAs, which related to IL-6/STAT5 axis signal pathways.
+This research provides a comprehensive understanding of the molecular mechanisms underlying curcumin's anti-CRC effects, emphasizing the role of HPSE and non-coding RNAs in tumor metastasis.
+These findings pave the way for the development of novel therapeutic strategies targeting HPSE and its regulatory pathways in CRC.

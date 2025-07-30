@@ -1,0 +1,2 @@
+This article introduces a near-field microwave sensor based on a monopole antenna for breast tumor detection.
+The designed antenna operates at 2 GHz and is miniaturized by 37% through the etching of two pairs of rectangular slots along its edges, achieving a compact footprint of 0.28λ

@@ -1,0 +1,10 @@
+T1	Repository 120 127	GenBank
+T2	Repository 375 404	Virus Pathogen Resource (VIPR
+T3	URL 406 429	https://www.viprbrc.org
+T4	Dataset 435 440	GSAID
+T5	URL 442 464	https://www.gisaid.org
+T6	Repository 1042 1075	NCBI's non-redundant (NR) protein
+T7	Repository 1152 1161	NCBI's NT
+T8	URL 2459 2496	https://pangenomedb.cbrc.kaust.edu.sa
+R1	hasAttr	Arg1:T2	Arg2:T3
+R2	hasAttr	Arg1:T4	Arg2:T5

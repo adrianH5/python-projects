@@ -1,0 +1,4 @@
+Integrin α5β1 is crucial for cell attachment and migration in development and tissue regeneration, and α5β1 binding proteins can have considerable utility in regenerative medicine and next-generation therapeutics.
+We use computational protein design to create de novo α5β1-specific modulating miniprotein binders, called NeoNectins, that bind to and stabilize the open state of α5β1.
+When immobilized onto titanium surfaces and throughout 3D hydrogels, the NeoNectins outperform native fibronectin (FN) and RGD peptides in enhancing cell attachment and spreading, and NeoNectin-grafted titanium implants outperformed FN- and RGD-grafted implants in animal models in promoting tissue integration and bone growth.
+NeoNectins should be broadly applicable for tissue engineering and biomedicine.

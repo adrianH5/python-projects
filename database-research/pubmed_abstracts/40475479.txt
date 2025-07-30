@@ -1,0 +1,8 @@
+Immunotherapy shows limited success in pancreatic cancer, largely due to a low mutational burden and immunosuppressive microenvironment.
+Here we hypothesized that pre-existing antiviral immunity can be redirected to control pancreatic tumors.
+Cytomegalovirus (CMV, a β-herpesvirus) was chosen, as the majority of the population is infected and it induces an extremely large/broad memory T cell response.
+Mice latently infected with murine CMV (MCMV) were orthotopically implanted with pancreatic cancer cells and treated with systemic injections of MCMV T-cell epitopes.
+The therapy promoted preferential accumulation of MCMV-specific T cells within pancreatic tumors, delaying tumor growth and increasing survival.
+Immunophenotyping and scRNAseq analyses showed these T cells were highly activated and cytotoxic, leading to increased tumor necrosis and caspase-3 activation.
+Finally, therapy was enhanced when combined with subtherapeutic doses of gemcitabine chemotherapy.
+Together, these results show that CMV-specific T cells can be repurposed to combat pancreatic cancer.

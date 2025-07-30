@@ -1,0 +1,9 @@
+Osthole (OST), a natural coumarin, exerts its anticancer effects by inducing cancer cell necroptosis, apoptosis, pyroptosis or autophagy.
+In He La cells, OST cause mitochondrial atrophy, increased membrane density and reduced cristae, which are characteristics of ferroptosis.
+However, the mechanisms of OST-induced ferroptosis in cervical cancer cells remain unclear.
+In the present study, we found that OST inhibited He La cells' proliferation which triggered ferroptosis.
+Further studies showed that ferroptosis or autophagy inhibition could reverse the inhibitory effects of OST on He La cell proliferation, and significantly inhibited ferroptosis and autophagy induced by OST.
+Moreover, autophagy stimulation enhanced the ferroptosis induction of OST, while ferroptosis induction in turn enhanced the autophagy levels caused by OST.
+Furthermore, Transferrin Receptor 1 (TRF-1) silencing effectively reduced OST-induced ferroptosis and autophagy, while TFR1 overexpression notably enhanced OST-induced ferroptosis and autophagy in He La cells.
+In addition, animal experiments demonstrated that overexpression of TFR1 effectively suppressed tumor growth in cervical cancer He La cells, and its expression was associated with the activation of ferroptosis and autophagy.
+In conclusion, our study revealed the detailed mechanism of OST-induced He La cells ferroptosis and autophagy, and the association between autophagy and ferroptosis in OST-induced cell death.

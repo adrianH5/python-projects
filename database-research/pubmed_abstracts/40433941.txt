@@ -1,0 +1,9 @@
+Cuproptosis, a novel form of copper (Cu)-dependent programmed cell death, is induced by directly binding Cu species to lipoylated components of the tricarboxylic acid (TCA) cycle.
+Since its discovery in 2022, cuproptosis has been closely linked to the field of materials science, offering a biological basis and bright prospects for the use of Cu-based nanomaterials in various disease treatments.
+Owing to the unique physicochemical properties of nanomaterials, Cu delivery nanosystems can specifically increase Cu levels at disease sites, inducing cuproptosis to achieve disease treatment while minimizing the undesirable release of Cu in normal tissues.
+This innovative nanomaterial-mediated cuproptosis, termed as "nanocuproptosis", positions at the intersection of chemistry, materials science, pharmaceutical science, and clinical medicine.
+This review aims to comprehensively summarize and discuss recent advancements in cuproptosis across various diseases, with a particular focus on cancer.
+It delves into the biochemical basis of nanomaterial-mediated cuproptosis, the rational design for cuproptosis inducers, strategies for enhancing therapeutic specificity, and cuproptosis-centric synergistic cancer therapeutics.
+Beyond oncology, this review also explores the expanded applications of cuproptosis, such as antibacterial, wound healing, and bone tissue engineering, highlighting its great potential to open innovative therapeutic strategies.
+Furthermore, the clinical potential of cuproptosis is assessed from basic, preclinical to clinical research.
+Finally, this review addresses current challenges, proposes potential solutions, and discusses the future prospects of this burgeoning field, highlighting cuproptosis nanomedicine as a highly promising alternative to current clinical therapeutics.

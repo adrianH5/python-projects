@@ -1,0 +1,7 @@
+The nervous system precisely regulates physiological activities throughout the body, controlling not only muscle movement, sensory perception, cognition, and responses to external stimuli but also the immune system.
+In the tumor microenvironment (TME), neural components are important constituents that control the genesis, invasion, and metastasis of tumors by regulating the immune system.
+The nervous system modulates the tumor immune microenvironment (TIME) through localized control mechanisms (such as sensory, sympathetic, and parasympathetic innervation, as well as glial cell regulation) or via systemic adjustments, including circadian rhythm entrainment, stress modulation, and gut-brain axis regulation.
+To ensure their survival and proliferation, tumor cells can mimic the anti-inflammatory profiles of neuronal cells by expressing corresponding molecules to evade immune surveillance.
+Owing to these molecular similarities, the immune system's targeted attack on the nervous system can lead to neurological damage, exacerbate patient conditions, and elevate mortality rates.
+Therefore, a detailed understanding of how the nervous and immune systems coordinate and regulate the TME can provide new perspectives and methods for the prevention and treatment of cancer.
+In this review, we focus on recent studies exploring the bidirectional interplay between the nervous system and tumors mediated by the immune system: how neural activity modulates tumor immunity, and conversely, how tumor-driven immune changes impact nervous system function.

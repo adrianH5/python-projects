@@ -1,0 +1,18 @@
+Early papillary gastric adenocarcinoma (EPGA), a well-differentiated gastric adenocarcinoma, is characterized by higher malignancy and worse prognosis compared to other differentiated gastric adenocarcinomas.
+Therefore, there is a critical need to elucidate its clinicopathological features and mucin expression for accurate diagnosis.
+The data of 116 cases of EPGA and 116 cases of early well-moderately differentiated tubular gastric adenocarcinoma (ETGA) diagnosed via pathological examination following radical gastrectomy from January 2016 to December 2023 at the Second Hospital of Shandong University were collected.
+Multivariable logistic regression was used to conduct a comparative analysis of the two groups of variables.
+The features of histological grading and immunophenotype, particularly mucin expression, were specifically analyzed.
+The receiver operating characteristic (ROC) curve analysis was used to assess the diagnostic efficacy of potential biomarkers in distinguishing EPGA from ETGA.
+The features of histological grading and MUC5AC expression in EPGA were specifically analyzed.
+Additionally, the risk factors of LVI in early gastric cancer (EGC) were assessed.
+EPGA exhibited significantly larger size (P < 0.001), higher frequencies of elevated appearance (P = 0.001), ulcer formation (P = 0.010) and lymphovascular invasion (LVI, P = 0.050) compared to ETGA.
+The expression of mismatch repair-deficient (P = 0.005) and MUC5AC (P < 0.001) were significantly elevated in EPGA compared to ETGA.
+Compared to ETGA, high-grade EPGA exhibited a greater incidence of ulcer formation (P < 0.001), submucosal invasion (P = 0.007), LVI (P = 0.010) and microsatellite instability-high (MSI-H, P < 0.001), whereas low-grade EPGA demonstrated clinicopathological characteristics similar to ETGA.
+MUC5AC expression was associated with LVI (P = 0.034) and MUC6 (P = 0.017) in EPGA.
+Moreover, high expression of MUC5AC showed good diagnostic efficiency in distinguishing EPGA (AUC = 0.724, 95% CI = 0.66-0.79).
+When EGC infiltrated the submucosa (OR = 25.227, 95% CI = 4.017-158.432; P < 0.001) or exhibited MSI-H phenotypes (OR = 10.708, 95% CI = 1.478-77.565; P = 0.019), LVI was more likely to occur.
+The retrospective study elucidates the clinicopathological features and mucin expression profiles of EPGA.
+The complex architecture and pronounced nuclear atypia observed in high-grade EPGA are indicative of higher malignancy.
+Moreover, the high expression of MUC5AC suggests a strong likelihood of EPGA, which may aid in its differentiation.
+In addition, MSI correlates with the presence of LVI in EGC.

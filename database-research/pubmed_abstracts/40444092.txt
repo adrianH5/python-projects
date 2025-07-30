@@ -1,0 +1,1 @@
+To develop a non-invasive, radiation-free model for early colorectal adenoma prediction using clinical electronic medical record (EMR) data, addressing limitations in current diagnostic approaches for large-scale screening.

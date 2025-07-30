@@ -1,0 +1,13 @@
+Cervical cancer (CC) ranks among the most prevalent malignant gynecological neoplasms.
+Given the significant challenges in treating and detecting CC at an early stage, this study aims to identify key biomarkers associated with the prognosis and progression of this malignancy.
+Mendelian randomization (MR), expression quantitative trait locus (eQTL) data, survival assessments, and differential expression analyses were used to identify potential biomarkers.
+Based on the expression profiles of the identified genes, a risk signature was developed.
+The correlation between gene expression levels and the clinical characteristics of CC patients was also examined.
+Additionally, qRT-PCR, Transwell migration, and wound healing assays were conducted to validate the reliability of PFKFB4 expression, as well as cellular migration and invasion capabilities.
+The genes PFKFB4, SFXN3, and ITGB2 were identified as critical targets for CC.
+MR analysis revealed that ITGB2 and PFKFB4 exhibited a negative correlation with CC development, whereas SFXN3 demonstrated a positive association with the disease.
+Mechanistic investigations highlighted a strong link between these genes and the immune microenvironment.
+The developed risk signature displayed significant correlations with the prognosis, metastatic stages, and histological classifications of CC patients.
+Furthermore, the expression level of PFKFB4 was significantly associated with the T and M stages in CC patients.
+Notably, PFKFB4 was significantly overexpressed in cervical cancer cells and tissue samples, and its silencing markedly inhibited cell migration and invasion.
+In summary, this study elucidates the molecular mechanisms underlying CC progression and identifies potential candidate biomarkers that could inform treatment strategies for this malignancy.

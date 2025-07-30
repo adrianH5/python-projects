@@ -1,0 +1,12 @@
+Is airborne transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) a potential means of spreading coronavirus disease 2019 (COVID-19)?
+In this cohort study of 128 individuals who rode 1 of 2 buses and attended a worship event in Eastern China, those who rode a bus with air recirculation and with a patient with COVID-19 had an increased risk of SARS-CoV-2 infection compared with those who rode a different bus.
+Importance  Evidence of whether severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus that causes coronavirus disease 2019 (COVID-19), can be transmitted as an aerosol (ie, airborne) has substantial public health implications.
+To investigate potential transmission routes of SARS-CoV-2 infection with epidemiologic evidence from a COVID-19 outbreak.
+This cohort study examined a community COVID-19 outbreak in Zhejiang province.
+We also divided seats on the exposed bus into high-risk and low-risk zones according to the distance from the source patient and compared COVID-19 risks in each zone.
+On bus 2, 24 of the 68 individuals (35.3% [including the index patient]) received a diagnosis of COVID-19 after the event.
+Among the other 172 individuals at the worship event, 7 (4.1%) subsequently received a COVID-19 diagnosis.
+Individuals in bus 2 had a 34.3% (95% CI, 24.1%-46.3%) higher risk of getting COVID-19 compared with those in bus 1 and were 11.4 (95% CI, 5.1-25.4) times more likely to have COVID-19 compared with all other individuals attending the worship event.
+Within bus 2, individuals in high-risk zones had moderately, but nonsignificantly, higher risk for COVID-19 compared with those in the low-risk zones.
+In this cohort study and case investigation of a community outbreak of COVID-19 in Zhejiang province, individuals who rode a bus to a worship event with a patient with COVID-19 had a higher risk of SARS-CoV-2 infection than individuals who rode another bus to the same event.
+This cohort study examines the potential for airborne spread of COVID-19 through investigation of an outbreak among bus riders in Eastern China.

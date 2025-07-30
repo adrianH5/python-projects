@@ -1,0 +1,11 @@
+The rising incidence and mortality rates of malignant tumors highlight their profound impact on human health.
+Bacterial therapy has emerged as a promising avenue in oncological research.
+Our lab has isolated an analgesic-anti-tumor peptide from the venom of Buthus martensii Karsch (BmK AGAP), a long-chain scorpion venom peptide, which exhibits remarkable anti-tumor activity.
+However, the limited bioavailability of peptides poses a challenge for their therapeutic efficacy.
+To address this challenge, we focused on enhancing the delivery of BmK AGAP to improve its anti-tumor effectiveness.
+We engineered E. coli K12 to create the TSYPU strain, which not only expresses BmK AGAP, but also possesses lytic capabilities.
+Co-culturing of TSYPU with murine breast cancer 4T1 cells in vitro demonstrated its potential as a drug delivery platform.
+Further advancements included the encapsulation of TSYPU with nanogold particles, resulting in TSYPU@Au strain.
+In vivo experiments revealed that TSYPU@Au exhibited a significant anti-tumor effect, crucially overcoming degradation in the acidic gastrointestinal environment.
+In summary, our study highlights the viability of engineered TSYPU bacteria as carriers for BmK AGAP delivery, offering a promising approach for the rational design of bacterial-based peptide drug delivery systems in oncology.
+This strategy has considerable potential for advancing the field and warrants further investigation in future studies.

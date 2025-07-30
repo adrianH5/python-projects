@@ -1,0 +1,4 @@
+Cell-cell crosstalk in the tumor microenvironment (TME) is crucial for cancer development and strongly correlates with clinical outcomes.
+Interpatient variability in tumor microenvironment composition and function poses ongoing challenges for personalized therapy selection, remaining a significant clinical problem.
+Serpin family E member 2 (SERPINE2) released from the tumor microenvironment exhibits significant regulatory functions in cancer progression but the role of SERPINE2 in the tumor microenvironment remains unclear.
+In this study, we want to investigate the potential mechanism of SERPINE2 in tumor microenvironment of colon cancer.

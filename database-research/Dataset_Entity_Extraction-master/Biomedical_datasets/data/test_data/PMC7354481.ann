@@ -1,0 +1,18 @@
+T1	AccessionNumber 264 278	EPI_ISL_420910
+T2	Dataset 400 406	GISAID
+T3	URL 422 444	https://www.gisaid.org
+T4	AccessionNumber 664 675	PRJNA615032
+T5	Repository 683 687	NCBI
+T6	URL 709 749	https://www.ncbi.nlm.nih.gov/bioproject/
+T7	Repository 828 836	Interpro
+T8	Repository 843 847	NCBI
+T9	Repository 854 860	MSigDB
+T10	Repository 870 878	REACTOME
+T11	Repository 889 901	WikiPathways
+T12	Repository 912 919	miRBase
+T13	Dataset 1314 1320	GISAID
+T14	AccessionNumber 2465 2476	PRJNA615032
+R1	hasAttr	Arg1:T2	Arg2:T1
+R2	hasAttr	Arg1:T2	Arg2:T3
+R3	hasAttr	Arg1:T5	Arg2:T4
+R4	hasAttr	Arg1:T5	Arg2:T6

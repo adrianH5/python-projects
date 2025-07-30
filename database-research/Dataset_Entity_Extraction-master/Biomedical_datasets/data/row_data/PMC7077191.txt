@@ -1,0 +1,31 @@
+The disease caused by SARS-CoV-2 was called “coronavirus disease 2019” (COVID-19) [7].
+The complete genomic sequences of SARS-CoV-2 were obtained from 2019 Novel Coronavirus Resource (2019nCoVR) [12] and two databases, including the National Center for Biotechnology Information (NCBI) [13] and Global Initiative on Sharing All Influenza Data (GISAID) [14].
+The differences and similarities of clinical characteristics between COVID-19 and SARS were summarized in Table 1.
+The main timeline of SARS and COVID-19 epidemic development were shown in Figure 1a,b, respectively.
+In comparison, COVID-19 showed similar trends with SARS patients [28].
+Beijing Centers for Diseases Control and Prevention indicated that the typical case of COVID-19 has a progressive aggravation process.
+COVID-19 can be classified into light, normal, severe, and critical types based on the severity of the disease [31]: (1) Mild cases—the clinical symptoms were mild, and no pneumonia was found on the chest computed tomography (CT); (2) normal cases—fever, respiratory symptoms, and patients found to have imaging manifestations of pneumonia; (3) severe cases—one of the following three conditions: Respiratory distress, respiratory rate ≥ 30 times/min (in resting state, refers to oxygen saturation ≤ 93%), partial arterial oxygen pressure (PaO2)/oxygen absorption concentration (FiO2) ≤ 300 mmHg (1 mmHg = 0.133 kPa); (4) critical cases—one of the following three conditions: Respiratory failure and the need for mechanical ventilation, shock, or the associated failure of other organs requiring the intensive care unit [32].
+It has been demonstrated that the latency of COVID-19 varies from 3–7 days on average, for up to 14 days [35].
+By comparison, we found that the average latency of COVID-19 is slightly longer than that of SARS.
+Li et al. reported that people who have not been exposed to SARS-CoV-2 are all susceptible to COVID-19 [41].
+Among the 8,866 patients who have been confirmed with COVID-19, nearly half of the patients have been aged 50 years or older (47.7%) [36].
+However, severe COVID-19 cases and deaths have mostly been in the middle-aged adults and the elderly with long smoking histories or other basic diseases, such as heart disease and hypertension [43,44].
+At the time that this paper was been submitted, COVID-19 patients mortality rate was 2.1% [45].
+According to the latest data on Feb. 14th, 2020 [55,56], there have been a total of 67,081 clinically diagnosed cases of COVID-19 in worldwide, with 1,526 deaths.
+As the origin area of COVID-19, Hubei province has been the most severely infected area, with 54,406 cumulative diagnosis cases.
+At present, the COVID-19 outbreak has been spread to all parts of China and around the world, including the United States, Thailand, and Japan.
+The distribution of COVID-2019 patients in China (including Hong Kong, Macao and Taiwan) and Hubei Province is shown in Figure 3.
+As the number of COVID-19 patients in China has been growing rapidly, preventing the spread of SARS-CoV-2 is the most important and urgent task [57].
+The possible pathogens of SARS and COVID-19 are both derived from wild animals [63].
+The early symptoms of SARS and COVID-19 are very similar to winter influenza, and the most important way to distinguish flu and pneumonia is to take throat swabs for viral testing [68].
+Both SARS-CoV and SARS-CoV-2 are CoVs; hence, the treatment strategies of SARS could be relevant for COVID-19 [74].
+Now, isolation, antiviral, and symptomatic treatments are still mainly adopted for COVID-19 treatment.
+As effective drugs for SARS, hormones and interferons can also be used to treat COVID-19 [74].
+Lopinavir/ritonavir has also been clinically tested in treatment of COVID-19, and showed wonderfully effective treatment for some patients, but the general clinical effect has not been determined [78].
+A high-resolution crystal structure of SARS-CoV-2 coronavirus 3CL hydrolase (Mpro) was announced after the outbreak of COVID-19 in the world [80], and human coronaviruses (HCoVs) have been treated as severe pathogens in respiratory tract infections.
+Clinical trials of remdesivir for treatment of COVID-19 just started on Feb. 5th and 12th, 2020 in Wuhan and Beijing, respectively, and the experimental results remain unclear [85,86].
+As a large number of people have left Wuhan, the control of the epidemic situation is extremely urgent, and the treatments of COVID-19 are imminent.
+Hence, clinical drugs and therapies for treating SARS may be used as a reference for COVID-19 treatment [74].
+Although more and more studies for SARS-CoV-2 have sprung up since the outbreak of this epidemic COVID-19, based on our comparison, we propose some key questions to be clarified in future studies (Table 3).
+In-depth understanding the underlying pathogenic mechanisms of SARS-CoV-2 will reveal more targets for better therapy of COVID-19.
+This virus causes acute lung symptoms, leading to a condition that has been named as “coronavirus disease 2019” (COVID-19).

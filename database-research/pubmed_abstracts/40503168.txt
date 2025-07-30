@@ -1,0 +1,8 @@
+Post-transplant cyclophosphamide (PTCy)-based graft-versus-host disease (GVHD) prophylaxis regimens are associated with very low rates of severe acute and chronic GVHD after hematopoietic cell transplant (HCT).
+However, concerns about cardiac and other organ toxicities persist.
+This study aimed to compare the vascular biomarker profile of PTCy with other GVHD regimens, including Tacrolimus/Sirolimus (Tac/Sir) and Tacrolimus/Methotrexate (Tac/MTX), to generate hypotheses for toxicity mitigation strategies.
+Plasma samples from day +28 post-transplant were analyzed against pre-transplant baseline measurements in patients receiving PTCy-based GVHD prophylaxis as part of BMT CTN (Blood and Marrow Transplant Clinical Trials Network) 1202 (N=112), versus Tac/MTX (N=98) and Tac/Sir (N=95) regimens from BMT CTN 0402.
+Compared to Tac/MTX, PTCy was associated with increasing angiopoietin-2 levels and decreasing epidermal growth factor levels at day +28.
+In contrast, Tac/Sir displayed increasing follistatin and endoglin levels and decreasing VEGFR2 plasma levels after HCT.
+Across all cohorts, increasing epidermal growth factor (EGF) was protective from non-relapse mortality, and decreasing VEGFR2 was associated with subsequent development of extensive chronic GVHD.
+These distinct biomarker profiles offer insights that could guide strategies to mitigate unique GVHD prophylaxis-associated toxicities.

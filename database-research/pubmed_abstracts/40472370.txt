@@ -1,0 +1,14 @@
+The differentiation of benign and malignant adrenocortical tumors is of major clinical relevance.
+Circulating microRNAs (miRNAs), hold promise as blood-borne biomarkers of adrenocortical cancer (ACC).
+There are, however, many difficulties with their use including technical and biological standardization challenges.
+Our aim was to evaluate the interchangeability of quantitative polymerase chain reaction (qPCR) and digital PCR (dPCR) for measuring circulating miRNAs and to investigate whether K2- and K3-EDTA as anticoagulant influence the measurements.
+Blood samples were drawn simultaneously from 20 participants into K2- and K3-EDTA tubes.
+Three miRNAs shown to be associated with ACC (miR-483-5p, miR-210-3p, miR-21-5p) together with two controls (miR-16-5p, cel-miR-39-3p) were analyzed using RT-qPCR and dPCR.
+qPCR and dPCR results showed different correlations in K2- and K3-EDTA samples with K2 performing better regarding ΔCt values.
+Moreover, proportional biases relating to low or high miRNA expression between the two methods were observed.
+In qPCR measurements, K3-EDTA samples showed larger standard deviations, particularly for cel-miR-39.
+While raw Ct values differed between K2 and K3 EDTA only for miR-483-5p, ΔCt values showed statistically significant differences across all miRNAs except for miR-483-5p.
+dPCR results were not affected by the choice of the anticoagulant.
+In conclusion, this is the first study demonstrating that dPCR and qPCR results are not easily interchangeable for circulating miRNA, particularly for abundant or rare miRNAs, making cross-validation studies challenging.
+K2 and K3-EDTA could potentially influence qPCR outcomes, underscoring the need for standardized protocols.
+A consensus-based methodology could improve reproducibility, enhancing miRNA-based biomarker utility in adrenocortical tumor diagnostics.

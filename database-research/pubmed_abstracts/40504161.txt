@@ -1,0 +1,3 @@
+Ovarian cancer is the sixth leading cause of cancer death among American women, with most fatalities attributable to tubo-ovarian high-grade serous carcinoma (HGSC).
+This malignancy usually develops resistance to conventional chemotherapy, underscoring the need for robust preclinical models to guide the development of novel therapies.
+Here, we introduce an HGSC mouse model generated via

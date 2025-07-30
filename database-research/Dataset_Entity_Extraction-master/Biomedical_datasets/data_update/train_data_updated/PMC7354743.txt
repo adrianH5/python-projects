@@ -1,0 +1,8 @@
+One major hitch in developing a COVID-19 vaccine is that no medically proven predecessor exists for any type of human coronavirus.
+While influenza, like COVID-19, causes morbidity among all ages, those most vulnerable to its serious complications, such as pneumonia, are the elderly [17, 18].
+The mechanisms of the ‘cytokine storm’ and how they contribute to fatalities reported for COVID-19 are still under investigation.
+In a study of 41 patients hospitalized with COVID-19, high levels of pro-inflammatory cytokines were found, including IL-2, IL-7, G-CSF, IP-10, MCP-1, MIP-1A, and TNF-α, in the most severe cases [119].
+The fight against COVID-19 will be difficult and lengthy.
+During the current COVID-19 pandemic, the global ratio between the dead and the survivors is approximately 1 to 10, which has put humanity on high alert and provided strong motivation for the intensive search for vaccines and drugs.
+The experience accumulated dealing with the biology of zoonotic RNA viruses suggests that the fight against COVID-19 will be difficult and lengthy.
+Unfortunately, RNA viruses constantly sweep their tracks and perhaps one of the most promising solutions in the fight against the COVID-19 pandemic is the creation of 'universal' vaccines based on conservative SARS-CoV-2 genome sequences (antigen-presenting) and unmethylated CpG dinucleotides (adjuvant) in the composition of the phosphorothioate backbone of single-stranded DNA oligonucleotides (ODN), which can be effective for long periods of use.

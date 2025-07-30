@@ -1,0 +1,4 @@
+Polymeric nanoparticles are extremely valuable carriers for drug/gene delivery to treat cancer, as they can protect different therapeutic agents during blood circulation while being able to deliver them at desired locations.
+Owing to the versatility of polymers, it is possible to fine-tune the performance of nanocarriers by changing different properties, such as chemical structure, architecture, composition and molecular weight or even by functionalising the polymers with targeting molecules.
+The use of pH-sensitive polymers is a very popular strategy to prepare smart carriers, taking advantage of the acidic intratumoural environment to induce hydrophobic/hydrophilic transitions that allow fast and efficient release of small drugs or genetic material.
+This review summarizes the contributions of the use of promising pH-sensitive poly(2-(diisopropylamino)ethyl methacrylate) (PDPA), with p

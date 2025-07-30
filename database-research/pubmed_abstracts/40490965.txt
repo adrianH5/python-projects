@@ -1,0 +1,11 @@
+The cell plasma membrane acts as a semi-permeable barrier essential for cellular protection and function, posing a challenge for therapeutic molecule delivery.
+Conventional techniques for crossing this barrier, including biophysical and biochemical methods, often exhibit limitations such as cytotoxicity and the risk of genomic integration when viral vectors are involved.
+In contrast, cell-penetrating peptides (CPPs) offer a promising non-invasive means to deliver a broad range of molecular cargoes, including proteins, nucleic acids and small molecules, into cells.
+CPPs, typically 5 to 30 amino acids long and rich in basic or non-polar residues, interact favourably with different cell membranes.
+These peptides have evolved since the discovery of the HIV-1 TAT peptide in the 1980s, expanding into various CPP families with diverse therapeutic applications.
+CPPs can form covalent or non-covalent complexes with their cargo, influencing their stability and efficacy.
+Based on their sequence properties and interactions, CPPs can be amphipathic or non-amphipathic, with distinct mechanisms of membrane penetration, such as direct penetration and endocytosis.
+While their uptake mechanisms are complex and not fully elucidated, ongoing optimization aims to enhance CPP specificity and efficacy.
+CPPs have demonstrated potential in drug delivery, gene therapy, cancer treatment and vaccine development, addressing key safety and efficiency concerns associated with viral vectors.
+This review explores the classification, mechanisms of action and therapeutic potential.
+It focuses on the intracellular vesicular trafficking of CPPs, highlighting their role as transformative tools in advancing cellular therapies and medical treatments.

@@ -1,0 +1,5 @@
+Heparanase (HPSE) is the sole mammalian endoglycosidase that degrades heparan sulfate (HS) proteoglycans, disrupting the extracellular matrix (ECM) and promoting cancer invasion and metastasis.
+Although HPSE overexpression is linked to tumor progression, no clinically approved HPSE inhibitors exist.
+We developed aminoglycoside-based HS mimetics with defined sulfation and hydrophobic modifications to target HPSE's lipophilic pockets, a novel approach distinct from traditional HS glycans.
+Computational modeling showed that these mimetics engage HPSE through hydrophobic and π-π stacking interactions, enhancing affinity.
+The most potent compounds inhibited HPSE-driven ECM degradation, tumor cell proliferation, and invasion.

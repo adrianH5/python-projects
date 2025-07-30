@@ -1,0 +1,9 @@
+How viruses evolve largely depends on their hosts.
+To quantitatively characterize this dependence, we introduce Maximum Entropy Nucleotide Bias models (MENB) learned from single, di- and tri- nucleotide usage of viral sequences that infect a given host.
+We first use MENB to classify the viral family and the host of a virus from its genome, among four families of ssRNA viruses and three hosts.
+We show that both the viral family and the host leave a fingerprint in nucleotide motif usages that MENB models decode.
+Benchmarking our approach against state-of-the-art methods based on deep neural networks, such as VIDHOP, shows that MENB is rapid, interpretable and robust.
+Our approach is able to predict, with good accuracy, both the viral family and the host from a whole genomic sequence or a portion of it.
+MENB models also display promising out of sample generalization ability on viral sequences of new host taxa or new viral families.
+Our approach is also capable of identifying, within the limitations imposed by the three-host setting, intermediate hosts for well-known pathogenic strains of Influenza A subtypes and Human Coronavirus and recombinations and reassortments on specific genomic regions.
+Finally MENB models can be used to track the adaptation to the new host, to shed light on the more relevant selective pressures that acted on motif usage during this process and to design new sequences with altered nucleotide usage at fixed amino-acid content.

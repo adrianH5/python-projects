@@ -1,0 +1,9 @@
+Cancer survival prediction based on multimodal data (e.g., pathological slides, clinical records, and genomic profiles) has become increasingly prevalent in recent years.
+A key challenge of this task is obtaining an effective survival-specific global representation from patient data with highly complicated correlations.
+Furthermore, the absence of certain modalities is a common issue in clinical practice, which renders current multimodal methods either outdated or ineffective.
+This article proposes a novel two-stage hypergraph learning network, called HGMSurvNet, for multimodal cancer survival prediction.
+HGMSurvNet can gradually learn the higher-order global representations from the WSI-level to the patient-level for multimodal learning via multilateral correlation modeling in multiple stages.
+Most importantly, to address the data noise and missing modalities issues in clinical scenarios, we develop a new hypergraph convolution network with a hyperedge dropout mechanism to discard unimportant hyperedges during model training.
+Extensive validation experiments were conducted on six public cancer cohorts from TCGA.
+The results demonstrated that the proposed method consistently outperforms state-of-the-art methods.
+We also demonstrate the interpretable analysis of HGMSurvNet and its application potential in pathological images and patient modeling, which has valuable clinical significance for the survival prognosis.

@@ -1,0 +1,8 @@
+Cancer therapeutic vaccines are used to strengthen a patient's own immune system by amplifying existing immune responses.
+Intralesional administration of the bacteria-based emm55 vaccine together with the PD1 checkpoint inhibitor produced a strong anti-tumor effect against the B16 melanoma murine model.
+However, it is not trivial to design an optimal order and frequency of injections for combination therapies.
+Here, we developed a coupled ordinary differential equations model calibrated to experimental data and used the mesh adaptive direct search method to optimize the treatment protocols of the emm55 vaccine and anti-PD1 combined therapy.
+This method determined that early consecutive vaccine injections combined with distributed anti-PD1 injections of decreasing separation time yielded the best tumor size reduction.
+The optimized protocols led to a twofold decrease in tumor area for the vaccine-alone treatment, and a fourfold decrease for the combined therapy.
+Our results reveal the tumor subpopulation dynamics in the optimal treatment condition, defining the path for efficacious treatment design.
+Similar computational frameworks can be applied to other tumors and other combination therapies to generate experimentally testable hypotheses in a fairly unrestricted and inexpensive setting.

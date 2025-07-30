@@ -1,0 +1,2 @@
+Leptomeningeal metastasis in medulloblastoma poses challenges for effective treatments due to the blood-brain barrier (BBB), which may be addressed through intrathecal or intraventricular drug delivery.
+However, the lack of pharmacokinetic modeling for pathological cerebrospinal fluid (CSF) geometries has limited the ability to predict effective intrathecal and intraventricular drug exposure.

@@ -1,0 +1,20 @@
+Introduction Colorectal cancer (CRC) is the second leading cause of cancer-related deaths in the U.S., with disparities in incidence, survival, and age at diagnosis across racial, ethnic, and socioeconomic groups.
+The rising incidence of early-onset CRC (<50 years) has amplified concerns regarding access to care, screening disparities, and outcomes, particularly among minorities.
+This study examines the impact of race, ethnicity, socioeconomic status (SES), and sex on CRC survival and age at diagnosis in Texas from 1995 to 2016.
+Methods This retrospective cohort study utilized Texas Cancer Registry (TCR) data, including 235,076 CRC cases diagnosed between 1995 and 2016.
+Kaplan-Meier analysis and log-rank tests assessed 10-year survival by race and ethnicity and time period (1995-2005 vs. 2006-2016).
+Kruskal-Wallis tests with Bonferroni correction were used to compare survival years between racial/ethnic groups within each period.
+Age at diagnosis was analyzed by race and ethnicity, and SES using Welch ANOVA and Games-Howell post hoc testing.
+Welch's t-tests compared intra-race changes across decades.
+Sex-based differences in diagnosis age were assessed using Mann-Whitney U tests.
+Results Significant racial, ethnic, and socioeconomic disparities were observed in CRC outcomes.
+Black: Non-Hispanic and Black: Hispanic patients exhibited some of the lowest median survival times, with minimal overall improvement between the two time periods.
+Although Black: Hispanic patients exhibited the lowest median survival, the difference was not statistically significant in the 2006-2016 cohort (p = 0.12).
+Hispanic and Black patients were diagnosed at younger ages compared to White: Non-Hispanic patients.
+Lower SES was associated with younger age at diagnosis and worse survival.
+Male patients were consistently diagnosed earlier than female patients across both decades.
+Despite some improvement in survival for certain groups, disparities persisted, particularly for Black: Non-Hispanic and Black: Hispanic patients.
+Conclusion Disparities in CRC survival and diagnosis age persist across racial, ethnic, SES, and sex lines in Texas.
+These findings underscore the need for tailored screening efforts, improved healthcare access, and targeted interventions for high-risk populations.
+Persistent sex-based differences highlight a need for further research into biological and systemic factors.
+Addressing social determinants of health may help reduce these disparities.

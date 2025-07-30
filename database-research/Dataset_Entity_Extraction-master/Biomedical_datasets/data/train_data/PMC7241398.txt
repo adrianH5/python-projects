@@ -1,0 +1,21 @@
+In December 2019, a coronavirus disease (named as COVID-19 later) was reported in Wuhan city, which rapidly spread throughout China and then to many other countries in the world (Li et al., 2020a, Zhu et al., 2020b).
+The World Health Organization (WHO) declared COVID-19 as a pandemic on March 11, 2020.
+The HFH4-hACE2 mice were intranasally infected with 3 × 104 TCID50 virus each and sacrificed to collect tissue and blood samples at 1, 3, 5, and 7 days post-infection (DPI) (Figure 1
+A).
+All the dying mice (dead or lost >20% body weigh) showed significantly decreased lymphocyte numbers, which is one of the key clinical hallmarks of COVID-19 patients (Wang et al., 2020).
+The lung isolates indicated two mutations, C14554T (nsp13, L372F) and C23525T (spike, H644Y), compared with the genome of SARS-CoV-2-WIV04 (GISAID: EPI_ISL_402124).
+The viral titers in the infected lung ranged from 9.4 × 103 to 9.1 × 105TCID50 per gram of tissue, as determined by serial dilution of VeroE6 cell lines (Figure S5
+).
+These mice generated antibodies against SARS-CoV-2 that could neutralize 100 TCID50 viruses at dilutions of 1:10 to 1:40 (Table S4).
+We then intranasally infected the three SARS-CoV-2 survivors and another three healthy mice with 7 × 105 TCID50 virus/each.
+COVID-19 patients commonly exhibit pneumonia with typical signs including fever, cough, dyspnea, and bilateral lung infiltration (Guan et al., 2020).
+Some alveolar cells were dissolved and necrotic, and some terminal bronchioles were blocked, which simulated the pathological findings in COVID-19 patients (Xu et al., 2020).
+During routine blood examination, lymphopenia is a common feature in COVID-19 patients, and some patients had high-level aspartate amino transferase (AST) and creatine kinase (CK) (Chen et al., 2020, Guan et al., 2020).
+There are few reports about organ tropism of virus infection in the patients of COVID-19, but multiple organ infections have been reported in SARS patients (Gu et al., 2005).
+In summary, a human ACE2 mouse model that partially simulated the pathology of COVID-19, will be a valuable platform for testing vaccines and other potential therapeutics.
+The successful establishment of an animal model for COVID-19 pathogenesis will be valuable for evaluating vaccines and therapeutics to combat SARS-CoV-2.
+Three days after inoculation, CPE was scored, and the Reed-Muench formula was used to calculate the TCID50.
+Mice were anaesthetised with tribromoethanol (Avertin) (250 mg/kg) and intranasally infected with 3∗104 TCID50 (for naive infection) or 7∗105 TCID50 (for the viral challenge) SARS-CoV-2 in 50 μL DMEM per mouse.
+COVID-19 has spread worldwide since 2019 and is now a severe threat to public health.
+The infected mice generated typical interstitial pneumonia and pathology that were similar to those of COVID-19 patients.
+Graphical Abstract      A SARS-CoV-2 hACE2 transgenic mouse infection model recapitulates a number of infection symptoms and pathology in COVID-19 patients.

@@ -1,0 +1,8 @@
+The myometrium plays a critical role during pregnancy as it is responsible for both the structural integrity of the uterus and force generation at term.
+Emerging studies in mice indicate a dynamic change of the myometrial epigenome and transcriptome during pregnancy to ready the contractile machinery for parturition.
+However, the regulatory systems underlying myometrial gene expression patterns throughout gestation remain largely unknown.
+Here, we investigated human term pregnant nonlabor myometrial biopsies for transcriptome, enhancer histone mark cistrome, and chromatin conformation pattern mapping.
+More than thirty thousand putative enhancers with H3K27ac and H3K4me1 double positive marks were identified in the myometrium.
+Enriched transcription factor binding motifs include known myometrial regulators AP-1, STAT, NFkB, and PGR among others.
+Putative myometrial super enhancers are mostly colocalized with progesterone receptor-occupying sites and preferentially associated with highly expressing genes, suggesting a conserved role of PGR in regulating the myometrial transcriptome between species.
+In human myometrial specimens, inferred PGR activities are positively correlated with phospholipase C like 2 (

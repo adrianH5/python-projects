@@ -1,0 +1,7 @@
+Chromothripsis, a phenomenon of massive genomic rearrangements, introduces extensive mutations in critical genes, affecting cell survival and apoptosis.
+Among these genes, the BCL2 (B-cell lymphoma 2) gene, which plays a crucial antiapoptotic role in cancer cells, is often subjected to significant alterations.
+Here, we present a computational pipeline to model and analyze the structural and functional impacts of chromothripsis-induced Single-Nucleotide Polymorphisms (SNPs) within the BCL2 gene.
+This pipeline integrates mutation simulation, homology modeling, and protein inter-action analysis to evaluate the stability and apoptotic potential of BCL2 mutations.
+These results indicate that chromothripsis-induced mutations can destabilize the Bcl-2 protein, thereby disrupting its binding affinity with apoptotic regulators, such as Bax.
+These findings support the potential of ergodic anticancer therapy to exploit such mutations, facilitating the apoptosis of cancer cells.
+Our computational model offers a novel in silico approach for understanding mutation-driven alterations in cancer biology, aiding the development of therapeutic strategies targeting apoptotic pathways.

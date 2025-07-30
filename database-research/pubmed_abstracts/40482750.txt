@@ -1,0 +1,9 @@
+Sargassum pallidum (Turn.)
+C. Agardh, a type of edible brown algae, is known for its bioactive polysaccharides that possess a range of health-promoting properties.
+However, the specific anticancer effects and underlying molecular mechanisms of S. pallidum polysaccharides remain incompletely understood.
+In this study, the anticancer effects and molecular mechanisms of a polysaccharide, PSP-2, extracted from S. pallidum, were investigated in human hepatocellular carcinoma (HepG2) cells.
+The results showed that PSP-2 significantly inhibited HepG2 cell proliferation, with treatment at a concentration of 4 mg/mL reducing cell viability to 27 % of the blank control.
+Further analysis revealed that PSP-2 treatment induced apoptosis, increased reactive oxygen species (ROS) generation, and caused a significant decrease in mitochondrial membrane potential (ΔΨm).
+Western blotting showed that PSP-2 upregulated the expression of key apoptotic proteins, while suppressing the expression of pro-survival and inflammatory proteins.
+These findings suggest that PSP-2 exhibit antiproliferative effect through the modulation of ROS-mediated ATM-p53-Caspase and JAK-STAT3/NF-κB signaling pathways.
+Overall, this study provides novel insights into the mechanisms through which S. pallidum polysaccharides exert anticancer effects, highlighting their potential as a functional food and an adjuvant therapeutic agent for liver cancer.

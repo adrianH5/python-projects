@@ -1,0 +1,9 @@
+Quantifying protein turnover is fundamental to understanding cellular processes and advancing drug discovery.
+Multiplex-DIA mass spectrometry (MS), combined with dynamic SILAC labeling (pulse-SILAC, or pSILAC) reliably measures protein turnover and degradation kinetics.
+Previous multiplex-DIA-MS workflows have employed various strategies including leveraging the highest isotopic labeling channels to enhance the detection of isotopic signal pairs.
+Here we present a robust workflow that integrates a machine learning algorithm and channel-specific statistical filtering, enabling dynamic adaptation to channel ratio changes across multiplexed experiments and enhancing both coverage and accuracy of protein turnover profiling.
+We also introduce KdeggeR, a data analysis tool optimized for pSILAC-DIA experiments, which determines and visualizes peptide and protein degradation profiles.
+Our workflow is broadly applicable, as demonstrated on 2-channel and 3-channel DIA datasets and across two MS platforms.
+Applying this framework to an aneuploid cancer cell model before and after cisplatin resistance, we uncover strong proteome buffering of key protein complex subunits encoded by the aneuploid genome mediated by protein degradation.
+We identify resistance-associated turnover signatures, including mitochondrial metabolic adaptation via accelerated degradation of respiratory complexes I and IV.
+Our approach provides a powerful platform for high-throughput, quantitative analysis of proteome dynamics and stability in health and disease.

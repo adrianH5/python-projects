@@ -1,0 +1,7 @@
+Pioneer transcription factors (PTFs) bind to inaccessible chromatin and recruit collaborating transcription factors to promote chromatin accessibility.
+However, mechanisms driving PTFs to specify collaborating transcription factor recruitment and chromatin remodeling remain unclear.
+Here, we utilize inducible expression of a PTF, GATA3, in a basal breast cancer cell line (SUM159PT) to mechanistically address the collaborating transcription factor requirements and the local chromatin architecture delineating GATA3-depenent chromatin accessibility and enhancer formation (productive sites) versus GATA3-bound inaccessible chromatin (unproductive sites).
+Transcription factor footprinting in productive sites illustrated enrichment of GATA3 with AP-1 transcription factor.
+Together, GATA3 and AP-1 colocalize at primed enhancers with p300 and BRG1 where nucleosome positioning is influenced by GATA3 binding.
+Although inhibition of AP-1 binding affects a small subset of productive sites, we demonstrate that inhibition of SWI/SNF ATPases results in dramatic loss of GATA3-dependent chromatin accessibility, binding, and alterations in local chromatin architecture.
+We conclude that GATA3-dependent gains in chromatin accessibility require chromatin remodeling and that accessibility at some loci is facilitated by collaborating transcription factors like AP-1.

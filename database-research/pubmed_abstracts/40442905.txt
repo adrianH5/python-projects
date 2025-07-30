@@ -1,0 +1,10 @@
+MicroRNAs have emerged as pivotal post-transcriptional regulators, orchestrating a myriad of cellular processes critical to both normal physiology and pathological conditions, par-ticularly cancer.
+Among these, miRNAs containing the highly conserved AAAGUGC seed se-quence have garnered significant attention due to their multifaceted roles in cancer progression, acting as both oncogenes and tumour suppressors across a wide spectrum of malignancies.
+This review delves deeply into the evolutionary significance of AAAGUGC seed-containing miRNAs, elucidating their conserved nature and intricate roles in the regulation of cancer-related gene ex-pression networks.
+We focused on eight specific miRNAs- miR-17-5p, miR-20a-5p, miR-93-5p, miR-106a-5p, miR-106b-5p, miR-519d-3p, miR-526b-3p, and miR-20b-5p -each of which demonstrates con-text-dependent oncogenic or tumour-suppressive behaviour.
+Through an in-depth exploration of the molecular mechanisms by which these miRNAs modulate critical pathways, we highlighted their capacity to influence essential processes, including cell proliferation, apoptosis, epithelial-to-mesenchymal transition (EMT), metastasis, and drug resistance, reflecting the complexity of their regulatory roles.
+Furthermore, we dissected the intricate interactions between these miRNAs and their downstream targets, showcasing their diverse contributions to the tumour microenvironment.
+The implications of miRNA dysregulation in chemotherapy resistance were also explored.
+In conclusion, AAAGUGC seed-containing miRNAs represent a complex and evolutionarily conserved family with implications in cancer biology.
+Their ability to modulate multiple onco-genic and tumour-suppressive pathways highlights their potential as therapeutic targets or bi-omarkers in the context of personalized cancer treatment strategies.
+This review provides a com-prehensive depth of current knowledge while proposing avenues for future research into the ther-apeutic manipulation of these miRNAs in combating cancer.

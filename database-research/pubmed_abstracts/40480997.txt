@@ -1,0 +1,8 @@
+An extracellular matrix (ECM) gene expression pattern (ECM3) distinguished truly aggressive grade III breast carcinomas (BCs).
+Here, we examined the biomechanical characteristics of the ECM in human BCs to identify the molecules that mediate the aggressiveness of ECM3/grade III (E3G3) tumors.
+By shotgun proteomics of decellularized human BCs, we found a significant enrichment in proteins involved in tumor-ECM interaction in E3G3 tumors.
+These tumors were characterized by high dense collagen deposition, a fibrillary cytoskeleton network and the highest stiffness.
+CLEC3A, a secreted C-type lectin domain family 3 member, was found unique of E3G3 tumors and was validated to be more expressed in these tumors by immunohistochemistry in 2 human BC cohorts, associating significantly with worse prognosis.
+Ectopic CLEC3A overexpression in MDA-MB-231, MDA-MB-361, and MDA-MB-468 BC cells increased intracellular mediators of tumor adhesion to the ECM, actin-stress fibers and YAP activation, and tumor migration.
+Accordingly, levels of the YAP/TAZ gene signature were higher in CLEC3A-positive ECM3-enriched tumors and correlated with tumor stiffness.
+These results implicate CLEC3A in mediating the ability of E3G3 BCs to sense cues in the surrounding ECM, accelerating tumor progression.

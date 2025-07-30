@@ -1,0 +1,9 @@
+Telomere shortening occurs in multiple tissues throughout aging.
+When telomeres become critically short, they trigger DNA-damage responses and p53 stabilization, leading to apoptosis or replicative senescence.
+In vitro, cells with short telomeres activate the cGAS-STING innate immune pathway resulting in type-I interferon-based inflammation and senescence.
+However, the consequences of these events for the organism are not yet understood.
+Here, we show that sting is responsible for premature aging of telomerase-deficient zebrafish.
+We generated sting-/- tert-/- double-mutant animals and observed a thorough rescue of tert-/- phenotypes.
+At the cellular level, lack of cGAS-STING in tert mutants resulted in reduced senescence, increased cell proliferation, and decreased inflammation despite similarly short telomeres.
+Critically, absence of sting function resulted in dampening of the DNA damage response and reduced p53 levels.
+At the organism level, sting-/- tert-/- zebrafish regained fertility, showed delayed cachexia, and decreased cancer incidence, resulting in increased healthspan and lifespan of telomerase mutant animals.

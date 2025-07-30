@@ -1,0 +1,11 @@
+This study aimed to identify key genes associated with post-chemotherapy recurrence in gastric cancer patients.
+Gene expression data from multiple cohorts were analysed to determine differentially expressed genes between recurrent and non-recurrent cases.
+A prognostic risk model incorporating COL8A1, HSPB7 and SLIT2 was developed and validated across six independent cohorts.
+The risk score demonstrated significant associations with disease-free and overall survival, tumour grade and molecular subtypes.
+Notably, the risk score showed potential as a predictor of immunotherapy response, outperforming established markers such as microsatellite instability score and Epstein-Barr virus status.
+Analysis of the tumour immune microenvironment revealed a correlation between risk score and M2 macrophage infiltration.
+A nomogram integrating the risk score with clinical factors demonstrated high accuracy in predicting patient survival.
+Further investigation of COL8A1 revealed its significant role in gastric cancer cell proliferation, metastasis, and chemoresistance.
+In vitro and in vivo experiments showed that COL8A1 knockdown inhibited cancer cell growth, invasion, and metastasis while enhancing chemosensitivity.
+These findings provide valuable insights into the molecular mechanisms of gastric cancer recurrence and offer potential biomarkers for prognosis and treatment response prediction.
+The study highlights the importance of integrating genomic data with clinical information to improve patient stratification and personalised treatment strategies in gastric cancer management.

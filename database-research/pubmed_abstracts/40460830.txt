@@ -1,0 +1,4 @@
+The lack of T cells in tumors is a major hurdle to successful immune checkpoint therapy (ICT).
+Therefore, therapeutic strategies promoting T cell recruitment into tumors are warranted to improve the treatment efficacy.
+Here, we report that Fc-optimized anti-cytotoxic T lymphocyte antigen 4 (CTLA-4) antibodies are potent remodelers of tumor vasculature that increase tumor-associated high endothelial venules (TA-HEVs), specialized blood vessels supporting lymphocyte entry into tumors.
+Mechanistically, this effect is dependent on the Fc domain of anti-CTLA-4 antibodies and CD4

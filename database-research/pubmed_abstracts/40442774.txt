@@ -1,0 +1,8 @@
+PARP inhibitors have profoundly changed treatment options for cancers with homologous recombination repair defects, especially those carrying BRCA1/2 mutations.
+However, the development of resistance to these inhibitors presents a significant clinical challenge as it limits long-term effectiveness.
+This review provides an overview of the current understanding of resistance mechanisms to PARP inhibitors and explores strategies to overcome these challenges.
+We discuss the basis of synthetic lethality induced by PARP inhibitors and detail diverse resistance mechanisms affecting PARP inhibitors, including homologous recombination restoration, reduced PARP trapping, enhanced drug efflux, and replication fork stabilization.
+The review then considers clinical approaches to combat resistance, focusing on combination therapies with immune checkpoint inhibitors, DNA damage response inhibitors, and epigenetic drugs.
+We also highlight ongoing clinical trials and potential biomarkers for predicting treatment response and resistance.
+The review concludes by outlining future research directions, emphasizing the need for longitudinal studies, advanced resistance monitoring technologies, and the development of novel combination strategies.
+By tackling PARP inhibitor resistance, this review seeks to aid in the development of more effective cancer therapies, with the potential to improve outcomes for patients with homologous recombination-deficient tumors.

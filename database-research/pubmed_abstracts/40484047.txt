@@ -1,0 +1,6 @@
+Antibody-drug conjugates (ADCs) have transformed breast cancer treatment by enabling the targeted delivery of cytotoxic agents.
+However, the optimal sequencing of ADCs remains undefined, with factors such as target antigen, linker type, and payload mechanism variably influencing their efficacy and safety.
+This review examines current ADC applications and limitations, focusing on resistance mechanisms and challenges related to limited real-world data, small study populations, and the absence of head-to-head clinical comparisons.
+While randomized clinical trials could clarify sequencing strategies, the lack of planned studies makes high-quality evidence unlikely in the near future.
+The rapid evolution of ADC technology further complicates these considerations, as next-generation ADCs or novel combinations may prove superior before sequencing strategies are fully established.
+This highlights the need for continuous reassessment to align treatment approaches with advances in precision oncology and the evolving breast cancer landscape.

@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "tracelab-sdk"
+version = "0.1.0"
+description = "Python SDK for TraceLab"
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.10, <4.0"
+redis = "^5.0.4"
+requests = "^2.31.0"
+httpx = "^0.27.0"
+opentelemetry-sdk = "^1.25.0"
+wrapt = "^1.16.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

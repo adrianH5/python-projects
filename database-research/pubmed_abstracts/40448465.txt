@@ -1,0 +1,8 @@
+The occurrence of heavy metal contamination in groundwater poses significant health risks through ingestion and dermal exposure, with potential links to cancer and other diseases.
+This study evaluated groundwater samples for 10 heavy metals (Al, As, Cr, Cu, Cd, Fe, Mn, Ni, Pb, and Zn) using ICP-OES.
+While cadmium and chromium levels were within acceptable limits prescribed by the Bureau of Indian Standards, aluminum and iron exceeded these limits in 56 and 58% of samples, respectively.
+Other metals surpassed limits in 2-20% of cases.
+Health risk analysis revealed non-carcinogenic risks for 28% of adults and 44% of children, alongside carcinogenic risks from arsenic (36% of samples) and nickel (46% of samples), especially affecting children.
+Sensitivity analysis highlighted heavy metal concentration as the key variable influencing risk, and principal component analysis suggested geogenic sources, like rock weathering, as major contributors to contamination.
+Despite these risks, the heavy metal pollution index remained within acceptable limits for all samples.
+The study emphasizes the necessity for continuous monitoring and targeted mitigation strategies to address heavy metal contamination and protect public health.

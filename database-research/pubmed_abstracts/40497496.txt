@@ -1,0 +1,4 @@
+Epigenetic changes are implicated in development, repair, and physiology of postnatal skeletal muscle (SkM).
+We generated methylomes for human myoblasts (SkM progenitor cells) and determined myoblast differentially methylated regions (DMRs) for comparison to the epigenomics and transcriptomics of diverse cell types.
+Analyses were from global genomic and single-gene perspectives and included reporter gene assays.
+One atypical finding was the association of promoter-adjacent hypermethylation in myoblasts with transcription turn-on, but at downmodulated levels, for certain genes (

@@ -1,0 +1,12 @@
+Asbestos is classified as a class I carcinogen by the International Agency for Research on Cancer (IARC) because of its propensity to accumulate in the lungs and induce malignant tumors, including lung cancer and malignant mesothelioma.
+The objective of this study was to examine the inhibitory impact of miR-30d on the proliferation, migration, and invasion of chrysotile-transformed human pleural mesothelial cells (MeT-5A).
+The asbestos-transformed cell model was constructed using a chrysotile asbestos chronically exposed human pleural mesothelial cell line (MeT-5A).
+The expression level of miR-30d in the transfected cells was determined by qRT-PCR.
+Cell viability was assessed by CCK-8 assay.
+The apoptosis rate was evaluated by flow cytometry.
+The cell scratch assay and the Transwell assay were used to assess cell migration and invasion ability.
+It was observed that the expression level of miR-30d in Asb MeT-5A+miR-30d cells transfected with miR-30d mimics was markedly elevated in comparison to that in Asb MeT-5A+miR NC cells.
+Additionally, the cell viability in Asb MeT-5A+miR-30d cells was significantly diminished, while the level of apoptosis was markedly elevated in comparison to that in Asb MeT-5A+miR NC cells.
+The relative migration area was significantly lower in the Asb MeT-5A+miR-30d group than in the Asb MeT-5A+miR NC group.
+Furthermore, the number of migrated and invaded cells in the Asb MeT-5A+miR-30d group was significantly less than in the Asb MeT-5A+miR NC group.
+The findings suggest that miR-30d may suppress the proliferation, apoptosis, migration, and invasion of chrysotile-transformed pleural mesothelial cells.

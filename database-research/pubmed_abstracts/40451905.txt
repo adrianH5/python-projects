@@ -1,0 +1,3 @@
+The study focuses on Keap1, a key regulator of the Nrf2 pathway, critical for tumor cell regulation.
+Recent crystallographic insights into Keap1's structure highlight its functional domains and ligand-binding sites, offering opportunities for targeted drug discovery.
+The aim is to identify small molecules with high affinity for Keap1 to modulate Keap1, SQSTM1/p62, and Nrf2 functions in colorectal cancer (CRC) cells.

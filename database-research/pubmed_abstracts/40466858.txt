@@ -1,0 +1,7 @@
+Lung cancer remains one of the leading causes of cancer-related deaths, with current chemotherapy limited by poor drug delivery, toxicity, and resistance.
+To overcome these challenges, we developed a dry powder inhaler (DPI) system incorporating a PLGA-PEG-LHRH (PPL) nanoconjugate (NC) for enhanced delivery.
+Curcumin (CUR), with known anticancer and P-gp inhibition properties, was co-loaded with bcl2 siRNA (bclsR) to target bcl2 protein and combat resistance mechanisms.
+The CUR and bclsR-loaded PLGA NC (172.12 ± 24.23 nm) were prepared using double emulsion solvent evaporation (DESE) method and converted into DPI using a carbohydrate carrier, showing a mass mean aerodynamic diameter of 4.62 μm and fine particle fraction of 65.39 ± 0.19 %, ideal for lung delivery.
+Animal studies showed that DPI delivered via tracheal administration in lung cancer models exhibited superior anticancer effects compared to free CUR, particularly in terms of pathological improvements and upregulation of cancer markers like P53 and TNF-α.
+In vivo biodistribution studies in tumor-bearing mice revealed higher CUR concentrations in plasma (326.85 ± 6.17 μg) and lungs (207.03 ± 4.11 μg), with enhanced systemic exposure as indicated by higher AUC and Cmax values.
+These findings suggest that CUR-siRNA loaded DPI could provide an effective therapeutic approach for lung cancer.

@@ -1,0 +1,3 @@
+The measurement of urinary catecholamines and total metanephrines serves as one of the primary tests in the diagnosis of pheochromocytoma and paraganglioma (PPGL).
+The widely adopted liquid chromatography-tandem mass spectrometry (LC-MS/MS) method, however, typically necessitates sample pretreatments and chromatographic separation prior to MS, resulting in challenges for facile and rapid screening of targets from complex matrices.
+Therefore, it is crucial to develop an analytical method that can rapidly and efficiently detect urinary catecholamines and total metanephrines.

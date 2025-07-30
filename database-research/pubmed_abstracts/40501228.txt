@@ -1,0 +1,6 @@
+This study elucidates the mechanisms by which cancer-associated fibroblast (CAF)-derived platelet-derived growth factor C (PDGFC) promotes the progression of lung adenocarcinoma (LUAD) and explores the impact of PDGFC on immune regulation within the tumor microenvironment (TME).
+Our results show that there is higher expression of PDGFC in CAFs than in nontumor tissue fibroblasts (NFs) and that higher expression of PDGFC is correlated with poor prognosis in LUAD patients.
+Furthermore, CAF-derived PDGFC promotes epithelial-mesenchymal transition (EMT) in cancer cells as well as matrix metalloproteinase 2 (MMP2) expression through the PDGF receptor A (PDGFRA)-mitogen-activated protein kinase/extracellular signal-regulated kinase (MAPK/ERK) pathway.
+Moreover, our study demonstrates that CAF-derived PDGFC is essential for the activation and infiltration of fibroblasts in the TME, as well as the inflammatory infiltration of different immune cell types and the immunosuppressive conditions within the TME.
+In particular, PDGFC induces increased PDGFRA expression in both tumor cells and fibroblasts, which can lead to reciprocally positive feedback to accelerate malignant tumor progression.
+This discovery provides a novel TME-targeted strategy for LUAD treatment.

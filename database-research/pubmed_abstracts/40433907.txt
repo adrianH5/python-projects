@@ -1,0 +1,7 @@
+Fusobacterium nucleatum (Fn) enrichment has been identified in colorectal cancer and its liver metastases.
+In this study, we found that Fn predominantly accumulated within colorectal cancer cells, correlating with colorectal cancer liver metastasis.
+Clinically, the administration of high doses of antibiotics and chemotherapeutic agents can disrupt the balance of the host microbiota.
+To address this clinical challenge, metronidazole (MTI) and oxaliplatin (OXA) are encapsulated within poly (lactic-co-glycolic acid) (PLGA) nanoparticles.
+Neutrophil membrane vesicles are extracted from murine bone marrow and coated with these nanoparticles (NM@PLGA-MTI-OXA), creating neutrophil-mimetic nanoparticles with dual targeting capabilities for antibacterial and anticancer purposes.
+The neutrophil membrane coating, compared with free drugs, is found to enhance nanoparticle uptake by tumor cells, facilitating intracellular bacterial elimination and tumor cell death.
+Further experiments reveal that NM@PLGA-MTI-OXA reverses the Fn-induced epithelial-mesenchymal transition (EMT) in tumor cells during metastasis and remodels the immunosuppressive microenvironment, suppressing colorectal cancer and liver metastasis development while minimizing broad-spectrum damage to the commensal microbiota.

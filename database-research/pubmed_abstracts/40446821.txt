@@ -1,0 +1,4 @@
+Magnetic hyperthermia has emerged as a promising approach in the pursuit of effective cancer therapies; however, its success relies heavily on the development of advanced magnetic nanomaterials.
+This study introduces a groundbreaking approach of intracellular magnetic hyperthermia using superparamagnetic iron nanoparticles (SPINs) specifically within breast and prostate tumors, laying a crucial foundation for the development of hyperthermia cancer therapy.
+In contrast to traditional anticancer treatments, our approach leverages the superior tumor retention capabilities of nanoparticles due to their intracellular cell uptake allowing efficient induced localized heating power.
+We developed a highly controllable synthesis method for iron nanoparticles in carbon matrix, which exhibit efficient localized heat generation by SPINs under applied magnetic field within the clinical limit, with magnetic saturation exceeding 150 emu g

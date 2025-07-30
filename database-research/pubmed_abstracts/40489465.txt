@@ -1,0 +1,13 @@
+Cholangiocarcinoma (CCA) is a diverse collection of malignant tumors that originate in the bile ducts.
+Mitochondria, the energy converters in eukaryotic cells, contain circular mitochondrial DNA (mtDNA) which has a greater mutation rate than nuclear DNA.
+Heteroplasmic variations in mtDNA may suggest an increased risk of cancer-related mortality, serving as a potential prognostic marker.
+In this study, we investigated the mtDNA variations of five CCA cell lines, including KKU-023, KKU-055, KKU-100, KKU213A, and KKU-452 and compared them to the non-tumor cholangiocyte MMNK-1 cell line.
+We used Oxford Nanopore Technologies (ONT), a long-read sequencing technology capable of synthesizing the whole mitochondrial genome, which facilitates enhanced identification of complicated rearrangements in mitogenomics.
+The analysis revealed a high frequency of SNVs and INDELs, particularly in the D-loop, MT-RNR2, MT-CO1, MT-ND4, and MT-ND5 genes.
+Significant mutations were detected in all CCA cell lines, with particularly notable non-synonymous SNVs such as m.8462T > C in KKU-023, m.9493G > A in KKU-055, m.9172C > A in KKU-100, m.15024G > C in KKU-213A, m.12994G > A in KKU-452, and m.13406G > A in MMNK-1, which demonstrated high pathogenicity scores.
+The presence of these mutations suggests the potential for mitochondrial dysfunction and CCA progression.
+Analysis of mtDNA structural variants (SV) revealed significant variability among the cell lines.
+We identified 208 SVs in KKU-023, 185 SVs in KKU-055, 231 SVs in KKU-100, 69 SVs in KKU-213A, 172 SVs in KKU-452, and 217 SVs in MMNK-1.
+These SVs included deletions, duplications, and inversions, with the highest variability observed in KKU-100 and the lowest in KKU-213A.
+Our results underscore the diverse mtDNA mutation landscape in CCA cell lines, highlighting the potential impact of these mutations on mitochondrial function and CCA cell line progression.
+Future research is required to investigate the functional impacts of these variants, their interactions with nuclear DNA in CCA, and their potential as targets for therapeutic intervention.

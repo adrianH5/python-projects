@@ -1,0 +1,7 @@
+Development of safe and effective subunit vaccines for controlling African Swine Fever Virus (ASFV) infection has been hampered by a lack of protective viral antigens, complex virion structures, and multiple mechanisms of infection.
+Here, we selected ASFV antigens based on their localization on the virion, known functions, and homologies to the subunits of the protective vaccinia virus vaccine.
+We also engineered viral capsid proteins for inducing optimal antibody responses and designed T cell-directed antigens for inducing broad and robust cellular immunity.
+The selected antigens in lipid nanoparticle-mRNA formulations were evaluated for immunogenicity in both mice and pigs with concordant results.
+Different antigens induced divergent immune response profiles, including the levels of IgG and T cell responses and effector functions of antisera.
+We further developed a computational approach to combine antigens into cocktails for inducing specific immune response profiles and to validate candidate cocktail vaccines in mice.
+Our results provide a basis for further evaluation of candidate subunit mRNA vaccines in challenge studies.

@@ -1,0 +1,4 @@
+The tree structure was validated by running the analysis on 100 bootstrapped input datasets.
+Briefly, this analysis finds the eigenvectors describing the highest variance within a categorical dataset, like ours.
+Our dataset derived from the MUSCLE MSA of 70 genomes and generated 32 206 positions: the categories in each coordinate could be A (Adenine), C (Cytosine), G (Guanine; T [Thymine], although being an single strand RNA virus, it would be more appropriate to use U [Uracil]), N (Nucleotide, uncertain location: very rare in this dataset, and accounting for only nine positions, or 0.0004% of all the data).
+So, we searched for ORF8 homologous substrates in the Mammalia NCBI nr protein database, but could not find matches within the E‐value threshold of 1.

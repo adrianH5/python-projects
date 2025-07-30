@@ -1,0 +1,8 @@
+Hepatocellular carcinoma (HCC) is a top cause of cancer-associated mortality worldwide, with limited effective treatment options.
+The oncogenic transcription factor c-MYC plays a pivotal role in HCC pathogenesis by regulating key cellular processes, including proliferation, metabolism, and apoptosis.
+Impaired c-MYC regulation strongly correlates with aberrant activation of multiple signaling pathways, such as PI3K/Akt/mTOR, Wnt/β-catenin, and MAPK/ERK, which collectively drive tumor progression.
+Furthermore, c-MYC facilitates metabolic reprogramming, enhancing glycolysis and glutamine metabolism to support rapid tumor growth.
+Recent advances highlight the critical interplay between c-MYC and epigenetic modulators, ubiquitination processes, and non-coding RNAs, which further sustain its oncogenic activity.
+Targeting c-MYC through direct inhibition, pathway-specific interventions, and combination therapies stands as a compelling option for HCC treatment.
+This review offers an in-depth overview of the molecular mechanisms governing c-MYC-driven hepatocarcinogenesis and explores emerging therapeutic approaches aimed at disrupting this oncogenic network.
+A deeper understanding of c-MYC's role in HCC will pave the way for novel treatment strategies with potential clinical applications.

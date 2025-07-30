@@ -1,0 +1,7 @@
+Motivated by the study of genetic effect modifiers of cancer, we examined weighting approaches to correct for ascertainment bias in survival analysis.
+Outcome-dependent sampling is common in genetic epidemiology leading to study samples with too many events in comparison to the population and an overrepresentation of young, affected subjects.
+A usual approach to correct for ascertainment bias in this setting is to use an inverse probability-weighted Cox model, using weights based on external available population-based age-specific incidence rates of the type of cancer under investigation.
+However, the current approach is not general enough leading to invalid weights in relevant practical settings if oversampling of cases is not observed in all age groups.
+Based on the same principle of weighting observations by their inverse probability of selection, we propose a new, more general approach, called the generalized weighted approach.
+We show the advantage of the new generalized weighted cohort method using simulations and two real data sets.
+In both applications, the goal is to assess the association between common susceptibility loci identified in genome-wide association studies (GWAS) and cancer (colorectal and breast) using data collected through genetic testing in clinical genetics centers.

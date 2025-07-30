@@ -1,0 +1,18 @@
+Lung cancer remains one of the major causes of cancer-related mortality.
+Thus, newer therapeutic approaches are urgently needed.
+Because cancer is a metabolic disease, lung cancer cells have also rewired their metabolism to gain growth advantage and support survival.
+Therefore, the use of metabolic stress-inducing agents as a therapeutic strategy for lung cancer is an attractive idea.
+In this study, we have investigated the anticancer potential of CB-839 and metformin.
+CB-839, a selective glutaminase-1 inhibitor, creates glutamine-deficient conditions, and metformin is an antidiabetic drug.
+We report that CB-839 and metformin induce metabolic stress and inhibit growth of human lung cancer cells.
+Of note, lung cancer cells that harbor mutant K-Ras are more sensitive to these agents compared to cells with wild-type K-Ras status.
+In the K-Ras mutant cells, these agents induce cell death partly, via death receptor 5 (DR5)-dependent extrinsic pathway.
+However, in the lung cancer cells harboring wild-type K-Ras, these agents activate autophagy without significant effect on DR5 regulation.
+Pretreatment of K-Ras wild-type cells with autophagy inhibitor improves the anticancer potential of these agents coupled with activation of DR5-dependent pathway.
+Our results further show that the growth inhibitory effects of these agents appear to be linked to the mutant K-Ras status because pan-K-Ras inhibitor that inhibits the mutant K-Ras proteins blunted the growth inhibitory effects of these agents in cells harboring mutant K-Ras.
+Collectively, our results provide valuable new insights into exploiting the metabolic rewiring of lung cancer cells by using metabolic stress-inducing drugs as an important therapeutic approach.
+SIGNIFICANCE STATEMENT: Anticancer potential of CB-839 and metformin is investigated in lung cancer.
+These agents induce cell death partly, via death receptor 5-dependent pathway, and a relationship with K-Ras status of lung cancer cells is noted.
+Lung cancer cells with mutant K-Ras are more sensitive compared to cells with wild-type K-Ras.
+Autophagy inhibition of K-Ras wild-type cells improves the anticancer potential.
+This study provides new insights into exploiting the metabolic rewiring of lung cancer cells as an important therapeutic strategy.

@@ -1,0 +1,9 @@
+Mitochondria are the energy production centers in cells and have unique genetic information.
+Due to the irreplaceable function of mitochondria, mitochondrial dysfunction often leads to pathological changes.
+Mitochondrial dysfunction induces an imbalance between oxidation and antioxidation, mitochondrial DNA (mtDNA) damage, mitochondrial dynamics dysregulation, and changes in mitophagy.
+It results in oxidative stress due to excessive reactive oxygen species (ROS) generation, which contributes to cell damage and death.
+Mitochondrial dysfunction can also trigger inflammation through the activation of damage-associated molecular patterns (DAMPs), inflammasomes and inflammatory cells.
+Besides, mitochondrial alterations in the functional regulation, energy metabolism and genetic stability accompany the aging process, and there has been a lot of evidence suggesting that oxidative stress and inflammation, both of which are associated with mitochondrial dysfunction, are predisposing factors of aging.
+Therefore, this review hypothesizes that mitochondria serve as central hubs regulating oxidative stress, inflammation, and aging, and their dysfunction contributes to various diseases, including cancers, cardiovascular diseases, neurodegenerative disorders, metabolic diseases, sepsis, ocular pathologies, liver diseases, and autoimmune conditions.
+Moreover, we outline therapies aimed at various mitochondrial dysfunctions, highlighting their performance in animal models and human trials.
+Additionally, we focus on the limitations of mitochondrial therapy in clinical applications, and discuss potential future research directions for mitochondrial therapy.

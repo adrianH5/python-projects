@@ -1,0 +1,7 @@
+Breast cancer brain metastases (BCBM) affect nearly 90,000 patients annually in the United States and carry a significant risk of mortality.
+As metastatic lesions develop, the unique milieu of the brain microenvironment shapes disease progression and therapeutic response.
+Among resident brain cells, astrocytes are both the most common, and are increasingly recognized as key regulators of this process, yet their precise role remains poorly defined.
+Here, we present a hybrid agent-based model (ABM) to simulate tumor-astrocyte interactions on a two-dimensional lattice.
+In our model, metastatic tumor cells induce phenotypic reprogramming of astrocytes from an antito a pro-metastatic state, thereby enhancing tumor proliferation.
+We systematically evaluate how variations in astrocyte density, spatial distribution, and chemotherapy impact tumor expansion and spatial morphology, quantified by fractal dimension, lacunarity, and eccentricity.
+Our simulations reveal that astrocyte reprogramming accelerates tumor progression and contributes to increased morphological complexity and chemotherapeutic resistance.

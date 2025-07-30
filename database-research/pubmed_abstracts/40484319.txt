@@ -1,0 +1,11 @@
+A subset of somatic carcinomas shows morphologic and immunophenotypic similarities to yolk sac tumor (YST) of germ cell origin, including fetal adenocarcinomas of the lung (FLACs) and somatic carcinomas with "YST"/enteroblastic differentiation.
+At least some of these tumors may result from reprogramming of somatic cancer cells, leading to the acquisition of a "pluripotent" phenotype.
+Although these somatic tumors express markers such as SALL4, glypican 3 and AFP, which are positive in germ cell-derived YST, it is currently uncertain to what degree their molecular features overlap with those of germ cell tumors (GCTs).
+We assessed i(12p) (fluorescence in situ hybridization) and levels of microRNA-371∼373 (real-time quantitative PCR), hallmarks of GCNIS-derived GCTs, in a cohort of 11 somatically-derived neoplasms with YST/enteroblastic phenotype (designated as "YST-like" tumors hereafter).
+In addition, we used immunohistochemistry to assess expression of FOXA2, a critical regulator of induction and maintenance of YST phenotype in GCTs.
+All (n = 11) YST-like tumors showed expression of FOXA2 and were negative for i(12p).
+Expression of miR-371a-3p (the most specific member of the miR-371∼373 cluster) was detectable in 6/10 (60%) of YST-like tumors.
+Four samples showed levels in the grey zone of detection (i.e., expression of uncertain clinical significance) and two samples (separate tumors from a single patient) showed positive levels similar to those found in non-teratoma GCNIS-derived GCTs.
+The remaining members of the microRNA cluster (miRs 372 and 373) followed the same patterns.
+Our results show that the overlap of somatically-derived YST-like tumors and YSTs of germ cell origin goes beyond morphology, including expression of one of the master regulators of the YST phenotype and, in some cases, miR-371a-3p.
+However, these neoplasms lack a hallmark finding of GCNIS-derived GCTs [i(12p)] and show significant biologic and clinical differences with GCTs.

@@ -1,0 +1,4 @@
+Interleukin 2 (IL-2) is essential for immune system activation.
+To reduce toxicity and prevent the activation of regulatory T cells (T-regs), a novel IL-2 variant containing 4-point mutations that prevent its interaction with the alpha chain of the receptor was designed.
+In preclinical studies, the no-alpha mutein preferentially stimulate CD8-T cells and natural killer (NK) cells compared to Tregs.
+Mutein also showed greater antitumor capacity than the native molecule in several tumor models.

@@ -1,0 +1,11 @@
+Circulating tumor DNA (ctDNA) is a promising biomarker in patients with high-grade serous ovarian cancer (HGSOC).
+However, the detection rate of TP53 mutations in ctDNA of HGSOC patients has previously been shown to be inadequate.
+Given the prevalence of copy number aberrations (CNAs) in HGSOC, this study aimed to improve ctDNA detection by combining TP53 sequencing with shallow whole-genome sequencing (sWGS), and to evaluate the correlation with clinicopathological features and survival outcomes.
+This exploratory, retrospective cohort study included 53 advanced-stage HGSOC patients, comprising 18 treatment-naive patients and 35 patients treated with two neoadjuvant chemotherapy cycles.
+TP53 targeted sequencing was integrated with sWGS (<5x coverage) for CNA estimation using ichor copy number aberration tumor fraction (ichorCNA TF).
+TP53 mutations were detected in 28 patients (52.8 %), and 17 patients (32.1 %) showed positive ichorCNA TF.
+Combining TP53 mutation detection with ichorCNA TF identified 62.3 % (n = 33) of patients as ctDNA-positive, showing a trend towards improved detection compared to TP53 mutation alone (p = .063).
+Treatment-naive patients exhibited higher TP53 mutation (72.2 % vs. 42.9 %, p = .043) and ichorCNA TF (66.7 % vs. 14.3 %, p < .001) detection rates compared to chemotherapy-treated patients.
+No correlations between ctDNA metrics and clinicopathological characteristics or survival outcomes were found.
+In conclusion, the integration of ichorCNA TF with TP53 mutation analysis showed a trend towards improved ctDNA detection in advanced-stage HGSOC patients.
+Future studies should further explore ctDNA detection rates by ichorCNA TF and its potential clinical implications in HGSOC.

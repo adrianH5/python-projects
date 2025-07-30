@@ -1,0 +1,13 @@
+The increased risk of recurrence and metastasis are obstacles to treating TNBC.
+Propionate-related genes play an important role in tumor development and immune cell infiltration.
+The study was to identify the association between propionate-related genes and the prognosis of TNBC patients.
+Propionate-related genes were collected and analyzed to establish propionate-related gene characteristics.
+Then, the survival analysis was performed, and the responses to immunotherapies were evaluated.
+Furthermore, the drug sensitivity of some traditional chemotherapeutic drugs was evaluated.
+Finally, the hub genes were discovered and validated by in vitro experiments.
+Based on the five-propionate-related gene signature, TNBC patients were divided into high and low-risk groups.
+In addition, DEGs between the different risk groups were enriched in the biological activities associated with immunity.
+TNBC patients in the high-risk groups were suggested to have worse responses to immunotherapies and a poorer prognosis.
+SRD5A3 was finally found to be a hub gene, and in vitro experiments revealed that silencing SRD5A3 inhibited tumor cell proliferation, invasion, and migration.
+The five-propionate-related risk model presented novel insights into the efficacy of immunotherapy.
+It was found that down-regulation of SRD5A3 inhibited the growth and invasion of tumor cells, thereby affecting the prognosis of TNBC.

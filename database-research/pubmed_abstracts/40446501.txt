@@ -1,0 +1,8 @@
+Thirty-four persistent organic pollutants (POPs), including polychlorinated biphenyls (PCBs), polycyclic aromatic hydrocarbons (PAHs), and pesticides, were comprehensively analyzed using GC-MS/MS across 260 samples.
+The chromatographic analysis included hospital wastewater, effluent and influent from a wastewater treatment plant, coastal seawater, sediments, and marine biota, specifically seagrass (Posidonia oceanica) and mussels (Mytilus galloprovincialis) from the Mahdia region, Tunisia.
+Most target POPs were detected in all matrices.
+Total PCBs, PAHs, and pesticides were found at higher levels than in previous studies, with concentrations ranging from 0.073 to 480.660 mg/L in water samples and from 0.089 to 129.120 mg/kg in sediment and biota samples.
+The most abundant organic compounds were the pesticides alachlor and omethoate.
+The detected values in mussel samples indicate no immediate risk to human health, as they remain below established safety limits.
+However, further analysis using the incremental lifetime cancer risk model revealed that certain compounds including PCBs, benzo[a]anthracene and Acephate exceeded acceptable threshold values.
+Further investigation is necessary due to the ongoing discharge of wastewater into the environment and the limited efficiency of wastewater treatment.

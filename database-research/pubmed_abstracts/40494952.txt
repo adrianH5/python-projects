@@ -1,0 +1,11 @@
+The intratumoral microbiome is emerging as an intrinsic microenvironment feature of some cancers, most notably those along the digestive tract.
+Opportunistic pathogenic bacteria, such as Fusobacterium nucleatum, can enrich within certain tumors, ultimately leading to alterations in the tumor microenvironment.
+However, why some tumors have a higher abundance of tumor-associated bacteria, or oncobacteria, than others remains unknown.
+To address this question, we quantified the presence of oncobacteria in head and neck squamous cell carcinomas (HNSCCs).
+We found that accumulation of oncobacteria was independent of tumor stage and size, as well as patient characteristics.
+In contrast, we discovered that human papillomavirus (HPV)-negative tumors exhibited significantly higher accumulation of oncobacteria than HPV+ tumors.
+Furthermore, the abundance of oncobacteria was associated with worse overall survival in HPV+ tumors.
+These findings were validated in an independent cohort.
+Subsequent analysis of Epstein-Barr virus (EBV)+ gastric cancer suggests this phenomenon generalizes to other virally mediated cancers.
+Co-culture studies of HNSCC cell lines with Fusobacterium nucleatum demonstrated that HPV-negative cells have enhanced proliferation in the presence of Fusobacterium nucleatum compared to HPV+ cells, suggestive of tumor cell intrinsic determinants of oncobacteria accumulation.
+Together, these results illuminate tumor features that contribute to the accumulation of oncobacteria.

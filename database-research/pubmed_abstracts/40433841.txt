@@ -1,0 +1,11 @@
+OCT4 plays a crucial role in the DNA damage response(DDR) mechanism, whereas cisplatin (CDDP) acts as an anti-tumor agent by inducing DDR.
+This study aimed to investigate the role of OCT4 in regulating DNA methyltransferase 1 (DNMT1) in CDDP-treated gastric cancer (GC).
+A dual-luciferase reporter assay was performed to detect the relationship between DNMT1 and OCT4.
+Human GC cell lines HGC-27 and MGC-803 were transfected with siRNA-OCT4 or ov-DNMT1 to construct interfering cell lines; CDDP of 0, 2.5, 5, 10, and 20 µM was used to treat GC cell lines, respectively.
+As follows, γ-H2AX immunofluorescence was used to detect DDR.
+The protein expressions of OCT4 and DNMT1 were detected by Western blot (WB), and the effects of CDDP treatment on cell apoptosis and proliferation were assessed using CCK8, cell cloning, and flow cytometry.
+The IC50 of CDDP-treated GC cells was reduced by OCT4 silence but enhanced by DNMT1 overexpression.
+A targeted regulatory relationship exists between OCT4 and DNMT1.
+The expression of OCT4 and DNMT1 was increased in CDDP-treated cells, and DNMT1 was decreased in the siRNA-OCT4 group.
+In the CDDP-treated GC cells, DNMT1 overexpression significantly reversed the siRNA-OCT4-induced cell apoptosis, γ-H2AX upregulation, and proliferation decrease.
+OCT4 silence may target DNMT1 to induce DDR in GC cells to strengthen the CDDP-induced cell apoptosis and proliferation inhibition.

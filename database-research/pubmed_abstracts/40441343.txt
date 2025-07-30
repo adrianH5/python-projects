@@ -1,0 +1,13 @@
+Brain metastasis (BM) is a fatal complication of non-small cell lung cancer (NSCLC).
+The lack of non-invasion methods for early diagnosis and risk stratification is the major cause for the poor prognosis of NSCLC with BM.
+The metabolic state of BM has a significant change characterized with high reactive oxygen species accumulation and the subsequent antioxidant metabolic response.
+We sought to screen plasma markers based on metabolomics and lipidomics for the early diagnosis and prognostic evaluation of NSCLC patients with BM.
+Plasma samples collected from 48 NSCLC patients with BM and 49 gender- and age- matched primary lung cancer (PLC) patients were randomly divided into train set and test set, then analyzations of metabolomics and lipidomics were performed using liquid chromatography-tandem mass spectrometry (LC-MS).
+Differential metabolites and lipids were discovered from the train set.
+A diagnostic biomarker panel was constructed using logistic regression.
+The test set were utilized to validate the accuracy of the diagnostic model.
+Furthermore, a risk score was established to stratify risk for NSCLC patients.
+There were 34 differential metabolites and 35 differential lipids annotated in the train set.
+The diagnostic biomarker panel consisting of homocysteine, ascorbic acid, LPC (22:0) and LPC (20:0) is able to discriminate BM from PLC with an excellent performance.
+The risk score based on protocatechuic acid and LPC (20:0) could efficiently stratify risk for NSCLC patients with BM.
+Our study reports plasma biomarkers and predictive models for the early diagnosis and prognostic evaluation of NSCLC patients with BM.

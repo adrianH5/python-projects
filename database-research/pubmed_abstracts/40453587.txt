@@ -1,0 +1,5 @@
+Positron-emission-tomography-(PET)/computed-tomography-(CT) using somatostatin-receptor-(SSTR)-binding radioligands is well established in the imaging of neuroendocrine tumors (NETs).
+SSTRs are expressed in NETs and endocrine and exocrine tissues, e.g.
+pancreas, where somatostatin binding to SST2 and SST5 inhibits glucagon and insulin secretion.
+Pancreatic background activity on SSTR-PET varies widely and is increased in up to 45% of cases.
+High uptake in the

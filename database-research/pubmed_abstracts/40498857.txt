@@ -1,0 +1,9 @@
+Cytomorphological analysis of the bone marrow aspirate (BMA) is pivotal for the diagnostic workup of a broad range of hematological disorders.
+However, this skill is error prone, highly complex, and time consuming.
+Deep learning-based models for the automatic classification of bone marrow cell morphology demonstrate the potential to improve diagnostic efficiency and accuracy.
+However, existing deep learning approaches in this field fall short of expert-level performance and lack generalizability beyond a single dataset.
+Working with multiple hematopathologists, we curated a dataset from the University of California, San Francisco, which included a training set of 30,394 images from 40 patients with morphologically normal marrows and a test set of 8507 images from 10 different patients, all derived from 400×-equivalent whole-slide images (WSIs).
+We then developed DeepHeme, a snapshot ensemble deep learning classifier, which outperformed previous models in accuracy while expanding the total number of differentiable cell classes.
+We externally validated DeepHeme using an independent dataset from the Memorial Sloan Kettering Cancer Center, which included 2694 images from 10 morphologically normal patients and 11,076 images from 655 patients with normal or diseased marrow, scanned using a different WSI system, demonstrating robust generalizability.
+At the level of individual cell classifications, we systematically compared DeepHeme's diagnostic performance with that of three medical experts from different academic hospitals, demonstrating that DeepHeme achieved accuracy comparable to, or exceeding, that of human experts.
+Accurate and generalizable cell classification represents a step toward automated analysis of hematopathology slides and the development of quantitative, morphology-based, predictive markers.

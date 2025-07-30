@@ -1,0 +1,13 @@
+Treeshrews, which share a closer common ancestor with primates and flying lemurs than with rodents, have been proposed as a better animal model for biomedical research compared to traditional rodent models.
+Zoonotic viruses like Mammalian orthoreovirus (MRV) pose potential public health risks, but their prevalence and characteristics in treeshrews remain underexplored.
+This study reports the first isolation of a novel MRV from common treeshrews (Tupaia glis) in Malaysia and investigates its biological properties.
+Faecal and urine samples from common treeshrews were collected and processed through centrifugation and sterile filtration.
+The processed samples were inoculated into mammalian cell cultures for virus isolation using a novel virus isolation protocol.
+The isolated virus was sequenced and analysed phylogenetically.
+A novel MRV, designated MRV1UNM, was isolated and identified as MRV serotype 3 (MRV3) with a unique genomic profile.
+Syncytial formation was observed in Vero cells during early passages only.
+MRV1UNM infected a broad spectrum of cell lines, including some cancer cells, causing cell lysis within days without establishing persistent infections.
+Moreover, increased caspase 3/7 activity was also observed in the infected A549 cells.
+These findings provide evidence of the oncolytic potential of MRV1UNM.
+In conclusion, this study reports the first isolation of MRV from Malaysian treeshrews, highlighting their role as potential reservoirs for zoonotic viruses.
+The promising potential of MRV1UNM as a candidate for oncolytic virotherapy warrants further investigation into its therapeutic applications.

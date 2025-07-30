@@ -1,0 +1,6 @@
+Cancer is one of the deadliest diseases, continually prompting physicians and researchers to investigate safe and effective modalities for its treatment.
+Piezoelectric nanomaterial is a new class of material with enormous potential for the nanoscale and bidirectional conversion of mechanical strain into electric fields for cancer treatment.
+In response to ultrasound mechanical strain, a piezopotential and electric field is generated in the tumor microenvironment, which reduces the growth of cancer cells by catalyzing redox reactions and the synthesis of reactive oxygen species.
+In this review, we discuss the basic concepts and mechanisms of biopiezoelectric nanomaterials as anti-cancer agents.
+We provide a comprehensive summary of current state-of-the-art piezoelectric nanoparticles as anti-cancer therapies.
+Lastly, we identify current challenges that must be addressed for the proper clinical development of biopiezoelectric nanomaterial-based anti-cancer agents and provide future perspectives for the development of this technology.

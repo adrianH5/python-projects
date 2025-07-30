@@ -1,0 +1,10 @@
+Lung cancer remains the leading cause of cancer-related deaths worldwide.
+Despite the remarkable efficacy of immune checkpoint inhibitors, only a subset of lung adenocarcinoma (LUAD) patients respond and many eventually progress, underscoring the need to develop novel combination therapies.
+The interaction between cancer cells and the tumor microenvironment (TME), a complex niche including cells of the innate and adaptive immune system, cancer-associated fibroblasts (CAFs), vascular cells, and extracellular matrix (ECM) plays a vital role in tumorigenesis and cancer progression.
+Using fate mapping, we previously identified a novel subpopulation of resident vascular stem cells derived from vascular smooth muscle cells, designated AdvSca1-SM (vascular Adventitial location, Stem cell antigen-1 expression, SMooth muscle origin) cells.
+AdvSca1-SM cells are the predominant cell type responding to vessel wall dysfunction and their selective differentiation to myofibroblasts promotes vascular fibrosis.
+SMC-to-AdvSca1-SM cell reprogramming is dependent on SMC induction of the transcription factor KLF4, and KLF4 is essential for maintenance of the stem cell phenotype.
+The function of AdvSca1-SM cells in LUAD tumorigenesis has not been explored.
+Using an orthotopic immunocompetent mouse model of LUAD, we demonstrate that AdvSca1-SM cells are a major component of lung tumors, significantly contributing to cancer associated fibroblasts (CAFs).
+Compared to AdvSca1-SM cells, CAFs have altered ECM gene expression with a reduction of a stemness signature.
+AdvSca1-SM-specific genetic ablation of

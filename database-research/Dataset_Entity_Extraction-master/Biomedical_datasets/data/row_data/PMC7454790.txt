@@ -1,0 +1,9 @@
+In total, 15,721 SARS-CoV-2 genome assemblies available on 12 May, 2020 were downloaded from the GISAID (Shu and McCauley 2017) Initiative EpiCoV platform.
+A pdm09 sequences for strains collected between January 2009 and August 2010 that contained segments PB2, PB1, PA, HA, NP, NA, MP, and NS were obtained from GISAID (Shu and McCauley 2017) for four segments: RNA polymerase subunit (PB2), hemagglutinin (HA), nucleoprotein (NP), and neuraminidase (NA).
+Multiple sequence alignment of 1,610 full Ebola virus (EBOV) genomes sampled between March 17, 2014 and October 24, 2015 in West Africa was downloaded from EbolaID database (Carneiro and Pereira 2016).
+Phylogenetic tree of 11,204 SARS-CoV-2 isolates was downloaded from the COVID-19 Genomics UK Consortium website (https://www.cogconsortium.uk/, version of April 24, 2020).
+In order to remove spurious homoplasic sites, a particular worry of this data set because a mix of technologies and methods have been employed by different contributing research groups, these were filtered using a set of parameters and thresholds defined in (van Dorp et al. 2020) to obtain a set of high-confidence homoplasies.
+Vertebrate virus sequences were retrieved from the Virosaurus database (Virosaurus databases 2020_4.1, Release April 2020, file: Virosaurus90v 2020_4.1) (Gleizes et al. 2020) (accessed May 7, 2020).
+In this database, complete sequences were clustered at 90% to remove redundancy.
+As in this database, herpesviridae and poxviridae are split in genes rather than full genomes, complete sequences for these viruses were retrieved from NCBI RefSeq database (Pruitt et al. 2005).
+For virus sequences obtained from the Virosaurus database, the mean was derived to obtain one value per species.

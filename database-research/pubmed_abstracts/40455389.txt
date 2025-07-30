@@ -1,0 +1,9 @@
+Gastric cancer remains the fifth most common malignant cancer all around the world, in 2024, 2,001,140 new cancer cases and 611,720 cancer deaths are projected to occur in the United States.
+Surgery and chemotherapy are the ways for non-early gastric cancer.
+Thus, it is particularly important to identify new biomarkers.
+The Bcl-2 inhibitor of transcription 1 (Bit1) is a mitochondrial apoptotic effector molecule, and involved in the cancer development with EMT, such as ovarian, oral, and esophageal cancers.
+In the present study, Bit1 was detected firstly, then clinicopathological parameters of the patients and survival time related to Bit1 were also analyzed.
+The relationship between Bit1 and risk factors for gastric cancer was analyzed by bioinformatics.
+Subsequently, lentivirus transfection was used to knockdown Bit1, and the effects of Bit1 on the proliferation, migration, and apoptosis of gastric cancer cells were detected, the process of EMT was also further observed.
+Our study demonstrated the higher expression of Bit1 in patients with primary gastric cancer, while Bit1 knockdown reduced gastric cancer cell proliferation, promoted cell apoptosis and mitochondrial injury, and restricted the metastasis of cancer cells by inhibiting the EMT process.
+Our results showed that Bit1 promoted the progression of gastric cancer, which afforded a novel biomarker and intervention target for gastric cancer.

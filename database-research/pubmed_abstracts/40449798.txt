@@ -1,0 +1,10 @@
+The biology of metastatic breast cancer is poorly understood, and its understanding is hampered by limited access to metastatic tissue.
+Post-mortem tissue donation programs may represent a step forward to circumvent this problem, allowing access to large volumes of samples that would often be inaccessible otherwise.
+In this context, we have set up the UZ/KU Leuven Post-mortem Tissue Donation Program to Enhance Research (UPTIDER, NCT04531696).
+In this study, we performed detailed histopathological examination of 662 unique metastases collected during autopsy from the first 20 patients in our UPTIDER program.
+Tissue procurement was guided by a patient-specific tissue donation plan based on available clinical and imaging data.
+Central pathology review included revision of the primary tumor and biomarker assessment (ER, PR, HER2 and KI67).
+Linear mixed quantile regression was used to assess relevant associations.
+Metastases in bones, liver, pleura and non-axillary lymph nodes were present in up to 17 patients.
+Our major findings include: a) an important clinical underestimation of disease burden in patients with invasive lobular carcinoma; b) a relatively modest disease burden associated with leptomeningeal metastases; c) a higher than anticipated loss of predictive biomarkers in metastases from primary ER+ and/or PR+ tumors (up to 84% and 100% of the patients having at least one ER-negative or PR-negative lesion, respectively), d) a high variability in KI67% between metastases with frequent zonation pattern, and, e) a high frequency of metastases with HER2-low or -ultralow status.
+Despite the challenging set-up of UPTIDER, we demonstrate here that the data and observations that emerge from this program have high potential for clinical translatability.

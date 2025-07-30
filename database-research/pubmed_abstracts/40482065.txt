@@ -1,0 +1,10 @@
+Excessive accumulation of advanced glycation end products (AGEs) is implicated in the development of non-communicable diseases like diabetes, neurodegeneration, and cancer, among others.
+Inhibition of AGEs formation represents a promising therapeutic alternative for management of these diseases.
+This study explores 12 fungal endophytes from Piper auritum (Kunth) as sources of inhibitors of AGEs formation (in vitro).
+Extracts from Neopestalotiopsis and Diaporthe exhibited the strongest activity, reducing AGEs formation more than 60%.
+Chemical profiling of these extracts was performed by untargeted and phenolics-targeted approaches using ultra-high performance liquid chromatography coupled to mass spectrometry (UPLC-high resolution mass spectrometry [HRMS] and UPLC-MS/MS, respectively).
+A total of 41 and 36 compounds were identified in Diaporthe and Neopestalotiopsis extracts, respectively.
+Seven phenolic compounds were identified in the targeted approach and evaluated for their inhibitory effects on AGEs and fructosamine formation.
+Gentisic acid displayed the strongest inhibition on fluorescent AGEs formation, followed by sinapic acid, whereas secoisolariciresinol, detected in Neopestalotiopsis extracts, was the most effective inhibitor of fructosamine formation.
+Additionally, several coumarins, xanthones, and terpenoids are suggested as bioactive candidates due to their structural similarity to known anti-AGEs compounds.
+We conclude that Neopestalotiopsis and Diaporthe endophytes from P. auritum harbor promising and yet underexplored anti-AGEs compounds with potential biomedical relevance.

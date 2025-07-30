@@ -1,0 +1,7 @@
+Hepatitis C Virus (HCV) is a bloodborne virus that affects 57 million people globally with infections that can often go unnoticed, and it is the leading cause of chronic liver disease and cancer.
+Thus, development of an HCV vaccine is a major medical and public health concern.
+While prior work has developed secreted E1E2 (sE1E2) protein vaccine candidates, efforts to express it recombinantly in Chinese hamster ovary (CHO) cells have resulted in very low titers.
+To address this challenge, here we employed a multi-omics approach to identify protein interactors that enhance the secretion of sE1E2.
+By detecting Protein-Protein Interactions (PPIs) using Biotinylation by Antibody Recognition (BAR) and integrating the data with RNA-Seq, we identified proteins within the secretory pathway that interact with sE1E2 and validated their impact by overexpressing the interacting proteins.
+Among these, CUL4A and YWHAH enhanced sE1E2 secretion in glycoengineered CHO (geCHO) cells.
+The integration of omics techniques and genetic engineering in this study provides valuable insights into improving protein secretion in CHO cells, paving the way for the development of more affordable and accessible biotherapeutics.

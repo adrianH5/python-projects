@@ -1,0 +1,6 @@
+For diagnosis of coronavirus disease 2019 (COVID-19), a SARS-CoV-2 virus-specific reverse transcriptase polymerase chain reaction (RT–PCR) test is routinely used.
+However, this test can take up to 2 d to complete, serial testing may be required to rule out the possibility of false negative results and there is currently a shortage of RT–PCR test kits, underscoring the urgent need for alternative methods for rapid and accurate diagnosis of patients with COVID-19.
+In this study, we used artificial intelligence (AI) algorithms to integrate chest CT findings with clinical symptoms, exposure history and laboratory testing to rapidly diagnose patients who are positive for COVID-19.
+In a test set of 279 patients, the AI system achieved an area under the curve of 0.92 and had equal sensitivity as compared to a senior thoracic radiologist.
+The AI system also improved the detection of patients who were positive for COVID-19 via RT–PCR who presented with normal CT scans, correctly identifying 17 of 25 (68%) patients, whereas radiologists classified all of these patients as COVID-19 negative.
+When CT scans and associated clinical history are available, the proposed AI system can help to rapidly diagnose COVID-19 patients.

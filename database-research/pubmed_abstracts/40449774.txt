@@ -1,0 +1,7 @@
+Radiotherapy is the treatment of choice for nasopharyngeal cancer, but resistance to radiotherapy is the main obstacle.
+Previous studies have found that CD38 is involved in the occurrence and development of nasopharyngeal carcinoma and is closely related to the resistance of nasopharyngeal carcinoma cells to radiotherapy.
+In this study, targeted quantitative detection of energy metabolism and Co-IP combined with liquid chromatography-mass spectrometry suggested that CD38 may be closely related to ferroptosis.
+It was further found that CD38 inhibited the levels of ferroptosis-related indicators in nasopharyngeal carcinoma cells, and CD38 promoted radiotherapy resistance by inhibiting ferroptosis.
+Mechanistically, CD38, SLC7A11, and TRIM21 proteins interact with each other, and CD38 inhibits TRIM21-mediated ubiquitinated degradation of the SLC7A11 protein in its K48-linked form by competitively binding to the E3 ubiquitin ligase TRIM21.
+CD38 inhibits ferroptosis in nasopharyngeal carcinoma cells by stabilizing SLC7A11 proteins to activate the SLC7A11/GSH/GPX4 ferroptosis signaling axis, thereby promoting radiotherapy resistance.
+In summary, we demonstrated for the first time that CD38 stabilizes SLC7A11 proteins by competitively binding to TRIM21, and revealed a novel mechanism of the CD38/SLC7A11/GSH/GPX4 ferroptosis signaling axis in radiotherapy resistance in nasopharyngeal carcinoma cells, highlighting the potential of CD38 as a radiosensitizing target for nasopharyngeal carcinoma.

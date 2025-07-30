@@ -1,0 +1,13 @@
+Recent studies have promoted new insights into the biology of non-small cell lung cancer (NSCLC) and made considerable progress in the field of treatment, including targeted therapy for driver gene mutations.
+Immunotherapy (IO) is another breakthrough, which has achieved amazing clinical efficacy.
+However, the survival status of advanced NSCLC patients is still unsatisfactory.
+Drug resistance is an urgent problem to be solved in almost all anti-cancer treatment schemes.
+Nowadays, platinum based chemotherapy remains the standard treatment for patients with driver gene negative advanced NSCLC.
+Previous studies have shown that the reduction of intracellular accumulation of platinum drugs, DNA damage repair and the enhancement of detoxification effect all lead to platinum resistance.
+The mechanisms of tyrosine kinase inhibitors (TKIs) resistance include the emergence of secondary mutation, the activation of bypass signal pathways, the abnormality of downstream signal pathways and the transformation of phenotype.
+The mechanisms of immune checkpoint inhibitors (ICIs) resistance are more complex.
+A variety of cells, cytokines and metabolites participate in it to form an immunosuppressive microenvironment, resulting in the impairment of effector T cell function.
+Exosomes are small molecules secreted by a variety of cells.
+They can carry information such as miRNA, lncRNA, and protein, and play a pivotal role in signal transduction between cells.
+More and more studies show that exosomes are important transmitters in lung cancer cells, which can transfer drug resistance information from drug-resistant cells to sensitive cells.
+However, the underling specific mechanisms need to be further explored to find a new breakthrough for overcoming drug resistance of NSCLC.

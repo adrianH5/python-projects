@@ -1,0 +1,3 @@
+Accurate preoperative segmentation of key anatomical regions on the liver surface is essential for enabling intraoperative navigation and position monitoring.
+However, current automatic segmentation methods face challenges due to the liver's drastic shape variations and limited data availability.
+This study aims to develop a two-stream mesh convolutional network (TSMCN) that integrates both global geometric and local topological information to achieve accurate, automatic segmentation of key anatomical regions.

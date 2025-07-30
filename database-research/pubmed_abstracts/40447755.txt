@@ -1,0 +1,8 @@
+Poly(ADP-ribose) polymerase inhibitors (PARPi) have revolutionized the treatment of homologous recombination-deficient (HRD) tumors, yet their efficacy in homologous recombination-proficient (HRP) tumors is still limited.
+Here, we pinpoint lysyl oxidase-like 2 (LOXL2) as a key epigenetic regulator driving PARPi resistance.
+Our study demonstrate that elevated LOXL2 expression correlates with poor prognosis and disease recurrence in high-grade serous ovarian cancer (HGSOC) patients.
+Functional studies reveal that LOXL2 depletion or pharmacological inhibition synergizes with PARPi to suppress HRP models of both ovarian and breast cancer.
+Mechanistically, LOXL2 directly interacts with and transcriptionally activates BRD4, a core component of the super-enhancer complex, thereby amplifying the expression of DNA damage repair (DDR) genes such as MDC1, KAT5, and USP7.
+Strikingly, LOXL2 inhibition induces a "BRCAness" phenotype in HRP tumors, rendering them more susceptible to PARPi by impairing DDR capacity.
+Combining BET inhibitors with PARPi abrogates LOXL2-mediated resistance, underscoring BRD4 dependency in this process.
+Our findings establish LOXL2 as a druggable epigenetic target to overcome PARPi resistance in HRP models of multiple tumor types, presenting a therapeutic strategy independent of HR status and holding significant clinical potential for expanding PARPi benefits to a broader patient population.

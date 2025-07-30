@@ -1,0 +1,5 @@
+Whole-cell cancer vaccines can trigger broader-spectrum antitumoral immune responses.
+However, a lack of immunogenicity and unclear interactions with antigen-presenting cells (APCs) hinder their translation into effective personalized immunotherapies.
+Herein, tumor cells are engineered via layer-by-layer bimineralization integrating sequential silicification and manganese mineralization, which reprograms the APC recognition with high immunogenicity.
+These bacteria-mimicking cells with enhanced mechanical stiffness protect against antigen degradation and facilitate phagocytosis by APCs.
+The secondary Mn mineralization creates spiky-like MnO

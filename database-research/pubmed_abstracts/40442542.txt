@@ -1,0 +1,16 @@
+Bladder cancer is a common malignancy in the genitourinary system with its incidence rate among the world's highest.
+Neuralized E3 ubiquitin protein ligase 1 (NEURL1) belongs to the RING E3 ubiquitin ligase family, and its role in bladder cancer has not been reported yet.
+We aimed to explore the expression and roles of NEURL1 in bladder cancer.
+The NEURL1 expression was determined in clinical samples of bladder cancer.
+We stably overexpressed NEURL1 and NEURL1 with the RING domain deletion in human bladder cancer cell lines 5637 and RT-112 to investigate its functions.
+NEURL1 was confirmed to be significantly down-regulated in clinical bladder tumor specimens.
+NEURL1 overexpression significantly inhibited the growth, colony formation, and Ki-67 protein expression in both bladder cancer cells.
+The overexpression of NEURL1 also increased the apoptosis rate and cleaved caspase-3 protein expression in 5637 and RT-112 cells.
+As expected, the RING-deleted NEURL1 had no such effect.
+Moreover, NEURL1 overexpression facilitated the apoptosis of 5637/RT-112 cells under cisplatin conditions.
+NEURL1 promotes ubiquitination and proteasomal degradation of PDE9A.
+PDE9A protein expression was notably increased in bladder tumors from clinical specimens.
+Overexpressed NEURL1 inhibited PDE9A protein expression in both cell lines, whereas NEURL1 with the RING domain deletion did not.
+The addition of proteasome inhibitors MG-132 reversed the decrease in PDE9A expression by NEURL1 overexpression.
+Cell viability was inhibited and apoptosis was increased in the 5637 and RT-112 cells with stable knockdown of PDE9A.
+NEURL1 may be involved in the bladder cancer progression by increasing apoptosis, thereby leading to tumor cell growth inhibition.

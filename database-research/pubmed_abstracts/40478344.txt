@@ -1,0 +1,11 @@
+Gadolinium-based contrast agents (GBCAs) have been indispensable in intracranial tumour imaging, particularly for detecting and characterising malignant lesions, as well as assessing treatment response and disease progression.
+However, growing concerns about gadolinium deposition in the central nervous system and its environmental impact have prompted a re-evaluation of its use, particularly in the management of benign or stable lesions.
+This review examines the role of GBCAs in imaging the most common types of intracranial tumours, including gliomas, meningiomas, pituitary adenomas, cranial nerve tumours, and metastases.
+Recent advancements in high-field MRI scanners and the increasing adoption of 3D T2-weighted sequences, which provide excellent soft-tissue contrast, offer significant opportunities to minimise or eliminate GBCA use.
+Moreover, advanced MRI methods, such as arterial spin labelling for perfusion imaging and the obtention of synthetic images, have emerged as non-invasive alternatives that further enable contrast-free imaging.
+Finally, the development of ultra-high-relaxivity contrast agents offers the potential to reduce doses when GBCAs are required.
+While GBCAs remain essential for imaging certain high-grade gliomas and complex tumour cases, alternative imaging techniques can often replace them in many benign or stable lesions, ensuring diagnostic accuracy and prioritising patient safety.
+This review highlights strategies to optimise GBCA use, focusing on reducing reliance on GBCAs across different intracranial tumour types.
+KEY POINTS: Question Current neuro-oncological imaging protocols require refinement to reduce unnecessary gadolinium exposure, mitigate tissue deposition and environmental impact, and maintain diagnostic accuracy.
+Findings Findings reveal that alternative imaging techniques, including high-field MRI and non-contrast protocols, can reduce GBCAs usage in benign and stable brain tumours.
+Clinical relevance Minimising gadolinium exposure by reducing or avoiding GBCAs in intracranial tumour imaging effectively mitigates CNS gadolinium retention, lowers environmental impact and toxicity risks, while preserving diagnostic accuracy, enhancing patient safety, and optimising clinical workflows, especially for benign or stable tumours.

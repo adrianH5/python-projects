@@ -1,0 +1,13 @@
+The CLEAR SYNERGY trial failed to demonstrate any benefit of colchicine in patients with acute myocardial infarction (MI).
+In this meta-analysis of the randomized clinical trials (RCTs) of colchicine in coronary artery disease (CAD), we updated the estimates of effect on cardiovascular events in patients with CAD.
+We searched for the largest RCTs of colchicine in CAD patients.
+The effect was assessed in a pooled analysis of individual events such as MI, urgent coronary revascularization (UR), stroke, cardiovascular mortality, and total mortality, for each of these endpoints using hazard ratios (HR) and their 95 % confidence intervals (CI), estimated by the Cox model.
+Fixed-effects or random-effects models were used.
+A similar approach was used for the composite of MI, UR, and cardiovascular mortality (MACE 1) and stroke, MI, total mortality (MACE 2).
+Safety was also assessed.
+Five studies were selected with a total of 18,656 patients.
+Colchicine reduced the risk of MI by 21 %, HR 0.79 (95 % CI: 0.68 - 0.92).Its effect was neutral on total and cardiovascular mortality.
+The composite endpoints MACE 1 and MACE 2 were reduced by colchicine, HR 0.81 (95 % CI: 0.68 - 0.98), and HR 0.88 (95 % CI: 0.79 - 0.98), respectively.
+There were no differences in non-cardiovascular mortality, cancer, and serious gastrointestinal and infectious events.
+The benefit of colchicine appears attenuated compared to past analyses, but is still valuable in reducing the risk of MI and the composite of MI, UR, and cardiovascular death.
+The safety appears reassuring in relation to all serious adverse reactions.

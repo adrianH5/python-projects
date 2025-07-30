@@ -1,0 +1,4 @@
+Pangolins have been identified, besides bats, as a possible source of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the cause of coronavirus disease 2019 (COVID-19) (10–14).
+In silico translation of the pangolin IFIH1 pseudogene (GenBank gene ID: 108398082) and alignment of the resulting amino acid sequence to that of human IFIH1 showed numerous disruptive mutations (Figure S1A).
+In silico translation of the pangolin ZBP1 pseudogene (GenBank gene ID: 108390931) and alignment of the resulting amino acid sequence to that of human ZBP1 showed premature termination of the translation product and lack of the carboxy-terminal half of the protein (Figure S1B).
+All datasets presented in this study are included in the article/Supplementary Material.

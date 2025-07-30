@@ -1,0 +1,46 @@
+Subgroups of patients with COVID-19 have been identified who appear to be at increased risk of morbidity and mortality, including patients of older age, male sex (vs female), and those with comorbidities, such as hypertension, chronic lung disease, diabetes, and cancer.
+Since COVID-19 began to spread across the globe in early 2020, patients with cancer were identified as a particularly susceptible subgroup of the population.
+Therefore, labelling all patients with cancer as susceptible to COVID-19 is probably neither reasonable nor informative.
+As a consequence of generic advice given to people who are clinically susceptible to COVID-19, patients with cancer (of any age, sex, tumour subtype, and stage) have been labelled as at high risk from COVID-19, which has led to sweeping changes in management for all cancer types during the past few months, including shortening of radiotherapy, switching from intravenous to oral chemotherapy regimens, and modifications in immunotherapy use.5, 6, 7, 8 These changes were instigated with little evidence to support them, perhaps reasonably in an acute pandemic situation.
+From the UK Coronavirus Cancer Monitoring Project (UKCCMP), we report the first analysis, to our knowledge, of the complex interaction between patient demographics and tumour subtype, to more accurately estimate the risk of SARS-CoV-2 infection and COVID-19 in patients with cancer.
+We aimed to describe the clinical outcomes of COVID-19 in patients with cancer entered into the UKCCMP registry and compare primary cancer subtype prevalence and case fatality with UK Office for National Statistics cancer incidence data.
+The UKCCMP database of UK patients with COVID-19 who have cancer was designed as a public health surveillance registry for the COVID-19 pandemic and a prospective, observational cohort study.
+The database was set up to support rapid clinical decision making, in accordance with the UK Policy Framework for Health and Social Care Research, the UK National Research Ethics Service, and the UK Governance Arrangement for Research Ethics Committees.
+Management of patients with cancer with COVID-19 was directed by the patient's clinician team without input from the UKCCMP and was based on local policies and standard UK clinical practice at the time of this study.
+Decisions about intensive care unit admission and ventilation were guided by the UK National Health Service National Institute of Health and Care Excellence COVID-19 rapid guidelines.
+Case reporting of patient tumour stage and demographics was lead by a COVID-19 emergency response reporting individual (ERRI), using data from clinical records or from direct assessment.
+Tumour subtype and demographic analyses used the latest release of the Cancer Registration Statistics, England, 2017, which is the most recent cancer registration database in England and involves registrations of patients from Jan 1 to Dec 31, 2017.
+1044 patients with active cancer and documented SARS-CoV-2 infection or COVID-19 disease were registered in the UKCCMP database from March 18, 2020, with outcomes censored on May 8, 2020.
+Patients were followed up from the point of COVID-19 diagnosis to either discharge from hospital or death.
+We compared the demographics and cancer subtype of patients with cancer with COVID-19 from the UKCCMP registry with those from the population of patients represented in the ONS cancer census, which was used as a control group.
+We found that patients with cancer with COVID-19 were significantly more likely to be men (595 [56·9%] of 1044 UKCCMP patients vs 145 034 [51·3%] of 282 878 ONS patients; OR 1·26, 95% CI 1·12–1·43; p=0·0002) compared with the ONS control population, but the age distribution of patients with cancer who contracted COVID-19 did not differ between the two groups (appendix p 2).
+Patients with haematological malignancies appeared to be at significantly increased risk of COVID-19 infection, including those with leukaemia (OR 2·82, 95% CI 2·21–3·55; p<0·0001), myeloma (2·03, 1·42–2·83; p=0·0001), and lymphoma (1·63, 1·28–2·06; p<0·0001; table 1).
+By contrast, patients with lung cancer and prostate cancer were relatively under-represented in the UKCCMP population compared with the control ONS population (table 1).
+319 (30·6%) of 1044 patients in the UKCCMP cohort died, 295 (92·5%) of whom had a cause of death recorded as due to COVID-19.
+The all-cause case–fatality rate in patients with cancer after COVID-19 infection was significantly associated with increasing age (figure 1
+; appendix pp 2–3).
+Additionally, the all-cause case–fatality rate in patients with cancer once they had contracted COVID-19 was significantly associated with sex (212 [35·6%] of 595 male patients vs 105 [23·6%] of 445 female patients; OR 1·92, 95% CI 1·51–2·45; p<0·0001).
+On univariable analysis, we observed a significantly higher risk of death from COVID-19 in patients with prostate cancer (OR 2·14, 95% CI 1·17–3·96; p=0·014) and leukaemia (2·03, 1·04–3·97; p=0·038), and a significantly lower risk of death from COVID-19 for patients with breast cancer (0·53, 0·28–1·00; p=0·049) and female genital cancers (0·36, 0·13–0·87; p=0·031; table 2
+; figure 2
+; appendix p 3).
+In multivariable analyses, we found no increased case–fatality rate due to COVID-19 in patients with lung cancer compared with the rest of the UKCCMP population (table 2).
+We undertook a specific detailed analysis of 227 patients with haematological malignancies who were diagnosed with COVID-19.
+108 (47·6%) of 227 patients with haematological malignancies had received recent chemotherapy within 4 weeks of COVID-19 presentation, compared with 241 (29·5%) of 817 patients with non-haematological malignancies (appendix p 5).
+However, after correction for age and sex, patients with haematological malignancies who had recent chemotherapy had an increased risk of death during COVID-19-associated hospital admission (OR 2·09, 95% CI 1·09–4·08; p=0·028).
+Patients with haematological malignancies were at a greater risk of having a more severe COVID-19 clinical phenotype, to require more intensive supportive interventions, and to suffer an increased risk of death compared with patients with non-haematological malignancies.
+In multivariable analyses, patients with leukaemia had a significantly higher risk of COVID-19-related death, after taking into account age and sex.
+15, 16 However, this finding contrasts with the results of an American cohort study, which did not suggest increased mortality from COVID-19 in patients with haematological malignancies.
+Large COVID-19 cancer cohorts of predominantly solid organ tumours have shown no significant excess mortality risk from recent chemotherapy.
+Additionally, once COVID-19 was established in patients with lung cancer, we did not observe an increased case–fatality rate compared with the remaining population with cancer and COVID-19 in the UKCCMP cohort, suggesting that patients with lung cancer are not a specifically susceptible group.
+First, there are methodological differences in our study; we compared patients with lung cancer and COVID-19 to patients with cancer without COVID-19, rather than to people who did not have cancer.
+Third, lung cancer is the most common cancer in China, and hence would be over-represented in Chinese patients with COVID-19 and cancer.
+Additionally, we observed a low admission rate of patients with cancer to the intensive care unit, which could affect COVID-19 outcomes in patients with cancer in the UK.
+Background  Patients with cancer are purported to have poor COVID-19 outcomes.
+The aim of this study was to investigate COVID-19 risk according to tumour subtype and patient demographics in patients with cancer in the UK.
+We compared adult patients with cancer enrolled in the UK Coronavirus Cancer Monitoring Project (UKCCMP) cohort between March 18 and May 8, 2020, with a parallel non-COVID-19 UK cancer control population from the UK Office for National Statistics (2017 data).
+We analysed the effect of tumour subtype and patient demographics (age and sex) on prevalence and mortality from COVID-19 using univariable and multivariable models.
+Findings  319 (30·6%) of 1044 patients in the UKCCMP cohort died, 295 (92·5%) of whom had a cause of death recorded as due to COVID-19.
+Patients with haematological malignancies (leukaemia, lymphoma, and myeloma) had a more severe COVID-19 trajectory compared with patients with solid organ tumours (odds ratio [OR] 1·57, 95% CI 1·15–2·15; p<0·0043).
+After correction for age and sex, patients with haematological malignancies who had recent chemotherapy had an increased risk of death during COVID-19-associated hospital admission (OR 2·09, 95% CI 1·09–4·08; p=0·028).
+Interpretation  Patients with cancer with different tumour types have differing susceptibility to SARS-CoV-2 infection and COVID-19 phenotypes.
+Our results could be useful to assist physicians in informed risk–benefit discussions to explain COVID-19 risk and enable an evidenced-based approach to national social isolation policies.

@@ -1,0 +1,14 @@
+Single nucleotide polymorphisms (SNPs) in DNA repair genes can impair protein structure and function, contributing to disease development, including cancer.
+Non-synonymous SNPs (nsSNPs) in the LIG3 gene are linked to genomic instability and increased cancer risk, particularly acute myeloid leukemia (AML).
+This study aims to identify the most deleterious nsSNPs in the LIG3 and potential therapeutic targets for DNA repair restoration in AML.
+We employed different computational approaches to analyze LIG3 nsSNPs and pathogenicity.
+Subsequently, molecular docking, molecular dynamics simulation (MDS), gene expression and clinical validation of LIG3 were performed to evaluate ligand-binding affinities, protein stability and to identify discriminatory gene signatures.
+Out of the 12,191 mapped SNPs, 132 were nsSNPs located in the coding region.
+Among these, 18 nsSNPs were identified as detrimental including 12 destabilizing and 6 stabilizing nsSNPs.
+Nine cancer-associated nsSNPs, including L381R and R528C, were predicted due to their structural and functional impacts.
+Further analysis revealed key phosphorylation and methylation sites, such as 529S and 224R.
+MDS highlighted stable interactions of compounds AHP-MPC and DM-BFC with wild-type and R528C mutant LIG3 proteins, while R671G and V781M mutants showed instability.
+Protein-protein interaction networks and functional enrichment linked LIG3 to DNA repair pathways.
+Kaplan-Meier analysis associated high LIG3 expression with improved survival in breast cancer and AML, suggesting its role as a prognostic biomarker.
+This study emphasizes the mutation-specific effects of LIG3 nsSNPs on protein stability and ligand interactions.
+We recommend identifying DM-BFC to advance personalized medicine approaches for targeting deleterious variants, following in-vitro and in-vivo validation for AML treatment.

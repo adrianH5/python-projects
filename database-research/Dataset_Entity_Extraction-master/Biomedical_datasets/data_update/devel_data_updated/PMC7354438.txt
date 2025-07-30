@@ -1,0 +1,17 @@
+Both the WHO and European Centre for Disease Prevention and Control (ECDC) have recommended the evaluation of convalescent plasma for the prevention and treatment of the COVID-19 disease in controlled trials (WHO/HEO/R&D Blueprint (nCoV)/2020.1) [11].
+Indeed, several trials have shown that convalescent plasma reduced the viral load and was safe for the treatment of patients with COVID-19 [12,13].
+We have recently reviewed and summarized the information on dozens of safe-in-man BSAAs in the freely accessible database (https://drugvirus.info/) [17,18,19].
+Additionally, clinical investigations have started recently into the effectiveness of BSAAs such as lopinavir, ritonavir, remdesivir, hydroxychloroquine and arbidol against COVID-19 (NCT04252664, NCT0425487, NCT04255017, NCT04261517 and NCT04260594).
+We reviewed the current landscape of the available diagnostic tools, as well as the emerging treatment and prophylactic options for the SARS-CoV-2 pandemic and have summarized the information in a database that can be freely accessed at https://sars-coronavirus-2.info.
+The information in the database was obtained from PubMed, clinicaltrials.gov, DrugBank, DrugCentral, the Chinese Clinical Trials Register (ChiCTR) and EU Clinical Trials Register databases [28,29,30], as well as other public sources.
+The COVID-19 statistics are automatically exported from the COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (https://github.com/CSSEGISandData/COVID-19).
+We isolated seven SARS-CoV-2 strains from 22 NPS samples of COVID-19 patients using Vero-E6 cells.
+We evaluated the neutralization capacity of seven serum samples obtained from patients recovered from COVID-19.
+Five samples from patients recovered from COVID-19 had serum sensitivity scores (SSS) > 5 and rescued >50% cells from virus-mediated death at 1 mg/mL (Figure 2a,b).
+Altogether, these results suggest that patients diagnosed with COVID-19 produce different immune responses to the SARS-CoV-2 infection and that the neutralization capacity of convalescent sera declines with time.
+Through the literature review, we made a database to summarize safe-in-man BSAAs (https://drugvirus.info/).
+Our results suggest that COVID-19 patients respond differently to the SARS-CoV-2 infection.
+Thus, the neutralization test allowed us to identify the most potent sera from patients recovered from COVID-19 for the treatment of SARS-CoV-2-infected patients.
+However, the recent safety study on 5000 hospitalized patients transfused under the U.S. Food and Drug Administration’s national Expand Access Program for COVID-19 revealed no toxicity (https://doi.org/10.1101/2020.05.12.20099879).
+Therefore, drug repositioning for COVID-19 provides unique translational opportunities, including a substantially higher probability of success to the market as compared with developing new virus-specific drugs and vaccines, as well as significantly reduced costs and timelines to clinical availability [26,46,47].
+Finally, we developed a website to disseminate the knowledge on available and emerging treatments of COVID-19.

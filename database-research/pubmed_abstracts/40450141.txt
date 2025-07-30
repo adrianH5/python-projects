@@ -1,0 +1,13 @@
+Bacillus Calmette-Guérin (BCG) induction and maintenance (I+M) after transurethral resection of bladder tumor is standard of care (SOC) in high-risk non-muscle invasive bladder cancer (NMIBC).
+However, disease recurrence/progression occurs in approximately 40% of patients at 2 years, with unfavorable prognosis.
+Limited bladder-sparing therapeutic options exist, and no improvements to response durability have been observed in decades.
+CREST is a global, phase 3, randomized trial evaluating subcutaneous sasanlimab in combination with BCG-I+M (Arm A), sasanlimab in combination with BCG-I (Arm B) or BCG-I+M (Arm C) in BCG-naive high-risk NMIBC.
+The primary endpoint was investigator-assessed event-free survival (EFS) for Arm A versus Arm C; key secondary endpoints were EFS (Arm B versus Arm C) and overall survival.
+Patients were randomized 1:1:1 to Arm A (N = 352), Arm B (N = 352) and Arm C (N = 351).
+The trial met its primary endpoint with a statistically significant and clinically meaningful prolongation of EFS (Arm A versus Arm C); hazard ratio, 0.68 (95% confidence interval: 0.49-0.94); one-sided P = 0.0095.
+The 36-month estimated EFS rates were 82.1% (Arm A) and 74.8% (Arm C).
+EFS benefit for Arm A versus Arm C was observed across prespecified subgroups, including carcinoma in situ (CIS) and T1.
+The safety profile of the combination was consistent with the known profiles.
+To our knowledge, sasanlimab is the first anti-PD-1 antibody to show a clinically meaningful prolongation of EFS when combined with BCG-I+M versus SOC in patients with BCG-naive high-risk NMIBC.
+Sasanlimab combined with BCG-I+M has the potential to redefine the treatment paradigm and clinical decision-making for patients with BCG-naive high-risk NMIBC.
+ClinicalTrials.gov identifier: NCT04165317 .

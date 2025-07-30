@@ -1,0 +1,6 @@
+The bone marrow (BM) niche is a highly specialized and dynamic microenvironment that tightly regulates hematopoiesis in both health and disease.
+In this chapter, we present a protocol for generating patient-specific 3D BM-mimicking assembloids, which offer precise control over cellular composition and genetic background.
+This in vitro platform enables the dissection of mechanisms underlying hematopoietic regulation and BM niche remodeling.
+We describe, in detail, the stepwise differentiation of induced pluripotent stem cells (iPSCs) into hematopoietic and endothelial lineages, the isolation of human primary mesenchymal stromal cells (MSCs) from femoral heads, and the assembly of BM-mimicking 3D assembloids.
+Single-cell RNA sequencing of these assembloids identified key myeloid populations and non-hematopoietic lineages such as endothelial cells and various MSC clusters, all crucial for stem cell fate determination and niche maintenance.
+Furthermore, assembloids harboring the JAK2

@@ -1,0 +1,12 @@
+Diffuse large B-cell lymphoma (DLBCL) is a tumor with significant clinical and genetic heterogeneity.
+DLBCL with bulky mass (≥ 7.5 cm) exhibits a negative prognostic impact.
+Due to the low incidence and the lack of relevant studies, the drivers and characteristic genetic mutations of DLBCL with abdominal bulky mass (DLBCL-AB) remain unclear.
+To explore individualized treatment strategies by analyzing genomic mutation profile and characteristic biological alterations in DLBCL-AB may help to optimize patients' prognosis.
+Next-generation sequencing of tumor tissues from 39 patients (29 with DLBCL-AB and 10 with common DLBCL) was performed to screen mutation profiles.
+Three platforms, gas chromatography-mass spectrometry (GC-MS), high-resolution liquid chromatography-mass spectrometry (LC-MS polar), and high-resolution liquid chromatography-mass spectrometry (LC-MS lipid), were used to analyze the metabolic differences in the plasma samples and screen the profiles of altered metabolic substances.
+Bioinformatic analysis was used to explore the correlation between key genes and characteristic metabolic changes.
+CD58, TP53, CCND3 and CXCR4 were potential driver genes of DLBCL-AB.
+ETV6 and KDM5A mutations were independent risk factors for DLBCL-AB prognosis.
+In addition, DLBCL-AB had unique features in the pathways of ketone body synthesis and degradation, galactose metabolism, linoleic acid metabolism, aminoacyl-tRNA biosynthesis, and exotic amino acid biosynthesis.
+The results of bioinformatic analysis indicated that ETV6 may be the pivotal gene involved in regulating DLBCL-AB galactose metabolism and linoleic acid metabolism and affecting patient prognosis.
+This study comprehensively described the changes in the genetic features and metabolic characteristics of DLBCL-AB, thereby providing a theoretical basis for the precision treatment of patients with this high-risk lymphoma.

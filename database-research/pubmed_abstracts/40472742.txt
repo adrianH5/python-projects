@@ -1,0 +1,10 @@
+Head and Neck Squamous Cell Carcinoma (HNSCC) imposes a significant health burden, necessitating innovative therapeutic strategies to enhance treatment efficacy.
+Current treatments, such as surgery, radiation, and chemotherapy, have limited effectiveness and yield severe side effects, emphasizing the need for targeted therapies.
+We have focused on DNA polymerase beta (Polβ) and its roles in replication stress, cellular responses to DNA damaging-therapies, and DNA damage response modifiers.
+Our investigations reveal a regulatory role for base excision repair (BER) proteins, including Polβ, in the cellular response to inhibitors of poly(ADP-ribose) glycohydrolase (PARG), an enzyme involved in poly(ADP-ribose) (PAR) degradation.
+The inhibition of PARG, in HNSCC cells, elicits replication stress and activates the PAR-induced S-phase/ATR checkpoint, leading to a block to replication, cell cycle arrest, and the onset of apoptosis.
+However, Polβ overexpression mitigates this response, reducing replication-stress-induced PAR foci formation, suggesting a modulation of replication checkpoint activation.
+We found that PARG inhibitor treatment is ineffective on HNSCC cells that overexpress Polβ, implying that the PARG inhibitor-induced PAR and apoptotic response is dependent on the level of Polβ.
+Further, our in vitro experiments demonstrate that combining PARG and ATR/CHK1 inhibitors overcomes Polβ-mediated treatment resistance in HNSCC cells, producing synergistic effects compared to the individual treatment conditions.
+Our findings suggest a possible treatment paradigm for HNSCC, employing ATR or CHK1 inhibitors in combination with PARG inhibitors.
+This strategy offers a promising path for more effective HNSCC treatments, potentially overcoming Polβ-related resistance.

@@ -1,0 +1,3 @@
+Poly(ADP-ribose) polymerase (PARP) inhibitors have been approved and marketed for the treatment of BRCA-mutated breast and ovarian cancers.
+Recent studies have demonstrated that cyclin-dependent kinase 4/6 (CDK4/6) inhibitors can induce defects in homologous recombination (HR) repair, thereby sensitizing breast cancer cells with HR proficiency to PARP inhibitors through a synthetic lethal mechanism.
+Here, we report the rational design and synthesis of a potent dual PARP/CDK6 inhibitor

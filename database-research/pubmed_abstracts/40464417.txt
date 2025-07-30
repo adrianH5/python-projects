@@ -1,0 +1,13 @@
+Patients with malignant gliomas with methylated MGMT promoters are generally more sensitive to alkylating chemotherapy, as this modification impedes DNA repair.
+However, inconsistencies in the predictive accuracy of MGMT promoter methylation have been observed.
+We hypothesize that these variations may be partially explained by a counteracting influence of MGMT gene body methylation.
+Data from The Cancer Genome Atlas (TCGA) were analyzed to assess correlations between MGMT promoter and body methylation with transcript production across cancer types and within glioma subcohorts.
+Thirty-six human glioma cell lines underwent molecular profiling via Illumina 850k Methylation Arrays and RNA sequencing.
+A subset was further tested for MGMT protein levels and carmustine response.
+Correlations and linear regression analyses were conducted to investigate association of carmustine sensitivity with different levels of MGMT expression.
+MGMT mRNA expression was positively correlated with body methylation and negatively correlated with promoter methylation across cancers from TCGA.
+Body and promoter methylation were anticorrelated in the non-glioma cohort and IDH1/2 wild type glioma subcohort but not correlated in the IDH1/2 mutated subcohort.
+Most glioma cell lines did not express MGMT mRNA.
+In the cell lines tested for carmustine response, sensitivity was negatively correlated with body methylation and mRNA expression and positively correlated with promoter methylation.
+Our findings further expound the relationship between MGMT methylation patterns and alkylating agent response, with body methylation playing a significant role.
+The identified role of gene body methylation underscores the need to integrate the interplay between promoter and body methylation in clinical testing and predicting treatment outcomes.

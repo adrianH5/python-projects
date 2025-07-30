@@ -1,0 +1,10 @@
+Immunoglobulin G (IgG) subclasses glycosylation reflects the progression of colorectal cancer (CRC).
+Precise identification of IgG subclass-specific glycopeptides is a critical step.
+However, it is still hard to achieve a one-step mass spectrometry (MS) since all four subclasses of IgG (IgG1- IgG4) contain several possible N-glycans in the Fc regions with a highly similar amino acid sequence.
+In this study, we set up a label-free workflow to quantify IgG subclass site-specific N-glycopeptides in a single run MS based on the poly (glycerol methacrylate) @ chitosan (PGMA@CS) nanomaterial enrichment.
+The nanomaterial was used to purify glycopeptides effectively and the LC-SCE-HCD-MS/MS was used to obtain the peptide and glycan fragment in one single run MS.
+Through our workflow, all four subtypes of IgG glycopeptides were distinguished.
+For the first time, a total of 89 biantennary IgG subclass-specific N-glycopeptides were detected for quantification in 50 CRC patients and 66 healthy individuals.
+We have found that the decrease in galactosylation, fucosylation of sialylated glycans, sialylation of IgG2-Fc was associated with colorectal cancer.
+The results demonstrated that the glycopeptides of IgG-Fc are associated with CRC and potential to serve as noninvasive biomarkers.
+And it implies that the workflow can also accommodate the precise high-throughput identification of intact N-glycopeptides at the proteome scale.

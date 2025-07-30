@@ -1,0 +1,11 @@
+T1	Repository 201 208	GenBank
+T2	AccessionNumber 223 231	MN908947
+T3	Repository 602 647	Virus Pathogen Database and Analysis Resource
+T4	Repository 754 758	EMBL
+T5	AccessionNumber 773 783	ERS4366776
+T6	Repository 861 865	NCBI
+T7	Repository 896 903	GenBank
+T8	Repository 952 959	GenBank
+T9	Repository 1039 1046	GenBank
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T4	Arg2:T5

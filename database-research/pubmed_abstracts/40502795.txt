@@ -1,0 +1,7 @@
+Foundation models are increasingly used in medical imaging, yet their ability to extract reliable quantitative radiographic phenotypes of cancer across diverse clinical contexts lacks systematic evaluation.
+Here, we introduce TumorImagingBench, a curated benchmark comprising six public datasets (3,244 scans) with varied oncological endpoints.
+We evaluate ten medical imaging foundation models, representing diverse architectures and pre-training strategies developed between 2020 and 2025, assessing their performance in deriving deep learning-based radiographic phenotypes.
+Our analysis extends beyond endpoint prediction performance and compares robustness to common sources of variability and saliency-based interpretability.
+We additionally compare the mutual similarity of learned embedding representations across each of the models.
+This comparative benchmarking reveals performance disparities among models and provides critical insights to guide the selection of optimal foundation models for specific quantitative imaging tasks.
+We publicly release all code, curated datasets, and benchmark results to foster reproducible research and future developments in quantitative cancer imaging.

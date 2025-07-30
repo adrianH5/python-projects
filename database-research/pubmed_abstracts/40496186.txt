@@ -1,0 +1,4 @@
+RET solvent-front G810C/R/S mutations confer resistance to the currently approved RET protein tyrosine kinase inhibitors (TKIs) selpercatinib and pralsetinib.
+Moreover, RET fusion-positive lung adenocarcinoma frequently metastasizes to the brain.
+To address these challenges, it is imperative to develop a RET TKI that is effective against solvent-front mutations and exhibits intracranial activity.
+We synthesized alkynyl nicotinamide-based RET TKIs and tested their efficacy in cell cultures in inhibiting selpercatinib/pralsetinib-resistant RET solvent-front mutants G810C/R/S found in cancer patients, and in BaF3/KIF5B-RET(G810C) cell-derived subcutaneous and intracranial tumors

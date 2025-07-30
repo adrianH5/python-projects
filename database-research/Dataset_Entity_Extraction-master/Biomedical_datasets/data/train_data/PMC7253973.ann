@@ -1,0 +1,4 @@
+T1	Creator 792 801	Lu et al.
+T2	Dataset 1098 1153	GISAID (Global Initiative on Sharing All Influenza Data
+T3	URL 1155 1177	https://www.gisaid.org
+R1	hasAttr	Arg1:T2	Arg2:T3

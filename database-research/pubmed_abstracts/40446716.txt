@@ -1,0 +1,8 @@
+Carotenoids represent a large group of chemical substances, and certain ones have demonstrated the ability to alter human metabolic pathways.
+Lycopene is an example of a carotenoid used for cancer prevention and therapy.
+Nonetheless, the precise impact of carotenoids on brain cancer cell metabolism and the functioning of individual organelles is still unclear.
+In this study, we suggested using Raman spectroscopy and imaging to analyse carotenoid metabolism at the single-cell level.
+This paper aimed to explore three representative carotenoid compounds to better understand their overall effects and their influence on brain cancer cells.
+Hence, utilizing Raman techniques, we analysed astrocytoma cells (CRL-1718 cell line) both without supplementation and supplemented with crocin, fucoxanthin, and lutein.
+Our Raman study suggests that the metabolism of cancer cells undergoes modifications upon carotenoid implementation.
+We showed that carotenoids affect lipids content (based on the intensity of the band at 1444 cm

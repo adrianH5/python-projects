@@ -1,0 +1,7 @@
+T1	Repository 414 421	GenBank
+T2	AccessionNumber 423 433	MN975262.1
+T3	AccessionNumber 485 495	AAP13441.1
+T4	AccessionNumber 547 555	AY597011
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T1	Arg2:T3
+R3	hasAttr	Arg1:T1	Arg2:T4

@@ -1,0 +1,12 @@
+{
+    "time": 1,
+    "MAX_LEN": 56,
+    "optimizer": "AdamW",
+    "bs": 4,
+    "learning_rate": 1e-05,
+    "eps": 1e-08,
+    "epochs": 40,
+    "max_grad_norm": 1.0,
+    "warmup_steps": 0,
+    "model_name": "microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext"
+}

@@ -1,0 +1,4 @@
+Photodynamic therapy (PDT) holds great promise for treating pancreatic ductal adenocarcinoma (PDAC), one of the most lethal cancers, but its clinical application is hindered by limited generation and accumulation of reactive oxygen species (ROS) due to tumor hypoxia and the organism's antioxidant defense mechanisms.
+To address this challenge, a smart DNA nanoframework capable of controlled co-delivery of Cas9 ribonucleoprotein (RNP), hemin, and chlorin e6 (Ce6) to enable synergistic PDT for PDAC is developed.
+This nanoframework employs a hybridization chain reaction and phase transition to achieve high payload loading capacity while overcoming steric hindrance.
+The G-quadruplex/hemin complex mimics horseradish peroxidase activity to convert endogenous H

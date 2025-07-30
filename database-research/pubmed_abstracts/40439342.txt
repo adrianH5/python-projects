@@ -1,0 +1,12 @@
+Reactive oxygen species (ROS) produced during cellular metabolism impacts normal cell functions, including signaling, hormone regulation, growth factors, ion transport, and apoptosis.
+Cells regulate ROS levels by using antioxidant enzymes and nonenzymatic detoxifying agents to avoid damage.
+It is important to focus on ROS and its involvement in cancer biology, particularly tumor progression and metastasis.
+Focus has been given to the involvement of ROS in various signaling cascades and its effect on various transcription factors that modulate cancer metastasis and tumorigenesis.
+For metastatic colonization to occur, endothelial cells must grow and migrate within pre-existing blood vessels, a process known as angiogenesis.
+The process benefits cancerous cells by providing them with oxygen and nutrients.
+Therefore, we have summarized the work carried out in this field too.
+We have further discussed how ROS triggers apoptosis, necroptosis, and ferroptosis, which are examples of regulated cell death (RCD) mechanisms that can demonstrate antitumor effects when they accumulate beyond a certain point.
+ROS are crucial to regulating and initiating apoptosis in cancerous cells, which affects the cell's ability to increase, survive, and respond to treatments.
+We have compiled work on integrated bioinformatics analysis to understand the involvement of ROS in cancer biology.
+We conclude through this review that ROS has a complex role in cancer biology, acting as promoters and tumorigenesis suppressors.
+Future research will likely focus on harnessing ROS's dual nature for therapeutic benefit while minimizing its harmful effects on normal cells.

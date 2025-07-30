@@ -1,0 +1,5 @@
+Human cortical neural progenitor cell transplantation holds significant potential in cortical stroke treatment by replacing lost cortical neurons and repairing damaged brain circuits.
+However, commonly utilized human cortical neural progenitors are limited in yield a substantial proportion of diverse cortical neurons and require an extended period to achieve functional maturation and synaptic integration, thereby potentially diminishing the optimal therapeutic benefits of cell transplantation for cortical stroke.
+Here, we generated forkhead box G1 (FOXG1)-positive forebrain progenitors from human inducible pluripotent stem cells, which can differentiate into diverse and balanced cortical neurons including upper- and deep-layer excitatory and inhibitory neurons, achieving early functional maturation simultaneously in vitro.
+Furthermore, these FOXG1 forebrain progenitor cells demonstrate robust cortical neuronal differentiation, rapid functional maturation and efficient synaptic integration after transplantation into the sensory cortex of stroke-injured adult rats.
+Notably, we have successfully utilized the non-invasive

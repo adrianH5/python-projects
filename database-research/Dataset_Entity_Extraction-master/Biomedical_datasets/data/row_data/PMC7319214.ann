@@ -1,0 +1,21 @@
+T1	Repository 592 604	NCBI Protein
+T2	URL 615 644	www.ncbi.nlm.nih.gov/protein/
+T3	AccessionNumber 664 672	MT084071
+T4	Repository 740 744	NCBI
+T5	Repository 745 752	Genbank
+T6	URL 763 792	www.ncbi.nlm.nih.gov/genbank/
+T7	Repository 947 959	NCBI Protein
+T8	URL 970 999	www.ncbi.nlm.nih.gov/protein/
+T9	Repository 1035 1047	NCBI Protein
+T10	URL 1058 1087	www.ncbi.nlm.nih.gov/protein/
+T11	Repository 1176 1187	NCBI Genome
+T12	URL 1198 1226	www.ncbi.nlm.nih.gov/genome/
+T13	Repository 1543 1555	NCBI Protein
+T14	Repository 1560 1564	NCBI
+T15	Repository 1565 1572	GenBank
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T5	Arg2:T3
+R3	hasAttr	Arg1:T5	Arg2:T6
+R4	hasAttr	Arg1:T7	Arg2:T8
+R5	hasAttr	Arg1:T9	Arg2:T10
+R6	hasAttr	Arg1:T11	Arg2:T12

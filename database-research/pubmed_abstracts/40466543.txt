@@ -1,0 +1,13 @@
+Cancer incidence and mortality trends represent epidemiological indicators of fundamental importance for public health systems.
+The study's aim is to present recent (2013-2017) short-term cancer incidence and mortality trends in Italy, including 80 % of the Italian population, for different cancer sites by sex, age group, and areas.
+Joinpoint Regression models were employed.
+A significantly decreasing trend in the incidence of all cancers was observed for men in Italy (-1.9 % per year), particularly for cancers of the lung (-2.5 %), liver (-3.9 %), stomach (-2.8 %), colorectal (-2.2 %), prostate (-3.4 %), and leukaemias (-3.2 %).
+The only significant increase was seen for skin melanoma (+5.2 % per year).
+Among women, overall cancer incidence remained stable, with a decrease in the North (-0.6 %) and an increase in the South and Islands (+0.9 %).
+Decreasing trends were observed for colorectal (-1.9 %), stomach (-3.5 %), liver (-4.0 %%), and leukaemias (-2.0 %) cancers, while incidence increased for skin melanoma (+6.0 % per year), and lung cancer (2.3 %).
+Cancer mortality declined consistently in both sexes (-1.8 % per year in men and -0.6 % in women), across different areas, and age groups.
+The observed trends in men and women partly reflect the impact of risk factors affecting both sexes at different times, mainly in the case of tobacco and lung cancer.
+Also, some trends may be linked to organized screening initiatives (e.g.
+colorectal) or the decrease in opportunistic screening (e.g.
+prostate).
+The snapshot of cancer trends in Italy may highlight new opportunities for strengthening prevention activities and advancing research on early detection and target treatments.

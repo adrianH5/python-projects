@@ -1,0 +1,8 @@
+Accumulating evidence highlights the presence of an intratumoral microbiota across various cancer types.
+Among all the microorganisms comprising the tumor-associated microbiota, tumor-resident bacteria (TRB) are increasingly recognized as critical regulators of cancer biology.
+Within tumor tissues, these microorganisms interact with various components of the tumor microenvironment (TME) and influence both tumor-promoting and tumor-suppressing pathways, underlying their dual role in cancer.
+Fully understanding the functional roles of TRB and their complex interactions with components of the TME requires the application of multimodal technologies.
+Developing strategies to modulate TRB-either by eradicating pathogenic populations or harnessing beneficial ones-holds great promise for advancing cancer treatment.
+In this review, we summarize the most recent insights into TRB.
+We discuss their possible origins and their implications on cancer biology, focusing on their roles in cancer development, metastasis establishment, immune modulation, and therapy response.
+Finally, we describe bacteria-based strategies and address the major challenges in detecting and analyzing these microbial communities in tumors.

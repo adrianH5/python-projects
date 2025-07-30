@@ -1,0 +1,7 @@
+Oral and oropharyngeal cancers disproportionately affect Black Americans, contributing to significant healthcare disparities due to late-stage diagnoses and limited awareness.
+AI-powered chatbots have the potential to address these challenges by offering scalable, interactive, and personalized educational tools.
+This study evaluated the usability and accuracy of a Large Language Model-powered chatbot prototype under a Retrieval Augmented Generation framework designed to enhance oral cancer awareness, using a mixed-methods approach with six technical and clinical experts.
+Usability and accuracy were rated positively by 83.3% of the experts, with median scores of 6.65 and 7.67, respectively.
+Key areas for improvement included providing a clear introduction, simplifying the interface, addressing accessibility issues, and incorporating features like next-question suggestions, downloadable chats, and reference links.
+While content accuracy was well-received, gaps in conversational flow and technical term definitions were noted.
+These findings highlight the chatbot's potential to improve health literacy and reduce disparities.

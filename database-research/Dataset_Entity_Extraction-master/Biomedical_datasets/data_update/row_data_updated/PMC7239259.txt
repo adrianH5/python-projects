@@ -1,0 +1,27 @@
+In December 2019, reports emerged of a cluster of cases of pneumonia of unknown cause in Wuhan City, China, culminating in the identification of a novel coronavirus on 12 January 2020, denoted as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), and the associated disease as coronavirus disease 2019 (COVID-19) [1].
+All COVID-19 papers drew heavily or exclusively on data and experience from China.
+Abbreviations: COVID-19, coronavirus disease 2019; HDAS, Healthcare Databases Advanced Search; MERS-CoV, Middle East respiratory syndrome coronavirus; PRISMA, Preferred Reporting Items for Systematic Reviews and Meta-Analyses; SARS-CoV, severe acute respiratory syndrome coronavirus; SARS-CoV-2, severe acute respiratory syndrome coronavirus 2; WHO, World Health Organization.
+Children are affected by COVID-19, but extant data (largely case series from China) suggest they are less likely to be affected than adults.
+The Report of the WHO-China Joint Mission on COVID-19 [7] concludes that “we cannot determine the extent of infection among children, what role children play in transmission, whether children are less susceptible or whether they simply present differently.”
+In an early epidemiological analysis of 507 COVID-19 cases, mainly from China, 13 (2.6%) were younger than 15 years, and the relative risk of COVID-19 in children was less than 0.5 compared with the population average [10].
+Symptoms of COVID-19 are nonspecific and disease presentation ranges from asymptomatic to severe pneumonia and death [7].
+Wei et al [9] identified all hospitalized infants in China diagnosed with COVID-19 infection between 8 December 2019 and 6 February 2020.
+In Singapore, a well 6-month-old infant with COVID-19 and high viral load was detected as part of a cluster and was also asymptomatic throughout admission [16].
+Asymptomatic cases are also reported in the English abstract of a Chinese paper, which reports clinical data and CT chest images of 15 children (aged 4–14 years old) diagnosed with COVID-19 in Shenzhen.
+The Report of the WHO-China Joint Mission on COVID-19 stated that 2.5% of the cases among those under 19 years old were severe and 0.2% were critical [7].
+Among the 105 children admitted to Wuhan’s Children’s Hospital, the sole hospital for treating COVID-19 in children in Wuhan, 8 (7.6%) were reported to have severe disease [18].
+Both parents developed symptomatic COVID-19 days after they looked after the sick infant without personal protective measures [12].
+Nevertheless, we identify that children appear to be less affected by COVID-19 than adults by observed rate of infection; while 17.8% of the population were aged 0–15 years old, only 2.1% of reported cases in a large case series from China were in the 0–19-year age group [23].
+Reliable evidence about clinical features and outcomes of COVID-19 in children is limited to small case series and case reports.
+We detected only a weak signal that children with comorbidities are at increased risk or are overrepresented among pediatric COVID-19 cases.
+Given that poor COVID-19 outcomes have been seen in adults with underlying conditions, a similar issue in children might be anticipated when sufficient data are available.
+One study attempts to assess the impact of Hong Kong’s public health measures and population behavior change on COVID-19 transmission, using routine influenza surveillance data as a proxy, assuming that influenza and COVID-19 are likely transmitted in similar ways [25].
+The authors demonstrate the substantial impact that familiar public health measures (including school closure), social distancing, and behavioral change could have in slowing down COVID-19 transmission, although questions remain about whether these measures can avoid fatigue and be sustained in the long term.
+While the evidence we reviewed related mainly to data from China, as the COVID-19 pandemic spreads worldwide data are beginning to emerge from other countries, including Italy [26], South Korea [27], Iceland [28], and the United States [29].
+Abstract   Background  Few pediatric cases of coronavirus disease 2019 (COVID-19) have been reported and we know little about the epidemiology in children, although more is known about other coronaviruses.
+We searched 3 databases and the COVID-19 resource centers of 11 major journals and publishers.
+Twenty-four studies relating to COVID-19 were included in the review.
+Children appear to be less affected by COVID-19 than adults by observed rate of cases in large epidemiological studies.
+Conclusions  Children appear to have a low observed case rate of COVID-19 but may have rates similar to adults of infection with SARS-CoV-2.
+This discrepancy may be because children are asymptomatic or too mildly infected to draw medical attention and be tested and counted in observed cases of COVID-19.
+Initial reports from China observed low rates of COVID-19 in children compared with adults.

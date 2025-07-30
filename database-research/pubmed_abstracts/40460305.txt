@@ -1,0 +1,3 @@
+Protein O-glycosylation and phosphorylation, both of which occur on serine and threonine residues of the protein, regulate critical biological functions in a crosstalk manner.
+However, due to the microheterogeneity, low abundance, and tedious enrichment processes of O-GalNAc glycopeptides, current research on their crosstalk is severely hindered.
+Here, we synthesized multichannel TiO

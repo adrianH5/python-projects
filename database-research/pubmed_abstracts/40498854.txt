@@ -1,0 +1,8 @@
+Esophageal cancer is one of the most common cancers and a leading cause of cancer-related mortality in the world.
+Here, we have performed comprehensive characterization of genetic, transcriptomic, proteomic, and phosphoproteomic features in 293 patients with esophageal squamous cell carcinoma (ESCC).
+Chromosome 12q13.13 amplification was correlated with the up-regulation of Janus kinase-signal transducer and activator of transcription pathway and keratins at the protein level in ESCC tissues and associated with poor prognosis in patients with well-differentiated and moderately differentiated ESCC tumors.
+Patients with poorly differentiated ESCC tumors had infiltration of activated T cells in the tumor microenvironment, suggesting their potential responsiveness to immunotherapy.
+Chromosome 8q amplification was associated with lymph node metastasis in ESCC tissues, characterized by a switch from noncanonical to canonical WNT signaling.
+Proteomic classification revealed that the subgroup with the worst prognosis had chromosome 2p amplification and up-regulated lipid metabolism in ESCC tissues at the protein level.
+Lipid droplet formation induced by perilipin-2 and apolipoprotein E promoted cytokine secretion, which, in turn, recruited T cells and enhanced stromalization, thereby suppressing T cell activation and promoting malignant ESCC progression.
+This study provides a resource for understanding the development of ESCC and identifying potential therapeutic targets for testing.

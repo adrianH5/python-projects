@@ -1,0 +1,8 @@
+ConspectusTherapeutic nucleic acids have shown enormous potential to treat a vast number of diseases, ranging from cancers to inflammatory diseases.
+siRNA formulated within lipid nanoparticles (LNPs) achieved FDA approval for a rare liver disorder in 2018, followed shortly after by successful application of mRNA formulated in LNPs in 2020 to stave off a worldwide pandemic.
+Thus, in only a few short years, interest in nucleic acid drugs has skyrocketed, both within the academic world and the pharmaceutical industry.
+Despite the excitement surrounding these genetically encodable medicines, there remains much work to do to enable them to be as far reaching of a drug class as they have the potential to be.
+The major roadblock limiting their clinical potential is the inability of formulations to efficiently deliver nucleic acid cargo to the cytosol of cells, largely due to endosomal entrapment.
+Additionally, there are challenges associated with the ability of formulations to target nucleic acids to specific cells and subcellular locations.
+Here, we describe how our lab has been working to address many of these challenges using a new chemical formulation that is distinctly different from traditional liposomes and LNPs, built from the bottom up to specifically enable endosomal escape of its nucleic acid cargo.
+We took direct inspiration from viruses with the goal of imitating their dynamic design that changes in response to binding and internalization into cells, enabling them to release their genetic cargo into the cytosol by locally disrupting membranes all while maintaining the cells overall integrity.Herein, we will detail the design considerations and applications of our formulation, which we refer to as a

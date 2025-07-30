@@ -1,0 +1,7 @@
+Early vascular aging plays a central role in chronic kidney disease (CKD), but its molecular causes remain unclear.
+Somatic mutations accumulate in various cells with age, yet their functional contribution to aging tissues is not well understood.
+Here we found progerin, the protein responsible for the premature aging disease Hutchinson-Gilford progeria syndrome, steadily recurring in vascular smooth muscle cells of patients with CKD.
+Notably, the most common progeria-causing mutation, LMNA c.1824C>T, was identified as a somatic mutation in CKD arteries.
+Clusters of proliferative progerin-expressing cells in CKD arteries and in vivo lineage-tracing in mice revealed clonal expansion capacity of mutant cells.
+Mosaic progerin expression contributed to genomic damage, endoplasmic reticulum stress and senescence in CKD arteries and resulted in vascular aging phenotypes in vivo.
+These findings suggest that certain somatic mutations may be clonally expanded in the arterial wall, contributing to the disease-related functional decline of the tissue.

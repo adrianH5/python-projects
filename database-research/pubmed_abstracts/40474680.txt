@@ -1,0 +1,3 @@
+Thymidine phosphorylase (TP) is a key enzyme involved in angiogenesis, tumour growth and closely linked to cancer progression and metastasis.
+This study represents the first comprehensive 3D-QSAR pharmacophore-based approach to identifying potential 1,3,4-oxadiazole derivatives as targeted TPIs for anticancer therapy.
+A dataset of 76 analogues with an experimental IC

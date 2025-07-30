@@ -1,0 +1,11 @@
+In the form of multidimensional arrays, modeling considering tensor covariates is capable of capturing important feature interactions or encompassing a broader range of data structures.
+In the study, we proposed a statistical inference based on tensor-based covariates for the Cox regression model in the integrated genome study.
+The proposed method stands out for reducing the parameter dimension within the partial likelihood function through the application of rank-R decomposition.
+We introduced the method of estimation and rank selection.
+Subsequently, variable-specific tensor tests are proposed to evaluate the significance of the covariance effect.
+Asymptotic normality is obtained for all the regression estimators.
+Simulation studies, including rank selection, estimation performance, and testing performance, demonstrate the effectiveness of the proposed algorithm.
+Overall, the proposed method provides readers with the necessary information to understand the genome effect of tensor-based covariates.
+To benefit readers, the R code for implementing the method is provided.
+Lastly, we introduce the proposed method using a colorectal cancer dataset, addressing signal detection by simultaneously gathering information across different kinds of omics platforms.
+This dataset integrates clinical information with multi-omics data, including copy number variation, methylation, and mRNA sequencing data, as tensor-based covariates, and evaluates relationships involving right-censored data.

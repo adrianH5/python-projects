@@ -1,0 +1,10 @@
+T1	Repository 178 226	US National Center for Biotechnology Information
+T2	AccessionNumber 413 423	MG772933.1
+T3	Repository 702 709	GenBank
+T4	AccessionNumber 864 872	MG772934
+T5	AccessionNumber 1064 1072	GU190215
+T6	AccessionNumber 1085 1093	KY352407
+T7	Repository 1732 1749	Protein Data Bank
+T8	AccessionNumber 1753 1757	2DD8
+R1	hasAttr	Arg1:T3	Arg2:T4
+R2	hasAttr	Arg1:T7	Arg2:T8

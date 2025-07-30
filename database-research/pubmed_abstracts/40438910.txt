@@ -1,0 +1,7 @@
+Colonoscopy is the primary tool for colorectal cancer screening.
+High-quality colonoscopy is crucial for the detection of precancerous adenomas; however, the adenoma detection rate varies depending on the skill and experience of the endoscopist.
+Computer-aided quality assessment (CAQ) uses artificial intelligence (AI) technology to evaluate the quality of colonoscopy examinations.
+It plays an important role in reducing variations in examination quality and obtaining high-quality colonoscopic images.
+In this review, we focus specifically on the speedometer, effective withdrawal time, fold examination quality, bowel preparation quality assessment, and cecal intubation with CAQ systems and discuss the role and effectiveness of these systems.
+CAQ systems are expected to contribute to increase in adenoma detection rates, improvement in endoscopist skills, and standardization of examination quality.
+However, challenges such as variability in AI performance across different clinical settings and potential overreliance on automated prompts remain key limitations.

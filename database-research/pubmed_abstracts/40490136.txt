@@ -1,0 +1,10 @@
+Metabolic flexibility refers to the ability of a tissue to adjust cellular fuel choice in response to conditional changes in metabolic demand and activity.
+A loss of metabolic flexibility is now recognized as a defining feature of various diseases and cellular dysfunction.
+In this study, using an inducible, skeletal muscle-specific knockout (KO) mouse, we found microRNA-1 (miR-1), the most abundant microRNA (miRNA) in skeletal muscle, was necessary to maintain whole-body metabolic flexibility.
+This was demonstrated by a loss of diurnal oscillations in whole-body respiratory exchange ratio and higher fasting blood glucose in miR-1 KO mice.
+Argonaute 2 enhanced crosslinking and immunoprecipitation sequencing (AGO2 eCLIP-seq) and RNA-seq analyses identified, for the first time, bona fide miR-1 target genes in adult skeletal muscle that regulated pyruvate metabolism.
+Comprehensive bioenergetic phenotyping combined with skeletal muscle proteomics and metabolomics showed that miR-1 was necessary to maintain metabolic flexibility by regulating pyruvate metabolism through mechanisms including the alternative splicing of pyruvate kinase (Pkm).
+The loss of metabolic flexibility in the miR-1 KO mouse was rescued by pharmacological inhibition of the miR-1 target, monocarboxylate transporter 4 (MCT4), which redirects glycolytic carbon flux toward oxidation.
+The maintenance of metabolic flexibility by miR-1 was necessary for sustained endurance activity in mice and in C. elegans.
+The physiological down-regulation of miR-1 in response to a hypertrophic stimulus in both humans and mice caused a similar metabolic reprogramming necessary for muscle cell growth.
+Taken together, these data identify a novel post-transcriptional mechanism of whole-body metabolism regulation mediated by a tissue-specific miRNA.

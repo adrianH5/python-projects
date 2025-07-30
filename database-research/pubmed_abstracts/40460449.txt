@@ -1,0 +1,12 @@
+Stereotactic body radiation therapy (SBRT) has emerged as a promising and minimally invasive treatment option for patients with renal cell carcinoma (RCC).
+This study presents our initial clinical experiences with treatments following our center's protocol, which was formulated based on both national and international evidence.
+Six patients who had undergone renal SBRT at our center from January 2021 to December 2023 were included.
+Treatment planning used computed tomography (CT) and magnetic resonance imaging, with respiratory management conducted through breath-hold or free-breathing techniques.
+The prescribed dose was primarily 48 Gy in three fractions, with increased fractionations when dose constraints were challenging to achieve.
+Dose constraints were met for all patients, and treatment planning adhered to protocol guidelines.
+After the confirmation of cone-beam CT (CBCT) images by physicians, radiation was delivered.
+Five out of six patients completed the planned treatment, whereas one discontinued the treatment midway (the causal relationship to radiation therapy was unclear).
+Dose-volume histogram analysis revealed that doses to organs at risk depended on the position and size of the planning target volume but remained within acceptable limits for all cases.
+The intrafractional patient motion was 2.7 mm, as calculated from the pre- and post-CBCT images, confirming the appropriateness of a 3-mm setup margin.
+Although this study provides initial insights, further clinical trials are warranted to establish standardized protocols and optimize treatment strategies for RCC.
+In the future, it is also necessary to generate evidence that is tailored to the current situation in Japan.

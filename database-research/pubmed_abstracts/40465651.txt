@@ -1,0 +1,7 @@
+Indisulam, a sulfonamide-based compound, is employed as a second-line therapy for NSCLC due to its anti-tumor activity.
+However, its clinical efficacy is hindered by acquired resistance, the molecular basis of which remains poorly understood.
+Here, we demonstrate that hypermethylation of RNA-binding protein 39 (RBM39), a specific target of Indisulam, is closely associated with Indisulam resistance.
+PRMT6 methylates RBM39 at R92.
+This methylation inhibits Indisulam-induced ubiquitination and proteasomal degradation of RBM39, increases RBM39 protein levels, promotes alternative splicing and expression of proto-oncogenes, and ultimately leads to malignant proliferation and metastasis of NSCLC cells and tumor growth in xenograft mouse models.
+Inhibiting PRMT6 with MS023 or mutating the RBM39 methylation site enhances Indisulam sensitivity in NSCLC and significantly improves its anti-tumor efficacy.
+Our findings identify methylated RBM39 as a key biomarker of Indisulam resistance and suggest a potential therapeutic strategy for NSCLC.

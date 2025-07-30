@@ -1,0 +1,15 @@
+Mild photothermal therapy (mPTT) holds significant potential as a minimally invasive strategy for tumor ablation.
+However, its clinical translation remains constrained by the uneven intratumoral distribution of photothermal agents and the induction of autophagy pathways.
+These limitations frequently culminate in suboptimal therapeutic efficacy, facilitating immune evasion by residual tumor cells and thereby elevating the risk of recurrence and metastasis.
+Here, we report the development of nitric oxide-driven nanomotors (L-Arg-CaP@PDA-CQ) constructed by encapsulating L-arginine within calcium phosphate nanoparticles, functionalized with poly-dopamine shells and loaded with chloroquine, an autophagy inhibitor.
+These self-propelled nanomotors demonstrated the ability to evade lysosomal phagocytosis, penetrate vascular barriers, and enhance intratumoral accumulation.
+Autophagy inhibition sensitized melanoma cells to mPTT, while the combination of chloroquine with mPTT induced reactive oxygen species generation and mitochondrial disruption.
+Furthermore, mPTT facilitated immunogenic cell death, and chloroquine-mediated inhibition of autophagosome degradation enhanced tumor antigen presentation, stimulating robust T-cell infiltration and immune activation.
+This dual mechanism significantly suppressed tumor recurrence and metastasis.
+The proposed nanomotors provide a synergistic paradigm for augmenting mPTT and activating antitumor immunity, highlighting their translational potential in clinical oncology.
+STATEMENT OF SIGNIFICANCE: Mild photothermal therapy (mPTT) is a promising cancer treatment modality that operates at lower temperatures to minimize damage to healthy tissues while promoting antitumor immune responses.
+However, its efficacy can be limited by the activation of autophagy in tumor cells, which supports tumor survival.
+In addition, the hypoxic microenvironment of melanoma tumors often restricts drug penetration, further complicating treatment.
+To address these challenges, we have designed self-propelled smart nanomotors that can actively penetrate acidic tumor tissues and deliver drugs to the tumor site.These nanomotors modulate autophagy to enhance the sensitivity of melanoma cells to mPTT, leading to efficient tumor cell ablation.
+When combined with chloroquine, this approach generates large amounts of reactive oxygen species and causes mitochondrial damage, while promoting T-cell infiltration through the release of damage-associated molecular patterns (DAMPs).
+This strategy not only enhances the therapeutic efficacy of mPTT but also holds significant potential for clinical translation in the treatment of melanoma.

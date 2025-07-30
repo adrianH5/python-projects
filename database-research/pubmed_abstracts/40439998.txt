@@ -1,0 +1,10 @@
+Pancreatic ductal adenocarcinoma (PDAC) is a lethal malignancy with a poor prognosis, and over 90% of PDAC cases involve activating mutations in the oncogene KRAS.
+Therapeutic strategies that inhibit the mitogen-activated protein kinase pathway, a critical effector pathway in KRAS-mutated cancers, have garnered significant attention.
+Among several molecular-targeted drugs, avutometinib (CKI27(2)/CH5126766/RO5126766/VS-6766), a novel dual RAF/MEK clamp, shows promise for patients with KRAS-mutated cancers.
+However, its efficacy as a single agent remains insufficient, highlighting the need for more effective treatment strategies.
+In this study, we found that avutometinib alone was insufficiently effective against pancreatic cancer cells with KRASG12D mutation.
+In these cells, combining avutometinib with the KRASG12D inhibitor MRTX1133 demonstrated synergistic inhibitory effects on cell growth.
+We further investigated the efficacy of this combination therapy in in vitro and in vivo experiments.
+In these experiments, the combination therapy upregulated BIM, downregulated survivin, and induced apoptosis in pancreatic cancer cells with the KRASG12D mutation.
+In in vivo experiments, the combination therapy markedly delayed tumor growth compared to either therapy alone.
+Therefore, the combination of avutometinib and MRTX1133 may represent a promising therapeutic approach for KRASG12D-mutated pancreatic cancer.

@@ -1,0 +1,8 @@
+Adipocyte enhancer-binding protein 1 (AEBP1) has emerged as a novel regulator in the tumorigenic progression of various cancers.
+Despite its significance, the expression and functions of AEBP1 in osteosarcoma (OS) remain largely unexplored.
+The GEO database was used to screen for novel targets of osteosarcoma and AEBP1 was focused on since its expression and functions in OS remain to be thoroughly elucidated.
+Thus, the aim of the present study was to investigate the potential biological functions of AEBP1 in OS.
+UALCAN and CCLE databases were then used to analyze the expression levels of AEBP1.
+By employing siRNA, AEBP1 was silenced in human OS cells and the expression of AEBP1 at the mRNA and protein levels was assessed through reverse transcription-quantitave PCR and western blot analysis, respectively.
+Subsequently, the effects of AEBP1 silencing on the proliferation and apoptosis of human OS cell lines were investigated using MTT, 5-ethynyl-2'-deoxyuridine, clone formation, flow cytometry and TUNEL assays.
+The results revealed that silencing of AEBP1 inhibited OS cell proliferation, promoted apoptosis, and induced G

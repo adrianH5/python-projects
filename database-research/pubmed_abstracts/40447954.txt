@@ -1,0 +1,7 @@
+Tumor hypoxia, a hallmark of the tumor microenvironment (TME), profoundly impacts the antitumor functionality of immune cells, particularly natural killer (NK) cells, which play a critical role in cancer immunosurveillance and immunotherapy success.
+This review provides a comprehensive analysis of the mechanisms by which hypoxia impairs NK cell-mediated cytotoxicity and antitumor activities, emphasizing the molecular pathways and cellular adaptations that enable cancer cell to evade NK cell attack.
+Key factors that participate in this phenomenon include the stabilization of hypoxia-inducible factors, metabolic reprogramming, angiogenesis, cancer stemness, autophagy, and the secretion of immunosuppressive molecules.
+Moreover, hypoxia induces phenotypic and functional changes in both cancer and NK cells, promoting tumor progression and resistance to immunotherapy.
+Emerging strategies to counteract hypoxia-induced immunosuppression are being explored, including nanotechnology-based approaches, cytokine-mediated NK cell preconditioning, and vascular normalization techniques.
+These interventions highlight promising avenues for enhancing NK cell functionality and synergizing with existing cancer therapies.
+By addressing the immunosuppressive challenges of the hypoxic TME, in this review, we underscore the potential of innovative strategies to improve therapeutic outcomes in cancer treatment.

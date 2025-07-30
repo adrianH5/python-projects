@@ -1,0 +1,8 @@
+Lung metastasis remains a leading cause of cancer mortality, driven not only by primary tumors but crucially by dynamic interactions within the premetastatic niche (PMN).
+Emerging evidence reveals that organ-specific PMN formation precedes tumor cell arrival, creating an immunosuppressive microenvironment conducive to metastatic colonization.
+Primary tumor-derived factors interact with lung resident cells, promoting the recruitment of bone marrow-derived cells and creating a favorable microenvironment for the migrating tumor cells.
+Despite progress, systematic integration of PMN's multilayered regulatory mechanisms-from mechanism to clinical application remains lacking.
+The review summarizes recent studies investigating the effects of PMN in the entire process of lung metastasis.
+Our discussion revolves primarily around extracellular vesicles, extracellular matrix remodeling, proinflammation, immunosuppression, angiogenesis, and metabolic reprogramming.
+We emphasize the impact of various treatment strategies for primary tumors on the PMN in clinical practice, while also summarizing current diagnostic methods and exploring new therapeutic possibilities in the PMN.
+Finally, we propose a roadmap for future investigations into the lung PMN, highlighting prioritized research axes that bridge mechanistic discoveries with bench-to-bedside translation of PMN-targeted interventions.

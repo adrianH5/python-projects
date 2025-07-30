@@ -1,0 +1,24 @@
+The 2019 novel coronavirus disease (COVID-19) is highly infectious 1, 2, outbreak of which has been announced as a global pandemic by the World Health Organization on 11 March 2020.
+The pathogen contributed to COVID-19 is Severe Acute Respiratory Syndrome Coronavirus 2(SARS-CoV-2), a sister of SARS-CoV 3, 4.
+The RNA binding domain of SARS-CoV-2 spike protein binds to ACE2 with a 20-30-fold higher affinity than SARS-CoV 6-9, which may contribute to the rapid transmission of COVID-19.
+To comprehensively investigate the mRNA expression of ACE2 in human tissues, we collected the transcriptome datasets in three public databases, including the Tissue Atlas of Human Protein Atlas (HPA), Genotype-Tissue Expression (GTEx), and Functional Annotation of Mammalian Genomes 5 (FANTOM5) Cap Analysis of Gene Expression (CAGE) 18-22.
+Given the minor difference between these three data sets, we analyzed the overlapped tissues among them using a Venn diagram.
+Indeed, such results were further supported by the transcriptome in other different databases, including Monaco scaled dataset and Schmiedel dataset 25, 26
+(.
+With the global outbreak of COVID-19, the development of the drugs against SARS-CoV-2 had become an urgent work.
+Therefore, the comprehensive investigation of ACE2 expression in human tissues has implications for understanding the transmission routes of SARS-CoV-2 and the development of anti-COVID-19 drugs.
+However, given the great heterogeneity among humans, the transcriptome and proteomic dataset with a larger number of samples and a wider range of tissues such as blood cells should be collected to analyze.
+In this study, we made a comprehensive investigation of the mRNA and protein expression of ACE2 in human tissues using public transcriptome, proteomic datasets, and antibody-based protein profiles.
+Despite all these databases utilized in this study based on RNA-seq, there is a minor difference among the transcriptome result obtained from different databases, which may be caused by tissue source, technical artifacts inherent in the respective methodologies, and gene model annotation issues among them.
+The high expression level of ACE2 in the gastrointestinal tract may explain why most of COVID-19 patients show gastrointestinal symptoms in the early stage of the infection 41.
+Given there was a divergence toward the potential of intrauterine vertical transmission in women who develop COVID-19 pneumonia during pregnancy 42-44, we also paid attention to the expression of ACE2 in the female reproduction-associated tissues.
+Of note, all the transcriptome in different database revealed no ACE2 mRNA and protein in the common blood cells, including basophil, eosinophil, neutrophil, classical monocytes, non-classical monocyte, Treg, gd-T cell, MAIT T-cell, memory CD4 T-cell, naïve CD4 T-cell, memory B-cell, naïve B-cell, plasmacytoid DC, myeloid DC, NK cell, and total PBMC, suggesting the potential of resistance of immune cell against SARS-CoV-2.
+SARS-CoV-2 infection also caused a remodeling myeloid in severe COVID-19 patients 45.
+Interestingly, a prior study reported that COVID-19 susceptibility seems to be related to blood group, whereas whether such results are associated with the level of ACE2 remains uncertain 46.
+The way the tissue is fixed or processed can affect the result of IHC or proteomics of these databases.
+To obtain the comprehensive information regarding the transcriptome of human tissues, we collected the transcriptome from three public databases, including the Human Protein Atlas (HPA) tissues atlas, Genotype-Tissue Expression (GTEx) project, and Functional Annotation of Mammalian Genomes 5 (FANTOM5) project.
+All these databases update irregularly and the version of them we analyzed is the latest.
+HIPED is an integrated proteomics platform residing within GeneCards, which involved 69 normal anatomical entities (tissues, cells, and fluids) from four databases including ProteomicsDB, MOPED, PaxDb, and MaxQB 51.
+The public transcriptome datasets from Schmiedel B.J. 25 and Monaco G. 26 were also collected to analyze the mRNA expression of ACE2 in human common blood cells.
+Given the heterogeneity among humans, the datasets covering more tissues with a larger size of samples should be analyzed.
+The bulk RNA-seq profiles from three separate public datasets including HPA tissue Atlas, GTEx, and FANTOM5 CAGE were also obtained to determine the expression of ACE2 in human tissues.

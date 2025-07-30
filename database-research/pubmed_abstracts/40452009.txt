@@ -1,0 +1,2 @@
+Postoperative anastomotic leakage (AL) is a severe complication following esophageal cancer surgery, that often leads to a poor prognosis.
+This study aims to develop an interpretable machine learning (ML) model to predict AL occurrence and identify associated risk factors.

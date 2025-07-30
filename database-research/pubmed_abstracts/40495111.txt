@@ -1,0 +1,8 @@
+Antibody-Drug Conjugates (ADCs) are poised to embed themselves as pillars of cancer therapy after decades of development and fine-tuning.
+The vast majority of those in preclinical and clinical development are based on full-length immunoglobulins employing a variety of linker-payloads and conjugation strategies.
+Other, smaller formats are being considered to overcome some of the current limitations of ADCs, notably poor solid tumour penetration and prolonged systemic toxin exposure.
+By combining stable, high-lysine containing single-chain Fv antibody fragments, compact hydrophilic linkers and a validated MMAE (monomethyl auristatin-E) payload, high-DAR (Drug:Antibody Ratio) FDCs (Antibody-Fragment Drug Conjugates) were made which retained significant binding and developability properties.
+Against the established target HER2, an average DAR 6 FDC was reproducibly obtained (equivalent to a DAR 30 ADC by mass) with picomolar binding affinity, low aggregation and translatable pharmacokinetics.
+Despite the faster elimination kinetics, rapid and intense tumour payload delivery was seen leading to tumour cure efficacy in multiple HER2 tumour xenografts at doses as low as 0.6mg/kg given 4-times, weekly.
+Internalization and tumour uptake quantification data illustrate the benefits of the higher-penetrating format.
+Experience with over a dozen linker-payload structures has provided an insight into the critical design features that could make FDCs a viable alternative to ADCs in the most challenging solid tumour indications.

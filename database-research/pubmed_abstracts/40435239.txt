@@ -1,0 +1,3 @@
+Genomes adapt dynamically to alterations in the signaling milieu, including inflammation that transiently or permanently disrupts genome function.
+Here, we elucidate how a progenitor cell genome senses and responds to inflammation when the developmental and transcriptional regulator GATA2 is limiting, which causes bone marrow failure in humans and mice and predisposes to leukemia in humans.
+GATA2

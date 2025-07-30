@@ -1,0 +1,7 @@
+Colorectal cancer (CRC) screening using fecal immunochemical tests (FIT) is suboptimal.
+This multicentre study evaluated an electronic nose (e-nose) for CRC detection in FIT-positive patients, along with reproducibility and external validation.
+Among 3469 participants (40.1% female, median age 64.3y), CRC was diagnosed in 5.0%; 25.1% had a normal colonoscopy.
+The e-nose showed poor diagnostic performance (AUC 0.542; sensitivity 39.5%; specificity 68.3%) and low reproducibility (ICC 0.22).
+Despite high patient acceptability (95.3% willingness-to-repeat), these findings suggest e-nose technology is not yet ready for clinical implementation.
+Further research is needed to standardise and validate e-nose devices before supplementing current screening methods.
+Clinicaltrials.gov Identifier NCT03346005 and NCT04357158.

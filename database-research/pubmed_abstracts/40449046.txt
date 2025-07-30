@@ -1,0 +1,11 @@
+Intraoperative ultrasound (ioUS) is a valuable tool in brain tumor surgery due to its versatility, affordability, and seamless integration into the surgical workflow.
+However, its adoption remains limited, primarily because of the challenges associated with image interpretation and the steep learning curve required for effective use.
+This study aimed to enhance the interpretability of ioUS images by developing a real-time brain tumor detection system deployable in the operating room.
+We collected 2D ioUS images from the BraTioUS and ReMIND datasets, annotated with expert-refined tumor labels.
+Using the YOLO11 architecture and its variants, we trained object detection models to identify brain tumors.
+The dataset included 1732 images from 192 patients, divided into training, validation, and test sets.
+Data augmentation expanded the training set to 11,570 images.
+In the test dataset, YOLO11s achieved the best balance of precision and computational efficiency, with a mAP@50 of 0.95, mAP@50-95 of 0.65, and a processing speed of 34.16 frames per second.
+The proposed solution was prospectively validated in a cohort of 20 consecutively operated patients diagnosed with brain tumors.
+Neurosurgeons confirmed its seamless integration into the surgical workflow, with real-time predictions accurately delineating tumor regions.
+These findings highlight the potential of real-time object detection algorithms to enhance ioUS-guided brain tumor surgery, addressing key challenges in interpretation and providing a foundation for future development of computer vision-based tools for neuro-oncological surgery.

@@ -1,0 +1,11 @@
+Fanconi anemia (FA) and ferroptosis both affect tumor-related processes.
+However, few studies have reported on genetic associations between FA and ferroptosis.
+Our study evaluated the usefulness of genes related to ferroptosis in predicting and diagnosing FA.
+Transcriptome sequencing data were collected from 11 normal participants and 21 patients with FA.
+Differential gene analysis, Kyoto Encyclopedia of Genes and Genomes (KEGG), Gene Ontology (GO) analysis, gene correlation analysis, protein-protein interaction network analysis, qRT-PCR, and pan-cancer analysis were performed.
+The pan-cancer analysis was carried out based on data obtained from the GTEx and TCGA databases.
+Two hundred ninety-eight differentially expressed genes were detected based on the comparison of FA patients and normal participants, among which four critical non-FA genes, MAD2L1, ASPM, PCNA, and TOP2A, were identified.
+Among the ferroptosis-related genes, five genes, including CDKN1A, EMC2, FDFT1, HSPB1, and MT1G, were identified as being associated with FA, and the areas under the curve (AUC) of these five ferroptosis-related genes were 0.907, 0.640, 0.902, 0.840, and 0.929, respectively.
+The AUC for the diagnosis of FA reached 1.000 when the five ferroptosis-related genes were used in combination.
+In addition, the expressions of CDKN1A, EMC2, FDFT1, and HSPB1 were associated with the prognosis of multiple cancers (P<0.05).
+The five ferroptosis-related genes CDKN1A, EMC2, FDFT1, HSPB1, and MT1G exhibited excellent predictive effects for the diagnosis of FA.

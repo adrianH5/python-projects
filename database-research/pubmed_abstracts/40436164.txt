@@ -1,0 +1,7 @@
+In this work, we leverage the pH shift of the tumor microenvironment to achieve controlled, multidrug release from an implantable, pH-responsive bilayer film composed of chitosan (CS) and carboxymethyl cellulose (CMC).
+Drug release is driven by out-of-plane actuation, where curvature is induced in response to acidic pH, serving as a physiological stimulus.
+The kinetics of release are modulated by the degree of curvature and the rate of actuation at a given pH.
+This system enables programmable delivery of a combination of cisplatin (Cis), 5-fluorouracil (5-Fu), and quercetin (Que), targeting multiple cancer pathways to combat drug resistance.
+In vitro studies with MDA-MB-231 breast cancer cells demonstrated a four-fold increase in cytotoxicity compared to individual drugs, attributed to synergistic effects and controlled release.
+Additionally, ex-ovo chick chorioallantoic membrane (CAM) assays confirmed the system's antiangiogenic potential, with significant downregulation of key markers, including Vascular Endothelial Growth Factor A (VEGFA), Fibroblast Growth Factor 2 (FGF2), and Angiopoietin 1 (ANG1).
+Overall, this platform offers a promising strategy for site-specific, sustained delivery of combination therapies in complex cancer environments.

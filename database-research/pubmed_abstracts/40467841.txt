@@ -1,0 +1,4 @@
+Macrophages are active participants of tissue repair and when normal repair processes fail, fibrosis can ensue, which leads to major organ dysfunction and affects nearly a billion people worldwide.
+Here we focus on macrophages in the spatiotemporal control of fibrosis, drawing on our understanding of the roles of these cells in organogenesis, adult organ homeostasis and wound repair.
+We describe recent insights from single-cell transcriptomics studies of human and mouse tissues that reveal macrophage heterogeneity in healthy and fibrotic niches, as well as the pathways underlying macrophage-fibroblast cooperation during progression from inflammation to fibrosis.
+Finally, we propose a model to explain how macrophage activity over time and across different tissues controls tissue fibrosis, we discuss therapeutic initiatives based on regulation of macrophage activity and we recommend future research directions.

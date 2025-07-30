@@ -1,0 +1,9 @@
+Primary sequence of Saudi Arabia isolate MERS-COVS protein was retrieved from NCBI database using accession number ALW82742.1 [18].
+Experimentally known 3D structure of MERS-COV S protein was retrieved by using PDB ID: 5X59 from Protein-Data-Bank [19].
+This method relies on surface accessibility and amino acid statistics in a collected form dataset of discontinuous epitopes found out by X-ray crystallography of antigen/antibody protein buildings.
+Aller Hunter server compares peptide’s query sequences opposed to the database of previously reported allergens to give significant outcomes.
+S protein sequences of 8 distinctive countries were taken from an open access Genbank database [38].
+All the predicted peptides 3D structures were modelled via PEPFOLD server at RPBS MOBYL portal [41], from Protein databank (PDB ID: 3VCL) at a resolution of 1.7 Å, the 3D structure of human HLA-B7 allele crystallized was taken [42] and utilized for further molecular docking purpose.
+3D structure of S protein (PDB ID: 5X59) [19] was used for discontinuous epitopes prediction, 90% specificity, − 3.700 threshold and 22.000 Angstroms propensity score radius.
+Crystal structure of human HLA-B7 (PDB ID: 3VCL) protein was previously accessible with co-crystallized peptide in PDB [42].
+Peptide ‘WPRPIDVSK’ was docked (dock score -20.4007 kcal/mol) inside the catalytic pocket of receptor protein through 4 hydrogen bonds with Arg-62, Glu-152, Glu-163 and Trp-167 (Fig. 6b).

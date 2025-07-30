@@ -1,0 +1,15 @@
+Serum tyrosine and phenylalanine levels increase during aging and age-associated disorders.
+We previously showed that tyrosyl-tRNA synthetase (TyrRS/YARS1) is reduced in Alzheimer's Disease (AD) brains, and tyrosine and phenylalanine decrease TyrRS in neurons.
+Here, we found that tau is a negative regulator, whereas estrogen and leucine act as positive regulators of TyrRS.
+Young female mice exhibit increased TyrRS in the cortex compared to male mice.
+Notably, young Tau knockout male, but not female mice showed increased cortical TyrRS.
+Tau accumulation in middle-aged female mice did not decrease cortical TyrRS compared to males, suggesting that middle-aged females are resilient to tau-mediated TyrRS depletion.
+Tyrosine and phenylalanine treatment decreased tubulin tyrosination, activated DNA repair pathways, and protected against etoposide (ETO) and camptothecin (CPT)-induced toxicity, respectively, in neurons.
+While tyrosine facilitated topoisomerase 1 (TOP1) recruitment to chromatin and inhibited global transcription, in contrast, phenylalanine recruited topoisomerase 2 beta (TOP2β) to chromatin and stimulated global transcription.
+Furthermore, tyrosine decreased the presence of DNA fragments in a comet assay whereas phenylalanine increased them.
+Addition of cis-resveratrol (cis-RSV) protected against tyrosine-induced transcription inhibition by facilitating the recruitment of both TOP1 and TOP2β to chromatin and increasing tubulin tyrosination.
+Moreover, cis-RSV decreased both total and phosphorylated tau and protected neurons against amyloid beta (Aβ)-induced neurite degeneration and DNA damage.
+Gene expression profiling using human embryonic stem cell (hESC)-derived neurons demonstrated that cis-RSV is a broad-spectrum neuroprotective and anti-viral agent.
+In contrast, trans-RSV mimics phenylalanine-induced gene expression, including downregulation of long genes and induction of an AD-like gene expression signature.
+This work suggests that age and disease-associated increases in serum tyrosine and phenylalanine levels would activate neuronal DNA repair while inhibiting transcription and tubulin tyrosination.
+cis-RSV protects against their toxicity by restoring tubulin tyrosination, TOP1 and TOP2β-mediated transcription, and decreasing tau in primary neurons.

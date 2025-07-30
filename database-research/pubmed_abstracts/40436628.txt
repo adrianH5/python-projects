@@ -1,0 +1,6 @@
+Mammalian enhancers can regulate genes over large genomic distances, often skipping over other genes.
+Despite this, precise developmental regulation suggests that mechanisms exist to ensure enhancers only activate their correct targets.
+Sculpting of three-dimensional chromosome organization through cohesin-dependent loop extrusion is thought to be important for facilitating and constraining enhancer action.
+The boundaries of topologically associating domains (TADs) are thought to prevent enhancers acting on genes in adjacent TADs.
+However, there are examples where enhancers appear to act across TAD boundaries, but it has remained unclear whether a single enhancer can simultaneously activate genes in different TADs.
+Here we show that some Shh enhancers can activate transcription concurrently not only at

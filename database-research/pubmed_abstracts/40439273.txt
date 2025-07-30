@@ -1,0 +1,14 @@
+Hepatocellular carcinoma is the main primary liver cancer.
+Due to the high recurrence rate and potential resistance to treatments, there is an urgent need to find more effective and targeted therapies.
+Combinational therapies and using advanced drug delivery methods are promising approaches.
+Niosomes are one of the popular types of nanoparticles in modern drug delivery systems and have recently attracted more attention.
+They are biodegradable, nonimmunogenic, and more stable carriers than liposomes.
+They can release anticancer drugs in an efficient and controlled manner.
+The aim of this study was to synthesize and characterize the physicochemical properties of linoleic acid (LA)-loaded niosomes and evaluate their anticancer effects on a hepatoma cell.
+We synthesized LA-loaded niosomes using a thin-film hydration method and characterized their size, polydispersity index (PDI), and zeta potential.
+The morphology of niosomes was evaluated by scanning electron microscopy.
+Finally, the viability, migration capacity, and colonization potential of Hep-3B hepatoma cells treated with 150 μM LA-loaded niosomes were investigated and compared to the control groups.
+The niosomes had a mean size of 266.9 nm, PDI of 0.271, and zeta potential of -26.1 mV.
+The LA-loaded niosomes released LA sustainably at 37 °C for 72 h. MTS assay indicated that the LA-loaded niosomes were more toxic than free LA.
+Hep-3B hepatoma cells treated with LA-loaded niosomes showed a remarkable decline in the migration ability and colony-formation capacity.
+Therefore, the use of LA-loaded niosomes in combination with conventional protocols may be a promising approach to target cancer cells.

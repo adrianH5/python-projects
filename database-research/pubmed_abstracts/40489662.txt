@@ -1,0 +1,10 @@
+Leiomyomas are benign proliferations of uterine smooth muscle found in 60% of women.
+A spatial redistribution of ecto-5'-nucleotidase (CD73, NT5E) that results in reduced extracellular concentrations of adenosine has recently been described in leiomyomas.
+However, the mechanisms by which altered extracellular adenosine levels contribute to leiomyoma growth remain poorly understood.
+To address this deficiency, a series of tissue specimens and primary cultures generated from matched specimens of myometrium and leiomyoma were used.
+Overexpression of Type 1 adenosine receptors (ADORA1) was observed when matched specimens and primary cultures were interrogated by RT-qPCR and Western blot.
+By immunohistochemistry, ADORA1 expression was diffusely observed in myocytes in the leiomyoma complex with only limited expression in vascular and other structures.
+Overexpression of ADORA1 was also observed in fibroblasts and multiple smooth muscle subtypes in the leiomyoma complex when single cell transcriptomics data were interrogated.
+Incubation with N6-cyclopentyladenosine (CPA), a selective ADORA1 agonist, resulted in decreased proliferation of primary leiomyoma cultures accompanied by decreased intracellular cAMP and enhanced cyclin D1 and phospho-AKT1 expression.
+To confirm the specificity of this observation, ADORA1 expression was directly targeted by siRNA, resulting in decreased proliferation, increased intracellular cAMP and lower levels of cyclin D1 and phospho-AKT1.
+Collectively, these data indicate that overexpression of the ADORA1 receptor is a robust feature of uterine leiomyomas, where its activation by residual levels of extracellular adenosine potentially contributes to tumor growth by regulating AKT1-mediated signaling.

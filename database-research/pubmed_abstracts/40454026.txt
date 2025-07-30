@@ -1,0 +1,8 @@
+Near-infrared-II (NIR-II, 900-1700 nm) fluorescence imaging as one of the emerging imaging methods has shown the advantages of excellent spatial resolution and sensitivity.
+In order to obtain high-quality NIR-II fluorescence images and effective treatment results, it is essential to develop theranostic fluorescent nanoprobes with good tumor targeting and treatment capabilities.
+Herein, we designed and synthesized novel NIR-II fluorescent theranostic nanoprobes based on the organic dye IR783.
+IR783 was further encapsulated into liposomes, along with the chemotherapeutic drug doxorubicin (DOX) and the cervical cancer-targeting peptide TMTP1 (NVVRQ), to construct integrated nanoprobes for imaging and treatment.
+The constructed IR-DT nanoprobes, with its good tumor targeting ability, exhibit excellent imaging performance and significant therapeutic effects.
+With its powerful imaging capabilities, the IR-DT nanoprobes can achieve high-resolution fluorescence imaging of blood vessels, tumor lesions, and sentinel lymph nodes and could dynamically monitor the dissolution of carotid artery thrombi.
+The treatment results demonstrate that the nanoprobes possess significant advantages in both tumor-targeting capability and therapeutic efficacy.
+These findings suggest that it holds great potential to be developed into a theranostic nanoprobe for cervical cancer.

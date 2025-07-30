@@ -1,0 +1,6 @@
+Development of methods to accurately detect the expression and activity of protein targets inside live cells is of great significance for disease diagnostics and drug development.
+Inductively coupled plasma mass spectrometry (ICP-MS) has been demonstrated as a promising technology for protein quantification, the key of which is developing element tags to selectively label the specific protein targets in complex samples with elements sensitive in ICP-MS.
+Numerous small-molecule element tags (SM-ETs) using DOTA as a lanthanide (Ln) chelating agent have been developed for specific protein target labeling.
+However, the existing DOTA-based SM-ETs still face limitations including the lack of cell targeting property and low cellular uptake as a result of the inability to penetrate the cell membrane for direct intracellular protein labeling, which restricts the application of SM-ETs for in situ protein quantification.
+Herein, we present a novel antibody-directed cell/protein dual-targeting strategy that enables us to specifically label and quantify protein targets inside live cells.
+Based on this strategy, we constructed a multifunctional antibody-targeted covalent Ln tag (

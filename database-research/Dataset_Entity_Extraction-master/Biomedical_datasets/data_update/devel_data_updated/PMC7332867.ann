@@ -1,0 +1,6 @@
+T1	Repository 628 632	NCBI
+T2	URL 634 663	https://www.ncbi.nlm.nih.gov/
+T3	AccessionNumber 684 694	MN908947.3
+T4	Repository 1051 1060	Swissprot
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T1	Arg2:T3

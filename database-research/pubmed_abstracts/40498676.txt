@@ -1,0 +1,17 @@
+Breast cancer is a highly heterogeneous disease and it is generally divided into four subtypes in clinical practice.
+Common differentially expressed genes are always ignored.
+In fact, the regulatory associations of common differentially expressed genes exhibit significant differences among the four subtypes of breast cancer.
+A deep differential analysis in four subtype of breast cancer is proposed in this paper.
+The common differentially expressed genes among four subtypes of breast cancer are mainly considered.
+The miRNA-mRNA regulatory network is constructed as a bipartite network and the regulations of miRNA-mRNA for each subtype of breast cancer are predicted.
+The common differentially expressed genes for four subtypes of breast cancer are obtained.
+Breast cancer is classified into four subtypes by using Prediction Analysis of Microarray 50.
+The method of EdgeR is employed to obtain the common differentially expressed genes.
+A background network is designed by the common differentially expressed genes.
+MiRNA-mRNA bipartite network is constructed by the background network.
+A method of weighted similarity information (WSI) is proposed.
+Global similarity information of miRNA and mRNA are obtained by the WSI, respectively.
+The regulations of miRNA-mRNA in four subtypes of breast cancer are predicted by integrating the MiRNA-mRNA bipartite network and the global similarity information of miRNA and mRNA.
+In 5-fold cross-validation, this method performs well across the four subtypes of breast cancer.
+In addition, the predicted regulations of miRNA-mRNA have 85% ratio in the miRWalk2.0 database.
+This represents a 30% improvement over traditional methods.

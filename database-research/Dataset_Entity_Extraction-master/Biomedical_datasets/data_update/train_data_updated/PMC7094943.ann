@@ -1,0 +1,19 @@
+T1	Repository 189 196	GenBank
+T2	AccessionNumber 214 222	MG772933
+T3	Repository 505 512	GenBank
+T4	AccessionNumber 530 538	MN908947
+T5	Repository 728 735	GenBank
+T6	AccessionNumber 753 761	AY274119
+T7	Repository 819 826	GenBank
+T8	AccessionNumber 844 852	MG772933
+T9	Creator 917 921	NCBI
+T10	Repository 922 949	Sequence Read Archive (SRA)
+T11	AccessionNumber 993 1004	PRJNA603194
+T12	Repository 1065 1072	GenBank
+T13	AccessionNumber 1096 1104	MN908947
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T5	Arg2:T6
+R4	hasAttr	Arg1:T7	Arg2:T8
+R5	hasAttr	Arg1:T10	Arg2:T11
+R6	hasAttr	Arg1:T12	Arg2:T13

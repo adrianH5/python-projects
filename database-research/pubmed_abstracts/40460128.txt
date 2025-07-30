@@ -1,0 +1,4 @@
+Historically, endocrine cells were perceived to coordinate their output in a uniform manner.
+Recently however, single-cell technologies have uncovered heterogeneity within these populations, indicating that individual cells may operate as independently regulated units.
+Using high-resolution tools such as single-molecule fluorescent in situ hybridization (sm-FISH) and single-cell RNA sequencing (scRNA-seq), we investigated the contributions of individual and the collective of fetal Leydig cells to androgen production over time during mouse testis development.
+Temporal profiles of intratesticular androgens alongside the expression of steroidogenic pathway genes (

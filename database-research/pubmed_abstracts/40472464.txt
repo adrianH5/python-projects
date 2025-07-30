@@ -1,0 +1,8 @@
+Breast cancer is the most diagnosed cancer type among women worldwide and quite a few will be diagnosed with triple-negative breast cancer (TNBC), which is still a challenge to be treated.
+Immunotherapy has demonstrated immense therapeutic potential.
+However, the characteristics of the immunosuppressive tumor microenvironment (ITME) limit the efficacy of immunotherapy in TNBC treatment.
+Herein, a molecule-electron engineering strategy is employed to optimize the excited state characteristics of endoplasmic reticulum (ER)-targeted photodynamic immunogenic cell death (ICD) stimulators.
+Beneficial to the large conjugated plane of electron donor, the enhanced spin-orbit coupling (SOC) and promoting intersystem crossing (ISC) boost the 244% higher reactive oxygen species (ROS) production in Cz-IOCy.
+Due to the superior ROS production and ER-targeted ability, Cz-IOCy induces severe ER stress and arouses the ICD pathway in different breast cancer cells.
+The amplifying antigen presentation promotes the dendritic cells (DCs) maturation and infiltration of cytotoxic T lymphocytes (CTLs), ultimately overcoming the ITME characteristic and realizing efficient immunotherapy.
+As a result, the growth of both proximal and distal cancers in TNBC mice models is suppressed, underscoring the efficacy of this molecule-electron engineering strategy for developing photodynamic ICD stimulators and TNBC immunotherapy drugs.

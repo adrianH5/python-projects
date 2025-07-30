@@ -1,0 +1,10 @@
+Total mesorectal excision (TME) is the gold standard for rectal cancer surgery.
+Robotic (RoTME) and transanal (TaTME) approaches have gained popularity, but their comparative effectiveness remains uncertain and previous meta-analysis include many retrospective studies which are prone to biases.
+This meta-analysis aims to bridge this gap.
+A systematic review and meta-analysis was conducted following PRISMA guidelines.
+PubMed, Scopus, Embase, and Web of Science were searched for prospective studies comparing RoTME and TaTME.
+Meta-analysis was performed using random-effects models.
+Sensitivity analysis included a "leave-one-out" approach.
+Subgroup analysis was performed for overweight patients.
+Five non-randomized prospective studies (n = 1941) were included.
+RoTME and TaTME had no significant differences regarding operative duration (MD: 27.29, 95% CI -56.18 to 110.76, P = 0.29, I

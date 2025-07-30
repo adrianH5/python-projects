@@ -1,0 +1,4 @@
+Considering the consensus sequences, two non-synonymous changes with respect to the Wuhan-Hu-1 NCBI Reference Genome (Accession number: MN908947.3) [2] were observed in the sequence from the clinical sample from patient 1: G11083T, leading to L3606F change in Orf1a, and G26144T, leading to G251V change in Orf3a.
+For the phylogenetic analysis, 87 full-genome SARS-CoV-2 sequences were retrieved from the Global Initiative on Sharing All Influenza Data (GISAID), along with WH-01_MN908947.3 from GenBank.
+All the genomes carrying this mutation are included in a significant phylogenetic cluster (bootstrap 87%), suggesting a common origin (Fig. 1
+); in fact, the G251V substitution in Orf3a has recently been defined as the marker variant of the ‘V’ clade (GISAID).

@@ -1,0 +1,57 @@
+Coronavirus disease (COVID-19) was caused by severe acute respiratory syndrome coronavirus
+2 (SARS-CoV-2), a newly discovered coronavirus with a size of 60–140 nm, located in the SARB
+subgene of the Betacoronavirus family [1].
+As on 2:00am CEST, 18 April 2020, there have
+been 2,160,207 confirmed cases of COVID-19, including 146,088 deaths globally [3].
+According to an analysis of
+44,672 confirmed cases out of 72,314 reported cases by the Chinese Center for Disease
+Control and Prevention (CDC), the crude case fatality rate of the patients with severe
+COVID-19 reached 49%.
+No vaccine for SARS-CoV-2 has been published publicly, and there was no medication specific
+for the treatment of COVID-19 so far [6].
+It was
+proved that Traditional Chinese Medicine (TCM) could obviously shorten fever duration and
+symptomatic relief of the patients with severe COVID-19 [7–9].
+Up to now, ‘three medicines and three formulas’
+have been proven effective in treating the COVID-19.
+Among them, Huashi Baidu formula
+(HSBDF) was used as an auxiliary medicine for the treatment of patients with severe
+COVID-19.
+According to the theory of TCM, the core pathogenesis of COVID-19 was the wet epidemic
+caused by the cold and humidity outside the lung and spleen, which was transformed into heat
+and lead to heat stagnation due to the imbalance of qi mechanism and endogenous stagnated
+heat [11].
+The combination of
+SARS-CoV-2 and ACE2 was the main cause of COVID-19.
+The protein targets associated with active compounds were retrieved from the TCMSP
+database (http://lsp.nwsuaf.edu.cn/tcmsp.php), which provided information of 6511 drug
+molecules and 3987 targets as well as the interactions between them [19].
+As an authoritative database of protein sequences, UniProt Knowledgebase (UniProtKB) comprised 54,247,468 sequence items [24].
+The targets, including the gene names and gene ID, were further extracted using UniProtKB (http://www.uniprot.org).
+Visual component–target network was established based on aforementioned data sets through Cytoscape 3.7.2 (http://www.cytoscape.org/) to reflect the complex relationships between active compounds and their potential targets [25].
+GeneCards database (https://www.genecards.org/) and Therapeutic Target Database (TTD, https://db.idrblab.org/ttd/) were used to gather the information on
+COVID-19-associated target genes [28].
+GeneCards is a comprehensive database of functions involving proteomics, genomics, and
+transcriptomics [29].
+The keywords ‘novel
+coronavirus pneumonia,’ ‘cough,’ and ‘fever’ were utilized to screen the
+COVID-19-associated targets.
+The names of targets were collected from TTD, which provided
+information about the therapeutic protein targets, the corresponding ID of each targets
+and the targeted disease.
+The common targets of HSBDF and COVID-19 were then gathered as
+the core targets of HSBDF for COVID-19.
+A total of 222 active compounds were retrieved in TCMSP database.
+A total of 216 possible targets of COVID-19 were screened through ‘novel coronavirus
+pneumonia,’ ‘cough,’ and ‘fever.’
+The
+network contained a total of 53 nodes, which were the core targets of HSBDF in the
+treatment of COVID-19.
+Since both SARS and COVID-19 were
+caused via binding S-protein to ACE2 [37,38], quercetin acted as
+a competitive antagonist to inhibit infection of SARS-CoV-2.
+Abstract   Purpose  Huashi Baidu formula (HSBDF) was developed to treat the patients with severe COVID-19 in China.
+All the components of HSBDF were retrieved from the pharmacology database of TCM system.
+The genes corresponding to the targets were retrieved using UniProt and GeneCards database.
+The target protein–protein interaction network was built using STRING database.
+Conclusion  Baicalein and quercetin in HSBDF may regulate multiple signaling pathways through ACE2, which might play a therapeutic role on COVID-19.

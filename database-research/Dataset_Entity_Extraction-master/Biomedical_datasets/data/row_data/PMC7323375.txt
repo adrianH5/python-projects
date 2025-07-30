@@ -1,0 +1,8 @@
+The present coronavirus disease 2019 (COVID‐19) is a pandemic respiratory disease caused by the novel SARS CoV‐2.
+Furthermore, in order to estimate the evolutionary progression of the bat SARS CoV genome, such that it is able to adapt to a human host as a novel coronavirus causing COVID‐19, we have analyzed the complete genomes of the bat, civet, human SARS CoV, and human SARS CoV‐2.
+The spike proteins were retrieved from the NCBI database using the sequence similarity search BLAST program,
+ with human SARS CoV‐2 spike protein as the query sequence (NCBI code: QHD43416) from the genome (GenBank code: MN908947.3).
+The complete genome nucleotide sequences of SARS CoV from bats, civets, and SARS CoV and CoV‐2 from human host were obtained from NCBI virus database (https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/virus?SeqType_s=Nucleotide) in FASTA format.
+The redundancy in each data set was removed using the CD‐HIT program.
+In the NGPhylogeny server, we have selected FastME 2.0 program that infers phylogenies using a distance approach since it is capable of handling large data sets.
+Abstract  Coronavirus disease 2019 (COVID‐19) is a pandemic infectious disease caused by novel severe acute respiratory syndrome coronavirus‐2 (SARS CoV‐2).

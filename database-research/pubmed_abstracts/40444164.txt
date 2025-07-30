@@ -1,0 +1,3 @@
+In initiating and regulating immune responses, dendritic cells (DCs) play an important role as antigen-presenting cells.
+When DCs are exposed to tumor cell lysates, they can stimulate T cells to recognize tumor-associated and tumor-specific antigens and generate an immune response against cancer.
+The purpose of this study was to compare 4 different approaches for preparing breast tumor cell lysates for pulsing DCs.

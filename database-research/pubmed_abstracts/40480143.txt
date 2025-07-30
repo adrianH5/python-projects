@@ -1,0 +1,5 @@
+Herein, an ultrasensitive aptasensor was developed for monitoring prostate-specific antigen (PSA) levels for the first time by incorporating the catalytic activity of CRISPR/Cas12a assembly and directional orientation of liquid crystal (LC) molecules.
+In the absence of PSA, the specific aptamer was hybridized with crRNA segment of the CRISPR/Cas12a assembly, which activated it for cleaving the ssDNA strand on the sensing substrate.
+This resulted in a dark background of the sensing substrate.
+While the assembly was unable to cleave the ssDNA sequence in the presence of PSA, due to forming the PSA-aptamer hybrid and disabling the enzymatic assembly, visualizing the colorful polarized sensing substrate.
+By changing the polarized background of the LC aptasensor from murky to multicolored, PSA could be detected ranging from 1 ag mL

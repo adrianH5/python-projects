@@ -1,0 +1,7 @@
+The SWI/SNF (or BAF) complex is an essential chromatin remodeler, which is frequently mutated in cancer and neurodevelopmental disorders.
+These are often heterozygous loss-of-function mutations, indicating a dosage-sensitive role for SWI/SNF subunits.
+However, the molecular mechanisms regulating SWI/SNF subunit dosage to ensure complex assembly remain largely unexplored.
+We performed a CRISPR KO screen, using epigenome editing in mouse embryonic stem cells, and identified Mlf2 and Rbm15 as regulators of SWI/SNF complex activity.
+First, we show that MLF2, a poorly characterized chaperone protein, promotes SWI/SNF assembly and binding to chromatin.
+Rapid degradation of MLF2 reduces chromatin accessibility at sites that depend on high levels of SWI/SNF binding to maintain open chromatin.
+Next, we find that RBM15, part of the m

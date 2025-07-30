@@ -1,0 +1,11 @@
+Lysosomes are recycling centers of nearly all types of eukaryotic cells.
+Lysosomal ion channels maintain ion homeostasis of lysosomes and exchange ions with neighboring cytoplasm and subcellular structures.
+In these ways, lysosomal ion channels contribute to major function of lysosomes such as autophagy and lysosomal exocytosis.
+Deficiency in some lysosomal ion channels results in lysosome storage disorders such as mucolipidosis IV that is associated with early-onset neurodegeneration.
+Moreover, lysosomal ion channels are involved in a variety of conditions such as cancer, infectious diseases, respiratory diseases, cardiovascular and kidney diseases.
+This narrative review aims to summarize current evidence that supports the potential role of lysosomal ion channels in pain.
+Lysosomal P2X4 may contribute to pain through trafficking to plasma membrane as well as lysosomal exocytosis.
+In dorsal root ganglion neurons, lysosomal TRPM8 functions as a constitutive supply from lysosomal to plasma membrane, whereas lysosomal TRPA1 may mediate vehicle exocytosis of neurotransmitters.
+Moreover, recent studies suggest that Tmem63A forms a mechanosensory ion channel in lysosomal membrane and that Tmem63A of dorsal root ganglion neurons contributes to mechanical hypersensitivity in chronic pain models.
+Furthermore, evidences indicating a potential role of TRPMLs in pain include ROS sensitivity of TRPML1, chemokine release mediated by TRPML2, and re-expression of TRPML3 upon nerve injury.
+However, despite the current supporting evidence, the role of lysosomal ion channels in pain is just being explored, and future studies are needed to address the significance, mechanism, and potential translation of lysosomal ion channels in pain.

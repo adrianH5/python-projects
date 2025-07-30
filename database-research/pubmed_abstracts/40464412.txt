@@ -1,0 +1,3 @@
+Hepatocellular carcinoma (HCC) is a leading cause of cancer-related deaths worldwide, with hepatitis B virus (HBV) as a major driver.
+Despite the pivotal role of viral infections in shaping the tumor microenvironment (TME), the mechanistic differences among HBV-, hepatitis C virus (HCV)-, and non-B non-C (NBNC)-associated HCC remain poorly understood.
+By integrating the largest publicly available single-cell RNA sequencing (scRNA-seq) dataset of HCC (160 samples from 124 patients) with multi-scale protein-level validation using multiplex immunofluorescence and tissue microarrays (198 HCC specimens), HLA-DR⁺ tumor cells are identified as a distinctive feature of HBV

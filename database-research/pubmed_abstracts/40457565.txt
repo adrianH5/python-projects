@@ -1,0 +1,2 @@
+Radiotherapy, the use of high-energy radiation to treat cancer, presents a challenge in determining treatment outcome relationships due to its complex nature.
+These challenges include its continuous, spatial, high-dimensional, multi-collinear treatment, and personalized nature, which introduces confounding bias.

@@ -1,0 +1,9 @@
+Annexin A5 (AnxA5) probes have been extensively utilized to investigate apoptotic cell death, which is crucial to various fields of biological research and clinical applications.
+Chemically labeled fluorescent AnxA5 has been widely used, but there is a notable scarcity of blue-emitting AnxA5 probes based on fluorescent proteins (FPs).
+Furthermore, methods utilizing AnxA5 predominantly rely on flow cytometry or fluorescence microscopy, both of which have inherent limitations, such as the necessity of costly instruments and specialized expertise, as well as the challenge of analyzing multiple samples.
+Fewer studies have focused on establishing a fluorometric microplate reader method for apoptosis detection.
+Herein, we reported a series of novel blue-emitting AnxA5 probes, ingeniously designed by fusing FPs.
+These probes can be applied for detecting apoptosis with flow cytometry and fluorescence microscopy.
+Additionally, based on our findings regarding the strong linearity between the fluorescence intensity and concentrations of AnxA5 probes, along with their analytical performances in apoptotic samples, we determined that blue-emitting AnxA5 probes were suitable for the microplate reader assay.
+We highlighted the reliability and practicality of this method by comparing with results obtained from flow cytometry.
+This fluorometric microplate reader assay offers a promising and high-throughput strategy for cancer researchers to evaluate the pro-apoptotic effects of potential antineoplastic drugs.

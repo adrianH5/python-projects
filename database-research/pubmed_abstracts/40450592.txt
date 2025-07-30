@@ -1,0 +1,5 @@
+Long noncoding RNAs (lncRNAs) have increasingly come to the forefront as promising blood biomarkers in the realm of cancer diagnosis and treatment, sparking intense interest in early cancer detection.
+Nevertheless, considering that cancer is a complex, multistage disease, the detection of a single lncRNA alone is insufficient to precisely mirror the progression of the disease.
+In the present study, we devised a sophisticated dual-mode sensing strategy that ingeniously combined fluorescent and electrochemical modalities through a cascade amplification reaction, which allowed for the concurrent identification of lncRNA MALAT1 and HOTAIR.
+In the presence of MALAT1 and HOTAIR, the corresponding DNAzyme activities were activated.
+Under the impetus of Mg

@@ -1,0 +1,6 @@
+T1	Dataset 889 902	GISAID EpiCoV
+T2	Dataset 1037 1043	GISAID
+T3	AccessionNumber 1057 1071	EPI_ISL_447734
+T4	AccessionNumber 1072 1086	EPI_ISL_447817
+R1	hasAttr	Arg1:T2	Arg2:T3
+R2	hasAttr	Arg1:T2	Arg2:T4

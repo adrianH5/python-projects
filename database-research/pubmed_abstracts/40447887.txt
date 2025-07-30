@@ -1,0 +1,10 @@
+Long-term survival following a diagnosis of hepatocellular carcinoma (HCC) is greatly diminished when transplantation and surgical resection are ruled out.
+Fortunately, the advent of immune checkpoint inhibitors (ICIs) has revolutionized the treatment of advanced unresectable HCC (uHCC), prolonging median survival by over a year.
+T lymphocytes normally eliminate neoplastic cells, but some tumors suppress this response by binding to immune checkpoint receptors.
+Blocking this interaction via ICIs restores immune-mediated targeting of cancer cells.
+While ICI-based combination immunotherapy is currently recommended as the first-line systemic therapy for uHCC, the objective radiological response rate remains limited to 20-30%, as not all tumors exploit this mechanism.
+Consequently, strategies are being explored to modulate the immune microenvironment into a "hot" environment more responsive to ICIs by combining local therapies such as transarterial chemoembolization, ablation, and radiation therapy.
+Therapeutic options have also expanded beyond ICIs, emphasizing the importance of selecting the most appropriate treatment.
+Therefore, the development of biomarkers capable of predicting the efficacy of immunotherapy is a priority.
+Direct evaluation of immune cell infiltration through biopsy is currently the most effective method but involves issues such as invasiveness and susceptibility to sampling bias.
+In this review, we aim to highlight promising non-invasive biomarkers and scoring systems that have the potential to improve treatment outcomes, including blood-based biomarkers such as lymphocyte ratios, cytokines, C-reactive protein, and alpha-fetoprotein; imaging biomarkers such as MRI, ultrasound, and contrast-enhanced CT; and other clinical indicators such as sarcopenia, grip strength, and diversity of the gut microbiome.

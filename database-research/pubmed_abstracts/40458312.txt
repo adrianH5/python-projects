@@ -1,0 +1,7 @@
+Epithelial-mesenchymal transition (EMT) is a biological process that involves the transformation of epithelial cells into cells with a mesenchymal phenotype, enhancing their migratory and invasive capabilities.
+EMT is crucial in embryonic development, tissue healing, and wound repair, and aids in forming diverse cell types and structures.
+However, aberrant EMT is involved in pathogenic processes, including fibrosis, cancer development, and progression.
+Recent studies show that EMT contributes to resistance to cancer treatment, including epidermal growth factor receptor-tyrosine kinase inhibitor (EGFR-TKI) therapy in non-small cell lung cancer (NSCLC).
+This review discusses the intricate relationship between EMT and acquired chemoresistance to EGFR-TKIs.
+It details evidence on how EGFR-TKIs might induce EMT and how EMT may cause EGFR-TKI resistance.
+Understanding these pathways is crucial for developing effective prognostic and therapeutic strategies to predict and combat acquired chemoresistance in NSCLC, advancing the field toward more targeted and personalized treatment approaches.

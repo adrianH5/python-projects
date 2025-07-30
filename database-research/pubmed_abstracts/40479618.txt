@@ -1,0 +1,13 @@
+Esophageal cancer recurrence occurs even in those who have a pathologic complete response (pCR) following neoadjuvant therapy and esophagectomy.
+The purpose of this study is to identify predictors of overall survival in patients with pCR.
+Using the National Cancer Database, a retrospective analysis of all adult patients with ypT0N0 esophageal cancer following neoadjuvant chemotherapy and radiation between 2012 and 2020 was performed.
+The variables analyzed were age, gender, ethnicity, insurance, Charlson-Deyo comorbidity score, clinical stage, and facility type.
+Cox proportional hazards regression was used to identify predictors of overall survival.
+Wilcoxon rank sum and chi-square tests were used for continuous and categorical variables, respectively, with a significance level of P < 0.05.
+There were 2767 patients that met the inclusion criteria, with the mean age of 63; 78% were male and 92% were White.
+Median survival was 6.6 years (95% confidence interval [CI]: 6.21-7.12).
+In multivariable analysis, older age (hazard ratio [HR] 2.7 per year, P < 0.0001), male gender (HR 3.3, P = 0.02), Charlson-Deyo score ≥ 2 (HR 3.9, P = 0.01), and advanced clinical stage (Stage IV vs.
+Stage I, HR 21.93, P < 0.001) predicted worse overall survival.
+Among patients who achieved pCR, advanced age, male gender, comorbidities, and clinical stage significantly influenced survival.
+Tumor- and treatment-related factors that impacted overall survival are advanced clinical stage and treatment at community facilities.
+These findings suggest that patients with advanced-stage esophageal cancer who achieve pCR remain at higher risk for recurrence and future studies should investigate this population further.

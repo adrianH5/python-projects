@@ -1,0 +1,13 @@
+In the context of enhanced recovery pathways (ERP) for colorectal surgery, thoracic epidural analgesia (TEA) delays recovery compared to opioid-based patient-controlled intravenous analgesia (PCA).
+Limited evidence is available for laparoscopic pancreatic surgery.
+The objective of this study was to evaluate the impact of different analgesic modalities on the time to functional recovery (TFR) following laparoscopic distal pancreatectomy (LDP).
+Clinical data for consecutive patients undergoing LDP were reviewed.
+All patients were treated within an ERP including a multimodal analgesia protocol.
+The main analgesic techniques used were TEA, intravenous morphine PCA, and patient-controlled sublingual sufentanil tablet system (SSTS).
+TFR was defined as postoperative days (PODs) needed to achieve adequate mobilization, return of gastrointestinal function, sufficient oral intake with no need for intravenous infusion, and adequate pain control with oral analgesia.
+Overall, 336 patients were included; 109 (32%) patients received TEA, 124 (37%) PCA, and 103 (31%) SSTS.
+TFR was significantly shorter for the SSTS group with median of 4 [IQR 3-5] days compared to 5 [4-6] days in both the TEA and PCA groups (p < 0.001).
+This difference was due to faster time to sufficient oral intake and adequate pain control with oral analgesia.
+On POD1, patients treated with TEA had better pain control compared to other modalities; the median NRS pain score at rest was 0 [0-3] compared to 2 [0-4] for both PCA and SSTS groups (p = 0.003).
+Multivariate regression showed that SSTS was associated with a 17% reduction (95% CI - 29 to - 5; p = 0.005) of TFR compared to TEA.
+Patients treated with SSTS had a significantly shorter TFR after LDP compared with other analgesic modalities with no difference in adverse events.

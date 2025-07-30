@@ -1,0 +1,4 @@
+Human papillomavirus (HPV) type 16, one of over 200 known genotypes, is a major cause of anogenital and oropharyngeal cancers worldwide.
+The L1 protein capsid - which represents the exterior shell of the virus - plays essential roles in host cell adhesion and entry, and is the major antigen used in vaccines that protect against HPV.
+Here we report an all-atom molecular dynamics (MD) simulation of the intact capsid in explicit solvent, a calculation comprising 16.8 million atoms.
+The detailed motions and emergent biophysical properties revealed by this simulation provide critical insights into capsid function and immunogenicity, establishing a new platform for rational drug design and antibody engineering.

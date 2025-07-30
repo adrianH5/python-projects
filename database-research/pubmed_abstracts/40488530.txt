@@ -1,0 +1,4 @@
+The secondary metabolites produced by the gut microbiota serve as crucial signaling molecules and substrates for gastrointestinal metabolic reactions, thereby playing a pivotal role in human physiological and pathological processes.
+In this study, we explore the complex symbiotic relationship between the gut microbiota and the human host by systematically annotating the biosynthetic gene clusters (BGCs) across 4,744 human gut microbiota genomes, sourced from the Unified Human Gastrointestinal Genome database.
+Our comprehensive analysis compares the differential biosynthetic potentials of microbiota from diverse continents and phyla while also elucidating the biosynthetic profiles of gut archaea.
+Notably, our findings identify

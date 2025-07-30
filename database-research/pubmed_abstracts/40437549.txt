@@ -1,0 +1,9 @@
+While the effects of cancer vaccines have been extensively studied in the therapeutic setting, research has been more limited in the areas of cancer prevention and interception.
+Although cancer prevention by vaccines has been possible for viral-mediated cancers, such as cervical cancers and hepatocellular carcinoma, preventing non-viral cancers by immunopreventive vaccines is challenging.
+Many tumors at late stages are less responsive to treatments, including immunotherapies and vaccines, in part due to an immunosuppressive microenvironment.
+Shifting the strategy to intervention at early stages of cancer development and progression and focusing on high-risk cohorts with defined molecular targets offers a pathway for improved vaccine efficacy.
+Current research on the role of immune mechanisms during tumor initiation and progression is rapidly evolving and recent emerging preclinical immunoprevention studies have shown that vaccines can induce host immune response and effectively control tumor onset and progression.
+In this review, we address important considerations and challenges regarding the development of cancer immunoprevention for non-viral cancers.
+We also discuss significant, innovative, and impactful preclinical and clinical immunoprevention studies in various cancers.
+This includes neoantigen discovery, the use and optimization of immunomodulating agents either alone or in combination with vaccines, and strategies for optimizing vaccines.
+We conclude by discussing prospects for immunoprevention research and potential opportunities to advance the field in the future.

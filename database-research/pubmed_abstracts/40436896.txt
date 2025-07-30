@@ -1,0 +1,6 @@
+BH3 mimetic drugs that inhibit BCL-2, BCL-XL, or MCL-1 have limited activity in solid tumors.
+Through assessment of xenograft-derived 3D prostate cancer models and cell lines we find that tumors with RB1 loss are sensitive to BCL-XL inhibition.
+In parallel, drug screening demonstrates that disruption of nucleotide pools by agents including thymidylate synthase inhibitors sensitizes to BCL-XL inhibition, together indicating that replication stress increases dependence on BCL-XL.
+Mechanistically we establish that replication stress sensitizes to BCL-XL inhibition through TP53/CDKN1A-dependent suppression of BIRC5 expression.
+Therapy with a BCL-2/BCL-XL inhibitor (navitoclax) in combination with thymidylate synthase inhibitors (raltitrexed or capecitabine) causes marked and prolonged tumor regression in prostate and breast cancer xenograft models.
+These findings indicate that BCL-XL inhibitors may be effective as single agents in a subset of solid tumors with RB1 loss, and that pharmacological induction of replication stress may be a broadly applicable approach for sensitizing to BCL-XL inhibitors.

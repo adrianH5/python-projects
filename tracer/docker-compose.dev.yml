@@ -1,0 +1,63 @@
+services:
+  api:
+    ports:
+      - "8000:8000"
+
+  frontend:
+    ports:
+      - "3000:3000"
+
+  postgres:
+    ports:
+      - "5432:5432"
+
+  redis:
+    ports:
+      - "6379:6379"
+
+  mock-twilio:
+    build:
+      context: ./docker/mock-twilio
+    ports:
+      - "5001:5000"
+
+  mock-gmail:
+    build:
+      context: ./docker/mock-gmail
+    ports:
+      - "5002:5000"
+
+  mock-calendar:
+    build:
+      context: ./docker/mock-calendar
+    ports:
+      - "5003:5000"
+
+  sdk-proxy:
+    build:
+      context: ./libs/sdk-proxy
+    ports:
+      - "8888:8888"
+
+  otel-collector:
+    image: otel/opentelemetry-collector-contrib:0.91.0
+    volumes:
+      - ./infra/otel-collector.yaml:/etc/otelcol-contrib/config.yaml
+    ports:
+      - "4317:4317"
+      - "4318:4318"
+
+  prometheus:
+    image: prom/prometheus:v2.47.2
+    volumes:
+      - ./infra/prometheus.yml:/etc/prometheus/prometheus.yml
+    ports:
+      - "9090:9090"
+
+  grafana:
+    image: grafana/grafana:10.4.2
+    volumes:
+      - ./infra/grafana_datasources:/etc/grafana/provisioning/datasources
+      - ./infra/grafana_dashboards:/etc/grafana/provisioning/dashboards
+    ports:
+      - "4000:3000"

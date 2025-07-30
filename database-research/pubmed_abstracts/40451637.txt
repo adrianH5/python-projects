@@ -1,0 +1,4 @@
+Barrett's esophagus (BE) is a known precursor for esophageal adenocarcinoma.
+Despite advances in endoscopic imaging modalities, endoscopic detection of BE neoplasia remains challenging, with considerable miss rates.
+Over the past years, artificial intelligence (AI) has emerged as a promising tool that may be a useful adjunct to the endoscopist.
+In this review, we provide an overview of the current role of AI in the management of BE and elaborate on the key challenges that need be addressed to enable its successful integration into daily endoscopic practice.

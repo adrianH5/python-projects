@@ -1,0 +1,2 @@
+We tested how the diabetes-related hyperglycemic condition affects the migration of highly metastatic triple-negative breast cancer (TNBC) cells, MDA-MB-231, under a physiological fluid shear environment.
+MDA-MB-231 cells displayed a significantly enhanced migratory behavior under a high glucose condition (25 mM) specifically when exposed to flow at 15 dyne/cm

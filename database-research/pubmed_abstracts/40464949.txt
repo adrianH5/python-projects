@@ -1,0 +1,11 @@
+CD151 is a broadly expressed four-transmembrane protein (tetraspanin) that interacts with laminin-binding integrins like integrin alpha 3 (ITGA3).
+CD151 drives tumor development and expression correlates with poor prognosis in solid cancers, but CD151 has not been studied in B cell malignancies.
+We investigated CD151 expression on normal human B cells and B cell lymphomas using highly sensitive flow cytometry and immunohistochemistry.
+Expression of CD151 increased during B cell differentiation from naïve to memory B cells to plasma cells.
+B lymphoma cell lines and human lymphoma biopsy samples expressed higher levels of CD151 compared to normal B cells, but CD151-deficient lymphomas were identified as well.
+To investigate the function of CD151 in B cells, CD151-deficient and stably transduced CD151 expressing B lymphoma cell lines were generated.
+Immunoprecipitation-mass spectrometry analysis of CD151 protein complexes identified integrin beta 2 (ITGB2) as new interaction partner in lymphoma cells.
+Deficiency of CD151 decreased cell surface expression of alpha integrin subunits L (ITGAL) and M (ITGAM), and impaired ICAM-1-mediated cell spreading.
+Interestingly, B cells and lymphomas did not express ITGA3-bound CD151 compared to T cells that expressed two different populations of integrin-bound and integrin-free CD151.
+Despite CD151 expression not being related to clinical outcome of patients with diffuse large B cell lymphoma (DLBCL), CD151 expression was predominantly detected in the activated (ABC) subset of DLBCL.
+Taken together, we identified a new molecular association of CD151 with ITGB2, and targeting integrin-free CD151 in DLBCL may represent a new target for immunotherapy.

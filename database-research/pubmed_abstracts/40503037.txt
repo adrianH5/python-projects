@@ -1,0 +1,7 @@
+Mutations in EGFR (mEGFRs) in non-small cell lung cancer (NSCLC) are key factors driving tumor development and treatment response.
+The present article aimed to review the classification, characteristics and molecular mechanisms of resistance to third-generation EGFR-tyrosine kinase inhibitors (EGFR-TKIs) associated with mEGFRs.
+Activating mutations (such as L858R and exon 19 deletions) are the primary markers of sensitivity to EGFR-TKIs, while rare mutations (such as G719X and S768I) require individualized treatment strategies.
+Resistance mechanisms are categorized into EGFR-dependent (such as T790M and C797S mutations) and -independent (bypassing signaling activation, epithelial-mesenchymal transition, tumor microenvironment remodeling and epigenetic regulation).
+Third-generation EGFR-TKIs (such as osimertinib) markedly improve patient survival by selectively targeting the T790M mutation, but novel resistance mutations, such as C797S, limit their long-term efficacy.
+Combination therapies (such as MET proto-oncogene, receptor tyrosine kinase/EGFR dual-target inhibitors) and fourth-generation TKIs (such as BLU-945) offer novel directions to overcome resistance.
+Future research should focus on precise subtyping, dynamic monitoring of resistance mechanisms and regulation of the immune microenvironment to advance personalized treatment for NSCLC.

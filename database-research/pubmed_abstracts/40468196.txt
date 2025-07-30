@@ -1,0 +1,1 @@
+This study aimed to develop and validate machine learning models for preoperative identification of metastasis to station 4 mediastinal lymph nodes (MLNM) in non-small cell lung cancer (NSCLC) patients at pathological N0-N2 (pN0-pN2) stage, thereby enhancing the precision of clinical decision-making.

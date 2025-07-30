@@ -1,0 +1,7 @@
+Transplantation related mortality (TRM) remains an issue, particularly in older patients with hematological malignancies.
+In order to assess the TRM and the feasibility of allogeneic hematopoietic stem cell transplantation (allo-HSCT) in older patients, we collected data from a total of 251 patients aged 55-70 years with acute hematological malignancies who received allo-HSCT from April 19, 2011 to June 28, 2022 in our hospital.
+With the median follow-up of 637 days, the cumulative incidence of TRM for patients above 55 years on Day 100, 1 year, and 2 years was 6.0%, 21.2%, and 26.7%, respectively.
+Forty-three (17.1%) patients died of TRM, of whom 11 patients died within 100 days after allo-HSCT, including two due to TMA, two due to aGVHD and TMA simultaneously, one due to capillary leak syndrome, and six due to infection.
+The cumulative incidence of TRM on Day 100, 1 year, and 2 years between the group aged 55-59 and 60-70 years did not show significant differences.
+Through a Cox regression analysis, platelet engraftment failure, conditioning regimen, grade 3-4 aGVHD, and cytomegalovirus disease were determined as risk factors for TRM in older patients.
+In conclusion, allo-HSCT is a feasible option for older patients with hematological malignancies.

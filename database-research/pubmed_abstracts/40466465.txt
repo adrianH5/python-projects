@@ -1,0 +1,2 @@
+Lung cancer is the leading cause of cancer-related mortality worldwide, highlighting the importance of refining diagnostic modalities.
+This study's main focus is the development of a digital pathology, prognostic algorithm for fully automatized quantification of stroma-tumor ratio (STR) in patients with resectable non-small cell lung cancer (NSCLC).

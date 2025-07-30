@@ -1,0 +1,11 @@
+TP53-mutated acute myeloid leukemia (AML) remains one of the most treatment-resistant hematologic malignancies, with poor overall survival despite advancements in therapeutic strategies.
+The loss of functional p53 compromises DNA repair, apoptosis, and genomic stability, rendering both conventional and novel therapies largely ineffective.
+This review evaluates the efficacy of various treatment approaches, including intensive chemotherapy (IC), hypomethylating agents (HMAs), venetoclax-based regimens, and immune checkpoint inhibitors.
+Additionally, we discuss emerging strategies such as p53 reactivation, multi-targeted inhibition, and novel immunotherapies, including bispecific T-cell engagers (BiTEs) and CAR-T cell therapy.
+Current treatment options provide limited benefits in TP53-mutated AML, with complete remission rates ranging from 13% to 46% and median overall survival of only 6.1-6.5 months.
+Allogeneic stem cell transplantation (allo-SCT) offers minimal survival advantage due to high relapse rates.
+Despite promising preclinical data, checkpoint inhibitors and TIM-3 blockade have failed to demonstrate significant clinical efficacy, likely due to the immunosuppressive tumor microenvironment.
+Novel approaches, such as APR-246 (eprenetapopt) and MCL-1/CHK1 inhibitors, are under investigation, but their therapeutic impact remains uncertain.
+The failure of single-agent therapies underscores the need for combination strategies targeting multiple resistance mechanisms.
+Future research should focus on integrating targeted inhibitors with immunotherapy and bone marrow microenvironment modifiers.
+While TP53-mutated AML remains a formidable challenge, ongoing advances in precision medicine and immunotherapy hold the potential to improve patient outcomes.

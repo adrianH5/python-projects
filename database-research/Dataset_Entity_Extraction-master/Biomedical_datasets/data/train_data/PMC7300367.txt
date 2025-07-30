@@ -1,0 +1,8 @@
+According to the Johns Hopkins University Coronavirus Resource Center and the Daily Technical Statement on New Coronavirus Cases Worldwide (COVID-19) issued by the Secretary of Health of Mexico, as of March 20, 2020, 234,072 confirmed cases have been reported worldwide with 9840 deaths.
+At the time of this writing, 768 complete genomic sequences of SARS Cov-2 have been obtained and deposited in the GISAID database, and 10 clades have been defined from phylogenetic studies carried out with these sequences (A1, A1a, A2, A2a, A3, A5, B, B1, B2 and B4) [5].
+A diagnostic test for COVID-19 was first conducted at the Instituto Nacional de Enfermedades Respiratorias, Mexico City, on February 27, 2020.
+The complete genome sequence was assembled using CLC Genomics Workbench 20 (QIAGEN) and SPAdes [9] and mapped against the reference sequence Wuhan-Hu-1 (GenBank accession number NC_045512.2).
+The sequence was deposited in the GISAID database [5] under accession ID EPI_ISL_412972.
+A database was constructed including 178 genomic sequences available on the GISAID platform, obtained from December 31, 2019 to March 05, 2020, reported in 22 countries.
+A second database of 768 sequences deposited until March 20, 2020, was used to construct a phylogenetic tree.
+This finding correlates with the transmission events reported by GISAID [5], which suggest that this strain was first introduced into Belgium, then England, and finally, Italy, where the Mexican patient had been traveling.

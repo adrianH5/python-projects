@@ -1,0 +1,9 @@
+Endocrine disturbance induces the incidence of polycystic ovary syndrome (PCOS) in women.
+Inhibiting adenylate cyclase (AC), which participates in the function of disturbed endocrine factors such as follicle-stimulating hormone (FSH), could be a novel therapeutic strategy to treat PCOS.
+In this study, a novel AC activity assay was established and used for high-throughput screening of a Food and Drug Administration (FDA)-approved drug library.
+Consequently, aspirin effectively inhibited the activity of AC in vitro and reduced estrogen biosynthesis by inhibiting the expression of aromatase in human granulosa cells, a key enzyme that catalyzes the conversion of androgens into estrogens.
+Aspirin irreversibly inhibited the activity of AC subtypes and covalently bound to recombinant AC by binding to Lys350 and Lys426, which correspond to Lys938 and Lys1014 of full-length AC2.
+Mechanistically, aspirin inhibited cAMP response element-binding protein-mediated aromatase expression by the AKT/mammalian target of rapamycin (mTOR) signaling pathway.
+Furthermore, aspirin effectively alleviated PCOS symptoms in mouse models by decreasing androgen levels, lowering insulin levels, and reducing cystic follicles.
+These results revealed that aspirin is a potent inhibitor of ACs and a previously unrecognized role of ACs in estrogen biosynthesis.
+Therefore, aspirin warrants further investigation as a novel therapeutic agent in PCOS.

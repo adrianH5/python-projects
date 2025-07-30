@@ -1,0 +1,7 @@
+Cancer therapy based on extracellular vesicles faces several practical challenges, such as low production, inadequate stability, and inefficiency, making it difficult to achieve ideal therapeutic effects.
+To address these issues, a novel engineering technology of EVs was developed based on the autonomous "fusion-exocytosis" process.
+Specifically, membrane fusogenic liposomes (MFLs) with unique physical and chemical properties were engineered by tailoring the components, which could interact with cells to facilitate mutual fusion of lipid membranes and release fusogenic extracellular vesicles (FEVs).
+As an inducer of immunogenic cell death (ICD) and enhancer of EV production, monensin (Mon) was incorporated into MFLs.
+The synergistic action of MFLs and Mon not only increased the production of released FEVs but also significantly enhanced their immunogenicity, effectively promoting maturation of dendritic cells (DCs).
+Consequently, the obtained FEVs effectively inhibited tumor growth by activating anti-cancer immune responses.
+This engineering method of generating FEVs could substantially increase production and enhance immunogenicity, which would facilitate their clinical translation for cancer therapy.

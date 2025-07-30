@@ -1,0 +1,6 @@
+T1	Dataset 1095 1101	GISAID
+T2	URL 1103 1121	http://gisaid.org/
+T3	AccessionNumber 1734 1745	PRJNA573298
+T4	Repository 1772 1780	NCBI SRA
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T4	Arg2:T3

@@ -1,0 +1,8 @@
+A high-density nano-oscillator platform using self-assembled DNA-barcoded virion sensors is developed to address the critical need for high-throughput label-free measurement of small-molecule binding to membrane proteins.
+By integrating virion display technology with charge-sensitive plasmonic detection, our platform enables robust, label-free quantification of small-molecule binding kinetics to membrane proteins.
+Gold nanoparticle-virion conjugates are self-assembled onto a plasmonic sensor chip via a flexible molecular linker to form high-density nano-oscillators.
+Driven by an alternating electric field, the oscillation amplitudes of the nano-oscillators are precisely measured via widefield plasmonic imaging.
+This charge-sensitive mechanism can sensitively detect the binding of small-molecule ligands to the membrane proteins displayed on the virions at single-nanosensor resolution, overcoming the sensitivity limit of conventional mass-sensitive techniques.
+More importantly, the platform employs novel affinity-discriminated DNA barcodes for multistate decoding with exponential multiplexing capacity, enabling high-throughput screening of a library of membrane proteins.
+For a proof-of-concept demonstration, binding kinetics of five pairs of G-protein-coupled receptors and their corresponding small molecule ligands are measured on a single sensor chip, with all individual nano-oscillators identified by just two affinity-discriminated, quadra-state DNA decoders.
+This technology advances membrane protein research and drug screening capabilities, offering a practical solution for biomolecular interaction studies and biosensing applications.

@@ -1,0 +1,11 @@
+This research study aimed to develop and evaluate a novel freeze-dried nanocrystals formulation of sotorasib (AMG-510) using Quality by Design (QbD) approach to enhance solubility, dissolution, and oral bioavailability.
+A QbD framework use for identification, optimization and validation of critical process and formulation parameters, significantly influcing key quality attributes of nanosuspension.
+A stable sotorasib nanocrystal formulation (45 % w/w) was successfully developed using an anionic glycolipid biosurfactants (rhamnolipid) and non-ionic polyvinyl alcohol (PVA) as stabilizers through dual centrifugation wet media milling.
+A comprehensive freeze-thaw stress study indicated that the nanocrystals-maintained stability, with lyoprotectants such as hydroxypropyl-β-cyclodextrin (HPβ-CD) and trehalose effectively preventing aggregation.
+Brunauer-Emmett-Teller (BET) analysis revealed a 14-fold increase in surface area and improved porosity following nanonization and freeze-drying.
+Solid-state characterization confirmed a reduction in crystallinity post-milling and freeze-drying processes, with nanocrystals retaining their crystalline structure.
+Morphological characterization using SEM and Cryo-TEM confirmed well-dispersed nanocrystals with uniform morphology and no significant aggregation.
+The freeze-dried product exhibited excellent redispersibility, with particle sizes reverting to their original dimensions upon reconstitution.
+In vitro drug release studies demonstrated a particle size-dependent dissolution rate enhancement, with significantly higher drug release at intestinal pH (6.8) compared to the pure drug.
+Storage stability testing revealed that the nanosuspensions and freeze-dried formulations remained stable under accelerated conditions, preserving particle size, PDI, and drug loading over three months.
+The developed nanocrystalline formulation offers a promising strategy to improve the therapeutic efficacy of poorly soluble drugs like sotorasib, especially in high-dose regimens, enhancing patient convenience and adherence.

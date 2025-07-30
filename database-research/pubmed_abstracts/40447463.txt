@@ -1,0 +1,2 @@
+Endoscopic Ultrasound (EUS)-guided needle-based confocal laser endomicroscopy (nCLE) enables real-time microscopic visualization of pancreatic cyst epithelium and can identify high-grade dysplasia/invasive adenocarcinoma (HGD/IC) in branch-duct (BD) intraductal papillary mucinous neoplasms (IPMNs).
+We aimed to compare the performance of experts (humans) with artificial intelligence (AI) in stratifying dysplasia in BD-IPMNs.

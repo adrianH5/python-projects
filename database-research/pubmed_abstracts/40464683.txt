@@ -1,0 +1,8 @@
+Efficient DNA repair is essential for maintaining genome integrity and ensuring cell survival.
+In Escherichia coli, RecBCD plays a crucial role in processing DNA ends, following a DNA double-strand break (DSB), to initiate repair.
+While RecBCD has been extensively studied in vitro, less is known about how it contributes to rapid and efficient repair in living bacteria.
+Here, we use single-molecule microscopy to investigate DNA repair in real time in E. coli.
+We quantify RecB single-molecule mobility and monitor the induction of the DNA damage response (SOS response) in individual cells.
+We show that RecB binding to DNA ends caused by endogenous processes leads to efficient repair without SOS induction.
+In contrast, repair is less efficient in the presence of exogenous damage or in a mutant strain with modified RecB activities, leading to high SOS induction.
+Our findings reveal how subtle alterations in RecB activity profoundly impact the efficiency of DNA repair in E. coli.

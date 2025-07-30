@@ -1,0 +1,9 @@
+Immunotherapy has become a promising and transformative approach for treating advanced or treatment-resistant bladder cancer (BCa).
+However, its efficacy remains limited due to the immunosuppressive tumor microenvironment (TME) and insufficient immune cell infiltration.
+Photothermal therapy (PTT), which could cause immunogenic cell death (ICD) in tumor tissue, has been explored as a synergistic approach for bladder cancer immunotherapy.
+Yet, thermal resistance in cancer cells often undermines the effectiveness of PTT.
+To address these challenges, we proposed a novel strategy that combines PTT with cuproptosis, a recently identified form of ICD, by engineering Tim-3-overexpressing T cell membrane-coated nanoparticles (Tim3@PHSM@IC) to enhance BCa immunotherapy.
+The overexpression of Tim-3 on the T cell membrane enabled precise targeting of tumor cells and competitively inhibited the Tim-3 receptor on T cells through recognition of Galectin-9.
+In vitro, Tim3@PHSM@IC nanoparticles effectively induced photothermal cytotoxicity and robust cuproptosis.
+In vivo, these nanoparticles significantly inhibited tumor growth in multiple BCa mouse models.
+Flow cytometry (FCM) and RNA sequencing (RNA-seq) analyses revealed that Tim3@PHSM@IC nanoparticles reprogrammed the TME by activating immune-related genes and enhancing ICD This study highlights the potential of Tim3@PHSM@IC nanoparticles in overcoming the immunosuppressive TME and improving the efficacy of BCa immunotherapy by integrating PTT and cuproptosis.

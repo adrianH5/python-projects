@@ -1,0 +1,6 @@
+Aneuploidy, a hallmark of cancer, leads to widespread changes in chromosome copy number, altering the abundance of hundreds or thousands of proteins.
+How-ever, evidence suggests that levels of proteins encoded on affected chromosomes are often buffered toward their abundances observed in diploid cells.
+Despite its preval-ence, the molecular mechanisms driving this protein dosage compensation remain largely unknown.
+It is unclear whether all proteins are buffered to a similar degree, what factors determine buffering, and whether dosage compensation varies across different cell lines or tumor types.
+Moreover, its potential adaptive advantage and therapeutic relevance remain unexplored.
+Here, we established a novel approach to quantify protein dosage buffering in a gene copy number-dependent manner, show-ing that dosage compensation is widespread but variable in cancer cell lines and

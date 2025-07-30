@@ -1,0 +1,10 @@
+Evasion of cellular senescence is one of the hallmarks of cervical carcinoma (CC) to maintain malignant development.
+Even though the regulators driving CC cell senescence are widely recognized, the underlying upstream mechanisms are still not fully understood.
+Long non-coding RNAs (lncRNAs) are emerging as important regulators in cell senescence.
+Here, we conducted a lncRNA profiling and identified LINC02593 as a significantly downregulated lncRNA in induced senescent cervical squamous cell carcinoma (CSCC) cells.
+LINC02593 is upregulated in CSCC tissues.
+Depletion of LINC02593 resulted in a marked cellular senescence phenotype and tumor growth inhibition in vitro and in vivo, whereas LINC02593 overexpression suppressed doxorubicin-induced cell senescence.
+LINC02593 was shown to impede cell senescence by inhibiting p21 expression, and this regulation was mainly dependent on p53 protein degradation.
+Mechanistically, LINC02593 served as a scaffold, bridging the coiled-coil domain of COP1 and the C-terminal domain of p53, enhancing the affinity between p53 and its E3 ubiquitin ligase COP1.
+The "scaffold" function facilitated p53 degradation by COP1 as well as the downstream p21 repression, eventually evading cell senescence.
+Overall, we characterized a previously unknown mechanism by which LINC02593 manipulated senescence to promote CC progression.

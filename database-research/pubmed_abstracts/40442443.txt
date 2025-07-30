@@ -1,0 +1,7 @@
+Ferroptosis, an iron-dependent regulated cell death modality driven by lipid peroxidation cascades, has emerged as a critical pathogenic mechanism in tumorigenesis and therapeutic resistance.
+The long non-coding RNA HOTAIR (HOX transcript antisense RNA), previously recognized as a key epigenetic modulator in tumor biology, orchestrates malignant phenotypes through regulation of cell cycle dynamics, proliferative signaling, and metastatic potential.
+Despite these advances, the mechanistic interface between HOTAIR-mediated ceRNA networks and ferroptosis regulation in breast carcinogenesis remains undefined.
+Bioinformatic analysis and RT-qPCR validation precisely mapped the subcellular localization and interaction networks of this regulatory axis.
+Key findings revealed that HOTAIR silencing functionally promotes malignant phenotypes (proliferation, migration and invasion), and mechanistically serves as a molecular sponge for miR-206, thereby de-repressing CERS2 expression to modulate ferroptosis susceptibility.
+Given the established correlation between HOTAIR silencing and ferroptosis in BRCA, our data suggest that pharmacological induction of ferroptosis represents a promising therapeutic paradigm for this molecular subset.
+This work not only deciphers a novel HOTAIR/miR-206/CERS2 axis in ferroptosis regulation but also provides translational insights for developing biomarker-driven treatment strategies in refractory breast malignancies.

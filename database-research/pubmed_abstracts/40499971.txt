@@ -1,0 +1,6 @@
+Identifying difficult airways and avoiding unanticipated difficult airways through difficult airway assessment are crucial for patient safety prior to airway management.
+Therefore, accurately predicting difficult airways through airway assessment is a fundamental and significant technique in airway management by clinicians.
+Artificial intelligence (AI) is a rapidly evolving science with greater data processing ability than humans.
+AI, given its ever-expanding applications in medical diagnosis and disease prediction, has been employed to predict cases with difficult airways.
+Nevertheless, the diagnostic performance of AI algorithms for difficult airway assessment remains unclear due to the small sample sizes, insufficient image acquisition standards and poor predictive accuracies.
+Consequently, this study aims to formulate a protocol for a systematic review and meta-analysis to ascertain the diagnostic value of AI in assessing difficult airways.

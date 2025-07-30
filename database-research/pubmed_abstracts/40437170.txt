@@ -1,0 +1,6 @@
+There has been a been a paucity of immunotherapy targets in myeloid malignancies.
+We identified the HLA-A2 (A2)-restricted, cathepsin G (CG)-derived signal peptide, CG1, as a promising immunotherapeutic target.
+CG1 is presented by HLA-A2 in acute (AML) and chronic (CML) myeloid leukemia.
+We previously developed a T cell receptor-mimic antibody (TCR-m) that targets CG1/A2, engineered it into a bispecific T cell engager antibody, and demonstrated its safety and efficacy in AML and CML.
+In this study, we provide data for the engineering, preclinical efficacy, and safety of CG1/A2-targeting chimeric antigen receptor (CAR) T cells (CG1/A2-CAR T), which utilize the CG1/A2 TCR-m constructs.
+We show that the CG1/A2 TCR-m has high affinity for CG1/A2 monomers and CG1/A2-expressing leukemia, including HLA-A2

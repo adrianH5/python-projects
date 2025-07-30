@@ -1,0 +1,7 @@
+Nail apparatus melanoma (NAM) is a specific type of cutaneous melanoma that develops in the nail apparatus of the hands and feet.
+The prognosis for metastatic NAM is poor due to a lack of fully effective systemic therapies.
+However, the difficulty in obtaining a NAM model has hindered basic research aimed at discovering effective treatment strategies.
+In this study, we established a NAM cell line, named KS-NailMel-1, from a primary tumor located on the nail apparatus of the left ring finger of a 68-year-old Japanese female.
+The cells were successfully maintained for over 9 months, exhibiting a doubling time of 38.6 ± 1.94 h. KS-NailMel-1 displayed consistent growth, spheroid formation, and invasiveness, and was confirmed to be identical to the original tumor through short tandem repeat analyses, whole-exome sequencing, and immunohistochemistry.
+Western blotting of the cells demonstrated the protein expression of NECTIN4, which has recently attracted attention as a potential therapeutic target for melanoma.
+The KS-NailMel-1 cell line represents a valuable resource for basic and preclinical research on NAM, deepening our understanding of the tumor characteristics and facilitating the development of treatment strategies for this rare form of cancer.

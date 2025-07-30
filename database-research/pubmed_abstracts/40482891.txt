@@ -1,0 +1,8 @@
+Small interfering RNA (siRNA) effectively reduces hepatitis B virus (HBV) antigens, but recent clinical trial results indicate that its efficacy and durability remain unsatisfied, warranting further mechanistic investigation.
+This study aims to explore the expression patterns and potential sources of residual viral nucleic acids following siRNA treatment in both in vitro and in vivo models, enhancing the understanding of siRNA's antiviral effects.
+Biochemical methods, combined with immunofluorescence and fluorescent in situ hybridization techniques, were employed to analyze the antiviral effects of siRNAs targeting the S, X, and C coding regions of HBV at the single-cell level in HBV-infected HepG2-NTCP cell model and rAAV8-HBV1.3 mouse model.
+The results indicate that, in both the in vitro and in vivo models, a single dose of siRNA treatment did not significantly reduce the proportion of cells positive for any HBV marker.
+Residual viral antigen and nucleic acid signals were broadly distributed across individual cells.
+The antiviral effects of siRNA generally exhibit dose-dependent inhibition of HBV, but vary across different viral markers, potentially due to factors such as target region, engagement, and the viral expression patterns within cells, with a potential inhibition plateau for core particle DNA.
+Furthermore, the combination of siRNA and the HBV core inhibitor GLS4 further reduced intracellular viral DNA in primary human hepatocytes.
+These findings obtained from experimental models incorporating in situ detection techniques reveal the expression patterns of residual HBV antigens and nucleic acids under siRNA treatment, deepening the understanding of its antiviral effects, while clinical complexities require further investigation.

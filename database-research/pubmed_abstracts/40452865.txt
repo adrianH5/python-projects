@@ -1,0 +1,5 @@
+In this work, we demonstrate significant modifications to our robotically controlled terahertz (THz) sensing system, the "PicoBot," enabling it to perform in vivo imaging of skin rather than limiting it to single-point measurements.
+By integrating a robotic arm equipped with force-sensitive feedback control, we maintain consistent contact pressure between the probe and the skin surface throughout imaging.
+In conjunction with this hardware advancement, we introduce an accompanying image analysis pipeline that reduces noise and enhances repeatability across scans.
+These improvements allow for reliable intra- and inter-subject comparisons, a critical step toward the clinical utility of THz imaging.
+Our ultimate aim is to use THz imaging to detect skin cancer margins: this paper highlights progress towards this goal and skin evaluation in general.

@@ -1,0 +1,3 @@
+Current report conducted careful examination of the sequences of 2019-nCoV, other CoV viruses and HIV-1 as well as GenBank database.
+Blast against viral sequence database also showed these insertion sequences widely exist in all kinds of viruses from bacteriophage, influenza, to giant eukaryotic viruses (Table 1).
+More hits were found for coronaviruses and a few also hit on HIV-1 sequences than the search against the entire database (Table 1).

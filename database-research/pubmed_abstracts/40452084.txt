@@ -1,0 +1,12 @@
+Background In tropical countries like Nepal, the COVID-19 pandemic unfolded within a population already grappling with various tropical infectious diseases.
+Co-infection with malaria and dengue holds clinical significance when managing COVID-19 patients in regions endemic to these diseases.
+Objective To identify malaria and dengue infections in febrile or symptomatic patients suspected of COVID-19 at the Sukraraj Tropical and Infectious Disease Hospital, Kathmandu.
+Method Over two months, a prospective study was conducted on febrile or symptomatic patients suspected of COVID-19 visiting Sukraraj Tropical and Infectious Disease Hospital, Kathmandu.
+One hundred and twenty-three patients suspected of COVID-19 were tested for SARS-CoV-2 through RT-PCR as well as for malaria and dengue infection using rapid diagnostic test kits.
+Result Out of 123 patients suspected of COVID-19, 64 were confirmed to have COVID-19.
+No evidence of SARS-CoV-2 and malaria co-infection was found among the 123 tested patients.
+However, two patients admitted for COVID-19 tested positive for dengue virus infection.
+The patients with co-infections with dengue or scrub typhus were likely to have a longer hospital stays (OR 2.5; 95% CI: 0.22-29.26), though lacking a significant association.
+Conclusion The two patients diagnosed with dengue virus and SARS-CoV-2 were identified during their hospital visit and both recovered after receiving treatment.
+Given that COVID-19 patients manifest symptoms resembling many tropical infectious diseases, the study underscores the clinical importance of testing for multiple circulating infections in patients from endemic areas.
+This approach ensures appropriate and timely management reducing the risk of severity or mortality.

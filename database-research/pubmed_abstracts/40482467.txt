@@ -1,0 +1,8 @@
+Segmental chromosomal alterations, including 11q deletion and 17q gain, are the strongest predictors of pediatric neuroblastoma relapse.
+These alterations result from unbalanced translocations linked to erroneous DNA repair.
+Breakpoint sequence analysis suggests that these abnormalities arise through a nonhomologous end-joining mechanism, indicating a potential therapeutic opportunity.
+While the exact components driving this DNA end-joining process in neuroblastoma remain unknown, polymerase theta-mediated end-joining (TMEJ) has been implicated in other homologous recombination-deficient cancers.
+Our previous work demonstrated that high-risk neuroblastoma expresses elevated levels of TMEJ components, including DNA Ligase III and Ligase I, while downregulating classical NHEJ factors (DNA Ligase IV and Artemis).
+Here we show that POLQ, a critical enzyme in TMEJ, is significantly upregulated in neuroblastoma.
+POLQ knockout impairs proliferation, enhances sensitivity to DNA damaging agents, and reduces tumor growth in vivo.
+These findings suggest that POLQ facilitates DNA damage tolerance in neuroblastoma and represents a viable therapeutic target.

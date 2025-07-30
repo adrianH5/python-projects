@@ -1,0 +1,7 @@
+Background There is good evidence describing on-call pharmacy services internationally; however, there is limited evidence evaluating out-of-hours (OOH) calls from adult critical care units.
+Our primary objective is to describe the characteristics of OOH calls from adult critical care units to resident pharmacists, to inform service provision to this high-risk specialty.
+Our secondary objective is to compare the characteristics of calls during evening and nighttime hours.
+Methods This is a retrospective observational review of adult critical care OOH calls received by resident pharmacists from August 2023 to July 2024 at a large tertiary center.
+OOH calls were defined as calls received from 5 pm to 9 am Monday to Sunday, and we further differentiated the calls into evening calls (5 pm to 9 pm) and nighttime calls (9 pm to 9 am).
+We collected the characteristics of OOH calls, i.e., patient age and sex, ward location, type of query (medicines information/advice or supply), drug requested, category of drug, route of administration, day of the week, date and time of call received, and duration to resolution of call.
+We compared the characteristics of OOH calls during the evening (5 pm to 9 pm) vs. nighttime (9 pm to 9 am) using an independent samples t-test for continuous data and Pearson's χ

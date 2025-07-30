@@ -1,0 +1,6 @@
+Neutron activation of activation targets in neutron beams with interruptions is studied.
+A simple and robust formalism for determining the number of activated atoms in neutron activation measurement despite beam interruptions is derived.
+Two simplified methods for correcting for the decay of produced nuclei in the activation target during beam interruptions are obtained and equations for using them are presented.
+The error of the simplifications done in the correction methods is quantified for Mn and Au activation targets and typical BNCT quality assurance measurement conditions.
+Upper limits on the duration of interruptions are established for keeping the impact of the simplifications on the total measurement uncertainty small when resuming irradiation after beam breaks.
+With these corrections methods and respecting the obtained upper limits on total pause duration, quality assurance neutron activation measurements in BNCT can be accomplished even if the neutron beam contains pauses, thus saving time from resetting the experimental setup each time an interruption occurs.

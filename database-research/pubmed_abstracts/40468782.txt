@@ -1,0 +1,4 @@
+Self-assembled peptides are promising templates for the design of inhibitors of protein-protein interactions (PPIs) because they can be endowed with affinity- and selectivity-defining amino acids alongside favorable physicochemical properties such as solubility and stability.
+Here, we describe a tunable coiled-coil scaffold and its interaction with MCL-1, an α-helix-binding antiapoptotic protein and important target in oncology.
+We explore the role of oligomerization, multivalency, and cooperativity in PPI inhibition.
+Hot-spot residues from an MCL-1 binding peptide (NOXA-B) are grafted onto the outer surfaces of homo- and heterodimeric coiled-coil peptides to obtain inhibitors with mid-nM potency and selectivity over BCL-x

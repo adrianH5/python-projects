@@ -1,0 +1,10 @@
+Tumor-derived extracellular vesicles (TDEVs) represent a heterogeneous population of extracellular vesicles (EVs), including exosomes, microvesicles, and apoptotic bodies, which are essential for tumor growth.
+EVs function as natural carriers of bioactive molecules, including lipids, proteins, and nucleic acids, enabling them to influence and regulate complex cellular interactions within the tumor microenvironment (TME).
+The TDEVs mainly have immunosuppressive functions as a result of the inhibitory signals disrupting the immune cell anti-tumor activity.
+They enhance tumor progression and immune evasion by inhibiting the effector function of immune cells and by altering critical processes of immune cell recruitment, polarization, and functional suppression by different signaling pathways.
+In this sense, TDEVs modulate the NF-κB pathway, promoting inflammation and inducing immune evasion.
+The Janus kinase (JAK)-signal transducer and activator of transcription (STAT) signaling is required for TDEV-mediated immune suppression and the manifestation of tumor-supporting features.
+The phosphoinositide 3-kinase (PI3K)/protein kinase B (Akt)/mammalian target of rapamycin (mTOR) signaling, necessary for metabolic reprogramming, is orchestrated by TDEV to abrogate immune response and drive cancer cell proliferation.
+Finally, exosomal cargo can modulate the NOD-, LRR-, and pyrin domain-containing protein 3 (NLRP3) inflammasome, activating pro-inflammatory responses that influence tumor development and immunomodulation.
+In this review, we take a deep dive into how TDEVs affect the immune cells by altering key signaling pathways.
+We also examine emerging therapeutic approaches aimed at disrupting EV-mediated pathways, offering promising avenues for the development of novel EV-based cancer immunotherapy.

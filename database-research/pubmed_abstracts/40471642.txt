@@ -1,0 +1,11 @@
+The aim of this study was to investigate the role of the ubiquitin specific peptidase 10 (USP10/methyltransferase like 3 (METTL3)/C-X-C chemokine receptor type 4 (CXCR4) axis in immunotherapy of castration-resistant prostate cancer (CRPC).
+Knockdown experiments were conducted in CRPC cell lines to assess the effect of targeting CXCR4 on cell proliferation invasion and migration.
+Coculture experiments of CXCR4 knockdown CRPC cells with THP1-M0 were performed to evaluate their impact on macrophage polarization and migration ability.
+With CD8+ T cells was conducted to assess their effects on CD8+ T cell proliferation and apoptosis.
+CXCR4-overexpressing CRPC cells were treated with the JAK-2 specific inhibitor AG490 to assess the effect of CXCR4 through the JAK2/STAT3 pathway on CRPC.
+The mechanisms by which USP10 regulates CXCR4 expression through targeting METTL3 were explored through dataset analysis, bioinformatics prediction, and Western blot.
+In CRPC tissues and cells, there was an observed increase in CXCR4 expression.
+Suppressing CXCR4 through knockdown methods resulted in the inhibition of CRPC cell growth, movement, and infiltration.
+Additionally, it led to a reduction in M2 polarization and the recruitment of Tohoku Hospital Pediatrics-1 (THP1) M0 macrophages, along with a mitigation of CD8+ T cell exhaustion.
+Dataset analysis, bioinformatics prediction, and Western blot validation indicated that CXCR4 activates the JAK2/STAT3 pathway to promote the expression of CCL2 and PD-L1, while USP10 promotes CXCR4 expression through METTL3.
+Our study underscores the significance of the USP10/METTL3/CXCR4 axis in immunotherapy for CRPC and CXCR4 as a potential target for therapeutic intervention in CRPC treatment.

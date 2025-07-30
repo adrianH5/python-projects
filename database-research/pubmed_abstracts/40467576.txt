@@ -1,0 +1,11 @@
+Gastric cancer (GC) is a prevalent digestive tract malignancy, and Huangqi Fuling decoction (HF) has shown potential in enhancing immune function and exhibiting anti-GC activity.
+However, its mechanisms remain unclear.
+This study utilized network pharmacology, molecular docking, and in vitro experiments to preliminarily explore the mechanisms by which HF inhibits gastric cancer invasion and metastasis while promoting apoptosis.
+Public databases identified differentially expressed genes (DEGs), HF targets, and GC-related genes.
+GO and KEGG analyses revealed signaling pathways.
+Clinical relevance, immune infiltration, immunotherapy, and molecular docking of hub genes were analyzed.
+Eight hub genes-PTGS2, MMP9, SELE, CCL2, VCAM1, ICAM1, CXCL2, and CXCL10-associated with the TNF signaling pathway were identified.
+HF inhibits the invasion and metastasis of GC cells by down-regulating MMP9 and PTGS2 expression, while inducing apoptosis by suppressing BCL-2 expression and promoting BAX expression.
+Additionally, HF can arrest the cell cycle, blocking AGS cells in the S phase and HGC-27 cells in the G0/G1 phase.
+This study confirms that HF promotes apoptosis and inhibits metastasis and invasion in GC cells, primarily by modulating the TNF signaling pathway.
+Additionally, the anti-tumor effects of HF on GC may involve immune regulatory mechanisms, but the mechanism require further experimental verification.

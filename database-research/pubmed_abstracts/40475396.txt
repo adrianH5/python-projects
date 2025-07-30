@@ -1,0 +1,11 @@
+Translational buffering refers to the regulation of ribosome occupancy to offset the effects of transcriptional variation.
+While previous work systematically analyzed translational buffering in yeast, it remains unknown whether this is an intrinsic property of genes in mouse and human across cell types.
+To identify this phenomenon on a global scale and across different experimental conditions, we uniformly analyzed 1515 matched ribosome profiling and RNA-seq datasets from human and mouse tissues or cell lines.
+This resource enabled us to assess the potential of genes to exhibit translational buffering by comparative analysis of variation at ribosome occupancy and the RNA levels across cell types as well as by examining the relationship between mRNA abundance and translation efficiency.
+We demonstrate that translational buffering is a conserved property of genes using homologous gene pairs from humans and mice.
+Although the identified buffered genes show association with some intrinsic sequence features, our modeling results suggest that these alone are insufficient to predict translational buffering, highlighting the importance of cellular context in determining buffering.
+Further, genes exhibiting translational buffering have lower variation in protein abundance in cancer cell lines, primary human tissues and mouse samples.
+We also observed that translationally buffered genes are more likely to be haploinsufficient and triplosensitive suggesting a demand for stringent dosage limits in these genes.
+We hypothesize two models of translational buffering, namely "differential accessibility model" and "change in translation initiation rate model".
+Our experiment suggests that some transcripts conform to the former and others align with the alternate model.
+Overall, our work broadens the catalog of genes subjected to translational buffering, underscores the characteristics of genes that demonstrate this phenomenon and additionally provides an insight into the rationale driving this effect.

@@ -1,0 +1,9 @@
+The recent pandemic of the coronavirus disease 2019 (COVID-19), which is caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has become one of the major health concerns of the 21st century [1].
+Therefore, drug-repurposing attempts aimed at identification of efficient therapeutic agents for the treatment of COVID-19 has emerged as a promising approach to compensate for this urgent need.
+Studies were selected as they provide the latest curated data regarding the dataset.
+The effect of USP13 (Affymetrix ID: 226902_at) mRNA expression levels on overall survival was assessed via Kaplan-Meier Plotter (https://kmplot.com/analysis/) [21].
+In order to analyze the effect of USP13 somatic copy number alterations on immune cell infiltration, TIMER analysis was performed on all TCGA datasets, which showed significant correlation in Head-Neck Squamous Cell Carcinoma (HNSC), LUAD, LUSC, STAD and OV tumors (Fig. 4
+).
+COVID-19 is currently one of the most urgent health issues that need immediate attention worldwide.
+One explanation for this unexpected result could be that different analyses might have been run on different datasets for the same cancer type.
+Aims  Coronavirus disease 2019 (COVID-19), which is caused by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), is a major health concern worldwide.

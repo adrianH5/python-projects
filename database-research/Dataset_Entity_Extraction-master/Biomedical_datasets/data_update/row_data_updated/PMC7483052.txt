@@ -1,0 +1,13 @@
+This set of identified DEGs was firstly evaluated in databases comprising hotspot genes known to be involved in aging and various lung diseases (COPD, pneumonia, pulmonary fibrosis, and asthma, etc.).
+An overlap of the DEGs with genes in the database indicated that aging is a major contributing factor for chronic respiratory diseases and infection (Fig. 2b; Supplementary information, Fig. S3a).
+These data identified AT1 and AT2 as susceptible cell types for COVID-19 in the lung.
+Alarming findings report that COVID-19 causes pervasive endotheliitis and blood clots, and viral particles have been detected in endothelial cells of COVID-19 victims.
+We focused our attention on IL7, as our bulk RNA-seq analysis had revealed that IL7 was not only commonly upregulated in the aged lung (P value = 0.024), heart (P value = 0.058), and aorta (P value = 0.006) (Fig. 6a–c; Supplementary information, Fig. S8), but was also among the cytokines that drive the immune overreaction known as cytokine storm in patients with COVID-19 (Fig. 6a–c; Supplementary information, Table S6).
+Altogether, these findings add new insights into ACE2 regulation in aged VECs and suggest that geroprotective strategies may reduce COVID-19 severity in the elderly.
+In this study, we analyzed the single-nucleus transcriptomic maps of aged primate respiratory and cardiovascular tissues to understand the cellular and molecular basis for their vulnerabilities to age-related diseases and COVID-19 (Fig. 6k).
+Altogether, we here depict the first transcriptomic atlas of the aged primate cardiopulmonary system, which provides mechanistic insights into how aging-related inflammation and susceptibility to microorganismal infection are interconnected to increase the vulnerability of older human to COVID-19.
+HAECs were cultured in 6-well plates (Corning Incorporated, 3516) with EGM-2 medium to reach ~80% confluence.
+Aging is a major risk factor for many diseases, especially in highly prevalent cardiopulmonary comorbidities and infectious diseases including Coronavirus Disease 2019 (COVID-19).
+Altogether, our findings depict the first transcriptomic atlas of the aged primate cardiopulmonary system and provide vital insights into age-linked susceptibility to SARS-CoV-2, suggesting that geroprotective strategies may reduce COVID-19 severity in the elderly.
+The accession numbers for the raw snRNA-seq data reported in this paper in Genome Sequence Archive (GSA): CRA002577 (lung), CRA002689 (heart).
+The accession numbers for the raw bulk RNA-seq data in GSA: CRA002810.

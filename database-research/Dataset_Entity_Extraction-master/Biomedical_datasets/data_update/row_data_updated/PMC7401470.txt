@@ -1,0 +1,5 @@
+The nucleocapsid N-terminal residues (N-NTD) interact with genomic RNA of SARS-CoV-2 and incorporate it into progeny particles (Tang et al.
+This study will provide a better understanding of rapid drug designing to control the global epidemic of SARS-CoV-2.
+PDB is a database of biomolecule structure, providing crystal structure for proteomics and in silico studies.
+The crystal structure of nucleocapsid N-terminal domain (N-NTD) was retrieved from Protein Data Bank (PDB ID: 6yi3).
+Crystal structure of N-NTD (PDB ID 6M3M) and dsRNA (PDB structure 2LK2), a 21-base pair-long dsRNA(Liu et al.

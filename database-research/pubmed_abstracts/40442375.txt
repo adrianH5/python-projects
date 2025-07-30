@@ -1,0 +1,5 @@
+This paper introduces a compact, tunable femtosecond laser based on an Erbium-doped fiber, utilizing the Self-Soliton Frequency Shifted technique and PPLN crystal as a Second Harmonic Generation module.
+Achieving an unparalleled frequency conversion efficiency up to 55% for the 800 - 850 nm wavelength range, this compact laser emits sub-100 fs pulses.
+The laser operates simultaneously within the first and third biological windows, delivering pulse energies of 10.4 nJ and 5.1 nJ, respectively.
+This performance, previously unattained in similar systems, is achieved while maintaining Second Harmonic Generation power stability below 2% RMS.
+The presented compact laser, developed for bladder cancer detection through multiphoton microscopy, will significantly improve the system's compactness, precision, and cancer detection efficiency.

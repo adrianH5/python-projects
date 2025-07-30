@@ -1,0 +1,5 @@
+Hepatocellular carcinoma (HCC) is the second leading cause of cancer-related death worldwide.
+Although drug therapy has been well developed and applied, its clinical efficacy is limited due to primary or acquired drug resistance in most HCC patients.
+Therefore, it is of great clinical significance to elucidate the key molecular mechanisms of resistance and improve the sensitivity of HCC cells to drugs.
+At present, a variety of HCC drug resistance models have been developed to find out resistance mechanisms, screen biomarkers, and explore strategies to reverse drug resistance, including traditional HCC drug resistance models, HCC patient-derived drug resistance models, three-dimensional drug resistance models, transgenic drug resistance models, and multi-drug resistance models.
+Here, we searched PubMed, Embase and Web of science for studies related to HCC drug resistance models in recent years, systematically summarized the established methods and characteristics of these models, reviewed their applications and compared their advantages and disadvantages, aiming to provide reference for the selection of appropriate models for HCC drug resistance research.

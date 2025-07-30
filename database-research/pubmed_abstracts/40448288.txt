@@ -1,0 +1,9 @@
+The study aimed to investigate whether vulvar squamous cell carcinoma (VSCC) survival varies by human papillomavirus (HPV) status measured by p16 expression and to determine whether high-risk HPV (hrHPV) DNA detection adds further prognostic information.
+Our cohort included 1277 women with histologically verified VSCC (1990-2017) categorized according to p16 and hrHPV DNA.
+Crude survival was estimated using Kaplan-Meier, and differences in restricted mean survival time were estimated in linear regression models.
+Analyses were stratified by p16 and p16/hrHPV status and stage, and adjustment included age, calendar year, and comorbidity.
+Overall analysis showed that 5-year survival was 67% (95% CI: 63-71%) and 45% (95% CI: 42-48%) in p16-positive and p16-negative VSCC, respectively.
+Overall, detection of hrHPV was associated with a 23% (95% CI: 6-40%) improvement in 5-year survival in p16-positive VSCC, whereas hrHPV status did not impact 5-year survival in p16-negative VSCC.
+In adjusted analysis, the survival difference by p16 status increased with increasing stage with a 26% (95% CI: 4-46%) higher 5-year survival in FIGO IV disease if the tumor was p16-positive compared to p16-negative, corresponding to a restricted mean survival time difference of 18 months in favor of p16 positivity.
+The largest VSCC cohort to date confirms the beneficial prognostic impact of p16 expression regardless of age and comorbidity and with the greatest impact in women with advanced disease.
+Classification according to p16 was adequate for p16-negative VSCC, whereas the survival of p16-positive VSCC was higher if hrHPV testing was also positive.

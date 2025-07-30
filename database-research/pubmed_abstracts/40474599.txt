@@ -1,0 +1,4 @@
+Despite exhibiting promising efficacy in managing postmenopausal osteoporosis, hormonal therapy, and breast cancer prevention, the usage of raloxifene hydrochloride (RLX) is limited in clinical settings due to its low aqueous solubility (345.2 ± 15.6 μg/mL) and 2% oral bioavailability.
+Oral administration of RLX results in the formation of an inactive glucuronide conjugate at free hydroxyl groups in the presence of hepatic and extrahepatic UDP-glucuronosyltransferases (UGTs).
+To circumvent RLX transformation, lipid-drug-conjugate-based lymphatic targeting may offer a suitable alternative.
+Therefore, we synthesized a stearic acid-raloxifene hydrochloride (SRC) conjugate and confirmed it using ATR-FT-IR,

@@ -1,0 +1,8 @@
+ADP-ribosylation is a common modification that occurs in proteins and nucleic acids, regulating many cellular processes ranging from DNA repair to inflammatory signaling.
+ADP-ribosylation plays an important role in cancer biology, infectious diseases, and obesity, but its role in the development of type 1 diabetes is not well understood.
+Here, we studied the role of ADP-ribosyltransferase PARP12 in type 1 diabetes development.
+PARP12 expression is highly induced in human islets treated with pro-inflammatory cytokines or β cells from diabetic donors.
+Proteomics analysis of MIN6 insulin-producing cells identified that the RNA machinery is regulated by PARP12 during inflammation.
+PARP12 also ADP-ribosylates 150 mRNAs, including the insulin mRNA.
+This mRNA ADP-ribosylation in turn modifies transcript localization and halts translation.
+Overall, our data identified a role for PARP12 in ADP-ribosylation and translation halting of mRNAs, which may affect insulin production during insulitis.

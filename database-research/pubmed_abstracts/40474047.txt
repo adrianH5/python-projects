@@ -1,0 +1,9 @@
+Real-world data (RWD) are increasingly recognized as critical to advancing drug development and health care delivery, with regulatory bodies increasingly recognising their value.
+However, stringent governance requirements, while essential for protecting patient privacy, create significant challenges for conducting research.
+The Cancer Analysis System (CAS), managed by National Health Service (NHS) England, includes a national cancer registry and linked health care datasets.
+To address data access challenges, Simulacrum, a set of publicly available synthetic datasets generated from the CAS, can be used to carry out preliminary data analysis, hypothesis generation and development of programming code that can be executed to run analyses on CAS data.
+This paper presents a collaborative operating model that leverages Simulacrum to enable efficient, privacy-compliant analytics.
+Analysis of 18 projects conducted using this model demonstrated an average duration of 2.3 months from the start of Code Development to Data Release (CDDR).
+By enabling researchers to conduct privacy-compliant analysis on synthetic data, this approach increases transparency by providing insights into patient-level data while reduces reliance on custodians of sensitive data.
+Our findings highlight how synthetic data can be leveraged to facilitate efficient research on restricted patient-level RWD, while safeguarding patient privacy.
+This framework offers a scalable solution for other data custodians that can enable broader use of RWD, accelerating healthcare innovation.

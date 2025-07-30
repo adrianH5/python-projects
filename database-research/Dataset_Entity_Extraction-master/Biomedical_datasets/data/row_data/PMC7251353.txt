@@ -1,0 +1,5 @@
+The genomic sequence of SARS-CoV-2 isolated from the bronchoalveolar lavage fluid of a patient from Wuhan, China showed a length of 29,903 nucleotides [GenBank accession number NC_045512]
+BepiPred 1.0 Linear Epitope Prediction module incorporated in Immune Epitope Database (IEDB) was used to predict potential epitopes within the S protein (Haste Andersen et al., 2006; Larsen et al., 2006; Ponomarenko and Bourne, 2007; Vita et al., 2019).
+The S glycoprotein sequence is 1273 amino acids long, except for that of the virus isolated from Kerala (India), which is a 1272 amino acid long S glycoprotein (GenBank accession number MT012098).
+The potential epitope regions were predicted using the sequence of the S protein of SARS-CoV-2 that showed the least variability (GenBank accession number NC_045512).
+Also, identified T-cell epitopes might be considered for incorporation in vaccine designs.

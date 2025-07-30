@@ -1,0 +1,6 @@
+Apoptosis-inducing factor (AIF), a mitochondrial NAD(P)H-dependent oxidoreductase, was initially studied as a cell death inducer in a process later named parthanatos.
+However, it has been revealed that AIF also participates in mitochondrial bioenergetics through interaction with its partner coiled-coil-helix-coiled-coil-helix domain containing 4 (CHCHD4) and involvement in mitochondrial protein import.
+These dual roles place AIF between pro-survival and pro-death cell fate decisions.
+In this review, we first describe the structure and the dual functions of AIF, highlighting its structure-function relationships.
+We then report previously identified AIFM1 mutations and their clinical phenotypes.
+Finally, we discuss the relevance of AIF in cancer and the potential of targeting this protein for the treatment of cancer.

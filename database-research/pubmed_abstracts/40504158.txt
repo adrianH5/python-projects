@@ -1,0 +1,4 @@
+Many eukaryotic species undergo programmed elimination of specific chromosomes during embryogenesis, typically retaining these chromosomes only in their germ cells.
+In some species, programmatic elimination of GRCs, or sex chromosomes, also occurs in a sex-specific manner, with specific chromosomes being transmitted or eliminated by only one sex.
+As such, these chromosomes provide a unique perspective on the evolution of gene functions that are advantageous to the germline and genetic tradeoffs between somatic vs germline or oocyte vs sperm biology.
+While GRCs have been extensively characterized in male sea lampreys (

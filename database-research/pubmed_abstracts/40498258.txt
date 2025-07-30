@@ -1,0 +1,10 @@
+This study aimed to examine the risk of neurodevelopmental disorders (NDDs) in cJihye Heohildren born to female cancer survivors under 40 years old.
+Using nationwide retrospective data from the Korean National Health Insurance Service between January 1, 2005, and December 31, 2019, we included 19,474 children born to female cancer survivors under 40 years old.
+Propensity-score matching (1:3) with 58,422 controls born to women without cancer was conducted.
+NDDs were identified using ICD-10 codes.
+Hazard ratios (HRs) were calculated to assess the relative risk.
+Children born to cancer survivors had a higher overall risk of NDDs (HR = 1.10; 95% CI 1.05-1.15), with specific elevated risks for cerebral palsy (HR = 1.38; 95% CI 1.05-1.81), developmental delay (HR = 1.16; 95% CI 1.06-1.26), and epileptic and febrile seizures (HR = 1.06; 95% CI 1.01-1.12).
+The risk was particularly elevated in children whose mothers were diagnosed with cancer during pregnancy (HR = 1.26; 95% CI 1.08-1.47).
+However, for births occurring more than 5 years after the cancer diagnosis, the difference in NDDs risk was not statistically significant (HR = 1.07; 95% CI 0.98-1.16).
+The offspring of young female cancer survivors had an increased risk of NDDs compared with the control group.
+When young female cancer survivors desire pregnancy, healthcare providers should offer appropriate counseling and surveillance for potential adverse NDDs in their offspring.

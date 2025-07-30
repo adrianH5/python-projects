@@ -1,0 +1,7 @@
+In this study, I mined the NCBI expressed sequence tag (est) database to discover sequences related to SARS‐CoV‐2.
+RNA extraction, library construction, and sequencing was performed previously by Zhong et al
+ and Adams et al
+ and uploaded to GenBank on the expressed sequence tag (est) database.
+To identify novel coronavirus sequences, translated nucleotide BLAST (tblastn) database searches were performed by searching for SARS‐CoV‐2 sequences in the NCBI expressed sequence tag (est) database.
+SARS‐CoV‐2 protein sequences (amino acids 266‐13 468 and 13 468‐21 555) used to search the database (Figure S1).
+We then identified the submitting laboratories through the NCBI database and found that both cDNA libraries were submitted by laboratories at the Institute of Hydrobiology, Chinese Academy of Sciences, in Wuhan, China.

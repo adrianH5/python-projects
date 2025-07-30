@@ -1,0 +1,12 @@
+Oxaliplatin, a key chemotherapeutic agent, often induces resistance in colorectal cancer (CRC) treatment, highlighting the urgent need for reliable biomarkers to predict treatment efficacy.
+In this study, we aimed to identify key genes associated with oxaliplatin resistance in CRC and to evaluate their potential as prognostic biomarkers.
+Using CRC patient data from the TCGA dataset, we categorized patients into oxaliplatin-resistant and -sensitive groups and conducted differential expression analysis.
+Key feature genes were identified through univariate Cox analysis, LASSO regression, and stepwise multivariate Cox regression.
+The predictive value of the identified markers was validated using logistic regression, weighted gene co-expression network analysis (WGCNA), and external validation in GEO cohorts.
+The tumor microenvironment (TME) was assessed using the MCP-counter algorithm, and CRC cell experiments were performed to evaluate changes in drug sensitivity following oxaliplatin exposure.
+Based on TCGA CRC data, we constructed a prognostic index derived from a three-gene signature associated with oxaliplatin resistance.
+This index was significantly correlated with progression-free survival (PFS) in oxaliplatin-resistant CRC patients and showed robust prognostic performance, with AUCs of 0.848 and 0.861 in gastric cancer and pancreatic adenocarcinoma cohorts, respectively.
+Notably, TNFAIP2 knockout significantly reduced clonogenic ability in CRC cells following oxaliplatin treatment.
+Our results identify TLE4, TNFAIP2, and ARGLU1 as key contributors to oxaliplatin resistance in CRC.
+The oxaliplatin resistance-related gene signature (ORGSig) serves as a promising tool for predicting treatment response and prognosis in CRC patients receiving oxaliplatin-based chemotherapy.
+This signature also offers potential for guiding personalized therapy and overcoming drug resistance in clinical practice.

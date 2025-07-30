@@ -1,0 +1,11 @@
+Oral delivery is the most preferred route for nutraceuticals due to its convenience and high patient compliance.
+However, bioavailability is often compromised by poor solubility, instability, and first-pass metabolism in the gastrointestinal tract.
+This review examines current and emerging oral delivery platforms designed to overcome these barriers and enhance nutraceutical efficacy.
+Traditional carriers-proteins, lipids, and carbohydrates-highlighting their delivery mechanisms and limitations, are first explored.
+Advancements in material science have led to novel platforms such as biodegradable polymers, metal-organic frameworks (MOFs), metal-polyphenol networks (MPNs), and 3D printing technologies.
+Biodegradable polymers improve stability and enable controlled release of bioactives.
+MOFs offer high surface area and tunable porosity for encapsulating and protecting sensitive compounds.
+MPNs provide biocompatible, stimuli-responsive systems for targeted nutrient delivery.
+Meanwhile, 3D printing facilitates the fabrication of personalized delivery systems with precise control over composition and release kinetics, especially when integrated with artificial intelligence (AI) for precision nutrition.
+By comparing traditional and next-generation strategies, this review outlines key design principles for optimizing oral delivery systems.
+The transformative potential of these innovations is underscored to improve the bioavailability and therapeutic outcomes of nutraceuticals, ultimately advancing personalized and targeted nutrition solutions.

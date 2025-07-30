@@ -1,0 +1,5 @@
+The integration of organic bioelectronic interfaces has opened new avenues for merging biological systems with electronics, offering transformative solutions to challenges in both fields.
+In this study, we present a novel hybrid organic electrochemical transistor (OECT) featuring self-assembled three-dimensional (3D) nanofiber arrays (NFAs) of small-molecule semiconductors grown on poly(3,4-ethylenedioxythiophene):polystyrenesulfonate active-layer channels.
+The hybrid OECT was further evaluated for its potential to capture, recover, and biosense circulating tumor cells (CTCs), as well as to enhance extracellular vesicle (EV) secretion through electrical stimulation (ES).
+Using template-free self-assembly via standard thermal evaporation, out-of-plane coronene (CR)-based NFAs were fabricated and surface-engineered with 1-pyrenebutyric acid through π-π interactions, enabling bioaffinity coatings on OECTs for advanced biological applications.
+The device demonstrated efficient CTC isolation, achieving an isolation rate exceeding 90% for MCF-7 breast cancer cells spiked into THP-1 monocytic cells (10

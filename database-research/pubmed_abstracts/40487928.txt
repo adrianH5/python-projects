@@ -1,0 +1,5 @@
+Keloid is a fibroproliferative skin disorder characterized by excessive fibroblast proliferation and abnormal extracellular matrix accumulation.
+It manifests as continuous growth, redness, itching, and pain, with a high recurrence rate.
+The pathogenesis of keloid is complex, with genetics and gene mutations increasingly recognized as critical risk factors.
+This condition exhibits familial predisposition and clustering, with individuals of darker skin tones at greater risk.
+To elucidate the genetic factors underlying keloid development, this study integrates bioinformatics and Mendelian randomization (MR) approaches to identify core genes associated with keloid, providing novel insights into its pathogenesis, treatment, and prognosis.

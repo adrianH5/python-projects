@@ -1,0 +1,9 @@
+Neuroblastoma (NB) is a pediatric extracranial solid tumor that accounts for approximately 15% of all pediatric cancer deaths.
+More than 50% of patients with newly diagnosed NB are classified into a high-risk group with an approximately 50% long-term survival rate.
+Although most high-risk patients with NB achieve remission, more than half may have minimal residual disease (MRD) that eventually causes relapse.
+Looking towards an optimal outcome, the accurate evaluation of MRD in patients with NB (NB-MRD) is essential to monitor the treatment response and disease burden.
+Over the past decades, the quantification of NB-associated messenger RNA (NB-mRNA) by reverse transcriptase-polymerase chain reaction has become widely used to detect NB-MRD, owing to the lack of recurrent genomic aberrations in NB cells.
+To achieve a more accurate and sensitive detection, the current NB-MRD assays quantify a set of NB-mRNAs to detect NB cells in bone marrow, peripheral blood, and peripheral blood stem cell samples.
+Among a growing number of NB-MRD assays, several assays quantitating different but overlapping sets of NB-mRNAs are reported to have a significant prognostic value.
+However, the clinical significance of NB-MRD remains to be established.
+In this review, we summarize the recent progress in NB-MRD and evaluate its clinical value.

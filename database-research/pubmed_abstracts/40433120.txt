@@ -1,0 +1,4 @@
+Glypican-3 (GPC3), which is a membrane-associated antigen that is overexpressed in hepatocellular carcinoma (HCC).
+hGC33, a humanized anti-GPC3 antibody, has been validated as a potential antibody drug with good antitumor activity by preclinical studies and the Phase II clinical trial.
+However, free drug usually lack good tumor penetration.
+Outer membrane vesicles (OMVs) that are secreted by

@@ -1,0 +1,3 @@
+Cancer is increasingly recognized not just as a localized disease but as a systemic condition with profound impacts on metabolism at both cellular and whole-body levels.
+This study seeks to unveil the systemic metabolic disruptions in early-stage, untreated lung cancer patients, specifically adenocarcinoma (ADC) and squamous cell carcinoma (SqCC), using a novel network-based approach with total-body static and dynamic PET/CT imaging.
+By analyzing inter-organ metabolic dependencies, we aim to uncover how lung cancer induces whole-body metabolic reprogramming, providing insights into potential biomarkers for monitoring disease progression and treatment response.

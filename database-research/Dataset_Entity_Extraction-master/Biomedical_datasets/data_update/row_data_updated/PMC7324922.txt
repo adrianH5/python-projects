@@ -1,0 +1,20 @@
+In December 2019, the Chinese government reported several human pneumonia cases in Wuhan city and designated the disease as coronavirus disease 2019 (COVID 19) (Wang et al., 2020a).
+Major symptoms of COVID-19 include fever, cough, dyspnoea, and muscular soreness.
+There were some patients with COVID 19, where atypical symptoms like diarrhea and vomiting were also found (Ding, 2020; Wang, 2020; Zhu et al., 2020).
+Later on, the International Committee on Taxonomy of Viruses (ICTV) officially designated the virus as SARS-CoV-2. WHO on March 11, 2020, has declared the COVID-19 outbreak as a global pandemic (Cucinotta and Vanelli, 2020).
+The SARS-CoV-2 isolate with GenBank accession ID ‘NC_045512’, as downloaded from NCBI (https://www.ncbi.nlm.nih.gov/nuccore/NC_045512) was used as the reference strain in this study.
+The protein sequences of Bat coronavirus RaTG13 (GenBank Accession ID MN996532.1), Pangolin coronavirus (MT072864.1), and two SARS-CoV strains TW11 (AY502924.1) and GD01 (AY278489.2) were downloaded from NCBI (https://www.ncbi.nlm.nih.gov/protein).
+For this purpose, we have used SWISS-MODEL (https://swissmodel.expasy.org/) homology modelling online server with Spike glycoprotein sequence (uniprt_ID: P0DTC2) and three individual PDBs were used as a template to generate three conformations.
+Minor (less frequently) mutated residues that showed variations in Nextstrain data compared to NCBI virus database were excluded from the analysis.
+To further validate these findings, we visualized these major substitutions by observing the phylogeny of SARS-CoV-2 in Nextstrain, which contains a curated database of more than 10,000 SARS-CoV-2 sequences, depicted in the form of phylogenetic trees (Fig. 2
+).
+As observed previously, substitutions at 5828th and 5865th position co-occurred even in this large sample set of Nextstrain data.
+Overall, the mutation profile that we identified with 664 samples showed excellent concordance with the Nextstrain data comprising ~10,000 samples.
+The analysis of the larger Nextstrain dataset indicated that D614G mutation is significantly more prevalent, indeed.
+Comparing the inert ‘DOWN' and active ‘UP’ conformations (PDB_ID s: 6VXX and 6VYB respectively), it is found that RBD moves as a rigid-body in a hinge bending motion around its linker region with NTD and CTD2 with all-atom rmsd for 198 residues is around 2.8 Å (Fig. 3B).
+Those strains that corresponded to structures with low stabilities were consequently found to have low transmission capabilities as verified in the Nextstrain data.
+However, considering only the disparity in the effectiveness of transmission among the different spike protein variants, we have two important suggestions to the different nations in tackling and curbing the spread of COVID-19 with greater efficacy.
+First and foremost, the mutational profile of a patient found to be COVID-19 positive needs to be analysed, specifically at these key sites of five proteins, either by Sanger sequencing or designing probes corresponding to these regions.
+However, our hypothesis and interpretation of the mutations show good concordance as evidenced by the Nextstrain data.
+We have identified frequently mutated residues by aligning ~660 SARS-CoV-2 genomes and validated in 10,000 datasets available in GISAID Nextstrain.
+Identification of frequently mutated variants among COVID-19 patients might be useful for better clinical management, contact tracing, and containment of the disease.

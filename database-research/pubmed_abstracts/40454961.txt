@@ -1,0 +1,6 @@
+It is important to image tumor micrometastases in fluorescence-guided surgery (FGS), which requires highly emissive materials with a high signal-to-background ratio.
+As one type of bright NIR-II dye, donor-acceptor-donor (D-A-D) molecules have been widely applied for in vivo imaging.
+However, the brightness of D-A-D molecules when encapsulated in nanoparticles for bioimaging is often unsatisfactory due to aggregation-caused quenching or a decrease in absorption.
+In this study, we introduced carbazole groups in the D-A-D molecules, which resulted in a reduction of fluorescence quenching in the aggregated state due to the larger intermolecular distance.
+Through proper engineering of the carbazole groups, the emission spectra of the nanoparticles could be red-shifted with a peak beyond 1000 nm, while maintaining strong absorption and high quantum yield.
+The brightest

@@ -1,0 +1,14 @@
+In cancer tissue diagnostic studies of clinical medicine, cell morphology is a key indicator for assessing the behavior of cellular physiological activities.
+Currently, the method of using thermotherapy as an adjunct to cancer treatment has gradually become a trend.
+Assessing the morphological characteristics of wound tissue cells during the hyperthermia process is particularly important for providing feedback on the therapeutic efficacy of hyperthermia-assisted treatment.
+Among the existing cell observation techniques, optical bright-field microscopy can only perform static observations of cells from a two-dimensional planar perspective.
+However, fluorescence microscopy suffers from issues such as phototoxicity and low temporal resolution.
+To address the aforementioned issues, this study introduces a quantitative analysis method based on digital holography to overcome these limitations.
+According to the mechanism of hyperthermia in cancer treatment, cancer cells exhibit morphological changes when exposed to elevated temperatures.
+Digital holography technology can effectively utilize light refractive indexes and phase differences to quantify the thickness and volume of cells.
+This study systematically evaluated the morphological changes in HeLa cells and human cervical epithelial cells (HCECs) under different temperature gradients (37-42 ℃ and 60 ℃).
+Continuous tracking of cell thickness and volume was achieved.
+The results revealed a unique morphological thermoresponsive process of the cells.
+The study determined the temperature threshold and exposure duration for high-temperature-induced effects in HeLa cells.
+The greater temperature sensitivity of HeLa cells compared with HCECs has been verified.
+This technology is expected to provide an effective means for evaluating morphological changes in cellular thermoresponses, offering novel insights for optimizing personalized cancer treatment regimens.

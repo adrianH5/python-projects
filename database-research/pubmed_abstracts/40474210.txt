@@ -1,0 +1,3 @@
+Chimeric antigen receptor (CAR) T-cell therapy has shown limited efficacy in glioblastoma (GBM) due to tumor antigen heterogeneity and the immunosuppressive microenvironment.
+To address these barriers, we developed a novel combinatorial approach: engineering CAR-T cells with third-generation oncolytic adenoviruses (OAd) to enable targeted viral delivery and sustained immune activation.
+Unlike conventional OAd administration, this strategy leverages CAR-T cells as tumor-tropic vectors for localized oncolysis and cytokine modulation.

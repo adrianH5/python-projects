@@ -1,0 +1,3 @@
+Hydrogen-bonded organic frameworks (HOFs), by virtue of their low toxicity, wide substrate tolerance, porosity, and regenerative and biocompatible traits, are an emerging class of porous polymeric materials that show great potential for intracellular delivery of chemotherapeutics.
+However, stability issues coupled with controlled release of a drug under desired stimuli have restricted their therapeutic potential.
+In the present study, based on density functional theory calculations predicting strong noncovalent interactions between the H-bonded 4,4',4″-(1,3,5-triazine-2,4,6-triyl)tribenzoic acid (H

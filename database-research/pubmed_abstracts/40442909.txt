@@ -1,0 +1,8 @@
+The challenging subtype of breast cancer known as triple-negative breast cancer (TNBC) is characterized by the absence of HER2 expression, progesterone receptors, and estrogen receptors.
+TNBC is linked to a harsh treatment trajectory, elevated rates of recurrence, and restricted therapeutic alternatives.
+The mainstay of treatment for TNBC has historically been conventional chemotherapy, especially taxanes like docetaxel.
+However, the effectiveness of these drugs is frequently compromised by systemic toxicity and resistance mechanisms.
+The development of nanosomal docetaxel lipid suspension (NDLS) offers a promising alternative designed to enhance the therapeutic index of docetaxel by improving solubility, reducing side effects, and optimizing tumortargeted drug delivery.
+NDLS has the potential as a delivery system for additional chemotherapy drugs or combination treatments.
+This review addresses the cellular and molecular causes of TNBC, emphasizes the drawbacks of traditional treatments, and offers a thorough examination of NDLS in preclinical and clinical settings.
+It provides a thorough analysis of NDLS in TNBC, laying the groundwork for further studies and therapeutic applications.

@@ -1,0 +1,9 @@
+Gynecologic cancers present a significant challenge to women's health, necessitating innovative therapeutic strategies due to high relapse rates despite conventional treatments.
+Immunotherapy, particularly T-cell bispecific antibodies (TCBs), offers a promising approach by redirecting the immune system to target and eliminate tumor cells.
+TCBs bind simultaneously to tumor-associated antigens and T cells, inducing T-cell activation and tumor cell lysis.
+While CAR T-cell therapies have shown success in hematologic malignancies, TCBs offer advantages such as being "off-the-shelf" products with lower rates of severe toxicities.
+This review provides an overview of TCBs in gynecologic malignancies, focusing on their mechanisms of action, preclinical and clinical data, and safety profiles, while also addressing the challenges and future directions.
+Preclinical data highlight TCBs targeting AXL, MUC1, LYPD1, and MUC16 in ovarian cancer, demonstrating potent antitumor activity.
+Clinical trials evaluating MUC16-targeted TCBs in ovarian and endometrial cancers are ongoing.
+The safety profile of TCBs includes risks such as cytokine release syndrome and on-target off-tumor toxicity, which require careful management.
+TCBs represent a promising immunotherapeutic approach for gynecologic cancers, warranting further investigation to optimize their efficacy and safety.

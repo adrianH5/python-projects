@@ -1,0 +1,9 @@
+The increasing demand for point-of-care detection of low-concentration cancer biomarkers has necessitated the development of innovative nanozyme-based sensing technologies.
+Here, a smartphone-integrated platform is presented that utilizes artificial intelligence (AI) to detect abnormal levels of the prostate cancer marker sarcosine (Sar) in humans.
+The platform comprises a histidine (His)-modified single-atom cobalt nanozyme (His@Co-NC), a white absorbent sponge for color development, and an AI-powered image acquisition system utilizing Monte Carlo color analysis (MC-CA).
+The biomimetic coordination of His with single-atom Co significantly enhances its peroxidase-like activity, rendering it 48-fold more active than natural horseradish peroxidase (HRP), with a Michaelis constant (Km) of 0.076 mM, much lower than the 3.7 mM observed for HRP.
+This enhanced activity results in the generation of more intense colorimetric signals when reacting with 3,3',5,5'-tetramethylbenzidine (TMB).
+The AI algorithm captures over 1000 sampling RGB points on the color-revealing sponge surface, achieving a color recognition rate of over 95 % within 5 s, ensuring rapid and accurate detection.
+The integration of nanozyme with AI-driven data acquisition addresses two critical challenges: the limited chromogenic intensity in low-centration biomarker detection and the potential subjectivity in color rendering results.
+Immobilized on a hierarchically porous sponge, the system achieves a detection limit of 0.28 μM, with less than 5 % signal variation across 20 repeated cycles.
+This integration of AI and nanozyme-based detection holds significant promise for advancing biosensors that provide precise data output, offering vast potential for widespread applications in the early detection of disease biomarkers and other analytes.

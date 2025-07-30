@@ -1,0 +1,11 @@
+AMBRA1 is associated with a variety of pathological processes in cancer cells, but may have different functions in different tumour microenvironments or genetic backgrounds.
+In this study, the function and regulatory mechanisms of AMBRA1 were explored in the progression of non-small cell lung cancer (NSCLC).
+The abnormally expressed miRNAs in AMBRA1-overexpressed and differentially expressed genes in miR-1178-knockdown NSCLC cells were validated by RNA sequencing.
+Cell viability, proliferation, invasion, apoptosis, and cell cycle were tested through Cell Counting Kit-8 (CCK-8), EdU, colony formation, transwell, and flow cytometry.
+A mouse tumour xenograft model was conducted to assess the roles of the AMBRA1-miR-1178 axis on NSCLC progression in vivo.
+AMBRA1 overexpression suppressed NSCLC cell proliferation and invasion, while promoting apoptosis and G0/G1 phase cell cycle arrest in vitro, and inhibited tumour growth in vivo.
+RNA sequencing revealed miR-1178 as a target of AMBRA1.
+miR-1178 overexpression partially weakened the suppressive function of AMBRA1 on cell malignant biological behaviours.
+p53 and CDK2 were confirmed as the downstream targets of miR-1178.
+Silencing p53 or overexpressing CDK2 reversed the repressive effects of AMBRA1 on the development of NSCLC cells.
+AMBRA1 may suppress the malignant phenotype of NSCLC cells via regulating the miR-1178-p53-CDK2 signalling pathway.

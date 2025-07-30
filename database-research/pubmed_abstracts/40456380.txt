@@ -1,0 +1,7 @@
+2,6-dichloro-1,4-benzoquinone (DCBQ) is the most frequently detected and highly toxic halobenzoquinones, a class of aromatic disinfection byproducts (DBPs), yet its renal toxicity and underlying mechanisms largely remain unknown.
+In this research, we utilized a dual-omics strategy to explore the toxicological impact of DCBQ on human renal proximal tubular epithelial (RPTEC/TERT1) cells.
+After the cytotoxicity of DCBQ was uncovered by CCK-8 and cell cycle tests, the significantly changed biological events associated with cell adhesion, extracellular matrix (ECM) remodeling, and organelle lumen homeostasis were highlighted as mechanistic cues primarily by integrated transcriptomic and metabolomics analysis.
+Our subsequent experiments confirmed that DCBQ significantly disrupted mitochondrial membrane potential and led to anoikis, a unique type of programmed cell death distinguished by cell separation from the ECM.
+Notably, DCBQ exposure significantly suppressed the PI3K/AKT and Ras/ERK signaling pathways, which may have contributed to reduced cell viability, G1 phase cell cycle arrest and induction of anoikis.
+These results offered new perspectives on the nephrotoxic mechanisms of DCBQ, highlighting its potential to impair cell-ECM interaction and even induce future cancer progression.
+Our study also proved the benefits of dual-omics application and integrated data analysis for understanding the comprehensive health risks of those poorly-studied emerging contaminants.

@@ -1,0 +1,7 @@
+It is challenging to analyze the dynamics of intra-chromosomal interactions when considering multiple high-dimensional epigenetic datasets.
+A computational approach, differential network analysis in intra-chromosomal community interaction (DNAICI), was proposed here to elucidate these dynamics by integrating Hi-C data with other epigenetic data.
+DNAICI utilized a novel hyperparameter tuning method, for optimizing the network clustering, to identify valid intra-chromosomal community interactions at different resolutions.
+The approach was first trained on Hi-C data and other epigenetic data in an untreated and one hour estrogen (E2)-treated breast cancer cell line, MCF7, and uncovered two major types of valid intra-chromosomal community interactions (active/repressive) that resembles the properties of A/B compartments (or open/closed chromatin domains).
+It was further tested on the breast cancer cell line MCF7 and its corresponding tamoxifen-resistant (TR) derivative, MCF7TR, and identified 515 differentially interacting and expressed genes (DIEGs) within intra-chromosomal community interactions.
+In silico analysis of these DIEGs revealed that endocrine resistance is among the top biological pathways, suggesting an interacting/looping-mediated mechanism in regulating breast cancer tamoxifen resistance.
+This novel integrated network analysis approach offers a broad application in diverse biological systems for identifying a biological-context-specific differential community interaction.

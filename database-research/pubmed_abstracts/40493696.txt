@@ -1,0 +1,13 @@
+In our recent work, we developed a novel dynamic programming algorithm to find optimal Bayesian networks with parent set constraints.
+This 'generational orderings' based dynamic programming algorithm-CausNet-efficiently searches the space of possible Bayesian networks.
+The method is designed for continuous as well as discrete data, and continuous, discrete and survival outcomes.
+In the present work, we develop a variant of CausNet-CausNet-partial-where we introduce the space of 'partial generational orderings', which is a novel way to search for small and sparse optimal Bayesian networks from large dimensional data.
+We test this method both on simulated and real data.
+In simulations, CausNet-partial shows superior performance when compared with three state-of-the-art algorithms.
+We apply it also to a benchmark discrete Bayesian network ALARM, a Bayesian network designed to provide an alarm message system for patient monitoring.
+We first apply the original CausNet and then CausNet-partial, varying the partial order from 5 to 2.
+CausNet-partial discovers small sparse networks with drastically reduced runtime as expected from theory.
+To further demonstrate the efficacy of CausNet-partial, we apply it to an Ovarian Cancer gene expression dataset with 513 genes and a survival outcome.
+Our algorithm is able to find optimal Bayesian networks with different number of nodes as we vary the partial order.
+On a personal computer with a 2.3 GHz Intel Core i9 processor with 16 GB RAM, each processing takes less than five minutes.
+Our 'partial generational orderings' based method CausNet-partial is an efficient and scalable method for finding optimal sparse and small Bayesian networks from high dimensional data.

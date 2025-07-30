@@ -1,0 +1,22 @@
+T1	Dataset 1215 1221	GISAID
+T2	Repository 1757 1769	NCBI GenBank
+T3	AccessionNumber 1789 1797	MT114412
+T4	AccessionNumber 1799 1807	MT114414
+T5	AccessionNumber 1809 1817	MT114415
+T6	AccessionNumber 1819 1827	MT114417
+T7	AccessionNumber 1829 1837	MT114418
+T8	Repository 1945 1957	NCBI GenBank
+T9	AccessionNumber 1977 1985	MT365028
+T10	AccessionNumber 1986 1994	MT365032
+T11	AccessionNumber 2089 2100	PRJNA627286
+T12	Repository 2329 2341	NCBI Genbank
+T13	Dataset 2346 2352	GISAID
+T14	Dataset 2492 2498	GISAID
+T15	Dataset 2834 2840	GISAID
+R1	hasAttr	Arg1:T2	Arg2:T3
+R2	hasAttr	Arg1:T2	Arg2:T4
+R3	hasAttr	Arg1:T2	Arg2:T5
+R4	hasAttr	Arg1:T2	Arg2:T6
+R5	hasAttr	Arg1:T2	Arg2:T7
+R6	hasAttr	Arg1:T8	Arg2:T9
+R7	hasAttr	Arg1:T8	Arg2:T10

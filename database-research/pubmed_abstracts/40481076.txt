@@ -1,0 +1,12 @@
+Palmitic acid (PA) absorption from the intestine is increased in metabolic dysfunction-associated steatohepatitis (MASH).
+It induces endoplasmic reticulum (ER) stress and interleukin-1 beta (IL-1β) production in hepatic stellate cells (HSCs).
+Protein kinase R-like endoplasmic reticulum kinase (PERK) is an ER stress sensor protein involved in HSC activation and liver fibrosis.
+However, its role in HSCs during hepatocellular carcinoma (HCC) progression remains unclear.
+This study clarified the process of IL-1β production via PERK in HSCs and explored the mechanism underlying MASH-related HCC progression.
+HSCs were treated with PA or transfected with PERK small-interfering RNA (siRNA) or PERK plasmid.
+Proliferation, scratch, and Transwell assays were performed on HCC cells cultured in the conditioned medium (CM) from HSCs.
+PA treatment increased PERK and IL-1β expression in HSCs.
+PERK knockdown decreased IL-1β expression, while its overexpression increased it in HSCs.
+The CM from PA-treated HSCs showed elevated IL-1β levels and enhanced HCC cells' proliferation, migration, and invasion; however, these effects were suppressed by PERK knockdown in HSCs.
+RNA-sequencing analysis revealed that p38δ mitogen-activated protein kinase (MAPK) is the intermediate molecule between PERK and IL-1β in HSCs.
+In the tumor microenvironment of MASH-related HCC, PERK in HSCs promotes HCC progression via the p38δ MAPK/IL-1β axis.

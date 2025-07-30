@@ -1,0 +1,17 @@
+The gold standard treatment for renal cell carcinoma with a tumor thrombus (RCC-TT) is radical nephrectomy with tumor thrombectomy (RN-TT).
+Operative approaches to this can be done open (ORN-TT), laparoscopic (LRN-TT), or robotic (RRN-TT).
+The purpose of this study was to compare overall survival (OS), cancer-specific survival (CSS), and metastasis-free survival (MFS) between open, laparoscopic, and robotic approaches to RN-TT using the Intercontinental Collaboration on Renal Cell Carcinoma (ICORCC) database.
+Patient records were reviewed from the ICORCC database.
+All patients included in the study underwent RN-TT for RCC-TT from 1999 to present.
+Tumor thrombus level was graded using the Neves classification system.
+Statistical analysis was carried out using analysis of variance, chi-squared test, and Kaplan-Meier survival curves with log-rank test to compare outcomes by surgical approach.
+A total of 392 patients were included.
+There were 308 ORN-TT, 61 LRN-TT, and 23 RRN-TT cases.
+On Kaplan-Meier analysis, OS and CSS were not significantly different by approach (p > 0.05).
+MFS was significantly lower in RRN-TT patients (p = 0.030).
+Operative time was the longest in ORN-TT, followed by LRN-TT, and RRN-TT the quickest (p = 0.011).
+Blood transfusion rates were significantly lower in RRN-TT relative to ORN-TT (p < 0.001).
+Rates of lymph node dissection, soft tissue margin positivity, and cytoreductive surgery were alike (p > 0.05).
+There is no definitive superiority of one operative approach compared to another.
+RRN-TT may result in worse MFS for patients, which calls for further investigation, but this is not certain.
+Ultimately, the risks, benefits, and resources the surgeon has at his/her disposal should all play in the final operative choice of RN-TT for the patient.

@@ -1,0 +1,8 @@
+Development of acquired therapeutic resistance limits the efficacy of cancer treatments and accounts for therapeutic failure in most patients.
+How resistance arises, varies across cancer types and differs depending on therapeutic modalities is incompletely understood.
+Novel strategies that address and overcome the various and complex resistance mechanisms necessitate a deep understanding of the underlying dynamics.
+We are at a crucial time when innovative technologies applied to patient-relevant tumour models have the potential to bridge the gap between fundamental research into mechanisms and timing of acquired resistance and clinical applications that translate these findings into actionable strategies to extend therapy efficacy.
+Unprecedented spatial and time-resolved high-throughput platforms generate vast amounts of data, from which increasingly complex information can be extracted and analysed through artificial intelligence and machine learning-based approaches.
+This Roadmap outlines key mechanisms that underlie the acquisition of therapeutic resistance in cancer and explores diverse modelling strategies.
+Clinically relevant, tractable models of disease and biomarker-driven precision approaches are poised to transform the landscape of acquired therapy resistance in cancer and its clinical management.
+Here, we propose an integrated strategy that leverages next-generation technologies to dissect the complexities of therapy resistance, shifting the paradigm from reactive management to predictive and proactive prevention.

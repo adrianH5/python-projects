@@ -1,0 +1,2 @@
+Guideline-based patient educational materials (PEMs) empower patients and reduce misinformation, but require frequent updates and must be adapted to the readability level of patients.
+The aim is to assess whether generative artificial intelligence (GenAI) can provide readable, accurate, and up-to-date PEMs that can be subsequently translated into multiple languages for broad dissemination.

@@ -1,0 +1,7 @@
+Breast cancer is the most prevalent malignancy among women worldwide and is a major contributor to cancer-related mortality.
+The tumor microenvironment (TME), composed of tumor cells, immune infiltrates, fibroblasts, and vascular components, is critically involved in tumor initiation, metastatic progression, and therapeutic response.
+In recent years, therapies targeting the TME have undergone rapid advancements, with the objective of enhancing antitumor immunity.
+Concurrently, mounting evidence underscores the pivotal role of the gut microbiota and its metabolites in modulating host immunity, influencing metabolic homeostasis, inflammation, and immune equilibrium.
+The composition and diversity of the gut microbiome influence breast cancer progression and patients' responses to immunotherapy.
+Therefore, modulating the gut microbiota is a promising strategy to enhance the clinical outcomes of TME-targeted immunotherapies.
+In this review, we discuss the influence of gut microbiota and its derived metabolites on breast cancer progression and immunotherapy prognosis and explore potential strategies to optimize immunotherapy through gut microbiota modulation.

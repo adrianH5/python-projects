@@ -1,0 +1,8 @@
+This study aimed to investigate carcinogenesis-related fibrosis patterns in liver biopsy tissues from patients with metabolic dysfunction-associated steatotic liver disease (MASLD) by comprehensively measuring and quantifying various fibrosis patterns using artificial intelligence.
+Liver biopsy tissues from 13 patients with advanced fibrosis at MASLD diagnosis were subjected to collagen quantification and morphological and structural fiber characteristic evaluation using FibroNest (PharmaNest, Princeton, NJ, USA), which was described using up to seven quantitative fibrosis parameters (qFPs).
+The collagen-fibrosis composite score (FCS), morphometric-FCS, architecture-FCS, and phenotypic-FCS (Ph-FCS) were compared between patients with and without hepatocellular carcinoma (HCC).
+The collagen quantification alone could not discriminate between HCC and non-HCC cases.
+Regarding the individual qFPs of morphological fiber characteristics, the kurtosis and skewness of fiber twists were significantly lower in HCC cases than in non-HCC cases.
+In HCC cases, fiber width and density kurtosis tended to be larger, whereas fiber length kurtosis tended to be smaller than those in non-HCC cases.
+Ph-FCS could discriminate HCC from non-HCC at a threshold of 4.2, with 85% sensitivity and 100% specificity.
+A combination of fiber morphology and structural characteristics predicted HCC development with higher accuracy and might help define carcinogenic risk groups among patients with MASLD.

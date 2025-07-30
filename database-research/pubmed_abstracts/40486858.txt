@@ -1,0 +1,7 @@
+Colorectal cancer (CRC) poses a severe global health challenge with high incidence and mortality rates.
+USP37 has been identified as the bona fide deubiquitinase of SND1, playing a critical role in stabilizing SND1, thereby augmenting its oncogenic potential.
+The interaction between USP37 and SND1 was confirmed through extensive proteomics, ubiquitinomics, and interactomics, underscoring their synergistic effects on CRC proliferation and metastasis.
+Additionally, CDK1 has emerged as a pivotal regulator of USP37, phosphorylating it at threonine 631 rather than serine 628, enhancing its deubiquitinase activity, and consequently stabilizing SND1 to drive CRC malignancy further.
+Histological analyses of human CRC samples linked the upregulation of CDK1 and USP37 with increased SND1 levels and poor patient prognosis.
+High-throughput virtual screening and subsequent experimental validation identified Dacarbazine as a pharmacological inhibitor of USP37, and its inhibition disrupted SND1 stability, hindering CRC cell proliferation and metastasis.
+This study reveals a novel and promising molecular mechanism driving CRC progression through the CDK1-USP37-SND1 axis, highlighting the clinical importance of targeting this pathway to improve patient outcomes.

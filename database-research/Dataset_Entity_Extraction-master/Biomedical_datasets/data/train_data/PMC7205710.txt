@@ -1,0 +1,32 @@
+As of April 26, 2020, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is known to have infected 2,804,796 persons globally, and 193,710 have had coronavirus disease 2019 (COVID-19) at the time of death (1).
+Single-cell RNA sequencing (scRNAseq) in human and nonhuman primate respiratory tissues has shown coexpression of ACE2 and TMPRSS2 in pneumocytes in the lungs and goblet secretory cells in the nose (6), indicating that these cell types may serve as foci for infection and potentially explaining the range of respiratory symptoms associated with COVID-19.
+Coexpression has also been reported in other tissue types, including the ileum, heart, and kidney, for which there are also established COVID-19 symptoms (5, 7, 8, 9, 10, 11).
+Given that the clinical features of COVID-19 appear to be largely determined by the tissues with coexpression of ACE2 and TMPRSS2 in their constituent cells, it is conceivable that viral infection could have an impact on reproductive function if cells of the male and/or female reproductive systems also express these genes.
+Reproductive indices are not typically assessed in the intensive care unit setting, and any effects of COVID-19 on fertility may not be readily apparent until epidemiological data become available.
+Understanding whether SARS-CoV-2 has the capacity to infect gametes and embryos produced in vitro is of great importance when considering the risks of natural and assisted reproduction during the COVID-19 pandemic.
+To visualize “dimensionality” of the dataset, we plotted the principal components using an elbow plot.
+This indicated that PC 1 to 13 explained the majority of the variance in both datasets.
+Of note, these publicly available bulk RNA and protein datasets were generated independently from the previously described scRNAseq datasets.
+Published scRNAseq datasets in human testicular (18) and nonhuman primate ovarian (19) tissue were used to assess the cell-type specific expression pattern of SARS-CoV-2 entry receptor ACE2 and entry-associated protease TMPRSS2 and their coexpression.
+Additionally, a novel RNAseq dataset was available for human cumulus cells and provided supplementary data on gene expression levels in that cell type.
+From scRNAseq datasets, we annotated 11 previously identified cell types of the testes, including somatic niche cells (Leydig cells, endothelial cells, myoid cells, and macrophages) and germ cells (differentiating spermatogonia, early primary spermatocytes, late primary spermatocytes, round spermatids, elongated spermatids, and sperm (Fig. 1A and B
+).
+Proteomic expression of ACE2 (Fig. 4
+A), TMPRSS2 (Fig. 4B), BSG (Fig. 4C), and CTSL (Fig. 4D) was queried from two publicly available databases, the Human Protein Atlas (HPA) and the Human Proteome Map.
+Protein expression in ovarian, testicular, endometrial, and placental tissue was correlated with bulk cell RNA expression data from four publicly available datasets: the HPA and GTEx datasets, which both use RNA-seq; the FANTOM5 dataset, which uses cap analysis gene expression; and the HPA consensus dataset, a consensus dataset of the other three RNA datasets.
+The low sequencing depth of scRNAseq datasets means that many cells will have no expression by chance; therefore, bulk RNAseq datasets, sequenced at higher depths, can serve as a useful point of comparison.
+There was general agreement between the expression data from the two protein datasets and the RNA datasets.
+In ovarian cells, TMPRSS2 was not detected by either protein profiling platform, which was supported by the external RNA datasets (Fig. 4B).
+The underrepresentation of Sertoli cells in the scRNAseq data may account for some of the discrepancy in the ACE2 expression profile between these two datasets.
+TMPRSS2 was found to be expressed only at a low level in the RNA datasets and was not detectable by either protein platform (Fig. 4B).
+It is not yet clear what effects, if any, the COVID-19 pandemic will have on male and female fertility.
+More recently, Wagner et al. (24) performed scRNAseq of the outer cortex, containing both germinal and somatic cell types, producing data that could potentially serve as an external validation dataset if expression matrices are made available.
+As of yet, no autopsy reports in persons with laboratory-confirmed COVID-19 at the time of death have assessed SARS-Cov-2 replication in the reproductive system.
+Further experimental data in ovarian tissue from women of reproductive age with COVID-19 is needed to confirm whether the female germ cells can be infected.
+Publicly available developmental scRNAseq databases reveal no coexpression of ACE2 and TMPRSS2 in fetal tissues, including liver, thymus, skin, bone marrow, and yolk sac (6).
+These conclusions are supported by the lack of ACE2 and TMPRSS2 protein expression in endometrial and placental tissue (HPA/IHC datasets) described in this study.
+The limited clinical data available have also indicated a lack of vertical transmission in newborns of pregnant women who had confirmed COVID-19 in the third trimester (29).
+Additionally, obstetric outcomes for babies born to mothers infected with SARS-CoV-2 have not shown any impact of COVID-19 on pregnancy (30).
+Nonetheless, they add to a growing body of evidence suggesting that most aspects of reproduction during the COVID-19 pandemic are unlikely to be associated with increased risks of clinical complications.
+Provided adequate precautions can be instituted to ensure the safety of patients attending fertility clinics, as well as that of clinical staff, it seems reasonable to consider the reintroduction of IVF treatments (at a minimum cycles involving cryopreservation of embryos) in countries where the response to COVID-19 currently includes a severe restriction or denial of patient access to fertility treatments.
+There was general agreement between publicly available bulk RNA and protein datasets in terms of ACE2 and TMPRSS2 expression patterns in testis, ovary, endometrial, and placental cells.

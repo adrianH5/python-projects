@@ -1,0 +1,11 @@
+Meningioma, a prevalent central nervous system (CNS) tumor, exhibits a broad spectrum of clinical behavior, ranging from benign to aggressive.
+Although surgical resection remains a viable treatment option for most cases, higher-grade meningiomas often require a multifaceted therapeutic approach.
+Gene therapies have shown potential for use in clinical intervention for the treatment of several types of cancer.
+Small nucleic acid molecules such as small interfering RNAs (siRNAs) and microRNAs (miRNAs) can restore aberrant gene expression and selectively silence oncogenic drivers.
+However, their clinical application could be improved by addressing challenges such as molecular instability, off-target toxicity, and limited bioavailability.
+Despite the rapid progress in nanotechnology that has significantly improved the gene therapy delivery system, its use for meningioma treatment has lagged behind.
+The lag in research can be attributed to the critical need for a deeper understanding of the molecular landscape of meningioma and its relative resistance to conventional chemotherapy.
+Therefore, our review article focuses on the complex molecular landscape of meningioma and highlights the challenges in its treatment and management.
+We also discuss the current gene therapy approaches for meningioma, exploring ongoing clinical trials and elucidating the mechanism of emerging therapies.
+Furthermore, we investigate the potential of nanomedicine in enhancing gene therapy for meningioma, highlighting the need for innovative delivery techniques.
+This comprehensive analysis not only outlines the status of the therapy in meningioma but also offers valuable insights into the future research direction and their clinical translation.

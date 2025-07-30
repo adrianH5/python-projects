@@ -1,0 +1,6 @@
+The heterocyclic aromatic compound quinoline is widely used in pharmaceutical production due to its diverse biological activities, including anticancer properties.
+This study aimed to investigate the anticancer properties of newly synthesized quinoline derivatives: 5,7-dibromo-8-hydroxyquinoline (MC-5-2), 6,8-dibromotetrahydroquinoline (SO-3-3), nitroquinoline bromide (SO-22), and methoxyhydroxyquinoline bromide (SO-18) against breast cancer.
+Cytotoxic, genotoxic, apoptotic, and oxidative stress effects were assessed through ATP viability, comet, AO/EB staining, and H2DCF-DA assays using MCF-7 and MDA-MB-231 cancer cells and normal 184A1 breast epithelial cells.
+Intracellular glutathione levels were analyzed using the luminometric method using a GSH kit, and mitochondrial membrane potential through DiOC6(3) dye.
+ATP cell viability assay revealed significant reductions in cancer cell vitality with a lower impact on normal cells.
+MC-5-2 exhibited the highest cytotoxicity on MDA-MB-231 breast cancer cells, with the lowest IC

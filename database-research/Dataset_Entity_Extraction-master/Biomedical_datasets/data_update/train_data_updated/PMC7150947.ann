@@ -1,0 +1,22 @@
+T1	Dataset 467 473	GISAID
+T2	URL 484 515	https://www.gisaid.org/CoV2020/
+T3	Dataset 649 655	GISAID
+T4	Repository 709 716	GenBank
+T5	AccessionNumber 751 762	NC_045512.2
+T6	Repository 1088 1095	GenBank
+T7	AccessionNumber 1120 1131	NC_004718.3
+T8	AccessionNumber 1136 1147	NC_019843.3
+T9	Creator 1211 1216	NIAID
+T10	Repository 1217 1269	Virus Pathogen Database and Analysis Resource (ViPR)
+T11	URL 1271 1295	https://www.viprbrc.org/
+T12	Repository 1520 1524	ViPR
+T13	AccessionNumber 1822 1832	HQ166910.1
+T14	Repository 2428 2432	ViPR
+T15	URL 2451 2549	https://www.viprbrc.org/brcDocs/documents/announcements/Corona/2019-nCoV-ViPR-report_24JAN2020.pdf
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T4	Arg2:T5
+R3	hasAttr	Arg1:T6	Arg2:T7
+R4	hasAttr	Arg1:T6	Arg2:T8
+R5	hasAttr	Arg1:T9	Arg2:T11
+R6	hasAttr	Arg1:T10	Arg2:T11
+R7	hasAttr	Arg1:T14	Arg2:T15

@@ -1,0 +1,10 @@
+Dehydrodiisoeugenol (DEH) is a primary benzofuran-type neolignan isolated from the Chinese herbal medicine nutmeg, which is used in the treatment of gastrointestinal diseases.
+This study aims to observe the dual therapeutic effects of DEH on DSS-induced ulcerative colitis (UC) and colorectal cancer (CRC), with a focus on exploring the molecular mechanism by which DEH exerts anti-inflammatory effect in inflammatory cells and induces autophagy in CRC cells.
+An inflammatory cell model was established by LPS/IFNγ-stimulated RAW264.7 macrophages to observe the anti-inflammatory effect of DEH, while colon cancer cell lines were used to observe the anticancer activity of DEH.
+DSS-induced mice and subcutaneous tumor model in nude mice were also established to observe the bidirectional regulation of DEH.
+This study demonstrates that low concentrations of DEH exhibit anti-inflammatory effects in vitro.
+Importantly, DEH achieves significant inhibition of IκBα degradation and phosphorylation levels, as well as subsequent NF-κB nuclear translocation, while also suppressing the phosphorylation of the MAPK family members JNK, ERK, and p38, by reducing elevated NOD2 expression induced by LPS/IFNγ.
+In addition, oral administration of DEH improves colitis and colonic barrier damage in DSS-induced mice.
+Interestingly, at a high concentration of DEH significantly activates the NOD2 signaling pathway to promote autophagy and apoptosis in CRC cells, contributing to its anti-CRC effect.
+These findings suggest that different concentration of DEH shows bidirectional regulation by improve inflammatory responses in UC and simultaneously possess anti-CRC effects by targeting the NOD2.
+This highlights DEH as a promising candidate for clinical treatment of UC and CRC.

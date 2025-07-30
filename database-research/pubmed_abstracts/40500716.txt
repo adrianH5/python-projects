@@ -1,0 +1,1 @@
+This meta-analysis evaluates the diagnostic accuracy of machine learning (ML)-based magnetic resonance imaging (MRI) models in distinguishing benign from malignant breast lesions and explores factors influencing their performance.

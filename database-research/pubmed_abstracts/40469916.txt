@@ -1,0 +1,13 @@
+Hepatocellular carcinoma (HCC) with portal vein tumor thrombosis (PVTT) presents a notable therapeutic challenge.
+The efficacy of transarterial chemoembolization (TACE) combined with hepatic arterial infusion chemotherapy (HAIC) and systemic therapy using tyrosine kinase inhibitor and programmed cell death protein 1 inhibitor has not been fully explored.
+In the present study, the clinical data from 251 patients with HCC and PVTT treated at Harbin Medical University Cancer Hospital (Harbin, China) between January 2021 and December 2022 were retrospectively analyzed.
+Patients were divided into four groups: TACE-HAIC + lenvatinib + camrelizumab (Group 1; n=16), TACE + lenvatinib + camrelizumab (Group 2; n=90), HAIC + lenvatinib + camrelizumab (Group 3; n=102) and TACE alone (Group 4; n=43).
+Clinical data included demographics, preoperative indices, tumor characteristics, medical history, performance status, liver function, pre-treatment α-fetoprotein levels and adverse events.
+Survival outcomes [overall survival (OS) and progression-free survival (PFS)] were analyzed using Kaplan-Meier survival curves.
+Group 1 exhibited significantly longer OS and PFS times compared with Group 4 (both P<0.05).
+Adverse events, including fatigue, diarrhea, nausea, vomiting and immune-related pneumonitis, were more frequent in Group 1 (all P<0.001).
+Group 2 also showed improved OS and PFS times compared with Group 4 (both P<0.05), with notable differences in adverse event profiles.
+Group 3 demonstrated superior survival outcomes compared with Group 4 (P<0.05), although with a higher incidence of adverse events.
+No significant differences in OS or PFS times were observed between Groups 1 and 3, or between Groups 2 and 3, indicating comparable efficacy between TACE-HAIC + lenvatinib + camrelizumab and HAIC + lenvatinib + camrelizumab.
+In conclusion, TACE-HAIC combined with lenvatinib and camrelizumab significantly improved both OS and PFS times in patients with HCC and PVTT compared with TACE alone, despite a higher incidence of adverse events.
+This combination therapy represents a promising treatment strategy for this patient population, offering enhanced survival benefits.

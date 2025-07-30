@@ -1,0 +1,2 @@
+Machine learning (ML) has become increasingly pivotal in health care, particularly in colorectal cancer (CRC) detection and diagnosis with the use of predictive models and artificial intelligence-assisted colonoscopies.
+This study evaluates the efficacy of ML models in predicting the risk for CRC and advanced colorectal polyps (ACP) before colonoscopy.

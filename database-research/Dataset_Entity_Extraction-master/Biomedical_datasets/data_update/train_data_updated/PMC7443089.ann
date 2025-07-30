@@ -1,0 +1,26 @@
+T1	URL 391 433	https://www.worldometers.info/coronavirus/
+T2	Repository 1706 1709	PDB
+T3	AccessionNumber 1713 1717	1R4L
+T4	Repository 1758 1761	PDB
+T5	AccessionNumber 1765 1769	6vyB
+T6	Repository 1781 1784	PDB
+T7	AccessionNumber 1788 1792	6M71
+T8	Repository 1814 1837	Protein Data Bank (PDB)
+T9	Creator 1839 1858	Berman et al., 2000
+T10	AccessionNumber 1907 1916	121304016
+T11	AccessionNumber 1937 1943	492405
+T12	AccessionNumber 1964 1969	83818
+T13	AccessionNumber 1990 1997	2738575
+T14	Repository 2023 2030	PubChem
+T15	URL 2041 2075	https://pusbchem.ncbi.nlm.nih.gov/
+R1	hasAttr	Arg1:T2	Arg2:T3
+R2	hasAttr	Arg1:T9	Arg2:T3
+R3	hasAttr	Arg1:T4	Arg2:T5
+R4	hasAttr	Arg1:T9	Arg2:T5
+R5	hasAttr	Arg1:T6	Arg2:T7
+R6	hasAttr	Arg1:T9	Arg2:T7
+R7	hasAttr	Arg1:T14	Arg2:T10
+R8	hasAttr	Arg1:T14	Arg2:T11
+R9	hasAttr	Arg1:T14	Arg2:T12
+R10	hasAttr	Arg1:T14	Arg2:T13
+R11	hasAttr	Arg1:T14	Arg2:T15

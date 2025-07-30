@@ -1,0 +1,3 @@
+In this communication, we introduce a hypoxia-responsive liquid metal-containing nanomaterial, referred to as an LMNPs/HS-β-CD/TPE-2NHCOO-azo-TEG complex, for fluorescence imaging and photothermal ablation of tumor cells.
+This novel nanomaterial exhibits several intriguing properties, and its features rest with a hypoxia-responsive azobenzene moiety, an aggregation-induced emission fluorogen, and liquid metal nanoparticles (LMNPs).
+The aggregation-induced emission structure within the probe enables fluorescence imaging of tumor cells, and the released LMNPs can elicit tumor cell death through photothermal effects under near-infrared laser irradiation, thereby enabling integrated diagnosis and treatment.

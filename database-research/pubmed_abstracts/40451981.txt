@@ -1,0 +1,9 @@
+Benefiting from the advantages of simple reactions, low energy consumption, and uniform properties, self-assembly has been widely utilized for preparation of nanoprobes.
+Peptides have been chosen as "bricks" for self-assembling nano-biomaterials due to their easy drug formation, highly variable sequence, good biocompatibility and biodegradability.
+Peptides can efficiently self-assemble through noncovalent interactions, such as hydrogen bonding, electrostatic interactions, π-π stacking, hydrophobic interactions, and van der Waals forces.
+Based on this, many ex situ and in situ self-assembly strategies are developed.
+The former self-assembles into stable nanomaterials beforehand, while the latter undergoes in situ self-assembly at the target site in response to its specific stimulus-responsive modules.
+As probe sizes are miniaturized to the nanometer scale, they gain high sensitivity, low detection limits, and the capability for in situ detection.
+Nanoprobes created through self-assembly, usually possess targeted accumulation in specific tissues, prolonged elimination half-life, and multimodal imaging capabilities, making them highly effective for disease diagnosis.
+This review introduces the types of self-assembled fluorescent peptide nanoprobes according to the source of fluorescence properties and summarizes the progress of their application in disease diagnosis, such as cancer, neurodegenerative disease, and bacterial infection.
+In addition, their limitations will be discussed, and new strategies will be proposed for the development of advanced peptide-based fluorescent self-assembling nanoprobes, aimed at improving their potential for clinical translation.

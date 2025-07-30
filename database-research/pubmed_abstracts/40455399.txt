@@ -1,0 +1,13 @@
+De novo assembly and genome binning are fundamental steps for genome-resolved metagenomics analyses.
+However, the availability of limited computational resources and extensive processing time limit the broader application of these analyses.
+To address these challenges, the optimization of the parameters employed in these processes can improve the effective utilization of available metagenomics tools.
+Therefore, this study tested three sets of k-mers (default, reduced, and extended) for their efficiency in metagenome assembly and suitability in recovering metagenome-assembled genomes.
+The results demonstrate that the reduced set of k-mers outperforms the other two sets in computational efficiency and the quality of results.
+The assemblies from the default set are comparable with those from the reduced set; however, less complete and highly contaminated metagenome-assembled genomes are obtained at the expense of higher processing time.
+The extended set of k-mers yields less contiguous but computationally expensive assemblies.
+This set takes approximately 3-times more processing time than the reduced k-mers and recovers the lowest proportions of high and medium-quality metagenome-assembled genomes.
+Contrarily, the reduced set produces better assemblies, substantially improving the number and quality of the recovered metagenome-assembled genomes in significantly reduced processing time.
+Validation of the reduced k-mer set on previously published metagenome datasets further demonstrates its effectiveness not only for human metagenomes but also for the metagenomes of environmental origin.
+These findings underscore that the reduced k-mer set is optimal for efficient metagenome analyses of varying complexities and origins.
+This optimization of the k-mer set used in metagenome assemblers significantly reduces computational time while improving the quality of the assemblies and recovered metagenome-assembled genomes.
+This efficient solution will facilitate the widespread application of genome-resolved analyses, even in resource-limited settings, and help the recovery of better-quality metagenome-assembled genomes for downstream analyses.

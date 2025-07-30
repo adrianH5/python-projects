@@ -1,0 +1,8 @@
+BackgroundThe incidence of cervical lymph node metastasis (CLNM) in thyroid cancer (TC) is high.
+Accurate preoperative diagnosis of CLNM is critical to reduce unnecessary lymph node dissection and complications for TC patients.
+Ultrasound (US)-based artificial intelligence (AI) systems show promise for CLNM prediction, but their diagnostic performance requires systematic evaluation.MethodsA comprehensive search of four electronic databases (Web of Science, Embase, PubMed, and Cochrane Library) was conducted from inception to 30 December 2023.
+The random-effects model was chosen to calculate the pooled diagnostic indicators.
+Sensitivity analysis and heterogeneity test were conducted.ResultsAmong 19 included studies, the AI system demonstrated pooled sensitivity, specificity, area under the curve (AUC) were 0.76 (95% condidence interval (CI): 0.71-0.80), 0.78 (95% CI: 0.74-0.82), and 0.84 (95% CI: 0.15-0.99), respectively.
+The sensitivity, specificity and AUC in clinically node-negative (cN0) patients were 0.73 (95% CI: 0.68-0.77), 0.81 (95% CI: 0.76-0.85) and 0.83 (95% CI: 0.14-0.99).
+The sensitivity, specificity and AUC for the central CLNM were 0.73 (95% CI: 0.69-0.77), 0.77 (95% CI: 0.72-0.81) and 0.81 (95% CI: 0.14-0.99).
+Multi-center designed studies yielded higher sensitivity (0.79 vs. 0.75,

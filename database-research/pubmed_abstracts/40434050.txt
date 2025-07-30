@@ -1,0 +1,6 @@
+Glioblastoma (GBM) is an extremely infiltrative brain cancer that is impossible to fully remove surgically and almost always recurs at the borders of the resection cavity.
+There is increasing focus on inducing cancer cell death using magneto-mechanical therapy (MMT), which involves energy conversion of an external low-frequency magnetic field into mechanical forces using magnetic nanoparticles.
+Here, we combined MMT with enhanced radiotherapy (RT)─the standard of care treatment for GBM─to increase the efficiency of treatment using gold-iron nanowires (AuFe NWs).
+The magnetic iron component of the nanowires mechanically rotates, inducing cellular damage, and the gold scatters X-rays due to its high atomic number, enhancing the local RT dose.
+We show that reproducible synthesis of AuFe NWs with different ratios of gold:iron can be achieved using a hard-template electrochemical method, controlling composition by tuning the deposition current.
+Ratios with best-performing iron percentages were selected for computational modeling to predict which frequency should be applied

@@ -1,0 +1,9 @@
+Melanoma is a highly metastatic cancer with poor treatment outcomes.
+Mitochondria, regulated by various signaling pathways, are an important target in cancer therapy.
+Near-infrared (NIR) fluorescence probes have gained interest due to their properties such as deep tissue penetration, high image sensitivity, and precision targeting.
+In this study, we developed a novel NIR fluorescent probe IR-545 for melanoma imaging, which demonstrated mitochondrial targeting and antitumor activity in melanoma cells.
+In vitro experiments showed that IR-545 was taken up by melanoma cells through organic anion-transport polypeptides and targeted tumor cell mitochondria.
+IR-545 induced apoptosis by inhibiting the PI3K/AKT/mTOR pathway and epithelial-mesenchymal transition (EMT) and suppressed the proliferation and metastasis of melanoma cells.
+In vivo, IR-545 significantly inhibited tumor growth in BALB/c nude mice.
+Immunofluorescence, immunohistochemistry, and H&E staining confirmed that IR-545 induced tumor cell apoptosis and inhibited proliferation without notable side effects.
+In conclusion, IR-545 shows significant potential in imaging and treating melanoma, offering a promising new therapeutic approach.

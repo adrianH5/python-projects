@@ -1,0 +1,10 @@
+To address inter-frame motion artifacts in ultrasound quantitative high-definition microvasculature imaging (qHDMI), we introduced a novel deep learning-based motion correction technique.
+This approach enables the derivation of more accurate quantitative biomarkers from motion-corrected HDMI images, improving the classification of thyroid nodules.
+Inter-frame motion, often caused by carotid artery pulsation near the thyroid, can degrade image quality and compromise biomarker reliability, potentially leading to misdiagnosis.
+Our proposed technique compensates for these motion-induced artifacts, preserving the fine vascular structures critical for accurate biomarker extraction.
+In this study, we utilized the motion-corrected images obtained through this framework to derive the quantitative biomarkers and evaluated their effectiveness in thyroid nodule classification.
+We segregated the dataset according to the amount of motion into low and high motion containing cases based on the inter-frame correlation values and performed the thyroid nodule classification for the high motion containing cases and the full dataset.
+A comprehensive analysis of the biomarker distributions obtained after using the corresponding motion-corrected images demonstrates the significant differences between benign and malignant nodule biomarker characteristics compared to the original motion-containing images.
+Specifically, the bifurcation angle values derived from the quantitative high-definition microvasculature imaging (qHDMI) become more consistent with the usual trend after motion correction.
+The classification results demonstrated that sensitivity remained unchanged for groups with less motion, while improved by 9.2% for groups with high motion.
+These findings highlight that motion correction helps in deriving more accurate biomarkers, which improves the overall classification performance.

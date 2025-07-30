@@ -1,0 +1,5 @@
+Patients with dysphagia due to nasopharyngeal carcinoma (NPC) after radiotherapy often have chewing difficulty.
+Kinematic analysis of mandibular movements may provide clinically useful information for the chewing function.
+However, current kinematic device costs limited clinical application, and specialized software is required for control and data processing.
+This study aimed to mandibular kinematics parameter recognition using a self-developed Nswallow 2D motion capture software.
+To investigate whether differences in kinematic data of mandibular movements during mastication can be used as an indicator of masticatory dysfunction in NPC patients, and to examine relationship with mastication efficiency.

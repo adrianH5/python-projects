@@ -1,0 +1,4 @@
+HPV-16 identification is crucial for point-of-care molecular diagnosis of cervical cancer.
+However, the diagnostic methods currently in use are unable to combine both high analytical performance and cost-efficient medical diagnosis.
+To circumvent this, we have developed a novel nanobiosensor for diagnosis of the HPV-16 L1 gene sequence through colorimetric methods.
+Using a unique conjugation technique of polyvalent DNA to gold nanoparticles (AuNPs), quickly synthesizing AuNPs synthesis in situ at the particular probe-polyadenine-polythymine (A

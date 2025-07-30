@@ -1,0 +1,9 @@
+Oral squamous cell carcinoma (OSCC) is a significant health challenge, particularly in the Indian subcontinent, where it is the second leading cause of cancer.
+Smoking, including waterpipe tobacco smoking, is a major risk factor for OSCC and contributes to the onset of malignancy through the absorption of carcinogenic compounds present in tobacco smoke.
+This study investigated the role of the oncogene Yes-associated protein 1 (YAP1) signaling pathway in OSCC progression, focusing on how exposure to waterpipe smoke condensate (WPSC) influences cellular proliferation, epithelial-mesenchymal transition (EMT), and YAP1 activity.
+Using immortalized human oral keratinocytes (HOK) and OSCC cell lines, we found that WPSC significantly enhanced cell proliferation, increased colony formation, and elevated YAP1 expression compared to controls.
+Notably, WPSC treatment resulted in the downregulation of the epithelial marker E-cadherin and the upregulation of mesenchymal markers, indicating a shift towards an invasive phenotype.
+Further bioinformatic analysis of The Cancer Genome Atlas (TCGA) dataset confirmed that YAP1 is frequently altered in HNSCC, highlighting its role in OSCC carcinogenesis.
+Our findings establish YAP1 as a central mediator in the response of oral keratinocytes to the oncogenic effects of waterpipe smoking, promoting EMT and enhancing invasive characteristics of OSCC cells.
+These results underscore the therapeutic potential of targeting the YAP1 signaling pathway in OSCC treatment, particularly in individuals exposed to waterpipe smoke.
+Future research should elucidate the molecular mechanisms of WPSC-induced YAP1 activation and EMT, paving the way for innovative therapeutic strategies to combat OSCC.

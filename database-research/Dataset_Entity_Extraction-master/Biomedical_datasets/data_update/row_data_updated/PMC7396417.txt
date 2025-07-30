@@ -1,0 +1,14 @@
+Consequently, we suggest inhibition of E protein can be a good target to alleviate ARDS complication of COVID-19.
+These GenBank annotations contain heterogeneous identifiers for genes so we included unique locus tags containing the strain accession number and gene index number for computational processing.
+Other databases showing greater detail about many viruses, such as Virus Pathogen Resource (VIPR, https://www.viprbrc.org) and GSAID (https://www.gisaid.org) are very useful but these resources do not provide gene clustering or pan-genome analysis.
+We used all genes from Betacoronavirus dataset in order to explore Gene Ontology predictions through our in-house DeepGOPlus (Kulmanov and Hoehndorf, 2020) tool that combines deep convolutional neural network (CNN) model with sequence similarity-based predictions to derive relevant functional classes from Gene Ontology alongside a confidence score.
+To validate the conservation and specificity of the SARS E cluster, we compared the SARS-CoV-2 E sequence with all known sequences in NCBI's non-redundant (NR) protein database.
+However, a blast-based search against the DNA of all sequences in NCBI's NT database showed that the ORF10 sequence matches with 100% coverage in DNA of other SARS-like genomes, but there is no open-reading frame predicted for those genomes in the matching region (Figure 1A).
+Moreover, our analysis is in agreement with ORFs 3a, 6, 7a, 8, and being accessory non-essential proteins, that would be inefficient targets for COVID-2019 therapy.
+A number of isolates from COVID-19 patients are now being made available from several countries, thanks to resources such as gisaid.org.
+Given the conservation of the key features of E proteins from SARS anSARS-CoV-2, these compounds would be promising candidates for inhibiting ARDS in COVID-19.
+Such more indirect targeting of the protein E function might also be considered for COVID-19 therapy.
+Therapies to combat the spread of SARS-CoV-2 and the lethality caused by the resulting COVID-2019 are currently focusing primarily on S, the viral spike protein (Kruse, 2020; Liu et al., 2020; Wrapp et al., 2020).
+Our pangenomic analysis suggests that the protein E of all SARS viruses preserves its critical motifs used for pathogenesis, and should be considered as an alternative target to be tested for therapies to mitigate COVID-2019.
+All datasets presented in this study are included in the article/Supplementary Material and https://pangenomedb.cbrc.kaust.edu.sa.
+Together with functional pangenomic analysis, mutation tracking, and previous evidence, on E protein as a determinant of pathogenicity in SARS, we suggest E protein as an alternative therapeutic target to be considered for further studies to reduce complications of SARS-CoV-2 infections in COVID-19.

@@ -1,0 +1,18 @@
+Cervical cancer is a major global health issue now and is the second leading cancer among women in Bangladesh, caused primarily by Human papillomavirus (HPV).
+Despite effective vaccination and screening methods, awareness and access to preventive methods are limited in developing regions.
+This nationwide study aims to explore socio-economic and cultural factors affecting cervical cancer awareness in Bangladesh and generate evidence-based recommendations for tailoring suitable health promotion strategies for the country.
+This cross-sectional study was conducted in Bangladesh to evaluate cervical cancer awareness among adults aged 18 years and above.
+A semi-structured questionnaire was designed for this research, keeping in mind the local sociocultural contexts.
+Face-to-face interviews were conducted after getting the participants' consent and making sure they understood all the questions.
+After checking for data quality and consistency, responses of 2,151 participants were finally retained.
+The collected data was analyzed using STATA (Version 17) statistical software.
+The majority (80.15%) of the participants were aware of cervical cancer, with healthcare workers being the primary source of information.
+Higher awareness rates were noted among married individuals (80.88%), urban dwellers (83.24%), those with more education (average 11.96 ± 4.36 years), individuals with higher income (88.17%), and those belonging to nuclear families (82.86%).
+Healthcare professionals had significantly greater awareness (98.91%) compared to other occupations.
+Participants undergoing regular health checkups were more informed and the association was statistically significant (87.03%, p < 0.001).
+Univariate and multiple logistic regression models revealed that each additional year of education increased the probability of being aware by 16-20%.
+Men had significantly lower odds of being aware compared to women (Adjusted Odds Ratio AOR = 0.41, β = -0.895, 95% CI: 0.23 to 0.70, p = 0.001 in the multiple logistic regression analysis).
+Similarly, respondents not cohabitating with their spouse were less aware than those who were living with partners (AOR = 0.47, β = -0.750, 95% CI: 0.28 to 0.81, p = 0.006).
+Income levels conversely influenced awareness level, participants from the highest income group (earning 35,001-50,000 BDT) had 47% lower odds (AOR = 0.53, β = -0.629, 95% CI: 0.36 to 0.80, p = 0.002) of awareness compared to the lowest income group (earning ≤20,000 BDT).
+Despite the widespread awareness of cervical cancer among most Bangladeshi adults, there remains a notable gap, particularly among certain demographics.
+Since the study identified healthcare workers, social media, and mass media as major sources of information, targeted educational campaigns through media channels and outreach activities by healthcare workers might effectively enhance nationwide awareness of cervical cancer.

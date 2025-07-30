@@ -1,0 +1,7 @@
+Bone is the most common site of breast cancer metastasis, yet understanding the intricate mechanisms and potential therapeutic targets remains nascent.
+Here it is reported that breast cancer establishes a hyperglycemic bone pre-metastatic niche before migrating to bone tissue and further enhances glucose metabolism following metastatic colonization.
+An intervention strategy is subsequently proposed targeting glucose metabolism utilizing a biomimetic-engineered enzyme-based nanoplatform.
+This platform's membrane shielding reduces the interaction between engineered glucose oxidase and circulating glucose, while the engineered enzyme specifically targets glucose metabolism, enabling self-amplifying starvation combined with selective chemotherapy.
+Such precision can precisely inhibit breast cancer bone metastases and block distal tumor dissemination.
+This study provides novel insights into the role of glucose metabolism in the pre-metastatic niche and presents a proof-of-concept for metabolic-targeted strategies in breast cancer bone metastasis treatment.
+This approach holds significant promise for improving therapeutic outcomes in metastatic breast cancer by targeting the metabolic vulnerabilities of the bone microenvironment and halting systemic tumor spread.

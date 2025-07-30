@@ -1,0 +1,16 @@
+A high death rate among glioma patients is primarily due to poor prognostic outcomes and tumour metastasis.
+Oncolytic viruses have gained attention as a potential therapeutic strategy as eliminating tumour cells and modifying tumour microenvironment.
+This research highlights the urgent necessity to investigate novel therapeutic targets and clarify molecular mechanisms in glioma.
+The GSE166914 dataset was analysed to examine the SPP1 and HMOX1 expression after VSV-M51 infection in glioma.
+By utilising the CancerSEA database, we assessed the potential function of SPP1/HMOX1 among pan-cancer.
+Analysis of gene/protein expression levels and clinical significance was performed to identify the roles of SPP1/HMOX1 using TCGA-glioma data.
+A correlation analysis was performed to screen co-expressed genes, followed by GSEA analysis.
+qPCR and HPA analysis were utilised to assess the mRNA/protein levels of SPP1 and HMOX1 in glioma tissues.
+The anti-apoptotic activity of SPP1 and HMOX1 was confirmed utilising the CCK-8 assay and flow cytometry.
+VSV-M51 infection resulted in SPP1/HMOX1 downregulation in T98 cells.
+The expression levels of SPP1/HMOX1 were significantly increased in glioma and associated with histological classifications and WHO grades.
+Elevated levels of SPP1/HMOX1 were related to poor prognosis in glioma.
+SPP1/HMOX1 was involved in influencing glioma cell motility through the PI3K/AKT, JAK-STAT and syndecan 1 signalling pathways.
+In vitro experiments showed higher expression levels of SPP1/HMOX1 in glioma tissues.
+Silencing SPP1/HMOX1 suppressed glioma cell proliferation and promoted apoptosis.
+In conclusion, dysregulated SPP1/HMOX1 expression was strongly related to glioma WHO grades and worse outcomes, providing deeper insights into glioma therapeutic targets and oncolytic virus-based treatments.

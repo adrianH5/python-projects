@@ -1,0 +1,9 @@
+T1	Repository 4375 4384	NIH dbGAP
+T2	AccessionNumber 4403 4418	phs001886.v2.p1
+T3	Creator 4610 4626	Kim et al., 2009
+T4	URL 4650 4681	www.ebi.ac.uk/microarray-as/ae/
+T5	AccessionNumber 4702 4712	E-TABM-577
+T6	Creator 4743 4760	Toft et al., 2008
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T3	Arg2:T5

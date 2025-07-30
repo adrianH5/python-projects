@@ -1,0 +1,4 @@
+Ovarian cancer is reported to be one of the most morbid gynecological cancers, often diagnosed at advanced stages.
+Primary debulking surgery (PDS) along with chemotherapy is the treatment of choice; however, there is a high probability of suboptimal excision.
+Thus, each patient should be evaluated for the appropriate treatment modality and PDS should be deferred as the risk of surgical complications and delay in chemotherapy consequently impacts survival.
+It is imperative to formulate a predictive model to select patients for optimal debulking surgery.

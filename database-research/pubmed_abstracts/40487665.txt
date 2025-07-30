@@ -1,0 +1,5 @@
+Abnormal amino acid metabolism promotes tumor progression by inducing malignant behaviors in tumor cells and altering the immune landscape within the tumor microenvironment.
+However, the underlying mechanisms remain unclear.
+In this study, we constructed colorectal cancer (CRC) organoids and patient-derived tumor xenograft (PDX) models, performing multifaceted validation to confirm that T-complex protein 1 subunit epsilon (CCT5), mediates the biosynthesis of aspartate and enhances sensitivity to anti-PD-L1 immunotherapy.
+Mechanistically, CCT5 directly binds to asparagine synthetase (ASNS) and promotes the synthesis of aspartate (Asn).
+The Asn-mTORC1 axis facilitates tumor cell proliferation while upregulating PD-L1 expression, which leads to a reduction in the number of effector CD8

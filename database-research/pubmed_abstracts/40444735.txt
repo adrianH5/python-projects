@@ -1,0 +1,10 @@
+Regulated cell death (RCD) is crucial for the advancement of cancers, and providing opportunities as prognostic indicators and immunotherapy markers for patients with cutaneous melanoma (CM).
+Ten multiomics integrative clustering approaches were performed to identify the CM subtypes.
+Subsequently, WGCNA was used to screen for module genes.
+Furthermore, screening hub genes was conducted through machine-learning analyses.
+Two CM subclasses were identified based on RCD multiomics profiling, each exhibiting distinctive molecular patterns.
+Then, utilizing the shared cluster DEGs, prognosis DEGs, and key module genes, 30 hub genes were obtained, and an RCD.score was conducted based on these genes.
+The RCD.score not only reflected the characteristics of the clinical but also provided insights into immunotherapy efficacy.
+Specifically, low RCD.score category exhibited a more active TME and favorable prognosis, those in the low RCD.score category was more responsive to immunotherapy, suggesting an inflamed TME phenotype.
+The high RCD.score category had a poor prognosis and was lower responsive to immunotherapy.
+This research offers genetic support for the possible therapeutic advantages of focusing on RCD in the treatment of CM while also examining their underlying pathophysiological mechanisms.

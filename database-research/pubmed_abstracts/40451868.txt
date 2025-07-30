@@ -1,0 +1,9 @@
+Organic molecules can absorb light energy to form excited states, from which various photophysical and photochemical processes such as heat, emission, and chemical reactions occur during deactivation to ground states.
+Therefore, it is highly important to control molecular properties in the excited states in many scientific fields including pharmaceutical sciences.
+Especially, the author has focused on the development of molecular technologies to utilize near-IR light, showing deep tissue penetration favorable for biomedical applications.
+The author has designed and synthesized 18π-electron tautomeric hydroxybenziphthalocyanines as functional near-IR-light-absorbing compounds with tunable aromaticity.
+Their near-IR absorption can be controlled by external stimuli such as chemical modifications and solvent effects.
+Additionally, the benziphthalocyanines were utilized for activatable near-IR photoacoustic imaging probes owing to their nonradiative thermal deactivation processes.
+The author also succeeded in developing a redox-switchable near-IR dye called benzitetraazaporphyrin.
+This molecule exhibits strong near-IR absorption in the 20π-electron antiaromatic reduced structure, while the 18π-electron oxidized structure is near-IR silent.
+The benzitetraazaporphyrin would be useful as near-IR probes working in reductive environments such as cancer cells.

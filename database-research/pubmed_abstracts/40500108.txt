@@ -1,0 +1,5 @@
+Chest malignancies such as non-small cell lung cancer (NSCLC) or pleural mesothelioma (PM) have an ominous prognosis.
+Photodynamic therapy (PDT) of NSCLC and PM improves patient survival, but the precise underlying mechanism remains unknown.
+Here, we hypothesized that low-dose PDT (L-PDT) alters the expression of tumor endothelial cell adhesion molecules favoring immune cell recruitment and tumor control.
+We explored this hypothesis in two mouse models of NSCLC and PM.
+We validated our findings in 82 PM patient samples.

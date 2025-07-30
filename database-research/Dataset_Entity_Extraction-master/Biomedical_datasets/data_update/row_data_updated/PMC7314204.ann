@@ -1,0 +1,27 @@
+T1	Dataset 360 417	GISAID (Global Initiative for Sharing All Influenza Data,
+T2	Dataset 690 696	GISAID
+T3	AccessionNumber 732 746	EPI_ISL_417330
+T4	AccessionNumber 748 762	EPI_ISL_417331
+T5	AccessionNumber 764 778	EPI_ISL_429881
+T6	AccessionNumber 780 801	EPI_ISL_EPI_ISL450232
+T7	AccessionNumber 804 817	EPI_ISL450240
+T8	Repository 850 910	National Center for Biotechnology Information (NCBI) GenBank
+T9	AccessionNumber 939 947	MT419851
+T10	AccessionNumber 949 957	MT419852
+T11	AccessionNumber 959 967	MT419860
+T12	AccessionNumber 969 981	MT510718-726
+T13	Repository 1024 1056	NCBI Sequence Read Archive (SRA)
+T14	AccessionNumber 1095 1106	PRJNA629889
+T15	AccessionNumber 1148 1159	PRJNA171119
+T16	Dataset 2795 2801	GISAID
+R1	hasAttr	Arg1:T2	Arg2:T3
+R2	hasAttr	Arg1:T2	Arg2:T4
+R3	hasAttr	Arg1:T2	Arg2:T5
+R4	hasAttr	Arg1:T2	Arg2:T6
+R5	hasAttr	Arg1:T2	Arg2:T7
+R6	hasAttr	Arg1:T8	Arg2:T9
+R7	hasAttr	Arg1:T8	Arg2:T10
+R8	hasAttr	Arg1:T8	Arg2:T11
+R9	hasAttr	Arg1:T8	Arg2:T12
+R10	hasAttr	Arg1:T13	Arg2:T14
+R11	hasAttr	Arg1:T13	Arg2:T15

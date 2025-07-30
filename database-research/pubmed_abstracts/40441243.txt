@@ -1,0 +1,11 @@
+Uterine fibroids (UF), the most common benign tumors in women, have been associated with cardiovascular disease (CVD) in observational studies, yet causal inference remains unclear due to confounding.
+This Mendelian randomization (MR) study leveraged genetic variants as instrumental variables (IVs) to evaluate the causal relationship between genetically predicted UF and CVD risk.
+Exposure data were derived from a UK Biobank genome-wide association study of 462,933 Europeans (5168 UF cases).
+Outcome data for CVD subtypes were obtained from FinnGen and EBI consortia (sample sizes: 180, 862-977, 323).
+Fourteen independent single-nucleotide polymorphisms strongly associated with UF (P < 5 × 10⁻⁶) were selected as IVs, pruned for linkage disequilibrium (r2<0.001; F-statistic > 10).
+The inverse-variance-weighted method was used for primary analysis, supplemented by sensitivity approaches (weighted median, MR-Egger, MR-PRESSO).
+Robustness was evaluated via Cochran Q test (heterogeneity), MR-Egger intercept (pleiotropy), and leave-one-out analysis.
+Genetically predicted UF showed no causal effects on ischemic heart disease (OR = 2.00E-02, 95% CI: 2.21E-04 to 2.47E+00, P = .11), heart failure (OR = 5.20E-01, 95% CI = 1.03E-02 to 2.57E+01, P = .74), venous thromboembolism (OR = 1.65E+00, 95% CI: 1.13E-03 to 2.41E+03, P = .89), or stroke (OR = 3.70E-01, 95% CI = 1.82E-03 to 7.48E+01, P = .71).
+Sensitivity analyses confirmed consistency (all P > .05), with no heterogeneity (Cochran Q P > .05) or horizontal pleiotropy (MR-Egger intercept P > .05).
+Leave-one-out analysis indicated stable estimates.
+This MR study found insufficient evidence to support a causal link between UF and CVD, contrasting previous observational reports.

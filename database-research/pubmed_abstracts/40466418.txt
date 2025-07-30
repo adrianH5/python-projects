@@ -1,0 +1,7 @@
+Infections with antimicrobial-resistant pathogens, such as Pseudomonas aeruginosa, are a frequent occurrence in healthcare settings.
+Although human P. aeruginosa infections are predominantly caused by a small number of sequence types (ST), such as ST235 and ST111, that are frequently multidrug-resistant, the basis for this dominance remains unclear.
+Using a genome-wide, transposon-insertion library screen, we discovered that the production of R5 pyocins (one of 5 subtypes of R pyocins) confers a competitive advantage to ST111 strains.
+Competitive dominance was lost by mutants lacking R pyocin production.
+Analysis of 5135 P. aeruginosa strains revealed that several international, high-risk sequence types (including ST235 and ST111) are enriched for R5 pyocin production, indicating a correlation between R5 pyocin production and clinical dominance, suggesting a novel approach for evaluating risk from emerging P. aeruginosa strains.
+An ST235 strain also lost its competitive advantage after deletion of an R5 pyocin structural gene, corroborating these findings.
+Overall, our study sheds light onto mechanisms underlying predominance of particular clades of antimicrobial resistant bacteria.

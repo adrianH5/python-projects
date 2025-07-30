@@ -1,0 +1,11 @@
+Lung adenocarcinoma (LUAD) remains a leading cause of cancer-related mortality worldwide, with limited response rates and resistance to targeted therapies and immunotherapies.
+Pin1, a phosphorylation-specific peptidyl-prolyl isomerase, has been implicated in multiple oncogenic pathways; however, its role in LUAD is not fully understood.
+We conducted an integrative analysis using public datasets (TCGA, GEO, HPA), LUAD tissue microarrays, malignant pulmonary nodule specimens, and cell line models to investigate the expression and function of PIN1 in LUAD.
+Functional assays, immunohistochemistry, and in vivo xenograft models were employed to validate the biological effects of PIN1 in LUAD progression and treatment response.
+PIN1 expression was significantly downregulated in LUAD tissues compared to adjacent normal lung tissues.
+High PIN1 expression was associated with improved overall survival, increased immune cell infiltration, and enhanced response to immunotherapy.
+Overexpression of PIN1 inhibited proliferation and migration while promoting apoptosis of LUAD cells in vitro and in vivo.
+Mechanistically, high PIN1 expression activated downstream pAKT and pMAPK signaling, potentially contributing to EGFR-TKI resistance despite unchanged pEGFR levels.
+Moreover, functional enrichment analysis and immune profiling revealed that PIN1 is positively associated with antitumor immune responses in LUAD, contrasting its immunosuppressive role in other cancers.
+PIN1 exhibits tumor-suppressive activity in LUAD and may serve as a promising biomarker for prognosis and therapeutic response.
+These findings underscore the context-dependent role of PIN1 and support further exploration of its mechanistic involvement in LUAD immunobiology and targeted therapy resistance.

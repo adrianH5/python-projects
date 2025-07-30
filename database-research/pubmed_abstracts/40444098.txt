@@ -1,0 +1,4 @@
+Neoadjuvant chemotherapy (NAC) is a standard treatment strategy for breast cancer, with a commonly used regimen consisting of 4-cycle anthracycline and cyclophosphamide (AC) treatment followed sequentially by 4-cycle taxane (T) treatment.
+Variations in treatment efficacy are observed at different stages of AC-T regimen.
+Stratifying patients based on the efficacy variations could provide insights to prolong the cycle of AC or T treatment, potentially enhancing the overall efficacy of NAC.
+Therefore, this study aimed to evaluate the feasibility of developing magnetic resonance imaging (MRI) radiomic models for predicting the relative efficacy of AC versus T treatments.

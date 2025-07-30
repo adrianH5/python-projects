@@ -1,0 +1,3 @@
+Human leukocyte antigen class II (HLA-II) genes are highly polymorphic affecting the specificity of human antibody responses, as presentation of processed antigen peptides by HLA-II on B cells is essential for T helper cell dependent affinity maturation and class switching.
+The combination of high-throughput immunoassays and genome-wide association studies has recently revealed strong associations between HLA-II variants and antibody responses against specific antigens.
+However, factors underlying these associations remain incompletely understood.

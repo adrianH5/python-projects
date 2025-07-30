@@ -1,0 +1,5 @@
+Small-cell lung cancer (SCLC) transformation is one of the major mechanisms of resistance to Epidermal Growth Factor Receptor tyrosine kinase inhibitors (EGFR-TKIs).
+Chemotherapy is typically the recommended treatment for transformed SCLC (T-SCLC), similar to primary SCLC.
+However, the benefits of chemotherapy alone are minimal.
+Prior research highlights differences between the biological traits of T-SCLC and primary SCLC or EGFR-mutated lung adenocarcinoma (LUAD).
+This study aims to elucidate the molecular characteristics of T-SCLC and identify potential treatment modalities.

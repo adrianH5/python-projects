@@ -1,0 +1,11 @@
+The extracellular matrix (ECM) plays a crucial role in regulating intracellular signaling in tumor cells.
+Although the influence of ECM stiffness on tumor malignancy has been well studied, the adaptation of tumors to a soft extratumoral environment with an increasing proliferation rate remains poorly understood.
+In this study, we investigated the mechanism of tumor cell adaptation to a soft environment and its relationship with tumor malignancy.
+A soft extracellular environment was required for adaptation.
+Among the various cell lines, highly malignant cancer cells, such as MDA-MB-231, PC3 and KP4, demonstrated an adaptive response to soft environments, as evidenced by increased cell extension and proliferation.
+Furthermore, adaptation to a soft environment enhanced lung colonization in a mouse model of breast cancer, suggesting a potential link between adaptability to soft environments and accelerated tumor malignancy.
+The mechanical environment of the cells before being transferred to a softer environment affected their adaptation as a mechanical memory via histone modifications.
+Integrin β1-mediated adhesion to the ECM played a central role in this adaptive phenomenon.
+Interestingly, adaptation occurred through a mechanism with limited involvement of mechanotransduction and prominent enhancement of ribosomal activity, providing new insights into the proliferation mechanisms in a soft environment.
+This study revealed how tumor cells adapt to a soft environment and showed that the adaptation phenomenon may be related to malignant transformation.
+Thus, the adaptation mechanism may be a therapeutic target for the suppression of metastasis.

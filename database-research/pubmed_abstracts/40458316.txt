@@ -1,0 +1,15 @@
+This is the protocol of a Campbell scoping review.
+This scoping review aims to identify and map the evidence regarding the use of information and communication technologies (ICTs) in physical activity (PA) interventions for breast cancer survivors (BCS), which includes examining the types of ICTs utilized, how they are applied, and their effects on BCS' PA-related outcomes.
+The Preferred Reporting Items for Systematic Reviews and Meta-Analysis extension for Scoping Reviews Checklist (PRISMA-ScR) was used to structure this protocol.
+The focus of the scoping review is guided by the mnemonic PCC (Population, Concept, Context) recommended by the JBI Manual for Evidence Synthesis.
+PubMed, CINAHL (Ebsco), Web of Science (Clarivate), and SportDiscus (Ebsco) will be searched for peer-reviewed studies.
+We will include interventional studies using ICTs for PA promotion among BCS across the cancer care continuum.
+Our protocol incorporates information about the aims and importance of the scoping review, search strategy, inclusion/exclusion criteria, study selection, data extraction, quality assessment, and data synthesis.
+The total number and key characteristics of included studies will be reported in this scoping review.
+It will identify and map the current ICTs used in PA interventions, outline the methods and extent of their application, and summarize the related outcomes observed among BCS.
+Participation in PA remains insufficient among BCS despite its known benefits in lowering the risk of death and improving breast cancer prognosis.
+While technology-based interventions have received increased attention in recent years, there is still limited consensus within the scientific literature surrounding ICT-based PA interventions for BCS.
+The use of ICTs in PA interventions may promote PA among BCS and benefit their survivorship.
+This scoping review may lead to strategies for developing ICTs that are optimal to be used in PA interventions that benefit BCS, a large and growing population of cancer survivors.
+Additionally, it will identify knowledge gaps to enhance healthcare communication between healthcare practitioners and BCS using ICTs, which may promote PA and lead to improved cancer survivorship in this population.
+Registered and available at OSF (https://osf.io/hwde4/?view_only=be6ef619dc1a44b080bb61be32d5d56f).

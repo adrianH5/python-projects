@@ -1,0 +1,10 @@
+Dendritic cell (DC) vaccines stimulate the immune system to target cancer antigens, representing a promising option for immunotherapy.
+However, clinical trials have demonstrated limited effectiveness, emphasizing the need for enhanced immune responses.
+Improving the production of DC vaccines, assessing their impact on immune components, and observing responses could improve the results of DC-based therapies.
+Innate lymphoid cells (ILCs) represent a heterogeneous population of innate immune components that generate cytokines and modulate the immune system, potentially enhancing immunotherapies.
+Recent research highlights the different functions of ILCs in cancer, demonstrating their dual capabilities to promote tumors and exhibit anti-tumor actions.
+DCs and ILCs actively communicate under physiological and pathological conditions, and the activation of ILCs by DCs or DC vaccines has been shown to influence ILC cytokine production and function.
+Gaining insights into the interaction between DC-activated ILCs and tumors is essential for creating exciting new therapeutic strategies.
+These strategies aim to boost anti-tumor immunity while reducing the support that tumors receive.
+This review examines the effect of DC vaccination on host ILCs, illustrating the complex relationship between DC-based vaccines and ILCs.
+Furthermore, it explores some exciting strategies to enhance DC vaccines, aiming to boost anti-tumor immune responses by fostering better engagement with ILCs.

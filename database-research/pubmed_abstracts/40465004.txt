@@ -1,0 +1,9 @@
+Cancer is a significant global health concern, with its prevalence continuing to rise steadily.
+Early detection is vital for improving treatment outcomes and survival rates by enabling timely intervention and effective disease management.
+Biosensors have emerged as crucial tools in cancer diagnosis, offering high sensitivity, selectivity, and rapid detection of biomarkers.
+Among them, nanomaterial-based biosensors have gained significant attention due to their unique properties, including enhanced biocompatibility, stability, and large surface area for biomolecule interaction.
+These sensors utilize materials like metal nanoparticles, quantum dots, and other nanomaterials, which amplify signals and improve detection limits, making them highly effective for identifying cancer at its earliest stages.
+Their adaptability and potential for multiplexed detection further highlight their value in advancing cancer diagnostics and treatment strategies.
+This review explores recent advancements in nanomaterial-based biosensors for detecting cancer-related biomarkers, highlighting their critical role in early diagnosis.
+Key biomarkers covered include CA15-3, GPC3, Cyfra 21-1, CA-125, CRT, PDGF, PSA, miRNA-122, Anti-P53, YES1, CEA, PSMA, miR-141, c-Met protein, miR-106b, HER-2, Pax-5a, mSEPT9, and miR-21.
+By focusing on studies conducted between 2022 and 2025, the review addresses emerging applications and future prospects of these biosensors.

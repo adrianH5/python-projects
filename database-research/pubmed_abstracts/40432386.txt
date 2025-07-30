@@ -1,0 +1,10 @@
+This prospective study aims to examine the impact of changes in viral load on the occurrence of cervical lesions and to evaluate viral load as a biomarker for predicting cervical lesions and triaging HPV-positive patients.
+From September 2022 to August 2023, 1150 women aged 25-60 were enrolled at the Changzhou Maternal and Child Health Hospital.
+All participants tested positive for HPV and negative for both cytology and pathology.
+A follow-up was conducted 6 months later to reassess HPV status and perform colposcopy.
+BMRT was employed to detect various HPV types and their viral loads.
+The ROC curve was utilized to determine the viral load cut-off values for different HPV types to predict cervical lesions.
+From baseline to follow-up, women whose HPV infection cleared were significantly younger than those with persistent HPV infection (p < 0.001).
+At baseline, the viral loads of the virus clearance, maintenance, and progression groups demonstrated an increasing trend (p < 0.001).
+Among women diagnosed with CIN during follow-up, the viral load increased significantly from baseline to follow-up (p = 0.001).
+The combination of HPV genotyping and viral load in the initial screening of cervical cancer enhances the prediction and identification of cervical lesions.

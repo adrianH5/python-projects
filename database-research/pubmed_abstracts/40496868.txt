@@ -1,0 +1,6 @@
+Exosomes are nano-sized extracellular vesicles involved in cell homeostasis.
+Tumor-derived exosomes (TDEs) promote tumor progression by creating an immunosuppressive tumor microenvironment (TME), inhibiting T and NK cell activity, preventing dendritic cell maturation, and expanding immunosuppressive cell populations.
+Cancer Stem Cell (CSC)-derived exosomes further trigger functional changes in immune cells subsets, enhancing immune suppression.
+Consequently, blocking the release or the uptake of TDEs significantly impact immunotherapy efficacy, making them potential therapeutic targets.
+On the other hand, NK cell-derived exosomes can be engineered to carry immune-activating molecules or inhibitors of immune checkpoint molecules to elicit immune responses.
+This review highlights the interplay between TDEs and immune cells, particularly NK cells, in different tumors, with a focus on neuroblastoma, and explores exosome-based strategies to improve immunotherapy efficacy.

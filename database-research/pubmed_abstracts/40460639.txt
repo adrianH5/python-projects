@@ -1,0 +1,13 @@
+Invasive ductal carcinoma is a type of breast cancer that is one of the most frequent and aggressive forms of breast malignancy, necessitating accurate and timely diagnosis for effective treatment.
+Though considered the gold standard, traditional histopathological diagnosis is subject to inter-observer and intra-observer variability, potentially impacting patient outcomes.
+This study proposed an ensemble learning approach for classifying invasive ductal carcinoma to address these challenges.
+The proposed method combines the strengths of multiple deep-learning models to enhance diagnostic accuracy and robustness.
+We employed a diverse set of pre-trained convolutional neural networks, viz, ResNet50, Xception, MobileNetV2, VGG16, and VGG19, each trained on histopathological images of breast histology slides.
+These five different deep learning models were compared in this work, and the resulting inference results are also shown.
+Ensemble and a fine-tuning approach to transfer learning were also used to extract the best results.
+These models were evaluated using evaluation metrics like accuracy to see which one does the job best.
+The proposed weighted average ensemble algorithm achieved 97.27 % accuracy.
+Among all models, the ResNet50 model outperforms the other models in identifying invasive ductal carcinoma.
+Therefore, ResNet50 is the preferred model when accuracy is the top concern for a particular resolution image, and the weighted average ensemble approach enhances the performance of the proposed work.
+Our results indicate that the proposed ensemble approach decreases variability in diagnoses and advancements in accuracy.
+This method holds promise for enhancing the precision of breast cancer diagnostics, potentially leading to better patient management and outcomes.

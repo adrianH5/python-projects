@@ -1,0 +1,4 @@
+The rate of missing data on patient-reported health-related quality of life (HRQOL) in brain tumor clinical trials is particularly high over time.
+One solution to this issue is the use of proxy (i.e.
+partner, relative, informal caregiver) ratings in lieu of patient-reported outcomes (PROs).
+In this study, we investigated patient-proxy agreement on HRQOL outcomes in high-grade glioma (HGG) patients.

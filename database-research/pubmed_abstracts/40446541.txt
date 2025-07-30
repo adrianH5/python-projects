@@ -1,0 +1,7 @@
+The clinical utility of docetaxel solution (DTX-sol) is often compromised by limited efficacy and significant side effects.
+To address these issues, a myristyl alcohol-modified DTX prodrug was designed and synthesized, using a trisulfide bond as a linker arm.
+High drug loading of DTX prodrug-loaded ferritin nanoparticles (DM FNPs) was achieved using a one-step nano-precipitation method.
+The resultant DM FNPs exhibited spherical morphology and a uniform size distribution.
+DM FNPs are activated by tumor-overexpressed glutathione, triggering DTX release, facilitating Fenton reaction-mediated chemodynamic therapy, and inducing self-sensitized ferroptosis.
+DM FNPs improved the pharmacokinetic behavior of DTX in rats, significantly enhanced the antitumor efficacy, achieving a tumor inhibition rate of 69.57 %, while mitigating adverse reactions to DTX-sol in 4T1 tumor-bearing mice.
+In conclusion, DM FNPs offer simple and feasible means of enhancing the antitumor efficacy while mitigating adverse effects associated with DTX-sol.

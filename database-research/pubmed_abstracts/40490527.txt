@@ -1,0 +1,8 @@
+Tumor-associated macrophages (TAMs) promote the transition of breast cancer cells from an epithelioid to a mesenchymal phenotype (EMT) and facilitate breast cancer metastasis, but the role of lncRNA in this process is poorly understood.
+We employed bioinformatics analysis to identify TAMs-related lncRNAs involved in EMT, migration and metastasis of breast cancer cells.
+LncRNA RP11-627G18.1 was identified as a TAMs-induced lncRNA in breast cancer cells and was further evaluated using RT-qPCR.
+The roles of lncRNA RP11-627G18.1 in EMT and migration were further explored using RNA interference, western blot, immunofluorescence, wound healing, and transwell assays.
+We discovered that TAMs-related lncRNA RP11-627G18.1 is positively correlated with EMT, metastasis, and poor prognosis in breast cancer.
+In vitro studies showed that lncRNA RP11-627G18.1 was induced by TAMs in breast cancer cells, accompanied by enhanced EMT and migration.
+Knockdown of lncRNA RP11-627G18.1 reversed EMT and inhibited the migration of breast cancer cells.
+TAMs-induced lncRNA RP11-627G18.1 promoted EMT, migration of breast cancer cells, and tumor metastasis, suggesting it as a promising biomarker and therapeutic target for breast cancer.

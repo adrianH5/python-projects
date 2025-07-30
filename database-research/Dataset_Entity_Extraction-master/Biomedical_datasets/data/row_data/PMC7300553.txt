@@ -1,0 +1,21 @@
+The novel coronavirus SARS‐CoV‐2 leads to coronavirus disease 2019 (synonym: COVID‐19).
+Numerous researcher groups have been focusing on the COVID‐19 pandemic in recent days.
+Cancer patients are at a risk for the development of several infections, including the prevalent COVID‐19 pandemic in recent days.
+Lung tumors may block normal mucus drainage, which can lead to infection, and further, other types of entrance molecules that have been changed by cancer can be more prone to COVID‐19 infection.
+In this way, we first designed our in silico analyses regarding COVID‐19‐related genes (ACE2, TMPRSS2, CD147/BSG, and FURIN/PCSK3) expression, as well as mutation analyses, for revealing the susceptibility of COVID‐19 in lung cancer subtypes (lung squamous carcinoma [LUSC] and lung adenocarcinoma [LUAD]).
+The lung cancer data set was obtained from The Cancer Genome Atlas (TCGA) database.
+The cBio Cancer Genomics Portal (http://cbioportal.org) is an open accessed platform containing TCGA data set; it is a collaboration between the National Cancer Institute (NCI) and the National Human Genome Research Institute (NHGRI), is the large‐scale cancer genomics projects that allow interactive research of multiple cancer genomic data sets, and provides access to the data of more than 5000 tumor samples from various cancer studies.
+The selected TCGA data set comprised the genome sequencing data of 1097 LUAD and LUSC patients.
+Finally, the score given by the COSMIC
+ (https://cancer.sanger.ac.uk/cosmic) database was used to predict and verify the pathogenic effect of detected mutations.
+GEPIA offers customizable features such as differentially expressed tumor/normal analysis from the TCGA and the Genotype‐Tissue Expression databases.
+Since the first case detected in December 2019, a new coronavirus causing COVID‐19 disease has led to more than 3 500 000 infections worldwide and about 245 000 deaths.
+Cancer patients may be at a higher risk of being more susceptible to COVID‐19 infectious diseases.
+First of all, mutation profiles of target genes, including ACE2, TMPRSS2, CD147/BSG, and FURIN/PCSK3 from the genome sequencing results of the LUAD and LUSC patient, which are accessible in TGCA data sets, were analyzed extensively.
+Ulrich et al
+ reported that inhibition of CD147/BSG may have beneficial effects in the prevention of diabetic complications, involving severe acute respiratory syndrome triggers by COVID‐19.
+Therefore, assessment of the TMPRSS2 gene downregulated expression only may be useful for predicting prognosis and susceptibility to COVID‐19 in these patient groups.
+The challenge for today is building the assessment of genomic susceptibility to COVID‐19 in lung cancer, requiring detailed experimental laboratory studies, in addition to in silico analyses, as a way of assessing the mechanism of novel virus invasion that can be used in the development of effective SARS‐CoV‐2 therapy.
+The increased expression of ACE2 and CD147/BSG and decreased expression of TMPRSS2 in tumor tissues results in more susceptible to SARS‐CoV‐2 infection in COVID‐19 patients with lung cancer subtypes.
+The downregulated expression of TMPRSS2 may useful for predicting prognosis and susceptibility to COVID‐19 in LUAD cancer patients.
+The impact of genetic variations in lung cancer patients need to be assessed in order to effectively reveal potential invasion genes for SARS‐CoV‐2 in COVID‐19 susceptibility.

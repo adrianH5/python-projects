@@ -1,0 +1,6 @@
+Photodynamic therapy (PDT) represents a promising modality for cancer treatment; however, its clinical application is hindered by challenges such as glutathione (GSH)-mediated quenching of reactive oxygen species (ROS) and autofluorescence interference during visible light imaging.
+This study introduces Cy-NBD-5F, a photosensitizer engineered to address these limitations.
+Upon activation by GSH, Cy-NBD-5F exhibits 5.5-fold fluorescence enhancement at 701 nm, producing its reduced form, Cy-OH-5F, which demonstrates enhanced ROS generation, including a 1.4-fold increase in singlet oxygen and 1.2-fold increase in superoxide anion radicals.
+Under light irradiation, Cy-OH-5F induces significant cytotoxicity (IC50 < 3 μM).
+Additionally, the molecule predominantly localizes within lysosomes and the endoplasmic reticulum, showing organelle-specific effects to improve therapeutic efficacy.
+These findings show the potential of Cy-NBD-5F as a precise and effective tool for cancer theranostics.

@@ -1,0 +1,11 @@
+Structural equation model (SEM) trees and forests are valuable tools for exploring predictors of group differences in SEM parameters.
+In longitudinal studies, in particular, they hold significant potential for investigating heterogeneity in change and dynamics.
+In past research, longitudinal SEM trees and forests have been predominantly estimated with the R package semtree, which, until recently, only allowed the estimation of discrete-time models.
+The problem of discrete-time models is that they may lead to biased estimates when measurement intervals are unevenly spaced, which is frequent in longitudinal studies.
+As a solution to this problem, recent updates in the semtree package included SEM trees based on continuous-time (CT) models, which do not require constant intervals and can easily adapt to irregular sampling schemes.
+This implementation, however, yielded biased results and involved a computational burden that was prohibitive for forests.
+Only very recent work on score-guided algorithms, along with corresponding software implementations, have made CT-SEM forests feasible for empirical practice.
+In this article, we present a novel implementation of CT-SEM forests that combines the ctsemOMX package for CT modeling, the recursive partitioning infrastructure of the semtree package, and the score-guided covariate testing procedures of the strucchange package.
+Next, we systematically examine the performance of CT-SEM forests through a Monte Carlo study and illustrate the approach on empirical data from the Survey of Health, Ageing, and Retirement in Europe.
+Finally, we explore various alternatives for using the information provided by CT-SEM forests and discuss the benefits and limitations of the approach.
+(PsycInfo Database Record (c) 2025 APA, all rights reserved).

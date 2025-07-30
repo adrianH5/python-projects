@@ -1,0 +1,10 @@
+Colon cancer is one of the most prevalent cancers worldwide and the second leading cause of cancer-related deaths.
+The goal of the present study was to investigate the role of Prodigiosin (PG) in promoting programed cell death in irradiated Caco-2 colon cancer cells.
+We examined the extent to which PG disrupts the BCL-2/caspase-3 and PPAR-γ signaling pathways and affects apoptosis in these cancer cells.
+The inflammatory markers COX2, PGE2, NO, TNFα, and the inflammosome NLRP-3, MAPK in addition to prooxidant/antioxidant balance is also under investigation.
+Caco-2 cells were irradiated with gamma rays (6 Gy) either with or without PG and the results revealed that, PG established IC50 equivalent to 357.27 μgl/ml in Caco-2 cells.
+The flowcytometric analysis (Annexin V), BCL-2 and caspase-3 showed that PG induces apoptosis for Caco-2 cells.
+Furthermore, the PG + gamma irradiated (R) group of Caco-2 cells showed significant down regulation in proliferation and inflammatory cascade induction followed by changes in redox tone (expressed by increase in SOD and GSH activities and decrease in MDA concentration), resulted in reduction of tumor growth.
+It could be concluded that PG has an anti-proliferative action on Caco-2 cells because of its capability to enhance apoptosis in addition to its capability to enhance response of Caco-2 cells to gamma radiation.
+Based on our findings in the present study we were able to demonstrate that the oxidative status as well as inflammatory responses are grave for determining the longevity, life span and reactivity of Caco-2 colon cancer cells upon exposure to PG unaccompanied or accompanied by gamma radiation.
+Prodigiosin might represent a valuable key in contesting development of drug resistance of cancer cells and it could raise the radio-sensitivity of cells when PG delivered in combination with radiation exposures.

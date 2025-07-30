@@ -1,0 +1,7 @@
+High mobility group (HMG) proteins, the second most abundant chromatin proteins after histones, play essential roles in eukaryotic gene regulation.
+Among these, High Mobility Group Box 3 (HMGB3) is critical for DNA repair and has gained prominence in cancer biology due to its involvement in tumorigenesis and cancer progression.
+This study explores the cellular and molecular mechanisms underlying HMGB3's oncogenic functions, with a focus on its potential as a prognostic biomarker and therapeutic target.
+We highlight that HMGB3 is frequently overexpressed in tumor tissues and discuss its association with poor clinical outcomes.
+Furthermore, we examine the ceRNA network and other regulatory pathways influencing HMGB3 expression, emphasizing their implications for RNA-based therapies.
+By comprehensively reviewing HMGB3's role across multiple cancer types, this work provides insights into novel strategies for targeting HMGB3 to improve cancer treatment efficacy.
+Our findings underscore the therapeutic potential of modulating HMGB3 expression and pave the way for future research into precision oncology approaches.

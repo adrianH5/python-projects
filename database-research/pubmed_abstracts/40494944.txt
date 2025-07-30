@@ -1,0 +1,3 @@
+The results of observational studies on the causal relationship between metabolic syndrome (MetS) and thyroid cancer (TC) are controversial.
+This study aimed to explore the potential causal link between metabolic syndrome (MetS) and thyroid cancer (TC) by Mendelian randomization (MR) analysis.
+Additionally, the genetic correlation was evaluated using Linkage Disequilibrium Score Regression (LDSC).

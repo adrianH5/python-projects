@@ -1,0 +1,5 @@
+Early detection of ovarian cancer is crucial for successful treatment, yet most cases are diagnosed at advanced stages due to a lack of effective screening.
+Recent advancements in RNA technology from platelets aid in early tumor detection.
+Here, we proposed our two-step method for assessing the existence of pelvic mass either located at ovaries or uterus with more than 99% specificity by utilizing exon-exon junction features with a sampling invariant normalization technique; then next our model finds the malignancy of detected mass with more than 99% negative predictive value for ovarian cancer to practically assist clinicians' further investigation via combined features of exon-exon junctions, and hematology parameters.
+We diverged from traditional methods by employing intron-spanning reads (ISR) counts rather than gene expression levels to use splice junctions as features in our models.
+If integrated with current screening methods, our algorithm holds promise for identifying ovarian or endometrial cancer in its early stages.

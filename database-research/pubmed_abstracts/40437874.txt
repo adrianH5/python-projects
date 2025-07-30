@@ -1,0 +1,4 @@
+Mutations in c-MET receptor tyrosine kinase (MET) can be primary oncogenic drivers of multiple tumour types or can be acquired as mechanisms of resistance to therapy.
+MET tyrosine kinase inhibitors (TKIs) are classified as type I or type II inhibitors, with the former binding to the DFG-in, active conformation of MET, and the latter to the DFG-out, inactive conformation of MET.
+Understanding how the different classes of MET TKIs impact tumours with varied MET alterations is critical to optimising treatment for patients with MET altered cancers.
+Here, we characterise MET mutations identified in patients' tumours and assess responsiveness to type I and II TKIs.

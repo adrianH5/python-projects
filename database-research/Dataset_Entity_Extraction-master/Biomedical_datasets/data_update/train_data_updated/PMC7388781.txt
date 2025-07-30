@@ -1,0 +1,5 @@
+COVID-19, caused by SARS-CoV-2, was first reported in several cases with unexplained pneumonia from Wuhan, China, in late December 2019.
+As of Feb 24, 2020, a total of 77,262 COVID-19 cases have been confirmed in mainland China with 2595 deaths, and 2069 cases outside China with 23 deaths (WHO, 2020).
+The nucleocapsid protein gene (N gene) of SARS-CoV-2 downloaded from the Global Initiative on Sharing All Influenza Data (GISAID) was chosen as the target region.
+Only the extracts from SARS-CoV-2 strain and COVID-19 patient's samples showed positive reactions.
+The current outbreak of coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) was reported in China firstly.

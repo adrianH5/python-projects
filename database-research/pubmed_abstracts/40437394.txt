@@ -1,0 +1,10 @@
+Porphyrins, as drug-food homologous bioactive substances, hold significant potential in nanomedicine research and photodynamic therapy (PDT).
+In this study, we synthesized two novel porphyrin compounds, PTA and PTBA, based on the porphyrin compound TCPP.
+Using these compounds, we prepared metal-porphyrin nanoparticles and evaluated their properties.
+Results from multiple assays demonstrated that both PTA and PTBA exhibited significantly enhanced photodynamic therapeutic activation under laser irradiation compared to TCPP.
+This included improved reactive oxygen species (ROS) and singlet oxygen release, as well as superior antitumor activity.
+When prepared as metal-porphyrin nanoparticles, all three compounds-PCN224 (TCPP with Zr⁴⁺), PMOF01 (PTA with Zr⁴⁺), and PMOF02 (PTBA with Zr⁴⁺)-showed significantly upregulated photodynamic therapeutic effects.
+These nanoparticles induced the accumulation of ROS and singlet oxygen in lung squamous cell carcinoma (LSCC) cells and demonstrated both in vitro and in vivo antitumor activity under laser irradiation.
+Notably, PMOF01 and PMOF02 exhibited much stronger antitumor effects compared to PCN224 in LSCC cells.
+Our findings highlight the photodynamic therapeutic potential of these novel porphyrin compounds and their nanoparticles.
+These results not only expand our understanding of porphyrins' antitumor capabilities but also provide new options for PDT applications.

@@ -1,0 +1,7 @@
+Real-time adaptive motion management is critical for delivering precise stereotactic body radiotherapy (SBRT) to lung tumors while sparing adjacent organs-at-risk.
+This case report describes the successful application of the CyberKnife Synchrony™ Respiratory Tracking System (Accuray Inc., Sunnyvale, CA, USA) in a patient with early-stage non-small cell lung cancer (NSCLC).
+A 70-year-old male with an NSCLC lesion in the left upper lobe underwent SBRT with real-time fiducial-free tracking.
+The total prescribed dose was 48 Gy in four fractions.
+Post-treatment imaging confirmed local control with no acute toxicity.
+This report highlights the clinical feasibility of CyberKnife®-based real-time adaptive motion management for lung SBRT.
+These practical insights are valuable for centers adopting this technology.

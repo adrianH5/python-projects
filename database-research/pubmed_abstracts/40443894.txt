@@ -1,0 +1,12 @@
+Siglecs, sialic-acid-binding immunoglobulin-like lectins, are key immune cell receptors that recognize sialic acid residues on cell surfaces.
+Pathogens and tumor cells exploit Siglecs to evade immune responses and modulate immunity, contributing significantly to infectious disease and cancer pathogenesis.
+Siglec-7, primarily expressed on natural killer (NK) cells, functions as an inhibitory receptor, tightly regulating the immune activity.
+This study investigates the interaction between Siglec-7 and the capsular polysaccharide (CPS) of Neisseria meningitidis serogroup Y (Men-Y), a bacterium whose sialylated CPS is critical for virulence.
+We demonstrate that Men-Y CPS binds to inhibitory Siglec-7, potentially dampening immune recognition.
+We employed a multifaceted approach, combining biochemical and biophysical techniques to dissect this interaction.
+Enzyme-linked immunosorbent assays (ELISAs) and fluorescence titrations quantified the binding specificity and affinity.
+Ligand- and protein-based nuclear magnetic resonance (NMR) spectroscopy, coupled with computational modeling, provides detailed molecular insights.
+We highlight the critical influence of the Men-Y CPS conformation and sialic acid presentation on Siglec-7 binding.
+The specific arrangement of α-2,6-linked sialic acids on the CPS is crucial for Siglec-7 binding, demonstrating the importance of the CPS 3D structure.
+Preliminary immunological assays using stimulated U937 cells (a promonocytic cell line) further support the immunomodulatory role of Siglec-7 mediated by Men-Y CPS.
+These results offer valuable insights into the development of targeted therapeutic strategies against bacterial infections.

@@ -1,0 +1,7 @@
+Severe burn injury induces long-lasting immune dysfunction, but the molecular mechanisms underlying this phenomenon remain unclear.
+We hypothesized that burn injury leads to epigenetic and transcriptional reprogramming of innate immune cells.
+Splenic F4/80⁺ macrophages were isolated from mice at days 2, 9, and 14 days post-20% contact burn injury.
+Targeted transcriptomics and MAPit single-molecule chromatin profiling were used to assess immune, metabolic, and epigenetic changes.
+Canonical pathway analysis was performed to infer functional shifts over time.
+Burn injury induced a biphasic response in macrophages.
+Early after injury (Day 2), there was broad transcriptional suppression and epigenetic silencing of inflammatory regulators, including

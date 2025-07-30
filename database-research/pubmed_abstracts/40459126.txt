@@ -1,0 +1,9 @@
+Targeted monotherapies for cancer often fail due to inherent or acquired drug resistance.
+By aiming at multiple targets simultaneously, drug combinations can produce synergistic interactions that increase drug effectiveness and reduce resistance.
+Computational models based on the integration of omics data have been used to identify synergistic combinations, but predicting drug synergy remains a challenge.
+Here, we introduce Drug synergy Interaction Prediction (DIPx), an algorithm for personalized prediction of drug synergy based on biologically motivated tumor- and drug-specific pathway activation scores (PASs).
+We trained and validated DIPx in the AstraZeneca-Sanger (AZS) DREAM Challenge human cell-line dataset using two separate test sets: Test Set 1 comprised the combinations already present in the training set, while Test Set 2 contained combinations absent from the training set, thus indicating the model's ability to handle novel combinations.
+The Spearman's correlation coefficients between predicted and observed drug synergy were 0.50 (95% CI: 0.47-0.53) in Test Set 1 and 0.26 (95% CI: 0.22-0.30) in Test Set 2, compared to 0.38 (95% CI: 0.34-0.42) and 0.18 (95% CI: 0.16-0.20), respectively, for the best performing method in the Challenge.
+We show evidence that higher synergy is associated with higher functional interaction between the drug targets, and this functional interaction information is captured by PAS.
+We illustrate the use of PAS to provide a potential biological explanation in terms of activated pathways that mediate the synergistic effects of combined drugs.
+In summary, DIPx can be a useful tool for personalized prediction of drug synergy and exploration of activated pathways related to the effects of combined drugs.

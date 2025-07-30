@@ -1,0 +1,5 @@
+Phage display has emerged as a groundbreaking technique for discovering novel biomolecules with significant applications in cancer diagnosis and therapy.
+This technique employs genetically engineered bacteriophages to display diverse libraries of peptides on their coat proteins, enabling the identification of candidates through a biopanning process targeting specific cancer markers.
+Biomolecules identified via phage display are widely used as molecular tools, often labeled with imaging agents or conjugated to nanoparticles for noninvasive tumor imaging.
+This review provides a comprehensive overview of recent advancements in phage display applications in cancer research over the past 5 years and prominent examples of clinical studies.
+The analysis underscores the potential of phage display to deliver diagnostic and therapeutic biomolecules, highlighting its promise for future clinical implementation in cancer imaging.

@@ -1,0 +1,10 @@
+People living with HIV (PLWH) have an increased risk of severe COVID-19, including prolonged viral shedding and emergence of mutations.
+To investigate the simian immunodeficiency virus (SIV) macaque model for HIV/SARS-CoV-2 coinfection, seven SIV+ rhesus macaques were co-infected with SARS-CoV-2.
+COVID-19 in all macaques was mild.
+SARS-CoV-2 replication persisted in the upper, but not the lower respiratory tract for 14 days post-infection.
+Animals showed impaired generation of anti-SARS-CoV-2 antibodies and T-cells.
+Animals also displayed transient changes in microbial communities in the upper airway and gastrointestinal tract.
+Evidence of SARS-CoV-2 evolution was observed in the upper respiratory tract.
+This study demonstrates that SIV/SARS-CoV-2 coinfection in rhesus macaques recapitulates aspects of COVID-19 in PLWH.
+We show that SIV impairs anti-SARS-CoV-2 immunity, potentially leading to prolonged viral shedding, altered pathogenesis, and viral evolution.
+This highlights the importance of HIV status in COVID-19 and supports the use of this model for HIV/SARS-CoV-2 coinfection.

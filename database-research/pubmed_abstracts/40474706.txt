@@ -1,0 +1,8 @@
+Head and neck squamous cell carcinoma (HNSCC) is a prominent global health concern because of its high incidence, aggressive clinical behavior, and scarce therapeutic options.
+The management of these neoplasms in the recurrent/metastatic setting has been revolutionized following the results of key clinical trials, leading to the advent of immunotherapeutic agents targeting the PD-1/PD-L1 axis.
+Despite the exciting results obtained with the new drugs, immunotherapy is helpful only in a sizable minority of patients, and there is a pressing need to identify reliable predictive biomarkers for patient selection.
+The immunohistochemical assessment of PD-L1 expression was initially identified as a powerful and easily accessible predictive tool, and gained its place as the current standard for patient selection, but it has clear limitations.
+The imperfect predictive power of PD-L1 has resulted in a strong effort to discover additional clinical, pathological and molecular biomarkers such as tumor HPV status, mutational burden, microsatellite instability, and much more.
+In addition, the tumor microenvironment has been extensively studied searching for promising new biomarkers as potential avenues for refining patient selection and improvement of treatment outcomes.
+As we gain deeper understanding of the complex interplay between tumor biology, immune system, and tumor microenvironment, we are rapidly realizing that the perfect biomarker, the magic bullet, probably doesn't exist.
+On the other hand, with the introduction of new drugs on the horizon, integration of multiple variables in the context of combined predictive scores is shaping up to be our best weapon in this strife to treat each patient with the best possible drug.

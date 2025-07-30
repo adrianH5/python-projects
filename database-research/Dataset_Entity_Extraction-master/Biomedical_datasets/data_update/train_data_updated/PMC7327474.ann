@@ -1,0 +1,26 @@
+T1	Repository 934 943	ViralZone
+T2	URL 950 979	https://viralzone.expasy.org/
+T3	Repository 985 992	UniProt
+T4	URL 994 1018	https://www.UniProt.org/
+T5	Creator 1152 1183	World Health Organization (WHO)
+T6	Creator 1185 1242	European Centre for Disease Prevention and Control (ECDC)
+T7	Creator 1275 1278	WHO
+T8	Creator 1287 1291	ECDC
+T9	Repository 1563 1567	NCBI
+T10	Repository 1708 1712	NCBI
+T11	Repository 1959 1963	NCBI
+T12	Repository 2380 2383	PDB
+T13	AccessionNumber 2388 2392	6NB6
+T14	Repository 2423 2426	PDB
+T15	AccessionNumber 2431 2435	5X5Y
+T16	Repository 2471 2474	PDB
+T17	AccessionNumber 2479 2484	2 MM4
+T18	Repository 2515 2518	PDB
+T19	AccessionNumber 2523 2527	1SSK
+T20	Repository 4947 4951	NCBI
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T12	Arg2:T13
+R4	hasAttr	Arg1:T14	Arg2:T15
+R5	hasAttr	Arg1:T16	Arg2:T17
+R6	hasAttr	Arg1:T18	Arg2:T19

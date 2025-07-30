@@ -1,0 +1,9 @@
+Distinguishing high-risk intraductal papillary mucinous neoplasms (IPMNs), pancreatic cysts requiring surgery, from low-risk lesions remains a clinical challenge, often resulting in unnecessary procedures due to limited specificity of current methods.
+While radiomics and deep learning (DL) have been explored for pancreatic cancer, cyst-level malignancy risk stratification of IPMNs remains untapped.
+We conducted a multi-institutional study (seven centers, 359 T2W MRI images) to assess the feasibility of AI for predicting IPMN dysplasia grade using cyst-level image features.
+We developed and compared 2D and 3D radiomics-only, deep learning (DL)-only, and radiomics-DL fusion models, using expert radiologist scoring as a baseline reference.
+Model performance was evaluated using held-out test data.
+The radiomics-DL fusion model showed the highest discriminatory ability on the test set (AUC 0.692), outperforming the radiomics-only model (AUC 0.665).
+Expert accuracy varied widely (37.4%-66.7%).
+The fusion model integrating deep learning and radiomics features from routine T2W MRI (AUC: 0.692) demonstrates potential for objective, cyst-level risk stratification of IPMNs in a multi-center cohort, outperforming both radiomics-only models and expert radiologists.
+While performance requires improvement for standalone clinical use, this approach offers a scalable, non-invasive method to potentially improve diagnostic accuracy and reduce unnecessary surgical interventions.

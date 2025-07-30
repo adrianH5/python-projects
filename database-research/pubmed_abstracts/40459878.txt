@@ -1,0 +1,3 @@
+Pinpointing the subcellular location of proteins is essential for studying protein function and related diseases.
+Advances in spatial proteomics have shown that automatic recognition of protein subcellular localization from images could highly facilitate protein translocation analysis and biomarker discovery, but existing machine learning works have been mostly limited to processing 2D images.
+By contrast, 3D images have higher spatial resolution and allow researchers to observe cellular structures in their natural context, but currently there are only a few studies of 3D image processing for protein distribution analysis due to the lack of data and complexity of modeling.

@@ -1,0 +1,4 @@
+Compared to the first near-infrared (NIR-I) window (650-1000 nm), the second near-infrared (NIR-II) window (1000-1700 nm) is more valuable for photothermal treatment (PTT) due to its deeper tissue penetration and lower phototoxicity.
+However, the therapeutic efficacy of PTT remains suboptimal owing to the inherently low photothermal conversion efficiency (PCE) of existing materials.
+Therefore, the development of nanomaterials with high PCE is a promising strategy for improving anti-tumor therapy.
+In this study, hollow semimetal PtTe

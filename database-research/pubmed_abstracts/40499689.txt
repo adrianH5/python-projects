@@ -1,0 +1,7 @@
+Gastric cancer (GC) is a leading cause of cancer-related mortality, particularly in East Asia, where its incidence remains high.
+The limited prognosis for advanced GC patients underscores the need for new therapeutic strategies targeting key molecules involved in tumor progression.
+In this study, we investigated the role of the deubiquitinating enzyme USP47 in GC progression, focusing on its interaction with Neuropilin-1 (NRP1), a co-receptor known to enhance angiogenesis.
+Our findings reveal that USP47 is significantly overexpressed in GC tissues and correlates with poor patient survival.
+Through in vitro experiments, we demonstrate that USP47 promotes GC cell proliferation, migration, and invasion.
+Additionally, USP47 enhances angiogenesis by stabilizing NRP1, preventing its ubiquitination and degradation, and activating the PI3K/Akt signaling pathway.
+These results suggest that USP47 contributes to GC progression through the regulation of NRP1-mediated angiogenesis, highlighting its potential as a therapeutic target for GC treatment.

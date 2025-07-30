@@ -1,0 +1,7 @@
+Multivalent glycoclusters have been extensively used as a targeting agent for drug delivery.
+However, tools capable of investigating their dynamic interactions with a target receptor remain elusive.
+Here, we synthesized fluorescently-tagged galactoclusters for the fluorescence imaging of cells that overly express the asialoglycoprotein receptor (ASGPr).
+A trivalent galactoside was synthesized, to which a boron dipyrromethene (BODIPY) dye was conjugated.
+The resulting fluorescent glycocluster was used for the targeted fluorescence imaging of liver cancer cells with a high ASGPr expression level.
+The trivalent probe was also demonstrated to be applicable for super-resolution imaging of ASGPr-mediated ligand endocytosis and the dynamic intracellular translocation to the lysosomes.
+As such, this study provides a suitable chemical tool for the study of receptor dynamics using fluorescently tagged glycoclusters.

@@ -1,0 +1,7 @@
+T1	AccessionNumber 1065 1075	ALB35880.1
+T2	Repository 1417 1424	GenBank
+T3	AccessionNumber 1425 1439	NP_001243276.1
+T4	Repository 1728 1735	GenPept
+T5	AccessionNumber 1746 1755	NP_796304
+R1	hasAttr	Arg1:T2	Arg2:T3
+R2	hasAttr	Arg1:T4	Arg2:T5

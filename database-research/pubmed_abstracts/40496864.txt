@@ -1,0 +1,3 @@
+Esophageal squamous cell carcinoma (ESCC) is a highly heterogeneous malignancy.
+Traditional clinical staging systems have limited value in prognostic evaluation and treatment guidance, often failing to capture the profound impact of intratumoral diversity on patient outcomes.
+Single-cell RNA sequencing (scRNA-seq) provides new perspectives on the cellular makeup and conditions in tumor tissues, with promising implications for functional classification and personalized therapeutic strategies in esophageal cancer.

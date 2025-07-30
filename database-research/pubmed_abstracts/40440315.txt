@@ -1,0 +1,10 @@
+Antibodies belonging to the VRC01-class display broad and potent neutralizing activities and have been isolated from several people living with HIV (PLWH).
+A member of that class, monoclonal antibody VRC01, was shown to reduce HIV-acquisition in two phase 2b efficacy trials.
+VRC01-class antibodies are therefore expected to be one component of an effective HIV-1 vaccine elicited response.
+In contrast to the VRC01-class antibodies that are highly mutated, their unmutated forms do not engage HIV-1 envelope (Env) and do not display neutralizing activities.
+Hence, specifically modified Env-derived proteins have been designed to engage the unmutated forms of VRC01-class antibodies, and to activate the corresponding naïve B cells.
+Selected heterologous Env must then be used as boost immunogens to guide the proper maturation of these elicited VRC01-class antibodies.
+Here we examined whether and how the valency of the prime and boost immunogens influences VRC01-class antibody-maturation.
+Our findings indicate that, indeed the valency of the immunogen affects the maturation of elicited antibody responses by preferentially selecting VRC01-like antibodies that have accumulated somatic mutations present in broadly neutralizing VRC01-class antibodies isolated from PLWH.
+As a result, antibodies isolated from animals immunized with the higher valency immunogens display broader Env cross-binding properties and improved neutralizing potentials than those isolated from animals immunized with the lower valency immunogens.
+Our results are relevant to current and upcoming phase 1 clinical trials that evaluate the ability of novel immunogens aiming to elicit cross-reactive VRC01-class antibody responses.

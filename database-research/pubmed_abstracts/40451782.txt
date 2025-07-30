@@ -1,0 +1,14 @@
+The unique pharmacokinetics of BRAF and MEK inhibitors make patients vulnerable to drug-drug interactions (DDIs), which may compromise treatment efficacy in metastatic melanoma.
+This study evaluates the impact of DDIs on clinical outcomes in patients with metastatic melanoma treated with BRAF/MEK inhibitors.
+This multicenter, observational, retrospective study assessed DDIs using the Drug-PIN software.
+Associations between the Drug-PIN continuous score, Drug-PIN light, and treatment outscomes were analyzed along with the specific drugs involved in the DDIs.
+A total of 177 patients with BRAF-mutant metastatic melanoma undergoing BRAF/MEK inhibitor therapy were included.
+Of these, 94 patients (55.9%) were exposed to complex drug regimens related to comorbidities, supportive care, and symptom management.
+A significant change in Drug-PIN scores was observed before and after therapy initiation.
+Patients with low-grade DDIs demonstrated significantly longer median overall survival (OS) and progression-free survival (PFS) compared to those with high-grade DDIs (log-rank p = 0.0045 and p = 0.012, respectively); this observation was further validated by multiple regression analysis.
+By combining clinical and DDI data, we identified four patient subgroups with distinct prognoses, showing statistically significant differences in OS and PFS (log-rank p < 0.0001).
+The subgroup with the highest clinical risk and high DDI had markedly poorer outcomes (HR 2.87, 95% CI [1.7-4.8], p < 0.001).
+The drugs involved in high-level pharmacological interactions were analyzed.
+DDIs significantly contribute to poorer OS and PFS outcomes, independent of other clinical risk factors.
+Optimizing pharmacological regimens to minimize DDIs should be prioritized to enhance treatment efficacy in oncology.
+Prospective clinical trials are warranted to further validate the advantages of individualized, preemptive therapy optimization.

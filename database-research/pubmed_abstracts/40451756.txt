@@ -1,0 +1,5 @@
+Detection of tumor-associated natural killer cells (TANKs) is crucial for evaluating cancer immunotherapy because they are found to be associated with improved overall survival rate.
+However, existing analytical methods relying on tissue biopsy are invasive and static, restricting their capacity to deliver dynamic information.
+Herein, we report an activatable near-infrared fluorescence (NIRF)/photoacoustic (PA) macromolecular reporter (BhCyNK) for real-time imaging of TANKs.
+To optimize the PA performance, the fluorophore scaffold of BhCyNK is screened.
+Among four hemicyanine derivatives, BhCy

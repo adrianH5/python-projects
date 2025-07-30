@@ -1,0 +1,8 @@
+Biliary tract cancer (BTC) is a group of heterogeneous sporadic diseases, including intrahepatic, hilar, and distal cholangiocarcinoma, as well as gallbladder cancer.
+BTC is characterized by high invasiveness and extremely poor prognosis, with a global increased incidence due to intrahepatic cholangiocarcinoma (ICC).
+The 18F-fludeoxyglucose positron emission tomography (PET) computed tomography (18F-FDG PET/CT) combines glucose metabolic information (reflecting the glycolytic activity of tumor cells) with anatomical structure to assess tumor metabolic heterogeneity, systemic metastasis, and molecular characteristics noninvasively, overcoming the limitations of traditional imaging in the detection of micrometastases and recurrent lesions.
+18F-FDG PET/CT offers critical insights in clinical staging, therapeutic evaluation, and prognostic prediction of BTC.
+This article reviews research progress in this field over the past decade, with a particular focus on the advances made in the last 3 years, which have not been adequately summarized and recognized.
+The research paradigm in this field is shifting from qualitative to quantitative studies, and there have been significant breakthroughs in using 18F-FDG PET/CT metabolic information to predict gene expression in ICC.
+Radiomics and deep learning techniques have been applied to ICC for prognostic prediction and differential diagnosis.
+Additionally, PET/magnetic resonance imaging is increasingly demonstrating its value in this field.

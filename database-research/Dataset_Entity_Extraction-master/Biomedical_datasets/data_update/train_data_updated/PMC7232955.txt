@@ -1,0 +1,4 @@
+We used the open COVID-19 sequencing available and the bioinformatics protocols developed by the ARTIC network.
+Raw files were base-called with Guppy, demultiplexed and trimmed with Porechop (https://github.com/rrwick/Porechop) and mapped against reference sequence Wuhan-Hu-1 (GenBank Accession Number MN908947).
+We conducted the genome sequencing and analysis of the first confirmed COVID-19 infections in Brazil.
+Rapid sequencing coupled with phylogenetic analyses in the context of travel history corroborate multiple independent importations from Italy and local spread during the initial stage of COVID-19 transmission in Brazil.

@@ -1,0 +1,7 @@
+Carboxypeptidase G2 (CPG2) detoxifies high-dose methotrexate in cancer or autoimmune therapies.
+Additionally, CPG2 activates prodrugs at the tumor site in engineered CAR-T cell therapy.
+Since CPG2 cleaves glutamate from the substrate, it also has potential applications in enhancing food flavors and developing biosensors.
+However, cytoplasmic expression of recombinant CPG2 often leads to inclusion body formation, necessitating secretory production to improve product quality and streamline downstream industrial processes.
+This study aimed to perform a comprehensive in silico analysis to identify an optimal signal peptide for CPG2 secretion.
+The pelB leader sequence was selected for excretory production using the pET22b vector in Escherichia coli.
+The enzyme was successfully secreted into both the periplasmic space of bacterial cells and the culture medium with activities of about 0.038 UmL

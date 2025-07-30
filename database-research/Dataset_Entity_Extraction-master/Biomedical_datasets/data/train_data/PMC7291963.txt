@@ -1,0 +1,5 @@
+Since December 2019, the coronavirus disease (COVID-19) due to the severe acute respiratory syndrome (SARS) originating from Wuhan, China, has been causing a pandemic across the world [1,2].
+MT451874, MT451876, MT451877, MT451878, MT451880, MT451881, MT451882, MT451883, MT451884, MT451885, MT451886, MT451887, MT451888, MT451889, MT451890, MT435079, MT435080, MT435081, MT435082, MT435083, MT435084, MT435085, MT435086, MT415320, MT415321, MT415322, MT415323, MT358637, MT012098 and MT050493 of SARS-CoV2 from Indian patients are available in the NCBI database and that are considered for this present study [25].
+It is worth mentioning that the OF3a-Type-3 and ORF3a-Type-4 genes were blasted in the NCBI database and do not find any 100% similar sequence with 100% query coverage.
+The numbers 1, 2, 3, denote the ORF3a gene/Genome ID from the top to bottom of the first column of Table 6, respectively.
+A global emergency due to the COVID-19 pandemic demands various studies related to genes and genomes of the SARS-CoV2.

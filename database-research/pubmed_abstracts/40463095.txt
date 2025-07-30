@@ -1,0 +1,12 @@
+Iron is vital to living cells, playing a key role in cellular respiration, DNA synthesis, and various metabolic functions.
+Importantly, cancer cells have a higher dependency on iron compared to normal cells to support their rapid growth and survival.
+Due to this fact, tumors are more vulnerable to ferroptosis, an iron-dependent form of regulated cell death.
+Radiation therapy (RT), a standard treatment for many cancer patients, is known to induce ferroptosis.
+Ultra-high dose rate FLASH RT offers an improved therapeutic window by minimizing damage to normal tissues while preserving tumor control.
+However, the precise biological mechanisms behind the protective effects of FLASH RT on normal tissues remain unclear.
+In this study, we propose that variations in lipid peroxidation and ferroptosis, driven by intrinsic differences in iron levels between normal and cancerous tissues, contribute to this effect.
+Our findings show that FLASH RT increases lipid peroxidation and induces ferroptosis in tumor cells but does not significantly elevate lipid peroxidation in normal tissues compared to conventional RT.
+To determine whether raising iron levels in normal tissues could abrogate the protective effects of FLASH, mice were fed a high-iron diet before RT.
+A high-iron diet before and after RT reversed the protective effect of FLASH, resulting in increased intestinal damage and lipid peroxidation.
+This suggests that baseline iron levels and iron-driven lipid peroxidation are critical factors in mediating the protective outcomes of FLASH RT.
+Overall, our study sheds light on the role of iron in modulating RT responses and provides new mechanistic insights into how FLASH RT influences normal and cancerous tissues.

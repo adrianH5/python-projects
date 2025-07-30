@@ -1,0 +1,10 @@
+Etoposide (ETP) is a topoisomerase II enzyme inhibitor with excellent activity against small cell lung cancer (SCLC).
+However, the low aqueous solubility, short half-life, and nonspecific toxicities of ETP limit its bioavailability and efficacy.
+Hence, a nebulized formulation of ETP-loaded proniosomes (ELP) was developed to enhance the sustainability, bioavailability, targeting, and efficacy of ETP as a potential therapy for SCLC.
+Various ELP formulations were fabricated using the Box-Behnken design and then assessed in vitro to determine the optimized ELP formulation.
+The optimized ELP formulation was subsequently assessed for its cytotoxicity, pharmacokinetics, biodistribution, and toxicity investigations.
+ELP formulation had a surfactant with HLB of 6.84, a ratio of cholesterol/surfactant of 1.52, and a ratio of surfactant/lactose of 4.01 was chosen as an optimized formulation.
+In comparison to free ETP, the optimized ELP formulation increased the sustainability of ETP by 2.55-fold and showed to induce substantial apoptosis in the A-549 lung cancer cell line.
+The optimized ELP formulation markedly increased the bioavailability of ETP by 6.71-fold and boosted its targeting capability.
+The nebulized administration of the optimized ELP formulation did not induce toxicity in healthy animals.
+Nebulized administration of the optimized ELP formulation could be a safe and potential therapy for SCLC.

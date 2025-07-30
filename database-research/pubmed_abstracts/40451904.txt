@@ -1,0 +1,15 @@
+Brain and central nervous system (CNS) cancers pose a substantial global health challenge, with considerable variation in incidence, prevalence, mortality, and disability-adjusted life years (DALYs) across regions and demographics.
+This study comprehensively examines the global, regional, and national burden of brain and CNS cancers from 1990 to 2021 and projects trends through 2041, aiming to inform targeted prevention strategies and resource allocation in healthcare systems worldwide.
+Data were derived from the Global Burden of Disease 2021 study, covering 204 countries.
+The study analyzed age-standardized rates for incidence (ASIR), prevalence (ASPR), mortality (ASMR) and DALYs (ASDR), stratified by sex, age and socio-demographic index (SDI) quintiles.
+The estimated annual percentage change (EAPC) and joinpoint regression analysis were employed to assess temporal trends in cancer burden metrics from 1990 to 2021.
+Das Gupta's decomposition method was used to quantify the relative contributions of population growth, aging and epidemiological changes on the cancer burden.
+Bayesian age-period-cohort models projected future trends through 2041.
+From 1990 to 2021, the global ASIR for brain and CNS cancers increased from 3.75 (95% UI: 3.21 to 4.21) to 4.28 (95% UI: 3.71 to 4.88) per 100,000, while the ASPR increased from 8.66 (95% UI: 7.55 to 9.53) to 12.01 (95% UI: 10.54 to 13.52).
+The ASMR remained stable at approximately 3.05, and the ASDR declined from 119.88 (95% UI: 99.23 to 137.57) to 107.91 (95% UI: 91.74 to 125.59).
+Higher incidence and prevalence were observed in high SDI regions (ASIR: 6.38, 95% UI: 6.08 to 6.64; ASPR: 26.10, 95% UI: 24.84 to 27.19) compared to low SDI regions (ASIR: 1.43, 95% UI: 1.00 to 1.82; ASPR: 2.53, 95% UI: 1.76 to 3.24), with males (ASIR: 4.72, 95% UI: 3.68 to 5.76) experiencing higher rates than females (ASIR: 3.88, 95% UI: 3.43 to 4.35).
+Population growth and aging were primary drivers of the increased cancer burden, particularly in high SDI regions.
+Despite historical increases, recent years have shown a deceleration in growth rates, which informs future projections suggesting a gradual decline in age-standardized metrics by 2041, although older populations will continue to bear higher rates compared to younger age groups.
+This study highlights the continuing global burden of brain and CNS cancers, with notable disparities by sex, age, and SDI.
+While age-standardized metrics are projected to decrease over the next two decades, the absolute burden may continue to increase due to demographic changes.
+These findings highlight the need for improved early detection and targeted interventions, particularly in aging populations and regions undergoing epidemiological transitions.

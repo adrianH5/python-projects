@@ -1,0 +1,8 @@
+T1	Repository 535 542	GenBank
+T2	AccessionNumber 561 569	MT012098
+T3	AccessionNumber 628 636	MT050493
+T4	Repository 772 775	PDB
+T5	AccessionNumber 780 784	6VXX
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T1	Arg2:T3
+R3	hasAttr	Arg1:T4	Arg2:T5

@@ -1,0 +1,4 @@
+As a novel cancer treatment method, photothermal therapy (PTT) is considered an up-and-coming candidate for cancer treatment owing to its low invasiveness and ease of implementation.
+Nevertheless, single PTT in the first transparency (NIR-I, 750-1000 nm) biowindows is often insufficient to eliminate tumor cells due to light scattering and absorption at the tumor site.
+Therefore, the rational design of multifunctional nanocomposites for multimodal combination therapies based on PTT is attractive for improving treatment efficacy while reducing drug resistance and adverse reactions.
+Herein, we report a smart multifunctional nanocomposite DOX-Mo

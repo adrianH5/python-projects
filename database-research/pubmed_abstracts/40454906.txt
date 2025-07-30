@@ -1,0 +1,7 @@
+Modifications to intended chemotherapy regimens may be due to various reasons and may impact patient outcomes.
+Understanding which factors are associated with chemotherapy modifications can help inform treatment planning and improve cancer care.
+We examined the association between patient/tumor factors and modifications to intended chemotherapy in women with Stages I-IIIA breast cancer who were treated at Kaiser Permanente Northern California and Kaiser Permanente Washington from 2005 to 2019.
+Modifications were defined as any dose reductions in the first cycle or throughout chemotherapy, regimen change, treatment delay (single delay >14 days) or receiving fewer cycles of any drugs than expected.
+We used generalized linear models of the Poisson family with a log-link function to calculate prevalence ratios (PRatios).
+Of 9700 women receiving adjuvant chemotherapy, 34.6% had chemotherapy modifications.
+Selected results are shown: positive associations were observed with age (PRatio

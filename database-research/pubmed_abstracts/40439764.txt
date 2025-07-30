@@ -1,0 +1,11 @@
+High-grade gliomas represent one of the most formidable challenges in neuro-oncology, characterized by rapid progression and poor prognosis despite aggressive multimodal interventions.
+The combination of Gamma Knife radiosurgery and bevacizumab has emerged as a promising therapeutic approach for extending survival in patients with recurrent high-grade gliomas.
+A systematic review and meta-analysis followed PRISMA guidelines, drawing on comprehensive searches of PubMed, Scopus, and Web of Science databases.
+Studies assessing the efficacy of Gamma Knife radiosurgery in conjunction with bevacizumab for recurrent high-grade gliomas were identified and subjected to rigorous quality assessment using the modified Newcastle-Ottawa Scale.
+Pooled hazard ratios (HRs) for progression-free survival and overall survival were calculated using a random-effects model to account for variability across studies.
+Six studies were included in the systematic review, among which four provided sufficient data for quantitative synthesis in the meta-analysis.
+The pooled analysis revealed that combined therapy significantly improved progression-free survival (HR: 0.712, CI: 0.467-0.956, p < 0.001) compared to monotherapy.
+However, the two groups had no significant difference in overall survival (HR: 1.069, CI: 0.395-1.742, p = 0.097).
+Sensitivity analyses confirmed the robustness of these findings.
+High heterogeneity was noted for overall survival (I² = 98.24%), warranting cautious interpretation.
+This meta-analysis suggests that while Gamma Knife combined with bevacizumab significantly prolongs progression-free survival in patients with recurrent high-grade glioma, it does not confer an overall survival advantage.

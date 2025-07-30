@@ -1,0 +1,6 @@
+The complete telomere-to-telomere human genome assembly (T2T-CHM13) and the draft human pangenome reference provide unique opportunities to refine DNA methylation (DNAm) studies.
+Here, we find that T2T-CHM13 calls 7.4% more CpGs genome wide compared to GRCh38 across four widely used short-read DNAm profiling methods and improves the evaluation of probe cross-reactivity and mismatch for Illumina DNAm arrays, yielding new and more reproducible sets of unambiguous probes.
+The pangenome reference further expands CpG calling by 4.5% in short-read sequencing data and identifies cross-population and population-specific unambiguous probes in DNAm arrays, owing to its improved representation of genetic diversity.
+These benefits facilitate the discovery of biologically relevant DNAm alterations in epigenome-wide association studies (EWASs).
+For instance, additional DNAm alterations enriched in cancer-related genes and pathways are identified in cancer EWASs.
+Together, this study highlights the practical applications of T2T-CHM13 and pangenome for genome biology and provides a basis for expansion of DNAm investigations.

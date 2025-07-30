@@ -1,0 +1,8 @@
+Prostate cancer (PCa) remains a leading cause of cancer-related mortality in men worldwide, with tumor heterogeneity, therapy resistance, and lineage plasticity posing significant clinical challenges.
+Androgen deprivation therapy (ADT), while initially effective, often culminates in castration-resistant prostate cancer (CRPC), may fueled by castration-resistant prostate cancer stem cells (CSCs) with adaptive self-renewal and regenerative capacities.
+Emerging evidence implicates prostate CSCs as pivotal contributors to tumor heterogeneity, drug resistance, and disease recurrence.
+These stem subpopulations exhibit intrinsic adaptability through genetic, epigenetic, and microenvironmental reprogramming, enabling survival under androgen-deprived conditions and fostering clonal diversification.
+This review synthesizes current knowledge on the identity, regulation, and functional dynamics of prostate stem cells, emphasizing their role in shaping the tumor ecosystem.
+By dissecting the genetic drivers, epigenetic alteration and crosstalk with microenvironment, this review underscores critical triggers on prostate CSCs determination and differentiation.
+Additionally, we discuss emerging strategies to target prostate CSCs-specific vulnerabilities, including molecular drivers of stemness and plasticity, to improve therapeutic outcomes for advanced prostate malignancies.
+This synthesis underscores the critical need to unravel prostate stem cells biology for developing precision therapies against prostate CSCs-driven adaptation in prostate diseases.

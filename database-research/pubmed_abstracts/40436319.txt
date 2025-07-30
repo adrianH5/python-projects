@@ -1,0 +1,7 @@
+The ubiquitin-like protein ISG15 is activated in response to type 1 interferons and its conjugation to proteins regulates the response to bacterial and viral infection.
+Its subsequent deconjugation, which is broadly achieved by the human enzyme USP18, critically controls interferon signaling and the defense against pathogens.
+However, the molecular determinants underlying USP18 specificity for ISG15 remain elusive.
+To identify such features, we took advantage of USP18's paralog USP41, which has a strikingly similar catalytic domain and yet lacks deISGylating activity.
+By performing a comparative sequence analysis coupled with biochemical and enzymatic assays, we identified hallmarks specific to USP18 that are critical for its enzymatic function and ISG15 recognition.
+Accordingly, AlphaFold-guided analysis suggests that these features mediate USP18-ISG15 interactions, underlining their importance for deISGylating activities.
+Thus, our results reveal important mechanistic insights into USP18-mediated ISG15 hydrolysis and could inform the development of deISGylase inhibitors relevant to infection and other interferon-related diseases.

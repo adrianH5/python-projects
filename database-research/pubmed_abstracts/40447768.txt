@@ -1,0 +1,7 @@
+During cell division, the onset of mitosis is granted by activation of cyclin B-dependent kinase 1 (Cdk1), master mitotic kinase, coordinated with inactivation of Cdk1-counteracting phosphatases.
+PP2A-B55, a major of these phosphatases, is inhibited in mitosis by Arpp-19 and Ensa, two very similar proteins, once phosphorylated by the Cdk1-stimulated kinase Greatwall (Gwl).
+We show here that Arpp-19 is also phosphorylated in a Cdk1-dependent manner at serine 23, a site missing in mammalian Ensa, in mitotic human cells and dephosphorylated at this site during mitosis exit.
+Moreover, we found that this phosphorylation control grants chromosome stability since substituting endogenous Arpp-19 with a S23-Arpp-19 phosphorylation-resistant mutant increased the frequency of chromosome segregation errors and accelerated the timing of mitosis exit.
+Conversely, substitution with a S23-Arpp-19 phosphorylation-mimicking mutant delayed mitosis exit.
+S23-Arpp-19 dephosphorylation resisted to the potent PP2A inhibitor Okadaic Acid but required the phosphatase Fcp1.
+Our data unveil a phosphorylation switch that grants timely mitosis exit and chromosome stability.

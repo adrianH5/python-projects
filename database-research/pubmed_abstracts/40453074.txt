@@ -1,0 +1,6 @@
+The tumor microenvironment (TME) plays a critical role in cancer progression, with cancer-associated fibroblasts (CAFs) emerging as key players in immune evasion.
+This review explores the complex interactions between CAFs and dendritic cells (DCs), essential antigen-presenting cells that activate immune responses.
+CAFs impair DC maturation and function by secreting cytokines, chemokines, and growth factors, reducing their ability to present antigens and stimulate T cells, thus promoting an immunosuppressive environment favorable to tumor growth.
+Additionally, CAFs contribute to the differentiation of tolerogenic DCs, fostering regulatory T cells (Tregs) that further suppress antitumor immunity.
+This review examines the molecular mechanisms underlying CAF-DC crosstalk and discusses potential therapeutic strategies aimed at restoring DC functionality.
+Targeting the CAF-driven immunosuppressive network offers promising opportunities to enhance the efficacy of DC-based vaccines and immunotherapies, paving the way for improved cancer treatment outcomes.

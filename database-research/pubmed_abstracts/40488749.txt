@@ -1,0 +1,11 @@
+We previously reported an increase in overall cancer risk in patients with endogenous Cushing's syndrome (CS), mainly during the 10-year period following CS diagnosis.
+To identify predictors of cancer in patients with CS, we conducted this retrospective nationwide cohort study of patients with CS, diagnosed between 2000-2023 in Israel.
+The cohort comprised 609 patients with CS (age at diagnosis, 48.1±17.2 years; 65.0% women) and 3018 age-, sex-, socioeconomic status-, and body mass index-matched controls (1:5 ratio).
+Patients were grouped according to the occurrence of any malignancy within 10-years after the diagnosis of CS.
+Cox proportional hazards models, with death as a competing event, were used to identify predictors of cancer development.
+Independent predictors of cancer development in patients with CS included age ≥60 years (HR 1.75, 95% CI 1.01-2.68), male gender (HR 1.67, 95% CI 1.04-3.05), and adrenal-origin CS (HR 1.66, 95% CI 1.01-2.73).
+Baseline urinary free cortisol levels were not associated with cancer development.
+Patients with ≥4 CS-associated comorbidities had a higher cancer risk (HR 1.76, 95% CI 1.03-3.02; age- and sex-adjusted).
+The overall 10-year risk of malignancy was twice as high in patients with CS compared to matched controls, with cancer developing, on average, 5 years earlier in patients with CS (62.3±15.0 vs 67.2±12.3 years).
+Cancer-related mortality at 10-years was twice as high in deceased patients with CS, compared to deceased controls.
+In conclusion, age ≥60 years at CS diagnosis, male gender, and adrenal-origin CS are independent predictors of cancer diagnosis within 10-years of initial confirmation of CS.

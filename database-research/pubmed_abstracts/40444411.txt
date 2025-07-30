@@ -1,0 +1,11 @@
+Tumor suppressor protein p53 is attracting a lot of attention in cancer research because of its role in both tumor cell survival and apoptosis.
+The most frequently altered tumor suppressor gene in human cancer is TP53.
+TP53 mutations affecting residues in the protein's DNA binding domain (102-292) account for 80% of the alterations detected in tumors.
+These are called hotspot mutations because they lose their wild-type function and acquire oncogenic functions that accelerate cancer progression.
+These functions include promoting the growth, migration, invasion, and initiation of cancer cells and granting drug resistance to cancer cells.
+Six residues of the p53 protein (Arg175, Gly245, Arg249, Arg248, Arg273, and Arg282) are often altered in human cancer, known as hotspot mutations.
+Based on these hotspot codons, we identified the cancer types and stability of protein p53 in this study.
+This study aims to classify cancer types with a high degree of accuracy and precision.
+The main contribution of this study is that our work presented mutation data (clinically and biologically meaningful features and the role of hotspot codon of protein p53) to classify types of cancer by learning from the labeled data using an ensemble approach.
+Our research on the classification of cancer types outperformed using the Extreme Gradient boosting classifier (XGBoost) with an accuracy of 99.85%, precision of 99.80%, area under the curve of 100%, MCC of 99.
+85%, and F1 of 99.80%.

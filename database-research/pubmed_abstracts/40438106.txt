@@ -1,0 +1,9 @@
+Hepatocellular carcinoma (HCC) is a highly aggressive liver cancer with a rising incidence globally.
+Immunotherapy, particularly immune checkpoint inhibitors (ICIs), has revolutionized HCC treatment, yet response rates remain variable.
+Sex-based disparities in immunotherapy efficacy have become increasingly recognized as important factors influencing treatment outcomes in HCC.
+This review examines the role of biological sex in HCC progression and immunotherapy responses.
+It discusses the epidemiology of sex differences in HCC incidence, prognosis, and therapeutic outcomes, highlighting the impact of sex hormones, such as estrogen and testosterone, on immune system function and tumor biology.
+Estrogen's protective effects, including enhanced T cell activation and improved immune surveillance, contribute to better treatment responses in females, while testosterone's immunosuppressive effects lead to poorer outcomes in males.
+The review also explores the influence of the tumor microenvironment, including immune cell composition and macrophage polarization, on treatment efficacy.
+Emerging evidence suggests that sex-specific factors, including hormonal status, should be considered in clinical trials and personalized treatment strategies.
+By addressing these disparities, tailored immunotherapeutic approaches could optimize efficacy and minimize toxicity in both male and female HCC patients, ultimately improving overall outcomes.

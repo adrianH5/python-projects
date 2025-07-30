@@ -1,0 +1,10 @@
+T1	Repository 9 16	GenBank
+T2	Repository 259 266	GenBank
+T3	AccessionNumber 284 292	MN908947
+T4	AccessionNumber 312 321	NC_045512
+T5	Repository 349 356	GenBank
+T6	AccessionNumber 367 375	MN996532
+T7	AccessionNumber 522 530	MN908947
+R1	hasAttr	Arg1:T2	Arg2:T3
+R2	hasAttr	Arg1:T2	Arg2:T4
+R3	hasAttr	Arg1:T5	Arg2:T6

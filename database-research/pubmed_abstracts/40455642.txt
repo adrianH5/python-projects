@@ -1,0 +1,11 @@
+Claudin 18.2 (CLDN18.2), a tight junction protein isoform, is an emerging therapeutic target in oncology.
+CLDN18 is well-characterized in gastric cancer, but its pan-cancer expression profiles and isoform distributions are poorly documented.
+In the present study, we analyzed CLDN18 expression in patients with solid tumors enrolled in the MONSTAR-SCREEN-2 study using immunohistochemistry (IHC, n = 349) and whole-transcriptome sequencing (WTS, n = 2191).
+A splice junction analysis algorithm characterized isoform distribution patterns in WTS data and evaluated temporal changes using paired pre- and postchemotherapy specimens.
+IHC detected CLDN18.2 (≥ 40% of tumor cells showing any staining intensity) in 16.3% of patients, with highest prevalence in gastric (54.5%), biliary tract (21.7%), pancreatic (20.7%), and small intestinal (18.2%) cancers.
+WTS and IHC findings were significantly correlated (p < 0.001).
+WTS analysis with optimized transcript thresholds (n = 2191) demonstrated the CLDN18-high population to be 13.8%, with highest proportions in gastric (64.5%), small intestinal (40.0%), pancreatic (37.8%), and biliary tract (20.0%) cancers.
+Isoform analysis of 364 patients revealed CLDN18.2 predominance (mean 18.2/18.1 proportion 0.945), with CLDN18.1 predominance observed in only 4.9% of patients.
+Longitudinal analysis of 27 paired gastric cancer samples revealed a significant reduction in CLDN18 expression and a nonsignificant decrease in the CLDN18.2 proportion following chemotherapy.
+This analysis validates WTS as a complementary approach to IHC for CLDN18 assessment and demonstrates significant CLDN18 expression across multiple cancer types.
+The predominance of CLDN18.2 supports the expansion of targeted therapeutic approaches beyond gastric cancer and indicates the potential of RNA-based screening.

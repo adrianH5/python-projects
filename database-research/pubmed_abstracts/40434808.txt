@@ -1,0 +1,6 @@
+The influence of genetic ancestry on genomics in T-cell Acute Lymphoblastic Leukemia (T-ALL) has not been fully explored.
+We examined the impact of genetic ancestry on multi-omic alterations, survival outcomes, and risk stratification.
+Among 1309 children and young adults with T-ALL treated on the Children's Oncology Group trial AALL0434, the prognostic value of five commonly altered T-ALL genes varied by ancestry-including NOTCH1, which was associated with superior overall survival for patients of European ancestry but non-prognostic among patients of African ancestry.
+Integrating genetic ancestry with published T-ALL risk classifiers, we identified that a X01 Penalized Cox Regression classifier stratified patients regardless of ancestry, whereas a European multi-gene classifier misclassified patients of certain ancestries.
+Overall, 80% of patients harbored a genomic alteration in at least one gene with differential prognostic impact in an ancestry-specific manner.
+These data demonstrate the importance of incorporating genetic ancestry into genomic risk classification.

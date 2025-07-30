@@ -1,0 +1,7 @@
+While maternal obesity (MO) is associated with neurobehavioral impairment (NBI) in offspring, the underlying mechanisms remain unknown.
+The placenta is thought to play a role in fetal programming.
+To elucidate the association between MO and offspring NBI, we performed single-nucleus RNA-seq on maternal- and fetal-facing sides of human term placentas from MO and lean groups.
+MO placentas showed the upregulation of hypoxia response genes in multiple cell types, and maternal-facing hypoxia gene expression correlated with offspring NBI in an independent birth cohort, Gen3G.
+Extravillous trophoblasts (EVTs) showed the highest expression of NBI-correlated genes, and EVT NBI-gene expression correlated with hypoxia signatures in two cohorts.
+Exposing cultured EVTs to hypoxia increased NBI gene expression, and 44% of the association between maternal BMI and NBI-gene expression in EVTs was mediated by hypoxia.
+Our findings suggest that hypoxia in EVTs is a key process in the neurodevelopmental programming of fetal exposure to MO.

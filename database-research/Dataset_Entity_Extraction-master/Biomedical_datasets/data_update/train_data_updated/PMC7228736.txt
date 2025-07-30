@@ -1,0 +1,11 @@
+Recent correspondence in this Journal has highlighted the current threat posed by recently-emerging corona virus disease 2019 (COVID-19) in the world.
+The COVID-19 is infection caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and is characterized by fever, dry cough, weak, and so on.
+Recently, COVID-19 epidemic in China has been well controlled, whereas the risk of imported COVID-19 cases has increased dramatically.
+However, limited studies on full-length genome characterization of SARS-CoV-2 from COVID-19 cases imported from abroad.
+Eight COVID-19 patients imported from overseas were admitted to Yunnan Provincial Infectious Disease Hospital from March 15, 2020 to March 26, 2020.
+Two cases YN_Im01 and YN_Im03 were from Spain to Yunnan, YN_Im02 from France, YN_Im04 from Cambodia, YN_Im05 from Sri Lanka, and YN_Im06-08, a family cluster of COVID-19 patients from the United States (Fig. 1A).
+YN_Im06 was severe, YN_Im01, YN_Im05, YN_Im07, and YN_Im08 were moderate, YN_Im02 was mild, and YN_Im03 and YN_Im04 were asymptomatic according to the latest COVID-19 diagnostic criteria (5th edition) published by the National Health Commission of China (Fig. 1B).
+So far, three main clades involving G, V, and S have been identified based on marker mutations in the complete SARS-CoV-2 genome according to the latest genotyping rules recommended by the GISAID databas.
+Further, phylogenetic trees for SARS-CoV-2 full-length nucleotide sequences were constructed based on the obtained datasets with the maximum-likelihood method using IQ-tree.
+Moreover, three novel mutations, including D1962V in nsp3 from the strain YN_Im03, L1375F in nsp3 and A829T in S protein from the isolate YN_Im04 were first identified in this study according to the comparison with 11,231 genomic sequences available at GISAID on 4/26/2020.10
+Given that the three COVID-19 patients were diagnosed on the same day and the viruses originated from the same strain, indicated that the strain is replicating and mutating rapidly in different individuals.

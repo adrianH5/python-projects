@@ -1,0 +1,5 @@
+Tumorigenesis and metastasis of solid tumors are coupled to profound biophysical changes that alter cancer cells' mechanobiology, critically impacting metastatic progression.
+In particular, cell stiffness determines the ability of cancer cells to invade surrounding tissues, withstand shear fluid stress and evade immune surveillance.
+Here, we summarize the biological factors, pathological factors, and therapeutic modalities that affect the mechanobiology of cancer cells.
+We focus on clinically utilized chemotherapeutics and targeted therapies that show direct and indirect modulation of cancer cells' stiffness and discuss how these treatments can be used in combination with other treatment modalities to improve patient outcomes.
+Finally, we list the outstanding challenges in the field and provide a perspective on expanding the clinical utilization of experimental therapeutics that can act as "mechanotherapeutics" by regulating mechanobiology of cancer cells.

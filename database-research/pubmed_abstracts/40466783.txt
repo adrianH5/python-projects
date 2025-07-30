@@ -1,0 +1,10 @@
+Pancreatic cancer is a highly aggressive malignancy with a significant unmet medical need, as current treatments often yield poor responses.
+Ferroptosis, a recently recognized form of regulated cell death, has garnered increasing attention for its potential in cancer therapy.
+However, the molecular links connecting autophagy to ferroptosis remain largely unclear.
+In this study, we identified that the redox related protein glucose-6-phosphate dehydrogenase (G6PD) is overexpressed in pancreatic cancer and correlates with poor prognosis, promoting cancer cell proliferation and migration.
+Using PANC-1 and MiaPaCa-2 pancreatic cancer cell lines, we demonstrated that the treatment with ferroptosis-inducing compound RSL3 induced glycolytic dysfunction and significantly downregulated G6PD expression.
+Moreover, G6PD knockdown in these cell lines impaired the cellular antioxidant defence capability by decreasing the NADPH and GSH contents, leading to increased lipid peroxidation and malondialdehyde (MDA) accumulation.
+Particularly, G6PD depletion exacerbated RSL3 induced oxidative stress and synergistically promoted autophagy-dependent ferroptosis.
+Mechanistically, we found that G6PD knockdown disrupted redox homeostasis, triggering the activation of AMPK-mTOR pathway to induce autophagy.
+Furthermore, pharmacological inhibition of AMPK (with Compound C) rescued ferroptosis induced by G6PD knockdown and RSL3, whereas mTOR inhibition (with Rapamycin) further augmented cell death.
+Altogether, these findings suggest that G6PD contributes to ferroptosis resistance in pancreatic cancer cells by modulating oxidative balance and autophagy via the AMPK-mTOR pathway, highlighting its potential as a therapeutic target.

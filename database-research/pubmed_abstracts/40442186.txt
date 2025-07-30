@@ -1,0 +1,14 @@
+This study aimed to evaluate the risk of secondary primary urinary system neoplasms (SPUNs) in patients undergoing different treatment strategies during the perioperative period of rectal cancer (RC) and evalue survial prognostsis of SPUNs.
+The data were sourced from the US SEER database from 1975 to 2020.
+A total of 85,799 RC patients who underwent surgical treatment were included and divided into four groups: surgery alone (S), surgery plus chemoradiotherapy (SCR), surgery plus radiotherapy (SR), and surgery plus chemotherapy (SC).
+The results showed significant differences in the cumulative incidence of SPUNs among the four groups, with higher rates in patients receiving radiotherapy and chemotherapy.
+Both chemotherapy and radiotherapy increased the incidence of secondary primary bladder cancer (SPBC), and radiotherapy also elevated the incidence of secondary primary urethral cancer (SPUaC).
+However, there was no obvious association between chemoradiotherapy and the incidence of secondary primary kidney cancer (SPKC) or secondary primary ureteral cancer (SPUrC).
+Risk analysis indicated that the independent risk factors for SPBC were age, year of diagnosis, and postoperative radiotherapy, while race was a protective factor.
+For SPKC, the independent risk factors were age and year of diagnosis.
+No significant influencing factors were found for SPUrC, and postoperative radiotherapy was an independent risk factor for SPUaC.
+The relative risk (RR) of SPBC increased with the prolongation of the latency period after chemoradiotherapy.
+The RR value of radiotherapy was related to the year of diagnosis, reaching the highest from 1975 to 1984, and was the highest in the 18-50 age group after radiotherapy.
+Survival analysis revealed differences in cancer-specific survival (CSS) and overall survival (OS) among the four groups, with lower survival rates in patients receiving postoperative radiotherapy.
+After propensity score matching (PSM), only the overall survival rate of SPUNs patients in the postoperative radiotherapy group was lower than that of patients with original primary urological neoplasms (OPUNs).
+In conclusion, chemoradiotherapy during the perioperative period of RC is associated with the risk of SPUNs, and its benefits and risks need to be weighed in clinical decision-making.

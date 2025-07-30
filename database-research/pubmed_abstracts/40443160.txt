@@ -1,0 +1,8 @@
+Patients diagnosed with gastric cancer often face poor prognoses and limited treatment options.
+Current therapies remain limited, resulting in significant adverse effects and suboptimal outcomes.
+Network pharmacology analysis suggests that TMBM-010, a natural compound, holds the potential to modulate key pathways in cancer progression.
+Through network pharmacological analysis, we identified the anticancer mechanisms of TMBM-010, including ROS induction, DNA damage, apoptosis, and inhibition of DNA repair pathways.
+To enhance the bioavailability and efficacy of TMBM-010, we developed TMBM-010-loaded nanoparticles (TNPs) and biomimetic nanoparticles (TNPs@RGD-CM) coated with gastric cancer cell membranes and RGD ligands.
+TNPs@RGD-CM demonstrated high stability, excellent biosafety, and a controlled release profile.
+In a gastric cancer xenograft model, TNPs@RGD-CM significantly improved the bioavailability, increased ROS generation, and enhanced anticancer effects.
+Our findings demonstrate that TNPs@RGD-CM augment TMBM-010's bioactivity

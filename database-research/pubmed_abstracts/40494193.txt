@@ -1,0 +1,3 @@
+Reductive carboxylation is critical for the proliferation of cancer cells and the differentiation of T cells.
+However, the role of this reaction in cancer cell-mediated tumor immunity remains unclear.
+Analysis of TCGA database showed a negative correlation between IDH2 expression and the presence of CD8

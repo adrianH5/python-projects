@@ -1,0 +1,10 @@
+Ischemic stroke remains a leading cause of morbidity and mortality worldwide.
+Current therapeutic approaches for ischemic stroke are limited, particularly in targeting the interconnected mechanisms of neuroinflammation and oxidative stress.
+There is a critical need for effective neuroprotective agents that address these pathways to mitigate I/R-induced injury.
+Here, we used bioinformatics analysis to identify differentially expressed genes (DEGs) associated with ischemic stroke and performed enrichment analysis to uncover hub genes and signaling pathways central to disease progression.
+MG-132, a proteasome inhibitor, was identified as a promising candidate and investigated for its neuroprotective efficacy in middle cerebral artery occlusion/reperfusion (MCAO/R) models.
+MG-132 treatment significantly reduced infarct size, decreased cerebral edema, and improved neurological outcomes.
+Mechanistically, MG-132 downregulated PTGS2 expression, inhibited NF-κB activation, and reduced pro-inflammatory cytokines such as TNF-α, IL-1β, and IL-17.
+Furthermore, MG-132 alleviated oxidative stress and apoptosis, as evidenced by decreased malondialdehyde (MDA) levels and fewer TUNEL-positive cells.
+These findings demonstrate that MG-132 exerts robust neuroprotection by modulating the PTGS2/NF-κB signaling pathway, addressing key pathological processes in I/R injury.
+This study provides a foundation for developing targeted therapeutic strategies that mitigate neuroinflammation and oxidative stress in ischemic stroke, advancing the search for effective interventions in this critical area of unmet medical need.

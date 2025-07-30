@@ -1,0 +1,7 @@
+Gynecological diseases pose major public health challenges due to their detrimental impact on women's quality of life and fertility.
+While growing evidence implicates inflammatory proteins in the pathogenesis of these conditions, their causal roles remain unclear.
+In this study, we conducted a bidirectional two-sample Mendelian randomization (TSMR) analysis to explore causal relationships between 91 circulating inflammatory proteins and 17 gynecological diseases in a discovery cohort.
+We identified nine protein-disease pairs with potential causal associations, three of which remained significant after Bonferroni correction, including IL-1α with increased risk of cervical cancer, MMP10 with reduced risk of endometrial cancer, and MCP-1 with increased susceptibility to ovarian benign neoplasms.
+A meta-analysis incorporating data from an independent replication cohort further suggested that IL-1α increases the risk of cervical cancer.
+To validate these findings, we performed transcriptomic analysis using the TCGA database and confirmed protein-level expression through Western blot analysis of clinical samples.
+Collectively, these results provide novel insights into the inflammatory mechanisms underlying gynecological diseases and underscore IL-1α as a promising causal biomarker and potential therapeutic target for cervical cancer.

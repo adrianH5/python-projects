@@ -1,0 +1,8 @@
+Aristolochic Acid (AA) is a class of naturally occurring compounds characterized by potent genotoxicity and carcinogenicity, predominantly found in plants of the Aristolochia genus.
+The 1993 Belgian weight-loss incident and subsequent research unequivocally established the association between AA and "Aristolochic Acid Nephropathy" (AAN) as well as Balkan Endemic Nephropathy (BEN), prompting global regulatory actions.
+AA undergoes nitroreduction to generate highly reactive intermediates, which form persistent DNA adducts, inducing A:T to T:A transversion mutations during DNA replication.
+In 2017, 78% (76/98) of hepatocellular carcinoma (HCC) samples collected from two Taiwanese hospitals exhibited the characteristic mutational signature COSMIC SBS22, sparking a global debate on whether AA contributes to liver carcinogenesis.
+This review systematically synthesizes the research progress on AA, encompassing its historical applications, metabolic mechanisms, genotoxic features, and its potential causal relationship with HCC.
+It highlights the necessity of employing multi-omics technologies to elucidate the regulatory networks of AA-metabolizing enzymes, developing non-invasive biomarkers, and rigorously validating carcinogenic mechanisms through animal models.
+Furthermore, strengthening the regulation of AA-containing herbal medicines and enhancing global exposure surveillance are imperative for mitigating the burden of liver cancer.
+This review provides a comprehensive perspective on the toxicological mechanisms and carcinogenic risks of AA, offering insights into precision prevention and intervention strategies.

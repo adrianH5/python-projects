@@ -1,0 +1,13 @@
+The incidence of upper tract urothelial carcinoma (UTUC) in Taiwan is high, characterized by aggressive clinical behavior and a tendency to be more invasive at diagnosis.
+Identifying tumorigenic genes remains an important challenge.
+Myc binding protein 2 (MYCBP2) regulates the cAMP, p38MAPK, TSC/mTOR, and autophagy signaling pathways in mammalian cells.
+MYCBP2 dysfunction has been associated with poor prognosis in leukemia, melanoma, colon, and prostate cancer.
+Its role in UTUC needs to be clarified.
+We investigated the expression of MYCBP2 in UTUC and its relationship to patient outcomes.
+MYCBP2 expression levels were assessed by immunohistochemistry in 110 tissue samples from UTUC patients.
+Higher MYCBP2 protein expression was significantly correlated with worse disease-free survival (p = 0.001) and cancer-specific survival (p = 0.007).
+The major clinicopathological characteristics associated with MYCBP2 expression were stage, lymphovascular invasion, distant metastasis, recurrence, and cancer death.
+Based on multivariate analysis, pathological stage (HR:2.31, p = 0.017) and MYCBP2 expression (HR:2.75, p = 0.015) were significant predictors of disease-free survival in UTUC.
+MYCBP2 is elevated in UTUC cell lines compared with immortalized uroepithelial cells.
+Knocking down MYCBP2 significantly suppressed cellular migration and invasion activity in BFTC909 cells.
+In conclusion, MYCBP2 expression might predict poor survival among UTUC patients.

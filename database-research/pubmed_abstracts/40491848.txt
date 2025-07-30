@@ -1,0 +1,9 @@
+Molecular docking is among the fastest and most readily available computational tools to explore protein-ligand interactions.
+However, little effort has been put into assessing the quality of its results.
+In this paper, we compared eight free license docking programs to screen a drug library against the human target, phosphodiesterase 5A (PDE5A), to evaluate their ability to find its known ligand, sildenafil, and other ligands that became erectile dysfunction drugs because they inhibit this target.
+GNINA was superior at identifying the known target because it offers a convolutional neural network (CNN) score that ranks the quality of docking results.
+Using this CNN score improved the ranking of known positives.
+Receiver operating characteristic (ROC) analysis revealed that all docking suites lack specificity; that is, they often misidentify true negatives.
+Employing a CNN score cutoff before ranking by docking affinity raised specificity with a small loss in sensitivity.
+After the cutoff, datasets became smaller but of higher quality.
+We propose a heuristic to produce relevant docking results, which includes an overall evaluation of the target on docking performance through ROC and an improvement of candidate binder selection using a CNN score cutoff of 0.9.

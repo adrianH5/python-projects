@@ -1,0 +1,3 @@
+T1	Dataset 947 953	GISAID
+T2	URL 955 977	https://www.gisaid.org
+R1	hasAttr	Arg1:T1	Arg2:T2

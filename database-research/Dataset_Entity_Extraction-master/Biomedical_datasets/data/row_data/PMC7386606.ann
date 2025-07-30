@@ -1,0 +1,12 @@
+T1	Dataset 647 662	Viruses- STRING
+T2	Repository 1040 1046	STRING
+T3	URL 1056 1085	http://viruses.string-db.org/
+T4	Repository 1187 1197	MiRTarBase
+T5	URL 1199 1229	http://miRTarBase.cuhk.edu.cn/
+T6	Repository 1402 1412	miRWalk2.0
+T7	URL 1423 1474	http://zmf.umm.uni-heidelberg.de/apps/zmf/mirwalk2/
+T8	Dataset 1731 1745	viruses STRING
+T9	Repository 1979 1985	STRING
+R1	hasAttr	Arg1:T2	Arg2:T3
+R2	hasAttr	Arg1:T4	Arg2:T5
+R3	hasAttr	Arg1:T6	Arg2:T7

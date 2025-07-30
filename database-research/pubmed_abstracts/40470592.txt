@@ -1,0 +1,14 @@
+Care for metastatic esophageal (EC) or gastric cancer (GC) includes a large variety of treatment modalities.
+Data on treatment variation across centers are unknown.
+This study investigated treatment variation across hospitals and its effect on overall survival (OS) in the Netherlands by conducting a nationwide retrospective cohort study with population-based data from the Netherlands Cancer Registry.
+Patients diagnosed with synchronous metastatic EC/GC between 2015 and 2022 were included.
+Multilevel logistic regression assessed treatment patterns according to hospital of diagnosis.
+OS was analyzed using Cox regression analysis after categorizing hospitals into tertiles based on their adjusted odds (low/medium/high) for systemic treatment (chemotherapy, targeted therapy, and immunotherapy).
+Among 8406 EC and 3871 GC patients, the proportion receiving systemic treatment varied substantially: 19.8%-69.6% for EC and 15.8%-81.3% for GC across hospitals.
+Hospital of diagnosis was significantly associated with the adjusted probability of receiving systemic treatment (p < .0001).
+Ten out of 78 EC (12.8%) and 7 out of 73 (9.6%) GC hospitals had significantly lower systemic treatment probabilities.
+EC patients with OS ≥4 months diagnosed at hospitals with lower probabilities had significantly worse OS compared to high-probability hospitals (hazard ratios [HR] 0.87 [0.79-0.95] p = .002).
+GC patients from low-probability hospitals had significantly worse OS than from medium- (HR 0.86 [0.76-0.96], p = .011) or high-probability hospitals (HR 0.73 [0.64-0.82], p < .0001).
+In conclusion, this study showed substantial hospital variation in treatment for metastatic EC and GC.
+Hospital of diagnosis was not only associated with the probability of receiving systemic treatment but also OS.
+This reflects the challenge of ensuring equal healthcare access.

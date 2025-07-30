@@ -1,0 +1,4 @@
+The harm that prostate cancer inflicts on humans is becoming increasingly grave, imposing a tremendous burden and impact on patients and society.
+While PSA(Prostate-specific antigen) is commonly used for prostate cancer screening, its high rates of false positives and false negatives can lead to misdiagnosis (unnecessary prostate biopsies) or missed diagnoses (delayed treatment), with potentially serious consequences.
+Thus, there is a critical need for alternative diagnostic methods to overcome the limitations of PSA.
+This study aims to identify a novel panel of miRNAs as biomarkers for the diagnosis of prostate cancer.

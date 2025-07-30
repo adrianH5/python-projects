@@ -1,0 +1,10 @@
+Cervical cancer (CC) remains a significant public health issue in low- and middle-income countries (LMICs), especially in Western sub-Saharan Africa and Nigeria.
+While global CC incidence and mortality have declined, these regions continue to face high rates due to inadequate screening and the high prevalence of HIV, which increases CC risk by promoting persistent HPV infections.
+This study aimed to identify DNA methylation (DNAm) biomarkers for cervical intraepithelial neoplasia (CIN) and CC in HIV-positive Nigerian women and to assess their potential for clinical risk prediction.
+From 2018 to 2020, 538 participants were recruited from Nigerian tertiary hospitals.
+Cervical tissue samples were analyzed for DNAm using the Infinium MethylationEPIC BeadChip array, and HPV genotyping was conducted via next-generation sequencing.
+An epigenome-wide association study revealed 24 significant DNAm biomarkers associated with CIN and CC.
+These biomarkers showed hypermethylation in tumor suppressor genes (e.g., PRMD8), hypomethylation in oncogenes (e.g., MIR520H), and aberrant methylation in genes related to HIV/HPV infection and oncogenesis (e.g., GNB5, LMO4, FOXK2, NMT1).
+A machine learning-based DNAm classifier achieved 92.9% sensitivity and 88.6% specificity in predicting CC risk, with higher risk observed in adjacent normal cervical samples from CIN/CC patients and HIV/HPV co-infected women.
+DNAm biomarkers offer a promising approach to enhancing CC screening and early detection, particularly for HIV-positive women in LMICs.
+The DNAm-based model developed in this study shows potential for more accurate CC risk stratification, highlighting the need for further optimization, validation, and implementation in low-resource settings.

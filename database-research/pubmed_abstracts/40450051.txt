@@ -1,0 +1,9 @@
+Evidence-guided regimens for advanced gastric cancer (AGC) in patients with performance status 2 (PS 2) are limited.
+Here, we proposed a structured therapeutic framework termed "performance status-matched strategy", and further conducted the APICAL-GC trial (NCT04278222).
+This open-label, single-arm phase II study evaluated the efficacy and safety of anlotinib combined with toripalimab among 24 treatment-naïve AGC patients with PS 2.
+The primary outcome was the objective response rate (ORR), with secondary endpoints including disease control rate (DCR), duration of response (DoR), progression-free survival (PFS), overall survival (OS), and safety profile.
+This trial met its prespecified endpoints, demonstrating an ORR of 58.3% (95%CI 36.6-77.9) with a DoR of 12.1 months (range: 1.43-48.5), and a DCR of 95.8% (95%CI 78.9-99.9).
+Median PFS reached 7.33 months (95%CI 3.83-17.1), while median OS was 15.9 months (95%CI 7.73-23.2).
+Treatment-related adverse events (TRAEs) of any grade occurred in 21 patients (87.5%), with grade-3 TRAEs observed in 7 patients (29.2%).
+No grade-4/5 TRAEs were reported.
+These findings provide a rationale for anlotinib plus toripalimab as a promising chemotherapy-free option for the first-line treatment of AGC patients with PS 2 under the performance status-matched strategy, showing comparable anticancer activity and a lower occurrence rate of TRAEs.

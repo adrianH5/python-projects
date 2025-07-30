@@ -1,0 +1,7 @@
+Histone proteins and their posttranslational modifications are central to chromatin structure and function.
+These modifications often occur in combinations, generating a diverse array of histone proteoforms that contribute to the dynamic regulation of chromatin architecture.
+Advancements in mass spectrometry-based proteomics, particularly top-down and middle-down approaches, have significantly enhanced our ability to characterize these proteoforms and elucidate PTM crosstalk.
+This review provides an analysis of the epigenetic machinery involved in the addition, recognition, and removal of histone PTMs, emphasizing the complexity introduced by histone variants and combinatorial PTM patterns.
+We examine the challenges and limitations of traditional antibody-based methods for PTM analysis and highlight the advantages of mass spectrometry techniques in providing comprehensive and quantitative insights into histone proteoforms.
+Key considerations in experimental design, sample preparation, chromatographic separation, and data analysis are outlined for the effective application of mass spectrometry for histone proteoform studies.
+By integrating these technological advancements on the side of sample preparation, instrumentation, and data processing a deeper understanding of chromatin regulation through PTM crosstalk is achieved, paving the way for mass spectrometry-based proteomics to spearhead the discovery of novel therapeutic strategies with proteoform level specificity.

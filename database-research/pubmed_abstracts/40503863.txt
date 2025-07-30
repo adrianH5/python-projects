@@ -1,0 +1,6 @@
+In this study, we reveal a novel relationship between RNF213, an E3 ubiquitin ligase associated with Moyamoya disease (MMD) and the ubiquitination of both endogenous and pathogenic substrates, and EGFR, the epithelial growth factor receptor involved in cell growth, angiogenesis, and cancer.
+RNF213 knockdown or knockout in HeLa and A549 cells markedly reduces EGFR phosphorylation at key tyrosine sites following EGF and TGFα stimulation.
+In RNF213 knockout cells, HER2 phosphorylation, typically activated through heterodimerization with EGFR, and Src recruitment and/or phosphorylation are also diminished.
+Mutations in the RNF213 RING, RZ finger, or AAA+ domains, including the prevalent R4810K mutation in MMD, consistently reduce EGFR phosphorylation.
+In vivo, EGF injections increase EGFR and HER2 phosphorylation in WT but not in RNF213 knockout mice.
+Despite the reduced phosphorylation levels of these tyrosine kinases in knockout cells, the activation of downstream signals such as AKT, ERK1/2, and STAT3 remains unaffected, although phosphorylation of PLCγ, a key mediator of Ca

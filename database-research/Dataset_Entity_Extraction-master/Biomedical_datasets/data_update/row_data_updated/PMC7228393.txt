@@ -1,0 +1,8 @@
+On 26 February, the Director‐General of the WHO announced that the number of new cases of the disease, now officially known as COVID‐19, reported outside China since the day before had for the first time exceeded the number of new cases in China (https://www.who.int/dg/speeches/detail/who‐director‐general‐s‐opening‐remarks‐at‐the‐mission‐briefing‐on‐covid‐19‐‐‐26‐february‐2020).
+The results were mapped and aligned to the reference genome obtained from GISAID (https://www.gisaid.org/, accession ID: EPI_ISL_412973) using Geneious software, v. 9.1.5 (http://www.geneious.com).
+A root‐to‐tip regression analysis was made using TempEst in order to investigate the temporal signal of the dataset.
+Root‐to‐tip regression analysis of the temporal signal from the dataset revealed a relatively weak association between genetic distances and sampling days (a correlation coefficient of 0.46 and a coefficient of determination [R
+2] of 0.21) (Figure 1).
+The present phylogenetic analysis confirms that the common origin of the SARS‐CoV‐2 strains characterized so far was several weeks before the first cases of COVID‐19 pneumonia were described in China.
+The German sequence at the outgroup of the clade came from a COVID‐19 outbreak reported between 20 and 24 January and occurring after business meetings with a Shanghai business woman who tested positive after returning to China.
+This report describes the isolation, molecular characterization, and phylogenetic analysis of the first three complete genomes of severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) isolated from three patients involved in the first outbreak of COVID‐19 in Lombardy, Italy.

@@ -1,0 +1,9 @@
+CAR T-cell therapy is a transformative treatment for relapsed or refractory (R/R) B-cell non-Hodgkin lymphoma (NHL), B-cell acute lymphoblastic leukemia (ALL), chronic lymphocytic leukemia (CLL), and multiple myeloma (MM).
+Recent data brought serious concerns for the development of second primary malignancies (SPM), whether second myeloid neoplasms (SMN) or second non-hematological malignancies (SNHM), or T-cell cancers.
+Pertaining SPMs after CAR T-cell therapy, studies report an incidence ranging from 2.3% to 11.3% with a higher trend in patients 65 years of age or older, those with higher number of prior therapies, and with longer follow-up.
+In the case of SMNs, myelodysplastic syndrome is the most common ranging from 0.3% to 4.2%, followed by acute myeloid leukemia in 0.2% to 1.1% of cases.
+In SNHM, the incidence ranges from 0.6% to 11.6% and does not appear limited to a particular diagnosis or CAR T-cell product.
+Establishing a causal association between CAR T-cell therapy and development of T-cell malignancies is challenging.
+Notwithstanding the possibility of underreporting, the incidence of T-cell cancers after commercially approved CAR T-cell therapies ranges from 0.03% to 1%, occurring at 1 to 36 months post- infusion, with only a handful of reports confirming CAR transgene integration.
+We believe that therapeutic benefits of CAR T-cell therapies in R/R B-cell NHL, B-cell ALL, CLL and MM outweigh their potential risks of developing SPMs and T-cell cancers.
+More work is needed to help better understand the corresponding contributions of CAR T-cell therapy per se as opposed to other factors including pre-existing somatic or germline mutations, chemotherapy and/or radiotherapy acquired CH, and their ultimate effect on developing SPMs.

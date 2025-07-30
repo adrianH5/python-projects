@@ -1,0 +1,7 @@
+Drug-drug conjugates have become a research hotspot in nanomedicine.
+An amphiphilic assembled drug-drug conjugate can achieve drug self-delivery without any carriers and change the distribution of free drugs.
+Herein, we synthesized a pH-responsive bi-prodrug of gossypol (GP) and cytarabine (Ara-C) for cancer therapy.
+FT-IR, UV-vis, TLC and MS confirmed that GP-Ara-C was successfully synthesized.
+The nanoparticle size of GP-Ara-C is approximately 100 nm, and the stability of GP-Ara-C is maintained for 6 days in pH 7.4 phosphate-buffered saline (PBS).
+HeLa cell viability results showed that GP-Ara-C exhibited anticancer ability similar to that of free GP.
+Cellular uptake demonstrated that GP-Ara-C could be distributed in cell nuclei at 7 h. Altogether, this amphiphilic GP-Ara-C could be assembled into nanomedicine in an aqueous environment and could be a candidate for cancer therapy in clinics.

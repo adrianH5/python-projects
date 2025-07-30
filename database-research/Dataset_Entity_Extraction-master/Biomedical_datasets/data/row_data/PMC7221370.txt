@@ -1,0 +1,4 @@
+A total of eight variants of hACE2 that map to the interaction surface are described in the gnomAD database (Fig. 4
+A).
+The spread of COVID-19 caused by the SARS-CoV-2 outbreak has been growing since its first identification in December 2019.
+By calculating the binding energy score between RBD and ACE2, we highlighted the putative jump in the affinity from a progenitor form of SARS-CoV-2 to the current virus responsible for COVID-19 outbreak.

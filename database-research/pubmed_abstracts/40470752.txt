@@ -1,0 +1,8 @@
+Radioresistance is a serious obstacle to successful nasopharyngeal carcinoma (NPC) treatment.
+ANXA1 is associated with EGFR and is involved in EGFR-promoting tumors, but mechanism of ANXA1-stabilizing EGFR and its effect on NPC radioresistance are unclear.
+Here, we report that ANXA1 competes with E3 ubiquitin ligase Cbl for binding EGFR, and increases its stability by inhibiting Cbl-mediated EGFR ubiquitination degradation in NPC cells.
+ANXA1 increases in vitro and in vivo NPC cell radioresistance by stabilizing EGFR.
+Expression levels of ANXA1 and EGFR are positively correlated in NPC tissues, and are significantly higher in the radioresistant NPC tissues than in the radiosensitive NPC tissues.
+The NPC patients with high expression of both proteins have poorer overall survival and disease free survival relative to patients with high expression of one protein alone, and a combination of ANXA1 and EGFR predicts NPC radiosensitivity superior to individual protein.
+Based on the amino acid residues of ANXA1 responsible for binding EGFR, we develop a nine amino acid-long ANXA1-derived peptide (HDMNKVLDL), which disrupts the connection of ANXA1 with EGFR, successfully downregulates EGFR expression, and dramatically increases NPC cell radiosensitivity in vitro and in mice.
+Our findings suggest that ANXA1 promotes NPC radioresistance via binding and stabilizing EGFR, and present a strategy for targeting EGFR degradation and NPC radiosensitizaton with a peptide.

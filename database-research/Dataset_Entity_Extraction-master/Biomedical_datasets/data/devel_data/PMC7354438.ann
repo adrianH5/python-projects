@@ -1,0 +1,18 @@
+T1	URL 523 546	https://drugvirus.info/
+T2	AccessionNumber 743 754	NCT04252664
+T3	AccessionNumber 756 766	NCT0425487
+T4	AccessionNumber 768 779	NCT04255017
+T5	AccessionNumber 781 792	NCT04261517
+T6	AccessionNumber 797 808	NCT04260594
+T7	Repository 1131 1137	PubMed
+T8	Repository 1139 1157	clinicaltrials.gov
+T9	Repository 1159 1167	DrugBank
+T10	Repository 1169 1180	DrugCentral
+T11	Repository 1186 1227	Chinese Clinical Trials Register (ChiCTR)
+T12	Repository 1232 1259	EU Clinical Trials Register
+T13	Repository 1375 1399	COVID-19 Data Repository
+T14	Creator 1407 1456	Center for Systems Science and Engineering (CSSE)
+T15	URL 1486 1528	https://github.com/CSSEGISandData/COVID-19
+T16	URL 2202 2225	https://drugvirus.info/
+R1	hasAttr	Arg1:T13	Arg2:T15
+R2	hasAttr	Arg1:T14	Arg2:T15

@@ -1,0 +1,14 @@
+Various deep learning models have been developed and employed for medical image classification.
+This study conducted comprehensive experiments on 12 models, aiming to establish reliable benchmarks for research on breast dynamic contrast-enhanced magnetic resonance imaging image classification.
+Twelve deep learning models were systematically compared by analyzing variations in 4 key hyperparameters: optimizer (Op), learning rate, batch size (BS), and data augmentation.
+The evaluation criteria encompassed a comprehensive set of metrics including accuracy (Ac), loss value, precision, recall rate, F1-score, and area under the receiver operating characteristic curve.
+Furthermore, the training times and model parameter counts were assessed for holistic performance comparison.
+Adjustments in the BS within Adam Op had a minimal impact on Ac in the convolutional neural network models.
+However, altering the Op and learning rate while maintaining the same BS significantly affected the Ac.
+The ResNet152 network model exhibited the lowest Ac.
+Both the recall rate and area under the receiver operating characteristic curve for the ResNet152 and Vision transformer-base (ViT) models were inferior compared to the others.
+Data augmentation unexpectedly reduced the Ac of ResNet50, ResNet152, VGG16, VGG19, and ViT models.
+The VGG16 model boasted the shortest training duration, whereas the ViT model, before data augmentation, had the longest training time and smallest model weight.
+The ResNet152 and ViT models were not well suited for image classification tasks involving small breast dynamic contrast-enhanced magnetic resonance imaging datasets.
+Although data augmentation is typically beneficial, its application should be approached cautiously.
+These findings provide important insights to inform and refine future research in this domain.

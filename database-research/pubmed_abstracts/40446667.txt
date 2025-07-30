@@ -1,0 +1,10 @@
+The androgen receptor (AR) is a pivotal regulator of growth and survival of prostate cancer (PCa) and the majority of lethal castration-resistant prostate cancers (CRPC) remain reliant on AR signaling.
+PCa exhibits variability in progression and responses to treatment suggesting genetic heterogeneity.
+Two independent studies identified PCa predisposing single nucleotide polymorphisms (SNPs) within the FAM111A protease gene, but the mechanistic basis of this association remained elusive.
+Our in vitro and in vivo studies uncovered that AR represses FAM111A in castration sensitive and resistant cells via an AR binding site within the FAM111A gene.
+FAM111A levels are significantly lower in matched castration-resistant than in castration-sensitive cells and xenografts, and lower in metastatic lesions than in primary tumors.
+We discovered that FAM111A is AR-repressed in castration sensitive PCa xenograft and multiple PCa cells.
+Additionally, FAM111A subcellular localization changes dramatically with acquisition of castration resistance, where in castration sensitive cells FAM111A is predominantly in the nucleoli, but with castration resistance it becomes more dispersed in the nucleus and in the cytoplasm.
+FAM111A depletion in castration sensitive and resistant cells enhances the efficacy of PARP1 inhibitors olaparib and niraparib, consistent with its role in DNA repair.
+Moreover, FAM111A depletion reduces AR target gene prostate specific antigen (PSA) and transmembrane serine protease 2 (TMPRSS2) transcription, indicating that FAM111A modulates AR-dependent gene expression forming a FAM111A-AR co-regulatory loop in PCa.
+Our studies argue that AR-dependent FAM111A regulation modulates PCa gene expression, acquisition of castration resistance, and sensitivity to agents that target DNA damage repair.

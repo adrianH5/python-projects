@@ -1,0 +1,3 @@
+Residual cancer burden (RCB) is a strong prognostic marker after neoadjuvant chemotherapy (NAC) in breast cancer (BC), yet some BCs defy their predicted outcomes.
+Using single-cell spatial transcriptomics and genomic profiling, we investigate mechanisms underlying divergent fates of BCs with high RCB across subtypes.
+In triple-negative BC (TNBC), CXCL9+ macrophage-CD8

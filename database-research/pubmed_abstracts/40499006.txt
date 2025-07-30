@@ -1,0 +1,8 @@
+Cancer drug resistance is multi-factorial, driven by heritable (epi)genetic changes but also phenotypic plasticity.
+Here, we dissected drivers of resistance by perturbing colorectal cancer patient-derived organoids longitudinally with drugs in sequence.
+Combined longitudinal lineage tracking, single cell multi-omics analysis, evolutionary modelling, and machine learning revealed that different targeted drugs select for distinct subclones, supporting rationally designed drug sequences.
+The cellular memory of drug resistance was encoded as a heritable epigenetic configuration from which multiple transcriptional programs could run, supporting a one-to-many (epi)genotype-to-phenotype map that explains how clonal expansions and plasticity manifest together.
+This epigenetic landscape may ensure drug resistant subclones can exhibit distinct phenotypes in changing environments while still preserving the cellular memory encoding for their selective advantage.
+Chemotherapy resistance was instead entirely driven by transient phenotypic plasticity rather than stable clonal selection.
+Inducing further chromosomal instability before drug application changed clonal evolution but not convergent transcriptional programs.
+Collectively, these data show how genetic and epigenetic alterations are selected to engender a "permissive epigenome" that enables phenotypic plasticity.

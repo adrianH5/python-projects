@@ -1,0 +1,7 @@
+Vitamins are vital nutrients essential for metabolism, functioning as coenzymes, antioxidants, and regulators of gene expression.
+Their absorption and metabolism rely on specialized transport proteins that ensure bioavailability and cellular utilization.
+Water-soluble vitamins, including B-complex and vitamin C, are transported by solute carrier (SLC) family proteins and ATP-binding cassette (ABC) transporters for efficient uptake and cellular distribution.
+Fat-soluble vitamins (A, D, E, and K) rely on lipid-mediated pathways through proteins like scavenger receptor class B type I (SR-BI), CD36, and Niemann-Pick C1-like 1 (NPC1L1), integrating their absorption with lipid metabolism.
+Defective vitamin transporters are associated with diverse metabolic disorders, including neurological, hematological, and mitochondrial diseases.
+Advances in structural and functional studies of vitamin transporters highlight their tissue-specific roles and regulatory mechanisms, shedding light on their impact on health and disease.
+This review emphasizes the significance of vitamin transporters and their potential as therapeutic targets for deficiencies and related chronic conditions.

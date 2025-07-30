@@ -1,0 +1,8 @@
+The molecular mechanism by which tumor cells and their microenvironment evolve during lung squamous cell carcinoma (LUSC) carcinogenesis remains unclear, greatly limiting its early diagnosis and treatment effectiveness in patients.
+To replicate pathogenic processes and identify the determinants of cell evolution, a rat model is established using tobacco-derived carcinogens.
+Here, a series of single-cell transcriptome profiles of normal lung epithelium, hyperplasia, metaplasia, dysplasia, and squamous cell carcinoma in situ (CIS) to invasive squamous cell carcinoma (SCC) is presented.
+A large proportion of canonical copy number variations (CNVs) are detected in the hyperplasia/metaplasia stages, with their frequency increasing as the lesion progressed.
+Although bronchial epithelial cells exhibit substantial heterogeneity, three distinct cellular states are identified during their evolution into malignant cells.
+Immune sensing occurs at the earliest stages of cellular transformation.
+However, persistent exposure to carcinogens induces microenvironmental remodeling, which is characterized by monocyte-derived macrophage infiltration, plasmacytoid dendritic cell expansion, and progressive T-cell exhaustion.
+These findings depict the evolutionary trajectory of cancer and the immune microenvironment, emphasizing the need for CNV evaluation in early screening and immune-based therapy for lesions at a high risk of progression to LUSC.

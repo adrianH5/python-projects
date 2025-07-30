@@ -1,0 +1,8 @@
+Accumulating clinical evidence suggests an intricate relationship between severe COVID-19 and preexisting metabolic complications, which share some metabolic dysregulations, including hyperglycaemia, hyperinsulinaemia and hyperlipidaemia.
+However, the potential role of these metabolic risk factors in SARS-CoV-2 infection and entry factor expression remains unknown.
+Here we report the implication of hyperglycaemia in SARS-CoV-2 infection and therapy.
+Hyperglycaemia, instead of hyperinsulinaemia and hyperlipidaemia, can significantly induce the expression of SARS-CoV-2 entry factors (Ace2, Tmprss2, Tmprss4, Furin and Nrp1) in liver cells, but not in lung and pancreatic cells, which is attenuated by mTOR inhibition.
+Correspondingly, pathological glucose levels promote SARS-CoV-2 entry into cultured hepatocytes in pseudovirus cell systems.
+Conversely, representative glucose-lowering drugs (metformin, dapagliflozin, sitagliptin and exenatide) are able to diminish the enhancement of entry factor expression and SARS-CoV-2 infection in cultured hepatocytes under pathological glucose conditions.
+Intriguingly, SARS-CoV-2 entry factors are increased in the livers of nonalcoholic fatty liver disease and diabetes patients.
+These results define hyperglycaemia as a key susceptibility factor for hepatic SARS-CoV-2 infection, and provide insights into the clinical application of glucose-lowering therapies in COVID-19 patients under comorbid hyperglycaemia conditions.

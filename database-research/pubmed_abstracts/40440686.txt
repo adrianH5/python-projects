@@ -1,0 +1,2 @@
+Currently, there remains a critical need for reliable tools to accurately predict post-surgical outcomes in non-small cell lung cancer (NSCLC) patients in clinical practice.
+We aimed to develop and validate a deep learning-based model utilizing histopathological slides to accurately predict post-surgical outcomes in NSCLC patients.

@@ -1,0 +1,10 @@
+Prognostication after acute ischemic stroke is crucial for long-term care plans.
+Although hyperacute management significantly affects outcomes, prognostic factors for patients receiving delayed care remain unknown.
+This study aimed to evaluate predictors and develop a method for estimating long-term mortality in patients with delayed hospital arrival 24 h after stroke symptom onset.
+Between January 2008 and December 2014, ischemic stroke patients who were admitted to the hospital more than 24 h from symptom onset were included in the linked dataset provided by the Clinical Research Center for Stroke, linked with claims data from the Health Insurance Review and Assessment Service.
+A nomogram was developed to estimate long-term mortality using clinical variables, with a predictive model assessed by Harrell's C-index.
+A total of 14,298 patients with acute ischemic stroke (66.5 years, mean age; 58.3%, male) were randomly assigned to training (n = 10,009) and validation (n = 4289) groups.
+Significant predictors of long-term mortality included older age, lower BMI, higher NIHSS score, stroke etiology, comorbidities (diabetes, coronary artery disease, dialysis, cancer), fasting blood sugar, use of antithrombotics/statins, and functional status at discharge.
+The Stroke Measures Analysis for Prognostic Testing - Mortality24 (SMART-M24) nomogram incorporated 17 predictors and achieved a C-index of 0.80 (95% CI, 0.79-0.81) in both groups.
+The SMART-M24 nomogram provides a prognostic tool for estimating long-term mortality in ischemic stroke patients with delayed hospital arrival 24 h after symptom onset.
+This model can assist clinical decision-making and long-term care planning for patients who have not undergone hyperacute treatment.

@@ -1,0 +1,9 @@
+Thromboembolism is one of the major complications in myeloproliferative neoplasms (MPNs), especially in the initial years post-diagnosis and with increasing age.
+This nationwide matched cohort study used Swedish registers to assess whether attained age or time since diagnosis is more important for thrombosis risk.
+We identified 17 830 MPN patients diagnosed between 2001 and 2021, each matched with 10 population controls by sex, age and diagnosis year.
+Rates of first thrombosis post diagnosis and hazard ratios (HRs) were estimated using flexible parametric survival models over time since diagnosis and attained age.
+Thrombosis rates were significantly higher in MPN patients at all ages, especially in the first 2 years post-diagnosis, after which the rates remained higher than in age-matched controls.
+At 5 years, HR (95% confidence interval) for any thrombosis comparing patients to controls was 1.8 (1.7-1.9) at age 65, 1.6 (1.5-1.7) at age 70 and 1.5 (1.4-1.6) at age 75 and older.
+Attained age was more important than time since diagnosis, particularly in patients without prior thrombosis.
+Thrombosis rates were highest within the first 2 years post-diagnosis, then depended more on attained age than on time since diagnosis.
+These findings emphasize the importance of age and early management in MPN patients to optimize clinical care.

@@ -1,0 +1,3 @@
+Real-time electronic patient-reported outcome (ePRO) symptom monitoring is a complex intervention with few examples of successful implementation at scale.
+A key challenge is designing a clear ePRO symptom monitoring workflow to support implementation into practice.
+We aimed to create an empirical and theory-informed site-specific workflow guided by the Action, Actor, Context, Target, Time (AACTT) implementation science framework.

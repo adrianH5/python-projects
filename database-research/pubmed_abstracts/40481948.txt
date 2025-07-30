@@ -1,0 +1,4 @@
+Malignant rhabdoid tumor of the kidney (MRTK) is a rare renal tumor with poor prognosis.
+While germline mutations of SMARCB1 are considered to be the primary cause of MRTK, emerging evidence suggests that somatic epigenetic changes also play a vital role in the development and progression of MRTK.
+YTHDF1, an m6A reader protein, has been implicated in regulation of tumorigenesis by influencing RNA translation and stability in several adult cancers.
+However, the exploration of the role of YTHDF1 in pediatric cancer, especially MRTK, remains limited.

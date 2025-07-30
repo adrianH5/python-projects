@@ -1,0 +1,7 @@
+Ewing sarcoma (EWS) is a rare cancer of the bone and soft tissue, most prevalent in children and young adults.
+Treatment of EWS has progressed relatively little in over 30 years.
+Survival rates for patients, particularly those with metastatic and/or relapsed disease, remain poor, highlighting the urgent need for innovative treatment options.
+We have explored the therapeutic potential of the oncolytic Maraba virus strain MG1.
+We show that MG1 undergoes productive replication and exerts direct oncolysis of established EWS cell lines, doxorubicin-resistant EWS cell lines and patient-derived Ewing sarcoma (PDES) cell cultures more recently established from tumours.
+In contrast, primary mesenchymal stem cells (the likely cell of origin of EWS) were resistant to MG1, with IFN-I being a major determinant of tumour cell selectivity.
+MG1 treated PBMC produced IFN-I and killed EWS cells

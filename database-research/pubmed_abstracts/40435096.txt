@@ -1,0 +1,7 @@
+In December 2021, FDA approved abatacept (Orencia; Bristol Myers Squibb) in combination with a calcineurin inhibitor (CNI) and methotrexate (MTX) as the first drug for prophylaxis of acute graft versus host disease (aGVHD) in adults and pediatric patients 2 years and older undergoing hematopoietic stem cell transplantation (HSCT) from a matched or 1 allele-mismatched unrelated donor (URD).
+Study IM101311 included a randomized (1:1), double-blind evaluation of abatacept (N=73) versus placebo (N=69) +CNI+MTX as aGVHD prophylaxis in patients ≥6 years undergoing an 8/8 HLA-matched URD HSCT.
+Overall survival (OS) and Grade II-IV aGVHD free survival at Day 180 post-transplantation for abatacept versus placebo showed hazard ratio (HR) 0.33 (95% CI 0.12-0.93) and 0.54 (0.35-0.83), respectively.
+A second study, IM101841, was conducted using real-world data from Center for International Blood and Marrow Transplant Research (CIBMTR) registry for abatacept +CNI+MTX (N=54) versus CNI+MTX (N=162) in patients who underwent 7/8 mismatched URD HSCT.
+Day 180 OS was 98% (95% CI: 78, 100) with abatacept +CNI+MTX versus 75% (95% CI: 67, 82) with CNI+MTX.
+Serious adverse reactions included cytomegalovirus and Epstein-Barr Virus reactivation.
+An additional study in patients 2 to < 6 years was required as a condition of the approval.

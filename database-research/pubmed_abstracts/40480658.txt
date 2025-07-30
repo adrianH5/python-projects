@@ -1,0 +1,9 @@
+Cell-based gene therapies, including chimeric antigen receptor-T, T-cell receptor-T, and tumor-infiltrating lymphocyte therapies, have transformed the treatment landscape for certain cancers, yet their efficacy in solid tumors remains limited.
+Next-generation therapies aim to overcome biological barriers, enhance potency and safety, and streamline development timelines through innovative approaches.
+Recent advances in genome editing technologies have identified hundreds of gene edits that improve T-cell functionality in preclinical models.
+However, the limited direct translatability of these findings and the impracticality of testing each of the individual edits in a traditional clinical trial highlight the need for more efficient strategies.This article provides an overview of genome-wide screens that identify gene knockouts and knock-ins to enhance T-cell function and the limitations with translating these results to human trials.
+Next, we propose a novel clinical trial design for testing multiple gene modifications simultaneously within a single T-cell infusion product.
+This approach would enable head-to-head evaluation of edits in an internally controlled setting, accelerating the identification of promising candidate edits.
+Key considerations for Chemistry, Manufacturing, and Controls, non-clinical evaluation, and clinical protocols are discussed, with an emphasis on patient safety and ethical transparency.This framework is informed by insights shared at the "Unlocking Complex Cell-based Gene Therapies" workshop, held on May 6, 2024.
+Co-hosted by Friends of Cancer Research and the Parker Institute for Cancer Immunotherapy, the event brought together participants from academia, the US Food and Drug Administration, and patient advocacy groups.
+By fostering collaboration among these stakeholders, this innovative approach aims to accelerate the development of effective cell-based therapies for complex diseases.

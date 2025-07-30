@@ -1,0 +1,10 @@
+Obesity is a significant risk factor for cancer and is associated with breast cancer metastasis.
+Nevertheless, the mechanism by which alterations in systemic metabolism affect tumor microenvironment (TME) and consequently influence tumor metastasis remains inadequately understood.
+Herein, we found that perturbations in circulating metabolites induced by obesity promote metastasis-like phenotypes in breast cancer.
+Oleoylcarnitine (OLCarn) concentrations were elevated in the serum of obese mice and humans.
+Administration of exogenous OLCarn induces metastasis-like characteristics in breast cancer cells.
+Mechanistically, OLCarn directly interacts with the Arg176 site of adenylate cyclase 10 (ADCY10), leading to the activation of ADCY10 and enhancement of cAMP production.
+Mutations at Arg176 prevent OLCarn from binding to ADCY10, disrupting the ADCY10-mediated activation of cyclic adenosine monophosphate (cAMP) signaling pathway.
+This activation promotes transcription factor 4 (TCF4)-dependent kinesin family member C1 (KIFC1) transcription, thereby driving breast cancer metastasis.
+Conversely, the neutralization of both ADCY10 and KIFC1 through knockdown or pharmacological inhibition abrogates the oncogenic effects mediated by OLCarn.
+Hence, obesity-induced systemic environmental changes lead to the aberrant accumulation of OLCarn within the TME, making it a potential therapeutic target and biomarker for breast cancer.

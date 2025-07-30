@@ -1,0 +1,9 @@
+ExoN increases the fidelity of RNA synthesis by correcting nucleotide incorporation errors made by RdRp [14].
+GISAID database (https://www.gisaid.org/) filtered from December 2019 up to March 13th, 2020 was used to collect 220 SARS-CoV-2 complete genomes of different patients all around the world (i.e. China, USA, Canada, Australia, United Kingdom, Germany, France, Japan, Italy, Switzerland, Singapore, Luxembourg, Netherlands, Spain, Portugal, Sweden, Czech Republic, Thailand, India, Cambodia, Hong Kong, Finland, Singapore, and Ireland) taking into particular consideration those deposited during the development of European outbreaks.
+We divided our dataset into 4 geographic areas: Asia, Oceania, Europe, North America (Fig. 1).
+Moreover, we highlighted the presence of additional “conserved mutations” in all the geographic areas, taking into account only those occurring more than 10 times in our database.
+In our database, the first appearance of a silent RdRp mutation (nt 14804) is manifested on February 9th, 2020 in UK (England), while a different RdRp mutation (nt 14408, amino acid P to L) is observed for the first time in Italy (Lombardy) on February 20th, 2020, when a dramatic increase of the number of European infected patients was reported from the WHO website [27].
+Background  SARS-CoV-2 is a RNA coronavirus responsible for the pandemic of the Severe Acute Respiratory Syndrome (COVID-19).
+We analyzed 220 genomic sequences from the GISAID database derived from patients infected by SARS-CoV-2 worldwide from December 2019 to mid-March 2020.
+SARS-CoV-2 reference genome was obtained from the GenBank database.
+The datasets analysed during the current study are available in the GISAID (https://www.gisaid.org/) and GenBank (https://www.ncbi.nlm.nih.gov/nuccore/NC_045512) repositories.

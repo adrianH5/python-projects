@@ -1,0 +1,15 @@
+The most common subtype of primary liver cancer is hepatocellular carcinoma (HCC), which accounts for about 90 % of primary liver cancers.
+Tumor microenvironment (TME) plays important roles in HCC development.
+TME coexists and interacts with various immune cells.
+Macrophages are the main components of immune cells in TME.
+However, the specific mechanism of macrophages in HCC development is not fully understood.
+We conducted a preliminary study on the gene expression differences between HCC macrophages and paracancer macrophages by single-cell sequencing.
+Results demonstrated that FCGR2A was highly expressed in liver cancer tissues, and FCGR2A was mainly expressed in M2 macrophages in cancer tissues.
+The expression level of FCGR2A was correlated with extrahepatic metastasis, maximum tumor diameter, CNLC stage, satellite nodule, and differentiation degree.
+High FCGR2A expression predicts worse overall survival (OS) and progression-free survival (PFS) in HCC patients.
+In vivo experiments have verified that both FCGR2A mRNA and protein levels are markedly upregulated in M2 macrophages.
+Transfection of FCGR2A has been demonstrated to drive the polarization of M2 macrophages through augmenting IL-4 secretion.
+Further experiments showed that FCGR2A regulated and activated the IL-4/JAK/STAT6 pathway.
+Inhibition of JAK/STAT6 signaling pathway is capable of counteracting the promoting influence of FCGR2A-induced M2 macrophages on HCC cell proliferation.
+What's more,macrophages with high FCGR2A expression showed immunosuppressive influence on NK and T cells viabilities and killing activities on HCC tumor cells.
+Our findings reveal a crucial FCGR2A /IL-4/JAK/STAT6 axis for M2 polarization and provide a rationale for therapeutics of macrophages targeting HCC.

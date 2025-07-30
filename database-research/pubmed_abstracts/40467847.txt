@@ -1,0 +1,9 @@
+Enterovirus D68 (EV-D68), a member of the Picornaviridae family, causes respiratory illness and can lead to acute flaccid myelitis in children.
+No specific treatment or vaccine is available.
+Here, we determine cryo-EM structures of EV-D68 virus-like particles (VLPs), inactivated virus particles (InVPs), and altered virus particles (A-particles) from B3 and A2 subclades.
+The B3 VLP is a current vaccine candidate, which we show closely resembles its InVP counterpart, particularly at the 5-fold axis of symmetry, the target of potent neutralizing antibodies.
+Similar structural conservation was observed in the A2 subclade.
+Sequence variation between B3 and A2 mainly occurred in flexible loops displayed on the particle surface.
+A canyon-filling pocket factor was present in B3 InVP but absent in A2 InVP.
+A-particles were predominant in β-propiolactone-inactivated virus at longer but not shorter incubation.
+Overall, our findings highlight EV-D68 similarities and subclade-specific differences, offering structural insights that relate to vaccine development.

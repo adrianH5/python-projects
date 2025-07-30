@@ -1,0 +1,10 @@
+Thyroid cancer frequently metastasizes, even in small lesions, significantly impacting prognosis.
+Circular RNAs (circRNAs) have emerged as critical regulators of tumor biology; however, their roles in thyroid cancer progression remain poorly understood.
+Using RNA sequencing data from clinical and GEO-derived samples, we identified 111,971 circRNAs, including 13,399 novel thyroid cancer-specific circRNAs.
+TNM stage-specific analysis revealed 43 circRNAs positively correlated with tumor size (Rho = 1) and 168 negatively correlated (Rho = -1).
+Gene Ontology enrichment analysis demonstrated that the target genes of thyroid cancer-specific circRNAs are enriched in cell developmental regulation pathways (NES = 1.74, p < 0.05).
+Network analysis further suggested that these circRNAs function as competing endogenous RNAs by interacting with tumor-associated microRNAs.
+Among these, circAQR was significantly associated with tumor size and lymph node metastasis.
+In vitro experiments revealed that circAQR inhibits proliferation while promoting migration and invasion in thyroid cancer cell lines.
+These findings highlight the pivotal role of TNM stage-specific circRNAs in thyroid cancer progression, with circAQR showing potential as a biomarker for early metastasis detection and a therapeutic target.
+The integration of circRNAs into clinical practice could improve early diagnosis and prognostic evaluation, contributing to more effective management of thyroid cancer.

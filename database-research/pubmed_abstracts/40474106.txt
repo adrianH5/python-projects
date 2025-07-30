@@ -1,0 +1,5 @@
+Gastric cancer remains a leading cause of cancer-related mortality.
+While immune checkpoint inhibitors (ICIs) have emerged as promising therapies, their efficacy is hindered by the lack of robust patient-centric biomarkers.
+Obesity, traditionally linked to cancer risk, paradoxically correlates with improved immunotherapy responses in some cancers, termed the "obesity paradox".
+However, traditional measurements like body mass index (BMI) may not fully capture metabolic-immune interactions.
+This study evaluates the predictive significance of lipid accumulation product (LAP) and visceral adiposity index (VAI), two metabolic indices, in gastric cancer patients receiving programmed death receptor-1 (PD-1) inhibitors.

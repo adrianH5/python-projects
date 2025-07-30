@@ -1,0 +1,12 @@
+Next-generation sequencing technology enables uniform and impartial assessment of cancer diagnoses and prognosis.
+However, such studies are mostly type-specific, and capturing shared genomic abnormalities responsible for neoplastic transformation and progression is a challenging task.
+Pan-cancer analysis offers insights into the shared and unique molecular mechanisms driving cancer.
+We conducted an integrated gene-expression analysis using 10,629 samples from 30 distinct cancer types characterized by The Cancer Genome Atlas (TCGA).
+A gene co-expression network was constructed and genes overlapping between the selected modules and Differentially Expressed Genes (DEGs) were designated as genes of interest.
+Following a comprehensive literature review, ATP binding cassette subfamily A member 10 (ABCA10) and ATP binding cassette subfamily B member 5 (ABCB5) were selected as key candidates for downstream analysis due to the absence of systematic pan-cancer analysis of these genes.
+This study presents a unique contribution as the first comprehensive pan-cancer analysis of ABCA10 and ABCB5, highlighting their roles in tumor biology and clinical outcomes.
+We employed a variety of bioinformatics tools to explore the role of these genes across different tumors.
+Our research demonstrated that ABCA10 shows reduced expression, while ABCB5 displays variable expression patterns across tumors, indicating their opposing roles and flexible functions in pan-cancer.
+In many cancer patients, these expression patterns are correlated with worse survival outcomes.
+Furthermore, immunotherapy responses and immune infiltration across a variety of tumor types are associated with the expression levels of both ABCA10 and ABCB5.
+These results imply that ABCA10 and ABCB5 could serve as valuable predictive markers and potential therapeutic targets across various cancers.

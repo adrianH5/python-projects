@@ -1,0 +1,7 @@
+The growing availability of spatial transcriptomics data offers key resources for annotating query datasets using reference datasets.
+However, batch effects, unbalanced reference annotations, and tissue heterogeneity pose significant challenges to alignment analysis.
+Here, we present stGuide, an attention-based supervised graph learning model designed for cross-slice alignment and efficient label transfer from reference to query datasets.
+stGuide leverages supervised representations guided by reference annotations to map query slices into a shared embedding space using an attention-based mechanism.
+It then assigns spot-level labels by incorporating information from the nearest neighbors in the learned representation.
+Using human dorsolateral prefrontal cortex and breast cancer datasets, stGuide demonstrates its capabilities by (i) producing category-guided, low-dimensional features with well-mixed slices; (ii) transferring labels effectively across heterogeneous tissues; and (iii) uncovering relationships between clusters.
+Comparisons with state-of-the-art methods demonstrate that stGuide consistently outperforms existing approaches, positioning it as a robust and versatile tool for spatial transcriptomics analysis.

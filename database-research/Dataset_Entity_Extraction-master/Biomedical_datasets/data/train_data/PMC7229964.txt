@@ -1,0 +1,13 @@
+The current COVID-19 pandemic has so far affected approximately 2,350,000 people and killed more than 160,000 [1].
+In the GHU PARIS Psychiatrie & Neurosciences (Sainte-Anne hospital, Paris, France) we have observed a lower incidence of symptomatic forms of COVID-19 among patients (around 4% in the Pôle Hospitalo-Universitaire de Psychiatrie Paris 15) than among our healthcare staff (around 14% of nurses and doctors in these same wards).
+Similar observations have been reported by other COVID units in psychiatric wards in France, Spain and Italy.
+The SARS-CoV-2 coronavirus involved in the current COVID-19 epidemic belongs to the 2b coronavirus family [16] and has many phylogenetic similarities with SARS-CoV-1 [17].
+In cases of severe COVID-19, several elements suggest a dysregulation of the immune system, although the precise mechanisms have not yet been elucidated [18].
+Because of the respiratory tropism of SARS-CoV-2 [28], this marked pulmonary distribution could be of major interest for COVID-19 treatment.
+Finally, due to its lipophilic nature, CPZ can cross the blood-brain barrier [30] and could therefore have a therapeutic or prophylactic effect on the neurological forms of COVID-19 [31].
+Patients will be randomized in two groups, one receiving standard COVID-19 treatment (standard-of-care, SOC) and the other receiving SOC in combination with CPZ (CPZ + SOC).
+The reCoVery study design and its objectives are in line with WHO recommendations for conducting pilot studies in the therapeutic management of COVID-19 [42].
+The ongoing COVID-19 pandemic has caused approximately 2,350,000 infections worldwide and killed more than 160,000 individuals.
+In Sainte-Anne Hospital (GHU PARIS Psychiatrie & Neuroscience, Paris, France) we have observed a lower incidence of symptomatic forms of COVID-19 among patients than among our clinical staff.
+We hypothesize that CPZ could reduce the unfavorable course of COVID-19 infection among patients requiring respiratory support without the need for ICU care, and that it could also reduce the contagiousness of SARS-CoV-2.
+This repurposing strategy also avoids numerous developmental and experimental steps, and could save precious time to rapidly establish an anti-COVID-19 therapy with well-known, limited and easily managed side effects.

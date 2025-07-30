@@ -1,0 +1,5 @@
+Acoustofluidics, offering contact-free and precise manipulation of micro-objects, has emerged as a transformative tool for various biological and medical applications.
+In recent years, significant advancements have been made in droplet manipulation using acoustic waves.
+This review provides an in-depth exploration of acoustofluidic techniques for droplet manipulation, presenting a balanced perspective on the role of this versatile platform across diverse applications.
+The paper begins by introducing the underlying mechanism of acoustic forces acting on the droplets, followed by a comprehensive discussion of acoustofluidic techniques tailored for essential unit operations, such as droplet generation, separation, merging, splitting, steering, trapping, in-droplet sample manipulation, sample control within sessile droplets, and digital acoustofluidics.
+Finally, the prospects and limitations of acoustofluidics for droplet manipulations are also discussed, suggesting the future direction of droplet acoustofluidics research.

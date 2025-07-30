@@ -1,0 +1,5 @@
+DXd, a camptothecin derivative, is employed as the payload molecule for the antibody-drug conjugate (ADC) trastuzumab deruxtecan (T-DXd), which is in current clinical use for the treatment of breast and gastric cancer.
+Despite the clinical success of ADCs for treatment of cancer, exposure to released payload in plasma and extracellular fluids contributes to off-target toxicities, which limit ADC dosage and efficacy.
+In this study, we evaluated an anti-DXd antibody fragment, 8C2 Fab, for utility in mitigating DXd toxicity in cell culture and for improving the therapeutic index of T-DXd in vivo in mice.
+8C2 Fab was produced, purified, and characterized for binding to DXd and T-DXd.
+In vitro competitive cytotoxicity assays showed that 8C2 Fab blocked the cell-killing effect of DXd, increasing the DXd concentration associated with 50% growth inhibition (IC

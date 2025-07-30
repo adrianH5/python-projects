@@ -1,0 +1,6 @@
+Perioperative chemoimmunotherapy has significantly improved survival rates for non-small cell lung cancer (NSCLC).
+However, current tissue biomarkers remain inadequate, underscoring the need for more sensitive and accessible alternatives to monitor relapse risk.
+Intratumoral B-cells are increasingly recognized for their role in enhancing immunotherapy outcomes, yet the contribution of peripheral B-cells to immune surveillance remains unexplored.
+Peripheral B-cell immunophenotypes were analyzed from blood samples (at diagnosis, post-neoadjuvant, and at 6- and 12-months of adjuvant treatment) in 41 stage IIIA NSCLC patients treated with perioperative nivolumab plus chemotherapy, included in the NADIM clinical trial (NCT03081689).
+Results were correlated with 5-year survival outcomes and validated through unsupervised clustering.
+An increase in the percentage of total B-cells (CD19

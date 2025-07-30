@@ -1,0 +1,9 @@
+Advances in virtual staining and spatial omics have revolutionized our ability to explore cellular architecture and molecular composition with unprecedented detail.
+Virtual staining techniques, which rely on computational algorithms to map molecular or structural features, have emerged as powerful tools to visualize cellular components without the need for physical dyes, thereby preserving sample integrity.
+Similarly, spatial omics enable the mapping of biomolecules across tissue or cell surfaces, providing spatially resolved insights into biological processes.
+However, traditional dye-based staining methods, while widely used, come with significant limitations.
+In this context, Raman spectroscopy offers a robust, label-free alternative for probing molecular composition at a high resolution.
+We present a novel algorithm that reconstructs super-resolved Raman images by extracting spectral patterns from surrounding pixels, enabling detailed, label-free visualization of cellular structures.
+By employing Raman spectroscopy in conjunction with chemometric tools such as principal component analysis (PCA), multivariate curve resolution-alternating least squares (MCR-ALS), and artificial neural network (ANN), we performed a quantitative analysis of key biomolecular components, including collagen, lipids, glycogen, and nucleic acids, and classify the different cancer cell lines with an accuracy of nearly 99%.
+This approach not only enabled the identification of distinct molecular fingerprints across the different cancer types but also provided a powerful tool for understanding the biochemical variations that underlie tumor heterogeneity.
+This innovative combination of virtual staining, spatial omics, and advanced chemometrics highlights the potential for more accurate diagnostics and personalized treatment strategies in oncology.

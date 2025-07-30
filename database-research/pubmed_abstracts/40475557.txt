@@ -1,0 +1,7 @@
+Advances in immunotherapy have revolutionized the current standard of care for cancer patients, but unfortunately, most approaches still fail to mount a robust anti-cancer effect.
+This is in part due to a highly immunosuppressive tumor microenvironment which has developed bio-orthogonal mechanisms of immune escape.
+To address this challenge, the field has turned to combination immunotherapies, but systemic administration of potent combination therapies has resulted in severe immune related adverse effects and toxicity.
+Enabling potent combination immunotherapies requires administering these immune agonists in a way that more closely resembles the endogenous cancer immunity cycle, a tightly regulated sequence of cues in both space and time.
+Here, we explore the ability of an injectable hydrogel depot to enable the rational localization of potent immunotherapeutic cytokines (IL-12, IL-2) and antibodies (OX40a).
+We hypothesized that selectively altering the biodistribution of these cargo would enable tolerable and synergic anti-cancer combinations, so we leveraged a previously characterized injectable polymer-nanoparticle (PNP) hydrogel system to deliver these agonists either intratumorally (IT) or peritumorally (PT).
+Using

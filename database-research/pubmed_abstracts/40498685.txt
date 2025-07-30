@@ -1,0 +1,7 @@
+Recent advances in experimental methods have enabled researchers to collect data on thousands of analytes simultaneously.
+This has led to correlational studies that associated molecular measurements with diseases such as Alzheimer's, Liver, and Gastric Cancer.
+However, the use of thousands of biomarkers selected from the analytes is not practical for real-world medical diagnosis and is likely undesirable due to potentially formed spurious correlations.
+In this study, we evaluate 4 different methods for biomarker selection and 5 different machine learning (ML) classifiers for identifying correlations-evaluating 20 approaches in all.
+We found that contemporary methods outperform previously reported logistic regression in cases where 3 and 10 biomarkers are permitted.
+When specificity is fixed at 0.9, ML approaches produced a sensitivity of 0.240 (3 biomarkers) and 0.520 (10 biomarkers), while standard logistic regression provided a sensitivity of 0.000 (3 biomarkers) and 0.040 (10 biomarkers).
+We also noted that causal-based methods for biomarker selection proved to be the most performant when fewer biomarkers were permitted, while univariate feature selection was the most performant when a greater number of biomarkers were permitted.

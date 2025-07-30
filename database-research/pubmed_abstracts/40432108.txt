@@ -1,0 +1,10 @@
+Hepatocellular carcinoma (HCC) is a major cause of cancer-related mortality worldwide.
+Conventional therapies are frequently limited by tumor heterogeneity and the immunosuppressive tumor microenvironment (TME).
+Dendritic cells (DCs), central to orchestrating antitumor immunity, have become key targets for HCC immunotherapy.
+This review examines the biological functions of DC subsets (cDC1, cDC2, pDC, and moDC) and their roles in initiating and modulating immune responses against HCC.
+We detail the mechanisms underlying DC impairment within the TME, including suppression by regulatory T cells (Tregs), myeloid-derived suppressor cells (MDSCs), tumor-associated macrophages (TAMs), and cancer-associated fibroblasts (CAFs).
+Additionally, we discuss novel DC-based therapeutic strategies, such as DC-based vaccines designed to enhance antigen presentation and T cell activation.
+Combining DC vaccines with immune checkpoint inhibitors (ICIs), including PD-1/PD-L1 and CTLA-4 blockers, demonstrates synergistic effects that can overcome immune evasion and improve clinical outcomes.
+Despite progress, challenges related to DC subset heterogeneity, TME complexity, and patient variability require the further optimization and personalization of DC-based therapies.
+Future research should focus on refining these strategies, leveraging advanced technologies like genomic profiling and artificial intelligence, to maximize therapeutic efficacy and revolutionize HCC treatment.
+By restoring DC function and reprogramming the TME, DC-based immunotherapy holds immense potential to transform the management of HCC and improve patient survival.

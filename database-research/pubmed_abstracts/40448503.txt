@@ -1,0 +1,7 @@
+Correcting for confounding variables is often overlooked when computing RNA-RNA correlations, even though it can profoundly affect results.
+We introduce CorrAdjust, a method for identifying and correcting such hidden confounders.
+CorrAdjust selects a subset of principal components to residualize from expression data by maximizing the enrichment of "reference pairs" among highly correlated RNA-RNA pairs.
+Unlike traditional machine learning metrics, this novel enrichment-based metric is specifically designed to evaluate correlation data and provides valuable RNA-level interpretability.
+CorrAdjust outperforms current state-of-the-art methods when evaluated on 25 063 human RNA-seq datasets from The Cancer Genome Atlas, the Genotype-Tissue Expression project, and the Geuvadis collection.
+In particular, CorrAdjust excels at integrating small RNA and mRNA sequencing data, significantly enhancing the enrichment of experimentally validated miRNA targets among negatively correlated miRNA-mRNA pairs.
+CorrAdjust, with accompanying documentation and tutorials, is available at https://tju-cmc-org.github.io/CorrAdjust.

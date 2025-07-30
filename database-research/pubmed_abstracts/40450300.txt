@@ -1,0 +1,13 @@
+Glioblastoma (GBM) is the most common primary malignant brain tumor, characterized by its aggressive behavior, limited treatment options, and poor prognosis.
+Despite advances in surgery, radiotherapy, and chemotherapy, the median survival of GBM patients remains disappointingly short.
+Recent studies have underscored the critical role of histone modifications in GBM malignant progression and therapy resistance.
+Histones, protein components of chromatin, undergo various modifications, including acetylation and methylation.
+These modifications significantly affect gene expression, thereby promoting tumorigenesis and resistance to therapy.
+Targeting histone modifications has emerged as a promising therapeutic approach.
+Numerous pre-clinical studies have evaluated histone modification agents in GBM, including histone deacetylase inhibitors and histone methyltransferase inhibitors.
+These studies demonstrate that modulating histone modifications can alter gene expression patterns, inhibit tumor growth, induce apoptosis, and sensitize tumor cells to conventional treatments.
+Some agents have advanced to clinical trials, aiming to translate preclinical efficacy into clinical benefit.
+However, clinical outcomes remain suboptimal, as many agents fail to significantly improve GBM patient prognosis.
+These challenges are attributed to the complexity of histone modification networks and the adaptive responses of the tumor microenvironment.
+This review provides a comprehensive overview of epigenetic regulation mechanisms involving histone modifications in GBM, covering their roles in tumor development, tumor microenvironment remodeling, and therapeutic resistance.
+Additionally, the review discusses current clinical trials targeting histone modifications in GBM, highlighting successes, limitations, and future perspectives.

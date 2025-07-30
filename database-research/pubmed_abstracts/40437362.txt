@@ -1,0 +1,4 @@
+Paclitaxel (Taxol) is an invaluable secondary metabolite extracted from Taxus species, wildly utilized in cancer therapeutics.
+Salicylic acid (SA), an important phytohormone, substantially elevates paclitaxel accumulation in Taxus cell suspension cultures.
+However, the molecular mechanisms governing SA-induced modulation of paclitaxel biosynthesis remain poorly elucidated.
+Our previous studies identified TcMYB73, an SA-responsive R2R3-MYB transcription factor (TF), which demonstrates a robust positive correlation with paclitaxel biosynthesis, implying its orchestrating role in this metabolic pathway.

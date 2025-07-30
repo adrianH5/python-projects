@@ -1,0 +1,7 @@
+Protein tyrosine phosphatase 1B (PTP1B) is a key regulator of glucose homeostasis and signaling pathways, making it an attractive therapeutic target for type 2 diabetes, obesity, and cancer.
+However, conventional phosphomimetic inhibitors suffer from poor bioavailability and selectivity due to the flat, positively charged, and solvent-exposed nature of the PTP1B active site.
+To address these limitations, we employed a structure-based molecular modeling approach-combining high-throughput virtual screening, molecular dynamics, UMAP analysis, and JS divergence-to investigate novel non-phosphomimetic bidentate inhibitors.
+Among the identified candidates, COM68 and COM63 exhibited stable binding modes with favorable binding free energy.
+However, UMAP-based structural quantification revealed that COM63 displayed higher residue fluctuations at key binding sites, particularly R24 and F182.
+Subsequent in vitro assays confirmed that COM63 was inactive at the tested concentrations, suggesting that these excess fluctuations hindered effective PTP1B inhibition.
+In contrast, COM68 demonstrated an IC

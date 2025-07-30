@@ -1,0 +1,5 @@
+Although immune checkpoint blockade therapy has generated dramatic responses in certain cancer types, breast tumors are largely unresponsive.
+Epithelial-mesenchymal plasticity leads to the assembly of an immunosuppressive tumor microenvironment and drives resistance of breast tumors to immunotherapies.
+Importantly, targeting CD73 completely sensitizes quasi-mesenchymal breast tumors to anti-CTLA4 immune checkpoint blockade therapy.
+However, the mechanism(s) of sensitization remained unknown.
+We demonstrate that targeting CD73 in quasi-mesenchymal breast tumors sensitizes them to anti-CTLA4 immune checkpoint blockade therapy in a CD4

@@ -1,0 +1,9 @@
+Reproductive complications tend to recur.
+The risk of gestational diabetes is much higher in the second pregnancy if it occurred in the first.
+Such recurrence risks are regarded as reflecting heterogeneity among couples in their inherent risk.
+Pregnancy complications not only predict their own recurrence but have been shown to be associated with different later health problems like hypertension and heart disease.
+Epidemiologically considering reproductive history as a risk factor has been challenging, however, because women vary in their number of pregnancies and there's no obvious way to account for both prior occurrences and prior non-occurrences.
+We propose a simple empirical Bayes approach, the Beta Approach for Risk Summarization (BARS).
+We apply BARS to retrospective data reported at enrollment in a large cohort, the Sister Study, to estimate propensity to gestational diabetes, and use that to predict subsequent occurrences of gestational diabetes based on successively updated pregnancy histories.
+We assess the calibration of our predictive model for gestational diabetes and demonstrate that it works well.
+We then apply the method to prospective data from the Sister Study, revisiting an earlier paper that linked gestational diabetes to risk of breast cancer, but now using BARS and additional person time.

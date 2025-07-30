@@ -1,0 +1,7 @@
+Fusion proteins resulting from aberrant genetic rearrangements are ubiquitous and of great significance during oncogenesis and cancer development.
+Many oncogenic fusion proteins, which integrate fusion partners originally involved in gene regulation, and cause abnormal activation or repression of cancer-driving genes, such as oncogenes and tumor suppressor genes.
+Recent research suggests that oncogenic fusions undergo phase separation and drive cancerous transcription.
+The aberrant transcriptional regulation represents a common feature of cancer driving fusions, potentially contributing to their oncogenic effects.
+Here we examined the aberrant transcriptional regulation of oncogenic fusions by examining the abnormal activation/repression of their target genes.
+We further reviewed their cancer type distribution, domain combinations, and functional classes.
+The landscape of aberrant transcriptional regulation in oncogenic fusions would provide insights for future research in fusion oncogenesis mechanism and developing targeting therapeutics.

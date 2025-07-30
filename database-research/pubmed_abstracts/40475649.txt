@@ -1,0 +1,11 @@
+Maintaining genome integrity is crucial for the proper functioning and development of organisms.
+One intriguing aspect of genome integrity is the formation and function of neocentromeres at non-centromeric sites.
+CENP-A, a centromere-specific protein, is essential for centromere identification and function.
+However, in many cancers, CENP-A is often found to be ectopically misplaced when overexpressed.
+Moreover, CENP-A deposition at the centromere depends on the transcription of centromeric non-coding RNAs.
+Consequently, ectopic CENP-A is found at transcriptionally active and frequent breakpoint regions.
+To further explore ectopic CENP-A localization, we previously engineered a stable ectopic CENP-A site on a naïve chromosome by overexpressing a non-centromeric oncogenic lncRNA, PCAT2, which was capable of recruiting CENP-A to its transcription site.
+In this work, we tracked cells carrying this stable transgene to understand the longevity of the induced ectopic CENP-A site at the chromosome that harbors it.
+Our findings revealed that the induced epigenetic memory was eventually lost due to the suppression of the transgene through competing epigenetic silencing mechanisms.
+This epigenetic restoration naturally reversed the ectopic CENP-A level to its previous levels at the engineered site.
+These data suggest that cells may have evolved failsafe mechanisms to prevent neocentromere formation at ectopic sites by suppressing transcription, unless otherwise favored by selection involving multiple components.

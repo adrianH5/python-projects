@@ -1,0 +1,5 @@
+The RAS/ERK signaling pathway is a critical regulator of cellular processes such as proliferation, differentiation, and survival, core mechanisms that drive development.
+Dysregulation of RAS/ERK signaling is implicated in developmental disorders, including RASopathies, as well as in various cancers.
+Polo-like kinase 1 (PLK1) is a crucial orchestrator of both meiotic and mitotic cell cycle and plays an equally important role in development.
+Notably, abnormal ERK signaling can produce phenotypes that closely resemble those caused by PLK1 deficiency, suggesting a functional intersection between these pathways.
+In this review, we explore the emerging links between RAS/ERK and PLK1 signaling during development and highlight the broad range of biological processes potentially governed by their interaction.

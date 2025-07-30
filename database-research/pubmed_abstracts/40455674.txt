@@ -1,0 +1,12 @@
+In this protocol, we optimized a two-step digestion method to isolate high-purity and high-viability primary cholangiocytes from wild-type mice and mice with polycystic liver disease (PLD).
+After anesthetizing the mice, the livers were perfused through the inferior vena cava with 50 mL of Solution A, followed by 30 mL of Solution B at 37 °C to enzymatically digest the liver tissue.
+Mechanical dissociation, shaking, and microdissection were performed to remove adherent parenchymal cells, leaving an intact biliary tree.
+The biliary tree was then finely minced and digested with shaking for 60 min at 37 °C.
+The resulting single-cell suspension was collected using a 70 µm cell strainer.
+Cholangiocytes were purified using immunomagnetic isolation.
+The cell suspension was incubated with an anti-EpCAM antibody under rotation for 45 min at 4 °C, followed by the addition of Protein G beads and further rotation for another 45 min at 4 °C.
+After three washes with PBS, the cholangiocytes were collected using a magnetic separator.
+The purified primary cholangiocytes were resuspended in Cholangiocyte Culture Medium and seeded onto cell culture dishes coated with 1 mg/mL type I rat tail collagen.
+The purity of the cholangiocytes was confirmed by immunostaining for the cholangiocyte-specific marker cytokeratin-19 (CK19).
+Although this study focused on isolating primary cholangiocytes from wild-type and PLD mice, we are confident that the protocol can be applied to other disease mouse models as well.
+This detailed two-step digestion method facilitates in vitro studies of cholangiopathies and the development of targeted therapies.

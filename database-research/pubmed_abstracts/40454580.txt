@@ -1,0 +1,7 @@
+Triple-negative breast cancer (TNBC), an aggressive malignancy with limited tools to predict recurrence and drug sensitivity, exhibits ferroptotic heterogeneity across subtypes.
+However, the tumor microenvironment (TME) mediated by ferroptosis-related genes remains poorly characterized.
+This study integrates single-cell and bulk RNA sequencing data from the Gene Expression Omnibus to elucidate ferroptosis-driven TME features in TNBC, employing machine learning to develop prognostic and therapeutic response prediction models.
+At the single-cell level, T cells were classified into three subpopulations and macrophages into two subpopulations, with their infiltration degrees significantly correlated with clinical outcomes.
+A risk score model constructed based on these findings demonstrated robust predictive performance, validated in external cohorts with 3-, 4-, and 5-year area under the receiver operating characteristic curves of 0.65, 0.67, and 0.71, respectively.
+Notably, high-risk patients exhibited enhanced sensitivity to 27 therapeutic agents.
+By delineating ferroptosis-associated immune heterogeneity, this work provides a risk stratification tool to enhance prognostic precision and therapeutic decision-making in TNBC, while identifying genes offer actionable targets for TNBC precision medicine.

@@ -1,0 +1,13 @@
+While Prognostic Nutritional Index (PNI) is an established predictor of outcomes in Asian gastric cancer (GC) patients, data among Western populations are limited.
+This study assessed the predictive value of PNI in European GC patients undergoing multimodal treatment.
+Data from GASTRODATA, the largest European repository of GC patients undergoing gastrectomy, were collected between 2017 and 2022.
+The primary outcome was textbook outcome (TO) achievement, and the secondary was 90-day mortality.
+PNI was calculated one day before surgery, with a cut-off of 45.5 based on ROC analysis.
+Among 721 patients included 60.7% were men.
+Most patients had advanced tumors (cT3-4 = 75.2%) and metastatic lymph nodes (57.7%).
+Neoadjuvant chemotherapy (NAC) was administered to 46.7% of patients, and 32.9% received adjuvant chemotherapy.
+Median PNI was 49.5 (IQR 45.0-56.4).
+Low PNI was present among 30% of patients and was associated with decreased odds of TO achievement (OR = 0.57, 95% CI 0.37-0.89), higher 90-day mortality (OR = 4.99, 95% CI 2.32-10.73).
+NAC administration was associated with lower morbidity risk (OR = 0.56, p = 0.0408), and low PNI was a predictor of receiving AC (p = 0.0005).
+PNI was a valuable predictor for oncological outcomes and morbidity among European GC patients undergoing multimodal.
+While low PNI was associated with decreased odds of TO achievement and increased risk of 90-day mortality, further prospective and nutritional intervention studies are warranted to standardize the PNI threshold and improve its clinical applicability.

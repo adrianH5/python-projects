@@ -1,0 +1,10 @@
+Skin cancer, one of the most prevalent and lethal cancer types, poses significant challenges for early diagnosis due to the diversity in lesion size, shape, color, and surface reflections.
+The Internet of Things (IoT) has revolutionized healthcare by enabling real-time data exchange and supporting advancements in automated diagnosis through deep learning (DL) techniques such as convolutional neural networks (CNNs).
+However, CNNs often require large, labeled datasets, which are costly and time-consuming to compile.
+To address these challenges, we propose an innovative active learning (AL) framework driven by deep reinforcement learning (DRL) and a novel scope loss function.
+This framework optimizes classification while reducing reliance on extensive labeled data.
+Unlike traditional active learning techniques that rely on static selection methods, our model dynamically incorporates deep reinforcement learning (DRL) for strategic sample selection during training.
+The scope loss function balances the exploitation of labeled data with the exploration of new, unlabeled data, enabling efficient training.
+Additionally, an enhanced artificial bee colony (ABC) algorithm with a mutual learning strategy optimizes hyperparameter tuning, boosting model performance.
+Evaluated on the International Skin Imaging Collaboration (ISIC) and human against machines 10000 images (HAM10000) datasets, the proposed framework achieved high accuracy, with F-measures of 92.791% and 91.984%, respectively.
+This novel approach demonstrates significant potential to advance early skin cancer detection, offering a reliable and efficient tool for healthcare professionals.

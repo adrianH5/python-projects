@@ -1,0 +1,7 @@
+The m7G methyltransferase METTL1 has been implicated in the occurrence and progression of several cancers.
+However, its clinical significance in cutaneous melanoma (SKCM) remains poorly understood.
+To address this gap, we conducted comprehensive data mining using publicly available datasets and two single-cell datasets.
+Additionally, we employed CCK8 assays, clone formation assays, and cell migration and invasion experiments to validate our findings from the data mining.
+Our results revealed that METTL1 is significantly upregulated in SKCM and is associated with a stem cell-like phenotype.
+Patients with high METTL1 expression exhibited worse prognosis.
+Furthermore, we identified that the high expression of METTL1 in SKCM is driven by copy number amplification and regulated by the transcription factor MYC.

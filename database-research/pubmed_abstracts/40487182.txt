@@ -1,0 +1,4 @@
+Immunotherapy has significantly advanced cancer treatment, but the tumor immune microenvironment (TIME) often remains immunosuppressive, limiting therapeutic efficacy.
+Tumor-associated macrophages (TAMs), particularly M2-like macrophages, play a crucial role in promoting tumor growth and immune evasion.
+Our study introduces a novel approach using dual-targeted ZrMOF/C@P nanoparticles, smartly engineered with cell membrane coating and enzyme responsiveness, to effectively modulate TAMs.
+These nanoparticles are synthesized and loaded with 2', 3'-cGAMP, a STING agonist, and encapsulated in a peptide-expressed macrophage membrane (PMM) featuring Pep20, MMP2, and M2pep.

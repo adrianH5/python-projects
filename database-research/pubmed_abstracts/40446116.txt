@@ -1,0 +1,7 @@
+Vachellia farnesiana is a medicinal plant rich in bioactive compounds, long used in traditional medicine.
+Its therapeutic potential includes addressing cancer, diabetes, and antibiotic-resistant infections, making it a promising candidate for drug discovery.
+This study focused on isolating active compounds from the n-hexane and dichloromethane (DCM) fractions of the plant's ethanolic extract employing size exclusion chromatography and nuclear magnetic resonance (NMR) spectroscopy.
+It also aimed to assess their potential antimicrobial, antidiabetic, and cytotoxic activities while validating traditional uses through experimental and computational approaches.
+The biological activities of these compounds were tested through cytotoxicity and antimicrobial assays, glucose-lowering experiments in mice, and molecular docking to simulate interactions with disease-related proteins.
+Five compounds were isolated, including β-amyrin, 7β-hydroxysitosterol, oleanolic acid, lauric acid, and viscic acid.
+Notable findings include high cytotoxicity (LC

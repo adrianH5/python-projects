@@ -1,0 +1,7 @@
+Recent studies implicate mitochondria playing a key role in the cellular response to copper depletion therapy; however, evidence has been indirect and downstream, and the initial target of chelation remains to be defined.
+Here, we show, using super-resolution voltage and structure imaging microscopy, that copper chelation directly affects mitochondria morphology (causing fragmentation of the filamentous network) and ultrastructure (causing internal cristae remodeling).
+When triple-negative breast cancer cells are treated with a mitochondria-targeting copper chelator, mitochondria undergo an irreversible change in morphology from tubular to spherical.
+This process can be prevented by the addition of exogenous copper during the treatment.
+We find that a tailor-designed chelating agent with positive charges to target mitochondrial electrostatics localizes inside the mitochondrial cristae in a voltage-dependent manner.
+On pharmacological induction of membrane potential collapse, the chelator is dispersed while the mitochondrial cristae structure is preserved.
+These results indicate that voltage-dependent localization/targeting of the copper chelator in mitochondrial cristae plays a key role in its cytotoxicity.

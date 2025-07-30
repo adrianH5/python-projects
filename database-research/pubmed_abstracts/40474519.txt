@@ -1,0 +1,11 @@
+Synonymous mutations do not change amino acid sequences, but they can drive cancer by influencing splicing, mRNA structure, translation efficiency, and other molecular mechanisms.
+Although driver synonymous mutations are significantly outnumbered by functionally neutral passenger mutations in cancer, their accurate discrimination is critical to understanding tumorigenesis.
+In this study, we developed multiperspective feature-based predictor for driver synonymous mutation in cancer (MFDSMC), a computational framework designed to improve the prediction of human cancer-driver synonymous mutations.
+First, we curated synonymous mutations from public cancer mutation databases to construct our data sets.
+For each mutation, we systematically characterized features across four biologically informed perspectives: sequence context, evolutionary conservation, epigenetic modifications, and regulatory/functional predictions.
+The optimal feature subset was identified through a feature importance ranking and sequential forward selection.
+After multiple machine learning classifiers were evaluated, XGBoost was selected to build the prediction model.
+Results revealed that the multiperspective fusion model outperformed models relying on single-perspective features or lacking any individual feature category.
+Notably, newly introduced epigenetic features derived from experimental sequencing data, combined with regulatory/functional prediction features, collectively enhanced the model's performance.
+When tested on two independent test sets and a curated data set of experimentally confirmed driver synonymous mutations, MFDSMC exhibited superior performance compared to existing state-of-the-art methods, providing a novel solution for precise prediction of cancer-driver synonymous mutations in genomic research and clinical applications.
+MFDSMC is available at https://github.com/xialab-ahu/MFDSMC.

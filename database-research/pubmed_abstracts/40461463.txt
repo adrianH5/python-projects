@@ -1,0 +1,14 @@
+Neutrophil extracellular traps (NETs) and immunity play critical roles in liver hepatocellular carcinoma (LIHC) progression, but their mechanisms remain unclear.
+This study explored the potential of NETs-related genes (NETs-RGs) and immune-related genes (IRGs) as prognostic markers for LIHC.
+LIHC transcriptome data and IRGs were obtained from public databases, and NETs-RGs were derived from prior research.
+Differentially expressed genes (DEGs) intersecting with key module genes were identified, followed by Cox regression analysis and machine learning to determine prognostic genes.
+A risk prediction model and nomogram were constructed and validated.
+Enrichment analysis, immune infiltration, and drug sensitivity studies were conducted to explore underlying mechanisms.
+Reverse transcription quantitative PCR (RT-qPCR) was used to validate findings.
+Five prognostic genes-HMOX1, MMP9, TNFRSF4, MMP12, and FLT3-were identified.
+A risk model and nomogram demonstrated strong predictive ability.
+Gene set enrichment analysis revealed pathways related to retinol metabolism and cytochrome P450 drug metabolism in different risk groups.
+Immune infiltration analysis showed regulatory T cells positively correlated with MDSCs, which were directly associated with the five genes.
+Drug sensitivity analysis identified 74 drugs with differential sensitivity between risk groups; axitinib showed lower sensitivity in high-risk patients, while ABT-888 showed higher sensitivity.
+RT-qPCR confirmed reduced HMOX1 and FLT3 expression in LIHC tissues, while MMP9 and TNFRSF4 were upregulated.
+This study developed a robust predictive model for LIHC prognosis, offering valuable insights for clinical management and personalized treatment strategies.

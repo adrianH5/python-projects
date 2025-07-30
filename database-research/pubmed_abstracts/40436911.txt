@@ -1,0 +1,13 @@
+Human Immunodeficiency Virus (HIV) is a retrovirus that weakens the immune system, increasing vulnerability to infections and cancers.
+HIV spreads primarily via sharing needles, from mother to child during childbirth or breastfeeding, or unprotected sexual intercourse.
+Therefore, early diagnosis and treatment are crucial to prevent the disease progression of HIV to AIDS, which is associated with higher mortality.
+This study introduces a machine learning-based framework for the classification of HIV infections crucial for preventing the disease's progression and transmission risk to improve long-term health outcomes.
+Firstly, the challenges posed by an imbalanced dataset is addressed, using the Synthetic Minority Over-sampling Technique (SMOTE) oversampling technique, which was chosen over two alternative methods based on its superior performance.
+Additionally, we enhance dataset quality by removing outliers using the interquartile range (IQR) method.
+A comprehensive two-step feature selection process is employed, resulting in a reduction from 22 original features to 12 critical variables.
+We evaluate five machine learning models, identifying the Random Forest Classifier (RFC) and Decision Tree Classifier (DTC) as the most effective, as they demonstrate higher classification performance compared to the other models.
+By integrating these models into a voting classifier, we achieve an overall accuracy of 89%, a precision of 90.84%, a recall of 87.63%, and a F1-score of 98.21%.
+The model undergoes validation on multiple external datasets with varying instance counts, reinforcing its robustness.
+Furthermore, an analysis focusing solely on CD4 and CD8 cell counts which are essential lab test data for HIV monitoring, demonstrates an accuracy of 87%, emphasizing the significance of these clinical features for the classification task.
+Moreover, these outcomes underscore the potential of combining machine learning techniques with critical clinical data to enhance the accuracy of HIV infection classification, ultimately contributing to improved patient management and treatment strategies.
+These findings also highlight the scalability of the approach, showing that it can be efficiently adapted for large-scale use across various healthcare environments, including those with limited resources, making it suitable for widespread deployment in both high- and low-resource settings.

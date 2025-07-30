@@ -1,0 +1,12 @@
+Gastric cancer (GC) is defined as the primary epithelial malignancy derived from the stomach.
+This study aims to investigate the predictive and prognostic values of mitotic spindle positioning (MISP) expression in patients with GC, providing new strategies for GC diagnosis and prognosis.
+MISP expression in GC tissues and adjacent tissues from 120 GC patients was detected.
+The correlation between pathological characteristics and MISP expression was analyzed.
+Pathological conditions of patients after 5 years of postoperative treatment were recorded.
+The correlation between MISP expression and postoperative outcomes of GC patients was analyzed using the Kaplan-Meier method.
+Cox proportional hazards model was used to analyze independent risk factors affecting the 5-year survival rate of GC patients.
+MISP expression in GC tissues was higher than in adjacent tissues.
+MISP expression was correlated with differentiation degree, invasion, lymph node metastasis, and Lauren classification.
+Patients in the high MISP expression group tended to have poorer postoperative outcomes.
+High MISP expression was an independent risk factor for the 5-year survival rate of GC patients.
+In conclusion, high expression of MISP in GC patients indicates a higher possibility of adverse prognosis and is an independent risk factor affecting the post-operative survival rate of GC patients.

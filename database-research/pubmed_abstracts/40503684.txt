@@ -1,0 +1,6 @@
+Transposable elements (TEs) are genetic parasites that can potentially threaten the stability of the genomes they colonize.
+Nonetheless, TEs persist within genomes and are rarely fully eliminated, with diverse TE families coexisting in varing copy numbers.
+The TE replication strategies that enable host organisms to tolerate and accommodate the extensive diversity of TEs, while minimizing harm to the host and avoiding mutual competition among TEs, remain poorly understood.
+Here, by studying the spontaneous or experimental mobilization of four Drosophila LTR RetroTransposable Elements (LTR-RTEs), we reveal that each of them preferentially targets open chromatin regions characterized by specific epigenetic features.
+Among these, gtwin and ZAM are expressed in distinct cell types within female somatic gonadal tissues and inserted into the distinct accessible chromatin landscapes of the corresponding stages of embryogenesis.
+These findings suggest that individual LTR-RTEs exploit unique biological niches, enabling their coexistence within the tightly regulated ecosystem of the same host genome.

@@ -1,0 +1,15 @@
+The intestinal mucosa undergoes a dynamic process of continual proliferation, differentiation, and apoptosis.
+Delineating the mechanisms involved in intestinal epithelial cell (IEC) differentiation is crucial to our understanding of not only normal gut adaptation but also aberrant intestinal growth.
+Bone morphogenetic protein (BMP) signaling is a pivotal regulator of intestinal proliferation and differentiation.
+However, the molecular underpinnings of the BMP pathway in this context are not entirely known.
+Here, we show a key role for the BMP4/microRNA (miR)-181/glycolysis signaling pathway in the maintenance of intestinal epithelial cell proliferation and differentiation.
+Treatment with BMP4 increased the expression of enterocyte markers and decreased proliferation of IECs, and importantly, decreased the expression of miR-181a-5p in mouse and human intestinal organoids.
+miR-181a-5p is a member of the miR-181 family with the highest expression in IECs.
+Treatment with locked nucleic acid (LNA) miR-181a-5p inhibitor significantly increased enterocyte differentiation as noted by increased expression of enterocyte markers in human and mouse intestinal organoids.
+In addition, LNA miR-181a-5p inhibitor repressed intestinal stem cell self-renewal as noted by the decreased organoid forming efficiency and expression of Ki67, cyclin D1, OLFM4 in human and mouse intestinal organoids.
+Moreover, in vivo administration of LNA miR-181a-5p inhibitor enhanced increased intestinal enterocyte differentiation and repressed intestinal cell proliferation.
+In contrast, overexpression of miR-181a-5p mimic decreased basal and BMP4-induced expression of enterocyte markers.
+Moreover, BMP4 treatment or inhibition of miR-181a-5p repressed hexokinase (HK) 1 expression and inhibited glycolysis.
+Consistently, knockdown of HK1 or inhibition of glycolysis using 2-deoxyglucose (2-DG) promoted enterocyte maturation and inhibited proliferation of IECs.
+Together, we provide evidence showing that miR-181a-5p inhibits intestinal enterocyte differentiation and promotes IEC proliferation through HK1-dependent glycolysis.
+Importantly, our findings identify miR-181a-5p as downstream in mediating BMP4 induction of enterocyte differentiation and inhibition of proliferation in IECs.

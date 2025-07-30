@@ -1,0 +1,8 @@
+Resistance to tyrosine kinase inhibitors (TKIs) dampens their clinical efficacy in hepatocellular carcinoma (HCC).
+Stress granules formed by phase separation are essential to stress response and can be involved in therapy resistance, but their mechanisms in HCC are unclear.
+Here our screen shows that the atypical serine/threonine kinase RIOK1 is highly expressed in HCC, linked to poor prognosis, and transcriptionally activated by NRF2 under various stress conditions.
+RIOK1 undergoes liquid-liquid phase separation by incorporating IGF2BP1 and G3BP1 into stress granules that sequestrate PTEN messenger RNA reducing its translation.
+This process activates the pentose phosphate pathway, facilitating stress resolution and cytoprotection against TKI.
+We further show that the small-molecule inhibitor chidamide downregulates RIOK1 and enhances TKI efficacy.
+RIOK1-positive stress granules are found in donafenib-resistant tumors from patients with HCC.
+These findings reveal a link between stress granule dynamics, metabolic reprogramming and HCC progression, offering the potential means to improve TKI efficacy.

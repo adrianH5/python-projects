@@ -1,0 +1,7 @@
+The efficacy of nucleic acid-based vaccines against SARS-CoV-2 varies across individuals, partly due to genetic factors influencing neutralizing antibody production.
+In patients with systemic autoimmune diseases (SADs), this response may be further altered by immune dysregulation.
+We conducted a genome-wide association study (GWAS) to identify genetic variants associated with post-vaccination anti-SARS-CoV-2 IgG antibody levels and to assess whether these associations differ between SAD patients and healthy individuals.
+The study included 165 participants (138 with SADs, 27 healthy controls), all of whom received nucleic-acid based vaccines.
+Antibody levels targeting the spike protein receptor-binding domain (RBD) and nucleocapsid were measured between one and twelve months after vaccination.
+GWAS results were meta-analyzed with data from a previously published GWAS of 1,076 healthy individuals.
+We identified a novel association near

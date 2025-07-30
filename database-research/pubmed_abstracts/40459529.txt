@@ -1,0 +1,11 @@
+Cytotoxic T-lymphocytes (CTLs) screen cells for signs of infection and transformation by recognizing peptides displayed on major histocompatibility complex (MHC) class I molecules.
+Next to canonical ATG-initiated open reading frames (ORFs), non-canonical translation can result in synthesis of non-conventional or `cryptic´ polypeptides.
+These can originate from translation initiation at non-canonical start codons, a process previously associated with inflammation and oncogenic transformation.
+Cryptic translation products are efficiently presented on MHC class I molecules and therefore increasingly recognized as potential targets for cancer immunotherapy.
+Here, we studied how localization of a CTG-initiated ORF relative to a canonical ATG start codon can influence cryptic expression after innate immune stimulation.
+We generated immortalized C57BL/6J mouse-derived bone marrow progenitor cells (HoxB8) expressing tandem minigene constructs, which encoded a CTG-driven chicken ovalbumin-derived SIINFEKL (S8L) epitope (CTG-S8L; H-2Kb-restriced) either up or downstream of a canonical ATG-initiated UTY-derived peptide WI9 (ATG-WI9; H-2Db-restriced).
+Treatment of HoxB8-derived macrophages with Toll-like receptor agonists enhanced position-independent CTG-S8L translation, without affecting ATG-driven expression.
+Downstream CTG-S8L translation was driven by leaky scanning or ribosome re-initiation rather than read-through translation.
+Mouse AE17 mesothelioma and B16F10 melanoma cells expressing cryptic S8L either up or downstream of a canonical ORF were efficiently killed by H-2Kb/S8L-restriced OT-I T-cells in vitro, even though their antigen expression levels were extremely low.
+Mice implanted with tumors expressing cryptic S8L showed delayed tumor progression in vivo.
+In summary, our study contributes to the characterization of non-canonical start codon-driven cryptic antigen translation and highlights its potential for cancer immunotherapy.

@@ -1,0 +1,13 @@
+Breast cancer is a serious public health problem and is one of the leading causes of cancer-related deaths in women worldwide.
+Early detection of the disease can significantly increase the chances of survival.
+However, manual analysis of mammogram mastery images is complex and time-consuming, which can lead to disagreements among experts.
+For this reason, automated diagnostic systems can play a significant role in increasing the accuracy and efficiency of diagnosis.
+In this study, we present an effective deep learning (DL) method, which classifies mammogram mastery images into cancer and noncancer categories using a collected dataset.
+Our model is pretrained based on the Inception V3 architecture.
+First, we run 5-fold cross-validation tests on the fully trained and fine-tuned Inception V3 model.
+Next, we apply a combined method based on likelihood and mean, where the fine-tuned Inception V3 model demonstrated superior performance in classification.
+Our DL model achieved 99% accuracy and 99% F1 score.
+In addition, interpretable AI techniques were used to enhance the transparency of the classification process.
+The finely tuned Inception V3 model demonstrated the highest performance in classification, confirming its effectiveness in automatic breast cancer detection.
+The experimental results clearly indicate that our proposed DL-based method for breast cancer image classification is highly effective, especially its application in image-based diagnostic methods.
+This study brings to the fore the huge potential of AI-based solutions, which can play a significant role in increasing the accuracy and reliability of breast cancer diagnosis.

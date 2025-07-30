@@ -1,0 +1,3 @@
+In recent decades, targeted therapy using small molecule inhibitors (SMI) have been shown very promising results in the treatment of a variety of solid and hematopoietic malignancies.
+However, their exact mechanisms, especiallay on the evasion strategies of tumor cells from the host immune system are not fully understood.
+The current study investigates the effects of two SMIs, ibrutinib and venetoclax, on the expression of inhibitory immune checkpoint molecules in patients with acute lymphoblastic leukemia (ALL).

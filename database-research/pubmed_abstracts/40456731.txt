@@ -1,0 +1,11 @@
+The accurate determination of DNA loading on spherical nucleic acids (SNAs) is critical for biosensing and therapeutic applications, as DNA loading directly affects target binding, cellular uptake, and therapeutic efficacy.
+Traditional methods involve centrifugation to separate unbound DNA from SNAs, followed by DNA quantification to calculate the number of strands per particle.
+However, this approach is ineffective for centrifugation-resistant SNAs.
+Alternative methods, such as centrifugal filtration, require multiple washing steps, often resulting in sample loss, and can be labor- and time-intensive, taking several hours.
+Additionally, many existing techniques rely on expensive labels or toxic reagents.
+Here, we present a simple, rapid, and label-free method for determining DNA loading using diethylaminoethyl (DEAE)-functionalized beads.
+We demonstrate its effectiveness on centrifugation-resistant SNAs, including those with metallic or protein-based cores and various DNA lengths, sequences, and densities.
+This approach exploits the different binding strengths of free and nanoparticle-bound DNA to DEAE, allowing the selective elution of free DNA by adjusting the ionic strength.
+The eluted DNA is quantified to determine the unbound fraction, which is then used to calculate the number of bound DNA strands per nanoparticle.
+Requiring only standard laboratory equipment─such as a benchtop centrifuge, a shaker, and either a UV-vis spectrophotometer or a commonly available plate reader─this method provides a fast and reliable alternative to conventional approaches, delivering results in under 15 min.
+Its versatility and broad applicability across diverse SNA core materials and sizes make it a valuable tool for DNA quantification in a wide range of nanoparticle-based platforms.

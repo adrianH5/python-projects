@@ -1,0 +1,5 @@
+Sonodynamic therapy (SDT) can potentially induce immunogenic cell death in tumor cells, leading to the release of ATP, and facilitating the initiation of an immune response.
+Nevertheless, the enzymes CD39 and CD73 can swiftly convert ATP into immunosuppressive adenosine (ADO), resulting in an immunosuppressive tumor microenvironment (TME).
+This study introduced a nanomedicine (QD/POM1@NP@M) engineered to reprogram TME by modulating the CD39/CD73/ADO pathway.
+The nanomedicine encapsulated sonosensitizers silver sulfide quantum dots, and the CD39 inhibitor POM1, while also incorporating homologous tumor cell membranes to enhance targeting capabilities.
+This integrated approach, on the one hand, stimulates the release of ATP

@@ -1,0 +1,13 @@
+This study explores the current status, research hotspots, and emerging trends in AMP-induced cell death through bibliometric and data-driven visual analysis.
+The findings aim to provide researchers and clinical professionals with new insights and potential research directions.
+A total of 1,897 articles and reviews published between 2006 and 2024 were retrieved from the Web of Science Core Collection.
+Bibliometric and visual analyses were conducted using CiteSpace, VOSviewer, Scimago Graphica, Origin 2022, and WordClouds.
+The analysis focused on publication trends, contributing institutions, journals, authors, cited references, and keywords.
+China contributed the largest share of publications (28.15%).
+The Chinese Academy of Sciences emerged as the most collaborative institution, demonstrating the highest centrality.
+The author with the highest composite index was Chen, Jyh-Yih (2,985.27).
+Recent research hotspots have centered on elucidating the mechanisms of AMP-induced cell death and exploring the potential applications of AMPs in cancer therapy.
+Keywords such as anticancer peptides, mechanism, design, and antibiotic resistance currently dominate the field, reflecting its evolving focus.
+Research on the application of AMPs in cancer treatment is gaining momentum.
+The forefront of this field involves modifying and designing AMPs to address antibiotic-resistant bacterial infections and advance cancer therapeutics.
+However, further investigation is needed to uncover the specific molecular mechanisms underlying AMP-induced cell death, including necrosis, pyroptosis, and ferroptosis.

@@ -1,0 +1,10 @@
+We aimed to investigate the efficacy and safety of transarterial chemoembolization (TACE) or hepatic arterial infusion chemotherapy (HAIC) combined with immune checkpoint inhibitors (ICIs) and angiogenesis inhibitors in unresectable hepatocellular carcinoma (uHCC).
+The endpoints were the objective response rate (ORR), disease control rate (DCR), conversion rate, progression-free survival (PFS), overall survival (OS), and the incidence of adverse events (AEs).
+Stratified analyses were accomplished based on local treatment and evaluation criteria.
+Totally, 4930 individuals from 76 studies were recruited.
+For initial uHCC treated with the triple therapy, the pooled pathologic complete response (pCR) rate, major pathologic response (MPR) rate, and conversion resection rate were 29.91%, 44.81%, and 30.98%; the ORR and DCR were 38.52% and 84.42% according to RECIST 1.1, 57.82% and 85.82% by mRECIST 1.1.
+Furthermore, PFS rates at 6-months, 12-months, 18-months, 24-months, and 30-months were 74.77%, 44.30%, 30.97%, 22.71%, and 15.35%; while OS rates at 6-months, 12-months, 18-months, 24-months, 30-months, and 36-months were 94.94%, 76.95%, 58.17%, 45.19%, 27.38%, and 17.79%, respectively.
+The pooled results showed that the pooled PFS of triple therapy was superior to that of the control group (HR=0.74, 95% CI: 0.71-0.77), so was OS (HR=0.68, 95% CI: 0.65-0.72).
+The pooled rate of any grade AEs was 91.93%, and grade 3 or higher AEs was 34.50%.
+There were no fatal AEs reported in any of the included studies.
+The triple therapy of TACE/HAIC combined with ICIs and angiogenesis inhibitors was promising in uHCC with good efficacy and tolerated toxicity; however, the potential influence of confounding factors cannot be entirely excluded.

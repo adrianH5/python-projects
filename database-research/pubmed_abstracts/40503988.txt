@@ -1,0 +1,9 @@
+Formalin-fixed paraffin-embedded (FFPE) samples are widely used in cancer research and clinical diagnostics for preserving tissue morphology and enabling long-term storage.
+However, FFPE-induced DNA degradation, crosslinking, and inconsistent quality control significantly hinder their utility in molecular analyses.
+In this study, we established a robust nanoscale quality control (QC) framework incorporating gel electrophoresis and quantitative polymerase chain reaction (qPCR) to evaluate DNA integrity in clinical tissue FFPE samples.
+Our findings demonstrate a quantifiable inverse correlation between the degree of DNA fragmentation and amplification efficiency in FFPE samples.
+Further analysis of 26 single nucleotide polymorphism loci using targeted next-generation sequencing demonstrated substantial improvements in DNA integrity after enzymatic repair.
+A comparative whole-exome sequencing analysis of endometrial carcinoma samples with different archival durations demonstrated significantly increased damage levels across multiple genomic features in long-term stored specimens, highlighting the cumulative impact of archival duration.
+These findings emphasize the detrimental effects of prolonged storage on FFPE DNA quality.
+Our QC framework enables effective sample stratification, facilitating the selection of high-integrity specimens for sequencing and guiding heavily degraded samples toward targeted short-amplicon assays.
+This strategy provides a standardized approach to assess the integrity of FFPE-derived DNA, supporting accurate and reproducible use of archival biospecimens in clinical genomics.

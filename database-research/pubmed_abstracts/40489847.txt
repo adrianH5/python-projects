@@ -1,0 +1,13 @@
+Uterine corpus endometrial carcinoma (UCEC) poses a significant to women's health.
+Accurate prediction of prognosis plays a crucial role in facilitating clinical decision-making processes.
+Therefore, this study aimed to develop a robust prognostic model based on gene expression profile.
+Gene expression profile of 546 UCEC samples of The Cancer Genome Atlas were retrieved.
+A multi-step strategy was employed to develop and validate a prognostic model predicting all-cause mortality rates.
+Receiver operating characteristic curve and decision curve analysis were performed to assess the predictive accuracy and net benefit of the model.
+Besides, model-associated immunological features were explored.
+The UCEC Prognostic Model (TUPM) performed well in identifying patients at high mortality risk.
+Patients with risk scores above the upper quartile had significantly decreased overall survival compared to patients with risk scores below the lower quartile (HR = 12.56, CI95: 4.629-34.09, P = 6.76E-7), indicating a prominent discriminability.
+The model accurately predicted patient survival from 1 to 5-year (area under the curve [AUC]1-year = 0.766, AUC2-year = 0.816, AUC3-year = 0.764, AUC4-year = 0.783, AUC5-year = 0.814) and provided excellent calibration.
+Meanwhile, The UCEC Prognostic Model encompassing transcriptome scores yielded a higher net clinical benefit than the baseline model that only included patient age and clinical stage.
+Furthermore, the prolonged survival in the low-risk group may be associated with increased infiltration of follicular T cells and regulatory T cells in the tumor microenvironment.
+We have developed a robust prognostic model for UCEC that may provide preliminary evidence for individualized management and treatment modality decision.

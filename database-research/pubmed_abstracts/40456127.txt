@@ -1,0 +1,11 @@
+The coronavirus disease 2019 (COVID-19) pandemic created major challenges for allogeneic hematopoietic stem cell transplantation (allo-HSCT).
+Scientific societies and authorities recommended cryopreserving grafts before starting conditioning regimens, despite limited data on the clinical impact.
+The Italian Group for Bone Marrow Transplantation (GITMO) conducted a registry-based study involving 3492 patients who underwent allo-HSCT between March 2018 and September 2021.
+The cryopreserved cohort (n = 976) included patients who received cryopreserved grafts during the pandemic and was compared to the historical cohort (n = 2516).
+Graft cryopreservation was associated with a lower day 30 incidence of neutrophil and platelet engraftment (adjusted sHR = 0.8 and 0.7, p = 0.031 and p < 0.001, respectively) and delayed hematopoietic recovery.
+However, primary graft failure rates at day +30 were similar in the cryo and historical cohort (4% vs. 5%, respectively; p = 0.337), also after adjustment (RR = 1.19, p = 0.518).
+Day 100 incidence of grade II-IV acute GVHD was comparable between the two groups (adjusted sHR = 1.2, p = 0.194).
+Regarding chronic GVHD incidence, we found that it was higher in patients aged < 18 years in the cryo group (adjusted sHR = 3.9, p = 0.002), but lower in those aged 18-55 years (adjusted sHR = 0.7, p = 0.008).
+Cumulative incidence of relapse did not differ between historical and cryo cohort (adjusted sHR 1.0. p = 0.943), as well as non-relapse mortality (adjusted sHR 1.1, p = 0.196) and relapse-free survival (adjusted sHR = 1.1, p = 0.197).
+However, a shorter overall survival was observed in the cryopreserved group (adjusted HR = 1.2, p = 0.038).
+Transplant centers should carefully balance the benefits and drawbacks of cryopreservation in allo-HSCT.

@@ -1,0 +1,10 @@
+Invasive breast cancer (IBC) is a prevalent malignant tumor in women, and precise grading plays a pivotal role in ensuring effective treatment and enhancing survival rates.
+However, accurately grading IBC presents a significant challenge due to its heterogeneous nature and the need to harness the complementary information from multiple nuclei sources in histopathology images.
+To tackle this critical problem, we introduce a novel multi-source hybrid feature fusion network named MSFusion.
+This network incorporates two types of hybrid features: deep learning features extracted by a novel Swin Transformer-based multi-branch network called MSwinT, and traditional handcrafted features that capture the morphological characteristics of multi-source nuclei.
+The primary branch of MSwinT captures the overall characteristics of the original images, while multiple auxiliary branches focus on identifying morphological features from diverse sources of nuclei, including tumor, mitotic, tubular, and epithelial nuclei.
+At each of the four stages for the branches in MSwinT, a functional KDC (key diagnostic components) fusion block with channel and spatial attentions is proposed to integrate the features extracted by all the branches.
+Ultimately, we synthesize the multi-source hybrid deep learning features and handcrafted features to improve the accuracy of IBC diagnosis and grading.
+Our multi-branch MSFusion network is rigorously evaluated on three distinct datasets, including two private clinical datasets (Qilu dataset and QDUH&SHSU dataset) as well as a publicly available Databiox dataset.
+The experimental results consistently demonstrate that our proposed MSFusion model outperforms the state-of-the-art methods.
+Specifically, the AUC for the Qilu dataset and QDUH&SHSU dataset are 81.3% and 90.2%, respectively, while the public Databiox dataset yields an AUC of 82.1%.

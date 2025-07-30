@@ -1,0 +1,6 @@
+Persistent human papillomavirus (HPV) infection is a key risk factor for cervical cancer, often associated with changes in the vaginal microbiome (VMB).
+High-throughput 16S rRNA sequencing was used to study the VMB in a prospective cohort of 731 individuals.
+Participants were monitored through two follow-up screenings and then categorized into two groups: 22 female patients with persistent HPV infection (PHI), 31 female patients who cleared the infection (HC).
+After excluding those with HPV and other urogenital infections, 43 female patients were selected as controls, and their samples were analyzed using the same high-throughput sequencing method.
+Results indicate that high-risk HPV infections correlate with increased microbial diversity and reduced Lactobacillus levels.
+Even after HPV clearance, distinct microbial differences persist, suggesting that VMB could serve as a biomarker for monitoring infection and cervical health management, especially in populations at higher risk.

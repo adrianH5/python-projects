@@ -1,0 +1,9 @@
+Melphalan hydrochloride (MEH) is a chemotherapy drug with antitumor activity, recognized for its classification as an alkylating agent.
+Over the past few decades, the drug has been administered to patients undergoing treatment for breast and ovarian cancers, and it is also intended for the treatment of multiple myeloma.
+It is commercially available in tablet and injection forms; however, its oral administration presents some limitations, including presystemic elimination and incomplete absorption.
+This study employs a simulated annealing approach and powder X-ray diffraction data to determine its crystal structure.
+The structure is confirmed by Rietveld refinement, which reveals good visual agreement between the generated model and experimental data.
+Given that MEH has low solubility in water, a screening conducted in the Mercury program (utilizing the CSD-Materials module) indicates the potential use of various molecular synthons to enhance the drug's efficacy.
+Grinding processes (manual and mechanochemical) are conducted with MEH and a coformer, caffeine (CAF), to form stoichiometric mixtures.
+The vibrational characteristics associated with MEH and CAF show low energy levels.
+The effects on cell viability of the MEH-CAF combination are studied at different concentrations and reveal more significant cytotoxicity against the HeLa cell line (cervical tumor) compared to healthy MRC-5 cells (human fetal lung fibroblasts).

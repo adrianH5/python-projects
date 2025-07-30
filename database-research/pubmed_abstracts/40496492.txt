@@ -1,0 +1,4 @@
+Contextual integration of multiomic datasets from the same patient could improve the accuracy of subtype prediction algorithms to help with better prognosis and management of breast cancer.
+Previous machine learning models have underexplored the graph-based integration, hence unable to leverage the biological associations among different omics modalities.
+Here, we developed a graph-based method, GAIN-BRCA, using the native features from mRNA, DNA methylation (CpG), and miRNA data as well as the synthesized features from their interactions.
+GAIN-BRCA computes weightage from miRNA-mRNA and CpG-mRNA interactions to derive a new transformed feature vector that captures the essential biological context.

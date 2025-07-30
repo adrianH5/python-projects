@@ -1,0 +1,6 @@
+Millions of shift workers in the U.S. face an increased risk of depression, cancer, and metabolic disease, yet individual responses to shift work vary widely.
+We find that a conserved biological system of morning and evening oscillators, which evolved for seasonal timing, may contribute to these interindividual differences.
+In this study, we analyze seasonality in medical interns working shifts, revealing that summer-winter variation correlates with increased circadian misalignment after shift work.
+Mathematical modeling suggests that seasonal timing influences the rate of adaptation to new schedules, predicting differential effects on morning and evening oscillators.
+Additionally, we examine genetic polymorphisms linked to seasonality in animals and find that human variants can impact how quickly circadian rhythms respond to schedule changes.
+Based on our findings, we hypothesize that the vast interindividual differences in shift work adaptation-critical for shift worker health-can in part be explained by biological mechanisms for seasonal timing.

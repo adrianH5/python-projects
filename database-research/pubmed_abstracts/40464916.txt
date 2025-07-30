@@ -1,0 +1,6 @@
+CD8+ T cell exhaustion is a complex process involving the differentiation of persistently activated CD8+ T cells into functionally distinct cell subsets.
+Here, we investigated the role of the key epigenetic regulator histone deacetylase 1 (HDAC1) in the differentiation of exhausted T (Tex) cells during chronic viral infection.
+We uncovered that HDAC1 controls the generation and maintenance of effector-like CX3CR1+ Tex cells in a CD8+ T cell-intrinsic manner.
+Deletion of HDAC1 led to expansion of an alternative Tex subset characterized by high expression of T cell exhaustion markers, and this was accompanied by elevated viremia.
+HDAC1 bound to and facilitated an open chromatin state of effector-like signature gene loci in progenitor Tex cells, thereby priming cell fate specification toward the CX3CR1+ Tex subset.
+Our study uncovers a selective role for HDAC1 in CX3CR1+ Tex subset differentiation, which is essential for controlling viral load during chronic infection.

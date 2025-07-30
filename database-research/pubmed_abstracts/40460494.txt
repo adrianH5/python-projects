@@ -1,0 +1,9 @@
+The global pandemic coronavirus disease 2019 (COVID-19) attributable to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+The current study aimed at combination therapies with natural polyphenolic compounds, such as cannabidiol (CBD), green tea polyphenols (Tea-poly), epigallocatechin gallate (EGCG) and theaflavin (TF), to investigate in vitro their inhibitory effects on virus invasion and viral spike (S) protein expression.
+Among the compounds tested, CBD and Tea-poly exhibited the most significant inhibitory effects on virus entry, comparable to the positive control chloroquine (CQ).
+EGCG showed the strongest suppression of the expression of the S protein, while CBD remarkably decreased ACE2 expression.
+CoIP-MS revealed eleven S-protein-interacting proteins that were significantly affected by EGCG.
+Transcriptome analysis demonstrated similar trends of CBD and EGCG in the modulation of many SARS-CoV-2-associated genes, with CBD showing greater impact on the gene profile than EGCG.
+GO and KEGG functional enrichment analyses revealed overlapping pathways of EGCG and CBD, including DNA repair, cell-cycle, and ER-, spliceosome- and ribosome-related processes.
+The combined use of CBD and EGCG can complement each other's advantages in inhibiting the invasion and reinvasion process of the virus at multiple levels, while minimizing the adverse effects of ACE2 expression level changes.
+Findings in this work offer new information for developing multi-level therapeutic strategies to control SARS-CoV-2 infection and, specifically, provide a novel antiviral agent combination of CBD and EGCG for the control of COVID-19.

@@ -1,0 +1,6 @@
+First case of COVID-19 was reported in December 2019 in Wuhan (China) and since then it has spread worldwide becoming a pandemic, with maximum death cases in Italy, although initially, the maximum mortality was reported from China [1].
+According to a World Health Organization (WHO) report, as of 2 April 2020, there were confirmed 823626 COVID-19 cases and 40598 deaths, that included cases which were both locally transmitted or imported [2].
+From India, there were only two full genome sequences submitted from the state of Kerala (GenBank accession numbers MT012098 {(isolate SARS-CoV-2/human/IND/29/2020 or isolate 29) and MT050493 (isolate SARS-CoV-2/human/IND/166/2020 or isolate 166)}.
+Structure of the spike glycoprotein was retrieved from the protein data bank (PDB ID: 6VXX) (Figure 5).
+Abstract  Since 2002, β coronaviruses (CoVs) have caused three zoonotic outbreaks, SARS-CoV in 2002, MERS-CoV in 2012, and the recent outbreak of SARS-CoV-2 late in 2019 (also named as COVID-19 or novel coronavirus 2019 or nCoV2019).
+As the nCoV2019 takes its course throughout the world, more and more sequence analyses are being done and genome sequences are being deposited in various databases.

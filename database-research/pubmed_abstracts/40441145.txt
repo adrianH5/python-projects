@@ -1,0 +1,7 @@
+Interactions between the host and the gut microbiota influence cancer progression and treatment responses.
+While the combination of tyrosine kinase inhibitors (TKIs) and immune checkpoint blockade (ICB) has improved outcomes, some cancer patients still have poor responses.
+The underlying mediators of this heterogeneity remain unclear.
+Here, we demonstrate that TKIs potentiate the immunotherapy response by increasing the abundance of Muribaculum and its metabolite, urocanic acid (UCA), which reduces myeloid-derived suppressor cell (MDSC) recruitment via the CXCL1-CXCR2 axis by inhibiting p65 in tumor vascular endothelial cells.
+Mechanistically, UCA selectively binds to the aspartic acid 31 residue of IκBα and suppresses its phosphorylation at serine 32.
+Compared with non-responders, clinical ICB responders present a higher UCA concentration and a greater level of Muribaculum gordoncarteri in feces, indicating both as potential predictive biomarkers for treatment response.
+Collectively, our findings reveal and highlight the important role of the gut microbial metabolite UCA in response to ICB.

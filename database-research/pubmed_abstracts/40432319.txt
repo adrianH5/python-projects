@@ -1,0 +1,13 @@
+Although cinobufagin has been demonstrated to inhibit the growth of various malignant tumors, its functional role in ovarian cancer remains unclear.
+In light of this, the present study aims to thoroughly investigate the effects of cinobufagin on ovarian cancer progression and elucidate its underlying molecular mechanisms, thereby providing novel insights into future therapeutic strategies.
+A2780/DDP, a cisplatin-resistant cell line for ovarian cancer, was treated with gradient doses of cinobufagin.
+The microRNA-149-3p and AFF4 binding sites were predicted by bioinformatics.
+In cisplatin-resistant ovarian cancer cells, microRNA-149-3p and AFF4 expression were detected using qRT-PCR, and the binding association between microRNA-149-3p and AFF4 was confirmed by dual-luciferase and RIP assays.
+Cell viability was assessed using the CCK-8 test, cell proliferation was identified using the EdU assay and colony formation, and cell apoptosis was identified using flow cytometry.
+The results showed that cinobufagin inhibited the proliferation and promoted apoptosis of cisplatin-resistant ovarian cancer cells.
+microRNA-149-3p was highly expressed in cisplatin-resistant ovarian cancer cells, while AFF4 was lowly expressed in these cells.
+Overexpression of microRNA-149-3p promoted the proliferation and inhibited the apoptosis of cisplatin-resistant ovarian cancer cells, which was reversed by the addition of cinobufagin.
+Overexpression of AFF4 suppressed proliferation and promoted apoptosis of cisplatin-resistant ovarian cancer cells.
+MicroRNA-149-3p repressed AFF4 expression, and partial attenuation of the effects of AFF4 overexpression on cell phenotype was observed when microRNA-149-3p was overexpressed.
+In conclusion,cinobufagin regulated microRNA-149-3p/AFF4 axis to inhibit proliferation of ovarian cancer cells and promote cell apoptosis.
+Targeting the microRNA-149-3p/AFF4 axis with cinobufagin could represent a novel therapeutic strategy for ovarian cancer.

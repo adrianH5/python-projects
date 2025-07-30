@@ -1,0 +1,5 @@
+The prognosis of advanced (UICC IIb-IV) primary colorectal cancer (pCRC) remains poor.
+More effective targeted therapies are needed.
+Heat shock protein 90 alpha/beta (Hsp90α/β) expression was immunohistologically quantified in 89 pCRCs and multivariately correlated with survival.
+Pimitespib (Pim, TAS-116), a Hsp90α/β-specific inhibitor, was tested in pCRC cell lines and patient-derived cancer spheroids (PDCS) and referenced to the pan-Hsp90 inhibitor ganetespib (Gan, STA-9090) and standard-of-care therapies.
+A total of 26.97% pCRCs showed strong tumoral Hsp90α/β expression (Hsp90α/β > 40%), which correlated with reduced PFS (HR: 3.785, 95%CI: 1.578-9.078,

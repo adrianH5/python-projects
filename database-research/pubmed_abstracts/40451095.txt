@@ -1,0 +1,4 @@
+Radiomic features, derived from a region of interest (ROI) in medical images, are valuable as prognostic factors.
+Selecting an appropriate ROI is critical, and many recent studies have focused on leveraging multiple ROIs by segmenting analogous regions across patients - such as the primary tumour and peritumoral area or subregions of the tumour.
+These can be straightforwardly incorporated into models as additional features.
+However, a more complex scenario arises, for example, in a regionally disseminated disease, when multiple distinct lesions are present.

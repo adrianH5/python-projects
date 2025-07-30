@@ -1,0 +1,19 @@
+As of 19 January 2020, 13 genome sequences of 2019‐nCoV have been released on GISAID (http://gisaid.org/) and one strain (virus name: BetaCoV/Wuhan‐Hu‐1/2019; accession ID: EPI_ISL_402125) has been released on GenBank (https://www.ncbi.nlm.nih.gov/nuccore/MN908947) by the Shanghai Public Health Clinical Center & School of Public Health, Fudan University, Shanghai, China.
+In this study, we used the latest version (MN908947.3), and therefore the genome sequence of strain BetaCoV/Wuhan‐Hu‐1/2019 from GISAID (EPI_ISL_402125) was excluded.
+The final dataset included 12 genome sequences of 2019‐nCoV with known sampling date and city (10 from individuals in Wuhan, Hubei Province, China, with samples collected between 24 and 30 December 2019, and two from Chinese individuals in Bangkok, Thailand, who had recently traveled from Wuhan, with samples collected between 8 and 13 January 2020) (Table S1).
+For this dataset, the 2019‐nCoV genome sequences were aligned using MAFFT v7.222
+ and then manually curated using BioEdit v7.2.5.
+To study the amount of evolutionary information contained in the dataset, likelihood‐mapping analysis
+ was performed using TREE‐PUZZLE v5.3,
+ with 30 000 randomly chosen quartets for the entire tree.
+As no temporal signal was present in the dataset, we employed HKY+G, as well as a constant size coalescent tree prior and strict molecular clock model assuming an evolutionary rate of 4.59 × 10−4 substitutions per site per year to estimate the time to most recent common ancestor (TMRCA) for this dataset based on previous genetic analysis.
+To perform ancestral reconstruction of the unobserved sampling locations (k = 2), discrete phylogeographic analyses
+ were performed using the empirical tree distributions generated for our 2019‐nCoV dataset.
+Bayesian analysis was run using BEAST v1.8.4
+ and BEAGLE library v2.1.2
+ for an MCMC chain of 100 million iterations, with 10 000 samples of all parameters and 10 000 trees for our dataset.
+For this dataset, our likelihood‐mapping analysis revealed a strong star‐like topology signal (Figure 1), indicating very limited genetic diversity for 2019‐nCoV as of now.
+We also used an assumed evolutionary rate range (95% Bayesian credible interval: 1.178 × 10−4 to 3 × 10−3 substitutions per site per year) for this dataset based on previous studies,
+, 
+, 
+ and estimated that the TMRCA for 2019‐nCoV was 3 September 2019 (95% Bayesian credible interval: 25 March 2019 and 20 December 2019).

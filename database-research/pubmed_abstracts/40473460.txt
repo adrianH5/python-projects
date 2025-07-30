@@ -1,0 +1,8 @@
+In recent years, there has been a headlong rush into the use of prostate-specific membrane antigen (PSMA)-targeted PET for the staging and restaging of men with prostate cancer (PC).
+To date, there have been regulatory approvals for PSMA PET for purposes of initial staging, recurrence, and establishing eligibility for PSMA-targeted radiopharmaceutical therapy.
+Conventional imaging modalities, including bone scan and CT, are inadequate for identifying sites of PC in a variety of clinical scenarios.
+Further, current standardized response assessment approaches based on either conventional imaging or PET radiotracers that lack sensitivity for PC are inappropriate for response assessment in men with PC.
+There is currently no specific regulatory approval for the use of PSMA PET for response assessment.
+In the context of the use of PSMA-targeted radiopharmaceutical therapy and other cytotoxic therapeutic approaches, both the PSMA PET progression criteria and RECIP 1.0 have been shown to have value and to provide prognostic information.
+However, the role of those criteria is less clear for patients who are being treated with agents targeting the androgen signaling axis, given variable changes in PSMA expression.
+Ultimately, there may be key roles for machine learning and artificial intelligence in identifying imaging biomarkers based on changes in PSMA PET uptake during therapy.

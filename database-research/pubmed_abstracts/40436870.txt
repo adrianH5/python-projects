@@ -1,0 +1,5 @@
+To assess shifts in long-term survival outcomes for prostate cancer patients, the present study conducted conditional survival (CS) analysis and developed a personalized CS-nomogram to provide dynamic prognostic predictions.
+Data from 301,441 prostate cancer patients in the Surveillance, epidemiology, and end results (SEER) database were analyzed, with cancer-specific survival (CSS) estimated using the Aalen Johansen estimator.
+Key predictive factors, including tumor size, lymph node involvement, distant metastasis, and histological grade, were identified via LASSO and multivariable Cox regression analyses to construct the nomogram.
+Results showed an increase in 12-year CSS from 94.3% at diagnosis to 99.4% for those surviving more than 5 years, with prostate cancer-specific mortality falling below 5% after 5-6 years of survival.
+The CS-nomogram demonstrated high predictive accuracy, achieving a concordance index (C-index) of 0.869 and area under the curve (AUC) values between 0.847 and 0.904 over a 12-year follow-up period, which provides dynamic, individualized prognostic estimates, supporting the long-term management of prostate cancer patients.

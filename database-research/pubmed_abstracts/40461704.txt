@@ -1,0 +1,9 @@
+The concept of control is crucial for effectively understanding and applying biological network models.
+Key structural features relate to control functions through gene regulation, signaling, or metabolic mechanisms, and computational models need to encode these.
+Applications often focus on model-based control, such as in biomedicine or metabolic engineering.
+In a recent paper, the authors developed a theoretical framework of modularity in Boolean networks, which led to a canonical semidirect product decomposition of these systems.
+In this paper, we present an approach to model-based control that exploits this modular structure, as well as the canalizing features of the regulatory mechanisms.
+We show how to identify control strategies from the individual modules, and we present a criterion based on canalizing features of the regulatory rules to identify modules that do not contribute to network control and can be excluded.
+For even moderately sized networks, finding global control inputs is computationally challenging.
+Our modular approach leads to an efficient approach to solving this problem.
+We apply it to a published Boolean network model of blood cancer large granular lymphocyte (T-LGL) leukemia to identify a minimal control set that achieves a desired control objective.

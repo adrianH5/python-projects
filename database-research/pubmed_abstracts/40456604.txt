@@ -1,0 +1,8 @@
+Steroid receptors are involved in a wide array of crosstalk mechanisms that regulate diverse biological processes, with significant implications in diseases, particularly in cancers.
+In prostate cancer, indirect crosstalk between androgen receptor (AR) and glucocorticoid receptor NR3C1 (also known as GR) is well-documented, wherein AR suppression by antiandrogen therapy leads to elevated GR levels, enabling GR to compensate for and replace AR signaling.
+However, the existence and impact of direct chromatin crosstalk between AR and GR in prostate cancer remain elusive.
+Our genome-wide investigations reveal that AR activation significantly expands GR chromatin binding.
+Mechanistically, AR induces remodeling of closed chromatin sites, facilitating GR binding to inaccessible sites.
+Importantly, coactivation of AR and GR results in distinct transcriptional responses at both the cell population and single-cell levels.
+Pathways affected by these transcriptional changes are generally associated with improved patient survival.
+Thus, the direct crosstalk between AR and GR yields markedly different outcomes from the known role of GR in circumventing AR blockade by antiandrogens.

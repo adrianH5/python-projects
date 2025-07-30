@@ -1,0 +1,3 @@
+The field of urological tumor histopathology has long relied on subjective pathologist expertise, leading to diagnostic variability.
+Recent advances in digital pathology and artificial intelligence (AI) offer transformative potential by standardizing diagnoses, improving accuracy, and bridging healthcare disparities.
+This study conducted a 20-year bibliometric analysis to map global research trends and innovations in AI-driven urological pathology.

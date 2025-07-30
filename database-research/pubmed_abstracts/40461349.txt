@@ -1,0 +1,3 @@
+Although statistical models have been commonly used to identify patients at risk of cardiovascular disease for preventive therapy, these models tend to over-recommend therapy.
+Moreover, in populations with pre-existing diseases, the current approach is to indiscriminately treat all, as modelling in this context is currently inadequate.
+This study aimed to develop and validate the Transformer-based Risk assessment survival (TRisk) model, a novel deep learning model, for predicting 10-year risk of cardiovascular disease in both the primary prevention population and individuals with diabetes.

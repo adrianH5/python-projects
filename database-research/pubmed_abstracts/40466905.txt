@@ -1,0 +1,10 @@
+Filamin A (FLNA) is an actin cross-linking protein that connects multiple transmembrane receptors and cytosolic signaling proteins to regulate cell shape, motility, and signaling.
+Our previous report has shown that FLNA interacts directly with the La-related protein 4 (LARP4) and this interaction is essential for cell migration.
+Here, using the x-ray crystallography and protein-protein interaction studies, we investigated the molecular basis of LARP4 binding to FLNA.
+We described the high-resolution structure of the FLNA immunoglobulin-like repeat 21 (R21) and its complex with the LARP4 peptide.
+The FLNA-binding site in LARP4 is localized between Ala269 and Asn281, where it forms an extended β strand that interacts with the cleft formed by β strands C and D of FLNA R21.
+Consistent with this structure, the A279C mutation found in catalogue of somatic mutations in cancer (COSMIC) database and the experimentally introduced F277A mutation both disrupt LARP4 binding to FLNA.
+In contrast, the COSMIC-listed N275S mutation alters LARP4 membrane localization without affecting FLNA interaction, suggesting distinct functional outcomes.
+Cell migration assays showed that LARP4-knockdown cells expressing FLNA-binding-deficient mutants migrated faster than those expressing wild-type LARP4.
+The LARP4-binding site on FLNA overlaps with the β-integrin tail-binding region, and in vitro assays revealed that LARP4 can compete with integrin β7 tails for FLNA R21 binding.
+These results suggest that the LARP4-FLNA interaction may regulate cell migration, at least in part, by competing with integrin tails, although this mechanism has yet to be confirmed in vivo.

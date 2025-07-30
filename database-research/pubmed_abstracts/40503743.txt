@@ -1,0 +1,4 @@
+Prostate-specific membrane antigen (PSMA) or glutamate carboxypeptidase II (GCPII) is a promising target for metastatic castration-resistant prostate cancer (mCRPC) due to its high expression in prostate cancer cell membranes and low expression in normal tissues.
+Ligand-targeted drugs (LTDs) targeting PSMA are gaining popularity for their high affinity, specificity, and ease of synthesis.
+LTDs consist of a small molecule targeting PSMA and carrying the cytotoxic agent to the cancer cells, which is then released through a cleavable linker (enzymatically or chemically cleaved) into the tumor tissue.
+Several PSMA-targeting LTDs have demonstrated promising results in both

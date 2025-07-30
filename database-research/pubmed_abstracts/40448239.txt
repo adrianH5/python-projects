@@ -1,0 +1,6 @@
+Metastasis plays a significant role in the high mortality rates associated with cancer and is usually the endpoint of a series of sequential and dynamic events.
+A crucial step in metastasis development and progression is the formation of a premetastatic niche (PMN), which provides a conducive microenvironment for the settlement and colonization of disseminated tumor cells at distant metastatic sites.
+Extensive research has demonstrated the significance of macrophage populations within primary tumors in promoting metastatic progression.
+Nevertheless, the contribution of macrophages at secondary sites to the regulation of PMN formation is frequently overlooked.
+This review systematically explores the role of macrophages in priming the PMN to facilitate cancer metastasis.
+Additionally, we provide a compendium of existing strategies to target macrophages in cancer therapy.

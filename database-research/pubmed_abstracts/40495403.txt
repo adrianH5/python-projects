@@ -1,0 +1,9 @@
+Allogeneic haematopoietic stem cell transplantation (allo-HSCT) is increasingly used in older patients, but non-relapse mortality (NRM) remains a major concern.
+The Endothelial Activation and Stress Index (EASIX) has shown prognostic value for transplant outcomes, yet its utility in elderly patients remains unexplored.
+This study included 164 patients aged ≥60 years undergoing haploidentical HSCT across 12 centres in China (2016-2023).
+Serial EASIX scores were calculated at eight timepoints throughout the peri-transplant period.
+Longitudinal log2-EASIX patterns were analysed using group-based trajectory modelling (GBTM).
+The results indicated that elevated pretransplant log2-EASIX (log2-EASIX-PRE) significantly correlated with inferior overall survival (OS: HR = 1.25, 95% CI 1.07-1.47, p = 0.005), increased NRM (HR = 1.32, 95% CI 1.08-1.62, p = 0.007) and higher incidence of severe infections (HR = 3.73, 95% CI 1.77-7.89, p < 0.001).
+The optimal EASIX-PRE cut-off was 4.25, with patients exceeding this threshold showing worse 2-year outcomes (OS: 24.3% vs. 59.3%, p < 0.001; NRM: 54.3% vs. 24.5%, p = 0.001).
+GBTM revealed two distinct trajectory patterns: patients in the log2-EASIX Spiking group experienced significantly higher NRM compared to the log2-EASIX Smooth group (HR = 4.58, 95% CI 1.72-12.2, p = 0.002).
+These findings establish pretransplant EASIX as a clinically actionable biomarker in elderly allo-HSCT recipients, with dynamic monitoring enabling early risk stratification for personalised interventions.

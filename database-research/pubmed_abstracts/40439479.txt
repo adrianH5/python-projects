@@ -1,0 +1,10 @@
+Patients with NSCLC harboring uncommon EGFR mutations have limited therapeutic options and often poor outcomes, especially following progression on standard EGFR tyrosine kinase inhibitors (TKIs).
+Amivantamab, an anti-EGFR/MET bispecific antibody, shows efficacy in EGFR-mutated NSCLC, but its role in rare EGFR alterations and CNS involvement, including leptomeningeal disease (LMD), remains insufficiently characterized.
+We report a 67-year-old male with stage IVB NSCLC harboring EGFR G719A and A289V mutations who developed LMD while on osimertinib.
+After progression on immunotherapy and chemotherapy, amivantamab monotherapy was initiated.
+Treatment produced a durable response over 19 months, including a 32.2% reduction in tumor size at six weeks, and complete resolution of brain metastases and LMD by six months.
+Circulating tumor DNA analyses showed EGFR variant allele fractions decreasing from 25.6% to undetectable.
+This case challenges current paradigms, demonstrating that amivantamab monotherapy can effectively target rare EGFR mutations, achieve durable extracranial and CNS disease control, and potentially overcome blood-brain barrier limitations.
+These findings suggest that amivantamab's utility may extend beyond established combination regimens and well-characterized EGFR mutations, offering an effective option for patients with atypical molecular profiles who lack standard therapies.
+Amivantamab monotherapy may represent a viable strategy for patients with uncommon EGFR mutations and CNS involvement, including LMD.
+Further research is warranted to elucidate underlying mechanisms, refine treatment strategies, and assess amivantamab's broader applicability in similarly challenging NSCLC scenarios.

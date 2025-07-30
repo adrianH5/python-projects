@@ -1,0 +1,8 @@
+Glioblastoma (GBM) lethality stems from uncontrolled growth and infiltration.
+Using an immunocompetent murine model, we mapped GBM invasion and tumor-associated microglia and macrophage (TAM) interactions.
+We show that microglia are mobilized ahead of invasion, transforming morphologically and functionally-first forming glial nets around tumor infiltrates and then organizing into 'oncostreams' guiding collective migration.
+Single-cell RNA sequencing revealed three distinct states for tumor cells and microglia, corresponding to invasive niches versus tumor bulk.
+The invasive patterns and niche-specific gene signatures of tumor cells and TAMs were validated in human GBMs.
+We further identified a critical role of plexin-B2 in TAMs for resolving cell collision, aligning GBM cells and restructuring the extracellular matrix.
+Plexin-B2 ablation in TAMs disrupted invasion tracks, shifting GBM growth from infiltrative to bulk expansion.
+Understanding niche-specific TAM mobilization and anatomical-functional invasion units opens new strategies to target GBM invasion.

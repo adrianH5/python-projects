@@ -1,0 +1,7 @@
+Genetic mutations, arising from permanent changes in DNA sequences due to replication errors, environmental factors, or exposure to chemicals and radiation are crucial for uncovering the underlying mechanism that drives cancer.
+Key mutation types, such as Single Nucleotide Variants (SNVs), Indels and Duplications, affect the genomes in distinct ways, emphasizing the need for reliable and accurate detection techniques tailored to each mutation type.
+This study advances mutation classification by leveraging transformer-based models to analyze genetic mutations across cancerous and non-cancerous genomes.
+The proposed classification framework utilizes pre-trained DNABERT-2 and Nucleotide Transformer models to accurately categorize mutation types.
+To comprehensively evaluate model performance, we employ three distinct datasets: a real-world genomic dataset and two synthetic datasets generated using a WGAN-GP model, effectively addressing data imbalance by creating diverse and well-represented mutation samples.
+Results from experiments based on F1 score, recall, accuracy, and precision, demonstrate that the proposed classifier outperforms existing models in distinguishing mutation types.
+These findings highlight the potential of our approach to enhance genetic analysis, contributing to improved mutation classification for personalized treatment strategies.

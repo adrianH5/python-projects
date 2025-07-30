@@ -1,0 +1,9 @@
+Gastric cancer (GC) represents a significant global health challenge, with limited therapeutic options and poor outcomes.
+Although cancer immunotherapies targeting adaptive immune checkpoints, such as programmed death-1, have transformed the landscape of cancer treatment, their efficacy in GC is limited to a small subset of patients, emphasizing the unmet clinical need for novel therapeutic strategies.
+Cluster of differentiation 47 (CD47), referred to as the "don't eat me" signal, enables tumor cells to evade phagocytosis by binding to signal regulatory protein alpha (SIRPα) on myeloid cells, such as macrophages and dendritic cells.
+This interaction inhibits the innate immune response, thereby facilitating tumor progression and resistance to existing therapies.
+Targeting the CD47-SIRPα axis may be a potent strategy to enhance macrophage-mediated phagocytosis and activate antitumor adaptive immunity.
+However, on-target off-tumor toxicity and heterogeneity of the immunosuppressive tumor microenvironment remain substantial challenges, which pose significant barriers to effective treatment.
+Recently, the impressive results of a phase II ASPEN-06 trial provide proof-of-concept, indicating CD47-SIRPα blockade as a promising approach for patients with GC.
+This review comprehensively elucidates the CD47-SIRPα signaling pathway, highlighting its role in tumor immune evasion and the current advancements in therapeutic strategies targeting this axis.
+Drawing on insights from recent clinical trials and preclinical studies, we discuss potential approaches for developing effective CD47-SIRPα-targeted therapies in GC.

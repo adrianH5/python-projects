@@ -1,0 +1,13 @@
+Coronavirus disease-2019 (COVID-19) has led to >22 million affected (1) and >784,000 deaths worldwide.
+Accordingly, it has been hypothesized that inflammation associated with SARS-CoV-2 infection leads to a “COVID-19–related coagulopathy” (5), resulting in increased thrombosis (6).
+Observational analyses have suggested potential benefit for in-hospital use of anticoagulation (AC) in COVID-19 treatment (9,10).
+Survival in days was calculated as time from hospital admission to in-hospital death, discharge, or the date of dataset lock (May 7, 2020).
+Overall, 1,073 (24.4%) patients died during the study period, 2,892 (65.9%) were discharged alive, and 424 (9.7%) were still hospitalized by dataset freeze date.
+Autopsies were performed on COVID-19 positive patients at Mount Sinai Health System starting on March 20, 2020, with 72 completed by May 7, 2020 (8).
+Thromboembolic disease has emerged as an important complication among hospitalized patients with COVID-19.
+The mechanisms by which thrombotic disease may occur in the setting of COVID-19 infection include inflammation, hypoxia, and potentially pharmacotherapeutic interactions (2,4,12,13).
+As such, the potential benefit of AC in the treatment of COVID-19 is based on the prevention and treatment of microvascular and macrovascular thrombosis.
+In our cohort of patients hospitalized with COVID-19, a strong association of AC with approximately 50% reduced hazard of in-hospital mortality was observed (Figure 1A).
+As mortality rates for patients with COVID-19 who undergo intubation for respiratory failure range from 30% to 80% (16, 17, 18), we analyzed the association between AC and intubation.
+Background  Thromboembolic disease is common in coronavirus disease-2019 (COVID-19).
+Conclusions  AC was associated with lower mortality and intubation among hospitalized COVID-19 patients.

@@ -1,0 +1,7 @@
+Non-small cell lung cancer (NSCLC) remains a leading cause of cancer-related mortality worldwide.
+Recent advancements have illuminated the intricate metabolic reprogramming that underpins NSCLC progression and resistance to therapy.
+Beyond the classical Warburg effect, emerging evidence highlights the pivotal roles of altered lipid metabolism, amino acid utilization, and the metabolic crosstalk within the tumor microenvironment (TME).
+This review delves into the latest discoveries in NSCLC metabolism, emphasizing novel pathways and mechanisms that contribute to tumor growth and survival.
+We critically assess the interplay between cancer cell metabolism and the TME, explore the impact of metabolic heterogeneity, and discuss how metabolic adaptations confer therapeutic resistance.
+By integrating insights from cutting-edge technologies such as single-cell metabolomics and spatial metabolomics, we identify potential metabolic vulnerabilities in NSCLC.
+Finally, we propose innovative therapeutic strategies that target these metabolic dependencies, including combination approaches that enhance the efficacy of existing treatments and pave the way for personalized metabolic therapies.

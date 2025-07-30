@@ -1,0 +1,13 @@
+Exposure to progesterone is a recognized risk factor for breast cancer, and PGR polymorphisms are associated with various malignancies.
+Two progesterone receptor (PR) isoforms, full length PR-B and truncated PR-A, are expressed from the PGR gene in breast tissue and play crucial roles in normal physiology and breast cancer progression.
+An imbalance in the expression ratio of these isoforms, favoring increased levels of PR-A, is common in breast cancer and is associated with resistance to tamoxifen in luminal A-type tumors.
+Notably, PRs have recently been implicated in promoting endocrine resistance and driving the expansion of cancer stem-like cell (CSC) populations.
+Despite this insight, the isoform-specific molecular and epigenetic mechanisms underlying PR action in estrogen receptor positive (ER+) breast cancers remain understudied.
+Phenotypic studies of T47D cell lines that express exclusively PR-A or PR-B showed that PR isoforms regulate divergent cell fates.
+PR-B-expressing cells have a higher proliferation rate, while PR-A-expressing cells produce more mammospheres.
+We profiled progesterone-driven gene expression in cells grown in both adherent (2D) and mammosphere (3D) growth conditions and found differential gene regulation by PR-A and PR-B that is consistent with the observed divergent phenotypes.
+Only the PR-A-driven gene signature of ER+ breast cancer cells maintained as non-adherent mammospheres robustly predicted poor clinical outcome in the METABRIC data set.
+We then performed CUT&RUN to identify the genomic binding patterns unique to each PR isoform and their suite of target genes.
+Our findings indicate that PR-A acts as a regulator of the cell cycle, while PR-B plays a pivotal role in metabolism and intracellular signaling.
+Our genomic profiling of PRs in this model system has unveiled novel isoform-specific functions of PR.
+This work has shifted our prior understanding of the role of PRs in gene regulation, offering potential insights for therapeutic interventions in ER+ breast cancer.

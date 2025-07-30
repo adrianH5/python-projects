@@ -1,0 +1,5 @@
+The bactericidal action of some antibiotics is associated with increased ATP consumption, cellular respiration, and reactive oxygen species (ROS) formation.
+Here, we investigate the effects of 'bioenergetic stress', induced by constitutive hydrolysis of ATP and NADH, on antibiotic efficacy in Escherichia coli.
+We show that bioenergetic stress potentiates the evolution of antibiotic resistance via enhanced ROS production, mutagenic break repair, and transcription-coupled repair.
+In addition, bioenergetic stress potentiates antibiotic persistence via the stringent response.
+We propose a model in which the balance between ATP consumption versus production regulates antibiotic resistance and persistence.

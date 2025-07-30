@@ -1,0 +1,10 @@
+Increasing demand for advanced drug delivery systems with precise targeting and enhanced therapeutic efficacy has driven significant innovations in cancer therapy.
+Aptamer-functionalized zeolitic imidazolate framework-8 (ZIF-8) formulations have emerged as promising nanomaterials to address this demand.
+This review comprehensively overviews recent advancements in the development and application of these formulations for site-specific drug delivery in cancer treatment.
+It explores the synergistic interactions between ZIF-8 and aptamers, aptamer selection and mechanisms through which aptamers facilitate targeted drug delivery.
+The synthesis, post-functionalization properties, and pH-responsive drug release behavior are thoroughly explored.
+It covers in-vitro studies on the biocompatibility, safety, cellular uptake, reactive oxygen species production, anti-tumor effects, and efficacy of aptamer-functionalized ZIF-8 across various cancer cell lines.
+Moreover, it provides experimental insight by exploring in-vivo studies related to safety, tumor targeting capabilities, and therapeutic efficacy.
+This review also addresses emerging challenges in the development of drug delivery systems by aptamer-functionalized ZIF-8.
+In conclusion, aptamer-functionalized ZIF-8 formulations offer a promising approach for precision cancer therapy.
+They enable targeted drug delivery with minimized off-target effects and improved therapeutic outcomes.

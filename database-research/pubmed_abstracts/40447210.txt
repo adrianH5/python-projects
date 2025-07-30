@@ -1,0 +1,4 @@
+Breast cancer (BC) is the most common cancer in women globally, with early detection playing a crucial role in improving treatment outcomes and survival rates.
+There is an urgent need for novel biomarkers to aid in early diagnosis, prognosis, and treatment prediction.
+YRNAs, small non-coding RNAs, have been explored as biomarkers in various cancers, but their role in BC remains under-investigated.
+This study aimed to explore the expression of circulating plasma YRNAs in BC patients and evaluate their potential as diagnostic and prognostic biomarkers.

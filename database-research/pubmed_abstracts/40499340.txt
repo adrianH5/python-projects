@@ -1,0 +1,11 @@
+Triple negative breast cancer (TNBC) is an aggressive breast cancer subtype that disproportionately impacts Black women and has limited effective therapeutic options.
+Consequently, there is an urgent need to develop novel approaches for the treatment of TNBC.
+Previously, we identified monopolar spindle kinase I (Mps1 or TTK), which is upregulated in TNBC patients after radiotherapy, as a potential therapeutic target.
+We found that TTK inhibition sensitizes human TNBC to radiotherapy (RT) both in vitro and in vivo; however, these studies were performed in immunodeficient models.
+Here, we extended those studies into syngeneic murine models of TNBC using two TTK inhibitors: empesertib and the novel TTK inhibitor CFI-402257 (also known as luvixasertib) that was recently granted FDA fast track approval in breast cancer.
+These studies demonstrate that TTK inhibition radiosensitizes syngeneic murine models of TNBC and increases the production of micronuclei and aneuploidy.
+Mechanistic studies demonstrate that TTK inhibition and RT alter the tumor immune microenvironment of TNBC by modifying the production of antitumoral type I interferon (T1IFN).
+In vivo, TTK inhibition sensitizes syngeneic models of TNBC to RT.
+Furthermore, combining TTK inhibition and RT also potentiates T1IFN signaling, suggesting that combination treatment may induce antitumoral immunity in immunocompetent models.
+Taken together, these studies demonstrate that TTK inhibition enhances radiosensitivity and TTK inhibition with RT modulates the immune landscape of TNBC.
+Collectively, this combination may represent a novel therapeutic strategy to improve outcomes for patients with TNBC by both direct tumor cytotoxicity and by promoting an immune-responsive environment.

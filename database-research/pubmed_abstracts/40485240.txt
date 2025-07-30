@@ -1,0 +1,3 @@
+A cancer trial with an immunotherapy or antibody drug conjugate often has a certain delay/crossing time before the drug to take effect.
+In this paper, we propose to call the events that occur during and after the delay/crossing time as non-informative events and informative events, respectively.
+We propose to call the rate of number of informative events divided by total number of events as informative event rate (

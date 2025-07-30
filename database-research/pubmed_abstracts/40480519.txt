@@ -1,0 +1,10 @@
+Nanomedicines are traditionally composed via top-down approaches, which result in the production of one nanoformulation at a time.
+Conversely, bottom-up strategies rely on the development of nanoparticle (NP) libraries, resulting in the production of high numbers of nanoformulations with a broad range of compositions and characteristics.
+In this endeavor, Design of Experiment (DoE) aids in further optimizing the NP library manufacturing process.
+Using a custom-made 3D-printed microfluidic chip and a DoE approach, we produced a lipid-based NP library consisting of liposomes (LP), lipid nanoparticles (LNP), and nanoemulsions (NE).
+During the process, we investigated the significant input variables (lipid concentration, total flow rate, and flow rate ratio) and their impact on the NP output (size and polydispersity index).
+This process enabled us to control and even predict NP physicochemical characteristics.
+As a proof-of-concept, we selected nanoformulations from all three NP types and evaluated their engagement with four hematological cancer cell lines, which, in comparison to solid malignancies, are insufficiently investigated in the field of nanomedicine.
+Finally, we selected a robust LNP formulation and assessed its biodistribution in a mouse model of myeloproliferative neoplasms (MPN), a group of rare but well-characterized hematological malignancies that provide valuable insights into the mechanisms of clonal hematopoiesis, disease progression, and inflammation.
+Hybrid fluorescence / computed tomography (FLT/CT) revealed the LNP to accumulate in the organ targets of the disease, i.e., bone marrow (BM) and spleen, at doses that allow for successful gene therapy.
+Altogether, this study advances systematic nanomedicine production using microfluidics and presents mathematical modeling to predict NP characteristics and ensure robust in vivo performance.

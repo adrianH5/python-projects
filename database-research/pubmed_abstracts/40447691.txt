@@ -1,0 +1,6 @@
+External beam radiation therapy (RT) using high energy x-rays is a commonly applied cancer treatment.
+A major advantage of RT is its unspecific nature which allows using RT in many cancer entities.
+RT however causes the well-known side effects on healthy tissue in the irradiated areas.
+Therefore, enhancing the efficacy of RT at the tumor site while simultaneously lowering the overall radiation dose has been a long term goal.
+Heavy metal-based contrast agents such as gold, hafnium, gadolinium and iodine have already been proposed as radio-enhancers and are partially in clinical trials.
+Here we present barium sulphate (BaSO

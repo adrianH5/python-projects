@@ -1,0 +1,9 @@
+The advancement of drug delivery systems (DDSs) for controlled and targeted release needs further development to provide efficient cancer treatment.
+In this research, nanoliposomes (Lip) containing Cassia alata extract (CA) coated with chitosan-folate (Chi-FA) have been successfully synthesized as a DDS to breast cancer cells.
+Anticancer compounds were extracted from CA, and the effects of several parameters, such as ethanol concentration, ultrasonication time, and simplicia:solvent ratio, were analyzed using the response surface methodology (RSM).
+The successful conjugation of Chi-FA was observed using UV-Vis, FTIR, and XRD.
+The formation of Lip, CA-loaded nanoliposomes (Lip-CA), and Chi-FA coated Lip-CA (Lip-CA@Chi-FA) was validated using ATR-FTIR and TEM.
+Drug release studies show that nanoliposomes are selective in cancer cell conditions.
+The use of chitosan folate-conjugated nanoliposome encapsulation can deliver the extract more targeted to T47D breast cancer cells.
+The cytotoxicity test showed that Lip-CA@Chi-FA exhibited an IC₅₀ value of 53.46 µg/mL against T47D cells, indicating moderate anticancer activity and improved delivery efficiency compared to non-encapsulated extract.
+In silico studies to predict pharmacokinetics and molecular docking simulations of the main compounds of CA support the experimental findings.

@@ -1,0 +1,4 @@
+Briefly, reads containing adaptor sequences and low-complex regions were removed from the dataset.
+All non-human and non-repeat sequence reads were then compared to a reference virus database (downloaded from https://ftp.ncbi.nih.gov/blast/db/ref_viruses_rep_genomes.tar.gz) and the non-redundant protein database (nr) using blastn and diamond blastx programs [4], respectively.
+Taxonomy lineage information was obtained for each blast hits by matching the accession number with the taxonomy database, which was subsequently used to identify reads of virus origin.
+The entire viral genome is 29,881 nt in length (GenBank MN988668 and MN988669, Sequence Read Archive database Bioproject accession PRJNA601736) and is classified into β-coronavirus genus.

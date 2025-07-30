@@ -1,0 +1,2 @@
+The safety of inorganic nanoparticles (NPs) remains a critical challenge for their clinical translation.
+To address this, we developed a machine learning (ML) framework that predicts NP toxicity both

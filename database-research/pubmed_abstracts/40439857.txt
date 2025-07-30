@@ -1,0 +1,3 @@
+The 6-second cone beam computed tomography (CBCT) acquisition of the Ethos HyperSight (Varian Medical Systems, Inc. Palo Alto, CA, USA) on-board imaging system offers benefits, but could be too fast to accurately capture an average target position in a free-breathing lung cancer patient.
+This study aimed to ascertain whether a 6-second acquisition is appropriate for regularly breathing patients with varying respiration periods.
+Additionally, breathing patterns that could lead to clinically impactful inaccuracies for image-guided radiation therapy (IGRT) shifts were investigated.

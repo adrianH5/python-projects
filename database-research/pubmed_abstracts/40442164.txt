@@ -1,0 +1,15 @@
+To investigate the prediction of a model constructed by combining machine learning (ML) with clinical features and ultrasound radiomics in the clinical staging of cervical cancer.
+General clinical and ultrasound data of 227 patients with cervical cancer who received transvaginal ultrasonography were retrospectively analyzed.
+The region of interest (ROI) radiomics profiles of the original image and derived image were retrieved and profile screening was performed.
+The chosen profiles were employed in radiomics model and Radscore formula construction.
+Prediction models were developed utilizing several ML algorithms by Python based on an integrated dataset of clinical features and ultrasound radiomics.
+Model performances were evaluated via AUC.
+Plot calibration curves and clinical decision curves were used to assess model efficacy.
+The model developed by support vector machine (SVM) emerged as the superior model.
+Integrating clinical characteristics with ultrasound radiomics, it showed notable performance metrics in both the training and validation datasets.
+Specifically, in the training set, the model obtained an AUC of 0.88 (95% Confidence Interval (CI): 0.83-0.93), alongside a 0.84 accuracy, 0.68 sensitivity, and 0.91 specificity.
+When validated, the model maintained an AUC of 0.77 (95% CI: 0.63-0.88), with 0.77 accuracy, 0.62 sensitivity, and 0.83 specificity.
+The calibration curve aligned closely with the perfect calibration line.
+Additionally, based on the clinical decision curve analysis, the model offers clinical utility over wide-ranging threshold possibilities.
+The clinical- and radiomics-based SVM model provides a noninvasive tool for predicting cervical cancer stage, integrating ultrasound radiomics and key clinical factors (age, abortion history) to improve risk stratification.
+This approach could guide personalized treatment (surgery vs. chemoradiation) and optimize staging accuracy, particularly in resource-limited settings where advanced imaging is scarce.

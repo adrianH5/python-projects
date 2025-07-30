@@ -1,0 +1,6 @@
+Fibroblast activation protein (FAP) is a type II transmembrane serine protease that is selectively overexpressed in the tumor microenvironment (TME) of various cancer phenotypes, making it a promising target for personalized cancer therapy.
+Unlike other broadly expressed surface proteins, FAP is predominantly found in cancer-associated fibroblasts (CAFs), where it plays a crucial role in tumor progression.
+This selective expression enables targeted therapeutic interventions with minimal off-target toxicity.
+Conventional and some advanced cancer treatment modalities are often associated with significant background toxicity, which can be mitigated by secondary treatment strategies such as phototherapy.
+This review provides a comprehensive overview of the latest developments in FAP-targeted phototheranostic probes, including small molecules, peptides, and antibodies.
+Special emphasis is given to advancements in near-infrared (NIR)-based phototherapeutic probes, highlighting their improved imaging and therapeutic efficacy through enhanced tissue penetration.

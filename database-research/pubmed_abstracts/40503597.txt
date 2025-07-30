@@ -1,0 +1,10 @@
+Lysophosphatidylcholine acyltransferase 3 (LPCAT3) is a key enzyme in phospholipid metabolism and plays a crucial role in the reacylation phase of the Lands' cycle.
+This study explores the relationship between LPCAT3 and the abnormal decidualization of human endometrial stromal cells (hESCs) in polycystic ovary syndrome (PCOS), a condition associated with an increased risk of pregnancy complications and miscarriage.
+Our results showed that LPCAT3 expression was significantly lower in hESCs obtained from PCOS patients compared to controls.
+The knockdown of LPCAT3 in hESCs led to a decrease in the expression of decidual markers and a halt in the characteristic epithelioid-like morphological changes indicative of decidualization.
+In contrast, overexpression of LPCAT3 had the opposite effect.
+The knockdown of LPCAT3 altered the phospholipid profile, notably reducing the levels of phosphatidylcholine (PC) (16:0-20:4).
+Additionally, LPCAT3 knockdown slowed cell cycle progression and accelerated hESCs senescence.
+Importantly, reintroducing PC(16:0-20:4) could counteract the decidualization defects and premature senescence caused by LPCAT3 knockdown.
+These findings suggest that LPCAT3 plays a previously unrecognized role in facilitating the decidualization process for successful pregnancy.
+This study identifies LPCAT3 as a potential therapeutic target for improving pregnancy outcomes in PCOS by influencing lipid composition and cellular senescence in hESCs, revealing a possible mechanism underlying decidualization deficiencies in PCOS.

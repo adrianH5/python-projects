@@ -1,0 +1,10 @@
+IntroductionBrain metastasis (BM) is an inauspicious finding in patients with pancreatic cancer, which significantly increases morbidity and mortality.
+The presentation is rare, and thus, outcomes on brain metastases from pancreatic cancer are limited.MethodsThis retrospective monocentric analysis included the electronic medical records of patients ≥ 18 years presenting with BM from pancreatic cancer.
+Clinical, demographic, and overall survival (OS) data were analyzed.
+Brain imaging (computed tomography, and magnetic resonance imaging) was used for BM diagnosis.
+OS was calculated from the date of diagnosis to either the date of last follow-up or death.
+Cox regression on OS time was used with an indicator variable for patients who ultimately developed a BM.ResultsBrain metastases was diagnosed in 34 (3.7%) patients with pancreatic cancer treated in our institution.
+Of the BM patients: 7 (22%) were non-White; 16 (47%) were female; the median age was 69; 35% were diagnosed at Stage II and III; and 65% were diagnosed at Stage IV.
+BM was the first diagnosed metastasis in 14 (41%) of the patients; in 5 individuals (15%) BM were detected within the first 100 days of pancreatic cancer diagnosis.
+OS from BM diagnosis was 9 months (95% CI [6.92,17.86]).
+The adjusted hazard ratio for patients with BM was .91(95% CI [.88, .94];

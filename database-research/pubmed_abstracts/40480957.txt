@@ -1,0 +1,6 @@
+Celastrol, a natural compound classified as a pentacyclic triterpenoid, has demonstrated efficacy in inhibiting human colorectal cancer cells' growth, adhesion, and metastasis through various signaling pathways.
+However, the specific protein target responsible for the effects of celastrol remains unclear, limiting its potential for further applications in colon cancer treatment and drug development.
+In this study, we propose a novel approach by combining a cellular thermal shift assay and pulse proteolysis techniques to identify the potential binding proteins of celastrol.
+Utilizing proteomic profiling on 2-dimensional electrophoresis, we successfully identified eight potential binding targets.
+MALDI-TOF mass spectrometry was conducted to verify these proteins as EEF2, STIP1, GAPDH, FLNA, SETSIP, GANAB, TXNDC17, and PRDX2.
+Our results provide valuable insights into the protein targets through which celastrol exerts its pharmacological effects, opening up new avenues for targeted therapies and drug development in colorectal cancer.

@@ -1,0 +1,8 @@
+Hydrogels are indispensable tools for mechanobiology, providing tunable platforms that mimic the complex extracellular matrix and facilitate the study of cell-microenvironment interactions.
+This review highlights recent advances in the design of hydrogel systems with dimensionality ranging from 2D to 3D, including innovative 2.5D and sandwich configurations, to dissect the role of biophysical cues in cellular behavior and phenotype regulation.
+Special attention is given to alginate and gelatin methacrylamide (GelMA) hydrogels, which offer unique mechanical and biochemical properties tailored for diverse applications in 3D cell culture.
+Cutting-edge strategies to dynamically modulate hydrogel stiffness, viscoelasticity, and spatial confinement are discussed, showcasing their impact on cancer progression, stem cell differentiation, and collective cell migration.
+By integrating advanced hydrogel fabrication methods, including photopolymerization, dual cross-linking, and microfabrication techniques, this review underscores the transformative potential of hydrogels for unraveling the complexities of cellular mechanotransduction in evolving environments.
+We also explore the clinical potential of engineered hydrogels across applications including tissue regeneration, disease modeling, and controlled drug delivery.
+Finally, we discussed key challenges in replicating the dynamic mechanical complexity of living tissues and highlight emerging opportunities in the development of smart and adaptive hydrogel systems.
+Together, these innovations are paving the way toward next-generation biomimetic platforms that bridge fundamental research and translational applications in mechanobiology.

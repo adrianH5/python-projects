@@ -1,0 +1,6 @@
+Recently, the incidence of breast cancer has increased among postmenopausal women.
+This highlights the need for improved aromatase inhibitors with fewer side effects than those currently available.
+This study focuses on designing and evaluating potential aromatase inhibitors containing the 1,2,4-triazole/indole hybrid, given their proven impact in this respect.
+Accordingly, by exploiting the thiol and amine groups in 5-((1H-indole-3-yl)methyl)-4-amino-4H-1,2,4-triazole-3-thiol (2) to react with some reagents, new hybrid 1,2,4-triazole-indole compounds were obtained.
+A cytotoxicity (MTT) test was conducted to assess the anticancer activity of the newly synthesized compounds on the breast cancer cell line MCF-7.
+The results of the MTT assay indicated that compounds 4d and 5 exhibited significant cytotoxic activity against the MCF-7 cancer cell lines with IC

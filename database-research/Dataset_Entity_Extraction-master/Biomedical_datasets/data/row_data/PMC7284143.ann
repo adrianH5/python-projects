@@ -1,0 +1,18 @@
+T1	AccessionNumber 214 227	CHEMBL2016761
+T2	Repository 933 955	RCSB Protein Data Bank
+T3	Repository 957 960	PDB
+T4	AccessionNumber 965 969	6LU7
+T5	AccessionNumber 999 1005	265237
+T6	AccessionNumber 1018 1026	21679027
+T7	AccessionNumber 1042 1049	5281787
+T8	Repository 1076 1083	PubChem
+T9	Repository 1203 1206	PDB
+T10	Repository 1208 1211	PDB
+T11	AccessionNumber 1216 1220	6LU7
+R1	hasAttr	Arg1:T2	Arg2:T4
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T8	Arg2:T5
+R4	hasAttr	Arg1:T8	Arg2:T6
+R5	hasAttr	Arg1:T8	Arg2:T7
+R6	hasAttr	Arg1:T9	Arg2:T11
+R7	hasAttr	Arg1:T10	Arg2:T11

@@ -1,0 +1,10 @@
+Cervical cancer is one of the most common cancers in women.
+Despite progress in prevention and success in early detection through cytologic screening and Human Papilloma Virus (HPV) detection, there remains a challenge in triaging women appropriately to colposcopy and biopsy.
+We sought to validate the CervicalMethDx test, a precision DNA methylation classifier for cervical cancer detection, as a reflex test in women with HPV positive samples.
+A blinded retrospective study was performed on well-characterized samples in PreservCyt media from a large referral clinical laboratory in the United States.
+DNA methylation was assessed in three gene promoters (ZNF516, FKP6 and INTS1) and a control gene (B-actin) by quantitative Real Time Methylation Specific PCR (qMSP) analysis, using machine learning algorithms.
+We compared DNA methylation levels in HPV positive patients presenting with lesions in the Pap test and CIN2 or CIN3 histological diagnosis, to DNA methylation levels in HPV positive patients with lesions in the Pap test, but no Intraepithelial Lesions or Malignancy (NILM).
+CervicalMethDx test correctly classified 95% of the CIN2 samples (n=210), with 91% Sensitivity, 100% Specificity, and an AUC of 0.96, and 94% of CIN3 samples (n=141), with 90% Sensitivity, 100% Specificity, and an AUC of 0.96.
+Moreover, the CervicalMethDx test correctly classified 94% of combined CIN2/CIN3 samples (n=351), with 93% Sensitivity, 97% Specificity, and an AUC of 0.96.
+CervicalMethDx demonstrated strong discriminatory power for identifying CIN2/3 risk and may complement current triage strategies for colposcopy referral.
+Prospective, population-based studies, including low-resource settings, are needed for further evaluation.

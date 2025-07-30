@@ -1,0 +1,3 @@
+There is an urgent need of biomarkers to personalize metastatic castration-resistant prostate cancer (mCRPC) treatment.
+A new prognostic model described by our group combines molecular characteristics (ptDNA levels), metabolic features from PET-scans (metabolic tumor volume), clinical parameters (visceral metastases), and lab tests (lactate-dehydrogenase levels) in abiraterone or enzalutamide-treated patients.
+This study aims to validate the score on mCRPC patients undergoing taxane treatment.

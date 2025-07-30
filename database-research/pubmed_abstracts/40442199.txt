@@ -1,0 +1,9 @@
+Despite extensive research highlighting the pivotal role of NOX4 in the development of various malignancies, no systematic pan-cancer analysis has been conducted to evaluate its comprehensive prognostic value and potential immunological functions.
+In this study, we explored the prognostic significance of NOX4 and its role in immune modulation across different cancer types.
+We performed a pan-cancer analysis of NOX4 expression and its prognostic implications using multiple databases, including TCGA, GEPIA, GTEx, UALCAN, TISCH, GDSC, PDB, TIMER, and cBioPortal.
+This analysis provided a detailed assessment of NOX4 expression profiles, clinical correlations, genetic variants, tumor microenvironment interactions, immune relevance, therapeutic potential, and related gene functions through various multi-omics approaches.
+To further investigate these findings, we collected clinical samples from selected cancer types and validated NOX4 expression through immunohistochemistry, H&E staining, and RT-PCR.
+Our results revealed that NOX4 was overexpressed in most tumors, although its expression was significantly reduced in certain renal cancers.
+Moreover, we observed distinct correlations between NOX4 expression and patient prognosis.
+Notably, NOX4 expression was significantly associated with tumor infiltration, indicating its potential as a target for immunotherapy.
+Additionally, NOX4 expression showed significant correlations with immune checkpoint proteins (ICP), tumor mutation burden (TMB), microsatellite instability (MSI), RNA stemness scores (RNAss), DNA stemness scores (DNAss), RNA methylation, and DNA methylation.

@@ -1,0 +1,7 @@
+Tumors harbor multiple genetic alterations, yet treatment decisions are commonly based on single biomarkers, leading to underutilization of genomic information by comprehensive molecular tests, uncertainty in clinical practice, and frequent treatment failures.
+Although molecular tumor boards can assist personalized treatments, this process is not scalable or standardized, resulting in highly discordant recommendations.
+Validated digital solutions for personalized decision support are highly needed.
+The Digital Drug Assignment (DDA) system is a computational reasoning model that scores treatment options based on the full tumor genomic data.
+We retrospectively analyzed data of 111 lung cancer patients and found that high-score MTAs (1000≦DDA score) provided significant clinical benefit over other treatments, in terms of ORR, PFS, and OS.
+These results demonstrate that the DDA system is predictive of relative benefit of the various agents used in lung cancer care.
+Digital drug assignment can potentially address challenges with complex molecular profiles in routine clinical settings.

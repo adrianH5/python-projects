@@ -1,0 +1,13 @@
+Zinc oxide (ZnO) nanoparticles (NPs) exhibit promising antibacterial and anticancer properties.
+However, their cytotoxicity toward normal cells limits their therapeutic potential.
+To overcome this challenge, ZnO nanoparticles were loaded with quercetin (ZnO@Qc) and encapsulated within a chitosan-alginate composite, aiming to enhance their efficacy while reducing side effects.
+ZnO NPs were synthesized, characterized, and loaded with quercetin before being coated with a chitosan-alginate biopolymer.
+The antimicrobial activity was assessed through MIC and MBC assays against Gram-positive and Gram-negative bacteria.
+The cytotoxic effects were evaluated in HUVEC (normal) cells, and anticancer properties were analyzed in MCF-7 and MDA-MB-231 breast cancer cells using MTT, apoptosis (flow cytometry), scratch, and colony formation assays.
+Drug release kinetics were also studied at different pH levels.
+The chitosan-alginate-coated ZnO@Qc nanocomposite showed enhanced antibacterial activity, with lower MIC and MBC values compared to uncoated ZnO@Qc.
+The nanocomposite significantly reduced cytotoxicity toward normal HUVEC cells while maintaining strong anticancer effects, including dose-dependent inhibition of cell viability, apoptosis induction, and reduction in colony formation and cell migration.
+Gene expression analysis confirmed the upregulation of apoptotic markers (CASP3, CASP8, CASP9).
+Drug release studies demonstrated a controlled and pH-sensitive release of quercetin, favoring targeted delivery in the tumor microenvironment.
+The chitosan-alginate-coated ZnO@Qc system enhances antibacterial and anticancer efficacy while mitigating toxicity in normal cells.
+This multifunctional nanostructure holds promise for targeted breast cancer therapy and antimicrobial applications.

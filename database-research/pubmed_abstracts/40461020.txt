@@ -1,0 +1,10 @@
+In cancer-associated venous thromboembolism (CAT), extended anticoagulation should be considered when the risk-benefit profile is favorable.
+However, optimal predictors of major bleeding (MB) remain unclear.This multicenter observational study included CAT patients treated with direct oral anticoagulants (DOACs).
+Study objectives were: (i) assess the performance of nine bleeding risk scores (ATRIA, CAT-BLEED, CHAP, DOAC, HAS-BLED, Kuijer, ORBIT, RIETE, VTE-BLEED), (ii) identify predictors of MB (ISTH definition), and (iii) propose an improved bleeding risk model (Perform score).Overall, 823 patients were followed (mean 1.6 years).
+MB occurred in 44 cases (3.4% per patient-year).
+The predictive performance of bleeding risk scores was modest (c-statistics range 0.513-0.606).
+Risk factors included increasing age (HR 1.04, 95% CI 1.00-1.07), use of steroids (HR 2.69, 95% CI 1.34-5.40), antimetabolites (HR 2.51, 95% CI 1.28-4.93), and unresected gastrointestinal cancer (HR 7.30, 95% CI 1.70-31.30).
+Conversely, prior cancer surgery (HR 0.41, 95% CI 0.20-0.82) and anticancer hormones (HR 0.22, 95% CI 0.05-0.92) showed a possible protective effect toward MB risk.
+The Perform score provided a slight enhancement in risk prediction (c-statistics 0.678), but remained suboptimal.In this real-world cohort of CAT patients treated with DOACs, unresected gastrointestinal cancer and use of steroids or antimetabolites were associated with increased MB risk, while prior cancer surgery and anticancer hormones were linked to a lower risk.
+These factors, not considered in current bleeding risk scores, may refine bleeding prediction.
+Further studies should clarify their role in guiding anticoagulation decisions and improving personalized risk assessment.

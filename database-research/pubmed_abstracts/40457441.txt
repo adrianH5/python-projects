@@ -1,0 +1,5 @@
+Chimeric antigen receptor T (CAR-T) cell therapy has shown remarkable success in treating hematologic malignancies.
+However, its efficacy against solid tumors remains limited.
+One of the major challenges is the lack of specific tumor antigens.
+Therefore, the exploration and rational selection of novel tumor targets is urgently needed.
+In this study, we investigate the therapeutic potential of targeting CD155 in cancer by CAR-T cells.

@@ -1,0 +1,5 @@
+Lung cancer (LC) is associated with poor 5-year survival rates when diagnosed at advanced stages.
+While low-dose computed tomography (LDCT) screening enables earlier detection, its high false-positive rate, primarily due to benign lung nodules (BLN), necessitates more accurate diagnostic tools.
+This study developed a rapid and precise LC discrimination method by integrating Fourier transform infrared (FTIR) spectroscopy of dried serum samples with machine learning algorithms.
+We analyzed dried serum from 58 LC patients, 37 BLN patients, and 36 healthy controls.
+Five machine learning models, linear discriminant analysis (LDA), support vector machine (SVM), random forest, multilayer perceptron (MLP), and LightGBM, were optimized using FTIR spectral data (1800-900 cm cm

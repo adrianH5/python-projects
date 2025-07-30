@@ -1,0 +1,11 @@
+Cancer remains a major global health problem characterized by complex biological mechanisms and diverse clinical manifestations.
+Radiotherapy is a key element in cancer treatment.
+However, radioresistance is a major obstacle to achieving optimal results.
+This resistance is associated with several factors, including genetic and epigenetic changes in tumor cells that allow cancer cells to survive and proliferate despite radiation exposure.
+In this context, mesenchymal stem cells (MSCs) play an important role in the tumor microenvironment.
+Due to their unique properties such as self-renewal, migration to tumors via the bloodstream and involvement in paracrine signaling, they are important for understanding cancer biology and treatment responses.
+MSCs can release exosomes that can promote intercellular communication and influence tumor response to radiotherapy.
+However, the role of MSCs in cancer is complex and sometimes contradictory.
+In some contexts they may exhibit tumor suppressive effects, while in others they promote tumor growth and metastasis.
+This duality raises important questions about their overall impact on cancer therapy, particularly in relation to radiotherapy.
+This review will first explore the multifaceted role of MSCs and their exosomes as key mediators of cellular communication within the tumor microenvironment, and then assess the implications of these interactions for radiotherapy, focusing on how MSCs may influence treatment efficacy and the potential to harness their properties to improve therapeutic outcomes.

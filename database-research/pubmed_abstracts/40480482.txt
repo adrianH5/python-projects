@@ -1,0 +1,7 @@
+The contribution of magnetic nanoparticles towards the diagnosis and therapy of cancer has seen an upward graph for the past decade owing to their excellent superparamagnetic properties and contrast imaging.
+The surface functionalization of these iron oxide nanoparticles plays a pivotal role in the toxicity, circulation, and agglomeration parameters of clinical translation.
+Natural-source-based sodium alginate is a very profound biomaterial used in all areas of tissue engineering.
+This paper aims to study the properties of alginate-coated iron oxide nanoparticles conjugated to the aromatic amino acid tryptophan for cancer targeting.
+The investigation involves fabrication of the conjugated nano-system followed by analysis of the physico-chemical properties using XRD and FT-IR, evaluation of its magnetic property using VSM which shows a good superparamagnetic behaviour, along with an excellent thermal stability as shown by TGA analysis.
+The hyperthermia activity of these particles shows a very good specific absorption rate followed by the antioxidant property of the nano-conjugate, which shows potential scavenging activity.
+The biocompatibility of these nanoparticles was studied on NIH-3T3 cell lines, which showed no toxic effects, thus making the nano-conjugate an efficient cancer-targeting and therapeutic agent for future cancer nanomedicine.

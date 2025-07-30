@@ -1,0 +1,14 @@
+Virtual Screening (VS) of large compound libraries using Artificial Intelligence (AI) models is a highly effective approach for early drug discovery.
+Data splitting is crucial for benchmarking the performance of such AI models.
+Traditional random data splits often result in structurally similar molecules in both training and test sets, which conflict with the reality of VS libraries that typically contain structurally diverse compounds.
+To tackle this challenge, scaffold split, which groups molecules by shared core structure, and Butina clustering, which clusters molecules by chemotypes, have long been used.
+However, we show that these methods still introduce high similarities between training and test sets, leading to overestimated model performance.
+Our study examined four representative AI models across 60 NCI-60 datasets, each comprising approximately 33,000-54,000 molecules tested on different cancer cell lines.
+Each dataset was split in four ways: random, scaffold, Butina clustering and the more realistic Uniform Manifold Approximation and Projection (UMAP) clustering.
+Using Linear Regression, Random Forest, Transformer-CNN, and GEM, we trained a total of 8400 models and evaluated under four splitting methods.
+These comprehensive results show that UMAP split provides more challenging and realistic benchmarks for model evaluation, followed by Butina splits, then scaffold splits and closely after random splits.
+Consequently, we recommend using UMAP splits instead of overly optimistic Butina splits and especially scaffold splits for molecular property prediction, including VS. Lastly, we illustrate how misaligned ROC AUC is with VS goals, despite its common use.
+The code and datasets for reproducibility are available at https://github.com/Rong830/UMAP_split_for_VS and archived in https://zenodo.org/records/14736486 .
+Scientific contribution This work advances the field by introducing UMAP clustering as a robust splitting method for molecular datasets, improving over traditional methods like Butina clustering and especially scaffold splits.
+It offers a new evaluation framework to benchmark AI models under more realistic conditions, fostering progress in molecular property prediction.
+The findings also show how inappropriate the use of ROC AUC for virtual screening (VS) continues to be, despite its popularity, emphasizing the need for context-specific evaluation metrics.

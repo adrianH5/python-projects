@@ -1,0 +1,10 @@
+Chemotherapy-induced neuropathic pain is a common challenge in cancer treatments, and its pharmacological management often has limited efficacy and various side effects.
+Terpinolene (TPO), a bioactive molecule from essential oils, displays promising potential as adjuvant therapy to overcome the side effects of chemotherapy without compromising its efficacy.
+Here, we show the effect of TPO on paclitaxel-induced neuropathic pain (PINP) in mice and its underlying mechanisms.
+First, TPO reduced mechanical and cold allodynia as well as thermal hyperalgesia in mice with PINP in acute and subacute settings.
+Furthermore, TPO restored altered reduced glutathione (GSH) levels in the serum of mice with PINP.
+At the same time, docking analysis showed that TPO had the most negative average binding energies with serotonergic receptors (5-HT3) and α2δ subunit of voltage-gated calcium channels (VGCC).
+In vivo analyses showed that TPO antinociceptive action include opioidergic (MOR) and serotonergic (5HT2A and 5HT3) systems, as well as ATP-sensitive potassium channels.
+Moreover, TPO was non cytotoxic in glia derived cells U-87 and normal breast epithelial cells (MCF-10).
+Paclitaxel (PTX) and TPO combination exhibited a synergistic effect in inhibiting the growth of triple negative breast cancer cells (MDA-MB-231).
+Taken together, these findings suggest that TPO may represent a promising pharmacological strategy for the treatment of chemotherapy-induced neuropathic pain, by virtue of its combined antinociceptive and antiproliferative properties.

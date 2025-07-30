@@ -1,0 +1,5 @@
+Transcription factors (TFs) are key regulators of cellular gene expression programs in health and disease.
+Here we set out to integrate genomic, transcriptomic, and phosphoproteomic data to characterize TF activity in lung adenocarcinoma patients.
+Using expression data from patient samples and genomic information on TF binding to super-enhancers, starting from a list of 1667 human TFs we calculated a patient-specific activity score and identified 34 with perturbed activity in the cancer samples, as evidenced by the expression of their direct targets.
+We then leveraged phosphoproteomic data on the same samples to identify phosphorylation events that modulate TF activity.
+This novel data integration approach to TF characterization led to the identification of ERG as a key regulator in lung adenocarcinoma whose activity strongly correlates with patient survival.

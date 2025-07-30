@@ -1,0 +1,6 @@
+Ferritin is composed of H-subunits and L-subunits and serves as one of the key regulators in the iron homeostasis network.
+In malignant tumor cells, ferritin is highly expressed and plays a critical role in the growth and proliferation of tumor cells.
+Therefore, developing targeted degraders of ferritin may represent a novel therapeutic strategy for cancer treatment.
+In this study, through high-throughput virtual screening, we identified a small-molecule ligand, AY-1, targeting the H-subunit of ferritin.
+Based on this ligand, two series comprising a total of 10 molecules were designed and synthesized using PROTAC and ATTEC strategies.
+Experimental results demonstrated that AY-4 exhibits a binding affinity (

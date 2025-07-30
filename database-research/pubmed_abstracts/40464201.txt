@@ -1,0 +1,3 @@
+The basket trial is a novel type of trial that evaluates one treatment in multiple indications (such as cancer types) simultaneously.
+One challenge of applying the basket trial design to pediatric studies is limited accrual, resulting in low statistical power.
+To address this issue, we propose a Bayesian

@@ -1,0 +1,7 @@
+Proteins are pivotal in life processes; however, the constraints of current detection technologies limit our comprehensive understanding of their mechanisms.
+Disease progression, particularly in complex, multifactorial conditions, such as lung cancer, involves the dysregulation of numerous proteins.
+While protein array technology has been at the forefront in proteomic analysis, its challenges in detection throughput, sensitivity, specificity, and cost-effectiveness have impeded its broader clinical application.
+The enzymatic cleavage of proteins in the bloodstream into peptides of diverse sizes presents an opportunity for peptide array technology, providing both a theoretical basis and practical utility.
+We have developed a high-throughput peptide array specifically designed for the diagnosis and treatment of lung adenocarcinoma, encompassing peptides from 5 to 16 amino acids in length.
+This array provides comprehensive coverage of peptides derived from proteins with high mutation frequencies in lung adenocarcinoma as well as those that are differentially expressed in association with the disease.
+The array's potential for thorough lung cancer surveillance is demonstrated through the concurrent detection and classification of five distinct sample types: healthy controls, benign nodules, stage I lung adenocarcinoma, and both pre- and postoperative samples.

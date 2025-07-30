@@ -1,0 +1,8 @@
+B-cell type acute lymphoblastic leukemia (B-ALL) is the most common type of childhood malignancy.
+Although the survival rate nowadays exceeds 90%, central nervous system (CNS) involvement is associated with a poor outcome.
+Experimental models are needed to study the interaction between leukemia cells and the brain microenvironment to unravel new targets for drug intervention.
+We developed a novel three-dimensional (3D) ex vivo model utilizing murine organotypic cortical brain slices microinjected with human B-ALL cells, serving as a platform for investigating the influence of Activin A, a pro-leukemic factor, on leukemia invasion into the CNS.
+After injection, B-ALL cells exponentially increased in the cortical slices, promoting tissue mortality and an anti-inflammatory microenvironment phenotype, as demonstrated by morphological and gene expression alterations in microglia and astrocytes.
+Of note, Activin A pretreatment increased leukemia proliferation and exacerbated the effects on the microenvironment.
+Overall, our model presents an ideal platform for investigating the cross-talk between tumors and the brain microenvironment and the influence of disease-modifying factors.
+Moreover, it could facilitate drug screening across a spectrum of CNS cancers, meanwhile reducing animal usage.

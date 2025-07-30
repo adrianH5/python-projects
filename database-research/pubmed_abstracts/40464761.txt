@@ -1,0 +1,2 @@
+BODIPY-based photosensitizers are well-known for their two-photon (TP) activity.
+The BODIPY core can be substituted at three distinct positions:

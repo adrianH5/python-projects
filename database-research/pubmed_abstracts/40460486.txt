@@ -1,0 +1,6 @@
+Amino acid-degrading enzyme-based cancer therapy faces significant challenges such as rapid clearance, immunogenicity, and systemic toxicity.
+This study introduces red blood cell-derived extracellular vesicles (RBCEVs) as a transformative platform for the encapsulation, stabilization, and controlled delivery of l-lysine α-oxidase (LO; EC 1.4.3.14), an enzyme that depletes tumor-essential l-lysine (L-lys) while generating cytotoxic hydrogen peroxide.
+RBCEVs effectively encapsulate LO with high efficiency, retaining 91 % of enzymatic activity post-release in vitro.
+They achieve sustained plasma L-lys depletion for 24 h followed by full metabolic recovery within seven days, striking a balance between efficacy and safety.
+Fluorescence-conjugated LO confirms cargo loading and vesicle integrity, while RBCEVs' monodisperse size (∼200 nm), anionic charge (-16.5 mV), and long-term stability at 4 °C underscore their clinical viability.
+Unlike synthetic carriers, RBCEVs offer a modular platform for diverse therapeutic enzymes, circumventing immunogenicity risks and overcoming barriers in enzyme delivery, paving the way for clinical use.

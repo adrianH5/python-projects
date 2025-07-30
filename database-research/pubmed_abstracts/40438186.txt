@@ -1,0 +1,3 @@
+The immunosuppressive roles of galectin-3 (Gal-3) in carcinogenesis make this lectin an attractive target for pharmacological inhibition in immunotherapy.
+Although current clinical immunotherapies appear promising in the treatment of solid tumors, their efficacy is significantly weakened by the hostile immunosuppressive tumor microenvironment (TME).
+Gal-3, a prominent TME modulator, efficiently subverts the elimination of cancer, either directly by inducing apoptosis of immune cells or indirectly by binding essential effector molecules, such as interferon-gamma (IFNγ).

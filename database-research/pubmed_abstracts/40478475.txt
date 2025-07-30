@@ -1,0 +1,11 @@
+Current guidelines recommend pathologists to report percentage Gleason pattern 4 (GP4%) in Gleason score (GS) 7 prostate cancer (PCa) biopsies.
+However, it is unspecified whether the highest or overall GP4% should be reported.
+This study aims to clarify which quantification method correlates best with radical prostatectomy (RP) pathology.
+This study included 308 men with the highest GS 3 + 4 = 7, 4 + 3 = 7, or 4 + 4 = 8 on centrally revised systematic and/or targeted biopsies who underwent RP between 2018 and 2022.
+The highest and overall biopsy GP4% were compared with RP GP4% using Spearman's rank correlation coefficient and adverse pathology (AP) (pT-stage ≥ T3, GS ≥ 4 + 3 = 7 and/or pN1) using multivariable logistic regression models adjusted for clinical tumor stage, prostate specific antigen (PSA), percentage of tumor positive biopsies, biopsy modality (systematic/targeted/both), and cribriform pattern.
+Both quantification methods correlated with RP GP4% (both rho = 0.59), and no significant difference was found between them (p = 0.78).
+On multivariable analyses, both GP4% quantification methods were significantly associated with AP (per 10% increase, highest GP4% odds ratio [OR] 1.26 [95% CI 1.14-1.39], overall GP4% OR 1.38 [95% CI 1.22-1.58], both p < 0.001).
+The area under the curve (AUC) was slightly better for overall (0.78 [95% CI 0.73-0.83]) than the highest GP4% (0.76 [95% CI 0.71-0.81], p = 0.041).
+This study found that the highest and overall biopsy GP4% both correlated with RP GP4%.
+Although the discriminative performance of the highest and overall GP4% was comparable with respect to AP at RP, the overall GP4% statistically slightly outperformed the highest GP4%.
+Including the overall GP4% may have added value in risk stratification and clinical decision-making in a subset of PCa patients.

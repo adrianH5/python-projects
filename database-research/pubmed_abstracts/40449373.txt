@@ -1,0 +1,7 @@
+The composition and function of glycans are very complex thus manual data interpretation of their structural elucidation is difficult.
+Capillary electrophoresis is one of the liquid phase separation techniques, which is most frequently used to address these challenging tasks.
+Combining high-resolution capillary electrophoresis with machine learning-supported data interpretation holds the promise to gain as much chemical and clinical information from the analyzed samples as possible.
+However, this combination requires significant technological improvements both in the analytical and the data processing aspects.
+In this study we report on the development of an automated, liquid-handling robot-based sample preparation method to obtain reproducible and N-glycome profiles by capillary electrophoresis for the subsequent machine learning-supported data interpretation, which was optimized for the special needs of the analysis.
+The resulting new glycoanalytical workflow was then tested for a demanding problem to predict the effectiveness of chemotherapy treatments of lung cancer patients ensuring the effective management of the disease.
+Our findings revealed that the achieved N-glycan data contained important clinical information to accurately predict patient response to chemotherapy with AUC values ranged from 0.8290 to 0.8410.

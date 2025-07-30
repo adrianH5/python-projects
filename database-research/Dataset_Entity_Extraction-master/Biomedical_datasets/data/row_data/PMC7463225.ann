@@ -1,0 +1,6 @@
+T1	Dataset 1364 1370	GISAID
+T2	Dataset 1989 1995	GISAID
+T3	Repository 2186 2193	GenBank
+T4	AccessionNumber 2204 2215	NC_045512.2
+T5	Dataset 2556 2562	GISAID
+R1	hasAttr	Arg1:T3	Arg2:T4

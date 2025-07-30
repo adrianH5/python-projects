@@ -1,0 +1,8 @@
+Leukemia, a heterogeneous group of hematologic malignancies, poses significant challenges in terms of early diagnosis and effective treatment.
+Recent advancements in nanotechnology have paved the way for innovative approaches in leukemia management, with a particular focus on IONPs.
+This review paper explores the diverse designs of IONPs and their multifaceted applications in the diagnosis and treatment of leukemia.
+Focused discussions on the synergistic combination of IONPs with conventional chemotherapy, targeted drug delivery, and hyperthermia-based approaches provide insights into the evolving landscape of IONP-mediated leukemia therapy.
+The role of IONPs in overcoming drug resistance mechanisms and minimizing off-target effects is critically evaluated.
+The later review section provides an overview of the unique physical, chemical, and magnetic properties of IONPs, emphasizing their biocompatibility, tunable magnetic properties, and surface functionalization capabilities.
+The review finally addresses the challenges and prospects associated with the clinical translation of IONP-based diagnostic approaches.
+By addressing the challenges and opportunities in this burgeoning field, this paper aims to guide future research endeavors toward the development of effective and personalized nanotherapeutics for leukemia patients.

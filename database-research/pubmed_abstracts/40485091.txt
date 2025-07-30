@@ -1,0 +1,11 @@
+VRC01 and VRC01LS are a pair of parental and LS-modified anti-HIV IgG1-backboned monoclonal antibodies.
+In a Phase 1 clinical trial HVTN 116, 79 participants without HIV received intravenously one dose of VRC01 (30 mg/kg, n = 16) or VRC01LS (30 mg/kg, n = 10), four doses of VRC01 (10 mg/kg, n = 23 or 30 mg/kg, n = 23) every 2 months, or three doses of VRC01LS (30 mg/kg, n = 7) every 3 months.
+Participants were followed for 6 (VRC01) or 12 (VRC01LS) months after the last dose.
+Using nonlinear mixed-effects models, we conducted the first population pharmacokinetics analysis of VRC01/LS concentrations in serum and rectal tissue, a primary site of HIV transmission.
+Serum concentration was described as a one-compartment model in equilibrium with one tissue compartment, with first-order elimination in both compartments.
+The model was parameterized with micro-constants to estimate volumes of distribution for serum and tissue, serum-tissue distribution rates (K12, K21), and elimination rate constants; distribution and elimination half-life estimates were derived from the governing differential equations.
+To account for rectal biopsy heterogenicity between individuals, three normalization approaches were used: tissue weight adjusted, IgG concentration adjusted, and protein concentration adjusted.
+All three approaches rendered consistent estimates.
+Based on protein-concentration-normalized data, VRC01LS (vs VRC01) exhibited ∼10-fold higher concentrations over time in blood and rectal tissues, and faster blood-to-tissue distribution (K12 = 0.61 vs 0.13/day).
+Median elimination half-life estimates were 20 days for VRC01 and 63 days for VRC01LS in serum and rectal tissues.
+These data support lower dosage and/or less frequent dosing of LS monoclonal antibodies providing potentially more immediate protection against HIV exposure in the rectum.

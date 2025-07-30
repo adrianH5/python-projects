@@ -1,0 +1,9 @@
+Despite the well described role of non-cellular components of the tumor microenvironment (TME) in regulating tumor growth, the molecular events dictating expression and biological functions of key components of the TME remain elusive.
+Here, using pancreatic cancer (PC) models, we describe a novel mechanism through which the zinc finger transcription factor GLI2 in cancer associated fibroblasts (CAFs) induces expression of COL1A1, which is a major component of Type I Collagen, the most abundant collagen variant in the tumor milieu.
+Bulk and single nuclei RNA-Seq showed that GLI2 expression in CAF strongly correlates with COL1A1 expression levels, fibrosis, and CAF activation.
+ChIP-qPCR and expression studies of the PC matrisome identified COL1A1 as the direct target of GLI2 in CAFs.
+We also provide evidence that GLI2 is an effector that mediates COL1A1 induction by transforming growth factor β1 (TGFβ1).
+RNA-Seq analysis of PC cells treated with Type I Collagen revealed enrichment of chemotherapeutic gene expression profiles, which includes irinotecan resistance signature.
+Viability studies confirmed that Type I Collagen promotes irinotecan resistance in PC cells.
+Altogether, our results uncover a novel role for the TGFβ1-GLI2 axis within CAFs to modulate Type I Collagen expression and promote chemoresistance in PC cells.
+Together, our findings help increase the understanding of the complex molecular network operating in the TME.

@@ -1,0 +1,8 @@
+Cancer stem cells (CSCs) represent a critical therapeutic target due to their role in chemoresistance and tumor recurrence.
+Targeting CSCs based on their distinct differentiation ability is a brilliant cancer therapeutic strategy.
+Although a few small-molecule and nanomaterial-based differentiation inducers have been reported, their limited specificity raises concerns about off-target effects, particularly the unintended differentiation of normal stem cells.
+Recently, mesenchymal stem cell-derived exosomes (MSC-exos) have come into focus as drug carriers as they retain parental properties that can alter functionality of CSCs types and produce mature tumor cells.
+Herein, an in situ biosynthetic MSC-exos-based nanodrug (E-DDP@MSNs) have been developed by incubating MSCs with cisplatin-loaded mesoporous silica nanoparticles, which are then isolated from the cell culture medium by ultracentrifugation.
+In contrast to the electroporation, E-DDP@MSNs retain the exosomal contents more completely without significant leakage that can promote the CSCs to differentiate into mature tumor cells, which are more susceptible to chemotherapy.
+Mechanistically, E-DDP@MSN promotes the differentiation of CSCs by transporting exosomal DKK-1 into CSCs, thereby causing attenuation of the Wnt pathway that is essential in maintaining stemness, self-renewal, and tumorigenicity of CSCs.
+In summary, E-DDP@MSNs represent a promising approach for CSC-targeted differentiation therapy, offering high efficacy with minimal toxicity.

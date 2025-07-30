@@ -1,0 +1,4 @@
+Type-I photosensitizers (PSs) are considered to be efficient agents for overcoming the oxygen-dependent deficiency of traditional photodynamic therapy (PDT).
+However, it is still challenging to design type-I PSs that can be activated by the second near-infrared (NIR-II) irradiation.
+Herein, a series of organic heavy-atom-free molecules are designed (named as CTU1, CTU2, and CTU3) and exhibit strong absorption bands over the first near-infrared and NIR-II regions.
+Among them, water-dispersible CTU3 nanoparticles (NPs) show strong J-aggregate characteristics and a good NIR-II absorption band, resulting in highly efficient •O

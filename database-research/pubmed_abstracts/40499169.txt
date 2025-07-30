@@ -1,0 +1,7 @@
+Cuproptosis, a copper-dependent cell death, has shown promise as a cancer therapy characterized by mitochondrial protein aggregation.
+However, this distinct feature makes its efficacy highly dependent on the metabolic state of cancer cells, yielding poor outcomes in hypoxic tumors with a reduced mitochondrial activity.
+Herein, we construct a Cu-delivering vehicle with catalase-like activity using oxygen-rich cobalt single-atom nanozymes (Cu@CoNC(O)) to reprogram metabolism while delivering copper.
+By introduction of oxygen-containing functional groups onto carbon supports, Cu@CoNC(O) exhibits significantly improved loading efficiency of Cu ions compared to its oxygen-deficient counterpart.
+Simultaneously, the outstanding catalase-like activity of Cu@CoNC(O) alleviates hypoxia, switching metabolism from glycolysis to mitochondrial respiration through the inhibition of lactate metabolism and activation of the pyruvate dehydrogenase complex.
+The synergistic effect of the metabolic shift and efficient Cu delivery promotes cuproptosis even under hypoxic conditions, leading to enhanced therapeutic effects.
+This study demonstrates the potential of single-atom nanozymes as catalytic ion delivery vehicles capable of concurrently performing catalytic functions and delivering metal ions, presenting an effective strategy to enhance cuproptosis through metabolic modulation.

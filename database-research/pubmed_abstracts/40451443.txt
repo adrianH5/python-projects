@@ -1,0 +1,11 @@
+Although cancer treatment strategies have made considerable progress in recent decades, the challenge of selectively killing tumor cells while minimizing damage to healthy tissue remains.
+Radiotherapy (RT) continues to be crucial for tumor growth control when combined with surgery, chemotherapy, and immunotherapy.
+RT effectiveness depends on factors such as cancer type, tumor features, and the choice of external or internal treatment.
+Given its non-invasive nature and low systemic toxicity, RT is a suitable strategy for elderly patients.
+However, despite its efficacy, variations in cell sensitivity to radiation influence treatment outcomes, and normal cells surrounding the tumor can also be affected.
+Radiation-induced DNA damage can trigger cellular senescence, a permanent cell cycle arrest with a pro-inflammatory secretory phenotype, contributing to tissue damage in healthy cells and radio-resistance in tumor cells.
+RT causes not only DNA breakage but also epigenetic remodeling.
+Epigenetic pathways are involved in RT response, and the radiosensitivity of tumor cells can be modulated using epigenetic compounds.
+Emerging treatments based on more precise forms of RT, such as boron neutron capture therapy (BNCT), offer promising results by selectively targeting tumors while potentially preserving healthy tissues.
+BNCT has shown efficacy in glioblastoma, recurrent head and neck carcinoma, and melanoma.
+This review i) examines the mechanisms and challenges of conventional RT, focusing on aging and its role in treatment efficacy and tolerability, ii) describes the impact of senescence and epigenetic factors on resistance, iii) explores advances in BNCT, and iv) considers the potential of epigenetic drugs to optimize RT outcomes.

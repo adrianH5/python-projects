@@ -1,0 +1,9 @@
+Hepatocellular carcinoma (HCC) presents a significant global health challenge, marked by high mortality and recurrence.
+This study investigated the synergistic potential of cisplatin and palbociclib (C + P) against HCC cell lines.
+RT-qPCR revealed that C + P significantly downregulated HCC-related genes, including Hsp90, β-catenin, and components of the PI3K/AKT/mTOR pathway, compared to cisplatin alone and controls.
+Western blotting confirmed a reduction in phosphorylated AKT (P-AKT) with palbociclib and C + P, while PTEN, a tumor suppressor, was upregulated in the C + P group.
+Annexin V-FITC assays demonstrated a substantial increase in apoptosis in palbociclib and C + P treated cells.
+Cell cycle analysis indicated S and G0-G1 phase arrest with C + P, suggesting a combined cytotoxic effect.
+Scratch wound assays showed that both palbociclib and C + P significantly inhibited cell migration compared to cisplatin and controls.
+These findings suggest a promising synergistic effect of C + P in overcoming cisplatin resistance in HCC.
+However, further research is needed to fully elucidate the complex interactions between these drugs.

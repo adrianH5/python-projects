@@ -1,0 +1,9 @@
+Breast cancer, responsible for 15 % of global cancer deaths, demands therapies that balance efficacy and safety.
+Bortezomib (BTZ), a proteasome inhibitor, which is typically used in cancer treatment, while limited by rapid hydrolysis (<1 h half-life), neurotoxicity, and poor tumor targeting (<5 % accumulation), requires advanced delivery strategies.
+We address this by engineering gelatin-dopamine (Gel-Dopa) nanogels-a biocompatible platform combining gelatin's MMP-2 responsiveness and dopamine's pH-sensitive boronate bonds for tumor-targeted BTZ release.
+Co-assembly with hyaluronic acid enables CD44-mediated tumor targeting, synergizing with sub-300 nm size (254 nm) for enhanced accumulation.
+The nanogels exhibit pH/enzyme dual-responsive release: 74.8 % cumulative BTZ release at tumor acidity (pH 5.0) vs. 32.1 % at physiological pH, with MMP-2 accelerating gelatin degradation.
+In vitro studies show 2.1× higher uptake in MDA-MB-231 cells than free BTZ, potent cytotoxicity (IC50 1.45 μM vs. 3.82 μM), and > 90 % normal cell viability.
+This dual-targeting system improves BTZ's therapeutic index by 2.6-fold.
+This work bridges biocompatible materials and clinical oncology by utilizing FDA-approved biopolymers (gelatin, hyaluronic acid).
+The design is adaptable to other protease-sensitive drugs, offering a translatable strategy to transform toxic chemotherapeutics into tumor-activated precision therapies.

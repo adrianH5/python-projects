@@ -1,0 +1,13 @@
+Lanreotide and Octreotide are used to treat various endocrine and neoplastic diseases.
+This study aims to compare the adverse event profiles of Lanreotide and Octreotide in somatostatin-responsive diseases using FAERS data.
+FAERS data from Q1 2004 to Q2 2024 were reviewed for AE reports related to Lanreotide and Octreotide.
+Reports were categorized using MedDRA system organ classes (SOCs).
+Disproportionality analysis was conducted using Reporting Odds Ratios (ROR), Proportional Reporting Ratios (PRR), and Information Components (IC) to identify significant AEs.
+The top 20 AEs for each drug were analyzed, and chi-square tests assessed differences in AE frequencies between the drugs.
+Detailed comparisons were made across gastrointestinal, cardiovascular, and neoplastic AEs.
+Lanreotide was more associated with gastrointestinal AEs, such as diarrhea (1457 reports) and cholelithiasis (198 reports), with a notable signal for cholelithiasis (ROR 12.03, 95% CI 10.46-13.85).
+Octreotide had higher reports of cardiovascular AEs, including systolic (1483 reports) and diastolic (541 reports) blood pressure increases.
+Additionally, Octreotide was linked to neoplasm progression (1735 reports) and more frequent malignant neoplasms.
+Injection site reactions, including pain and nodules, were more common with Lanreotide (ROR 19.09, 95% CI 17.2-21.19).
+Lanreotide and Octreotide exhibit distinct adverse event profiles, with gastrointestinal signals more frequently observed for Lanreotide, and cardiovascular/neoplastic signals more apparent for Octreotide.
+These patterns should be interpreted with caution due to limitations of the FAERS data.

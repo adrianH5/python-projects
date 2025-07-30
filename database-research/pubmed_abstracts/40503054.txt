@@ -1,0 +1,8 @@
+CRISPR-Cas system permanently deletes any harmful gene-of-interest to combat cancer growth.
+Chitosan (CS) is a potential cancer therapeutic that mediates via PI3K/Akt/mTOR, MAPK and NF-kβ signaling pathway modulation.
+CS and its covalent derivatives have been designed as nanocarrier of CRISPR-Cas9 alone (plasmid or ribonucleoprotein) or in combination with chemical drug for cancer treatment.
+The nanocarrier was functionalized with polyethylene glycol (PEG), targeting ligand, cell penetrating ligand and its inherent positive zeta potential to mitigate premature clearance and particulate aggregation, and promote cancer cell/nucleus targeting and permeabilization to enable CRISPR-Cas9 acting on the host DNA.
+Different physicochemical attributes are required for the CS-based nanocarrier to survive from the administration site, through the systemic circulation-extracellular matrix-mucus-mucosa axis, to the nucleus target.
+CRISPR-Cas9 delivery is met with heterogeneous uptake by the cancer cells.
+Choice of excipients such as targeting ligand and PEG may be inappropriate due to lacking overexpressed cancer receptor or availability of excessive metabolizing enzyme and immunoglobulin that defies the survival and action of these excipients rendering nanocarrier fails to reach the target site.
+Cancer omics analysis should be implied to select excipients which meet the pathophysiological needs, and chitosan nanocarrier with a "transformative physicochemical behavior" is essential to succeed CRISPR-Cas9 delivery.

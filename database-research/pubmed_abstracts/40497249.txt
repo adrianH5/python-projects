@@ -1,0 +1,9 @@
+Indocyanine green (ICG) is a small molecule approved by the U.S. Food and Drug Administration (FDA) for liver function imaging and angiography.
+ICG can be used not only for near-infrared imaging but also for photodynamic and photothermal therapy.
+However, the hydrophilicity of ICG leads to a relatively short blood circulation time, and it is easily cleared by organs such as the liver.
+Moreover, it lacks the targeting ability to the diseased sites.
+By using the natural porous metal-organic frameworks (MOFs) as the carrier, high-efficiency loading of ICG molecule can be achieved, which has significantly broadened its biomedical applications.
+This review comprehensively summarizes the research work in recent years regarding the utilization of MOF as a carrier to load ICG in the bioapplication such as malignant cancer inhibition, antibacterial treatment, and the treatment of Alzheimer's disease.
+It focuses on summarizing the design concepts of different types of MOF carriers for loading ICG molecules.
+Meanwhile, it emphasizes the enhanced therapeutic effects achieved when multiple treatment modalities realized through post-modification are combined with ICG-mediated phototherapy.
+It is expected that through the summary of this review, the biomedical applications of ICG in the field of disease treatment can be further promoted.

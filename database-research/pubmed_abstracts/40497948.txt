@@ -1,0 +1,8 @@
+Lung cancer is the most diagnosed cancer and the primary cause of cancer-related mortality worldwide, with lung adenocarcinoma (LUAD) becoming the prevalent histological subtype.
+Rac GTPase activating protein 1 (RacGAP1) has been found to be upregulated in several cancers, where it acts as an oncogene; nevertheless, its role in lung adenocarcinoma is largely unknown.
+The present study investigated the clinical relevance, the oncogenic function and the underlying molecular mechanisms of RacGAP1 in LUAD.
+Analyses of five patient cohorts' datasets revealed that RacGAP1 was upregulated in adenocarcinoma tissues compared to normal lung tissues, and its overexpression was associated with unfavorable prognostic factors and poor survival; intriguingly, RacGAP1 expression was related to tobacco smoke, a well-known risk factor for LUAD.
+Then, experimental analyses demonstrated that RacGAP1 knockdown inhibited cell proliferation, migration and invasion, thus highlighting its role in promoting LUAD.
+Finally, the finding of significant correlations between RacGAP1 and Wnt-altered status or β-catenin in patients led to experiments demonstrating that silencing of RacGAP1 reduced β-catenin transcriptional activity, thereby downregulating the expression of Wnt-related genes, i.e., LGR5, Wnt2B and Wnt5A.
+Overall, our findings indicate that RacGAP1 plays an oncogenic role in adenocarcinoma, contributing to the abnormal activation of the Wnt/β-catenin signaling pathway.
+These findings may pave the way for innovative therapeutic strategies and the development of advanced diagnostic panels.

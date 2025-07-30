@@ -1,0 +1,9 @@
+In situ and metastatic malignant tumors are primary diseases that threaten human life.
+Among all the metastases, liver metastasis is the most difficult to detect.
+As most imaging probes have high liver accumulation, it is difficult to distinguish tiny metastases from normal liver tissue with strong background signal.
+In this study, the design of a novel second near-infrared window (NIR-II) fluorescence probe for precise detection of carcinoma in situ and liver metastases is presented.
+The probe called Tg-RGD utilizes a commercially available cyanine dye IR-806 as the signaling moiety, a disulfide bond linker as the responsive moiety, an RGD-capped poly(ethylene glycol) (PEG) as the water soluble enhancer, and the tumor targeting moiety.
+Tg-RGD shows good glutathione (GSH) responsiveness and selectivity, where its NIR-II fluorescence intensity can enhance 50-fold after activation.
+In vivo study indicates that Tg-RGD shows much better imaging and targeting effects than Tg-PEG with a similar structure but without RGD moiety for both orthotopic breast cancer and osteosarcoma.
+Most importantly, Tg-RGD can detect tiny liver metastases with high signal-to-background ratio (3.2).
+Thus, this study reports a high-performance tumor-specific NIR-II fluorescence probe for in situ and tiny metastatic tumor detection, and may further broaden the applications into related tumor lesions.

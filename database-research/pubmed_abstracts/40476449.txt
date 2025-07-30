@@ -1,0 +1,9 @@
+Metastasis is a major cause of cancer deaths, but the underlying molecular mechanisms remain largely unknown.
+Esophageal squamous cell carcinoma (ESCC) is a highly aggressive cancer with poor survival, yet the key kinases driving ESCC metastasis and their biological function have not been fully discovered.
+Here, a kinase-substrate map of metastatic ESCC is presented for the first time by conducting a phosphoproteomics analysis of 60 clinical specimens.
+By further consolidating data with CRISPR/Cas9 functional screening, LIM domain kinase 1 (LIMK1) is identified as a novel kinase of β-catenin.
+The in vitro and in vivo experiments demonstrated that LIMK1 cooperates with Cyclin-dependent kinase 5 (CDK5) to promote cancer metastasis in a phosphorylation-dependent manner.
+Mechanistically, LIMK1 and CDK5 synergistically phosphorylate β-catenin at S191, enhancing its phosphorylation and interaction with Nucleoporin 93, resulting in β-catenin nuclear translocation and activation of key pathways in cancer metastasis.
+High expression of LIMK1 and CDK5 is associated with poor prognosis of ESCC patients, and the clinical and functional significance of LIMK1/CDK5-Wnt/β-catenin axis is also verified in esophageal adenocarcinoma, gastric cancer, and lung cancer.
+Furthermore, the combination of LIMK1 and CDK5 inhibitors significantly suppresses metastasis in multiple models.
+This work highlights LIMK1 as a novel regulatory and targetable kinase of β-catenin, informing the treatment of advanced cancer.

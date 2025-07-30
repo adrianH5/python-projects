@@ -1,0 +1,18 @@
+T1	Repository 510 514	NCBI
+T2	AccessionNumber 737 748	NC_045512.2
+T3	AccessionNumber 750 758	MT435086
+T4	AccessionNumber 760 768	MT339041
+T5	AccessionNumber 770 778	MT066156
+T6	AccessionNumber 783 793	MT507794.1
+T7	Repository 868 920	National Centre for Biotechnology Information (NCBI)
+T8	Repository 965 972	miRBase
+T9	URL 983 1005	http://www.mirbase.org
+T10	Repository 1217 1224	miRbase
+T11	Repository 1518 1525	miRbase
+T12	Repository 2350 2357	miRbase
+R1	hasAttr	Arg1:T7	Arg2:T2
+R2	hasAttr	Arg1:T7	Arg2:T3
+R3	hasAttr	Arg1:T7	Arg2:T4
+R4	hasAttr	Arg1:T7	Arg2:T5
+R5	hasAttr	Arg1:T7	Arg2:T6
+R6	hasAttr	Arg1:T8	Arg2:T9

@@ -1,0 +1,12 @@
+This article presents new relevant aspects of the recently updated German, Swiss, Austrian Onkopedia guideline for the treatment of esophageal cancer.
+The full guideline can be accessed at https://www.onkopedia-guidelines.info/en/onkopedia/guidelines/esophageal-cancer/@@guideline/html/index.html.
+All rights for the use of text sections and Figures have been obtained.
+The most important aspects in the perioperative treatment of resectable esophageal adenocarcinoma include the recommendation for the use of perioperative chemotherapy with FLOT as it was shown superior to preoperative chemoradiotherapy analogous CROSS in the ESOPEC trial.
+Furthermore, there is increasing evidence for the effectivity of targeting therapy and immune checkpoint inhibition in certain molecular defined subgroups.
+Immune checkpoint inhibition is recommended in combination with perioperative chemotherapy (FLOT) for MSI-H tumors, whereby the treatment should preferably take place in studies.
+In the metastatic setting, the approval for the PD-1 inhibitor tislelizumab was extended to the first-line treatment of both, squamous cell- and adenocarcinoma of the esophagus (TAP score (≥ 5%) and for second line for squamous-cell cancer only (independent of PD-L1 expression).
+Moreover, for gastroesophageal junction (GEJ) tumors, pembrolizumab is available upon PD-L1 expression (CPS ≥ 1) according to the data of the KEYNOTE-859 trial.
+In addition to the established biomarkers HER2 und PD-L1, Claudin 18.2 represents now a new targetable option.
+First-line chemotherapy is to be combined with zolbetuximab in Claudin 18.2 positive GEJ tumors.
+For biomarker-negative adenocarcinomas of the esophagus and esophago-gastric junction (GEJ), a modified triplet regimen (TFOX) is a newly presented treatment option.
+Because of high toxicity rates and yet unclear survival benefit this option is only recommended for docetaxel-naïve patients with high remission pressure.

@@ -1,0 +1,19 @@
+T1	Repository 348 355	GenBank
+T2	AccessionNumber 356 367	NC_045512.2
+T3	Repository 446 453	GenBank
+T4	AccessionNumber 454 462	MG772933
+T5	Repository 518 525	GenBank
+T6	AccessionNumber 526 534	MG772934
+T7	Repository 616 623	GenBank
+T8	AccessionNumber 624 633	NC_004718
+T9	Repository 649 656	GenBank
+T10	AccessionNumber 657 666	NC_019843
+T11	Dataset 918 924	GISAID
+T12	URL 935 957	www.gisaid.org/CoV2020
+T13	Dataset 1042 1047	GISAD
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T5	Arg2:T6
+R4	hasAttr	Arg1:T7	Arg2:T8
+R5	hasAttr	Arg1:T9	Arg2:T10
+R6	hasAttr	Arg1:T11	Arg2:T12

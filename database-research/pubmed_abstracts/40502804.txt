@@ -1,0 +1,9 @@
+Photoacoustic tomography (PAT), widely applied using linear array ultrasound transducers for clinical and preclinical imaging, faces significant challenges due to sparse sensor arrangements and limited sensor pitch.
+These factors often compromise image quality, particularly in devices designed to have fewer sensors to reduce complexity and power consumption, such as wearable systems.
+Conventional reconstruction methods, including delay-and-sum and iterative model-based techniques, either lack accuracy or are computationally intensive.
+Recent advancements in deep learning offer promising improvements.
+In particular, model-based deep learning combines physics-informed priors with neural networks to enhance reconstruction quality and reduce computational demands.
+However, model matrix inversion during adjoint transformations presents computational challenges in model-based deep learning.
+To address the challenges, we introduce a simplified, efficient GE-CNN framework specifically tailored for linear array transducers.
+Our lightweight GE-CNN architecture significantly reduces computational demand, achieving a 4-fold reduction in model matrix size (2.09 GB for 32 elements vs. 8.38 GB for 128 elements) and accelerating processing by approximately 46.3 %, reducing the processing time from 7.88 seconds to 4.23 seconds.
+We rigorously evaluated this approach using synthetic models, experimental phantoms, and in-vivo rat liver imaging, highlighting the improved reconstruction performance with minimal hardware.

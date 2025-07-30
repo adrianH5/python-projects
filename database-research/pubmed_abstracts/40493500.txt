@@ -1,0 +1,3 @@
+Gamma-glutamyl transpeptidase (GGT) is essential for glutathione metabolism and is overexpressed in many cancers, making its sensitive and quantitative detection crucial for early cancer diagnosis.
+However, existing imaging strategies often lack sufficient sensitivity and accuracy.
+Herein, we present a near-infrared (NIR), ratiometric photoacoustic nanoprobe (

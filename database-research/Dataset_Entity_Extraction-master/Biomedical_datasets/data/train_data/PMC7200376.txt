@@ -1,0 +1,10 @@
+The genome sequences of these viruses were obtained from the RefSeq database (ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/viral/) and RNA fragments of 260 base in length were generated based on these viral genomic sequences.
+Since mRNAs incorporating modified nucleosides such as pseudouridine and methylcytidine may make these RNAs less immunogenic [7], pseudouridine instead of uridine and methylcytidine instead of cytidine were used as substrates for IVT.
+We also added an anti-reverse cap analog (ARCA) into the substrate mix to act as a modified nucleoside for incorporation as the 5′ cap of the IVT mRNA, to avoid inhibition of translation [8].
+To examine whether the identified RNA stabilizing regions are evolutionarily conserved, we compared the genomes of 37 viruses belonging to the Coronaviridae family (Table S6), including human and bat coronaviruses from the RefSeq database (ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/viral/) and SARS-CoV-2 from the NCBI Nucleotide database (https://www.ncbi.nlm.nih.gov/nuccore/MN908947).
+The genomic sequences of 26 different viral genomes across all groups of the Baltimore classification [6,13] (Table S1) were acquired from the RefSeq database (ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/viral/).
+Genome sequences of viruses from the Coronaviridae family were obtained from the RefSeq database (ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/viral/).
+The genome sequence of SARS-CoV-2 was obtained from the NCBI Nucleotide database (https://www.ncbi.nlm.nih.gov/nuccore/MN908947).
+The genomic sequences of SARS-CoV-2 sampled from human hosts were downloaded from the GISAID database [18].
+Only genome sequences that had no ‘N’ nucleotides and were incorporated into the Nextstrain website (https://nextstrain.org/ncov/global; last access: 2020/0) were selected, resulting in 1,116 SARS-CoV-2 genomes (Table S2).
+Comparative genomic analysis revealed that these RNA sequences and their predicted secondary structures are highly conserved between SARS-CoV and the novel coronavirus, SARS-CoV-2, which is responsible for the global outbreak of the coronavirus-associated disease that emerged in December 2019 (COVID-19).

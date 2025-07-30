@@ -1,0 +1,5 @@
+Simultaneous measurement of drugs used to treat cancer and medications prescribed to overcome resistance to these drugs is important in pharmaceutical formulations and biological samples.
+In this study, a spectrophotometric method with a hybrid of discrete wavelet transform (DWT), principal component analysis (PCA), fuzzy inference system (FIS), and adaptive Neuro fuzzy inference system (ANFIS) was used to predict concentrations of erlotinib (ERL) and niclosamide (NCM) in binary mixtures and biological samples simultaneously.
+In DWT, three wavelet families named Daubechies 4 (db4), Symlet 2 (sym2), and Demeyer (DM) were utilized to decompose the absorption of mixtures at five levels, and the resulting matrixes were separately reduced through PCA.
+The reduced dimensionality outputs were considered as inputs to the FIS and ANFIS models.
+The performance of DWT-FIS and DWT-ANFIS models were surveyed in terms of the statistical indices, such as coefficient of determination (R

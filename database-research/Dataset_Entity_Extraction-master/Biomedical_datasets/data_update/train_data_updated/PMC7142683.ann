@@ -1,0 +1,3 @@
+T1	Dataset 368 424	GISAID (Global Initiative on Sharing All Influenza Data)
+T2	AccessionNumber 426 440	EPI_ISL_410486
+R1	hasAttr	Arg1:T1	Arg2:T2

@@ -1,0 +1,6 @@
+The tumor microenvironment (TME) plays a pivotal role in tumor progression, immune evasion, and therapeutic responses.
+Among its key components, endothelial cells (ECs) are crucial regulators of angiogenesis, immune cell trafficking, and metabolic adaptations.
+This study integrates single-cell and transcriptomic analyses to identify tumor-specific endothelial cell signatures in hepatocellular carcinoma (HCC) and stratify tumors into three distinct molecular subtypes.
+These subtypes exhibit unique immune landscapes and biological characteristics, including pathway activation and differential responses to immunotherapy and targeted treatments.
+Using machine learning, we developed a robust prognostic scoring model to predict patient outcomes and therapy responsiveness, which was validated across independent cohorts.
+Our findings highlight the critical role of endothelial cells in modulating the TME and underscore the potential of targeting EC-specific molecular features to enhance the efficacy of immunotherapy and optimize personalized cancer treatment.

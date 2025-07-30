@@ -1,0 +1,8 @@
+Eukaryotic ribosomes exhibit higher mRNA translation fidelity than prokaryotic ribosomes, partly due to eukaryote-specific ribosomal RNA (rRNA) insertions.
+Among these, expansion segment 27L (ES27L) on the 60S subunit enhances fidelity by anchoring methionine aminopeptidase (MetAP) at the nascent protein exit tunnel, accelerating co-translational N-terminal initiator methionine (iMet) processing.
+However, the mechanisms by which iMet processing influences translation fidelity remain unknown.
+Using yeast in vitro translation (IVT) systems, we found that inhibiting co-translational iMet processing does not impact ribosome decoding of ongoing peptide synthesis.
+Instead, our novel method to monitor iMet processing in vivo revealed that ribosomes purified from strains lacking MetAP ribosomal association (ES27L Δb1-4) or major yeast MetAP (Δmap1) increase iMet retention on ribosomal proteins (RPs).
+Given the densely packed structure of ribosomes, iMet retention on RPs may distort ribosomal structure and impair its function.
+Indeed, reconstituted IVT systems containing iMet-retaining ribosome subunits from ES27L Δb1-4 strain, combined with translation factors from wild-type strains, elucidated that iMet retention on the 40S ribosomal subunit causes translation errors.
+Our study demonstrated the critical role of ES27L in adjusting ribosome association of universally conserved MetAP enzyme to fine-tune iMet processing of key RPs, thereby ensuring the structural integrity and functional accuracy of eukaryotic ribosomes.

@@ -1,0 +1,9 @@
+Memory is an incredible aspect of our immune system.
+Similarly to our cognitive memory, it allows us to remember and respond more efficiently to subsequent encounters with the same pathogens, making it possible to act on the information built by previous experiences.
+This process is critical for the body's defenses against infections and is the cornerstone for the effectiveness of vaccines.
+Immunological memory, traditionally considered an exclusive quality of the adaptive immune system, is a sophisticated component of the immune response system that is characterized by the ability to recognize and remember specific pathogens.
+This form of memory is primarily observed in antigen-specific T and B cells, which are specialized for recognizing particular antigens and generating a quicker immune response upon each successive reinfection over a long period of time.
+Natural killer (NK) cells, essential as the body's first line of defense against a wide range of viral infections and tumors, have traditionally been classified as a key component of the innate immune system, characterized by their lack of antigen specificity and memory.
+However, the concept of innate vs. adaptive has been evolving, with increasing evidence suggesting that specific cellular subsets of the innate immune system may also play a role in immunological memory.
+This review aims to provide a comprehensive overview of the recent advances in the understandings of the molecular mechanisms driving the development of memory-like properties in NK cells, with a primary focus on human data in the context of various diseases and infectious conditions.
+Additionally, we will examine the therapeutic implications of these findings, highlighting how insights into NK cell memory can contribute to the development of novel immunotherapies and improve strategies for treating infections, cancer, and autoimmune disorders.

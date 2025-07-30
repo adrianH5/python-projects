@@ -1,0 +1,4 @@
+Cohesin is a major regulator of three-dimensional genome organization and gene expression.
+Cohesin associates with DNA and dynamically extrudes a DNA loop, often bringing two cis-regulatory elements physically close together.
+Extruding cohesin molecules can be stalled or stabilized when they encounter a CTCF insulator protein on DNA, thereby anchoring a DNA loop.
+However, many enhancer-promoter loops that are bound by cohesin lack CTCF and it is not clear how cohesin is stabilized at or recruited to these sites in the genome.

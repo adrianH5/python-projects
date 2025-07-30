@@ -1,0 +1,10 @@
+Skin cancer incidence has drastically increased, causing a significant impact on global health.
+Increased UV radiation, along with changes in genetic and environmental factors, triggers the uncontrolled proliferation of skin cells.
+To address the increasing incidence of skin cancer, the discovery of novel treatment strategies is crucial.
+Natural products are one of the promising and alternative approaches for the treatment of skin cancer, which helps to mitigate the growing global health burden.
+Butein, naturally present in many plant families, demonstrates significant pharmacological properties, including anticancer activity.
+It inhibits the metastatic behavior in mouse melanoma cells; however, its effect on human skin carcinoma cell lines remains unexplored.
+Thus, this study investigates the anticancer potential of butein on skin carcinoma by employing different cytotoxicity assays such as Sulphorhodamine B (SRB), Neutral Red Uptake (NRU), and 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT).
+Further, cell-based assays and molecular interaction studies were performed to explore the inhibitory potential of butein on lipoxygenase-5 (LOX-5) and hyaluronidase, prominent cancer markers.
+Further investigation revealed that butein arrests cell cycle progression, increases reactive oxygen species (ROS) generation, and disrupts the mitochondrial membrane potential (MMP), leading to both apoptotic and necrotic cell death.
+In addition, butein possesses good oral bioavailability, drug-like properties, and high gastrointestinal absorption in prediction studies, while it did not alter human erythrocytes' integrity in an ex vivo study, suggesting it is a possible candidate for future trials.

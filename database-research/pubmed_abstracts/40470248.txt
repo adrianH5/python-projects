@@ -1,0 +1,9 @@
+GTPase-activating proteins (GAPs) are important regulators of small GTPases with a wide range of cellular functions; among these, ASAP1 stimulates GTP hydrolysis on Arf1 and is implicated in cancer progression.
+ASAP1 contains a Pleckstrin Homology (PH) domain critical for maximum hydrolysis of GTP bound to the small GTPase Arf.
+The prevailing view of PH domains is that they regulate proteins by passive mechanisms such as recruitment to the membrane surface.
+In sharp contrast to this model of regulation, our research reveals that the PH domain of ASAP1 actively contributes to Arf1 GTP hydrolysis.
+By combining NMR, molecular dynamics simulations, kinetic assays, and mutational analysis, we found that the PH domain directly interacts with Arf·GTP at the membrane, to drive conformational rearrangements of the GTP binding site.
+These structural changes establish an active state primed for GTP hydrolysis, facilitating charge stabilization which in turn, significantly enhances the catalytic rate of the GTPase reaction.
+Specifically, we identified key residues on both the PH domain and Arf responsible for this allosteric mechanism.
+Further, through mathematical modeling, we quantified the contribution of this newly discovered allosteric mechanism to ASAP1 GTPase-activating protein activity and found that it contributes equally to GTPase activation as membrane recruitment.
+The discovery that PH domains can directly affect nucleotide hydrolysis by a small GTPase has ramifications for the larger group of small GTPases, that include Ras and Rho proteins, that are regulated by proteins with PH domains, control diverse cellular functions and are oncoproteins.

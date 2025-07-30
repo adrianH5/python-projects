@@ -1,0 +1,4 @@
+Two-dimensional cell culture may be insufficient when it comes to understanding human disease.
+The redox behavior of complex, three-dimensional tissue is critical to understanding disease genesis and propagation.
+Unfortunately, few measurement tools are available for such three-dimensional models to yield quantitative insight into how reactive oxygen species (ROS) form over time.
+Here, we demonstrate an imaging platform for the real-time visualization of H

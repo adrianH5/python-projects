@@ -1,0 +1,33 @@
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a CoV identified as the causal agent of the respiratory epidemic first detected in China (Wuhan) and subsequently declared by the World Health Organization (WHO) as the COVID-19 pandemics due to the spread of the outbreak to other countries worldwide (Lai et al., 2020; Zheng, 2020).
+COVID-19 has caused a significant loss in human lives and has resulted in a tremendous economic damage across the five continents (Ahn et al., 2020).
+At present, there is no accurate therapy for COVID-19 though some medications such as chloroquine/hydroxychloroquine (Wright et al., 2020), combinations of antiviral and anti-inflammatory treatments (Stebbing et al., 2020), traditional Chinese medicine (Ren et al., 2020) and other therapeutics (Ahn et al., 2020; Elfiky, 2020) have been proposed.
+The development of vaccines against COVID-9 is also at its infancy (Ahmed et al., 2020; Prompetchara et al., 2020; Robson, 2020).
+Due to the extent of the pandemic, experimental research on COVID-19 vaccine candidates and therapeutics as well as the identification of suitable experimental models are needed to limit the impact of SARS-CoV-2 infection.
+With the outbreak of COVID-19, scientists have put forward effort to analyze the codon usage bias of CoVs in order to improve our understanding on the emergence, adaptation, spread and evolution of SARS-CoV-2 (Tort et al., 2020).
+As a systems biology approach, network-pharmacology has been also used for evaluating the potential of traditional Chinese medicines against COVID-19 (Yu et al., 2020).
+In silico prediction of drug candidates against COVID-19 has been also proposed on the basis of Angiotensin converting enzyme 2 (ACE2) regulatory network (Cava et al., 2020); however, this prediction had no direct connection with viral infection.
+To the best of our knowledge, systems biology approaches based on codon usage co-adaptation between SARS-CoV-2 and its human host as well as SARS-CoV-2-induced differential gene expression have not been applied for discovering potential therapeutics for COVID-19 and other respiratory CoVs.
+Hence, the primary purpose of the present study was to use systems biology approaches for analyzing the codon usage profile of SARS-CoV, SARS-CoV-2 and MERS-CoV in order to provide useful molecular data for the development of attenuated SARS-CoV-2 vaccine strains that may have vaccine potential against COVID-19 and a broader applicability for CoVs.
+Finally, based on our knowledge of these genes, we also aimed to predict, in silico, the potential drugs for the treatment of the ongoing COVID-19 in particular, and CoV infection in general.
+Based on the model of CAI, ENc-GC3 and RSCU of the three CoVs, we uncovered the functional role of CoV-responsive human genes and how respiratory CoVs affect human genes, and revealed a useful set of drugs that could guide practitioners in strategical monitoring of COVID-19.
+The full-length CDS sequences of SARS-CoV, SARS-CoV-2 and MERS-CoV were downloaded from the NCBI virus (https://www.ncbi.nlm.nih.gov/labs/virus/vssi/) database.
+The gene expression dataset GSE147507 (Blanco-Melo et al., 2020) containing the gene expression of human cells transfected or untransfected with SARS-CoV-2 was downloaded from the GEO database(https://www.ncbi.nlm.nih.gov/geo/).
+The viruSITE (http://www.virusite.org/), a database of viral genomes and genes (Stano et al., 2016), was used for analyzing the sequences of SARS-CoV, SARS-CoV-2 and MERS-CoV based on the reference sequences deposited in this database.
+PCA is a multivariate analysis approach that is used for geometrical plotting of sets of columns and rows in a given dataset (Wold et al., 1987).
+In order to examine the genomic similarity of SARS-CoV, SARS-CoV-2 and MERS-CoV, similarity analysis was performed using the viruSITE database.
+Using the Drug-Gene Interaction database (DGIdb), we identified drug candidates targeting the potential human genes affected by viral infection.
+Among the remaining genes we found hydroxychloroquine (3 target genes) and chloroquine (2 target genes) which have been recently proposed as therapeutics for COVID-19.
+We inferred that the list of drugs found in this study could be useful for the treatment of COVID-19.
+This approach could be adopted in the search for vaccines against respiratory viruses such as the SARS-CoV2 responsible for COVID-19.
+Currently, the mechanism underlying the pathogenesis of COVID-19 is unknown.
+In addition, recent studies have reported that segmental pulmonary emboli (hemoptysis) occurs in COVID-19 infection (Casey et al., 2020), which corroborated with our finding that the pathway of hematopoietic cell lineage is potentially dysregulated in CoV infections.
+Currently, there is no precise therapy for treating the ongoing COVID-19.
+Here, we predicted a set of drugs that could be efficient in the treatment of COVID-19 and other CoV infections.
+In the early search of treatment for SARS-CoV-2 infection, researchers have proposed hydroxycholoroquine and chloroquine as treatment for COVID-19 (Singh et al., 2020).
+Our study also predicted these drugs as a treatment for COVID-19 and other CoV infections.
+Thus, we believe that its administration to CoV-infected patients will probably be salutary for patients especially due to the fact that studies have demonstrated that the neuroinvasive ability of SARS-CoV2 is partially associated with the respiratory failure of COVID-19 patients (Li et al., 2020).
+Coronavirus disease 2019 (COVID-19) has caused thousands of deaths worldwide and has become an urgent public health concern.
+Herein, based on publicly available genomic data, we analyzed the codon usage co-adaptation profiles of SARS-CoV-2 and other respiratory coronaviruses (CoVs) with their human host, identified CoV-responsive human genes and their functional roles on the basis of both the relative synonymous codon usage (RSCU)-based correlation of viral genes with human genes and differential gene expression analysis, and predicted potential drugs for COVID-19 treatment based on these genes.
+Using the drug-gene interaction database, we screened a list of drugs that could target these genes as potential COVID-19 therapeutics.
+Our findings not only will contribute in vaccine development but also provide a useful set of drugs that could guide practitioners in strategical monitoring of COVID-19.
+We recommend practitioners to scrupulously screen this list of predicted drugs in order to authenticate those qualified for treating COVID-19 symptoms.

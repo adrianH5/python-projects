@@ -1,0 +1,9 @@
+Emerging evidence indicates that hypertrophic scars (HS) display tumor-like behaviors, characterized by excessive, rapid cellular proliferation.
+To investigate potential therapeutic interventions, this study focused on the effects of CYT997, a novel anti-cancer drug, on hypertrophic scar fibroblasts (HSFs).
+HS tissues were collected from patients and compared with normal skin samples.
+CYT997 decreased HSF viability in a concentration-dependent manner, with a selected concentration for further experiments.
+It selectively induced apoptosis in HSFs but not in normal fibroblasts, as shown by flow cytometry and fluorescence microscopy.
+CYT997 also reduced HSF migration, contractility, and expression of collagen I and α-smooth muscle actin (α-SMA), indicating decreased fibrosis.
+In a rabbit ear hypertrophic scar model, CYT997 treatment inhibited scar formation, reduced the scar elevation index, and promoted apoptosis in HSFs.
+It also regulated apoptosis-related proteins poly(ADP-ribose) polymerase (PARP) and caspase-3 in HSFs.
+These findings suggest that CYT997 has potential as a targeted therapy for hypertrophic scars by inducing apoptosis in HSFs and reducing fibrotic activity.

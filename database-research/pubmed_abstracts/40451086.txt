@@ -1,0 +1,3 @@
+Survival endpoints are the cornerstone of cancer research.
+Their accuracy depends on the quality of the data sources, and many sources of survival data, such as electronic medical records (EMRs), provide incomplete data.
+It is unknown how often retrospective studies in oncology journals report their survival data sources or use high-quality sources.

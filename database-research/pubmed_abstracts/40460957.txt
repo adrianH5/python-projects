@@ -1,0 +1,10 @@
+Radiotherapy is crucial in the comprehensive management of esophageal squamous cell carcinoma (ESCC).
+Nevertheless, its efficacy is compromised by the emergence of radioresistance, leading to poor prognoses.
+Accumulating research has underscored the critical role of deubiquitinases (DUBs) in modulating radiosensitivity.
+This study aimed to identify potential DUBs that mediate radioresistance in ESCC and to elucidate the underlying regulatory mechanisms.
+Our research has identified deubiquitinase USP49 as a critical regulator of radiosensitivity in ESCC both in vivo and in vitro.
+Elevated USP49 expression was related to a poorer prognosis in ESCC patients receiving chemoradiotherapy.
+Mechanistically, the ataxia telangiectasia mutated (ATM) promotes liquid-liquid phase separation (LLPS) of USP49 and its recruitment at DNA double-strand breaks (DSBs) upon ionizing radiation (IR) exposure.
+USP49 deubiquitinates and recruits RPA70 to DSBs along with Rad51, thereby promoting homologous recombination (HR) repair.
+Moreover, p53 further augments the transcription of USP49 upon IR exposure.
+Our findings clarify a previously unrecognized mechanism by which USP49 modulates HR and radioresistance, proposing that targeting USP49 could potentially enhance radiosensitivity and improve prognosis of ESCC patients.

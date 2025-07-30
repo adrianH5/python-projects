@@ -1,0 +1,10 @@
+Purpose To perform a systematic review of the literature and meta-analysis to summarize the diagnostic performance of breast imaging modalities for cancer detection in pregnant and lactating patients.
+Materials and Methods A systematic review of the literature in PubMed, Scopus, Web of Science, and Cochrane Library databases published up until March 3, 2023, was conducted.
+Included studies evaluated patients of any age who underwent breast imaging during pregnancy or lactation.
+The primary outcome of this review was sensitivity and specificity of each imaging modality.
+Meta-analysis was performed using a bivariate modeling approach, and summary receiver operating characteristic (ROC) analysis was used to generate a summary area under the ROC curve (AUC).
+Results Twenty-five studies met the eligibility criteria and included 1681 female patients (mean age, 33 years; range, 18-49 years).
+For US, seven of 24 studies had complete data yielding an AUC of 0.90 (95% CI: 0.85, 0.93), a sensitivity of 81% (95% CI: 56, 94), and a specificity of 85% (95% CI: 71, 92).
+For mammography, three of 21 studies had complete data yielding an AUC of 0.93 (95% CI: 0.75, 0.97), a sensitivity of 72% (95% CI: 47, 88), and a specificity of 93% (95% CI: 86, 97).
+For MRI, two of eight studies had complete data yielding an AUC of 95% (95% CI: 59, 96), a sensitivity of 91% (95% CI: 56, 99), and a specificity of 88% (95% CI: 48, 98).
+Conclusion US, mammography, and breast MRI showed high diagnostic performance for detection of pregnancy-associated breast cancer in symptomatic pregnant or lactating patients.

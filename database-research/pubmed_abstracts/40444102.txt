@@ -1,0 +1,3 @@
+The DNA repair protein O6-methylguanine-DNA methyltransferase (MGMT) may cause resistance of tumor cells to alkylating agents and is a predictive biomarker in high-grade gliomas treated with temozolomide.
+Recent European Association of Neuro-Oncology (EANO) guidelines recommend internal validation of MGMT methylation cutoffs and reporting of gray zone values.
+This study aimed to develop a method to derive a gray zone from pyrosequencing MGMT methylation data.

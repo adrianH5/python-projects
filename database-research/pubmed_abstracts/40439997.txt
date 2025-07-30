@@ -1,0 +1,11 @@
+Malignant insulinomas are rare pancreatic neuroendocrine tumors characterized by excessive insulin secretion and a high propensity for metastasis, leading to challenging management.
+This study retrospectively analyzed 57 patients treated for malignant insulinoma at Mayo Clinic sites between 1992 and 2024, focusing on the efficacy of systemic therapies in improving hypoglycemic control and survival outcomes.
+The most commonly used therapies included somatostatin analogs (SSA), everolimus, capecitabine-temozolomide (CAPTEM), and peptide receptor radionuclide therapy (PRRT).
+PRRT demonstrated the highest efficacy in controlling hypoglycemia (93%), followed by CAPTEM (68%) and everolimus (62%).
+SSA, chemotherapy, and streptozocin were less effective, with hypoglycemic improvement seen in 37.5, 33.3, and 28.6% of patients, respectively.
+Overall survival (OS) was longest with SSA at 84.67 months, followed by CAPTEM at 81.67 months and everolimus at 74.07 months.
+PRRT demonstrated a median OS of 49.73 months.
+In contrast, chemotherapy and streptozocin-based therapies had significantly shorter OS times of 15.23 and 8.35 months, respectively.
+These findings highlight significant variability in systemic therapy efficacy for malignant insulinoma, with PRRT emerging as a promising treatment for refractory hypoglycemia and long survival.
+Cox regression analysis identified primary tumor resection and a history of benign insulinoma as associated with longer OS.
+Optimal sequencing of therapies remains unclear, and individualized treatment plans based on hypoglycemic burden and tumor characteristics are critical for improving survival and quality of life in these patients.

@@ -1,0 +1,11 @@
+Circular RNAs (circRNAs) are a class of non-coding RNAs (ncRNAs) generated through the reverse splicing of mRNA precursors (pre-mRNAs).
+They possess a unique loop structure and exhibit remarkable stability.
+CircRNAs have emerged as promising biomarkers for cancer, with specific circRNAs playing crucial roles in cancer drug discovery, treatment, and resistance mechanisms.
+N6 methyl adenosine (m6A) represents the most prevalent RNA modification in eukaryotes.
+In 2017, researchers identified that m6A modifications also occur in circRNAs, displaying unique characteristics.
+m6A-modified circRNAs undergo reversible regulation mediated by enzymes involved in m6A modification pathways.
+These modified circRNAs interact with m6A-binding proteins, thereby influencing processes such as alternative splicing, translation and degradation.
+Some circRNAs enhance their metabolism or facilitate nuclear export to the cytoplasm by interacting with enzymes involved in m6A regulation.
+The study of m6A-modified circRNAs has gained great attention in circRNA research due to their association with various diseases.
+This review summarizes the functional mechanisms of circRNAs regulated by m6A modifications and their implications in cancer occurrence and therapy, with a primary focus on the genesis, regulatory mechanisms, and functional roles of m6A-modified circRNAs in the biology of diverse types of cancers.
+Additionally, we explore the potential application of m6A-modified circRNAs in clinical cancer treatment.

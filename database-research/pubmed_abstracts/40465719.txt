@@ -1,0 +1,3 @@
+Therapeutic clinical trial enrollment does not match glioma incidence across demographics.
+Traditional statistical methods have identified independent predictors of trial enrollment; however, our understanding of the interactions between these factors remains limited.
+To test the interactive effects of demographic, socioeconomic, and oncologic variables on trial enrollment, we designed boosted neural networks (BNNs) for all glioma patients (

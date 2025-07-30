@@ -1,0 +1,3 @@
+The sequence dataset was aligned using MAFTT v.7.450 software
+ and manually edited by Bioedit program v. 7.0.5.
+As was suspected, most of the identified mutations were located in the S (spike) gene, which encompasses positions between 21 563 and 25 384 base pair (GenBank accession number: MN908947).

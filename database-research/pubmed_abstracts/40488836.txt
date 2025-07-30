@@ -1,0 +1,6 @@
+Ferroptosis is a novel regulated cell death characterized by excessive membrane lipid peroxidation in an iron- and ROS-dependent manner, which is increasingly recognized for its role in tumor suppression and overcoming therapy resistance in various cancers.
+Induction of ferroptosis has been shown to sensitize cancer cells to chemotherapy, targeted therapy, and immunotherapy, thereby providing a novel strategy to tumor therapy.
+Peroxiredoxin 1 (PRDX1), an antioxidant enzyme, regulates redox homeostasis and is involved in tumor invasion, metastasis and prognosis.
+Increasing evidence suggests that PRDX1 is a negative regulator of ferroptotic cell death.
+Hence, regulating ferroptosis, via targeting PRDX1 and regulating PRDX1' function, holds promise for the treatment of tumors.
+In this review, we comprehensively summarized the regulatory of PRDX1 on ferroptosis and discussed the potential of PRDX1-mediated ferroptosis on tumor therapy, aiming to provide a distinct method for finding potential targets to enhance the effectiveness of ferroptosis-based tumor treament.

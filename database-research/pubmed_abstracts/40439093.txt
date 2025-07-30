@@ -1,0 +1,8 @@
+This longitudinal study evaluated the association between urban green space density and hepatocellular carcinoma (HCC) in seven metropolitan cities of South Korea.
+Information on study participants was extracted from the Korea National Health Insurance Service database.
+The study population comprised 104,527 participants aged ≥ 40 years who underwent biennial health screening examinations between 2009 and 2010.
+Based on land use data retrieved from the Korean National Statistical Office, urban green space density was measured as the area of parks and artificially designed facilities per 1,000 people.
+Data on the incidence of new HCC were collected from medical treatment claims data from 1 January 2011 to 31 December 2019.
+Compared to those living in the lowest quartile of green space density, those residing in the highest quartile had a lower risk of HCC incidence (adjusted hazard ratio: 0.71, 95% confidence interval: 0.53-0.96).
+The effect of green space density on reducing HCC risk was especially significant among participants who did not have prior competing liver disease or who did not drink alcohol.
+An average 18.53 m

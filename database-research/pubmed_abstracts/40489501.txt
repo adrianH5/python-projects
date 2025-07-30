@@ -1,0 +1,10 @@
+US construction workers (CWs) have the highest cigarette smoking rate among all occupations (27.2% vs. 15%), yet the lowest coverage of workplace smoking cessation services (14% vs. 29%).
+This study aims to empower safety managers to implement smoking cessation services in the construction industry.
+Using participatory research methods, this study aims to: 1) Develop multilevel strategies (MLIs) to implement adaptive smoking cessation programs delivered by the safety manager on construction sites, and 2) conduct a cluster-randomized, hybrid type 1 effectiveness-implementation, 2-phase sequential multiple assignment randomized trial (SMART) to test the programs (ClinicalTrials.gov: NCT06098144).
+The MLIs include: 1) creating the outer setting (research investigators, stakeholders) and inner setting facilitation (companies' advisory committee, study champion), 2) conducting observational field assessments of workflows, 3) training safety managers to deliver the intervention, and 4) conducting implementation process evaluations.
+In SMART, 32 construction sites within 8 companies with 608 CWs will be enrolled.
+In Phase 1, sites will be randomized to A1 (referral to Tobacco Quitline -TQL) or B1 (referral to TQL + nicotine replacement treatment (NRT) + 1 group behavioral counseling session).
+In Phase 2, responders who quit smoking at 3 months continue with the assessment only, while non-responders will be re-randomized to C (4 counseling sessions + NRT; A1 + C, B1 + C) or an extra dose of Phase 1 treatment (A2, B2).
+Participants will receive 4 follow-up assessments at 3, 6, 9, and 12 months.
+Primary outcomes are the effectiveness (12-month biomarker-confirmed prolonged abstinence) and cost-effectiveness (cost/quit, cost/quality-adjusted life-year) of A1 + A2 vs. B1 + B2 and A1 + C vs. B1 + C. The secondary outcome is the feasibility of the program's implementation.
+We hypothesize that B1 + B2 will outperform A1 + A2, and B1 + C will outperform A1 + C. This project will generate novel scientific evidence on the effectiveness, cost-effectiveness, and implementation feasibility of smoking cessation programs in the construction industry.

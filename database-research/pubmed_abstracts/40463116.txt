@@ -1,0 +1,9 @@
+A common side effect of poly-ADP ribose polymerase (PARP) inhibitors is low platelet counts, or thrombocytopenia, presumably mediated through platelet progenitors, megakaryocytes (MKs).
+MKs are large, hematopoietic cells with a polyploid, multi-lobulated nucleus.
+While DNA replication in MKs (endomitosis) is well studied, limited investigations have examined the impact of DNA damage and repair inhibition on megakaryopoiesis.
+To explore PARP inhibitor-induced thrombocytopenia, we treated mice with PARP inhibitors (niraparib and olaparib), which are approved for the treatment of solid tumors.
+While high-dose niraparib treatment led to thrombocytopenia, consistent with clinical observations, treatment at a lower dosage led to a significant, >1.5-fold increase in both the number of bone marrow MKs and circulating platelets.
+This increase was accompanied by elevated DNA damage in both MKs and MK progenitors, as measured by both γH2AX accumulation and comet assays of MKs.
+Notably, platelets from niraparib-treated mice were functionally normal in their response to ADP, TRAP, and collagen.
+Gamma-irradiation treatment similarly increased MK and platelet counts in mice, suggesting that moderate DNA damage enhances megakaryopoiesis and increases platelet counts.
+These data reveal a previously unknown relationship between MKs and DNA damage and present a novel target for triggering enhanced platelet production in vivo.

@@ -1,0 +1,3 @@
+Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2), causative agent of Coronavirus Disease 19 (COVID-19), has spread throughout the world since its first emergence in Dec. 2019 in Wuhan, China.
+However, a report from COVID-19 Genomics UK Consortium(Report #9 - 25th June 2020) showed G614 virus has grown 1.22 times faster than the D614, but the statistical significance was low, indicating the role of other factors such as mutations in other genes.
+By the end of June 2020, 91.5% of patients from the U.S. had the D614G mutation (compared to Wuhan-Hu-1 isolate, GenBank ID NC_045512.2).

@@ -1,0 +1,8 @@
+Altered cellular metabolism has been associated with the acquisition of invasive phenotypes during metastasis.
+To study this, we combined a genetically engineered mouse model of mammary carcinoma with syngeneic transplantation and primary tumor resection to generate isogenic cells from primary tumors and their corresponding lung micrometastases.
+Metabolic analyses indicated that micrometastatic cells increase proline production at the expense of glutathione synthesis, leading to a reduction in total glutathione levels.
+Micrometastatic cells also have altered sphingomyelin metabolism, leading to increased intracellular levels of specific ceramides.
+The combination of these metabolic adaptations alters extracellular vesicle (EV) production to render the microenvironment more permissive for invasion.
+Indeed, micrometastatic cells shut down Rab27-dependent production of EVs and, instead, switch on neutral sphingomyelinase-2 (nSM2)-dependent EV release.
+EVs released in an nSM2-dependent manner from micrometastatic cells, in turn, influence the ability of fibroblasts to deposit extracellular matrix, which promotes cancer cell invasiveness.
+These data provide evidence that metabolic rewiring drives invasive processes in metastasis by influencing EV release.

@@ -1,0 +1,2 @@
+Sparing pharyngeal constrictor muscles (PCMs) during radiotherapy improves patient-reported swallowing function.
+This study aimed to explore the feasibility of integrating knowledge-based planning (KBP) with multicriteria optimization (MCO) in Eclipse v18.0 to selectively spare PCM, quantify the required trade-off in prophylactic planning target volume (PTV54) coverage, and to evaluate MCO performance.

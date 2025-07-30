@@ -1,0 +1,6 @@
+Strains, GenBank accessions and other details are listed in Table S1.
+Furthermore, human genomes with unrealistically large (>30) numbers of single-nucleotide variations (SNVs) were removed from the datasets.
+Briefly, a whole SARS-CoV-2 sequence (Wuhan-Hu-1, GenBank accession number MN908947; previously called NC_045512) was mapped to the RaTG13 (GenBank accession MN996532) accession as the reference.
+Synonymous and nonsynonymous mutations in SARS-CoV-2 reading frames were determined according to annotated accession MN908947.
+The datasets contained 152 SNVs, of which 84 (55%) were shared between at least two accessions; 68 (45%) were singletons (Table S4, sheet 1).
+We determined the frequency of CpG dinucleotide in 17 human (including eight randomly selected SARS-CoV-2 accessions), nine bat, and eight other animal Betacoronaviruses (Figure 5a).

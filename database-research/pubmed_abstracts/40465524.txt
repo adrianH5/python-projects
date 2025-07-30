@@ -1,0 +1,9 @@
+Mucins are large glycoproteins that form the primary structural component of mucus and can be classified into secreted and transmembrane types.
+Of the 22 identified mucin genes, 12 encode transmembrane mucins, which play crucial roles in maintaining epithelial barrier integrity, modulating cell signaling, and innate immune responses to pathogens.
+Transmembrane mucins are expressed in epithelial cells, inflammatory cells, endothelial cells, and fibroblasts, influencing diverse cellular processes.
+They interact with extracellular ligands and transduce intracellular signals, functioning as membrane receptors with cell type-specific effects, triggering anti-inflammatory, proliferative, fibrotic, or carcinogenic processes.
+The extracellular domain of mucins can also be shed into the environment, where it exerts biological functions and serves as a biomarker for various chronic diseases.
+This review presents a comprehensive analysis of the discovery, structure, and molecular composition of different transmembrane mucins, along with their expression patterns and distribution across tissues.
+It explores their physiological roles, immunomodulatory functions, and the diverse cellular processes they regulate.
+Furthermore, it discusses the contribution of transmembrane mucin gene variants, aberrant expression, and dysregulated activation in chronic diseases such as inflammation, fibrosis, and cancer.
+Finally, given the role of mucins in the progression of various pathologies, this review describes therapeutic strategies and biomarkers that have been translated into clinical practice with promising results, aiming to provide a comprehensive overview of the current understanding of transmembrane mucins.

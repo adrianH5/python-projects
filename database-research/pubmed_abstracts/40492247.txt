@@ -1,0 +1,7 @@
+We explored the fractal and multifractal characteristics of breast mammogram micrographs to identify quantitative biomarkers associated with breast cancer progression.
+In addition to conventional fractal and multifractal analyses, we employed a recently developed fractal-functional distribution method, which transforms fractal measures into Gaussian distributions for more robust statistical interpretation.
+Given the sparsity of mammogram intensity data, we also analyzed how variations in intensity thresholds, used for binary transformations of the fractal dimension, follow unique trajectories that may serve as novel indicators of disease progression.
+Our findings demonstrate that fractal, multifractal, and fractal-functional parameters effectively differentiate between benign and cancerous tissue.
+Furthermore, the threshold-dependent behavior of intensity-based fractal measures presents distinct patterns in cancer cases.
+To complement these analyses, we applied the Inverse Participation Ratio (IPR) light localization technique to quantify structural disorder at the microscopic level.
+This multi-parametric approach, integrating spatial complexity and structural disorder metrics, offers a promising framework for enhancing the sensitivity and specificity of breast cancer detection.

@@ -1,0 +1,8 @@
+The chemokine CXCL16, often termed "Swiss army knife chemokine," plays diverse roles in tumor biology through its dual existence as a transmembrane (mCXCL16) and a soluble (sCXCL16) form.
+Signaling exclusively through its receptor CXCR6, this axis orchestrates context-specific functions in immune cell trafficking, tumor invasion, and vascular remodeling.
+Here, we present a comprehensive review of the CXCL16-CXCR6 signaling pathway, with emphasis on structural organization, the relay of canonical and non-canonical signaling cascades, and its emerging contributions to cancer progression.
+We detail how mCXCL16 functions as an adhesion molecule facilitating immune cell retention, while its proteolytic cleavage by ADAM10/17 generates sCXCL16, which enhances tumor cell migration, epithelial-to-mesenchymal transition and metastasis.
+In parallel, the CXCL16/CXCR6 axis regulates immune responses by promoting tissue-resident memory T cell recruitment, though sustained activation may paradoxically support immune evasion.
+Finally, we describe the proangiogenic effects of CXCL16 on endothelial and stromal compartments, notably during inflammation-driven tumors.
+The CXCL16-CXCR6 axis exemplifies a pleiotropic chemokine system at the intersection of immunity and malignancy.
+Understanding its context-dependent functions offers new opportunities for therapeutic intervention, including immune modulation, blockade of metastatic dissemination, and tumor vascular targeting.

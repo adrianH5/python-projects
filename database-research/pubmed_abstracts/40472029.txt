@@ -1,0 +1,9 @@
+Interaction of cells and the surrounding lumen drives the formation of tubular system that plays the transport and exchange functions within an organism.
+The physical and biological mechanisms of lumen expansion have been explored.
+However, how cells communicate and coordinate with the surrounding lumen, leading to continuous tube expansion to a defined geometry, is crucial but remains elusive.
+In this study, we utilized the ascidian notochord tube as a model to address the underlying mechanisms.
+We first quantitatively measured and calculated the geometric parameters and found that tube expansion experienced three distinct phases.
+During the growth processes, we identified and experimentally demonstrated that both Rho GTPase Cdc42 signaling-mediated cell cortex distribution and the stability of tight junctions (TJs) were essential for lumen opening and tube expansion.
+Based on these experimental data, a conservation-laws-based tube expansion theory was developed, considering critical cell communication pathways, including secretory activity through vesicles, asymmetric cortex tension driven anisotropic lumen geometry, as well as the TJs gate barrier function.
+Moreover, by estimating the critical tube expansion parameters from experimental observation, we successfully predicted tube growth kinetics under different conditions through the combination of computational and experimental approaches, highlighting the coupling between actomyosin-based active mechanics and hydraulic processes.
+Taken together, our findings identify the critical cellular regulatory factors that drive the biological tube expansion and maintain its stability.

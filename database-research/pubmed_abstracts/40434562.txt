@@ -1,0 +1,8 @@
+Multiple health problems are associated with either over- or under-exposure to ultraviolet (UV) radiation.
+Using an agent-based microsimulation model, we examined the joint health and economic effects of conditions arising from over-exposure to sunlight (i.e., melanoma, keratinocyte skin carcinoma (KC) and cataract) and under-exposure to sunlight via vitamin D deficiency (i.e., fragility fractures and multiple sclerosis).
+We developed an agent-based model to estimate and compare incident cases, disease-specific deaths, healthcare costs and losses in quality-adjusted life years (QALYs) attributable to over- or under-exposure to UV radiation.
+Simulations were performed over a 20-year period for populations in 14 locations across Australia and New Zealand.
+Conditions caused by over-exposure to UV radiation were predicted to result in 6.0 and 1.2 million new cases compared with 0.12 and 0.08 million cases from under-exposure in Australia and New Zealand, respectively.
+However, the number of deaths due to under-exposure (Australia: 58,503; New Zealand: 20,104) were higher than those arising from over-exposure (Australia: 49,320; New Zealand: 7136), but this was dependent on the definition of vitamin D deficiency used.
+The expected healthcare costs from over-exposure to UV radiation were AU$12.4 billion in Australia and NZ$5.2 billion in New Zealand, three-fold higher than costs for conditions attributable to under-exposure in both countries.
+Despite the enormous burden of skin cancers, highlighting the importance of sun protection, avoidable deaths and healthcare costs of fragility fractures due to a lack of UV radiation requires a reduction in vitamin D deficiency in Australians and New Zealanders.

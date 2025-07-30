@@ -1,0 +1,3 @@
+To analyse the phylogenetic relationship between different coronaviruses, 591 genomes were downloaded from Global Initiative on Sharing All Influenza Database (GISAID) (https://www.gisaid.org/).
+To prevent anomaly in the data represented, complete genomes and only high coverage datasets were utilized.
+We investigated the phylogenetic analysis of 591 genomic sequences of hCoV obtained from GISAID database using RAxML methods.

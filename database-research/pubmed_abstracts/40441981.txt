@@ -1,0 +1,8 @@
+Breast cancer (BC) remains a significant global health concern, emphasising the need for accurate diagnostic and prognostic tools.
+Metabolomics, the study of small molecules involved in cellular processes, has emerged as a promising approach for identifying BC biomarkers.
+This review provides an updated overview of metabolomic biomarkers for BC, focusing on early detection, diagnosis, prognosis prediction, and subtype-specific markers.
+It covers the various sources of biological samples used in biomarker investigations and common methodologies such as liquid chromatography-mass spectrometry and nuclear magnetic resonance.
+This review also highlights key classes of metabolites, including amino acids, lipids, and carbohydrates, which exhibit consistent alterations in BC patients and are integral to crucial oncogenic pathways, such as energy metabolism, redox balance, immune modulation, and membrane remodeling.
+Notably, several metabolite panels have demonstrated high sensitivity and specificity, showing promise for effectively stratifying patients according to tumor subtype.
+Despite the promising potential of metabolomics, challenges remain in standardizing analytical techniques, validating biomarkers, and integrating metabolomics with other omics approaches.
+Addressing these will be essential for harnessing the full potential of metabolomics in advancing precision oncology for BC.

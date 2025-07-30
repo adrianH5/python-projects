@@ -1,0 +1,8 @@
+Lung cancer is the most lethal malignancy worldwide, having the highest incidence rate.
+This is a heterogeneous disease classified according to its histological and molecular characteristics.
+Depending on these, different therapeutic approaches have already been approved for lung cancer treatment targeting genetic alterations or even the immune system.
+Nonetheless, other therapies are being studied to continuously improve the care and survival of lung cancer patients.
+Among them, immunotherapies are one of the main targets of investigation to try and combat the ability of some malignant cells to evade anti-tumor responses mediated by the immune system.
+Cancer vaccine development has emerged as a promising approach to strengthen the patient's immune system and combat the disease, especially mRNA vaccines.
+Currently, there are several ongoing studies investigating the therapeutic efficacy of mRNA vaccines in lung cancer treatment alone or combined with other therapeutic drugs.
+This review aims to highlight the importance of immunotherapy in lung cancer treatment, presenting the most recent advances particularly in mRNA-based vaccines as well as the challenges and future perspectives.

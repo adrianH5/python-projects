@@ -1,0 +1,9 @@
+Meningiomas are primarily benign brain tumors that, despite their typically slow growth, often cause significant health issues due to their location.
+Emerging immunotherapy approaches have sparked optimism regarding treatment outcomes for patients.
+We conducted a comprehensive Mendelian randomization (MR) analysis, utilizing 731 immune cell phenotypes to explore causal relationships with Brain Meningioma.
+We employed inverse variance weighted as the primary analysis method, MR-Egger and Maximum likelihood as secondary methods, and Weighted median, Weighted mode, and Simple mode as supplementary methods to ascertain causal links.
+Additionally, we performed sensitivity tests including heterogeneity tests, pleiotropy tests, reverse MR, leave-one-out analysis, and MR-PRESSO to ensure result robustness.
+Our study identified potential causal relationships of 7 immune phenotypes with Brain Meningioma, comprising 2 risk factors and 5 protective factors.
+Specifically, B cell-related phenotypes included CD20 on IgD - CD24 - B cell (P = .048, OR = 1.094, 95% CI = 1.001 - 1.196), CD38 on IgD - CD38 + B cell (P = .004, OR = 0.949, 95% CI = 0.915 - 0.984), and CD38 on IgD - CD38dim B cell (P = .02, OR = 1.073, 95% CI = 1.011 - 1.140).
+T cell-related phenotypes included Activated CD4 regulatory T cell %CD4 + T cell (P = .013, OR = 0.885, 95% CI = 0.804 - 0.974) and CD25++ CD45RA - CD4 not regulatory T cell %CD4 + T cell (P = .004, OR = 0.905, 95% CI = 0.846 - 0.969).
+Monocyte-related phenotypes included CD39 on monocyte (P = .022, OR = 0.948, 95% CI = 0.905 - 0.992), and dendritic cell-related phenotype included CD86 + myeloid dendritic cell absolute count (P = .01, OR = 0.914, 95% CI = 0.853 - 0.979).

@@ -1,0 +1,14 @@
+Prostate cancer (PCa) is a leading malignancy among men and lacks effective treatment, particularly for metastatic stages.
+Metastasis contributes significantly to cancer morbidity and mortality.
+Gilteritinib showed anticancer activity against lung and colorectal cancer but has not been thoroughly investigated for its potential in PCa therapy.
+This study evaluated the anticancer effects of gilteritinib on PCa cell lines (PC3 and DU145) by assessing cytotoxicity, cell proliferation, colony formation, and migration.
+Mechanistic studies were conducted to determine its impact on the cell cycle, epithelial-to-mesenchymal transition (EMT), and Wnt/β-catenin signaling.
+Additionally, the mode of cell death was explored, focusing on endoplasmic reticulum (ER) stress and protein ubiquitination.
+Gilteritinib exhibited dose-dependent cytotoxicity and inhibited PCa cell proliferation, colony formation, and migration.
+It induced G1 phase cell cycle arrest by downregulating CDK2, CDK4, and cyclin E1.
+EMT modulation was observed through the suppression of vimentin, N-cadherin, and Twist, along with increased E-cadherin expression.
+This EMT inhibition correlated with the downregulation of Wnt/β-catenin signaling components.
+Notably, gilteritinib triggered a non-apoptotic, non-autophagic cell death characterized by cytoplasmic vacuolation, ER stress, and protein ubiquitination, requiring new protein synthesis.
+This effect was mediated through the activation of the unfolded protein response (UPR) via the PERK pathway.
+Gilteritinib demonstrates significant anticancer potential in PCa by inducing cell cycle arrest, inhibiting EMT, suppressing Wnt/β-catenin signaling, and triggering a unique mode of cell death via ER stress.
+These findings highlight gilteritinib as a promising therapeutic candidate for PCa treatment.

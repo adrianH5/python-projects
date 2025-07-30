@@ -1,0 +1,4 @@
+Chimeric antigen receptor T (CAR-T) cell therapy, in which cytotoxic T cells are engineered to directly recognize tumor antigens, has been shown to be highly effective in the treatment of blood cancers such as acute lymphoblastic leukemia (ALL) and chronic lymphocytic leukemia (CLL).
+However, its application to solid tumors has not been as successful.
+Investigations have identified several barriers to the efficacy of CAR-T cell therapy in solid tumors; these include difficulties in target antigen selection, a physical barrier to CAR-T cell infiltration, and an immune-inhibitory environment in tumor tissue.
+In this review, we present a comprehensive overview of the current understanding of the problems underlying CAR-T cell therapy for solid tumors and potential countermeasures.

@@ -1,0 +1,6 @@
+Achieving highly efficient treatment planning in intensity-modulated radiotherapy (IMRT) is challenging due to the complex interactions between radiation beams and the human body.
+The introduction of artificial intelligence (AI) has automated treatment planning, significantly improving efficiency.
+However, existing automatic treatment planning agents often rely on supervised or unsupervised AI models that require large datasets of high-quality patient data for training.
+Additionally, these networks are generally not universally applicable across patient cases from different institutions and can be vulnerable to adversarial attacks.
+Deep reinforcement learning (DRL), which mimics the trial-and-error process used by human planners, offers a promising new approach to address these challenges.
+PURPOSE: This work aims to develop a stochastic policy-based DRL agent for automatic treatment planning that facilitates effective training with limited datasets, universal applicability across diverse patient datasets, and robust performance under adversarial attacks.

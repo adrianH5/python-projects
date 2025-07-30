@@ -1,0 +1,6 @@
+The theory of tumor vascular normalization provides new possibilities for the rational use of anti-angiogenesis drugs and chemotherapeutics.
+However, clinical implementation of vascular normalization strategies faces two key bottlenecks: figuring out the right dosage of anti-angiogenic agents to balance angiogenic and anti-angiogenic properties, and the technical challenge of real-time monitoring of transient normalization windows for best therapeutic timing.
+Additionally, tumor-associated macrophages (TAMs) often antagonize this therapy by interacting with tumor vasculature.
+In response to these challenges, in this study, anlotinib (ANB) was chosen as the model drug, and two drug delivery systems loaded with ANB were prepared and compared: sialic acid-cholesterol conjugate-modified liposomes (ANB-SL) and polysialic acid-modified electrostatic complexes (ANB-PSA).
+The results showed that ANB-SL specifically targets TAMs, then enriches within the tumor, releases ANB, killing TAMs while inhibiting vascular endothelial cells, thereby achieving tumor vascular normalization.
+This promotes CD8

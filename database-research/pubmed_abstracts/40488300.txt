@@ -1,0 +1,9 @@
+Immune checkpoint inhibitors (ICIs) have demonstrated clinical efficacy in non-small cell lung cancer (NSCLC) and extensive research has been conducted to explore biomarkers predictive of ICI response.
+However, the impact of ICI on the tumor and tumor microenvironment (TME) at primary and acquired resistance states is understudied due to the difficulty of collecting tissue biopsies at disease progression.
+In this study, we leveraged clinical and real-world data to study ICI resistance.
+Data used in this work consist of treatment outcome information and tissue RNA-Seq data from advanced-stage NSCLC cohorts from three sources: Tempus RWE database (3 cohorts), one cohort from CANOPY-1 (NCT03631199), a phase 3 clinical trial in 1L NSCLC, and one cohort curated from the academic initiative Stand Up 2 Cancer (SU2C).
+Our results indicate higher interferon gamma (IFNγ) and T cell exhaustion in patients' tumors at acquired resistance and low levels of B cell and dendritic cells (DC) expression at primary resistance.
+The lower B cell and DC levels may be primarily driven by prior treatment with a platinum-based chemotherapy regimen.
+Baseline transcriptomics data additionally suggest that innate immune cells may play an anti-tumor role in PD-L1<1% patients, whereas IFNγ and T cell inflammation are more predictive of ICI treatment outcome in PD-L1<1% patients.
+Conclusions: Our study suggests a clear divergence of the TME in patients with primary vs. acquired resistance, and a potential role of myeloid cells in the PD-L1 negative population.
+These findings shed light on potential next-generation therapies to overcome ICI resistance.

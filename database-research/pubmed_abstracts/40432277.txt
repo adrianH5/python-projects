@@ -1,0 +1,8 @@
+Growing experience has correlated the histomorphological characteristics of clear cell renal cell carcinoma (ccRCC), ranging from cytoplasmic features to architectural patterns and tumor immune microenvironment, with clinical outcomes.
+However, further assessment is needed to determine which of these histologic parameters best correlate with outcomes of interest, especially response to tyrosine kinase inhibitors (TKIs) and immune checkpoint inhibitors (ICIs).
+Herein, we evaluated four histologic parameters: (i) World Health Organization (WHO)/International Society of Urological Pathology (ISUP) grade; (ii) clear and eosinophilic cytological phenotypes; (iii) immunophenotypes; and (iv) vascularity-based architectural classification, using hematoxylin and eosin-stained whole slide images for The Cancer Genome Atlas (TCGA) ccRCC cohort (n = 433).
+We then correlated these parameters with gene expression signatures associated with TKI and ICI response.
+Multivariate analysis found that the cytological phenotype and vascularity-based architectural classification were independently associated with an angiogenesis-related gene signature (both p < 0.05).
+Conversely, WHO/ISUP grade and immunophenotype were independently associated with effector T-cell and immune checkpoint gene signatures (both p < 0.05).
+In conclusion, histologic parameters, including cytological features, architectural patterns, and tumor immune microenvironment, are associated with gene signatures related to therapy response, with different parameters informative for TKIs versus ICIs.
+These findings may help guide prospective validation studies.

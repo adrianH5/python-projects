@@ -1,0 +1,9 @@
+Prostate cancer is the most common diagnosed cancer and the second leading cause of cancer death among men in the United States.
+The gold standard for the diagnosis of prostate cancer is the examination of tissue from a systemic 12- or 14-core biopsy procedure by an anatomic pathologist.
+Atypical small acinar proliferation in prostate core biopsy is an indefinite diagnosis, and may cause difficulties in clinical management.
+To investigate the potential use of artificial intelligence in reviewing atypical small acinar proliferation, Paige Prostate, an FDA-approved artificial intelligence-based digital diagnostic system, was used to review the digital images of 107 cores with an initial diagnosis of atypical small acinar proliferation.
+Two pathologists blindly reclassified the cores with a new diagnosis (either benign or malignant) for 85% of the cases (pathologist #1) and 88% (pathologist #2), respectively.
+Paige Prostate resulted in consistent diagnosis in 85% of the cores ("suspicious" or "not suspicious").
+The consistency rates were 77% between the two pathologists, 66% and 75% between Paige Prostate and each pathologist.
+There was statistically significant agreement among the three consistency rates.
+Although some degree of interobserver discrepancy still exists, our findings indicate that artificial intelligence was compatible with the pathologist review, and it can be a unique diagnostic adjunct for pathologists.

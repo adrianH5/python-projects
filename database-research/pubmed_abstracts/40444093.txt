@@ -1,0 +1,5 @@
+In oncology, the relationships among cervical central lymph node metastasis (CLNM), biochemical tests, and ultrasound characteristics in patients with papillary thyroid cancer (PTC) remain controversial.
+This association is currently not well supported by evidence, which emphasizes the need for further research.
+Understanding the connection between CLNM, biochemical testing, and ultrasound features is crucial for clinical practice and public health efforts.
+Research on this topic is still underway and is now receiving much interest.
+Our goal was to create and verify a basic cervical lymph node metastasis prediction model.

@@ -1,0 +1,9 @@
+The World Health Organization (WHO) named the disease COVID-19, short for “coronavirus disease 2019”.
+As of 27 May 2020, the WHO reported a total of 5 488 825 COVID-19 cases and 349 095 deaths globally [3], which brought a great challenge to public health worldwide.
+Its genome sequence has been released and reported by Chinese scientists and submitted to the GenBank database on 12 January 2020 [5].
+Protein sequences of SARS-CoV-2 were retrieved from the NCBI database (YP_009724390, YP_009724397).
+Prediction of discontinuous epitopes on spike protein (PDB ID: 6VSB chain B) was conducted via DiscoTope 2.0 server [19].
+This method is based on surface accessibility, residue statistics, and spatial information in a compiled data set of discontinuous epitopes discovered by X-ray crystallography of antigen/antibody complex structure.
+All protein sequences were downloaded from NCBI database with accession IDs shown in Fig. 2a.
+These peptides were scanned on the IEDB database.
+The genome sequence and protein sequences of SARS-CoV-2 were retrieved from the National Center for Biotechnology Information (NCBI) database.

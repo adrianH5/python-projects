@@ -1,0 +1,6 @@
+Duchenne muscular dystrophy (DMD) is a severe, progressive genetic disorder primarily affecting boys, characterized by muscle degeneration due to mutations in the DMD gene encoding dystrophin, a crucial protein for muscle fiber integrity.
+The disease leads to significant muscle weakness and eventually to loss of ambulation.
+Adeno-associated viral (AAV)-microdystrophin (MD) gene therapy shows promise in preclinical and clinical settings.
+However, muscle fibrosis, a consequence of chronic inflammation and extracellular matrix remodeling, exacerbates disease progression and may hinder therapeutic efficacy.
+Periostin, a matricellular protein involved in fibrosis, is upregulated in DMD rodent models and correlates with collagen deposition.
+We previously developed an antisense oligonucleotide strategy to induce exon 17 skipping and so reduce periostin expression and collagen accumulation in the fibrotic D2.

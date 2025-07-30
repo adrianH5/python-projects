@@ -1,0 +1,11 @@
+In Canada, prostate cancer is the most diagnosed cancer among males and the third leading cause of cancer-related deaths accounting for 10 % of all cancer fatalities in males.
+This study examines socioeconomic inequalities in prostate cancer mortality among the Canadian male population.
+Using a dataset compiled at the census division level (n = 280) from sources including the Canadian Vital Statistics Deaths database and the Canadian Census of Population for the years 1992, 1996, 2001, 2006, and 2016, as well as the 2011 National Household Survey, we investigated socioeconomic inequalities in mortality rates in prostate cancer among Canadian men from 1990 to 2019.
+We applied the age-standardized Concentration index (C) to measure inequalities in mortality linked to income and education levels.
+Trend analysis was conducted to evaluate the changes over time of these inequalities.
+The crude prostate cancer mortality in Canada was 24.82 per 100,000 males over the study period and decreased significantly over time.
+The age-standardized C showed a higher concentration of prostate cancer mortality among low-income males in 1999, 2001 and 2005.
+Additionally, we observed a significantly higher concentration of mortality among less-educated groups, particularly in the more recent study years.
+Trend analysis revealed a growing concentration of prostate cancer mortality among less-educated males over the study period.
+Our study revealed an increasing concentration of PCa mortality among low-educated male populations.
+Socioeconomic inequalities in PCa mortality may be partly attributable to variations in treatment access across different geographic regions and opportunistic screening among higher socioeconomic status males in the more recent study years.

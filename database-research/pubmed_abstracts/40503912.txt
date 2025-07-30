@@ -1,0 +1,5 @@
+Extracellular vesicles (EVs) mediate tumor progression by facilitating signal transduction between cancer cells and the microenvironment, positioning them as critical biomarkers for diagnosis.
+CD20 is a key surface antigen of B cells, and its detection is of great significance for lymphoma detection and therapy monitoring.
+However, conventional EVs detection methods suffer from high costs, operational complexity, and limited sensitivity.
+Here, we developed an electrochemical immunosensor utilizing a Lewis acid-boosted nanozyme, Ce/UiO-67, which was synthesized through a one-step hydrothermal method.
+Ce

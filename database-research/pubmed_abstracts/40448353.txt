@@ -1,0 +1,3 @@
+Elastic Scattering Spectroscopy (ESS), an optical tissue sampling technique, distinguishes between benign and malignant tissue in vivo without the need to perform a surgical biopsy.
+A handheld device that employs ESS enabled with an artificial intelligence algorithm was developed as an objective tool to aid primary care physicians (PCPs) in their management of lesions suspicious for skin cancer.
+The aim of this study was to assess and compare the diagnostic and management performance of PCPs with and without the use of the ESS device in detecting skin cancer.

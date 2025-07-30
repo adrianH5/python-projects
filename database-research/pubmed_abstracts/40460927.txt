@@ -1,0 +1,9 @@
+Leishmaniasis is a disease caused by over 20 species of protozoa of the genus Leishmania, transmitted by the bite of infected phlebotomine sandflies.
+This parasitic infection has an anthropozoonotic nature, affecting both wild and domestic animals, as well as humans.
+It may present itself as three main clinical forms: cutaneous, mucocutaneous, or visceral leishmaniasis.
+The interaction between the parasite and the host's immune system is complex, involving evasion mechanisms primarily through the modulation of oxidative stress.
+Leishmania lacks several antioxidant enzymes common to mammals; instead, it relies on a few alternative redox systems, such as the trypanothione family which is essential for counteracting reactive oxygen and hydrogen species within phagolysosomes of neutrophils and macrophages.
+These mechanisms also modulate the composition and pH of the parasitophorous vacuole, preventing the efficient elimination of the amastigote forms from host cells.
+Additionally, the parasite induces cytoskeletal and metabolic changes in mammalian host cells to promote a favorable microenvironment for its survival.
+Given these aspects, this review discusses Leishmania's oxidative stress evasion strategies, focusing on both parasite-specific adaptations and their effects on host metabolism and immune response, whether in macrophages, neutrophils, or dendritic cells; as well as the role of oxidative stress in canine visceral leishmaniasis.
+A deeper understanding of these mechanisms may support the development of novel therapeutic approaches, such as drugs targeting oxidative response modulation and improved vaccination strategies.

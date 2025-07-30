@@ -1,0 +1,11 @@
+Localized ablative immunotherapy (LAIT), a combination of photothermal therapy (PTT) and the immunostimulant glycated chitosan (GC), has demonstrated therapeutic efficacy in cancer treatment.
+However, its impact on the tumor microenvironment (TME), particularly on tumor-infiltrating natural killer (TINK) cells, remains to be fully elucidated.
+Using single-cell RNA sequencing (scRNAseq), we analyzed the transcriptional and functional modulations of TINK cells by LAIT in a mouse breast cancer model.
+Additionally, we investigated immune checkpoint inhibitor (ICI)-induced changes in NK cells across multiple cancer types and evaluated the clinical relevance of these transcriptional changes using The Cancer Genome Atlas (TCGA) database.
+ScRNAseq revealed five NK cell subtypes, with LAIT increasing the proportion of interferon-enriched NK cells and enhancing NK cell differentiation and cytotoxicity.
+Functional analyses demonstrated that LAIT upregulated activation, cytotoxic, and interferon pathway genes while downregulating immune-suppressive genes, effects largely driven by GC.
+Comparative analysis showed significant transcriptional overlap between ICI and LAIT, highlighting shared pathways in NK cell-mediated cytotoxicity and chemokine signaling.
+Prognostic models constructed from ICI- and LAIT-induced gene signatures effectively stratified breast cancer patients by survival risk, with LAIT-induced genes showing the highest predictive performance.
+Furthermore, higher NK cell proportions and the expression of key prognostic genes, such as PSME2, IGKC, and KLRB1, were associated with improved overall survival.
+LAIT and ICIs enhance NK cell-mediated antitumor responses via distinct yet complementary mechanisms, emphasizing their potential for synergistic use.
+These findings provide novel insights into NK cell modulation within the TME and support the development of combinatorial immunotherapy strategies.

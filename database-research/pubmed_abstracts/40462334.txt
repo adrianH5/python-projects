@@ -1,0 +1,3 @@
+Diffusion-weighted magnetic resonance imaging (MRI) is an advanced functional imaging method based on the molecular motion of water.
+The diffusion of the water molecules in the tissue is dependent on a number of factors.
+One factor that modulates the diffusion of water molecules is the cell density in the tissue and the nuclear/cytoplasmic volume ratio, which is often increased in high-grade tumors.

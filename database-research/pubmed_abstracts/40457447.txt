@@ -1,0 +1,8 @@
+Non-coding RNAs (ncRNAs) are crucial molecules that do not encode proteins but play roles in regulating various biological processes.
+Recent research highlights that ncRNAs not only control gene expression within cells but also facilitate intercellular communication via exosomes and other carriers.
+This function is vital in the tumor microenvironment (TME).
+Our review covers the structure and functions of different ncRNAs, such as microRNAs (miRNAs), long non-coding RNAs (lncRNAs), and circular RNAs (circRNAs).
+We examine how these ncRNAs influence tumor initiation and progression.
+Additionally, we explore their role in promoting tumor growth or immune evasion by modulating the TME.
+The potential of using these ncRNAs as therapeutic targets or biomarkers for clinical use is also discussed.
+As our understanding of ncRNAs grows, the development of new therapies based on ncRNAs is anticipated to offer improved treatment options for cancer patients.

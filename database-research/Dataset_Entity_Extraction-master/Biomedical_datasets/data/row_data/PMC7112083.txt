@@ -1,0 +1,16 @@
+It causes severe respiratory illness, which the WHO recently named COVID-19 disease.
+A reference dataset of previously published coronavirus whole-genome sequences (WGS) was compiled from the Virus Pathogen Resource (VIPR) database (www.viprbrc.org).
+This dataset consisted of 386 WGS of nine important coronavirus species.
+To this reference dataset, we added 47 whole genomes of the current Coronavirus 2019 (SARS-CoV-2) outbreak that originated in Wuhan, China, in December 2019.
+The SARS-CoV-2 sequences were downloaded from the GISAID database (https://www.gisaid.org) together with annotation of its original location, collection date and originating and submitting laboratory.
+Cluster 5 (virus named SARS-CoV-2 by the ICTV committee and disease named COVID-19 by the WHO) includes three public sequences from the outbreak.
+We identified this cluster with many sequences from GISAID but kept only three ones as these were the first GenBank sequences.
+Detailed information about the phylogenetic reference datasets is available in Supplementary Table S2.
+The phylogenetic reference dataset was used to create an automated Coronavirus Typing Tool using the Genome Detective framework (Fonseca ; Vilsker ).
+In the second step, a query sequence is aligned against the phylogenetic reference dataset using -add alignment option in the MAFFT software (Katoh and Standley, 2013).
+This table can be expanded to show nucleotide and amino acid mutations that differentiate a query sequence from their species RefSeq or from a sequence in the phylogenetic reference dataset.
+Tool also allows a query sequence to be analyzed against a sequence in the phylogenetic reference dataset.
+When the SARS-CoV-2 isolated from France (BetaCoV/France/IDF0373/2020) was analyzed with our tool and compared with the SARS-CoV-2 WH_Human1_China_2019Dec strain (Accession: MN908947), this sequence was 99.9% identical and had only two NT mutations (Supplementary Table S4C).
+We developed and released the Genome Detective Coronavirus Typing tool as a free-of-charge resource in the third week of January 2020 in order to help the rapid characterization of COVID-19 infections.
+Abstract   Summary  Genome detective is a web-based, user-friendly software application to quickly and accurately assemble all known virus genomes from next-generation sequencing datasets.
+The tool also allows tracking of new viral mutations as the outbreak expands globally, which may help to accelerate the development of novel diagnostics, drugs and vaccines to stop the COVID-19 disease.

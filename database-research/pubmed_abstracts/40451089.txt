@@ -1,0 +1,4 @@
+Colorectal cancer (CRC) is the third most diagnosed cancer in the United States.
+Area-level deprivation increases CRC risk, but traditional indices and analyses have limitations.
+Weighted Quantile Sum (WQS) regression and hierarchical Bayesian approaches offer better alternatives for highly correlated indicators and addresses spatial dependencies and reliability issues.
+The purpose of this study is to identify the most explanatory area-level neighborhood deprivation indicators and investigate its association with CRC incidence using advanced spatiotemporal methods.

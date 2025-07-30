@@ -1,0 +1,8 @@
+Molecularly targeted agents have revolutionized the paradigm of cancer treatment; however, their efficacy is often downplayed by rapid clearance in vivo, inferior cellular delivery and drug resistance.
+The combination of targeted drugs could improve the clinical efficacy only to some extent, due to overlapping toxicities and difficulty in maintaining certain drug ratios.
+Here, we report on ratiometric codelivery of FLT3 and CDK4/6 dual inhibitors, gilteritinib and palbociclib, by daratumumab-decorated polymersomes (GIPA@DP) for high-efficacy targeted therapy of acute myeloid leukemia (AML).
+GIPA@DP showed synergistic anti-AML effects on MV-4-11 cells, with a half-maximal inhibitory concentration of ca.
+2.6 ng/mL for each drug, which was further reduced to below 1 ng/mL by pretreating the cells with all-trans retinoic acid.
+GIPA@DP maintained an essentially constant GI/PA ratio in vivo and actively targeted AML cells at different leukemia sites.
+Selective AML-targeting in conjunction with ratiometric drug codelivery and synergistic anti-AML effects of GIPA@DP collectively led to significant survival benefits in CD38-upregulated MV-4-11 and Molm-13-Luc AML models, outperforming the nontargeted control (GIPA@P) and a mixture of two targeted single drug formulations (GI@DP + PA@DP).
+This targeted ratiometric delivery of dual inhibitors provides a new treatment strategy for AML and other malignancies.

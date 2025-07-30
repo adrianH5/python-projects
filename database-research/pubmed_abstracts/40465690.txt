@@ -1,0 +1,8 @@
+Low-dose methotrexate (MTX) is the first-line drug for treating rheumatoid arthritis as an immunosuppressor.
+We have identified that low-dose MTX exhibits antitumor immune activity.
+MTX treatment reduced tumor metastasis and enhanced the efficacy of radiation therapy and immune checkpoint blockade therapy in mice.
+Mechanistically, MTX selectively induced DNA damage, cGAS-STING [cyclic guanosine monophosphate-adenosine monophosphate (cGAMP) synthase (cGAS)-stimulator of interferon genes (STING)] pathway activation, and cGAMP generation in cancer cells.
+Furthermore, MTX bound to the substrate-binding pocket of ectonucleotide pyrophosphatase/phosphodiesterase 1 (ENPP1), inhibiting ENPP1-mediated cGAMP hydrolysis and adenosine generation.
+Consequently, MTX reduced extracellular adenosine and enhanced host STING-mediated antitumor immunity.
+In addition, a preliminary clinical trial demonstrated promising efficacy and safety of low-dose MTX in combination with immunotherapy and radiotherapy for patients with unresectable or metastatic solid tumors, showing improved outcomes compared with historical controls.
+These results highlight the previously unrecognized immunostimulatory functions of MTX and provide a rationale for combining MTX with tumor immunotherapy and radiotherapy in clinical settings.

@@ -1,0 +1,9 @@
+The complexity of lung cancer, driven by multifactorial causes such as genetic, environmental and lifestyle factors, underscores the necessity for tailored treatment strategies informed by recent advancements.
+Studies highlight a significant association between the lung microbiome and lung cancer, with dysbiosis potentially contributing to disease development via inflammation, immune response alterations and bacterial metabolite production.
+Furthermore, exposure to airborne bacteria may influence lung health by introducing pathogenic species or altering the human microbiome, thereby implicating certain dominant airborne bacteria in lung diseases, including the exacerbation of lung cancer.
+Extracellular vesicles (EVs) facilitate cell‑to‑cell communication, penetrating mucosal barriers to impact various organs, notably the lung.
+Epidemiological evidence suggests a strong relationship between the presence of microbial EVs (MEVs) in the air and chronic pulmonary diseases, with indications of a potential risk for lung cancer.
+MEVs play a significant role in pulmonary disease development by inducing airway inflammation and affecting lung function.
+The microbiome and MEVs offer considerable potential as novel tools in precision medicine for lung cancer.
+Biological data analysis and artificial intelligence technology advancements are pivotal for fully realizing their diagnostic and therapeutic capabilities.
+These developments can potentially shape the future landscape of lung cancer diagnostics, therapeutics and prevention strategies.

@@ -1,0 +1,3 @@
+Extracellular vesicles (EVs), particularly small EVs (sEVs), are lipid bilayer vesicles secreted by various cell types and play a key role in intercellular communication.
+These vesicles are promising tools for cancer immunotherapy owing to their biocompatibility, low immunogenicity, and capacity for targeted drug delivery.
+In this study, we aimed to assess the potential of engineered antigen-presenting EVs (AP-EVs) to selectively expand and differentiate antigen-specific CD4

@@ -1,0 +1,5 @@
+To date, Covid-19 associated pneumonia accounts (as of 14th July 2020, source: www.who.int, “COVID-19 Situation report - 176”) almost 13 Million confirmed cases and more than 550′000 deaths since its first reported discovery in the Hubei province in China in December 2019 [1].
+Reference coronavirus genomes were obtained either from NCBI GenBank (https://www.ncbi.nlm.nih.gov/genbank/) or from GISAID (https://www.gisaid.org/) databases as suggested from the recent discoveries on the proximal origins of SARS-CoV-2 [2,3]
+(Detailed accession numbers in Supplementary Table 1).
+Although little information is available on lung epithelium ageing-dependent mechanisms, we hypothesize that E protein significantly increase this dysfunction, especially in elderly people as evidenced by COVID-19 epidemiological data.
+We compared the genomic sequences of E protein of SARS-CoV-2, SARS-CoV and the closely related genomes of bats and pangolins obtained from the GISAID and GenBank databases.

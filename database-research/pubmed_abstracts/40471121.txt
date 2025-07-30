@@ -1,0 +1,7 @@
+The ortho-nitrobenzyl (ONB) group is one of the most widely utilized photocages for spatiotemporal control of biological processes via the light-triggered activation of small molecules and macromolecules.
+However, a significant limitation is that ONB photocages typically absorb in the UV/blue light region, which is phototoxic to living systems and exhibits limited tissue penetration.
+In this study, we present a novel approach for near-infrared (NIR) light-triggered photodecaging of the ONB core using silicon rhodamine (SiR) as a photoredox catalyst.
+The reaction efficiently uncages ONB substrates under 660 nm light irradiation, achieving high yields across a diverse range of substrates, including amino acids, nucleotides, prodrugs, bioactive small molecules, caged fluorescent dyes, and proteins.
+Mechanistic studies demonstrate that the uncaging reaction proceeds through nitroreduction via a single electron transfer mechanism, followed by an electron cascade-triggered self-immolation process.
+The reaction has been successfully applied in both mammalian cells and bacteria.
+Furthermore, we developed a NIR light-activated prodrug release protocol for antibody-drug conjugates (ADCs) targeting noninternalizable cancer cell surface markers and demonstrated the utility of this approach in a tumor-bearing mouse model.

@@ -1,0 +1,13 @@
+mRNA carries genetic information and is used for the synthesis of proteins, fragments of proteins, and peptides in the scope of biotechnology and medicine.
+Once introduced into cells, this mRNA gets translated into a corresponding protein with cellular machinery.
+All kinds of mRNA encoding any protein, peptide, and fragment of proteins have been designed to be used for various therapeutic goals, including cancerous diseases, immunotherapy, vaccine preparation, tissue engineering, and genetic disorders, among others.
+These vaccines encode tumor-specific antigens that stimulate the immune system to recognize and attack cancer cells.
+Additionally, mRNA can be designed to produce proteins that modulate immune checkpoints, thereby enhancing the immune system's ability to target cancer cells.
+Synthetic mRNA can also engineer immune cells, such as T cells, to improve their cancer-fighting capabilities.
+For instance, mRNA can be engineered to generate CAR T cells targeting specific antigens that are expressed in the cancer.
+Designed mRNA can encode functional proteins in patients suffering from genetic disorders characterized by an absence or defect in a particular protein.
+However, mRNA is intrinsically unstable and may require special mechanisms to protect it from degradation.
+mRNA delivery to target cells remains a challenge.
+Engineered nanocarriers containing mRNA can improve the efficiency and enable the delivery to specific sites, that can provide a stimulant or substance for therapeutic purposes.
+This combination may improve their stability and efficacy in multiple applications of therapies.
+The following chapter throws light on basic advances in mRNA-based cancer therapy and provides insights into the nanotherapeutics using mRNA in key preclinical developments and the evolving clinical landscape.

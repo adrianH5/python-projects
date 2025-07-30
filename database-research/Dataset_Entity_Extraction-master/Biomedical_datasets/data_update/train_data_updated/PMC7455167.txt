@@ -1,0 +1,9 @@
+The genome sequences of seven SARS-CoV and 475 MERS-CoV were also downloaded from the National Center for Biotechnological Information (NCBI) (https://www.ncbi.nlm.nih.gov/), and the MERS-CoV dataset, which includes samples collected from both humans and camels.
+In addition, for further exploring evolution and molecular characteristics of SARS-CoV-2 based on the larger amount of genomic data, validation datasets of the genome sequences were redownloaded from GISAID by 06 April 2020 and 10 June 2020, resulting in 3624 and 16373 sequences, respectively.
+After alignment of 624 high-quality SARS-CoV-2 genomes and manually deleting two highly divergent genomes (EPI_ISL_415710 and EPI_ISL_414690) according to the first constructed phylogenetic tree, the aligned dataset of 622 sequences was phylogenetically analyzed.
+Information (ID, countries/regions and collection times) and variants (NC_045512.2 as reference genome) of each genome from each Cluster were extracted.
+Principal Component Analysis (PCA) was analyzed by the GCTA v1.93.1beta (Yang et al., 2011) with the specific sites and all SNV datasets.
+All three datasets exhibited a positive correlation between root-to-tip divergence and sample collecting time (Figure S1), so that they were suitable for molecular clock analysis in BEAST (Bouckaert et al., 2019, Rambaut et al., 2016).
+The PCA results showed that these nine specific sites could clearly separate the three Clusters, while all SNV dataset could not clearly separate Cluster 1 and Cluster 2 (Figure S4), which further suggests that these nine specific sites were the key sites for separating the three Clusters.
+Four major haplotypes – H1, H2, H3, and H4 – three minor haplotypes – H5, H7 and H8 – close to H1 and one minor haplotype – H6 – close to H3 were found in both datasets.
+Phylogenetic networks were inferred with 697 mutations from 3624 genome datasets, and the network structures of TCS and MSN were similar.

@@ -1,0 +1,11 @@
+Purpose To develop an artificial intelligence (AI) model based on gadoxetic acid-enhanced MRI to assist radiologists in hepatocellular carcinoma (HCC) diagnosis.
+Materials and Methods This retrospective study included patients with focal liver lesions (FLLs) who underwent gadoxetic acid-enhanced MRI between January 2015 and December 2021.
+All hepatic malignancies were diagnosed pathologically, whereas benign lesions were confirmed with pathologic findings or imaging follow-up.
+Five manually labeled bounding boxes for each FLL obtained from precontrast T1-weighted, T2-weighted, arterial phase, portal venous phase, and hepatobiliary phase images were included.
+The lesion classifier component, used to distinguish HCC from non-HCC, was trained and externally tested.
+The feature classifier, based on a post hoc algorithm, inferred the presence of the Liver Imaging Reporting and Data System (LI-RADS) features by analyzing activation patterns of the pretrained lesion classifier.
+Two radiologists categorized FLLs in the external testing dataset according to LI-RADS criteria.
+Diagnostic performance of the AI model and the model's impact on reader accuracy were assessed.
+Results The study included 839 patients (mean age, 51 years ± 12 [SD]; 681 male) with 1023 FLLs (594 HCCs and 429 non-HCCs).
+The AI model yielded area under the receiver operating characteristic curves of 0.98 and 0.97 in the training set and external testing set, respectively.
+Compared with LI-RADS category 5, the AI model showed higher sensitivity (91.6% vs 74.8%;

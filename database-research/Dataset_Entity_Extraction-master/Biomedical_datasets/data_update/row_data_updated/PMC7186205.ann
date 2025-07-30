@@ -1,0 +1,4 @@
+T1	Repository 79 102	Gene Expression Omnibus
+T2	AccessionNumber 120 128	GSE36961
+T3	AccessionNumber 2638 2649	NCT04312009
+R1	hasAttr	Arg1:T1	Arg2:T2

@@ -1,0 +1,3 @@
+Heterotrimeric (αβγ) G proteins are molecular switches that are activated by G protein-coupled receptors (GPCRs) and regulate numerous intracellular signaling cascades.
+Most active Gα subunits are inactivated by regulators of G protein signaling (RGS) proteins, which determine the duration of G protein-mediated signaling by accelerating the catalytic turn-off of the Gα subunit.
+However, the G protein Gα

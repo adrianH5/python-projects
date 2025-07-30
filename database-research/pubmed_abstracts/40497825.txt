@@ -1,0 +1,4 @@
+Computed Tomography (CT) is widely acknowledged as the gold standard for diagnosing thoracic diseases.
+However, the accuracy of interpretation significantly depends on radiologists' expertise.
+Large Language Models (LLMs) have shown considerable promise in various medical applications, particularly in radiology.
+This study aims to assess the performance of leading LLMs in analyzing unstructured chest CT reports and to examine how different questioning methodologies and fine-tuning strategies influence their effectiveness in enhancing chest CT diagnosis.

@@ -1,0 +1,10 @@
+Cisplatin-based combination chemotherapy is a cornerstone of perioperative and adjuvant therapies for gastric cancer (GC).
+However, cisplatin resistance resulting from repeated treatment limits its clinical application.
+PFKFB3 (6-phosphofructo-2-kinase), an isoenzyme of the PFKFB family, functions as a vital regulator of glycolysis and is involved in multiple cancer-related processes, including carcinogenesis, proliferation, metastasis, and drug resistance.
+In this study, we aimed to investigate the role of PFKFB3 in cisplatin resistance in gastric cancer and explore its underlying mechanisms.
+We found that PFKFB3 is significantly increased in gastric cancer tissues and is associated with a poor prognosis in patients with GC.
+PFKFB3 overexpression promoted gastric cancer proliferation and conferred cisplatin resistance both in vitro and in vivo.
+Interestingly, we identified that PFKFB3 serves as a negative regulator of ferroptosis, thereby rendering GC resistant to cisplatin.
+Mechanistically, our results demonstrated that PFKFB3 could suppress ferroptosis by directly dephosphorylating SLC7A11/xCT serine 26 (S26) via its 246-520 region.
+The combination of cisplatin and Erastin, a ferroptosis inducer, could synergistically enhance the anti-tumor effect of cisplatin in a subcutaneous tumor mouse model.
+Our findings demonstrate that PFKFB3 desensitizes gastric cancer to cisplatin by inhibiting ferroptosis through SLC7A11/xCT dephosphorylation, suggesting PFKFB3 inhibition as a potential strategy to overcome cisplatin resistance in GC patients.

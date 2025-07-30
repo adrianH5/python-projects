@@ -1,0 +1,3 @@
+Given that a surgeon's technical skills affect not only short- but also long-term outcomes, adequate surgical training is very important.
+We developed the world's first training simulator for laparoscopic right hemicolectomy that does not use animal tissue, called COLOMASTER, which was designed to accurately reproduce the anatomical and membrane structures of the human body.
+Here, we report the features of COLOMASTER.

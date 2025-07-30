@@ -1,0 +1,2 @@
+Small-molecule drugs play a critical role in cancer therapy by selectively targeting key signaling pathways that drive tumor growth.
+While deep learning models have advanced drug discovery, there remains a lack of generative frameworks for

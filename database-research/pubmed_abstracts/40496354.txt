@@ -1,0 +1,11 @@
+Long-term steroid use, though essential for treating eye diseases, can cause increased intraocular pressure (IOP) in susceptible individuals and may lead to steroid-induced glaucoma in a subset of patients.
+This study investigated the effect of bone morphogenetic protein-7 (BMP-7) on steroid-induced extracellular matrix (ECM) synthesis in human trabecular meshwork (TM) cells.
+We sought to explore the potential of BMP-7 as a protective agent against steroid-induced ECM accumulation in the TM.
+Human TM cells (HTMCs) were treated with either steroids alone or a combination of steroids and BMP-7 to compare their effects on ECM production.
+BMP-7, known for its transforming growth factor beta (TGF-β) antagonistic properties, was administered using a micellized protein transduction domain (mPTD)-fused BMP-7 polypeptide to enhance activity.
+Gene expression analysis was conducted to identify specific genes involved in ECM regulation.
+BMP-7 effectively inhibited steroid-induced ECM accumulation in HTMCs.
+There was a significant reduction in ECM production in the steroid and BMP-7 co-treated group compared with that in the steroid-only group.
+Furthermore, several genes involved in ECM regulation were identified in the co-treatment, underscoring BMP-7's potential role in modulating ECM metabolism.
+These findings demonstrate that BMP-7 exerts protective, anti-fibrotic effects in HTMCs by inhibiting steroid-induced ECM synthesis.
+BMP-7 may serve as a promising therapeutic target for preventing or treating steroid-induced glaucoma by maintaining normal aqueous humor outflow and preventing IOP elevation.

@@ -1,0 +1,7 @@
+Transcriptional regulators (TRs) are master controllers of gene expression and play a critical role in both normal tissue development and disease progression.
+However, existing computational methods for identification of TRs regulating specific biological processes have significant limitations, such as relying on distance on a linear chromosome or binding motifs that have low specificity.
+Many also use statistical tests in ways that lack interpretability and rigorous confidence measures.
+We introduce BIT, a Bayesian hierarchical model for in-silico TR identification.
+Leveraging a comprehensive library of TR ChIP-seq data, BIT offers a fully integrated Bayesian approach to assess genome-wide consistency between user-provided epigenomic profiling data and the TR binding library, enabling the identification of critical TRs while quantifying uncertainty.
+It avoids estimation and inference in a sequential manner or numerous isolated statistical tests, thereby enhancing accuracy and interpretability.
+BIT successfully identifies perturbed TRs in perturbation experiments, functionally essential TRs in various cancer types, and cell-type-specific TRs within heterogeneous cell populations, offering deeper biological insights into transcriptional regulation.

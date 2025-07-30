@@ -1,0 +1,12 @@
+Cardiovascular diseases (CVDs) have surpassed cancer and become the major cause of death worldwide.
+An electrocardiogram (ECG) is a non-invasive and quicker method for diagnosing abnormal heart conditions.
+While research has extensively focused on ECG analysis for disease classification, it has been primarily directed toward binary classification or classification of Arrhythmias, highlighting the dire need for detailed classification models.
+This study utilises the extensive PTB-XL database ECG records to develop a robust method for classifying various heart abnormalities.
+The data with unique labels is filtered through the Butterworth bandpass filter and Discrete Wavelet Transform (DWT) db-8.
+The R-peaks of the clean signal were used to detect the subsequent morphological features, i.e., P-QRS-T intervals and amplitudes.
+The feature set was balanced using the Synthetic Minority Oversampling Technique for Nominal and Continuous (SMOTE-NC) and fed into Convolutional Neural Network (CNN) and Deep Neural Network (DNN) with 5-fold cross-validation.
+The models classified the ECG records into one normal and four abnormal classes: Conduction Disturbance (CD), Myocardial Infarction (MI), Hypertrophy (HYP), and ST-T Changes (STTC).
+Performance metrics such as F1 score, recall, precision, and accuracy were evaluated for each model.
+The CNN model achieved a mean accuracy of 81% ± 0.03, while the DNN model achieved a mean accuracy of 84% ± 0.01.
+One key finding is that Hypertrophy (HYP) was consistently classified with up to 98% accuracy.
+Thus, the study demonstrates the effectiveness of combining advanced signal processing and deep learning techniques for precise multi-class heart disease classification using P-QRS-T features, paving the way for future real-time clinical applications.

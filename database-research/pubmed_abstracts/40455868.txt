@@ -1,0 +1,15 @@
+Simulation studies, especially neutral comparison studies, are crucial for evaluating and comparing statistical methods as they investigate whether methods work as intended and can guide an appropriate method choice.
+Typically, the term simulation refers to parametric simulation, i.e.
+computer experiments using pseudo-random numbers.
+For these, the full data-generating process (DGP) and outcome-generating model (OGM) are known within the simulation.
+However, the specification of realistic DGPs might be difficult in practice leading to oversimplified assumptions.
+The problem is more severe for higher-dimensional data as the number of parameters to specify typically increases with the number of variables in the data.
+Plasmode simulation, which is a combination of resampling covariates from a real-life dataset from the DGP of interest together with a specified OGM is often claimed to solve this problem since no explicit specification of the DGP is necessary.
+However, this claim is not well supported by empirical results.
+Here, parametric and Plasmode simulations are compared in the context of a method comparison study for binary classification methods.
+We focus on studies conducted with some specific data type or application in mind whose true, unknown data-generating mechanism is mimicked.
+The performance of Plasmode and parametric comparison studies for estimating classifier performance is compared as well as their ability to reproduce the true method ranking.
+The influence of misspecifications of the DGP on the results of parametric simulation and of misspecifications of the OGM on the results of parametric and Plasmode simulation are investigated.
+Moreover, different resampling strategies are compared for Plasmode comparison studies.
+The study finds that misspecifications of the DGP and OGM negatively influence the ability of the comparison studies to estimate the classification performances and method rankings.
+The best choice of the resampling strategy in Plasmode simulation depends on the concrete scenario.

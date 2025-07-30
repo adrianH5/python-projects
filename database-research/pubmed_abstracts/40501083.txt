@@ -1,0 +1,7 @@
+Metabolic dysfunction-associated steatotic liver disease (MASLD) is the most common cause of liver disease and a leading contributor to liver-related morbidity and mortality.
+Currently, no pharmacological approach has demonstrated consistent and long-lasting benefits across all patients.
+Therefore, identifying new therapeutic targets remains an urgent clinical need.
+The hepatic serine protease matriptase-2, encoded by TMPRSS6, inhibits the BMP-SMAD pathway.
+Interestingly, reduced BMP-SMAD signalling in the liver is frequently associated with altered lipid metabolism in patients.
+Conversely, inactivation of Tmprss6 has been linked to reduced high-fat diet-induced obesity.
+Based on these findings, we hypothesize that TMPRSS6 represents a novel and promising target for the treatment of MASLD.

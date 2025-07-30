@@ -1,0 +1,9 @@
+A water-soluble sulfated polysaccharide, SFAP-4, was isolated from Sargassum fusiforme via ion-exchange and gel-filtration column chromatography.
+It comprised a large amount of fucose (Fuc), minor amount of galactose (Gal), and small amounts of glucose (Glc), mannose (Man), rhammnose (Rha), xylose (Xyl) and glucuronic acid (GlcA).
+Structural analysis showed that SFAP-4 has very complex structure.
+It contains a backbone mainly consisted of →4)-α-L-Fucp-(1 → and →3)-α-L-Fucp-(1 → with different sulfated pattern in the ratio about 1:2.
+Most sulfate groups were disubstituted at O-2/4 of →3)-Fucp-(1 → and/or O-2/3 of →4)-Fucp-(1 → residues.
+Bioactivity tests showed that SFAP-4 restored T cell proliferation that was inhibited by cancer-associated fibroblasts (CAFs).
+SFAP-4 did not directly inhibit the apoptosis of CAFs, but it interfered with CAF-mediated T cell proliferation inhibition.
+The upregulated expression of pivotal proteins (p-p65 and p-TAK1) and NF-κB inhibitor blocking experiment indicated that the NF-κB pathway in CAFs was activated.
+Thus, SFAP-4 may antagonize against the T cell proliferation-inhibition induced by CAFs at least through the activation of the NF-κB pathway.

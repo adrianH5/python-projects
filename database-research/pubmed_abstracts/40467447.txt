@@ -1,0 +1,8 @@
+Pharmacotherapy of older patients requires special attention to drug interactions, based on an increase in morbidity and elevated need for polypharmacy.
+Especially for drugs with a narrow therapeutic index, interactions may require dose adjustments, discontinuation or switching of co-medication.
+These interactions are frequently based on pharmacokinetic alterations of drug metabolism via the cytochrome P450 (CYP) enzyme system, mainly via CYP3A4.
+This isoform is involved in the metabolism of about half of therapeutically applied drugs, including many agents commonly used in patients with prostate cancer.
+As a consequence, an impressive decrease in plasma levels of coadministered drugs has to be expected during the use of the potent CYP3A4 inducers apalutamide as well as enzalutamide, in contrast to the mild CYP3A4 inducer darolutamide.
+Abiraterone is classified as a moderate inhibitor of the CYP2D6 isozyme, which catalyses the biotransformation of fewer drugs.
+As a consequence, abiraterone's spectrum of interaction has to be interpreted differently.
+As pharmacotherapy approaches, it is helpful to understand the drug biotransformation pathways in more detail, in order to assess the extent of possible interactions that may necessitate the intensification of therapeutic monitoring, or dose modification or any therapeutic switch in time.

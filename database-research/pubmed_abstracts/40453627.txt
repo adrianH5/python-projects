@@ -1,0 +1,3 @@
+Tissue inhibitors of matrix metalloproteinases (TIMPs) are natural inhibitors of matrix metalloproteinases (MMPs) that inhibit the action of MMPs in 1:1 stoichiometry.
+TIMP-1 inhibits MMP-9 and MMP-13 and keeps them in an inactive stage.
+The imbalance between the MMPs and TIMPs disturbs the integrity of the extracellular matrix, which leads to disease progression and metastasis.

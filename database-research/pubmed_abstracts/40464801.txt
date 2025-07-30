@@ -1,0 +1,14 @@
+Overexpression or knockdown of a specific gene is usually helpful in understanding its underlying molecular mechanism.
+PVT1 gene is regarded as an oncogenic long non-coding RNA (lncRNA) in many cancers, including breast invasive carcinoma (BRCA).
+We investigated some of the underlying molecular mechanisms of PVT1 in human invasive breast cancer MDA-MB-231 cells.
+Differentially expressed genes (DEGs) were obtained after PVT1 overexpression and knockdown in MDA-MB-231 cells from the gene expression profiles GSE175736 and GSE97587.
+RNAInter database was used to predict miRNAs and TFs that have interactions with PVT1.
+Competing endogenous RNA (ceRNA) and transcription regulatory networks visualized using Cytoscape software.
+It was found that HLA-G, GBP4, SERPINE1, DHRS2, MT1X, and PRLR were common PVT1 co-upregulated and co-downregulated genes in the two datasets.
+SERPINE1 was identified as the most positively correlated gene with PVT1 expression in MDA-MB-231 cells.
+DEGs in overexpressed and silenced PVT1 cells were enriched in the cell adhesion process and JAK-STAT signaling pathway, respectively.
+In the ceRNA network, PVT1 acts as a competing endogenous RNA for downregulated miR-145-5p, miR-17-5p, and miR-20a-5p.
+PVT1/miR-145-5p/SERPINE1 was a common axis in ceRNA networks in the two datasets.
+SERPINIE1 was also a common node between ceRNA and transcription regulatory networks.
+RT-qPCR validated the anticipated levels of PVT1, miR-145-5p, and SERPINE1 in MDA-MB-231 cancer compared to MCF-10 A noncancerous cells.
+Taken together, the results of this work shed light on the several possible oncogenic mechanisms of PVT1, including its closely related genes and signaling pathways.

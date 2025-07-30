@@ -1,0 +1,13 @@
+Hepatocellular carcinoma (HCC) shows the highest morbidity among liver cancers and is a major contributor to cancer-associated mortality.
+It is characterized by genetic mutations in hepatocytes, leading to uncontrolled cell growth and proliferation.
+Current treatment include surgery, chemotherapy and immunotherapy; however, chemotherapeutics, which focus on single-targeted drug therapy, are still associated with certain limitations and may affect the treatment outcomes.
+Compared with chemotherapy drugs, natural products also show the anticancer effect of HCC and hypotoxicity, but overall low activity of natural products limits their further application.
+MmiRNAs can modulate post-transcriptional functions of target genes.
+An increasing body of evidence has demonstrated that miRNAs are the key regulators in HCC by targeting different molecules in different signaling pathways.
+However, miRNAs are fragile and liable to catabolism by RNases in serum and other body fluids and small molecules separated from natural products may have limited bio-availability.
+According to this background, a chitosan based, targeted sustained-release nanoparticle delivery miR-128-3p agomir (NA-miR-128-3p) was developed in this work.
+This nanoparticle was prepared by pentasodium tripolyphosphate (TPP), chitosan hydrochloride, and miR-128-3p agomir with target aptamer which was loaded into the chitosan nanoparticle by self-assembly.
+It can intervene in HCC progress by affecting AKT1 expression.
+Based on this, a novel, efficient, long-acting, multi-mechanism, low-dosage combination drug delivery strategy was proposed in this work and showed a prominent anti-tumor effect.
+NA-miR-128-3p combined with natural product Oroxin B significantly affected HCC progression by the interference with VEGF and PI3K-AKT pathways, better than using NA-miR-128-3p and Oroxin B alone.
+Taken together, this nanoparticle and combinative administration compensate for the shortcomings of the fragile RNA drugs and the low activity of natural products, with high prospects in HCC treatment.

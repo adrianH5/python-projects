@@ -1,0 +1,8 @@
+We proposed gdGSE, a novel computational framework for gene set enrichment analysis.
+Unlike conventional methods that rely on continuous gene expression values, gdGSE employs discretized gene expression profiles to assess pathway activity.
+This approach effectively mitigates discrepancies caused by data distributions.
+This algorithm consists of two steps: (1) applying statistical thresholds binarizing gene expression matrix, and (2) converting the binarized gene expression matrix into a gene set enrichment matrix.
+Our results demonstrated that gdGSE could robustly extract biological insights from a diverse array of simulated and real bulk or single-cell gene expression datasets.
+Notably, gene set enrichment scores by gdGSE exhibited enhanced utility in downstream applications: (1) precise quantification of cancer stemness with significant prognostic relevance; (2) enhanced clustering performance in stratifying tumor subtypes with distinct prognoses; and (3) more accurate identification of cell types.
+Remarkably, the pathway activity scores by gdGSE showed > 90 % concordance with experimentally validated drug mechanisms in patients-derived xenografts and estrogen receptor-positive breast cancer cell lines.
+Our algorithm proposes that discretizing gene expression values provides an alternative method for evaluating pathway enrichment, applicable to both bulk and single-cell data analysis.

@@ -1,0 +1,4 @@
+Biothiol analysis holds critical importance in disease diagnosis, but the highly similar structures of biothiols pose a major obstacle to their practical detection.
+Herein, a straightforward yet efficient CoOOH nanoflake (CoOOH NF)-triggered dual-color fluorescence sensor array has been developed for the discrimination of biothiols.
+Owing to their high oxidase-like activity, CoOOH NFs efficiently catalyze the oxidation of fluorometric signal indicators, generating diverse fluorescence signals.
+However, the presence of biothiols induced structural degradation of CoOOH NFs

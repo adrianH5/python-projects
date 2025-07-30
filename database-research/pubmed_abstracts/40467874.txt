@@ -1,0 +1,2 @@
+Predicting the likelihood of benign neoplasia in patients with suspected renal cell carcinoma (RCC) is a cornerstone of presurgical planning.
+We sought to create and validate U.N.I.K., a machine learning (ML) model capable of predicting benign lesions on final histological report.

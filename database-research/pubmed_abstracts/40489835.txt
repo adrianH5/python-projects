@@ -1,0 +1,12 @@
+Bladder cancer (BC) is influenced by genetic and environmental factors, with blood and urine biomarkers playing a critical role in its diagnosis and progression.
+However, establishing the causal association between these biomarkers and BC remains challenging due to confounding factors and reverse causation in traditional studies.
+Therefore, we conducted a Mendelian randomization (MR) analysis to assess the causal association between these biomarkers and BC.
+A bidirectional MR analysis was performed using pooled data from 35 blood and urine biomarkers, 731 immune cell types, and BC cases from the Genome-Wide Association of Transgenics and Circulating Metabolites study.
+Complementary analyses, including mediation analysis, 2-stage MR, and multivariate MR, were employed to investigate the potential mediating role of immune cells in this association.
+We further conducted sensitivity analyses to validate the stability and feasibility of our dataset.
+The analysis identified a causal association between BC and 2 biomarkers: calcium and sex hormone-binding globulin.
+Elevated calcium levels were associated with an increased risk of BC (inverse variance weighting: [OR] = 1.295, 95% [CI] = 1.062-1.578, P = .011), while higher sex hormone-binding globulin levels were linked to a decreased risk (inverse variance weighting: OR = 0.857, 95% CI = 0.741-0.991, P = .037).
+Notably, CD20 expression on IgD⁻ CD24⁻ B cells appeared to attenuate the positive association between calcium and BC.
+This study reinforces the association between specific blood and urine biomarkers and the risk of developing BC.
+It also highlights the mediating role of CD20 on IgD⁻ CD24⁻ B cells in the causal pathways linking these biomarkers to BC.
+These insights enhance our understanding of BC pathogenesis and may guide the development of targeted diagnostic and therapeutic strategies.

@@ -1,0 +1,9 @@
+Colorectal cancer (CRC) is one of the most common cancers worldwide.
+Although immune checkpoint blockade (ICB) has transformed CRC treatment, the low response rate and immune resistance remain significant challenges.
+In recent years, epigenetic therapies have been shown to induce viral mimicry response to overcome immune resistance and increase the effectiveness of ICB.
+However, as an epigenetic modifier, the intrinsic function of PRMT5 in controlling innate immune signaling, viral mimicry, and the tumor microenvironment in CRC remains to be elucidated.
+Here, we report that PRMT5 inhibition attenuates CRC growth and epigenetically targeting PRMT5 remolds the tumor immune microenvironment, thereby enhancing the therapeutic efficacy of ICB.
+Mechanistically, PRMT5 knockdown increases endogenous retroviruses (ERVs) expression and dsRNA formation and causes DNA repair incompetence and genomic instability.
+These changes, combined with the elevated expression of RIG-I/MDA5/STING, trigger innate immune activation and viral mimicry response, thereby facilitating immune cell infiltration and enhancing ICB effectiveness.
+Furthermore, PRMT5 knockdown reduces H3R2me2s and H3R8me2s levels, and epigenetically promotes innate immune responses.
+Our study reveals the tumor intrinsic role of PRMT5 in controlling ERVs and innate sensors expression, providing perspectives for the epigenetically targeting of PRMT5 to induce viral mimicry response and enhance antitumor immunity in CRC.

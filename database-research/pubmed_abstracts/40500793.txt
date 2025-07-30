@@ -1,0 +1,4 @@
+Early detection of hepatocellular carcinoma (HCC) can greatly improve the survival rate of patients.
+Plasma cfDNA methylation has been shown to have the potential to be a non-invasive method for diagnosing HCC.
+However, the identified HCC plasma cfDNA methylation sites were less sensitive to early HCC diagnosis.
+Therefore, we aimed to develop a highly sensitive marker panel based on cell-free DNA (cfDNA) methylation for the detection of HCC.

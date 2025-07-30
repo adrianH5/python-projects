@@ -1,0 +1,12 @@
+This study aims to investigate the role of C-C Motif Chemokine Ligand 18 (CCL18) in glioblastoma multiforme tissues.
+Glioblastoma multiforme-related gene expression, clinical parameters, and the corresponding expression data in normal tissues were obtained from The Cancer Genome Atlas database and The Genotype-Tissue Expression database, respectively.
+The expression levels of CCL18 in 1157 normal tissues, 166 glioblastoma multiforme tissues and its relationship with clinicopathological features were analyzed.
+The degree of immune infiltration in glioblastoma multiforme tissues was assessed using single sample gene set enrichment analysis algorithm and ESTIMATE algorithm.
+Gene set enrichment analysis was used to explore the biological processes and pathways that may be regulated by CCL18.
+Univariate and multivariate Cox regression analysis were used to predict the risk factors affecting the prognosis of glioblastoma multiforme patients.
+Based on risk factors, nomogram models were constructed.
+Besides, the expression and roles of CCL18 in glioblastoma multiforme were validated in Clinical Proteomic Tumor Analysis Consortium database, GSE57872 dataset, and in vitro.
+CCL18 mRNA and protein are highly expressed in glioblastoma multiforme tissues and are closely associated with immune infiltration and prognosis in glioblastoma multiforme patients.
+CCL18 is involved in regulating multiple neural-, immune-, and tumor-related signaling pathways, and potentially promote proliferation, angiogenesis, migration, and epithelial-mesenchymal transition in glioblastoma multiforme tissues.
+Moreover, CCL18 promoted cell viability and migration in vitro.
+CCL18 might be a potential molecular marker for prognosis prediction and targeted therapy in glioblastoma multiforme patients.

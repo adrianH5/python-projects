@@ -1,0 +1,4 @@
+Large aging neutrophil-derived vesicles (LAND-Vs) are ∼1 μm ectosomes released by aging neutrophils.
+Here, we present a protocol to identify and purify murine LAND-Vs from in vitro neutrophil cultures and ex vivo sources, including bone marrow, blood, and bronchoalveolar lavage fluid (BALF), using centrifugation and fluorescence-activated cell sorting (FACS).
+We also describe steps for isolation and quantification of human LAND-Vs from isolated neutrophils and human blood.
+For complete details on the use and execution of this protocol, please refer to Hsu et al.

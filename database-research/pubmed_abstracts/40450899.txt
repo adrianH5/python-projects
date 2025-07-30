@@ -1,0 +1,14 @@
+Triple-negative breast cancer (TNBC) exhibits the highest recurrence and mortality rates among breast cancer subtypes.
+Approximately one million TNBC cases are diagnosed worldwide annually.
+Current clinical treatments, primarily chemotherapy regimens based on paclitaxel and anthracycline, are associated with high recurrence rates and low overall survival rates.
+Platinum drugs, introduced for TNBC treatment, demonstrated a positive effect; however, their high-dose administration inevitably results in toxic side effects and drug resistance.
+Therefore, identifying agents that sensitize patients to platinum-based therapies is critical.
+Analysis of the TCGA database revealed that AKT1 and autophagy are activated in breast cancer, playing crucial roles in malignant behavior.
+Further investigation demonstrated that CBP activates the AKT pathway in MDA-MB-231 cells, while its combination with LY294002 or Triciribine (inhibitors of the PI3K/AKT pathway), suppresses cell proliferation.
+However, this combination also activates autophagy, a protective mechanism.
+Inhibition of autophagy with CQ or Baf A1 further increased the proliferation-inhibitory effects of CBP in MDA-MB-231 cells.
+Notably, the sesquiterpene lactone EM-2 extracted from Elephantopus mollis H.B.K., significantly inhibited both the AKT and autophagy pathways in TNBC cells, demonstrating superior cellular inhibitory effects compared with other AKT or autophagy inhibitors combined with CBP.
+When CBP was combined with EM-2, cell survival decreased by approximately 36 % compared with CBP monotherapy, while the apoptosis rate increased by 22.8 % after 48 h. The combination of CBP and EM2 also produced the greatest tumor shrinkage in vivo.
+Interestingly, the CBP (3 mg/kg) + EM-2 (6 mg/kg) group achieved the same tumor shrinkage, with only one-fifth the amount of CBP compared with the CBP (16 mg/kg) monotherapy group.
+In other words, low doses of EM-2 combined with CBP produced the same anti-tumor effects as high-dose CBP alone.
+These findings provide a novel strategy for the treatment of CBP using dual AKT and autophagy inhibitors, highlighting potential clinical applications.

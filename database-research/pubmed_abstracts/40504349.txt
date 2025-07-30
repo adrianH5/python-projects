@@ -1,0 +1,10 @@
+Maslinic acid (MA), a pentacyclic triterpenoid, displays broad biological activity including anti-inflammatory, antihyperlipidemic, anti-tumor, cardiovascular protection etc.
+Our previous study has shown that MA inhibits the proliferation of pancreatic cancer cells via heat shock protein HSPA8-mediated autophagy pathway, but the detailed mechanism is still unclear.
+In the present study, we confirmed that MA downregulated the protein expression of the transcription factor of heat shock protein 1(HSF1), and knockdown of HSF1 was able to enhance the inhibitory effect of MA in pancreatic cancer cells.
+In contrast, high HSF1 expression was capable of partially reversing the MA-induced inhibitory effect and the ability of MA-induced autophagy in pancreatic cancer cells.
+Real-time quantitative PCR and Western blotting analysis indicated that MA reduced the protein expression of HSF1 but did not downregulate mRNA levels.
+Molecular docking and SPR analysis revealed that there was an specific interaction between MA and HSF1; MA was able to form hydrogen bonds with the amino acid residues, HIS-63 and GLN-72 on HSF1 molecules.
+Co-immunoprecipitation experiments confirmed that MA promoted the ubiquitination-mediated degradation of HSF1.
+Further study confirmed that the mutant of His-63 and Gln-72 amino acid residues of HSF1 partially reversed the inhibitory effect of MA on the autophagy and the growth of pancreatic cancer cells.
+Our study provides solid evidence that there is a specific interaction between MA and HSF1, and the interaction increases the ubiquitination-mediated degradation of HSF1, contributing to the inhibitory effect of pancreatic cancer cell growth.
+The study also suggests that targeting the binding sites of MA on HSF1 could be developed as a novel strategy for developing anticancer agents on the treatment of pancreatic cancer.

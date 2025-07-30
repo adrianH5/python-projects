@@ -1,0 +1,42 @@
+As of July 7, 2020, more than 11.5 million cases of coronavirus disease 2019 (COVID-19) had been confirmed, with 0.53 million deaths globally (WHO Situation Report).
+An early viral genome sequence was published to inform and assist public health control, followed by the genome sequencing data of 60,000 samples deposited in the database curated by the Global Initiative on Sharing All Influenza Data (GISAID) (Elbe and Buckland-Merrett, 2017).
+The diagnosis of COVID-19 is of high priority for patient and public health management to minimize spread of the infection.
+Chest computed tomography (CT) imaging can be used to diagnose patients with COVID-19 (Zu et al., 2020).
+Even though the initial RT-PCR test was negative, repeated RT-PCR tests have increased the cumulative positive rate for COVID-19 (Al-Tawfiq and Memish, 2020).
+WHO documented the interim guidance of laboratory testing, which denotes nucleic acid amplification test (i.e. RT-PCR) should be conducted to COVID-19 suspected cases (World Health Organization, 2020a).
+To date, protocols of RT-PCR assay to detect SARS-CoV-2 are designed in several countries including USA (Centers for Disease Control and Prevention [CDC]), China (China CDC), Japan (National Institute of Infectious Diseases [NIID]), Germany (Charité), France (Institut Pasteur), Hong Kong (The University of Hong Kong) and Thailand (National Institute of Health) (World Health Organization, 2020b).
+The NIID assay also shows positive percent agreement (100 %, 10/10) and negative percent agreement (100 %, 15/15) compared to the result of LightMix Modular SARS and Wuhan CoV E-gene assay (Okamaoto et al., 2020).
+We purchased the 2019-nCoV CDC qPCR Probe Assays (renamed the 2019-nCoV RUO Kit) from Integrated DNA Technologies (IDT, Coralville, IA, USA), which contains research-use-only primer and probe sets based on the protocol announced by the CDC (hereafter called the CDC assay).
+The NIID has also designed an RT-PCR assay and published associated data (Shirato et al., 2020).
+We obtained these primer and probe sets from the NIID (hereafter called the NIID assay).
+The NIID assay includes two sets of primers, as well as probes containing a 5′-FAM dye and a 3’-TAMRA dye (Table 1).
+We further designed double-quencher probes (purchased from IDT) based on the same primers/probe sequence reported in the NIID protocol (hereafter called the YCH assay).
+These probes each incorporate a 5′-FAM dye, an internal ZEN quencher, and a 3′-Iowa Black Fluorescent Quencher (IBFQ) (Table 1).
+The internal ZEN quencher was incorporated between bases 9 and 10 from the 5′ end of the probe.
+All of the primer/probe sets in the CDC, NIID, and YCH assays target the N gene of SARS-CoV-2.
+The CDC assay targets three sites along the N gene, and both of the NIID and YCH assays target two sites along this gene.
+All three of the CDC, NIID, and YCH assays amplified the N gene of SARS-CoV-2 (Fig. 1
+).
+The CDC assay targets three sites along this gene (N1, N2, and N3), and the NIID and YCH assays target two sites (N1 and N2) (Fig. 1).
+A previous study showed that the reverse primer for N1 detection in the NIID assay has one mismatch with the sequence in the current database because it was constructed based on another reported sequence (GenBank: MN908947.1) (Shirato et al., 2020).
+With 10 copies, we could detect amplification signals for CDC-N2, YCH-N1, YCH-N2, and NIID-N2.
+We observed that the Ct values obtained for both the N1 and N2 sites with the NIID assay were relatively high compared with those obtained with the YCH assay (Fig. 2), despite the primer and probe sequences being equivalent.
+The baseline fluorescence signal obtained for the N1 site with the NIID assay ranged from 150 × 104 to 200 × 104 relative fluorescence units (RFU), whereas that obtained with the YCH assay was ≤50 × 104 RFU.
+Similarly, the signal obtained for the N2 site with the NIID assay ranged from 125 × 104 to 200 × 104 RFU, while that obtained with the YCH assay was 75 × 104 to 100 × 104 RFU.
+To compare the assay performances of single- and double-quencher probes, we tested nasopharyngeal swabs from 66 patients using NIID and YCH assays.
+Of the 66 samples, positive signals were detected in 10, 11, 17 and 18 samples by NIID-N1, YCH-N1, NIID-N2 and YCH-N2, respectively (Table 2
+).
+Several companies have developed commercially available kits for the RT-PCR detection of SARS-CoV-2. IDT launched an assay kit targeting three sites along the N gene and the human RPP30 gene according to the CDC protocol in USA, and this kit was used in this study.
+They showed that the CDC-N2 (USA), CDC-N3 (USA), and NIID-N2 (Japan) sets were the most sensitive and reliable laboratory tests for SARS-CoV-2.
+We also observed that the CDC-N2 (USA) and NIID-N2 (Japan) assays could detect a low copy number of the DNA positive control.
+Previous studies showed that the N1 site of the NIID assay is less sensitive when using the RNA positive control (Shirato et al., 2020; Ishige et al., 2020).
+In this study, we also confirmed that the N1 site of the NIID assay has a limit of detection of 10 copies of the DNA positive control.
+In addition, we observed that the Ct value was high for the N1 site with the NIID assay.
+The amplification region of CDC-N3 partially overlapped with that of NIID-N1 and YCH-N1.
+When the amplification signal was detected in only NIID-N1 but not in NIID-N2, we think it is better to repeat test and confirm the reproducibility.
+We used the primers and single-quencher probes recommended by the CDC (N1, N2 and N3) in the USA and the NIID (N1 and N2) in Japan.
+In addition, we designed double-quencher probes according to the virus sequence provided by the NIID to develop a further assay (termed the YCH assay [N1 and N2]).
+The threshold cycle (Ct) value of the RT-PCR was relatively low for the CDC and YCH assays compared with the NIID assay.
+The background fluorescence signal at the baseline was lower for the YCH assay compared with the NIID assay.
+We assessed the diagnostic performance between single- (NIID) and double-quencher (YCH) probes using 66 nasopharyngeal swabs.
+When the results of YCH-N2 assay were used as a reference, each assay detected SARS-CoV-2 with positive percent agreements of 56 % for NIID-N1, 61 % for YCH-N1, and 94 % for NIID-N2, and 100 % negative percent agreements for NIID-N1, YCH-N1 and NIID-N2.

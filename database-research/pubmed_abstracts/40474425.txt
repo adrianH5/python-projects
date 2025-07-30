@@ -1,0 +1,15 @@
+A significant proportion of patients with relapsed/refractory diffuse large B-cell lymphoma (R/R DLBCL) exhibit no response to chimeric antigen receptor (CAR) T-cell therapy or suffer from disease progression thereafter.
+This study investigated the efficacy and safety of salvage therapy with PD-1 inhibitor-based combination treatment and the patient selection after their CAR T-cell therapy.
+Twenty-one patients with R/R DLBCL and a high tumor burden were treated with CAR T-cell therapy, a treatment that has shown promising results in clinical trials and has been approved by the Food and Drug Administration (FDA) for use in DLBCL.
+Patients who achieved complete response (CR) with the CAR T-cell therapy received salvage therapy when their disease progressed again.
+Patients who obtained partial response (PR) or stable disease (SD) with the CAR T-cell therapy received salvage therapy immediately.
+Salvage therapy consisted of single PD-1 inhibitors or PD-1 inhibitors combined with chemotherapy.
+We observed the overall response rate (ORR), overall survival (OS), CAR T-cell amplification, the expression of PD-1, CD3+ T cells, cytokines, and the adverse events.
+For instance, in a clinical trial of LCAR-B38M CAR T-cell therapy, an 88% ORR was observed, with 74% of patients achieving CR and a median duration of response (DOR) of 16 months.
+The ORR and CR of the salvage therapy were 28.57% and 19.05%, respectively.
+The ORR and CR were 38.46% and 30.77% in the 13 patients who achieved PR/SD with the CAR T-cell therapy and received salvage therapy 2 months after CAR T-cell infusion.
+But the ORR and CR were only 12.5% and 0%, respectively, in patients who achieved CR with the CAR T-cell therapy and received salvage therapy when they experienced disease re-progression.
+The ratio of CAR-T cells on day 7/day 14 was lower in the PR in CAR-T (effective to PD-1) group.
+Before salvage therapy, the percentage of CD3+ T cells was higher in the PR in CAR-T (effective to PD-1) group.
+There was no difference in the Common Terminology Criteria for Adverse Events (CTCAE) grades among the four groups in the salvage therapy.
+PD-1 inhibitor-based salvage therapy in patients with R/R DLBCL following the CAR T-cell therapy could be an effective and safe treatment, especially in patients who achieved PR after the CAR T-cell therapy and received this salvage therapy immediately.

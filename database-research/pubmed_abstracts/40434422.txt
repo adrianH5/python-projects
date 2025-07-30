@@ -1,0 +1,10 @@
+The leading factor contributing to patient mortality is the local invasion and metastasis of tumors, which are influenced by the malignant progression of tumor cells.
+The epithelial-mesenchymal transition (EMT) is key to understanding malignancy development.
+EMT is a critical regulatory mechanism for differentiating cell populations initially observed during the neural crest and embryonic gastrulation formation.
+This process is closely associated with tumor metastasis in cancer and is also related to the maintenance of cancer stem cells.
+Flavonoids, known for their antioxidant properties, have been widely studied for their anticancer potential to protect plants from harmful environmental conditions.
+They have attracted considerable attention and have been the focus of numerous experimental and epidemiological studies to evaluate their potential in cancer treatment.
+In vitro and in vivo research has demonstrated that flavonoids can significantly impact cancer-related EMT.
+They may inhibit the EMT process by reducing the levels of Twist1, N-cadherin, ZEB1, integrins, SNAI1/2, CD44, MMPs, and vimentin while increasing E-cadherin levels and targeting the PI3K/AKT, NF-κB p65, and JAK2/STAT3 signaling pathways.
+In order to suppress the transcription of the E-cadherin promoter, several Zn-finger transcription factors, such as SNAI2, ZEB1, and ZEB2, and basic helix-loop-helix (bHLH) factors, such as Twist, may directly bind to its E-boxes.
+Overall, clinical cancer research should integrate the anticancer properties of flavonoids, which address all phases of carcinogenesis, including EMT, to improve the prospects for targeted cancer therapies in patients suffering from aggressive forms of tumors.

@@ -1,0 +1,9 @@
+Regulating membrane protein abundance through Lysosome Targeting Chimera (LYTAC) holds significant promise in addressing various diseases.
+However, the precise structural control of LYTAC molecules and how to improve their treatment efficacy remain elusive.
+In this study, we develop a multifunctional phototriggered LYTAC platform, named PT-LYTAC, to enhance targeted protein degradation using a photoactive bispecific aptamer chimera (PBAC).
+PBAC is designed with a precise modular approach that integrates an NIR photosensitive molecule into a bispecific aptamer chimera.
+Taking advantage of the low molecular weight and easy synthesis of the DNA aptamers, PBAC can efficiently transport the therapeutically relevant membrane protein PTK7 to lysosomes for degradation through the lysosomal pathway.
+Moreover, our investigation reveals that the multifunctional PT-LYTAC platform, enabled by DNA aptamers, promotes protein degradation by modulating cellular autophagy.
+By the combination of targeted protein degradation and spatiotemporally controllable regulation of intracellular oxidative stress, the function of tumor cells can be significantly inhibited.
+Under NIR laser irradiation, PT-LYTAC completely suppresses colorectal cancer growth with just one dose and a single laser treatment, all without any apparent side effects.
+We anticipate that this novel PT-LYTAC will expand the use of DNA-based LYTAC drugs and provide a new dimension for targeted protein degradation.

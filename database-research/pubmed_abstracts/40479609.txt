@@ -1,0 +1,11 @@
+Normal tissues actively employ a phenomenon called cell competition to drive the elimination and replacement of less fit loser cells by fitter winner cells.
+This quality control mechanism promotes tissues health, by favouring the selective expansion of fitter cells.
+Indeed, through cell competition, many mutant cells are eliminated from tissues by fitter normal cells.
+However, some oncogenic mutations can turn cells into super-competitors that outcompete normal cells, promoting tumorigenic growth and metastasis.
+Several cellular stresses have been associated with the loser status such as oxidative stress, DNA damage responses, unfolded protein response and mitochondrial dysfunction.
+By affecting these pathways, metabolism and dietary choices can regulate cellular fitness and cell competition.
+However, how these pathways affect competitive interactions in vivo, during the early establishment of mutant clones, is relatively little understood.
+Recent work from Hemalatha and colleagues introduces real-time fluorescence ratio metric imaging of NAD(P)H and FAD, to investigate cellular redox status - live and over time, at single cell level - as cells compete in the mouse epidermis.
+Their work demonstrates that redox status changes dynamically during competition between cell carrying oncogenic mutations.
+It further shows that drugs that modulate mitochondrial metabolism and cellular redox are strong modulators of cell competition.
+The introduction of live redox imaging will prove a powerful tool to further dissect how metabolic states affect cell competition in normal physiology and in tumorigenesis.

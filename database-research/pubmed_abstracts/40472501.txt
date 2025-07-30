@@ -1,0 +1,10 @@
+Sphingosine kinase 1 (SphK1) plays a pivotal role in cancer progression, metastasis, and chemotherapy resistance, making it a key target for therapeutic interventions in cancer, cardiovascular diseases, and inflammation.
+Machine learning models, including Decision Trees (DT), Support Vector Machines (SVM), k-nearest neighbors (KNN), Random Forest (RF), and AdaBoost (ABDT), were developed to predict potential SphK1 inhibitors using a dataset of 534 compounds.
+RF achieved the highest performance with an accuracy of 89.81 %, specificity of 90 %, and F1-score of 0.88, while ABDT followed closely with an accuracy of 87.94 % and recall of 88.34 %.
+The models were further validated on a dataset of 2,173 compounds from our in-house synthetic compound library.
+187 potential SphK1 inhibitors were predicted from the in-house compound library demonstrating the robustness of the models.
+Molecular dynamics simulations over 100 ns revealed that compounds IS01027, IS01265, and IS00998 remained stable in the sphingosine-binding pocket of SphK1, exhibiting minimal RMSD values.
+MM/GBSA calculations showed that PF-543 had the lowest predicted binding energy (-101.25 kcal/mol), followed by IS01265 (-94.52 kcal/mol), IS01027 (-85.53 kcal/mol), and IS00998 (-82.57 kcal/mol), indicating their strong binding affinity to the protein.
+Key interactions, including hydrogen bonds, hydrophobic contacts, and π-π interactions, were identified as critical for stability and binding.
+All four top-ranked ligands displayed strong predicted drug-like characteristics, such as high gastrointestinal absorption, and moderate oral bioavailability, with IS00998 standing out for its excellent solubility.
+Our integrated approach, combining machine learning, molecular docking, and molecular dynamics simulations, highlights the potential of computational methods to accelerate the discovery of SphK1 inhibitors, offering valuable insights for therapeutic innovation.

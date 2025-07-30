@@ -1,0 +1,10 @@
+Benign peripheral nerve sheath tumors (PNSTs) represent a heterogeneous group of neoplasms with varying histological and molecular characteristics.
+While traditional classifications categorize these tumors based on predominant cell types, recent advances in molecular pathology have revealed the presence of hybrid tumors featuring elements from at least two nerve sheath tumors (hPNST).
+We herein studied 20 cases of hPNST involving 15 female and 5 male patients (median age: 29.5 years; range: 3 weeks - 71 years).
+Tumors occurred on the upper extremity (6), scalp (3), trunk (3), face (3), lower extremity (2), right lateral neck (1), nasal sinus (1) and retroperitoneum (1).
+Follow-up information was available in 9 of 20 cases (45%; median: 10 months; range: 2 weeks - 144 months) and documented local recurrence in 2 of 9 patients (22%) at 10 and 144 months after incomplete excision.
+Next-generation sequencing demonstrated VGLL3 fusions in 14 cases, fused with CHD7 (10 tumors), CHD9 (3 tumors), and MAMLD1 (1 tumor), an alternate TEAD1::NCOA2 (1 tumor) fusion and several novel fusions including TOX::TEAD1 (2 tumors), RREB1::LPP (1 tumor), SRF::MYOCD (1 tumor) and KANK1::CDK5RAP2 (1 tumor).
+Most tumors with VGLL3 fusions showed morphologically and immunophenotypically classic features of hybrid schwannoma-perineurioma, while rare cases showed unusual microscopic features such as prominent myxoid stroma, pseudolipoblasts, prominent schwannian nodules, or solely schwannomatous morphology.
+The RREB1::LPP -driven tumor showed features of hybrid schwannoma-neurofibroma.
+Lastly, one tumor with a novel SRF::MYOCD fusion displayed morphologic features reminiscent of desmoplastic melanoma while exhibiting a combined neural and smooth muscle phenotype.
+Our data expands on the morphologic and molecular spectrum of fusion-driven hybrid peripheral nerve sheath tumors, including 5 previously undescribed fusions, and further expands on non-CNS schwannomas with VGLL3 fusions.

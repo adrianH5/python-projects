@@ -1,0 +1,10 @@
+This research investigated the impact of Ganoderma lucidum polysaccharides(GLP) on hepatoblastoma HepG2 and Huh6 cell models, as well as KM mouse model with in situ transplanted tumors, so as to provide a theoretical basis for the clinical application of GLP.
+Cell viability was assessed through the CCK-8 assay, whereas cell proliferation was evaluated by using the BeyoClick~(TM)EdU-488 test.
+Cell apoptosis was visualized via Hochest 33258 staining, and autophagy was detected through Mrfp-GFP-LC3 dual fluorescence staining.
+An in situ tumor transplantation model was created by using HepG2 cells in mice, and mice were treated with normal saline and GLP of 100, 200, and 300 mg·kg~(-1) for tumor count calculation and size assessment.
+Hematoxylin-eosin(HE) staining was used to observe pathological changes in tumor tissue and vital organs(liver, kidney, lung, spleen, and heart).
+Western blot analysis was conducted to measure the protein expressions of tumor protein P53(P53), B-cell lymphoma-2(Bcl-2), Bcl-2-associated X protein(Bax), cleaved-caspase-3, Beclin-1, autophagy related protein-5(Atg-5), microtubule-associated protein-light chain-3Ⅰ(LC3Ⅰ)/LC3Ⅱ, autophagy adapter protein 62(P62), protein kinase B(Akt), p-Akt, mammalian target of rapamycin(mTOR), and p-mTOR.
+The in vitro experiment revealed that compared with the control group, after GLP treatment, tumor cell viability decreased significantly; apoptosis rate increased in a dose-dependent manner, and autophagic flux was inhibited.
+The in vivo experiments showed that compared with the model group, mice treated with GLP exhibited significantly fewer and smaller tumors.
+Western blot results showed that compared with the control group or model group, levels of P53, Bax, cleaved-caspase-3, Beclin-1, Atg-5, and LC3-Ⅱ/LC3-Ⅰ were significantly increased after GLP treatment, and the levels of Bcl-2, P62, p-Akt/Akt, and p-mTOR/mTOR were significantly decreased.
+These outcomes suggest that GLP promotes apoptosis and autophagy in hepatoblastoma cells by regulating the Akt/mTOR pathway.

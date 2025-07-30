@@ -1,0 +1,6 @@
+By February 14, 2020, a total of 66,576 confirmed cases of COVID-19, people infected with SARS-CoV-2, were reported in China, leading to 1524 deaths, per the Chinese CDC (http://2019ncov.chinacdc.cn/2019-nCoV/).
+The sequences of BetaCoV were downloaded on February 3, 2020 from the GISAID platform.
+A total of 58 accessions were available, among which BetaCoV/bat/Yunnan/RaTG13/2013 is a known close relative of SARS-CoV-2.
+Four accessions, namely, BetaCov/Italy/INM1/2020, BetaCov/Italy/INM2/2020, BetaCoV/Kanagawa/1/2020, and BetaCoV/USA/IL1/2020, were excluded because of the short-truncated sequences or multiple ambiguous nucleotides.
+A total of 54 accessions (Supplementary Table 1) isolated from humans were utilized in the following analysis.
+Here, two accessions (BetaCoV/Shenzhen/SZTH-001/2020 and BetaCoV/Shenzhen/SZTH-004/2020) from Shenzhen, which had 5 and 16 mutations, respectively, were excluded, considering the possible experimental issues.

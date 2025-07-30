@@ -1,0 +1,5 @@
+The outbreak of COVID-2019 initiated at Wuhan, China has become a global threat by rapid transmission and severe fatalities.
+Recent studies have uncovered whole genome sequence of SARS-CoV-2 (causing COVID-2019).
+We also performed functional overrepresentation analysis of interacting proteins to understand their role in COVID-2019 severity.
+As per the results, Prevotella proteins, but not viral proteins are involved in multiple interactions with NF-kB, which is involved in increasing clinical severity of COVID-2019.
+Prevotella may have role in COVID-2019 outbreak and should be given importance for understanding disease mechanisms and improving treatment outcomes.

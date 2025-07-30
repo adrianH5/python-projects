@@ -1,0 +1,11 @@
+The global rise in antibiotic resistance has posed significant challenges to the effective management of Helicobacter pylori (H. pylori), a gastric pathogen linked to chronic gastritis, peptic ulcers, and gastric cancer.
+Conventional antibiotic therapies, while effective, face significant challenges, such as increasing antibiotic resistance, high recurrence rates, and adverse effects such as gut microflora dysbiosis.
+These limitations have driven the exploration of alternative antibiotic-free therapies, including the use of plant-based compounds, probiotics, nanoparticles, phage therapy, antimicrobial peptides, and H. pylori vaccines.
+Among these, urease-targeted therapy has shown particular promise.
+Urease enables the survival and colonization of H. pylori by neutralizing stomach acidity.
+Targeting this urease without disrupting beneficial gut microflora offers a selective mechanism to impair H. pylori, due to the absence of this enzyme in most of the human gut microbiome.
+In this review, we highlight advancements and limitations in the field of antibiotic-free therapies, with a particular focus on anti-urease strategies.
+We explore the structural and functional characteristics of urease, its role in H. pylori pathogenesis, and its potential as a therapeutic target.
+For the first time, we provide a comprehensive analysis of natural, semisynthetic, and synthetic anti-urease compounds, emphasizing their mechanisms of action, efficacy, and safety profiles.
+Advances in silico, in vitro, and in vivo studies have identified several promising anti-urease compounds with high specificity and minimal toxicity.
+By focusing on urease inhibition as a targeted strategy, this review underscores its potential to overcome antibiotic resistance while minimizing gut dysbiosis and improving the outcomes of H. pylori infection treatment.

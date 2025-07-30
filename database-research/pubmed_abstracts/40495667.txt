@@ -1,0 +1,8 @@
+Cyclophosphamide and Etoposide are two antineoplastic drugs that are commonly employed in the treatment of several types of cancer, including prostate, stomach, and lung cancer, as well as multiple myeloma and sarcoma.
+The course of treatment often involves a mixture of etoposide and cyclophosphamide with other molecules, such as cisplatin for the former, or dactinomycin and vincristine for the latter.
+In this study, two separate analytical methods are proposed to evaluate the stability and the decay of Cyclophosphamide and Etoposide solutions prepared in normal saline and glucose (5%).
+The solutions of each antineoplastic drug were prepared by the IRCCS CROB RIONERO at three separate dosages and were submitted to HPLC-UV apparatus for the analysis.
+Firstly, two calibration curves were carried out to validate the method; secondly, samples of each solution were taken at specific time points to evaluate the decay in concentration of the molecules.
+The results show a stark decrease in stability of etoposide at increasing drug concentrations.
+On the other hand, cyclophosphamide is known for being highly unstable after reconstitution, therefore its decay was expected at each dosage.
+The data obtained by the triplicate analysis of both drugs at each time point was then used to mathematically evaluate the decay pattern of each molecule.

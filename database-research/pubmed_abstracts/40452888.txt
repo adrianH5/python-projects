@@ -1,0 +1,9 @@
+Musculoskeletal sarcomas represent heterogeneous and rare malignant bone and soft tissue tumors, affecting children and adults.
+Patients exhibiting poor clinical outcomes are often described, being associated with non-response to chemotherapy, amputation needs, or metastatic disease.
+Potential biomarkers contributing to diagnosis, prognosis, and treatment response could improve this scenario.
+Despite this, little is known about the genomic aspects of musculoskeletal sarcomas.
+DNA methylation is the most studied epigenetic mechanism, where changes in methylation profiling are characteristic hallmarks of cancer.
+Cancer-related methylome profiling has been investigated both in tumor biopsies (genomic DNA) and liquid biopsies (cell-free DNA).
+Epigenetic therapies by using DNA-demethylating drugs are promising strategies for cancer treatment.
+This review will discuss translational studies describing how DNA methylation landscape of musculoskeletal sarcomas can be a powerful molecular tool to improve diagnostic accuracy, predict prognosis, and treatment response.
+Additionally, this review will describe the promising role of epigenetics-targeted drugs as well as the ongoing clinical trials for sarcomas, highlighting the challenges and future directions.

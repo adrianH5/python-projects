@@ -1,0 +1,4 @@
+Breast cancer (BC) remains a leading cause of cancer-related mortality among women worldwide.
+Natural killer (NK) cells play a crucial role in the innate immune system and exhibit significant anti-tumor activity.
+However, the role of NK cell-related genes (NRGs) in BC diagnosis and prognosis remains underexplored.
+With the advent of machine learning (ML) techniques, predictive modeling based on NRGs may offer a new avenue for precision oncology.

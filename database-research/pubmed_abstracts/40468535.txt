@@ -1,0 +1,5 @@
+Tremendous efforts have been devoted to developing chemodynamic cancer therapy (CDT) platforms targeting intracellular antioxidant defense systems to realize an enhanced efficacy.
+However, such a strategy can be severely limited by the activation of compensatory antioxidant defense mechanisms in cancer cells.
+Herein, we present the rational design of a nanozyme-based CDT platform that can perturb compensatory antioxidant mechanisms in cancer cells for improved therapeutic efficacy.
+In the formulation, the metal-organic framework-based disruptor with peroxidase-mimicking activity can not only catalyze the conversion of the intracellular hydrogen peroxide into highly cytotoxic hydroxyl radicals for cancer cell killing but also disrupt the intracellular glutathione peroxidase 4-dihydroorotate dehydrogenase compensatory antioxidant system to provide significantly reinforced CDT efficacy.
+The present study sheds light on improving the outcomes of therapeutics that rely on the induction of oxidative stress by integrating the ability to disrupt intracellular compensatory antioxidant defense mechanisms into nanomedicine design.

@@ -1,0 +1,7 @@
+Adenosine-to-inosine (A-to-I) RNA editing, and N6 methyladenosine (m6A) are among the most abundant modifications in eukaryotic messenger RNA, affecting various aspects of RNA metabolism and cellular function, including proliferation, differentiation, responses to stressors, and cell death.
+Recent preclinical evidence suggests that both modifications play a significant role in multiple disorders, including infections, chronic inflammatory diseases, and cancer, sparking great interest in their therapeutic potential.
+Structural characterization of ADARs (adenosine deaminases acting on RNA) and key m6A enzymes has enabled the development of small molecule inhibitors modulating their expression, enzymatic activity or binding to target RNAs.
+Herein, we review preclinical evidence supporting the therapeutic benefits of targeting ADARs and m6A enzymes in diverse disease contexts.
+Small molecule inhibitors of RNA modification enzymes have shown potent anti-proliferative and pro-apoptotic effects in cancer cells, and have successfully inhibited tumor growth in vivo, without evident toxicity, while their combination with immuno-/chemo-therapeutics displayed synergistic anti-neoplastic action.
+Adenosine RNA editing via recruitment of endogenous ADARs and usage of guide RNAs showed remarkable efficacy in correcting G-to-A point mutations and restoring the associated protein expression with limited off-target activity.
+Future studies are warranted to evaluate the safety and clinical efficacy of RNA editing or modification-targeting therapeutics in patients.

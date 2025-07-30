@@ -1,0 +1,22 @@
+At present, the world is suffering from a pandemic of SARS-CoV-2, which causes coronavirus disease 2019 (COVID-19) and has a global mortality rate that remains to be determined (Wu et al., 2020, Zhu et al., 2020).
+More severe cases of COVID-19 develop acute respiratory distress syndrome and acute lung injury, leading to morbidity and mortality caused by damage to the alveolar lumen leading to inflammation and pneumonia (Wolfel et al., 2020, Xu et al., 2020).
+The current pandemic of COVID-19 is an acute and rapidly developing global health crisis.
+To better understand the molecular basis of the disease, we sought to characterize the transcriptional response to infection in a variety of model systems, including in vitro tissue culture, ex vivo infection of primary cells, and in vivo samples derived from COVID-19 patients and animals.
+Additional research in this area will be required to ascertain whether this is a contributing factor toward the development of COVID-19.
+To this end, we first compared post-mortem lung samples from COVID-19-positive patients with biopsied healthy lung tissue from uninfected individuals.
+These two cohorts tested positive for SARS-CoV-2 by nasopharyngeal swabs or were admitted to the hospital for non-COVID-19-related respiratory issues (n = 24 for each group).
+Moreover, analyses of cytokines and chemokines quantified in individual serum samples revealed enhancement of generalized inflammation among COVID-19 patients, marked by a significant increase in circulating IL-6, IL1RA, CCL2, CCL8 CXCL2, CXCL8, CXCL9, and CXCL16 levels (Figure 4C).
+Significant elevation of CXCL9 and CXCL16 (chemoattractants of T or natural killer (NK) cells, respectively), CCL8 and CCL2 (which recruit monocytes and/or macrophages), and CXCL8 (a classic neutrophil chemoattractant) suggest that the presence of these cells may be a primary driver of the signature pathology observed in COVID-19 patients (Proudfoot, 2002).
+Although this sample size is not necessarily representative of the whole population of infected COVID-19 patients, our data are consistent with what we observe using our other model systems.
+In the present study, we focus on defining the host response to SARS-CoV-2 and other human respiratory viruses in cell lines, primary cell cultures, ferrets, and COVID-19 patients.
+These dynamics are also likely to contribute to development of COVID-19 during the course of infection (Wolfel et al., 2020).
+A recent study analyzing severe versus mild cases of COVID-19 showed that peripherally derived macrophages predominated in the lungs of severe cases (Liao et al., 2020).
+In addition, our data suggest that neutrophils could also contribute to the disease observed in COVID-19 patients, as demonstrated by CXCL2 and CXCL8 induction.
+This is consistent with data showing elevated circulating neutrophil levels among COVID-19 patients (Chen et al., 2020, Qin et al., 2020), which may have prognostic value for identifying individuals at risk for developing severe disease.
+It is also noteworthy that two of the cytokines uniquely elevated in response to SARS-CoV-2 are IL-6 and IL1RA, suggesting that there might be a parallel between COVID-19 and cytokine release syndrome (CRS), a complication commonly seen following CAR T-cell treatment (Giavridis et al., 2018).
+Should this be true, drugs such as tocilizumab and anakinra may prove to be beneficial for treatment of COVID-19 (Norelli et al., 2018).
+SARS-related coronavirus 2 (SARS-CoV-2), Isolate USA-WA1/2020 (NR-52281) was deposited by the Center for Disease Control and Prevention and obtained through BEI Resources, NIAID, NIH.
+All RNA-Seq data performed in this paper can be found on the NCBI Gene Expression Omnibus (GEO) under accession number GSE147507.
+Cell and animal models of SARS-CoV-2 infection, in addition to transcriptional and serum profiling of COVID-19 patients, consistently revealed a unique and inappropriate inflammatory response.
+We propose that reduced innate antiviral defenses coupled with exuberant inflammatory cytokine production are the defining and driving features of COVID-19.
+Low innate antiviral defenses and high pro-inflammatory cues contribute to COVID-19      In comparison to other respiratory viruses, SARS-CoV-2 infection drives a lower antiviral transcriptional response that is marked by low IFN-I and IFN-III levels and elevated chemokine expression, which could explain the pro-inflammatory disease state associated with COVID-19.

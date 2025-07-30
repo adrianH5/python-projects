@@ -1,0 +1,33 @@
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the causative agent of coronavirus disease-19 (COVID-19), has infected millions of people worldwide since its identification in December 2019, resulting in more than 400 000 deaths to date.
+Despite the substantial reach of the COVID-19 pandemic in areas with high HIV prevalence, there are very limited data regarding the clinical impact of SARS-CoV-2 infection on PLWH.
+COVID-19 also leads to marked immune dysregulation, with severe cases manifesting a dramatic hyperinflammatory syndrome that causes respiratory failure and multiorgan dysfunction [4].
+Lack of knowledge regarding the interaction of HIV- and COVID-19–related immune dysfunction have led to uncertainty regarding appropriate clinical and policy guidance for the management and counseling of PLWH during the SARS-CoV-2 pandemic.
+We identified 405 patients not living with HIV, matching 1 PLWH to up to 5 patients by age (±2.5 years), sex, race/ethnicity, and calendar week of infection (to account for temporally associated changes in COVID-19 management and differences in follow-up time).
+Oxygen supplementation requirements on admission were collected, verified via chart review, and used to categorize COVID-19 severity using published criteria [6].
+Each of these biomarkers was also ascertained, when available, after the diagnosis of COVID-19.
+We also stratified baseline laboratory measures by COVID-19 severity for PLWH, testing for differences in measures by severity category using ordinal logistic regression.
+To compare cumulative incidence of death by HIV status accounting for potential confounding factors, we fit a multivariable survival model using Fine-Grey competing risk methods, including demographics, COVID-19 severity, comorbid conditions, and laboratory values that differed by HIV status [8].
+Of the 4402 patients hospitalized for COVID-19 during the study period, 88 (2%) were PLWH.
+The median age of PLWH hospitalized with COVID-19 was 61 years (Table 1; interquartile range [IQR], 54–67), and most PLWH were black (40%) or Hispanic/Latino (30%).
+PLWH and uninfected persons had similar COVID-19 severity on admission as measured by oxygen supplementation requirements (P = .15).
+Higher CRP values were present in PLWH with more severe COVID-19 on admission (Supplementary Table 2; P = .005).
+Concern that COVID-19 might be more severe in persons with immunodeficiency or immune dysregulation has been raised since the emergence of the earliest cases [10].
+However, outcomes analyses for PLWH during the COVID-19 pandemic have been limited, consisting of small case reports or series [12].
+A single center in Spain reported outcomes for 5 males living with HIV hospitalized with COVID-19.
+Larger uncontrolled series from New Jersey (13 hospitalized patients), New York City (31 hospitalized patients), and Madrid, Spain (28 hospitalized patients) also subsequently demonstrated COVID-19 outcomes for PLWH similar to those described for the general population [14–16].
+This is broadly consistent with our finding that respiratory failure that requires mechanical ventilation and death were not more frequent in PLWH when compared with demographically similar persons with COVID-19.
+The lack of outcome differences is even more striking when it is noted that COPD, cancer, and smoking, which were identified as risk factors linked to worse COVID-19 outcomes in several previous studies, were far more prevalent in PLWH in our cohort than in comparator patients [17, 18].
+Several factors have supported theoretical risks of worse COVID-19 in PLWH, including incomplete immune reconstitution and evidence of persistent immune activation in many patients prior to the pandemic [19, 20].
+Furthermore, increased IL-6 and D-dimer measures have been independently associated with chronic HIV infection [21, 22] and have also been closely linked with COVID-19 severity in data mostly from persons not living with HIV [23, 24].
+Neither biomarker differed on presentation for patients by HIV status nor was either associated with COVID-19 severity at presentation for PLWH.
+Among PLWH, CD4 decline was noted in the majority of patients with available data, consistent with existing immunologic data on COVID-19 natural history, but the decrease in CD4 percentage was not large [25].
+We did not find evidence of associations between immunologic measures (either decreases from pre–COVID-19 values or low values at the time of presentation) and adverse COVID-19 outcomes for PLWH.
+Antiretroviral medications have been evaluated for treatment of COVID-19 [26].
+There are limited data regarding the clinical impact of coronavirus disease 2019 (COVID-19) on people living with human immunodeficiency virus (PLWH).
+In this study, we compared outcomes for PLWH with COVID-19 to a matched comparison group.
+We identified 88 PLWH hospitalized with laboratory-confirmed COVID-19 in our hospital system in New York City between 12 March and 23 April 2020.
+PLWH hospitalized with COVID-19 had high proportions of HIV virologic control on antiretroviral therapy.
+There was no difference in COVID-19 severity on admission by HIV status ( P = .15).
+We found no differences in adverse outcomes associated with HIV infection for hospitalized COVID-19 patients compared with a demographically similar patient group.
+There are limited data on coronavirus disease 2019 (COVID-19) clinical outcomes for people living with human immunodeficiency virus (PLWH).
+We report outcomes for a cohort of hospitalized PLWH with COVID-19 compared with demographically matched comparators.

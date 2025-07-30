@@ -1,0 +1,5 @@
+Despite extensive investigation, the factors promoting aggressive prostate cancer are poorly understood.
+By performing a comprehensive analysis of whole-genome transcriptome data to identify differential expression across 1,567 patients with prostate cancer, we now report the identification of a novel lncRNA, Prostate Locus of Uncharacterized Transcript Outlier 201 (PLUTO-201), which is strongly associated with metastasis and poor overall survival in men with prostate cancer.
+We find that overexpression/knockdown of PLUTO-201 in pre-clinical models of prostate cancer modulates proliferation rates and markers of an aggressive phenotype through regulation of steroid biosynthesis and expression of the MHC class I complex, driving increased growth in androgen-depleted conditions and decreased susceptibility to T cell-mediated cytotoxicity.
+We further find that the heterogeneous nuclear ribonucleoprotein hnRNPK directly binds PLUTO-201 and is indispensable for its activity.
+Overall, our findings indicate that PLUTO-201 is a driver of aggressive prostate cancer phenotypes and poor clinical outcomes.

@@ -1,0 +1,8 @@
+Only one in five patients is estimated to respond to immune checkpoint inhibitors, which primarily target adaptive immunity.
+To date, no FDA-approved immunotherapies directly activate the innate anti-cancer immunity-an essential driver of lymphocyte recruitment and potentiator of responses to existing cancer immunotherapies.
+ENPP1, the dominant hydrolase that degrades extracellular cGAMP and suppresses downstream STING-mediated innate immune signaling, has emerged as a promising therapeutic target.
+However, existing ENPP1 inhibitors have been optimized for prolonged systemic residence time rather than effective target inhibition within tumors.
+Here, we report the characterization of STF-1623, a highly potent ENPP1 inhibitor with an exceptionally long tumor residence time despite rapid systemic clearance, enabled by its high ENPP1 binding affinity and slow dissociation rate.
+We show that membrane-bound ENPP1 on tumor cells, not the abundant soluble ENPP1 in serum, drives tumor progression.
+Consequently, STF-1623 unleashes anti-tumor immunity and synergizes with ionizing radiation, anti-PD-L1 and anti-PD-1, and a DNA damaging agent to produce robust anti-tumor and anti-metastatic effects across multiple syngeneic mouse tumor models, all without detectable toxicity.
+Conceptually, this work establishes that a noncovalent small molecule inhibitor of ENPP1 with ultralong drug-target engagement offers a safe and precise strategy to activate STING within tumors, fulfilling an unmet need of innate immunotherapies in cancer.

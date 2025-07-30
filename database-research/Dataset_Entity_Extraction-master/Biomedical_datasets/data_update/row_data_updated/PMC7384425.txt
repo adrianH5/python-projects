@@ -1,0 +1,17 @@
+The immune epitope database (IEDB) population coverage tool (Bui et al., 2006) estimates peptide-HLA binding coverage and the distribution of peptides displayed for a given population but assumes independence between different loci, and thus, does not consider linkage disequilibrium.
+Immunogenicity data can be incorporated into the peptide scoring process that is used for both vaccine design and evaluation, as shown in italics in Figure 1.
+Using this sliding-window approach, we created peptide sets from the SARS-CoV-2 (COVID-19) and SARS-CoV (human SARS coronavirus) proteomes.
+We obtained the SARS-CoV-2 viral proteome from GISAID (Elbe and Buckland-Merrett, 2017) sequence entry Wuhan/IPBCAMS-WH-01/2019, the first documented case.
+In EvalVax-Unlinked, we assume independence and use HLA allelic frequencies for 2,392 class I alleles and 280 class II alleles across 15 geographic regions from the dbMHC database (Helmberg et al., 2004) obtained from the IEDB population coverage tool (Bui et al., 2006).
+We validated our computational models on a dataset of SARS-CoV-2 peptides evaluated for stability (Prachar et al., 2020).
+Grifoni et al. (2020b) found that peptides from the S, M, and N proteins produced the majority of the CD4+ (86%) and CD8+ (60%) T cell response in 20 convalescent COVID-19 patients.
+At present the World Health Organization lists 79 COVID-19 vaccine candidates in clinical or preclinical evaluation (WHO, 2020) (accessed May 16, 2020), and the precise designs of most of these vaccines are not public.
+We encourage the early publication of vaccine designs to enable collaboration and rapid progress toward safe and effective vaccines for COVID-19.
+For SARS-CoV-2, we obtained the most up to date version of the GISAID database (Elbe and Buckland-Merrett, 2017) (as of 2:02pm EST May 13, 2020, see Table S4: GISAID acknowledgements) and used Nextstrain (Hadfield et al., 2018) to remove genomes with sequencing errors, translate the genome into proteins, and perform multiple sequence alignments (MSAs).
+We retrieved 24,468 sequences from GISAID, and 19,288 remained after Nextstrain quality processing.
+All peptides from SARS-CoV-2 were scanned against the entire human proteome downloaded from UniProt (Consortium, 2019) under Proteome ID UP000005640.
+Grifoni et al. (2020b) tested T cell responses from COVID-19 convalescent patients and found that peptides from the S, M, and N proteins of SARS-CoV-2 produce the dominant CD4+ and CD8+ responses when compared to other SARS-CoV-2 proteins.
+We validate our computational models on a dataset of SARS-CoV-2 peptides evaluated for stability (Prachar et al., 2020).
+For MHC class I alleles, the dataset contains 912 unique peptide-HLA pairs, of which 185 peptides are considered stable (≥ 60% stability).
+For MHC class II, the dataset contains 93 total peptides, of which 22 are stable.
+While NetMHCIIpan-4.0 with a 50 nM threshold does not identify any peptides in this dataset as binders, we use this stricter threshold in our vaccine designs as it is more conservative and less likely to admit false positive binders.

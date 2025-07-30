@@ -1,0 +1,4 @@
+Uveal melanoma (UM) is a highly aggressive intraocular malignancy with limited therapeutic options for metastatic disease.
+Existing transgenic UM mouse models inadequately recapitulate human disease progression, while transplant models lack immune competence for studying the tumor immune microenvironment and therapeutic interventions.
+To address these limitations, we developed a genetically engineered mouse model incorporating stepwise genetic alterations implicated in human UM progression.
+Spatiotemporally controlled expression of mutant GNAQ

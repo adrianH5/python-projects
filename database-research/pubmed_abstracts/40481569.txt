@@ -1,0 +1,10 @@
+Colorectal cancer (CRC) is a major global health concern, characterized by high morbidity and mortality rates.
+CRC progression involves intricate molecular networks that remain incompletely understood.
+In this study, we conducted an integrative multi-omics analysis of transcriptomic, proteomic, and metabolomic profiles from CRC tissues and matched normal adjacent tissues (NATs).
+Our analysis revealed 1,394 differentially expressed long non-Coding RNAs (lncRNAs), 2,788 genes, 548 proteins, and 91 metabolites.
+A significant interaction network comprising 22 lncRNAs, 14 mRNAs/proteins, and 9 metabolites was identified, among which lncRNA 60967.1 emerged as a pivotal regulator.
+Functional validation demonstrated that lncRNA 60967.1 is markedly downregulated in CRC cell lines and patient tissues.
+Overexpression of lncRNA 60967.1 restored expression of the tumor suppressor PLCD4 and increased levels of all-trans retinoic acid (ATRA).
+This modulation enhanced IFN-γ-induced apoptosis and increased expression of the IFN-γ receptor subunit IFNGR1, thereby partially reversing IFN-γ resistance.
+In murine models, lncRNA 60967.1 overexpression promoted immune cell infiltration and synergized with anti-PD-1 therapy to inhibit tumor growth.
+Collectively, our findings uncover a novel lncRNA-mRNA/protein-metabolite network, the lncRNA 60967.1-PLCD4-ATRA axis, that plays a critical role in CRC progression and immune modulation, offering promising therapeutic targets for improved treatment efficacy.

@@ -1,0 +1,10 @@
+Infection is increasingly recognized as a significant cause of morbidity and mortality in patients with relapsed/refractory (R/R) large B-cell lymphoma (LBCL) receiving CD19 chimeric antigen receptor (CAR) T-cell therapy.
+The current study analyzed the natural history, risk factors, and outcomes of infection in 3350 R/R LBCL patients receiving commercial CD19 CAR T-cell (n=2804 axicabtagene ciloleucel, n=546 tisagenlecleucel) from December 2017 to June 2022.
+Infection developed in 834 (24.9%) patients within 100 days post-infusion, resulting in an infection density of 0.43 per 100 patient-days and a 100-day cumulative incidence of 22%.
+Bacterial, viral, and fungal infections were recorded in 527 (15.7%), 374 (11.2%), and 108 (3.2%) patients, respectively, with corresponding infection densities of 0.23, 0.15, and 0.04 per 100 patient-days.
+After a 24-month median follow-up, 1482 (44%) patients had died, with infection as the primary cause in 173 cases (12%).
+The 100-day infection-related mortality (IRM) was 1.6% (95% confidence interval, 1.2-2.0%).
+Patients with Karnofsky score ≤80, infection history pre-CAR-T, axicabtagene ciloleucel therapy, severe cytokine release syndrome (grade ≥3), and severe immune effector cell-associated neurotoxicity syndrome (grade ≥3) had increased infection risk.
+Infections within 100 days were an independent risk factor for inferior overall survival beyond day 100 after CD19 CAR T-cell therapy.
+In conclusion, study results show a significant incidence of infection and IRM in patients with R/R LBCL treated with CD19 CAR T-cell.
+Furthermore, results identify patients at heightened risk for infection, offering insights to guide potential interventions aimed at mitigating infection and improving patient outcomes after CAR T-cell therapy.

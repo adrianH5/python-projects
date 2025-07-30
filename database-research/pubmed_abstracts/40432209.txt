@@ -1,0 +1,9 @@
+Circulating tumor cells (CTCs) have crucial roles in the spread of tumors during metastasis.
+A decisive step is the extravasation of CTCs from the blood stream or lymph system, which depends on the ability of cells to attach to vessel walls.
+Recent work suggests that such adhesion is facilitated by microtubule (MT)-based membrane protrusions called microtentacles (McTNs).
+However, how McTNs facilitate such adhesion and how MTs can generate protrusions in CTCs remain unclear.
+By combining fluorescence recovery after photobleaching experiments and simulations we show that polymerization of MTs provides the main driving force for McTN formation, whereas the contribution of MTs sliding with respect to each other is minimal.
+Further, the forces exerted on the McTN tip result in curvature, as the MTs are anchored at the other end in the MT organizing center.
+When approaching vessel walls, McTN curvature is additionally influenced by the adhesion strength between the McTN and wall.
+Moreover, increasing McTN length, reducing its bending rigidity, or strengthening adhesion enhances the cell-wall contact area and, thus, promotes cell attachment to vessel walls.
+Our results demonstrate a link between the formation and function of McTNs, which may provide new insight into metastatic cancer diagnosis and therapy.

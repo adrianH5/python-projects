@@ -1,0 +1,7 @@
+Hematopoietic stem/progenitor cell (HSPC)-based anti-HIV-1 gene therapy holds promise to provide life-long remission following a single treatment.
+Here we report a multi-pronged anti-HIV-1 HSPC-based gene therapy designed to defend against and attack HIV-1 infection.
+We developed a lentiviral vector capable of co-expressing three anti-HIV-1 genes.
+Two are designed to prevent infection, including a short hairpin RNA (shRNA) (CCR5sh1005) to knock down HIV-1 co-receptor CCR5 and a membrane-anchored HIV-1 fusion inhibitor (C46).
+The third gene is a CD4-based chimeric antigen receptor (CAR) designed to attack HIV-1-infected cells.
+Our vector also includes a non-signaling truncated human epidermal growth factor receptor (huEGFRt) which acts as a negative selection-based safety kill switch against transduced cells.
+Anti-HIV-1 vector-transduced human CD34

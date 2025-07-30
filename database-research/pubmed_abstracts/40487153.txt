@@ -1,0 +1,14 @@
+The liver, as one of the vital organs in the body, plays a crucial role in various bodily functions.
+Numerous factors can cause liver damage, that the sole remedy for severe liver conditions is transplantation of healthy liver tissue.
+In response to the transplantation challenges, innovative approaches involving hydrogel-based technologies have emerged, leading to the creation of highly functionalized tissues.
+The development of three-dimensional printing and patterning of cell-laden biomaterial matrices offers promising advances for creating tissue-specific structures in tissue engineering and bioprinting.
+However, the matrix materials currently used in bioprinting liver microtissue often fail to capture the complexity of the natural extracellular matrix (ECM), hindering their ability to restore innate cellular shapes and functions.
+Liver ECM-based hydrogels are increasingly recognized for their potential as biomimetic three-dimensional (3D) cell culture systems that facilitate the exploration of liver disease, metabolism, and toxicity mechanisms.
+Yet, the conventional production of these hydrogels relies on slow thermal gelation processes, which restrict the manipulation of their mechanical characteristics.
+In this research, we introduce a novel approach with a functionalized photocrosslinkable liver decellularized extracellular matrix (dECM).
+By combining liver dECM methacrylate (LdMA) with gelatin methacrylate (GelMA), we achieved accelerated crosslinking under visible light irradiation and the ability to tune the mechanical, rheological, and physiological properties of the material.
+We encapsulated human hepatocellular carcinoma cells within an optimal concentration of the GelMA-LdMA hybrid hydrogel and examined cell proliferation and function over an extended period.
+The results demonstrated that the GelMA-LdMA hybrid hydrogel effectively sustains cell viability over an extended period while promoting enhanced liver cell proliferation, suggesting its potential for drug screening applications and liver cancer metastasis research.
+Notably, albumin secretion in the dECM-based hydrogel was approximately 40 % higher compared to the control GelMA sample.
+Furthermore, when evaluating acetaminophen-induced hepatotoxicity, the hybrid hydrogel showed a promising drug response, with significant upregulation of the drug metabolism-related gene cytochrome P450-1A2 (CYP1A2).
+Overall, the dECM-based hepatic tissue model demonstrated excellent biofunctionality and responsiveness to drug treatment, making it a promising candidate for in vitro toxicological studies.

@@ -1,0 +1,9 @@
+Osteoarthritis (OA) associated with obesity is increasingly recognized as a distinct phenotype, driven by lipid metabolic imbalance and related inflammation.
+A particularly troublesome issue is that even after successfully correcting obesity, OA progression and lipid metabolic imbalance persist within the joint microenvironment, suggesting local lipid metabolism regulation as a potential treatment option.
+G-protein-coupled receptor 120 (GPR120), a primary receptor for long-chain fatty acids (including docosahexaenoic acid, DHA), has recently been found to play a pivotal role in regulating lipid homeostasis and suppressing inflammation.
+Here, we present ChD-FL/sgGPR, enabling dual endogenous-exogenous GPR120 activation.
+ChD-FL/sgGPR is a chondrocyte-biomimetic, fluorinated phenylboronic acid (FPBA)-modified ionizable liposome that codelivers DHA and a CRISPRa system comprising GPR120-specific sgRNA (single guide RNA) and dCas9-VPR mRNA (dead Cas9 fused to VP64-p65-Rta activator domain).
+Specifically, FPBA modification of liposomes enhances lysosomal escape and nuclear entry of RNA, while coextrusion with chondrocyte membranes facilitates cartilage-targeted delivery.
+In the coculture system of adipocytes and OA chondrocytes, ChD-FL/sgGPR significantly boosts chondrocytes GPR120 expression, facilitates lipid clearance via PPARγ signaling, and diminishes inflammatory mediators.
+In obese rat OA models, intra-articular injection of ChD-FL/sgGPR prolongs local retention, inhibits cartilage catabolism, and mitigates subchondral bone deterioration, collectively decelerating OA progression.
+By integrating CRISPR-mediated gene upregulation with DHA-induced receptor stimulation, this platform rebalances lipid metabolism in OA cartilage, offering a promising, mechanism-driven therapy for obesity-associated OA.

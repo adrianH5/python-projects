@@ -1,0 +1,8 @@
+Biosystems are exceptional mechanisms for recognizing minute molecular differences in their processes, a principle upon which modern medicine is primarily built.
+Nanomaterials (NMs), unlike molecules, lack a definite shape and reactivity.
+Their surface chemical properties serve as the primary element of their behavior in biological environments.
+Therefore, it is essential to understand how molecular modifications on the surface of NMs influence their functions in biosystems to optimize their use in medical and biomedical applications.
+Gold nanoparticles (AuNPs) with well-defined surfaces are ideal for systematic surface chemistry studies due to their inertness and low toxicity.
+In this study, we examined the impact of molecular orientation differences in a peptide with a CRGD sequence and its reverse sequence, DGRC, on the cellular response of A549 (human Caucasian lung carcinoma) and BEAS-2b (human bronchial epithelial cell) cell lines.
+One end of the peptides contains a cysteine residue to ensure binding to 13 nm AuNP surfaces from that end.
+When the peptides are conjugated, two distinct surface chemistries are generated: in one case, a surface with one -NH

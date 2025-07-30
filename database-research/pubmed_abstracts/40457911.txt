@@ -1,0 +1,9 @@
+Background In Nepal, cervical cancer is among the most prevalent cancers among females, yet only about 8% of women have undergone screening, highlighting significant barriers to access in low-resource settings.
+Objective To assess and report the outcomes of a community-based cervical cancer screening with visual inspection of acetic acid and an active follow-up program in Budhanilkantha municipality, Kathmandu Valley.
+Method We conducted a cross-sectional study in Budhanilkantha Municipality among 1360 women aged 30 to 60 who attended community-based cervical cancer screening camps.
+Trained research assistants collected socio-demographic and reproductive health data through interviews, abstracted medical records about Visual Inspection with Acetic Acid outcomes, and made follow-up calls to those who screened positive.
+We conducted descriptive analysis and logistic regression to assess associations between screen positivity and women's characteristics.
+Result A total of 1,360 women visited the camp, with 98.3% undergoing visual inspection with acetic acid, and 7.25% screening positive.
+Among those referred, 78% followed up at the recommended hospital; diagnostic tests indicated that 12.3% had lowgrade lesions and 1.36% had high-grade pre-cancerous lesions.
+The adjusted model revealed no statistically significant associations between Visual Inspection with Acetic Acid positivity and variables such as age, ethnicity, education, and reproductive history.
+Conclusion This study demonstrates that the community-based Visual Inspection with Acetic Acid (VIA) cervical cancer screening method was highly acceptance and had high treatment follow-up among women in urban Nepal.

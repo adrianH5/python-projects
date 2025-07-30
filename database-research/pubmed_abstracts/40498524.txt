@@ -1,0 +1,8 @@
+NIR-II fluorophores (1000-1700 nm) are pivotal for biomedical imaging, offering deep-tissue penetration and high signal-to-noise ratios but suffer from low quantum yields (QY < 0.01%) beyond 1200 nm.
+To date, most reported NIR-II small-molecule dyes are derived from polymethine and xanthene frameworks.
+However, achieving NIR-II chromophores with sufficient QYs remains challenging, as the energy gap law dictates that internal conversion-governed by the emission energy gap and reorganization energy-dominates nonradiative decay.
+To address this, we designed a novel pseudo-2D molecular framework: 34 π-electron annulated porphyrinoids (Scheme 1), engineered to minimize reorganization energy.
+These structures achieve emission wavelengths up to 1290 nm with QYs of 1.10-6.14%.
+Density functional theory (DFT) calculations were performed to unravel the photophysical mechanisms underlying these behaviors, showing that the reorganization energy is as small as 10.5 meV for these dyes, which validates our design.
+The optimized molecular structures and the stacking geometry of these porphyrinoids in the nanoparticle form were also elaborated by DFT.
+The intense NIR-II fluorescence (>1200 nm) enables high-resolution in vivo vascular imaging, further enhanced by AI-driven imaging algorithms to significantly improve image quality.

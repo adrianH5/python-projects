@@ -1,0 +1,14 @@
+A challenge with patient-reported outcomes is interpreting changes in scores.
+The minimally important difference (MID) represents the smallest meaningful change in a score.
+This study's objective is to calculate the MID for the Functional Assessment of Cancer Therapy-Esophageal (FACT-E) and examine whether the MID changes over time from treatment through recovery.
+This retrospective longitudinal study analyzed data from the McGill University Esophageal and Gastric Data- and Bio-Bank.
+Participants were adults who underwent esophageal cancer surgery and completed the FACT-E pre-surgery and at least once post-surgery.
+MIDs were calculated using two distribution-based approaches: standard deviation and standard error of measurement.
+MIDs were calculated for the five FACT-E domains and total score at multiple time points.
+The study included 676 participants.
+MIDs varied by domain and calculation method.
+The MIDs ranged from 1 to 3 points for most domains, 2 to 5 points for the esophagus cancer subscale, and 4 to 9 points for the FACT-E total score.
+The MIDs changed over time, with the greatest fluctuations found in the esophagus cancer subscale.
+This study provides the first estimates of MIDs for the FACT-E, offering clinicians and researchers guidance for interpreting meaningful changes in scores.
+The range of MIDs can help identify potentially important changes in patient-reported symptoms and quality of life over time.
+Further studies using additional methods to calculate MIDs are warranted to refine these estimates.

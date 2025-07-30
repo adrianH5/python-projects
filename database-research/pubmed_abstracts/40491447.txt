@@ -1,0 +1,3 @@
+Pyruvate dehydrogenase phosphatase (PDP), a structurally conserved member of the protein phosphatase C family (PP2C) of proteins, is a key regulatory enzyme responsible for reactivation of the mitochondrial gate-keeper, pyruvate dehydrogenase (PDH).
+Tissue-specific expression of PDP isozymes, specifically PDP1 and PDP2 facilitate regulation of the multi-subunit PDH, influencing flux of substrates to the TCA cycle.
+PDP1 is a heterodimeric, Ca

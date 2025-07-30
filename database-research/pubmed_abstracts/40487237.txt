@@ -1,0 +1,4 @@
+Model-based reconstruction provides state-of-the-art image quality for multispectral optoacoustic tomography.
+However, optimal regularization of in vivo data necessitates scan-specific adjustments of the regularization strength to compensate for fluctuations of the signal magnitudes between different sinograms.
+Magnitude fluctuations within in vivo data also pose a challenge for supervised deep learning of a model-based reconstruction operator, as training data must cover the complete range of expected signal magnitudes.
+In this work, we derive a scale-equivariant model-based reconstruction operator that

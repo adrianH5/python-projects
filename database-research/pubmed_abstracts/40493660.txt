@@ -1,0 +1,12 @@
+Breast cancer is the most common diagnosed cancer and the leading cause of cancer-related deaths among women globally.
+This study examined the impact of insulin-like growth factor binding protein-3 (IGFBP-3) A-202C polymorphism (rs2854744) on breast cancer risk and its association with insulin-like growth factor-1 (IGF-1) and IGFBP-3 serum levels among Palestinian women in the Gaza Strip.
+Understanding these genetic variants could guide the development of early detection strategies and personalized interventions for breast cancer in underrepresented populations.
+A case-control study involved 112 women with newly diagnosed breast cancer and 222 healthy controls.
+Genotyping of the IGFBP-3 A-202C polymorphism was performed using polymerase chain reaction and restriction fragment length polymorphism (PCR-RFLP), and serum IGFBP-3 and IGF-1 levels were measured.
+The CC genotype of IGFBP-3 A-202C was observed in 70.5% of cases and 20.7% of controls, conferring a 16-fold increased breast cancer risk (OR=16.237; 95%CI 7.904, 33.356, p ≤ 0.001).
+The AC genotype was found in 19.6% of cases and 32.4% of controls, also associated with ~ 3-fold increased risk (OR=2.889; 95%CI 1.319, 6.325, p = 0.008).
+The CC genotype conferred a 28-fold increased risk in premenopausal women (OR=28.050; 95%CI 10.281, 76.527, p ≤ 0.001) and 5-fold in postmenopausal women (OR=5.333; 95%CI 1.711, 16.620, p = 0.004).
+Women with the CC genotype had the highest mean serum IGF-1 levels (116.49 ng/mL, p ≤ 0.001) and IGFBP-3 levels (3.76 µg/mL, p = 0.006) compared to those with the AA genotype.
+Positive correlations were observed between IGFBP-3 polymorphism and serum IGF-1 (rs = 0.175, p ≤ 0.001) and IGFBP-3 levels (rs = 0.164, p = 0.003).
+The IGFBP-3 A-202C polymorphism, especially the CC genotype, is strongly associated with elevated serum IGFBP-3 and IGF-1 levels and increased breast cancer risk, highlighting its potential as a biomarker for breast cancer screening and risk stratification.
+Further studies are needed to validate these findings in diverse populations.

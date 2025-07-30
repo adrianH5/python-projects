@@ -1,0 +1,7 @@
+Inflammatory cells are crucial regulators of infection and regeneration that actively migrate to affected tissues.
+NF-kB and TNF-alpha (TNFα) are master regulators of immune signalling, but their importance for immune cell migration is much less well understood.
+We have therefore investigated how NF-kB and TNFα regulate both macrophage function and behaviour in vivo using a zebrafish model of tissue repair.
+We show that NF-kB activity differentially regulates TNFα activity through Tnf receptors 1a and 1b to control macrophage responses to injury.
+Loss of NF-kB in macrophages results in elevated TNFα expression and results in more directional migration.
+Impaired NF-kB activity in macrophages perturbs tissue regeneration, causes increased proliferation, altered pro- and anti-inflammatory gene expression and delays fin regeneration.
+We identify a crucial role for NF-kB modulation of TNFα signaling to regulate macrophage responses to tissue injury, which are necessary for effective fin regeneration.

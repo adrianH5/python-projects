@@ -1,0 +1,7 @@
+Breast cancer patients may experience relapse or death after surgery during the follow-up period, leading to dependent censoring of relapse.
+This phenomenon, known as semi-competing risk, imposes challenges in analyzing treatment effects on breast cancer and necessitates advanced statistical tools for unbiased analysis.
+Despite progress in estimation and inference within semi-competing risks regression, its application to causal inference is still in its early stages.
+This article aims to propose a frequentist and semi-parametric framework based on copula models that can facilitate valid causal inference, net quantity estimation and interpretation, and sensitivity analysis for unmeasured factors under right-censored semi-competing risks data.
+We also propose novel procedures to enhance parameter estimation and its applicability in practice.
+After that, we apply the proposed framework to a breast cancer study and detect the time-varying causal effects of hormone- and radio-treatments on patients' relapse and overall survival.
+Moreover, extensive numerical evaluations demonstrate the method's feasibility, highlighting minimal estimation bias and reliable statistical inference.

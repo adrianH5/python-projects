@@ -1,0 +1,7 @@
+T1	Dataset 112 118	GISAID
+T2	Dataset 178 235	Global Initiative on Sharing Avian Influenza Data (GISAID
+T3	URL 237 260	https://www.gisaid.org/
+T4	Repository 266 273	GenBank
+T5	URL 275 315	https://www.ncbi.nlm.nih.gov/nucleotide/
+R1	hasAttr	Arg1:T2	Arg2:T3
+R2	hasAttr	Arg1:T4	Arg2:T5

@@ -1,0 +1,3 @@
+Paired-end reads (2 × 150 bp) were assembled into contigs and aligned to viral metagenomic database comprising all viral reference sequences (all viral reference sequences in NCBI: 12,209 strains).
+In short, plasmid encoding wild-type (reference strain Amsterdam I, accession number: NC_005831.1) or mutant HCoV-NL63 spike protein was transfected into 293 T cells, 24 h later transduced target cells were infected with rVSV-ΔG-luc, viral supernatant was harvested 24 h after transduction.
+To investigate the biological relevance of I507 L mutation in spike RBD, pseudotyped HCoV-NL63 were generated bearing WT (reference strain Amsterdam I, accession number: NC_005831.1) and I507 L mutant S protein.

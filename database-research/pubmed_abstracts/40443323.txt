@@ -1,0 +1,8 @@
+The problem of bacterial resistance caused by antibiotics is becoming increasingly serious worldwide, which poses a great challenge to the treatment of infectious diseases.
+Photodynamic therapy (PDT) was initially used for cancer treatment.
+In recent years, PDT has developed into a novel antibacterial strategy to achieve efficient pathogen clearance through mechanisms such as reactive oxygen species(ROS)-mediated damage and immune activation.
+Due to its advantages of non-invasiveness, high targeting and no drug resistance, PDT has attracted extensive attention in the field of antibacterial medicine.
+However, PDT still faces limitations such as insufficient permeability, small range of ROS release, short duration, and poor vector stability.
+In response to these problems, researchers have improved photosensitizers and light sources, and achieved synergistic effects by combining antibiotics, chemotherapy drugs, and photothermal therapy, which has significantly enhanced the antibacterial effect.
+This article reviews the progress of PDT in the field of oral medicine, introduces the development and characteristics of three generations of photosensitizers, discusses the limitations and optimization strategies of different photosensitizers, and summarizes the advantages and disadvantages of PDT in the treatment of related infectious diseases.
+Subsequently, the mechanism and therapeutic potential of PDT in oral cancer, periodontitis, peri-implantitis and pulpal and apical diseases were reviewed.

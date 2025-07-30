@@ -1,0 +1,7 @@
+mRNA immunotherapies targeting natural killer (NK) cells hold substantial potential for treating cancer and viral diseases.
+However, achieving functional delivery of mRNA to splenic NK cell subsets remains a formidable challenge.
+Herein, we rationally design a library of 161 carbonate-bearing ionizable lipids (CAILs) and formulate lipid nanoparticles (LNPs) for functional mRNA delivery to the spleen and NK cells following intravenous administration.
+Unlike traditional LNPs that primarily target the liver, CAIL-based four-component LNPs predominantly deliver mRNA to the spleen.
+Notably, the removal of cholesterol from CAIL LNPs further enhances the spleen-targeting specificity and efficacy, significantly surpassing those of previous spleen-targeted LNPs.
+As a result, the optimized CAIL LNPs achieve robust mRNA translation in splenic NK cells, inducing encouraging transfection of 21% of splenic NK cells in an Ai9 mouse model.
+The lipid structural design and LNP formulation optimization pave the way to address the challenge of efficient mRNA delivery to NK cells, presenting opportunities for the development of NK cell-based mRNA therapies.

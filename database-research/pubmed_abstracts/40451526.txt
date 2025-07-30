@@ -1,0 +1,10 @@
+Tumor necrosis factor-related apoptosis-inducing ligand (TRAIL) is a promising cancer therapeutic candidate because it induces apoptosis preferentially in malignant cells.
+However, intrinsic and acquired resistance mechanisms severely limit its clinical efficacy.
+This review highlights strategies to overcome TRAIL resistance, mainly using natural compounds, engineered mesenchymal stem cells (MSCs), and nanoparticle-based delivery systems.
+Natural products such as polyphenols, alkaloids, and terpenoids could enhance the sensitivity of TRIAL-resistant cancer cells by modulating the apoptosis-evasion-related major signal pathways.
+The engineered use of MSCs, which are genetically modified to express membrane-bound or secreted TRAIL, represents a novel targeted delivery strategy to improve the local concentrations of TRAIL by using the tumor-homing properties of MSCs.
+MSCs-TRAIL can be used in conjunction with, and may synergize with, other cancer treatments, making it an attractive option.
+Moreover, nanoparticle-mediated delivery represents excellent capacity to improve the pharmacokinetic characteristics of these drugs, increase tumor penetration, and enable adjustable release, thus addressing drawbacks linked with systemic administration and rapid degradation.
+Crucially, local TRAIL delivery can bypass the limitations of systemic administration, which include rapid degradation and off-target effects.
+Herein, we first glimpse the various molecular pathways and cellular processes contributing to TRAIL resistance in cancer cells.
+Then, we delve into current knowledge of these strategies and their potential to boost TRAIL-based cancer therapy, tackle TRAIL resistance, and lead to better cancer therapies for patients.

@@ -1,0 +1,8 @@
+Human papillomaviruses (HPVs) are a diverse group of viruses that infect human mucosal and cutaneous tissues, with a ubiquitous global distribution.
+Several types are classified as high-risk due to their association with cervical, anal, penile, and oropharyngeal cancers.
+Given its widespread prevalence and the limitations of clinical surveillance, HPV is an ideal candidate for wastewater-based testing (WBT), as a way to characterize circulating HPV types.
+Toward this goal, we utilized high-throughput Illumina-based amplicon sequencing targeting the conserved GP5+/GP6+ sites of HPV in wastewater samples collected from two urban treatment plants, two town sites, and three correctional facilities.
+Larger population catchments displayed greater diversity of HPV types in wastewater compared to institutional settings, reflecting differences in community composition and exposure.
+A total of 24 distinct HPV types were detected, all belonging to the alpha-papillomavirus genus, encompassing high- and low-risk types, types of unknown risk, and both cutaneous and mucosal types.
+Among these were six vaccine-preventable types, including HPV-16 and HPV-18, as well as probably carcinogenic types not routinely monitored in clinical settings, such as HPV-67, HPV-69, and HPV-73.
+These findings demonstrate the utility of WBT as a complementary tool to clinical testing, providing critical insights to inform cancer prevention strategies and evaluate the impact of vaccination programs.

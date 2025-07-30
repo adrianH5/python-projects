@@ -1,0 +1,5 @@
+The macrodomain of severe acute respiratory syndrome coronavirus 2 nonstructural protein 3 is required for viral pathogenesis and is an emerging antiviral target.
+We previously performed an x-ray crystallography-based fragment screen and found submicromolar inhibitors by fragment linking.
+However, these compounds had poor membrane permeability and liabilities that complicated optimization.
+Here, we developed a shape-based virtual screening pipeline-FrankenROCS.
+We screened the Enamine high-throughput collection of 2.1 million compounds, selecting 39 compounds for testing, with the most potent binding with a 130 μM median inhibitory concentration (IC

@@ -1,0 +1,8 @@
+Lung cancer is the leading cause of cancer mortality among people with HIV (PWH), with increased incidence and poor outcomes.
+This study explored whether the tumor microenvironment (TME) of HIV-associated non-small cell lung cancer (NSCLC) limits tumor-specific immune responses.
+With a matched cohort of NSCLC from PWH and people without HIV (PWOH), we used imaging mass cytometry, linear mixed effects model and AI-based pageRank mathematical algorithm based on spectral graph theory to demonstrate that HIV-associated tumors demonstrate differential distribution of tumor infiltrating CD8+ and CD4+ T cells, enriched for the expression of PD-1 and Lag-3, as well as activation and proliferation markers.
+We also demonstrate higher expression of immunoregulatory molecules (PD-L1, PD-L2, B7-H3, B7-H4, IDO1 and VISTA), among tumor-associated macrophages.
+Discrimination of cells between tumors from PWH versus PWOH was confirmed by spectral graph theory with 84.6% accuracy.
+Furthermore, we noted differences in spatial orientation of immune cells within the TME of PWH compared to PWOH.
+Additionally, cells from PWH, compared to PWOH, exhibited decreased tumor killing when exposed to HLA-matched NSCLC cell lines.
+In conclusion, our study demonstrates that the HIV-associated tumor microenvironment sustains a unique immune landscape, with evidence of immune cells with enhanced immunoregulatory phenotypes and impaired anti-tumor responses, with implications for response to immune checkpoint blocker therapies.

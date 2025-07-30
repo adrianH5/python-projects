@@ -1,0 +1,7 @@
+Pathogenic germline variants in telomerase (TERT) cause telomere biology disorders (TBDs) and are associated with bone marrow failure, pulmonary fibrosis, and other complications.
+TERT c.3150 G > C (p.K1050N) is frequent in the Ashkenazi Jewish (ASH) population and has been identified in ASH families with TBDs.
+Whole-genome sequencing of 96 p.K1050N heterozygotes from the UK Biobank and All of Us databases revealed a shared haplotype block, supporting a founder effect.
+Analyses of 15 additional p.K1050N cases validated this haplotype and identified mitochondrial and Y-STR haplogroups consistent with ASH ancestry.
+Clinical assessments showed that p.K1050N contributes to TBD phenotypes and shortened telomeres, while population data suggest incomplete penetrance.
+p.K1050N reduces telomerase activity and processivity, and decreases PCNA expression and BrdU incorporation, impairing cell proliferation.
+Our findings establish TERT p.K1050N as an ASH founder variant associated with TBDs, underscoring the need for genetic screening and long-term clinical studies.

@@ -1,0 +1,10 @@
+This study aimed to screen IL-8/topo I inhibitors from natural products collected in Taibai mountain and explore the underlying mechanisms.
+A natural product library of Taibai mountain (NPTM) was first constructed containing 186 compounds.
+Then, 15 and 6 potential inhibitors were screened using pharmacophore modeling for IL-8 and topo I, respectively.
+Molecular docking indicated that glycycoumarin was IL-8/topo I inhibitor.
+A 200 ns molecular dynamics simulation reflected high binding stability and favorable hydrogen bond interaction within glycycoumarin-IL-8/topo I complexes.
+MM/GBSA calculation showed that the binding free energy was - 12.81 kcal/mol and - 31.20 kcal/mol, and Pro 32 and DT 10 contributed most to glycycoumarin and IL-8, topo I, respectively.
+SMD simulation demonstrated a stable binding under physiological conditions with energy demands to dissociate from IL-8/topo I. Glycycoumarin decreased IL-8 production in the inflammatory cells, and exhibited obvious topo I inhibition, as well as strong cytotoxicity to three cancer cells.
+A PPI network revealed that glycycoumarin might work through proteoglycans in cancer (hsa05205) and IL-17 signaling pathway (hsa04657).
+These results improved current understanding of natural IL-8/topo I inhibitors from Taibai mountain.
+The combination of in silico and bioassay could provide a new strategy for exploring natural lead compounds against inflammation and cancer.

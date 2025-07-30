@@ -1,0 +1,2 @@
+Precise delineation of early gastric cancer (EGC) margins is essential for complete resection during endoscopic submucosal dissection.
+This study aimed to develop deep learning-based models for EGC boundary detection in narrow-band imaging (NBI) and near-focus NBI (NF-NBI) images.

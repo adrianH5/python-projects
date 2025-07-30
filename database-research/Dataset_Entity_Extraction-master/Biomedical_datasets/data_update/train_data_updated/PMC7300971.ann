@@ -1,0 +1,3 @@
+T1	Dataset 762 768	GISAID
+T2	URL 770 793	https://www.gisaid.org/
+R1	hasAttr	Arg1:T1	Arg2:T2

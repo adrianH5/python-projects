@@ -1,0 +1,8 @@
+Colorectal cancer is a highly prevalent gastrointestinal malignancy leading to mortality.
+The prolonged efficacy of chemotherapeutic medications has been hindered by their limited capacity to reach the intended target, their lack of specificity in targeting tumors, their non-specific dispersion throughout the body and limited availability at the tumor location, and their undesired adverse effects.
+Targeted drug delivery to the colon enhances drug concentration at the desired location, resulting in a reduced dosage requirement and consequently, fewer side effects.
+This review article provides a thorough discussion of the numerous pathways that may cause colorectal cancer.
+The concept of drug targeting in colorectal cancer using nanovesicles has been addressed in detail in this article.
+This can be accomplished either by passive targeting or active targeting through receptor-ligand interaction by attaching certain active targeting moieties, such as folic acid, epidermal growth factor receptor, GE-11 peptide, EpCAM aptamer, and transferrin, over the surface of nanovesicle.
+This review showcases applications of nanovesicle systems, such as liposomes, phytosomes, polymeric micelles, niosomes, cubosomes, emulsomes, polymersomes and lipopolymersomes in drug delivery for the management of colorectal cancer.
+The nanovesicle systems have significant potential in managing colorectal cancer and overcoming the challenges encountered with current therapy methods.

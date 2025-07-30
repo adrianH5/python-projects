@@ -1,0 +1,7 @@
+Senescence is a pivotal cellular process, which also plays a major role in development, immune regulation, tissue repair, and aging, triggered by stressors such as telomere shortening, oncogene activation, and DNA damage.
+Characterized by distinct morphological and molecular features, senescence is known to act as a tumor suppressive mechanism through irreversible cell cycle arrest.
+However, emerging studies reveal a paradox: prolonged senescence in cancer cells can drive tumorigenesis via the senescence-associated secretory phenotype, promoting proliferation, invasion, and metastasis.
+This comprehensive review elucidates the molecular intricacies of senescence to induce growth arrest, enhance immune surveillance, and favorably modulate the tumor microenvironment to inhibit cancer progression.
+Additionally, it examines the senescence-inducing effects of conventional therapies and explores the potential of emerging therapies, including targeted therapies and chimeric antigen receptor T cell therapy.
+The present review also highlights the promise of senotherapeutic strategies in selectively targeting senescent cells to improve therapeutic outcomes.
+It discusses the innovative integration of machine learning tools for biomarker discovery and patient stratification offering a transformative approach to improve cancer treatment efficacy.

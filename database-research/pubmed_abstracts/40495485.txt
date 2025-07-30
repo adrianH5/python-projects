@@ -1,0 +1,11 @@
+Quiescent cancer cells (QCCs) are considered an origin of cancer recurrence and present an ongoing challenge in cancer treatment.
+Following anti-cancer therapy, non-proliferating, therapy-resistant QCCs have been detected as subsets of residual cancer cells within patients.
+Clinicians and researchers widely believe that these minimal residual QCCs can eventually regain proliferative activity, acting as "seeds" for cancer recurrence.
+Despite the significance of QCCs, tracing and analyzing these microscopic residual cells in vivo models and patients remains extremely challenging, limiting our understanding.
+Consequently, reliable biomarkers for QCCs and the mechanisms underlying their 'reversible' reactivation are still poorly understood.
+This knowledge gap has hindered the development of diagnostics and targeted therapies for QCCs.
+The absence of diagnostic tools for QCCs also complicates predicting cancer relapse and determining the optimal duration of anti-cancer treatment.
+Moreover, without strategies to eradicate QCCs, preventing cancer recurrence remains elusive.
+This review aims to provide an overview of the current understanding of QCCs and related diagnostic efforts in both basic and clinical research.
+Additionally, potential strategies for the targeted elimination of QCCs are explored.
+Focused research and clinical attention to diagnosing and eradicating residual QCCs are essential for preventing cancer recurrence and ultimately conquering this deadly disease.

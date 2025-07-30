@@ -1,0 +1,7 @@
+Metabolism fuels cell growth and functions.
+While it is well established that cellular growth rate scales with cell size, how cells alter their metabolism as they change size remains largely unexplored.
+Here, we conducted a systematic analysis of cell size-dependent metabolism across the NCI60 cancer cell line panel comprising a diverse range of cell sizes.
+We demonstrate that cellular metabolism and growth rate display 2/3 allometric scaling due to differential scaling of overall nutrient uptake and waste metabolite release with respect to cell size, with waste elimination decreasing less rapidly than nutrient uptake rate as cells grow larger.
+This results in cell size-dependent growth rate and predicts a maximum cell size where net nutrient uptake equals zero and cell enlargement ceases despite active metabolism.
+We experimentally confirm this prediction and identify that electron acceptor demand constrains cell enlargement as evidenced by depletion of intracellular aspartate and scaling of aspartate uptake, which is more than proportional to cell volume.
+Overall, these findings may have implications for understanding cell size homeostasis, developmental biology, and the design principles of living organisms.

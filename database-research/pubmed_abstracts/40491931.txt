@@ -1,0 +1,2 @@
+HIV molecular cluster detection in the United States relies on HIV sequences obtained from drug resistance testing during clinical care ("routine care sequences").
+This approach misses people who are not linked to care or who receive care but have uncollected or unreported sequences.

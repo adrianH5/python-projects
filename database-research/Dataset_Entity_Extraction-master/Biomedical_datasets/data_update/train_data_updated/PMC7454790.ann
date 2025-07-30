@@ -1,0 +1,15 @@
+T1	Dataset 97 103	GISAID
+T2	Creator 105 126	Shu and McCauley 2017
+T3	Dataset 313 319	GISAID
+T4	Creator 321 342	Shu and McCauley 2017
+T5	Repository 613 620	EbolaID
+T6	Creator 631 656	Carneiro and Pereira 2016
+T7	Repository 731 762	COVID-19 Genomics UK Consortium
+T8	URL 772 801	https://www.cogconsortium.uk/
+T9	Repository 1211 1221	Virosaurus
+T10	Repository 1232 1242	Virosaurus
+T11	Creator 1314 1333	Gleizes et al. 2020
+T12	Repository 1592 1603	NCBI RefSeq
+T13	Creator 1614 1632	Pruitt et al. 2005
+T14	Repository 1673 1683	Virosaurus
+R1	hasAttr	Arg1:T7	Arg2:T8

@@ -1,0 +1,12 @@
+Non-adherence to medications is a critical concern since nearly half of patients with chronic illnesses do not follow their prescribed medication regimens, leading to increased mortality, costs, and preventable human distress.
+Amongst stage 0-3 breast cancer survivors, adherence to long-term adjuvant endocrine therapy (i.e., Tamoxifen and aromatase inhibitors) is associated with a significant increase in recurrence-free survival.
+This work aims to develop multi-scale models of medication adherence to understand the significance of different factors influencing adherence across varying time frames.
+We introduce a computational framework guided by Social Cognitive Theory for multi-scale (daily and weekly) modeling of longitudinal medication adherence.
+Our models employ both dynamic medication-taking patterns in the recent past (dynamic factors) as well as less frequently changing factors (static factors) for adherence prediction.
+Additionally, we assess the significance of various factors in influencing adherence behavior across different time scales.
+Our models outperform traditional machine learning counterparts in both daily and weekly tasks in terms of both accuracy and specificity.
+Daily models achieved an accuracy of 87.25% (Precision - 92.04%, Recall - 93.15%, Specificity - 77.50%), and weekly models, an accuracy of 76.04% (Precision - 75.83%, Recall - 85.80%, Specificity - 72.30%).
+Notably, dynamic past medication-taking patterns prove most valuable for predicting daily adherence, while a combination of dynamic and static factors is significant for macro-level weekly adherence patterns.
+While our models exhibit strong predictive performance, they are constrained by potential cohort-specific biases, reliance on self-reported adherence data, and a limited understanding of the context around non-adherence.
+Future research will focus on external validation across diverse populations and explore the real-world implementation of sensor-rich systems for a more comprehensive assessment of medication adherence.
+Nonetheless, we assessed a theory-informed, multi-scale approach to predict adherence, and our findings offer valuable insights to guide the designing of personalized, technology-driven adherence interventions and fostering collaboration among patients, healthcare providers, and caregivers to support long-term adherence.

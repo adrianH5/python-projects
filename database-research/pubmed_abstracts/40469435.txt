@@ -1,0 +1,4 @@
+Accurate evaluation of thyroid nodules is crucial for effective management; however, methods such as ultrasonography and Fine Needle Aspiration Cytology (FNAC) can be subjective and operator-dependent.
+Indeterminate thyroid nodules (ITNs) complicate diagnosis, coming at the expense of time, money, and potentially additional FNA samplings, causing more discomfort for the patients.
+Recent advancements in artificial intelligence (AI) assisted ultrasound diagnosis system have demonstrated excellent diagnostic performance and the potential to aid in the differentiation of ITNs.
+This study aims to develop an AI classifier that integrates the AI-assisted ultrasound diagnosis system, FNAC, and demographic data to enhance the differentiation of benign and malignant thyroid nodules, and to compare the diagnostic performance of the models, with a focus on diagnosing ITNs.

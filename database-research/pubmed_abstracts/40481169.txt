@@ -1,0 +1,10 @@
+Posterior pituitary tumors (PPTs) are rare neoplasms, but easily misdiagnosed as pituitary neuroendocrine tumor (PitNET) and craniopharyngioma.
+This study aimed to differentiate PPTs from PitNET and craniopharyngioma using a machine learning method based on radiomics.
+The cohort used for training and testing contained 33 PPTs and 99 non-posterior pituitary tumors (NPPTs).
+The validation cohort consisted of prospectively included patients (9 PPTs and 33 NPPTs).
+Radiomics features based on T1-weighted images and contrast-enhanced (CE) T1-weighted images were extracted, or both.
+Data of training and testing cohort were input to a nested 10-fold to build models, which were independently validated in the validation cohort.
+A least absolute shrinkage and selection operator (LASSO) was used for dimensionality reduction and random forest was used as classifier.
+Predictive models were successfully established, and models based on CE features had the best performance with an accuracy of 0.786, precision of 0.929, specificity of 0.778, sensitivity of 0.788, and area under the curve of 0.818 in validation.
+Nine features selected by more than 75% of the models based on CE features were identified as the most predictive features.
+We established a group of machine learning models to noninvasively differentiate PPTs from NPPTs before surgery, which may improve the surgical plan of PPTs to better complete resection of the tumors and protection of important structures around the tumors.

@@ -1,0 +1,6 @@
+Pancreatic ductal adenocarcinoma (PDAC) remains one of the leading sources of cancer mortality worldwide.
+An initial response to chemotherapy, such as Gemcitabine (GEM) alone or in combination with other chemotherapies, is often followed by emergent resistance, underscoring the urgent need for targeted therapies.
+PDAC cells are highly addicted to oncogenic K-RAS mutations for their growth, progression, immunosuppression, and drug resistance, but mutant K-RAS in PDAC is still challenging to target.
+A glycosylation inhibitor, Tunicamycin (TM), is a potent killer of PDAC cells.
+However, the free TM is very toxic in clinical settings.
+We developed a pH/Hypoxia-responsive iRGD-tagged biodegradable nano-encapsulated TM (

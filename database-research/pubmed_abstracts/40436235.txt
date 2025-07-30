@@ -1,0 +1,13 @@
+Tamoxifen (TAM) is a commonly used drug for breast cancer treatment, mainly inhibiting estrogen receptors to prevent tumor growth.
+Although TAM has achieved remarkable effects in clinical treatment, recent studies have shown that TAM can cause drug-induced liver injury.
+However, it's still unclear whether long-term use of TAM can cause liver fibrosis.
+This study explores whether long-term administration of TAM can cause liver fibrosis and its mechanism.
+We found that TAM could induce liver injury in mice and significantly up-regulate the expression of activation markers of stellate cells, activating the TGF-β/smad signaling pathway.
+Additionally, TAM induced an inflammatory response and activated the NF-κB signaling pathway.
+More importantly, we demonstrated for the first time in vivo and in vitro that TAM-induced hepatocyte ferroptosis, accompanied by glutathione (GSH) depletion, reactive oxygen species (ROS) accumulation, and intracellular ferrous enrichment, and changes in the expression of ferroptosis-related proteins.
+Ferroptosis inhibitors such as ferrostatin-1 (Fer-1) and DFO ameliorated ferroptosis in hepatocytes.
+However, these ferroptotic events did not occur in macrophages and hepatic stellate cells (HSCs).
+Co-culture experiments showed that TAM-induced hepatocytes could increase expression of liver fibrosis-related proteins in HSCs, but this could be abolished by ferroptosis inhibitors.
+Bioinformatics analysis suggested TAM may regulate hepatocyte ferroptosis through solute carrier family 1 member 5 (SLC1A5).
+Downregulation of SLC1A5 could inhibit TAM-induced hepatocyte ferroptosis, thereby alleviating HSCs activation and the increased expression of ECM proteins.
+Our study suggests that TAM induces hepatocyte ferroptosis through SLC1A5, leading to HSC activation and liver fibrosis.

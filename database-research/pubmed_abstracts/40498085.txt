@@ -1,0 +1,10 @@
+Despite the importance of O6-methylguanine-DNA methyltransferase (MGMT) (a DNA repair enzyme) in cancer cells, MGMT impacts in macrophages are still unknown.
+In mgmt null mice (mgmtflox/flox; LysM-Crecre/-; mgmt deletion only in macrophages), subcutaneous administration of MC38 (a murine colon cancer) induced smaller tumors with lower intratumoral CD206-positive cells (mostly M2-like macrophages) than the tumors in littermate controls (mgmt control) (mgmtfl/fl; LysM-Cre-/-), as indicated by immunohistochemistry and flow cytometry.
+Then, bone marrow-derived macrophages were incubated with lipopolysaccharide (LPS) (M1 polarization), IL-4 (M2 polarization), MC38-conditioned media (tumor-associated macrophages or TAM), and control media (control).
+In comparison with control, mgmt was upregulated in all activated cells (M1, M2, and TAM), with the most prominent in M1.
+The less prominent M1 pro-inflammation (lower IL-1β and iNOS expression) and M2 polarization (lower Arg-1 expression) in mgmt null macrophages compared with mgmt control were observed.
+The tumoricidal activity was demonstrated only in M1 (but not M2 and TAM), and mgmt control M1 was more prominent than mgmt null M1, as evaluated by flow cytometry using flexible 780 viable dye.
+There was reduced maximal respiration (extracellular flux analysis) with more prominent cell injuries, as indicated by cell-free DNA, oxidative stress (malondialdehyde), and DNA break (phosphohistone H2AX immunohistochemistry), in TAM from mgmt null when compared with mgmt control.
+In conclusion, TAM transformation required cell energy and induced DNA injury, which needed the MGMT enzyme for DNA repair.
+Without MGMT, TAM abundance was too low to promote cancer growth.
+The use of MGMT inhibitors for cancers is encouraged.

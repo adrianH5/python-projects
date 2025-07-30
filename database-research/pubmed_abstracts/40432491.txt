@@ -1,0 +1,8 @@
+Non-small cell lung cancer (NSCLC) remains a major cause of cancer-related mortality.
+This study investigates the cytotoxic effects of Euphorbia rigida extract on A549 NSCLC cells and its potential as a therapeutic agent.
+Cellular morphology was observed microscopically, and cell viability was evaluated using dose-dependent proliferation assays.
+Apoptosis-related gene expression-including Bax, Bcl-2, and Caspase-9-was analyzed via quantitative PCR (qPCR).
+Chromatographic methods identified bioactive flavonoids, and molecular docking assessed their binding to cancer-related proteins.
+Additionally, absorption, distribution, metabolism, excretion, and toxicity (ADMET) profiles were evaluated.
+The extract induced apoptotic morphological changes such as cell shrinkage and loss of intercellular contact.
+A dose-dependent reduction in A549 viability was observed, with an IC

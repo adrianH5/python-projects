@@ -1,0 +1,62 @@
+T1	AccessionNumber 191 199	MT451874
+T2	AccessionNumber 201 209	MT451876
+T3	AccessionNumber 211 219	MT451877
+T4	AccessionNumber 221 229	MT451878
+T5	AccessionNumber 231 239	MT451880
+T6	AccessionNumber 241 249	MT451881
+T7	AccessionNumber 251 259	MT451882
+T8	AccessionNumber 261 269	MT451883
+T9	AccessionNumber 271 279	MT451884
+T10	AccessionNumber 281 289	MT451885
+T11	AccessionNumber 291 299	MT451886
+T12	AccessionNumber 301 309	MT451887
+T13	AccessionNumber 311 319	MT451888
+T14	AccessionNumber 321 329	MT451889
+T15	AccessionNumber 331 339	MT451890
+T16	AccessionNumber 341 349	MT435079
+T17	AccessionNumber 351 359	MT435080
+T18	AccessionNumber 361 369	MT435081
+T19	AccessionNumber 371 379	MT435082
+T20	AccessionNumber 381 389	MT435083
+T21	AccessionNumber 391 399	MT435084
+T22	AccessionNumber 401 409	MT435085
+T23	AccessionNumber 411 419	MT435086
+T24	AccessionNumber 421 429	MT415320
+T25	AccessionNumber 431 439	MT415321
+T26	AccessionNumber 441 449	MT415322
+T27	AccessionNumber 451 459	MT415323
+T28	AccessionNumber 461 469	MT358637
+T29	AccessionNumber 471 479	MT012098
+T30	AccessionNumber 484 492	MT050493
+T31	Repository 548 552	NCBI
+T32	Repository 702 706	NCBI
+R1	hasAttr	Arg1:T31	Arg2:T1
+R2	hasAttr	Arg1:T31	Arg2:T2
+R3	hasAttr	Arg1:T31	Arg2:T3
+R4	hasAttr	Arg1:T31	Arg2:T4
+R5	hasAttr	Arg1:T31	Arg2:T5
+R6	hasAttr	Arg1:T31	Arg2:T6
+R7	hasAttr	Arg1:T31	Arg2:T7
+R8	hasAttr	Arg1:T31	Arg2:T8
+R9	hasAttr	Arg1:T31	Arg2:T9
+R10	hasAttr	Arg1:T31	Arg2:T10
+R11	hasAttr	Arg1:T31	Arg2:T11
+R12	hasAttr	Arg1:T31	Arg2:T12
+R13	hasAttr	Arg1:T31	Arg2:T13
+R14	hasAttr	Arg1:T31	Arg2:T14
+R15	hasAttr	Arg1:T31	Arg2:T15
+R16	hasAttr	Arg1:T31	Arg2:T16
+R17	hasAttr	Arg1:T31	Arg2:T17
+R18	hasAttr	Arg1:T31	Arg2:T18
+R19	hasAttr	Arg1:T31	Arg2:T19
+R20	hasAttr	Arg1:T31	Arg2:T20
+R21	hasAttr	Arg1:T31	Arg2:T21
+R22	hasAttr	Arg1:T31	Arg2:T22
+R23	hasAttr	Arg1:T31	Arg2:T23
+R24	hasAttr	Arg1:T31	Arg2:T24
+R25	hasAttr	Arg1:T31	Arg2:T25
+R26	hasAttr	Arg1:T31	Arg2:T26
+R27	hasAttr	Arg1:T31	Arg2:T27
+R28	hasAttr	Arg1:T31	Arg2:T28
+R29	hasAttr	Arg1:T31	Arg2:T29
+R30	hasAttr	Arg1:T31	Arg2:T30

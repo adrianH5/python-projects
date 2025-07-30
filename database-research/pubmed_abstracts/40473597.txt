@@ -1,0 +1,10 @@
+Ferroptosis, an iron-dependent form of programmed cell death, holds promise for cancer treatment.
+Circular RNAs (circRNAs), widely expressed across tumor types, modulate multiple cellular biological processes, including ferroptosis.
+However, the regulatory dynamics of circRNAs in gastric cancer (GC)-associated ferroptosis remain poorly understood.
+Here, circTFRC (circBase ID: hsa_circ_0068606), a novel circRNA, was identified as significantly upregulated in GC tissues and cell lines, with its plasma levels strongly associated with tumor size and metastatic status.
+Targeted suppression of circTFRC enhanced ferroptotic cell death, resulting in reduced proliferation and motility of GC cells in vitro.
+At the molecular level, circTFRC bound directly to SCD1 mRNAs, stabilizing and enhancing their translation via recruiting the RNA-binding protein ELAVL1.
+Elevated SCD1 expression mitigated ferroptosis and promoted oncogenic lipid metabolic reprogramming, thereby driving GC progression.
+In vivo studies further confirmed that circTFRC silencing promoted ferroptosis and inhibited tumor growth and progression.
+These results delineate a circTFRC-mediated axis that impairs ferroptosis vulnerability in GC cells and supports malignancy advancement.
+CircTFRC emerges as a biomarker with diagnostic potential and a candidate for therapeutic intervention targeting ferroptosis in GC.

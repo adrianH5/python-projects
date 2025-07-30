@@ -1,0 +1,5 @@
+A novel one-step label-free immunoassay platform was developed through the integration of nanobody (VHH) technology with a disposable surface plasmon resonance (SPR) fiber probe for rapid, precise biomarker detection.
+The platform employs immobilization of high-affinity VHH against human matrix metalloproteinase-9 (MMP-9), a key biomarker in cancer and inflammatory bowel disease (IBD), on gold-coated optical fiber surfaces.
+This disposable VHH-based SPR fiber probe enables sensitive MMP-9 quantification in various cancer cell lines as well as tissue and serum specimens from murine models of colorectal and breast cancer and dextran sulfate sodium (DSS)-induced colitis.
+Clinical validation using human samples demonstrated successful MMP-9 detection in breast cancer and IBD cohorts.
+The VHH-based SPR fiber probe demonstrated rapid, sensitive, and specific MMP-9 detection with minimal cross-reactivity, establishing its reliability for clinical applications in early cancer and IBD diagnosis, therapeutic monitoring, and prognostic assessment.

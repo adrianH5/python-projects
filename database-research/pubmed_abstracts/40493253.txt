@@ -1,0 +1,15 @@
+Malignant Pleural Mesothelioma (MPM) is the most prevalent type of Mesothelioma and currently has no effective treatment options.
+This underscores the urgent need to explore new therapeutic agents and innovative strategies.
+Phenolic acids are significant natural compounds recognised for their effectiveness in treating various diseases, including cancer.
+This study evaluates the anti-carcinogenic properties of Cinnamic acid (CINN) and its derivative Caffeic acid (CA) in both MPM and non-cancerous mesothelial cells.
+Results show that CA exhibited greater efficiency than CINN in reducing cancer cell survival.
+This enhanced efficacy is primarily attributed to CA's higher selectivity index and its ability to inhibit proliferation at lower concentrations.
+Consequently, further analysis was conducted using CA.
+The subsequent findings revealed that CA suppressed proliferative markers, Ki67 and PCNA, inhibited colony formation and wound healing in MM cells.
+Experiments also exposed that it suppresses the phosphorylation of ERK1/2 and AKT proteins in a concentration-dependent manner, while the phosphorylation of STAT3 remains unaffected.
+The pattern of protein phosphorylation and expression suppression by CA in 3D cells resembles that in 2D cells, although it occurred at higher concentrations.
+Additionally, CA significantly enhanced the expression of p53-regulated proteins p21 and p27, resulting in G2/M arrest in both SPC111 and SPC212 cell lines.
+Moreover, elevated concentrations of CA were associated with an increased number of dead cells, as demonstrated by DAPI/PI and AO/EtBr fluorescence staining.
+The increased Bax/Bcl-2 protein ratio, and BH3-only proteins (Bik and PUMA) and the cleavage of caspase-3 indicated that CA induces mitochondrial apoptosis.
+Our research with MM cells and three-dimensional micro-tumours suggests that CA may be a promising alternative for future MM therapies.
+However, it is vital to conduct high-throughput in vivo studies to elucidate further the potential importance of CA in treating this devastating disease.

@@ -1,0 +1,1 @@
+To evaluate the impact of AI-generated apparent diffusion coefficient (ADC) maps on diagnostic performance of a 3D U-Net AI model for prostate cancer (PCa) detection and segmentation at biparametric MRI (bpMRI).

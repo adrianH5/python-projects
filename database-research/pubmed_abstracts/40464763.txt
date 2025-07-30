@@ -1,0 +1,6 @@
+The thymus is a primary lymphoid organ for generating a diverse yet self-tolerant T cell repertoire.
+Among the thymic stromal cells that create the thymic microenvironment, thymic epithelial cells (TECs) have received the most attention because of their distinctive functions in the repertoire selection of T cells.
+Other types of thymic stromal cells, such as fibroblasts and endothelial cells, have been less studied, and thus their thymus-specific nature and functions remain unclear.
+Recent advances in single-cell technologies, multicolor flow cytometry, and sophisticated mouse models have enabled the identification not only of TECs but also of non-TEC stromal cell diversity and the characterization of these cell subpopulations.
+This review provides a state-of-the-art overview of the thymic microenvironment, focusing on the development and functional diversity of TECs and non-TEC stromal cells.
+In particular, the recently discovered role of non-TEC stromal cells in thymic organogenesis, T cell selection, and involution and regeneration of the postnatal thymus is highlighted.

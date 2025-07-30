@@ -1,0 +1,2 @@
+The whole-genome sequence of Wuhan new virus (WH-Human_1) was first released on January 10, 2020 (Zhang, 2020), followed by additional ones released in Global Initiative on Sharing All Influenza Data (GISAID) (Shu and McCauley, 2017).
+Sequences of S protein were downloaded for known CoVs from UniProt, and 2019-nCoV sequences were obtained from Shanghai Public Health Clinical Center and GISAID (Supplementary data).

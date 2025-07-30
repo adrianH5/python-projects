@@ -1,0 +1,6 @@
+Targeted therapies for advanced microsatellite stable (MSS) subtype colorectal cancer (MSS-CRC) remain a clinical challenge.
+Here, we show that death receptor 5 (DR5) is elevated in both MSS and microsatellite instability-high (MSI-H) colorectal cancer (CRC) cohorts, highlighting its potential as a clinical target.
+Oba01, a clinical-stage DR5-targeting antibody-drug conjugate (ADC) delivering the microtubule-disrupting agent monomethyl auristatin E (MMAE), shows superior efficacy in CRC cell lines, patient-derived xenografts and their corresponding organoids, irrespective of MSS or MSI-H status.
+Importantly, our functional multi-omics analysis reveals that the cell cycle pathway and cyclin-dependent kinases (CDKs) are key synergistic targets of Oba01's tumor-killing activity.
+We further show that Oba01 synergizes with the Food and Drug Administration (FDA)-approved CDK inhibitor abemaciclib in clinically relevant in vivo models.
+This synergy is also observed with other CDK inhibitors, underscoring the potential of combining Oba01 with CDK inhibition as a therapeutic strategy for advanced CRC, particularly the refractory MSS subtype.

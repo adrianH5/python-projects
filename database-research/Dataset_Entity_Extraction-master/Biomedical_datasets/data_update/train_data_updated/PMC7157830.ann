@@ -1,0 +1,7 @@
+T1	AccessionNumber 59 67	MN908947
+T2	URL 69 114	https://www.ncbi.nlm.nih.gov/nuccore/MN908947
+T3	Dataset 180 189	2019nCoVR
+T4	URL 240 268	https://bigd.big.ac.cn/ncov/
+T5	Dataset 274 283	2019nCoVR
+T6	Dataset 632 641	2019nCoVR
+R1	hasAttr	Arg1:T3	Arg2:T4

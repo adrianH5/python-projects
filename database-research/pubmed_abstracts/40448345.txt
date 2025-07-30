@@ -1,0 +1,9 @@
+Gastric cancer (GC) persists as a major global health challenge, with advanced-stage disease exhibiting persistently poor prognoses despite advancements in early diagnosis and conventional treatments.
+This clinical urgency has driven the adoption of advanced therapies including molecularly targeted therapies and immunotherapeutic strategies.
+HER2-directed agents, including trastuzumab, trastuzumab deruxtecan (T-DXd), and disitamab vedotin (RC48), have demonstrated significant survival benefits in HER2-positive cohorts, though intratumoral heterogeneity frequently underlies acquired resistance.
+Anti-angiogenic therapies targeting the vascular endothelial growth factor receptor (VEGFR), exemplified by ramucirumab, remain a cornerstone of advanced GC management.
+Concurrently, immune checkpoint inhibitors (ICIs) against programmed cell death protein 1 (PD-1) and programmed cell death-ligand 1 (PD-L1) have expanded therapeutic options by potentiating endogenous antitumor immunity, albeit with variable efficacy across molecular subtypes.
+Emerging immunotherapies-such as adoptive cell therapies (e.g., CAR T cells), tumor-associated antigen vaccines, immunomodulatory agents, and genetically engineered oncolytic viruses-show promising preclinical and early-phase clinical activity.
+Critical to optimizing these advances is a systems-level understanding of the tumor immune microenvironment (TIME), which dynamically regulates therapeutic response and immune evasion.
+Future progress hinges on three pillars: (1) biomarker-driven personalization of treatment regimens, (2) combinatorial strategies to overcome primary and adaptive resistance mechanisms, and (3) translational integration of multi-omics insights into therapeutic development.
+Addressing these priorities through mechanistic investigations and innovative trial designs will be essential to achieving durable clinical responses and improving survival outcomes in this heterogeneous malignancy.

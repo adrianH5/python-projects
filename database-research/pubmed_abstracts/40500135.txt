@@ -1,0 +1,5 @@
+Tumor metabolic reprogramming, particularly the Warburg effect, is crucial for rapid tumor growth and immune evasion.
+Lactate dehydrogenase A (LDHA), a key enzyme in tumor aerobic glycolysis, is overexpressed in tumors and is considered an effective therapeutic target.
+Sodium oxamate (SOM) is a classic LDHA inhibitor, but its poor cell permeability, low tumor killing effect, and ineffective immune activation limit its application.
+Herein, SOM nanoparticles (NPs) were prepared via a thin-film hydration method for amplified cancer immunotherapy.
+SOM NPs are efficiently taken up by tumor cells through endocytosis, releasing NH

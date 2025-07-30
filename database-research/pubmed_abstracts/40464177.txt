@@ -1,0 +1,5 @@
+Dysregulated cellular signaling pathways involving protein kinases are critically implicated in cancer development.
+Consequently, protein kinases have emerged as key targets for novel anticancer therapies.
+A range of kinase inhibitors, including small molecules and monoclonal antibodies, has been developed.
+Although early strategies focused on achieving high specificity to minimize adverse effects, resistance to these targeted therapies has limited their effectiveness.
+As a result, broader-spectrum inhibitors that act on multiple cancer-related kinases are now considered more promising therapeutic options.

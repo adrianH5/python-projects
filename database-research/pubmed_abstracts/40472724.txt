@@ -1,0 +1,7 @@
+Regulatory T cells (Tregs) are a subset of CD4 + T cells that comprise 5-10 % of the total CD4 + T cell population.
+Tregs, which are critically important for the maintenance of immune tolerance and immune homeostasis, are distinguished from other subtypes of CD4 + T cells by the expression of the transcription factor FOXP3.
+Because of the centrality to immunoregulation, Tregs have gained increasing attention as promising targets for clinical applications in autoimmune diseases, transplant rejection and graft-versus-host disease (GvHD).
+However, the essential role of Tregs in the complex network of the immune system implies their targeting as a promising therapeutic approach also in other medical indications, such as neurodegenerative diseases and cancer.
+Our group recently published a study showing that genetically modified Tregs are capable of clearing solid malignancies in various mice models, including an aggressive triple negative breast cancer (TNBC) and prostate cancer, which provides the impetus to develop an adoptive cell therapy using Steroid Receptor Coactivator 3 (SRC-3) knock out (KO) Tregs.
+It is well known that isolation, genetic editing and the expansion of Tregs as a homogenous and healthy population present specific technical challenges.
+In this context, here we outline the development of a process for the production of SRC-3 KO human Tregs (hTregs), which can subsequently be adapted for Current Good Manufacturing Practice (cGMP) settings to facilitate clinical-scale production.

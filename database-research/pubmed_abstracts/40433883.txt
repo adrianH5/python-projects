@@ -1,0 +1,5 @@
+Interleukin-33 (IL-33), a key member of the IL-1 family, plays a significant role in inflammation and cancer.
+Its classic receptors, ST2 and IL-1 receptor accessory protein (IL-1RAcP), are predominantly expressed in immune cells such as T helper 2 (Th2) cells and mast cells.
+Recent studies have highlighted the involvement of IL-33 in breast cancer, demonstrating its ability to exert dual functional effects by modulating both innate and adaptive immune responses within the tumour microenvironment.
+However, the precise molecular mechanisms linking IL-33 to breast cancer pathogenesis and its potential as a target for molecularly targeted therapies remain incompletely understood.
+This review aims to provide a comprehensive summary of the current understanding of IL-33 in breast cancer immunotherapy.

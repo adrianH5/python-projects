@@ -1,0 +1,9 @@
+Although various strategies have been proposed for enrichment of circulating tumor cells (CTCs), the clinical outcomes of CTC detection are far from satisfactory.
+The prevailing methodologies for CTC detection are generally oriented toward naturally occurring targets; however, misdetection and interference are prevalent due to the diverse phenotypes and subpopulations of CTCs, which are highly heterogeneous.
+Here, a CTC isolation system based on the "label-capture-release" process is demonstrated for the precise and highly efficient enrichment of CTCs from clinical blood samples.
+On the basis of the abnormal glycometabolism of tumor cells, the surface of CTCs can be decorated with artificial azido groups.
+By utilizing bio-orthogonal plates designed with dibenzocyclooctane (DBCO) and disulfide groups, with the aid of anti-fouling effects, CTCs labeled with azido groups can be captured through a copper-free click reaction and subsequently released via disulfide reduction.
+The technique has been shown to label tumor cells with the epithelial cell adhesion molecule (EpCAM)+ and EpCAM- phenotypes in both adherent and suspended states.
+Moreover, it effectively isolates all epithelial, interstitial, and hybrid phenotypes of CTCs from clinical blood samples collected from dozens of patients across more than 10 cancer types.
+Compared to the clinically approved CTC detection system, our strategy demonstrates superior performance from the perspective of broad-spectrum and accurate recognition of heterogeneous CTCs.
+More importantly, most of the captured CTCs can be released with the retention of living activity, making this technique well suited for downstream applications such as drug susceptibility tests involving viable CTCs.

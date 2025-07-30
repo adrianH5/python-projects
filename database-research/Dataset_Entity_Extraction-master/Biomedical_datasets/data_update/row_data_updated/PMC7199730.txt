@@ -1,0 +1,24 @@
+Further extensive global transmission led to the WHO declaring COVID-19 as a pandemic on March 11 2020.
+There are thousands of global SARS-CoV-2 whole-genome sequences available on the rapid data sharing service hosted by the Global Initiative on Sharing All Influenza Data (GISAID; https://www.epicov.org)
+The extraordinary availability of genomic data during the COVID-19 pandemic has been made possible thanks to a tremendous effort by hundreds of researchers globally depositing SARS-CoV-2 assemblies (Table S1) and the proliferation of close to real time data visualisation and analysis tools including NextStrain (https://nextstrain.org) and CoV-GLUE (http://cov-glue.cvr.gla.ac.uk).
+A variant calling pipeline (available at https://github.com/DamienFr/CoV-homoplasy) was used to obtain high-confidence alignments for the 348 (out of 889 as of April 19 2020) SRA genomic datasets both meeting our quality criterions and matching GISAID assemblies.
+The topology of the Maximum Likelihood phylogeny of these 348 samples was compared to that of the corresponding samples from the GISAID genome assemblies using a Mantel test and the Phytools R package (Revell, 2012) (Figs. S8-S9, see Supplementary text).
+The 7666 SARS-CoV-2 genomes offer an excellent geographical and temporal coverage of the COVID-19 pandemic (Fig. 1a-b).
+Using TreeDater (Volz and Frost, 2017), we observe an estimated tMRCA, which corresponds to the start of the COVID-19 epidemic, of 6 October 2019–11 December 2019 (95% CIs) (Fig. S4).
+These dates for the start of the epidemic are in broad agreement with previous estimates performed on smaller subsets of the COVID-19 genomic data using various computational methods (Table 1), though they should still be taken with some caution.
+Indeed, the sheer size of the dataset precludes the use of some of the more sophisticated inference methods available.
+The SARS-CoV-2 global population has accumulated only moderate genetic diversity at this stage of the COVID-19 pandemic with an average pairwise difference of 9.6 SNPs between any two genomes, providing further support for a relatively recent common ancestor.
+Indeed, the earliest available strains were collected in Asia, where the COVID-19 pandemic started, followed by extensive genome sequencing efforts first in Europe and then in the USA.
+The SARS-CoV-2 genomic diversity found in most countries (with sufficient sequences) essentially recapitulates the global diversity of COVID-19 from the 7666-genome dataset.
+This is also to an extent the case for Italy (Fig. S2b), which was an early focus of the COVID-19 pandemic.
+However, this global dataset includes only 35 SARS-CoV-2 genomes from Italy, so some of the genetic diversity of SARS-CoV-2 strains in circulation likely remains unsampled.
+The genomic diversity of the global SARS-CoV-2 population being recapitulated in multiple countries points to extensive worldwide transmission of COVID-19, likely from extremely early on in the pandemic.
+The strongest hit in terms of the inferred minimum number of changes required (Fig. 3b-c) at Orf1ab (11,083, Codon 3606) falls over a region encoding the non-structural protein, Nsp6, and is also observed in our analyses of the SRA dataset (Table S7).
+Over the last century alone, several global epidemics have claimed millions of lives, including the 1957/58 influenza A (H2N2) pandemic, the sixth (1899–1923) and seventh ‘El Tor’ cholera pandemic (1961–1975), as well as the HIV/AIDS pandemic (1981-today).
+COVID-19 acts as an unwelcome reminder of the major threat that infectious diseases represent in terms of deaths and disruption.
+The genetic data available at the time looks staggeringly small in comparison to the amount that has already been generated for SARS-CoV-2 during the early stages of the COVID-19 pandemic.
+For example, analyses by multiple independent groups place the start of the COVID-19 pandemic towards the end of 2019 (Table 1).
+This site passed our stringent filtering cirteria and was also present in our analysis of the SRA dataset (Table S7).
+The virus has since spread globally, resulting in the currently ongoing COVID-19 pandemic.
+We curated a dataset of 7666 public genome assemblies and analysed the emergence of genomic diversity over time.
+Highlights     •  Phylogenetic estimates support that the COVID-2 pandemic started sometimes around 6 October 2019 – 11 December 2019.    •

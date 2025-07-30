@@ -1,0 +1,4 @@
+As of May 31, 2020, nearly 6 million cases of coronavirus disease 2019 (COVID-19) and over 350,000 deaths from the disease, have been reported worldwide [1].
+A novel coronavirus is the cause of COVID-19.
+This new finding provides a clue for understanding the previously unresolved physiological roles of the proteasome-dependent degradation of the SARS-CoV-2 N protein during pathogenesis of COVID-19.
+These results suggest that PA28γ binding is important in regulating 20S proteasome activity, which in turn regulates levels of the critical nCoV N nucleocapsid protein of SARS-CoV-2, furthering our understanding of the pathogenesis of COVID-19.

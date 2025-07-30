@@ -1,0 +1,5 @@
+The WHO recently changed the outline of immunodeficiency/dysregulation (IDD)-associated lymphoproliferative disorders (LPDs)/lymphomas from underlying IDD settings to an overarching framework and accommodates commonalities in histology, the involvement of various oncogenic viruses, and specific clinical/therapeutic consequences.
+A mutational analysis has been performed on post-transplantation and HIV-positive lymphomas, but not on other iatrogenic immunodeficiency (OII)-associated LPDs mainly caused by methotrexate (MTX) to treat rheumatoid arthritis.
+We herein conducted next-generation sequencing (NGS) to examine the genetic spectrum along with a fluorescence in situ hybridization analysis of 9p24.1 and PD-L1 expression in 37 MTX-associated diffuse large B-cell lymphoma (DLBCL) cases, 17 Epstein-Barr virus (EBV)-positive mucocutaneous ulcer (EBVMCU) cases, and 26 EBV-positive DLBCL (EBV + DLBCL) cases.
+Targeted NGS identified 177 mutations.
+The mutation frequency was significantly higher in EBV

@@ -1,0 +1,8 @@
+Gastric cancer (GC) remains a leading cause of cancer-related mortality worldwide.
+CXCL12, a chemokine involved in tumor progression and metastasis, has been inconsistently associated with GC survival.
+This meta-analysis aimed to evaluate the prognostic significance of CXCL12 expression in GC patients.
+A comprehensive literature search was conducted in PubMed, Embase, and Web of Science.
+Observational studies assessing tumor CXCL12 expression and survival outcomes in GC patients were included.
+Hazard ratios (HRs) with 95% confidence intervals (CIs) were pooled using a random-effects model by incorporating heterogeneity.
+Ten studies comprising 1361 GC patients were included.
+High CXCL12 expression was significantly associated with poorer overall survival (OS) (HR: 1.85, 95% CI 1.51-2.26, p < 0.001) with mild heterogeneity (I

@@ -1,0 +1,8 @@
+Ovarian cancer (OC) is one of the most common and lethal solid malignancies among women, with its incidence steadily rising.
+Despite substantial advancements in OC research, its pathogenesis remains largely elusive.
+Recent studies indicate that the regulator of G protein signaling 3 (RGS3) is implicated in tumorigenesis, however, its specific role in OC development has not been extensively investigated.
+Herein, this research elucidated that the overexpression of RGS3 in OC correlates with adverse clinical pathological features and tumor progression.
+Furthermore, we demonstrated that silencing RGS3 promotes apoptosis, effectively inhibiting tumor growth and metastasis.
+Additionally, our findings reveal that RGS3 enhances oncogenic activity by participating in the regulation of the transforming growth factor-beta (TGF-β) pathway and corresponding epithelial-mesenchymal transition (EMT).
+The in-depth mechanism lies in the RGS3 facilitating the phosphorylation of SMAD2/3 by directly interacting with AT-rich interactive domain-containing protein 3B (ARID3B), which ultimately drives OC cell proliferation and metastasis.
+Therefore, our results position RGS3 as a significant prognostic biomarker and tumor-promoting factor in OC, underscoring the pivotal role of the RGS3/TGF-β/EMT signaling pathway in the pathogenesis of this malignancy.

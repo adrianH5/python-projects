@@ -1,0 +1,8 @@
+Osteosarcoma (OS) is a highly malignant bone tumor that primarily affects children, adolescents, and young adults.
+Despite significant progress in chemotherapy, surgery, and limb salvage surgery, the prognosis for patients with high-grade or metastatic OS remains poor.
+This study explores the role of SAC3D1 gene in OS and its potential as a prognostic marker and therapeutic target.
+Through analysis of public databases and experimental verification, we found that SAC3D1 is significantly upregulated in OS tissues and cell lines and is associated with poor prognosis in patients.
+Functional enrichment analysis suggests that SAC3D1 may promote the progression of OS by regulating cell cycle, DNA repair, and immune microenvironment pathways.
+In addition, the expression level of SAC3D1 is associated with the tumor immune microenvironment and immune therapy response.
+In vitro experiments further confirmed that knocking down SAC3D1 significantly inhibited the proliferation, migration, and invasion ability of OS cells, while its overexpression enhanced these malignant biological behaviors.
+In summary, SAC3D1 has important prognostic and therapeutic potential in OS, and may serve as a novel independent prognostic marker and therapeutic target for OS.

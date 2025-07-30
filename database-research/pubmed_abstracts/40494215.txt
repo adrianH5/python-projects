@@ -1,0 +1,8 @@
+In light of the growing global cancer burden, the development of novel therapeutic strategies is urgently needed.
+Recently, pathogens have been examined for their potential in immunotherapy, with Toxoplasma gondii (T. gondii) emerging as an unexpected yet promising candidate.
+Given the widespread prevalence of T. gondii, particularly in tropical regions where climatic conditions favor the oocyst transmission, understanding its therapeutic potential may have far-reaching implications for global health.
+This review explores the potential of T. gondii as a cancer immunotherapy by examining various T. gondii variants characterized in current studies.
+It highlights the multifaceted mechanisms behind T. gondii's anti-cancer properties, including the induction of Th1 immune responses, immunostimulation of the tumor microenvironment, inhibition of angiogenesis, invasion and metastasis, as well as the induction of cancer cell apoptosis.
+However, several challenges hinder the application of T. gondii in immunotherapy, such as safety concerns related to viable T. gondii, its limited efficacy against non-solid tumors, and the need for further validation of non-viable T. gondii components.
+Additionally, the role of humoral immunity and potential synergies with conventional therapies require further investigation.
+Addressing these challenges could significantly enhance the efficacy and safety of T. gondii-based immunotherapy, offering a novel approach to cancer treatment and potentially improving patient outcomes.

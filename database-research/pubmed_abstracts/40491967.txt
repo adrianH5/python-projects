@@ -1,0 +1,9 @@
+The high-resolution three-dimensional (3D) images generated with digital breast tomosynthesis (DBT) in the screening of breast cancer offer new possibilities for early disease diagnosis.
+Early detection is especially important as the incidence of breast cancer increases.
+However, DBT also presents challenges in terms of poorer results for dense breasts, increased false positive rates, slightly higher radiation doses, and increased reading times.
+Deep learning (DL) has been shown to effectively increase the processing efficiency and diagnostic accuracy of DBT images.
+This article reviews the application and outlook of DL in DBT-based breast cancer screening.
+First, the fundamentals and challenges of DBT technology are introduced.
+The applications of DL in DBT are then grouped into three categories: diagnostic classification of breast diseases, lesion segmentation and detection, and medical image generation.
+Additionally, the current public databases for mammography are summarized in detail.
+Finally, this paper analyzes the main challenges in the application of DL techniques in DBT, such as the lack of public datasets and model training issues, and proposes possible directions for future research, including large language models, multisource domain transfer, and data augmentation, to encourage innovative applications of DL in medical imaging.

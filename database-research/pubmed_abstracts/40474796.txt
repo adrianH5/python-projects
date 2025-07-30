@@ -1,0 +1,3 @@
+Per-and polyfluorinated alkyl substances (PFAS) are persistent environmental pollutants with known bioaccumulation potential and growing evidence of association with cancer risk.
+However, the molecular mechanisms potentially linking PFAS exposure to carcinogenesis remain poorly understood.
+This study integrates computational toxicology and bioinformatics approaches to explore how PFAS-related molecular targets and pathways may overlap with those altered in six cancer types: breast carcinoma (BRCA), kidney renal clear cell carcinoma (KIRC), liver hepatocellular carcinoma (LIHC), prostate adenocarcinoma (PRAD), thyroid cancer (THCA), and uterine corpus endometrial carcinoma (UCEC), all of which have been previously implicated in PFAS-related research.

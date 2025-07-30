@@ -1,0 +1,3 @@
+RNAi-based technologies offer the potential to treat cancer effectively, but safe and efficient RNA administration remains a barrier to their clinical adoption.
+In this study, we developed extracellular vesicles (EVs) and a gold nanoparticle (GNP)-based hybrid system for the targeted delivery of therapeutic siRNA.
+We used siRNA to silence the B7-H4 encoding gene (a B7 family immune checkpoint protein, gene

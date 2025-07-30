@@ -1,0 +1,11 @@
+The escalating global cancer burden has driven the development of nanomedicine-based antitumor agents.
+Traditional Chinese herbal medicine (TCHM) provides a valuable source for drug discovery, with natural active product (NAP)-based nanomaterials exhibiting excellent biocompatibility and potent therapeutic efficacy.
+This work develops a novel stimulus-responsive antitumor nanoplatform (ISL@RLP-Fe) based on polysaccharide-flavonoid-iron complexes.
+This system integrates multiple therapeutic modalities by combining the immunostimulatory activity of natural macromolecule Rosa laevigata polysaccharide (RLP), the chemotherapeutic potential of isoliquiritigenin (ISL), and the chemodynamic therapy (CDT) functionality of iron ions.
+ISL@RLP-Fe exhibits dual pH/GSH-responsive characteristics, enabling tumor microenvironment-specific disintegration and drug release.
+In vivo studies using MCF-7 xenograft models reveal that ISL@RLP-Fe significantly reduces tumor mass and inhibits cancer cell migration.
+Mechanistically, ISL@RLP-Fe exerts antitumor effects through multiple pathways.
+Fundamentally, it mediates reactive oxygen species generation and induces apoptosis.
+Concurrently, the iron ions within ISL@RLP-Fe are reduced by GSH, catalyzing Fenton reactions that trigger lipid peroxidation and ferroptosis.
+Furthermore, RLP enhances immune responses by activating dendritic cells, collectively contributing to its antitumor efficacy.
+This study innovatively integrates TCHM components with modern nanotechnology to construct a fully active pharmaceutical ingredient (full-API)-based multifunctional system, providing a promising strategy for cancer combination therapy.

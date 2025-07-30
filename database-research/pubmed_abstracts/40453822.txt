@@ -1,0 +1,8 @@
+Sphingosine kinase 1 (SphK1) is an essential enzyme in sphingolipid metabolism, catalyzing the phosphorylation of sphingosine to produce sphingosine-1-phosphate (S1P), a bioactive lipid with diverse roles in cell proliferation, survival, and migration.
+Dysregulation of the SphK1/S1P axis is implicated in a variety of pathological conditions, including inflammatory, metabolic, and neurodegenerative diseases.
+Targeting SphK1 represents a promising therapeutic strategy, particularly in oncology and inflammation-related pathologies.
+In this study, we investigated the potential of three natural compounds, Baicalin (BA), Naringenin (NR), and Noscapine (NS) as SphK1 inhibitors.
+Through combined molecular docking, molecular dynamics simulations, binding studies and enzyme inhibition assays, we identified these compounds as effective SphK1 inhibitors.
+BA, NR, and NS exhibited binding affinities characterized by IC50 values of 26.542, 32.157, and 28.134 μM, respectively.
+These molecules bind to the active site of SphK1 with favorable binding energies with strong non-covalent interactions.
+This study provides structural and functional insights into potential of BA, NR, and NS to target SphK1 selectively, which can function as lead compounds for developing novel anti-cancer therapy with minimal off-target effects, offering avenues for developing drugs with enhanced specificity and affinity for this enzyme.

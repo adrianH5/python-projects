@@ -1,0 +1,8 @@
+The human epidermal growth factor receptor (HER2), part of the tyrosine kinase family, serves as a key therapeutic target for patients with breast cancer, particularly those with HER2 overexpression.
+HER2 is overexpressed or amplified in approximately 15-20% of breast cancers.
+It includes HER1, HER2, HER3, and HER4, which progress the growth of cancerous cells.
+Key signaling pathways involved in HER2-driven breast cancer progression include the MAPK and mTOR pathways, which activate a cascade of factors that promote DNA synthesis and cell growth.
+A crucial process in HER2 cancer development is HER2 dimerization, which forms a functional oncogenic unit and is followed crucially by HER2:HER3 heterodimerization that leads to downstream signaling pathways.
+Alterations in the HER2 in solid tumors and ERBB2 gene mutations have led to advancements and implantation of precision-targeted approaches, as well as to combat the issues from the traditional approaches of targeting.
+In this review, we have thoroughly discussed different HER2-targeting therapies, which include monoclonal antibodies, antibody-drug conjugates, tyrosine kinase inhibitors, poly (ADP-ribose) polymerase inhibitors, CDK4/6 inhibitors, molecular probes targeting by PET/CT imaging, cancer vaccines, and cell therapies like CART-T and CAR-M cell therapy.
+Some of these targeted therapies have shown effectiveness in managing HER2-positive breast cancer and promoting tumor regression, while some remain under investigation for their potential benefits.

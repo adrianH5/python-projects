@@ -1,0 +1,6 @@
+Triple-negative breast cancer (TNBC), characterized by the absence of estrogen receptor (ER), progesterone receptor (PR), and human epidermal growth factor receptor type 2 (HER2) expression, represents a therapeutic challenge due to its aggressive nature and limited treatment options.
+Here, we identified the cholesterol-lowering drug lovastatin (LV) as a potent apoptosis-inducing agent in TNBC.
+Mechanistically, LV disrupts the interaction between the deubiquitinating enzyme USP14 and Survivin, a key anti-apoptotic protein, enhancing polyubiquitination and the proteasomal degradation of Survivin.
+The overexpression of USP14 was found to stabilize Survivin and rescue LV-induced apoptosis and tumor suppression in vitro and in vivo, whereas USP14 silencing or inhibition with IU1 (a USP14-specific inhibitor) enhanced Survivin turnover and synergized with LV to suppress colony formation in TNBC cells.
+Clinical relevance was demonstrated through bioinformatic analysis and immunohistochemistry, revealing that elevated Survivin expression in TNBC tissues correlated with poor prognosis and is significantly upregulated in TNBC versus non-TNBC tissues.
+Our findings identify the USP14-Survivin axis as a potential therapeutic target and highlight LV as a promising candidate for TNBC treatment.

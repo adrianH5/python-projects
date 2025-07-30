@@ -1,0 +1,10 @@
+Deep learning enables the modelling of high-resolution histopathology whole-slide images (WSI).
+Weakly supervised learning of tile-level data is typically applied for tasks where labels only exist on the patient or WSI level (e.g.
+patient outcomes or histological grading).
+In the weakly supervised learning context, there is a need for a methodology that facilitates the identification of the precise spatial regions in WSI that drive the prediction of the slide label.
+Such information is also needed for any further spatial interpretation of predictions from such models.
+We propose a novel method, Wsi rEgion sElection aPproach (WEEP), for model interpretation.
+It provides a principled yet straightforward way to establish the spatial area of WSI required for assigning a particular prediction label.
+We demonstrate WEEP on a binary classification task in the area of breast cancer computational pathology.
+WEEP facilitates the identification of spatial regions in WSI that are driving the decision making of a particular weakly supervised learning model, which can be further visualised and analysed to provide spatial interpretability of the model.
+The method is easy to implement, is directly connected to the model-based decision process, and offers information relevant to both research and diagnostic applications.

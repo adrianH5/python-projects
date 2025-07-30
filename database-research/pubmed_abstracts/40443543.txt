@@ -1,0 +1,8 @@
+Breast magnetic resonance imaging (MRI) is the most sensitive imaging method for diagnosing breast cancer and assessing treatment response.
+Artificial intelligence (AI) and radiomics offer new opportunities to identify patterns in imaging data, supporting personalized post-neoadjuvant surgical decisions.
+This paper reviewed breast MRI-based AI models for predicting outcomes after neoadjuvant therapy, with a focus on evidence from the Western Pacific region, to evaluate the quality of existing models, discuss their inherent limitations, and outline potential future directions.
+A literature search in MEDLINE, EMBASE, and Web of Science identified 51 relevant studies in the region, with the majority conducted in China, followed by South Korea and Japan.
+Most studies focused on predicting pathologic complete response (pCR), with a median sample size of 152 and largely retrospective single-center designs.
+Model performance was commonly assessed using validation sets, with pooled sensitivity and specificity for pCR prediction showing promising results.
+Models incorporating multitemporal MRI features were associated with improved accuracy.
+While MRI-based AI models show potential for guiding surgical planning, improved methodological quality and algorithmic explainability are needed to facilitate clinical translation.

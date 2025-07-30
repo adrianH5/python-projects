@@ -1,0 +1,9 @@
+Autophagy, a critical cellular process for maintaining homeostasis, involves the degradation and recycling of cellular components through double-membraned vesicles that are transported to lysosomes.
+This mechanism plays a pivotal role in the immune system by influencing cell fate decisions and functional differentiation.
+Emerging evidence indicates that autophagy significantly impacts the differentiation and function of T cells and group 3 innate lymphoid cell (ILC3), which are the primary producers of Interleukin-22 (IL-22).
+IL-22, a key cytokine involved in modulating immune responses and maintaining tissue integrity, is particularly important in combating inflammatory diseases, infections, and cancer.
+It exerts its effects through a signaling pathway that involves the IL-22R1 and IL-10R2 receptors.
+Studies have demonstrated that IL-22 can promote autophagy by activating the AMPK pathway and that its intervention can upregulate the expression of autophagy-related genes, underscoring its significant role in the regulation of autophagy.
+These findings reveal a complex relationship and bidirectional relationship between autophagy and IL-22, highlighting their multifaceted interactions under both physiological and pathological conditions.
+This review aims to provide a detailed exploration of the dynamic interplay between autophagy and IL-22, with a focus on their mutual regulatory mechanisms, functional significance, and potential for therapeutic interventions.
+By performing a comprehensive analysis, we sought to clarify the intricate cross talk between autophagy and IL-22, thereby advancing our understanding of their roles in cellular and immune homeostasis and their potential as targets for clinical interventions.

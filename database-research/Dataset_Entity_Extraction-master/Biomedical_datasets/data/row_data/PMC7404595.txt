@@ -1,0 +1,10 @@
+As of 26 March 2020, 72 genes of SARS‐CoV‐2 strains obtained from humans have been collected on GISAID (http://gisaid.org/).
+To eliminate the recombination in the dataset, we used splitstreev4.15.1.
+According to the Bayesian information criterion (BIC) method implemented in the jModelTest v2.1.10 software,
+, 
+ the most suitable nucleotide substitution model for this genomic data set is HKY +
+To set the time scale prior for the dataset, we used a constrained evolution rate with a Log‐normal prior averaged at 10−3 by substitution per site per year.
+For the SARS‐CoV‐2 genomic dataset from the three geographic locations (Shanghai, Italy, and Spain) the most suitable model was HKY + 4 according to the BIC method.
+Phylogenetic analyzes of the SARS‐CoV‐2 dataset, using the Bayesian multi‐type birth‐death model and molecular clock calibration, showed an estimate of the rate of evolution of whole genome sequences SARS‐CoV‐2 at 2.11 × 10−3 substitutions per site per year (95% highest posterior density [HPD]: 1.56 × 10−3 to 3.89 × 10−3).
+To do this, we reported the phylodynamic and phylogeographic results, proposing the implementation of molecular modeling based on the multi‐type birth‐death model implemented in Beast2, using heterochromatic genomic data retrieved from the GISAID repository.
+A tree of maximum credibility was constructed using the 72 entire genome sequences of this virus, from the three countries (China, Italy, and Spain) available as of 26 March 2020 on the GISAID reference frame.

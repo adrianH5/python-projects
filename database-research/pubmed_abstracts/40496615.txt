@@ -1,0 +1,2 @@
+Molecular biomarkers have the potential to improve the current state of early screening of lung cancer.
+This investigation aimed to identify novel protein markers for early-stage lung cancer and combine them with traditional tumor markers to develop machine learning models for lung cancer screening.

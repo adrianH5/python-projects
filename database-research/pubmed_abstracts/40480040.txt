@@ -1,0 +1,8 @@
+Cancer has become a major global health challenge, and current treatment modalities, including surgery, radiotherapy, chemotherapy, targeted therapy, and immunotherapy, all have inherent limitations.
+In recent years, nanotechnology, particularly carbon-based nanozymes, has emerged as a promising approach in cancer therapy.
+Carbon-based nanozymes, as a novel class of catalysts, offer excellent biocompatibility, low toxicity, and good stability.
+They can catalyze reactions that generate reactive oxygen species (ROS), which directly kill cancer cells or enhance the bioavailability of therapeutic agents, thereby improving treatment efficacy.
+Compared to conventional nanozymes, carbon-based nanozymes are easier to synthesize, more versatile, and exhibit greater durability, making them highly promising for cancer therapy.
+This review aims to provide a comprehensive overview of the classifications, catalytic mechanisms, and applications of carbon-based nanozymes in cancer therapy, with a focus on catalytic and multimodal treatment strategies.
+It highlights the unique advantages of carbon-based nanozymes and discusses the current state of research in this field.
+By synthesizing the available literature, this review offers valuable insights for researchers and encourages further exploration of carbon-based nanozymes in cancer treatment.

@@ -1,0 +1,8 @@
+High-intensity focused ultrasound (HIFU) is a novel non-invasive technique with tremendous potential applications.
+However, ensuring effectiveness and safety of HIFU therapy remains a substantial challenge.
+Changing the acoustic environment of tumor tissues is an emerging way to solve this problem.
+In this study, we successfully constructed a bacteria-based nanocomposite, consisting genetically engineered bacteria (GVs-E.coli) and perfluorohexane/poly(lactic-co-glycolic acid) (PFH/PLGA) nanoparticles, which is denoted as GVs-E@PP NPs.
+We demonstrated that GVs-E@PP NPs could selectively target and proliferate in the tumor sites, and enhance the efficacy of HIFU therapy by changing the acoustic environment of tumor tissues.
+Specifically, they induced an increase in collagen fibers, elastic modulus, sound velocity and sound attenuation within tumor tissues, while simultaneously reducing tumor angiogenesis.
+These comprehensive changes facilitated the therapeutic efficacy of HIFU treatment.
+In summary, this approach represents an innovative therapeutic strategy to enhance HIFU synergy in tumor treatment.

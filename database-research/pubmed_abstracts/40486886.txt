@@ -1,0 +1,8 @@
+As a rising immune checkpoint on tumor cells, CD24 is closely related to tumorigenesis and progression.
+CD24 can directly regulate the malignant behavior of tumor cells and indirectly inhibit the function of immune cells in the meantime, which promotes the immune escape of tumor cells, induces cancer invasion and causes poor prognosis.
+The basic principle of cancer treatment is to induce cell death and inhibit cell survival.
+Resistance to chemoradiotherapy is a critical challenge in oncology, which limits the effectiveness of anti-cancer treatments.
+Many studies have shown a strong association between CD24 and chemoradiotherapy resistance in tumor cells, but the specific mechanism remains unclear.
+Understanding the mechanisms that CD24 induces chemoradiotherapy resistance may allow us to develop new promising therapeutic strategies to enhance the efficacy of chemoradiotherapy and improve clinical outcomes in the treatment of cancer patients.
+In this review, we summarized the basic characteristics and functions of CD24, as well as its role in the development of cancer.
+We focused on the resistance to radiotherapy and chemotherapy mediated by CD24, deciphered fundamental mechanisms and introduced existing clinical studies, with an attempt to propose potential solutions for future explorations.

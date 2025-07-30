@@ -1,0 +1,8 @@
+This in vitro study evaluates the effects of varying concentrations of lard and ethiodized-oil (Lipiodol) on temperature changes and ice ball diameters during cryotherapy.
+A phantom was constructed using six glass bottles, one filled with 0.9 % normal saline (NS) and the others containing agar phantoms mixed with different proportions of lard and NS (0 %, 10 %, 40 %, 70 %, and 100 % lard).
+Similarly, a phantom was prepared with ethiodized-oil.
+Six cryoprobes were inserted into the bottles, and freezing was initiated simultaneously, with temperature readings recorded every 10 s over a 9-min freezing period.
+CT scans were performed before freezing and at 3, 6, and 9 min post-freezing to measure ice ball diameters, with each phantom undergoing a single freezing cycle.
+Phantoms with lard or ethiodized-oil showed increased freezing rates with higher concentrations, stabilizing at approximately -140 to -150 °C.
+The largest ice ball diameters were observed in the 0 % and 10 % lard and ethiodized-oil phantoms.
+Negative correlations were identified between ice ball diameter and lard concentration at 3, 6, and 9 min (R

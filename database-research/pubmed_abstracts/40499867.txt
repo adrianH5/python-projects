@@ -1,0 +1,9 @@
+Breast cancer remains a leading cause of cancer-related mortality in women, accounting for 23.8 % of all female cancer cases.
+Existing therapies often lack tumor specificity, leading to severe off-target toxicity, dose-limiting side effects, and poor patient compliance.
+These limitations underscore the urgent need for innovative strategies that enhance therapeutic precision.
+AS1411 aptamer-based nanomaterials have emerged as a transformative solution, leveraging the aptamer's high-affinity binding to nucleolin, a receptor overexpressed on breast cancer cells, to enable targeted drug delivery, imaging, and combinatorial therapies.
+This review explores the potential applications of AS1411-based nanoformulations and discussed various nanoformulations for the same in the treatment of breast cancer.
+Notably, categorizing advancements into platforms including DNA nanocarriers (e.g., MUC1-Td-AS1411 nanoscaffold), which enhance drug retention and therapeutic outcomes; polymeric nanoparticles (e.g., AS1411-functionalized AuNBP-Gd₂O₃/dBSA), which provide controlled release and improved cellular uptake; and metallic nanoparticles (e.g., AS1411-functionalized AuNBP-Gd₂O₃/dBSA), which enable dual-modal imaging and effective tumor ablation.
+These advancements highlight the multifunctional potential of AS1411-based nanoformulations in advancing breast cancer treatment, which combine precise targeting with reduced systemic toxicity, and compatibility.
+However, challenges such as large-scale synthesis complexity, immunogenicity of DNA-based carriers, and regulatory barriers must be addressed to facilitate clinical translation.
+Collaborative efforts to optimize scalable manufacturing and conduct comprehensive immunotoxicity studies will be pivotal in advancing these nanotherapeutics from preclinical promise to clinical reality, ultimately offering a safer, more effective paradigm for breast cancer treatment.

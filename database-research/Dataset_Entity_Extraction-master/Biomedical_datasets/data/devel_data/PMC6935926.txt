@@ -1,0 +1,8 @@
+On these grounds, there is an aspiration to generate new diagnostic tests that combine speed (incorporating the potential for POCT [18, 19]), sensitivity, detection of coinfection (20, 21), and generation of quantitative or semiquantitative data that can be used to identify drug resistance and reconstruct phylogeny to inform surveillance, public health strategy, and vaccine design.
+The reads were first taxonomically classified against the RefSeq database using Centrifuge v1.0.3 (31).
+The resulting draft consensus sequences were subjected to a BLAST search against an influenza virus sequence database that included >2,000 H1N1 and H3N2 seasonal influenza virus sequences between 2018 and 2019 and were downloaded from the Influenza Research Database (33).
+Based on this small data set, sensitivity is 83% and specificity is 100% (95% CI, 67 to 93% and 69 to 100%, respectively).
+Infectious Diseases Society of America (IDSA) guidelines (9) recommend nasal/nasopharyngeal specimens for influenza diagnosis, but throat swabs are easier to collect in clinical practice and therefore account for the majority of diagnostic samples processed by our clinical microbiology laboratory.
+In our test set, 8% of samples showed insufficient sensitivity for Hazara virus; however, half of these contained a high titer of influenza virus, so only 4% were true sensitivity failures.
+Assessment of diversity within deep-sequence data sets provides an opportunity to investigate the relationship between within-host polymorphisms and clinical outcomes.
+Larger and more diverse data sets will be required to set more rigorous thresholds for base calling.

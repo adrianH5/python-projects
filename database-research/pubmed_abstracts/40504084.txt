@@ -1,0 +1,10 @@
+The poor prognosis of clear cell renal cell carcinoma (ccRCC) is primarily attributed to inherent resistance and malignant progression, yet the underlying mechanism and effective strategies remain poorly understood.
+Renal drug transporters play an indispensable role in regulating the intracellular concentration of tumor cells.
+Therefore, this study aims to investigate the role of proton-coupled oligopeptide transporter 2 (PEPT2) in ccRCC.
+PEPT2 was found to be downregulated in ccRCC tissues and cell lines, and its low expression was associated with an unfavorable prognosis in ccRCC patients.
+Overexpression of PEPT2 inhibited cell proliferation and metastasis both in vitro and in vivo.
+Furthermore, the transcriptional repression of PEPT2 was attributed to DNMT3A/B mediated methylation of its promoter, which could be reversed by the epigenetic inhibitor decitabine, leading to the restored expression and functional transport activity of PEPT2.
+Importantly, the combination treatment with decitabine (an epigenetic inhibitor) and a lenalidomide-dipeptide conjugate (a substrate for PEPT2) significantly enhanced cytotoxicity against ccRCC cells both in vitro and in vivo.
+Our investigation into the epigenetic repression of PEPT2 promoters has revealed a significant role in the progression of ccRCC.
+Furthermore, our findings demonstrate that the combination of PEPT2-targeted lenalidomide with epigenetic therapy effectively enhances cytotoxicity in ccRCC cells.
+This study provides compelling experimental evidence for the potential therapeutic benefit of targeting PEPT2 in the treatment of ccRCC.

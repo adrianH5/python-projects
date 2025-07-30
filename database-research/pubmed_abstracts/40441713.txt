@@ -1,0 +1,9 @@
+Autophagy suppresses tumorigenesis in normal cells, but in established tumors, it can promote tumor progression, particularly by enhancing resistance to stress.
+However, the mechanism underlying this tumor-promoting function remains unclear.
+To investigate this, we adopted an interdisciplinary approach combining database analysis with experimental validation.
+Specifically, by classifying the autophagy-related genes using AutoML analysis on their expression patterns in the COSMIC database, we identified an autophagy subnetwork that correlated with the PLK1-RAD9A axis, a pathway we had previously linked to genotoxic resistance.
+Cell-based experiments confirmed that autophagy enhanced PLK1 expression at both the transcriptional and translational levels, facilitating genotoxic resistance.
+Notably, in stressed S-phase cells, we found that PLK1 expression levels varied among individual cells, yet overall cell population acquired genotoxin resistance.
+The genotoxin resistance in the cell population with heterogeneous PLK1 expression was driven by autophagy by facilitating the secretion of currently unidentified factors, likely by switching funtion of RAD9A from DNA checkpoint to substance secretion.
+Together our data demonstrate that intra-tumor heterogeneity contributes to the malignant features of tumors through an autophagy-PLK-RAD9A axis that promotes intercellular communication via secretion.
+(180 words).

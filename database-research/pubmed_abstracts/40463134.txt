@@ -1,0 +1,4 @@
+Treatment-induced neuroendocrine prostate cancer (t-NEPC) is a lethal, castration-resistant subtype of prostate cancer.
+While t-NEPC typically arises from adenocarcinoma through neuroendocrine transdifferentiation after androgen pathway inhibition, the temporal dynamics and molecular drivers of this process remain poorly understood.
+Here, utilizing the first-in-field patient-derived xenograft (PDX) model of adenocarcinoma-to-NEPC transdifferentiation (LTL331/331R), we performed longitudinal single-cell transcriptomic sequencing (scRNA-seq) across seven timepoints spanning pre-castration to relapsed NEPC.
+Our analysis demonstrated 15 distinct cell clusters, including twelve adenocarcinoma clusters and two NEPC clusters (

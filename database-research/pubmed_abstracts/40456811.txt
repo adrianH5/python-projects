@@ -1,0 +1,8 @@
+Current research indicates that neuronal cells exhibit morphological alterations when subjected to mechanical force, yet the correlation between cellular shape modification and applied force remains ambiguous.
+Here, we apply mechanical impact on neuroblastoma SHSY5Y 2D-cultured cells and observe the roles of impact intensity and direction on the morphological and physiological changes in the cells.
+We have also attempted to find the threshold of acceleration that leads to irrecoverable cell damage.
+We applied unidirectional lateral and axial loadings to the cells using a drop tower and a spring-loaded impactor, respectively.
+We also observed the immunoassayed cells for over 30 min and regarded a cell as an "unhealthy cell" when its shape becomes circular.
+We recorded the impact induced accelerations using surface mounted accelerometers and fluid motion profile by high-speed imaging and we propose a simplified dynamic loading model representing the combined fluid and impact force in terms of a spring and dashpot.
+This force is experienced by the cells inside the cell medium, and we observed that, for the same range of acceleration, the axial loading is more detrimental to the cells than the lateral loading.
+In general, for axial loading we observe that acceleration above 550 g is damaging to the cells while for lateral loading even at 1400 g cells are modestly affected.

@@ -1,0 +1,10 @@
+Eicosanoids are lipid mediators derived from arachidonic acid that play crucial roles in inflammation, homeostasis, and cancer biology.
+Distinct enzymes produce them in a cell- and context-dependent manner.
+We previously reported altered arachidonic acid levels in plasma from non-small cell lung cancer (NSCLC) patients from the Polish Molecular Biomarkers for Individualized Therapy (MOBIT) study.
+Based upon these findings, we investigated the role of cyclooxygenase (COX) and lipoxygenase (LOX) eicosanoid products in lung cancer.
+We quantified urinary eicosanoids in 357 NSCLC patients and 119 controls using LC-MS/MS to explore their relevance to lung cancer.
+The targeted panel included 24 metabolites: 19 eicosanoids, 2 soluble epoxide hydrolase (sEH)-derived linoleic acid products, 2 steroid hormones, and 1 COX inhibitor.
+The NSCLC cohort was stratified into 148 adenocarcinoma (ADC) and 162 squamous cell carcinoma (SCC) cases, with 202 early-stage (TNM IA-IIB) and 64 advanced-stage (TNM IIIA-IV) patients.
+Grading further classified the cohort into 13 G1, 82 G2, and 82 G3 cases.
+Four eicosanoids were significantly elevated in NSCLC patients.
+TetranorPGJM (1.49-fold, p-value<0.0001) and 11-dehydro-TXB

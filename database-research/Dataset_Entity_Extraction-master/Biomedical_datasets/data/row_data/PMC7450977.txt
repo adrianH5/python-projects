@@ -1,0 +1,7 @@
+They were not considered to be highly pathogenic to humans until the last two decades, which have seen three outbreaks of highly transmissible and pathogenic coronaviruses, including SARS-CoV (severe acute respiratory syndrome coronavirus), MERS-CoV (Middle East respiratory syndrome coronavirus), and SARS-CoV-2 (which causes the disease COVID-19).
+In the face of the ongoing COVID-19 pandemic, extensive worldwide research efforts have focused on identifying coronavirus genetic variation and selection [6–8], in order to understand the emergence of host/tissue specificities and to help develop efficient prevention and treatment strategies.
+Viral genome sequences were downloaded from the Genbank database, as shown in Table 1.
+We set the threshold for prediction of a functional ORF to be XME ≥ 5 (i.e. XME score in the reading frame ≥5), based on our benchmark studies (data not shown) of experimentally validated ORFs in a large set of 80 genomes [15] covering a wide range of viruses (including single-stranded and double-stranded DNA viruses and single-stranded and double-stranded RNA viruses).
+To avoid any statistical bias, coronavirus genome sequences were excluded from the benchmark.
+This ORF is not annotated in the SARS-CoV-2 reference genome (MT072688), but is annotated as ORF3b in the genome of another SARS-CoV-2 strain isolated from the first U.S. case of COVID-19 (MN985325).
+The datasets analysed during the current study are available in the Genbank viral genomes database, https://www.ncbi.nlm.nih.gov/genome/viruses/

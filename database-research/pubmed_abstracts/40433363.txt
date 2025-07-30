@@ -1,0 +1,8 @@
+The tumor microenvironment (TME) is characterized by distinct metabolic adaptations that not only drive tumor progression but also profoundly influence immune responses.
+Among these adaptations, lactate, a key metabolic byproduct of aerobic glycolysis, accumulates in the TME and plays a pivotal role in regulating cellular metabolism and immune cell function.
+Tumor-associated macrophages (TAMs), known for their remarkable functional plasticity, serve as critical regulators of the immune microenvironment and tumor progression.
+Lactate modulates TAM polarization by influencing the M1/M2 phenotypic balance through diverse signaling pathways, while simultaneously driving metabolic reprogramming.
+Furthermore, lactate-mediated histone and protein lactylation reshapes TAM gene expression, reinforcing their immunosuppressive properties.
+From a therapeutic perspective, targeting lactate metabolism has shown promise in reprogramming TAMs and enhancing anti-tumor immunity.
+Combining these metabolic interventions with immunotherapies may further augment treatment efficacy.
+This review underscores the crucial role of lactate in TAM regulation and tumor progression, highlighting its potential as a promising therapeutic target in cancer treatment.

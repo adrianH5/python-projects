@@ -1,0 +1,3 @@
+Novel diagnostic criteria for glioblastoma (GBM) in the 2021 WHO classification emphasize the importance of integrating pathological and molecular features.
+Pathomics, which involves the extraction of digital pathology data, is gaining significant interest in the field of tumor research.
+This study aimed to construct and validate a nomogram based on machine-learning pathomics for patients with GBM.

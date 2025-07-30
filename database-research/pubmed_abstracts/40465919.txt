@@ -1,0 +1,8 @@
+In Brazil, 704,000 cases of cancer have been estimated for the 2023-2025 triennium, with breast cancer being the most common type, accounting for 10.37% of the total.
+The organization of care networks is based on the regionalized model.
+However, this structure means that patients are sometimes obliged to travel long distances to receive the diagnosis and treatment.
+Patient displacement has been the subject of studies worldwide.
+In the international context, the focus is on analyzing the association between displacement and clinical outcome.
+On the national scene, the focus is still restricted to the characterization of displacement, and for this purpose, it uses the database of the outpatient information system (SIA-SUS).
+In view of the need to evaluate the use of a database that allows more detailed analysis of patient displacement, the scope of this study was to present the development of a computational tool for analyzing the displacement of patients undergoing breast cancer treatment in the SUS, using data from the Hospital Cancer Registry (RHC).
+The tool was developed and implemented, and, despite potential limitations, it proved to be efficient in generating information.

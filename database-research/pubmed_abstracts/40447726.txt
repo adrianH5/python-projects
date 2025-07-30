@@ -1,0 +1,8 @@
+Breast cancer diagnosis remains a crucial challenge in medical research, necessitating accurate and automated detection methods.
+This study introduces an advanced deep learning framework for histopathological image classification, integrating AlexNet and Gated Recurrent Unit (GRU) networks, optimized using the Hippopotamus Optimization Algorithm (HOA).
+Initially, DenseNet-41 extracts intricate spatial features from histopathological images.
+These features are then processed by the hybrid AlexNet-GRU model, leveraging AlexNet's robust feature extraction and GRU's sequential learning capabilities.
+HOA is employed to fine-tune hyperparameters, ensuring optimal model performance.
+The proposed approach is evaluated on benchmark datasets (BreakHis and BACH), achieving a classification accuracy of 99.60%, surpassing existing state-of-the-art models.
+The results demonstrate the efficacy of integrating deep learning with bio-inspired optimization techniques in breast cancer detection.
+This research offers a robust and computationally efficient framework for improving early diagnosis and clinical decision-making, potentially enhancing patient outcomes.

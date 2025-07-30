@@ -1,0 +1,4 @@
+Sorafenib (Sor), a multi-kinase inhibitor, serves as the first-line systemic therapeutic drug for advanced hepatocellular carcinoma (HCC).
+Unfortunately, clinical benefit was confirmed in only a minority of patients, limiting clinical application of Sor.
+Using nanotechnology to enhance the therapeutic effect of anti-cancer drugs has become a major trend.
+Accordingly, a Fe(III)-based metal-organic framework (MOF) nanocarrier encapsulating Sor (Sor@Fe-MOF) with ferroptosis/immune activation functions was constructed for HCC therapy.

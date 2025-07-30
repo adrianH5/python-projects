@@ -1,0 +1,10 @@
+Resistance limits the efficacy and durability of immune checkpoint inhibitors (ICIs) in hepatocellular carcinoma (HCC).
+Therefore, we conducted a retrospective cohort study to investigate the outcomes and characteristics of HCC patients with resistance to immunotherapy.
+Patients with HCC who have received ICIs at Eastern Hepatobiliary Surgery Hospital between 2016 and 2021 were retrospectively screened and divided into primary resistance, secondary resistance, and durable response group.
+Time to progression (TTP), overall survival (OS), subsequent management and post-progression survival (PPS) were analyzed.
+Of 496 patients included, 229 (46.2%) and 141 (28.4%) patients developed primary and secondary resistance, and 126 (25.4%) patients achieved a durable response, the median TTP was 2.83 [2.56-3.09] months, 11.93 [10.45-13.40] months, and not reached, respectively, whereas the median OS was 12.83 [10.36-15.30] months, 31.53 [28.09-34.97] and not reached, respectively.
+Multivariate logistic regression revealed that Child-Pugh score, BCLC stage, and combined systemic therapies (ICI plus bevacizumab or lenvatinib versus ICI monotherapy) were independently associated with primary resistance, and only combined systemic therapies (ICI plus bevacizumab versus ICI monotherapy) were independently associated with secondary resistance.
+AFP levels were independently associated with PPS in patients with primary resistance, while post-progression therapies (ICI-based therapies versus others) were independently associated with PPS in patients with resistance.
+The risk of resistance was notably lower in patients receiving the combination of ICI plus bevacizumab.
+High AFP levels were associated with the survival of patients with primary resistance.
+ICI-based maintenance therapy after resistance may provide a significant survival advantage for HCC patients.

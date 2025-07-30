@@ -1,0 +1,8 @@
+Globally, prostate cancer (PCa) ranks as one of the most frequent malignant tumors in men, with metastasis and drug resistance significantly impacting clinical outcomes.
+Traditionally, cancer metastasis and drug resistance were regarded as separate research fields, but growing evidence now indicates a close interrelationship between them.
+Metastasis sets the stage for the development of drug resistance, and the emergence of resistance, in turn, enhances cancer metastasis through different mechanisms.
+Additionally, there are shared signaling pathways and regulatory mechanisms between metastasis and drug resistance, which interact and influence each other.
+This review provides a comprehensive overview of the advantages and limitations of various in vivo and in vitro models used to study metastasis and drug resistance in PCa.
+It also thoroughly investigates the common mechanisms underlying PCa metastasis and drug resistance, with particular emphasis on the roles of the androgen receptor signaling pathway, the tumor microenvironment, and cellular signaling pathways.
+Additionally, this review summarizes the therapeutic agents and investigational drugs under clinical trials for PCa, noting that existing research tends to focus on one aspect of the disease (either metastasis or drug resistance), rather than addressing both issues simultaneously.
+Through a systematic analysis of existing research, future drug development should prioritize the integrated regulation of these shared mechanisms, aiming to achieve dual inhibition of PCa metastasis and drug resistance.

@@ -1,0 +1,18 @@
+SARS-CoV-2 has caused coronavirus disease 2019 (COVID-19) across the country and abroad.
+A total of 83 157 COVID-19 cases with 4.02% mortality has been reported in China up to 7 April 2020 [4].
+A COVID-19 patient usually presents with fever, a nonproductive cough, myalgia and malaise.
+The transmission dynamics of COVID-19 in hospitals in the initial period, especially among HCWs, are important for deeper understanding of the epidemiology of the disease.
+Nasopharyngeal and/or oropharyngeal swabs were obtained from all COVID-19 cases for SARS-CoV-2 nucleic acid assay, and 22 were processed using whole-genome sequencing.
+After the 25 HCWs' onset of illness, 10 out of 43 family members were confirmed as COVID-19 cases via nucleotide tests.
+In summary, from 5 to 29 January 2020, 25 HCWs and 10 family members out of seven families were diagnosed with COVID-19 in a single hospital.
+We obtained 12 whole-genome sequences (GenBank accession numbers MT079843–MT079854) after implementing de novo sequencing from 22 swab specimens from 22 COVID-19 patients.
+Sequencing analysis of the sequences of 12 COVID-19 cases.
+WHUHnCoV001–WHUHnCoV008, WHUHnCoV011, WHUHnCoV012, WHUHnCoV0020 and WHUHnCoV021 are the sample IDs.
+The letters following them represent the corresponding patient IDs from figure 1b. a)
+Full-genome structure and mutation information compared with Wuhan-Hu-1 (GenBank accession number NC_0455122).
+At the very early stage of the outbreak of COVID-19 in Wuhan City and Hubei Province in China, we lacked efficient viral identification capacity to diagnose probable COVID-19 cases.
+There were no effective prevention measures in general hospital settings to isolate and manage the suspected COVID-19 cases, or valid containment measures to block the transmission pathways [12].
+HCWs are the highest risk occupational population in outbreaks of such acute respiratory infectious diseases, such as SARS and COVID-19, which are transmitted by contact or respiratory droplets, aerosols or fomites [24].
+Here, we have described several clusters of COVID-19 cases in a hospital, showing person-to-person transmission of SARS-CoV-2, and have assessed the epidemiological features of COVID-19.
+Some patients had no fever but only mild symptoms such as nasal congestion, which may have led to patients being overlooked, causing a wider spread of COVID-19.
+We collected and analysed data on exposure history, illness timelines and epidemiological characteristics from 25 healthcare workers with laboratory-confirmed coronavirus disease 2019 (COVID-19) and two healthcare workers in whom COVID-19 was highly suspected, as well as 10 of their family members with COVID-19, between 5 January and 12 February 2020.

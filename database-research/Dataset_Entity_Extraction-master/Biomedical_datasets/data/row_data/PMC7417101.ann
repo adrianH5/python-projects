@@ -1,0 +1,8 @@
+T1	Repository 69 120	Coronavirus Pandemic Epidemiology Consortium (COPE)
+T2	Repository 548 556	PROSPERO
+T3	AccessionNumber 562 573	42020180878
+T4	Repository 1277 1283	PubMed
+T5	Repository 1295 1342	Cochrane central register for controlled trials
+T6	Repository 1344 1358	Google Scholar
+T7	Repository 1363 1393	Turning Research Into Practice
+R1	hasAttr	Arg1:T2	Arg2:T3

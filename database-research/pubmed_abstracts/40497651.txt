@@ -1,0 +1,11 @@
+In acute lymphoblastic leukemia (ALL), hypermethylation of the asparagine synthetase (ASNS) gene promoter, leading to low levels of ASNS in tumor cells, is recognized as a prognostic biomarker, and l-asparaginase-based treatments (e.g., Asparlas) are frequently administered to these patients.
+In these cancers, tumor cells rely on external asparagine, and its depletion in the bloodstream results in tumor cell apoptosis.
+A multiomics (imaging) workflow is required to evaluate key molecular changes and characterize solid tumors to explore the potential efficacy of Asparlas in solid tumors.
+This study introduces a multiomics imaging workflow applicable to solid tumor specimens for the comprehensive molecular profiling of Asparlas treatment effects.
+The workflow integrates matrix-assisted laser desorption-ionization mass spectrometry imaging (MALDI-MSI), liquid chromatography coupled with high-resolution mass spectrometry, and histopathological staining on consecutive tumor tissue sections.
+It enables the detection and analysis of metabolites, lipids, and proteins.
+Tumor characterization was achieved through histology and clustering analysis based on lipid signatures, yielding consistent annotations.
+On-tissue chemical derivatization followed by MALDI-MSI was performed to assess metabolic alterations, with a focus on amino acids.
+ASNS distribution was mapped utilizing targeted MALDI-immunohistochemistry, followed by untargeted (spatial) proteomics on adjacent tissue sections.
+This study established a multiomics imaging approach and demonstrated its applicability in elucidating the metabolic changes in tumor tissue consequent to Asparlas treatment.
+Furthermore, it highlights the added value of multiomics imaging in pharmaceutical research and development.

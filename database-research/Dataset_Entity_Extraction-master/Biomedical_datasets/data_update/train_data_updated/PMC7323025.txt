@@ -1,0 +1,36 @@
+Coronavirus disease 2019 (COVID‐19) outbreak has led to the reorganization of national health systems in many specialties including medical oncology.
+The host immune system is crucial in determining the clinical course of COVID‐19.
+The severity of COVID‐19 is caused not only by direct viral damage, but also by an impaired immune host reaction, sometimes resulting in an extremely strong inflammatory response leading to airways damage and life‐threatening acute respiratory distress syndrome.
+This interaction may worsen the hyperinflammation with CRS observed in severe cases of COVID‐19, but the antagonism of checkpoint axis like PD‐1/PD‐L1 could also potentially participate in accelerating the resolution of viral infection.
+, 
+ Beyond this complexity, SARS‐CoV‐2 infection in patients with cancer poses also issues related to the differential diagnosis between cancer‐related symptoms or immune‐related adverse events (irAEs) and COVID‐19 manifestations.
+The survey (Appendix S1) was composed of four sections: (a) demographic, training and employment details of respondents (Q1‐8); (b) perception of the risk related to SARS‐CoV‐2 infection in patients with cancer treated with ICIs (Q9‐11); (c) attitudes towards the administration of ICIs and management of toxicities during COVID‐19 outbreak (Q12‐16); and (d) specific questions focused on attitudes towards the prescription of ICIs for the treatment of different cancer types during COVID‐19 outbreak (Q17‐22).
+Figure 2 depicts whether responding physicians have modified their attitudes in the choice of the ICI to administer and its schedule during COVID‐19 outbreak (notably, more than one answer could be selected for this question).
+Two clinical situations were explored to assess the issues related to the differential diagnosis between irAEs and COVID‐19 manifestations in cancer patients treated with ICIs: (a) how to manage a patient with onset of dyspnoea and cough (Figure 4A); (b) how to manage a patient whit onset of diarrhoea (Figure 4B).
+Moreover, besides the overlapping between cancer‐related signs/symptoms or side effects of oncological treatments (including irAEs) and COVID‐19 manifestations, additional issues could emerge from the differential diagnosis between radiological findings of lung involvement from SARS‐CoV‐2 and pneumonitis induced by ICIs.
+,
+This uncertainty is likely due to the lack of univocal evidence on this regard.
+, 
+, 
+, 
+ Furthermore, 47.1% of respondents supported the hypothesis of a synergism between the mechanism of action of ICIs and the pathogenesis of SARS‐CoV‐2 infections, thus being worried about the potential higher risks of COVID‐19‐related complications in this patient population.
+Nevertheless, it is comforting that 97.1% of respondents would not deny ICIs as a treatment option at the time of COVID‐19 outbreak only based on the possible risks of infection by SARS‐CoV‐2, considering that so far a clear evidence of a detrimental effect of their administration still lacks.
+The European Society for Medical Oncology (ESMO) has created dedicated recommendations for the management of various aspects of oncological care, in order to mitigate the negative impact of COVID‐19 outbreak on patients with cancer.
+, 
+ Reducing the number of hospital visits while maintaining treatment effect is a reasonable safety measure that should be taken into account during COVID‐19 outbreak.
+The overlapping between clinical manifestations of irAEs and COVID‐19, and the consequent management, is an additional concern.
+While immune related pneumonitis is not so frequent in patients with cancer treated with ICIs (1%‐5% with anti‐CTLA‐4 or anti PD‐1/PD‐L1 as monotherapy, 5%‐10% with combination strategies),
+, 
+ it enters in the differential diagnosis list at the time of COVID‐19 outbreak for almost all respondents.
+On the contrary, diarrhoea is one of the most frequent irAE,
+ and despite its overall rate is 10.4% in patients with COVID‐19 in a pooled analysis, only 28.8% of respondents reported to manage a patient with colitis as a SARS‐CoV‐2‐infected patient until otherwise proven, potentially leading to a risk of contagion in the case of underlying infection by SARS‐CoV‐2.
+, 
+ Having dedicated facilities where cancer patients could be managed also in the case of suspected SARS‐CoV‐2 infection should be considered of high priority in order to continue providing the needed care in the safest possible environment.
+Notably, its use has also been associated with a reduction in the risk of death in patients with COVID‐19‐related pneumonia.
+The results of our survey do not demonstrate a significant change in the attitudes of Italian physicians towards the prescription of ICIs during COVID‐19 outbreak.
+These data, probably driven by the higher risk of COVID‐19 severe events in the elderly population, deserve a reflection considering the significant benefit associated with ICIs in this setting.
+,
+Abstract   Background  During COVID‐19 outbreak, oncological care has been reorganized.
+Patients with cancer have been reported to experience a more severe COVID‐19 syndrome; moreover, there are concerns of a potential interference between immune checkpoint inhibitors (ICIs) and SARS‐CoV‐2 pathogenesis.
+During COVID‐19 outbreak, to reduce hospital visits, 55.8% and 30.8% opted for the highest labelled dose of each ICI and/or, among different ICIs for the same indication, for the one with the longer interval between cycles, respectively.
+These results highlight the uncertainties around the perception of a potential interference between ICIs and COVID‐19, supporting the need of focused studies on this topic.

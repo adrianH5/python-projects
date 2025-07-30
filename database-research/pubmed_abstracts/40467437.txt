@@ -1,0 +1,1 @@
+This study aims to clinically implement eb_gui, a user-friendly toolkit for Monte Carlo simulations utilizing egs_brachy, in the context of low-dose-rate (LDR) brachytherapy for prostate and breast cancers.

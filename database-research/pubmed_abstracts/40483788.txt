@@ -1,0 +1,5 @@
+The employment of cancer vaccines as stand-alone or combined therapies has not yet reached clinically relevant endpoints in large clinical trials in the vast majority of patients, and there is a clear need for novel ideas and qualitatively new vaccine design approaches.
+In this study, we used a novel Variable Epitope Library (VEL) vaccine strategy, which incorporates thousands to millions of mutated variant epitopes within a combinatorial library, to target extreme variability and intratumoral heterogeneity of tumor antigens.
+A single intrasplenic vaccination with a VEL DNA vaccine encoding the amino-terminal region of mouse survivin, carrying eight mutated amino acid positions, induced significant tumor growth inhibition and suppression of lung metastasis in an aggressive and highly metastatic 4T1 triple-negative breast cancer (TNBC) preclinical model.
+Combining this vaccine with an immune checkpoint inhibitor (ICI) αCTLA-4 resulted in the elimination of established tumors, tumor-free survival of up to 412 days and life-long sterile immunity against tumor rechallenge in 77 % of mice.
+A significant increase in the number of CD3

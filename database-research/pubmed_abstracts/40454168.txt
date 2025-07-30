@@ -1,0 +1,7 @@
+Programmed cell death (PCD), an essential and inevitable phenomenon, is integral to organismal development.
+It not only maintains cellular homeostasis but also prevents aberrant cell proliferation, thereby protecting normal growth and development from detrimental factors.
+And it is governed by a highly complex and sophisticated regulatory network in which non-coding RNAs (ncRNAs) play pivotal roles.
+ncRNAs refer to RNA molecules that do not encode proteins and encompass various types, including long non-coding RNA (lncRNA), microRNA (miRNA), and circular RNA (circRNA).
+Herein, we investigate the specific signaling mechanisms by which ncRNAs regulate stem cells, elucidating their role in modulating PCD process through interactions with specific molecules.
+We further summarize the impact of above modulating role on stem cell differentiation, proliferation, cycle regulation and diverse disease development and therapy.
+Additionally, given the emerging trends in the therapeutic application of ncRNAs and stem cells, we explore the potential of their combined application for disease treatment.

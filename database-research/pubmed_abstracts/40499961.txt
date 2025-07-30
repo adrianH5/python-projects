@@ -1,0 +1,4 @@
+Symptom management is crucial in cancer care, yet patient symptoms are often overlooked in routine care.
+There is some evidence that electronic symptom monitoring and management can improve patients' physical function, symptom control, quality of life and survival outcomes.
+However, the evidence of the impact on survival outcomes in patients with advanced cancer is still limited and debated.
+This study aims to conduct a prospective randomised controlled trial by a professional symptom management team to monitor and manage symptoms in advanced cancer patients via an electronic information systems for patient-reported outcomes (ePRO) system (WeChat mini-program) and to verify its effectiveness on improving overall survival.

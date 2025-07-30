@@ -1,0 +1,9 @@
+Metastatic prostate cancer is incurable, and new therapeutic targets and drugs are urgently needed.
+Viral infections are associated with several cancer types, but a link between viruses and prostate oncogenesis has not been established.
+Only recently, an association between human cytomegalovirus (CMV) seropositivity and increased risk of prostate cancer mortality was demonstrated.
+Here, we show that CMV infection is common in the normal prostate epithelium and in prostate tumor tissue, with 70-92% of tumors being infected.
+Additionally, we report that commonly studied prostate cancer cell lines are CMV infected.
+Loss-of-function experiments demonstrate that CMV promotes cell survival, proliferation, and androgen receptor signaling, identifying it as a therapeutic target in castration-sensitive and castration-resistant prostate cancer.
+Several anti-CMV pharmaceutical compounds in clinical use inhibited cell expansion in prostate cancer models both in vitro and in vivo.
+We conclude that CMV is common in prostate cancer, promotes core prostate cancer cell programs, and can be inhibited by well-tolerated drugs.
+These findings motivate investigation into potential clinical benefits of CMV inhibition in the treatment of prostate cancer.

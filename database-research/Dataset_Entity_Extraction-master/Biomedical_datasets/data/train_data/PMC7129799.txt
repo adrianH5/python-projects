@@ -1,0 +1,3 @@
+Currently, there is only one complete 2019-nCoV genome (29870-bp, excluding the poly(A) tail) in GenBank (accession number MN908947).
+Our pair-wise sequence analysis demonstrated that bat SARS-like coronavirus (Genbank accession number MG772933) was the closest relative to 2019-nCoV, sharing 88% nucleotide similarity (Fig. 1
+).

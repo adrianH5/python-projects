@@ -1,0 +1,12 @@
+Mitochondria and mitochondrial DNA (mtDNA) are crucial for cellular energy metabolism and the adaptive response to environmental changes.
+mtDNA collaborates with the nuclear genome to regulate mitochondrial function.
+Dysfunctional mitochondria and mutations in mtDNA are implicated in a wide range of diseases, including mitochondrial disorders, neurodegenerative conditions, age‑associated pathologies and cancer.
+While the nuclear genome has been extensively studied for its role in driving the clonal expansion of oncogenes and other aging‑related genetic alterations, knowledge regarding mtDNA remains comparatively limited.
+However, advances in quantitative analysis have provided information regarding the complex patterns of mtDNA mutations.
+The present review offers a detailed examination of mtDNA mutations and their classifications in the contexts of aging and cancer, and elucidates the role of mtDNA mutations in these processes.
+Mutations in mtDNA can be detected as early as the neonatal stage, yet most transition mutations retain a normal cellular phenotype.
+In contrast to mutations in oncogenes and tumor suppressor genes within the nuclear genome, mtDNA exhibits conserved mutational signatures, irrespective of cancer tissue origin.
+To adapt to the aging process, mitochondria undergo clonal expansion of advantageous mtDNA mutations, maintaining a dynamic equilibrium among various mitochondrial clones.
+Over time, however, the loss of strand bias can disrupt this equilibrium, diminishing the pool of adaptive clones.
+This breakdown in mitochondrial homeostasis may contribute to tumorigenesis.
+In conclusion, the heterogeneity of mtDNA mutations and the collapse of its homeostasis are pivotal in the progression of age‑related diseases, including cancer, underscoring the importance of mtDNA mutations in health and disease.

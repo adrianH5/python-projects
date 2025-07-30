@@ -1,0 +1,11 @@
+It was called SARS-CoV-2 (causing the coronavirus disease 2019, COVID-19) and rapidly spread from animals (pangolins or bats as possible sources) to humans.
+While the diagnosis of COVID-19 is based on the amplification of the viral genome in real-time PCR with specific probes, the current treatment of affected individuals is limited to a mixture of a broad-spectrum of antiviral drugs [6].
+The interaction between the drug and protein was obtained using the Matador and DGIdb database [29,30].
+Eighty-three percent of the genes (435/526) that correlated with ACE2 in TCGA were also correlated in at least one of the other three independent datasets (GSE994, GSE17913 and GTEx, p-value < 0.05) (Figure 3).
+Among the top 10 most significant genes correlated to ACE2 in TCGA-LUAD dataset (Table 1), two genes (CRIP2 and ACACA) were also found in GSE994, ACSL5 was found in GSE17913 and LRRK2, HSD17B4, EPHX1, MCCC2, GSTA4, HGD, and ROS1 were found in GTEx dataset.
+Starting from 7338 drugs originated by the Matador and DGIdb database, we evaluated if drug target genes were overrepresented in the network.
+Although several recent papers have come out on the possible drug treatment options for COVID-19 and several clinical trials are proposing different compounds for the treatment, we haven’t found any drugs among those that we’d propose, either in clinical trials or in other publications.
+Recently, an in silico approach enlarged to all possible gene networks altered by COVID-19 disease found several potential therapeutic molecules [53], and although they found some compounds with anti-inflammatory properties, none of them were common with the ones that we found.
+Nimesulide belongs to the class of sulphonamides; it is a non-steroidal anti-inflammatory drug (NSAID), which preferentially inhibits the enzyme cyclooxygenase-2 (COX-2).
+The induction by estrogen and androgen of ACE2, and possibly of IL2RA, established a negative correlation between ACE2 expression, age of the subjects and COVID-19 fatality at both population and molecular levels [62].
+Specifically, we used the gene expression profiles from public datasets including The Cancer Genome Atlas, Gene Expression Omnibus and Genotype-Tissue Expression, Gene Ontology and pathway enrichment analysis to investigate the main functions of ACE2 -correlated genes.

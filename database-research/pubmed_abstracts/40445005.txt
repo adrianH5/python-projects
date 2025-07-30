@@ -1,0 +1,5 @@
+Contrast-enhanced computed tomography perfusion (CTP) imaging is a critical clinical tool for evaluating cerebral blood flow after acute ischemic stroke (AIS), enabling accurate diagnosis and treatment planning.
+However, conventional iodine-based contrast agents may lead to allergic reactions and are contraindicated in patients with thyroid disorders.
+This study introduces Bi-DTPA dimeglumine, a renal-clearable and iodine-free bismuth chelate, for AIS perfusion assessment via CTP imaging.
+Bi-DTPA dimeglumine is synthesized through a simple and scalable process with nearly 100% yield (laboratory synthesis >100 g) and demonstrates excellent biocompatibility and efficient renal clearance.
+In a middle cerebral artery occlusion (MCAO) rat model, Bi-DTPA dimeglumine-enhanced CTP imaging accurately visualized vascular perfusion deficits, showing reduced cerebral blood volume (CBV) and cerebral blood flow (CBF), alongside prolonged time-to-maximum (

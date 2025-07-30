@@ -1,0 +1,8 @@
+Breast cancer is a leading cause of mortality among women and is increasing rapidly around the world.
+For early diagnosis of breast cancer, precise classification, and finding the best subset for cancer identification, evolutionary-based feature selection methods play a vital role in effective treatment.
+Previous studies have shown that existing evolutionary methods are complicated in correctly differentiating BC disease subtypes with high consistency, which seriously affects the performance of classification methods.
+To prevent diagnostic errors with hostile implications for patient health, in this study, we develop a new evolutionary method called SeQTLBOGA that incorporates the learner quantization before the search capability of the feature space to prevent premature falls into the local optima.
+In the SeQTLBOGA algorithm, quantum theory and a self-adaptive mechanism are employed to update the Teaching Learning-based Optimization (TLBO) rule to enhance convergence search capabilities.
+Most importantly, a self-adaptive genetic algorithm (GA) is also incorporated into TLBO to tradeoff between exploration and exploitation to handle slow convergence and exploitation competence, and simultaneously optimizing parameters of support vector machines (SVM) and the best features subset is our primary objective.
+Comparative results based on optimal computing time and performance are also offered to empirically analyze the traditional algorithms.
+Therefore, this paper aims to evaluate the most recent quantum-inspired metaheuristic algorithms in WBCD and WDBC databases, emphasizing their advantages and disadvantages.

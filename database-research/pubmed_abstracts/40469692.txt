@@ -1,0 +1,6 @@
+Triple-negative breast cancer (TNBC) is a highly malignant breast cancer with a high metastasis rate, weak targeted therapy effect, and short patient survival period.
+Current treatments have significant limitations, highlighting an urgent need for novel therapies to alleviate patient suffering.
+Photodynamic therapy (PDT) has emerged as a promising antitumor strategy by inducing apoptosis and immune responses through the release of reactive oxygen species (ROS).
+However, conventional photosensitizers (PSs) face issues such as high cytotoxicity and aggregation-caused quenching (ACQ), limiting their clinical applicability.
+To address these challenges, we developed a novel dual-targeting, bimolecular pathway using an advanced photosensitizer, 2TPA-PIMe, designed based on aggregation-induced emission (AIE).
+The rationally designed 2TPA-PIMe, incorporating alkylated phosphindole as the core, exhibits AIE properties and efficient ROS generation via both type I and type II pathways, potentially enhancing PDT effectiveness

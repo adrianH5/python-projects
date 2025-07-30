@@ -1,0 +1,11 @@
+Myxobacteria with compatible TraA receptors can exchange materials located on the outer membrane.
+Such outer membrane exchange (OME) is an efficient strategy to help clonemates.
+If OME occurs between cells carrying different sitAI repertoires, however, transferred toxins may harm the recipient.
+While traA and sitAI can be categorized as green-beard genes, the functionality of sitAI is heavily reliant on traA.
+In other words, the harming effect of the sitAI is invalidated without OME.
+Hence, I termed traA and sitAI epistatic and hypostatic green-beard genes, respectively, and proposed a handshake-dependent rock-paper-scissors-like (RPSL) model.
+The simulation results imply that evolutionary pressure for traA diversification is context-dependent.
+The competition among aggressors, susceptibles, and freeloaders determined by hypostatic sitAI repertoire exhibits cyclic dominance, yet involves the possibility of divergent dynamics.
+By changing the epistatic green-beard traA alleles, susceptibles can avoid invasion of the aggressors, establishing another domain of the RPSL competition (domain shift).
+Furthermore, I mathematically analyzed the expected relatedness between myxobacteria from the compatibility of epistatic and hypostatic green-beard alleles.
+Not only can it explain the polymorphism of myxobacterial traA and sitAI alleles, but the model can also be expanded to investigate the social interactions of fusogenic cancer cells.

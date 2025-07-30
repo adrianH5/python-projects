@@ -1,0 +1,12 @@
+For a long time, the standard chemotherapy for small cell lung cancer (SCLC) was a combination of platinum plus etoposide.
+In 2019, anti-PD-L1 antibodies atezolizumab or durvalumab were introduced for the treatment of extensive-stage (ES) SCLC in combination with chemotherapy.
+Two randomized phase III studies (IMpower 133 and CASPIAN) demonstrated that addition of atezolizumab or durvalumab to platinum plus etoposide prolonged the overall survival in ES-SCLC patients.
+In addition, consolidation therapy with durvalumab after chemoradiotherapy was also shown to prolong the overall survival in patients with limited-stage SCLC.
+Tarlatamab is a bispecific antibody that targets DLL3 and CD3.
+It binds to both DLL3 on cancer cells and CD3 on T cells, causing T-cell-mediated lysis of cancer cells.
+A phase II study (DeLLphi-301) showed a 40 % response rate and median progression-free survival of 4.9 months following tarlatamab administration in previously treated SCLC patients, which led to approval of this drug in Japan for the treatment of SCLC at the end of 2024.
+A molecular biological classification of SCLC was proposed in 2021.
+Four SCLC subtypes (SCLC-A, N, P, and I) were defined based on differential expression of some transcription factors.
+An exploratory subgroup analysis of data from IMpower 133 study demonstrated that patients with SCLC-I tumors derive the greatest benefit from the addition of atezolizumab to chemotherapy.
+Further development of effective treatments and additional biomarkers to predict efficacy is needed.
+Bispecific antibodies and/or antibody-drug conjugate could be the next candidates for breakthroughs in the treatment of SCLC.

@@ -1,0 +1,9 @@
+Interleukin-2 (IL-2) is a pivotal cytokine that plays a crucial role in the activation, proliferation, and functional regulation of multiple immune cells.
+High-dose IL-2 has been approved for antitumor therapy but may cause toxicity.
+IL-2 levels within the body are also associated with various pathological states, making it a potential diagnostic and prognostic biomarker.
+Consequently, the development of efficient tools for the rapid detection and real-time quantification of IL-2 is of great significance.
+In this study, we identified two human IL-2-binding aptamers, Apt24 and Apt35, through the systematic evolution of ligands by exponential enrichment (SELEX).
+On this basis, we constructed two aptamer beacons to detect IL-2 proteins in solution.
+Further, we successfully developed a membrane-anchored aptamer sensor, Chol-Apt35, to realize in situ detection of IL-2 secretion in living cells.
+The sensor exhibits good membrane-insertion ability and performs comparably with fluorescent antibodies.
+In conclusion, this study provides simple yet effective tools for IL-2 detection, which may facilitate dose optimization in immunotherapy and assessment of immunological status.

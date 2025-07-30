@@ -1,0 +1,9 @@
+Angiogenesis plays a critical role in cancer progression, highlighting the need for effective anti-angiogenic therapies.
+Zerumbone (ZER), a phytochemical compound, is known for its anti-angiogenic and anti-carcinogenic effects in various cancer cell lines.
+Cisplatin (CIS) is a widely used chemotherapeutic agent that effectively inhibits tumor growth.
+Combining CIS with anti-angiogenic agents like ZER may enhance the anticancer efficacy of CIS and improve treatment outcomes.
+This study aimed to evaluate the acute toxicity and anti-angiogenic effects of ZER, CIS, and the ZER + CIS combination in a zebrafish larval model.
+At higher concentrations, the ZER + CIS combination demonstrated only minimal toxicity.
+Both CIS and ZER exhibited significant anti-angiogenic activity, as indicated by the depletion of o-dianisidine-positive red blood cells in circulation compared to the control.
+The combination of ZER and CIS synergistically enhanced the down-regulation of VEGF-A (p < 0.001), VEGFR-2, NRP-1A, and NRP-2B, confirming the synergistic action of the two compounds.
+In conclusion, the combination of ZER and CIS exhibited superior anti-angiogenic effects compared to either treatment alone, suggesting a promising therapeutic strategy for cancer treatment.

@@ -1,0 +1,9 @@
+The relevant role of LINE-1 (L1) retrotransposition in cancer has been recurrently demonstrated in recent years.
+However, the repetitive nature of retrotransposons makes their identification and detection inaccessible for clinical practice.
+Also, its clinical relevance for cancer patients is still limited.
+Here, we developed RetroTest, a new efficient method to quantify L1 activation based on targeted sequencing and a sophisticated bioinformatic pipeline, allowing its application in tumor biopsies.
+Firstly, we performed RetroTest benchmarking to confirm its high specificity and reliability.
+Then, we unraveled L1 activation in head-and-neck squamous cell carcinoma (HNSCC) according to an extensive patient cohort including all tumor stages.
+L1 retrotransposition estimation revealed a surprisingly early activation in HNSCC progression, contrary to its classical association with advanced stages.
+In addition, L1 activation together with genomic mutational profiling in normal adjacent tissues supported a field cancerization process, a phenomenon where a tissue develops multiple patches of cells with genetic and/or epigenetic alterations, increasing the risk of cancer development in that area.
+Overall, our results underline an early L1 activation in HNSCC and field characterization, raising L1 as a promising early diagnostic biomarker and supporting the importance of estimating L1 retrotransposition in clinical practice toward a more efficient diagnosis in HNSCC.

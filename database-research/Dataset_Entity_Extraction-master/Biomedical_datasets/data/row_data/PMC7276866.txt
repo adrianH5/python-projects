@@ -1,0 +1,28 @@
+The novel coronavirus was named 2019‐nCoV by the World Health Organization (WHO) on January 12, 2020, and was later named severe acute respiratory syndrome coronavirus‐2 (SARS‐CoV‐2) by the International Classification Committee of Viruses on February 11, 2020.
+, 
+ Now, the associated disease has been named coronavirus disease 2019 (COVID‐19) by the WHO.
+,
+The transmission mode for COVID‐19 has been shown to be human to human.
+COVID‐19 is currently a global pandemic, and over 2 740 000 cases of COVID‐2019 and 191 000 deaths have been reported globally as of April 24, 2020.
+We hypothesized that HLA variation in the population may be associated with the occurrence of COVID‐19, because HLA plays a pivotal role in the immune response to pathogens.
+Here, we report HLA allele frequencies in Chinese Han individuals with COVID‐19 and a comparison between HLA allele distribution in COVID‐19 patients and healthy individuals.
+Eighty‐two Han individuals from Zhejiang with confirmed COVID‐19 were tested.
+All patients had mild or severe COVID‐19, with none in a critical condition.
+Individuals were recruited for plasma donation after recovery and the plasma was used for treatment of other COVID‐19 patients with severe or critical symptoms.
+The allele distributions of HLA‐A, ‐C, ‐B, ‐DRB1, ‐DQB1, and ‐DPB1 loci were compared between COVID‐19 patients and control individuals.
+The frequencies and ORs of the HLA alleles, with uncorrected significance, for COVID‐19 patients are listed in Table 1.
+HLA‐C*07:29, C*08:01G (including C*08:01 and C*08:22), B*15:27, B*40:06, DRB1*04:06, and DPB1*36:01 frequencies were higher in COVID‐19 patients than in the control population, with uncorrected statistical significance (P < .05).
+Meanwhile, the frequencies of the DRB1*12:02 and DPB1*04:01 alleles were significantly lower in COVID‐19 patients (Pc < .05), with ORs of 0.44 and 0.40, respectively.
+In the present study, HLA‐C*07:29 was found in one COVID‐19 patient, but in no individuals in the control group.
+Two alleles, B*07:02 (1.38%) and B*27:04 (1.92%), with frequencies greater than 1% in the control group, were not found in COVID‐19 patients.
+Therefore, the association of HLA alleles with COVID‐19 warrants further research.
+,
+In the present study, these SARS‐susceptibility alleles were not found to occur at a significantly different frequency in COVID‐19 patients after P‐value correction.
+We found that B*15:27 alleles may be associated with the occurrence of COVID‐19.
+Prediction of the peptide‐binding groove of these alleles may help to explain their association with COVID‐19.
+Although the number of samples in the present study was small, these data will still be useful for exploring the influence of HLA gene polymorphisms on susceptibility to COVID‐19 and patient outcomes.
+COVID‐19 is a respiratory disease caused by a novel coronavirus and is currently a global pandemic.
+HLA variation is associated with COVID‐19 because HLA plays a pivotal role in the immune response to pathogens.
+Here, 82 individuals with COVID‐19 were genotyped for HLA‐A, ‐B, ‐C, ‐DRB1, ‐DRB3/4/5, ‐DQA1, ‐DQB1, ‐DPA1, and ‐DPB1 loci using next‐generation sequencing (NGS).
+Frequencies of the HLA‐C*07:29 , C*08:01G , B*15:27 , B*40:06 , DRB1*04:06 , and DPB1*36:01 alleles were higher, while the frequencies of the DRB1*12:02 and DPB1*04:01 alleles were lower in COVID‐19 patients than in the control population, with uncorrected statistical significance.
+These data suggested that some HLA alleles may be associated with the occurrence of COVID‐19.

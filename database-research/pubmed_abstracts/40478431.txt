@@ -1,0 +1,15 @@
+Gait alterations are recognized as early markers of age-related decline and cognitive impairment.
+Dual-task assessments, which impose cognitive load while walking, provide valuable insights into gait control limitations and cognitive-motor interactions in aging populations.
+This study evaluates age-related and cognitive load-induced changes in gait parameters, with a particular focus on asymmetry, and aims to optimize the gait assessment protocol for the Semmelweis Study framework.
+The Semmelweis Study is a large-scale workplace cohort investigating the determinants of unhealthy aging and promoting healthy brain aging by identifying risk factors and protective mechanisms influencing vascular, metabolic, and neurocognitive decline.
+As part of this initiative, gait analysis is emerging as a critical tool for assessing functional aging, detecting early signs of mobility and cognitive impairment, and contributing to biological age assessment.
+A cross-sectional analysis was conducted on adults aged 23 to 87 years using a pressure-sensitive walkway system.
+Participants were evaluated under single-task conditions (normal walking) and dual-task conditions (walking while performing a concurrent cognitive task).
+Spatiotemporal gait parameters, asymmetry indices, and dual-task costs were analyzed to assess age-related changes in gait performance and cognitive-motor interactions.
+Aging was associated with significant reductions in gait speed, step length, and stride length, along with a corresponding increase in gait asymmetry.
+Dual-task conditions exacerbated these alterations, indicating age-related impairments in cognitive-motor integration.
+Asymmetry indices were sensitive to aging effects, suggesting their potential as biomarkers for functional decline.
+The dual-task cost on gait was significantly greater in older adults, reinforcing the interplay between cognitive and motor systems in aging.
+Age-related gait alterations, particularly under cognitive load, underscore the importance of comprehensive gait assessments in aging research.
+Our findings contribute to the optimization of the Semmelweis Study gait assessment protocol by identifying key gait parameters that capture functional decline and biological aging.
+Integrating dual-task gait analysis into large-scale epidemiological studies has the potential to enhance early detection of brain health decline, refine biological age estimation, and guide targeted interventions to support healthy aging and neuromotor resilience.

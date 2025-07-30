@@ -1,0 +1,5 @@
+The skeletal system is the most common site of metastatic prostate cancer, and these lesions are associated with poor outcomes.
+Diagnosing these osseous metastatic lesions relies on radiologic imaging, making early detection, diagnosis, and monitoring crucial for clinical management.
+However, the literature lacks a detailed analysis of various approaches and future directions.
+To address this gap, we present a scoping review of quantitative methods from diverse domains, including radiomics, machine learning, and deep learning, applied to imaging analysis of prostate cancer with clinical insights.
+Our findings highlight the need for developing clinically significant methods to aid in the battle against prostate bone metastasis.

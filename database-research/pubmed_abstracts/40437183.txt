@@ -1,0 +1,11 @@
+Zinc finger protein 24 (ZNF24) is a conserved multifunctional transcription factor associated with tumorigenesis, but its function in bladder carcinogenesis remains unclear.
+Herein, the expression of ZNF24 was decreased in bladder cancer (BC) cells and tissues, and patients with higher expression of ZNF24 had a better prognosis.
+Doxycycline-induced overexpression and knockdown of ZNF24 identified its anti-proliferative and anti-metastasis role in BC in vitro and in vivo.
+The potential genes for the anti-cancer role of ZNF24, involving transcriptional regulation of several factors, such as dual-specificity phosphatase 1 and squalene epoxidase.
+E2 conjugating enzyme UBC9 and small ubiquitin-like modifier (SUMO) 1 were found to interact with ZNF24, suggesting that ZNF24 may be SUMOylated.
+Consistent with the expression, ZNF24 SUMOylation levels were decreased in BC cells and tissues.
+Pan-SUMOylation inhibition promoted protein degradation of ZNF24.
+UBC9 SUMOylated ZNF24 at Lys-27 (K27) site with SUMO1 modification and the K27 mutation of ZNF24 greatly damaged the protein stability of ZNF24.
+Cullin 3 (CUL3), a E3 ubiquitin ligase, was responsible for the degradation of ZNF24.
+ZNF24 SUMOylation prevented CUL3-mediated protein degradation of ZNF24.
+Overall, the crosstalk between the SUMOylation and ubiquitination of ZNF24 may be a novel regulatory mechanism to block tumorigenesis and development of BC.

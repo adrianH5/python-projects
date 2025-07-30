@@ -1,0 +1,3 @@
+Co-culture assays are used to study the mutual interaction between cells in vitro.
+This chapter describes 2D and 3D co-culture systems used to study cell-cell signaling crosstalk between cancer cells and bone marrow adipocytes, osteoblasts, osteoclasts, and osteocytes.
+The chapter provides a step-by-step guide to the most used cell culture techniques, functional assays, and gene expression.

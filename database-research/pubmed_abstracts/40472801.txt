@@ -1,0 +1,3 @@
+Obstructive sleep apnoea (OSA) is a common chronic condition, with obesity its strongest risk factor.
+Polygenic scores (PGSs) summarise the genetic liability to phenotype and can provide insights into relationships between phenotypes.
+Recently, large datasets that include genetic data and OSA status became available, providing an opportunity to utilise PGS approaches to study the genetic relationship between OSA and other phenotypes, while differentiating OSA-specific from obesity-specific genetic factors.

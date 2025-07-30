@@ -1,0 +1,10 @@
+Conventional combination chemotherapy, which utilizes noncovalent bonding for self-assembly and encapsulation for drug loading and delivery, faces challenges in clinical application.
+The development of combination chemotherapy systems that enable multiple drugs to be contained within a single molecule to achieve synergistic therapy is an innovative concept for cancer treatment.
+In this study, a polymeric micelle named mPEG-GFLGAVPIAQDEVD-DOX&DOX was constructed through the covalent linkage of two chemotherapy drugs of doxorubicin (DOX) and the pro-apoptotic peptide SMAC (AVPIAQ) and then using the thin-film hydration method.
+The micelle can be specifically recognized by cathepsin B within cancer cells, leading to the cleavage of the peptide GFLG.
+This action facilitates the shedding of mPEG, thereby enhancing the efficiency of micelle uptake by cells.
+Upon internalization, the micelles release the encapsulated DOX, thereby promoting apoptosis and activating Caspase-3, which in turn cleaves the peptide DEVD.
+This process accelerates the release of DOX, thereby enhancing the efficacy of tumor cell killing.
+Subsequently, the pro-apoptotic peptide SMAC was exposed, which bonded to inhibitors of apoptosis proteins (IAPs) and inhibited their antiapoptotic activity, thereby accelerating tumor cell apoptosis.
+SMAC plays a key role in apoptosis by alleviating the inhibitory effect of IAPs on Caspase-3, allowing DOX and SMAC to act synergistically on tumor cells as cocktail therapy, achieving a double-killing effect, thereby improving therapeutic efficacy against tumors.
+These results indicated that the dual-drug polymer micelles prepared can significantly enhance antitumor therapeutic efficacy and reduce their side effects.

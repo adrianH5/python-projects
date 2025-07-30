@@ -1,0 +1,8 @@
+Customizing drug treatments based on individual tumor susceptibility and patient-specific factors is a complex task, highlighting the need for better predictive models tailored to each patient.
+Preserving tumor architecture is one strategy to address the intricate interactions between stromal cells and tumor cell populations within a patient.
+In this study, we explored the feasibility of using pretherapeutic endoscopic tissue cultures from patients (ePDTCs) with gastric and esophagogastric junction cancers to assess individual drug susceptibility.
+We treated these endoscopic tissue slice cultures with 5-FU (1 µM), a modified FLOT regimen comprising 5-FU (10 µM), leucovorin (10 µM), oxaliplatin (20 µM), and docetaxel (0.1 µM), the active metabolite of irinotecan (SN38, at 1 µM and 10 µM) and the PD-1 inhibitor nivolumab (3 µg/ml).
+Analysis of the tumor tissue revealed stable adaptations to the culture environment, which were further enhanced by adding 2% autologous human serum to the culture media.
+Dose-dependent responses were observed with SN38 across all samples and individual susceptibility at low concentrations.
+Both 5-FU and the FLOT regimen as well as PD-1 inhibition, tested at bioavailable dosages, further demonstrated individualized responses in ePDTCs.
+This study shows that ePDTCs can effectively assess tissue susceptibility to drugs, warranting further investigation in larger cohorts to validate this model's potential alongside clinical treatments.

@@ -1,0 +1,9 @@
+Drug combination therapy is promising for cancer treatment by reducing resistance and improving efficacy.
+Machine learning approaches to predicting drug combinations require massive training data.
+Here, we propose Pisces, a novel machine learning approach for drug combination synergy prediction.
+The key idea is to augment the sparse dataset by creating multiple views for each drug combination based on different modalities.
+We combined eight modalities of a drug to create 64 augmented views.
+By treating each augmented view as a separate instance, Pisces can process any number of drug modalities, circumventing the issue of missing modality.
+Pisces obtained state-of-the-art results on cell-line-based and xenograft-based drug synergy predictions and drug-drug interaction prediction.
+By interpreting Pisces's predictions using a genetic interaction network, we identified a breast cancer drug-sensitive pathway from BRCA cell lines.
+Collectively, the results show that Pisces effectively predicts drug synergy and drug-drug interactions through data augmentation and can be applied to various biological applications.

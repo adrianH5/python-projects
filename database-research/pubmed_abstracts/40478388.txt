@@ -1,0 +1,6 @@
+Despite advances in cancer treatment, chemotherapy remains a cornerstone of clinical practice.
+However, its efficacy is often compromised by dose-limiting haematologic toxicities.
+Recent strategies aim to enhance chemotherapy tolerability while preserving its effectiveness.
+One emerging approach involves selective CDK4 inhibitors to serve as myeloid-protective agents in retinoblastoma (RB)-negative tumours, such as triple-negative breast cancer (TNBC).
+Because bone marrow (BM) cells rely on RB for proliferation, CDK4 inhibitors may protect these cells while sparing RB-deficient tumour cells.
+The present study investigated the potential of AU2-94, a first-in-class CDK4 inhibitor, to protect BM cells during myelosuppressive chemotherapy in TNBC, beyond its established application in RB-positive cancers.

@@ -1,0 +1,5 @@
+Melanoma brain metastases (MBM) are a leading cause of death in patients with advanced disease.
+MBM treatment relay on targeted and immunotherapy and on stereotactic radiosurgery as gold standard.
+Life expectancy has improved significantly with these therapies however, targeted therapy is short lived and only about half of the patients respond to immunotherapy, while radiation is limited by melanoma cells intrinsic resistance to DNA damage.
+New therapeutic approaches are therefore needed to treat MBM.
+Here we investigate a new role of Notch1 in genomic instability and demonstrate that blockade of both Notch1 and the DNA repair factor ChK1 causes extensive DNA damage and tumor cell death increasing survival in MBM bearing mice.

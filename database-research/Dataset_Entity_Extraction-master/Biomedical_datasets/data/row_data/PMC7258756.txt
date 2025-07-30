@@ -1,0 +1,7 @@
+Till date, the Integrated Disease Surveillance Programme (IDSP), a national health programme, Government of India, has collected samples from symptomatic travellers in liaison with the State-level Viral Research and Diagnostic Laboratories (VRDLs), Department of Health Research.
+These sequences were also compared with the available GenBank sequences to monitor the mutations and understand their relation with other known SARS-CoV-2 available in the public database.
+Full-length genome sequences of SARS-CoV-2 were downloaded from the GISAID database17 (Supplementary Table I (available from )).
+Multiple sequence alignment was performed using the MEGA software version 7.018 with retrieved sequences from two of the three positive cases and the available GISAID sequences.
+The FastQ files were reference mapped with the available Wuhan seafood pneumonia virus (Wuhan Hu-1) complete SARS-CoV-2 genome (accession number: NC 045512.2).
+Prediction of conformational B-cell epitopes revealed that one of these (residue positions 341-505) in the spike protein incorporates two of the predicted linear epitopes (327-342 and 404-419) having good antigenicity along with a favourable IFN-γ response that enables differentiation and proliferation of the B-cells25.
+The sequences of Indian SARS-CoV-2 though not identical showed high (~99.98%) identity with Wuhan seafood market pneumonia virus (accession number: NC 045512).

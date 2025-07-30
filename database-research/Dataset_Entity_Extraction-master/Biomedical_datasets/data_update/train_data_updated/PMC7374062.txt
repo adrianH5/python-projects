@@ -1,0 +1,13 @@
+The virus was soon identified as novel CoV 2019 (2019-nCoV), more recently designated severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), while the associated disease is referred to as coronavirus disease 2019 (COVID-19).
+As of 15 June 2020, there were almost 8 million confirmed COVID-19 cases and 431,541 deaths globally (2).
+(A) Schematic diagram of the genomes of SARS-CoV-2 isolates Wuhan-Hu-1 (GenBank accession no. MN908947) and human CoV-19/Singapore/12/2020 (hCoV-19/Singapore/12/2020) Δ382 (GISAID: EPI_ISL_414378).
+To investigate the possible origin and evolutionary relationships of these Δ382 viruses, a maximum likelihood (ML) phylogeny of SARS-CoV-2 full genomes was inferred from serially sampled data sets.
+We then tested residual diagnostic samples from COVID-19 patients in Singapore for the presence of Δ382 viruses to understand the epidemiological fitness of Δ382 viruses.
+Full complete genomes of SARS-CoV-2 wild-type and Δ382 viruses generated in Singapore were deposited in the GISAID database (see Table S1 in the supplemental material).
+All available genomes of SARS-CoV-2 with associated virus sampling dates were downloaded from the GISAID database.
+To reduce bias from locations with higher virus sampling and genome availability, data sets were subsampled randomly based on geographical location and collection month using in-house scripts.
+To reconstruct a time-scaled phylogeny, we analyzed serially sampled data sets of 419 complete genomes (Table S5) using an uncorrelated lognormal relaxed-clock (UCLN) model with an exponential growth coalescent prior and the HKY85+Γ substitution model in BEAST program v1.10.4 (29) to simultaneously estimate phylogenies, divergence times, and rates of nucleotide substitution.
+The strict and UCLN models were recently tested by Duchene et al. (30), who showed that the UCLN model is preferred over a strict clock for analyzing large (>122) SARS-CoV-2 genome data sets.
+Cells were washed with phosphate-buffered saline (PBS), and SARS-CoV-2 viral antigens were detected using a COVID-19 convalescent human serum at a 1:400 dilution in PBS for 30 min at 37°C.
+Supernatant was harvested daily for 6 days following infection and 50% tissue culture infective doses (TCID50) titers were determined.
+Sequences generated in this study have been deposited in the GISAID database (see Table S1 for accession numbers).

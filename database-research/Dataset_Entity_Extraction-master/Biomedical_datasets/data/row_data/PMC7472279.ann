@@ -1,0 +1,10 @@
+T1	Repository 1043 1050	GenBank
+T2	AccessionNumber 1075 1083	MT586773
+T3	AccessionNumber 1084 1092	MT586805
+T4	Repository 1130 1137	GenBank
+T5	AccessionNumber 1162 1170	MT586830
+T6	AccessionNumber 1171 1179	MT586867
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T1	Arg2:T3
+R3	hasAttr	Arg1:T4	Arg2:T5
+R4	hasAttr	Arg1:T4	Arg2:T6

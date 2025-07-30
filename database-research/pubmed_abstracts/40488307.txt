@@ -1,0 +1,5 @@
+The light environment exerts a profound selection pressure on the visual system, driving morphological and molecular adaptations that may also contribute to species diversification.
+Here, we investigate the evolution and genetic basis of visual system diversification in deepwater cichlid fishes of the genus Diplotaxodon.
+We find that Diplotaxodon exhibit the greatest eye size variation among Lake Malawi cichlids and that this variation is largely uncoupled from phylogeny, with various non-sister species sharing similar eye sizes.
+Using a combination of genome-wide association analysis across nine Diplotaxodon species, haplotype-based selection scans, and transcriptome analysis, we uncover consistent and widespread signatures of evolution in visual pathways, centered on green-sensitive opsins and throughout the phototransduction cascade, suggesting coordinated evolution of eye size and visual molecular pathways.
+Our findings underscore the role of visual system diversification in niche specialization within deepwater habitats and offer new insights into visual system evolution within this extraordinary cichlid radiation.

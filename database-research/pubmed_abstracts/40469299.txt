@@ -1,0 +1,3 @@
+Disulfidptosis, a recently identified mechanism of cell death characterized by intracellular sulfide accumulation, leading to cellular exhaustion.
+Our objective is to create a prognostic model using a cohort of disulfidptosis-related genes (DRGs) to assess their prognostic value in lung adenocarcinoma (LUAD).
+This research not only deepens our understanding of the molecular mechanisms underpinning LUAD but also offers promising avenues for new clinical treatment biomarkers and therapeutic targets.

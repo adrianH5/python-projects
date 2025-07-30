@@ -1,0 +1,10 @@
+Cancer stem cells (CSCs) play a crucial role in the progression of tumors, resistance to immunotherapy, and the development of thyroid carcinoma (THCA).
+However, the precise mechanisms involved remain poorly understood.
+In this study, 26 mRNAs linked to cancer stemness were identified through an analysis of 13 publicly available THCA transcriptomic datasets alongside a CRISPR dataset for thyroid cancer cell lines.
+Notably, we revealed an inverse relationship between the stemness of cancer cells and the efficacy of immunotherapy.
+Utilizing multiple machine learning approaches, we created and confirmed a model for tumor stemness cells (TSC), which included genes associated with cancer stemness.
+This model successfully forecasted patient outcomes and responses to treatment with Cytotoxic T-Lymphocyte Associated Protein 4 (CTLA4) immune checkpoint inhibitors (ICIs) across different types of cancer.
+Additionally, chromosomal amplifications in regions 1q and 8p were identified as intrinsic contributors to the onset of thyroid cancer.
+Specifically, based on single cell dataset, the amplification of CKS1B on chromosome 1q was revealed to advance the progression of thyroid cancer cells by boosting their proliferation.
+Furthermore, experimental results revealed that the heightened expression of CKS1B considerably enhanced the proliferation and invasion capabilities of THCA, suggesting it could serve as a possible therapeutic target for this condition.
+In summary, our study sheds light on the relationship between the traits of cancer stem cells and the efficacy of immunotherapy, providing a novel model for predicting the prognosis and individual responses to immunotherapy in patients with THCA.

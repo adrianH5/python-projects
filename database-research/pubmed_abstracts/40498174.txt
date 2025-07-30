@@ -1,0 +1,16 @@
+Central neurocytomas (CN) are intraventricular brain tumors predominantly occurring in young adults.
+Although prognosis is usually favorable, tumor recurrence is common, particularly following subtotal resection (STR).
+Currently, the risk of progression is evaluated using atypical features and an elevated Ki67 proliferation index.
+However, these markers lack consistent definitions, raising the need for objective criteria.
+Genome-wide DNA methylation profiles were examined in 136 tumors histologically classified as CN.
+Clinical/histopathological characteristics were assessed in 93/90 cases, and whole-exome sequencing was conducted in 12 cases.
+Clinical and molecular characteristics were integrated into a survival model to predict progression-free survival (PFS).
+A diagnosis of CN was epigenetically confirmed in 125 of 136 cases (92%).
+No DNA methylation subgroups were identified, but global DNA hypomethylation emerged as a hallmark feature of CN associated with higher recurrence risk.
+Risk stratification based on histological features of atypia and Ki67 proliferation index was not reproducible across neuropathologists.
+Hypomethylation at the FGFR3 locus, accompanied by increased FGFR3 protein expression, was observed in 97% of cases.
+Gross total resection was associated with significantly improved PFS compared to STR, while patients undergoing STR receiving radiotherapy had a better outcome (p = 0.0001).
+Younger patients were identified as having a higher risk of recurrence (p = 0.026).
+Patient age and treatment strategy were key factors associated with survival outcomes in this cohort.
+These findings underscore the importance of closer follow-up for younger patients and radiotherapy for STR cases.
+Furthermore, FGFR3 represents a hallmark feature and potential therapeutic target, warranting further investigation.

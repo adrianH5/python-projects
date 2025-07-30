@@ -1,0 +1,5 @@
+The evolutionarily conserved cohesin complex is a pleiotropic regulator of chromosome structure and function, participating in sister chromatid cohesion, transcriptional regulation of genes, DNA replication, and DNA repair.
+Cohesin uses ATP hydrolysis to dynamically extrude DNA loops that bring together cis-regulatory elements and thus regulate gene expression.
+Some DNA loops are anchored by the binding of CTCF insulator proteins which can stall extruding cohesin complexes, however many DNA loops that connect enhancers and promoters lack CTCF and it is unclear how cohesin is stabilized at these cis-regulatory sites.
+While cohesin has been found to co-purify with a number of proteins, some of which regulate cohesin function, our current knowledge of cohesin activity is incomplete.
+Identification of transient or less stable interactions between cohesin and chromatin-associated proteins is crucial for understanding regulation of gene expression and chromosome structure.

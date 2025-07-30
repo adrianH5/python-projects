@@ -1,0 +1,11 @@
+As of March 24, 2020, the worldwide tracking for COVID‐19 infections reported 1,603,433 cases including 95,716 deaths (Worldometers, 2020).
+Among the 18 countries that have reported more than 20,000 COVID‐19 cases, the total number of cases per population ranged from 3,277 per million people in Spain to 57 per million cases in China and the total death rate among these countries ranged from 330 per million in Spain to 2 per million in China (Worldometers, 2020).
+Differences among the host, particularly the sex of the patient and presence of selected comorbid diseases and immunosuppressive state have been identified as risk factors from severe COVID‐19 (China‐CCDC, 2020; World Health Organization, 2020).
+An increased association with the use of angiotensin‐converting enzyme inhibitors (ACEIs) and angiotensin II receptor blockers (ARBs) has been reported for severe COVID‐19 cases (Zhou, Yang, et al., 2020), however, the clinical relevance of this finding is uncertain and possibly influenced by the presence of confounders (Gracia‐Ramos, 2020
+).
+Further attention has been drawn to the ACE2 receptor as antimalarials, which can interfere with ACE2 expression, have resulted in increased clearing of the SARS‐CoV‐2 clearance among COVID‐19 patients (Gautret et al., 2020).
+The initial wild‐type structure of the human ACE2 (hACE2) was selected from the X‐ray crystal complex structure between hACE2 with SARS‐CoV‐2 spike (S) protein from Protein Data Bank (Berman, Henrick, Nakamura, & Markley, 2007) (PDB ID: 6LZG).
+We also found that there was some variability of genetic expression of hACE2 among various populations, but the magnitude of the differences was small and so it is unclear if this has any impact based on this subtle differences in susceptibility or severity of COVID‐19 among various ethnicities.
+We also did not notice a differential expression of hACE2 between the sexes, even though it is widely reported that males have a worse prognosis than females for complications of COVID‐19 (Zhou, Yu, et al., 2020).
+There appears to be large regional variation for susceptibility, severity, and mortality for COVID‐19 infections.
+Angiotensin Enzyme and Receptor are now active targets for potential treatment of COVID‐19.

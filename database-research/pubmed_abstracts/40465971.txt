@@ -1,0 +1,6 @@
+This study investigates the potential of the compound 5,7-dimethoxyflavone (5,7-DMF) found in Piper ornatum as an anti-breast cancer agent using an in silico approach.
+The study targeted three major mechanisms involved in breast cancer progression: the ability of 5,7-DMF to inhibit kinase activity, act as a competitive inhibitor of cyclooxygenase 2 (COX-2) and nitric oxide synthase 2 (NOS2).
+This was investigated through molecular simulation by assessing drug-likeness, toxicity, membrane permeability, bioactivity, specific docking with AutoDock Vina integrated with PyRx 8.0, as well as molecular dynamics simulation using CABS-flex 2.0.
+Molecular docking results showed that 5,7-DMF has a high binding affinity towards the COX-2 target and inhibits kinase activity.
+This study also revealed significant interactions between 5,7-DMF and the COX-2 active site, supporting its potential as an anti-breast cancer agent.
+These results provide a solid basis for the further development of 5,7-DMF as a potential drug candidate against breast cancer.

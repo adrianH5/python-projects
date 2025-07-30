@@ -1,0 +1,5 @@
+Their positions on the 3D structure of the MERS-CoV spike protein (PDB ID: 5X5F) are illustrated in Figure 3.
+For the sake of comparison, we also retrieved 21 complete genomes of betacoronavirus strains from the National Center for Biotechnology Information (NCBI) database (http://www.ncbi.nlm.nih.gov/genomes/VirusVariation/Database/nph-select2.cgi), along with those of two 2019-nCoV strains isolated in Saudi Arabia (https://www.gisaid.org).
+Primers were designed and checked using Primer Express software (v3.0) (Applied Biosystems, Foster City, CA, USA) and NetPrimer (Premier Biosoft, Palo Alto, CA, USA), with gap flanking regions incorporated into the primers.
+For the spike protein dataset, we used the Blosum62+Gamma substitution model, a strict clock model, and a constant-size tree prior.
+The BEAST package TreeAnnotator was utilized to summarize a maximum clade credibility (MCC) tree for every dataset using MCMC tree samples.

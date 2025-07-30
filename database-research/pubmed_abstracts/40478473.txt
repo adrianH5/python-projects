@@ -1,0 +1,2 @@
+This study aims to enhance surgical safety by developing a method for vascular segmentation in laparoscopic surgery videos with limited visibility.
+We introduce an adaptive sensitivity-fisher regularization (ASFR) approach to adapt neural networks, initially trained on non-medical datasets, for vascular segmentation in laparoscopic videos.

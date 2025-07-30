@@ -1,0 +1,4 @@
+Background Colorectal cancer (CRC) is largely preventable or curable with effective screening.
+Purpose To compare both the clinical efficacy and cost effectiveness of CRC screening with CT colonography (CTC) with those of multitarget stool DNA (mt-sDNA) testing.
+Materials and Methods A state-transition Markov model was constructed using updated natural history evidence for colorectal polyps applied to a hypothetical 10 000-person cohort representative of the 45-year-old U.S. population.
+Three screening strategies were modeled with these data: mt-sDNA testing every 3 years, the conventional CTC (CTC

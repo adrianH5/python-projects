@@ -1,0 +1,5 @@
+The c-Fos protein has been broadly utilized as a marker of neuronal activity, and conventional immunohistochemistry to determine its expression relies on tissue sections.
+Here, we present a protocol to visualize the endogenous c-Fos protein in intact, unsectioned mouse brains responding to specific stimuli based on the immunolabeling-enabled three-dimensional imaging of solvent-cleared organs (iDISCO) method.
+We describe steps for tissue harvesting, fixation, decolorization, and permeabilization followed by whole-tissue anti-c-Fos immunolabeling.
+We then detail procedures for tissue embedding and optical clearing for imaging by lightsheet microscopy.
+For complete details on the use and execution of this protocol, please refer to Chen et al.

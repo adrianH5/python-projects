@@ -1,0 +1,10 @@
+The relative failure of immune checkpoint inhibitors in pancreatic ductal adenocarcinoma (PDAC) despite having a dense, immunosuppressive tumor microenvironment highlights the need to target alternate/escape pathways.
+We have previously examined C-C chemokine receptor type 9 (CCR9) as a candidate immune checkpoint and developed a targeted, humanized monoclonal antibody (SRB2).
+Cytotoxicity of SRB2 was evaluated in vitro and in vivo.
+CCR9 expression on PDAC cells/tissues, immune components of patient-derived organoids (PDOs), and antibody-dependent cell-mediated cytotoxicity were examined.
+In PANC-1 and MIA PaCa-2 cell lines, we demonstrated highest CCR9 expression; however, no direct cytotoxic effect was observed with SRB2 treatment.
+In PANC-1 cells, NK cell-mediated cytotoxicity was promoted by SRB2.
+Dose-dependent SRB2 cytotoxicity was observed in PDAC PDOs.
+In patient-derived xenograft mouse models, cytotoxicity of SRB2 monotherapy and in combination with oxaliplatin was also shown.
+In humanized immune-competent mouse models, SRB2 efficacy was similar to other drugs, but two mice in this cohort had complete tumor regression.
+Our current studies suggest that therapeutic targeting of CCR9 may improve PDAC outcomes, and additional studies are underway to evaluate SRB2 for clinical use.

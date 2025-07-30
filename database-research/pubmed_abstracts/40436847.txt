@@ -1,0 +1,7 @@
+Defective DNA repair and metabolic rewiring are highly intertwined in promoting the development and progression of cancer.
+However, the molecular players at their interface remain poorly understood.
+Here we show that an RNF20-HIF1α axis links the DNA damage response and metabolic reprogramming in lung cancer.
+We demonstrate that RNF20, which catalyzes monoubiquitylation of histone H2B (H2Bub1), controls Rbx1 expression and thereby the activity of the VHL ubiquitin ligase complex and HIF1α levels.
+Ablation of a single Rnf20 allele significantly increases the incidence of lung tumors in mice.
+Mechanistically, Rnf20 haploinsufficiency results in inadequate tumor suppression via the Rnf20-H2Bub1-p53 axis and induces DNA damage, cell growth, epithelial-mesenchymal transition (EMT), and metabolic rewiring through HIF1α-mediated RNA polymerase II promoter-proximal pause release, which is independent of H2Bub1.
+Importantly, decreased RNF20 levels correlate with increased expression of HIF1α and its target genes, suggesting HIF1α inhibition as a promising therapeutic approach for lung cancer patients with reduced RNF20 activity.

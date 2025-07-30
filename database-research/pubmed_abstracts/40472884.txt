@@ -1,0 +1,8 @@
+It is well documented that both social connection patterns and gut microbiota influence individuals' mental and physical health through multiple systems, such as the neuroendocrine, immune and metabolic systems.
+Social connections shape the gut microbiota, and altered gut microbiota in turn modulates the host's social behavior in a feedback loop.
+We therefore hypothesize that the gut microbiota mediates the interaction between social connection patterns and individual well-being.
+In this pilot study, the effects of co-housing (CH) and social isolation (SI) on shaping gut microbiota community structure were investigated using a mouse model.
+Twenty-four 3-week-old mice were randomly divided into CH and SI groups (6/sex/group) for 8 weeks.
+CH mice were socially housed in cages containing 3 mice per cage, while SI mice were individually housed in cages with opaque barriers to prevent interaction.
+We found that CH increased gut microbiota diversity and stabilized its composition, whereas SI decreased gut microbiota diversity and resulted in more compositional fluctuations-changes previously associated with immunity, metabolism, and neurodevelopment.
+Meanwhile, this work also demonstrates that including litter controls may be pivotal in establishing a stable baseline for gut microbiota research.

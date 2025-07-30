@@ -1,0 +1,7 @@
+Cancer cell invasion and subsequent metastasis account for most cancer related deaths.
+However, despite recent progress, there is a need to understand how the main pathways involved in oncogenic cell invasion and metastasis amalgamate into multifunctional networks.
+Using functional transcriptomic analysis of Drosophila Ras oncogenic hindgut enterocytes, we identify a feed-forward loop between the archetypical Toll/NF-κB pathway and Rac1 signaling driving actin cytoskeleton rearrangements, basement membrane degradation, and loss of intercellular adhesion.
+Our data support a signaling network in which Rac1, Toll and JNK signaling transmit the RasV12 signal that primes the hindgut enterocytes towards delamination and dissemination.
+Rac1 induces actin cytoskeleton signaling genes, Rok, sqh, Apr2, and Apr3, while JNK induces matrix metalloprotease-mediated basement membrane degradation and Toll induces snail-depended E-cadherin repression.
+Moreover, the Toll pathway positively regulates itself and the Rac1 pathway cytoskeletal genes downstream of the Ras oncogene, but JNK signaling alone does not suffice to induce cell dissemination.
+Notably, there is a tight crosstalk between Toll and Rac1 signaling that suffices to induce hindgut enterocyte invasiveness and has the key role in transmitting the RasV12 signal.

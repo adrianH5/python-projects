@@ -1,0 +1,3 @@
+Preoperative diagnosis of muscle invasion and American Joint Committee on Cancer (AJCC) stage plays a crucial role in guiding treatment strategies for bladder cancer (BCa).
+Utilizing quantitative analysis of tumor subregions via CT imaging holds promise in identifying high-risk populations.
+Developing and evaluating the performance of an unsupervised clustering algorithm-based intratumoral subregion radiomics model for distinguishing between bladder muscle invasion and AJCC stage.

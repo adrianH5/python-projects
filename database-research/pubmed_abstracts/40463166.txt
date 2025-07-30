@@ -1,0 +1,13 @@
+Individual epithelial cells that acutely express oncogenes such as Ras or Src are extruded apically from monolayers of wildtype cells.
+Multiple signaling networks have been implicated but the extrusion mechanism is still not fully understood.
+We examined extrusion of mammary epithelial cells caused by acute induction of oncogenic Ras(Q61L).
+As reported by others, Ras-dependent extrusion requires downstream activation of ERK but not AKT.
+Unexpectedly, however, extrusion was completely blocked by Erlotinib, which inhibits Epidermal growth factor receptor (EGFR) activity, or by deletion of the receptor.
+In pancreatic and lung cancers, EGFR is required for full activation of Ras and consequent ERK activation.
+However, inhibition or deletion of EGFR had no impact in our system on Ras(Q61L)-GTP levels or ERK phosphorylation.
+Importantly, receptor function was cell autonomous, because EGFR expression was not required in surrounding WT cells but was essential in the Ras(Q61L) cells, yet did not act through the canonical ERK signaling pathway.
+Deletion of Ras exchange factors Sos1/2 did not block cell extrusion.
+Moreover, expression of a constitutively active MEK mutant, instead of Ras, was sufficient to drive extrusion, and EGFR inhibition or knockout in these cells blocked extrusion, with no change in phospho-ERK levels.
+Notably, acute expression of Ras triggered internalization of E-cadherin, which was partially blocked by inhibition of EGFR.
+Knockout of E-cadherin was alone sufficient to promote extrusion.
+Together, these data demonstrate an unanticipated requirement for noncanonical EGFR signaling in cancer cell extrusion, which may act in part through the promotion of E-cadherin endocytosis.

@@ -1,0 +1,8 @@
+Neutrophils are the first line of defense in nonspecific immunity (innate immunity) and interact with other immune cells to participate in specific defense mechanisms (adaptive immunity).
+Studies have shown that the tumor microenvironment (TME) mediates tumor development and recruits neutrophils into tumors to become tumor-associated neutrophils (TANs), an important part of TME, and achieve extended lifespan.
+TANs can be differentiated into the antitumor or protumor phenotype, and play an important role in tumor occurrence, proliferation and recurrence, invasion and metastasis, angiogenesis, cell necrosis, and so on.
+Here, we summarize the TAN origin and subtypes found through Single-cell RNA sequencing analysis in different types of tumors in recent literature, and the molecular mechanisms underlying their antitumor and protumor effects on tumors.
+We focus on the interaction between TANs and immunosuppressive or immunostimulatory TME, as well as signal pathways such as transforming growth factor β (TGF-β) associated with TAN phenotype transition.
+Based on the summarized mechanisms, we focus on the potential application and latest strategies of TAN-based immunotherapy, chemotherapy, and combination therapy in the preclinical study and clinical trials of tumors.
+The discussion on promising therapy encompasses five key areas: inhibition of the tumor-promoting effect of TANs, enhancement of the antitumor effect of TANs, targeting the interaction between TANs and the TME, reprogramming of TANs, and drug delivery carriers.
+Finally, we discuss the potential of TANs and their related markers as emerging biomarkers for predicting the prognosis of cancer patients.

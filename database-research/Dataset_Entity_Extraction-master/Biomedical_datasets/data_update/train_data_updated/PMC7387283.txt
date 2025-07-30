@@ -1,0 +1,20 @@
+Care homes have been disproportionately affected by coronavirus disease 2019 (COVID-19) with high rates of severe illness and deaths among the vulnerable residents with multiple comorbidities.
+Detailed investigations of care homes experiencing a COVID-19 outbreak identified high rates of SARS-CoV-2 positivity among residents and staff, most of whom were asymptomatic at the time of testing.1, 2, 3 In England, the first imported cases of COVID-19 were reported at the end of January 2020 and autochthonous transmission was confirmed a month later.
+London was one of the earliest and worst affected cities in England and large outbreaks of COVID-19 were reported in care homes during the peak of the pandemic.
+By May 01, 2020, there had been excess of 22,000 deaths among care home residents during the COVID-19 pandemic, accounting for 54% of all the excess mortality in England and Wales.
+Six London care homes reporting a suspected outbreak (≥2 suspected cases) of COVID-19 to Public Health England during April 10–13, 2020 were investigated.
+Across the six care homes experiencing a COVID-outbreak, 254 of 474 (54%) staff members were working during April 10–13, 2020, and provided a nasal swab and 53 (21%) tested positive for SARS-CoV-2, including 12 (23%) who were symptomatic at the time of swabbing.
+Within the small cohort of SARS-CoV-2 positive staff, genomic analysis identified two pairs of samples that were not separated when placed in the context of the background of SARS-CoV-2 genomic samples from across greater London (COVID-19 Genomics UK Consortium: https://www.cogconsortium.uk/) dataset (n = 27,768), indicating a higher likelihood of transmission between the individuals.
+A putative cluster involving staff from care home A (highlighted in red) was not present when these sequences were compared with the COG dataset, suggesting that transmission between care home staff was unlikely in this case.
+In six London care homes experiencing a COVID-19 outbreak during the peak of the pandemic, 21% of staff tested positive for SARS-CoV-2 and, of those positive, only 23% were symptomatic at the time of testing.
+Additionally, in many countries including the UK and the US, care homes are heavily reliant on temporary “bank” or agency staff to provide cover for their staff in case of shortages or sick leave.
+,
+ Staff are also recognised sources of infection, especially respiratory and gastrointestinal viruses, in care homes, and COVID-19 is no exception.
+,
+The staff members put themselves at increased risk of COVID-19 and their risk of severe disease may be increased by pre-existing health condition; care workers have among the highest mortality rates among all occupations.
+,
+ Infected care home workers also put their household members at risk of COVID-19 and, depending on the careers of the household members potentially contribute to ongoing transmission in the community.
+10, 11, 12
+Highlights     •  21% of 255 staff working in 6 care homes with a COVID-19 outbreak were SARS-CoV-2 positive.
+Background  Care homes have been disproportionately affected by the COVID-19 pandemic and continue to suffer large outbreaks even when community infection rates are declining, thus representing important pockets of transmission.
+We assessed occupational risk factors for SARS-CoV-2 infection among staff in six care homes experiencing a COVID-19 outbreak during the peak of the pandemic in London, England.

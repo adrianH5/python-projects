@@ -1,0 +1,8 @@
+In a carcinogenicity study with CD-1 mice exposed to pyridachlometyl (dietary dose levels: 0, 700, 2000, and 7000 ppm), a combined incidence of hepatocellular adenoma and carcinoma was increased in male mice at doses ≥ 2000 ppm, but not in female mice.
+We evaluated the mode of action (MOA) of pyridachlometyl-induced liver tumor formation in male mice and its relevance to humans.
+Pyridachlometyl was found to be neither genotoxic, cytotoxic, immunosuppressive, nor hormone-mediated based on a series of toxicity studies.
+Data from general toxicity studies suggested that the MOA involves activation of the nuclear receptor constitutive androstane receptor (CAR), leading to a pleiotropic response including altered gene expression specific to CAR activation, increased hepatocyte proliferation, clonal expansion resulting in altered hepatic foci, and ultimately liver tumor formation.
+Short-term in vivo MOA studies in CD-1 mice showed that pyridachlometyl significantly increased liver weight, incidence of centrilobular hepatocyte hypertrophy, Cyp2b10 and Cyp3a11 mRNA levels and their enzyme activities, and hepatocyte replicative DNA synthesis, all in a dose-dependent manner.
+These effects were reversible upon cessation of treatment and were attenuated in CAR/PXR knockout mice.
+Pyridachlometyl induced human CYP2B6 and CYP3A4 mRNAs but did not increase replicative DNA synthesis in either cultured human hepatocytes or human hepatocytes in chimeric mice (PXB-mice).
+Overall, these data strongly support that the MOA for pyridachlometyl-induced hepatocellular tumors in male mice is via activation of CAR, indicatiing that the liver tumor formation observed in male mice is not relevant to humans.

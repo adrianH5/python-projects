@@ -1,0 +1,4 @@
+TrxR1 (Thioredoxin reductase 1) is overexpressed in several types of cancer, containing lung cancer, which is closely linked to metastasis.
+Hence, TrxR1 has emerged as a target for cancer therapies.
+In this study, it was aimed to survey whether lecanoric (LA), evernic acid (EA), and vulpinic acid (VA) exert an anticancer effect on lung cancer (A549) cells by targeting the TrxR1 protein.
+The findings indicated that VA elicited a more notable cytotoxic activity in A549 cells (36.21 µg/mL) at a lower IC

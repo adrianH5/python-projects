@@ -1,0 +1,2 @@
+Preoperative prediction of lymph node metastasis (LNM) is important for gastric cancer (GC) diagnosis, treatment and prognosis.
+This study aimed to predict LNM risk in GC using quantitative parameters and extracellular volume fraction (ECV%) derived from spectral computed tomography (CT).

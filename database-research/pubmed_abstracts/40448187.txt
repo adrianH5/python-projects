@@ -1,0 +1,5 @@
+Low-dose computed tomography (LDCT) lung cancer screening can reduce mortality in high-risk individuals, but many individuals with a heavy smoking history may be reluctant to undergo radiologic examinations.
+A non-invasive blood test might help overcome this barrier.
+The BioMILD trial evaluated the combination of a plasma microRNA signature classifier (MSC) and LDCT for personalized lung cancer screening in 4,119 individuals who smoke or used to smoke.
+Based on BioMILD results, we aim to conduct a projection analysis to estimate the number of early lung cancers that could be detected if MSC were used as an initial screening tool for individuals reluctant to undergo LDCT.
+This model explores the potential of a biomarker-driven approach to address screening hesitation.

@@ -1,0 +1,3 @@
+Cationic peptides offer a promising alternative for cancer treatment due to their ability to target cancer cells via standard membrane features, thereby overcoming intratumoral heterogeneity.
+This study investigates the cytotoxic activity and the membrane-disruptive effects of two snake venom-derived peptides, Crotalicidin (Ctn) and NA-CATH-ATRA-1-ATRA-1 (NA) in human breast cancer cells.
+Cell viability assays showed that both Ctn and NA significantly diminished the viability of MCF-7 and MDA-MB-231 cells, with NA showing greater potency, as indicated by lower IC

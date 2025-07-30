@@ -1,0 +1,7 @@
+Severe immune aplastic anemia is a fatal disease due to the destruction of marrow hematopoietic cells by cytotoxic lymphocytes, serving as a paradigm for marrow failure syndromes and autoimmune diseases.
+To better understand its pathophysiology, we apply advanced single cell methodologies, including mass cytometry, single-cell RNA, and TCR/BCR sequencing, to patient samples from a clinical trial of immunosuppression and growth factor stimulation.
+We observe opposing changes in the abundance of myeloid cells and T cells, with T cell clonal expansion dominated by effector memory cells.
+Therapy reduces and suppresses cytotoxic T cells, but new T cell clones emerge hindering robust hematopoietic recovery.
+Enhanced cell-cell interactions including between hematopoietic cells and immune cells, in particular evolving IFNG and IFNGR, are noted in patients and are suppressed post-therapy.
+Hematologic recovery occurs with increases in the progenitor rather than stem cells.
+Genetic predispositions linked to immune activation genes enhances cytotoxic T cell activity and crosstalk with target cells.

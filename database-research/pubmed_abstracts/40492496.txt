@@ -1,0 +1,6 @@
+Immune checkpoint blockade (ICB) and chimeric antigen receptor (CAR) T cell therapies have revolutionized cancer immunotherapy, offering significant benefits across various cancers.
+However, challenges remain, particularly in solid tumors where immunosuppressive tumor microenvironments and T cell exhaustion limit effectiveness.
+Combining ICB with CAR T cell therapy has shown potential but requires further optimization for effective synergy.
+Here, the bioinformatic analysis identified that CXCL13 expression is highly elevated in T cells from patients who respond to ICB, indicating its possible role in enhancing T cell antitumor responses.
+Mouse CAR T cells are engineered to overexpress CXCL13 and observed that these cells displayed reduced exhaustion, increased central memory phenotype, and improved mitochondrial function and proliferation in an AKT-mTOR dependent manner.
+CXCL13-overexpressing CAR T cells show significantly increased antitumor activity in vivo, particularly when combined with PD-1 inhibition, promoting the expansion and persistence of early exhausted CD8

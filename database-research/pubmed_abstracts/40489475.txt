@@ -1,0 +1,1 @@
+This study aims to develop a fully automated VMAT planning program for short-course radiotherapy (SCRT) in Locally Advanced Rectal Cancer (LARC) and assess its plan quality, feasibility, and efficiency.

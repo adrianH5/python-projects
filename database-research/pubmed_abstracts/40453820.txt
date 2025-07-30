@@ -1,0 +1,9 @@
+Chemotherapy is crucial for treating intermediate and advanced hepatocellular carcinoma (HCC).
+However, anthracycline agents such as doxorubicin (DOX) are often expelled from tumor cells by P-glycoprotein (P-gp), which decreases the intracellular drug levels and leads to treatment failure.
+Activated hepatic stellate cells (aHSCs) are critical in liver fibrosis and HCC progression and facilitate liver cancer development.
+Importantly, liver fibrosis progression is closely linked to the expression of cyclooxygenase-2 (COX-2).
+Here, we developed a pH-responsive peptide drug delivery system, Pep loaded with DOX and CXB (DC/Pep), which targets HCC by transporting the COX-2 inhibitor celecoxib (CXB) alongside the conventional chemotherapeutic drug DOX.
+DC/Pep transitioned from spherical particles to high aspect ratio aggregates in a mildly acidic environment, delaying chemotherapeutic agent efflux from the tumor.
+DC/Pep effectively inhibited hepatic stellate cell activation and reduced collagen fiber synthesis, thereby preventing the development of liver fibrosis.
+Consequently, the proliferation of ectopic and orthotopic HCC tumors was effectively inhibited, leading to an enhanced antitumor effect.
+This study is important for designing novel drug delivery systems using peptide amphiphiles for the treatment of intermediate and advanced HCC.

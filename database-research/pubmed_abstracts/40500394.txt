@@ -1,0 +1,8 @@
+Midkine (MDK) is a heparin-binding growth factor implicated in the pathogenesis of various diseases, including cancer, chronic inflammation, and multidrug resistance (MDR).
+While its expression is minimal in adult tissues, it becomes markedly elevated during embryogenesis and in response to injury, infection, or hypoxia.
+MDK modulates inflammatory responses by recruiting immune cells and enhancing proinflammatory cytokine production.
+In oncogenesis, it promotes tumor proliferation, angiogenesis, epithelial-to-mesenchymal transition (EMT), and therapeutic resistance.
+Elevated MDK levels are frequently associated with aggressive tumor behavior and poor clinical outcomes.
+This review synthesizes current knowledge on MDK's expression profiles, molecular mechanisms, and functional roles across pathological conditions.
+It also discusses MDK's emerging value as a diagnostic and prognostic biomarker, and highlights recent advances in therapeutic strategies including small molecule inhibitors, RNA-based approaches, and receptor-blocking peptides.
+Overall, MDK represents a promising target for future personalized therapies, although further preclinical and clinical validation is warranted to confirm its translational potential.

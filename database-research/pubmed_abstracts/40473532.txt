@@ -1,0 +1,4 @@
+The plasticity of cancer-associated fibroblasts (CAFs) refers to their ability to adopt a spectrum of distinct phenotypes or states in response to dynamic changes within the tumor microenvironment (TME).
+Recent advances in single-cell technologies have enabled detailed characterization of the heterogeneity and spatial complexity of CAF subpopulations across multiple tumor types.
+Notably, CAF subtypes undergo dynamic transitions during tumor progression and therapy pressure.
+This review systematically summarizes the current knowledge on CAF plasticity shaped by both intrinsic and extrinsic factors, delineates research gaps, and highlights CAF phenotypic switching as a potential therapeutic opportunity.

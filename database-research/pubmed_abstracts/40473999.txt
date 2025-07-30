@@ -1,0 +1,13 @@
+Biomolecular detection based on a single fluorescence signal response is often difficult to completely eliminate the influence from interfering factors on the assay results.
+In this work, a ratiometric fluorescence probe was designed based on a dual emission carbon dot (CD).
+It produces dual-color emission (400 nm blue emission band and 560 nm green emission band) under 360 nm excitation.
+The two emission bands are believed to be originated from the distinct luminescent mechanisms: the intrinsic emission of CDs and intramolecular charge transfer (ICT) process, respectively.
+The energy transfer between the dual emission leads to the differentiated responses towards sialic acid (SA).
+As the concentration of SA increases, the two emission bands of CDs dispersion exhibit opposite variation trends.
+The blue emission intensity rose slightly and green emission intensity descended.
+The ratios of emission band intensity at 400 nm and 560 nm are served as quantitative assay of SA.
+The limit of detection reached 1.15 μM.
+The ratiometric fluorescence probe also shows a favorable selectivity for SA detection.
+The self-calibration and mutual verification functions of the probes enable consistent emission ratios across different models of commercial spectrometers.
+It minimizes the interference from the environment and instrumentation, achieving accurate and highly versatile SA detection.
+The utility of the probe for SA detection was verified by analyzing human serum, showing the tremendous potential of dual emission CDs for accurate SA detection.

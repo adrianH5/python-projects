@@ -1,0 +1,8 @@
+The therapeutic effectiveness of immune checkpoint inhibitors (ICIs) in lung cancer remains constrained and demonstrates substantial variability across different patients.
+Targeting the metabolism of tumors emerges an encouraging strategy to enhance the outcomes of tumor immunotherapy.
+We analyzed metabolic differences in lung cancer post-anti-PD-1 treatment using a single-cell RNA sequencing data (n = 15).
+Abnormal lipid metabolism is notable in patients with a non-major pathological response, and low RAN expression is linked to good immunotherapy response.
+RAN showed increased expression in lung adenocarcinoma (LUAD) versus normal lung tissues, correlating with worse prognosis, advanced staging, reduced immune cell activity, and greater sensitivity to common chemotherapeutic drugs.
+Knockdown of RAN caused G2/M phase arrest, inhibiting proliferation and clone formation in LUAD cells.
+RAN modifies lipid metabolism via nuclear p-AMPK output to aid tumor cells in resisting immunotherapy and reduces MHC-related molecule expression to evade CD8 + T cell detection.
+Combining Selinexor with immunotherapy might effectively counter immune tolerance and boost anti-tumor responses in LUAD.

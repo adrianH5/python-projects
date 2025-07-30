@@ -1,0 +1,9 @@
+DNA methylation plays a fundamental role in regulating transcription during development and differentiation.
+However, its functional role in the regulation of endothelial cell (EC) transcription during state transition, meaning the switch from an angiogenic to a quiescent cell state, has not been systematically studied.
+Here, we report the longitudinal changes of the DNA methylome over the lifetime of the murine pulmonary vasculature.
+We identified prominent alterations in hyper- and hypomethylation during the transition from angiogenic to quiescent ECs.
+Once a quiescent state was established, DNA methylation marks remained stable throughout EC aging.
+These longitudinal differentially methylated regions correlated with endothelial gene expression and highlighted the recruitment of de novo DNA methyltransferase 3a (DNMT3A), evidenced by its motif enrichment at transcriptional start sites of genes with methylation-dependent expression patterns.
+Loss-of-function studies in mice revealed that the absence of DNMT3A-dependent DNA methylation led to the loss of active enhancers, resulting in mild transcriptional changes, likely due to loss of active enhancer integrity.
+These results underline the importance of DNA methylation as a key epigenetic mechanism of EC function during state transition.
+Furthermore, we show that DNMT3A-dependent DNA methylation appears to be involved in establishing the histone landscape required for accurate transcriptome regulation.

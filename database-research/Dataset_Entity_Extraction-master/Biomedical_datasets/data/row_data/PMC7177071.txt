@@ -1,0 +1,12 @@
+Since its emergence in on December 2019, the COVID-19 pandemic has evolved as a global health emergency [1].
+COVID-19 is caused by the novel SARS-CoV-2, a betacoronavirus structurally similar (approximately 79%) to SARS-CoV [2].
+Among the first studies to report clinical data on COVID19 was a recent publication by Yang and colleagues [6].
+Their study provided the foundation for a hypothesis put forth by Fang and colleagues indicating that diabetic and hypertensive patients exposed to ACE2 inhibitors may be at an increased risk of more severe COVID-19 [7].
+Evidence on COVID-19’s interplay with diabetes is only recently emerging, and can currently only be considered within the context of epidemiological studies, determining diabetes mellitus (DM) as frequent comorbidity.
+Aside from DM, novel hyperglycemia was recently associated with an increased with worse outcomes in COVID-19 patients, however this association was not independent of other predictors in the multivariate model [17].
+Epidemiological associations between COVID-19 and lipid metabolism are currently not possible, since even large scale cohorts do not report on relevant measurements [18].
+On the experimental level, lipid metabolism on the cellular level has been proposed as a treatment target for COVID-19; specifically, both interactions between SARS-CoV’s spike protein with lipid rich membrane compartments, as well as the epigenetic modulations in lipid metabolism were considered as the end-point targets for the development of small molecules, aiming to prevent SARS-CoV-2 infection [19].
+COVID-19, the disease caused by the novel SARS-CoV-2, a betacoronavirus structurally similar to SARS-CoV.
+Conversely, currently there are only non-causative, observational evidence of worse outcomes for COVID-19 patients with comorbid diabetes or hyperglycemia.
+No study has reported on the lipid profiles of COVID-19 patients; however, lipid-targeting molecules have been proposed as agents against SARS-CoV-2.
+Future studies, reporting on lipid and glucose metabolism of COVID-19 patients could help elucidate the disease’s seculae and aid drug design.

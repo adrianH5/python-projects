@@ -1,0 +1,5 @@
+Cancer immunotherapy has revolutionized oncology, but its full potential remains constrained by treatment resistance, limited durability, immune evasion, and systemic toxicity.
+Overcoming these obstacles requires innovative strategies for remote and targeted immunomodulation.
+Opsin-free optogenetics has emerged as a powerful tool in cancer immunotherapy because its versatility and photoactivation kinetics align with the timescale of immune cell signaling, and it has given rise to the subfield of optogenetic immunoengineering.
+This review explores design strategies and key applications of optogenetic immunoengineering, focusing on the opsin-free optogenetic toolkit in immunotherapy and its ability to modulate the cancer-immunity cycle which is required for amplifying and sustaining antitumor responses.
+By enabling precise regulation of both innate and adaptive immunity, as demonstrated in recent preclinical studies, optogenetic immunoengineering holds great promise for advancing next-generation precision medicine.

@@ -1,0 +1,6 @@
+Glioma, a primary malignant tumor of the central nervous system, remains a formidable challenge despite advancements in treatment.
+Immunotherapies hold promise, but their efficacy is hindered by the blood-brain barrier (BBB) and immunosuppressive tumor microenvironment (TME).
+The nose-to-brain transport pathway offers a potential solution for bypassing the BBB and avoiding systemic absorption issues.
+In this study, we developed a calcium phosphate (CaP)-covered nanovaccine (NV) based on hepatitis B core antigen derived virus-like particles (HBc VLPs), optimized for mucosal delivery applications.
+After biomineralization, this NVs exhibited enhanced mucosal adhesion and significantly higher accumulation in glioma tissue.
+Furthermore, by leveraging the immunogenicity of HBc VLPs and displaying a glioma-associated antigen EphA2

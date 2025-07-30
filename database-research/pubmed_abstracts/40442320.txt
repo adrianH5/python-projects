@@ -1,0 +1,9 @@
+Differentiating follicular thyroid adenoma (FTA) from carcinoma (FTC) remains challenging due to similar histological features separate from invasion.
+This study developed and validated DNA- and/or protein-based classifiers.
+A total of 2443 thyroid samples from 1568 patients were obtained from 24 centers in China and Singapore.
+Next-generation sequencing of a 66-gene panel revealed 41 (62.1%) detectable genes, while 25 were not, showing similar alteration patterns with differing mutation frequencies.
+Proteomics quantified 10,336 proteins, with 187 dysregulated.
+A discovery protein-based XGBoost model achieved an AUROC of 0.899 (95% CI, 0.849-0.949), outperforming the gene-based model (AUROC 0.670 [95% CI, 0.612-0.729]).
+A subsequent 24-protein classifier, developed via targeted mass spectrometry and validated in three independent sets, showed high performance in retrospective cohorts (AUROC 0.871 [95% CI, 0.833-0.910] and 0.853 [95% CI, 0.772-0.934]) and prospective biopsies (AUROC 0.781 [95% CI, 0.563-1.000]).
+It exhibited a 95.7% negative predictive value for ruling out malignancy.
+This study presents a promising protein-based approach for the differential diagnosis of FTA and FTC, potentially enhancing diagnostic accuracy and clinical decision-making.

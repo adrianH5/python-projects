@@ -1,0 +1,12 @@
+To delve into the role and molecular mechanism of lysosome-associated membrane protein 3 (LAMP3) in tongue squamous cell carcinoma (TSCC).
+Differential expression of LAMP3 in TSCC from GEO microarray was analyzed, and pathway enrichment analysis of LAMP3 was performed utilizing GSEA.
+LAMP3 expression was detected by western blot, immumohistochemical staining and qRT-PCR.
+LAMP3 knockdown plasmid was constructed for a variety of biological function assays to verify the involvement of LAMP3 in TSCC.
+The upstream transcription factors and binding sites of LAMP3 were bioinformatically predicted.
+Dual luciferase reporter gene assay was applied to check the presence of c-Myc binding to the promoter region of LAMP3 and the regulation of its transcription.
+Further, a xenograft tumor model was developed to corroborate the impact of LAMP3 on tumor growth in vivo.
+LAMP3 expression was enhanced in TSCC tissues and cells.
+LAMP3 knockdown attenuated TSCC cell proliferation, DNA replication and metastatic capacity while induced glucose metabolism reprogramming in vitro.
+Meanwhile, LAMP3 depletion contributed to the delay of tumor progression in vivo.
+c-Myc was found bind to the LAMP3 promoter region to positively modulate LAMP3 transcriptional expression.
+LAMP3 regulated by c-Myc enhanced TSCC cell proliferation, DNA replication capacity while induced glucose metabolism reprogramming, suggesting a potential target for clinical trials in TSCC.

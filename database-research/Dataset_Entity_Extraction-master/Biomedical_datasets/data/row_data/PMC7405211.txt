@@ -1,0 +1,16 @@
+The SARS‐CoV‐2 ssRNA virus was initially detected in December 2019 within China's Hubei province and its associated COVID‐19 pandemic is currently ongoing, with a global toll of over 5 million infections and 333 thousand deaths so far (WHO coronavirus disease [COVID‐19] situation report‐124, published on 23 May 2020).
+Despite having such climate conditions, COVID‐19 cases are increasing at an alarming rate in relatively hot and humid subtropical South‐East Asian countries.
+As of 22 May, a total of 182,278 cases of SARS‐CoV‐2‐infected cases were identified in South‐East Asia, with a death toll of over 5,500 (WHO coronavirus disease [COVID‐19] situation report‐124, published on 23 May 2020).
+In addition, GISAID differentiated COVID‐19 into three major clades: Clade S (prevalent in North America), Clade V (prevalent in Asia and Europe) and Clade G (prevalent in Europe), having NS mutations with aa substitutions at NS8_L84S, NS3_G251V and S_D614G, respectively (Fuertes et al., 2020).
+Finally, based on genomic data available from the GISAID, Nextstrain's SARS‐CoV‐2 global genomic epidemiology analysis shows 10 major clades for this virus.
+The number and ratio of sequence by country were determined based on the available number of sequences and the total number of COVID‐19 cases up to 23 May 2020.
+Accession ID, collection dates and locations of this subset are provided in Supporting Information S1.
+Non‐synonymous mutations with their specific mutation sites in the 60 genomes were determined using ‘CoVsurver enabled by GISAID’ in GISAID’s EpiCoV database.
+Group 1 consists of 11 sequences, including the reference sequence hCoV19/Wuhan/WIV04/2019 (Accession: EPI_ISL_402124).
+A geographic heat map (Figure 5) revealed that most of the 78 NS mutations found from 60 sequences were also common in Europe and North America (according to global mutation statistics database; Supporting Information S3).
+This mutation was later reported as C type by another group (Forster, Forster, Renfrew, & Forster, 2020) and was clustered as S clade by GISAID (Fuertes et al., 2020).
+Most of the S protein mutations identified in this region (Supporting Information S2) were also observed in Europe and North America according to the GISAID global mutation database.
+This specific aa substitution was identified on 55 occasions according to the global database.
+The SARS‐CoV‐2 coronavirus is responsible for the current COVID‐19 pandemic, with an ongoing toll of over 5 million infections and 333 thousand deaths worldwide within the first 5 months.
+The incidence rate of COVID‐19 is increasing at an alarming pace within subtropical South‐East Asian nations with high temperatures and humidity.
+To understand this spread, we analysed 444 genome sequences of SARS‐CoV‐2 available on the GISAID platform from six South‐East Asian countries.

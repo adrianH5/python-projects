@@ -1,0 +1,6 @@
+Cancer therapeutic resistance remains a formidable challenge due to its diverse underlying mechanisms.
+S-palmitoylation (or called S-acylation), a reversible post-translational modification involving the attachment of long-chain fatty acids to cysteine residues, has emerged as a critical regulator of cancer progression and treatment response.
+This review offers a comprehensive analysis of recent advancements in understanding the role of S-palmitoylation in cancer therapeutic resistance.
+We examine the intricate relationship between S-palmitoylation and major oncogenic pathways, with particular focus on its distinct contributions to resistance mechanisms in molecularly-targeted therapy, immunotherapy, chemotherapy, radiotherapy, and endocrine therapy.
+Additionally, we highlight the progress in the proteomic identification and characterization of S-palmitoylated proteins, as well as the development of selective inhibitors targeting protein acyltransferases (PATs) and acyl-protein thioesterases (APTs).
+Furthermore, we discuss the further directions for developing S-palmitoylation-targeted strategies, providing insights into potential avenues for overcoming cancer treatment resistance.

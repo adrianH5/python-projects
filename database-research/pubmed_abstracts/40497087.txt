@@ -1,0 +1,11 @@
+Colorectal cancer remains a major health concern, with colorectal polyps as key precursors.
+Endoscopic mucosal resection (EMR) is a common treatment, but recurrence rates remain high.
+Traditional surveillance strategies rely on polyp characteristics and completeness of the resection potentially missing key risk factors.
+Machine learning (ML) offers a transformative approach by integrating patient-specific data to refine risk stratification.
+Recent studies highlight ML models, such as Extreme Gradient Boosting, which outperform conventional methods in predicting polyp recurrence within one-year post-EMR.
+These models incorporate factors like age, smoking status, family history, and pathology, optimizing follow-up recommendations and minimizing unnecessary procedures.
+Artificial intelligence (AI)-driven tools and web-based calculators enhance clinical workflow by providing real-time, personalized risk assessments.
+However, challenges remain in external validation, model interpretability, and clinical integration.
+Future surveillance strategies should combine expert judgment with AI insights to optimize patient outcomes.
+As gastroenterology embraces AI, ML-driven surveillance represents a paradigm shift, advancing precision medicine in colorectal polyp management.
+This editorial explores AI's role in transforming post-EMR follow-up, addressing benefits, limitations, and future directions.

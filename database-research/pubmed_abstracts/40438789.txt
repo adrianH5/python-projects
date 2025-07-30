@@ -1,0 +1,15 @@
+Idiopathic pulmonary fibrosis (IPF) is a long-term, diffuse pulmonary parenchyma lesion that primarily affects middle-aged and older adults.
+It is characterized by pulmonary interstitial fibrosis of unknown cause.
+The death rate upon diagnosis is higher than that of many other cancer types.
+Mesenchymal stem cell (MSC) treatment of organ fibrosis is a hot topic in preclinical and clinical research because it effectively treats IPF.
+In recent years, decorin (DCN) has been regarded as a critical mediator for its anti-inflammatory and antifibrotic effects.
+The purpose of this study was to generate human umbilical cord MSCs (HUC-MSCs) that overexpress DCN and to investigate the safety, mechanism, and effectiveness of using these cells to cure pulmonary fibrosis caused by bleomycin (BLM).
+First, lentiviral (LV) particles carrying the therapeutic DCN gene (LV-DCN) and control LV particles were created and transfected using the plasmid vector GV208 to create a viral solution for infecting HUC-MSCs.
+These solutions were used to create a DCN overexpression cell line and an MSC-Con.
+cell line infected with the control lentivirus.
+Intratracheal injection of BLM was used to establish a rat model of pulmonary fibrosis.
+On the second day following modeling, different treatments were administered, and the body weight and survival status of the rats were noted.
+The relevant tests were performed on days 15 and 29 following modeling.
+The results demonstrated that the overexpression of DCN did not affect the properties of HUC-MSCs and that these cells were effective in treating IPF.
+MSC-Con.
+and MSC-DCN reduced systemic inflammation by reducing serum interleukin (IL) 1

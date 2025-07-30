@@ -1,0 +1,9 @@
+Competitive endogenous RNA (ceRNA) regulatory networks (CENA) have advanced our understanding of noncoding RNAs' roles in complex diseases, providing a theoretical basis for disease mechanisms.
+Existing ceRNA-disease association prediction methods are limited by traditional graph structures' inability to model long-range dependencies in biological networks.
+While hypergraph models partially address this, they often fail to effectively handle graph-level and node-level noise, hindering improvements in predictive performance.
+To address these challenges, we propose a Noise-Consistent hypeRgraph AutoEncoder framework with denoising strategies, termed NCRAE, aimed at achieving robust node embeddings in ceRNA regulatory networks and enabling the precise prediction of cancer-related ceRNA biomarkers.
+NCRAE employs a multiview contrastive learning strategy, integrating graph-level and node-level corruption with clean feature references to significantly enhance the robustness of hypergraph feature learning.
+Furthermore, to mitigate potential biases introduced by contrastive learning, NCRAE incorporates a noise consistency loss constraint, dynamically adjusting the weights of each component to further optimize the model's noise resistance and generalization ability.
+Combined with hypergraph convolution and Fourier KAN techniques, NCRAE achieves effective node embedding learning.
+Experiments on cancer-related ceRNA data sets show that NCRAE outperforms existing methods, especially in noisy conditions, demonstrating its robustness and predictive capability.
+Case studies further illustrate its practical value in cancer biomarker prediction, providing a powerful tool for cancer biomarker discovery.

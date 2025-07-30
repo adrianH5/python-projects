@@ -1,0 +1,7 @@
+Targeted protein degradation, which aims to eliminate dysregulated proteins, has emerged as a promising strategy for conquering challenging therapeutic targets.
+Proteolysis-targeting chimera (PROTAC) is a heterobifunctional molecule that utilizes the ubiquitin-proteasome system to selectively degrade target proteins.
+Due to its ability to degrade "undruggable" proteins without causing drug resistance, PROTAC has shown great potential in innovative drug development, especially in cancer therapy.
+However, conventional PROTACs suffer from several limitations, such as limited bioavailability and pharmacokinetics caused by complex structures, limited tumor targeting ability, non-specific toxicity, and hook effects.
+Therefore, structural innovation of conventional PROTACs to make them meet the therapeutic demand is essential for unlocking the full potential of PROTACs as a therapeutic tool.
+Here, we summarize four types of unconventional PROTACs for addressing the above challenges and enhancing cancer therapy efficacy, including PROTACs with unconventional binding ligands, PROTACs with unconventional linkers, pro-PROTACs, and self-assembled PROTACs.
+These optimized designs contribute to the development of PROTACs-based universal platforms, providing directions for innovative drug developments and expanding the applications of PROTACs in cancer therapy.

@@ -1,0 +1,5 @@
+Histological analysis of intestinal epithelial tissues is enhanced by 3D visualization compared to 2D sections.
+Here, we present a protocol for 3D visualization of intestinal epithelial cells using an optical clearing approach optimized for endogenous fluorescence and preservation of crypt-villus morphology.
+We describe steps for clearing and refractive index matching tissue.
+We provide detailed procedures for imaging and reconstructing tissue to visualize epithelial cells along the crypt-villus axis with high resolution.
+We illustrate this approach with endogenous tdTomato used for lineage tracing in the small intestine of Fgfbp1-CreER

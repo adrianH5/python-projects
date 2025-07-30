@@ -1,0 +1,6 @@
+Understanding the function of the blood-brain barrier (BBB) in health and disease, as well as improving drug delivery across the BBB, remains a critical priority in neuroscience research.
+However, current in vitro models of the BBB have become increasingly complex and challenging to implement.
+In this study, we present a simplified microfluidic BBB model in which human umbilical vein endothelial cells (HUVECs) are cultured as a monolayer along a fibrin gel containing human pericytes and astrocytes.
+Remarkably, within just three days, the 3D co-culture significantly enhanced barrier formation and upregulated the expression of tight-junction proteins in HUVECs.
+These findings demonstrate that HUVECs, which have been extensively used for over 50 years to study vascular endothelium due to their ease of isolation and culture, can adapt their phenotype towards that of BBB endothelial cells under appropriate conditions.
+This microfluidic BBB model offers a valuable tool for drug development and for advancing our understanding of BBB physiology in both health and disease contexts.

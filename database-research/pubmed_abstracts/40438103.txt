@@ -1,0 +1,9 @@
+Head and neck squamous cell carcinoma (HNSCC) is a highly aggressive malignancy characterized by a complex tumor microenvironment (TME) that plays a pivotal role in tumor initiation, progression, and immune evasion.
+Recent advancements have highlighted the intricate interplay between immune cell infiltration patterns, immune checkpoint dysregulation, and metabolic reprogramming in driving HNSCC immune escape.
+Despite these insights, significant challenges remain, including the incomplete understanding of specific immune evasion pathways and the lack of personalized therapeutic strategies.
+To address these gaps, this review introduces a novel "Trinity" regulatory network of immune evasion in HNSCC, encompassing: (1) metabolic reprogramming-mediated immune checkpoint modulation, (2) stromal cell-driven immune dysfunction, and (3) epigenetic remodeling fostering immune tolerance.
+This framework provides a theoretical foundation for the development of multi-targeted combination therapies and offers innovative strategies to overcome immune evasion.
+Additionally, this review systematically synthesizes the current understanding of the relationship between the HNSCC microenvironment and immune escape, with a focus on emerging immunotherapeutic approaches such as PD-1/PD-L1 inhibitors and CAR-T cell therapy.
+Leveraging cutting-edge single-cell sequencing and spatial transcriptomics, we elucidate the spatiotemporal heterogeneity of the HNSCC immune landscape and propose a new paradigm of "lineage plasticity-driven immune adaptation."
+These insights not only advance our understanding of HNSCC biology but also pave the way for the development of precision immunotherapies aimed at improving patient survival and quality of life.
+By integrating multidisciplinary perspectives, this work underscores the importance of targeting the TME to achieve durable clinical responses and overcome immunotherapy resistance in HNSCC.

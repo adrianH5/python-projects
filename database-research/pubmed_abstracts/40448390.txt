@@ -1,0 +1,5 @@
+Mucin 1 (MUC1) is a promising antigen for cancer vaccine development, but its low immunogenicity poses a major challenge.
+In this study, we have investigated the effect of varying the surface density of an artificial MUC1 glycopeptide on gold nanoparticles by co-loading them with an ovalbumin-derived peptide.
+Our results show that reducing the density of the MUC1 antigen on the nanoparticles does not affect the elicited immune response, as high IgG antibody levels were observed in the immunized mice, which were comparable to those obtained with higher antigen loading.
+These antibodies effectively reacted with natural MUC1 expressed on breast cancer cells, promoted antibody-dependent cell-mediated cytotoxicity and specifically recognized cancer tissue in immunohistochemical assays.
+This work could form the basis for the development of AuNP-based multicomponent vaccines that will allow the incorporation of additional immunostimulatory or complementary antigens in the future without compromising the efficacy of the MUC1 antigen.

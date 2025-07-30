@@ -1,0 +1,13 @@
+Considering the epidemic nature SARS-CoV-2 in the COVID-19 outbreak, identifying the intermediate and original host of SARS-CoV-2 is crucial for preventing new large-scale infection and transmission of viruses.
+The host identification was also based on these 95 complete SARS-CoV-2 records from GISAID.
+The COVID-19 outbreak in Wuhan this time was firstly located at a so-called seafood market, but actually it was a live animal market because a variety of animals were for sale in this seafood market for a long time.
+We collected 823 coronaviruses with other animal hosts on NCBI and 3 pangolin-CoVs from GISAID and compared these 826 records with the 95 SARS-CoV-2 strains.
+All the accession numbers of the datasets are shown in Supplementary files S1, S2 and S3.
+The biological distance between two sequences can be expressed as the Euclidean distance between the two corresponding natural vectors in 12-dim space, as applied on many datasets [25].
+Therefore, for a dataset of n sequences, the relationship is here described as a  pairwise distance matrix.
+For a dataset of n units, we first find the neighbor of each unit by searching for the smallest distance from each unit to any other units.
+Patients possibly became infected during their stay in Wuhan, but showed no obvious symptoms during the incubation, and after returning to home city/province, had fever or dry cough that further confirmed to be COVID-19.
+Though we have filtered out these sequences, it also decreases the size of dataset.
+In [50], the author collected 86 complete or near-complete genomes of SARS-CoV-2 strains on GISAID, and performed pair-wise nucleotide sequence alignment by ClustalX2.
+The severe respiratory disease COVID-19 was initially reported in Wuhan, China, in December 2019, and spread into many provinces from Wuhan.
+As of 2 May, 2020, over 3 million COVID-19 cases had been confirmed, and 235,290 deaths had been reported globally, and the numbers are still increasing.

@@ -1,0 +1,61 @@
+The coronavirus disease 2019 (COVID‐19) pandemic, an infectious disease caused by a novel strain of human coronavirus, the severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2),
+ has become the focus of attention worldwide.
+Since its first report in late December 2019 in Wuhan, China,
+ COVID‐19 has aggressively spread across the world and dramatically impacted people's health and daily life.
+As of July 1, 2020, according to the Situation Report issued by the World Health Organization (WHO), the number of confirmed COVID‐19 cases reported in over two hundred regions exceeded 10.3 million with around 508 000 deaths.
+The clinical patterns of COVID‐19 ranged from asymptomatic cases to critically ill patients.
+Fever, dry cough, and radiological changes in lungs tend to be common clinical manifestations in COVID‐19 patients.
+According to data provided by the China National Health Commission, the mortality rate of COVID‐19 patients was 7.7% in Wuhan,
+ which was higher than the world average (4.9%).
+As the number of infected and fatal cases is rising across the globe, there is a pressing need to investigate the clinical, radiological, and laboratory characteristics, and more importantly, the mortality risk factors in severe COVID‐19 patients.
+However, the mortality risk factors of COVID‐19 patients have not yet been previously reported in detail.
+289 patients with positive real‐time reverse transcription‐polymerase chain reaction (rRT‐PCR) results of SARS‐CoV‐2 nucleic acid test were diagnosed as COVID‐19 and included in the analysis set.
+In accordance with the criteria stated in the clinical guidelines for hospital discharge of a COVID‐19 patient,
+ all the following four conditions should be met: (a) normal temperature lasting longer than 3 days, (b) significantly improved respiratory symptoms, (c) substantially improved acute exudative lesions on chest CT images, and (d) two consecutive negative nucleic acid test results of respiratory tract samples (at least 24 hours apart).
+A total of 289 patients with COVID‐19 were included in this study.
+Multivariate analysis indicated that the age of patients (OR, 1.04; 95% CI, 1.00‐1.08), smoking history (OR, 5.21; 95% CI, 1.39‐19.52), chest tightness/dyspnea (OR, 3.03; 95% CI, 1.18‐7.79), number of affected lobes on admission (OR, 1.71; 95% CI, 1.06‐2.78), and CRP levels on admission (OR, 1.01; 95% CI, 1.00‐1.02) were risk factors associated with death in cases with severe COVID‐19 (Table 4, Figure 1).
+Risk factors associated with death in critically ill
+ COVID‐19 patients
+Of the 289 laboratory‐confirmed COVID‐19 cases in this study, most of the patients were more than 50 years old, with an almost 1:1 female‐male ratio.
+The present study supports the association of elderly age and increased mortality rate in COVID‐19 patients, in accordance with a previous study.
+Several studies have reported that hypertension, hypoxia, leukocytosis, lymphopenia, and high serum LDH levels were independent predictors for in‐hospital death.
+, 
+, 
+, 
+ However, in the present study, only dyspnea and leukocytosis were found to be independent risk factors of death in critically ill COVID‐19 patients.
+Previous reports identified that lower baseline levels and/or progressively decreasing platelet counts were associated with higher mortality of COVID‐19 patients.
+Elevated IL‐6, which is the trigger of CRP synthesis in the liver, was also observed in COVID‐19 patients.
+A cytokine storm has been suggested as a culprit for poor prognosis of critically ill COVID‐19 patients.
+Wang et al identified higher levels of CRP in nonsurvivors compared with survivors within 15 days of COVID‐19 hospitalization.
+Wu et al found that elevated high‐sensitivity CRP was significantly associated with higher risks of acute respiratory distress syndrome (ARDS) in COVID‐19 patients.
+The data suggested that CRP was a marker of a developing cytokine storm in COVID‐19 patients and was associated with disease mortality.
+In a recent study,
+ higher NLR was suggested to be independent risk factors of mortality in hospitalized COVID‐19 patients.
+Similarly, Mehra et al
+ demonstrated that current smokers had higher in‐hospital death rate in COVID‐19 patients.
+In view of these results, smoking should not be considered a preventive measure for COVID‐19 and as a public health issue should be discouraged at all times.
+Although smoking is a major cause of chronic obstructive pulmonary disease (COPD), a recent study reported that COPD did not increase the risk of COVID‐19 patients requiring admission to the intensive care unit (ICU).
+The higher levels of ACE2 expression in the lower respiratory tract of current smokers may contribute to the increased risk of developing severe COVID‐19.
+,
+The strong positive correlations identified between the affected lobe numbers, patients’ age, neutrophil, and lymphocyte counts indicate that more severe pneumonia was associated with elderly age and higher degree of lymphopenia, indicating that the numbers of affected lobes could be a possible risk factor for severe cases and in‐hospital mortality of severe COVID‐19 patients.
+As previously reported, eosinopenia may be an indicator for SARS‐CoV‐2 infection,
+ and the degree of eosinopenia was associated with the severity of COVID‐19.
+, 
+ Persistent eosinopenia may be a predictor of disease severity and adverse clinical outcome during hospitalization, which is consistent with the results reported by Xie et al.
+The anti‐viral effect exhausts eosinophils and may be the cause of eosinopenia in COVID‐19 patients.
+Lymphopenia is prominent in adult COVID‐19 patients, but not in pediatric patients.
+However, multivariate regression analysis did not identify D‐dimer as an independent risk factor of the mortality in severe COVID‐19 patients.
+This was consistent with a previous study conducted by Chen et al,
+ but different from the result from Zhou et al, which showed that elevated D‐dimer was associated with poor prognosis of hospitalized COVID‐19 patients.
+A recent study on COVID‐19 patients in Wuhan revealed an extremely high incidence of thrombosis (41/48, 85.4%) in severe patients with a death rate of 31.7% (13/41).
+In addition, elevated D‐dimer levels could occur in deep venous thrombosis (DVT) and in capillary microthrombi, secondary to pulmonary capillary endothelial injury, contributing to the death of severe COVID‐19 patients.
+Venous thromboembolism (VTE) had a higher incidence in ICU COVID‐19 patients than those on the wards, and the incidence increased along with the duration of hospitalization.
+A study of 184 ICU COVID‐19 patients reported that computed tomography pulmonary angiography (CTPA) and/or ultrasonography confirmed VTE was 27% and arterial thrombotic events was 3.7%.
+The coronavirus disease 2019 (COVID‐19) has become a global pandemic, with 10%‐20% of severe cases and over 508 000 deaths worldwide.
+This study aims to address the risk factors associated with the severity of COVID‐19 patients and the mortality of severe patients.
+Methods  289 hospitalized laboratory‐confirmed COVID‐19 patients were included in this study.
+Conclusions  Survived severe and nonsurvived COVID‐19 patients had distinct clinical and laboratory characteristics, which were separated by principle component analysis.
+Elder age, increased number of affected lobes, higher levels of serum CRP, chest tightness/dyspnea, and smoking history were risk factors for mortality of severe COVID‐19 patients.
+This study compares the clinical, radiological, and laboratory characteristicsand longitudinal variations in laboratory parameters of the 289 hospitalized patients with COVID‐19 with different severity and clinical outcomes.
+We propose that elder age, a greater number of affected lobe(s), elevated C‐CRP level and increased prevalence of chest tightness/dyspnea and smoking history may be associated with the fatal outcome of patients with severe COVID‐19.
+Abbreviations: BUN, blood urea nitrogen; COVID‐19, coronavirus infectious disease 2019; CRP, C‐reactive protein; NLR, neutrophil‐to‐leucocyte ratio; PC1/2, principal component 1/2; PCT, procalcitonin.

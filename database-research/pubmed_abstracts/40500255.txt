@@ -1,0 +1,5 @@
+G protein-coupled receptors (GPCRs) are important therapeutic drug targets for a wide range of diseases.
+Upon activation, GPCRs can initiate several signaling pathways, each with unique therapeutic implications.
+Therefore, understanding how drugs selectively engage specific signaling pathways becomes paramount.
+However, achieving this selectivity remains highly challenging.
+To unravel the underlying multifaceted mechanisms, we integrate systematic mutagenesis of the CB

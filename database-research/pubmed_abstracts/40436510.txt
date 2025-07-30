@@ -1,0 +1,2 @@
+Spot size is a crucial parameter in the clinical operation of light-ion beam therapy delivery systems.
+This study aims to quantify the influence of spot size variations on dose distribution in proton pencil beam radiotherapy.

@@ -1,0 +1,7 @@
+The utilization of magnetic resonance (MR) im-aging to guide near-infrared spectral tomography (NIRST) shows significant potential for improving the specificity and sensitivity of breast cancer diagnosis.
+However, the ef-ficiency and accuracy of NIRST image reconstruction have been limited by the complexities of light propagation mod-eling and MRI image segmentation.
+To address these chal-lenges, we developed and evaluated a deep learning-based approach for MR-guided 3D NIRST image reconstruction (DL-MRg-NIRST).
+Using a network trained on synthetic data, the DL-MRg-NIRST system reconstructed images from data acquired during 38 clinical imaging exams of pa-tients with breast abnormalities.
+Statistical analysis of the results demonstrated a sensitivity of 87.5%, a specificity of 92.9%, and a diagnostic accuracy of 89.5% in distinguishing pathologically defined benign from malignant lesions.
+Ad-ditionally, the combined use of MRI and DL-MRg-NIRST di-agnoses achieved an area under the receiver operating characteristic (ROC) curve of 0.98.
+Remarkably, the DL-MRg-NIRST image reconstruction process required only 1.4 seconds, significantly faster than state-of-the-art MR-guided NIRST methods.

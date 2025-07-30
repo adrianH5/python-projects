@@ -1,0 +1,7 @@
+Suppression of the insulin-IGF-mTORC1-Ras network ameliorates aging in animals.
+Many drugs have targets in the network because of its roles in cancer and metabolic disease and are candidates for repurposing as geroprotectors.
+Rapamycin, an established geroprotective drug, blocks mTORC1 signaling, and trametinib inhibits the Ras-MEK-ERK pathway.
+In this study, we assessed survival and health of male and female mice treated with trametinib, rapamycin or their combination.
+We show here that trametinib treatment extended lifespan in both sexes and that its combination with rapamycin was additive.
+Combination treatment reduced liver tumors in both sexes and spleen tumors in male mice, blocked the age-related increase in brain glucose uptake and strongly reduced inflammation in brain, kidney, spleen and muscle and circulating levels of pro-inflammatory cytokines.
+We conclude that trametinib is a geroprotector in mice and that its combination with rapamycin is more effective than either drug alone, making the combination a candidate for repurposing as a gerotherapy in humans.

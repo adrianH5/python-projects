@@ -1,0 +1,4 @@
+Early detection of locally recurring prostate cancer (PCa) after definitive radiation therapy (RT) offers the opportunity to deliver targeted salvage therapies, thereby reducing the risk of disease progression.
+Quantitative MRI (qMRI) parameters show promise as imaging biomarkers for early detection of local recurrence.
+However, the feasibility of using qMRI for response monitoring in patients undergoing RT combined with androgen deprivation therapy (ADT) remains uncertain.
+Here, we identified the qMRI parameters with potential to reliably detect post-RT response in PCa and compared the response in patients receiving RT combined with ADT versus those receiving RT alone.

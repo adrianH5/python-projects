@@ -1,0 +1,10 @@
+Cancer immunotherapy has emerged as a powerful strategy for clinical treatment of malignant cancers.
+Despite the advances, cancer immunotherapy has met several challenges such as the limited efficacy to small subsets of patients, and serious autoimmune side effects.
+Cancer vaccines that target neoantigens to direct and amplify immune responses against tumors, have shown their efficacy and safety in preclinical and clinical researches.
+The developed cancer vaccines mainly contained peptide vaccines, mRNA vaccine, cell vaccine and oncolytic virus vaccine.
+In the last decade, both peptide based vaccines and vesicle based vaccines have attracted enormous attention for personalized vaccine development due to their potent efficacy in different tumor models.
+Peptide based vesicles are one kind of vesicles that are modified with functional peptides to enhance the efficiency of immune response and anti-cancer effect.
+In this review, we will introduce the basic characteristics, classification and biological application of vesicles or peptide based cancer vaccines respectively.
+Then the design and construction of peptide based vesicles will be summarized.
+Finally, we concluded the biological applications of peptide based vesicles in various cancer types and analyzed the key obstacles to overcome for their clinical applications.
+We hope this review could provide a better understanding of the construction of peptide based vesicles and their prospects for clinical applications.

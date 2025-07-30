@@ -1,0 +1,4 @@
+Autosomal Dominant Polycystic Kidney Disease (ADPKD) is the most common genetic cause of renal failure.
+Uncontrolled proliferation drives ADPKD, which manifests with cystic kidney enlargement.
+Yet, the mechanisms by which renal epithelial cells lose cell cycle control are largely unknown.
+To investigate this, we examined the expression and function of the Ankyrin Repeat and single KH Domain 1 (ANKHD1), which positively regulates proliferation in cancer, yet its role in ADPKD is unexplored.

@@ -1,0 +1,4 @@
+The NRF2 signaling pathway promotes tumor initiation, progression and resistance to chemotherapy, radiation therapy and immune checkpoint inhibitors.
+The mechanisms underlying the biology of NRF2-active tumors are varied, and include altered cellular metabolism, a reductive shift in redox state, and immunosuppression.
+Here we determined the molecular and phenotypic impact of NRF2 activation on two human non-small cell lung cancer (NSCLC) cell models.
+Inducible expression of NRF2

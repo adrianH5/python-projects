@@ -1,0 +1,39 @@
+The third, SARS-CoV-2, causes the severe respiratory disease coronavirus disease 2019 (COVID-19) (Gorbalenya et al., 2020).
+The June 21, 2020 World Health Organization (WHO) Situation Report records over 8.7 million COVID-19 cases and 460,000 deaths, numbers that increase daily.
+Phylogenetic analysis of the global sampling of SARS-CoV-2 is being very capably addressed by the Global Initiative for Sharing All Influenza Data (GISAID) database (https://www.gisaid.org/;
+Our analysis pipeline to track SARS-CoV-2 mutations in the COVID-19 pandemic is based on regular updates from the GISAID SARS-CoV-2 sequence database (GISAID acknowledgments are in Table S1).
+GISAID sequences are generally linked to the location and date of sampling.
+Hundreds of new SARS-CoV-2 sequences are added to GISAID each day, so we have automated steps to create daily working alignments (Kurtz et al., 2004; Figure S1).
+The analysis presented here is based on a May 29, 2020 download of the GISAID data, when our Spike alignment included 28,576 sequences; updated versions of key figures can recreated at our website (https://cov.lanl.gov).
+This allows daily processing of GISAID data to enable us to track mutations.
+These steps are incorporated in a single Perl script, ‘align_to_ref.pl’, briefly summarized here: sequences are compressed for identity, then mapped against the given reference sequence using ‘nucmer’ from the ‘MUMmer’ package (Kurtz et al., 2004).
+At that time, the G614 form was rare globally but gaining prominence in Europe, and GISAID was also tracking the clade carrying the D614G substitution, designating it the “G clade.”
+The figures shown here can be recreated with contemporary data from GISAID at the http://cov.lanl.gov/
+(A) Analysis summaries for all of the level 3 and 4 regional subdivisions from GISAID data (Figure 1) that have at least 5 each of D614 and G614 variants and that are sampled on at least 14 days.
+In the May 29, 2020 dataset used here, Santa Clara county was sampled later in May than any other region in California, so the California G614 frequency dips at this last available time point.
+(Confirmed COVID19 case count data from: COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University).
+Each geographic region that meets these criteria is extracted separately based on the hierarchical geographic/political levels designated in GISAID (Figure 1B).
+Only limited recent sampling from Asia is currently available in GISAID; to include more samples on the map the 10-day period between March 11-20, is shown rather than the period between March 21-30; even the limited sampling mid-March the supports the repeated pattern of a shift to G614.
+In mid-March 2020, screening began to include the local population; this coincided with the appearance of the D614 variant in the sequence dataset.
+A June 19, 2020 GISAID update for several California counties is provided in Figure S4C, and the G614 form is present in the most recent Santa Clara DPH samples.
+C. Updated data regarding California from the June 19, 2020 GISAID sampling.
+Most of the analysis in this paper was undertaken using the May 29, 2020 GISAID download, but as California was an interesting outlier, and more recent sampling conducted while the paper was under review was informative, we have included some additional plots from California data that were available at the time of our final response to review, on June 19th.
+Santa Clara DPH, which was essentially all D614 in our May 29th GISAID download, had 7 G614 forms sampled in late May that were evident in our June 19th GISAID download.
+Our second statistical approach to evaluating the significance of the D614-to-G614 transition (Figure 3) uses the time series data in GISAID more fully.
+Here we extracted all regional data from GISAID that had a minimum of 5 sequences representing each of the D614 and the G614 variants and at least 14 days of sampling.
+The earliest examples of sequences carrying parts of the 4-mutation haplotype that characterizes the D614G GISAID G clade were found in China and Germany in late January 2020, and they carried 3 of the 4 mutations that define the clade, lacking only the RdRp P323L substitution (Figure S5D).
+B. The GISAID G clade is based on a 4 base haplotype that distinguishes it from the original Wuhan form.
+The missing RBD residues at the ACE2 interface are shown in (D).
+SARS-CoV-2 sequences from 999 individuals presenting with COVID-19 disease at the Sheffield Teaching Hospitals NHS Foundation Trust were available and linked to clinical data.
+Similar results, reported recently in a preprint that has not yet been peer reviewed, also suggest that G614 increases Spike stability and membrane incorporation (Zhang et al., 2020).
+(A) A recombinant VSV pseudotyped with the G614 Spike grows to a higher titer than D614 Spike in Vero, 293T-ACE2, and 293T-ACE2-TMPRSS2 cells, as measured in terms of focus-forming units (ffu).
+The mutation resulting in the signal peptide L5F change recurs many times in the tree and is stably maintained in about 0.6% of the global GISAID data.
+The tree is rooted on a reference sequence derived from the original Wuhan isolates (GenBank accession number NC_045512), at the 3 o’clock position.
+As an example, in this tree, the region from approximately 12:30 to 3 o’clock represents GISAID’s “GR” clade, defined both by mutations we are tracking in this paper that carry the G614 variant (the GISAID G clade, defined by mutations A23403G, C14408T, C3037T, and a mutation in the 5′ UTR (C241T, not shown here), and an additional 3-position polymorphism: G28881A + G28882A + G28883C.
+These base substitutions are contiguous and result two amino acid changes, including N-G204R, hence GISAID’s “GR clade” name.
+Close examination of this triplet in sequences from the Sheffield dataset suggests the mutations are not a sequencing artifact.
+The GISAID data, however, provided the opportunity to look into the relationships among the SARS-CoV-2 variants in the context of time and geography, enabling us to track the increase in frequency of G614 as an early indicator of possible positive selection.
+The Global Initiative for Sharing All Influenza Data (GISAID) (Elbe and Buckland-Merrett, 2017; Shu and McCauley, 2017) has been coordinating SARS-CoV-2 genome sequence submissions and making data available for download since early in the pandemic.
+To assemble a high-quality dataset for mutational analysis, we constructed a data pipeline using some off-the-shelf bioinformatic tools and a small amount of custom code.
+The MSA was refined using code derived from the Los Alamos HIV database “Gene Cutter” tool code base.
+In our validation set, we see a C present at around 50% of called bases at both these positions in raw data but this region is trimmed by the ARTIC pipeline and is therefore not used to call variants and contribute to the final consensus sequence.

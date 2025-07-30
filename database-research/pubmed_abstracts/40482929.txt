@@ -1,0 +1,9 @@
+MicroRNAs (miRNAs) are non-coding and internally derived small RNA molecules.
+They post-transcriptionally direct gene expression either by inhibiting translation or initiating degradation of mRNA.
+Conserved evolutionarily, these miRNAs have a significant role in several developmental and regulatory functions in organisms including mammalian cell growth, differentiation, and apoptosis.
+An individual miRNA can modulate a network of mRNA expression by binding to multiple mRNAs through imperfect sequence complementarity.
+In several types of cancer, dysregulation of miRNAs may contribute to cell initiation, migration, incursion, proliferation, immortality, and drug resistance.
+Among all leukemia cases, approximately 15 % of patients suffer from chronic myeloid leukemia (CML).
+miRNA-based modulation offers the idiosyncratic competence for regulating a variety of genes simultaneously; in that way, it could help to modulate accordant signalling pathways that are engaged in cell differentiation, proliferation, and survival.
+The one-drug, one-target approach thereby evolves into a paradigm of one drug with multiple targets.
+This review will delve into the understanding of miRNA dysregulation and recent advancements in therapeutic strategies based on miRNAs.

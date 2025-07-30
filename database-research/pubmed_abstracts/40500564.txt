@@ -1,0 +1,7 @@
+The presence of cancer stem cells (CSCs) play important roles in hepatocellular carcinoma (HCC) relapse, metastasis, drug resistance.
+The IGF1/IGF-1R signaling pathway has been implicated in the development and progression of various cancers, and plays an important role in maintaining the stemness of various types of CSCs, but its role in liver CSCs remains unclear.
+Here, we report that IGF1R is highly expressed in HCC tumors and positively correlated with stemness markers.
+To further verify the role of IGF1R in liver CSCs, the positive correlation of IGF1R expression with liver CSCs was also validated in mRNA level using the TCGA database.
+After pretreatment with IGF1 or overexpression of IGF1R, we observed a expansion of CD133 + and CD90 + populations and concomitantly a increased expression of CSC-associated genes, and increased sphere formation.
+Furthermore, IGF1R inhibition by inhibitor effectively eliminated liver CSCs and inhibited the growth of tumors and metastasis in vivo.
+These findings uncover the important role of IGF1/IGF1R signaling in liver CSCs, and also provide a promising diagnostic marker as well as therapeutic intervention for HCC.

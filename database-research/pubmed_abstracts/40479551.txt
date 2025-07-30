@@ -1,0 +1,9 @@
+Mutations in epidermal growth factor receptor (EGFR) are the key drivers of lung cancer initiation and recurrence.
+The cancer cells undergo transformation to a reversible drug-tolerant persister (DTP) state prior to the development of resistance against EGFR-tyrosine kinase inhibitors (TKIs).
+Two DTP lung cancer cells with different proliferative capacities are established and identified dipeptidyl peptidase 4 (DPP4) as a potential therapeutic target.
+The DTP cells primarily relied on oxidative phosphorylation, which is accompanied by the up-regulation of fatty acid metabolism.
+Mechanistically, DPP4 facilitates the uptake of fatty acids via carnitine palmitoyl transferase 1a (CPT1A, and enhances fatty acid oxidation.
+In addition, the DPP4-mitogen-activated protein kinase kinase (MEK)-Nuclear factor erythroid-2-related factor 2 (Nrf2) signaling pathway maintains mitochondrial function by activating the antioxidant pathway.
+The combination of osimertinib and sitagliptin, a DPP4 inhibitor, not only suppressed tumor progression but also reduced the number of residual tumor cells and minimal residual disease.
+Notably, this combination therapy significantly lowered recurrence rates and extended the survival of tumor-bearing mice compared to the monotherapies.
+The study provides new insights into the metabolic adaptations of DTP lung cancer cells in response to EGFR-TKIs, offering novel therapeutic strategies for targeting these persister cells.

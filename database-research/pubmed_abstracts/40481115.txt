@@ -1,0 +1,7 @@
+Lung cancer is one of the world's deadliest cancers, often not diagnosed until it has spread beyond the lung, in part due to limitations in current medical imaging.
+Insufficient detail in diagnostic images can mean that patients require a biopsy to gain a full understanding of their prognosis.
+Here, we investigate the use of propagation-based X-ray phase-contrast imaging to capture high-resolution region-of-interest 3D Computed-Tomography (CT) images of suspicious masses, using a human chest phantom.
+In this study, we imaged a 3.5 cm region within the chest phantom, with each CT slice amounting to approximately 1% of the area of the whole chest at that height.
+X-ray energies ranging from 50 to 80 keV and propagation distances of 0 to 7 m were tested.
+We were able to quantify the experimental parameters that would be required to increase soft-tissue sensitivity and spatial resolution relative to conventional X-ray imaging methods, and hence improve the capacity for tumour characterisation.
+Our results suggest that propagation-based phase-contrast region-of-interest CT imaging could enable better tumour visualisation, which may aid in earlier detection and a better outcome for lung cancer patients.

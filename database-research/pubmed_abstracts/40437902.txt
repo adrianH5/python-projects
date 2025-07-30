@@ -1,0 +1,9 @@
+In this article, we propose a new frailty model based on a mixture of inverse Gaussian distributions for multivariate lifetimes.
+This approach provides an advantage over previous models, as the weights are directly determined through parameterization of the mixture, removing the need for arbitrary guesswork in the weighting process.
+Moreover, the closed-form Laplace transform of the model facilitates the quantification of Kendall's tau measure of dependence.
+The frailty model's parametric and flexible parametric variants are examined.
+For parameter estimation, the expectation-maximization technique is employed, taking advantage of the hierarchical representation of the frailty distribution, providing a simpler and more stable method than directly maximizing the observed log-likelihood function.
+The performance of the estimators is assessed numerically using Monte Carlo simulations.
+We apply our methodology to two medical datasets on cancer.
+The results indicate the benefits of the proposed model over existing frailty models in the literature.
+The implementation of the procedure is added to the R package extrafrail.

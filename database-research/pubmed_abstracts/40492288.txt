@@ -1,0 +1,7 @@
+Chemoradiotherapy (CRT) induces an antitumor immune response in esophageal squamous cell carcinoma (ESCC), and thereby has enormous potential by itself and in combination with immune checkpoint inhibitors (ICI).
+Our previous studies indicated that human positive cofactor 4 (PC4) was an independent predictor of poor survival in patients with ESCC or lung cancer who were treated with definitive chemoradiation, with a mechanism involving the enhancement of nonhomologous end joining (NHEJ)-mediated DNA repair.
+Due to the important role of double-strand DNA (dsDNA) in the antitumor immune response, the present study aims to investigate PC4 as a predictor of pathological response and antitumor immune response in ESCC patients who underwent neoadjuvant CRT.
+In ESCC, low PC4 expression levels have significant power to predict pCR.
+In particular, pCR is 61.2% in patients with low PC4 expression, but only 23.4% in patients with high PC4.
+Both disease-free survival (DFS) and overall survival (OS) are significantly longer for patients with low PC4 than for those with high PC4.
+In agreement with our previous finding that PC4 participates in NHEJ-mediated DNA repair, our further analysis indicates that the expression of PC4 is not only significantly negatively correlated with cyto-free dsDNA in postoperative specimens, but also with tumor-infiltrating CD8

@@ -1,0 +1,9 @@
+X-ray microtomography (microCT) represents a modern high-resolution imaging technology enabling detailed analysis of the tissue.
+It offers a unique perspective on three-dimensional architecture, bridging the gap between macroscopic and histological imaging.
+In anatomical pathology, microCT is particularly utilized for morphometric tumor analysis, evaluation of surgical specimen resection margins, and detection of metastases in lymph nodes.
+The combination of microCT with traditional histopathological techniques, and with digital 3D reconstructions, opens new avenues for analyzing complex pathological processes.
+Although this method is currently used in research, its clinical potential is significant.
+Key advantages include non-invasive imaging and the ability to be integrated with digital pathology and artificial intelligence tools.
+Current limitations include the need for sample contrast enhancement, the monochromatic nature of the images, and high radiation exposure.
+Advances in technological development, however, may overcome these barriers and enable the broader adoption of microCT in routine clinical diagnostics.
+This article explores the diagnostic potential of microCT in pathology, highlighting its applications, advantages, and limitations, while offering insights into current capabilities and future perspectives of this technology.

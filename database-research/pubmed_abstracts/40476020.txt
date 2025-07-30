@@ -1,0 +1,10 @@
+Metabolic dysfunction-associated steatotic liver disease (MASLD) is characterized by a complicated interaction of lipotoxicity and inflammation in the liver, yet the mechanisms linking these phenomena remain incompletely understood.
+In this study, we investigated the mechanistic uptake of extracellular vesicles (EVs) derived from macrophages into palmitic acid (PA)-induced lipotoxic hepatoma cells.
+By co-culturing macrophages with lipotoxic Huh7 cells in a transwell system, we demonstrated that PA-treated Huh7 cells exhibited impaired uptake of macrophage-derived EVs.
+Compared with control Huh7 cells, PA-treated Huh7 cells presented a reduction in the expression of macrophage-derived microRNA-223 (miR-223) after co-culture, accompanied by an increase in the expression of miR-223 target genes.
+Further analysis revealed that upon PA treatment, the expression of low-density lipoprotein receptor (LDLR) in Huh7 cells and EV uptake activity were simultaneously diminished.
+Gain- and loss-of-function experiments of LDLR in Huh7 cells revealed a crucial role of LDLR in facilitating EV uptake.
+Mechanistically, we elucidated that PA induced endoplasmic reticulum stress and subsequently stimulated proprotein convertase subtilisin/kexin type 9 (PCSK9)-mediated LDLR degradation.
+Administration of a PCSK9 inhibitor rescued LDLR levels and increased EV uptake in PA-treated Huh7 cells from macrophages.
+Moreover, we found that the uptake of macrophage-derived EVs lacking apolipoprotein E (ApoE) by Huh7 cells was lower than that of control EVs, highlighting the role of ApoE as a facilitator of EV transfer from macrophages into Huh7 cells.
+Overall, our study highlights the intricate mechanisms underlying EV-mediated communication between macrophages and Huh7 cells during lipotoxicity and provides insight into the development of EV-based therapies for MASLD.

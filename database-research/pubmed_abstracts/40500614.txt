@@ -1,0 +1,11 @@
+To evaluate the efficacy and safety of early brain radiotherapy combined with EGFR-TKI versus EGFR-TKI alone in EGFR-mutation-positive non-small cell lung cancer (NSCLC) patients with brain metastases (BMS).
+A systematic literature search was conducted in several databases.
+The primary outcome measures were overall survival (OS) and intracranial progression-free survival (iPFS), while secondary outcome measures included adverse events (AEs).
+Meta-analysis was performed using STATA 15.1 software.
+A total of 18 retrospective trials involving 2,119 patients were included.
+Meta-analysis showed that early brain radiotherapy combined with EGFR-TKI was superior to monotherapy in improving OS (HR = 0.87, 95% CI, 0.76-0.99) and iPFS (HR = 0.77, 95% CI, 0.61-0.97).
+Subgroup analysis indicated that among patients treated with Osimertinib, monotherapy showed a trend towards improved OS (HR = 1.44, 95% CI, 0.94-2.22) and iPFS (HR = 1.10, 95% CI, 0.76-1.60), though without statistical significance.
+In contrast, first- and second-generation EGFR-TKI combined with early brain radiotherapy significantly prolonged OS (HR = 0.83, 95% CI, 0.72-0.95) and iPFS (HR = 0.72, 95% CI, 0.55-0.93).
+Regarding AEs, the incidence of neurological adverse reactions was significantly higher in the combined treatment group (RR = 15.82, 95% CI, 2.31-108.54).
+Early brain radiotherapy combined with EGFR-TKI can significantly improve OS and iPFS in EGFR-mutated NSCLC patients with BMS but may increase the risk of neurological adverse reactions.
+Further research is needed to verify the efficacy differences between monotherapy and combination therapy for patients using Osimertinib.

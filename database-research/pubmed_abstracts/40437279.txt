@@ -1,0 +1,8 @@
+Therapeutic proteins and peptides hold great potential in treating metabolic disorders, infectious diseases, and cancers; however, their oral administration remains challenging due to enzymatic degradation and poor intestinal permeability.
+To address these limitations, microneedles have emerged as a promising, minimally invasive delivery system to enhance oral bioavailability.
+This review explores the advantages of microneedles in overcoming physiological barriers to protein and peptide delivery, discussing various types, including solid, dissolvable, coated, hollow, and hydrogel-forming microneedles, in terms of their structural properties, mechanisms of action, and drug release kinetics.
+Additionally, we examine how microneedles enable controlled and efficient therapeutic protein and peptide release, improving bioavailability and efficacy.
+Recent research on microneedle applications for transdermal and oral delivery is summarized, alongside a detailed overview of mathematical modeling approaches used to optimize drug release.
+Microneedles show promise for administering protein and peptides such as vaccines, insulin, and other biologics via the oral route, addressing current limitations in biopharmaceutical delivery.
+Recent in vivo studies reinforce their feasibility and clinical relevance, demonstrating improved patient compliance and therapeutic outcomes.
+By offering a safe, effective, and patient-friendly solution, microneedle technology represents a transformative approach to drug delivery, paving the way for non-invasive and convenient therapeutic strategies for protein and peptide-based treatments.

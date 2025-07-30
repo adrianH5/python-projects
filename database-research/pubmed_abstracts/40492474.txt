@@ -1,0 +1,8 @@
+The information extracted from imaging data has become increasingly important in disease diagnosis as it uncovers associations between imaging features and diseases of interest.
+This study proposes a partial functional Tobit censored quantile regression (PFTCQR) model to investigate the quantile-specific relationships between the time of incidence of laryngeal cancer and a set of imaging and clinical predictors based on the data collected from a laryngeal cancer study in the Otolaryngology Department of a tertiary hospital in Jilin Province, China.
+The functional principal component analysis and moment method are employed to estimate the slope and covariance functions of the functional predictors.
+An efficient Markov chain Monte Carlo (MCMC) algorithm is developed, leveraging the location-scale mixture representation of the asymmetric Laplace distribution (ALD) to perform the estimation.
+Furthermore, we extend the PFTCQR model to the composite quantile regression framework and incorporate variable selection for scalar covariates, further enhancing the robustness and efficiency of parameter estimation and improving model fitting.
+The proposed method is demonstrated through simulation studies and applied to the laryngeal carcinoma data.
+Results provide new insights into potential risk factors for laryngeal carcinoma and their effects varying across quantiles.
+Specific laryngeal regions are identified as significantly associated with the progression of the disease.

@@ -1,0 +1,11 @@
+Micro/nanoplastics (MNPLs) are environmental contaminants originating mainly from plastic waste degradation that pose potential health risks.
+Inhalation is a major exposure route, as evidenced by their detection in human lungs, with polyethylene terephthalate (PET) among the most abundant particles in respiratory airways.
+However, the harmful effects of particle bioaccumulation remain unclear, as chronic effects are understudied.
+To assess long-term effects, specifically carcinogenic effects, BEAS-2B cells were exposed to PET-NPLs for 30 weeks.
+Genotoxicity, carcinogenic phenotypic hallmarks, and a panel of genes and pathways associated with cell transformation and lung cancer were examined and compared across three exposure durations.
+No significant effects were observed after 24 h or 15 weeks of exposure.
+However, a 30-week exposure led to increased genotoxic damage, anchorage-independent growth, and invasive potential.
+Transcriptomic analysis showed the upregulation of several oncogenes and lung cancer-associated genes at the end of the exposure.
+Further analysis revealed an increase in differentially expressed genes over time and a temporal gradient of lung cancer-related genes.
+Altogether, the data suggest PET-NPLs' potential carcinogenicity after extended exposure, highlighting serious long-term health risks of MNPLs.
+Assessing their carcinogenic risks under chronic scenarios of exposure is crucial to addressing knowledge gaps and eventually developing preventive policies.

@@ -1,0 +1,10 @@
+Transdermal drug delivery systems offer a non-invasive route for administering medications, providing a controlled and sustained release of therapeutic agents through the skin.
+Here, the hyaluronic acid modified ethosomes loaded with paclitaxel (HA-ES-PTX) and ethosomes loaded with PTX (ES-PTX) nanoparticles were synthesized for treating cancer via skin.
+The ES-PTX were successfully prepared by the thin film hydration method, and then HA-ES-PTX were coated through electrostatic attraction, which caused the attraction of hyaluronic acid (HA) on the surface of cationic ethosomes.
+Morphological studies by TEM, particle size/zeta potential by DLS, and encapsulation efficiency by a nanodrop spectrophotometer were conducted.
+Cell uptake studies showed that hyaluronic acid-modified ethosomes loaded with calcein (HA-ES-Calcein) were more internalized than non-modified ethosomes (ES-calcein) and free calcein.
+MTT assay on breast cancer 4T1 and MDA-MB-231 cell lines revealed that HA-ES-PTX was more cytotoxic than ES-PTX and free PTX.
+In vitro, Franz diffusion cell experiments with rat skin indicated HA-ES-PTX had increased penetration compared to ES-PTX and hydroethanolic PTX.
+Finally, 3D breast tumor spheroids were constructed using MCF-7 and HFL1 cell lines.
+ES-PTX and HA-ES-PTX were introduced into the spheroids, and their sizes were visualized over five days.
+The results indicated that HA-ES-PTX offers a safe and efficient transdermal drug delivery system and provides significant anti-tumor effects on the 3D breast tumor spheroid.

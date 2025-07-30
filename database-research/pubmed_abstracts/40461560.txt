@@ -1,0 +1,12 @@
+Acute myeloid leukemia (AML) is the most prevalent type of leukemia in adults.
+Its heterogeneity, both between patients and within the same patient, is often a factor contributing to poor treatment outcomes.
+Despite advancements in AML biology and medicine in general, the standard AML treatment, the combination of cytarabine and daunorubicin, has remained the same for decades.
+Combination drug therapies are proven effective in achieving targeted efficacy while minimizing drug dosage and unintended side effects, a common problem for older AML patients.
+However, a systematic survey of the synergistic potential of drug-drug interactions in the context of AML pathology is lacking.
+Here, we examine the interactions between 15 commonly used cancer drugs across distinct AML cell lines and demonstrate that synergistic and antagonistic drug-drug interactions are widespread but not conserved across these cell lines.
+Notably, enasidenib and venetoclax, recently approved anticancer agents, exhibited the highest counts of synergistic interactions and the fewest antagonistic ones.
+In contrast, 6-Thioguanine, a purine analog, was involved in the highest number of antagonistic interactions.
+The interactions we report here cannot be attributed solely to the inherent natures of these three drugs, as each drug we examined was involved in several synergistic or antagonistic interactions in the cell lines we tested.
+Importantly, these drug-drug interactions are not conserved across cell lines, suggesting that the success of combination therapies might vary significantly depending on AML genotypes.
+For instance, we found that a single mutation in the TF1 cell line could dramatically alter drug-drug interactions, even turning synergistic interactions into antagonistic ones.
+Our findings provide a preclinical survey of drug-drug interactions, revealing the complexity of the problem.

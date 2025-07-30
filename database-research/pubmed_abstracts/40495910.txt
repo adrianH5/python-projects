@@ -1,0 +1,8 @@
+Lung cancer with brain metastases remains a clinical challenge and is often diagnosed at advanced stages when treatment options are limited.
+Nanotechnological tools have emerged as pivotal in enhancing both diagnostic and therapeutic approaches.
+Herein, we explore the theranostic potential of nanotechnology for the detection and treatment of lung cancer brain metastases, focusing on nanomaterials such as liposomes, polymeric nanoparticles, quantum dots, and magnetic nanoparticles, and their applications in imaging techniques like MRI, PET, fluorescence imaging, and CT.
+The role of nanotechnology in overcoming the blood-brain barrier and facilitating targeted drug delivery through passive and active targeting is also discussed.
+Additionally, it examines the application of nanocarriers in chemotherapy, radiotherapy, immunotherapy, and combination therapies.
+Special attention is given to immune-modulating nanoparticles, including checkpoint inhibitors and nano vaccines, as key innovations in immunotherapy.
+Theranostic nanoparticles are highlighted for their potential in real-time treatment monitoring.
+In summary, nanotechnological tools offer transformative potential in oncology, advancing diagnostics, enabling targeted therapies, and improving patient survival outcomes.

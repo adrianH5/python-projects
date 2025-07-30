@@ -1,0 +1,16 @@
+According to the study reporting kidney injury cases, direct effect of virus was suspected (Wang et al., 2020), and Academician Nanshan, Zhong, leader of high‐level steering team dealing with outbreak of COVID‐19 in China, declared that virus of COVID‐19, SARS‐Cov‐2, was separated from patients’ urine sample (Le, Knoedler, & Roberge, 2020).
+In this study, based on public databases, single‐cell RNA sequencing (scRNA‐seq) technology was used to obtain evidences of potential route of SARS‐Cov‐2 entry and underlying pathogenesis of kidney injury in COVID‐19 patients.
+Significantly top 200 ACE2 co‐expressed genes (p value <0.05) were collected for following downstream Gene Ontology (GO) as well as Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analysis (p value <0.05), with the corresponding databases of Carlson M (2019).
+Although the exact evidence for kidney injury caused by COVID‐19 has not been estimated, several infected patients’ studies revealed the potential risk of kidney vulnerable to be damaged due to SARS‐Cov‐2 virus direct effect.
+Hypothesis of virus direct effect resulting in kidney damage was suspected within the abovementioned case‐studies and, more importantly, based on our study results of scRNA‐seq in human kidney, potential route for COVID‐19 leading kidney damage via ACE2 was estimated.
+From our GO & KEGG analysis, RAS was a significant pathway in ACE2 co‐expressed gene enrichment, which might indicate one of the potential mechanisms of COVID‐19 damage to kidney.
+To the best of our knowledge, no specific medication could be used to against COVID‐19 but symptomatic treatment would be the predominant strategy.
+Occurrence of AKI is the most frequent renal‐related complication in COVID‐19 patients, which increases the risk factor for mortality.
+Recombinant ACE2 was reported to be effective in slowing the progression of kidney disease by reducing albumin excretion and modulating RAS depressor arm (AT2R, ACE2, Ang 1–7) by ACE2 activator or AT2R agonist might protect the kidney from renal injury (Oudit et al., 2010; Sharma, Malek, Mulay, & Gaikwad, 2019), which may provide potential clues for clinicians encountering COVID‐19 patients, especially complicated with kidney injury.
+However, the abovementioned mechanism of kidney injury in COVID‐19 infection should be verified in experiment under precise experimental design.
+Several organs are vulnerable to COVID‐19 infection.
+Acute kidney injury (AKI) was reported in parts of case‐studies reporting characteristics of COVID‐19 patients.
+Method  Single‐cell RNA sequencing (scRNA‐seq) technology was used to obtain evidence of potential route and ACE2 expressing cell in renal system for underlying pathogenesis of kidney injury caused by COVID‐19.
+From Gene Ontology (GO) & KEGG enrichment analysis, imbalance of ACE2 expression, renin‐angiotensin system (RAS) activation, and neutrophil‐related processes were the main issue of COVID‐19 leading kidney injury.
+Several organs are vulnerable to potential infection of COVID‐19 except lung, such as liver, digestive system, reproductive system and urinary system, and SARS‐CoV‐2 was separated from patients’ urine.
+Consequently, we hypothesized that COVID‐19 might invade human kidney causing renal injury, and this is the first study investigating the potential route of COVID‐19 leading kidney injury.

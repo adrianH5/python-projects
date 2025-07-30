@@ -1,0 +1,9 @@
+Type 2 diabetes (T2D) and cardiovascular diseases (CVD), part of the metabolic syndrome (MetS), are major contributors to the global health crisis today.
+A recent report from the World Health Organisation estimates that 17.9 million lives are lost each year to CVD, and one-third of these are premature.
+The international diabetes federation estimates that around 537 million adults aged between 20 and 79 years are living with diabetes.
+People with diabetes are suggested to have twice the risk of developing CVD.
+Epigenetic modifications are being increasingly recognised as the key mediators linking genetic and environmental conditions to metabolic dysfunction.
+Among these, DNA methylation plays a crucial role in modulating gene expression and influencing pathways involved in glucose homeostasis, inflammation, and vascular integrity.
+Despite the advances in our understanding of the role of epigenetic alterations in metabolic diseases, including that of T2D, the mechanisms driving selective methylation changes and their long-term impact on cardiovascular health are still not well understood.
+This review synthesises the current knowledge on DNA methylation dynamics in T2D and their role towards the progression of CVD and explores their potential as biomarkers and therapeutic targets.
+Understanding the interplay between metabolism and epigenetics in the pathogenesis of T2D and CVD could provide critical insights for early disease identification and the development of novel epigenome-targeted therapeutic strategies.

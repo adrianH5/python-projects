@@ -1,0 +1,5 @@
+Breast cancer therapy with Axitinib (AXT), a potent tyrosine kinase inhibitor, is limited by poor aqueous solubility, rapid clearance, and off-target toxicity.
+To address these challenges, we developed AXT-loaded nanomicelles (AXT-M) composed of Triton X-100, Brij-35, and Vitamin-E TPGS, with surface functionalization using hyaluronic acid (HA) for CD44 receptor-mediated targeting (HA-AXT-M).
+This formulation aims to enhance solubility, improve tumour specificity, and reduce systemic toxicity.
+The formulation was characterized for particle size, zeta potential, and encapsulation efficiency.
+Additionally

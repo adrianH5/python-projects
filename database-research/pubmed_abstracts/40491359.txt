@@ -1,0 +1,7 @@
+Drug repurposing has received increasing attention in the field of oncology drug development as an alternative strategy to de novo drug synthesis.
+Disulfiram (DSF) has a long history of clinical application in alcohol withdrawal, and recent studies have revealed that its metabolite diethyldithiocarbamate (DDTC) can be coordinated with copper ions in vivo to form Cu-DDTC complexes with anticancer activity.
+However, the insufficient in vivo stability of DSF remains a challenge.
+In this study, the nanomedicine Cu-BTC@DDTC with DDTC-Cu(I) chemical valence and polycrystalline structure was prepared by incorporation of DDTC into the nanosized metal-organic framework (MOF) Cu-BTC.
+The in vitro cellular evaluation results showed that Cu-BTC@DDTC exhibited high inhibition of tumor cell growth, migration, and invasion.
+Animal experiments on the xenograft tumor model further demonstrated the excellent antitumor activity and biosafety of Cu-BTC@DDTC, and the antitumor activity was found to be closely related to the regulation of the SLC7A11/GPX4 signaling pathway to induce ferroptosis.
+This study provides a feasible option for antitumor drug development based on a drug repurposing strategy.

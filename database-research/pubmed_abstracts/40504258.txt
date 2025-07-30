@@ -1,0 +1,10 @@
+Microtubule affinity-regulating kinase (MARK), particularly MARK4, are involved in the pathological phosphorylation of tau, contributing to neurodegenerative diseases and conditions such as cancer, inflammation, and atherosclerosis.
+The β-carboline family, specifically Harmane, exhibits broad biological activity, including neuroprotective effects.
+We investigated the inhibitory potential of Harmane against MARK4 using both computational and experimental approaches.
+The interaction between Harmane and MARK4 was studied using a combination of computational and experimental approaches.
+Molecular docking was carried out to understand the binding of Harmane to the binding pocket of MARK4, focusing on key interactions.
+Molecular dynamics simulations further assessed the stability of the MARK4-Harmane complex.
+Enzyme inhibition assays were conducted to assess Harmane's inhibitory potential on kinase, and a fluorescence quenching assay was complemented to validate the binding affinity of Harmane with MARK4.
+Molecular docking revealed that Harmane binds to the active site of MARK4, a finding supported by molecular dynamics simulations, demonstrating increased stability of the MARK4-Harmane complex.
+Structural analysis further highlighted the specificity of this interaction.
+Enzyme inhibition assays estimated Harmane's IC

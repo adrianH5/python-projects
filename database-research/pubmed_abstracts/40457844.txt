@@ -1,0 +1,9 @@
+Glioblastomas represent the most common and lethal primary brain tumors in the world.
+Despite therapeutic advances during the last two decades, patient prognosis remains very poor.
+The Hippo signaling pathway effectors YAP/TAZ-TEADs play a crucial role in tumor progression and represent promising therapeutic targets in gliomas.
+In this study, we identified and investigated the clinical and biological significance of TEAD transcription factors.
+Through comprehensive analyses of TCGA glioma data and patient samples, we identified TEAD3-4 transcription factors as robust prognostic markers of patient outcome.
+Using up to five different patient-derived glioblastoma stem cell cultures, we confirmed the preferential expression and activation of TEAD3-4 along with their transcriptional coactivators YAP/TAZ.
+Pharmacological inhibition of YAP/TAZ-TEAD interaction by Verteporfin significantly decreased tumor cell growth, whereas specific inhibition of TEAD3 did not impact cell proliferation but affected sterol/cholesterol biosynthetic and metabolic processes.
+This study contributes to a better understanding of the role of Hippo effectors in glioblastoma pathophysiology.
+These transcription factors, particularly TEAD3, could potentially serve as therapeutic targets, especially considering recent data on cholesterol homeostasis in glioblastomas.

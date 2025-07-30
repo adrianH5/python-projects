@@ -1,0 +1,3 @@
+Respiratory motion is a major source of dose uncertainty in lung cancer radiotherapy.
+The dose distribution of simultaneous integrated boost-stereotactic body radiotherapy (SIB-SBRT) is inhomogeneous and is significantly impacted by respiratory motion for lung cancer.
+The effect of respiratory motion on SIB-SBRT was investigated with a four-dimensional (4D) dose calculation method.

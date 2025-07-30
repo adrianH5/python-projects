@@ -1,0 +1,7 @@
+DNA methylation-based classification of (brain) tumors has emerged as a powerful and indispensable diagnostic technique.
+Initial implementations used methylation microarrays for data generation, while most current classifiers rely on a fixed methylation feature space.
+This makes them incompatible with other platforms, especially different flavors of DNA sequencing.
+Here, we describe crossNN, a neural network-based machine learning framework that can accurately classify tumors using sparse methylomes obtained on different platforms and with different epigenome coverage and sequencing depth.
+It outperforms other deep and conventional machine learning models regarding accuracy and computational requirements while still being explainable.
+We use crossNN to train a pan-cancer classifier that can discriminate more than 170 tumor types across all organ sites.
+Validation in more than 5,000 tumors profiled on different platforms, including nanopore and targeted bisulfite sequencing, demonstrates its robustness and scalability with 99.1% and 97.8% precision for the brain tumor and pan-cancer models, respectively.

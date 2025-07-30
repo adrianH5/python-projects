@@ -1,0 +1,10 @@
+Mutation, deletion, or silencing of genes encoding cellular metabolism factors occurs frequently in human malignancies.
+Neomorphic mutations in isocitrate dehydrogenases 1 and 2 (IDH1/2) promoting the production of R-2-hydroxyglutarate (R-2HG) instead of α-ketoglutarate (αKG) are recurrent in human brain cancers and constitute an early event in low-grade gliomagenesis.
+Due to its structural similarity with αKG, R-2HG acts as an inhibitor of αKG-dependent enzymes.
+These include the JUMONJI family of lysine demethylases, among which KDM4A is particularly sensitive to R-2HG-mediated inhibition.
+However, the precise molecular mechanism through which inhibition of αKG-dependent enzymes by R-2HG promotes gliomagenesis remains poorly understood.
+Here, we show that treatment with R-2HG induces cellular senescence in a p53-dependent manner.
+Furthermore, expression of mutated IDH1R132H or exposure to R-2HG, which leads to KDM4A inhibition, causes telomeric dysfunction.
+We demonstrate that KDM4A localizes to telomeric repeats and regulates abundance of H3K9(me3) at telomeres.
+We show that R-2HG caused reduced replication fork progression, and that depletion of SMARCAL1, a helicase involved in replication fork reversal, rescues telomeric defects caused by R-2HG or KDM4A depletion.
+These results establish a model whereby IDH1/2 mutations cause R-2HG-mediated inhibition of KDM4A, leading to telomeric DNA replication defects, telomere dysfunction, and associated genomic instability.

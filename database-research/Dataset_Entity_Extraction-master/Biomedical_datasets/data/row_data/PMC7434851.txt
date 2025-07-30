@@ -1,0 +1,14 @@
+To determine the suitability of NHP species for modeling COVID-19, we experimentally inoculated three species of monkeys belonging to two families (Old World and New World monkeys) with SARS-CoV-2 (Fig. 1a and Supplementary Table 1) according to the methods described for a reported SARS model, followed by comprehensive comparisons of the clinical signs of COVID-19, viral shedding and replication, and host responses to viral infection.
+Detection of viral genomic RNA is the most important evidence for the diagnosis of COVID-19 due to SARS-CoV-2 infection.
+In the present study, the dynamics of viral shedding in the NHP models were similar to those reported in COVID-19 patients.
+The lung is widely considered to be the target organ of SARS-CoV-2 replication since a large viral copy number was detected in bronchoalveolar lavage fluid from COVID-19 patients.
+Importantly, we also detected viral RNA in the spleen and blood of our model, which is consistent with the clinical findings that SARS-CoV-2 is present in patients’ spleens and blood and correlated with the severity of COVID-19.
+In terms of host responses to SARS-CoV-2 infection, our NHP model partially recapitulates COVID-19 through at least three features.
+Typical histopathology of pneumonia is observed in COVID-19 patients in additional to mild inflammation in liver.
+The COVID-19-associated cytokine storm is reported to be an important pathogenic factor and a potential promising therapeutic target in COVID-19 patients.
+Although not consistent with those in COVID-19 patients, the cytokines induced in our model could be used as markers for the evaluation of anti-inflammatory drugs.
+Elevated serum IL-6 is clinically correlated with the severity of COVID-19 and regarded as an important biomarker.
+In a reported NHP model of COVID-19, the level of IL-6 peaked at 1 dpi and decreased to 0 at 3 dpi.
+Identification of a suitable nonhuman primate (NHP) model of COVID-19 remains challenging.
+Collectively, these data revealed the different susceptibilities of Old World and New World monkeys to SARS-CoV-2 and identified M. mulatta as the most suitable for modeling COVID-19.
+The data sets used for the current study are available from the corresponding author upon reasonable request.

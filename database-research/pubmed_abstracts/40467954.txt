@@ -1,0 +1,7 @@
+Breast cancer remains one of the most prevalent and life-threatening diseases among women worldwide, necessitating early and accurate detection methods.
+Traditional diagnostic approaches often face limitations in sensitivity and specificity, highlighting the need for advanced computational techniques.
+This study proposes BCDGAN, a novel deep learning framework integrating a Generative Adversarial Network (GAN) and a Hybrid Deep Learning (HDL) model for breast cancer detection using thermogram imagery.
+The aim is to enhance diagnostic accuracy by synthesizing critical regions of interest (ROIs) and leveraging deep feature extraction for improved classification performance.
+The proposed GAN-HDL-BCD method first employs a hybrid deep learning model to extract features from thermogram images, followed by a GAN-based approach to generate synthetic ROIs, augmenting the dataset and improving model generalization.
+Experimental validation using the DMR-IR benchmark dataset demonstrates that the proposed framework achieves an accuracy of 98.56%, outperforming conventional deep-learning models.
+These findings suggest that BCDGAN can be effectively integrated into clinical decision-support applications for thermogram-based breast cancer screening, offering a promising tool for enhancing early detection and patient outcomes.

@@ -1,0 +1,6 @@
+Positron Emission Tomography (PET) imaging can monitor cancer treatment response by non-invasively detecting apoptosis in vivo.
+Signal-to-noise (SNR) remains one of the critical barriers to approval for clinical use.
+We have previously developed a PET tracer [18 F]-C-SNAT4 for imaging capase-3 activity in apoptotic tumors induced by chemo- and immunotherapy.
+[18 F]-C-SNAT4 is designed to undergo caspase-3 activated intramolecular cyclization.
+The product then self-assembles in situ into nanoparticles to generate preferential retention of F18 radioactivity in apoptotic cells.
+This unique mechanism prompted us to investigate if a cold mixture could enhance the probe retention and further augment the sensitivity for imaging radiotherapy.

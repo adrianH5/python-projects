@@ -1,0 +1,2 @@
+Prognostic prediction is crucial to guide individual treatment for patients with rectal cancer.
+We aimed to develop and validated a multitask deep learning model for predicting prognosis in rectal cancer patients.

@@ -1,0 +1,4 @@
+Survivors of breast cancer (BC) may endure significant and persistent post-treatment burdens that negatively impact overall quality of life.
+We previously developed risk prediction algorithms to identify individual patient profiles at increased risk for long-term toxicities.
+To prepare for the implementation of these risk algorithms in routine care, we performed a study to assess preferences, catalysts, and barriers concerning communication of individual risk of long-term BC toxicities.
+The goal was to co-design a pathway for risk assessment, communication, and management starting at diagnosis.

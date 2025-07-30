@@ -1,0 +1,9 @@
+Although studies have demonstrated that ovarian cancer cells can express immune checkpoint proteins like CTLA-4 and that higher levels of tumor-infiltrating lymphocytes are linked to better patient survival, clinical trials utilizing immune checkpoint inhibitors in ovarian cancer have not yielded encouraging results.
+Tumor heterogeneity and innate or acquired resistance associated with the tumor microenvironment (TME) may account for the inadequate response to ICIs.
+Understanding tumor immunobiology, identifying biomarkers for patient selection, and formulating suitable treatment regimens remain challenging, yet these are the aspirations for the future use of immunotherapy in ovarian cancer.
+Induced T cells express CD80 and CD86, providing a positive costimulatory signal via CD28.
+CTLA-4 antagonizes CD28, diminishing T cell activation and modulating the immunological response.
+Conversely, the negative regulation of CTLA-4 using monoclonal antibodies (mAbs), particularly ipilimumab, may stimulate T-cell responses against ovarian cancer antigens.
+We elucidate the mechanisms responsible for immunological suppression: T cell exhaustion and senescence in ovarian cancer.
+We also provide a synopsis of using CTLA-4 monoclonal antibodies in ovarian cancer alone or conjunction with other modalities (eg, chemotherapy).
+We finally delineate the challenges associated with responding to immunotherapy in ovarian cancer.

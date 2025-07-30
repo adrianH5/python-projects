@@ -1,0 +1,10 @@
+Synthetic lethality has emerged as a pivotal concept in cancer therapy, offering novel and promising strategies for treatment.
+In this study, we identified molecular subtypes associated with synthetic lethality in breast cancer and developed a prognostic signature based on synthetic lethality-related genes.
+Using the TCGA cohort, we screened differentially expressed synthetic lethal genes (DESLGs) and stratified patients into two distinct molecular subtypes based on their expression patterns.
+Immune profiling and clinical survival analyses revealed significant differences between these subtypes.
+A six-gene prognostic risk model was constructed using univariate and multivariate Cox regression analyses combined with LASSO regression, and its robustness was validated in independent GEO datasets.
+Independent prognostic analyses integrating clinical and pathological features were performed, followed by the construction of a nomogram to improve clinical applicability.
+The immune microenvironment was characterized using ssGSEA, ESTIMATE, and CIBERSORT algorithms, revealing a lower level of immune infiltration and distinct immune checkpoint expression in the high-risk group.
+In addition, patients in the high-risk group exhibited worse survival outcomes, higher tumor mutation burden, and increased resistance to several therapeutic agents.
+RT-qPCR analysis confirmed the differential expression of signature genes between breast cancer and normal mammary epithelial cells.
+These findings suggest that the synthetic lethality-based molecular subtypes and prognostic model offer reliable tools for evaluating clinical outcomes and guiding individualized therapy in breast cancer patients.

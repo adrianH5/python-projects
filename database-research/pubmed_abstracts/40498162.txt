@@ -1,0 +1,3 @@
+Postoperative complications in colorectal surgery can significantly impact patient outcomes and healthcare costs.
+Accurate prediction of these complications enables targeted perioperative management, improving patient safety and optimizing resource allocation.
+This study evaluates the application of machine learning (ML) models, particularly deep learning neural networks (DLNN), in predicting postoperative complications following laparoscopic right hemicolectomy for colon cancer.

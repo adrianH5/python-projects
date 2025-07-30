@@ -1,0 +1,12 @@
+This study aimed to explore the predictive value of a nomogram model, constructed using computed tomography (CT) imaging proteomics combined with alpha-fetoprotein (AFP), for assessing the risk of primary liver cancer (PLC) occurrence in patients with liver cysts.
+A retrospective analysis was conducted on 122 individuals with liver cysts who visited Shengzhou People's Hospital between May 2021 and October 2022.
+Patients were categorized into 2 groups based on the occurrence of PLC: the PLC group (n = 40) and the cyst group (n = 82).
+The study compared differences in AFP expression and CT imaging features between the 2 groups.
+The "rms" package in R software was utilized to develop and validate a nomogram model for predicting the risk of PLC occurrence in patients with liver cysts.
+The PLC group exhibited higher proportions in family history of liver cancer, chronic hepatitis B virus (HBV) infection, and AFP (≥400 ng/mL) levels compared to the cyst group, with statistically significant differences (P < .05).
+In terms of CT imaging features, patients in the PLC group had larger maximum diameters, lower rates of clear margins, and higher CT values in the arterial and venous phases compared to those in the cyst group (P < .05).
+Logistic regression analysis identified chronic HBV infection, AFP (≥400 ng/mL), and CT values in the arterial and venous phases as influencing factors for PLC occurrence in patients with liver cysts (P < .05).
+The constructed nomogram exhibited a mean absolute error of 0.020 for predicting the risk of PLC occurrence in patients with liver cysts.
+The receiver-operating characteristic curve analysis showed an area under the curve of 0.829 (95% CI: 0.754-0.905).
+Chronic HBV infection, AFP (≥400 ng/mL), and CT values in the arterial and venous phases were significant factors influencing the occurrence of PLC in patients with liver cysts.
+The nomogram based on these factors demonstrated promising predictive efficacy for PLC occurrence in patients with liver cysts, providing valuable guidance for preventive and treatment strategies.

@@ -1,0 +1,11 @@
+Many studies have reported an association between oral microbiota and oral cancer (OC).
+Yet, the causal relationship between oral microbiota and OC remains undetermined.
+This Mendelian randomization (MR) study utilized the most recent genome-wide association study of oral microbiota from the ADDITION-PRO study (n = 610, European ancestry), along with the summary statistics for OC from the UK Biobank consortium (643 cases and 406,821 controls, European ancestry).
+Instrumental variables were selected at P < 1 × 10⁻⁵, clumped for linkage disequilibrium (R² < 0.001, window size = 10,000 kb), filtered for minor allele frequency > 0.01, and F-statistic > 10 to ensure instrument strength.
+Inverse variance weighted, weighted model, MR-Egger, maximum likelihood, MR-PRESSO, and weighted median were used to assess the causal association between oral microbiota and OC.
+Reverse MR analysis was conducted on microbes causally linked to OC in the forward MR analysis.
+In inverse variance weighted estimates, Prevotella had a protective effect on OC (OR = 0.89, 95% CI: 0.81-0.99, P = 0.03), while Veillonella exhibited a deleterious effect on OC (OR = 1.14, 95% CI: 1.01-1.31, P = 0.04).
+Reverse MR analysis indicated no significant causal effect of OC on oral microbiota.
+In addition, instrumental variables did not show significant heterogeneity or horizontal pleiotropy.
+Our findings suggest that Prevotella and Veillonella were causally linked to OC.
+Further randomized controlled trials are necessary to elucidate the impact of oral microbiota on OC and their underlying mechanism.

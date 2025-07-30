@@ -1,0 +1,2 @@
+Cholangiocarcinoma (CCA) poses a significant public health challenge in Thailand, with notably high incidence rates.
+This study aimed to compare the performance of spatial prediction models using Machine Learning techniques to analyze the occurrence of CCA across Thailand.

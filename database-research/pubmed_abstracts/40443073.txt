@@ -1,0 +1,6 @@
+Australia's National Lung Cancer Screening Program will commence in July 2025, targeted at individuals aged 50-70 years with a 30 pack-year smoking history (equivalent to 20 cigarettes per day for 30 years), who either currently smoke or have quit within the past 10 years.
+We forecasted the number of screening-eligible individuals over the first 5 years of the program using data from the 2019 National Drug Strategy Household Survey and the 2022 Australian Bureau of Statistics population projections.
+Multiple imputation integrated with predictive modelling of future or unmeasured smoking characteristics was used to address missing data and, simultaneously, to project individuals' smoking histories to 2030.
+In 2025, 930 500 (95% prediction interval 852 200-1 019 000) individuals were estimated to be eligible, with the number meeting the criteria declining slightly during the years 2025-2030 in all Australian jurisdictions.
+Overall, 26-30% of those eligible will have quit smoking, and 70-74% will currently smoke.
+These estimates can be used in resource planning and as an indicative denominator to track participation rates for the program over time.

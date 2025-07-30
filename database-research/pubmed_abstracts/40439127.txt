@@ -1,0 +1,10 @@
+Genetic intra-tumour heterogeneity (gITH) is a universal property of all cancers.
+It emerges from the interplay of cell division, mutation accumulation and selection with important implications for the evolution of treatment resistance.
+Theoretical and data-driven approaches extensively studied gITH in ageing somatic tissues or cancers at detection.
+Yet, the expected patterns of gITH during and after treatment are less well understood.
+Here, we use stochastic birth-death processes to investigate the expected patterns of gITH across different treatment scenarios.
+We consider homogeneous treatment response with shrinking, growing and stable disease, and follow up investigating heterogeneous treatment response with sensitive and resistant cell types.
+We derive analytic expressions for the site frequency spectrum, the total mutational burden and the single-cell mutational burden distribution that we validate with computer simulations.
+We find that the site frequency spectrum after homogeneous treatment response retains its characteristic power-law tail, while emergent resistant clones cause peaks corresponding to their sizes.
+The frequency of the largest resistant clone is subdominant and independent of the population size at detection, whereas the relative total number of resistant cells increases with detection size.
+Furthermore, the growth dynamics under treatment determine whether the total mutational burden is dominated by preexisting or newly acquired mutations, suggesting different possible treatment strategies.

@@ -1,0 +1,3 @@
+In a previous study, we developed a chromatin homology profile (CHP) method using the mathematical concept of homology and an analysis application, "Cell Checker", to differentiate histological types of lung cancer in respiratory cytology.
+However, issues such as the analyzed field of view and data volume arose because the CHP method is based on images taken with a 100× objective lens.
+In this study, to overcome these challenges, we investigated the accuracy of the CHP method for differentiating histologic types of lung cancer using images obtained with a 40× objective.

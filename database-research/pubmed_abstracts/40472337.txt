@@ -1,0 +1,12 @@
+Despite extensive research on the risk factors for breast cancer, little is known about the factors contributing to other breast lesions, of which some pose an increased risk for this disease.
+The objective of this study was to identify the factors associated with breast lesions among women presenting to referral facilities in Kenya for care between December 2016 and December 2019.
+An analytical cross-sectional study design was used to investigate the factors associated with breast lesions among 651 women with breast lumps.
+Data was collected using a semi-structured questionnaire.
+A multivariable logistic regression model was used to evaluate the impact of the factors on the breast lesions.
+The median age of participants was 30 years (range: 16-87), with the majority having secondary education and belonging to the Kikuyu ethnic group.
+Parity, exercise, and contraceptive use were significant factors identified.
+Nulliparous women had significantly lower odds of developing malignant [aOR: 0.11; 95% CI: 0.05-0.26] and suspicious [aOR: 0.23; 95% CI: 0.07-0.71] lesions.
+Regular exercise was associated with lower odds of both malignant and suspicious lesions.
+Conversely, contraceptive use increased the odds of developing atypical [aOR: 0.92; 95% CI: 0.28-2.98] lesions, suspicious [aOR: 0.33; 95% CI: 0.14-0.78], and malignant lesions [aOR: 0.31; 95% CI: 0.18-0.55].
+Exercise, parity, and hormonal contraception were independently found to be significant factors associated with breast lesions in this study.
+These findings underscore the necessity for personalized risk reduction strategies and emphasize the importance of understanding the risk factors for both benign and malignant breast disease to inform public health policies.

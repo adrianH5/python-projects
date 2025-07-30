@@ -1,0 +1,4 @@
+Accurate pathology reports are crucial for the diagnosis and treatment planning of cancer patients.
+However, these reports are prone to errors due to time pressures, subjective interpretation, and inconsistencies among professionals.
+Addressing these errors is vital for improving oncology care outcomes.
+Artificial intelligence (AI) systems, such as GPT-4, offer the potential to enhance diagnostic accuracy and efficiency.

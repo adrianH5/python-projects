@@ -1,0 +1,4 @@
+Pancreatic ductal adenocarcinoma (PDAC) is an aggressive tumor and frequently has mutations in the transcription factor p53.
+TAp63α is a member of the p53 protein family that is generally tumor suppressive in various other p53-mutant or p53-deficient cancers.
+Here, we found that TAp63α inhibited cell proliferation, epithelial-mesenchymal transition (EMT), and migration in several p53-mutant PDAC cell lines.
+TAp63α transcriptionally repressed

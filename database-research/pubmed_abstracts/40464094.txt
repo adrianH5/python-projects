@@ -1,0 +1,6 @@
+Recombinant adeno-associated viruses (AAVs) are clinically relevant vectors for gene therapy that persist largely as extrachromosomal episomes but also infrequently integrate into host genomes.
+Valoctocogene roxaparvovec is an approved AAV-based gene therapy for severe hemophilia A.
+We present a molecular characterization of the vector integration profiles in 5 human biopsy samples from valoctocogene roxaparvovec clinical trials as well as in samples from valoctocogene roxaparvovec-treated nonhuman primates (NHPs).
+The number of genomic integrations was substantially below the previously reported number of transgene-expressing cells, and integration profiles were similar between human and NHP samples.
+The integration profiles were polyclonal, similarly distributed across the genome, and demonstrated a small bias toward regions of open chromatin and actively transcribed genes, with no relative enrichment in cancer-associated genes.
+These observations were replicated between species and support the concept that preclinical assessment of AAV vector integration in NHPs is representative of outcomes in humans.

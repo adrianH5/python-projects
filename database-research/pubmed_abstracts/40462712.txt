@@ -1,0 +1,10 @@
+Large language models (LLMs) have transformed artificial intelligence (AI) and achieved breakthrough performance on a wide range of tasks.
+In science, the most interesting application of LLMs is for hypothesis formation.
+A feature of LLMs, which results from their probabilistic structure, is that the output text is not necessarily a valid inference from the training text.
+These are termed 'hallucinations', and are harmful in many applications.
+In science, some hallucinations may be useful: novel hypotheses whose validity may be tested by laboratory experiments.
+Here, we experimentally test the application of LLMs as a source of scientific hypotheses using the domain of breast cancer treatment.
+We applied the LLM GPT4 to hypothesize novel synergistic pairs of US Food and Drug Administration (FDA)-approved non-cancer drugs that target the MCF7 breast cancer cell line relative to the non-tumorigenic breast cell line MCF10A.
+In the first round of laboratory experiments, GPT4 succeeded in discovering three drug combinations (out of 12 tested) with synergy scores above the positive controls.
+GPT4 then generated new combinations based on its initial results, this generated three more combinations with positive synergy scores (out of four tested).
+We conclude that LLMs are a valuable source of scientific hypotheses.

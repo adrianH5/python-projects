@@ -1,0 +1,9 @@
+Lung cancers develop from lung epithelial cells after a series of genetic and epigenetic changes, and these cells are major sites of influenza virus infection.
+Thus, we explored how changes found in patient-derived lung cancer cell lines impacted influenza virus replication and identified two lines with opposite responses to influenza A viral infection.
+We show that the NCI-H820 lung adenocarcinoma (LUAD) is resistant to influenza A virus and VSV infection, while LUAD line NCI-H322 is highly susceptible to infection by both viruses.
+H322 cells have a homozygous deletion in a region of chromosome 9 encoding IFNαgenes, IFNβ1, IFNω1, and IFNε genes, leading to downregulation of immune response and high infection rates.
+In contrast, the resistant H820 cell line has three copies of these same interferon genes and shows increased expression of interferon-regulated genes.
+We found that the resistance of H820 cells to influenza infection is likely linked to impaired viral entry-due to high basal levels of interferon-induced proteins known to inhibit endocytosis (IFITM1/2/3, NCOA7, and CH25H)-and to increased expression of mRNAs that encode other antiviral factors.
+In contrast, H322 cells show the absence or low levels of interferon-regulated genes involved in the inhibition of viral entry.
+These results suggest that the opposite phenotypes on viral entry of H322 and H820 cells may be at least in part associated with impaired or enhanced interferon response, respectively.
+Since most lung cancer patients have genomic characterization of their tumors, individualized differences in interferon responses may have therapeutic and patient management implications.

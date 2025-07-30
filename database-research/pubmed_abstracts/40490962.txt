@@ -1,0 +1,10 @@
+Cervical cancer is the fourth most common cancer among women globally and a significant public health challenge in China, which accounts for nearly 18% of global cervical cancer cases.
+The HPV vaccine is a proven intervention for preventing high-risk HPV infections and associated cancers.
+This serial cross-sectional study conducted in Shanghai, China, in 2019 and 2024 analyzed changes in HPV vaccination rates and vaccine hesitancy.
+Multivariable logistic regression was used to assess the associations between HPV vaccination, general vaccine hesitancy, and HPV-specific vaccine hesitancy, adjusting for sociodemographic factors.
+The Population Attributable Fraction (PAF) quantified the proportion of non-vaccination attributable to these factors.
+In 2019 and 2024, two waves of data were collected from 1,037 and 1,450 parents, respectively.
+Results showed an increase in HPV vaccination from 6% to 30% during the study period, primarily among women aged 18 and older, while coverage among the WHO target group (girls aged 9-14) remained low at 8%.
+Parents with HPV-specific vaccine hesitancy were 75% less likely to vaccinate their daughters (OR = 0.25, 95% CI: 0.11-0.56), while general vaccine hesitancy reduced vaccination likelihood by 94% (OR = 0.06, 95% CI: 0.00-0.89).
+PAF analysis indicated that HPV-specific vaccine hesitancy contributed to 24% of non-vaccination cases, higher than general vaccine hesitancy (10%).
+These findings highlight the critical need for targeted interventions addressing HPV-specific barriers, improving education about vaccination timing and options, and reducing logistical obstacles to align with global cervical cancer elimination goals.

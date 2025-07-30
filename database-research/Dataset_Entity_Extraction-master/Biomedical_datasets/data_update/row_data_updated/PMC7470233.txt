@@ -1,0 +1,24 @@
+The world continues to wait expectantly for health researchers to develop effective prevention tools, tests, vaccines, and treatments for COVID-19.
+Many forms of COVID-19 health research involve the processing of personal data, including human health or genetic data.
+The aim of our analysis is to help research institutions navigate European data protection law within the COVID-19 crisis.
+At first glance, consent appears to be a straightforward solution for processing personal data in COVID-19 research, as it coincides with the research ethics principle of consent.
+Where people are in a critical status of health, which will be the case for most hospitalized patients with COVID-19, obtaining consent may not be practically possible.
+With this position in mind, it is particularly unfortunate that the EDPB guidelines on COVID-19 and research make no mention that broader consent is suitable for pandemic research [6].
+For ongoing research studies, deleting individual data sets may not render the research impossible, although having to repeat analyses could be cumbersome.
+For completed research studies, however, the situation is different, as altering the underlying database may undermine scientific reproducibility.
+As scientific research on COVID-19 aims to benefit society as a whole, using the legal basis of a task performed in the public interest appears to be a natural choice.
+It is also the choice suggested by the EDPB as more appropriate than consent for research in clinical trials [13] and is one of the potential legal grounds mentioned in the EDPB’s guidelines on COVID-19 and research.
+The EDPB remains silent on the subject in their guidelines on COVID-19 and research; however, dedicated guidance on the subject of further processing is expected [9].
+This may pose challenges for research on COVID-19, where a broad consent model would be necessary to cover the full range from disease mechanisms to transmission pathways to psychological or socioeconomic consequences of the disease.
+There are two likely options for processing health and genetic data for research in the COVID-19 context.
+This is also demonstrated by the EDPB’s guidelines on COVID-19 and research [6].
+Moreover, the continued validity of adequacy decisions may be imperiled if recipient third countries adopt aggressive data collection and processing practices in response to COVID-19 [28,29].
+The EDPB furthermore notes that explicit consent is only suitable for certain situations, such as for private entities conducting COVID-19 research; however, it provides no further guidance other than its guidelines on COVID-19 and research (paragraph 67) [6].
+In the specific situation of the COVID-19 outbreak, the EDPB has conceded “that the fight against COVID-19 has been recognized by the EU and most of its Member States as an important public interest,” grounding this claim in provisions of EU law interpreted through the prism of national measures by Member States adopted in response to the crisis (paragraphs 62-67) [6].
+Along these lines, a joint statement has been signed by more than 550 researchers worldwide calling for privacy preserving technologies, strict limitation to COVID-19 purposes, and a voluntary basis for the use of any contact tracing app [39].
+This requirement is arguably disproportionate even in normal circumstances; however, even in the present state of the COVID-19 crisis, it is only applicable to clinical trials, observational medicinal product studies, and compassionate therapeutic use that is essential for combating the disease as well as for COVID-19 research projects of the Institutes of Scientific Hospitalization and Treatment funded by the Ministry of Health.
+Before they process special categories of data in the COVID-19 context, research institutions will most likely need to perform data protection impact assessments (DPIAs), which act as both a safeguard and a mechanism for enhancing transparency and accountability.
+Our analysis demonstrates that variation across national implementations hampers a coordinated global research response in the fight against COVID-19.
+The subsequently published guidelines on COVID-19 and research [6] contain only limited advice that takes into account specific challenges in the research contexts (eg, hospitalized people who are unable to give consent, challenges in information-giving obligations).
+Researchers must collaborate globally to rapidly respond to the COVID-19 pandemic.
+The COVID-19 experience provides lessons for national legislatures.

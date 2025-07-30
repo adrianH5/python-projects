@@ -1,0 +1,4 @@
+Prostate adenocarcinoma (PRAD) is an extremely widespread site of urological malignancy and is the second most common male cancer in the world.
+Currently, research progress in immunotherapy for prostate treatment is slower compared to other tumours, which is mainly considered to be caused by the low rate of immune response in prostate cancer as a cold tumour.
+Recent studies have shown that intra-tumour heterogeneity (ITH) is an important impediment to PRAD immunotherapy.
+Therefore, we set out to investigate the feasibility of judging patients' disease and knowing the clinical treatment based on the level of ITH.

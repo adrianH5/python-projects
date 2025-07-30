@@ -1,0 +1,7 @@
+The C-X-C chemokine receptors (CXCR) chemokine receptor family, consisting of seven primary members (CXCR1-CXCR7), is crucial in regulating immune cell recruitment, angiogenesis, cellular proliferation, and maintaining skin homeostasis and immune functions.
+This review evaluates the expression and roles of CXCR receptors across a range of skin cells, including keratinocytes, fibroblasts, endothelial cells, melanocytes, and various immune cells such as T cells, dendritic cells, and macrophages.
+Aberrations in CXCR signaling have been associated with a variety of skin disorders, such as psoriasis, atopic dermatitis, acne, and skin cancers.
+Despite significant advancements in the field, several critical questions persist.
+These include the differential effects of CXCR signaling in distinct skin pathologies and the intricate interactions between CXCR receptors and their ligands within diverse skin microenvironments.
+Moreover, the therapeutic targeting of the CXCR family remains unresolved, necessitating further research into its long-term efficacy and possible adverse effects.
+Future investigations should prioritize these critical issues to develop more effective therapeutic strategies for managing skin diseases, ultimately improving patient outcomes.

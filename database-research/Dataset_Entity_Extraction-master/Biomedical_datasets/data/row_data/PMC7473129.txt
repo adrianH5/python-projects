@@ -1,0 +1,20 @@
+To date, more than 10.7 million cases of the disease caused by SARS-CoV-2, termed COVID-19, have been reported globally [8,9].
+On 26 February 2020, the first confirmed case of COVID-19 was reported in São Paulo (SP) state, Brazil [11].
+Two months later (28 April 2020), 61,888 cases and 4,205 deaths attributed to COVID-19 had been reported in Brazil [12].
+Initial phylogenetic analysis using the first two SARS-CoV-2 complete genomes isolated in São Paulo from travellers returning from Italy revealed two independent introductions into the country relative to the data set available at that time [13].
+Due to its large population size and strong connections to active neighbouring states such as São Paulo and Rio de Janeiro, the state of MG is likely to be highly affected by the COVID-19 pandemic.
+Public SARS-CoV-2 complete genome sequences available up to 15 April 2020 were retrieved from the GISAID database (https://www.gisaid.org/).
+Four data sets of complete or near-complete SARS-CoV-2 genome sequences were generated.
+Data set 1 (n = 3,102) comprised the data reported in this study (n = 40) plus publicly available SARS-CoV-2 sequences (n = 3,062) from GISAID.
+Subsequently, to investigate the evolutionary behaviour of SARS-CoV-2 within the three different SARS-CoV-2 lineages (A, B and B.1), Bayesian molecular clock analysis was conducted on three smaller subsets of data for each of the three lineages identified in the ML phylogeny and containing isolates from MG (data set 2 for subset A n = 100; data set 3 for subset B n = 84; data set 4 for subset B.1 n = 169).
+We computed MCMC (Markov chain Monte Carlo) triplicate runs of 100 million states each, sampling every 10.000 steps for each data set.
+By the 28th April 2020, more than 61,888 COVID-19 cases were confirmed in Brazil, 1,578 of which were from MG (Figure 2A) [30].
+Over this period, MG registered 71 COVID-19-related deaths and the capital city, Belo Horizonte, with an estimated population of 2.5 million people, reported 555 cases [30,31].
+Temporal trends reveal a growth in the number of cases in MG, although with SP accounting for the largest number of cases and deaths (24,041 cases; 2,049 deaths) by COVID-19 up to 28th April 2020.
+We used Nanopore sequencing to generate complete genomes from 40 COVID-19 patients in 15 different municipalities in MG (Table 1).
+All sequences generated in this study have been submitted to the GISAID following WHO guidelines [38].
+To explore the epidemiological history of the virus in MG, we performed a maximum likelihood (ML) phylogenetic analysis on the 40 new sequences combined with another 3,062 sequences deposited in GISAID up to 15 April 2020.
+Aside from sublineage B.1, two sequences were assigned to lineage B in our ML phylogeny (isolates CV22 and CV36, with the former reporting travel to Germany), while one sequence could be assigned to lineage A (isolate CV7) who reported travel to European countries (full results from the Pangolin COVID-19 lineage assigner are presented in Supplementary Table S2).
+One of these clusters (Figure 4d), with a posterior probability of 100%, was formed by isolates CV34 and CV36 that arose from local contacts with a confirmed and a suspected COVID-19 case, respectively.
+The mean time of the most recent common ancestor of all Brazilian strains analysed in this study was estimated to be from 27 January to 22 February 2020, and range that includes the first COVID-19 confirmed case reported in 21 February 2020 [49].
+These findings highlight the nature of the COVID-19 epidemic in MG and reinforce the need for real-time and continued genomic surveillance strategies to better understand and prepare for the epidemic spread of emerging viral pathogens..

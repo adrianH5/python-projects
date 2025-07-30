@@ -1,0 +1,1 @@
+Evaluating the minimum distance (dTICA) between the internal carotid artery (ICA) and tonsillar tumors (TT) on imaging is essential for preoperative planning; we propose a tool to automatically extract dTICA.

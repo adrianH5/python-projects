@@ -1,0 +1,6 @@
+The application of artificial intelligence (AI) in cancer pathology has shown significant potential to enhance diagnostic accuracy, streamline workflows, and support precision oncology.
+This review examines the current applications of AI across various cancer types, including breast, lung, prostate, and colorectal cancer, where AI aids in tissue classification, mutation detection, and prognostic predictions.
+The key technologies driving these advancements include machine learning, deep learning, and computer vision, which enable automated analysis of histopathological images and multi-modal data integration.
+Despite these promising developments, challenges persist, including ensuring data privacy, improving model interpretability, and meeting regulatory standards.
+Furthermore, this review explores future directions in AI-driven cancer pathology, including real-time diagnostics, explainable AI, and global accessibility, emphasizing the importance of collaboration between AI and pathologists.
+Addressing these challenges and leveraging AI's full potential could lead to a more efficient, equitable, and personalized approach to cancer care.

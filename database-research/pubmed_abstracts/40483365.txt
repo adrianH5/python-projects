@@ -1,0 +1,8 @@
+Cancer, one of the most dreadful diseases of the twenty-first century develops as a result of unregulated inflammatory responses and mutations of genes.
+In human cancers, among various mutated genes, the Ras gene is one of the most commonly mutated oncogenes.
+However, when it comes to inflammation, oncogenic Ras mutants can induce tumorigenesis without tumour suppression loss driven by inflammatory responses.
+Ras protein is a membrane-bound protein with inbuilt GTPase activity which is activated by a variety of extracellular stimuli, converting from an inactive form to an active form.
+Oncogenic Ras mutants is continuously activated in cancer, thereby enhancing aberrant downstream signalling that leads to tumorigenesis.
+So, to highlight the significance of Ras protein in cancer and inflammation, this review discussed the signalling pathway for the activation of Ras protein, the role of Ras in immunity and inflammation, downstream regulators of Ras protein and their inhibitors epigenetic regulation of Ras protein.
+Moreover, we have also done a database-based search using the Database of Cancer Mutant Protein Domains (DCMP) to find out the single nucleotide polymorphism (SNP) level of the Ras gene in different types of cancer.
+In terms of future perspective, this review discussed emerging strategies to target Ras protein.

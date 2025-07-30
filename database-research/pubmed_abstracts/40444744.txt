@@ -1,0 +1,5 @@
+Bioinspired nano/micromotors with drug delivery capabilities are emerging tools with the promising potential to treat numerous diseases.
+However, some major challenges must be overcome before reaching real biomedical applications.
+Above all, it is necessary to design engines that employ biocompatible and bioavailable fuels to induce efficient propulsion in biological environments.
+In addition, ideal nanomotors should also be capable of delivering the cargo on-command using selected stimuli.
+To tackle these challenges, we herein present the design and evaluation (both

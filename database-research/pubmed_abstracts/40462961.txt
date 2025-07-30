@@ -1,0 +1,4 @@
+Histone H3 trimethylation at lysine 36 (H3K36me3) is a key chromatin modification that regulates fundamental physiologic and pathologic processes.
+In humans, SETD2 is the only known enzyme that catalyzes H3K36me3 in somatic cells and is implicated in tumor suppression across multiple cancer types.
+While there is considerable crosstalk between the SETD2-H3K36me3 axis and other epigenetic modifications, much remains to be understood.
+Here, we show that SETD2 functions as a potent tumor suppressor in a KRAS

@@ -1,0 +1,14 @@
+Growth hormone-releasing hormone (GH-RH) and its antagonists are believed to influence the progression of various tumor diseases.
+However, the specific effects of GH-RH-related genes on lung adenocarcinoma (LUAD) are yet to be deciphered.
+GH-RH-related gene set data, LUAD transcriptome data, and clinical data were available for download at the GeneCards, TCGA, and GEO databases.
+R software was used to conduct differential, regression, cluster, survival, gene expression, and tumor microenvironment analyses.
+Drugs associated with model genes were predicted using the CellMiner database.
+Expression of CYP17A1, IGF2BP1, IGFBP1 and VGF in LUAD cells was assayed via qRT-PCR.
+A total of 781 LUAD samples (TCGA-LUAD: 600; GSE50081: 181) and data on 1,555 GH-RH-related gene sets were obtained from public datasets.
+Two LUAD subtypes with different GH-RH gene expression were identified through cluster analysis.
+Significant differences were unveiled in prognosis between the two subtypes.
+A prognostic risk-scoring model was generated with genes screened from the PPI network, and afterward the model was validated.
+The model comprised 7 genes, specifically CLCA1, CYP17A1, DKK1, IGF2BP1, IGFBP1, RPE65, and VGF.
+CYP17A1 expression was low in LUAD, while IGF2BP1, IGFBP1, and VGF expression was high.
+Immune-related analysis revealed significant differences in immune cell infiltration levels between the high- and low-risk groups (P < 0.05), with mast cells and neutrophils showing significantly higher infiltration levels in the low-risk population.
+The 7-gene signature in the current study is of paramount importance for forecasting overall survival and the immune microenvironment of LUAD patients.

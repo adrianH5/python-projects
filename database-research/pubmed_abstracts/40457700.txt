@@ -1,0 +1,9 @@
+Recapitulating in vivo conditions of metabolism remains a challenging subject in biomedical research such as ADME-Tox assays (absorption, distribution, metabolism, excretion, and toxicity).
+The advanced technologies using 3D co-culture methods enabled researchers to develop cell-cell and cell-extracellular matrix (ECM) interactions similar to the natural liver, resulting in the improvement of the metabolic performance of ex vivo cultured primary hepatocytes (PHs).
+Although PHs are the best candidates in cell-based drug screening methods, access to these cells is limited.
+The application of stem cell-derived hepatocyte-like cells (HLCs) could overcome these limitations in high-throughput assessments.
+However, the functional capacity of HLCs is not enough.
+Hepatoma cells could be reliable substitutes for PHs and HLCs; however, compared to PHs, their metabolic performance is low.
+Mimicking the complexity of the liver microenvironment using hepatoma cells and liver-specific stromal cells in a 3D culture condition represents an innovative, accessible, and scalable platform to accelerate drug development if the metabolic capacity of hepatoma cells is enhanced.
+This can reduce time, costs, and address the ethical concerns related to animal models and pluripotent stem cells.
+In this manuscript, we showed that mimicking the complexity of the liver microenvironment in a 3D co-culture condition with non-parenchymal cells and improving the metabolic performance of hepatoma cells represents an innovative and accessible platform to accelerate drug discovery and development.

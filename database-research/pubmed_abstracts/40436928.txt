@@ -1,0 +1,7 @@
+Glioblastomas (GBM) are the most prevalent primary brain tumors, affecting 5 in every 100,000 people.
+GBMs optimize proliferation through adaptive cellular metabolism, frequently exploiting the Warburg effect by increasing aerobic glycolysis and glucose utilization to facilitate rapid cell growth.
+This disproportionate reliance on glucose has driven interest in using the ketogenic diet (KD) as a treatment for GBM.
+In this study, we explored metabolic flux in three primary human GBM cell samples using a media simulating a KD.
+Flux analysis using a detailed metabolic modeling approach revealed three unique metabolic phenotypes in the patient GBMs that correlated with cell viability.
+Notably, these phenotypes are apparent in the flux modeling, but were not evidenced by changes in the metabolite pool sizes.
+This variability in metabolic flux may underlie the inconsistent results observed in preclinical and clinical studies using the KD as a treatment paradigm.

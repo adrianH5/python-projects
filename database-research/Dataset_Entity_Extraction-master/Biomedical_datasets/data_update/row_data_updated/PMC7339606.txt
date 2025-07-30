@@ -1,0 +1,22 @@
+Soon after the COVID-19 outbreak, China initiated several in vitro studies and clinical trials to discover effective antiviral drugs.
+Our results are promising and may be considered for both in vitro and in vivo clinical trials for inhibition of COVID-19.
+Based on similarity in amino acid residues of both RdRps, a reference template of SARS-CoV RdRp (PDB ID: 6NUR; kindly provided by the Ward lab) was used for further analysis [52].
+The binding pocket of the RdRp—GLY616, TRP617, ASP618, TYR619, LEU758, SER759, ASP760, ASP761, ALA762, LYS798, TYS799, TRP800, GLU811, PHE812, CIS813, and/or SER814—was found using the MOE SiteFinder algorithm, and most optimal docked compounds were selected based on higher S-score and lower RMSD with a reference inhibitor (PubChem CID: 10445549).
+CID123624208 and CID11687749—were selected from the docking analysis.
+In this study, we identified interspecies divergence among all the 94 validated viral genomic sequences belonging to the family Coronavirinae retrieved from the NCBI database.
+The accessions, origin and taxonomic classification of all sequences are given in Additional file 1.
+Most of the accessions in clade I belong to the Betacoronaviruses, indicating they all are closely related to each other, while only one and two accessions belong to alpha-CoV and gamma-CoV, respectively, thereby representing some distance with respect to the Betacoronavirus members.
+For accessions, origin and other relevant data, see Additional file 1
+The SARS-CoV-2 RdRp protein sequence was queried using pBLAST and 94 validated sequences were downloaded from the NCBI database for evaluating its phylogenetic relationship with other viral RdRp proteins.
+Most of the viral RdRps in clade I belong to beta-CoV; the same is true for clades II and III with most accessions belonging to beta-CoV, while a few remain unclassified and require more research for proper designation.
+Accession QHR63299.1 was also unclassified but shows close association with other SARS RdRp relatives (Fig. 5).
+SARS-CoV-2 accession (red circle) is closely associated with other SARS RdRp proteins (blue circle).
+For accessions, origin and other relevant data, see Additional file 1: Data 2
+Compounds with > 95% structural similarity to Galidesivir were selected for ligand-based virtual screening from the PubChem database.
+A total of 1061 compounds were retrieved and Pfizer’s rule of five was applied to all the compounds, out of which 677 were aligned after minimizing energy in a new database for docking with the protein of interest RdRp.
+CID123624208 and CID11687749 interactions with RdRP are presented in Figs. 6 and 7.
+ADMET profiling for drug-like compounds demonstrated positive results for blood–brain barrier (BBB), human intestinal absorption (HIA), renal organic cation transporter (ROCT) for CID11687749 and CID123624208 (Table 3), whereas CaCO2 permeability results were found to be negative for both the compounds.
+CID123624208 and CID11687749 were the best suggested drug-like compounds analyzed through in silico analysis and may act as strong inhibitors against SARS-CoV-2.
+Our study indicates that the novel predicted drug-like compounds CID123624208 and CID11687749 have a strong affinity with the residues of the RdRp catalytic domain (Figs. 6, 7).
+Thus, in summary, Galidesivir and the two drugs-like compounds CID123624208 and CID11687749 screened in the present study could more likely have potential as therapeutic drugs targeting SARS-CoV-2.
+The anti-polymerase drugs predicted here—CID123624208 and CID11687749—may be considered for in vitro and in vivo clinical trials.

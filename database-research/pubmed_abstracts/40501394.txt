@@ -1,0 +1,9 @@
+Acute myeloid leukemia (AML) patients with high PRDM16 expression frequently experience induction failure and have a poor prognosis.
+However, the molecular mechanisms underlying these clinical features remain elusive.
+We found that murine AML cells transformed by MLL::AF9 fusion and oncogenic short-isoform Prdm16 overexpression (hereafter, MF9/sPrdm16) exhibited resistance to cytarabine (AraC), but not to anthracycline, both in vitro and in vivo.
+Intriguingly, MF9/sPrdm16 cells displayed a gene expression signature of high oxidative phosphorylation (OxPHOS) and increased mitochondrial respiration.
+The inhibition of mitochondrial respiration with metformin or tigecycline abrogated AraC resistance in MF9/sPrdm16 cells via an energetic shift toward low OxPHOS status.
+Furthermore, sPrdm16 upregulated Myc and the glutamine transporter Slc1a5, activating TCA cycle and glutaminolysis.
+Of note, both OxPHOS and MYC-target gene signatures were significantly enriched in AML patient samples with high PRDM16 expression.
+Together, we showed that PRDM16 overexpression activates mitochondrial respiration through metabolic reprogramming via MYC-SLC1A5-Glutaminolysis axis, thereby conferring AraC resistance on AML cells.
+These results suggest that targeting mitochondrial respiration might be a novel treatment strategy to overcome chemoresistance in AML patients with high PRDM16 expression.

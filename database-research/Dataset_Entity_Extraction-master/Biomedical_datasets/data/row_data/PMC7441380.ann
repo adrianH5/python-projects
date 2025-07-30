@@ -1,0 +1,5 @@
+T1	Repository 543 560	Protein Data Bank
+T2	AccessionNumber 569 573	6vsb
+T3	URL 575 610	https://www.rcsb.org/structure/6vsb
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T1	Arg2:T3

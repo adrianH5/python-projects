@@ -1,0 +1,15 @@
+Oxaliplatin (OXA) is a frontline therapeutic agent used in the treatment of oral squamous cell carcinoma (OSCC).
+However, the development of chemoresistance has emerged as a significant challenge, compromising the effectiveness of treatment strategies.
+Therefore, there is a critical need to unravel the mechanisms underpinning drug resistance and to identify potential therapeutic targets.
+In recent years, there has been a growing interest in understanding the role of drug efflux in cancer chemoresistance mechanisms.
+Despite this, the contribution of ABCG2, a member of the ATP-binding cassette (ABC) transporter family, to oxaliplatin resistance in OSCC remains unclear.
+In the current study, we aimed to investigate the involvement of ABCG2 in oxaliplatin resistance in OSCC and to elucidate the molecular mechanisms through which the Wingless and Int-1 (WNT) canonical signaling pathway upregulates ABCG2 to promote chemoresistance.
+To achieve this, we established oxaliplatin-resistant (OXA-R) OSCC cells as a model system.
+Our investigations revealed that the efflux ability of resistant cells was enhanced and the ABCG2 expression was up-regulated.
+Genetic silencing of ABCG2 significantly attenuated both efflux activity and chemoresistance in these resistant cells.
+Notably, we observed aberrant activation of the WNT canonical signaling pathway in resistant cells, accompanied by heightened expression of the WNT3 ligand.
+Additionally, overexpression of WNT3 in parental cells recapitulated the activation of the WNT canonical signaling cascade, resulting in increased chemoresistance, enhanced efflux function, and elevated ABCG2 expression levels.
+Conversely, inhibition of WNT3 in resistant cells resulted in reduced chemoresistance, suppression of efflux activity, and decreased ABCG2 expression.
+Finally, treatment with the WNT/β-catenin pathway inhibitor methyl 3-benzoate (MSAB) effectively reversed chemoresistance in resistant cells.
+Mechanistically, our studies revealed that the abnormal activation of the WNT canonical pathway promotes the recruitment of the transcription factor lymphoid enhancer-binding factor 1 (LEF1) to the ABCG2 promoter, thereby enhancing its transcriptional activity.
+In summary, our findings underscore the critical role of WNT3-mediated activation of the WNT canonical signaling pathway in upregulating ABCG2 expression, which enhances oxaliplatin efflux and contributes to the development of oxaliplatin resistance in OSCC.

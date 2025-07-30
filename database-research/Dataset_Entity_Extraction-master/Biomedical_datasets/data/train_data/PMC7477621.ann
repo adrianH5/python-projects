@@ -1,0 +1,14 @@
+T1	AccessionNumber 99 107	MN996532
+T2	Dataset 194 200	GISAID
+T3	Dataset 467 473	GISAID
+T4	URL 484 512	https://platform.gisaid.org/
+T5	Dataset 657 663	GISAID
+T6	Dataset 937 943	GISAID
+T7	AccessionNumber 1043 1054	NC_045512.2
+T8	Repository 1080 1092	NCBI GenBank
+T9	Dataset 1229 1235	GISAID
+T10	Dataset 1448 1454	GISAID
+T11	Dataset 1778 1784	GISAID
+T12	Dataset 2249 2255	GISAID
+R1	hasAttr	Arg1:T3	Arg2:T4
+R2	hasAttr	Arg1:T8	Arg2:T7

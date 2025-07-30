@@ -1,0 +1,8 @@
+The gut microbiome has emerged as a key regulator of response to cancer immunotherapy.
+However, a better understanding of the underlying mechanisms by which the microbiome influences immunotherapy is needed to identify strategies to optimize outcomes.
+To this end, we developed a mathematical model to obtain insights into the effect of the microbiome on the immune system and immunotherapy response.
+This model was based on i) gut microbiome data derived from preclinical studies, ii) mathematical modeling of the antitumor immune response, iii) association analysis of microbiome profiles with model-predicted immune profiles, and iv) statistical models that correlate model parameters with the microbiome.
+The model was used to investigate the complexity of murine and human studies on microbiome modulation.
+Comparison of model predictions with experimental observation of tumor response in the training and test datasets supported the hypothesis that two model parameters, the activation and killing rate constants of immune cells, are the most influential in tumor progression and are potentially affected by microbiome composition.
+Evaluation of the associations between the gut microbiome and immune profile indicated that the components and structure of the gut microbiome affect the activation and killing rate of adaptive and innate immune cells.
+Overall, this study contributes to a deeper understanding of microbiome-cancer interactions and offers a framework for understanding how microbiome interactions influence cancer treatment outcomes.

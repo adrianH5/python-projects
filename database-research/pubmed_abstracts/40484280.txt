@@ -1,0 +1,2 @@
+Although rosuvastatin is widely prescribed in China, its pharmacokinetic profile shows substantial interindividual variability, primarily due to polymorphisms in drug transporters (SLCO1B1 and ABCG2) and variations in hepatic function.
+Existing physiologically based pharmacokinetic (PBPK) models, primarily developed for Caucasian populations, may lack predictive accuracy in Chinese patients, highlighting the need for population-specific models to support precision dosing.

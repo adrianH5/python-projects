@@ -1,0 +1,1 @@
+We then aligned our complete genome sequences with other related coronavirus sequences archived from GenBank/GISAID using Mafft software version 7.452.

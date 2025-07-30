@@ -1,0 +1,21 @@
+{
+    "time": 14,
+    "MAX_LEN": 128,
+    "optimizer": "<class 'transformers.optimization.AdamW'>",
+    "batch_size": 4,
+    "learning_rate": 1e-05,
+    "eps": 1e-08,
+    "epochs": 8,
+    "max_grad_norm": 1.0,
+    "warmup_steps": 500,
+    "model_name": "dmis-lab/biobert-v1.1",
+    "do_lower_case": false,
+    "Seed": 42,
+    "special_tokens": true,
+    "get_linear_schedule_with_warmup": false,
+    "get_cosine_with_hard_restarts_schedule_with_warmup": "True and cycle = epochs//2",
+    "add_token": true,
+    "updated_data": true,
+    "loss_weights": true,
+    "re_import_model_file": "/home/gy237/project/Biomedical_datasets/RE/biobert-v1.1_output/time_14"
+}

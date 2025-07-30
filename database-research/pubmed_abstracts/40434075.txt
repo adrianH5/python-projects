@@ -1,0 +1,17 @@
+Interferon-inducible transmembrane (IFITM) proteins have been widely reported as antiviral factors against various viral pathogens.
+However, the mechanisms of IFITM regulation on hepatitis B virus (HBV), which induces chronic infection resulting in cirrhosis as well as liver cancer, remain poorly characterized.
+In the present study, we identified that HBV infection significantly increased the expression of IFITM1.
+To dissect the role of IFITM1 in HBV infection, we overexpressed IFITM1 in HepG2.215 cells and revealed that the replication of HBV was restricted by IFITM1.
+Recently, we demonstrated that the anti-RNA virus activity of IFITM proteins depends on palmitoylation modification, and the depalmitoylase α/β-hydrolase domain-containing 16A (ABHD16A) negatively regulates IFITM1 against RNA virus infection in human and porcine cells.
+However, whether ABHD16A-IFITM1 regulates DNA virus infection has not been researched.
+Here, by using co-immunoprecipitation (Co-IP) and acyl-PEGyl exchange gel-shift assay, ABHD16A-catalyzed depalmitoylation of IFITM1 was verified in HepG2.215 cells.
+In addition, we respectively knocked out IFITM1 and ABHD16A via CRISPR/Cas9 and showed that the anti-HBV activity of IFITM1 was negatively regulated by ABHD16A through depalmitoylation.
+Collectively, our findings demonstrated for the first time that ABHD16A catalyzes the depalmitoylation of IFITM1 to regulate its antiviral activity against HBV, which expands the biological functions of ABHD16A in immune regulation and provides potential targets for HBV infection-related disease therapy.IMPORTANCENowadays, hepatitis B virus (HBV) infection remains a major global public health problem, with over 375 million people worldwide having been infected.
+Chronic HBV infection leads to serious liver diseases, such as liver cirrhosis and hepatocellular carcinoma.
+Therefore, it is urgent to reveal the mechanism of HBV infection and uncover novel drug targets.
+Interferon and interferon-stimulated genes are responsible for the inhibition of HBV infection.
+Interferon-inducible transmembrane (IFITM) is distributed on plasma membrane, restricting various virus invasions.
+Nevertheless, whether and how IFITM regulates HBV infection remains unclear.
+Here, we show that IFITM1 inhibited the replication of HBV, which depended on palmitoylation modification.
+In addition, the depalmitoylase α/β-hydrolase domain-containing 16A (ABHD16A) negatively regulates the anti-HBV activity of IFITM1.
+Overall, our findings provided ABHD16A as a potential target for interfering with HBV replication.

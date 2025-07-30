@@ -1,0 +1,10 @@
+Nonalcoholic steatohepatitis (NASH), associated with metabolic syndromes, causes fibrosis and cirrhosis, leading to hepatocellular carcinoma.
+Angiotensin II (ANG II) type 1 receptor (AT1R), expressed in hepatic stellate cells (HSCs), promotes cell proliferation and collagen production.
+Our study aimed to investigate the potential inhibitory effect and mechanism of the AT1R blocker (ARB) on NASH with fibrosis and carcinogenesis using a transgenic rat NASH model, focusing on the direct modulatory effect of ARB on the rat HSC cell line, RI-T. Connexin 32 dominant-negative transgenic rats fed a high-fat diet (HFD) or HFD with ARB (candesartan, 1 or 2 mg/kg/day) in drinking water and injected with dimethylnitrosamine 6 times for 18 weeks.
+In vivo, ARB improved liver injury, steatohepatitis, and bridging fibrosis by decreasing α-smooth muscle actin (α-SMA) positive activated HSCs, reducing ROS production, and alleviating insulin resistance.
+ARB decreased inflammatory cytokine mRNA expression (Timp1, Timp2, Ctgf, Tgf-β1), inhibited NF-κB signaling, and notably reduced galectin-3 protein expression, a critical fibrosis mediator regulated by the TGF-β/NF-κB pathway.
+ARB reduced the Ki-67 labeling index in hepatic preneoplastic glutathione S-transferase placental form positive foci.
+In vitro, ARB decreased pPKD1 and pPKCδ protein expression, upstream regulators of the NF-κB pathway in HSC activated by TGF-β1 or ANG II.
+Additionally, galectin-3-stimulated HSC proliferation, activity, and NF-κB signaling were suppressed by ARB.
+In conclusion, our study demonstrated that ARB alleviates NASH progression and fibrosis by inhibiting HSC activation via suppression of PKC/PKD-NF-κB signaling and galectin-3.
+Furthermore, we identified a novel mechanistic correlation between ARB and galectin-3, expanding the therapeutic potential of ARBs in NASH.

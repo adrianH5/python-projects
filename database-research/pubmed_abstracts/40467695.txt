@@ -1,0 +1,8 @@
+Recent research advances have resulted in an experimental benchtop X-ray fluorescence computed tomography (XFCT) system that likely meets the imaging dose/scan time constraints for benchtop XFCT imaging of live mice injected with gold nanoparticles (GNPs).
+For routine in vivo benchtop XFCT imaging, however, additional challenges, most notably the need for rapid/near-real-time handling of X-ray fluorescence (XRF) signal extraction and XFCT image reconstruction, must be successfully addressed.
+Here we propose a novel end-to-end deep learning (DL) framework that integrates a one-dimensional convolutional neural network (1D CNN) for rapid XRF signal extraction with a U-Net model for XFCT image reconstruction.
+We trained the models using a comprehensive dataset including experimentally-acquired and augmented XRF/scatter photon spectra from various GNP concentrations and imaging scenarios, including phantom and synthetic mouse models.
+The DL framework demonstrated exceptional performance in both tasks.
+The 1D CNN achieved a high coefficient-of-determination (R² > 0.9885) and a low mean-absolute-error (MAE < 0.6248) in XRF signal extraction.
+The U-Net model achieved an average structural-similarity-index-measure (SSIM) of 0.9791 and a peak signal-to-noise ratio (PSNR) of 39.11 in XFCT image reconstruction, closely matching ground truth images.
+Notably, the DL approach (vs. the conventional approach) reduced the total post-processing time per slice from approximately 6 min to just 1.25 s.

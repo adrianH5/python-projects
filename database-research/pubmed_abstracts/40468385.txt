@@ -1,0 +1,3 @@
+Whole-genome sequencing (WGS) data has facilitated genome-wide identification of rare noncoding variants.
+However, elucidating these variants' associations with complex diseases remains challenging.
+A previous study utilized a deep-learning-based framework and reported a significant brain-related association signal of autism spectrum disorder (ASD) detected from de novo noncoding variants in the Simons Simplex Collection (SSC) WGS cohort.

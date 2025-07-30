@@ -1,0 +1,13 @@
+Chromatin remodeling plays an integral part in endometrial homeostasis, having roles in the maintenance of cell identity, epithelial integrity, and prevention of endometrial disease.
+Chromodomain-helicase-DNA-binding protein 4 (CHD4) is a chromatin remodeling protein and member of the NuRD complex, which predominantly represses transcription.
+CHD4 is mutated in endometrial carcinoma, with most mutations leading to loss of function.
+CHD4 has been identified as a tumor suppressor and regulator of stemness in endometrial carcinoma cells, but little is known about the tissue-specific roles of CHD4 in the endometrial epithelia in vivo.
+We generated a conditional Chd4 floxed allele and combined it with BAC-Sprr2f-Cre to drive Chd4 loss in the endometrial epithelium.
+Consistent with previous reports, BAC-Sprr2f-Cre expression is absent in the oviducts, ovaries, and kidneys, and it shows variegated expression within the endometrial epithelium.
+Loss of CHD4 was confirmed by immunohistochemistry, and stained cells were quantified to determine the percentage of endometrial epithelial cells with and without CHD4.
+Compared to the glandular epithelium, the extent of CHD4 loss was higher in the luminal epithelium and unaffected by age.
+Mice with conditional knockout of Chd4 had normal endometrial histology.
+A 6-month breeding trial was performed to assess the functional effects of endometrial epithelial Chd4 loss on fertility.
+No difference in litter size, mean number of pups per litter per dam, or pup weight was found between genotypes.
+These findings demonstrate that Chd4 conditional loss using BAC-Sprr2f-Cre is not sufficient to alter the structure and function of the endometrial epithelium or drive tumorigenesis.
+As CHD4 is frequently co-mutated with other cancer driver genes such as TP53, PIK3CA, and PTEN, future mouse modeling efforts emulating patient mutational profiles might provide insight into the role of CHD4 in endometrial carcinoma.

@@ -1,0 +1,3 @@
+This study focuses on the development and evaluation of solid lipid nanoparticles (SLNs) as an efficient carrier for the co-delivery of paclitaxel (PTX) and kaempferol (KMF) in breast cancer treatment.
+PTX, a BCS (Biopharmaceutics Classification System)-IV class drug, was combined with KMF, a flavonoid extracted and isolated from bee pollen, to enhance therapeutic efficacy.
+The optimal synergistic ratio of PTX and KMF was incorporated into SLNs using a hot homogenization technique, resulting in PTX-KMF-SLNs with a stable core-shell structure, narrow size distribution (166.1 ± 3.2 nm), and high encapsulation efficiency (86.15 ± 4.52%).

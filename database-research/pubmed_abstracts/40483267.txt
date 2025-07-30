@@ -1,0 +1,7 @@
+Epigenetic mapping studies across individuals have identified many positions of epigenetic variation across the human genome.
+However the relationships between these positions, and in particular global patterns that recur in many regions of the genome, remains understudied.
+In this study, we use a stacked chromatin state model to systematically learn global patterns of epigenetic variation across individuals and annotate the human genome based on them.
+We apply this framework to histone modification data across individuals in lymphoblastoid cell lines and across autism spectrum disorder cases and controls in prefrontal cortex tissue.
+We find that global patterns are correlated across multiple histone modifications and with gene expression.
+We use the global patterns as a framework to predict trans-regulators and study a complex disorder.
+The frameworks for identifying and analyzing global patterns of epigenetic variation are general and we expect will be useful in other systems.

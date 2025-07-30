@@ -1,0 +1,8 @@
+Lung cancer remains the leading cause of cancer-related mortality globally, with many patients diagnosed with advanced-stage disease.
+Treatment in this setting relies on systemic therapies, including chemotherapy, targeted therapy and immunotherapy.
+Immune-checkpoint inhibitors (ICIs), which promote or restore antitumour immunity by inhibiting immunosuppressive signalling pathways, are currently the most widely used immunotherapies in these patients.
+However, immune-related adverse events (irAEs) or disease progression often necessitate discontinuation of these agents, leaving many patients with limited subsequent treatment options.
+In this scenario, ICI rechallenge has emerged as a potential strategy.
+Despite this potential, evidence for ICI rechallenge after either disease progression or irAEs in patients with non-small-cell lung cancer is limited and evidence for those with small cell lung cancer seems to be non-existent.
+In this Review, we provide a comprehensive overview of the available data on ICI rechallenge in the context of both disease progression and irAEs, including a summary of current guidance on clinical management and detailed discussions of safety and efficacy.
+We also highlight important unanswered questions in an attempt to guide future research in this area.

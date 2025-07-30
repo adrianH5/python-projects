@@ -1,0 +1,7 @@
+Spatial transcriptomics and epigenomics have enabled mapping gene regulation in the tissue context.
+However, it remains poorly understood how spatial gene expression patterns are orchestrated by enhancers.
+Here we build eSpatial, a computational framework that deciphers spatially resolved enhancer regulation of gene expression by integrating spatial profiles of gene expression and chromatin accessibility.
+Applying eSpatial to diverse spatial datasets, including mouse embryo and brain, as well as human melanoma and breast cancer, we reveal a "spatial enhancer code", in which divergent combinations of enhancers regulate the same gene in spatially segregated domains.
+We validate the spatial enhancer code using public spatial datasets such as VISTA, Allen in situ hybridization (ISH), and H3K27ac MERFISH.
+Moreover, we conduct transgenic reporter assays and in vivo CRISPR/Cas9-mediated perturbation experiments to confirm the Atoh1 spatial enhancer code in determining Atoh1 spatial expression in mouse embryonic spinal cord and brain.
+Our study establishes the spatial enhancer code concept, revealing how combinations of enhancers dynamically shape gene expression across diverse biological contexts, providing insights into tissue-specific regulatory mechanisms and tumor heterogeneity.

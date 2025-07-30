@@ -1,0 +1,11 @@
+Genital inflammation not only increases the risk of HIV acquisition, reduces antiretroviral efficacy, but also poses risks for other STIs, highlighting the need to understand underlying regulatory mechanisms.
+MicroRNAs/miRNAs are important regulators of various cellular processes, including inflammation; however their role in HIV-driven cervical inflammation remains unclear.
+Using transcriptome analysis and various bioinformatics tools, we identified key inflammation-associated miRNAs, molecular pathways and regulatory networks in the cervical cells of 24 HIV-infected women vis-a-vis 23 HIV-uninfected women.
+RNA-sequencing deciphered a dysregulated profile of 8 inflammation-associated miRNAs in cervical cells of HIV-infected women.
+In line with RNA-sequencing data, RT-PCR confirmed the upregulated expression of hsa-miR-204-5p and hsa-miR-3691-3p along with inflammatory markers (IL-1β, IL-6, TNF-α, NF-kB) in cervical cells of HIV-infected women.
+KEGG analysis revealed involvement of these miRNAs in inflammatory pathways (MAPK, Wnt, PI3K-AKT) and cancer-related pathways.
+PPI network identified CTNNB1, BCL2, and GSK3B as key hub genes, where GSK3B showed maximum interactions with transcription factors (TF; n = 31).
+EZH2 and EED were prominent TFs showing highest interactions with hub genes.
+Drug prediction further suggested Valproic acid, a known GSK3B inhibitor, as a potential therapeutic based on degree of interaction with hub genes.
+Conclusively, HIV-infected women displayed cervical inflammation, increased miR-204-5p and miR-3691-3p and deregulated inflammatory pathways.
+Targeting these miRNAs and/or their intermediates might be one of the useful approaches to alleviate cervical inflammation in HIV-infected women, which needs to be examined further.

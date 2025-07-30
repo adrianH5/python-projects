@@ -1,0 +1,18 @@
+Background  Classic Hodgkin's lymphoma (CHL) is frequently treated using a positron emission tomography (PET)-directed approach, as demonstrated in the Response-Adapted Therapy for Hodgkin Lymphoma (RATHL) trial.
+This study aimed to compare real-world patient outcomes with those reported in the RATHL trial for individuals with advanced-stage disease.
+Methods This retrospective study included 169 adult patients aged 18 years and older (range 20-66 years).
+Only patients who received treatment and subsequent follow-up at our institution were included in this study.
+Results The study population had a male-to-female ratio of 1.86:1, with a median age of 30 years.
+B symptoms were present in 119 patients (70.4%), while bulky disease (>33% of the transthoracic diameter or >10 cm elsewhere) was observed in 55 patients (32.5%).
+More than half (57.4%) had stage IV disease at diagnosis, and the median follow-up time was 4.79 years.
+The three-year overall survival rate was 92.3%, and the progression-free survival rate was 76.9%.
+Among the 49 patients in the interim PET-positive group, the three-year overall survival and progression-free survival rates were 83.7% and 57.1%, respectively.
+Of these, 17 (34.7%) received escalated therapy with bleomycin, etoposide, doxorubicin, cyclophosphamide, vincristine, procarbazine, and prednisone (BEACOPP), while 32 (65.7%) continued with doxorubicin, bleomycin, vinblastine, and dacarbazine (ABVD) or standard BEACOPP.
+No significant survival difference was observed between these treatment groups.
+In the interim PET-negative group of 104 patients, 84 (80.8%) received ABVD, while 20 (19.2%) received doxorubicin, vinblastine, and dacarbazine (AVD).
+Again, no significant difference in survival was noted between these two groups.
+When comparing the interim PET-positive cohort to the RATHL trial, the three-year overall survival rates were 83.7% versus 87.8% (p = 0.45), and the progression-free survival rates were 57.1% versus 67.5% (p = 0.17), with no statistically significant difference.
+Conclusion This study highlights excellent real-world outcomes for treating CHL using a PET-directed approach similar to the RATHL trial.
+However, despite PET-guided therapy, interim PET positivity remained associated with significantly lower overall survival and progression-free survival rates.
+De-escalation to AVD in the interim PET-negative group did not negatively affect survival outcomes.
+ABVD remains a viable treatment option for PET-positive patients with good tolerance, strong response, or near-complete remission with single-site residual disease, without compromising survival.

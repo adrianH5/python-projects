@@ -1,0 +1,5 @@
+While Illumina is currently used for high-throughput short-read sequencing, MGI Tech have developed a similar sequencing method at a lower cost.
+Comparisons of the two platforms revealed that their accuracy, sensitivity, and reproducibility are very similar, but the impact of each on biological insights, particularly in heterogeneous samples, remains unknown.
+Illumina and MGI Tech were used to generate single-cell RNA-seq libraries from three human cancer samples.
+While unique platform-specific cells arise after additional cell quality controls, the chosen sequencing platform did not affect either clustering or gene expression analyses.
+In conclusion, MGI Tech delivers transcriptomic profiles similar to those of Illumina and can be confidently used for high-throughput applications.

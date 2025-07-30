@@ -1,0 +1,8 @@
+The replicative helicase-catalyzed unwinding of the DNA double helix is the initiation of DNA replication.
+Helicases and primases are functionally related enzymes that have even been expressed as fusion proteins in some organisms and viruses.
+However, the mechanism underlying DNA unwinding initiation by these helicase-primase fusion enzymes and the functional association between domains have not been elucidated.
+Herein, we report the cryo-EM structures of mpox virus E5, the founding member of these helicase-primase enzymes, in various enzymatic stages.
+Notably, E5 forms a head-to-head double hexamer encircling dsDNA, disrupted by the conformational rearrangement of primase domains upon nucleotide incorporation.
+Five E5-ssDNA-ATP structures further support an ATP cycle-driven non-classical escort model for E5 translocation.
+Finally, the helicase domain is found to enhance the primase function as a DNA scaffold.
+Together, our data shed light on the E5-mediated DNA unwinding model including dsDNA loading, DNA melting, ssDNA translocation, and provide a reasonable interpretation for evolutionary preservation of helicase-primase fusion from a functional perspective.

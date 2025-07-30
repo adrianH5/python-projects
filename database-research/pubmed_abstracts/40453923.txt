@@ -1,0 +1,14 @@
+Colorectal cancer (CRC) is a common malignancy of the digestive tract and is the second leading cause of cancer-related death worldwide.
+Keratin 23 (KRT23), a member of the keratin family, is implicated in the development of various cancers.
+Hence, this study aimed to clarify the molecular mechanism of KRT23 in the progression of CRC.
+Quantitative real time polymerase chain reaction (qRT-PCR) and western blot were applied to detected RNA and protein levels.
+Cell migration, invasion, and apoptosis were measured by wound healing, transwell assay, and flow cytometry, respectively.
+Glycolysis was reflected by the detection of ATP, lactate production, and glucose consumption.
+What's more, the binding site of zinc finger protein 384 (ZNF384) and KRT23 was predicted using the relevant website and verified by chromatin immunoprecipitation (CHIP) and dual-luciferase reporter assay.
+Meanwhile, the related proteins were detected by immunohistochemistry (IHC).
+A mouse xenograft model was established for in vivo analysis and further verified the role of ZNF384 and KRT23 in CRC.
+KRT23 was highly expressed in CRC tissues and cells.
+Functionally, silencing KRT23 inhibited CRC migration and invasion, promoted apoptosis, and impeded epithelial-mesenchymal transition (EMT) and glycolysis process by the TGF-β/Smad signaling pathway.
+In terms of mechanism, ZNF384 bound to the KRT23 promoter, and the inhibition caused by ZNF384 interference was reversed with KRT23.
+In vivo, knocking down ZNF384 inhibited tumor growth.
+In summary, ZNF384 could promote the malignant progression of CRC by regulating the KRT23-mediated TGF-β/Smad signaling pathway.

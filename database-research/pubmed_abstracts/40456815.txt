@@ -1,0 +1,12 @@
+We aimed to develop and validate a nomogram for diagnosing ovarian cancer from ovarian masses based on clinical information, O-RADS US, and radiomics.
+A total of 981 patients with ovarian masses from two centers were randomly divided into the training cohort (n = 686) and the validation cohort (n = 295).
+We defined the region of interest (ROI) of the tumor by manually drawing the tumor contour on the ultrasound image of the lesion.
+The radiomics features were extracted from ultrasound images, and the radiomics score was then calculated.
+O-RADS US characteristics, radiomics score, and clinical features selected using the LASSO algorithm were used to develop O-RADS US + Radscore + Clinical, Radscore + Clinical, and O-RADS US + Clinical models, respectively.
+Receiver operating characteristic (ROC), decision curve analysis, and calibration curve were used to evaluate the performance of the nomogram models.
+Age, CA125, O-RADS US, and radiomics score were related to ovarian malignancy through univariate and multivariate logistic regression analyses.
+In the training and validation datasets, the areas under the ROC curve (AUC) of O-RADS US + Clinical model were 0.830 and 0.815, respectively, and those for the Radscore + Clinical model were 0.876 and 0.867, respectively.
+The O-RADS US + Radscore + Clinical nomogram model presented improved AUC values of 0.967 in the training group and 0.951 in the validation group, significantly higher than that of Radscore + Clinical and O-RADS US + Clinical models.
+The calibration curve and the clinical decision curve analysis demonstrated that the nomogram models had high clinical benefits.
+The O-RADS US + Radscore + Clinical model had the highest net return.
+Combination nomogram model that integrates clinical features, O-RADS US, and radiomics based on ultrasound image analysis could predict ovarian malignancy with high diagnostic accuracy, indicating that this model might have a role in preoperative diagnosis for differentiating benign and malignant ovarian tumors.

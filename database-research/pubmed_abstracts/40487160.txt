@@ -1,0 +1,5 @@
+Metastasis and recurrence are the main causes of failure in the treatment of ovarian cancer (OC).
+Immunotherapy has brought new opportunities for cancer treatment, but the presence of the immunosuppressive tumor microenvironment limits its application in OC.
+Here, we prepared a kind of intelligent nanomicelles that could inhibit OC metastasis and recurrence by combining photothermal tumor ablation and immune remodeling.
+In this study, Indocyanine green (ICG), a photosensitizer and Monophosphoryl lipid A (MPLA), a Toll-like receptor 4 agonist, were encapsulated into the core of PEG-PLGA nanocarrier, and the surface was further modified with tumor-targeting peptide TMTP1.
+The formed TP1-IM nanomicelles with enhanced tumor accumulation could enable robust photothermal ablation of the primary tumor, and induce immunogenic cell death, release tumor-associated antigens, and damage-associated molecular patterns to form an endogenous

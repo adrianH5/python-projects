@@ -1,0 +1,18 @@
+T1	Repository 4 34	immune epitope database (IEDB)
+T2	Creator 61 77	Bui et al., 2006
+T3	Dataset 631 637	GISAID
+T4	Creator 639 670	Elbe and Buckland-Merrett, 2017
+T5	Repository 905 910	dbMHC
+T6	Creator 921 942	Helmberg et al., 2004
+T7	Repository 962 966	IEDB
+T8	Creator 993 1009	Bui et al., 2006
+T9	Dataset 1744 1750	GISAID
+T10	Creator 1761 1792	Elbe and Buckland-Merrett, 2017
+T11	Dataset 1840 1846	GISAID
+T12	Repository 1874 1884	Nextstrain
+T13	Creator 1886 1907	Hadfield et al., 2018
+T14	Dataset 2071 2077	GISAID
+T15	Repository 2105 2115	Nextstrain
+T16	Repository 2228 2235	UniProt
+T17	AccessionNumber 2273 2284	UP000005640
+R1	hasAttr	Arg1:T16	Arg2:T17

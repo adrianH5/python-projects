@@ -1,0 +1,9 @@
+CpG island hypermethylation, a hallmark of cancer, exhibits substantial heterogeneity across tumors, presenting both opportunities and challenges for cancer diagnostics and therapeutics.
+While this heterogeneity offers potential for patient stratification to predict clinical outcomes and personalize treatments, it complicates the development of robust biomarkers for early detection.
+Understanding the mechanisms driving this heterogeneity is essential for advancing biomarker design.
+Here, simulation-based analyses demonstrate that tumor purity and the high prevalence of low epi-mutation samples significantly obscure the identification of negative, rather than positive, regulators of CpG island hypermethylation, limiting a comprehensive understanding of heterogeneity sources.
+By addressing these confounders, we identify impaired DNA methylation maintenance, as indicated by global hypomethylation levels, as the primary contributor to CpG island hypermethylation variability among known regulators.
+This finding is supported by integrative analyses of datasets from The Cancer Genome Atlas (TCGA) Pan-Cancer Atlas, Genomics of Drug Sensitivity in Cancer (GDSC1000) cancer cell lines, and epi-allele analyses of two independent whole-genome bisulfite sequencing cohorts, using a newly developed method, MeHist (https://github.com/vhang072/MeHist).
+Furthermore, we assess widely used hypermethylation biomarkers across ten cancer types and find that 65 out of 246 (26.4%) are significantly influenced by impaired methylation maintenance.
+Incorporating hypomethylation and hypermethylation markers improves the robustness of cancer detection, as validated across multiple plasma cell-free DNA datasets.
+In summary, our findings highlight the value of simulation-guided integrative analysis in mitigating confounding effects and identify impaired DNA methylation maintenance as a key regulator of CpG island hypermethylation heterogeneity.

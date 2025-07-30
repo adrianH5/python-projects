@@ -1,0 +1,6 @@
+Intestinal fibrosis is a refractory complication of inflammatory bowel disease (IBD), arising from recurrent intestinal inflammation and excessive wound healing.
+Repeated strictures can lead to intestinal obstruction, with three-quarters of patients with strictures eventually requiring surgery, which severely impacts their quality of life.
+Thrombospondin-1 (TSP1) is a matricellular protein that regulates tissue fibrosis by binding to its cell membrane receptor, CD36, and activating transforming growth factor β (TGF-β).
+In this study, based on molecular docking simulations, overlapping peptide libraries, and introducing non-natural amino acid modifications, we designed a cyclic peptide derived from the structure of CD36 (93-110), 19A8.8, which potently inhibited the epithelial-mesenchymal transition (EMT) of IEC-6 cells and reduced extracellular matrix protein deposition by disrupting the TSP1-CD36 interaction.
+In both in vitro and in vivo intestinal fibrosis models, 19A8.8 was shown to alleviate intestinal fibrosis by suppressing Smad3 phosphorylation and blocking the TGF-β/Smad3 signaling pathway.
+This study is the first to identify a novel therapeutic target for intestinal fibrosis and proposes the cyclic peptide 19A8.8 as a potential candidate drug for its treatment.

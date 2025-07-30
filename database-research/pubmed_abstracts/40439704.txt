@@ -1,0 +1,10 @@
+Radiopharmaceutical therapies (RPT) activate a type I interferon (IFN1) response in tumor cells.
+We hypothesized that the timing and amplitude of this response varies by isotope.
+We compared equal doses delivered by 90Y, 177Lu, and 225Ac in vitro as unbound radionuclides and in vivo when chelated to NM600, a tumor-selective alkylphosphocholine.
+Response in murine MOC2 head and neck carcinoma and B78 melanoma was evaluated by qPCR and flow cytometry.
+Therapeutic response to 225Ac-NM600+anti-CTLA4+anti-PD-L1 immune checkpoint inhibition (ICI) was evaluated in wild-type and stimulator of interferon genes knockout (STING KO) B78.
+The timing and magnitude of the IFN1 response correlated with radionuclide half-life and linear energy transfer.
+The ratio of CD8+ T cells to regulatory T cells (Treg) increased in tumors 7 days after 90Y- and 177Lu-NM600 and day 21 after 225Ac-NM600.
+225Ac-NM600+ICI improved survival in mice with wild-type but not with STING KO tumors, relative to monotherapies.
+Thus, we have found that the immunomodulatory effects of RPT vary with radioisotope and promote tumor cell STING-dependent enhanced response to ICIs in murine models.
+These findings have implications for the optimization of RPT-immunotherapy combinations and could guide the relative timing of therapies, the selection of isotope, and patient selection through tumor biomarkers.

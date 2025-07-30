@@ -1,0 +1,7 @@
+A recent meta-analysis published in this journal included 27 studies that experimentally manipulated social media use and investigated their impact on mental health outcomes (Ferguson, 2024).
+The author concluded that social media effects were not statistically different from zero.
+However, this meta-analysis did not investigate potential moderating effects of length of social media reduction or abstinence interventions.
+We conducted a reanalysis to investigate the impact of social media reduction/abstinence intervention length on mental health outcomes.
+We used the information available on the Open Science Framework platform related to the original meta-analysis and excluded seven studies because they were not reduction/abstinence interventions.
+We categorized studies into those with intervention lengths of <1 versus 1 week or longer and also tested for curvilinear relationships between intervention length (weeks and days as continuous variables) and outcomes by including quadratic terms.
+Stratified analyses indicated that interventions of <1 week resulted in significantly worse mental health outcomes (

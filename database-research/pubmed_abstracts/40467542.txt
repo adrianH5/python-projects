@@ -1,0 +1,13 @@
+Glioblastomas (GBM) are aggressive tumors, which systematically relapse despite standard treatment associating surgery, chemotherapy and radiation therapy.
+More recently, GBM therapy now includes another therapeutic modality option, Tumor Treating Fields (TTFields) given in combination with Temozolomide (TMZ) following standard treatment.
+However even with the adjunction of TTFields, GBM remains a lethal disease due to treatment resistance.
+One of the causes of resistance is the presence of cancer stem cells (GSC) known to be chemo and radioresistant and responsible for tumor regrowth.
+Studying mechanisms of resistance of GSC to TTFields is thus a major issue to address.
+Fibroblast Growth Factor Receptors (FGFR) play a major role in numerous processes essential for cancer development, and dysregulation of FGFR signaling has been observed in many cancer types, including GBM.
+We have previously shown that tyrosine kinase receptor Fibroblast Growth Factor Receptor 1 (FGFR1) controls GBM aggressiveness and GSC radioresistance and that its inhibition leads to radiosensitization through increasing mitotic cell death and microenvironment modulation.
+Because one of the main mechanisms of action of TTFields is mitotic disturbance and because TTFields act synergistically in vitro with irradiation (IR), we hypothesize that targeting FGFR could sensitize GSC to TTFields.
+Here we show that, like IR, TTFields significantly decrease GSC growth.
+Treatment of GSC with pemigatinib (Pem), a FGFR1-3 inhibitor, alters FGFR signalling pathway.
+We demonstrate that Pem, sensitizes GSC to TTFields by synergistically decreasing their survival and clonogenic ability.
+Finally, the adjunction of Pem to treatment combining IR and TTFields could sensitize GSC by inducing, in some GSC, a further decrease in the repair of IR-induced DNA damages.
+Altogether, these results highlight the potential benefits of inhibiting FGFR with the concomitant application of TTFields in the first-line standard GBM treatment to improve patient prognosis.

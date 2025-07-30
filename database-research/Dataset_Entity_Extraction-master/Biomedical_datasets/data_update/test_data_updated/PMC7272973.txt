@@ -1,0 +1,10 @@
+The current emergency of COVID‐19 arose after the end of 2019 in Wuhan (China) and was officially declared a pandemic by the World Health Organization (WHO) on 11 March 2020.
+The first report in the South American region of a patient with COVID‐19 was declared by Brazil, whereas Venezuela and Uruguay were the ultimate nations to confirm their patient zero.
+According to the situation report (No. 102) of the WHO, Brazil has the highest number of COVID‐19 confirmed cases (78 162) and deceases (5466) due to this disease, followed by Peru with 33 931 and 943, respectively.
+Analyses were performed to obtain an overview of genomic SARS‐CoV‐2 mutations of circulating strains in South America; we download a total of 30 complete genomes of South American countries from the GISAID (https://www.gisaid.org/) database.
+Additionally, we downloaded 688 genomes from the GISAID database,
+ the genomes were complete (>29 000 bp) and with high coverage according to this public resource.
+Since the first officially reported patient in South America in Brazil, other countries have been informing COVID‐19 cases.
+However, the GISAID SARS‐CoV‐2 portal (URL at: https://www.gisaid.org/epiflu-applications/next-hcov-19-app/) depicts the close relationship between an isolate from Oceania (EPI ISL 417211) and the strain sequenced in Ecuador.
+After more than 4 months of the COVID‐19 pandemics with genomic information of SARS‐CoV‐2 around the globe, there are more than 1000 complete genomes of this virus.
+We used 691 genomes from the GISAID database.

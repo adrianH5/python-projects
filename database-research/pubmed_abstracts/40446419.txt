@@ -1,0 +1,6 @@
+Acute leukemia, a cancer originating in the bone marrow and blood-forming tissues, poses a significant threat to human health.
+Chemotherapy may cause a range of side effects and further cause greater suffering to the patients.
+Thus, reducing the toxicity of the drugs for treating leukemia has become a significant challenge.
+In this study, we developed two non‑platinum anticancer agents, ole-Ru and ole-Ir, by fusing the natural product oleanolic acid as the ligand into two metal (ruthenium and iridium) precursors.
+Ole-Ru and ole-Ir not only exhibited remarkable selectivity and cytotoxicity against NB4 cells through the apoptosis pathway, but also demonstrated low toxicity towards normal lung fibroblast cells, suggesting their potential for targeted treatment of acute leukemia cells.
+This work presents a rational design strategy for metal-based anticancer complexes aimed at inhibiting NB4 cells and expanded the scope of metallodrugs used in the treatment of leukemia.

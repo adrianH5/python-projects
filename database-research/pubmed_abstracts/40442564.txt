@@ -1,0 +1,13 @@
+MRI metadata, particularly free-text series descriptions (SDs) used to identify sequences, are highly heterogeneous due to variable inputs by manufacturers and technologists.
+This variability poses challenges in correctly identifying series for hanging protocols and dataset curation.
+The purpose of this study was to evaluate the ability of large language models (LLMs) to automatically classify MRI SDs.
+We analyzed non-contrast brain MRIs performed between 2016 and 2022 at our institution, identifying all unique SDs in the metadata.
+A practicing neuroradiologist manually classified the SD text into: "T1," "T2," "T2/FLAIR," "SWI," "DWI," ADC," or "Other."
+Then, various LLMs, including GPT 3.5 Turbo, GPT-4, GPT-4o, Llama 3 8b, and Llama 3 70b, were asked to classify each SD into one of the sequence categories.
+Model performances were compared to ground truth classification using area under the curve (AUC) as the primary metric.
+Additionally, GPT-4o was tasked with generating regular expression templates to match each category.
+In 2510 MRI brain examinations, there were 1395 unique SDs, with 727/1395 (52.1%) appearing only once, indicating high variability.
+GPT-4o demonstrated the highest performance, achieving an average AUC of 0.983 ± 0.020 for all series with detailed prompting.
+GPT models significantly outperformed Llama models, with smaller differences within the GPT family.
+Regular expression generation was inconsistent, demonstrating an average AUC of 0.774 ± 0.161 for all sequences.
+Our findings suggest that LLMs are effective for interpreting and standardizing heterogeneous MRI SDs.

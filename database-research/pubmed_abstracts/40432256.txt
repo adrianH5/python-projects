@@ -1,0 +1,6 @@
+Inspired by the "magic bullet" concept proposed over a century ago, antibody-drug conjugates (ADCs) were developed to enhance cancer therapy by linking monoclonal antibodies to a cytotoxic payload, aiming to overcome the limitations of conventional chemotherapy.
+To date, 17 ADCs have received regulatory approval for treating both hematologic and solid tumors.
+Despite their clinical success, developing ADCs with optimal therapeutic potential remains challenging.
+While selecting the appropriate antibody and cytotoxin is crucial, the linker plays a pivotal role in determining plasma stability and efficient payload release at the tumor site.
+Over the past decade, advances in linker technology have significantly improved the pharmacokinetics, efficacy, and toxicity profiles of ADCs.
+This review provides an overview of clinically validated linkers and recent innovations in linker design, focusing on drug release triggers, bioconjugation strategies, the impact of spacers on hydrophilicity, traceless drug release, and linker architecture, as well as a discussion of the bystander effect, offering insights for the rational design of next-generation ADCs.

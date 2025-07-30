@@ -1,0 +1,11 @@
+In recent years, significant breakthroughs have been achieved in the study of RNA secondary structures.
+The roles of canonical structures, such as hairpins, internal loops, and stem-loops, in gene expression regulation, genome stability, and post-transcriptional control have been widely recognized.
+Meanwhile, non-canonical RNA secondary structures-such as R-loops, RNA G-quadruplexes (rG4s), Z-RNA, and pseudoknots-have garnered increasing attention due to their unique biological functions, becoming a frontier in research.
+The critical roles of these structures in gene regulation and tumorigenesis are gradually emerging, highlighting their importance.
+R-loops, composed of RNA-DNA hybrids, play central roles in genome stability, transcriptional regulation, and DNA repair; their abnormal accumulation is closely associated with tumorigenesis.
+rG4 regulates oncogene translation and stability, providing potential pathways for targeted cancer therapy.
+Although Z-RNA is still in its early stages of research, its unique role in interferon signaling and immune evasion opens new avenues for cancer immunotherapy.
+Pseudoknots, as highly complex RNA secondary structures, are indispensable in regulating the translational efficiency and functional stability of tumor-related genes.
+Recent progress in small-molecule drugs and RNA editing technologies targeting these RNA structures has demonstrated their potential applications in cancer diagnosis and treatment.
+This review provides a comprehensive perspective of the formation mechanisms, roles, and tumor-related research advancements of R-loops, rG4, Z-RNA, and pseudoknots.
+It delves into their mechanisms in cancer, outlines their potential applications in precision medicine, and discusses the challenges faced, offering innovative insights and directions for future research in the RNA structure field.

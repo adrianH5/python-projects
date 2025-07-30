@@ -1,0 +1,5 @@
+Extracorporeal photopheresis (ECP) reduces immune checkpoint inhibitor (ICI)-induced colitis without affecting anti-tumor immunity.
+Here, we provide a protocol to trace ECP-treated cells in vivo after transfer into tumor-bearing mice with ICI-induced colitis.
+We detail tumor and colitis induction, ICI therapy, and the labeling of ECP-treated splenocytes to trace their migration into target organs.
+Fluorescence imaging and tissue digestion enable the analysis of phagocytic uptake and the analysis of tolerogenic polarization of phagocytes based on congenic markers of donor and recipient mice.
+For complete details on the use and execution of this protocol, please refer to Braun et al.

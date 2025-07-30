@@ -1,0 +1,70 @@
+A novel coronavirus (CoV), designated severe acute respiratory syndrome (SARS)-CoV-2, underlies a pandemic infection, coronavirus disease 2019 (COVID-19), which rapidly spread globally and has been proclaimed a severe public health emergency of international concern (PHEIC) by the World Health Organization (WHO) (Wang et al., 2020a).
+By June 30, 2020, more than 200 countries and territories reported COVID-19 infections, together comprising 10,185,374 confirmed cases and 503,862 deaths (data from WHO, the Centers for Disease Control and Prevention [CDC], and the European Centre for Disease Prevention and Control [ECDC] are at https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+After COVID-19 diagnosis, other symptoms can be detected by routine blood examination.
+The neutrophils in 38% of COVID-19 patients were above the normal range, while the hemoglobin in 51% COVID-19 patients lies below the normal range, according to research at the Jinyintan Hospital in Wuhan, China.
+In addition, lymphocyte levels decreased in 35% of patients (Chen et al., 2020), suggesting possible dysfunctional cell-mediated immunity in COVID-19 patients.
+It has been reported that interleukin-6 (IL-6) concentrations and ferritin increase with illness deterioration in non-survivors compared with survivors within a subgroup of patients with COVID-19 (Zhou et al., 2020a).
+To investigate the pathogenesis and mechanism of SARS-CoV-2 infections in COVID-19 patients, blood samples were collected from three healthy controls, two IAV-infected patients, and five COVID-19 patients, including four patients (COV-1 to COV-4) with uncomplicated disease courses and one patient (COV-5) that subsequently progressed to severe disease (Figure 1
+A; Table S1).
+However, COVID-19 has distinct clinical signatures compared to IAV infections, including high morbidity and mortality.
+COVID-19 patients were enrolled within 5–10 days of symptom onset based on positive nucleic acid testing results, and the day when PBMCs were first collected was named day 1.
+After filtering out cells with low quality, we obtained transcriptome datasets from 46,022 cells with an average of 2,000 cells for each participant at each time point (Figure 1B).
+To uncover immune cell populations in COVID-19, we performed unsupervised clustering and obtained 15 cell populations (Figure 1C).
+The proportion of plasma cells and cycling plasma cells were increased significantly in both COVID-19- and IAV-infected patients (Figures 2B and S2), and there was no difference between these two types of virus infection.
+As expected, when examining the functions of upregulated genes in B cells of COVID-19 patients compared with healthy donors, protein complex assembly and protein-transport-related pathways were especially enriched, which may be because a large number of proteins are synthesized during this process (Figure 2C).
+T cells of COVID-19 (Figure 2E).
+Taken together, these results demonstrated that elevated plasma cells and increased activation of T cells and NK cells in COVID-19 patients may contribute to defense against the virus.
+Gene Ontology (GO) analyses were performed to gain insight into functions of different cell subsets between COVID-19 patients and healthy controls.
+Consistently, “defense response to virus signaling” genes were also enriched in T, B, and NK cells of all five COVID-19 patients on D1 and D4, but not D16 (Figures 3A and S3A), implying an ongoing immune response against SARS-CoV-2 virus.
+Differentially expressed genes (DEGs) in these transcriptomic profiles were then compared between COVID-19 patients and healthy controls.
+The expression of these four genes was also much higher in COVID-19 patients compared to healthy controls at the bulk level (Figure 3C).
+To achieve this, we divided the disease processes of COVID-19 patients from symptom onset to discharge into four stages (Table S3).
+Expression of IRF1, TP53, and CASP3 was increased in T, B, and NK cell subsets in COVID-19 patients compared to controls, while BCL2L11 exhibited different patterns in different cell subsets.
+In addition to the XAF1 related apoptosis pathway, expression of genes in other apoptosis-linked pathways, including TNF and Fas pathways (Elmore, 2007), was examined in both COVID-19 patients and healthy controls (Figures 3F and S3E).
+The expression of TNFSF10 (TRAIL) and its receptor TNFRSF10A were increased in T cells from COVID-19 patients relative to healthy controls.
+Other TNF path members, including TNFRSF1B, were also relatively upregulated in COVID-19 patients.
+As for the FAS path, the expression of FAS, FASLG, and FADD were upregulated in T cells of COVID-19 patients, though not significantly (Figure 3F).
+In B and NK cell subsets, TNFSF10 and FADD were notably increased in COVID-19 patients with other genes increased mildly, except that Fas in B cells and TRADD in NK cells were subtly decreased (Figure S3E).
+Taken together, we find that upregulated genes relevant to the XAF1, TNF, and Fas pathways may lead to increased T cell apoptosis in COVID-19 patients.
+Next, we sought to identify the immune molecular signatures associated with COVID-19 and IAV infection.
+Thus, we compared the expression of cytokines, cytokine receptors, and transcription factors in T cell subsets, NK cells, and DCs among COVID-19 patients, IAV patients, and healthy controls (Figures 4
+A and S4A).
+As the gene clustering pattern suggested, upregulated genes in COVID-19 patients mostly encode proinflammatory cytokines, cytokine receptors, and IFN-responsive transcription factors, while in IAV patients, proinflammatory transcription factors and virus-interacting host factors seem to be highly expressed.
+Expression of STAT3 was elevated in IAV patients compared to COVID-19 patients and healthy controls and seemed to correlate with time post admission.
+For COVID-19 patients, STAT1, a major transcription factor activated in response to interferon, was upregulated in activated CD4+
+We measured plasma concentrations of IL-6 during hospitalization of these COVID-19 patients and after leaving the hospital (Figure S4D).
+There was a rising phase of IL-6 in most COVID-19 patients, indicating an active inflammatory response, which is also observed in IAV patients (Yu et al., 2011).
+T cells, naive T cells, and DCs of COVID-19 patients compared to IAV patients and healthy controls (Figures 4C and S4A).
+Meanwhile, expression of IL6ST was upregulated in various cell types from COVID-19 patients and IAV patients compared to healthy controls.
+Based on clinical observations that plasma concentrations of inflammatory cytokines, such as IFN-α2, IL-7, IL-17, and IL-10 were higher in COVID-19 patients than in healthy adults (Huang et al., 2020), we compared expression levels of their corresponding receptors in activated CD4+
+T cells, MAIT cells, and NK cells across COVID-19 patients, IAV patients, and healthy controls.
+Upregulation of IFNAR1, the α chain of the interferon α/β receptor, was significant in these cell types in COVID-19 patients compared to healthy controls.
+T cells of COVID-19 patients compared to other groups, indicating that CD4+
+Here, we performed scRNA-seq on PBMCs from COVID-19 patients.
+Among all the immune cell clusters, the percentage of plasma cells was increased significantly among all five COVID-19 patients compared with healthy controls.
+IFNα2 and IFNγ have also been strongly associated with lung injury in COVID-19 (Liu et al., 2020).
+Consistently, “IFN-I response” was enriched in different PBMC subsets of COVID-19 patients in our study.
+Moreover, severe COVID-19 patients showed a stronger response to IFNs and virus infection compared to mild patients and healthy ones.
+This indicates that the intensity of the interferon response may both indicate the severity of COVID-19 disease and distinguish COVID-19 patients from healthy individuals.
+According to our results, upregulated XAF1 expression may be involved in increased T cell apoptosis in COVID-19 patients, cooperating with other genes, including IRF1, TP53, BCL2L11, and CASP3 (Jeong et al., 2018; Zou et al., 2012).
+Consistently, TP53 expression was increased in COVID-19 patients in another COVID-19 study (Xiong et al., 2020).
+In addition to XAF1-induced apoptosis, the extrinsic pathway of apoptosis, including TNF-α/TNFR1 and Fas/FasL path (Elmore, 2007), were also found to be involved in different cell subtypes in COVID-19 patients.
+Moreover, plasma TNF-α was reported to be increased in severe cases of COVID-19 (Chen et al., 2020; Huang et al., 2020), and TNF expression was upregulated in PBMCs of COVID-19 patients in our study, demonstrating a correlation between increased TNF-α secretion and TNF-α-induced apoptosis in COVID-19 patients (Rath and Aggarwal, 1999).
+Taken together, we found that the upregulated genes relevant to XAF1, TNF, and Fas pathways may lead to increased T cell apoptosis in COVID-19 patients.
+We analyzed the expression of cytokines, cytokines receptors, and transcription factors that are essential in the immune responses to viral infection and pinpointed gene expression patterns in COVID-19 patients that differ from IAV patients.
+The fact that expression of most cytokines was not detected in PBMCs might indicate that serum cytokines largely arise from the infection site, i.e., the lower respiratory tract for COVID-19.
+We found that plasma concentrations of IL-6 are above normal levels in the majority of COVID-19 patients, consistent with other studies (Chen et al., 2020).
+Our data show that expression of IL6R and IL6ST was upregulated in patients with COVID-19, and we suggest that increased expression of IL6R and IL6ST might synergize with elevated IL-6 to induce a strong inflammatory response, indicating that patients might benefit from IL-6 or IL-6R antagonist treatment.
+Five patients with COVID-19 were recruited in the Fifth Medical Center of PLA General Hospital from January to February 2020.
+Influenza virus infection, respiratory syncytial virus infection and adenovirus infection were excluded in all patients with COVID-19.
+The genome of SARS-CoV-2 was downloaded from NCBI (https://www.ncbi.nlm.nih.gov/) with the accession number GenBank:NC_045512.2.
+Then, the integrated dataset was scaled and PCA was calculated.
+We used Mfuzz (Kumar and Futschik, 2007) to identify time dependent transcriptional program in COVID-19 patients.
+The samples from COVID-19 patients were grouped according to the disease progression stage (Table S3).
+The coronavirus disease 2019 (COVID-19) pandemic poses a current world-wide public health threat.
+Here, we report the single-cell transcriptional landscape of longitudinally collected peripheral blood mononuclear cells (PBMCs) in both COVID-19- and influenza A virus (IAV)-infected patients.
+We observed increase of plasma cells in both COVID-19 and IAV patients and XIAP associated factor 1 (XAF1)-, tumor necrosis factor (TNF)-, and FAS-induced T cell apoptosis in COVID-19 patients.
+Further analyses revealed distinct signaling pathways activated in COVID-19 (STAT1 and IRF3) versus IAV (STAT3 and NFκB) patients and substantial differences in the expression of key factors.
+These factors include relatively increase of interleukin ( IL ) 6R and IL6ST expression in COVID-19 patients but similarly increased IL-6 concentrations compared to IAV patients, supporting the clinical observations of increased proinflammatory cytokines in COVID-19 patients.
+Thus, we provide the landscape of PBMCs and unveil distinct immune response pathways in COVID-19 and IAV patients.
+We generated a single-cell atlas of PBMCs in both COVID-19 and influenza patients    •  Plasma cells increase significantly in both COVID-19 and influenza patients    •  COVID-19 is featured with XAF1-, TNF-, and FAS-induced T cell apoptosis    •  COVID-19 activates distinct pathway (STAT1/IRF3) versus influenza (STAT3/NFκB)      COVID-19 and influenza are both respiratory infections with cytokine release syndrome.

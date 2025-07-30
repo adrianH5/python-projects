@@ -1,0 +1,6 @@
+Penicilazaphilone C (PAC) is a novel azaphilone isolated by our research team.
+While known for its antitumor properties, the potential of PAC to trigger ferroptosis in triple-negative breast cancer (TNBC) cells remains unexplored.
+This study aims to assess the ferroptotic induction capability of PAC and elucidate the underlying molecular mechanisms.
+Our results showed that treatment with PAC demonstrated a dose- and time-dependent inhibition of growth in MDA-MB-231 and MDA-MB-436 cells.
+Flow cytometry analysis and lactate dehydrogenase assay revealed various forms of cell death induced by PAC in both cell lines.
+Specifically, flow cytometry analyzed 7-AAD-stained dead cells, and ferroptosis markers, such as lipid peroxidation BODIPY-C11 and Fe

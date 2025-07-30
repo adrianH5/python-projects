@@ -1,0 +1,8 @@
+MicroRNAs (miRNAs) are pivotal regulators in disease progression and have emerged as significant biomarkers for the early detection, therapeutic intervention, and management of ovarian cancer.
+The integration of highly sensitive and reliable miRNA detection techniques with ultrasound imaging has the potential to significantly improve the diagnostic accuracy of cancers.
+In this study, we developed a novel colorimetric approach for the sensitive and reliable detection of miRNAs.
+This method combines self-priming-mediated DNA polymerization with target recycling and a SYBR Green I (SG)-induced colorimetric response.
+The sensor operates through a three-stage mechanism: (i) target recognition initiates the formation of a self-priming structure; (ii) an exponential isothermal amplification process, driven by DNA polymerase, facilitates signal amplification; and (iii) a photo-catalyzed color change enables label-free signal generation.
+Using miRNA-21 as a model target, this approach allows for precise miRNA-21 detection without the need for primers, while the SG-based photo-catalyzed color reaction minimizes background signal interference.
+The sensor demonstrates the ability to distinguish single-base mismatches in homologous sequences and maintains robust performance in complex biological environments.
+Furthermore, the sensor has been successfully applied to accurately quantify miRNA-21 levels from constructed samples, highlighting its substantial potential for clinical diagnostics and disease monitoring applications.

@@ -1,0 +1,9 @@
+Accumulating data have shown that targeting breast cancer stem cells (CSCs) is an auspicious way for anticancer therapies.
+This study demonstrated that the antirheumatic drug auranofin is a potent CSC inhibitor with anti-CSC action on breast cancer.
+This research focused on investigating the effect of auranofin on breast cancer and CSCs and its cellular mechanism.
+Mammosphere formation, colony formation, levels of CD44high/CD24low, and aldehyde dehydrogenase 1 expression in the cells were evaluated after auranofin treatment.
+The anti-CSC properties of auranofin were further examined by gel shift assay and cytokine detection.
+Auranofin suppressed cell growth, colony formation, migration, and mammosphere formation and triggered apoptosis in breast cancer.
+Auranofin decreased the CD44high/CD24low- and aldehyde dehydrogenaseexpressed subpopulations, as well as the Stat3-DNA interaction and phosphorylated Stat3 level.
+Auranofin also decreased the extracellular levels of interleukin-8 (IL-8) in the mammosphere media.
+Auranofin suppressed the Stat3/IL-8 signal and killed CSCs; therefore, it may be a potential target for CSCs.

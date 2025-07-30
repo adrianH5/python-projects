@@ -1,0 +1,2 @@
+Findings from family-based analyses, such as sibling comparisons, are often reported using only odds ratios or hazard ratios.
+We demonstrate how this can be improved upon by applying the marginalized between-within framework.

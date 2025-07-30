@@ -1,0 +1,8 @@
+Poor tumor trafficking and the immunosuppressive tumor microenvironment (TME) limit chimeric antigen receptor (CAR) T cell efficacy in solid tumors, such as neuroblastoma.
+We previously optimized GPC2 CARs in human neuroblastoma xenografts leading to clinical translation; however, there have not been preclinical studies using immunocompetent models.
+Thus, here we generated murine GPC2 CAR T cells using the D3-GPC2-targeting single-chain variable fragment being utilized clinically (NCT05650749) and tested them in neuroblastoma syngeneic allografts.
+Immune-profiling of GPC2 CAR T cell-treated tumors revealed significant reprogramming of the TME, most notably poor intra-tumor CAR T cell persistence being associated with increased recruitment of myeloid-derived suppressor cells (MDSCs), along with MDSC-recruiting CXCL1/2 chemokines.
+These tumor-infiltrating MDSCs directly inhibited GPC2 CAR T cell activation, proliferation, and cytotoxicity ex vivo.
+To both capitalize on this chemokine gradient and mitigate MDSC-tumor trafficking, we engineered GPC2 CAR T cells to express the CXCL1/2 receptor, CXCR2.
+CXCR2-armored GPC2 CAR T cells migrated toward CXCL1/2 gradients, enhanced anti-neuroblastoma efficacy, and reduced the level of MDSCs in the TME.
+Together, these findings suggest CAR T cell studies in immunocompetent models are imperative to define mechanisms of solid tumor immune escape and rationally design armoring strategies that will lead to durable clinical efficacy.

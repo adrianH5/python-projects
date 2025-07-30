@@ -1,0 +1,3 @@
+Messenger RNA (mRNA)-based therapeutics offer the potential to treat a variety of pulmonary disorders that arise due to genetics, infectious diseases, and chronic respiratory conditions.
+However, various physiological barriers in the lungs, such as mucociliary clearance, macrophage phagocytosis, and lung surfactant interference, present challenges for efficient mRNA delivery.
+Polymeric nanoparticles (NPs) have emerged as a therapeutic platform for delivering mRNA therapeutics due to their stability, tunability, and controlled release properties, making them suitable and potentially ideal for encapsulating and protecting mRNA molecules for delivery

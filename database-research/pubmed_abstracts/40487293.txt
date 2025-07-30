@@ -1,0 +1,4 @@
+The specific and potent delivery of anticancer drugs to targeted cancer stem cells (CSCs) remains a critical need to maximize on-target, on-tumor effects while minimizing on-target, off-tumor toxicities.
+Herein, we present our Designer DNA Architecture (DDA)-templated Drug Conjugates (DDA-DCs) customized to deliver daunorubicin (Dau) specifically and potently to a subset of CSCs: acute myeloid leukemia (AML) leukemic stem cells (LSCs) that often maintain minimal residual disease (MRD) and cause relapse.
+Our DDA-DCs targeted LSCs via CD117- and CD123-binding aptamers: aptamers that when used alone disrupted the MAP Kinase and Apoptosis signaling pathways, leading to a 40% reduction in cell viability over 72 hours.
+These aptamers, when loaded with dsDNA-intercalating Dau and docked to DDA platforms, exhibited potent and selective cytotoxicity against CD117

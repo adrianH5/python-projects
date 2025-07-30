@@ -1,0 +1,6 @@
+Whole-mount imaging and labeling of 3D organoids and spheroids offer unparalleled insights into spatial biology, organogenesis, disease mechanisms, and cancer cell dynamics within a physiologically relevant 3D context.
+Those techniques in biomedical research, yet its application to complex 3D cell culture models, remain fraught with challenges.
+Current methods often suffer from sample damage and loss, in addition to lengthy and complex protocols involving multiple steps and reagent preparations.
+To address these challenges, we describe a novel approach that overcomes limitations of conventional techniques by preserving sample integrity, minimizing sample manipulation, and eliminating the need for multiple reagents.
+The current method facilitates comprehensive sample analysis, significantly improving the efficiency and accuracy of protein visualization.
+It is compatible with a wide range of samples, including organoids and spheroids in hydrogels, organ-on-chip models, and co-culture systems.

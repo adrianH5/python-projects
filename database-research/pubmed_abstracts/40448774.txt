@@ -1,0 +1,7 @@
+More than 80% of patients with advanced prostate cancer experience bone metastasis, which negatively impacts overall survival and patients' quality of life.
+To elucidate underlying mechanisms and devise effective treatments for bone-metastatic disease, the development of animal models is imperative.
+However, fully replicating human conditions proves challenging as bone metastasis rarely occurs in spontaneous prostate cancer mouse models.
+Therefore, to investigate the interaction between bone-metastatic cancer cells and the bone microenvironment, mouse models with direct intraosseous injection (e.g., intrafemoral injection) have been widely used.
+Assessing bone remodeling is key to understanding the underlying mechanisms and pathology behind this disease.
+As such, longitudinal radiographic analysis for assessing progressive structural changes of the bone has been used since this method presents as a more cost-effective, accessible imaging modality compared to magnetic resonance imaging and computed tomography.
+Here, we describe a method of analysis that primarily focuses on scoring the osteoblastic phenotype (solid and spiculated) in our prostate cancer bone-metastatic mouse models, given the predominance of osteosclerotic activity in prostate cancer patients.

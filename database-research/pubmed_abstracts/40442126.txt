@@ -1,0 +1,14 @@
+Isorhapontigenin is an effective active ingredient in Rheum officinale, which has been reported to have anti-tumor effects.
+However, its effect and molecular mechanism on non-small cell lung cancer are still unclear.
+Firstly, potential therapeutic targets of Isorhapontigenin against non-small cell lung cancer were obtained through network pharmacology analysis.
+Secondly, bioinformatics analysis was conducted to identify key targets and potential signaling pathway mechanisms based on the obtained potential targets.
+Then, evaluated the binding ability between Isorhapontigenin and key targets by using molecular docking strategies.
+Finally, in vitro cell experiments were conducted to verify the effects and related targets of Isorhapontigenin on non-small cell lung cancer cells.
+104 drug targets and 6688 disease targets were acquired from SwissTarget prediction, BATMAN-TCM, STITCH and Genecards databases.79 potential therapeutic targets were identified through analysis based on online Venn website and PPI interaction analysis was performed on these targets to ultimately obtain 55 key targets.
+GO and KEGG analysis revealed that Isorhapontigenin targets non-small cell lung cancer mainly through regulation of cell proliferation, cell cycle dynamics, and the PI3K/RELA/cell cycle axis.
+Molecular docking confirmed that Isorhapontigenin can bind to cell proliferation, cycle related proteins (CCND1, CDK2, PIK3CA, RELA).
+CCK-8 detection revealed that Isorhapontigenin significantly inhibited the proliferation of PC9 lung cancer cells, Moreover, RT-qPCR detection showed that Isorhapontigenin downregulated the expression of CCND1, CDK2, PIK3CA and RELA genes.
+CCND1, CDK2, PIK3CA and RELA are highly expressed in NSCLC tissues.
+Overall survival analysis of patients indicated that key genes in the PIK3CA and NF-κBp65 signaling pathway significantly affected overall survival.
+Our research has found that Isorhapontigenin can effectively against non-small cell lung cancer, and this effect may be achieved by inhibiting cell proliferation and cycle progression mediated by the PIK3CA/NF-KB signaling pathway.
+Isorhapontigenin is a new potential therapeutic agent for lung cancer.

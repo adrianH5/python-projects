@@ -1,0 +1,3 @@
+Prostate cancer is the most prevalent male malignancy in Ghana, with a high-risk of metastatic progression.
+Early detection and adequate disease severity stratification are crucial for timely intervention, comprehensive management, and improved outcomes.
+This study evaluates and compares the predictive abilities of a multiparametric model and a PSA-alone model in forecasting metastasis in prostate cancer patients.

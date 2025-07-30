@@ -1,0 +1,4 @@
+The resulting N protein-gRNA ribonucleoprotein complexes are finally incorporated into the forming viral particles through interactions with the C terminus of the M proteins (25).
+Virus titers of the culture supernatants were determined on LR7 cells with a dilution factor of 3, and the 50% tissue culture infectious dose (TCID50) units per milliliter of supernatant were calculated according to the Reed-Muench method (53).
+TCID50 per milliliter values were then converted into PFU per microliter as follows: TCID50 per milliliter × 0.00069 (54).
+ABSTRACT  Coronavirus (CoV) nucleocapsid (N) proteins are key for incorporating genomic RNA into progeny viral particles.

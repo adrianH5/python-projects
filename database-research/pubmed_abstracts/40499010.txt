@@ -1,0 +1,12 @@
+In retrospective studies, autologous stem cell transplantation (ASCT) conditioning with intravenous busulfan and melphalan (BUMEL) led to longer progression-free survival (PFS) than melphalan alone (MEL200).
+We compared BUMEL vs. MEL200 outcomes in newly diagnosed multiple myeloma (NDMM) patients receiving intensified bortezomib, lenalidomide and dexamethasone (VRD) induction and consolidation therapy.
+The GEM12 phase III trial enrolled 458 patients (from 2013 to 2015) who were randomized to BUMEL (n=230) or MEL200 (n=228) conditioning after induction with six reinforced VRD cycles and followed by two similar VRD consolidation cycles.
+The primary endpoint was PFS, including subgroup analyses by International Staging System (ISS) stages and high-risk genetic abnormalities.
+Randomization used an open-label 2×2 factorial design and 1:1:1:1 allocation ratio to ensure the balance between the GEM12 and the subsequent phase III GEM14 maintenance trial.
+After 2 years of maintenance, the global 10⁻⁶ MRD-negative rate was 63%, (68% BUMEL vs. 58% MEL200; OR 1.51, P= 0.035).
+The PFS was not significantly better in the BUMEL vs. MEL200, even though it was almost 16 months longer (median PFS 89 vs. 73.1 months; HR 0.89, 95%CI, 0.70-1.14, P= 0.3).
+BUMEL showed benefits in ISS stages 2/3, t(14;16), and del(1p).
+In a combined subgroup jointly considering patients with ISS2/3 treated with BUMEL and patients with ISS1 treated with MEL200 the median PFS was 96 months (95%CI, 76-NE).
+No safety concerns emerged.
+After a median follow-up of 8.4 years, GEM2012 reported one of the longest PFS durations in NDMM patients, with BUMEL significantly favoring advanced ISS stages.
+The trial is registered at ClinicalTrials.gov (NCT01916252) and EudraCT (2012-005683-10).

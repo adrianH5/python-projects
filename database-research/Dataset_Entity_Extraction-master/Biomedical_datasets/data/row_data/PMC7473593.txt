@@ -1,0 +1,3 @@
+Functional annotation of human genes was accomplished on the DAVID website (Jiao et al. 2012).
+The overlapping between the top 1000 genes in the two datasets > 86% (Fig. 3b), so in the following analyses we combined GSM1120308 and GSE93482.
+The RNA-seq data used in this study were downloaded with accession numbers GSM1120308 (polyA RNA sequencing of STL001 Lung Cells) and GSE93482 (polyA mRNA RNA-seq from lung).

@@ -1,0 +1,10 @@
+Head and neck squamous cell carcinoma (HNSC) is the sixth most prevalent cancer worldwide, with approximately 700,000 new cases each year.
+Due to its heterogeneity, reliable biomarkers are crucial for guiding treatment.
+Fibroblast activation protein (FAP) has been implicated in HNSC progression, but its specific involvement in ferroptosis and the ceRNA network is still not well understood.
+In this study, data from The Cancer Genome Atlas (TCGA) HNSC dataset were analyzed to examine the relationship between FAP expression and drug sensitivity, clinical features, methylation status, ferroptosis, immune infiltration, prognosis, and ceRNA networks.
+The results showed that FAP expression was significantly higher in HNSC tissues compared to normal tissues and was linked to increased sensitivity to 25 antitumor drugs, as well as poorer prognosis and unfavorable clinicopathological features.
+Lower methylation levels of FAP were also associated with higher mRNA expression and worse outcomes.
+Thirteen ferroptosis-related genes (FRGs) were identified, and four distinct ferroptosis clusters were characterized, with one cluster (C3) showing better survival rates.
+FAP was further linked to multiple immune cell types, immune markers, and key pathways such as PI3K-Akt and TGF-β.
+Additionally, a ceRNA network (NOP14-AS1/hsa-miRNA-30e-5p/FAP) was established, which correlated with overall survival in HNSC patients.
+These findings suggest that FAP may serve as a promising prognostic biomarker in HNSC, influencing both ferroptosis and the tumor microenvironment, providing potential targets for future therapies.

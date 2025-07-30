@@ -1,0 +1,11 @@
+Omaveloxolone is a synthetic oleanane triterpene with considerable antitumor activity.
+It induces human glioblastoma (GBM) cell death in vitro and in vivo, but the underlying mechanism remains to be determined.
+In this study, GBM cell lines (GBM8401 and U-87 MG cells) were exposed to different concentrations of omaveloxolone (0, 600, 800 and 1000 nM).
+A cell viability assay was conducted using the PrestoBlue Cell Viability Reagent.
+Three-dimensional microscopy revealed changes in cell morphology.
+Cell cycle, apoptosis and mitochondrial membrane potential were tested using flow cytometry.
+The expression levels of cell cycle-related proteins and genes were determined through Western blotting and next-generation sequencing, respectively.
+The results indicated that omaveloxolone had significant selective cytotoxicity against human GBM cells and suppressed the migration and invasion of these cancer cells.
+It also caused cell cycle arrest through the downregulation of cell cycle-related genes, including cell division cycle 20 homologue (CDC20), as revealed by next-generation sequencing.
+In a xenograft tumour model, omaveloxolone decreased tumour volume and CDC20 expression.
+Taken together, these findings suggest that omaveloxolone is a potential drug candidate for GBM treatment by promoting GBM cell death through the downregulation of CDC20 expression.

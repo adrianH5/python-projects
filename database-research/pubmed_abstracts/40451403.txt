@@ -1,0 +1,9 @@
+Because aberrations of protein kinase activity play causal roles in several human diseases, this family of enzymes is one of the most important drug targets of the 21st century.
+Of the 88 protein kinase antagonists that are approved by the FDA, eleven of them form irreversible covalent complexes with their target enzymes.
+The clinical efficacy of ibrutinib, a Bruton tyrosine kinase blocker, in the treatment of mantle cell lymphoma following its 2013 approval helped to overcome a general bias against the development of irreversible drug inhibitors.
+Other approved targeted covalent inhibitors include acalabrutinib and zanubrutinib, which also block Bruton tyrosine kinase.
+Afatinib, dacomitinib, lazertinib, mobocertinib, and osimertinib inhibit members of the epidermal growth factor receptor family (ErbB1/2/3/4) and are used in the treatment of non-small cell lung cancers.
+Neratinib inhibits ErbB2 and is used in the management of ErbB2/HER2-positive breast cancer.
+Futibatinib blocks the fibroblast growth factor receptor family and is prescribed for the treatment of cholangiocarcinoma while ritlecitinib, which inhibits JAK3, is used in the management of alopecia areata.
+The eleven drugs considered in this review have a common mechanism of action involving the addition of a protein cysteine thiolate anion (proteinS:) to an acrylamide or an acrylamide-like derivative producing a thioether.
+The development of targeted covalent inhibitors is gaining acceptance as a valuable component of the medicinal chemist's toolbox and has made a significant impact on the development of protein kinase antagonists and receptor modulators.

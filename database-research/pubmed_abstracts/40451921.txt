@@ -1,0 +1,14 @@
+Brain Tumours are highly complex, particularly when it comes to their initial and accurate diagnosis, as this determines patient prognosis.
+Conventional methods rely on MRI and CT scans and employ generic machine learning techniques, which are heavily dependent on feature extraction and require human intervention.
+These methods may fail in complex cases and do not produce human-interpretable results, making it difficult for clinicians to trust the model's predictions.
+Such limitations prolong the diagnostic process and can negatively impact the quality of treatment.
+The advent of deep learning has made it a powerful tool for complex image analysis tasks, such as detecting brain Tumours, by learning advanced patterns from images.
+However, deep learning models are often considered "black box" systems, where the reasoning behind predictions remains unclear.
+To address this issue, the present study applies Explainable AI (XAI) alongside deep learning for accurate and interpretable brain Tumour prediction.
+XAI enhances model interpretability by identifying key features such as Tumour size, location, and texture, which are crucial for clinicians.
+This helps build their confidence in the model and enables them to make better-informed decisions.
+In this research, a deep learning model integrated with XAI is proposed to develop an interpretable framework for brain Tumour prediction.
+The model is trained on an extensive dataset comprising imaging and clinical data and demonstrates high AUC while leveraging XAI for model explainability and feature selection.
+The study findings indicate that this approach improves predictive performance, achieving an accuracy of 92.98% and a miss rate of 7.02%.
+Additionally, interpretability tools such as LIME and Grad-CAM provide clinicians with a clearer understanding of the decision-making process, supporting diagnosis and treatment.
+This model represents a significant advancement in brain Tumour prediction, with the potential to enhance patient outcomes and contribute to the field of neuro-oncology.

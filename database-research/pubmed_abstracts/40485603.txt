@@ -1,0 +1,10 @@
+Kirsten rat sarcoma viral oncogene homolog (KRAS) is the most frequently mutated member of the RAS family of small GTPases (RAS).
+It affects about one-fifth of cancer cases.
+The tumor microenvironment (TME) is a multifaceted network of immune cells, metabolites, microbiota, stromal components, and extracellular matrix.
+It creates a dynamic ecosystem that supports malignant initiation, progression, and therapy resistance through bidirectional crosstalk with tumor cells.
+Emerging evidence reveals distinct TME landscapes shaped by wild-type versus oncogenic KRAS variants.
+Additionally, TME rewiring occurs during KRAS-targeted therapies.
+Deciphering these KRAS-dependent TME architectures and their therapeutic vulnerabilities represents a critical frontier for precision oncology.
+This review synthesizes key milestones and persistent challenges in KRAS inhibitor development.
+And it systematically evaluates how KRAS mutations orchestrated immunosuppressive niches, metabolic symbiosis, stromal remodeling, and microbiome dysbiosis, supported by mechanistic insights from preclinical and clinical studies.
+It further explores therapeutic opportunities arising from targeting TME interactions, including rational combinations of KRAS inhibitors with immune checkpoint blockade, metabolic agents, or microbiota-modulating strategies.

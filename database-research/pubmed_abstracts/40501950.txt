@@ -1,0 +1,9 @@
+Elucidating the anti-tumor role of tumor-draining lymph nodes (tdLNs) in patients could offer critical mechanistic insight and shift therapeutic strategies from a tumor-centric approach to one that considers tumor-immune system interplay.
+Our study characterizes benign tdLNs T cell anti-tumor responses beyond initial T cell priming in patients with resectable non-small cell lung cancer.
+We further investigated whether tumor-specific tdLN T cells were altered by immune checkpoint blockade (ICB) locally and systemically.
+We performed single-cell TCR lineage tracing and transcriptomic profiling on 672,886 CD8 T cells from 41 tumor, benign tdLN, and blood samples in 14 patients treated with or without neoadjuvant chemoimmunotherapy (ChemoIO).
+Using deep-integrating clonal tracking with machine learning-based transcriptional analysis, our findings revealed that benign tdLNs locally and independently orchestrate two transcriptionally distinct tumor-specific memory CD8 T cell populations: one with ZNF683+ CXCR6+ tumor tissue-residency potential, and another with cytotoxic memory potential.
+Furthermore, tdLN-derived clones not only constitute the dominant tumor-infiltrating (75%) and circulating (>90%) tumor-specific expanded T cell populations but also preserve their transcriptionally distinct subset identities within the tumor T cell effector state.
+ChemoIO selectively increased the clonal diversity and cytotoxic memory/TEMRA programs of tdLN-derived clones locally and systemically, both of which remained unchanged in clones lacking tdLN TCR lineage.
+In conclusion, the tdLN locally orchestrates tumor-reactive and ChemoIO-reactive transcriptional distinct T cell subsets that shape the circulating blood and tumor T cell environments.
+These findings represent a clinical paradigm shift with implications regarding the extent of tdLN resection during surgery, timing of ChemoIO treatment, and the development of memory T cell-based immunotherapies.

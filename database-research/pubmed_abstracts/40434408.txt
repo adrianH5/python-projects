@@ -1,0 +1,4 @@
+The oncogene steroid receptor coactivator-3 (SRC-3) plays a pivotal role in the downstream transcriptional regulation mediated by the estrogen receptor (ER), thereby promoting the occurrence and progression of endocrine resistance in breast cancer.
+Herein, we disclose a novel series of potent SRC-3 PROTACs to overcome endocrine resistance.
+These PROTACs were able to efficiently degrade SRC-3 and inhibit the proliferation of wild-type and endocrine-resistant breast cancer cells.
+Notably, compound

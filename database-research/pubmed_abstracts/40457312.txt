@@ -1,0 +1,7 @@
+In situ radiochemical doping presents a transformative approach for synthesizing radiolabeled inorganic nanoparticles (NPs) for cancer theranostics.
+Traditional radiolabeling techniques rely on bifunctional chelators, which often require harsh reaction conditions that can degrade the physicochemical properties of NPs.
+Additionally, the enzymatic dissociation of radiometals can potentially induce in vivo toxicity.
+In contrast, in situ doping directly incorporates radiometals into the NP crystal lattice, significantly enhancing both radiolabeling yield and radiochemical stability.
+This method preserves the pharmacokinetic profiles of the radiolabeled NPs, improving their theranostic efficacy.
+This review provides an up-to-date overview of the progress made in the development of radiolabeled inorganic nanoplatforms through in situ doping, with a focus on their stability, physicochemical characteristics, and applications in cancer theranostics.
+Our findings highlight the advantages in situ doping as a more efficient and stable alternative to conventional radiolabeling methods, offering substantial potential for the development of more effective cancer theranostic agents.

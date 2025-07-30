@@ -1,0 +1,4 @@
+Lysosome-targeting chimeras represent a promising strategy for degrading extracellular and membrane proteins via the lysosomal pathway, but the available receptor options remain limited.
+Herein, we report a novel strategy utilizing extracellular heat shock protein 90 (eHSP90) to facilitate lysosomal degradation of target proteins through bifunctional small molecules, termed extracellular heat shock protein 90-targeting chimeras (eHSPTACs).
+By connecting an HSP90 ligand to a target protein ligand, eHSPTACs effectively induced the internalization and subsequent lysosomal degradation of extracellular Alexa Fluor 488-labeled α-DNP antibody and membrane programmed cell death-ligand 1 (PD-L1).
+Notably,

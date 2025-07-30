@@ -1,0 +1,10 @@
+Objectives To describe patterns of skin checks for potential skin cancers in general practice and subsequent skin-related healthcare, and the associated costs.
+Study type Retrospective longitudinal health record linkage.
+Methods Patient encounters between 2010 and 2017 were extracted from clinical information systems at 73 general practice sites in Victoria, Australia, including Medicare billing information, from the MedicineInsight primary care dataset.
+The main outcomes were skin checks, skin-related healthcare up to 3 months after the skin check, and health system costs.
+Results There were 59 046 skin check encounters (0.7% of all general practice encounters) identified for 40 014 people with a median age of 52 years (interquartile range 36-67).
+Of these people, 26% had multiple skin checks.
+Of the subsequent skin checks, 28% were within 3 months of the initial skin check and 15% were after > 2 years.
+There was subsequent skin-related healthcare ≤ 3 months after 20% of all skin checks: 8% had a skin biopsy, 11% had a skin excision (of which 2% indicated a melanoma diagnosis, 29% keratinocyte carcinoma and 68% benign or other skin lesion), 2% had skin-related medicine prescribed and 5% had other skin-related treatment such as cryotherapy (not mutually exclusive).
+Ninety per cent of skin checks were billed as general practitioner (GP) consultations, including 65% as GP consultations of Conclusions Skin checks for potential skin cancers occur frequently in Australian general practice and accumulate substantial health system costs, with one in five skin checks resulting in subsequent treatment.
+This study adds to scarce real-world skin check and cost data in Australia.

@@ -1,0 +1,4 @@
+Intra-tumor heterogeneity impacts disease progression and therapeutic resistance but remains poorly characterized by conventional histologic, immunophenotypic, and molecular approaches.
+Single-cell biophysical properties distinguish functional phenotypes complementary to these approaches, providing additional insight into cellular diversity.
+Here we link both buoyant mass and stiffness to gene expression to identify clinically relevant phenotypes within primary mantle cell lymphoma (MCL) cells, employing MCL as a model of biological and clinical diversity in human cancer.
+Linked measurements reveal that buoyant mass and stiffness characterize B-cell development states from naïve to plasma cell and correlate with expression of oncogenic B-cell receptor signaling genes such as

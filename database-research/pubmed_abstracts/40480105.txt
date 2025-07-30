@@ -1,0 +1,5 @@
+Based on the structure of resveratrol and curcumin, a novel 9-cinnamyl-9H-purine structure was designed and synthesized to avoid a pan-assay interference compound (PAINS) related to invalid metabolic pancreas activity (IMPS).
+In a previous study, it exhibited anti-inflammatory activities by disrupting the TLR4-MyD88 protein interaction, leading to the suppression of the NF-κB signaling pathway.
+In this study, further structure-activity relationship studies were conducted to evaluate 9-cinnamyl-9H-purine derivatives for their potential anticancer activities, as NF-κB inhibition is known to reduce tumor growth and increase cancer cell death.
+The compounds exhibited varying degrees of anti-proliferative effects in human cancer cell lines, including HT-29, Hep3B, A549, H1299, DU145, PC-3, LNCaP, PANC-1, and MIA PaCa-2.
+Among the tested compounds, 2,6-chloropurine-fused 5e showed the most potent anti-proliferative activity, with an IC

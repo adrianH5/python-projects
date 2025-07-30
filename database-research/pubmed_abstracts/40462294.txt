@@ -1,0 +1,8 @@
+Cutaneous squamous cell carcinoma (SCC) is known for its stepwise progression from healthy skin to premalignant actinic keratosis (AK), followed by a malignant transformation to SCC.
+Unfortunately, less attention has been paid to changes in gene expression in the tumour microenvironment during this process.
+We retrospectively selected early-stage cutaneous SCC tissue samples containing both invasive and premalignant portions and conducted a spatial transcriptomic experiment using a NanoString GeoMx Digital Spatial Profiler (DSP).
+First, we selected invasive and premalignant regions of interest (ROIs) for each tissue.
+We then compared the gene expression patterns between the two portions (invasive versus premalignant) of the three segments: tumour cells, immune cells and fibroblasts, in each ROI.
+As a result, early-stage cutaneous SCC tissue samples from 17 patients were selected for this study.
+We identified 29, 14 and 15 differentially expressed genes (DEGs) between the invasive and premalignant portions of the tumour cells, immune cells and fibroblasts, respectively.
+The top three genes with the highest absolute log

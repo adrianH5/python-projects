@@ -1,0 +1,7 @@
+The Dietary Fiber (fiber) Terminology Roundtable was organized to address crucial issues concerning current definitions of dietary fiber and the pressing need to resolve inconsistencies and ambiguities in fiber terminology.
+This publication captures valuable insights and diverse perspectives from a multidisciplinary group of experts who span research areas, including fiber and carbohydrate research in human health, fiber analysis and methodology, and food and nutrition ontology development and application, as well as food composition data and public health.
+Although health is a critical concern, the use of the word "health" here is directly tied to its intrinsic role in regulatory definitions of dietary fiber.
+The presentations supported the view of dietary fiber as an essential food component with significant potential to improve health, underscoring the need for clarity in language and communication.
+Additionally, the concept of a systematic ontological framework was introduced as a highly valuable and most suitable solution to facilitate clear communication about fiber in research, education, healthcare, and industry.
+As a result, a Dietary Fiber Ontology Working Group has been formed, and the collective expertise within the group will contribute to the creation of an open-access fiber ontology.
+This effort aims to not only address educational aspects but also support the identification of fiber-related health outcomes and the underlying mechanisms responsible for biological effects.

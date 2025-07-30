@@ -1,0 +1,19 @@
+As the most malignant primary intracranial tumor, glioma progression has been associated with tetraspanins (TSPANs), a conserved family of transmembrane proteins regulating critical cellular processes including adhesion, proliferation, differentiation, and metastasis.
+Among TSPAN members, TSPAN31 emerges as a potential oncogene implicated in multiple malignancies.
+The epithelial-mesenchymal transition (EMT), characterized by enhanced invasiveness and biomarker alterations, represents a pivotal mechanism driving tumor metastasis.
+Concurrently, the PI3K/AKT pathway, a master regulator of cellular homeostasis, significantly influences oncogenesis and therapeutic resistance.
+Pan-cancer analysis was performed to evaluate TSPAN31's prognostic value through Kaplan-Meier survival curves and ROC analysis.
+TSPAN31 expression in glioma tissues and cell lines was quantified via Western blot and qRT-PCR.
+Functional assessments included CCK-8, EdU incorporation, colony formation, and xenograft models for proliferation analysis, complemented by flow cytometry for apoptosis detection.
+Transwell and wound healing assays evaluated migratory/invasive capacities.
+Tumor microenvironment and immune infiltration patterns were analyzed using bioinformatics.
+Mechanistic investigations employed KEGG pathway enrichment and phosphoprotein profiling of PI3K/AKT signaling.
+Pharmacological rescue experiments utilized SC79, a PI3K/AKT activator.
+TSPAN31 exhibited significant upregulation in glioma specimens and cell lines, correlating with poor clinical prognosis.
+Its knockdown suppressed proliferation, migration, invasion, and xenograft growth, while promoting apoptosis.
+TSPAN31 depletion attenuated EMT progression and reduced immunosuppressive cell infiltration.
+Pathway analysis revealed predominant PI3K/AKT pathway association.
+Silencing TSPAN31 specifically decreased phosphorylated PI3K and AKT without altering total protein levels.
+SC79 treatment reversed TSPAN31 knockdown effects, restoring malignant phenotypes and EMT marker expression (N-cadherin, E-cadherin).
+TSPAN31 drives glioma progression by activating EMT through PI3K/AKT signaling, establishing its dual role as a prognostic biomarker and therapeutic target.
+These findings provide mechanistic insights for developing TSPAN31-directed therapies in glioma management.

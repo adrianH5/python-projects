@@ -1,0 +1,15 @@
+Early detection and diagnosis are key to improving the survival rate and reducing the fatality rate linked to gastric cancer.
+The precancerous lesion of gastric cancer is referred to as gastric high-grade intraepithelial neoplasia (HGIN).
+Both the sensitivity and specificity of current biomarkers that aid in the diagnosis of gastric HGIN are still relatively low.
+Furthermore, proteomic data on gastric HGIN are still scarce.
+The present study aimed to explore candidate protein biomarkers for gastric HGIN screening with proteomics and bioinformatics technology.
+A total of 10 serum samples were collected and categorized into two groups, i.e., the gastric HGIN and the healthy control groups.
+Label-free quantification in conjunction with liquid chromatography with tandem mass spectrometry was employed to identify the probable biomarkers for gastric HGIN.
+Furthermore, differentially expressed proteins (DEPs) were quantified by proteomics analysis.
+In total, 1,192 distinct serum proteins were discovered between the gastric HGIN group and the healthy control group.
+DEPs were identified in the further analyses, utilizing a threshold of a 1.5-fold difference in expression level (P<0.05) in comparison with the control group.
+There were 18 upregulated and 12 downregulated proteins in the gastric HGIN group in comparison with the control group.
+Bioinformatics analyses were performed using Gene Ontology and KEGG pathway enrichment analyses.
+The GO analysis revealed that the DEPs were enriched in biological processes such as 'cellular', 'biological regulation', 'multicellular organismal', 'developmental' and 'reaction to stimulus processes', localized to 'cell', 'intracellular' and 'protein-containing complex', and involved in molecular functions such as 'molecular function modulator', 'binding' and 'catalytic activity'.
+The KEGG pathway enrichment analysis manifested that the DEPs were predominantly enriched in 'antigen processing and presentation', 'diabetic cardiomyopathy', 'Epstein-Barr virus infection', 'herpes simplex virus 1 infection', 'human immunodeficiency virus 1 infection' and 'human cytomegalovirus infection'.
+In conclusion, the present data provide more biological information for the formation of gastric HGIN and clues for further research on the pathogenesis of early gastric cancer.

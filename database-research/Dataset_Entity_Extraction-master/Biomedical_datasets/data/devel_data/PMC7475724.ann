@@ -1,0 +1,5 @@
+T1	Repository 515 542	Protein Microarray Database
+T2	URL 544 575	http://www.proteinmicroarray.cn
+T3	AccessionNumber 604 611	PMDE242
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T1	Arg2:T3

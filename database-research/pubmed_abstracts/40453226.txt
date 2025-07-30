@@ -1,0 +1,4 @@
+Diagnostic quality MRI acquired daily for radiotherapy (RT) planning on an MR-linac allows longitudinal evaluation of the patients' anatomy.
+This study investigated changes in prostate volume during MR-guided RT.
+The changes were assessed from manual delineations used clinically for daily online adaptation as well as automated segmentation by artificial intelligence (AI).
+The consistency and congruity of these two methods were evaluated.

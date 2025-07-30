@@ -1,0 +1,8 @@
+The evaluation of tumor response to neoadjuvant chemotherapy is critical for the personalized management of cancer patients, aiming to minimize unnecessary toxicity, costs, and treatment delays.
+Current imaging techniques primarily depend on detecting tumor volume changes, which reflect downstream effects.
+In contrast, advanced microstructural diffusion MRI (dMRI) methods offer cellular-level insights but are limited by biased estimates of cell density due to oversimplified biophysical models.
+We present a novel dMRI-based approach, EXCHANGE, which incorporates transcytolemmal water exchange into a quantitative multi-compartmental biophysical model.
+This method enables simultaneous mapping of cell size, density, and transcytolemmal water exchange, providing a comprehensive characterization of tumor microstructure.
+Validation through computer simulations and in vitro studies demonstrated the good accuracy of EXCHANGE-derived metrics.
+In a proof-of-concept study, EXCHANGE was applied to animal models and patients with triple-negative breast cancer, showcasing its potential to evaluate tumor therapeutic response to neoadjuvant chemotherapy.
+EXCHANGE offers a unique capability to characterize tumor microstructural properties at the cellular level, paving the way for improved monitoring of treatment response in clinical settings.

@@ -1,0 +1,8 @@
+T1	Repository 358 365	Genbank
+T2	AccessionNumber 383 391	MT093571
+T3	Repository 586 593	UniProt
+T4	Repository 868 876	Reactome
+T5	AccessionNumber 2297 2308	NCT04371640
+T6	AccessionNumber 2339 2350	NCT04341675
+T7	AccessionNumber 2367 2378	NCT04409327
+R1	hasAttr	Arg1:T1	Arg2:T2

@@ -1,0 +1,21 @@
+Radiation therapy for patients with cardiac implantable electronic devices (CIEDs) poses a unique risk of device malfunction.
+Carbon ion radiotherapy (CIRT) is particularly effective against tumors that are resistant to conventional therapies or located near critical organs owing to its high linear energy transfer and superior biological effectiveness.
+Conversely, neutrons generated during CIRT may interfere with CIEDs, potentially causing malfunction.
+Although numerous studies have reported device malfunctions related to X-ray and proton beam therapies, only a few case reports have described similar issues during CIRT, indicating that such risks, while rare, should not be overlooked.
+Herein, we report a case with early-stage lung cancer and an implanted pacemaker who experienced device malfunction during CIRT.
+An 83-year-old male patient, clinically diagnosed with cT1bN0M0 Stage IA2 lung cancer in the left upper lobe, was treated with CIRT.
+Despite careful treatment planning to minimize neutron exposure by selecting beam directions that maximized the distance between the device and the beam path, the pacemaker's cybersecurity function, which is designed to prevent unauthorized access by locking external communication and placing the device into a failsafe backup mode, was unexpectedly activated, disrupting communication with its external programmer.
+The malfunction was hypothesized to result from the high-energy neutrons generated during radiation delivery.
+The device malfunction was detected immediately before the final (fourth) fraction was delivered.
+A three-day interval, including a weekend and holiday, occurred between the third and fourth fractions due to scheduling.
+Although electrocardiography findings remained stable during this period, a causal relationship between the delay and the malfunction could not be excluded.
+Consequently, CIRT was discontinued after three fractions with a total dose of 45 Gy (relative biological effectiveness or RBE).
+This decision was based not only on the device malfunction but also on concerns about the ability to recover device function if a second malfunction occurred.
+In addition, 45 Gy (RBE) was considered sufficient for tumor control in this clinical setting.
+The patient remained asymptomatic and in stable general condition after CIRT and was discharged.
+As the patient resided in a remote area, follow-up was entrusted to the referring physician.
+No subsequent reports of device abnormalities or reprogramming needs have been received.
+This case highlights the potential for unforeseen software errors in CIEDs during CIRT, emphasizing the need for continuous risk evaluation and multidisciplinary management.
+At our institution, we have standardized a comprehensive protocol to ensure device safety during radiation therapy, including pretreatment evaluation by cardiologists, continuous electrocardiogram monitoring during the treatment period, and device interrogation before and after each session of irradiation.
+This management system enabled the prompt detection and resolution of this issue.
+Future research should focus on optimizing radiation treatment planning, improving device software robustness, and exploring shielding strategies to enhance safety in CIED-equipped patients receiving particle therapy.

@@ -1,0 +1,10 @@
+Protein arginine methyltransferase 5 (PRMT5) functions as an oncogene to regulate cell proliferation and metastasis in many cancers.
+However, little is known about the role of PRMT5 in tumor angiogenesis.
+Here, we reported PRMT5 exhibited pro-angiogenic roles in gastric cancer (GC).
+We observed PRMT5 expression was markedly correlated with microvessel density in GC.
+Cytological experiment indicated that PRMT5 overexpression promoted tube formation, proliferation, and migration of Human Umbilical Vein Endothelial Cells.
+However, PRMT5 depletion or enzymatic inhibition restrained these processes.
+Our in vivo experiments demonstrated that enzymatic inhibition of PRMT5 suppressed angiogenesis of chicken embryo chorioallantoic membranes and mouse xenograft tumors.
+Mechanistically, we observed PRMT5 up-regulated IL8 expression through activating β-catenin signaling.
+Evaluation of PRMT5-induced epigenetic marks revealed that PRMT5 depletion erased H3R8me2s from the promotor of Forkhead Box M1 (FOXM1), and finally decreased IL8 transcription.
+Our results demonstrated the pro-angiogenic effect of PRMT5-FOXM1-IL8 axis in GC, providing a novel approach of targeting such epigenetic regulators in this deadly disease.

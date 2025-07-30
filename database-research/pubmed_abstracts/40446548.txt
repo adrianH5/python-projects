@@ -1,0 +1,9 @@
+Colorectal cancer (CRC) is a leading cause of cancer-related morbidity and mortality globally, with increasing incidence rates, particularly in early-onset cases.
+Despite advances in treatment, many developing countries face affordability and safety issues, emphasizing the need for more cost-effective, natural, and safer alternatives.
+While numerous in vitro studies have reported the anticancer efficacy of mangrove plant Xylocarpus granatum, the molecular mechanisms underlying its effects on CRC remain unexplored.
+Therefore, our study aimed to uncover the potential therapeutic impact of compounds of X. granatum on CRC to gain insight into novel therapeutic interventions through comprehensive bioinformatics and computational analyses.
+We aimed to investigate the molecular interactions and mechanisms of Xylocarpus granatum in CRC treatment.
+Using network pharmacology, patient survival, and cancer hallmarks analysis, we identified 2 significant proteins (AKT1 and ESR1) associated with CRC.
+On the other hand, utilizing ADMET, quantum chemistry, molecular docking, machine learning, and molecular dynamics simulation, we explored deacetylgedunin (CID 3034112) as the most promising compound derived from Xylocarpus granatum.
+Our findings revealed that deacetylgedunin exhibited strong binding affinities to AKT1, with docking binding affinity -11.1 kcal/mol and MM-GBSA binding free energy -90.04 kcal/mol.
+Additionally, molecular dynamics analysis confirmed the stability of the AKT1-CID 3034112 complex, while machine learning (ML) estimation suggested potent biological activity (IC

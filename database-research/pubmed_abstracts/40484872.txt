@@ -1,0 +1,8 @@
+Breast cancer is a major cause of mortality among women worldwide, with triple-negative breast cancer (TNBC) presenting a particularly serious clinical challenge due to its low survival rates and high likelihood of recurrence.
+Despite the availability of several treatment options, more effective and targeted therapies are urgently needed.
+Chloroquine (CQ), a well-known anti-malarial drug, has recently emerged as a potential anti-cancer agent and chemo sensitizer when combined with other treatments.
+In this study, we evaluated the anticancer effects of CQ on MDA-MB-231 cells, a human TNBC cell line.
+Cells were treated with varying concentrations of chloroquine (CQ), and cell viability was assessed using the MTT assay, resulting in an IC₅₀ value of 113 μg/mL with 87.28% inhibition.
+Additional analyses including DAPI staining flow cytometry for cell cycle analysis, trypan blue exclusion and LDH leakage and scratch wound healing assays were performed to assess cytotoxicity, proliferation, and cell migration.
+The results demonstrated that CQ significantly reduced cell viability and effectively inhibited the proliferation, migration, and invasion of MDA-MB-231 cells.
+This novelty of this study was potential of chloroquine as a promising therapeutic agent for the treatment of TNBC.

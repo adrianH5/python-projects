@@ -1,0 +1,5 @@
+Metal-organic frameworks (MOFs) have great potential for drug delivery systems due to their tunnel pore size, structural versatility, and high surface area.
+Among them, UiO-67 have recently attracted substantial attention as functional nanocarriers for effective delivery of small molecule chemical drugs.
+However, the influence of the size on cellular uptake of UiO-67 remains ambiguous.
+Here, we use polyvinyl pyrrolidone (PVP) as the capping agent of UiO-67 to synthesize spherical Zr-based MOFs with various diameters, including 40 nm, 60 nm, and 120 nm.
+The highest cellular uptake is observed in the case of Zr-based MOFs with a diameter of 40 nm (PU

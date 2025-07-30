@@ -1,0 +1,13 @@
+Head and neck cancer (HNC) represents approximately 10% of all cancer cases globally, posing a significant public health challenge.
+Despite advances in therapeutic approaches, the mortality rate associated with HNC continues to rise.
+A growing body of research highlights the role of extracellular vesicles in cancer progression and pathogenesis, positioning them as promising candidates for novel biomarker discovery.
+Concurrently, saliva has emerged as a valuable diagnostic fluid due to its non-invasive, accessible, and cost-effective collection methods.
+This systematic review aims to explore the potential of salivary extracellular vesicles as diagnostic tools for the early detection and monitoring of head and neck cancer.
+PubMed, Scopus, Web of Science, and Embase were thoroughly searched from database inception to July 16, 2024.
+Twenty-three eligible studies were included, focusing on original research that described salivary extracellular vesicles as biomarkers in HNC.
+In oral cancer - predominantly represented by the squamous cell carcinoma subtype - several proteins, including PSB7, AMER3, and LOXL2, as well as a ten-protein panel, demonstrated strong potential as diagnostic biomarkers.
+Additionally, the analysis of various microRNAs (miR-140, miR-143, miR-145, miR-412-3p, miR-512-3p, miR-1307-5p) and Fourier-transform infrared (FTIR) spectra has shown promising results for oral cancer detection.
+For oropharyngeal cancer, lactate dehydrogenase B appears to be a promising biomarker.
+Another potential avenue is the assessment of human papillomavirus (HPV) risk in the development of oropharyngeal cancer.
+Four studies investigated HNC without specifying the cancer location; however, limited or absent reporting of sensitivity and specificity hampers the reliable evaluation of potential biomarkers.
+In conclusion, salivary extracellular vesicles hold promise for the detection of HNC, but further research is needed to validate their diagnostic utility.

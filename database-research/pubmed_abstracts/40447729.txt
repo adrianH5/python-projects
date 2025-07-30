@@ -1,0 +1,7 @@
+Multiplexed imaging techniques require identifying different cell types in the tissue.
+To utilize their potential for cellular and molecular analysis, high throughput and accurate analytical approaches are needed in parsing vast amounts of data, particularly in clinical settings.
+Nuclear segmentation errors propagate in all downstream steps of cell phenotyping and single-cell spatial analyses.
+Here, we benchmark and compare the nuclear segmentation tools commonly used in multiplexed immunofluorescence data by evaluating their performance across 7 tissue types encompassing ~20,000 labeled nuclei from human tissue samples.
+Pre-trained deep learning models outperform classical nuclear segmentation algorithms.
+Overall, Mesmer is recommended as it exhibits the highest nuclear segmentation accuracy with 0.67 F1-score at an IoU threshold of 0.5 on our composite dataset.
+Pre-trained StarDist model is recommended in case of limited computational resources, providing ~12x run time improvement with CPU compute and ~4x improvement with the GPU compute over Mesmer, but it struggles in dense nuclear regions.

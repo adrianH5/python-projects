@@ -1,0 +1,9 @@
+Gastric cancer (GC) poses a major global health challenge, marked by high incidence and mortality rates.
+Conventional treatments such as surgery, chemotherapy, and targeted therapies show limited effectiveness in patients at advanced stages.
+As a result, immunotherapy has emerged as a promising strategy in the battle against cancer.
+In recent years, immunotherapy has flourished, with immune checkpoint inhibitors becoming widely applied in GC, while other immunotherapies are also rapidly advancing in clinical development, providing new therapeutic options for patients.
+The introduction of immunotherapy has profoundly changed the approach to GC treatment, with the expectation that additional immunotherapies will be developed in the near future.
+However, the clinical effectiveness of these therapies remains constrained due to the complexity of the tumor microenvironment (TME) in GC, the significant heterogeneity among patients, as well as the occurrence of immune therapy resistance and adverse reactions.
+This review provides an overview of recent advancements in GC immunotherapy, focusing on ICIs, adoptive cell therapy, and tumor vaccines.
+Key challenges such as patient selection, biomarker development, and combination therapy optimization are also discussed.
+In the future, a deeper exploration of the TME characteristics of GC and the implementation of personalized and precise immunotherapy are expected to further improve therapeutic outcomes and patient prognosis.

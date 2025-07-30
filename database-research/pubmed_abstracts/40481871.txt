@@ -1,0 +1,3 @@
+Medical imaging data employed in research frequently comprises sensitive Protected Health Information (PHI) and Personal Identifiable Information (PII), which is subject to rigorous legal frameworks such as the General Data Protection Regulation (GDPR) or the Health Insurance Portability and Accountability Act (HIPAA).
+Consequently, these types of data must be de-identified prior to utilization, which presents a significant challenge for many researchers.
+Given the vast array of medical imaging data, it is necessary to employ a variety of de-identification techniques.

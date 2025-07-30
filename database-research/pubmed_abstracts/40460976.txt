@@ -1,0 +1,9 @@
+The role of cell surface receptors and glycosylation modification in cancer development has become a focus of research.
+In particular, the role of tumor necrosis factor receptor superfamily member 19 (TNFRSF19) and β-1, 3-N-acetylglucosamine transferase 5 (B3GNT5) in tumor cell growth has attracted extensive attention.
+The aim of this study was to investigate the role of CircTNFRSF19 in regulating the N6-methyladenosine (m6A) modification of B3GNT5 and how this modification promotes the growth of TNBC cells.
+The expression levels of CircTNFRSF19 and B3GNT5 in TNBC cell lines were detected by real-time quantitative PCR (qPCR).
+Then the m6A modification pattern of B3GNT5 was analyzed by m6A methylation sequencing technology, and the interaction between CircTNFRSF19 and B3GNT5 was verified by RNA immunoprecipitation (RIP) experiment.
+Through medical thermal image simulation technology, we conducted real-time monitoring and analysis of temperature changes during cell growth to assess the effects of CircTNFRSF19 and B3GNT5m6A modifications on cell metabolism and growth rate.
+The RIP experiment further confirmed the direct interaction between CircTNFRSF19 and B3GNT5.
+CRISPR/Cas9 gene editing experiments showed that after CircTNFRSF19 was knocked out, the m6A modification level of B3GNT5 was significantly decreased, and the growth rate of TNBC cells was also significantly slowed down.
+The application of medical thermal image simulation technology revealed that the metabolic activity of the cells in the CircTNFRSF19 knockout group was reduced, and the temperature change of the cell growth area was significantly different from that in the control group.

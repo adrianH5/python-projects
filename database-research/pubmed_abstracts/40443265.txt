@@ -1,0 +1,8 @@
+Cell surface glycosylation performs a pivotal role in various biological processes, impacting cellular communication, immune response, and disease mechanisms.
+Glycomes on cell surfaces vary significantly, presenting viable biomarkers for identifying cell types and their states.
+Thus, the development of fluorescent probes to rapidly detect glycans is of great importance for disease diagnosis and the biomarker-mediated delivery of therapeutic agents.
+Herein, we introduce an oxaborole-based fluorescent probe (SLY), designed to recognize sialylated glycans on cell surfaces, facilitating cell distinction.
+This probe demonstrates pronounced selectivity for HepG2 and HT29 cells, which overexpress sialyl Lewis x and sialyl Lewis a, respectively, in contrast to cells that do not overexpress these Lewis antigens.
+Mechanistic studies revealed that the probe binds to sialic acid present on these Lewis antigens and internalizes into the cell via caveolae-mediated endocytosis, ultimately localizing in the mitochondria.
+Remarkably, the distinct selectivity of this probe allows for the identification of the cancerous regions within the liver at cellular resolution.
+Our newly developed probe holds immense potential in distinguishing cell types and advancing cancer diagnostics and fluorescence-guided surgery.

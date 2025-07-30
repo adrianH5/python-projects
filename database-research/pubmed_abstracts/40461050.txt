@@ -1,0 +1,7 @@
+Nanotechnology-based photodynamic (PDT) and photothermal (PTT) therapies offer precise treatment by generating reactive oxygen species (ROS) and localized hyperthermia.
+However, photosensitizer nanodrugs suffer from rapid degradation and limited tumor targeting.
+To overcome these challenges, we have developed a dual-nanoparticle drug delivery platform based on bowl-shaped polymer vesicles, which were loaded in the protective nanocavity with nanofibers composed of a histidine dipeptide-photosensitizer conjugate.
+The stomatocytes were surface modified with mannose glycopolymers to induce targeting capacity.
+This dual nanoparticle platform exhibited enhanced tumor imaging, improved targeting, and increased cellular uptake in tumor cells and 3D tumor spheroids.
+Under 660 nm laser irradiation, it demonstrated excellent PTT and PDT performance, with significant ROS generation and temperature elevation.
+This advanced nanomedicine platform, therefore, offers a promising approach for precision cancer therapy.

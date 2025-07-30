@@ -1,0 +1,9 @@
+Cellular heterogeneity presents a significant challenge to cancer treatment.
+Antibody therapies targeting individual tumor-associated antigens can be extremely effective but are not suited for all patients and often fail against tumors with heterogeneous expression as tumor cells with low or no antigen expression escape targeting and develop resistance.
+Simultaneously targeting multiple tumor-specific proteins with multiple antibodies has the potential to overcome this barrier and improve efficacy, but relatively few widely expressed cancer-specific antigens are known.
+In contrast, neoepitopes, which arise from mutations unique to tumor cells, are considerably more abundant.
+However, since neoepitopes are not commonly shared between individuals, a patient-customized approach is necessary and motivates efforts to develop an efficient means to identify suitable target mutations and isolate neoepitope-specific monoclonal antibodies.
+Here, focusing on the latter goal, we use directed evolution in yeast and phage display systems to engineer antibodies from nonimmune, human antibody fragment libraries that are specific for neoepitopes previously reported in the B16F10 melanoma model.
+We demonstrate proof-of-concept for a pipeline that supports rapid isolation and functional enhancement of multiple neoepitope peptide-targeted monoclonal antibodies and demonstrate their robust binding to B16F10 cells and potent effector functions in vitro.
+These antibodies were combined and evaluated in vivo for anticancer activity in tumor-bearing mice, where they suppressed B16F10 tumor growth and prolonged survival.
+These findings emphasize the potential for clinical application of patient-customized antibody cocktails in the treatment of the many cancers poorly addressed by current therapies.

@@ -1,0 +1,10 @@
+Melanoma is an aggressive form of skin cancer that often spreads via lymphatic pathways to regional and distant sites.
+Melanoma-derived lymphatic exosomes play a crucial role in forming a tumor-supportive environment for metastasis, or premetastatic niche, within the first tumor draining lymph node, also known as the sentinel lymph node (SLN).
+Therefore, analyzing the proteomic content of tumor-draining lymphatic exosomes that deliver oncogenic molecules to the SLN is important in understanding the premetastatic niche.
+To reveal the proteomic landscape of lymphatic exosomes, we performed multidimension liquid chromatography-tandem mass spectrometry with multiplexing (18-samples) using tandem mass tag (TMT) labeling to profile the lymphatic exosomal proteomes obtained from afferent lymphatic channels leading to the SLN of patients with melanoma (n=6), control afferent lymphatic channels from prophylactic mastectomy (n=3) and non-cancer post-operative lymphatic fluid (n=9).
+Lymphatic fluid from postoperative lymphadenectomy drains served as another control to filter out non-melanoma alteration in lymph that may be related to the procedure of surgical resection and wound healing process.
+Our proteomic analysis identified 3929 proteins in the lymphatic exosomes, of which 968 were unique proteins absent from the current exosomal database.
+Interestingly, melanoma lymphatic exosomes possess distinctive proteomic cargo, which is significantly associated with cancer-associated and cellular structural remodeling pathways (FDR <0.05).
+Moreover, proinflammatory wound healing pathways are predominantly present in melanoma and postoperative lymph fluid compared to normal control afferent lymphatic channels.
+We identified a total of 17 uniquely modulated proteins in melanoma compared to control and postoperative lymph, which are critically involved in the process of melanoma tumorigenesis.
+At least ten upregulated proteins strongly correlate with each other at the gene expression levels in melanoma tumors compared to controls and may serve as a signature panel for melanoma (p = 2.13 x 10

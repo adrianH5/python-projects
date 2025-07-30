@@ -1,0 +1,6 @@
+Rectal cancer (RC) is one of the most common malignant tumors of the digestive system and has an alarmingly high incidence and mortality rate globally.
+Compared to conventional imaging examinations, radiomics can extract quantitative features that reflect tumor heterogeneity and mine data from medical images.
+In this review, we discuss the potential value of multimodal MRI-based radiomics in the diagnosis and treatment of RC, with a special emphasis on the role of peritumoral tissue characteristics in clinical decision-making.
+Existing studies have shown that a radiomics model integrating intratumoral and peritumoral characteristics has good application prospects in RC staging evaluation, efficacy prediction, metastasis monitoring, recurrence early warning, and prognosis judgment.
+At the same time, this paper also objectively analyzes the existing methodological limitations in this field, including insufficient data standardization, inadequate model validation, limited sample size and poor reproducibility of results.
+By combining existing evidence, this review aimed to enhance the attention of clinicians and radiologists on the characteristics of peritumoral tissues and promote the translational application of radiomics technology in the individualized treatment of RC.

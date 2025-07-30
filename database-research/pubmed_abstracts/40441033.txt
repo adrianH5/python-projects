@@ -1,0 +1,9 @@
+Hormonally upregulated neu-associated kinase (HUNK) is a serine/threonine protein kinase in the sucrose non-fermenting 1/AMP-activated protein kinase family that promotes cell survival and plays an important role in breast cancer growth and metastasis.
+Robust methods to alter HUNK expression and activity are currently in use to advance our understanding of this kinase and its function.
+However, despite its role in the aggressive triple-negative cancer and human epidermal growth factor receptor 2 (HER2)+ breast cancer subtypes, targeted pharmacological inhibition of HUNK is still in its infancy.
+There are 2 goals of this review: first, to summarize the work done to modulate HUNK activity and advance scientific understanding of the kinase, and second, to describe the current work toward HUNK's pharmacological inhibition and the application of HUNK inhibitors.
+Clinically, HER2+ breast cancer often develops resistance to the HER2-targeted standard of care therapy, and experimental studies have shown that this can occur via a HUNK-dependent mechanism.
+In triple-negative breast cancer, where targeted treatments are lacking, HUNK has been shown to promote cancer progression to metastasis.
+Thus, further research on HUNK and its pharmacology may lead to novel therapeutics for patients with breast cancer and improved treatment outcomes.
+SIGNIFICANCE STATEMENT: Having recently been identified to promote aggressive breast cancers, hormonally upregulated neu-associated kinase is showing promise as a potential therapeutic target, yet drug discovery in this area is still at an early stage.
+This review aims to highlight recent efforts and methods to study the kinase and to identify novel inhibitors that may prove useful in continued basic science and translational research.

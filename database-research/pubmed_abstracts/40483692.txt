@@ -1,0 +1,9 @@
+Castration-resistant prostate cancer (CRPC) remains an incurable disease in need of improved treatments.
+CAMKK2 is an emerging therapeutic target whose oncogenic effects in prostate cancer have, to date, been largely attributed to its activation of AMP-activated protein kinase (AMPK).
+Here, we demonstrate that CAMKK2 promotes prostate cancer growth through an alternative downstream pathway involving CAMKI and CREB.
+Unbiased transcriptomics identify CREB-mediated transcription as a CAMKK2-regulated process, findings that we validate using diverse molecular, genetic, and pharmacological approaches in vitro and in vivo.
+CAMKK2 promotes CREB phosphorylation/activation through CAMKIα independently of AMPK, CAMKIV, or other CAMKI isoforms.
+Functionally, the CREB family members CREB1 and ATF1 exhibit close redundancy, necessitating co-targeting for optimal anti-tumor efficacy.
+An inhibitor of CREB1/ATF1 blocks CRPC with minimal side effects.
+Mechanistically, CAMKK2 and CREB increase CRPC growth through augmenting cholesterol metabolism.
+Together, these findings identify an oncogenic pathway that could be exploited for the treatment of CRPC.

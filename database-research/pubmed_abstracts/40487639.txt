@@ -1,0 +1,4 @@
+Gastrointestinal (GI) cancers are a leading cause of cancer morbidity and mortality worldwide.
+Despite advances in treatment, cancer relapse remains a significant challenge, necessitating novel therapeutic strategies.
+In this study, we engineered nanobody-based chimeric antigen receptor (CAR) natural killer (NK) cells targeting cadherin 17 (CDH17) for the treatment of GI tumors.
+In addition, to enhance the efficacy of CAR-NK cells, we also incorporated CV1, a CD47-SIRP

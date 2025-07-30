@@ -1,0 +1,8 @@
+Recent research has highlighted the substantial impact of gut microbiome on various aspects of human health, such as obesity, inflammation, infectious diseases, and cancer.
+As a result, gut microbiota composition is increasingly recognized as a potential health indicator and biomarker for disease.
+Numerous factors, including lifestyle, diet, and physical fitness, are known to shape the composition of the human microbiome.
+However, a significant challenge in elucidating the relationships between these factors and the gut microbiome lies in needing a comprehensive database that integrates diverse human microbiome profiles with extensive sample metadata.
+To address this issue, we developed an extensive human microbiome database for healthy individuals.
+This initiative led to the establishment of the NIBN Japan Microbiome Database (NIBN JMD), one of the largest resources of its kind, encompassing up to 1,000 metadata points and more than 2,000 microbiome samples, including data from longitudinal studies.
+In this article, we describe the creation and features of NIBN JMD, detailing the data collection, processing, and database implementation.
+NIBN JMD is publicly accessible at https://jmd.nibn.go.jp/ .

@@ -1,0 +1,12 @@
+Kushenol, a monomeric compound, was extracted from the roots of the medicinal plant Sophora flavescens.
+To explore the activity of Kushenol A in non-small cell lung cancer (NSCLC), CCK-8 assay, flow cytometry, and Western blot were performed.
+A xenograft mouse model was established.
+Our results demonstrated that Kushenol A treatment significantly enhanced the killing effect of radiation on NSCLC cells.
+Co-treatment with radiation and Kushenol A markedly reduced cell viability, increased intracellular ROS levels, and elevated the proportion of apoptotic cells compared to NSCLC cells treated with radiation alone.
+Animal experiments further confirmed that radiation therapy with simultaneous Kushenol A administration suppressed tumor growth and improved radiotherapy sensitivity compared to mice treated with radiation alone.
+Furthermore, Kushenol A did not produce significant toxic damage to the major organs of mice.
+Mechanistically, radiation therapy combined with Kushenol A treatment significantly upregulated protein levels of cleaved Caspase-3 and cleaved Caspase-9, leading to Bax translocation from the cytoplasm to mitochondria.
+Concurrently, Kushenol A treatment reduced NRF2 levels in the cytoplasm, thereby promoting an increase in ROS levels.
+Notably, Kushenol A enhanced tumor radiosensitivity by targeted inhibition of Indoleamine 2,3-dioxygenase 1 (IDO1).
+Taken together, our findings suggested that cotreatment with Kushenol A and radiation promoted the entry of Bax into mitochondria and activated the mitochondrial apoptotic pathway.
+Kushenol A exhibited targeted inhibition of IDO1, enhancing the sensitivity of non-small cell lung cancer to radiotherapy.

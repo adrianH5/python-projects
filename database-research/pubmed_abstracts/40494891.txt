@@ -1,0 +1,6 @@
+Porphyromonas gingivalis (Pg), a gram-negative anaerobic bacterium, is a leading pathogen causing periodontitis.
+It secretes several virulence factors, including gingipains, lipopolysaccharides (LPS), and outer membrane vesicles (OMVs), which can trigger the release of inflammatory cytokines such as interleukin (IL)-1β, tumor necrosis factor alpha (TNFα), and IL-6 through inflammasome activation and Toll-like receptor (TLR) signaling.
+We demonstrated that Pg infection under hypoxic conditions enhances NLRP3 inflammasome activation in macrophages.
+Additionally, we observed that toll-interleukin-1 receptor domain-containing adaptor-inducing interferon-β (TRIF)-mediated hypoxia-inducible factor 1 alpha (HIF-1α) regulation exacerbates inflammasome activation under hypoxia.
+Notably, HIF-1α deficiency in myeloid cells reversed neurological symptoms and reduced IL-1β and IL-17 production in a mouse model of multiple sclerosis with Pg infection.
+Our findings indicated that hypoxia modulates inflammasome activation in response to periodontitis-related bacterial infections, contributing to the progression of autoimmune diseases.

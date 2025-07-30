@@ -1,0 +1,7 @@
+T1	Repository 67 70	PDB
+T2	AccessionNumber 75 79	5X5F
+T3	Repository 212 264	National Center for Biotechnology Information (NCBI)
+T4	URL 275 350	http://www.ncbi.nlm.nih.gov/genomes/VirusVariation/Database/nph-select2.cgi
+T5	URL 421 443	https://www.gisaid.org
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4

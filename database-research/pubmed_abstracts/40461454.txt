@@ -1,0 +1,9 @@
+Bladder cancer affects over half a million people worldwide each year.
+Recent advances in early detection allowed a successful management of non-aggressive cancers, yet the recurrence rate remains high.
+Aggressive muscle-invasive bladder tumours are life-threatening and challenging to cure.
+Therefore, understanding of key molecular pathways involved in cancer progression is critical for developing of new personalised targeted therapies.
+Recently, non-coding RNAs (ncRNAs) have emerged as key regulators orchestrating complex biological processes in cancer, yet their function is not fully understood.
+Here, we compare non-muscle invasive and muscle invasive cell lines and identify a ncRNA gene MIR205HG and its transcript LEADR among the top ncRNAs downregulated in muscle invasive urothelial tumours.
+We show that LEADR expression is epigenetically regulated by master transcription factor p63.
+LEADR is localised in the nuclei of non-muscle invasive bladder cancer cells where it dampens hyperactivation of interferon stimulated genes possibly increasing sensitivity of bladder cancer cells to interferon signalling.
+These findings uncover an anti-tumoral role of non-coding RNA LEADR in mediating immune response in bladder cancer.

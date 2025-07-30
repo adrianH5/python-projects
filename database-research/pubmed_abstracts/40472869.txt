@@ -1,0 +1,13 @@
+To facilitate implementation of plan-of-the-day (POTD) selection for treating locally advanced cervical cancer (LACC), we developed a POTD assessment tool for CBCT-guided radiotherapy (RT).
+A female pelvis segmentation model (U-Seg3) is combined with a quantitative standard operating procedure (qSOP) to identify optimal and acceptable plans.
+&#xD;&#xD;Approach: The planning CT[i], corresponding structure set[ii], and manually contoured CBCTs[iii] (n=226) from 39 LACC patients treated with POTD (n=11) or non-adaptive RT (n=28) were used to develop U-Seg3, an algorithm incorporating deep-learning and deformable image registration techniques to segment the low-risk clinical target volume (LR-CTV), high-risk CTV (HR-CTV), bladder, rectum, and bowel bag.
+A single-channel input model (iii only, U-Seg1) was also developed.
+Contoured CBCTs from the POTD patients were (a) reserved for U-Seg3 validation/testing, (b) audited to determine optimal and acceptable plans, and (c) used to empirically derive a qSOP that maximised classification accuracy.
+&#xD;&#xD;Main Results: The median [interquartile range] DSC between manual and U-Seg3 contours was 0.83 [0.80], 0.78 [0.13], 0.94 [0.05], 0.86[0.09], and 0.90 [0.05] for the LR-CTV, HR-CTV, bladder, rectum, and bowel bag.
+These were significantly higher than U-Seg1 in all structures but bladder.
+The qSOP classified plans as acceptable if they met target coverage thresholds (LR-CTV≧99%, HR-CTV≧99.8%), with lower LR-CTV coverage (≧95%) sometimes allowed.
+The acceptable plan minimising bowel irradiation was considered optimal unless substantial bladder sparing could be achieved.
+With U-Seg3 embedded in the qSOP, optimal and acceptable plans were identified in 46/60 and 57/60 cases.
+&#xD;&#xD;Significance: U-Seg3 outperforms U-Seg1 and all known CBCT-based female pelvis segmentation models.
+The tool combining U-Seg3 and the qSOP identifies optimal plans with equivalent accuracy as two observers.
+In an implementation strategy whereby this tool serves as the second observer, plan selection confidence and decision-making time could be improved whilst simultaneously reducing the required number of POTD-trained radiographers by 50%.&#xD;&#xD;&#xD.

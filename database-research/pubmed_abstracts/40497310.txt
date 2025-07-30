@@ -1,0 +1,8 @@
+Polysulfoniums, sulfur-rich cationic polymers with trivalent sulfonium motifs, are promising biomaterials due to their high charge density, structural flexibility, and biocompatibility.
+This review highlights recent synthetic strategies: main-chain polymers via thiol-ene/epoxy click chemistry and pendant functionalization using ROMP, ROP, or RAFT polymerization, alongside postpolymerization alkylation.
+Their sulfonium groups selectively disrupt anionic microbial membranes, enabling broad-spectrum antibacterial action against pathogens like MRSA without inducing resistance.
+Stimuli-triggered dissociation enhances intracellular delivery, bolstering efficacy while reducing toxicity.
+These polymers also stabilize protein via sulfonium-π interactions and enable targeted therapies though zwitterionic or covalent architectures.
+The tunable UCST/LCST behavior and anion/pH responsiveness support smart hydrogels for wound healing and biofilm removal.
+Compared to ammonium and phosphonium analogs, polysulfoniums offer superior biocompatibility and membrane disruption, making them ideal for antimicrobial coatings, gene therapy, and cancer treatment.
+This interdisciplinary synergy between polymer science and biotechnology underscores their potential to address critical challenges in healthcare and materials science.

@@ -1,0 +1,2 @@
+Clinical translation of advanced MRI techniques can be hindered by the challenges of performing standardised multicentre imaging trials.
+This work aims to develop and demonstrate an automated tool for monitoring imaging protocol deviations, enabling corrective action to be taken.

@@ -1,0 +1,7 @@
+In recent years, the role of epigenetic modifications, especially N6-methyladenosine (m6A) modifications, in the occurrence and development of cancer has received increasing attention.
+This study aims to elucidate the role of m6A modification in colorectal cancer (CRC), focusing on the effect of METTL3 on STC2 expression and its effects on cell proliferation, drug resistance and metastasis.
+Using MeRIP-seq, mRNA-seq, EdU staining, CCK-8 (Cell Counting Kit-8) assay, Transwell assay, Western blot and flow cytometry, this study confirmed that RNA methylation was predominantly located in the CDS region and that STC2 was overexpressed in advanced cancer and 5-FU (5-Fluorouracil)-resistant cell lines.
+Knockdown of STC2 increased the sensitivity of cells to 5-FU, reduced cell proliferation and metastatic capacity, and indicated that METTL3 positively regulates STC2 m6A modification.
+Further experiments showed that METTL3 knockdown reduced the IC50 (Half Maximal Inhibitory Concentration) of 5-FU-resistant CRC cells, inhibited cell proliferation, ERS (Endoplasmic Reticulum Stress) and oxidative stress, and reduced KRAS G12 and G13 mutations, and these effects were reversed by STC2 overexpression.
+In vivo, METTL3 knockdown enhanced the efficacy of 5-FU and inhibited tumor metastasis, whereas STC2 overexpression counterbalanced these benefits.
+Overall, our findings suggest the METTL3/STC2 axis as a promising therapeutic target to combat drug resistance and metastasis in colorectal cancer.

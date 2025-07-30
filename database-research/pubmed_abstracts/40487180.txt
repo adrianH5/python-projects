@@ -1,0 +1,6 @@
+Myocardial ischemia-reperfusion (I/R) injury is characterized by oxidative stress, mitochondrial dysfunction, inflammation, and fibrosis, ultimately leading to chronic cardiac dysfunction and heart failure.
+Current therapeutic strategies that predominantly target single biological pathways exhibit limited long-term efficacy, underscoring the necessity for multi-targeted approaches.
+In this study, we developed a ROS-responsive hydrogel system, S1&FT/Lipo-QCFT, tailored to deliver drugs for treating various stages of myocardial I/R injury.
+This system timing of drug release to achieve rapid deployment at early intervention stages and maintain sustained release thereafter.
+Initially, the hydrogel platform quickly releases the molecular forms of the superoxide inhibitor S1QEL1.1 and tannic acid, specifically targeting the elevated ROS levels at the I/R site to alleviate early oxidative damage and encourage macrophage polarization toward the M2 phenotype.
+Subsequently, the system gradually releases anti-fibrotic agent FT011, encapsulated in lipid nanocarriers, which actively counters TGF-β1-induced fibrosis and forestalls adverse ventricular remodeling, thereby enhancing long-term cardiac repair.

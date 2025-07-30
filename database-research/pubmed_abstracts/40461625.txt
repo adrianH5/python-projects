@@ -1,0 +1,10 @@
+Diffuse large B-cell lymphoma (DLBCL) is a neoplasm affecting adults and children, with different clinical behaviors between age groups.
+To shed light on those differences, gene expression profiling was evaluated in 48 formalin-fixed paraffin-embedded biopsies of patients with DLBCL.
+Sixteen differentially expressed genes in pediatric DLBCL compared to adults were demonstrated, involving lymphocyte differentiation, oncogenic signaling and chemotaxis.
+Pathway analysis confirmed the enrichment in proliferation-related pathways.
+In addition, the increased presence of NKCD56dim cells in pediatric patients suggests a cytotoxic immune response in this group, perhaps explaining their better outcome.
+Exclusion of Epstein Barr virus (EBV) + DLBCL, NOS, showed, in pediatric cases, additional downregulated genes associated with immune regulators and checkpoint genes.
+This suggested EBV infection may have on the modulation of immune response in pediatric lymphomas.
+Survival analysis showed associations between genes such as MYC, NT5E and CD34, and event-free survival in pediatric patients.
+Furthermore, higher expression of MYC in children displayed higher risk of death or relapse, while lower expression of NT5E and CD34 was associated with lower risk.
+This study identifies distinct immune response and proliferation gene expression patterns in pediatric DLBCL compared to adults, and the interaction with tumor microenvironment, with potential implications for disease pathogenesis.

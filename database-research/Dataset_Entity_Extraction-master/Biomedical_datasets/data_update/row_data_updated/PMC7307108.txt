@@ -1,0 +1,4 @@
+Selected sites are mapped onto the 3D structure of models obtained using SARS-CoV proteins as a templates (PDB ID: 6ACG for panel A, 2CJR for panel B, 2HSX for panel C).
+These will need to be interpreted in the future, by incorporating epidemiological, biochemical, and additional genetic data.
+Genome sequences were retrieved from the National Center for Biotechnology Information database (NCBI; https://www.ncbi.nlm.nih.gov/).
+The three-dimensional (3D) structures of SARS-CoV N (PDB identifier [ID]: 2CJR) (65) and S (PDB ID: 6ACG) (48) proteins were obtained from the Protein Data Bank (PDB).

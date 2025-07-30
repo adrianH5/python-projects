@@ -1,0 +1,6 @@
+Parkinson's disease (PD) is the second most common neurodegenerative disorder, characterized by motor dysfunction coupled with gastrointestinal disturbances.
+Recent studies implicate the gut microbiome with the development of PD, yet pinpointing the exact microbial players is still to be determined.
+This meta-analysis is the first to consolidate five homogenous case-control studies, covering the same variable regions of the 16S rRNA of 1007 fecal samples.
+Utilizing our unified pipeline, we identified several key players potentially contributing to PD.
+Our findings reveal higher microbial diversity characterized by elevated levels GABA consuming species particularly Evtepia gabavorous, contributing to neuronal excitability.
+We also report the abundance of the proinflammatory Klebsiella variicola and the H

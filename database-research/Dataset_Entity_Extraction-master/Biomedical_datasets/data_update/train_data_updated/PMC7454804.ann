@@ -1,0 +1,13 @@
+T1	Creator 362 382	Mertins et al., 2018
+T2	Creator 392 413	Vasaikar et al., 2019
+T3	Creator 424 442	Clark et al., 2019
+T4	Creator 452 468	Gao et al., 2019
+T5	Creator 482 499	Doll et al., 2017
+T6	Repository 539 617	National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)
+T7	Repository 777 802	Human Protein Atlas (HPA)
+T8	URL 813 842	https://www.proteinatlas.org/
+T9	Repository 941 946	CPTAC
+T10	Creator 991 1008	Doll et al., 2017
+T11	Creator 1483 1503	Bojkova et al., 2020
+T12	Repository 1609 1614	CPTAC
+R1	hasAttr	Arg1:T7	Arg2:T8

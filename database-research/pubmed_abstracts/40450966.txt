@@ -1,0 +1,8 @@
+To enhance polyp segmentation in colonoscopy images for early detection and diagnosis of colorectal cancer.
+The study proposed the Transformer-based cross feature multi-attention network (TCFMA-Net) for polyp segmentation by addressing challenges such as varying polyp sizes and the problem of accurate boundaries.
+TCFMA-Net utilizes swin transformer-based encoders, a cross-feature enhancer network with multiple cross-feature enhancer blocks, and multi-attention modules integrated within and outside the decoder blocks.
+This enables comprehensive cross-feature fusion, preserving image clarity and facilitating the flow of information, allowing efficient processing of both low-level and high-level features.
+TCFMA-Net effectively captures the complexities of polyp size variations and boundaries issues and consistently outperforms existing methods on six benchmark datasets with confidence interval (CI), achieving a Dice score of 92.74 ± 0.10, (CI: 91.92, 94.04), 91.46 ± 0.14 (CI: 91.12, 92.72), and 87.34 ± 0.13, (CI: 86.19, 88.10) on the CVC-ClinicDB, Kvasir-SEG and BKAI-IGH datasets respectively, demonstrating its robustness in diverse polyp segmentation tasks.
+Generalizability tests also yielded Dice scores of 89.51 ± 0.10, (CI: 88.67, 89.71), 72.91 ± 0.09, (CI: 71.39, 74.14), and 65.83 ± 0.22, (CI: 65.47, 66.52) on the CVC-300, CVC-ColonDB, and Polypgen databases respectively.
+TCFMA-Net demonstrates superior performance in segmenting polyps across datasets, effectively handling variations in polyp characteristics and demonstrating robust generalization capabilities.
+This study presents a significant advancement in polyp segmentation methods, offering an accurate and reliable tool for colorectal cancer diagnosis.

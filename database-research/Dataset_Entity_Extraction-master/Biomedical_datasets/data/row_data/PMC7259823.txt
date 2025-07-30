@@ -1,0 +1,8 @@
+Targeted screening of suspected coronavirus disease 2019 (COVID-19) cases, as well as a series of successive nationwide travel restrictions, were put in place to curtail SARS-CoV-2 introductions into the continental United States from outbreak hotspots in China (2 February 2020), Iran (2 March 2020), mainland European countries (13 March 2020), and the United Kingdom and Ireland (16 March 2020) (–).
+Despite these measures, the first COVID-19 case in New York State was identified in New York City (NYC) on 29 February 2020.
+As of 2 May 2020, there were 312,977 confirmed COVID-19 cases in New York state, including 172,354 (55%) in NYC [New York State Department of Health (NYS DOH); https://coronavirus.health.ny.gov].
+We performed phylogenetic analysis of the 84 distinct patient isolates, together with 2363 sequences deposited in GISAID up to 1 April 2020 (Fig. 2A).
+This clade is largely composed of isolates obtained from patients with COVID-19 in Europe (72%) (Fig. 2B), suggesting that introductions from Europe account for the majority of cases found in NYC in the first weeks of March 2020.
+(A) ML phylodynamic inference of 84 SARS-CoV-2 sequences from New York from this study in a global background of 2363 sequences available in the GISAID EpiCoV database as of 1 April 2020.
+Science this issue p. 297   New York City became an epicenter for COVID-19 cases that originated in Europe and elsewhere in the United States.
+To identify the early transmission events underlying the rapid spread of the virus in the NYC metropolitan area, we sequenced the virus that causes coronavirus disease 2019 (COVID-19) in patients seeking care at the Mount Sinai Health System.

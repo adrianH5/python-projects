@@ -1,0 +1,9 @@
+Cancer cells adapt their metabolism to support aberrant cell proliferation.
+However, the functional link between metabolic reprogramming and cell cycle progression remains largely unexplored.
+Mitochondria rely on the transfer of multiple lipids from the endoplasmic reticulum (ER) to their membranes to be functional.
+Several mitochondrial-derived metabolites influence cancer cell proliferation by modulating the epigenome.
+Here, the loss of STARD7, a lipid transfer protein whose expression is enhanced in breast cancer, is shown to lead a metabolic reprogramming characterized by the accumulation of carnitine derivatives and S-Adenosyl-L-methionine (SAM).
+Elevated SAM levels cause the increase of H3K27 trimethylation on many gene promoters coding for candidates involved in cell cycle progression.
+Likewise, STARD7 deficiency triggers cell cycle arrest and impairs ERα-dependent cell proliferation.
+Moreover, EGFR signaling is also impaired in triple negative breast cancer cells lacking STARD7, at least due to deregulated EGFR trafficking to lysosomes.
+Therefore, mitochondria rely on STARD7 to support cell cycle progression in breast cancer.

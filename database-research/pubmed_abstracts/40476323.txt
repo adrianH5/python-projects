@@ -1,0 +1,13 @@
+Daidzin (DZN) is a natural flavonoid compound derived from soybeans that has recently been recognized for its potential antitumor properties.
+In traditional Chinese medicine, soybeans and their extracts are extensively used to prevent and treat various diseases.
+To evaluate the therapeutic efficacy of DZN on human glioblastoma through in vivo and in vitro experiments, and through multi-omics analyses to elucidate potential molecular mechanisms.
+Cell viability of LN-229 and U-87MG glioblastoma cells was assessed using the CCK-8 assay.
+Protein and mRNA levels of proliferation and apoptosis-related genes were analyzed via Western blotting and qPCR.
+Metabolomics and transcriptomics identified key pathways and targets, which were confirmed by in-cell Western blotting and expression correlation analysis.
+The in vivo antitumor effects of DZN were evaluated in nude mice with LN-229 tumors.
+DZN treatment reduced cell viability, migration, and survival in a dose-dependent manner, demonstrating strong antitumor effects in both in vitro and in vivo models.
+Multi-omics analysis identified amino acid metabolism and ubiquitin-mediated proteolysis as key mechanisms.
+Bioinformatics highlighted LRP5 as a prognostic biomarker in glioblastoma.
+DZN decreased LRP5 activity, downregulated p-GSK-3β, and promoted c-Myc degradation, thereby inhibiting the Wnt signaling pathway.
+In vivo, DZN significantly reduced tumor size and Ki67 expression.
+These findings highlight LRP5 as a promising therapeutic target, with DZN emerging as a potent LRP5 inhibitor and exhibiting significant antitumor effects in glioblastoma.

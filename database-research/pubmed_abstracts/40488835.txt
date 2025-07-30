@@ -1,0 +1,12 @@
+Pancreatic cancer (PC) is one of the most common malignant tumors of the digestive tract.
+Gemcitabine (GEM) is a first-line chemotherapeutic agent for unresectable PC, but systemic distribution of the drug, drug resistance, and clinical side effects undermine its efficacy.
+This study utilized bone marrow mesenchymal stem cell-derived exosomes (BMSC-EXOs) as a delivery vehicle for a triple-drug combination (galectin-9 siRNA/DOGEM/indocyanine green) to improve synergistic therapy against PC.
+Galectin-9 siRNA, prodrug DOGEM, and ICG were loaded into BMSC-Exos by electroporation and vortexing to prepare nanoformulations (iEXO-DG-ICG).
+iEXO-DG-ICG had an average size of 132 ± 2.6 nm and its release rate in pH 6.0 medium was all faster than in pH 7.4 medium.
+The cytotoxicity of iEXO-DG-ICG against PANC-02 cells was stronger than free GEM both in vitro and in vivo.
+The protein expression of galectin-9 in tumor cells decreased by 79% after treatment with iEXO-DG-ICG, and the proportions of CD8⁺ T cells and IFN-γ⁺ CD8⁺ T cells increased while the proportions of Tregs decreased.
+The tumor inhibition rate of iEXO-DG-ICG was 90.3%.
+The present study successfully constructed a multimodal delivery system, designated iEXO-DG-ICG, using EXO derived from BM-MSCs as carriers.
+This system exhibited good tumor targeting and pH-responsive release characteristics.
+Both in vitro and in vivo studies confirmed that iEXO-DG-ICG significantly enhanced anti-tumor effects through the synergistic effect of chemotherapy, immunotherapy, and phototherapy.
+These findings provide a new strategy and a research foundation for the clinical treatment of pancreatic cancer.

@@ -1,0 +1,11 @@
+Delayed gastric conduit emptying (DGCE) is a significant and prevalent complication following esophagectomy, adversely affecting recovery and quality of life.
+The true burden of DGCE remains uncertain due to considerable variability in reported incidence rates.
+This study aimed to determine the incidence of DGCE following esophagectomy and how this is impacted with varying diagnostic criteria.
+A systematic review was conducted across major databases, including PubMed, MEDLINE, Embase, Web of Science, and Cochrane, to identify studies reporting the incidence of DGCE following esophagectomy.
+The incidence rates were pooled and analyzed using a random-effects model, with subgroup analyses for potential sources of heterogeneity such as pyloric interventions, conduit dimensions, and anastomotic height.
+Among 5176 screened records, 125 studies met the eligibility criteria.
+The pooled incidence of early DGCE was 15.9% (95% CI 11-21%), and late DGCE was 9.4% (95% CI 7.1-11.9%).
+Significant heterogeneity was observed across studies, driven by variations in diagnostic methods.
+Subgroup analysis indicated that prophylactic pyloric drainage was not associated with a statistically significant effect on early DGCE (OR 0.76; p = 0.38) or late DGCE (OR 0.71; p = 0.44).
+DGCE represents a significant burden for esophageal cancer survivors, with considerable variability in its reported incidence, underscoring the urgent need for a standardized diagnostic criterion.
+The adoption of the recently published international consensus definition is crucial for reducing the heterogeneity, as well as improving the identification and management of DGCE.

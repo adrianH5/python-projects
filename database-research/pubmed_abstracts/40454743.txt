@@ -1,0 +1,3 @@
+The emerging FLASH radiotherapy technique employs "Ultra-High Dose Rate" (UHDR) irradiations and offers the potential to spare normal tissue while maintaining iso-effective tumor treatment.
+Given the physical and biological advantages inherent to high "Linear Energy Transfer" (LET) particles, the combination of UHDR and high LET has the capability to enhance the normal tissues sparing, as indicated by initial in vivo trials.
+However, to ensure a safe implementation of this combined modality, it is essential to establish robust dosimetric protocols utilizing dose-, dose rate-, and LET-independent detectors.

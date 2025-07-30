@@ -1,0 +1,8 @@
+Extracellular vesicles (EVs) are lipid membrane-bound vesicles involved in cell-cell communication, particularly in the context of cancer.
+Immunotherapy, a rapidly evolving field in oncology, is a type of cancer treatment relying on the body's own immune system to fight mutated cancer cells.
+Recently, the significance of immunotherapeutic resistance has been increasingly acknowledged owing to the heightened prevalence of cancer and its commonly advanced stage upon diagnosis.
+However, the complexity and heterogeneity of tumor cells pose challenges to immunotherapy, and the role of EVs in immunotherapeutic resistance remains unclear.
+Recent studies focused on the role of EVs as heterogeneous groups of nanoparticles in intercellular communication, particularly within the tumor microenvironment (TME).
+EVs, which include exosomes, shed microvesicles, while apoptotic bodies carry a diverse range of molecular cargo, including proteins, nucleic acids, lipids, and other bioactive molecules.
+The complexity and versatility of EVs make them a fascinating area of study, with promising implications for the future of immunology and medicine.
+This brief review highlights the involvement of EVs in immunotherapeutic resistance (e.g., PD-L1 transfer, miRNA-mediated pathways) with a focus on their biogenesis, secretion, and functional roles in cancer, underscoring their potential as diagnostic and therapeutic tools.

@@ -1,0 +1,10 @@
+Antibody-drug conjugates (ADCs) represent a transformative approach in cancer therapy, combining the specificity of monoclonal antibodies with targeted delivery of potent cytotoxic drugs to tumors.
+Discovery of novel antigens has been the hallmark for development of ADC therapeutics and MUC1 is one such oncoprotein, which has garnered renewed interest recently.
+The 3D1 antibody, engineered to bind specifically to the alpha 3 (α3) helix of the MUC1-C/extracellular domain, is being actively developed towards clinical translation.
+The study examined the conformational coupling in the residues spanning the MUC1 sea urchin sperm protein, enterokinase, and agrin domain (SEA), which incorporates MUC1-C. 3D1 has been shown to be sensitive to three specific point mutations-D85E, V86A, and T88A- at the interaction surface between MUC1-C and the 3D1 antibody.
+Our findings reveal that D85E and T88A mutations cause significant conformational shifts and reduced binding affinity due to altered electrostatic interactions and hydrogen bonding.
+The V86A mutation, while maintaining the overall conformation, disrupts local hydrophobic interactions, leading to decreased binding efficiency.
+Further, residue 85 in the wild-type (WT) MUC1 SEA domain interacts with other residues, contributing to local frustration and destabilization.
+Mutants D85E, V86A, and T88A exhibited similar frustration patterns but with increased local energy, indicating reduced stability.
+Frustration calculations highlighted the crucial role of the α3 helix in protein stability and antibody interaction.
+Collectively, these data highlight the importance of specific residues contributing to the local frustration in maintaining effective antibody binding and suggest that mutations impacting these residues can significantly alter antigen binding dynamics.

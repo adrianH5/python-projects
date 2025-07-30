@@ -1,0 +1,7 @@
+Currently, multiple databases/platforms, such as DrugBank Database, Comparative Toxicogenomics Database (CTD), Traditional Chinese Medicine Systems Pharmacology Database and Analysis Platform (TCMSP) and Integrative Pharmacology-based Research Platform of Traditional Chinese Medicine (TCMIP), were commonly applied to acquire potential targets of small molecular compounds [31,32,33].
+Basically, the target information in these three databases is complementary, a combination of which could provide relatively comprehensive compound-target interactions.
+DAVID Bioinformatics Resources 6.8 [42] was applied to perform GO analysis for the hub targets.
+In addition, the analysis of specific GO annotation involved in immune system processes was carried out with ClueGo (Version 2.5.6) [43], a Cytoscape plug-in integrating EBI-Uniport GO annotation database (updated in Mar 2019).
+Three public databases were used to mine the potential targets for the three (phyto-) nutrients in VCG Plus.
+Comparing the results with “virus diseases” and “immune system disease” gene data in CTD, it was found that 179 targets existed in both the “virus diseases” and “immune system disease” gene database.
+According to the KEGG database, the obtained pathways are mainly concentrated on categories of signal transduction involved in environmental information processes, immune systems involved in organismal systems, infectious diseases involved in human diseases and other pathways.

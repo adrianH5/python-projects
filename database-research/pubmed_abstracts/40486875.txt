@@ -1,0 +1,8 @@
+Head and neck squamous cell carcinoma (HNSCC) is a highly aggressive and devastating disease arising primarily from the mucosal epithelium of the oral cavity, pharynx, and larynx.
+HNSCC ranks as the sixth most common cancer worldwide, carrying significant morbidity and mortality.
+HPV-positive HNSCC can be partially prevented with the FDA-approved HPV vaccine and generally exhibits a more favorable prognosis compared to HPV-negative cases.
+However, effective screening and treatment approaches remain elusive for HPV-negative HNSCC.
+While precancerous lesions may precede invasive cancer in certain situations, most patients present with advanced disease without prior indication of precancerous conditions.
+Despite robust immune cell infiltration in HNSCC tumors, the extent and composition of immune infiltration vary widely among patients, and these tumors often evade immune surveillance through diverse mechanisms.
+Given the heterogeneous nature of HNSCC influenced by anatomical location and etiological factors, precise identification of biomarkers and personalized treatment strategies are imperative.
+In this study, we aim to explore the possibility of establishing an effective treatment strategy to overcome obstacles to targeted treatment and enable long-term survival through detailed molecular characterization and immune profiling of HNSCC.

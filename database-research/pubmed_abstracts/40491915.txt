@@ -1,0 +1,4 @@
+The incidence rates of fungal infections are increasing, especially in immunocompromised individuals without an FDA-approved vaccine.
+Accumulating evidence suggests that T cells are instrumental in providing fungal immunity.
+An apt stimulation and responses of dendritic cells are pivotal in inducing T-cell responses and vaccine success.
+Using a mouse model of fungal vaccination, we explored the dynamics, kinetics, activation, and antigen presentation of dendritic cell subsets to unravel the features of dendritic cell responses in the absence of CD4

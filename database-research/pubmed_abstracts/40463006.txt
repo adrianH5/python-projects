@@ -1,0 +1,11 @@
+The viral accessory protein Nef is a major determinant of HIV-1 pathogenicity in vivo.
+Nef is a multifunctional, immunomodulatory protein that downmodulates cell surface proteins, including CD4 and MHC class I (MHC-I) important for T-cell-mediated immunity.
+In addition, Nef also regulates cell-intrinsic immunity-Nef boosts the infectivity of virions produced and released from HIV-infected cells, at least in part, by counteracting the antiviral activity of transmembrane proteins SERINC3 and SERINC5.
+However, it has been reported that the enhancement of HIV-1 infectivity by Nef persists in certain cell lines deficient for SERINC3/5, revealing the existence of other Nef-sensitive host factors that impact HIV-1 infectivity.
+Here, we show that Nef proteins, especially those derived from many primary isolates of HIV-1, restore infectivity in interferon-treated cells and confer resistance to interferon-induced transmembrane protein 3 (IFITM3).
+IFITM3 is a restriction factor that reduces retroviral infectivity by incorporating into virions, inhibiting Envelope glycoprotein function, and reducing entry into cells.
+Using a primary isolate of Nef derived from HIV-1 clade C, we found that Nef interacts with IFITM3 in membranes and uses the endocytic adaptor protein AP-2 to counteract it.
+Furthermore, Nef reduced IFITM3 cell surface levels, increased IFITM3 levels in early endosomes, and reduced IFITM3 incorporation into HIV-1 virions.
+Nef also impaired IFITM3 oligomerization and restored membrane fluidity in IFITM3-expressing cells.
+The antiviral activity of IFITM3 and its inhibition by Nef were unaffected by SERINC5 knockdown, suggesting that the counteraction of IFITM3 represents a unique function of Nef.
+Our findings reveal a previously unrecognized immunomodulatory role for Nef in the setting of the interferon-induced antiviral state during HIV-1 infection.

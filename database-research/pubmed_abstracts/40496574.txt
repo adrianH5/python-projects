@@ -1,0 +1,11 @@
+Managing recurrent oligometastatic ovarian cancer with a limited disease burden is challenging, requiring localized treatments to achieve durable control while reducing systemic therapy exposure.
+Stereotactic body radiotherapy (SBRT) offers high precision and ablative dosing, minimizing toxicity to adjacent organs.
+This systematic review analyzed nine studies involving 426 patients and 809 lesions treated with SBRT.
+Patients had a median age of 61.2 years and underwent a median of three prior systemic treatments.
+SBRT, delivered at a median dose of 40 Gy, achieved a pooled median progression-free survival (PFS) of 10.32 months (95 % CI: 2.79-38.26) and a 2-year overall survival rate of 78 %.
+Local outcomes were promising, with a target lesion control rate of 95.9 % and a lesion response rate of 86 %.
+SBRT delayed systemic therapy initiation, with a median time of 9.45 months, and was well tolerated, with mostly mild toxicities (CTCAE grade ≤ 2).
+Rare grade 3 and 5 gastrointestinal toxicities were reported.
+Despite these encouraging results, the studies were limited by moderate to serious risk of bias, heterogeneity in treatment protocols, and variations in SBRT dose and fractionation.
+These findings highlight SBRT's potential as an effective treatment for oligometastatic ovarian cancer, but further research is needed to refine strategies, standardize regimens, and identify patient subgroups most likely to benefit.
+Prospective trials are eagerly awaited to establish SBRT's role in improving outcomes for this challenging clinical scenario.

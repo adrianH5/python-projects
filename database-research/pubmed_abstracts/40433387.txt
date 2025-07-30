@@ -1,0 +1,2 @@
+Tumors may utilize different strategies to escape T cell immunosurveillance.
+Besides the overexpression of checkpoint ligands (such as PDL1) or the secretion of immunosuppressive agents, several studies have shown that cancer aberrant sialylation can, through interaction with selected receptors such as those from the Siglec family, neutralize NK and T cell function.

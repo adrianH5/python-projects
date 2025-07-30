@@ -1,0 +1,10 @@
+Letrozole, a nonsteroidal aromatase inhibitor of the triazole class, is widely used in breast cancer treatment.
+Its quality and stability directly influence therapeutic efficacy and safety.
+However, systematic characterization of its related substances (RSs) remains insufficiently documented.
+In this study, letrozole RSs were separated by an established HPLC-UV method and identified with LC-Q-TOF/MS determination following the ICH Q1A(R2) guidelines.
+27 RSs were detected, including 11 process-related impurities and 16 previously unreported degradation products.
+Structural elucidation and degradation pathway analysis were performed for all the RSs by using their chromatographic retention behaviors, DAD spectral features, and high-resolution mass spectrometric data.
+Three main degradation pathways were proposed for them, including substitution on the triazole ring, hydrolysis of the cyano groups, and oxidation of the benzyl moiety.
+Furthermore, to support impurity risk assessment, the genotoxicities of all the RSs were evaluated using in-silico models according to the ICH M7 (R2) guideline.
+Most of the RSs were evaluated to be non-mutagenic, however four of them were identified as structurally alerting.
+These findings contribute to a better understanding of the stability behavior of letrozole and provide a scientific basis for the drug quality risk management from its related substances test and control point of view.

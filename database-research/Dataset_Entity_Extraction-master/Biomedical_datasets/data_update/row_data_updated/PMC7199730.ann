@@ -1,0 +1,11 @@
+T1	Dataset 226 281	Global Initiative on Sharing All Influenza Data (GISAID
+T2	URL 283 305	https://www.epicov.org
+T3	Repository 608 618	NextStrain
+T4	URL 620 642	https://nextstrain.org
+T5	Dataset 865 868	SRA
+T6	Dataset 935 941	GISAID
+T7	Dataset 1083 1089	GISAID
+T8	Dataset 3211 3214	SRA
+T9	Dataset 4033 4036	SRA
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4

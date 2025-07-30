@@ -1,0 +1,9 @@
+Solid cancers are complex 'ecosystems' comprised of diverse cell types and extracellular molecules, where heterotypic interactions significantly influence disease etiology and therapeutic response.
+However, our current understanding of tumor microenvironments (TMEs) remains incomplete, hindering the development and implementation of novel TME-targeted drugs.
+To maximize cancer therapeutic development we require a systems-level understanding of the malignant, stromal, and immune states that define the tumor and determine treatment response.
+In their recent study, Liu and colleagues took a new approach to resolving the complexity of stromal heterogeneity.
+They leveraged extensive single-cell spatial multi-omics datasets across various cancer types and platforms to identify four conserved spatial Cancer-Associated Fibroblast (CAF) subtypes, classified by their spatial organization and cellular neighborhoods.
+Their work expands upon prior efforts to develop a CAF taxonomy, which primarily relied on single-cell RNA-Sequencing (scRNA-Seq) and yielded a multitude of classification systems.
+This study advances our understanding of CAF biology by establishing a link between spatial context and CAF identity across diverse tumor types.
+Departing from recent single-cell transcriptomics studies that employed a marker-based approach for sub-state identification, Liu and colleagues conducted de novo discovery of CAF subtypes using spatial neighborhood information alone.
+By positioning spatial organization as the defining axis of CAF heterogeneity, this research redefines CAF classification and provides a new framework for exploring the rules governing tumor ecosystems and developing novel ecosystem-based therapeutic strategies.

@@ -1,0 +1,9 @@
+Protrusion-derived extracellular vesicles (PD-EVs) are a specialized subset of extracellular vesicles (EVs) generated from dynamic cellular extensions.
+These structures play a crucial role in cellular communication and have emerged as pivotal mediators in various biological processes, including cancer progression and immune modulation.
+In cancer, PD-EVs facilitate tumor growth, invasion, and metastasis by delivering oncogenic cargo that remodels the tumor microenvironment, promotes angiogenesis, and supports immune evasion.
+They are also implicated in establishing pre-metastatic niches and enabling cancer cells to colonize distant organs.
+PD-EVs are characterized by a distinct molecular signature linked to their origin from specialized plasma membrane domains.
+Their unique composition makes them promising biomarkers for early cancer detection, disease monitoring, metastatic potential assessment, and therapeutic response evaluation.
+Targeting PD-EV biogenesis, release, or uptake represents a novel therapeutic strategy to disrupt tumor progression and overcome resistance to current treatments.
+However, distinguishing PD-EVs from other EV subtypes remains challenging due to overlapping characteristics.
+This review consolidates the latest evidence on PD-EVs, focusing on their biogenesis, limitations in their study, functional roles in cancer, and potential applications in diagnostics and therapeutics, especially concerning immune modulation and T-cell activation.

@@ -1,0 +1,6 @@
+We employed a three-phase approach, culminating in a randomized controlled trial, to assess the efficacy of 3D-printed liver models in hepatobiliary surgical planning.
+Phase one involved developing and selecting 35 optimal 3DP models based on timeliness, cost, precision, and alignment with digital simulations.
+Phase two utilized deep learning algorithms to optimize the 3D reconstruction process, significantly enhancing efficiency and accuracy compared to manual segmentation.
+In phase three, a randomized controlled trial with 64 patients compared surgical outcomes between those planned with AI-enhanced physical 3DP models and those with traditional digital simulations.
+Results demonstrated that 3DP models were produced rapidly (3.52 h at $152 each) with high precision, AI-assisted reconstruction reduced processing time (303.5 vs. 557 min), and patients using AI-enhanced physical 3DP models experienced less intraoperative blood loss.
+Integrating deep learning with 3D printing offers a cost-effective, scalable method to enhance surgical planning and outcomes in hepatobiliary surgery.

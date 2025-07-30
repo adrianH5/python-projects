@@ -1,0 +1,12 @@
+This study aimed to elucidate the causal relationship between cytokines and oral cancer using Mendelian randomization (MR) analysis.
+Utilizing genetic data from genome-wide association studies (GWAS) and publicly available datasets, we conducted a bidirectional 2-sample MR analysis.
+The study design employed single nucleotide polymorphisms as genetic instruments to investigate the link between cytokines and oral cancer.
+The analysis was based on data from 2 cohorts with total 132 cytokines: 41 cytokines from comprehensive GWAS meta-analysis data, 91 cytokines from GWAS summary statistics for circulating inflammatory cytokines.
+Oral cancer genetic association data was sourced from the FinGen R10 datasets.
+To discern the causal relationship between cytokines and oral cancer, 5 MR methodologies, including inverse variance weighted and MR-Egger regression, weighted median, weighted mode, and simple mode were applied.
+The MR analysis revealed nominal associations between certain cytokines and the risk of oral cancer.
+Specifically, increased levels of C-X-C motif chemokine ligand 9 (odd ratios [OR] = 0.760, 0.600-0.962, 95% confidence interval [CI] 0.600-0.962, P = .023), monocyte chemoattractant protein 1 (OR = 0.78, 95% CI 0.32-0.99, P = .046), and TNF related activation induced cytokine (OR = 0.792, 95% CI 0.630-0.994, P = .044) were associated with a reduced risk of oral cancer, while higher levels of monocyte chemoattractant protein 2 (OR = 1.164, 95% CI 1.001-1.353, P = .048) and CC motif chemokine 25 (OR = 1.434, 95% CI 1.106-1.858, P = .006) were linked to an increased risk.
+The reverse analysis suggested a possible effect of oral cancer on the level of circulating cytokines, particularly Fractalkine (OR = 0.942, 95% CI 0.897-0.990, P = .019).
+No evidence of heterogeneity or significant pleiotropy was detected, validating the instrumental variables used.
+The findings support a causal relationship between specific cytokines and the risk of oral cancer, highlighting the complex interplay between inflammatory mediators and cancer development.
+These results underscore the importance of individualized immune profiling in treating oral cancer patients and pave the way for future research into targeted therapies based on cytokine profiles.

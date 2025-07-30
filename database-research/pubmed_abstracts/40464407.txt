@@ -1,0 +1,13 @@
+We aimed to assess the current trends and outcomes of retroperitoneal lymph node dissection (RPLND) in patients with testicular cancer in Germany, as well as to provide evidence on the role of the type of surgical approach, prior chemotherapy, and annual hospital caseload.
+We used the GeRmAn Nationwide inpatient Data, provided by the Research Data Center of the Federal Bureau of Statistics (2005-2022).
+We assessed trends and perioperative outcomes (mortality, intensive care unit [ICU] admission, transfusion, acute embolism, and length of hospital stay) based on the surgical approach (robotic, laparoscopic, and open), prior chemotherapy, and annual hospital caseload (with cut-offs of three and 10 cases/year) with a multivariable regression analysis.
+Overall, 6673 patients underwent RPLND for testicular cancer.
+Of them, 5570 (83%) received open, 819 (12%) laparoscopic, and 284 (5%) robot-assisted surgery.
+Patients had previously received chemotherapy in 1908 (29%) cases.
+Accordingly, 4431 (66%) patients underwent surgery in centers performing more than 3 cases/year, and 1325 (20%) in centers performing more than 10 cases/year.
+Over the past 18 years, the number of patients undergoing RPLND has decreased by half.
+In the multivariate regression analysis, a robotic and a laparoscopic approach was associated with lower odds of ICU admission, transfusion, and shorter hospital stay (p < .001) compared to an open approach.
+Patients undergoing surgery after prior chemotherapy presented similar perioperative outcomes compared to those who had not previously received chemotherapy.
+Similarly, patients undergoing surgery at high-volume centers presented comparable perioperative outcomes to those in low-volume centers based on the cut-off of three and 10 cases/year.
+Still, our findings were mitigated by selection bias.
+Overall, the number of annual RPLND cases in Germany has decreased over time.

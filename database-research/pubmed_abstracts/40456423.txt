@@ -1,0 +1,9 @@
+This study aims to develop a multifunctional nanodelivery system for the precise treatment of liver cancer.
+The treatment of liver cancer faces challenges such as low drug delivery efficiency and strong drug resistance, especially in the context of the side effects and poor tumor targeting of conventional chemotherapy drugs.
+To address these issues, we have developed a dual-drug-loaded liposome system encapsulating the chemotherapy drug doxorubicin (DOX) and the photosensitizer indocyanine green (ICG).
+Furthermore, by introducing the tripeptide sequence arginine-glycine-aspartate (RGD) and glycyrrhetinic acid (GA) modifications on the surface of the liposomes (Lips), tumor targeting and therapeutic efficacy were enhanced.
+The Lips were prepared using microfluidic technology, which optimized their delivery performance.Our findings indicate that after encapsulation in Lips, DOX demonstrated a significantly higher accumulation at the tumor site, overcoming the issues of side effects and drug resistance associated with traditional chemotherapy.
+ICG, under near-infrared (NIR) light irradiation, generates heat and reactive oxygen species, thus enhancing the synergistic effects of photothermal (PTT) and photodynamic (PDT), thereby further improving therapeutic outcomes.
+The dual-targeting modifications with GA and RGD peptides worked synergistically to promote precise accumulation of the Lips in liver cancer cells, significantly boosting their antitumor effects.Additionally, in vitro experiments showed that the combined effect of PTT and targeted delivery enhanced the antitumor efficacy.
+This multifunctional nanodelivery system offers a promising approach for the precise treatment of liver cancer, improving both drug targeting and therapeutic effectiveness.
+Moreover, it provides valuable insights for the treatment of other types of cancer.

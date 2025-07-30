@@ -1,0 +1,7 @@
+Colon adenocarcinoma (COAD) is a leading cause of cancer-related mortality worldwide, with immune escape being a significant factor in the failure of immunotherapy.
+This study investigates the correlation between Immunosurveillance-related genes and the prognosis of COAD patients, utilizing data from 1140 patients across four public databases: The Cancer Genome Atlas (TCGA), International Cancer Genome Consortium (ICGC), Array-express, and Gene Expression Omnibus (GEO).
+Employing Cox regression analysis, we identified 182 immune genes significantly linked to overall survival (OS) and established an Immunosurveillance score (ISs) based on 16 of these genes.
+The ISs score was validated using independent datasets, revealing that patients in the high-ISs group exhibited significantly poorer OS compared to those in the low-ISs group, as demonstrated by Kaplan-Meier curves and Cox regression analyses.
+Moreover, the ISs score showed a negative correlation with immune scores across multiple datasets.
+Notably, a higher ISs score was associated with improved recurrence-free survival (RFS) and OS in patients treated with PD-1 and CTLA4 inhibitors.
+Our findings suggest that the ISs score, derived from Immunosurveillance-related genes, has the potential to serve as a valuable prognostic marker and a tool for identifying COAD patients who may benefit from immunotherapy in clinical settings.

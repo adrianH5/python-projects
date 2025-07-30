@@ -1,0 +1,10 @@
+Contemporary cancer treatments encompass diverse strategies like surgery, chemotherapy, radiation, immunotherapy, and targeted therapies, aiming for effective cancer cell control with minimal impact on healthy tissues.
+Aptamers are short nucleotide sequences typically containing 25-80 bases and can attach to specific target molecules as effectively as monoclonal antibodies.
+While the FDA has yet to approve any aptamers for oncology applications, a few, such as Pegaptanib (Macugen), have been approved for ophthalmologic conditions like age-related macular degeneration.
+Pegaptanib and Izervay are the approved aptamers against age-related macular degeneration (AMD) that target vascular endothelial growth factor (VEGF) and block complement component protein C5, respectively.
+A new type of highly sensitive and specific biosensor has recently been created to detect leukaemia cancer cells.
+Aptamosomes, encapsulating drugs like doxorubicin, effectively reduce tumour size and are highly advantageous over targeted drug delivery.
+Many aptamers have been generated against ERα, Epithelial cell adhesion molecule, EGFR, B subunit of platelet-derived growth factor, Vimentin, Osteopontin, Type II membrane protein PSMA, MUC-1, AXL receptor tyrosine kinase, CD28 agonistic aptamer, as well as for the B7-CD28 interaction, etc.
+This review suggests the pros and cons of aptamer usage and its advantages over antibody treatment.
+It also outlines the roles of aptamers and connects their modes of action with specific cancer types.
+The content is highly detailed, providing a comprehensive understanding of aptamer therapy and its applications.

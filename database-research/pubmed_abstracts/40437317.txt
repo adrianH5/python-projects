@@ -1,0 +1,8 @@
+The super aggressive and metastasizing nature of melanoma urgently calls for effective therapeutic scenarios.
+Recent advances in biohybrids comprising bacteria and chemical substances have demonstrated significant merits in treating cancer by attribute complementation.
+Here, through bioorthogonal chemistry, the developed photosensitizer (IN) is covalently anchored onto the surface of an attenuated Salmonella typhimurium strain (VNP) engineered with the programmed cell death protein 1 (PD-1)-encoding plasmid, creating controlled self-destructive engineered bacteria (VNP-mPD-1@IN).
+After intravenous injection into B16F10 melanoma-bearing mice, VNP-mPD-1@IN specifically accumulates within the tumor mediated by the hypoxic tropism of VNP, encoding PD-1 within tumor cells and simultaneously triggering partial tumor cell apoptosis due to the self-cytotoxicity of VNP.
+Once excited by long-wavelength photons, IN on VNP-mPD-1@IN efficiently generates reactive oxygen species, which not only induces the apoptosis of tumor cells, but also triggers bacterial self-destruction to eliminate potential biosafety concerns.
+The apoptosis of tumor cells leads to considerable immunogenic cell death to reprogram immune environment, which is powered by PD-1-mediated immune checkpoint blockage.
+As a result, effective immuno-photodynamic therapy is realized to suppress the growth of primary and distant B16F10 tumors as well as prevent their metastasis.
+This study sheds light on the remolding of bacteria for effective cancer therapy.

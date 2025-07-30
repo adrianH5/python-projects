@@ -1,0 +1,7 @@
+Resistant tumor cell populations are common after cytostatic drugs treatment.
+To overcome resistance mechanisms artemisinin derivatives, known for its complementary use during cancer treatement and ferroptosis induction, were investigated both as single agents and in combination with cisplatin (3 µM) in a complex organotypic tissue model of non-small cell lung cancer (NSCLC) patient samples.
+All substances-artemisinin (ART, 100 µM), artemether (ATM, 50 µM), artesunate (ATS, 20 µM), and dihydroartemisinin (DHA, 10 µM)-showed beneficial effects in most of the investigated patient-derived tissue cultures (PDTC).
+Tumor proliferation was reduced by DHA and ATS in both, standalone treatment and in combination with cisplatin, surpassing the efficacy of single cisplatin supplementation.
+In combination with cisplatin tumor apoptosis increased in most of lung squamous cell carcinoma (LUSC) PDTC, but not in lung adenocarcinoma (LUAD).
+The enzyme GPX4, inhibiting ferroptosis was up-regulated in LUAD but not in LUSC.
+Taken together, in the complex PDTC model system, LUSC displayed a higher sensitivity to ART derivatives, due to the lack of GPX4-mediated resistance to ferroptosis.

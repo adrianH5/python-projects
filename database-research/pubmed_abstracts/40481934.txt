@@ -1,0 +1,6 @@
+Non-small cell lung cancer (NSCLC) accounts for 85% of all lung cancer cases.
+Lactylation, a lactate-driven post-translational modification, has been implicated in various tumor pathologies.
+This study aimed to investigate the role of histone H3 lysine 18 lactylation (H3K18la) in NSCLC progression.
+Western blot was performed to detect the protein levels of lactylation and H3K18la.
+Cell counting kit-8 (CCK-8), 5-ethynyl-2'-deoxyuridine (EdU), and Transwell migration assays were performed to detect the cell viability, proliferation, and migration.
+The 2-deoxy-2-[fluorine-18]fluoro-D-glucose (

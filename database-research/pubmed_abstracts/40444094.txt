@@ -1,0 +1,7 @@
+Head and Neck Squamous Cell Carcinoma (HNSCC), ranking among the six most prevalent malignancies worldwide, is characterized by significant heterogeneity.
+Conventional monotherapeutic approaches, including surgical intervention, radiotherapy, and chemotherapy, often fail to achieve complete tumor cell elimination, consequently leading to disease recurrence and metastatic progression.
+In this context, personalized immunotherapeutic strategies, particularly cancer vaccines and immune checkpoint inhibitors, have emerged as promising therapeutic modalities for patients with recurrent/metastatic (R/M) HNSCC.
+Neoantigens, which exhibit selective expression in tumor tissues while remaining absent in normal tissues, have garnered considerable attention as novel targets for HNSCC personalized immunotherapy.
+However, the marked heterogeneity of HNSCC, coupled with patient-specific HLA variations, necessitates precise technical identification and evaluation of neoantigens at the individual level-a significant contemporary challenge.
+This comprehensive review systematically explores the landscape of neoantigen-based immunotherapy in HNSCC, including neoantigen sources, screening strategies, identification methods, and their clinical applications.
+Additionally, it evaluates the therapeutic potential of combining neoantigen-based approaches with other immunotherapeutic modalities, particularly immune checkpoint inhibitors, providing valuable insights for future clinical practice and research directions in HNSCC treatment.

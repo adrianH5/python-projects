@@ -1,0 +1,3 @@
+The rapid emergence of highly transmissible and immune-evasive SARS-CoV-2 variants has required the reformulation of COVID-19 vaccines to target these evolving threats.
+Although previous infections and booster vaccinations can boost variant neutralisation, it remains uncertain whether monovalent vaccines-delivered via mRNA or protein-based platforms-can trigger novel B-cell responses specific to omicron XBB.1.5 variants.
+We sought to address this uncertainty by characterising the antibody repertoire of individuals receiving a monovalent booster vaccine.

@@ -1,0 +1,6 @@
+Circulating tumor DNA (ctDNA), a subset of cell-free DNA (cfDNA), originates from primary tumors and metastatic lesions in cancer patients, often carrying genomic variations identical to those of the primary tumor.
+ctDNA analysis via liquid biopsy has proven to be a valuable biomarker for early cancer detection, minimal residual disease (MRD) assessment, monitoring tumor recurrence, and evaluating treatment efficacy.
+However, despite advancements in ctDNA analysis technologies, standardized protocols for its extraction and detection have yet to be established.
+Each step of the process-from pre-analytical variables to detection techniques-significantly impacts the accuracy and reliability of ctDNA analysis.
+This review examines recent developments in ctDNA detection methods, focusing on pre-analytical factors such as specimen types, collection tubes, centrifugation protocols, and storage conditions, alongside high-throughput and ultra-sensitive detection technologies.
+It also briefly discusses the clinical potential of liquid biopsy in nasopharyngeal carcinoma (NPC).

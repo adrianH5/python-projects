@@ -1,0 +1,9 @@
+FAT1 is a tumor suppressor gene encoding the protocadherin FAT1, which has been found to be mutated in different types of human cancers with the highest frequency in head and neck squamous cell carcinoma (HNSCC).
+However, through which mechanisms mutations of FAT1 lead to tumor progression is incompletely understood.
+Here, we report that loss of FAT1 in various tumor cells, including HNSCC cells, resulted in increased protein levels of the transcriptional regulators YAP and TAZ.
+This was sufficient to lead to increased expression of YAP/TAZ target genes and to increased tumor cell proliferation.
+We found that elevated YAP/TAZ activity after loss of FAT1 was due to decreased YAP/TAZ protein degradation, which could be rescued by expression of the intracellular part of FAT1.
+When analyzing the interactome of the cytoplasmic part of FAT1 in tumor cells, we identified the E3 ubiquitin ligase Mind Bomb-2 (MIB2) as an interaction partner.
+Suppression of MIB2 expression in various tumor cells led to same effects as loss of FAT1 expression, including a decrease in YAP and TAZ ubiquitination, and degradation as well as an increase in YAP/TAZ protein levels and expression of YAP/TAZ target genes.
+Similarly, Hela cells or HNSCCs with suppressed MIB2 expression resembled FAT1 defective tumor cells showing faster proliferation in vitro as well as increased tumor growth in vivo compared to control cells.
+Our study identifies a mechanism by which YAP/TAZ levels are kept low through FAT1/MIB2-mediated protein degradation and shows that tumor progression resulting from mutation of tumor suppressor FAT1 involves loss of MIB2-dependent degradation of YAP and TAZ.

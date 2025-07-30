@@ -1,0 +1,7 @@
+Adjuvants are essential for effective vaccine formulation, but currently only a few adjuvants with limited efficacies and application scopes are available.
+To address this issue, we explored covalent conjugates of monophosphoryl lipid A (MPLA) and 2,4-dinitrophenylamine (DNPA) as a new type of adjuvant.
+Immunological studies in mice prove that MPLA-DNPA conjugates can help a model vaccine induce robust IgG antibody and adaptive immune responses against carbohydrate and protein antigens and are much more potent adjuvants than alumthe positive controland the MPLA + DNPA mixture.
+Detailed profiling and comparison of the cytokines/chemokines elicited by various adjuvants suggest that the MPLA-DNPA conjugates can activate macrophages, monocytes, dendritic, T, T helper, and other immune cells to promote cellular immunity against vaccines.
+The results suggest a synergistic effect of covalently linked MPLA and DNPA, which act via interacting with the Toll-like receptor and recruiting endogenous anti-DNPA antibodies, respectively.
+Moreover, the linker between MPLA and DNPA shows a major impact on this synergistic effect, especially for the carbohydrate antigen.
+Eventually, the MPLA-DNPA conjugate with a longer linker containing a triazole moiety is identified as a promising adjuvant for both carbohydrate and protein vaccines worthy of further research and development.

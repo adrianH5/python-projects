@@ -1,0 +1,9 @@
+Proteins operate within dense interconnected networks, with interactions necessary both for stabilising proteins and enabling them to execute their molecular functions.
+Remarkably, protein-protein interaction networks operating within tumour cells continue to function despite widespread genetic perturbations.
+Previous work has demonstrated that tumour cells tolerate perturbations of paralogs better than perturbations of singleton genes, but the underlying mechanisms remain poorly understood.
+Here, we systematically profile the proteomic response of tumours and cell lines to gene loss.
+We find many examples of proteomic compensation, where loss of one gene causes increased abundance of a paralog, and collateral loss, where gene loss causes reduced paralog abundance.
+Compensation is enriched among paralog pairs that are central in the protein-protein interaction network and whose interaction partners perform essential functions.
+Compensation is also significantly more likely to be observed between synthetic lethal pairs.
+Our results support a model whereby loss of one gene results in increased protein abundance of its paralog, stabilising the protein-protein interaction network.
+Consequently, tumour cells may become dependent on the paralog for survival, creating potentially targetable vulnerabilities.

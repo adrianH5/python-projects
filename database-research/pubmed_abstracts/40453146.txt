@@ -1,0 +1,5 @@
+In the last few years, whole-transcriptome sequencing has shown a high number of low-frequency fusion transcripts (FTs) involved in acute myeloid leukemia (AML) pathogenesis.
+Most of them are not identifiable through conventional diagnostic techniques.
+In this research, using RNA sequencing, we have investigated FTs in 109 cases of AML without recurrent genetic abnormalities (as defined by the fourth edition of the World Health Organization Classification of Hematolymphoid Tumours).
+We identified and validated 6 well-known AML-causing FTs (Tier-1), 9 FTs in which recurrently affected genes in AML were involved (Tier-2), and 4 Tier-3 FTs, along with other FTs found in healthy tissue databases (Tier-4).
+We highlighted 2 previously unknown FTs (

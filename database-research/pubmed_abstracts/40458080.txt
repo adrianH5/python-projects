@@ -1,0 +1,11 @@
+Renal cell carcinoma (RCC) is a common urological cancer.
+Resveratrol, a natural plant polyphenol, has demonstrated antitumor efficacy in various human cancers.
+Despite its recognized potential, the specific impact of resveratrol on RCC remains unclear.
+This study aimed to ascertain the potential of resveratrol in suppressing RCC progression and to elucidate the intricate molecular mechanisms governing its effects.
+The CCK8 assay outcomes indicate that resveratrol inhibits RCC cell viability in a dose-dependent manner.
+Transwell and wound healing assays confirmed the inhibitory effects of resveratrol on RCC cell invasion and migration.
+Flow cytometry further demonstrated that resveratrol induced apoptosis in RCC cells.
+Additionally, in vivo experiments have established the ability of resveratrol to impede RCC tumor growth.
+Mechanistically, resveratrol exhibits its inhibitory influence on RCC cells by downregulating PRDX4 expression, consequently weakening the Wnt/β-catenin pathway.
+These findings gain support from experiments utilizing a Wnt/β-catenin pathway activator.
+In summary, our results suggest that resveratrol impedes the progression of RCC by inhibiting the Wnt/β-catenin signaling pathway via the downregulation of PRDX4.PRDX4.

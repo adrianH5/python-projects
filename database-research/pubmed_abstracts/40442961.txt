@@ -1,0 +1,6 @@
+Metal naphthalocyanine (MNc) is one of the most promising near-infrared (NIR) dyes as a photosensitizer for phototheranostics, combining photoacoustic imaging (PAI) and photothermal therapy (PTT).
+However, the extremely low solubility of MNc has limited its practical application as a theranostic agent.
+In this research, we synthesized NiNc precursors (ox-NiNc) having two alkoxy groups on the α-carbons of the diagonal pyrroles with significantly improved solubility.
+We also prepared an amphiphilic derivative, ox-NiNc-PEG, and investigated its conversion to NiNc through reductive aromatization.
+We demonstrated that ox-NiNc-PEG was efficiently converted to NiNc in cancer cells with elevated glutathione levels, resulting in enhanced photoacoustic signals and increased phototoxicity based on photothermal conversion under NIR light irradiation.
+The target-oriented reductive aromatization in response to the reducing environment in cancer cells offers a critical strategy for developing PAI/PTT theranostic agents.

@@ -1,0 +1,11 @@
+Estrogen receptor-positive (ER+) breast cancer (BC) comprises over 70% of breast cancers and is the leading cause of BC-related deaths in women worldwide.
+Despite available therapies targeting ER in BC, recurrence occurs in many patients due to therapeutic resistance.
+Semaphorin 7a (SEMA7A) is a biomarker associated with poor prognosis and endocrine therapy resistance for BC patients.
+Survival analyses of ER+ BC patients on endocrine therapy confirm early recurrence in patients with SEMA7A+ tumors.
+Thus, we aim to establish novel treatment strategies to improve outcomes for patients with ER+ SEMA7A+ BC.
+In this paper we investigate the mechanisms by which SEMA7A promotes resistance to endocrine therapy and its potential as a therapeutic target for ER+ BC.
+Our studies suggest that SEMA7A binds to integrins β1 and β4 and activates AKT mediated pro-survival signaling via its RGD domain.
+Using syngeneic ER+ models, tumors in were treated with PI3K inhibitors (20mg/kg alpelisib; 10mg/kg GCT-007), alone or in combination with tamoxifen (0.5 mg/100uL peanut oil), which resulted in decreased tumor growth.
+Tumors were also treated with a combination of an anti-SEMA7A antibody (SmAbH1) (100-250mg/kg) and fulvestrant (83mg/kg), compared to single agents.
+Our results demonstrate that direct inhibition of SEMA7A via SmAbH1 significantly reduces tumor growth of SEMA7A+ tumors, and the combination with fulvestrant may be even more effective.
+Our studies suggest that patients with ER+SEMA7A+ tumors should be candidates for PI3K-targeted therapies or anti-SEMA7A-based therapy.

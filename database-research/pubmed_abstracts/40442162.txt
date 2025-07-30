@@ -1,0 +1,13 @@
+This study examines the associations between physical activity (PA) and all-cause mortality (ACM), cause-specific mortality (cancer, cardiovascular disease), and premature mortality, with a focus on the mediating role of insulin resistance.
+Data from the National Health and Nutrition Examination Survey (NHANES) were analyzed, including 8,460 participants.
+PA was quantified in metabolic equivalents (MET-h/week) and categorized into four groups: no physical activity (NOPA), low-level PA (LLPA), moderate-level PA (MLPA), and high-level PA (HLPA).
+Cox regression, restricted cubic splines, and Kaplan-Meier survival curves assessed the associations between PA and mortality risks.
+Mediation analysis evaluated the role of insulin resistance.
+With a median follow-up of 6.3 years, 1,147 all-cause deaths, 321 cardiovascular deaths, 274 cancer deaths, and 441 premature deaths.
+Compared to the NOPA group (0 MET-h/week), the LLPA (MET < 10 h/week), MLPA (10 ≤ MET < 50 h/week), and HLPA (≥ 50 MET-h/week) groups showed significant reductions in all-cause mortality risk by 39% (HR = 0.61, 95% CI: 0.51-0.73), 44% (HR = 0.56, 95% CI: 0.48-0.66), and 57% (HR = 0.43, 95% CI: 0.35-0.52), respectively.
+Similarly, for cardiovascular disease mortality, the risk reductions were 49% (HR = 0.51, 95% CI: 0.36-0.71), 51% (HR = 0.49, 95% CI: 0.37-0.64), and 52% (HR = 0.48, 95% CI: 0.35-0.66) across the three PA groups.
+In terms of cancer mortality risk, only the HLPA group showed a statistically significant 50% reduction (HR = 0.50, 95% CI: 0.34-0.74), while the LLPA and MLPA groups demonstrated non-significant reductions of 29% and 16%, respectively.
+A nonlinear dose-response relationship was observed for PA and mortality.
+Mediation analysis revealed that HOMA-IR mediated 22.1% (P = 0.022), 16.7% (P = 0.002), 15.7% (P = 0.030), and 10.1% (P = 0.058) of the association ACM, cause-specific mortality, and premature mortality, respectively.
+This study highlights the protective effects of PA in reducing the risks of ACM, cause-specific mortality, and premature mortality, particularly in patients with metabolic syndrome.
+Insulin resistance plays a significant mediating role in these relationships, underscoring the importance of targeting both PA and insulin resistance in interventions to reduce mortality risks in metabolic syndrome patients.

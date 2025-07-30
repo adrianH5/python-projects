@@ -1,0 +1,6 @@
+Resistance to androgen receptor (AR)-targeted therapies, such as enzalutamide, in castration-resistant prostate cancer (CRPC) remains a significant clinical challenge, often driven by mechanisms including lineage plasticity.
+The precise molecular mechanisms driving this process, particularly downstream effectors, remain incompletely understood.
+Given its established roles in cell fate and stemness, alongside its complex functions in prostate cancer, the Notch signaling pathway presented a compelling focus for study.
+This study investigates the role of Notch signaling in mediating lineage plasticity and therapeutic resistance in CRPC.
+Employing transcriptomic analysis and functional assays, we identified Notch activity is elevated across prostate cancer progression resistance.
+Notably, both CRISPR-mediated knockout and targeted inhibition of Notch reversed enzalutamide resistance

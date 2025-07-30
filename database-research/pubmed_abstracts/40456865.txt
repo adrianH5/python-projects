@@ -1,0 +1,6 @@
+Mucoepidermoid carcinoma (MEC) is the most frequently occurring salivary gland malignancy.
+Here, we investigated transcriptomic profiles of human fetal and adult salivary glands and MEC tumors to assess programs involved in MEC progression.
+Molecular and genetic analyses revealed that MEC tumors and fetal salivary glands share proliferative and developmental gene expression profiles that implicate an FGFR-p53 signaling axis in salivary MEC progression.
+Based on these findings, we developed a genetically engineered mouse model of advanced MEC via targeted expression of the CRTC1-MAML2 oncogene in salivary ductal cells.
+Specifically, CRTC1-MAML2 expression combined with p53 dysregulation in salivary ducts rewires FGF signaling to drive formation of tumors with histological and molecular features of high-grade MEC.
+The combined bioinformatics and mouse modeling of this study demonstrate that salivary MEC progression is underpinned by reactivation of developmental signaling programs and suggests a role for FGFR targeted therapies in the treatment of high-grade MEC.

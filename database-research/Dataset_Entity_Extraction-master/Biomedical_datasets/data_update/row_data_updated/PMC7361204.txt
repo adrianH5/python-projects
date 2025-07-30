@@ -1,0 +1,23 @@
+The novel coronavirus disease (COVID‐19) has spread worldwide, resulting in numerous cases of morbidity and death.
+Generally, COVID‐19 has an incubation period of 2–7 days,[
+Therefore, early accurate diagnosis and isolation of patients is key to controlling the COVID‐19 pandemic.
+Therefore, nucleic acid detection continues to be the gold standard for COVID‐19 diagnosis, with several such methods having been employed for detection of the COVID‐19 causative virus, SARS‐CoV‐2.[
+] which can facilitate infection transmission through delayed patient isolation and treatment, resulting in continued COVID‐19 spread.
+] Additional new methods based on isothermal PCR amplification are also available, such as Abbott's ID Now instrument, which can interpret results in minutes.
+] Cross‐infection during the diagnosis process both propagates the spread of SARS‐CoV‐2 and subjects COVID‐19 patients to other respiratory viruses.
+However, detection of virulence mutations, virus typing, and epidemiological analysis are critical for the prevention and control of COVID‐19.
+To test the SARS‐CoV‐2 detection efficiency by NTS, we used standard plasmids harboring COVID‐19 virus S and N genes to simulate SARS‐CoV‐2.
+Evaluation of the target distribution of the datasets revealed that in higher‐copy samples (1000 and 3000 copies per reaction), all targeted regions were detected (Figure 2c,d).
+The samples were divided into two groups: i) 45 nasopharyngeal swabs from outpatients with suspected COVID‐19 early in the epidemic (January 2020), for whom detailed records and suitable clinical data were unavailable, preventing us from confirming SARD‐CoV‐2 infection.
+ii) 16 nasopharyngeal swabs from hospitalized patients who had been diagnosed with COVID‐19 by clinicians through comprehensive results of nucleic acid tests, chest computed tomography scans, blood tests, and clinical symptoms and, hence, for whom nucleic acid samples tested positive for SARS‐CoV‐2.
+Therefore, we next evaluated samples retained from hospitalized patients with confirmed COVID‐19 subjected to RT‐qPCR testing (kit 1, Figure 1) on February 11 and 12, 2020.
+These results suggest that NTS could identify positive COVID‐19 infected cases, seems has higher identification ability than RT‐qPCR.
+Furthermore, genome wide allele frequency analysis (Experimental Section) of 50 NTS positive samples, as well as 1145 recently published (before March 24, 2020) SARS‐CoV‐2 genomes from the GISAID database[
+] also indicated a common SNP at position 28144 (Figure 7a), with a similar allele frequency (26.7% of NTS and 28.3% of GISAID).
+To verify the ability of NTS to detect SARS‐CoV‐2 and other respiratory viruses within a single assay, 13 of the 45 suspected COVID‐19 outpatient samples were subjected to simultaneous detection analysis.
+] was used to map the reads of each sample against the virus genome reference database.
+All virus genomic sequences were downloaded on January 20, 2020, from NCBI Refseq FTP (http://ftp.ncbi.nlm.nih.gov/refseq/release/viral/); the SARS‐CoV‐2 genome was added to the BLAST database because the genome was not collected in the virus Refseq database prior to January 20, 2020.
+The ongoing global novel coronavirus pneumonia COVID‐19 outbreak has engendered numerous cases of infection and death.
+COVID‐19 diagnosis relies upon nucleic acid detection; however, currently recommended methods exhibit high false‐negative rates and are unable to identify other respiratory virus infections, thereby resulting in patient misdiagnosis and impeding epidemic containment.
+Parallel testing with approved real‐time reverse transcription‐polymerase chain reaction kits for SARS‐CoV‐2 and NTS using 61 nucleic acid samples from suspected COVID‐19 cases show that NTS identifies more infected patients (22/61) as positive, while also effectively monitoring for mutated nucleic acid sequences, categorizing types of SARS‐CoV‐2, and detecting other respiratory viruses in the test sample.
+NTS is thus suitable for COVID‐19 diagnosis; moreover, this platform can be further extended for diagnosing other viruses and pathogens.

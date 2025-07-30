@@ -1,0 +1,8 @@
+Chromosomal instability (CIN) is a hallmark of prostate cancer that strongly correlates with metastatic burden and appears prominently in both primary cancer and metastatic disease.
+Low Gleason score primary prostate tumors display pervasive centrosome loss, a known mechanistic driver of CIN, that disrupts normal spindle assembly and increases mitotic errors.
+Previously, we found that transient depletion of centrosomes in immortalized, non-tumorigenic prostate epithelial cells (PrEC) induced a burst of CIN, generating cell lines capable of forming xenograft tumors.
+Here, we use a multi-omics approach to identify the oncogenic alterations caused by transient centrosome loss.
+By integrating genomic and transcriptomic data of the prostate lines, we identified a consensus set of focal copy-number variations (CNVs) induced by centrosome loss in cultured cells that are also detectable within a subset of samples from a prostate cancer patient cohort.
+Using this CNV signature, we were able to derive a unique transcriptomic signature from prostate cancer patient samples that showed strong predictive value for adverse clinical outcomes.
+In summary, our experimental system uses centrosome loss to promote a punctuated burst of genomic crisis that is characteristic of genome evolution during prostate cancer progression.
+Consequently, this prostate cancer model produced recurrent structural variations that are detectable in patient samples and associate with worse outcomes.

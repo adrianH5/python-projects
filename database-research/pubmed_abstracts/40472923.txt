@@ -1,0 +1,14 @@
+Transarterial chemoembolization (TACE) is an effective locoregional treatment for unresectable hepatocellular carcinoma (HCC).
+Arterial administration can enhance local drug concentrations while reducing systemic toxicity.
+The potential synergistic effects of combining locoregional treatments with systemic therapy in advanced HCC warrant further investigation.
+This phase 2 study (NCT04796025) aimed to evaluate the efficacy and safety of TACE combined with intra-arterial infusion of sintilimab and bevacizumab in patients with advanced HCC.
+Eligible patients received TACE on demand plus intra-arterial infusion of sintilimab and bevacizumab for four cycles.
+Maintenance therapy included intravenous administration of sintilimab and bevacizumab until disease progression or unacceptable side effects.
+The primary outcome was the objective response rate (ORR) based on the modified Response Evaluation Criteria in Solid Tumors (mRECIST).
+A total of 34 patients (median age, 53 years [IQR 45-59]; 33 men) were enrolled.
+With a median follow-up of 10.3 months (IQR 5.8-15.6), our results showed a favorable ORR of 70.6 %.
+The median PFS was calculated as 6.0 months (95 % CI 4.8 - not reached), and the median OS was 12.2 months (95 % CI 9.3 - not reached).
+Common treatment-related adverse events (any grade) included elevated alanine transaminase (17.6 %), abdominal pain (14.7 %), elevated aspartate aminotransferase (11.8 %), and hypertension (11.8 %).
+Grade 3 adverse events included hypertension (2.9 %) and gastrointestinal hemorrhage (8.8 %).
+No serious treatment-related adverse events were observed.
+TACE combined with sintilimab and bevacizumab has demonstrated a favorable ORR and promising efficacy in advanced HCC, with manageable side effects.

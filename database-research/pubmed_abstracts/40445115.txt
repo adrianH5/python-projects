@@ -1,0 +1,11 @@
+Active surveillance (AS) using repeated biopsies to monitor disease progression has been a popular alternative to immediate surgical intervention in cancer care.
+However, a biopsy procedure is invasive and sometimes leads to severe side effects of infection and bleeding.
+To reduce the burden of repeated surveillance biopsies, biomarker-assistant decision rules are sought to replace the fix-for-all regimen with tailored biopsy intensity for individual patients.
+Constructing or evaluating such decision rules is challenging.
+The key AS outcome is often ascertained subject to interval censoring.
+Furthermore, patients will discontinue participation in the AS study once they receive a positive surveillance biopsy.
+Thus, patient dropout is affected by the outcomes of these biopsies.
+This work proposes a non-parametric kernel-based method to estimate a tailored AS strategy's true positive rates (TPRs) and true negative rates (TNRs), accounting for interval censoring and immediate dropouts.
+We develop a weighted classification framework based on these estimates to estimate the optimally tailored AS strategy and further incorporate the cost-benefit ratio for cost-effectiveness in medical decision-making.
+Theoretically, we provide a uniform generalization error bound of the derived AS strategy, accommodating all possible trade-offs between TPRs and TNRs.
+Simulation and application to a prostate cancer surveillance study show the superiority of the proposed method.

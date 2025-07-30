@@ -1,0 +1,8 @@
+Clinical adoption of digital pathology-based artificial intelligence models for diagnosing lung cancer has been limited, partly due to lack of robust external validation.
+This review provides an overview of such tools, their performance and external validation.
+We systematically searched for external validation studies in medical, engineering and grey literature databases from 1st January 2010 to 31st October 2024.
+22 studies were included.
+Models performed various tasks, including classification of malignant versus non-malignant tissue, tumour growth pattern classification and subtyping of adeno- versus squamous cell carcinomas.
+Subtyping models were most common and performed highly, with average AUC values ranging from 0.746 to 0.999.
+Although most studies used restricted datasets, methodological issues relevant to the applicability of models in real-world settings included small and/or non-representative datasets, retrospective studies and case-control studies without further real-world validation.
+Ultimately, more rigorous external validation of models is warranted for increased clinical adoption.

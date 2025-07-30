@@ -1,0 +1,2 @@
+Adjuvant chemotherapy provides a limited survival benefit (<5%) for patients with stage II colorectal cancer (CRC) and is suggested for high-risk patients.
+Given the heterogeneity of stage II CRC, we aimed to develop a clinically explainable artificial intelligence (AI)-powered analyser to identify radiological phenotypes that would benefit from chemotherapy.

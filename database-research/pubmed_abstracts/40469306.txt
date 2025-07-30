@@ -1,0 +1,7 @@
+Idiopathic pulmonary fibrosis (IPF) is a fatal interstitial lung disease characterized by progressive scarring, alveolar destruction, and limited therapeutic options.
+Although the exact etiology of IPF remains unclear, emerging evidence suggests that ferroptosis, an iron-dependent form of regulated cell death driven by lipid peroxidation and oxidative stress, plays a significant role in its pathogenesis.
+Ferroptotic stress not only compromises alveolar epithelial cell integrity, but also triggers inflammatory responses and profibrotic signaling cascades that activate and sustain fibroblast dysfunction.
+This review delineates the core regulatory pathways of ferroptosis, iron metabolism, lipid peroxidation, antioxidant defenses, mitochondrial remodeling, and RNA editing, with an emphasis on their relevance in IPF.
+We explore how epithelial injury and macrophage-derived signals initiate ferroptosis, and how fibroblast subsets, shaped by scRNA-seq-defined heterogeneity and plasticity, respond to these cues by reinforcing ECM deposition and oxidative stress.
+Therapeutic avenues targeting ferroptosis, including antioxidant supplementation, iron chelation, and modulation of lipid metabolism, are discussed alongside cell-specific interventions and nanodelivery strategies.
+By integrating recent advances in molecular profiling and ferroptosis biology, this review provides a framework for leveraging ferroptosis as a tractable target in IPF and identifies novel directions for precision antifibrotic therapy.

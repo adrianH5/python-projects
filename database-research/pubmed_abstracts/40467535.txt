@@ -1,0 +1,8 @@
+Carcinogenic polycyclic aromatic hydrocarbons (PAHs) are primarily released unintentionally.
+Exposure to PAHs is linked to increased cancer incidences.
+Here, we present a fully updated global emissions inventory of 30 parent PAHs from 1960 to 2021.
+With the availability of recently emerged important data sources, substantial improvements are achievable.
+Among the 147 sources quantified, over 90% originate from fewer than 10 major sources, particularly in the residential and industrial sectors.
+The temporal trend of emissions exhibits an inverse-U shape, positively influenced by energy consumption, population growth, and the production of coke, metals, and others, while negatively affected by energy transition, the phasing out of outdated production capacities, and end-of-pipe mitigation.
+Nonpriority dibenzopyrenes significantly contribute to overall toxicity.
+A notable correlation between BaP equivalent carcinogenicity (BaPeq) and all compounds, including benzo(a)pyrene (BaP), was revealed; BaP can represent the PAH mixture for toxicity from a global perspective, but care should be taken for different regions due to significant variations in source patterns and congener profiles.

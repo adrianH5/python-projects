@@ -1,0 +1,14 @@
+It is worth mentioning that each Baltimore’s group is represented in the human, non-human primate, avian and fish viral sequence data sets, albeit in different proportions (Fig 3A).
+This depletion is shared in all viral datasets while the NTC depletion is specific to a subpopulation of human and non-human primate viral sequences.
+The APOBEC family of genes also counts the AID (or AICDA), APOBEC1, APOBEC2 and APOBEC4 genes.
+AID is critical for somatic hypermutation and class switch recombination by editing the immunoglobulin loci in B cells [39].
+Importantly, APOBEC1 and AID appear also to participate to the restriction of viruses and retroelements [1,42].
+Evidence for AID and APOBEC1 evolutionary footprints were investigated by looking for the depletion of their favored motifs, respectively WRC for AID [43] and WCW for APOBEC1 [44].
+The distributions of the WRC and NNGYWN ratios do not point towards viruses significantly footprinted by AID at the whole genome level (S10B Fig).
+Nevertheless, putatively AID-footprinted genes were identified in several double strand DNA viruses, notably the B-cell-infecting virus EBV (S10C Fig).
+Finally, we identified several AID-footprinted genes in the EBV genome which supports recent observations made by Martinez et al. [33].
+Those genes are not spatially clustered and further investigation would be necessary to link the detected footprint to AID activity.
+We downloaded complete viral genomes from the “NCBI Virus” database (https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/) as released in April 2020.
+We retrieved non-human primate viruses by selecting “Primate” for the criterion “Host” and by deducting the human viruses from this data set.
+The dataset of Human viruses was supplemented by manually curated human virus complete genome sequences from the “NCBI nucleotide” database.
+GenBank accession ID’s are treated as unique and listed in the S1, S2 and S3 Tables.

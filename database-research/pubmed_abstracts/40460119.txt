@@ -1,0 +1,3 @@
+Recent approvals of polymeric adenosine diphosphate ribose (poly(ADP-ribose) polymerase inhibitors (PARPi) for BRCA-mutant metastatic castration resistant prostate cancer necessitate an understanding of the factors that shape sensitivity and resistance.
+Reversion mutations that restore homologous recombination (HR) repair are detected in ~50 to 80% of BRCA-mutant patients who respond but subsequently relapse, but there is currently little insight into why only ~50% of BRCA-mutant patients display upfront resistance.
+To address this question, we performed a genome-wide CRISPR screen to identify genomic determinants of PARPi resistance in murine

@@ -1,0 +1,8 @@
+Chest x-ray imaging is widely used for the diagnosis of chest diseases but has low sensitivity for detecting pulmonary nodules due to anatomical overlaps.
+Dual-energy subtraction (DES) imaging can improve nodule visibility by reducing bone obscuration.
+This study aims to evaluate the image quality of a new one-shot DES (OSDES) system with a dual-layer flat-panel detector compared with the widely used two-shot DES (TSDES) system.
+Chest phantom images of various simulated nodules (8,10, and 12 mm) were acquired using both DES systems at several exposure doses, lung regions, and two types of body sizes (standard and large).
+Independent observers evaluated the visibility of the nodules under each condition using visual grading analysis scores (VGASs).
+The VGASs of OSDES images were significantly higher than those of TSDES images across all nodule sizes, lung regions, exposure doses, and body sizes, except for the standard chest phantom with a 10-mm nodule and without ribs.
+In particular, the VGAS of an 8-mm nodule in the region with one overlapping rib of the standard sized phantom was 2.46 with OSDES and 1.03 with TSDES, with the visibility of the nodule being significantly improved with the OSDES system.
+Thus, the OSDES system, using a dual-layer flat-panel detector and one exposure, offers superior visibility of pulmonary nodules with reduced dose compared with the TSDES system, suggesting its potential for improved clinical diagnosis without motion artifacts.

@@ -1,0 +1,3 @@
+We report the first turn-on lanthanide luminescent probe for time-gated detection of liver cancer biomarker β-glucuronidase.
+This innovative assay offers unprecedented rapidity, simplicity, and sensitivity, requiring minimal sample volumes and boasting exceptionally low detection limits (LOD of 40 ng/mL).
+The protocol was simplified and made "instrument-free" by developing TbCh gel-immobilized paper sensors and measuring the luminescence response after enzyme addition using ImageJ software.

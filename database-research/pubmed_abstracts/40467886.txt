@@ -1,0 +1,7 @@
+Artificial intelligence (AI), particularly large language models (LLMs), is increasingly integrated into mental health care.
+This study examined racial bias in psychiatric diagnosis and treatment across four leading LLMs: Claude, ChatGPT, Gemini, and NewMes-15 (a local, medical-focused LLaMA 3 variant).
+Ten psychiatric patient cases representing five diagnoses were presented to these models under three conditions: race-neutral, race-implied, and race-explicitly stated (i.e., stating patient is African American).
+The models' diagnostic recommendations and treatment plans were qualitatively evaluated by a clinical psychologist and a social psychologist, who scored 120 outputs for bias by comparing responses generated under race-neutral, race-implied, and race-explicit conditions.
+Results indicated that LLMs often proposed inferior treatments when patient race was explicitly or implicitly indicated, though diagnostic decisions demonstrated minimal bias.
+NewMes-15 exhibited the highest degree of racial bias, while Gemini showed the least.
+These findings underscore critical concerns about the potential for AI to perpetuate racial disparities in mental healthcare, emphasizing the necessity of rigorous bias assessment in algorithmic medical decision support systems.

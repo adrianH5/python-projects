@@ -1,0 +1,8 @@
+T1	Repository 388 395	GenBank
+T2	AccessionNumber 414 422	M10036.1
+T3	Repository 470 473	PDB
+T4	AccessionNumber 479 483	2JK2
+T5	AccessionNumber 488 492	4UNK
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T3	Arg2:T5

@@ -1,0 +1,7 @@
+As a core mechanism regulating intracellular protein homeostasis, the dynamic equilibrium between ubiquitination and deubiquitination profoundly impacts the functionality and fate of target proteins.
+The Ovarian tumor domain (OTU) family, a vital subclass of deubiquitinating enzymes, comprises 16 members that mediate ubiquitin binding and hydrolysis through their characteristic OTU domain.
+Recent years have witnessed growing interest in OTU family members in oncology and immunology research.
+This review comprehensively elucidates the core mechanisms by which OTU members regulate tumor-associated signaling networks via substrate-specific deubiquitination.
+On one hand, they directly govern tumor cell proliferation, metastasis, and apoptosis by modulating the stability of key substrates.
+On the other hand, they orchestrate tumor progression through dynamic regulation of inflammatory intensity, immune response duration, and immune evasion mechanisms within the tumor microenvironment (TME), thereby constructing a multidimensional regulatory network in tumor development.
+These findings not only unveil the pivotal role of OTU family members in tumorigenesis and immune modulation but also establish a theoretical foundation for developing novel

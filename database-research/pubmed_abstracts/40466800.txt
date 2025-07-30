@@ -1,0 +1,9 @@
+The precise involvement of Guanine Nucleotide-Binding Protein-Like 3-Like Protein (GNL3L) in lung cancer progression and invasion remains unclear.
+In this study, we explored the impact and underlying mechanisms of GNL3L on the proliferation, migration, and invasion of lung adenocarcinoma (LUAD), and evaluated the therapeutic potential of targeting GNL3L.
+Inhibition of GNL3L expression led to a notable decrease in the in vitro proliferation, migration, and invasion of A549 and H1299 non-small cell lung cancer (NSCLC) cells.
+Meanwhile, GNL3L silencing could significantly reduce the tumor volume of the nude mice and improve the outcomes of tumor-bearing mice in vivo.
+Additionally, inhibition of GNL3L expression dramatically suppressed NF-κB activation and Slug, MMP2, and MMP9 expression.
+Overexpression of Slug or treatment of the GNL3L-deficient cells with NF-κB activator can partially restore the growth suppressed by GNL3L deficiency, and combined treatment with Slug overexpression and NF-κB activator could totally restore the suppressed cell growth caused by GNL3L deficiency.
+Moreover, the overexpression of MMP2 or MMP9 could partially enhance the reduced migration and invasion caused by GNL3L deficiency, and this GNL3L-deficiency-caused suppression of migration and invasion can be totally restored by the overexpression of MMP2 and MMP9 together.
+These results strongly indicated that GNL3L has the capability to activate the NF-κB and increase Slug, MMP2, and MMP9 expression, which in turn could stimulate the proliferation, migration, and invasion of lung cancer cells.
+NF-κB activation and Slug, MMP2, and MMP9 expression enhanced by GNL3L, leading to the promotion of proliferation, migration, and invasion of lung cancer cells, indicating the therapeutic implications and potential significance of these pathways in the progression and invasion of NSCLCs that overexpress GNL3L protein.

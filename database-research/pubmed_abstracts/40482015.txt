@@ -1,0 +1,11 @@
+Currently, research on ferroptosis-related prognostic models for gastric cancer is limited, whereas traditional predictive models often have a narrow perspective and low accuracy.
+In this study, we systematically analyzed the expression patterns of ferroptosis-related genes in patients with gastric adenocarcinoma and evaluated their prognostic value.
+Using data from The Cancer Genome Atlas (TCGA) and the FerrDb database, we developed a ferroptosis-related prognostic risk model based on four genes: hydroxycarboxylic acid receptor 1 (HCAR1), branched-chain amino acid transaminase 1 (BCAT1), ceruloplasmin (CP), and dickkopf-1 (DKK1).
+This model demonstrated strong prognostic value and potential clinical relevance in stratifying gastric cancer patients by overall survival outcomes.
+ferroptosis-related prognostic risk model.
+Compared to traditional clinicopathological features, the risk score derived from this model exhibited superior predictive accuracy for overall survival in patients with gastric cancer and served as an independent prognostic factor.
+Functional enrichment analysis revealed that the risk score was primarily enriched for extracellular matrix-related pathways.
+Additionally, the risk score was significantly correlated with TME signature genes, immune checkpoint expression, and immune cell infiltration in stomach adenocarcinoma (STAD).
+Mechanistic studies revealed that HCAR1 is abnormally overexpressed in gastric cancer tissues and is associated with a poor prognosis.
+It exerted its effects by regulating the GPX4/SLC7A11 axis to inhibit lipid peroxidation and malondialdehyde accumulation, thereby obstructing ferroptosis.
+Experimental validation demonstrated that the downregulation of HCAR1 promoted ferroptosis and suppressed malignant tumor phenotypes, suggesting that both the gene and its associated risk model hold significant clinical value as potential therapeutic targets and prognostic biomarkers.

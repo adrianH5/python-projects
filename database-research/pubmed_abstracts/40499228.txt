@@ -1,0 +1,8 @@
+The dysregulation of the microglia-neuron axis plays a pivotal role in the pathogenesis of cognitive dysfunction following traumatic brain injury (TBI).
+The C-C chemokine receptor 5 (CCR5), markedly upregulated on both microglia and neurons post-injury, serves as a crucial mediator in the neuroinflammatory response and consequent neurological deficits.
+However, the therapeutic application of CCR5 antagonists in TBI is impeded by the delivery barriers presented by the blood-brain barrier (BBB) and their limited neuron-targeting efficacy.
+In this study, we introduce a novel nasal-to-brain delivery nanoplatform designed to facilitate the efficient brain delivery of DAPTA, a peptide antagonist of CCR5, aiming to inhibit CCR5 signaling and improving cognitive function following TBI.
+Biocompatible chitosan nanocarriers grafted with cell-penetrating peptide (TAT) and neuron-binding lactoferrin (Lf) were initially fabricated, demonstrating substantial DAPTA loading capacity, active mucosal and neural transportation, and enhanced neuron-targeting capabilities.
+The dual-engineered nanodrugs (DA@LT NPs) effectively penetrated the trigeminal and olfactory nerves, significantly enhancing the transport of DAPTA into the brain following intranasal delivery.
+In a TBI-induced mouse model, DA@LT NPs markedly alleviated the neuroinflammatory response, promoted M2 microglia polarization, protected neurons from pyroptosis, and improved both motor and cognitive functions of animals.
+The non-invasive intranasal delivery of the therapeutic CCR5 peptide antagonist using these mucus-penetrating and neuron-targeting nanoformulations presents a promising intervention for ameliorating neurological inflammation and cognitive impairments associated with TBI.

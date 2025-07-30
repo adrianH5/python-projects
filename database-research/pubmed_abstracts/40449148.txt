@@ -1,0 +1,7 @@
+Nuclear receptors (NRs) include a family of 48 transcription factors (TFs) that regulate gene expression implicated in biological processes such as cell proliferation, differentiation, metabolism, and immune response.
+Cancer development has been widely linked to the dysregulation of NRs and their signaling pathways, providing promising targets for therapeutic applications.
+Recent progress in OMIC approaches and high-throughput drug screening has facilitated the emergence of biomolecules, especially phytochemicals, as potential substitutes for synthetic anti-cancer drugs.
+This review aims to highlight the anticancer potency of diverse classes of biocompounds that target NRs, including phytocompounds, dietary components, venom constituents, microbial metabolites, as well as many small molecules generated from computer-aided drug design (CADD) approaches in the design of innovative and safe treatments.
+We examine critically the preclinical and clinical trials investigating these candidates for preventing and treating cancer, focusing on their modes of action, their proven efficacy, and their limitations.
+In addition, we underline significant molecular processes modulated by these natural compounds, highlighting their ability to surmount drug resistance and minimize the toxic effects of standard treatments.
+Overall, we believe this work has the potential to pave the way for new paradigms in identifying innovative therapeutic options for NR-mediated management of specific types of cancer.

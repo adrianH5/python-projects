@@ -1,0 +1,2 @@
+Radiation-induced lymphopenia (RIL) is a significant side effect associated with radiation therapy (RT) with important prognostic implications.
+We developed and tested a normal tissue complication probability (NTCP) model for Grade 4 (G4) RIL in patients with locally advanced Non-Small-Cell Lung Cancer (NSCLC) who underwent concurrent chemotherapy and RT, analyzing data from patients enrolled in two clinical trials.

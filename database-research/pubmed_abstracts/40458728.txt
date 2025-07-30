@@ -1,0 +1,7 @@
+Advanced thyroid cancer, including papillary (PTC) and anaplastic thyroid cancer (ATC), are the leading causes of endocrine cancer deaths.
+Thus, there is a critical need to identify novel therapeutic targets to improve standard of care.
+Focal Adhesion Kinase (FAK) is overexpressed and phosphorylated in thyroid cancer and drives thyroid cancer growth, invasion, and metastasis.
+FAK is a nonreceptor tyrosine kinase that is autophosphorylated at tyrosine 397 (Y397) in response to integrin or growth factor receptor signaling, resulting in the recruitment of SRC proto-oncogene and downstream signaling pathways.
+FAK is predominately localized at the plasma membrane but has recently been shown to accumulate in the nucleus as well as the nucleolus to drive tumor growth.
+The nucleolus is a membraneless subnuclear organelle that is involved in ribosomal biogenesis through the transcription, processing, and assembly of ribosomal RNA (rRNA).
+The role of FAK in ribosome biogenesis is currently unknown.

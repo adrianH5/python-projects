@@ -1,0 +1,6 @@
+KRAS is a prominent oncogene mutated in a large number of human malignancies, particularly in pancreatic, colorectal, and lung tumors.
+We demonstrate here that KRAS, including its various activating mutants, is subjected to ubiquitin-mediated proteasomal degradation in cancer cells.
+Through a siRNA-based screening of deubiquitinases, we identified USP25 as a deubiquitinase for KRAS.
+Depleting USP25 expression increases ubiquitination and proteasomal degradation of KRAS, leading to the suppression of its oncogenic activity.
+We further show that USP25 inhibitors we have discovered are capable of destabilizing KRAS in cancer cells and are efficacious in blocking tumor xenograft growth in mice.
+These findings provide evidence supporting the notion that targeting the deubiquitinase USP25 can effectively, albeit indirectly, suppress KRAS and potentially aid in the treatment of tumors driven by KRAS activating mutations.

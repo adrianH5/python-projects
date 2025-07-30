@@ -1,0 +1,4 @@
+To obtain recombinant Bacillus Calmette-Guérin (rBCG) containing an Epstein-Barr virus (EBV) fusion gene that can inhibit EBV-positive cancer, we obtained BZLF1 and EBNA1 cDNA and overlapped these sequences to assemble the fusion gene BFNA.
+Then, BFNA was inserted into pMV261, and pMV-BFNA was transfected into BCG-competent cells.
+Western blotting was performed to detect the target fusion protein, specific antibodies were detected in the serum via enzyme-linked immunosorbent assays (ELISAs), and spleen cell-specific cytokines were detected via enzyme-linked immunospot (ELISPOT) assays.
+Cytotoxic T lymphocyte (CTL) activity, tumor weight, tumor formation time, and mouse survival were determined in EBV-positive tumor cell (NPRC18) cancer models, and flow cytometry was performed to analyze the quantities of CD8

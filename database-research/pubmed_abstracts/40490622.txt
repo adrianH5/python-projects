@@ -1,0 +1,12 @@
+The impact of SARS-CoV-2 infection on thyroid cancer at the genomic level remains poorly understood.
+The purpose of our study was to determine whether significant DNA methylation changes occur in thyroid cancer tissues from patients with recent SARS-CoV-2 infection.
+Surgically resected normal thyroid and Papillary (PTC) tissues from three COVID-19-infected PTC patients (Cases) and three prepandemic PTC patients (Controls) were analyzed using DNA methylation EPIC arrays.
+Differentially methylated probes (DMPs) and differentially methylated regions (DMRs) were identified in normal thyroid and PTC tissues.
+Functional enrichment analysis was subsequently performed to explore the affected pathways.
+COVID-19-infected PTC tissues presented distinct DNA methylation profiles, with 6,848 DMPs in PTC tissues compared with 140 in normal thyroid tissues.
+SARS-CoV-2 infection did not significantly affect normal thyroid tissue by methylation.
+SARS-CoV-2 infection in PTC tissues was associated with hypermethylation of tumor suppressor genes (RUNX3, PAOX), the Wnt signaling pathway, the HOX gene family, cell adhesion-related genes and hypomethylation in response to virus-related genes.
+The key DMRs identified in PTC included GPR75, CCDC80, and ENTPD3, suggesting altered cell adhesion, tumor proliferation, and immune evasion.
+SARS-CoV-2 infection is linked to significant DNA methylation alterations in PTC tissues, with potential implications for tumor progression and aggressiveness.
+These findings suggest that COVID-19 may influence thyroid cancer biology.
+Further research is needed to validate these epigenetic modifications, establish causal relationships and determine their clinical relevance.

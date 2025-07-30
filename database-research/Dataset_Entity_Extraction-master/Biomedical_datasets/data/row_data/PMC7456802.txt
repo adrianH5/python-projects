@@ -1,0 +1,4 @@
+The coronavirus disease 2019 (COVID-19) is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which is an enveloped, non-segmented, positive-sense RNA virus (1).
+Developing a vaccine during or after the pandemic outbreaks is too slow to provide timely responses against COVID-19, and risks many lives.
+These changes could be incorporated into the four essential viral genes (S, N, M, and E). (2) These genes would then be subcloned individually into integrating gene delivery vehicles, such as lentiviral vectors (9) or transposons (10, 11).
+Lentiviral vectors could generate a stable cell line that is transgenic for the highly immunogenic antigenic determinants of COVID-19 (15), and would be able to continuously secrete VLPs into the culture media (16).

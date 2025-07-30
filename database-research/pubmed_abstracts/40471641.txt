@@ -1,0 +1,9 @@
+Lung cancer is a leading cause of cancer deaths worldwide and new therapeutic approaches are needed.
+This study investigates the efficacy of a new zinc oxide-based nanomedicine in a mouse model of heterotopic lung cancer.
+C57BL/6 mouse model with Lewis lung carcinoma (LL2) cells was used.
+The mice were treated with different doses of nanodrug, cisplatin, or phosphate-buffered saline.
+Tumor growth, metastasis, markers for oxidative stress, and immune responses, in particular the infiltration of CD8+ T cells, were examined.
+The nanodrug significantly reduced tumor size, inhibited metastasis, and improved survival compared to the control group.
+Moreover, no significant toxic effect was observed in hematological, biochemical and histopathological analyses.
+Furthermore, the nanodrug altered the tumor microenvironment in favor of immune system activation by modulating the level of oxidative stress and increasing CD8+ cell infiltration.
+The results show that this new nanomedicine may be a candidate for an effective treatment for lung cancer.

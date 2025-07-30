@@ -1,0 +1,9 @@
+Magnetic nanoparticle-based targeted hyperthermia, combined with chemotherapy, is a promising approach for cancer treatment.
+In this study, a targeted magnetic drug delivery system was developed, comprising doxorubicin (DOX), a [D-Trp6] luteinizing hormone-releasing hormone (LHRH) (Triptorelin) ligand, and a polyethylene glycol (PEG)-coated magnetite core, aiming to enhance cancer therapy efficacy.
+Fourier-transform infrared spectroscopy confirmed the conjugation of LHRH onto the PEG-coated Fe3O4 nanoparticles.
+Ultraviolet-visible spectroscopy was employed to assess drug loading, revealing a loading efficiency of 66%.
+The DOX-loaded, LHRH-tagged PEG-coated Fe3O4 nanoparticles were evaluated for their cytotoxic effects on A549 and MCF-7 cancer cell lines under three treatment modalities: thermotherapy, chemotherapy, and combined thermo-chemotherapy, both with and without the application of a magnetic field.
+Cell viability was assessed using the 2,5-diphenyltetrazolium bromide (MTT) assay.
+In A549 cells, the combined thermo-chemotherapy treatment at a DOX concentration of 10 μg/ml resulted in an 88% reduction in cell viability, outperforming chemotherapy alone (62%) and thermotherapy alone (47%).
+Similarly, in MCF-7 cells, the combined treatment at 8 μg/ml DOX led to a 91% reduction in viability, surpassing the effects of chemotherapy (57%) and thermotherapy (45%) individually.
+Additionally, the targeted DOX-loaded nanoparticles significantly elevated interferon-gamma production, indicating an enhanced immune response and increased cancer cell apoptosis.

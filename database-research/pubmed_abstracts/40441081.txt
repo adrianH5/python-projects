@@ -1,0 +1,15 @@
+Brachytherapy is a common treatment option for cervical cancer.
+An important step involved in brachytherapy is the delineation of organs at risk (OARs) based on computed tomography (CT) images.
+Automating OARs segmentation in brachytherapy has the benefit of both reducing the time and improving the quality of radiation therapy planning.
+This paper introduces a novel segmentation model named MFFUNet for the automatic contour delineation of OARs in cervical cancer brachytherapy.
+The proposed model employs a staged encoder-decoder structure, integrating the self-attention mechanism of Transformer with the CNN framework.
+A novel multi-features fusion (MFF) block with a cross-attention-guided feature fusion mechanism is also proposed, which efficiently extracts and cross-fuses features from multiple receptive fields, enriching the semantic information of the features and thus improving the performance of complex segmentation tasks.
+A private CT image dataset of 95 patients with cervical cancer undergoing brachytherapy is used to evaluate the segmentation performance of the proposed method.
+The OARs in the data consist of the bladder, rectum, and colon surrounding the cervix.
+The proposed model surpasses current mainstream OARs segmentation models in terms of segmentation accuracy.
+The mean Dice similarity coefficient (DSC) score of all three OARs has achieved 73.69%.
+Among them, the DSC score for the bladder is 92.65%, for the rectum is 66.55%, and for the colon is 61.86%.
+Moreover, we also conducted experiments on two common public thoracoabdominal multi-organ CT datasets.
+The excellent segmentation performance further demonstrates the generalization ability of our model.
+In conclusion, MFFUNet has demonstrated outstanding effectiveness in segmenting OARs for cervical cancer brachytherapy.
+By accurately delineating OARs, it enhances radiotherapy planning precision and helps reduce radiation toxicity, improving patient outcomes.

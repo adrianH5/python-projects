@@ -1,0 +1,6 @@
+Abiraterone, an active metabolite of abiraterone acetate, is used for the treatment of prostate cancer.
+Therapeutic drug monitoring (TDM) of abiraterone could improve treatment outcomes.
+However, its stability in plasma for only 4 hours at room temperature, is making the TDM implementation difficult in clinical practice.
+Stabilization experiments were performed in our laboratory using esterase inhibitors for the stabilization of abiraterone acetate in preclinical samples.
+The esterase inhibitor bis(4-nitrophenyl) phosphate (BNPP) stabilizes abiraterone acetate and abiraterone as well.
+Therefore, we investigated whether the esterase inhibitor BNPP could stabilize abiraterone in fresh human plasma.

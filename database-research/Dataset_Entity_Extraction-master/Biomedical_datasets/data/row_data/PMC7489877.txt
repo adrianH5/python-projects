@@ -1,0 +1,23 @@
+The rapid spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) across the globe has led to an outbreak of life-threatening respiratory disease, termed COVID-19 (Zhou et al., 2020; Zhu et al., 2020).
+While adults have suffered the highest rates of morbidity and mortality of COVID-19, children were thought to be spared (Dong et al., 2020; Ludvigsson, 2020).
+The concentration of this disease to regions of high local SARS-CoV-2 transmission but, with an onset weeks after the peak COVID-19 caseload, suggests MIS-C is a secondary consequence of SARS-CoV-2 infection.
+To estimate the average time between initial infection and MIS-C onset, we determined the temporal delay between peak COVID-19 and MIS-C admissions at our institution.
+We performed high-dimensional cytokine profiling of 92 analytes using the Olink platform to define the secreted immune response in MIS-C patient plasma and compared it with plasma from age-matched healthy controls, a pediatric patient treated with IVIG with an unrelated infection (urinary tract infection [UTI]), and cases of active pediatric and young adult COVID-19 infection that did not develop MIS-C.
+As otherwise healthy children rarely experience clinically apparent COVID-19 infections, we used samples from children with immunocompromising comorbidities (Pediatric COVID 1 and 3–6, details in Table S2) and one otherwise-healthy child (Pediatric COVID 2) who did experience acute COVID-19 infection.
+While some of these MIS-C cytokine signatures resembled that of acute or convalescent SARS-CoV-2 infection, a unique MIS-C cytokine profile could be distinguished from that of COVID-19.
+To more finely characterize the cytokine profile differences between MIS-C patients and pediatric COVID-19 patients, we conducted PCA analysis restricted to pediatric patients (Figure S3
+A).
+PC1 loading analysis identified components that separated the healthy pediatric controls from all disease patients, while PC2 resolved the profiles of pediatric COVID-19 and MIS-C (Figure 2H).
+Elevations in unique chemokines (CXCL5, CXCL11, CXCL1, and CXCL6) and cytokines (including IL-17A, CD40, and IL-6) appear to distinguish MIS-C patients from pediatric COVID-19 patients (Figure S3B).
+High-Throughput Cytokine Analysis of Pediatric Patient Samples, Related to Figure 2
+Next, we performed CyTOF (Cytometry by Time-Of-Flight)-based immunophenotyping on nine MIS-C patients, five age-matched healthy controls, and seven young adults with acute COVID-19 infection.
+These findings suggest that no active peripheral B or T expansion was underway at the time of sampling and distinguish MIS-C from acute COVID-19 for which an active bias toward effector populations was readily observed (Figures 3C and 3D).
+Among innate cells, CD56lo NK cells were also decreased in MIS-C but not in acute COVID-19 peripheral blood (Figure 3E), while non-classical monocytes and pDCs (plasmacytoid DC) frequencies were lower in both groups (Figure 3F).
+This antibody response demonstrated typical IgG class switching, absence of circulating IgM but elevated IgA, and effective virus neutralization, resembling, but not identical to, serologies from convalescent COVID-19 adults.
+Clinical criteria detailed in Table S1 were used to recruit and classify samples as MIS-C or pediatric COVID.
+Demographic and clinical data of recruited MIS-C patients and pediatric COVID patients are detailed in Tables 1 and S2.
+Samples related to young adults were obtained from the Mount Sinai Health System’s COVID-19 Biobank.
+Under the age of 35, found to be SARS-COV-2 positive by PCR test and classified with severe/moderate COVID-19.
+Diluted plasma was then incubated in a 1:1 volumetric ratio with SARS-CoV-2 virus (USA-WA1/2020; GenBank: MT020880) at a concentration of 100 TCID50 (50% tissue culture infectious dose) in 1 × MEM for 1 h at room temperature.
+Serology assays assessing plasma reactivity against SARS-CoV-2 spike protein were perfomed on samples from healthy patients (pediatric: N = 4, adults: N = 7), patients hospitalized for active COVID-19 (pediatric: N = 1, young adult: N = 4; adult: N = 3), convalescent COVID-19 patients (young adult: N = 2, adult: N = 6), active MIS-C patients (N = 9) and convalescent (recovered) MIS-C patients (N = 2; MIS-C 4 and MIS-C 7).
+Samples for mass cytometry analyses were performed on samples from age-matched healthy controls (n = 5), acute COVID infection in young adults (n = 7) and MIS-C patients (n = 9).

@@ -1,0 +1,7 @@
+Glioblastoma (GBM) is the most common primary brain cancer in adults and carries a median overall survival (OS) of 12-15 months.
+Effective therapy for recurrent GBM (rGBM) following frontline chemoradiation is a major unmet medical need.
+Here we report the dose escalation and exploration phases of a phase 1 trial investigating intracerebroventricular delivery of bivalent chimeric antigen receptor (CAR) T cells targeting epidermal growth factor receptor (EGFR) epitope 806 and interleukin-13 receptor alpha 2 (IL-13Rα2), or CART-EGFR-IL13Rα2 cells, in patients with EGFR-amplified rGBM.
+Primary endpoints included dose-limiting toxicity, determination of the maximum tolerated dose and recommended dose for expansion, and occurrence of adverse events.
+Secondary endpoints included objective radiographic response, duration of response, progression-free survival and OS.
+A total of 18 patients received CART-EGFR-IL13Rα2 cells.
+The maximum tolerated dose was determined to be 2.5 × 10

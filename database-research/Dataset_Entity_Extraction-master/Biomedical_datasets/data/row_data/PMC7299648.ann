@@ -1,0 +1,7 @@
+T1	Repository 1181 1228	COVID-19 Global Rheumatology Alliance (C19-GRA)
+T2	Repository 1351 1358	C19-GRA
+T3	URL 1585 1621	eular.org/eular_covid19_database.cfm
+T4	URL 1701 1733	rheum-covid.org/provider-global/
+T5	Repository 6835 6872	COVID-19 Global Rheumatology Alliance
+R1	hasAttr	Arg1:T2	Arg2:T3
+R2	hasAttr	Arg1:T2	Arg2:T4

@@ -1,0 +1,5 @@
+Radon gas, a significant source of indoor radiation exposure, poses serious health risks, particularly lung cancer.
+This study employs Computational Fluid Dynamics (CFD) using the ANSYS Fluent software to model the behaviour and distribution of radon gas in a laboratory space equipped with granite countertops.
+A three-dimensional model of the laboratory, including its geometry, ventilation rates, and radon exhalation sources, was developed to simulate radon concentrations, particularly at breathing height.
+Radon exhalation rate from the granite and other surfaces in the room was measured experimentally.
+Numerical results, validated by experimental measurements, revealed a 30% increase in average radon concentration following the installation of granite countertops with an exhalation rate of 6.5 Bq m

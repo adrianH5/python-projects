@@ -1,0 +1,17 @@
+Colorectal cancer is the third most common cancer worldwide.
+Elderly patients, typically defined as those over 70 years, face a heightened risk of developing colorectal cancer as they age, and the proportion of elderly individuals affected by cancer will continue to increase.
+However, the current guidelines lack optimal treatment recommendations for the elderly and there is a scarcity of clinical trial evidence of clinical trial evidence addressing rectal cancer in this group.
+Retrospective data was extracted from patients aged 18 and who underwent curative surgery for rectal cancer.
+A total of 71 patients were included and divided into two groups: an elderly group (EG), comprising patients aged over 70, and a younger group (YG).
+Age, sex, ASA score, comorbidities, surgical treatments and post-operative morbidity and mortality were extracted from patients 'files.
+The study population included 55 patients (77.46%) in the YG, and 16 patients (22.54%) in the EG.
+The cohort consisted of 30 men (42.3%) and 41 women (57.7%), with an average age of 57.1 ± 14.6.
+Comorbidities were present in 37 patients (52.1%), and 53 patients (74.6%) presented advanced-stage rectal cancer.
+Of the total cohort, 9 patients underwent primary surgery, while 62patients (87.3%) received neoadjuvant therapy.
+Laparoscopic surgery was employed in 63 patients (86.6%), with 8 cases (12.69%) of conversion to open surgery.
+Thirty-seven patients (52.1%) required stomas, of which 11 (16.7%) were definitive.
+Postoperative morbidity was higher in the EG (50%) compared to the YG (21.81%) with severe complication rate at 12.5% and 7.27%, respectively.
+Anastomotic leakage rate was similar in both groups (EG = 12.5% vs YG = 3.6.).
+However, the post-operative mortality rate was significantly higher in the EG (2.81% vs 0%).
+Within 90 days postoperatively, 6 readmissions were recorded, with a severe morbidity rate (Clavien-Dindo > 2) of 12.3% and a 90-day mortality of 4.2%.
+Curative surgery for rectal cancer in elderly patients appears to present more difficulties to manage preoperatively, and presents more postoperative mortality, requiring a tailored approach that considers the specific clinical features and functional status of this population.

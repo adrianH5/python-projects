@@ -1,0 +1,11 @@
+Breast cancer (BC) continues to be a major cause of cancer-related illness and death among women worldwide.
+Traditional treatments include surgery, radiation, hormone therapy, and chemotherapy, but these approaches often face challenges due to variability in patient response and adverse effects.
+This study investigated the relationship between gut microbiome diversity, community composition, and pathway analysis in women undergoing chemotherapy for BC (During Treatment-DT) compared to cancer-free controls (CFC).
+Using 16S rRNA amplicon sequencing, the study assessed alpha and beta diversity.
+Results showed differences in microbiome composition between DT and CFC samples, with Firmicutes being highly abundant in both groups.
+Core microbiome and correlation analysis at the phylum and genus levels identified significant microbiota.
+Specifically, the abundance of genera such as Pseudomonas and Akkermansia decreased, while Ruminococcus and Allistipes increased, as determined by statistical and machine learning approaches.
+Disease associations were examined based on KO abundance, identifying links to conditions such as autism spectrum disorder, Clostridium difficile infection, chronic kidney disease, and multiple sclerosis.
+Key KEGG pathways enriched in DT and CFC groups included the two-component system, tyrosine metabolism, and the pentose phosphate pathway.
+Conversely, dysbiosis or the presence of pathogenic bacteria (Ruminococcus) associated with the SOX8 gene could lead to chemoresistance, altered metabolic pathways, and increased toxicity.
+These findings underscore the potential implications for treatment outcomes and personalized medicine.

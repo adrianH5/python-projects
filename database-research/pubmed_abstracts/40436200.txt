@@ -1,0 +1,6 @@
+The glutamate-glutamine cycle is thought to be the principle metabolic pathway that recycles glutamate at synapses.
+In this cycle, synaptically released glutamate is sequestered by astrocytes and forms glutamine, before being returned to the presynaptic terminal for conversion back into glutamate to replenish the neurotransmitter pool.
+While many aspects of this cycle are established, a key component remains unknown: the nature of the transporter responsible for the presynaptic uptake of glutamine.
+We hypothesise that neurotransmitter transporter 4 (NTT4/SLC6A17) plays this role.
+Accordingly, we generated NTT4 knockout mice to assess its contribution to presynaptic glutamine transport and synaptic glutamate supply.
+Using biochemical tracing of

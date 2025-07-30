@@ -1,0 +1,5 @@
+Oncolytic adenoviruses (OAVs) engineered to carry antitumor or immune-activating transgenes are being actively explored for cancer immunotherapy.
+While many efforts have focused on modifying OAVs to counteract the immunosuppressive tumor microenvironment, comparatively less attention has been given to enhancing OAV replication by targeting host factors to increase oncolytic activity.
+Here, we report that TRIM56 is strongly upregulated during HAdV-C5 infection, with its expression correlating with increasing levels of the viral E1A protein, ultimately promoting HAdV-C5 replication.
+Mechanistically, TRIM56 stabilizes the viral E1A protein and enhances viral genome transcription.
+To leverage this effect, we engineered a recombinant oncolytic adenovirus expressing TRIM56 (OAV-TRIM56) and found that it achieved significantly higher replication titers

@@ -1,0 +1,6 @@
+Murine double minute 2 (MDM2) has long been a therapeutic target to stabilize and upregulate wild-type tumor protein 53 (p53) in cancer.
+We initially reported WB156 as a degrader of MDM2 that can upregulate p53 levels in acute leukemia.
+To further evaluate the therapeutic potential of WB156, we tested it in a variety of cancers alongside another reported MDM2 degrader.
+We found that WB156 is active in wild-type and mutant p53-bearing leukemias due to its ability to degrade both MDM2 and G1 To S Phase Transition 1 (GSPT1) protein.
+In cancers that are non-responsive to MDM2 degradation alone, WB156 acts as a GSPT1 degrader to induce anti-proliferative effects.
+Here, we report the first MDM2/GSPT1 dual degrader that also upregulates p53 levels.

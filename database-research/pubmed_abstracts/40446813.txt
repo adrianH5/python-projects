@@ -1,0 +1,11 @@
+Exposure to low-doses of ionising radiation can induce biological effects in healthcare professionals, such as DNA damage, genotoxic effects, lens opacities, and risk of cancer.
+This systematic review aims to assess the current status and identify the health impacts of occupational exposure to ionising radiation.
+The systematic review was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses.
+Articles were included only if they specifically addressed the adverse biological effects of ionising radiation on healthcare professionals, particularly in medical applications.
+Studies published between January 2019 and December 2023 were considered, with sources obtained from the Scopus, PubMed, and Web of Science databases.
+A total of 345 articles were identified through an extensive literature search, and after the complete text screening, 32 articles were deemed suitable for inclusion in the review.
+Eleven studies reported significantly higher micronuclei (MN) frequencies in workers exposed to ionising radiation compared to unexposed.
+The MN studies reviewed found a significant correlation between dose or exposure time and MN frequencies.
+All studies revealed significantly higher chromosomal aberrations (CA) values when exposed to ionising radiation.
+The occurrence of lens opacities among interventional physicians varied significantly, with rates ranging from 16% to 47%.
+This review emphasizes the high occurrence of cataracts, increased cancer risk, and the relevant frequency of MN and CA in workers chronically exposed to low doses.

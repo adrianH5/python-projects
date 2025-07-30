@@ -1,0 +1,12 @@
+This study aims to explore the relationship between tumor size, lymph node status, and ER/PR/HER2 expression in breast cancer patients.
+A total of 117 breast cancer patients who underwent surgery at our hospital were selected as the research objects.
+All patients underwent ipsilateral axillary lymph node dissection or sentinel lymph node biopsy during surgery.
+Pathological data and ultrasound features of primary lesions were collected.
+Univariate and multivariate logistic regression analyses were performed to evaluate the relationship between tumor size, lymph node status, and ER/PR/HER2 expression, as well as to identify the risk factors for lymph node metastasis in breast cancer patients.
+Among the 117 patients, 48 were positive for ipsilateral axillary lymph node metastasis and 69 were negative.
+Univariate analysis showed no significant correlation between age, PR status, molecular subtype, and lymph node metastasis (P > 0.05).
+Univariate analysis showed that tumor size, pathological type, menopausal status, Ki67 expression, HER2 status, and ER status were significantly associated with lymph node metastasis (P < 0.05).
+Logistic regression further identified tumor size [odds ratio (OR) = 1.809, 95% confidence interval (CI): 1.075-3.428, P = 0.018), pathological type (OR = 2.947, 95% CI: 1.241-7.536, P = 0.012), Ki67 expression (OR = 15.923, 95% CI: 3.219-74.512, P = 0.001), HER2 status (OR = 2.509, 95% CI: 1.586-5.769, P = 0.015), and ER status (OR = 3.226, 95% CI: 1.408-8.277, P = 0.007) as independent risk factors for lymph node metastasis.
+This study reveals that lymph node metastasis in breast cancer patients is significantly associated with larger tumor size (> 20 mm), invasive tumor type, higher Ki67 expression, HER2 positivity, and ER negativity.
+These findings emphasize the importance of incorporating these risk factors into clinical assessments to guide individualized treatment planning.
+By identifying patients with elevated lymph node metastasis risk, clinicians can better tailor treatment strategies to improve patient outcomes and optimize therapeutic interventions.

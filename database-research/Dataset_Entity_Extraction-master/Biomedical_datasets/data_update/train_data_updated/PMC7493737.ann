@@ -1,0 +1,17 @@
+T1	Repository 2221 2228	GenBank
+T2	AccessionNumber 2255 2270	GCA_000409795.2
+T3	Repository 3301 3308	GenBank
+T4	AccessionNumber 3324 3332	MT668716
+T5	Dataset 3341 3347	GISAID
+T6	AccessionNumber 3363 3377	EPI_ISL_480349
+T7	Repository 3606 3613	GenBank
+T8	AccessionNumber 3629 3637	MT670008
+T9	Dataset 3646 3652	GISAID
+T10	AccessionNumber 3668 3682	EPI_ISL_477163
+T11	Dataset 3736 3742	GISAID
+T12	Repository 3885 3892	GenBank
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T5	Arg2:T6
+R4	hasAttr	Arg1:T7	Arg2:T8
+R5	hasAttr	Arg1:T9	Arg2:T10

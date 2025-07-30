@@ -1,0 +1,3 @@
+Tandem repeats (TRs) are major sources of genetic variation and important genetic markers.
+Their expansions are not only involved in gene expression regulation but also associated with many nervous system diseases and cancers.
+However, there is a lack of an efficient tandem repeat identification tool for seamless integration with larger bioinformatics programs developed with the popular Python language.

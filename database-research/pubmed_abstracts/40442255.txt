@@ -1,0 +1,9 @@
+The cytogenetic risk category retains a pivotal role in the prediction of prognosis in acute myeloid leukemia (AML) patients undergoing hematopoietic stem cell transplantation (HSCT), however, its impact on secondary AML (sAML) is less established.
+We assessed whether the ELN 2022 cytogenetic risk score predicts outcomes in sAML patients in remission undergoing HSCT from HLA-matched donors performed between 2010 and 2022.
+Among 1119 patients, 829 had intermediate and 284 had adverse cytogenetics (6 with favorable risk were excluded).
+Engraftment rates was 72.4% vs. 99.5%.
+Acute graft-versus-host disease (GVHD) incidence did not differ, but 2-years all grades and extensive chronic GVHD were higher in the intermediate vs. adverse cytogenetics risk groups, hazard ratio (HR) = 0.72; p = 0.034 and HR = 0.58; p = 0.027, respectively.
+Two-year non-relapse mortality (NRM) was similar.
+All other HSCT outcomes were inferior in the adverse risk vs. intermediate-risk patients: The HR for 2-year relapse incidence (RI) was 2.48 (95% CI 1.95-3.15, p < 0.001).
+The HRs for 2-year leukemia-free survival (LFS), overall survival (OS), and GVHD-free/relapse-free survival (GRFS) were 1.62 (95% CI 1.34-1.95, p < 0.001), 1.59 (95% CI 1.3-1.93, p < 0.001) and 1.38 (95% CI 1.15-1.65, p < 0.001), respectively.
+We conclude that cytogenetic risk score predicts HSCT outcomes in sAML patients.

@@ -1,0 +1,12 @@
+Esophageal squamous cell carcinoma (ESCC) remains a significant global health challenge, with high mortality rates primarily due to late-stage diagnosis.
+Detecting ESCC at an early stage, when still amenable to endoscopic resection, could potentially improve survival outcomes and help reduce the overall disease burden.
+However, despite being the gold standard for ESCC diagnosis, conventional endoscopy has several limitations that hinder its widespread implementation for screening purposes.
+These include high-costs, invasiveness, suboptimal sensitivity in identifying precancerous lesions, and prerequisite specialized personnel and facilities.
+In this review, we aim to discuss the current ESCC screening practices and explore emerging screening methods incorporating novel diagnostic devices and biomarkers.
+We first present advancements in endoscopic imaging techniques aimed at improving diagnostic accuracy and reducing operator dependency.
+These include artificial intelligence (AI)-assisted endoscopy, which enhances lesion detection, and confocal laser endomicroscopy, which enables real-time cellular-level assessment.
+Next, we explore the available non-endoscopic screening modalities such as swallowable cytology-based sampling devices.
+These minimally invasive tools, when combined with AI-assisted cytological analysis and molecular biomarkers, offer a viable alternative to conventional biopsy for early ESCC detection.
+We then provide an overview of circulating biomarkers, including circulating tumor DNA (ctDNA), circulating tumor cells (CTCs), microRNAs, and protein-based markers, summarizing the current state of research on liquid biopsies and their potential role in ESCC screening.
+Additionally, we discuss breath and salivary diagnostics as emerging cost-effective, non-invasive approaches.
+Finally, we present the latest insights into tissue biomarkers, highlighting their relevance in identifying precancerous lesions and stratifying risk in ESCC screening.

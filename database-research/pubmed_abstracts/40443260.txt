@@ -1,0 +1,4 @@
+Pancreatic adenocarcinoma (PAAD) is an extremely lethal cancer, making early detection and precise staging essential for extending survival.
+Upregulation of 5T4 mRNA was detected in bioinformatics analysis using data from the Cancer Genome Atlas and Genotype-Tissue Expression.
+In the current work, we confirmed the overexpression of 5T4 protein in tumor samples of PAAD compared with the corresponding paraneoplastic tissue.
+To visualize 5T4 via positron emission tomography (PET) noninvasively, we successfully developed [

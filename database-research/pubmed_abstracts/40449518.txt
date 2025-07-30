@@ -1,0 +1,9 @@
+This study investigated the 3-year development of chemotherapy-induced peripheral neuropathy (CIPN) in post-menopausal women diagnosed with early breast cancer (EBC) using vibration perception threshold (VPT) measurements and the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire (CIPN18).
+90 patients (aged 50-70) and 30 healthy subjects were included in the study.
+VPT measurements and CIPN18 questionnaires were performed post-chemotherapy (median 72 (IQR: 53-93) days post chemotherapy) as well as at the 12 and 36-month follow-up.
+Post-chemotherapy data showed impaired VPT measurements when comparing our study population to controls, but spontaneous improvement occurred, and by the 36-month follow-up, VPT measurements normalized when compared to controls.
+Mean CIPN18 scores improved, though the improvement was not statistically significant.
+Spearman's rho between VPT measurements and CIPN18 questionnaires showed weak to moderate correlations during follow-up.
+However, further analyses using a Generalized Additive Model confirmed the absence of a significant correlation between VPT measurements and CIPN18 questionnaires.
+Our data highlight limitations in the relationship between VPT measurements and CIPN.
+However, VPT measurements may have potential as an objective supplement to general assessment of patients.

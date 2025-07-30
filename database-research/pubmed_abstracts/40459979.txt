@@ -1,0 +1,7 @@
+Human papillomavirus (HPV)-positive oropharyngeal squamous cell carcinoma (OPSCC) presents a favorable prognosis compared with its HPV-negative counterpart, prompting interest in treatment de-escalation to reduce toxicity.
+However, attempts using risk factors, stage, and HPV status alone have not proven sufficient.
+Circulating tumor DNA (ctDNA) has emerged as a promising biomarker to personalize treatment by detecting tumor burden, monitoring minimal residual disease (MRD), and guiding response-adaptive therapy.
+This review evaluates the role of ctDNA across the clinical course-from diagnosis to mid-treatment monitoring to post-treatment surveillance.
+It highlights ctDNA's potential to enhance diagnostic accuracy, guide treatment deintensification, and detect recurrence through a summary of recent and ongoing clinical trials.
+However, limitations in assay sensitivity and the need for prospective validation restrict its current clinical utility.
+Ongoing clinical trials will be pivotal in determining whether ctDNA can reliably support personalized de-escalation strategies in HPV+ OPSCC.

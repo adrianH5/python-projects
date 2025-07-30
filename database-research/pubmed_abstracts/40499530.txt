@@ -1,0 +1,7 @@
+Lung cancer poses a serious threat to public health due to its high morbidity and mortality rates.
+The mechanisms of lung cancer formation and progression are complex and involve regulation of various biomolecules.
+Long noncoding RNAs (lncRNAs) have emerged to be critical in tumorigenesis of various malignancies.
+In this study, we identified candidate lncRNAs associated with occurrence and development of lung cancer by analyzing the differentially expressed lncRNAs in lung squamous cell carcinoma (LUSC) and lung adenocarcinoma (LUAD) cancer tissues and adjacent noncancerous tissues from UALCAN database.
+We found that LINC02562, which is highly expressed in LUAD and LUSC, can affect the occurrence and development of lung cancer in vivo and in vitro.
+Furthermore, LINC02562 competes with YBX1 to bind to the DNA repair protein NTHL1, which makes both the interaction between YBX1 and NTHL1, and the activity of NTHL1 in a balanced state, thereby promoting the progression of lung cancer.
+Additionally, the LINC02562/NTHL1/YBX1 axis represents a novel therapeutic target for lung cancer.

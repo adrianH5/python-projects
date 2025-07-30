@@ -1,0 +1,11 @@
+Patients diagnosed with advanced-stage ovarian cancer often suffer from metastases.
+To date, several therapies have been investigated for treating ovarian cancer and metastatic nodules, including nucleic acid-based drugs.
+In this study, hydrogels were explored as nucleic acid reservoirs for the local and prolonged release of siRNA in the intraperitoneal cavity of mice bearing ovarian tumors.
+The siRNA was first complexed with a cationic methoxypoly(ethylene glycol) poly(2-(dimethylamino)ethyl methacrylate) (PD) diblock copolymer, forming polymeric nanoparticles known as polyplexes.
+To investigate biodistribution, residence time, and tumor accumulation after local administration, dually labeled polyplexes (siRNA-Cy5.5 and PD-Cy7) were prepared.
+These siRNA polyplexes were then physically entrapped into an injectable thermosensitive hydrogel made of a poly(N-isopropylacrylamide)-poly(ethylene glycol)-poly(N-isopropylacrylamide) (NPN) triblock copolymers, enabling in situ prolonged release of the cargo.
+In vitro rheological tests of the NPN hydrogel using ascitic fluid derived from a patient with ovarian cancer were performed to ensure its stability and performance in tumor environment.
+Then, polyplex-hydrogels were injected intraperitoneally in a murine ovarian cancer orthotopic model, and their retention was monitored over seven days.
+The results demonstrated progressive intra-abdominal release of siRNA polyplexes from the hydrogel, driven by hydrogel erosion, with subsequent accumulation of nanoparticles within the ovarian nodules.
+Therapeutic studies further revealed that siRNA-STAT3 polyplexes released from the NPN hydrogel achieved a significant tumor growth delay compared to the control groups following 28 days of treatment and 56 days after tumor inoculation.
+In conclusion, the novel dual delivery system, comprising siRNA-STAT3 polyplexes loaded into an injectable thermosensitive hydrogel, demonstrated effective deposition and penetration of the siRNA polyplexes into ovarian primary tumors and nodules, significantly delaying tumor growth in advanced ovarian cancer.

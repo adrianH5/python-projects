@@ -1,0 +1,28 @@
+T1	Repository 2159 2194	Genome Aggregation Database (gnomAD
+T2	URL 2199 2224	gnomad.broadinstitute.org
+T3	Repository 2263 2292	Exome Sequencing Project (ESP
+T4	URL 2294 2320	evs.gs.washington.edu/EVS/
+T5	Repository 2333 2359	1000 Genomes Project (1KGP
+T6	URL 2361 2388	www.internationalgenome.org
+T7	Dataset 2477 2481	GTEx
+T8	Repository 2491 2498	QTLbase
+T9	Repository 2757 2761	TCGA
+T10	Repository 2766 2772	COSMIC
+T11	URL 2784 2818	https://cancer.sanger.ac.uk/cosmic
+T12	Dataset 2880 2884	GTEx
+T13	Repository 2894 2901	QTLbase
+T14	Repository 3113 3120	QTLbase
+T15	Dataset 3216 3220	GTEx
+T16	Repository 7351 7386	Genome Aggregation Database (gnomAD
+T17	URL 7391 7416	gnomad.broadinstitute.org
+T18	Repository 7455 7484	Exome Sequencing Project (ESP
+T19	URL 7486 7512	evs.gs.washington.edu/EVS/
+T20	Repository 7525 7551	1000 Genomes Project (1KGP
+T21	URL 7553 7580	www.internationalgenome.org
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T5	Arg2:T6
+R4	hasAttr	Arg1:T10	Arg2:T11
+R5	hasAttr	Arg1:T16	Arg2:T17
+R6	hasAttr	Arg1:T18	Arg2:T19
+R7	hasAttr	Arg1:T20	Arg2:T21

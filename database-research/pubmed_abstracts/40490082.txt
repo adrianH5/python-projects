@@ -1,0 +1,7 @@
+Innate lymphoid cells (ILC) play a crucial role in shaping immune responses and maintaining tissue homeostasis.
+Recent research has identified their involvement in breast cancer pathogenesis, mainly through shaping the tumor microenvironment, where they can exert dual roles, either promoting tumor eradication by enhancing anti-tumor immunity, or facilitating tumor progression through mechanisms of immune evasion.
+This functional plasticity makes ILC attractive targets for immunotherapy.
+Furthermore, their slow proliferation enables them to survive anti-proliferative radiation therapy and chemotherapy, which may support continuous immune surveillance of breast cancer tissue.
+However, this same resilience poses a significant challenge, as surviving ILC could contribute to tumor persistence or recurrence.
+Additionally, anti-estrogen therapy, chemotherapy and immune checkpoint inhibitors, commonly used in breast cancer treatment, may interfere with ILC function, either dampening their anti-tumor potential or enhancing their pro-tumor activities.
+Understanding the complex interactions between ILC and conventional therapies is critical for designing effective immunotherapeutic approaches that include ILC targeting, potentially overcoming resistance and improving patient outcomes in breast cancer therapy.

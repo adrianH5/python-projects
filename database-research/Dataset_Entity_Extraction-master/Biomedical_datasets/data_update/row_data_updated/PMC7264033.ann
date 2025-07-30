@@ -1,0 +1,7 @@
+T1	Repository 9131 9157	ProteomeXchange Consortium
+T2	AccessionNumber 9250 9259	PXD018874
+T3	Repository 10057 10064	UniProt
+T4	Repository 10066 10073	UniProt
+T5	AccessionNumber 10119 10132	3AUP000005640
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T5

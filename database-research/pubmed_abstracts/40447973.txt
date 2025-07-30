@@ -1,0 +1,12 @@
+Second-generation antipsychotics (SGAs) have been developed as an alternative to the first-generation antipsychotics due to their fewer side effects.
+However, clinical case reports suggested a connection between SGAs and ileus.
+The aim of this study is to explore the links between ileus and SGAs via a pharmacovigilance analysis.
+Adverse event reports from January 1st, 2014 to December 31st, 2023 were collected from the U.S. Food and Drug Administration Adverse Event Reporting System database.
+The demographic characteristics of cases were summarized to perform descriptive analysis.
+The reaction outcomes, actions taken with the drug, and onset time of ileus, were also extracted and analyzed.
+In disproportionality analysis, the algorithms of reporting odds ratio (ROR) and information component (IC) were applied for ileus risk signal detection.
+A total of 419 cases with SGAs-related ileus were obtained from the database.
+The median age for patients was 58 years (range 6 ~ 94) and the median onset time of ileus was 40 days (range 0 ~ 6070).
+After excluding reports with incomplete data, a total of 219 cases were identified in reaction outcomes and a total of 179 cases were included in the analysis of actions taken with the drug.
+A majority of patients reached recovered state (n = 119, 54.34%) in reaction outcomes, and most patients received drug withdrawn (n = 120, 67.04%) in actions taken with the drug.
+Clozapine showed the strongest risk signal of ileus (n = 131, ROR

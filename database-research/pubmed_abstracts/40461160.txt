@@ -1,0 +1,3 @@
+Personalized immunotherapy of pancreatic ductal adenocarcinoma (PDAC) through T-cell mediated targeting of tumor-specific, mutanome-encoded neoepitopes may offer new opportunities to combat this disease, in particular by countering recurrence after primary tumor resection.
+However, the sensitive and accurate calling of somatic mutations in PDAC tissue samples is compromised by the low tumor cell content.
+Moreover, the repertoire of immunogenic neoepitopes in PDAC is limited due to the low mutational load of the majority of these tumors.

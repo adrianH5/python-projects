@@ -1,0 +1,9 @@
+Gastric cancer (GC) is the fifth most common malignant tumor worldwide.
+Surgical resection remains the primary treatment for GC, with laparoscopic surgery recommended by several international guidelines.
+Due to complex perigastric vessels, standard D2 lymph node dissection (LND) in laparoscopic GC (LapGC) surgery is challenging.
+Careful dissection is required to expose, dissect, and ligate vessels without injury, ensuring radical LND.
+Computer vision has the potential to assist in the identification of key vessels during LapGC surgery, thereby reducing the risk of vascular injury.
+However, existing publicly available surgical anatomy datasets mainly focus on organ segmentation and simple surgeries.
+To address the clinical challenges and research needs outlined above, we present the LapGC Key Vascular Anatomy Dataset (LapGC-KVAD-30).
+This dataset was extracted from thirty complete surgical videos and contains annotations for fifteen types of key vessels across eight D2 LND scenes.
+The LapGC-KVAD-30 uniquely contains 5303 frames that showcase the dynamic process of key vessels from initial appearance to full exposure (or ligation), providing essential information for effective and safe LND.

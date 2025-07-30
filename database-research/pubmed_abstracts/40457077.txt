@@ -1,0 +1,7 @@
+To understand genetic evolution in cancer during metastasis, we analyzed genomic profiles of 3,732 cancer patients in whom several tumor sites were longitudinally biopsied.
+During distant metastasis, tumors were observed to accumulate copy number alterations (CNAs) to a much greater degree than mutations.
+In particular, the development of whole genome duplication was a common event during metastasis, emerging de novo in 28% of patients.
+Loss of 9p (including CDKN2A) developed during metastasis in 11% of patients.
+To a lesser degree, mutations and allelic loss in human leukocyte antigen class I and other genes associated with antigen presentation also emerged.
+Increasing CNA, but not increasing mutational load, was associated with immune evasion in patients treated with immunotherapy.
+Taken together, these data suggest that CNA, rather than mutational accumulation, is enriched during cancer metastasis, perhaps due to a more favorable balance of enhanced cellular fitness versus immunogenicity.

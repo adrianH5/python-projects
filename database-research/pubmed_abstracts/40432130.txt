@@ -1,0 +1,5 @@
+Malignant tumors represent a significant threat to human health.
+Among the various therapeutic strategies available, cancer immunotherapy-encompassing adoptive cell transfer (ACT) and immune checkpoint blockade therapy-has emerged as a particularly promising approach following surgical resection, radiotherapy, chemotherapy, and molecular targeted therapies.
+This form of treatment elicits substantial antigen-specific immune responses, enhances or restores anti-tumor immunity, thereby facilitating the control and destruction of tumor cells, and yielding durable responses across a range of cancers, which can lead to the eradication of tumor lesions and the prevention of recurrence.
+Tumor-infiltrating lymphocytes (TILs), a subset of ACT, are characterized by their heterogeneity and are found within tumor tissues, where they play a crucial role in mediating host antigen-specific immune responses against tumors.
+This review aims to explore recent advancements in the understanding of TILs biology, their prognostic implications, and their predictive value in therapeutic contexts.

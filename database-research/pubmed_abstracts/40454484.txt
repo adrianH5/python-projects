@@ -1,0 +1,9 @@
+Mutations in Polybromo 1 (PBRM1), a subunit of the switch/sucrose nonfermentable (SWI/SNF) chromatin remodeling complex, are frequently observed in several cancers, including pancreatic ductal adenocarcinoma (PDAC).
+In this study, we demonstrated that pancreas-specific loss of Pbrm1 in mice harboring Kras mutations and Trp53 deletions accelerated the development of poorly differentiated PDAC, epithelial-mesenchymal transition (EMT), and metastasis, resulting in worsened prognosis.
+Pbrm1 loss in preexisting PDAC shifted the tumor grade from a well- to a poorly differentiated state and elevated vimentin expression.
+Pbrm1-null PDAC exhibited downregulation of apical junction genes and upregulation of EMT pathway genes, including the vimentin and squamous molecular subtype signature genes.
+Mechanistically, PBRM1 bound to the vimentin gene promoter and directly downregulated its expression.
+Furthermore, suppression of vimentin in Pbrm1-null PDAC cells reversed the dedifferentiation phenotype and reduced EMT and metastasis.
+Consistently, reduced PBRM1 expression correlated with high vimentin expression, poorly differentiated histology, a high recurrence rate, and reduced overall survival in human PDACs.
+Additionally, PDAC with PBRM1 deletion was associated with the aggressive squamous molecular subtype.
+Our data established PBRM1 as a tumor suppressor that controls tumor grade and metastasis of PDAC by regulating vimentin expression.

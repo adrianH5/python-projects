@@ -1,0 +1,8 @@
+Chemoresistance is an obstacle to the efficacy of chemotherapy in cancer.
+Numerous preclinical and clinical investigations have concentrated on mitigating drug resistance; nevertheless, chemoresistance remains a predominant challenge.
+Recent findings strongly suggest that ferroptosis, a form of non-apoptotic cell death characterized by lipid peroxidation, has been associated with resistance to cancer therapies, and the induction of ferroptosis has been shown to reverse drug resistance.
+The most common epitranscriptomic modification N6-methyladenosine (m6A) regulates cancer progression by enhancing the stability of oncogenes.
+Recent evidence suggests that dynamic m6A modifying factors play a role in chemosensitization by increasing the ferroptosis susceptibility.
+This review explores the mechanisms and significance of ferroptosis, including the role of m6A modifications in regulating ferroptosis-related genes.
+We discuss potential strategies for enhancing m6A-mediated ferroptosis to increase the effectiveness of chemotherapeutic treatments.
+Understanding the role of m6A modifications in regulating ferroptosis and their impact on the tumor cell response to chemotherapy could lead to identifying novel therapeutic targets, enhancing the effectiveness of chemotherapy and potentially overcoming chemoresistance.

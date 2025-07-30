@@ -1,0 +1,10 @@
+Osteosarcoma (OS) is the most common bone tumor in both dogs and humans.
+It predominantly occurs in the appendicular skeleton, with about 25% of cases occurring within the axial skeleton.
+Progression of local disease is often the life-limiting factor for patients with axial OS, in contrast to appendicular OS, where local disease is addressed surgically, and metastatic disease remains the primary obstacle.
+While OS is a rare human cancer, limiting the availability of samples, its higher incidence in dogs provides a valuable comparative model for study.
+Both canines and humans share commonalities in clinical presentation, but dogs have an accelerated progression.
+Similarly, complex structural genetic changes define appendicular OS in both dogs and people, but it is unclear whether the genomic landscape of axial OS exhibits different alterations that may separate it from appendicular OS.
+We performed pilot whole genome sequencing of canine primary oral (maxillary or mandibular) OS tumors (n = 8) and matched normal tissue.
+We found that the genetics of canine oral OS largely parallel the genetics of canine appendicular OS, including an overall low number of recurrent point mutations affecting the same gene (TP53 and SETD2, 3/8 samples).
+Structural variants dominated the landscape of mutational changes, with recurrent variants in DMD (4/8) and DLG2 (3/8) found at a similar incidence to appendicular OS.
+This pilot suggests genomic similarities between oral and appendicular OS.

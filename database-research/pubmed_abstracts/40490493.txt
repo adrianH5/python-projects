@@ -1,0 +1,7 @@
+Macrophages play a crucial role in coordinating the skeletal muscle repair response, but their phenotypic diversity and the transition of specialized subsets to resolution-phase macrophages remain poorly understood.
+Here, to address this issue, we induced injury and performed single-cell RNA sequencing on individual cells in skeletal muscle at different time points.
+Our analysis revealed a distinct macrophage subset that expressed high levels of Gpnmb and that coexpressed critical factors involved in macrophage-mediated muscle regeneration, including Igf1, Mertk and Nr1h3.
+Gpnmb gene knockout inhibited macrophage-mediated efferocytosis and impaired skeletal muscle regeneration.
+Functional studies demonstrated that GPNMB acts directly on muscle cells in vitro and improves muscle regeneration in vivo.
+These findings provide a comprehensive transcriptomic atlas of macrophages during muscle injury, highlighting the key role of the GPNMB macrophage subset in regenerative processes.
+Our findings suggest that modulating GPNMB signaling in macrophages may represent a promising avenue for future research into therapeutic strategies for enhancing skeletal muscle regeneration.

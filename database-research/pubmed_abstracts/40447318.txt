@@ -1,0 +1,3 @@
+Strategies for deploying indoleamine 2,3-dioxygenase 1 (IDO1)-targeted therapies for use against cancer have focused on IDO1's role in promoting peripheral immune tolerance that shields tumors from effector T cells.
+However, preclinical investigation of both primary and metastatic tumor development in the lungs has uncovered a previously unappreciated role for IDO1 in directing a counterregulatory response to interferon (IFN)-γ that realigns the local inflammatory environment to promote tumor neovascularization.
+Understanding how to therapeutically leverage the ability of IDO1 inhibitors to subvert inflammatory neovascularization within the tumor microenvironment has potential ramifications for future clinical development of these compounds.

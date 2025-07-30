@@ -1,0 +1,3 @@
+Cancer cells undergo widespread changes in epigenetic patterns that mediate cancer compromised gene expression programs during cancer progression.
+However, the alterations in higher-order genome organization in which these changes occur and their functional implications are less well understood.
+To explore how chromatin structure and epigenetic parameters of genome architecture changes during cancer progression at a fine scale and genome-wide, we generated high-resolution Micro-C contact maps in non-malignant, pre-cancerous, and metastatic MCF10 breast cancer epithelial cells.

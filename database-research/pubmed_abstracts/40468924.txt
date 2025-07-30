@@ -1,0 +1,10 @@
+The KRAS (Kirsten rat sarcoma viral oncogene homolog) gene mutation is commonly found in colorectal, lung, and pancreatic carcinomas.
+Unfortunately, blocking KRAS straight away has proven to be challenging.
+PROTACs (Proteolysis Targeting Chimeras), a class of bifunctional molecules, are designed to break down proteins, offering a unique strategy to target KRAS and overcome the limitations of traditional inhibition.
+This review discusses PROTACs targeting KRAS mutations in cancer, highlighting major findings, current limitations, and future perspectives.
+To achieve this, we thoroughly analyzed literature sourced from reputable databases, including PubMed, Google Scholar, and ScienceDirect.
+Various relevant articles were obtained from the reference section of the selected papers.
+PROTACs successfully induce the degradation of mutant KRAS in cell lines, leading to a decrease in cell viability compared to control groups.
+PROTAC treatment results in the suppression of downstream signalling pathways associated with KRAS, such as the MAPK and PI3K/AKT pathways.
+Animal studies demonstrate the ability of the PROTAC to effectively target KRAS-mutant tumors, inhibiting tumour growth without significant toxicities.
+New advances in this field can lead to cancer treatments that specifically target KRAS-mutant tumors.

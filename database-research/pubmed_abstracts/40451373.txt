@@ -1,0 +1,6 @@
+This study focuses on the synthesis of sugar decorated porphyrins and their gold nanoparticle conjugates as photosensitizers for photodynamic therapy (PDT).
+Linking the sugar to the porphyrins imparted water solubility to the latter.
+The conjugation to sugar molecules enhanced the singlet oxygen quantum yield and improved the cellular uptake and therefore, their phototoxicity in some cases.
+The porphyrins (with or without the sugar) were linked to the Au nanoparticles (AuNPs).
+The activity of the synthesized complexes and conjugates with AuNPs were tested against the MDA-MB-231 breast cancer cells using the resazurin assay to monitor the cell viability.
+The conjugate of In porphyrin with AuNPs showed the highest PDT activity.

@@ -1,0 +1,8 @@
+Metastasis is the main cause of cancer-related deaths, yet the underlying mechanisms remain elusive.
+Here, using clear cell renal cell carcinoma (ccRCC), a tumor type with frequent lung metastases, we conduct an in vivo genome-wide CRISPR-Cas9 screen and identify HLF as a potent suppressor of lung metastasis.
+HLF depletion enhances ccRCC cell migration and lung metastasis, whereas HLF overexpression abrogates these effects.
+In ccRCC patients, HLF expression is reduced at metastatic sites and associates with epigenetic silencing mediated by the SWI/SNF ATPase subunit BRG1.
+HLF levels negatively correlate with migration potential in collagen.
+Mechanistically, HLF regulates LPXN expression, modulating the integration of collagen's mechanical cues with the actin cytoskeleton through Paxillin, thereby suppressing cancer cell migration and lung metastasis.
+Overexpression of HLF or pharmacological inhibition of BRG1 reduces cell invasion across multiple cancer types.
+Our findings suggest that targeting the BRG1-HLF axis offers a promising therapeutic strategy for combating metastatic cancers.

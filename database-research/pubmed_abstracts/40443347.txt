@@ -1,0 +1,4 @@
+Alpha Thalassemia/Mental developmental retardation, X-linked (ATRX) is an important heterochromatin regulator, frequent mutated in ATR-X syndrome and various cancers.
+ATRX binds a histone variant macroH2A, forming a functional axis crucial for transcription regulation and genome stability.
+However, the molecular mechanism underlying the ATRX-macroH2A interaction remains obscure.
+Here we demonstrate that the ADD domain of ATRX (ATRX

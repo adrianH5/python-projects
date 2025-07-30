@@ -1,0 +1,9 @@
+Current treatment options for ovarian cancer are limited to surgery to remove tumor tissues and chemotherapy.
+Although such treatments could provide a short period of remission, most patients still experience recurrent metastatic diseases.
+Here we present a nanotechnology-based personalized cancer vaccine that can be administrated to patients during the remission stage to prevent recurrent diseases.
+Autologous tumor cell lysates (TCL) are intriguing, personalized antigens that could be extracted from surgically recovered tumor tissues from patients containing all neoantigens.
+As proof of concept, we use TCL isolated from a murine ovarian cancer cell line.
+TCL are first encapsulated in liposomes (TCL-Lip), which are then attached to cowpea mosaic virus (CPMV), a plant virus as a potent adjuvant.
+Using the ID8-Defb29/Vegf-a-Luc tumor model in female mice, the TCL-Lip-CPMV conjugate vaccine protects mice from tumor challenge by improving antigen processing and presentation, priming an adaptive anti-tumor immunity.
+Using ovalbumin (OVA) as a model antigen, OVA-Lip-CPMV vaccination protects mice from lung metastasis post-surgical removal of the primary B16F10-OVA dermal tumors.
+This research establishes a platform by combining two nanoparticle technologies into a single formulation for the simultaneous delivery of antigens and adjuvants, advancing the development of cancer vaccines and immunotherapies.

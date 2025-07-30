@@ -1,0 +1,5 @@
+Gastric cancer (GC) presents a major health challenge owing to its late diagnosis, molecular complexity, and resistance to therapies.
+In this work, noncoding RNAs (ncRNAs), such as miRNAs, lncRNAs, and circRNAs, are identified as critical factors in GC progression and treatment resistance.
+These findings highlight the potential of ncRNAs in advancing diagnostic strategies and developing novel therapeutic approaches.
+However, challenges in optimizing delivery methods and validating clinical effectiveness remain.
+Future efforts should focus on integrating ncRNA insights into precision medicine and addressing these clinical barriers to improve patient outcomes in GC.

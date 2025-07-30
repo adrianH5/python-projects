@@ -1,0 +1,13 @@
+The aim of this study was to investigate the mechanisms of acquired resistance to anti-epidermal growth factor receptor (EGFR) therapy in metastatic colorectal cancer (mCRC), with a focus on the role of KRAS secondary mutations.
+We sought to evaluate how these mutations contribute to resistance in patients treated with chemotherapy alone or in combination with cetuximab, and to explore the impact of treatment duration and disease progression on mutation rates.
+We retrospectively collected data from 50 mCRC patients with wild-type KRAS who received either chemotherapy alone or chemotherapy combined with anti-EGFR therapy (cetuximab).
+Following treatment, tumor samples were recollected through surgery, biopsy, or colonoscopy.
+The secondary mutation status of KRAS, NRAS, and BRAF was determined via an amplification refractory mutation system.
+Based on the nature of the chemotherapy regimen and the presence or absence of tumor progression at the time of the second KRAS mutation analysis, patients were stratified into three groups: Group A (adjuvant chemotherapy and recurrence), Group B (first-line chemotherapy without progression), and Group C (first-line chemotherapy with progression).
+Secondary KRAS mutations were assessed in relation to therapeutic regimens and progression profiles to investigate the mechanisms of acquired resistance to anti-EGFR therapy.
+The overall rate of secondary KRAS mutations was 6.0% (3/50).
+These mutations were not observed in patients treated with chemotherapy alone (0/24), but occurred in 11.5% (3/26) of patients receiving chemotherapy combined with cetuximab.
+Stratification by treatment regimens and tumor progression showed mutation rates of 0% (0/13) in Group A, 0% (0/16) in Group B, and 14.3% (3/21) in Group C. In Group C, the mutation rate rose from 0% (0/5) in patients receiving chemotherapy alone to 18.8% (3/16) in those receiving combination therapy.
+Furthermore, in patients receiving chemotherapy combined with cetuximab of Group B and Group C, longer anti-EGFR treatment duration was associated with a higher mutation rate: 5.9% (1/17) in those treated for ≤ 10 months versus 25.0% (2/8) in those treated for > 10 months.
+Including one case of secondary BRAF mutation, the cumulative mutation rate reached 37.5% (3/8) in patients with prolonged cetuximab exposure.
+This study innovatively revealed from multiple perspectives that the crucial role of secondary KRAS mutations in the resistance of mCRC patients to EGFR therapy, emphasizes the importance of continuous genomic monitoring, and provides new ideas for future combination targeted therapies.

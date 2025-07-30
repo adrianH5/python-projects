@@ -1,0 +1,11 @@
+In recent years, multiple molecularly defined entities have emerged in head and neck pathology, especially among sinonasal squamous and basaloid carcinomas, including NUT carcinoma, SWI/SNF-deficient carcinoma, and DEK::AFF2 carcinoma.
+These tumors show significant morphological and immunophenotypic diversity.
+We present five novel head and neck carcinomas harboring AFF2 rearrangements involving previously unreported fusion partners.
+Five cases (3 males, 2 females; ages 35-72 years) presented with tumors in the sinonasal region (n = 4) and parotid gland (n = 1), measuring between 3.3 and 6.3 cm.
+RNA sequencing identified fusions involving AFF2 with H3-3A, EWSR1, CHD4 (two cases: neck lymph node metastasis, which turned out to be sinonasal primary and parotid mass), and NUCKS1.
+Tumors harboring H3-3A::AFF2 and NUCKS1::AFF2 fusions exhibited bland transitional cell-like morphology with acantholytic changes similar to classic DEK::AFF2 carcinoma; the NUCKS1 fusion also demonstrated clear cell features.
+In contrast, the EWSR1::AFF2 fusion tumor showed high-grade adenocarcinoma morphology with focal neuroendocrine marker expression, lacking p63 and CK5/6.
+The two CHD4::AFF2 fusion cases demonstrated neuroendocrine differentiation; one was a cytokeratin-negative small blue round cell carcinoma, and the other showed mixed squamoid-neuroendocrine features with strong cytokeratin and p63 expression.
+All tumors demonstrated consistent AFF2 immunoreactivity.
+These findings suggest that AFF2-rearranged tumors form a spectrum of carcinomas with diverse morphologies, immunophenotypes, and differentiation patterns.
+Given the consistent involvement of the AFF2 gene and uniform AFF2 immunohistochemical positivity despite morphological heterogeneity, we propose naming this entity AFF2 carcinoma.

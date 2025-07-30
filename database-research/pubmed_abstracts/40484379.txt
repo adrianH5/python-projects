@@ -1,0 +1,5 @@
+Research on bacterial cell division has traditionally focused on rod-shaped model organisms such as Escherichia coli and Bacillus subtilis.
+While these models have been important in uncovering broadly conserved factors involved in bacterial cell division, the assortment of bacterial shapes, cell wall structures, and lifestyles highlights the need to broaden the scope of study.
+This includes not only understanding how conserved mechanisms are adapted to diverse cellular morphologies but also discovering mechanisms that arise as specific adaptations to unique cellular shapes.
+In this context, alternative models such as Staphylococcus aureus are emerging to provide insight into how Gram-positive cocci overcome the challenge of lacking obvious cellular polarity to ensure accurate placement of the division septum and undergo binary fission.
+In this review, we highlight recent research that reveals how S. aureus performs several distinct but interrelated processes, including peptidoglycan assembly, placement of the cell division septum, and how the division septum can be used as a hub for modifying the peptidoglycan to decorate the cell surface of S. aureus.

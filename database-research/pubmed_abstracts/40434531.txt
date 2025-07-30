@@ -1,0 +1,2 @@
+Computed tomography (CT) image is promising for diagnosing of interstitial idiopathic pneumonias (IIPs); however, quantification of IIPs lesions in CT images is required.
+This study aimed to quantitatively evaluate fibrotic lesions in CT images using homology-based image analysis.

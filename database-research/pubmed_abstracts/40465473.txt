@@ -1,0 +1,7 @@
+Hyperglycemia significantly increases the production of reactive oxygen species (ROS), leading to amplified DNA damage and a higher potential for mutations.
+Pioglitazone, a thiazolidine-class oral antidiabetic drug, enhances insulin sensitivity but also raises concerns about cancer risk due to ROS-induced genotoxic effects.
+We hypothesized and evaluated the genotoxic potential of pioglitazone under hyperglycemic conditions using TK6 cells.
+Genotoxicity was assessed through the Chromosome Aberration (CA) assay and GADD45α gene expression analysis, while cytotoxicity was measured by the Mitotic Index (MI) at doses of 25, 50, and 100 µg/mL of pioglitazone.
+Under glucose concentrations of 300, 400, and 500 mg/dL, pioglitazone did not significantly increase CA frequency or affect GADD45α expression levels in TK6 cells.
+A decrease in MI at 100 µg/mL was observed.
+These findings indicate that pioglitazone does not exhibit genotoxic effects under hyperglycemic conditions.

@@ -1,0 +1,8 @@
+Per- and polyfluoroalkyl substances (PFAS), particularly perfluorooctanoic acid (PFOA) and perfluorooctane sulfonate (PFOS), are persistent environmental contaminants linked to adverse health effects, including an increased risk of breast cancer.
+However, the molecular mechanisms through which PFAS contribute to breast cancer development remain poorly understood.
+In this study, we employed an integrated approach combining network toxicology, single-cell sequencing, spatial transcriptomics, and molecular simulation to investigate the effects of PFAS on breast cancer.
+By constructing a protein-protein interaction (PPI) network, we identified six core genes (PPARG, CD36, FABP4, PPARGC1A, LPL, and PCK1) that play a significant role in the development of breast cancer.
+These genes are involved in key cellular processes such as lipid metabolism, oxidative phosphorylation, and immune regulation, all of which are disrupted by PFAS exposure.
+Single-cell and spatial transcriptomic analyses revealed that these genes are predominantly expressed in endothelial, myeloid, and cancer-associated fibroblasts within the tumor microenvironment.
+Molecular simulation further confirmed strong binding energies between PFAS and these target proteins, suggesting direct interactions.
+Our findings provide novel insights into how PFAS may promote breast cancer progression at the molecular level and highlight the need for further research on environmental pollutants in cancer risk assessment and public health initiatives.

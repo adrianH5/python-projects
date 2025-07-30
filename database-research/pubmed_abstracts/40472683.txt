@@ -1,0 +1,9 @@
+The increasing complexity of cancer diagnostics and treatment selection has placed a growing burden on pathologists, particularly in the evaluation of immunohistochemical (IHC) biomarkers.
+In gastroesophageal cancers (GEC), both adenocarcinoma and squamous cell carcinoma subtypes, multiple prognostic and predictive biomarkers must be assessed to guide therapy.
+These evaluations require meticulous scoring, are time-consuming, and suffer from inter- and intra-observer variability.
+Given the worldwide shortage of pathologists, artificial intelligence (AI)-based tools have emerged as a potential solution to enhance efficiency and accuracy in biomarker scoring.
+This review aims to answer the question captured in its title: can AI help us in IHC biomarker scoring in GEC, and if so, how?
+A search of PubMed and Google Scholar was conducted to identify relevant studies.
+The analysis reveals that AI has demonstrated promise in improving reproducibility and reducing pathologist workload for biomarkers such as PD-L1 and HER2, although its applications in GEC remain limited compared to other cancer types.
+In parallel, predictive computational approaches are emerging that could revolutionize biomarker scoring altogether.
+By alleviating the burdens of complex scoring systems and costly additional assays, AI could have the potential to significantly enhance pathology practice in GEC biomarker evaluation.

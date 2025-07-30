@@ -1,0 +1,6 @@
+Magnetic Particle Imaging (MPI) is an emerging biomedical imaging modality that detects superparamagnetic iron oxide (SPIO) nanoparticle tracers, providing high contrast, sensitivity, and quantification capabilities without the use of ionizing radiation, making it particularly suitable for cancer diagnostics.
+Considerable engineering efforts are underway to translate MPI technology to clinical settings.
+Most of these MPI scanners feature a cylindrical bore geometry similar to other clinical imaging modalities, which restricts their potential application primarily to head scanning.
+We have developed a single-sided MPI scanner designed to expand the technique's applicability to other regions of the human body.
+In this study, we demonstrate the imaging capabilities of our single-sided MPI scanner by imaging an anatomical breast phantom with concealed SPIO point sources to evaluate its potential for breast tumor diagnostics.
+Our method successfully distinguished these artificial tumors in two orthogonal slices, showcasing the scanner's capability to facilitate the transition of MPI technology from small animals to clinical use.

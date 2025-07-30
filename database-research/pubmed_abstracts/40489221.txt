@@ -1,0 +1,5 @@
+Polycyclic aromatic hydrocarbons (PAHs) are critical atmospheric pollutants known to adversely impact human health.
+While internal exposure assessments of PAHs have gained increasing attention, current methods lack the time resolution necessary to capture dynamic changes and chronic health effects accurately.
+Here, we develop an integrated approach to improve the accuracy of internal exposure assessments by combining the Multiple-Path Particle Dosimetry model, a Physiologically Based Toxicokinetic model, and high-resolution concentrations of particle-bound PAHs.
+The rolling mode can calculate hourly internal exposure of particle-bound PAHs, accounting for both the temporal variations of ambient PAH concentrations and their bioaccumulation in the body.
+The annual hazard quotient (HQ) and cancer risk (CR) based on the internal exposure are 5.86 × 10

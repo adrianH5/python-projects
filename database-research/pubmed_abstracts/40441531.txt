@@ -1,0 +1,12 @@
+Accurate disease diagnosis is the cornerstone of patient care, directly impacting the quality of healthcare delivery and patient outcomes.
+Developing diagnostic competence is a critical goal of pathology residency training.
+This study uses longitudinal data from trainees during pathology residency to examine the association between year of training and performance in four key interpretive phases: detecting critical regions, recognizing their relevance, describing histopathological features, and rendering an accurate diagnosis.
+Using a study set of 32 digital whole slide images of breast biopsies, 155 pathology residents from 10 U.S. academic medical centers each reviewed 14 cases across multiple years of residency training.
+Image viewing behavior, annotation accuracy, and diagnostic decisions were recorded and analyzed.
+Generalized estimating equations were used to assess the relationship between residency year and metrics capturing the four interpretive phases.
+Year of residency training was not significantly associated with detection of critical regions or recognizing their importance.
+However, each year of residency training was associated with 2% less time spent viewing critical regions (p = 0.025), and 1% more attentional coverage of the image space (p = 0.01), suggesting that residents adopt broader scanning strategies over time.
+Further, each year of residency training was associated with 19% higher odds of writing an accurate annotation (OR = 1.19, p < 0.001) and 18% higher odds of making an accurate diagnosis (OR = 1.18, p < 0.001).
+Exploratory analyses indicated that accurate feature annotation was the key predictor of diagnostic accuracy, highlighting its importance as a foundational skill in clinical decision-making.
+Both the ability to describe histopathological features and diagnostic accuracy increase with years of residency training, and the former appears to be a key component of the latter.
+Competency-based training in pathology should incorporate targeted interventions to improve histopathological feature recognition and description, which appears most likely to improve overall diagnostic performance.

@@ -1,0 +1,2 @@
+Lung adenocarcinoma (LUAD) remains associated with limited effective pharmacological treatment options.
+This study aimed to identify potential therapeutic targets for LUAD through the integration and analysis of multi-omics datasets.

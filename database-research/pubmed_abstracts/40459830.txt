@@ -1,0 +1,4 @@
+Sodium neuroimaging provides unique insights into the cellular and metabolic properties of brain tumors.
+However, at 3T, sodium neuroimaging MRI's low signal-to-noise ratio (SNR) and resolution discourages routine clinical use.
+We evaluated the recently developed Anatomically constrained GAN using physics-based synthetic MRI artifacts" (ATHENA) for high-resolution sodium neuroimaging of brain tumors at 3T.
+We hypothesized the model would improve the image quality while preserving the inherent sodium information.

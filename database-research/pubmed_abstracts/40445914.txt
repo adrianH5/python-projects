@@ -1,0 +1,2 @@
+Mammographic breast cancer detection depends on high-quality positioning, which is traditionally assessed and monitored subjectively.
+This study used artificial intelligence (AI) to evaluate mammography positioning on digital screening mammograms to identify and quantify unmet mammography positioning quality (MPQ).

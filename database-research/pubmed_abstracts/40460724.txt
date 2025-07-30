@@ -1,0 +1,12 @@
+Antibody-drug conjugates (ADCs) have emerged as a highly promising modality for the treatment of various tumors, including pancreatic cancer.
+Due to the modular nature of ADCs, their efficacy is heavily influenced by the choice of antibody, payload, and linker.
+Given the therapeutic potential of triptolide for pancreatic cancer, this study aims to harness triptolide as the cytotoxic payload to construct ADCs targeting pancreatic cancer.
+Silyl ethers were utilized for the first time as cleavable linkers to connect triptolide with an antibody.
+This is because silyl ethers can be easily synthesized and the rate of drug release can be regulated by modifying the silyl ether groups.
+The release profile of the resulting linkers was investigated.
+And considering the balance between cleavage and stability, one silyl ether-based linker was selected to prepare an ADC, named A10.
+Meanwhile, a traditional dipeptide linker-based ADC, A9, was synthesized for comparison.
+The ADC A10 demonstrated superior inhibitory effects compared to ADC A9, both in vitro and in vivo.
+A10 displayed targeted cytotoxicity against cells with high PD-L1 expression and demonstrated a bystander killing effect on cells with low PD-L1 expression.
+In vivo imaging studies indicated that fluorescently labeled A10 accumulated in tumor regions.
+Additionally, significant antitumor activities of A10 were observed against Panc 08.13-derived tumor xenografts.

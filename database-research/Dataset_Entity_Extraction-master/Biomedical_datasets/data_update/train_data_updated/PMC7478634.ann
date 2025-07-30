@@ -1,0 +1,30 @@
+T1	Repository 246 262	UK Biobank (UKB)
+T2	Repository 1095 1098	UKB
+T3	Dataset 1154 1198	SGSS (Second Generation Surveillance System)
+T4	Repository 1269 1272	UKB
+T5	Repository 1664 1731	PHE COVID-19 Hospitalization in England Surveillance System (CHESS)
+T6	Repository 1736 1794	Intensive Care National Audit and Research Centre (ICNARC)
+T7	Dataset 1896 1900	SGSS
+T8	Repository 1939 1942	UKB
+T9	Dataset 2123 2127	SGSS
+T10	Repository 2132 2135	UKB
+T11	Dataset 2254 2258	SGSS
+T12	Repository 2280 2283	UKB
+T13	Dataset 2557 2561	SGSS
+T14	Repository 2662 2665	UKB
+T15	Repository 2718 2721	UKB
+T16	Dataset 2779 2783	SGSS
+T17	Dataset 2912 2916	SGSS
+T18	Repository 2941 2944	UKB
+T19	Repository 3319 3322	UKB
+T20	Repository 3639 3642	UKB
+T21	Repository 3803 3806	UKB
+T22	Repository 3822 3825	UKB
+T23	Repository 4026 4029	UKB
+T24	Repository 4965 4998	COVID-19 Host Genetics Initiative
+T25	URL 5000 5017	www.covid19hg.org
+T26	Dataset 5099 5136	Second Generation Surveillance System
+T27	Repository 5488 5491	UKB
+T28	Repository 5688 5691	UKB
+T29	Repository 5871 5874	UKB
+R1	hasAttr	Arg1:T24	Arg2:T25

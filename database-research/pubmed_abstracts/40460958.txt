@@ -1,0 +1,6 @@
+Baicalin (BA), a natural flavonoid compound, exhibits potential anti-breast cancer (BC) activity.
+However, its therapeutic efficacy is limited by biological membrane and tumor barriers.
+Albumin nanoparticles demonstrate excellent biocompatibility and ease of modification, making them highly advantageous for antitumor drug delivery.
+Despite these advantages, current preparation methods for albumin-based NPs have significant limitations, including the use of organic or toxic reagents, large and uneven particle size products, complex processes, etc.
+OBJECTIVE: The purpose of this study was to develop a novel method for preparing albumin nanoparticles (BSA NPs).
+Subsequently, BSA NPs were modified with folic acid (FA) and polymers and loaded with BA to construct a novel nanodrug delivery system (BA@mPEG-FA-BSA NPs) to improve the anti-breast cancer efficacy of BA.

@@ -1,0 +1,8 @@
+T-cell immunotherapy has progressed rapidly, evolving from native T-cell receptor biology to the development of innovative synthetic receptors that extend therapeutic applications beyond cancer.
+This review explores engineering strategies, ranging from natural TCRs to synthetic receptors, that increase T-cell activation and therapeutic potential.
+We begin by highlighting the foundational role of native receptors in the T-cell response, emphasizing how these structural and functional insights inform the design of next-generation synthetic receptors.
+Comparisons between CAR and TCR-like synthetic receptors underscore their respective advantages in specificity, efficacy, and safety, as well as potential areas for further improvement.
+In addition, gene editing technologies such as CRISPR-Cas9 enable precise modifications to the T-cell genome, enhancing receptor performance and minimizing immunogenic risks.
+In addition to tumors, these engineered T cells can be directed against viral infections, autoimmune disorders, and other diseases.
+We also explore advanced strategies that engage multiple immune cell types to achieve synergistic, durable responses.
+By demonstrating how native and synthetic receptors collectively drive innovation, this review aims to inspire new research directions and ultimately expand the scope of T-cell engineering for universal therapeutic applications.

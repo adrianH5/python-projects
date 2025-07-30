@@ -1,0 +1,11 @@
+The coronavirus diseases 2019 (COVID-19) pandemic was associated with disruption of oncology care and increased utilization of telehealth.
+However, the impact of the pandemic on cancer outcomes is under-studied.
+We evaluated the impact of the COVID-19 pandemic on recurrence rates in ovarian cancer patients in a retrospective cohort study.
+Women (age ≥ 18 years) diagnosed with stage I-IV epithelial ovarian cancer between 01/01/2017-06/30/2021 at Kaiser Permanente Southern California who received chemotherapy and/or surgery; and achieved complete remission following first-line treatment were included.
+The pre-pandemic and pandemic periods were defined based on the date of implementation of stay-at-home order in California (03/04/2020).
+Chart reviews were conducted to determine recurrence within 12 months of remission by physician notes, imaging findings, or CA125 levels.
+A total of 548 patients were included; 73.4 % and 26.6 % patients were diagnosed during the pre-pandemic and pandemic periods, respectively.
+About a quarter of the patients had cancer recurrence within 12 months of remission; 25.6 % and 19.2 % of patients diagnosed in the pre-pandemic and pandemic periods had recurrence, respectively (p-value = 0.12).
+Patients diagnosed during the pandemic were 35 % less likely to have recurrence than those in the pre-pandemic period, after adjusting for age, race/ethnicity, cancer stage, and time to treatment.
+Additionally adjusting for poly-ADP ribose polymerase (PARP) inhibitors in patients with stage II-IV cancer led to similar findings.
+In conclusion, ovarian cancer patients diagnosed and treated during the COVID-19 pandemic at KPSC did not have a higher recurrence rate than patients in the pre-pandemic period, despite changes in management approach.

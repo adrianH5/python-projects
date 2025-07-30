@@ -1,0 +1,1 @@
+To establish prediction models using Shapley Additive exPlanations (SHAP) and multiple machine learning (ML) algorithms to identify clinical features influencing hepatic arterial infusion chemotherapy (HAIC) resistance and survival in patients with hepatocellular carcinoma (HCC).

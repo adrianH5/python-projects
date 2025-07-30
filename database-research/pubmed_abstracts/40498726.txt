@@ -1,0 +1,17 @@
+Chronic physical conditions (CPCs) are conditions that persist for long periods and may not have a cure.
+Fatigue is a common symptom experienced by people living with CPCs.
+Mind-body internet and mobile-based interventions (IMIs) offer an accessible management strategy.
+The objective of this review was to assess the impact of mind-body IMIs on fatigue symptoms in adults with CPCs.
+Six databases were searched from inception to July 2024.
+Inclusion required randomized controlled trials (RCTs) of mind-body IMIs in adults (≥ 18) with CPCs that assessed fatigue pre-and post-intervention using self-report questionnaires.
+The primary outcome was the standardized mean fatigue change scores (Hedges' g).
+Sub-group analyses were conducted on CPC type, mind-body technique, fatigue questionnaire, and personnel support level.
+Meta-regression was performed on IMI length and age.
+Study quality was assessed using the Cochrane Risk of Bias 2.0 tool.
+The search retrieved 5239 studies.
+Seventeen studies met inclusion criteria: 47% neurological (n = 8), 29% cancer (n = 5), and 24% autoimmune (n = 4).
+Seven studies (41%) included cognitive behavioural therapy (CBT), seven used CBT combined with non-CBT techniques, and three employed non-CBT techniques.
+Mind-body IMIs led to significant reductions in fatigue (SMD = -0.74 [-1.09, -0.39]; p < 0.0001), with a greater effect in younger participants (p = 0.005).
+Heterogeneity was moderate to high.
+In conclusion, mind-body IMIs show promise in reducing fatigue symptoms in adults with CPCs.
+Further high-quality RCTs, expanding beyond CBT techniques, and using at least one common fatigue scale across conditions, would be helpful in evaluating the impact of IMIs across a broader range of CPCs.

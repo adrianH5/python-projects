@@ -1,0 +1,11 @@
+Polycystic Ovary Syndrome (PCOS) lacks specific biomarkers for early diagnosis.
+Recent evidence implicates cuproptosis, a copper-induced regulated cell death pathway, and N6-methyladenosine (m6A) RNA modifications in metabolic and inflammatory processes central to PCOS pathogenesis.
+This study aimed to construct integrated diagnostic signatures based on cuproptosis- and m6A-related gene expression.
+Transcriptome data from GEO datasets (GSE95728, GSE106724, GSE114419) comprising 28 PCOS and 22 control granulosa cell samples were merged and batch-corrected.
+Differentially expressed genes (DEGs) overlapping with curated cuproptosis-related and m6A-target gene sets were identified.
+LASSO regression was applied to generate diagnostic models based on selected DEGs: CASK, AGMAT, NEDD4, and PTGES3 (cuproptosis); CLDN1, ACLY, and DDX3X (m6A).
+The combined model achieved excellent diagnostic accuracy (AUC up to 0.960), validated in an independent dataset (GSE168404).
+ssGSEA analysis revealed immune dysregulation involving dendritic cells, T cell subsets, and myeloid-derived suppressor cells, which correlated with risk scores.
+Drug-gene association analysis via CellMiner indicated therapeutic relevance of targets such as ACLY and CLDN1 (Vinblastine), as well as CASK and CLDN1 (XAV-939).
+qRT-PCR validation in granulosa cells from 5 PCOS patients and 5 controls confirmed gene expression trends.
+These findings suggest cuproptosis- and m6A-based signatures may enable accurate PCOS diagnosis and guide individualized immunomodulatory strategies.

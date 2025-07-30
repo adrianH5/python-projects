@@ -1,0 +1,7 @@
+Advances in next-generation sequencing technologies have vastly expanded the availability of diverse genomic, epigenomic and transcriptomic data, presenting the opportunity to develop a general AI model that integrates comprehensive genomic knowledge into a unified model.
+Unlike previous predictive models, which are typically specialized to certain tasks, our general AI model unifies a wide range of genomic modalities, such as nascent RNA and ultra-high-resolution chromatin organization, within a multi-task architecture.
+Using ATAC-seq and DNA sequences as inputs, we incorporated diverse genomic modalities as output, and the model exhibits strong generalizability across different cell types and tissues in all tasks we trained.
+It accurately predicts gene-level transcription measured by various nascent RNA assays, and effectively captures enhancer-associated transcription.
+Additionally, it also accurately captures the potential functions of non-coding genetic variants and regulatory elements.
+Additionally, we extended the model trained on human data to a mouse general model, achieving accurate predictions of genomic modalities, such as high resolution chromatin contact maps with limited data availability, which are further validated using an established mouse inner-ear study.
+This comprehensive approach offers a powerful tool for understanding genome regulation in both human and mouse species.

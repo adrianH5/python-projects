@@ -1,0 +1,25 @@
+Following the first case reports in Hubei province, China, in late 2019, a pandemic of coronavirus disease 2019 (COVID-19) was declared by the World Health Organization in March 2020.
+Although COVID-19 causes minimal or mild illness in most, a small but appreciable proportion of individuals require oxygen therapy and often admission to an intensive care unit (ICU).
+The ensuing unprecedented pressure on hospital wards and ICUs has necessitated rapid re-deployment of staff and capacity towards the management of COVID-19 cases with deprioritisation of non-emergency clinical services, including diagnostics and elective specialist surgery.
+ICU COVID-19 mortality, distribution by age and duration of stay and proportion referred into ICU were obtained from ICNARC (Intensive Care National Audit and Research Centre) and data from hospitalised UK cases.
+,
+ Because of lack of UK data, data from Wuhan were used as the basis for the age distribution of community infection, age-specific likelihoods of admission from community to hospital and case fatality rates for non-ICU COVID-19 patients
+,
+ (see supplementary Table S1, available at Annals of Oncology online).
+To compare life-years associated with timely cancer surgery with those afforded by hospitalisation of COVID-19 patients, we modelled a volume of community-ascertained COVID-19 infection, resulting in an equivalent volume of hospital admissions to cancer surgeries (see supplementary Table S1, available at Annals of Oncology online).
+Accounting for nosocomial COVID-19 infection, for cancers with a relatively good overall prognosis, delay of surgery by 3 months had a minimal impact on survival: <1% for all stage 1 ER+ and HER2+ breast cancers, for example.
+In older patients (aged >70), for early stage colorectal, kidney and ER+ breast cancers, the current impact on survival of COVID-related mortality exceeded the impact of 3 or even 6 months' delay (Table 2; see also supplementary Table S3, available at Annals of Oncology online).
+Prior to the COVID-19 crisis, each year cancer surgery was directly responsible for 1 717 051 LYGs.
+For contextualisation, we compare the impact of cancer surgery delay with hospital care for patients with community-acquired COVID-19 infection.
+COVID-19 ICU admission for those aged 40–49 yielded on average 27.5 LYGs and 0.8 RALYGs.
+These estimates are inherently conservative as they do not take into account the impact on life expectancy of the excess comorbidities associated with many hospitalised COVID-19 cases.
+COVID-19 community-acquired infection of 683 083 individuals would result in 94 912 hospital admissions (i.e. the equivalent number to number of annual admissions for cancer surgery; Table 4).
+This represents on average 5.08 LYGs and 0.46 RALYGs per hospitalised COVID-19 patient.
+This will serve to minimise nosocomial acquisition and mortality from COVID-19, to protect staff and also to provide reassurance to the public regarding uptake of diagnostics and surgery for cancer.
+Background  Cancer diagnostics and surgery have been disrupted by the response of health care services to the coronavirus disease 2019 (COVID-19) pandemic.
+Using health care resource costing, we contextualise attributable lives saved and life-years gained (LYGs) from cancer surgery to equivalent volumes of COVID-19 hospitalisations.
+For 94 912 hospital COVID-19 admissions, there are 482 022 LYGs requiring 1 052 949 HCRUs.
+Hospitalisation of community-acquired COVID-19 patients yields on average per patient 5.08 LYG and 0.46 RALYGs.
+Delay of 3/6 months in surgery for incident cancers would mitigate 19%/43% of LYGs, respectively, by hospitalisation of an equivalent volume of admissions for community-acquired COVID-19.
+Highlights     •  Lockdown and re-deployment due to the COVID-19 pandemic have caused significant disruption to cancer diagnosis and management.
+The resource-adjusted benefit in avoiding delay in cancer management compares favourably with admission for COVID-19 infection.

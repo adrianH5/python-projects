@@ -1,0 +1,8 @@
+Previously, menopause, hysterectomy, and tubal ligation (TL) have been evaluated as coronary heart disease (CHD) risk factors.
+However, the results regarding the significance of these associations were conflicting.
+Thus, the present study aimed to assess whether hysterectomy, menopause, and TL increase the odds of CHD.
+This case-control study included data from the enrollment phase of the Tabari cohort study (TCS) consisting of 564 cases of CHD and 564 healthy controls.
+Logistic regression was used to calculate the odds ratio (OR) of CHD in relation to hysterectomy, menopause, and TL status after adjustment for confounders.
+The univariate logistic regression analysis showed a significantly higher odds of CHD among post-menopausal participants (OR: 5.09, 95%CI 3.92-6.61), participants with TL (OR: 1.81, 95%CI 1.41-2.32), and women with hysterectomy (OR: 2.43, 95%CI 1.69-3.50).
+However, none of the associations were statistically significant (Hysterectomy: OR: 1.21, 95%CI 0.8-1.85; Menopause: OR: 1.43, 95%CI 0.88-2.31; TL: OR: 1.01, 95%CI 0.74-1.37) in the fully adjusted model (after adjustment for age, diabetes, hypertension, residential area, waist-to-hip ratio, pregnancy number, socio-economic state, occupation, education, and physical activity).
+Although some models showed significance, none of the reproductive factors showed a significant association with CHD after full adjustment.

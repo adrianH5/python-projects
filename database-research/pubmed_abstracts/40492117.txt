@@ -1,0 +1,5 @@
+3DPN is a prospective, multicenter, randomized, controlled, two-armed open trial with planned recruitment of 370 patients in ten centers over a period of 24 mo.
+The trial is evaluating the value of virtual interactive 3D modeling for robot-assisted partial nephrectomy (RAPN) by assessing clinical outcomes, patient understanding, and surgeon confidence.
+Patients aged ≥18 yr with kidney tumors ≤7 cm who have contrast-enhanced computed tomography (CT) scans available and for whom RAPN with a da Vinci Surgical System is planned are eligible for the study.
+Using 1:1 randomization, patients are assigned to either the 3D model-based RAPN arm or the 2D CT scan-based RAPN arm.
+This trial is registered on ClinicalTrials.gov as NCT06056505.

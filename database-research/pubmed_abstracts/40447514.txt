@@ -1,0 +1,5 @@
+Developing a generic sensitive platform for detecting diverse biomarkers is essential for a comprehensive understanding of disease states, guiding precision medicine.
+Herein, we introduce a versatile platform based on glass fiber interfaced CRISPR/Cas with a universal reagent setting (g-CURS), which used a fixed pair of CRISPR RNA (crRNA) and a single-stranded DNA (ssDNA) activator to enable detection of multiple nucleic acids or proteins with ultrahigh sensitivity.
+The fixed ssDNA activator was labeled on multiple specific ligation products or detection antibodies conjugated on glass fiber to initiate CRISPR/Cas12a-assisted rapid and exponential cascade amplification through circular reporters (CRs), generating fluorescence signals readable by a portable detector.
+g-CURS was able to detect viral nucleic acids with attomolar sensitivity within 30 min and multiple low-abundance proteins in extracellular vesicles of Parkinson's disease (PD) serum with subpicomolar sensitivity within 80 min.
+g-CURS simplifies CRISPR/Cas biosensing using a standard reagent setting, holding promise for biomarker discovery free from bulky instruments.

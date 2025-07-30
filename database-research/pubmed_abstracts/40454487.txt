@@ -1,0 +1,9 @@
+Loss-of-function mutations in genome maintenance genes fuel tumorigenesis through increased genomic instability.
+A subset of these tumor suppressors are challenging to identify due to context dependency, including functional interactions with other genes and pathways.
+Here, we searched for potential causal genes that impact tumor development and/or progression in breast cancer through functional-genetic screening of candidate genes.
+MYH4, encoding a class II myosin, emerged as a top hit impacting genomic stability.
+We show that MYH4 suppresses DNA replication stress by promoting replication licensing and replication fork progression.
+Moreover, we observed a strong synergistic relationship among class II myosins in suppressing replication-associated DNA damage.
+Genomic analysis of Pan-Cancer Analysis of Whole Genomes project breast cancer samples revealed frequent concomitant loss of TP53 with MYH4 and class II myosins on chromosome 17p.
+Notably, Myh4 disruption accelerated mouse mammary tumorigenesis in a Trp53-deficient background.
+In conclusion, our results suggest an unanticipated function of MYH4 in p53-mediated tumor suppression that can explain their combined loss in breast cancer.

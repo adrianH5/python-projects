@@ -1,0 +1,2 @@
+Appropriate categorization based on magnetic resonance imaging (MRI) findings is important for managing intraductal papillary mucinous neoplasms (IPMNs).
+In this study, a large language model (LLM) that classifies IPMNs based on MRI findings was developed, and its performance was compared with that of less experienced human readers.

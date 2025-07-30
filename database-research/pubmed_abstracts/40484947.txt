@@ -1,0 +1,2 @@
+Lymph node metastasis (LNM) is the primary metastatic mode in gastric cancer (GC), with frequent occurrences in lesser curvature.
+This study aims to establish a radiomic model to predict the metastatic status of lymph nodes in the lesser curvature for GC.

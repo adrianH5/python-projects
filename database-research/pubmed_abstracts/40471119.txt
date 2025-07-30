@@ -1,0 +1,6 @@
+Radiotherapy (RT), a cornerstone of cancer treatment, exerts its therapeutic effects primarily by inducing DNA damage in tumor cells and modulating the tumor immune microenvironment (TIME).
+Despite its efficacy, RT is often counteracted by tumor-intrinsic mechanisms, such as DNA damage repair, as well as immune-suppressive responses.
+YTHDF proteins, key N6-methyladenosine (m6A) readers, have emerged as pivotal regulators of tumor progression, DNA repair, and immune cell function, making them promising targets for enhancing RT efficacy.
+In this review, we explore the dual roles of YTHDF proteins in modulating both tumor-intrinsic and immune-mediated responses to RT.
+We summarize their influence on DNA damage repair pathways in tumor cells and their impact on the TIME, which collectively shape the antitumor efficacy of RT.
+Furthermore, we discuss recent advances in the development of YTHDF-targeting inhibitors and their potential to synergize with RT and immunotherapy, offering new avenues to improve cancer treatment outcomes.

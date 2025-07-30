@@ -1,0 +1,19 @@
+Cancer immunotherapy, particularly T cell-based therapies, is considered to have strong potential for treating various types of cancer.
+A promising approach that has emerged is the use of γδ T cell-based strategies for cancer treatment.
+Neuroblastoma (NB), a solid tumor frequently found in childhood, is one of the more intriguing targets for immunotherapy.
+In this study, we report an alternative immunotherapy method for treating neuroblastoma by combining bispecific antibody with human Vγ9Vδ2 T cells.
+Initially, we screened for human scFv against CD3 epsilon using phage panning technology.
+Human scFv CD3 clone 18 demonstrated the highest ability to bind CD3 epsilon in an indirect ELISA assay.
+Consequently, we selected human scFv CD3 clone 18 to create a bispecific T cell engager antibody targeting both CD3 and disialoganglioside (GD2), called CD3/GD2 BiTE.
+This bispecific antibody was composed of human scFv CD3 clone 18 (VH-VL) and mouse scFv GD2 (VL-VH), linked by a flexible peptide linker.
+The interleukin-2 signal sequence and polyhistidine tag were added at the N- and C-termini for protein secretion and purification, respectively.
+CD3/GD2 BiTE was transiently produced in a mammalian cell expression system, which provided both high yield and quality.
+The CD3/GD2 BiTE folded naturally into a compact monomeric structure.
+Cell-based binding activity assays demonstrated that CD3/GD2 BiTE specifically binds to its target antigens on CD3-positive Jurkat cells and GD2-positive SH-SY5Y cells, but did not react with CD3-negative Raji cells and GD2-negative SK-N-SH cells.
+In subsequent in vitro experiments, the cytotoxicity of CD3/GD2 BiTE combined with human Vγ9Vδ2 T cells against neuroblastoma cells was evaluated.
+Human Vγ9Vδ2 T cells were primed with CD3/GD2 BiTE to improve the binding specificity and avidity against neuroblastoma cell lines before adding into SH-SY5Y cells.
+At concentrations of 180 and 360 nM, the CD3/GD2 BiTE significantly enhanced the killing ability of human Vγ9Vδ2 T cells against SH-SY5Y cells at an E:T ratio of 1:1.
+Moreover, CD3/GD BiTE armed with human Vγ9Vδ2 T cells enabled the killing of neuroblastoma cells using five- to ten-times fewer effector cells.
+The combination of CD3/GD2 BiTE and human Vγ9Vδ2 T cells also exhibited cytotoxic activity against a three-dimensional tumor spheroid model of SH-SY5Y GFP at an E:T ratio of 1:1.
+Consequently, CD3/GD2 BiTE enhances tumor-targeting and cytotoxic abilities of human Vγ9Vδ2 T cells against neuroblastoma cells in both two-dimensional and three-dimensional cell cultures.
+These results suggest that the combination of CD3/GD2 BiTE and human Vγ9Vδ2 T cells could represent an alternative immunotherapy strategy for treating neuroblastoma patients in the future.

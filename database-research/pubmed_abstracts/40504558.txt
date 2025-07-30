@@ -1,0 +1,4 @@
+The tumor suppressor protein p53, widely known for the potency and diversity of its functions, acts as a critical barrier to tumorigenesis.
+Mutations in p53, particularly within its DNA-binding domain (DBD), compromise its tumor suppressing function in over 40% of human tumors.
+Diverse p53 mutants adopt three major types of oncogenic effects, namely the loss-of-function effect, dominant-negative effect and gain-of-function effect.
+However, the conformational mechanisms by which hotspot mutations (

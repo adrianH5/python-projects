@@ -1,0 +1,7 @@
+Amphiphilic copolymers can spontaneously form different structures such as micelles, worm-like micelles, and spherical and tubular polymersomes, determined by the ratio of hydrophilic and hydrophobic blocks.
+Among them, polymersomes are composed of an aqueous core and a hydrophobic membrane that can encapsulate hydrophilic and hydrophobic drugs.
+Significant effort has been dedicated to developing polymersomes for targeted delivery of drugs, particularly in cancer therapy.
+Nonetheless, polymersomes hold great potential for drug delivery to the ocular tissues as well.
+Polymersomes provide various advantages as ocular drug delivery systems due to their chemical and physical adaptability, ability to encapsulate multiple drugs, and precise control over parameters including size, shape, membrane characteristics, drug release, ability to traverse biological barriers, and responsiveness to stimuli.
+Despite the limited research to date, polymersomes, with their superior mobility within ocular compartments and their tunable properties, should be considered a promising option for ocular drug delivery, surpassing other vesicular systems such as liposomes and niosomes.
+In this review, we assessed the possibility of polymersomes as carriers for delivering drugs to ocular tissues.

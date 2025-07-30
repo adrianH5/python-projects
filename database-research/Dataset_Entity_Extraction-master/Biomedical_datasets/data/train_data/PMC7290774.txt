@@ -1,0 +1,3 @@
+Removal of unincorporated ddNTP’s, salts, and dye blobs were performed by BigDye XTerminator Purification Kit (Applied Biosystems, San Diego, CA, USA).
+The genomic data was analyzed and submitted to a public database (GenBank) under accession numbers MK858156-MK858164 and MN735679-MN735682 (Supplementary Table S1).
+Potential recombination events among MERS-CoV S gene complete reference sequences retrieved from GenBank sequence database (n = 147) and the study strains (n = 13) (Supplementary Table S1) were identified using automated RDP, GENECONV, BOOTSCAN, MaxChi, CHIMAERA, and SISCAN methods provided in RDP4 software [34].

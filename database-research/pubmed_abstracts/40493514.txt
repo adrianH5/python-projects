@@ -1,0 +1,19 @@
+The increasing demand for population-wide genomic screening and the limited availability of genetic counseling resources have created a pressing need for innovative service delivery models.
+Chatbots powered by large language models (LLMs) have shown potential in genomic services, particularly in pretest counseling, but their application in returning positive population-wide genomic screening results remains underexplored.
+Leveraging advanced LLMs like GPT-4 offers an opportunity to address this gap by delivering accurate, contextual, and user-centered communication to individuals receiving positive genetic test results.
+This project aimed to design, implement, and evaluate a chatbot integrated with GPT-4, tailored to support the return of positive genomic screening results in the context of South Carolina's In Our DNA SC program.
+This initiative offers free genetic screening to 100,000 individuals, with over 33,000 results returned and numerous positive findings for conditions such as Lynch syndrome, hereditary breast and ovarian cancer syndrome, and familial hypercholesterolemia.
+A 3-step prompt engineering process using retrieval-augmented generation and few-shot techniques was used to create the chatbot.
+Training materials included patient frequently asked questions, genetic counseling scripts, and patient-derived queries.
+The chatbot underwent iterative refinement based on 13 training questions, while performance was evaluated through expert ratings on responses to 2 hypothetical patient scenarios.
+The 2 scenarios were intended to represent common but distinct patient profiles in terms of gender, race, ethnicity, age, and background knowledge.
+Domain experts rated the chatbot using a 5-point Likert scale across 8 predefined criteria: tone, clarity, program accuracy, domain accuracy, robustness, efficiency, boundaries, and usability.
+The chatbot achieved an average score of 3.86 (SD 0.89) across all evaluation metrics.
+The highest-rated criteria were tone (mean 4.25, SD 0.71) and usability (mean 4.25, SD 0.58), reflecting the chatbot's ability to communicate effectively and provide a seamless user experience.
+Boundary management (mean 4.0, SD 0.76) and efficiency (mean 3.88, SD 1.08) also scored well, while clarity and robustness received ratings of 3.81 (SD 1.05) and 3.81 (SD 0.66), respectively.
+Domain accuracy was rated 3.63 (SD 0.96), indicating satisfactory performance in delivering genetic information, whereas program accuracy received the lowest score of 3.25 (SD 1.39), highlighting the need for improvements in delivering program-specific details.
+This project demonstrates the feasibility of using LLM-powered chatbots to support the return of positive genomic screening results.
+The chatbot effectively handled open-ended patient queries, maintained conversational boundaries, and delivered user-friendly responses.
+However, enhancements in program-specific accuracy are essential to maximize its utility.
+Future research will explore hybrid chatbot designs that combine the strengths of LLMs with rule-based components to improve scalability, accuracy, and accessibility in genomic service delivery.
+The findings underscore the potential of generative artificial intelligence tools to address resource limitations and improve the accessibility of genomic health care services.

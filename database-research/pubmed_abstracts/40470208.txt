@@ -1,0 +1,5 @@
+Epitope-based vaccines are promising therapeutic modalities for infectious diseases and cancer, but identifying immunogenic epitopes is challenging.
+The vast majority of prediction methods only use amino acid sequence information, and do not incorporate wide-scale structure data and biochemical properties across each peptide-MHC.
+We present ImmunoStruct, a deep-learning model that integrates sequence, structural, and biochemical information to predict multi-allele class-I peptide-MHC immunogenicity.
+By leveraging a multimodal dataset of ∼27,000 peptide-MHCs, we demonstrate that ImmunoStruct improves immunogenicity prediction performance and interpretability beyond existing methods, across infectious disease epitopes and cancer neoepitopes.
+We further show strong alignment with

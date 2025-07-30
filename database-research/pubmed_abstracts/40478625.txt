@@ -1,0 +1,7 @@
+Resistance to chemotherapy is a critical challenge in triple negative breast cancer (TNBC).
+In this study, the proteomes of pretreatment core biopsy samples from 16 TNBC patients with differential response to neoadjuvant chemotherapy (NAC) were analyzed by nanoLC-MS/MS to identify biomarkers of intrinsic chemotherapy resistance.
+This led to the identification of cytochrome P450, family 1, subfamily B, polypeptide 1 (CYP1B1) and 71 additional proteins as significantly more abundant in chemoresistant than chemosensitive TNBC.
+Immunohistochemical analysis of 80 TNBC confirmed an association between elevated tumor cell CYP1B1 and residual cancer burden class 2/3 disease after NAC in T cell-excluded (TCE) TNBC (P <0.01), but not in T cell-infiltrated TNBC.
+The frequency of complete pathologic response in TCE-TNBC with elevated CYP1B1 was 18% versus 56% in TCE-TNBC with low CYP1B1 and 75% in T cell-infiltrated TNBC.
+Retrospective review of the chemotherapy regimens suggested that TCE-TNBC with elevated CYP1B1 were particularly resistant to doxorubicin/cyclophosphamide.
+This study is the first to associate resistance to neoadjuvant chemotherapy in TNBC with elevated CYP1B1.

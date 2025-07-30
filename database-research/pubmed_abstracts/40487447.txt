@@ -1,0 +1,6 @@
+The heterogeneity of cancers is driven by diverse mechanisms underlying oncogenesis such as differential 'cell-of-origin' progenitors, mutagenesis, and viral infections.
+Classification of B cell lymphomas has been defined by considering these characteristics.
+However, the expression and contribution of endogenous retroelements (EREs) to B cell lymphoma oncogenesis or classification have been overlooked.
+We hypothesized that incorporating ERE expression signatures would increase the resolution of B cell identity during healthy and malignant conditions.
+Here, we present the first comprehensive, locus-specific characterization of ERE expression in benign germinal center B cells, diffuse large B cell lymphoma, Epstein-Barr virus (EBV)-positive and EBV-negative Burkitt lymphoma, and follicular lymphoma.
+Our findings demonstrate unique human ERE signatures in the GC and lymphoma subtypes whose activity can be used in combination with gene expression to define B cell lineage in lymphoid malignancies, highlighting the potential of ERE analyses as a tool in lymphoma classification, diagnosis, and the identification of treatment groups.

@@ -1,0 +1,7 @@
+Esophageal squamous cell carcinoma (ESCC) is a common and aggressive cancer with limited responses to immunotherapy.
+High mobility group A1 (HMGA1), a chromatin remodeling protein, plays a key role in tumor progression, but its impact on anti-tumor immunity in ESCC remains unclear.
+Here we show that HMGA1 suppresses the stimulator of interferon genes (STING), inhibiting type I interferon secretion, downregulating interferon-stimulated genes, and impairing tumor-infiltrating lymphocyte (TIL) recruitment.
+HMGA1 inhibits STING transcription by competing with the coactivator CBP/p300 for binding to CREB.
+ESCCs from genetically modified mouse models with altered HMGA1 and STING expression exhibit varying TIL levels and sensitivity to STING agonists.
+Additionally, we design and synthesize a series of HMGA1 inhibitors, including a perylene-based nanoparticle, PDIC-DPC, which effectively inhibits HMGA1 and enhances TIL infiltration.
+Our findings identify HMGA1 as a critical immune checkpoint in ESCC and suggest that targeting HMGA1 could improve immunotherapy outcomes.

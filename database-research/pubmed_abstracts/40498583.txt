@@ -1,0 +1,8 @@
+BackgroundWhile greater institutional experience with high-risk rectal cancer operations has previously been associated with improved clinical outcomes, the impact on costs remains unclear.
+The present work aimed to characterize the relationship between hospital proctectomy volume and hospitalization costs.MethodsThe 2016-2021 Nationwide Readmissions Database was queried to identify all adults undergoing elective rectal cancer resection.
+Multivariable linear regression was used to model hospitalization costs, with inclusion of hospital volume as restricted cubic splines.
+The volume corresponding to the inflection point (60 cases) was used to categorize hospitals as high-volume (HVH) or low-volume (LVH).
+Association of HVH status with adverse events, resource use, and readmission was assessed.ResultsAn estimated 123,231 patients underwent rectal cancer resection, with median cost of $24,700.
+Although only 22.1% of hospitals were defined as HVH, 65.3% of patients were treated at these centers.
+Compared to LVH, patients at HVH were more commonly privately insured and had neoadjuvant chemoradiation and robotic operations.
+After adjustment, HVH was associated with lower odds of complications (AOR 0.91,

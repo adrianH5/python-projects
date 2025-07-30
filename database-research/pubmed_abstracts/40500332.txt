@@ -1,0 +1,6 @@
+The enhancement of antitumour immunity via agonists of the stimulator of interferon genes (STING) pathway is limited by pharmacological barriers.
+Here we show that the covalent conjugation of a STING agonist to anti-albumin nanobodies via site-selective bioconjugation chemistries prolongs the circulation of the agonist in the blood and increases its accumulation in tumour tissue, stimulating innate immune programmes that increased the infiltration of activated natural killer cells and T cells, which potently inhibited the growth of mouse tumours.
+The technology is modular, as demonstrated by the recombinant integration of a second nanobody domain targeting programmed death-ligand 1 (PD-L1), which further increased the accumulation of the agonist in tumours while blocking immunosuppressive PD-1/PD-L1 interactions.
+The bivalent nanobody-STING agonist conjugate stimulated robust antigen-specific T-cell responses and long-lasting immunological memory and conferred enhanced therapeutic efficacy.
+It was also effective as a neoadjuvant treatment to adoptive T-cell therapy.
+As a modular approach, hitchhiking STING agonists on serum albumin may serve as a broadly applicable strategy for augmenting the potency of systemically administered cancer immunotherapies.

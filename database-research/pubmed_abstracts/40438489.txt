@@ -1,0 +1,13 @@
+Cancer drug resistance poses a significant challenge in oncology, primarily driven by cancer cell plasticity, which promotes tumor initiation, progression, metastasis, and therapeutic evasion in many different cancers.
+Breast cancers (BCs) are a prominent example of that, with an estimated 2.3 million new cases and 670,000 BC-related deaths registered worldwide annually.
+Triple-negative BC is especially challenging for treatments demonstrating particularly aggressive disease course, an early manifestation of metastatic disease, frequent drug-resistant cancer types, and poor individual outcomes.
+Although chemosensitizing agents have been developed, their clinical utility in oncology remains unproven.
+The mitogen-activated protein kinase (MAPK) pathway is considered a critical regulator of intracellular and extracellular signaling highly relevant for both - genetic and epigenetic modifications.
+Dysregulation of the MAPK signaling pathways plays a significant role in conferring chemoresistance in BC.
+Contextually, targeting the MAPK pathway represents a promising strategy for overcoming drug resistance and enhancing the therapeutic efficacy of anticancer agents in BC treatment.
+On the other hand, flavonoids, a prominent class of phytochemicals, are key modulators of MAPK signaling.
+Flavonoids interact with the ERK, JNK, p38, and ERK5 pathways of the MAPK signaling cascade and present a promising avenue for developing novel anti-cancer therapies and re-sensitizing agents for the treatment of BC.
+Compounds such as quercetin, kaempferol, genistein, luteolin, myricetin, EGCG, baicalein, baicalin, nobiletin, morin, delphinidin, acacetin, isorhamnetin, apigenin, silymarin, among others, have been identified as specific modulators of MAPK signaling, exerting complex downstream effects in BC cells increasing therewith drug efficacy and suppressing tumor growth and aggressivity.
+These properties reflect mechanisms of great clinical relevance to overcome therapeutic resistance in overall BC management.
+This article highlights corresponding mechanisms and provides clinically relevant illustrations in the framework of 3P medicine for primary (protection of individuals at high risk against health-to-disease transition) and secondary care (protection against metastatic BC progression).
+3PM novelty makes good use of patient phenotyping and stratification, predictive multi-level diagnostics, and application of Artificial Intelligence (AI) tools to the individualized interpretation of big data - all proposed for cost-effective treatments tailored to individualized patient profiles with clear benefits to patients and advanced BC management.

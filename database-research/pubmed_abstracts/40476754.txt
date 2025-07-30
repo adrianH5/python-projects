@@ -1,0 +1,6 @@
+Investigating the role of nicotinamide phosphoribosyltransferase (NAMPT) in tumor growth is significant for enhancing cancer treatment outcomes.
+This work proposes fluorescence lifetime endoscopic microscopy (FLIME) for the real-time visualization of aerobic glycolysis in the tumor microenvironment.
+We investigated the effect of NAMPT inhibition using the FK866 small-molecule inhibitor in a mouse model.
+The results show that FK866 effectively inhibits the NAD+-induced aerobic glycolysis process and decelerates tumor growth.
+Moreover, the combined effect of FK866 with cisplatin can further inhibit tumor proliferation and progression.
+These findings indicate that the acidity of the tumor microenvironment can serve as a metric for evaluating the extent of aerobic glycolysis and its implications for tumor growth and treatment, offering a potentially valuable approach for assessing clinical drug efficacy.

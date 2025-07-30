@@ -1,0 +1,17 @@
+T1	Dataset 646 687	Tissue Atlas of Human Protein Atlas (HPA)
+T2	Dataset 689 722	Genotype-Tissue Expression (GTEx)
+T3	Dataset 728 821	Functional Annotation of Mammalian Genomes 5 (FANTOM5) Cap Analysis of Gene Expression (CAGE)
+T4	Creator 1060 1066	Monaco
+T5	Creator 1086 1095	Schmiedel
+T6	Dataset 3529 3568	Human Protein Atlas (HPA) tissues atlas
+T7	Dataset 3570 3603	Genotype-Tissue Expression (GTEx)
+T8	Dataset 3617 3671	Functional Annotation of Mammalian Genomes 5 (FANTOM5)
+T9	Repository 3945 3957	ProteomicsDB
+T10	Repository 3959 3964	MOPED
+T11	Repository 3966 3971	PaxDb
+T12	Repository 3977 3982	MaxQB
+T13	Creator 4026 4040	Schmiedel B.J.
+T14	Creator 4048 4057	Monaco G.
+T15	Dataset 4344 4360	HPA tissue Atlas
+T16	Dataset 4362 4366	GTEx
+T17	Dataset 4372 4384	FANTOM5 CAGE

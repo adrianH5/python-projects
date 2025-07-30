@@ -1,0 +1,10 @@
+When genes are translated into proteins, mutations in the gene sequence can lead to changes in protein structure and function as well as in the interactions between proteins.
+These changes can disrupt cell function and contribute to the development of tumors.
+In this study, we introduce a novel approach based on graph neural networks that jointly considers genetic mutations and protein interactions for cancer prediction.
+We use DNA mutations in whole exome sequencing data and construct a heterogeneous graph in which patients and proteins are represented as nodes and protein-protein interactions as edges.
+Furthermore, patient nodes are connected to protein nodes based on mutations in the patient's DNA.
+Each patient node is represented by a feature vector derived from the mutations in specific genes.
+The feature values are calculated using a weighting scheme inspired by information retrieval, where whole genomes are treated as documents and mutations as words within these documents.
+The weighting of each gene, determined by its mutations, reflects its contribution to disease development.
+The patient nodes are updated by both mutations and protein interactions within our noval heterogeneous graph structure.
+Since the effects of each mutation on disease development are different, we processed the input graph with attention-based graph neural networks.

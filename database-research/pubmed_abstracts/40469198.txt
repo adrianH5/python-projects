@@ -1,0 +1,1 @@
+This study aims to externally validate the performance of the Oncotype DX (ODX) breast cancer (BC) recurrence score nomogram in predicting adjuvant chemotherapy (ACT) for BC after surgery and subsequently develop a machine learning-based model to predict postoperative overall survival (OS) and guide ACT, demonstrating superior comprehensive performance.

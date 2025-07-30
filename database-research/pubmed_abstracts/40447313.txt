@@ -1,0 +1,2 @@
+The somatic mutation theory predicts that cancer risk should scale proportionally with lifetime cell divisions; yet large-bodied and long-lived species exhibit lower-than-expected cancer incidence-a long-standing contradiction termed Peto's paradox.
+Resolving this paradox and clarifying how tumor mutational burden (TMB) shapes treatment response to immune-checkpoint inhibitor (ICI) therapy remain unmet needs in precision oncology.

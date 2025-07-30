@@ -1,0 +1,11 @@
+Cancer immunotherapy, which boosts the immune system to recognize and attack malignant cells, has revolutionized traditional cancer treatment paradigms.
+Approaches such as chimeric antigen receptor T cell (CAR-T) therapy and immune checkpoint inhibitors (ICIs) have demonstrated promising therapeutic outcomes, leading to the approval of numerous immuno-oncology agents by the US Food and Drug Administration (FDA) over the past few decades.
+Immuno-oncology agents, mainly based on conventional full-length antibodies or their derivatives, are widely used in cancer immunotherapy.
+However, their large size, unwanted immunogenicity, poor solubility, complex molecular architectures, and limited tumor penetration pose significant challenges that must be addressed.
+Nanobodies, which are single-domain antibody fragments originating from the variable regions of camelid heavy-chain immunoglobulins, represent the smallest known antigen-binding fragments.
+In addition to their small size (~ 15 kDa), nanobodies possess a range of advantageous properties, including high stability, strong specificity and affinity for target antigens, low immunogenicity, and cost-effective production.
+Nonetheless, their short serum half-life and lack of Fc-mediated functions may limit efficacy, which can be addressed by Fc fusion, albumin binding, or multivalent construct design.
+These properties enable nanobodies to support multifunctional constructs, such as bispecific CARs, nanobody-secreting CARs, dual ICI-containing molecules, and trispecific immune cell-engaging antibodies.
+In recent years, a growing number of nanobody-based immuno-oncology agents have progressed into preclinical and clinical trials, with several products approved by the US FDA and China's National Medical Products Administration for cancer therapy.
+In this review, we explore the unique properties of nanobodies and provide a comprehensive summary of recent preclinical and clinical advancements in nanobody-based immuno-oncology agents, with a focus on their applications in CAR-T cells, ICIs, and immune cell-engaging antibodies.
+Through their unique capacity to integrate innovative molecular engineering with translational clinical development, nanobody-based therapeutics are poised to revolutionize current paradigms in cancer immunotherapy.

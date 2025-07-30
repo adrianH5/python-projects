@@ -1,0 +1,10 @@
+Bladder cancer (BC) is one of the most prevalent types of cancer in developed countries.
+BC is characterized by its highly heterogeneous and dynamic nature, with significantly higher morbidity and mortality rates in men compared to women.
+Diagnosing BC requires traditional methods, such as cystoscopy, which can be invasive and costly.
+Recent research has heavily focused on multi-omics analysis, including genomics, epigenomics, transcriptomics, proteomics, and metabolomics, for biomarker identification.
+However, challenges such as computational complexity and data integration prevent these methods from achieving robust diagnostic capabilities.
+Hence, machine learning (ML), with its ability to process high-dimensional data and identify complex patterns, offers a promising patient outcome.
+By exploiting genomics, epigenomics, transcriptomics, proteomics, and metabolomics data, these models facilitate the discovery of reliable biomarkers, which are critical for early detection, prognosis, and risk stratification of the disease.
+Integrated models combining computational techniques with large multi-omics datasets have gained significant attention, enabling the identification of significant BC biomarkers that include genes coding for diverse cellular functions, differentially expressed genes, proteins, and metabolites.
+A substantial amount of multi-omics data collected from clinics and laboratories are utilized to train powerful ML models such as Support Vector Machines (SVM), random forests (RF), decision trees (DT), and gradient boosting methods (e.g., XGBoost) to perform complex tasks, including biomarker discovery, classification of subtypes and feature selection.
+This comprehensive review highlights the essence of integrated multiomics-ML approaches for the improvement of prognosis and diagnosis of BC.

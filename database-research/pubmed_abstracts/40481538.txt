@@ -1,0 +1,5 @@
+Lymph node (LN) metastasis of gastric cancer (GC) is one of the important pathways of GC metastasis, indicating the clinical staging and prognosis of patients.
+To investigate the underlying mechanism during the process of GC-induced LN metastasis, 7 pairs of GC tissues, paracancerous (PC) tissues, GC-positive LN (LN.P) and GC-negative LN (LN.N) tissues from GC patients with homogeneity were selected for RNA sequencing (RNA-seq) analysis.
+Tensin 4 (TNS4) was screened out and found to be significantly upregulated in LN.P tissues and closely related with the characteristics of GC.
+In vitro and in vivo experiments demonstrated that knockdown of TNS4 could significantly inhibit LN metastasis of GC cells and activation of fibroblastic reticular cells (FRCs) in LNs, thus inhibiting LN expansion induced by tumor cell invasion.
+Moreover, TNS4 was found to be interacted with integrin beta 1 (ITGB1) on FRCs, thereby affecting the binding of transforming growth factor β1 (TGF-β1) to ITGB1 and subsequently regulating downstream signaling molecules, and supporting the GC cell-induced LN metastasis.

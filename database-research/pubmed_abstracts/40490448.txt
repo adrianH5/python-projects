@@ -1,0 +1,7 @@
+The Imiqualines family is an original group of small heterocyclic compounds, diversely substituted around different scaffolds.
+Among these compounds, the lead EAPB02303 displays outstanding cytotoxic activity at nanomolar concentrations comparable to those of standard-of-care chemotherapy drugs in different cancer cell lines, including Pancreatic Ductal AdenoCarcinoma (PDAC) cell lines.
+Due to its high aggressiveness and resistance to therapies, PDAC has an extremely poor prognosis with limited treatment options.
+Here, we demonstrated the cytotoxic activities of EAPB02303 alone or combined with standard chemotherapy drugs in several PDAC cell lines and confirmed these results in patient-derived xenograft mouse models.
+EAPB02303 potently induced cell cycle arrest in the G2/M phase and in mitosis followed by apoptosis.
+Then, using a combination of transcriptomic, proteomic, biochemical and cellular assay, we found that EAPB02303 mechanism of action relies on its bioactivation by catechol-O-methyltransferase, resulting in the production of a methylated compound that effectively inhibits microtubule polymerization.
+Moreover, EAPB02303 had a synergistic effect when combined with paclitaxel (the standard-of-care agent in PDAC) providing the rationale to continue the development of EAPB02303 combination strategies for the treatment of catechol-O-methyltransferase-overexpressing PDAC.

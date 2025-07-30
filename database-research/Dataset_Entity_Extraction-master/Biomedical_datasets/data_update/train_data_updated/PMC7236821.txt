@@ -1,0 +1,17 @@
+In comparison to severe acute respiratory syndrome coronavirus (SARS-CoV), SARS-CoV-2 appears to be more contagious [1], and coronavirus disease 2019 (COVID-19) patients demonstrate varied clinical manifestations distinct from those seen in patients with SARS-CoV and Middle East respiratory syndrome coronavirus infections [2].
+Collective results from the clinical and epidemiological observations suggest a distinct viral–host interaction in COVID-19 patients.
+This study was designed to better understand the timing and patterns of humoral immune responses to SARS-CoV-2 in a cohort of COVID-19 patients and evaluate their relationship with the disease course and severity.
+37 patients with COVID-19, with a mean±sd age of 52.3±16.3 years, were enrolled in this study.
+The enrolled COVID-19 patients consisted of 25 (67.6%) males and 12 (32.4%) females.
+According to the “Guidelines for the Diagnosis and Treatment of Novel Coronavirus (2019-nCoV) Infection” published by the National Health Commission of China, the enrolled COVID-19 patients were categorised into two groups: 20 (54.1%) severe cases and 17 (46.0%) nonsevere cases [4].
+The nonsevere group included patients with mild and moderate symptoms who were also required to be admitted to hospital by the COVID-19 control policy in China.
+Critically ill patients met at least one of the extra following conditions in addition to the COVID-19 diagnosis: 1) respiratory failure that required mechanical ventilation; 2) shock; or 3) multiple organ failure that required transfer to the intensive care unit.
+In further subgroup analysis, we found a significant positive association between the level of SARS-CoV-2-specific IgA and the Acute Physiology and Chronic Health Evaluation (APACHE)-II score in critically ill patients with COVID-19 (r=0.72, p=0.01), while the level of SARS-CoV-2-specific IgG and IgM did not show correlations with disease severity.
+Considering the roles of mucosal and systemic IgA in COVID-19, inducing IgA production (using lactoferrin to activate canonical TGF-β signalling [13] or retinoic acid to enhance lactoferrin-induced IgA responses [14]) has been proposed as a novel therapy for severe COVID-19.
+However, as highlighted by our study, enhanced IgA responses observed in severe COVID-19 might confer damaging effects in severe COVID-19.
+As a result, we hypothesise that severe COVID-19 might be at least in part an IgA-mediated disease (related to IgA deposition and vasculitis), which helps to explain common organ injuries in COVID-19, e.g. acute pulmonary embolism, kidney injury, etc. [15].
+Future investigative efforts are certainly needed to explore the functional significance of mucosal and systemic IgA in COVID-19 and whether local interventions at the mucosal level of the nasopharynx/oropharynx could reduce viral load and symptoms.
+In comparison to severe acute respiratory syndrome coronavirus (SARS-CoV), SARS-CoV-2 appears to be more contagious [1], and coronavirus disease 2019 (COVID-19) patients demonstrate varied clinical manifestations distinct from those seen in patients with SARS-CoV and Middle East respiratory syndrome coronavirus infections [2].
+Collective results from the clinical and epidemiological observations suggest a distinct viral–host interaction in COVID-19 patients.
+Humoral immune response to SARS-CoV-2 showed an early response of IgA, instead of IgM, in COVID-19 patients.
+As highlighted by this study, enhanced IgA responses observed in severe COVID-19 might confer damaging effects in severe COVID-19.

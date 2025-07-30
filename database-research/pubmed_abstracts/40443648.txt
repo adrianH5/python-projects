@@ -1,0 +1,5 @@
+NF-κB signalling is frequently dysregulated in human cancers making it an attractive therapeutic target.
+Despite concerted efforts to generate NF-κB inhibitors, direct pharmacological inhibition of the kinases mediating canonical NF-κB has failed due to on-target toxicities in normal tissues.
+So, alternative strategies, designed to target specific components of the NF-κB signalling machinery, have the potential to selectively inhibit tumour cells whilst reducing the toxicities associated with broad inhibition of NF-κB in non-malignant cells.
+Here we present evidence that a C8-linked pyrrolobenzodiazepine (PBD) containing proteolysis-targeting chimera (PROTAC) selectively degrades the NF-κB subunit, RelA/p65, in a proteasome-dependent manner.
+Our lead PROTAC (JP-163-16, 15d) showed cytotoxicity with mean LC

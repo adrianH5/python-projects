@@ -1,0 +1,10 @@
+The clinical need for minimally invasive inner ear diagnostics and therapeutics has grown rapidly in recent years, particularly with the development of gene therapies for treating hearing and balance disorders.
+These therapies often require delivery of large injectate volumes that can cause hearing damage.
+In response to this challenge, dual-lumen microneedles, with two separate fluidic pathways controlled independently by micropumps, were designed for simultaneous aspiration and delivery to the inner ear across the round window membrane (RWM) and were fabricated using 2-photon polymerization (2PP).
+To assess the proof of concept of the dual-lumen microneedle device, simultaneous injection of 5 µL of adeno-associated virus (AAV) expressing green fluorescent protein (GFP) and aspiration of 5 µL of perilymph was performed in guinea pigs in vivo.
+Hearing thresholds were measured using auditory brainstem response (ABR) at time points before and 1 week after the procedure.
+Confocal imaging of the cochlea, the utricle, and the contralateral inner ear was employed to quantify and characterize the spatial distribution of hair cells with AAV transduction.
+Dual-lumen microneedle devices were found to be functional in the surgical setting.
+There was hearing loss limited to higher frequencies of 24 kHz and 28 kHz with ABR mean threshold shifts of 13 dB sound pressure level (SPL) (p = 0.03) and 23 dB SPL (p < 0.01), respectively.
+Furthermore, cochlear AAV transduction with a stereotypical basoapical gradient was observed in all animals (n = 5).
+Thus, dual-lumen microneedles can facilitate delivery of large volumes of therapeutic material into the inner ear, overcoming the limitations of single-lumen microneedles.

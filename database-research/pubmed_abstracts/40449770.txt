@@ -1,0 +1,7 @@
+The lysine specific demethylase 1 (LSD1) plays a vital role in promoting various malignancies, while the role of LSD1 in gastric cancer (GC) remains poorly understood.
+Herein, we show the critical role of LSD1 in GC migration.
+The overexpression of LSD1 in GC tissues, particularly in those with metastasis, indicates its potential in driving GC migration.
+Further mechanism study revealed that LSD1, a coregulator of ERα, is involved in the transcriptional regulation of ERα target genes, highlighting the significance of LSD1 and ERα in promoting GC cell migration.
+We characterized that LSD1 and ERα activation facilitated GC cell migration by promoting the generation of migrasomes mediated by the upregulated fibronectin (FN1).
+Upon LSD1 abrogation, a substantial decrease in the expression levels of TSPAN4 and NDST1, recognized markers of migrasomes, was observed.
+Our findings reveal a novel mechanism involving the interaction between LSD1, ERα, FN1 and migrasomes in facilitating GC migration.

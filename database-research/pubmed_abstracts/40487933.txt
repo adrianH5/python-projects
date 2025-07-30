@@ -1,0 +1,6 @@
+With gastric cancer ranking among the most prevalent and deadly malignancies worldwide, early detection and individualized prognosis remain essential for improving patient outcomes.
+This letter discusses recent advancements in artificial intelligence (AI)-driven predictive tools for gastric cancer, emphasizing a computed tomography-based radiomic model that achieved a predictive accuracy of area under the curve of 0.893 for treatment response in advanced cases undergoing neoadjuvant immunochemotherapy.
+AI offers promising avenues for predictive accuracy and personalized treatment planning in gastric oncology.
+Additionally, this letter highlights the comparison of these AI tools with traditional methodologies, demonstrating their potential to streamline clinical workflows and address existing gaps in risk stratification and early detection.
+Furthermore, this letter addresses the ethical considerations and the need for robust clinical-AI collaboration to achieve reliable, transparent, and unbiased outcomes.
+Strengthening cross-disciplinary efforts will be vital for the responsible and effective deployment of AI in this critical area of oncology.

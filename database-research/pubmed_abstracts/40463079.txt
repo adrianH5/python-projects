@@ -1,0 +1,7 @@
+Targeted inhibition of DNA damage response proteins has received significant clinical attention owing to the success of PARP inhibitors.
+Due to the loss of the G1/S checkpoint, cancer cells are reliant on the G2/M checkpoint to cope with elevated DNA replication stress.
+We previously demonstrated a single induction of 8-oxo-guanine at telomeres in cancer cells was sufficient to induce replication stress, but was well tolerated at the cellular level.
+Here, we found inhibition of ATR, Chk1, or Wee1 after induction of telomere oxidative stress significantly induced genome instability and reduced cell viability.
+This occurred at doses markedly less than those required to increase instability in non-cancer cells.
+We determined the mechanism of this instability is due to cells progressing through S-phase with telomere damage and exiting G2-phase prematurely, prolonging their mitosis.
+This study demonstrates targeted oxidative base damage at telomeres can enhance the therapeutic efficacy of ATR inhibition in cancer.

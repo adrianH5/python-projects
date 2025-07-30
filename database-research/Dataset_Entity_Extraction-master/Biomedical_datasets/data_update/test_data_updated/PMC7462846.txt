@@ -1,0 +1,9 @@
+Over the study period (January 6, 2020–April 14, 2020), there were 1333 laboratory-confirmed cases of COVID-19 in Victoria.
+The majority of cases (827/1333, 62.0%) were identified in returning travelers, most commonly from north–west Europe and the Americas, and 360 (27.0%) in known COVID-19 contacts (Table 1).
+Almost all second-level lineages from a recently proposed SARS-CoV-2 genomic nomenclature were identified in the dataset (excluding lineage A.4), suggesting that Victorian samples were representative of the global diversity of published SARS-CoV-2 sequences, consistent with epidemiological findings (Fig. 3 and Table 1).
+In total, 737 samples belonged to a genomic cluster, representing 81.6% of the samples in the final dataset.
+Among our dataset, 4/76 (5%) genomic clusters had >50% of cases associated with a cruise ship (Fig. 4).
+On manual inspection, at least one sequence from each pair was found to have more ambiguous or missing base calls than the rest of the dataset, potentially contributing to the high number of intra-patient SNPs.
+In addition, recently proposed lineages were also determined for the dataset.
+Here we report high-throughput genomics for SARS-CoV-2, sequencing 80% of cases in Victoria, Australia (population 6.24 million) between 6 January and 14 April 2020 (total 1,333 COVID-19 cases).
+Additional sequence data and metadata are available at https://github.com/MDU-PHL/COVID19-paper.

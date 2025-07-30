@@ -1,0 +1,9 @@
+BCR::ABL1-targeting tyrosine kinase inhibitors (TKIs) dominate the treatment of chronic myeloid leukemia (CML) over the past decades.
+In this study, we reported an unexpected role of neddylation inhibitors in desensitizing the therapeutic efficacy of BCR::ABL1-targeting TKIs in CML.
+Unlike their function in reducing drug resistance in many solid tumors, we revealed that neddylation inhibitors counteracted the cytotoxicity of TKIs against CML cells, both in cellular experiments and in animal model.
+Conversely, neddylation agonist sensitized the function of TKIs.
+RNA sequencing data revealed that neddylation inhibitor reversed the transcriptomic changes induced by TKI.
+Co-immunoprecipitation (co-IP) assay identified ABL1 kinase domain as a novel substrate for neddylation.
+Furthermore, an artificial intelligence (AI) 3-Dimensional spatial structure binding technology was employed to predict the impact of neddylation on the structure of ABL1 kinase domain.
+Finally, we provided potential evidence showing that TKI therapy decreased the expression of neddylation enzymes in the bone marrow of CML patients.
+Hence, our study offers new insights into the post-translational modification (PTM)-mediated drug resistance, and highlights the potential clinical benefits of neddylation agonists in improving the responsiveness of BCR::ABL1 TKIs in CML.

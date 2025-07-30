@@ -1,0 +1,10 @@
+Colorectal inflammatory cancer transformation poses a major risk to patients with colitis.
+Patients with chronic intestinal inflammation have an approximately 2-3 folds increased risk of developing colorectal cancer (CRC).
+Unfortunately, there is currently no effective intervention available.
+Huangqin decoction (HQD), a well-known traditional Chinese medicine (TCM) formula, is frequently clinically prescribed for treating patients with colitis, and its active ingredients have effective antitumour efficacy.
+Nonetheless, the mechanism of HQD-mediated prevention of colorectal inflammatory cancer transformation remains unclear.
+A strategy integrating metagenomic, lipidomic, and messenger RNA (mRNA) sequencing analysis was used to investigate the regulatory effects of HQD on the gut microbiome, metabolism and potential mechanisms involved in colorectal inflammatory cancer transformation.
+Our study revealed that HQD suppressed colorectal inflammatory cancer transformation, which was associated with enhanced intestinal barrier function, decreased the inflammatory response, and regulation of the gut microbiome.
+Notably, cohousing experiments revealed that the transfer of the gut microbiome from HQD-treated mice largely inhibited the pathological transformation of colitis.
+Moreover, gut microbiome transfer from HQD-treated mice primarily resulted in the altered regulation of fatty acid metabolism, especially the remodeling of arachidonic acid metabolism, which was associated with the amelioration of pathological transformation.
+Arachidonic acid metabolism and the key metabolic enzyme arachidonic acid 12-lipoxygenase (ALOX12) were affected by HQD treatment, and no obvious protective effect of HQD was observed in

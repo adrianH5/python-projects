@@ -1,0 +1,2 @@
+Harmonizing osteoporosis-related data across multiple datasets is essential for improving the accuracy and generalizability of bone mineral density (BMD) assessments.
+This study developed a harmonization framework to standardize phenotypic and genomic variables across three major U.S. osteoporosis datasets: GDBF, GWAS, and NHANES.

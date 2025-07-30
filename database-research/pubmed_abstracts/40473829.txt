@@ -1,0 +1,6 @@
+Migrating cells have key functions in shaping tissues during development, repairing tissues after development and supporting cancer invasion and metastasis.
+In all these contexts, cells often maintain contact with their neighbours and move as a group, in a process termed collective migration.
+In this Review, we describe the elegant mechanisms used by collectively migrating cells in vivo to coordinate their movements and obtain directional information.
+We start by highlighting the diverse physiological roles that migrating collectives have within the body and then focus on dominant paradigms for the organization of migrating collectives including the roles of leader and follower cells, local cell-cell adhesion and signalling, and external guidance cues.
+By comparing collective migrations occurring during development and cancer, we bring into focus shared principles for collective cell movement and distinct strategies used by cancer cells for their own dispersal.
+Throughout, we pay particular attention to how migrating collectives display emergent properties not exhibited by individually migrating cells and how these properties provide the robustness needed for efficient cell movement.

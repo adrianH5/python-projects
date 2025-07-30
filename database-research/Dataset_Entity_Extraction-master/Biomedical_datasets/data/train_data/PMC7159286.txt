@@ -1,0 +1,3 @@
+The consensus sequence of HKU-SZ-002a (accession number MN938384) and HKU-SZ-005b (accession number MN975262) have been deposited into GenBank.
+Raw reads, after excluding human reads, have been deposited into BioProject (accession number PRJNA601630).
+Two complete virus genomes (HKU-SZ-002a and HKU-SZ-005b) were sequenced using Nanopore technology and showed a novel coronavirus that is most closely related to those of the bat SARS-like coronavirus bat-SL-CoVZXC21 (NCBI accession number MG772934) and bat-SL-CoVZC45 (NCBI accession number MG772933).

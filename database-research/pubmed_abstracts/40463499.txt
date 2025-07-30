@@ -1,0 +1,8 @@
+Enzyme-photosensitizer (PS) conjugates hold great promise for clinical treatment of cancer and infectious diseases via catalysis-augmented photodynamic therapy (PDT).
+Compared to covalent coupling, physical binding utilizing noncovalent interactions provides a simple and nondestructive strategy to combine PS with enzymes.
+However, the mechanism of enzyme-PS physical combination remains largely unknown, and physically bonded enzyme-PS conjugates are rarely reported.
+Here, we systematically investigate the interacting behaviors of representative enzymes with one of the most popular PS of chlorin e6 (Ce6) and elucidate their binding dynamics and crucial determinants.
+Our results reveal that the positively charged and hydrophobic residues on the surface of enzymes are crucial determinants of Ce6 binding.
+In addition, we demonstrate that the positively charged surface area of enzymes can be employed as a reliable criterion for assessing and predicting the enzyme-Ce6 binding affinity.
+Guided by this criterion, we further construct catalase-Ce6 nanoconjugates (CAT-Ce6 NCs) with superior stability and robust photodynamic antimicrobial capability via physical binding.
+In a showcase treatment of methicillin-resistant

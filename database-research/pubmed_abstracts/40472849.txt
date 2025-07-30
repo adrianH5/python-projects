@@ -1,0 +1,6 @@
+The spatiotemporal heterogeneity in intratumor proliferative behavior of cancer cells deeply affects tumor environment characteristics and the efficacy of anticancer treatments.
+Thus, intravital imaging with unlimited imaging depth and cellular-level resolution is greatly desired.
+We developed an optical-fiber-bundle-based microendoscope with a genetically encoded fluorescent ubiquitination-based cell-cycle indicator (Fucci) system to achieve the intravital, periodic, and multicolor end-to-end imaging of the proliferative activity of cancer cells at a cellular-level resolution.
+This technique enabled the periodic visualization of spatiotemporal cellular responses, including cell-cycle arrest and resumption, and nuclear enlargement following the administration of anticancer drugs in living mice.
+It was suggested that proliferating cell ratio and nuclear enlargement in cancer cells at the surface region of tumor characterized by abundant vascular invasion contribute to aggressive tumor regrowth after chemotherapy.
+The application of this technique can accelerate innovation in cancer biology and therapeutics.

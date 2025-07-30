@@ -1,0 +1,10 @@
+Hepatocellular carcinoma (HCC) is one of the most prevalent and lethal malignancies worldwide, with limited effective therapeutic options.
+Identifying novel targets is crucial for improving treatment strategies.
+In this study, we integrated bioinformatics and experimental approaches to uncover key regulatory genes in HCC.
+BIRC5 (survivin) emerged as a central hub gene, playing a pivotal role in apoptosis inhibition and cell cycle regulation.
+Using CRISPR-Cas9-mediated knockout in HepG2 cells, we demonstrated that BIRC5 depletion significantly suppressed cell proliferation and migration while inducing apoptosis.
+Furthermore, BIRC5 knockout led to cell cycle arrest, cytokinesis defects, and autophagy activation, highlighting its essential role in tumor maintenance.
+Functional assays, including colony formation, wound healing, flow cytometry, gene expression profiling, and transmission electron microscopy, validated these findings.
+Notably, the downregulation of key oncogenic pathways, including PI3K and AURKA, underscores the critical function of BIRC5 in sustaining HCC cell survival and proliferation.
+These results position BIRC5 as a promising therapeutic target, with the potential to disrupt tumor growth and metastasis.
+Targeting BIRC5 could offer a novel strategy for improving HCC treatment outcomes, paving the way for more effective therapeutic interventions against this aggressive cancer.

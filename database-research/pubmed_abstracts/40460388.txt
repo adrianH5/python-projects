@@ -1,0 +1,12 @@
+The relationship between human papillomavirus (HPV) and immune cells is vital for understanding the pathophysiology of infection and its role in neoplastic progression.
+High-risk human papillomavirus (HR-HPV) is the main cause of cervical cancer (CC).
+Thus, the association between immune response cells, the virus, and its behavior according to cervical disease development could provide new ways for understanding the entire process.
+Since the role and the presence of the immune response cells in the uterus cervix considering HPV infection has not been elucidated so far, this study aimed to identify the immune cells involved in high-grade intraepithelial lesions (HSIL) and CC development related to uterine cervical infection caused by HR-HPV.
+The study population included women who had positive molecular tests for HPV.
+Through the databases MEDLINE, EMBASE, LILACS, Cochrane, Scopus, Web of Science, CINAHL, Science Direct, and Google Scholar we identified 6,698 studies at the beginning.
+After the systematic review steps, the final number of included studies was 22.
+Cervical lesions were distributed according to the severity of lesions in HSIL, low-grade squamous intraepithelial lesions (LSIL), and negative for intraepithelial lesions or malignancy (NILM).
+The cellular phenotypes presented in these publications were T lymphocytes (LT), regulatory T lymphocytes (Tregs), macrophages (MØ), natural killer cells (NK), natural killer T cells (NKT), Langerhans cells (LC), and dendritic cells (DC).
+Among the observed associations with cervical lesions and HR-HPV, we highlight the DC/LC and MØ being 36.4% of the cell types, followed by Tregs (31.8%) and LT CD4 / CD8 with 27.3%.
+The increased findings in innate and adaptive immunological response may imply both are acting together, with the innate response cells and Tregs being the most prominent.
+Since these cells have great importance in the maintenance and balance of the immunological system, the present study highlights the essential role of MØ and Treg cells in the process of cervical lesion severity associated with HPV, suggesting that they may be focused as prognostic markers and immunotherapeutic targets.

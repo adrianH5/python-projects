@@ -1,0 +1,7 @@
+Bladder cancer (BLCA) and diabetes mellitus (DM) are two prevalent diseases that may share molecular mechanisms, suggesting potential links between metabolic disorders and cancer.
+Using bioinformatics approaches, we integrated multiple databases to identify common genes between BLCA and DM, screening for potential biomarkers.
+CXCL12 (C-X-C motif chemokine 12, also known as stromal cell-derived factor 1 , SDF-1) was ultimately identified as a key gene, followed by comprehensive analyses including immune infiltration analysis, functional enrichment analysis, survival analysis, clinicopathological correlation analysis, TIDE immune prediction scoring, and immunophenoscore (IPS) scoring comparison.
+The results indicate that CXCL12 is associated with altered immune cell function and tumor characteristics under elevated blood glucose levels, influencing the tumor microenvironment and promoting disease progression.
+The results elucidate the molecular underpinnings of BLCA and DM, establishing a basis for subsequent investigations into common mechanisms and the formulation of targeted therapeutic approaches.
+Research on shared biomarkers, such as CXCL12, between metabolic diseases and tumors aids in the precise prevention and control of comorbidities' adverse effects on tumor progression.
+This approach significantly reduces the health burden linked to comorbidities.

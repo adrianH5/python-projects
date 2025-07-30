@@ -1,0 +1,2 @@
+Chromosomal rearrangements drive tumorigenesis through fusion transcripts.
+Clinical whole-transcriptome sequencing (WTS) enables comprehensive fusion detection, overcoming limitations of targeted methods, but its clinical application has been hindered by technical and cost barriers.

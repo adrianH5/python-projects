@@ -1,0 +1,8 @@
+The central nervous system (CNS) and immune system interact on a regular basis in homeostasis and in pathology.
+The immune system's response to CNS pathology is intricately regulated by epigenetic regulation of various immune cells that allows these cells to perform diverse and complex functions in a context-dependent manner.
+Epigenetics refers to modulation of gene expression that is influenced by environmental factors and doesn't depend on alteration of DNA sequence.
+Epigenetic regulation, such as DNA methylation, histone modification and non-coding RNA, lies at the heart of immune cell biology, integrating intrinsic transcriptional programs with extrinsic signals to dictate different immune cell behaviors.
+Dysregulation of epigenetic mechanisms largely affects the immune response in various diseases.
+Understanding epigenetic regulation provides a promising approach to manipulate immune cells behaviors in various disease contexts, thus offering therapeutic benefit window.
+Here, we review recent findings regarding immune cell behavior and epigenetic regulation in the context of CNS physiology and pathology.
+We also discuss how epigenetic mechanism contributes to cancer immunotherapy response, as well as ways to utilize combination therapy using epigenetic modifiers and personalized medicine approach to manipulate immune cell function to improve immunotherapy outcomes.

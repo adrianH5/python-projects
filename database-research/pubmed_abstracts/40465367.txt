@@ -1,0 +1,8 @@
+Prostate cancer (PCa) is the second most common cancer for male health with ultrahigh recurrence rates to cause high mortality.
+However, clinical imaging and biopsy techniques suffer the bulky testing equipment and high cost, and blood assay requires blood pretreatment before analysis to significantly restrict home-in self-examination and postoperative follow-up of PCa.
+Herein, a blood-drop 4-min-test technique is designed to precisely screen PCa by a high-ordered coaxial-nanocables-based aptasensor.
+The electrospinning potential is employed as the driving force to regulate the distribution of mixed reduced graphene oxide and polyacrylonitrile from disorder to highly order to large-scale weave coaxial nanocables-based films.
+This architecture has contributed abundant active DNA bonding sites and served as 3D network electron transmission channels to dramatically amplify detection signals with short response time.
+Moreover, a target-induced chain release strategy is implemented to precisely capture the PCa biomarker.
+Furthermore, a household PCa analyzer is developed to achieve ultrafast, precise, and nonhospital assays of clinical patients within 4 min which is 30 times faster than the state-of-the-art commercial instruments.
+This high-performance analyzer has great potential for early screening and prognostic evaluation of PCa to benefit real-time tests for both in-hospital and nonhospital patients.

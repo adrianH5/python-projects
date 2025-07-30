@@ -1,0 +1,30 @@
+T1	Creator 1911 1931	Gierahn et al., 2017
+T2	Creator 2313 2332	Hughes et al., 2019
+T3	Creator 3101 3118	Xiao et al., 2020
+T4	Creator 4098 4127	Ordovas-Montanes et al., 2018
+T5	Creator 4453 4482	Giovannini-Chami et al., 2012
+T6	Creator 4484 4513	Ordovas-Montanes et al., 2018
+T7	URL 4559 4574	interferome.org
+T8	Repository 5422 5430	TRANSFAC
+T9	URL 5446 5461	interferome.org
+T10	Creator 5472 5490	Matys et al., 2003
+T11	Creator 5492 5513	Rusinova et al., 2013
+T12	Repository 5540 5580	Transcription Factor database (TRANSFAC)
+T13	Dataset 5600 5611	interferome
+T14	Repository 5707 5724	ENCODE Factorbook
+T15	Dataset 7851 7862	Interferome
+T16	Creator 7873 7894	Rusinova et al., 2013
+T17	URL 10270 10348	https://singlecell.broadinstitute.org/single_cell?scpbr=the-alexandria-project
+T18	URL 10530 10614	https://drive.google.com/drive/folders/1bxCIqNeZ7wLuVOT16gphwj98_cc9KhrV?usp=sharing
+T19	Repository 11049 11052	GEO
+T20	AccessionNumber 11054 11063	GSE148829
+T21	URL 11432 11538	https://singlecell.broadinstitute.org/single_cell/study/SCP807?scpbr=the-alexandria-project#study-summary
+T22	Dataset 11770 11781	GSEA/MsigDB
+T23	URL 11783 11832	https://www.gsea-msigdb.org/gsea/msigdb/index.jsp
+T24	URL 11936 12041	https://singlecell.broadinstitute.org/single_cell/study/SCP814?scpbr=the-alexandria-project#study-summary
+T25	Repository 12539 12543	NCBI
+T26	Repository 12545 12549	NCBI
+T27	AccessionNumber 12551 12560	txid33708
+R1	hasAttr	Arg1:T19	Arg2:T20
+R2	hasAttr	Arg1:T22	Arg2:T23
+R3	hasAttr	Arg1:T26	Arg2:T27

@@ -1,0 +1,8 @@
+Cancer immunotherapy has changed the therapeutic landscape for multiple types of cancer, yet a majority of patients do not respond or develop resistance.
+Dysregulated activation of oncogenic signalling pathways can lead to tumour immune evasion and the creation of an immunosuppressive "cold" tumour microenvironment, contributing to resistance to immunotherapy.
+Research indicates that targeting these oncogenic pathways can enhance antitumour immune responses and convert "cold" tumours into "hot" ones, thereby improving the efficacy of immunotherapy.
+This review summarizes the recent advance of oncogenic signalling on tumour immune evasion and the formation of a "cold" tumour microenvironment.
+It also summarizes the mechanisms by which targeting oncogenic signalling pathways to enhance antitumour immunity and its effects on cancer immunotherapy.
+Additionally, therapeutic targets and agents for oncogenic signalling pathways, along with drug-target structural binding mechanisms, are summarized in this study.
+Relevant clinical trials involving the combination of oncogenic pathway inhibitor and cancer immunotherapy are reviewed.
+Finally, we discuss the current status and challenges of targeting oncogenic signalling pathways to enhance immunotherapy and outlined potential future research directions based on current findings.

@@ -1,0 +1,6 @@
+Two ATPase subunits, SMARCA4 (which encodes BRG1) and SMARCA2 (which encodes BRM), facilitate this process by hydrolyzing ATP to energize the activity of the mammalian switch/sucrose-non-fermenting (mSWI/SNF) complexes.
+Clinically, SMARCA4-deficient non-small cell lung carcinoma (SMARCA4-dNSCLC) were associated with the poorly differentiated histologic manifestations and poor prognosis.
+However, NSCLC exhibited the similar poorly differentiated features but loss of SMARCA2 and retained SMARCA4 have so far been underrecognized.
+Here, we reported two cases of poorly differentiated tumors with loss of SMARCA2 expression while preserved SMARCA4 expression and provided the morphologic, immunohistochemical, and genetic characterization of these tumors, which both arose in elderly male and appeared as the pulmonary lesion.
+Furthermore, we perform a comprehensive multi-omics analysis of the transcriptomic cohort GSE31210 (n=226), the proteomic cohort from the study by Chen et al.
+(n=89), and multiplexed immunohistochemistry (IHC) staining of these two cases to decipher the poor prognosis dependent on the immunosuppressive barrier formed by FAP

@@ -1,0 +1,2 @@
+Current risk stratification for stage II colorectal cancer (CRC) has limited accuracy in identifying patients who would benefit from adjuvant chemotherapy, leading to potential over- or under-treatment.
+We aimed to develop a more precise risk stratification system by integrating artificial intelligence-based imaging analysis with pathological markers.

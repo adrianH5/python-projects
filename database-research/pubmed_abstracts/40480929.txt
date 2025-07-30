@@ -1,0 +1,4 @@
+ABC transporters modulate lipid homeostasis and are implicated in neurodegenerative diseases.
+In a recent study, Chen et al.
+uncovered unexpected dual roles for the Drosophila ABCA protein eater of debris (Eato), which suppresses phospholipid exposure in both neurons and phagocytes, conferring opposite functional outcomes in each cell type.
+This challenges classical models of ATP-binding cassette (ABC) transporter function and reveals new mechanisms by which lipid signaling regulates neuron-glia interactions in neurodegenerative contexts.

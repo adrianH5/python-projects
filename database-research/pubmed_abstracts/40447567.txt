@@ -1,0 +1,8 @@
+Infective endocarditis, a life-threatening condition, poses challenges for early diagnosis and personalized treatment due to insufficient biomarkers and limited understanding of its pathophysiology.
+Here, we performed proteomic profiling of plasma and vegetation samples from 238 patients with infective endocarditis and 100 controls, with validation in two external plasma cohorts (n = 328).
+We developed machine learning-based diagnostic and prognostic models for infective endocarditis, with area under the curve values of 0.98 and 0.87, respectively.
+Leucine-rich alpha-2-glycoprotein 1 and NADH:ubiquinone oxidoreductase subunit B4 are potential biomarkers associated with infection severity.
+Pathologically, protein networks characterized by glycometabolism, amino acid metabolism, and adhesion are linked to adverse events.
+Liver dysfunction may exacerbate the condition in patients with severe heart failure.
+Neutrophil extracellular traps emerge as promising therapeutic targets in Streptococcus or Staphylococcus aureus infections.
+Our findings provide insights into biomarker discovery and pathophysiological mechanisms in infective endocarditis, advancing early diagnosis and personalized medicine.

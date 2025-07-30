@@ -1,0 +1,9 @@
+T1	Dataset 432 487	Global Initiative on Sharing All Influenza Data (GISAID
+T2	URL 489 512	https://www.gisaid.org/
+T3	Repository 517 524	GenBank
+T4	URL 526 579	https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/
+T5	Repository 694 698	NCBI
+T6	AccessionNumber 735 745	MN908947.3
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T5	Arg2:T6

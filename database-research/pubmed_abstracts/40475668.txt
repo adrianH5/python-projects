@@ -1,0 +1,11 @@
+Abnormal nuclear morphology is a hallmark of human diseases, including cancers and age-related disorders.
+Previously, maintenance of nuclear morphology and integrity was thought to be solely dependent on a force balance between nuclear mechanical resistance and actin antagonism.
+However, our recent work revealed that inhibiting RNA polymerase II suppresses nuclear blebbing independent of altering force balance, but the mechanism remains unknown.
+Through removing cell culture media serum and then adding it back, we can decrease and then restore transcriptional activity.
+Decreasing transcriptional activity decreases nuclear bleb formation, stability, and rupture while returning transcriptional activity restores nuclear blebbing.
+These modulations of transcriptional activity did not alter nuclear or actin mechanics.
+The mean square displacement (MSD) of chromatin domains labeled via transfected Cy3-dNTPs revealed that transcription activity regulates chromatin motion.
+To determine if increasing chromatin motion is a mechanism to increase nuclear blebbing, we used an established RAD51 inhibitor BO2.
+We verified BO2 increases chromatin domain motion which resulted in increased nuclear blebbing.
+We reveal the mechanism by which transcriptional activity drives nuclear blebbing is through chromatin motion.
+Thus, two hallmarks of human disease are directly linked via transcriptional activity and abnormal nuclear shape.

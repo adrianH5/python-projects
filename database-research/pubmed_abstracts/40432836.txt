@@ -1,0 +1,11 @@
+Speckle-type pox virus and zinc finger protein (SPOP) has emerged as a key focus in prostate cancer research due to its critical role in regulating the androgen receptor (AR) signaling pathway.
+This review aims to comprehensively summarize current knowledge on SPOP gene mutations in prostate cancer, emphasizing their importance in disease characterization and identification of therapeutic targets.
+A systematic literature search was conducted across multiple databases, including PubMed, Web of Science, Scopus, and Google Scholar.
+In addition, this study uses computational approaches and data from the TCGA cBioPortal database to explore the landscape of SPOP mutations in prostate cancer.
+After screening 682 articles and following systematic selection steps, 56 high-quality articles were included.
+Computational analysis of TCGA cBioPortal data revealed a SPOP mutation prevalence of 5%-6%, along with significant alterations in AR signaling and epigenetic regulation.
+SPOP mutations disrupt substrate recognition, leading to dysregulation of downstream pathways such as AR signaling and chromatin remodeling.
+Notably, SPOP-mutant prostate cancers are mutually exclusive with TMPRSS2-ERG fusions and enriched for Wnt pathway alterations.
+Patients with SPOP mutations demonstrate prolonged responses to androgen deprivation therapy (ADT), although concurrent mutations in TP53 or DNA repair genes negatively impact outcomes.
+While their prognostic significance continues to evolve, their impact on the AR pathway highlights their potential as therapeutic targets.
+The clinical implications of SPOP mutations are substantial, as they are linked to variations in treatment response and disease progression, thus serving as valuable biomarkers for risk stratification and prognosis.

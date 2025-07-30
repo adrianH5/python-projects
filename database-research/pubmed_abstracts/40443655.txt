@@ -1,0 +1,5 @@
+Recent advances of cancer immunotherapy have identified neoantigens as essential targets for personalized treatments.
+However, since neoantigens are generally unique in individual cancers, neoantigen therapies that are more broadly applicable are eagerly awaited.
+Shared neoantigens, derived from recurrent mutations found across multiple patients, are considered to be a challenging, but promising approach.
+Here we analyzed shared frameshift neoantigens derived from frameshift indels in TCGA exome sequencing data and identified 760 possible recurrent frameshift mutation clusters (FSCs) that share frameshifted open reding frames and premature stop codons.
+Among them, we investigated FSCs in the

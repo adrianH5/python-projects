@@ -1,0 +1,3 @@
+High-dose-rate intracavitary brachytherapy delivers high radiation doses to tumors while minimizing exposure to surrounding normal cells.
+However, inappropriate administration can lead to radiation-induced toxicity by overdosing organs at risk.
+This study evaluated and compared the rectum doses planned by treatment planning system and measured using a thermoluminescent dosimeter.

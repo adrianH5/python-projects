@@ -1,0 +1,11 @@
+Epithelial-to-mesenchymal transition (EMT) is a crucial cellular process for embryogenesis, wound healing, and cancer progression.
+It involves a shift in cell interactions, leading to the detachment of epithelial cells and activation of gene programs promoting a mesenchymal state.
+EMT plays a significant role in cancer metastasis triggering tumor initiation and stemness, and activates metastatic cascades resulting in resistance to therapy.
+Moreover, reversal of EMT contributes to the formation of metastatic lesions.
+Metastasis still needs to be better understood functionally in its major but complex steps of migration, invasion, intravasation, dissemination, which contributes to the establishment of minimal residual disease (MRD), extravasation, and successful seeding and growth of metastatic lesions at microenvironmentally heterogeneous sites.
+Therefore, the current review article intends to present, and discuss comprehensively, the status quo of experimental models able to investigate EMT and metastasis in vitro and in vivo, for researchers planning to enter the field.
+We emphasize various methods to understand EMT function and the major steps of metastasis, including diverse migration, invasion and matrix degradation assays, microfluidics, 3D co-culture models, spheroids, organoids, or latest spatial and imaging methods to analyze complex compartments.
+In vivo models such as the chorionallantoic membrane (CAM) assay, cell line-derived and patient-derived xenografts, syngeneic, genetically modified, and humanized mice, are presented as a promising arsenal of tools to analyze intravasation, site specific metastasis, and treatment response.
+Furthermore, we give a brief overview on methods detecting dissemination and MRD in carcinomas, highlighting its significance in tracking the course of disease and response to treatment.
+Enhanced lineage tracking tools, dynamic in vivo imaging, and therapeutically useful in vivo models as powerful preclinical tools may still better reveal functional interdependencies between metastasis and EMT.
+Future directions are discussed in light of emerging views on the biology, diagnosis, and treatment of EMT and metastasis.

@@ -1,0 +1,13 @@
+Accurate prediction of symptomatic radiation therapy-induced pneumonitis (RT-IP) remains an important clinical challenge.
+Currently, mean lung dose and volume of the lungs receiving a 20 Gy threshold of ≤20 Gy and ≤35%, respectively, are utilized to reduce the incidence of pneumonitis to 20%.
+However, its occurrence is not entirely predictable even at the recommended threshold levels.
+Hence, in this study, we aimed to evaluate several biological markers, specifically chromosome aberrations by peptide nucleic acid fluorescence in situ hybridization (PNA-FISH), γH2AX, serum IL-6, and IL-17, as potential predictors of symptomatic (grade ≥2) radiation therapy-induced pneumonitis.
+We prospectively enrolled patients with locally advanced lung cancer.
+Peripheral blood samples were collected from eleven patients before, during (2 Gy, 20 Gy, 60/66 Gy), and one month after chemoradiotherapy.
+We then compared these biomarkers between overreactors (grade ≥2 RT-IP) and non-overreactors (grade 0 to 1 RT-IP).
+Our findings show that chromosome aberration frequency, serum IL-6, and IL-17 after 20 Gy are higher in overreactors than in non-overreactors.
+Moreover, overreactors accumulated more complex aberrations, such as tricentrics, quadricentrics, and quintacentrics.
+While chromosome aberration frequency correlated with mean lung dose and IL-17, a pneumonitis marker, IL-6 correlated with the irradiated volume after 20 Gy.
+Receiver operating characteristic curve analysis further showed that chromosome aberration frequency and IL-6 have the highest specificity for predicting grade ≥2 RT-IP among the assays.
+In conclusion, we demonstrated the superior predictive capability of PNA-FISH-based chromosome aberration frequency and serum IL-6 for radiation therapy-induced pneumonitis in lung cancer patients.
+This supports the usefulness of these biomarkers for predicting radiation therapy-induced pneumonitis.

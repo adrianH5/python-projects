@@ -1,0 +1,16 @@
+Dolutegravir (DTG), is recommended for all people with HIV, including pregnant women.
+Weight gain and hyperglycemia have been reported with DTG use, as well as a signal for neural tube defects (NTDs) that has waned over time.
+Obesity and hyperglycemia are risk factors for NTDs.
+We explored the impact of DTG-based antiretroviral therapy (ART) on weight gain and glucose homeostasis in female mice.
+C57BL/6 mice were treated daily for 9 weeks with water (control), 1xDTG (2.5 mg/kg DTG + 33.3/50 mg/kg emtricitabine/tenofovir-yielding therapeutic levels), or 5xDTG (12.5 mg/kg + 33.3/50 mg/kg emtricitabine/tenofovir).
+Overnight fasted glucose, weight, and oral glucose tolerance test (OGTT) were measured at 2-8 weeks.
+Tissue was collected for expression analyses of glucose homeostasis pathways.
+Weight gain was similar between groups.
+We observed a transient fasted hyperglycemia with DTG treatment, that peaked at week 6 and resolved by week 9.
+No significant differences were observed in insulin or OGTT response between groups.
+DTG was associated with a gradual and persistent decrease in plasma leptin and increase in plasma corticosterone levels compared to controls.
+Downregulation of genes involved in gluconeogenesis and lipogenesis in liver were observed in DTG-treated mice that remained euglycemic.
+Muscle and liver leptin receptor expression was elevated with DTG treatment.
+DTG was associated with transient hyperglycemia, lower leptin and higher corticosterone.
+Induction of compensatory mechanisms may have aided to restore/maintain euglycemia.
+This transient nature of the glycemic dysregulation may in part explain the loss of the NTD signal that was observed at the initial roll out of DTG but waned over time.

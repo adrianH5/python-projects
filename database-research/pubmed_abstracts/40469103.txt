@@ -1,0 +1,3 @@
+Chimeric antigen receptors - natural killer (CAR-NK) cells are a promising new cancer treatment approach.
+They possess distinct benefits over CAR-T cells, including an intrinsic ability to differentiate between malignant and non-malignant cells, and a lower risk of graft-versus-host disease.
+Here, we evaluated two CAR-NK-92 cell lines, targeting either CD276 or HER2, and their potential on-target/off-tumor effects

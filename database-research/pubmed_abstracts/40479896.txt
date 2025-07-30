@@ -1,0 +1,4 @@
+Three generations of ALK tyrosine kinase inhibitor (ALK TKI) have achieved significant clinical success in the treatment of ALK rearranged non-small cell lung cancer (NSCLC).
+However, the emergence of acquired mutations after sequential ALK TKI therapies poses significant challenges for cancer treatment.
+Here we identified WZH-15-125 as a potent ALK inhibitor that can effectively override drug resistance, especially compound ALK mutations, including the highly refractory G1202R/L1196M mutation that is resistant to lorlatinib.
+By using WZH-15-125 as the warhead, we designed an ALK PROTAC molecule WZH-17-002 that can efficiently degrade ALK proteins with half maximal degradation concentration (DC

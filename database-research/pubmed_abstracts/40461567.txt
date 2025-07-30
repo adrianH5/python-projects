@@ -1,0 +1,8 @@
+Despite the limitations of in vitro models to investigate cancer cell metabolism, their study can provide new insights essential for understanding tumorigenesis and effectively aiding in the development of novel therapies.
+The innovative tumor-on-chip models offer a more physiologically relevant platform than the traditional 2D cultures.
+These 3D cultures incorporate cell-cell and cell-matrix interactions, as well as diffusion dynamics through both the matrix and tumor spheroid, modeling in vivo diffusion within the tumor.
+Therefore, this work focuses on a quantitative comparison between 2D and 3D cultures through a microfluidic chip that allows daily monitoring of cancer cell key metabolites such as glucose, glutamine and lactate, unveiling critical differences.
+Our analysis reveals reduced proliferation rates in 3D models, likely due to limited diffusion of nutrients and oxygen.
+Additionally, 3D cultures showed distinct metabolic profiles, including elevated glutamine consumption under glucose restriction and higher lactate production, indicating an enhanced Warburg effect.
+The microfluidic chip enabled continuous monitoring, revealing increased per-cell glucose consumption in 3D models, highlighting fewer but more metabolically active cells than in 2D cultures.
+These findings underscore the importance of using microfluidic-based 3D models to provide a more accurate representation of tumor metabolism and progression compared to traditional 2D cultures.

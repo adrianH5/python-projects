@@ -1,0 +1,7 @@
+Aroma and precision fermentation converge in exciting ways, enabling the precise production of aromatic compounds.
+Precision fermentation employs engineered microorganisms to create and refine scents and aromas with high accuracy, allowing for customizable aromas and opening new possibilities for both culinary experiences and consumer products.
+Structured data on volatile compounds from canned meat and fermented products was compiled to train machine learning (ML) models aimed at predicting volatile compounds and simulating meat aroma in Saccharomyces cerevisiae.
+We proposed a framework encompassing data generation and preprocessing, feature selection, model construction, and evaluation.
+Principal Component Analysis ensured data quality control, while embedding-based feature selection identified key volatile compounds.
+A two-stage model was developed to quantify the importance of volatile compounds and predict meat aroma and the gradient-boosted decision trees (GBDT) model demonstrated optimal performance.
+Our study guides simulating meat aroma through fermentation, offering a promising approach for plant-based meat flavoring.

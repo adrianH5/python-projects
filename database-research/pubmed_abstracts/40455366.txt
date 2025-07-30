@@ -1,0 +1,2 @@
+Currently, the clinical diagnosis and treatment for invasive lobular carcinoma of the breast (ILC) often draw on the treatment approaches used for invasive ductal carcinoma (IDC), despite significant differences between the two.
+Studies evaluating the risk and prognosis of ILC are limited; thus, our goal was to construct a predictive model for the prognosis of ILC.

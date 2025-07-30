@@ -1,0 +1,9 @@
+Traditional nano-carriers used for anti-tumor applications primarily rely on the enhanced permeability and retention (EPR) effect to achieve effective drug release and cancer therapy.
+However, the passive targeting mechanism of these nano-carriers often results in inadequate accumulation and unsatisfied therapeutic efficacy in tumor tissues.
+Therefore, the development of active targeting nano-carriers for improved therapeutic outcomes has emerged as the major focus in the anti-tumor field.
+Notably, hyaluronic acid (HA), as a type of natural functional biomacromolecule, has gained significant attention for its remarkable water-solubility, biocompatibility, biodegradability, and CD44-receptor mediated active targeting properties.
+Consequently, HA has been developed as one potential candidate for the construction of nanoparticles for drug delivery, particularly in the active targeting cancer therapy field.
+This paper provides a comprehensive summary of the modification of HA, HA-based nano-carriers and their applications, including chemotherapy, photothermal therapy, photodynamic therapy, chemodynamic therapy, and combined therapy.
+The different therapeutic mechanisms and recent advancements in HA-based nano-carriers are discussed.
+Additionally, based on the progress of HA-based nanoparticles, the research trends in this area are also anticipated.
+Overall, this paper exhibits the potential of HA-based nano-carriers in active targeting cancer therapy and provides insights into their applications and future directions in the field.

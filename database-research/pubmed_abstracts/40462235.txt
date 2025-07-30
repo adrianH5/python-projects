@@ -1,0 +1,8 @@
+Between 5 and 8% of the general population carry a constitutional methylation of the BRCA1 promoter ("epimutation").
+Several studies have suggested that these BRCA1 epimutations confer an increased risk of breast cancer, in particular triple-negative breast cancer (TNBC), with an earlier onset than in the general population.
+However, those studies relied on very few patients with early-onset TNBC.
+Using specific Methylation-Sensitive High-Resolution Melting, we assessed BRCA1 epimutation prevalence in a large cohort of 112 early-onset (≤ 30 years-old) TNBC patients with no genetic cancer-predisposing pathogenic variants (PVs).
+We compared this cohort to 87 early-onset TNBC patients carrying cancer-predisposing PVs and to 93 late-onset (≥ 70 years-old) TNBC with no cancer-predisposing PVs.
+We observed a high prevalence of BRCA1 epimutation in blood cells from early-onset TNBC patients with no cancer-predisposing PVs (38/112, 33.9% [95% confidence interval: 25.4-43.6%]) as compared to early-onset patients with cancer-predisposing PVs (1/87, 1.1% [0.1-7.1%], p value < 0.001) and late-onset patients (11/93, 11.8% [6.3-20.6%], p value < 0.001).
+These differences remained significant when restricting to epimutations with low variant epiallele frequencies (VEF under 1%).
+Our results highlight the role of constitutional BRCA1 epimutations in early-onset TNBC risk and call for their integration into multifactorial models used to compute personalized breast cancer risk.

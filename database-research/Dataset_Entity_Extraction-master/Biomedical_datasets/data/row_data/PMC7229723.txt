@@ -1,0 +1,15 @@
+However, as for SARS and MERS, SARS-CoV-2 RNA has been detected in stool samples from patients exhibiting symptoms of COVID-19 and from asymptomatic carriers (He et al., 2020; Pan et al., 2020; Wölfel et al., 2020; Young et al., 2020; Zhang et al., 2020).
+Wu et al., 2020a; Wurtzer et al., 2020), and wastewater testing has been suggested as a non-invasive early-warning tool for monitoring the status and trend of COVID-19 infection and as an instrument for tuning public health response (Daughton, 2020; Mallapaty, 2020; Naddeo and Liu, 2020).
+The sets of primers and probe (2019-nCoV RUO Kit) as well as the positive control (2019-nCoV_N_Positive Control, 2 × 105 genome copies (gc)/μL) were provided by IDT (Integrated DNA Technologies, Leuven, Belgium).
+As expected, biobanked samples collected in October 2019, before the first COVID-19 case was documented, tested negative for all the three RT-qPCR assays thus excluding false positive reactions.
+Epidemiological data on COVID-19 in the Murcia Region have been retrieved from the publically available repository of the “Servicio de epidemiologia” of the “Consejería de Salud de la Región de Murcia” (available at http://www.murciasalud.es/principal.php)
+Epidemiological dataa summary of COVID-19 cases in the area of study.
+Therefore, our outcomes support that WBE could be used as an early warning tool to monitor the status of COVID-19 infection within a community.
+Our wastewater data do not quantitatively resemble the prevalence of COVID-19 confirmed cases.
+For instance, not all COVID-19 positive patients excrete SARS-CoV-2 RNA in faeces, and when it occurs, the titers and the duration of shedding vary among individuals and across time (He et al., 2020; Pan et al., 2020; Wölfel et al., 2020; Xu et al., 2020).
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has caused more than 200,000 reported COVID-19 cases in Spain resulting in more than 20,800 deaths as of April 21, 2020.
+Faecal shedding of SARS-CoV-2 RNA from COVID-19 patients has extensively been reported.
+Therefore, we investigated the occurrence of SARS-CoV-2 RNA in six wastewater treatments plants (WWTPs) serving the major municipalities within the Region of Murcia (Spain), the area with the lowest COVID-19 prevalence within Iberian Peninsula.
+This environmental surveillance data were compared to declared COVID-19 cases at municipality level, revealing that members of the community were shedding SARS-CoV-2 RNA in their stool even before the first cases were reported by local or national authorities in many of the cities where wastewaters have been sampled.
+The detection of SARS-CoV-2 in wastewater in early stages of the spread of COVID-19 highlights the relevance of this strategy as an early indicator of the infection within a specific population.
+None of the tertiary effluent samples (n = 12) tested positive for SARS-CoV-2.    •  SARS-CoV-2 RNA was detected in wastewater before the first COVID-19 cases were declared by local authorities.

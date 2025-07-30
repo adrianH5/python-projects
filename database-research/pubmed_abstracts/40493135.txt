@@ -1,0 +1,13 @@
+Cancer metastases induce bone pain and central sensitization in the spinal cord.
+Mitochondrial dysfunction is associated with pian signal transmission and involved in cancer-induced bone pain.
+Pueratin (Pue) is a natural isoflavone compound that works as a potential natural neuroprotective agent.
+However, the mechanisms of Pue on cancer pain remain unclear.
+In this study, a cancer-induced bone pain (CIBP) rat model was established and Pue was administered intrathecally.
+As a result, CIBP model rats exhibited as the evoked mechanical pain, thermal pain, and spontaneous pain, the elevated neurological damage and mitochondrial dysfunction in the spinal cord.
+Pue administration improved pain related behaviors, decreased the neuronal activity, reduced NLRP3 inflammasome-mediated inflammation, and elevated mitochondrial dysfunction in the spinal cords of CIBP rats.
+Proteomical data showed that in the spinal synaptosomes, 59 differentially expressed proteins (DEPs) were significantly up-regulated while 128 DEPs were down-regulated.
+Among them, 5 genes were found to be overlapped for CIBP and Pue-potential targets and Src was belonged to the hub genes.
+Database analysis and experimental assay showed that Pue bound with Src at the affinity of 7.9 ± 0.2 µM, and decreased Src level and phosphorylation in the spinal cord of CIBP rats and in primary astrocytic cells.
+In addition, Pue also recovered levels of mitochondrial membrane potential and reactive oxygen species, and decreased inflammation in primary astrocytic cells.
+To summarize, Pue inhibits spinal Src activity, restores mitochondrial function, reduces central sensitization in the spinal cord, and relieves cancer-induced bone pain.
+This study may provide a basis for the application of Pue on the relief of cancer pain.

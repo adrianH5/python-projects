@@ -1,0 +1,4 @@
+Organoid engineering is a rapidly expanding field that involves developing miniaturized, three-dimensional (3D) structures to mimic the architecture and function of real organs.
+It provides a powerful platform to investigate organ development, disease modeling, and personalized medicine.
+Recent advances in cell printing technology, also known as bioprinting, feature high-throughput potential, precise control, and enhanced reproducibility, enabling the deposition of living cells to generate complex, 3D biological structures.
+Cell printing with bioinks composed of cells and supportive biomaterials has been utilized to generate

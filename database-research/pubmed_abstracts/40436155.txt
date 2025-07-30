@@ -1,0 +1,6 @@
+Conventional drug delivery systems for cancer therapy have faced various challenges, including side effects and inadequate drug release behavior, which require addressing.
+Recently, targeted nanocarriers have attracted considerable attention to overcome these challenges.
+Stimuli-responsive chitosan combined with lipid-based carriers (CLBCs) provides an innovative targeted system that can release its encapsulated drug in response to stimuli, such as pH and temperature, in the tumor site.
+In addition, these hybrid systems possess unique properties of high biodegradability, controlled release, mucoadhesion, and co-delivery of both hydrophobic and hydrophilic drugs.
+This review summarizes the recent advances in stimuli-responsive CLBCs, including their unique properties, useful structures, and applications in cancer therapy.
+Moreover, the perspective and challenges of stimuli-responsive CLBCs are also discussed.

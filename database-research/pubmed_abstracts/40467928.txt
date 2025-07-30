@@ -1,0 +1,11 @@
+Improving immune cell functions in tumors remains a main challenge in cancer immunotherapy.
+NK are main innate effector cells with anti-tumor activity against various tumors.
+Consequently, NK cells are proper candidates for cancer immunotherapy, including gastric cancer.
+The IL-15 signaling pathway is negatively regulated by a protein called Cish encoded by the Cish gene.
+In the present study, we explored the knockdown of Cish and anti-tumor effects of NK cells.
+We knockdown Cish in human primary NK cells using siRNA, and the expression of Cish was evaluated by qRT-PCR.
+Gene expression analysis revealed that Cish expression increased after induction by IL-15 at various time point and conversely decreased after knockdown, approximately 44% and 41% reduction were observed at siRNA concentrations of 100 nmol/l at timepoint of 6h and 48h, respectively.
+Cish knockdown of human NK cells, showed enhanced the anti-tumor effects and induced apoptosis against a human gastric cancer cell lines called MKN-45 and AGS.
+Additionally, co-culture with MKN-45 and AGS cells showed increased secretion of IFN-γ and TNF-ɑ that could be related to higher cytotoxicity of knockdown Cish NK cells.
+Our results indicate that Cish knockdown human NK cells enhanced cytotoxicity and cytokine production when co-cultured with gastric cancer cell lines.
+siRNA-mediated Cish knockdown NK cells, might be a promising immunotherapeutic alternative in patients with gastric cancer.

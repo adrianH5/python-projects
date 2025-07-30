@@ -1,0 +1,8 @@
+The novel coronavirus (2019-nCoV) has recently emerged, causing COVID-19 outbreaks and significant societal/global disruption.
+Importantly, COVID-19 infection resembles SARS-like complications.
+However, the lack of knowledge about the underlying genetic mechanisms of COVID-19 warrants the development of prospective control measures.
+To understand the pathogenetic behavior of 2019-nCoV, we compared gene expression datasets of viral infections closest to 2019-nCoV with four COVID-19 clinical presentations followed by functional enrichment of shared dysregulated genes.
+Among the dysregulated genes, SARS-CoV shared ≤19 upregulated and ≤22 downregulated genes with each of different COVID-19 complications.
+Besides, 14 genes were common to different SARS-CoV comorbidities that might influence COVID-19 disease.
+We also observed similarities in pathways that can lead to COVID-19 and SARS-CoV diseases.
+Finally, protein–chemical interactions suggest cyclosporine, resveratrol and quercetin as promising drug candidates against COVID-19 as well as other SARS-like viral infections.

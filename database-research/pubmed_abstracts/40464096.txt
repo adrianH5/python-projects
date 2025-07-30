@@ -1,0 +1,7 @@
+Aclarubicin (also called aclacinomycin A) is an antineoplastic from the anthracycline class that is used in China and Japan but not in Europe nor in the USA.
+Aclarubicin induces much less DNA damage than the classical anthracyclines doxorubicin, daunorubicin, epirubicin, idarubicin, and the anthracene mitoxantrone, but is equally effective in inhibiting DNA-to-RNA transcription and in eliciting immunogenic stress in malignant cells.
+Accordingly, aclarubicin lacks the DNA damage-associated cardiotoxicity that is dose-limiting for classical anthracyclines.
+Conversely, aclarubicin is at least as potent as other anthracyclines in inducing immunogenic cell death (ICD), which is key for the mode of action of efficient chemotherapeutics.
+This combination of reduced toxicity and equivalent ICD-stimulatory activity may explain why, as compared to other anthracyclines, aclarubicin is particularly efficient against acute myeloid leukemia.
+As a result, we advocate for clinical studies seeking to replace the anthracyclines used in Western medicine by aclarubicin-like compounds.
+Such clinical studies should not only embrace hematological malignancies but should also concern solid cancers, including those in which ICD-inducing chemotherapies are followed by immunotherapies targeting the PD-1/PD-L1 interaction.

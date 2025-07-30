@@ -1,0 +1,7 @@
+Folates are group of water-soluble B-vitamins indispensable to one carbon metabolism as acceptor and donor of methyl group during purine and pyrimidine biosynthesis, DNA and histone methylations, and in mitochondrial protein translation.
+The deficiencies associated with risk of neural tube defect, cancer, cardiac and psychiatric disorders.
+Thus, detecting and quantifying folate species accurately become a crucial step in food omics, disease metabolomics, proteomics, genomics, toxicology, and pharmacokinetics, and regulatory sciences.
+However, the detection and quantitative determination of folate species yet subjected to analytical challenges due to physio-chemical instability, structural similarity, ultra-trace availability.
+Advances in liquid chromatography tandem mass spectrometry (LC-MS/MS) method enabled the detection and quantification of folate species in short span of time using low sample volume.
+However, risk of inter conversion, degradation or loss during sample preparation, coupled with folate isomers and isobars challenged the selectivity, specificity and sensitivity for quantification by LC-MS/MS at trace level.
+Systematic literature search was conducted through major indexing databases such as Pub med, Embase, and Google Scholar to include the most relevant articles published 2010-2025 in preparing the review highlighting the challenges of folate species analysis in food and biological matrices from sample preparation to mass spectrometry detection with a future perspective on innovative optimization methods.

@@ -1,0 +1,7 @@
+Ionizable lipids are crucial for the effective delivery of mRNA by using lipid nanoparticles (LNPs).
+Endowing ionizable lipids with tailored biological properties could potentially augment the therapeutic efficacy of mRNA-based treatments.
+Herein, a functional vitamin E (VE)-based lipid library with distinct head groups was designed and synthesized.
+Due to the presence of VE, these lipids inherently exhibited immunomodulatory properties, including the promotion of cellular uptake, dendritic cells maturation, and antigen presentation.
+Through iterative optimization of the LNP components and the architecture of ionizable lipids, the correlation between the structure of ionizable lipids and their mRNA delivery efficiency has been established, leading to the finding of the most effective delivery formulation.
+Benefiting from the high mRNA delivery efficiency and the immunomodulatory function of LNPs themselves, VE-based LNPs have demonstrated complete remission in colon cancer by delivering mIL-12, which offered a beneficial combination with immune checkpoint blockade.
+The proposed functional LNPs were anticipated to furnish potential delivery systems for mRNA-based cancer treatments.

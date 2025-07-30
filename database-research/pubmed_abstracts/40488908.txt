@@ -1,0 +1,8 @@
+In most rural Bangladesh, naturally contaminated shallow wells exceed the maximum allowable arsenic standards defined by the World Health Organization of 10 µg/L or even the Bangladesh Standard for the Tolerable Level (BSTL) of 50 µg/L.
+The present research conducted a probabilistic human health risk assessment to address the exposure and dose-response data uncertainties while evaluating the mitigation impact of a simple, low-cost ceramic filter (LCCF) made of clay soil and rice bran.
+Water quality monitoring in three villages of Bagerhat District, Bangladesh, found arsenic, manganese, and iron levels exceeding the regulatory standards of 50 µg/L, 50 µg/L, and 300 µg/L.
+Dual-unit LCCF achieved up to 92% arsenic, 89% manganese, and 99% iron removals for initial concentrations of 545 µg/L, 0.57 mg/L, and 7.18 mg/L.
+With 91.7% arsenic removal, the probability of hazard quotient (HQ) > 1 reduced from 0.9 to 0.69 for children and to 0.78 for adults in Village 1 with the most polluted (initial concentration of 545 µg/L) groundwater.
+In the least contaminated (initial concentration of 175 µg/L) Village 2, the probability of HQ > 1 reduced from 0.82 to 0.51 for children and 0.85 to 0.60 for adults.
+The LCCF minimized the incremental lifetime cancer risk (ILCR) probability, exceeding the estimated standard of 6E-4 for 10 µg/L, from 0.97 to 0.82 for Village 1 and 0.54 for Village 2.
+Single-unit LCCF for arsenic < 250 µg/L and double-unit LCCF for higher levels reduced cancer and noncancer risks lower than the HQs and ILCRs corresponding to BSTL for all exposure groups, supporting the application of LCCF at the household level in rural Bangladesh.

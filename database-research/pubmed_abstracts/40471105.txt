@@ -1,0 +1,7 @@
+Ovarian cancer (OC) is associated with poor prognosis and immune evasion through PD-L1 expression.
+While anti-PD-L1 therapies have shown limited efficacy, combination strategies may enhance therapeutic outcomes.
+This study explores the potential of metformin to modulate the immune microenvironment and improve the efficacy of PD-L1 inhibitors in OC.
+An immunocompetent C57BL/6 mouse model of OC was used to evaluate the effects of metformin and PD-L1 inhibitors on tumor progression, immune cell infiltration, and cytokine expression.
+Mice received daily metformin treatment for 2 weeks, with PD-L1 inhibitors administered twice weekly.
+Tumor growth was monitored via volume measurements, immune cell infiltration was assessed by flow cytometry, and cytokine levels (Granzyme B, IFN-γ) were quantified using ELISA.
+Metformin significantly reduced tumor growth, increased CD8

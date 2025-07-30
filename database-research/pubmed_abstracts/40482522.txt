@@ -1,0 +1,6 @@
+Despite the available therapeutic options, hepatocellular carcinoma is still responsible for many cancer-related deaths.
+Novel synthetic compounds have been developed as promising drugs in cancer therapy, including organoselenium, organosulfur and indolic compounds.
+The present work evaluated the cytotoxic effects of new 15 selenylindoles and thiophenylindoles on HepG2 cells.
+The screening of the chalcogenylindoles by the MTT method evidenced that the trifluoromethyl-substituted derivatives were the most cytotoxic and promoted a significant reduction in HepG2 cells viability starting at 20 μM after 24 h and at 10 μM and 15 μM after 48 h for the selenylindol and thiophenylindol, respectively.
+The increased release of lactate dehydrogenase, the alterations in cell morphology, such as the presence of membrane blebbing, and the annexin V and propidium iodide staining also confirmed their cytotoxicity.
+Furthermore, both compounds significantly enhanced reactive oxygen species (ROS) levels in HepG2 cells after 48 h and impaired cell cycle progression at the G

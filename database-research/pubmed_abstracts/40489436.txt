@@ -1,0 +1,14 @@
+Breast cancer is defined as the unchecked growth of breast cells, with imbalances in prostaglandin and steroid hormone metabolism contributing to disease risk by altering prostaglandin types and forms (strong and weak) of steroid hormones.
+The AKR1C3 enzyme plays a key role in managing these metabolic processes.
+This study investigated the association between the AKR1C3 gene polymorphism (rs12529) and the risk of developing breast cancer in Bangladeshi individuals.
+A case-control investigation was conducted with a total of 620 samples, involving 310 individuals diagnosed with breast cancer and 310 healthy subjects.
+Herein, DNA extraction was performed via an organic process, whereas genotyping was employed via the PCR‒RFLP technique.
+Statistical assessments were conducted to analyze the association of polymorphisms, while molecular dynamics simulation and diverse computational techniques were employed to anticipate the functional and structural impacts of the SNP.
+Our study discovered that the rs12529 polymorphism of the AKR1C3 gene has an enhanced risk of susceptibility to breast malignancy (p = 0.016, OR = 1.97, 95% CI = 1.22 to 3.16 for the GG genotype in additive model 2).
+The recessive model (GG vs CC+CG) also showed an enhanced risk of susceptibility to breast malignancy (p = 0.0004, OR = 1.95, 95% CI =  1.40 to 2.73).
+In both premenopausal women and postmenopausal women, the GG genotype (for the recessive model) significantly increased breast cancer risk by 1.92-fold and 1.95-fold, respectively.
+However, no significant associations were observed regarding tumor grade or size in breast cancer development.
+In-silico analyses indicated that the H5Q (rs12529) mutation may decrease protein stability but is typically tolerated or functionally neutral.
+Molecular dynamics simulations revealed that H5Q leads to increased structural fluctuations and surface exposure, potentially causing the mutant AKR1C3 enzyme to operate differently from the wild type.
+In conclusion, rs12529 significantly increases the incidence of breast cancer in the population of Bangladesh.
+Computational analyses further revealed that the H5Q (rs12529) mutation in AKR1C3 leads to decreased stability and altered functional changes with notable conformational changes.

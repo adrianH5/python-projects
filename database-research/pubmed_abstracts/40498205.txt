@@ -1,0 +1,8 @@
+Atherosclerosis is attributed to one of the highest mortality rates in the United States and many other countries.
+Hypercholesterolemia is a significant risk factor for atherosclerosis.
+The balance between high-density lipoprotein (HDL) and low-density lipoprotein maintains the cholesterol levels by removing or depositing it, respectively.
+By synthesizing HDL-mimicking nanoparticles (NPs), the therapeutic removal of cholesterol may be plausible upon administration.
+In addition, HDL has been known to be an excellent transporter of various cargos.
+The manipulations of such characteristics could yield NPs that can target atherosclerotic plaque sites.
+To investigate this possibility, we developed HDL-mimicking NPs using FDA-approved polymers.
+This NP can participate in cholesterol efflux, possibly through a reverse cholesterol transport pathway.

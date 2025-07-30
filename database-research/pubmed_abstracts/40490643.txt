@@ -1,0 +1,9 @@
+Cancer-associated fibroblasts (CAFs), the predominant stromal cells in the tumor microenvironment (TME), play a critical role in the progression of solid tumors, including oral squamous cell carcinoma (OSCC).
+However, the molecular mechanisms by which OSCC-derived factors mediate CAF differentiation remain incompletely understood.
+This study investigates the role of the C-X-C motif chemokine ligand 1 (CXCL1), secreted by OSCC cells, in promoting CAF differentiation and its downstream impact on tumor progression.
+Gingival fibroblasts (GFs) were treated with conditioned medium (CM) from various OSCC cell lines to assess their potential to induce CAF differentiation.
+Proteomic analysis using liquid chromatography-mass spectrometry identified CXCL1 as a key factor highly secreted in SCC25-derived CM, which exhibited the strongest capacity to induce CAF differentiation.
+CXCL1 synergistically enhanced TGF-β1-induced differentiation of GFs into α-smooth muscle actin (αSMA)- and vimentin-expressing CAFs by approximately 1.5-fold, confirming its co-stimulatory function.
+Conversely, silencing its receptor CXCR2 reduced CAF marker expression by over 50%, indicating a strong inhibitory effect on CAF differentiation.
+In vivo, co-injection of SCC25 cells with GFs significantly promoted tumor growth and stromal CAF marker expression, whereas CXCR2 knockdown in GFs led to a ~ 40% reduction in tumor volume and reduced αSMA/vimentin-positive CAFs.
+These findings establish CXCL1 as a pivotal mediator of CAF differentiation through CXCR2-dependent signaling, and highlight that the CXCL1-CXCR2 axis is a promising therapeutic target for modulating stromal-tumor interactions in OSCC.

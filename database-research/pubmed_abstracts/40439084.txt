@@ -1,0 +1,11 @@
+The Hippo pathway is a tumor-suppressive pathway.
+Hippo pathway dysregulation correlates with cancer progression, metastasis, and a poor prognosis.
+Large tumor suppressor homolog 1/2 (LATS1/2), Yes-associated protein (YAP), and TEA domain-containing sequence-specific transcription factor 4 (TEAD4) are primary Hippo pathway components.
+We evaluated LATS1/2, YAP, and TEAD4 expression and their correlation with clinicopathological behavior and prognostic significance in 67 distal bile duct cancer (DBDC) cases.
+LATS1/2 expression was observed in 20 (29.9%) DBDC cases and correlated significantly with low pT classification, absence of lymphovascular invasion, and low American Joint Committee on Cancer (AJCC) stage.
+High YAP expression was identified in 35 (52.2%) cases and correlated with high pT classification, AJCC stage, and TEAD4 expression.
+High TEAD4 expression was observed in 13 (19.4%) cases and correlated significantly with lymph node metastasis, involved resection margins, and high AJCC stage.
+Overall survival was significantly better in patients with DBDC with than in those without LATS1/2 expression (P < 0.001), and significantly worse in patients with high than in those with low YAP and TEAD4 expression (P = 0.014, 0.037, respectively).
+The overall survival of patients with combined LATS1/2+YAP or TEAD4low expression was significantly better than that of other groups [hazard ratio (HR) 5.809; 95% CI, 1.770-19.065; P = 0.001].
+This combination was an independent good prognostic factor (HR 4.399; 95% CI, 1.313-14.743; P = 0.016) in patients with DBDC.
+LATS1/2, YAP, and TEAD4 expression correlates with DBDC clinicopathological behavior and may be useful prognostic markers in patients with DBDC.

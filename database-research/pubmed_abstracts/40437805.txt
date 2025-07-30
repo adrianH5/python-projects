@@ -1,0 +1,12 @@
+Polycystic ovary syndrome (PCOS) is the most common endocrine disorder in reproductive-age women.
+Hyperandrogenemia (HA) is a hallmark of PCOS and is positively associated with metabolic complications.
+Androgens exert their biological actions through the androgen receptor (AR), which regulates transcriptional activity.
+Antiandrogens are not recommended for managing metabolic complications in PCOS due to their hepatotoxicity, despite being a viable therapy to treat HA.
+We hypothesized that the novel AR Proteolysis Targeting Chimera (PROTAC) degrader ARV-110 would downregulate AR protein levels and actions to abolish or mitigate HA-mediated metabolic complications using a well-established HA mouse model of PCOS.
+Three-week-old female mice were implanted with dihydrotestosterone (DHT) or control pellets.
+Four weeks later, mice were treated with low- (ARV-110-L, 1 mg/kg.day) or high-dose (ARV-110-H, 10 mg/kg.day) ARV-110 for an additional 8 weeks.
+ARV-110 dose-dependently reduced AR protein levels in white adipose tissue (WAT), kidney, liver, and ovary.
+ARV-110 attenuated DHT-induced increases in body weight, fat mass, kidney mass, WAT mass, circulating leptin and antimüllerian hormone, and altered glucose homeostasis.
+ARV-110-H increased kidney (UACR, KIM-1, NGAL) and liver (ALT, AST, LDH) injury markers and caused severe hepatomegaly, while ARV-110-L mostly spared those deleterious effects.
+Unbiased proteomics analysis revealed that ARV-110-H treatment severely affected the liver proteome and dysregulated multiple signaling and metabolic canonical pathways, while only minimal effects were observed with ARV-110-L treatment.
+In summary, our findings underscore the potential of AR PROTACs as a novel therapeutic approach for managing metabolic complications in PCOS, provided the dosing is carefully optimized to avoid adverse effects.

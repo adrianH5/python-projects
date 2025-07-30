@@ -1,0 +1,11 @@
+Breast cancer is a significant health issue for women, characterized by its high rates of mortality and sickness.
+However, its early detection is crucial for improving patient outcomes.
+Thermography, which measures temperature variations between healthy and cancerous tissues, offers a promising approach for early diagnosis.
+This study proposes a novel method for analyzing breast thermograms.
+The method segments suspicious masses, extracts relevant features, and classifies them as benign or malignant.
+While the chaotic indices, including Lyapunov Exponent (LE), Fractal Dimension (FD), Kolmogorov-Sinai Entropy (KSE), and Correlation Dimension (CD), are employed for nonlinear analysis, the Gray-Level Co-occurrence Matrix (GLCM) method utilized for extracting the texture features.
+The effectiveness of the proposed approach is enhanced by integrating texture and complexity features.
+Besides, to optimize feature selection and reduce redundancy, a metaheuristic optimization technique called Non-Dominated Sorting Genetic Algorithm (NSGA III) is applied.
+The proposed method utilizes various machine learning algorithms, including Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Linear Discriminant Analysis (LDA), Pattern recognition Network (Pat net), and Fitting neural Network (Fit net), for classification.
+ten-fold cross-validation ensures robust performance evaluation.
+The achieved accuracy of 98.65%, emphasizes the superior performance of the proposed method in thermograms breast cancer diagnosis.

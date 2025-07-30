@@ -1,0 +1,11 @@
+Limosilactobacillus reuteri DSM 17938 is among the world's most studied probiotic strains and has been shown to provide several health benefits for the host.
+We have previously shown that the cell-free supernatant of L. reuteri DSM 17938 possesses antimicrobial activity and contains several bioactive compounds.
+Furthermore, the strain was shown to be a biofilm producer that releases both planktonic and biofilm Membrane Vesicles (MVs).
+In this study, membrane vesicles isolated from planktonic (pMVs) and biofilm (bMVs) phenotypes were comparatively investigated for their toxicity, ability to kill cancer as well as non-cancer cell lines and modulate phagocytosis in murine macrophages.
+Neither pMVs nor bMVs showed any in vivo toxicity in a Galleria mellonella model, and weakly affected cancer and noncancerous cell viability after both short- and long-term treatments.
+However, they were able to affect phagocytosis in lipopolysaccharide challenged RAW 264.7 macrophages, suggesting possible immunomodulatory properties.
+NMR-based metabolomic analysis of pMVs and bMVs identified and quantified engulfed compounds, mainly organic acids and amino acids, with lactate being the most abundant molecule in both vesicle types.
+bMVs contained higher concentrations of all measured metabolites compared to pMVs.
+Proteomic analysis of pMVs and bMVs described equivalent protein cargos, emphasizing quantitative compositional differences that presumably reflect the physiological state of each parent bacterial phenotype.
+Through the assignment of molecules possibly acting as mediators of immune/inflammatory responses in the host and/or modulating known beneficial effects of L. reuteri, important signaling functions of these vesicles were suggested.
+Finally, storage stability of MVs up to four weeks was established.

@@ -1,0 +1,7 @@
+Genome instability is a major force driving tumorigenesis.
+The ssDNA-binding protein complex CTC1-STN1-TEN1 (CST) plays a pivotal role in maintaining genome stability by countering replication stress, modulating DNA damage repair, and maintaining telomere integrity.
+Despite its well-documented role in genome maintenance, the involvement of CST in skin cancer development has yet to be investigated.
+We recently found that CST localizes at stalled DNA replication sites after UV exposure and may suppress the unwanted repriming activity, suggesting a potential role of CST in suppressing genome instability caused by UV damage.
+In this study, we first analyzed CST expression and alterations in cutaneous melanoma database and found that the CST genes are frequently altered in cutaneous melanoma and their expression is significantly downregulated in melanoma samples compared to normal tissues.
+We then generated a conditional knockout (cKO) mouse model with STN1 deficiency specifically in melanocytes to investigate its role in skin cancer formation.
+Upon chronic exposure to UV irradiation, STN1-deficient mice exhibit no obvious difference in melanoma incidence compared to control littermates, suggesting that STN1 downregulation in mature melanocytes has no significant effect on UV-induced skin cancer development in lab mice.

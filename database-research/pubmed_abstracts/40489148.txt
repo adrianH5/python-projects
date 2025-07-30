@@ -1,0 +1,7 @@
+In oncology, the advent of monoclonal antibody (mAb) therapeutics represents a breakthrough in various cancer diseases.
+However, these therapies often necessitate iterative hospital visits for intravenous infusion that alter patient quality of life and contribute to the chronic saturation of hospitals.
+Subcutaneous formulations of mAbs offer a promising alternative facilitating faster administration compared with traditional intravenous methods, while still maintaining the same dosing schedule and providing time-saving advantages.
+Here, an injectable mAb delivery platform using α-cyclodextrin (αCD)-reinforced polymer-nanoparticle hydrogels to perform subcutaneous mAb depots and delay their release is developed.
+By leveraging mAb-polymer electrostatic complexation, hyaluronic acid- and alginate-based injectable drug depots are formulated by simply mixing components that are generally regarded as safe.
+Trastuzumab is included as a clinically relevant therapeutic antibody.
+These formulations delayed mAb release both in vitro and in vivo mice models, with a similar pharmacokinetic performance to the clinically approved Herceptin SC (Roche) formulation composed of trastuzumab with recombinant human hyaluronidase (rHuPH20).

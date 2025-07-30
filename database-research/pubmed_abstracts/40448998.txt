@@ -1,0 +1,5 @@
+Progression following androgen-deprivation therapy (ADT) and the development of castration resistance is the leading cause of death among prostate cancer patients.
+Since there is currently a lack of known driver alterations associated with ADT resistance in castration-sensitive prostate cancer (CSPC), we investigated the critical role of crosstalk between cell signaling networks in early castration resistance.
+Our preclinical experiments and analyses of RNA sequencing data from clinical trials revealed nearly universal upregulation of BCL2 after ADT in CSPC cells.
+Mechanistically, our findings highlight a non-canonical function of BCL2 in orchestrating reciprocal signaling between the androgen receptor (AR)-BCL2 and phosphatidylinositol 3-kinase (PI3K) pathways, particularly upon ADT, potentially driving CSPC transformation into lethal castration-resistant prostate cancer (CRPC).
+Critically, our results provide a scientific rational that BCL2 inhibition should be trialed in CSPC in combination with ADT to impede or delay ADT-induced CSPC-to-CRPC transformation but may be ineffective if tested in patients who already have CRPC.

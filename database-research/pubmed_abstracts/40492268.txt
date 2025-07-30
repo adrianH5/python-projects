@@ -1,0 +1,8 @@
+Single-cell electrorotation (ROT) has emerged as a fundamental technique for characterizing cellular electrical properties, yet conventional methodologies face significant limitations including laborious cell loading procedures, time-consuming measurements, low throughput, and confined effective operational regions.
+To address these challenges, we present an innovative pump-free single-cell ROT device that synergistically integrates electroosmotic flow (EOF) with ROT technologies.
+Our design employs time-division multiplexed electrical signal modulation to achieve real-time regulation of EOF velocity and directionality, effectively resolving cell positioning challenges while eliminating the need for complex pumping system.
+This approach not only reduces experimental cost but also significantly simplifies operational complexity.
+Furthermore, the implementation of thick-electrode architecture successfully mitigates electric field spatial attenuation, thereby expanding the effective ROT zone and enhancing measurement stability and precision.
+The capability of the proposed method was tested by rotating yeast and colon cancer cells.
+Using this device, we quantified the membrane permittivity and cytoplasmic conductivity of these two cell types, revealing differences in the electrical parameters of different types of cells.
+We envision that the pump-free single-cell ROT microdevice will provide a new platform for convenient and high-throughput cell electrical characterization.

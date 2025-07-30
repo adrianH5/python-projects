@@ -1,0 +1,3 @@
+Breast cancer is a highly heterogeneous disease, characterized by tumor and nontumor cells at various cell states.
+Ecotyper is an innovative machine learning framework that quantifies the tumor microenvironment and delineates the tumor ecosystem, demonstrating clinical significance.
+However, further validation is needed in breast cancer.

@@ -1,0 +1,6 @@
+Fruquintinib is a highly selective oral inhibitor of vascular endothelial growth factor receptors 1, 2, and 3, approved by the US Food and Drug Administration and the European Commission for the treatment of previously treated metastatic colorectal cancer (mCRC), regardless of biomarker status.
+This study used concentration QT interval (C-QTc) modeling, utilizing data from the phase 3 FRESCO-2 study (NCT04322539) in which patients with mCRC received fruquintinib 5 mg, once daily, or matching placebo in a 28-day cycle, to evaluate the potential of fruquintinib to delay cardiac repolarization.
+The primary objectives were to assess the relationship between change from baseline in the QTc and plasma concentrations of fruquintinib and its metabolite M11, and to predict placebo-corrected change from baseline in the corrected QT interval (ΔΔQTc) associated with clinically relevant fruquintinib or M11 concentrations.
+The C-QTc analysis was conducted using 1456 time-matched concentration-change from baseline in the population-based corrected QT interval (ΔQTcP) pairs from 205 patients (fruquintinib n = 137; placebo n = 68).
+The final C-QTc model was a linear mixed-effects model with the effect of M11 concentration on ΔQTcP.
+This model estimated that the upper bounds of the 90% CI of the mean ΔΔQTcP at steady-state geometric mean (GM) M11 C

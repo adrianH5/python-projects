@@ -1,0 +1,10 @@
+Colorectal cancer (CRC) ranks as the third most common cancer globally, with 1.9 million newly diagnosed cases annually and nearly 935,000 deaths, posing substantial healthcare challenges worldwide.
+Food-derived bioactive peptides (FDBPs) are natural, non-toxic, and cost-effective compounds that exhibit significant potential in combating CRC.
+However, a comprehensive review summarizing FDBPs sources, peptide sequences, their anti-CRC effects, and underlying mechanisms is still lacking.
+Consequently, the present study discussed the CRC inhibitory effects and action mechanisms of FDBPs from different protein sources.
+We found that plant proteins, animal proteins, milk proteins, and microbial proteins are all ideal sources for producing peptides with high anti-CRC activity.
+Several peptides isolated from these proteins can promote apoptosis, inhibit metastasis, reduce invasion of CRC, and finally suppress tumor growth.
+Notably, low-molecular-weight FDBPs, particularly those below 1kDa and rich in Asp, Gln, Lys, Gly, and Ser, exhibit better stability and stronger anti-CRC efficacy.
+The anti-CRC activity of FDBPs is associated with balancing the gut microbiota, activating the p38 MAPK pathway, and inhibiting the PI3K/AKT signaling pathway; however, the upstream and downstream regulatory mechanisms remain unclear.
+Additionally, we discovered that nanoparticle and glycopeptide modifications can enhance the activity and stability of anti-CRC peptides, enabling more precise delivery to cancer sites.
+Our review will be of interest for the design of natural anti-CRC drugs.

@@ -1,0 +1,9 @@
+A total of 24 proteins of SARS-CoV-2 (Table 1) were run through our standardized workflow (Fig. 1), consisting of protein structure assessment, setting of protein protonation at pH 7.4, energy minimization in water with NaCl, 20 ns of molecular dynamics simulations, analysis of the movement trajectories, sequence identification from the nonredundant (nr) database, mapping of conservation onto structure/dynamics, and assessment of interactions with known binding partners.
+The dynamics and evolution for each protein were integrated together into VIStEDD, available at RRID:SCR_018793.
+For example, within the nsp10 data (RRID:SCR_018793, SARS-CoV-2, nsp10), structures of nsp10 interacting with either nsp14 or nsp16 are available, both of which show highly conserved contact sites of interaction.
+Structural mapping of human variants from 141,456 people of the gnomADv2 database for ACE2 suggests a few possible variants at the interface of S-ACE2 interaction (Fig. 6C).
+That database can be used by groups to investigate species where SARS-CoV-2 may be able to enter cells, with variants that enhance or inhibit binding.
+For those proteins without structural homologs, we utilized models that are part of the I-TASSER SARS-CoV-2 database (39).
+We established the Viral Integrated Structural Evolution Dynamic Database (VIStEDD at RRID:SCR_018793 ) to facilitate future discoveries and educational use.
+Using this quantitative matrix, we elucidated 47 potential functional missense variants from genomic databases within ACE2/SLC6A19/transmembrane serine protease 2 (TMPRSS2), warranting genomic enrichment analyses in SARS-CoV-2 patients.
+We propose that this SARS-CoV-2 database may aid research into the ongoing pandemic.

@@ -1,0 +1,10 @@
+We consider the problem of renal mass risk classification to support doctors in adjuvant treatment decisions following nephrectomy.
+Recommendation of adjuvant therapy based on the mass appearance poses two major challenges: first, morphologic patterns may sometimes overlap across subtypes of varying risks.
+Second, interobserver variability is large.
+These complexities encourage the use of computational models as accurate noninvasive tools to find relevant relationships between individual perioperative renal mass characteristics and patient risk.
+In addition, recent evidence highlights the importance of clinical context as a promising direction to inform treatment decisions post-nephrectomy.
+In this work, we aim to identify relevant clinical markers that can be predictive of renal cancer prognosis.
+As a starting point, we perform a clinical feature ablation study by training a logistic regression baseline model to predict renal cancer patients' eligibility for adjuvant therapy.
+The training dataset consisted of medical records of 300 individuals with renal tumors who underwent partial or radical nephrectomy between 2011 and 2020.
+In addition, we evaluate the same task using a transformer-based model pretrained on a much larger dataset of over 300,000 clinical records of individuals from the UK Biobank.
+Our findings demonstrate the pretrained model's efficacy in knowledge transfer across different populations, with radiographic data from preoperative cross-sectional imaging playing an important role in informing renal risk and treatment decisions.

@@ -1,0 +1,8 @@
+The cross-talk between cancer-associated fibroblasts (CAFs) and tumor cells has emerged as an important component in the development of anaplastic thyroid carcinoma (ATC).
+Herein, we prepared novel co-loaded galactose (Gal)-conjugated sulfated hyaluronic acid nanoparticles (CDHG) for co-delivery of capsaicin (CAP) and doxorubicin (DOX) by co-targeting CAFs and ATC cells simultaneously.
+To mimic the tumor microenvironment, we established novel "CAFs+8505c" 2D and 3D models for anti-ATC analyses in vitro.
+The results showed that, compared with ATC cells alone, the novel "CAFs+8505c" dual-cell model decreased drug sensitivity of tumor cells and promoted tumor migration.
+Notably, CDHG nanoparticles could be readily taken up by CAFs and ATC cells simultaneously, and efficiently permeate 3D tumor spheroids.
+Moreover, CDHG exhibited greater anti-proliferation and anti-migration effects than other formulations.
+The anti-ATC mechanisms revealed that CDHG could improve drug sensitivity of ATC cells, and inhibit tumor migration.
+In brief, the "CAFs+8505c" dual-cell system is a potential research model, and the combination therapy based on CDHG nanoparticles could obviously inhibit drug-resistance and migration of ATC cells.

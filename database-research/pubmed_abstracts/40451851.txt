@@ -1,0 +1,4 @@
+Delivery of engineered interleukin-2 (IL-2) variants (muteins) is thought to be a promising cancer therapy in humans and mice.
+Our previous study indicated that bovine IL-2 (boIL-2) has a great potential to elicit NK cell activity for which distribution of IL-2 receptors on the target cell surface influences signal transduction.
+We developed nine boIL-2 muteins and examined the influence of the muteins on bovine peripheral blood mononuclear cells in vitro.
+On bovine peripheral mononuclear cells, NK cells strongly expressed CD122, followed by CD8

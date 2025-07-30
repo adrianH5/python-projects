@@ -1,0 +1,11 @@
+Bladder cancer (BLCA) is the second most common urologic cancer in the US and worldwide which mostly affects the aging population.
+Despite several ongoing clinical trials, treatment paradigms for BLCA have not changed significantly.
+Here, we investigated the expression of transient receptor potential vanilloid type 4 (TRPV4) in BLCA patients and its role in calcium influx, cell proliferation, and migration using normal human urothelial cells and BLCA cells.
+Bioinformatic analysis of the UALCAN and cBioPortal databases revealed that TRPV4 expression is significantly higher in human BLCA tissues compared to adjacent normal tissues.
+Further, the TRPV4 expression was markedly elevated in early-stage BLCA and upregulated in muscle-invasive bladder cancer (MIBC) tissues.
+TRPV4 is expressed in both normal urothelial (SV-HUC-1) and BLCA (T-24) cells and functional assays demonstrated enhanced TRPV4-mediated calcium influx in T-24 compared to SV-HUC-1 cells.
+T-24 cells exhibited higher spreading on extracellular matrix (ECM) gels with increasing stiffness (0.2, 8, and 50 kPa) and exhibited migratory phenotype compared to SV-HUC-1 cells.
+Pharmacological inhibition of TRPV4 significantly reduced proliferation and migration in T-24 cells but had minimal effects on normal cells.
+Finally, treatment with cisplatin significantly reduced TRPV4 protein levels and TRPV4-mediated calcium influx in chemosensitive UM-UC-3 cells, which remained unchanged in chemoresistant T-24 cells, suggesting a potential role of TRPV4 in chemoresistance.
+In conclusion, TRPV4 may contribute to bladder cancer progression by regulating cell proliferation and migration and may impart resistance to chemotherapy.
+Targeting TRPV4 could present a novel therapeutic approach for managing bladder cancer progression and overcoming chemoresistance.

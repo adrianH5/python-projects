@@ -1,0 +1,14 @@
+T1	Repository 460 467	Matador
+T2	Repository 472 477	DGIdb
+T3	Repository 569 573	TCGA
+T4	AccessionNumber 652 658	GSE994
+T5	AccessionNumber 660 668	GSE17913
+T6	Dataset 673 677	GTEx
+T7	Dataset 769 778	TCGA-LUAD
+T8	AccessionNumber 845 851	GSE994
+T9	AccessionNumber 872 880	GSE17913
+T10	Dataset 950 954	GTEx
+T11	Dataset 2145 2168	The Cancer Genome Atlas
+T12	Repository 2170 2193	Gene Expression Omnibus
+T13	Dataset 2198 2224	Genotype-Tissue Expression
+T14	Dataset 2226 2239	Gene Ontology

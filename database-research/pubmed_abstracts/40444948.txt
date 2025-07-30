@@ -1,0 +1,9 @@
+Lipid metabolism has emerged as an important regulator of acute viral infections by affecting viral replication and the host immune response.
+In contrast, the role of host lipid metabolism during chronic viral infection has been less explored.
+The current study aims to define the role of scavenger receptor class B type I (SR-BI), a primary physiologic receptor for high-density lipoprotein (HDL), during natural gammaherpesvirus infection.
+Gammaherpesviruses are highly prevalent cancer-associated pathogens that induce and manipulate germinal center responses to establish life-long infection of B cells.
+Importantly, gammaherpesvirus-infected germinal center B cells are thought to be the target of viral transformation.
+In this study, we found that global SR-BI deficiency led to increased gammaherpesvirus lytic gene expression in the lungs during the acute stage of infection.
+Chronic gammaherpesvirus infection of the SR-BI-deficient host was associated with exaggerated germinal center responses and increased differentiation of self-reactive B cells that persisted during the long-term stage of chronic infection.
+Interestingly, SR-BI-deficient germinal center B cells, although more numerous, failed to support efficient gammaherpesvirus infection.
+The exaggerated germinal center response was also observed following immunization of the SR-BI-deficient host, unveiling the novel role of SR-BI as a negative regulator of physiological and gammaherpesvirus-driven germinal center responses.

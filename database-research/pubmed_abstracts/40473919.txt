@@ -1,0 +1,11 @@
+Human papillomavirus (HPV) vaccine rates are low in the USA, with additional disparities noted in and within states such as Texas.
+To increase HPV vaccine uptake, healthcare providers and clinical team members are essential agents in promoting HPV vaccination to their patients.
+The purpose of this study was to examine the knowledge, attitudes, and behaviors of clinic team members, stratified by clinicians (i.e., physicians, nurse practitioners, and physician assistants) and non-clinician staff (i.e., nurses and medical assistants) in North Texas.
+Survey data were collected as part of a quality improvement project to improve HPV vaccination in a safety-net health system and federally qualified health center.
+Knowledge items were related to guidelines for HPV vaccination by patient age and the types of cancer the HPV vaccine can prevent.
+Attitudes were related to the importance of recommending the HPV vaccine and self-efficacy in making vaccine recommendations, and behavioral items included current recommendation behaviors and barriers to recommendations.
+Data were stratified by role, clinicians and non-clinicians, and were analyzed in SAS.
+Participants (n = 125) were knowledgeable, but significant differences were noted by the individual's role (p < 0.05).
+Participants differed in their knowledge of the cancers the HPV vaccine can prevent.
+Common barriers reported were parental vaccine hesitancy (70% clinicians, 45% non-clinicians) and parents lacking information (49% clinicians, 58% non-clinicians).
+Given that HPV vaccination requires a clinic team approach to promote uptake, identification of the knowledge, attitudes, and barriers among these clinical team members can guide the development of tailored education strategies to improve vaccine uptake.

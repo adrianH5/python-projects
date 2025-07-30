@@ -1,0 +1,7 @@
+Cancer-associated cachexia (CAC) is a prevalent condition that accelerates cancer progression and heightens treatment-related adverse effects in patients by affecting multiple organ systems.
+Despite the profound impact of CAC on clinical management and treatment outcomes of patients with cancer, the current understanding of mechanisms associated with the condition, as well as the tools necessary for early diagnosis, are limited.
+Currently, the clinical diagnosis of CAC relies on weight change-based assessments, which have limited sensitivity and cannot identify patients at risk for CAC.
+In this context, noninvasive imaging-based biomarkers, such as the composition and properties of adipose and muscle tissues, may allow for diagnosis of CAC before substantial weight loss occurs.
+Such early detection can potentially enable more timely and effective interventions.
+Furthermore, imaging allows for quantitative assessment of CAC, enabling monitoring of prognosis and treatment response.
+This article reviews current applications and future developments of imaging techniques, particularly those employed in current clinical radiology, that can reveal diagnostic information and facilitate early detection of CAC and quantitative evaluation of associated metabolic alterations.

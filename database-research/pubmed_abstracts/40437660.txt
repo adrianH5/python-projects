@@ -1,0 +1,7 @@
+Non-small cell lung cancer (NSCLC) is a highly lethal malignant tumour characterised by its resistance to treatment, often due to metabolic reprogramming.
+Despite this, the underlying mechanisms by which aberrant cholesterol metabolism influences the development and progression of NSCLC remain unclear.
+In our study, we observed that OVOL1 is significantly upregulated in NSCLC and is correlated with a poor prognosis.
+Furthermore, our functional assays revealed that OVOL1 enhances the proliferation and metastasis of NSCLC cells both in vitro and in vivo.
+Mechanistically, OVOL1 was found to modulate cholesterol reprogramming and increase the expression of APOE, thereby intensifying cholesterol metabolism and facilitating cell migration and invasion.
+In conclusion, our findings suggest that OVOL1 acts as an oncogene in NSCLC, promoting tumour growth and metastasis through the enhancement of cholesterol metabolism.
+This underscores the potential of OVOL1 as a therapeutic target for the treatment of NSCLC.

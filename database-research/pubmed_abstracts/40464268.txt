@@ -1,0 +1,5 @@
+SET domain bifurcated histone methyltransferase 1 (SETDB1) is a histone H3 lysine 9 (H3K9) methyltransferase, functioning in transcriptional silencing of the transposable elements (TEs), endogenous retroviruses (ERVs), interferon-stimulated genes (ISGs), and immune cell-related molecules.
+SETDB1 collaborates with cofactors such as ATF7IP and TRIM28 and functions in concert with DNA methylation to maintain gene repression in both stem cells and differentiated somatic cells.
+Given its gene targets, recent studies have shown that SETDB1 is a critical immune checkpoint gene in both solid and hematological tumors.
+In this review, we first discuss the role of SETDB1 in gene regulation through its histone methyltransferase activity, including an overview of its structural features and key cofactors.
+We then highlight the lineage-specific roles of SETDB1 in both normal hematopoietic processes and hematological malignancies, emphasizing its function as an immune checkpoint molecule that suppresses natural killer (NK) cell-mediated antileukemia responses.

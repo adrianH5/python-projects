@@ -1,0 +1,14 @@
+In the medical field, the most common and frequent type of blood cancer is lymphoma.
+Accurately predicting and early response to lymphoma treatment will be useful for initiating treatment plans to achieve a greater rate of cure or reduced risk of treatment-related morbidity and death.
+Numerous research studies have revealed several pre-treatment predictive variables, including age, lactate dehydrogenase (LDH), Ann Arbor stage, and ECOG performance.
+The 18F-FDG PET imaging method makes it possible to assess human tissues' glycolytic activity at the cellular level.
+It has been extensively utilized for lymphoma staging and diagnosis.
+Its usefulness for evaluating the response to therapy in lymphoma patients has been demonstrated in a number of promising investigations.
+However, target training data are typically insufficient for deep neural network training in outcome prediction tasks, making it challenging to provide accurate prediction.
+Thus, the ensemble learning based target training model has been used with the hybrid feature extraction models, to train the model based on texture, colour and shape.
+The various types of malignant lymphoma images are gathered as a dataset and pre-processed using spatial image filtering procedures to remove specific unwanted spatial frequencies from an image.
+Contrast stretching is a technique used to enhance contrast in images and the NNU-Net has been employed to attain the super resolution images for learning in-depth information from the images.
+After pre-processing the images, the GLRLM, CLCM and HU-moment features extraction techniques are used for extracting the texture, shape and colour features from the images.
+In order to forecast the type of malignant lymphoma, the retrieved images are finally classified utilizing the Bi-LSTM, DBN, and RBFN by stacking and providing the gathered learning features from each algorithm to the Meta classifier.
+The proposed model's performance is compared with the most cutting-edge transfer learning techniques and validated using measures including classification Accuracy, Positive predictive value, Hit rate, Selectivity and NPV, whose values are 94.8 %, 91.0 %, 90.6 %, 93.30 % and 95.6 %.
+Thus, a malignant lymphoma type prediction based on an enhanced super resolution image and ensemble learning classifier outperforms the existing model.

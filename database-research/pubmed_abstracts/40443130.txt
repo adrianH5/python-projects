@@ -1,0 +1,10 @@
+Reproductive factors and sex hormones are tightly linked to systemic immunity.
+However, no studies have examined whether reproductive factors and hormone use modulate the immune microenvironment of breast tissue.
+We prospectively evaluated the associations of reproductive factors and exogenous hormone use with breast tumor and normal-adjacent tissue immune cell markers among 935 breast cancer cases in the Nurses' Health Studies.
+We deconvoluted immune cell abundance using CIBERSORTx and derived gene expression signatures of markers for immune checkpoint (PD1, PDL1, and CTLA4), co-regulatory signal and antigen presentation (MHC class I/ II and T cell receptor) and mammary cytokine signaling.
+Linear regression was used adjusting for confounders.
+Patterns of associations between reproductive factors and immune profile differed between tumor and normal-adjacent tissues and by estrogen receptor (ER) status.
+Tumors from post-menopausal women had significantly higher pro-inflammatory cytokine signaling and antigen presentation compared to tumors from pre-menopausal women (FDR≤0.05).
+Several reproductive factors were nominally associated with immune profiles of normal-adjacent tissues.
+For example, parous women had higher CD8 T cell infiltration, higher PDL1 expression, and lower cytokine signaling (p≤0.05); women who ever breastfed showed higher infiltration of NK cells and T helper cells in normal-adjacent tissue of ER+ tumors but lower infiltration of CD8 T cell and monocyte, and higher expression of cytokine signaling in normal-adjacent tissue of ER- tumors (p≤0.05).
+Our study demonstrates for the first time in a large epidemiologic study that reproductive factors may influence breast tumor immune microenvironment and sheds light on potential immune regulation for breast cancer prevention.

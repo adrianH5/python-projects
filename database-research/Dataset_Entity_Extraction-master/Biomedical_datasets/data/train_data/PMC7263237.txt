@@ -1,0 +1,98 @@
+This leads to a respiratory disease called COVID-19 that was declared a global pandemic in early 2020.
+Discovery of pharmacological interventions that can interrupt this lung tissue to sensory neuronal innervation of the lung signaling could play an important role in treating severe COVID-19 cases.
+There is strong evidence that neurogenic factors play an important role in sepsis (Bryant et al., 2003, Devesa et al., 2011), which also occurs in many severe COVID-19 patients (Zhou et al., 2020a).
+The unprecedented scientific response to the SARS-CoV-2 driven pandemic has produced datasets that enable computational determination of probable intercellular signaling between nociceptors and immune signaling or response in the lung.
+Because these interactions might be a crucial driver of disease severity, we set out to comprehensively catalog these interactions using previously published datasets from COVID-19 patients (Gordon, et al., 2020, Huang et al., 2020b, Huang et al., 2020, Liao et al., 2020, Xiong et al., 2020b) and our own RNA sequencing (RNA-seq) datasets from human thoracic DRG (hDRG) (Ray et al., 2018, North et al., 2019).
+A key finding emerging from the data is that certain interventions used or under development for rheumatic or neuropathic pain might be useful against COVID-19.
+We first re-analyzed bulk RNA-seq data from published studies by mapping and quantifying relative gene abundance (in counts per million) from BALF (National Genomics Data Center accession number: PRJCA002326, ) of severe COVID-19 patients (Xiong et al., 2020b), compared to BALF (NCBI SRAdb project SRP230751, ) of healthy controls.
+Differences between the two COVID-19 BALF samples can likely be attributed to variability of the immune response from patient to patient, as well as the lower sequencing depth of the samples, as even after pooling technical replicates for the COVID-19 patient samples we had ~ 12 M and 7 M sequenced reads.
+The two COVID-19 BALF samples were also found to contain SARS-CoV2 viral RNA reads confirming the presence of disease (Xiong et al., 2020b).
+Out of 31,069 genes in the reference genome, we detected 18,507 and 18,855 genes in the control samples, and 13,973 and 13,545 genes in the COVID-19 patient samples; differences being primarily attributable to a decrease in sequencing depth for COVID-19 samples.
+Due to this and the fact that our goal was to identify potentially targetable protein interaction pathways in COVID-19 patients, we performed downstream analysis only on 1372 genes that were upregulated in the COVID-19 BALF samples (Supplementary Table 1).
+Genes upregulated in the COVID-19 patient samples include a multitude of genes that recapitulate clinical characteristics, such as increased cytokine signaling causing a “cytokine storm” (including CCL2/3/4/7/8, CXCL1/2/6/8/28, CCL3L3, CCL4L2), hypoxia (HIF1A, HLF), and inflammasome and sepsis-related genes (IL1R1/2, IL5RA, IL33, IL31RA).
+Additionally, we found that upregulation of transcription factor genes in COVID-19 samples identifies transcription factors associated with alveolar cell types (EHF, PAX9, ELF3, GHRL2) and immune cells (RFX3, SOX5, TP63, HOPX) with functions including regulation of antiviral pathways (NR3C2), based on ARCHS4 database (Lachmann et al., 2018) and the Enrichr gene set enrichment analysis tool (Kuleshov et al., 2016) (Supplementary Table 2).
+This suggests that cellular distress and virus-driven cell lysis causes lung cell mRNA content to be detected in COVID-19 BALF samples.
+Immune cell markers like CD4, CD8, and CD68 were detected in COVID-19 samples, but were not consistently upregulated.
+However, lymphocyte markers CD24 and CD38 were upregulated in the COVID-19 BALF samples, which is also consistent with reports of lymphocyte induced apoptosis in COVID-19 (Huang et al., 2020a).
+These findings are congruent with reports of increased lactate dehydrogenase as a biomarker of COVID-19 severity wherein lactate dehydrogenase is a sign of pyroptosis – inflammasome driven programmed cell death (Rayamajhi et al., 2013, Chen et al., 2020, Han et al., 2020).
+For this purpose, we used our interactome framework (Ramilowski et al., 2015) to elucidate possible pharmacological interactions that may be associated with disease in COVID-19 samples.
+We focused first on ligands upregulated in the COVID-19 samples and receptors expressed in human thoracic DRG samples, which contain neurons that innervate the lungs (Springall et al., 1987, Kummer et al., 1992).
+We found that many receptors for cytokines identified as upregulated in COVID-19 patients including CCR2, CXCR2, CCR5, and CXCR10, and IL15RA were also expressed in hDRG suggesting a potential direct connection between these cytokines and sensory neuron activation in the lung (Table 1
+).
+We also noted increased EREG expression in COVID-19 samples, which is known to signal via the epidermal growth factor receptor (EGFR) to sensitize nociceptors (Martin et al., 2017).
+A complete list of the interactome featuring differentially increased ligands in BALF from COVID-19 samples can be seen in Supplementary Table 3, and expression profiles of the mouse orthologs in sensory neurons can be found in Supplementary Table 4.
+The average of gene abundances in the 2 COVID-19 samples, weighted by sequencing depth are shown here.
+The full dataset is shown in Supplementary Table 3.
+Therefore, we also explored possible interaction points between sensory neurons that are likely to innervate the lung and receptors expressed in BALF samples from patients with COVID-19.
+Here, we identified a striking number of interactions between Eph ligands found in hDRG and receptors upregulated in COVID-19 BALF samples (Table 2
+).
+Our data suggests potential bidirectional interactions between these receptors and ligands on sensory nerve endings and immune cells in the lung of COVID-19 patients.
+Another prominent interaction was with EGFR ligands and EGFR itself, again suggesting bidirectional interactions between neurons and immune cells in the lung in COVID-19.
+Finally, we also noted potential interactions between neurexins and neuroligins, which are also involved in junctions between neurons (Levinson and El-Husseini, 2005), suggesting that multiple types of mediators may be involved in remodeling nerve ending morphology within the lung driven by immune cell activation in COVID-19.
+Collectively, these neuron-derived ligands could potentially exacerbate lung inflammation in COVID-19 contributing to a positive feedback loop.
+A complete list of the interactome featuring differentially increased receptors in BALF from COVID-19 samples can be seen in Supplementary Table 5 and expression profiles of the mouse orthologs in sensory neurons can be found in Supplementary Table 6.
+The average of gene abundances in the 2 COVID-19 samples, weighted by sequencing depth are shown here.
+The full dataset is shown in Supplementary Table 5.
+While our interactome identification from the BALF bulk RNA-seq is a starting point for identifying neuro-immune interactions in COVID-19 patient lungs, bulk RNA sequencing has limitations and other approaches are also being used to characterize the immune response in this disease.
+We therefore studied the emerging COVID-19 literature for studies where raw datasets were not publicly available, but the studies provided gene or protein sets that were associated with clinical outcomes or pathologies.
+In addition to the Xiong et al study (Xiong et al., 2020b), we integrated gene and protein lists from sources that included BALF single-cell RNA-seq (scRNA-seq), blood protein levels and immune cell profiles from COVID-19 patients (Liao et al., 2020, Xiong et al., 2020b, Zhou et al., 2020, Zhou et al., 2020b).
+These findings were consistent with the interactome generated from BALF samples from COVID19 patients with prominent interactions for cytokines, chemokines and other inflammatory molecules (Supplementary Table 7).
+These finding implicate the potential off-label utility of anti-rheumatoid arthritis drugs that target TNF (infliximab or etanercept) or IL1 (anakinra) as well as EGFR inhibitors such as cetuximab for interfering with neuro-immune interactions in COVID-19.
+Bulk hDRG sequencing libraries incorporate mRNA from not just sensory neurons, but also from glial, immune and vascular cells, leading to the possibility of false positives.
+Additionally, many lung innervating nociceptors are from the nodose or jugular ganglia so our dataset from thoracic hDRG may not represent the full possibility of receptors or ligands that could contribute to lung physiology from sensory afferents.
+To predict which of the hDRG-expressed ligands or receptors are likely present in human nociceptors, we integrated several mouse datasets.
+We additionally included two datasets for gene expression in the mouse jugular-nodose complex (JNC), including the Kupari et al scRNA-seq dataset (Kupari et al., 2019) and a study using bulk RNA-seq to study gene expression changes in the JNC following lung inflammation with Lipopolysaccharide (LPS) (Kaelberer et al., 2020).
+As mentioned above, EGFR ligands were strongly induced in COVID-19 patients.
+A major focus of current research into SARS-CoV-2 and COVID-19 is identification of potential therapeutics.
+Based on this, we intersected differentially expressed BALF ligand and receptor genes in COVID-19 samples with mRNAs known to be regulated by eIF4E phosphorylation from previous studies (Furic et al., 2010, Aguilar-Valles et al., 2018, Amorim et al., 2018).
+To do this we compiled a list of genes shown to be significantly changed in COVID-19 patients from the studies we cited and described above (Supplementary Tables 3, 5 and 7).
+We found that 8 inflammatory mediators upregulated in the BALF of COVID-19 patients were reduced in vitro and/or in the brain of animals lacking eIF4E phosphorylation (Table 3
+).
+CCL2, which is among the most highly upregulated chemokines in COVID-19 patients, is one example.
+Hence, eFT508 (also known as Tomivosertib), a MNK1/2 inhibitor currently undergoing clinical trials (Reich et al., 2018), may prove beneficial against COVID-19.
+We also identified potential therapeutics for COVID-19 by intersecting the interactomes generated here with the DGIdb database (Cotto et al., 2018).
+We identified 144 gene products with characterized antagonists, inhibitors, blockers or modulators in this curated database (a selection of these are shown in Table 4
+, full dataset in Supplementary Table 8).
+This database highlights the potential for targeting cytokines and chemokines, such as CCL2, the CCR2 receptor and/or the EGFR receptor in COVID-19.
+It also reveals several drugs that interact with ephrin – EphB signaling that may have promise if structural remodeling of lung afferent endings contributes to COVID-19 pathology.
+The corresponding gene GRIN2B was strongly induced in BALF samples of COVID-19 samples.
+NMDA receptor activity and localization is strongly influenced by EphB receptors (Hanamura et al., 2017, Henderson and Dalva, 2018), which were also dramatically increased in COVID-19 BALF samples.
+We used a computational framework to test the hypothesis that immune cells in the lungs of severe COVID-19 patients produce factors that are likely to interact with the sensory neuronal innervation of the lung.
+Our work finds support for this hypothesis and identifies potential interactions that may be critical drivers of disease severity in COVID-19.
+To that end, MNK inhibitors, which were also identified by Gordon et al. (Gordon et al., 2020) may be particularly useful because they have an effect on coronavirus replication in murine models (Banerjee et al., 2002), interfere with the translation of chemokine and cytokines implicated in COVID-19 and reduce excitability of nociceptors (Moy et al., 2017, Megat et al., 2019) that may be driving neurogenic inflammation in the disease.
+Similar results have been found across studies (Huang et al., 2020b, Huang et al., 2020, Liao et al., 2020, Xiong et al., 2020b, Zhou et al., 2020, Zhou et al., 2020b), but there is an obvious need for additional sequencing on lung immune cells from patients with mild and severe COVID-19.
+Another important caveat is that the directionality of the influence of nociceptor-released factors on lung immunity and COVID-19 disease state is not currently clear.
+Some studies on sepsis, which occurs in severe COVID-19 patients, have shown that nociceptors promote mortality in sepsis (Bryant et al., 2003) but others show that TRPV1-positive nociceptors are protective against mortality in sepsis (Guptill et al., 2011).
+We have interpreted our interactome findings under the assumption that neurogenic responses may worsen the disease state in COVID-19, potentially leading to ARDS and fatality, but without perturbational animal model studies or additional human clinical data we cannot rule out the possibility that a subset of the interactome mitigates the disease state.
+It is formally possible that sensory neurons could express ACE2 allowing viral infection of these cells, but available datasets are unable to clarify this question.
+Other datasets used here were based on analysis from datasets described in published studies from other groups.
+Data for the curated COVID-19 interactome were obtained from (Huang et al., 2020b, Huang et al., 2020, Liao et al., 2020, Xiong et al., 2020b, Zhou et al., 2020), with BALF RNA-seq data from COVID-19 patients (National Genomics Data Center sample ids CRR119894-7, https://bigd.big.ac.cn/bioproject/browse/PRJCA002326) obtained from (Xiong et al., 2020b).
+Mouse bulk RNA-sequencing datasets were obtained from sorted neuronal cell pools from the DRG (Liang et al., 2019) and whole tissue RNA-seq from the JNC complex before and after LPS injury (Kaelberer et al., 2020).
+The DGIdb database was used to identify known drugs (Cotto et al., 2018) that target proteins in our identified interactomes.
+The interactome database is described in detail in our previous work (Wangzhou et al., 2020).
+Replicates from each COVID-19 patient were pooled to increase sequencing depth.
+Due to the higher sequencing depth of the control samples (over 40 million reads), compared to the COVID-19 samples (~7 and 12 million reads after pooling (Xiong et al., 2020b)), and due to specific interest in finding therapeutic targets, only genes identified as differentially expressed and increased in relative abundance in COVID-19 samples were further analyzed.
+Differentially expressed gene sets from both tools were intersected to identify genes that are differentially expressed in both models, and only genes with read frequency >1 in 200,000 genic reads for COVID-19 samples were retained to reduce potential effects of sampling variance.
+Ramilowski et al. (Ramilowski et al., 2015) described 2557 pairs of ligand-receptor interactions that were used to populate the initial interactome database.
+In order to curate a more complete ligand-receptor list, we collected gene lists from gene family and ontology databases HUGO (Yates et al., 2017) and GO (Carbon et al., 2009).
+Based on a database (Szklarczyk et al., 2019) and the literature, corresponding receptors or ligands for these additional genes were identified and added to the list of ligand-receptor pairs.
+Not all ligands and receptors are encoded as genes, so we included some additional records in our database, such as enzymes known to synthesize ligands and paired with the corresponding receptor.
+The entire interactome database is described in detail in (Wangzhou et al., 2020).
+While many of these signaling interactions are likely involved in the immune response of COVID-19, we chose to focus on pairs where the ligand or receptor was shown to be differentially increased or discriminative marker for cell types with differentially increased proportions in the immune response since these are more likely to be successful points of therapeutic intervention.
+Thus, we filtered the candidate interactome based on the list of differentially expressed genes we obtained from the literature and re-analysis of COVID-19 BALF data (Supplementary Tables 3, 5 and 7).
+Potentially relevant gene product – drug interactions (inhibitor, antagonist or blocker) based on these interactomes were mined from the dgiDB database (Supplementary Table 8).
+Two of these help rank immune genes: mean expression level in COVID-19 samples, and degree of differential expression (fold change) in COVID-19 versus control BALF (Supplementary Tables 3 and 5).
+Two other metrics help rank neuronal genes: gene expression levels in sorted mouse DRG neuron datasets (Liang et al., 2019) and in mouse DRG neuron scRNA-seq datasets (Usoskin et al., 2015), and degree of differential expression (log fold change) in LPS based injury models of mouse airway-innervating neurons (Kaelberer et al., 2020) (Supplementary Tables 4 and 6).
+The directionality of changes in the LPS mouse injury model may not necessarily be consistent with changes in COVID-19 molecular changes, but are likely to be indicative of genes involved in neuroinflammation in mammalian lungs.
+To quantify relative gene abundances in (Liang et al., 2019), reported coding gene expressions were renormalized to TPMs across all samples, and samples having a clear bimodal distribution of TPMs were retained for further analysis and quantile normalized, of which the FACS-sorted neuronal datasets are used in our study for integrative analysis.
+In the (Usoskin et al., 2015) dataset, the reported fraction of cells for each neuronal subpopulation (where a gene is detected) was used.
+To calculate a similar metric in the (Kupari et al., 2019) dataset, two steps were performed.
+•  Predicts interactome to find signaling between nociceptors and COVID-19 patient BALF.
+•  Findings reveal potential interventions to reduce neurogenic inflammation in COVID-19.    •
+Shows potential for COVID-19 clinical trial with existing CCL2, CCR5, EGFR inhibitors.
+The SARS-CoV-2 virus infects cells of the airway and lungs in humans causing the disease COVID-19.
+Bronchial alveolar lavage fluid (BALF) and plasma from mild and severe cases of COVID-19 have been profiled using protein measurements and bulk and single cell RNA sequencing.
+Onset of pneumonia and ARDS can be rapid in COVID-19, suggesting a potential neuronal involvement in pathology and mortality.
+We sought to quantify how immune cells might interact with sensory innervation of the lung in COVID-19 using published data from patients, existing RNA sequencing datasets from human dorsal root ganglion neurons and other sources, and a genome-wide ligand-receptor pair database curated for pharmacological interactions relevant for neuro-immune interactions.
+Our findings reveal a landscape of ligand-receptor interactions in the lung caused by SARS-CoV-2 viral infection and point to potential interventions to reduce the burden of neurogenic inflammation in COVID-19 pulmonary disease.
+In particular, our work highlights opportunities for clinical trials with existing or under development rheumatoid arthritis and other (e.g. CCL2, CCR5 or EGFR inhibitors) drugs to treat high risk or severe COVID-19 cases.

@@ -1,0 +1,4 @@
+Interferon-b (IFN-β), a glycoprotein released during viral infections, plays a crucial role in modulating T cells involved in multiple sclerosis (MS).
+CD200 is an immunomodulatory molecule expressed in many cell types, including neurons.
+It reduces the progression of MS and experimental autoimmune encephalomyelitis (EAE) by interacting with CD200R, mainly expressed on myeloid lineage cells.
+This interaction prevents brain damage and slows the progression of the disease.

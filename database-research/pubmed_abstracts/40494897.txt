@@ -1,0 +1,8 @@
+Neutrophils defend against respiratory infections but cause acute lung injury (ALI) when excessively recruited to the lung.
+Early life environmental factors can shape lung development, but how they impact neutrophil recruitment is not known.
+We show that exposing newborn mice to hyperoxia increases the number of adult alveolar type 1 (AT1) epithelial cells expressing the proliferation marker Ki-67.
+Although these cells were not proliferating, they expressed high levels of chemokines that stimulated neutrophil recruitment and ALI when mice were infected with influenza A virus or exposed to lipopolysaccharide (LPS).
+Neutrophil recruitment and chemokine production were attenuated in Ki-67 hypomorph mice infected with virus or exposed to LPS and enhanced by genetically overexpressing Ki-67 in their lungs.
+Silencing Ki-67 in a mouse AT1-like cell line reduced basal and IL-1β stimulation of RelA/p65 and NF-κB-dependent transcription of the chemokines Cxcl1 and Cxcl5.
+Our findings reveal a novel role for Ki-67 to modulate the intensity of epithelial pro-inflammatory signaling, controlling neutrophil recruitment.
+The severity of respiratory infections may be influenced by mitogens and environmental factors that increase the expression of Ki-67.

@@ -1,0 +1,9 @@
+Gastric cancer (GC) is one of the primary contributors to cancer-related mortality on a global scale.
+It holds a position within the top five most prevalent malignancies both in terms of occurrence and fatality rates.
+Immunotherapy, as a breakthrough cancer treatment, brings new hope for GC patients.
+Various biomarkers, such as the expression of programmed death ligand-1 (PD-L1), the microsatellite instability (MSI) status, tumor mutational burden (TMB), and Epstein-Barr virus (EBV) infection, demonstrate potential to predict the effectiveness of immunotherapy in treating GC.
+Nevertheless, each biomarker has its own limitations, which leads to a significant portion of patients continue to be unresponsive to immunotherapy.
+With the understanding of the tumor immune microenvironment (TIME), genome sequencing technology, and recent advances in molecular biology, new molecular markers, such as POLE/POLD1mutations, circulating tumor DNA, intestinal flora, lymphocyte activation gene 3 (LAG-3), and lipid metabolism have emerged.
+This review aims to consolidate clinical evidence to offer a thorough comprehension of the existing and emerging biomarkers.
+We discuss the mechanisms, prospects of application, and limitations of each biomarker.
+We anticipate that this review will open avenues for fresh perspectives in the investigation of GC immunotherapy biomarkers and promote the precise choice of treatment modalities for gastric cancer patients, thereby advancing precision immuno-oncology endeavors.

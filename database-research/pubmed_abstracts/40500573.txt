@@ -1,0 +1,10 @@
+Clomiphene citrate (CC) is commonly used for infertility treatments, particularly in intrauterine insemination (IUI) and in vitro fertilization (IVF) programs.
+Despite its effectiveness in inducing ovulation, it is reported to have a low pregnancy rate compared to letrozole.
+Further, risks of ectopic pregnancy, miscarriage, and fetal malformations have been reported in CC-induced fertility treatment cycles.
+The present study aimed at understanding whether these effects are associated with CC-induced changes in the secretome profile of the human PAX8-positive fallopian tube secretory epithelial cells (hPFTSECs).
+Fallopian tube tissues from healthy women who underwent postpartum tubectomy were enzymatically dissociated and cultured with CC, and their secretomes were analyzed by Liquid Chromatography Tandem Mass Spectrometry (LC-MS/MS) to identify CC-induced alterations.
+Proteomic analysis identified a total of 1549 proteins in the secretome pool of hPFTSECs cultured in vitro and 258 proteins were found to be differentially abundant in response to CC.
+KEGG and REACTOME analysis revealed that the differentially abundant proteins (DAPs) were mainly associated with pathways such as estrogen signaling, cell cycle and DNA damage.
+Further, candidate proteins associated with ovulation, embryo development, embryo implantation, pregnancy complications, ectopic pregnancy, sperm functions, apoptosis, senescence, and ovarian cancers were identified.
+CC exposure induced changes in secretome profile of hPFTSECs may affect the female reproductive health by potentially altering the tubal microenvironment.
+The study was registered in the Clinical Trials Registry of India (CTRI) under the registration number CTRI/2020/11/028791 on 02/11/2020.

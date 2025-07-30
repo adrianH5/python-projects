@@ -1,0 +1,7 @@
+Outcome models predicting e.g.
+survival, tumour control or radiation-induced toxicities play an important role in the field of radiation oncology.
+These models aim to support the clinical decision making and pave the way towards personalised treatment.
+Both validity and reliability of their output are required to facilitate clinical integration.
+However, models are influenced by uncertainties, arising from data used for model development and model parameters, among others.
+Therefore, quantifying model uncertainties and addressing their causes promotes the creation of models that are sufficiently reliable for clinical use.
+This topical review aims to summarise different types and possible sources of uncertainties, presents uncertainty quantification methods applicable to various modelling approaches, and highlights central challenges that need to be addressed in the future.

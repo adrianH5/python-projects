@@ -1,0 +1,5 @@
+Identification of the tissue of origin is fundamental for cancer treatment.
+However, squamous cell carcinomas from different sites lack representative histological and immunohistochemical features.
+This study aimed to identify mutational profiles and further establish a DNA methylation-based classification for squamous cell carcinoma and urothelial carcinoma.
+Samples of unambiguous squamous cell carcinomas and urothelial carcinomas were collected for targeted next-generation sequencing and mutational landscape analysis.
+Moreover, using Illumina methylation BeadChip data from public datasets and a local cohort, we developed a DNA methylation-based classifier utilizing the CatBoost algorithm to identify four common types of squamous cell carcinoma (lung, head and neck, esophagus, and cervix) as well as urothelial carcinoma.

@@ -1,0 +1,11 @@
+Rucaparib is used to treat ovarian cancer patients with BRCA gene mutations.
+Myricetin, a flavonol that strongly inhibits CYP450, is widely found in natural plants and has some anticancer properties, with the potential for combination use.
+However, there is no report on the interaction between myricetin and rucaparib.
+Therefore, an ultra performance liquid chromatography tandem mass spectrometry (UPLC-MS/MS) detection approach with high selectivity, reproducibility, sensitivity, and stability was established, which was used to explore the effect of myricetin on rucaparib metabolism in rats.
+In this study, acetonitrile was used as the protein precipitant, and fuzuloparib was used as the internal standard (IS).
+Method validation followed the bioanalytical method validation criteria outlined by the FDA.
+A good linear range was achieved in the range of 2.0-500 ng/mL.
+Intra-day and inter-day precision (RSD%) for rucaparib were both less than 7.1%, and accuracy (RE%) ranged from -1.2%-10.9%.
+Matrix effects were observed in 89.8%-99.7% with recovery exceeding 96.1%.
+The results of the drug-drug interaction (DDI) study showed that myricetin had no significant effect on the pharmacokinetic parameters of rucaparib, which indicating that the clinician did not need to adjust the dosage of rucaparib when it was used in combination.
+The UPLC-MS/MS method developed in this study was successfully used for the determination of the plasma concentrations of rucaparib orally administered in rats, which provided a reference for DDI studies and clinical pharmacokinetic studies of rucaparib.

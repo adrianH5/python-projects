@@ -1,0 +1,10 @@
+Central memory CD8 T cells exhibit marked veto activity enhancing engraftment in several mouse models of T cell-depleted bone marrow (TDBM) allografting.
+Graft-versus-host disease (GVHD) can be prevented by stimulation of mouse or human memory CD8 T cells against their cognate antigens under cytokine deprivation, in the early phase of culture followed by further expansion with IL21, IL15, and IL7.
+Thus, human anti-viral CD8 central memory veto T cells generated from CMV and EBV-positive donors are currently evaluated in a clinical trial at MD Anderson Cancer Centre (MDACC).
+Results in 15 patients indicate a low risk of GVHD.
+Considering that these cells could offer an attractive platform for CAR cell therapy, we evaluated methodologies for their effective transduction with 2 retroviral vectors.
+Initially, a vector directed against Her2 was tested and optimal transduction was attained at day 5 of culture.
+The transduced cells were expanded for an additional 7 days and exhibited marked anti-tumor reactivity ex-vivo while retaining their veto activity.
+Transduction with a vector directed at CD19 was effectively attained at days 4-5 allowing for substantial harvest of transduced cells at day 12 of culture.
+These Veto-CD19CAR central memory CD8 T cells exhibited marked anti-tumor reactivity in-vitro and in-vivo without GVHD, measured following transplantation into immune-deficient mice.
+These results strongly suggest that Veto-CAR T cells offer an attractive platform for CAR T cell therapy without gene editing for addressing the risk of GVHD or graft rejection.

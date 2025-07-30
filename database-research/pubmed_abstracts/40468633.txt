@@ -1,0 +1,7 @@
+CRISPR/Cas genome editing technologies enable effective and controlled genetic modifications; however, off-target effects remain a significant concern, particularly in clinical applications.
+Experimental and in silico methods are developed to predict potential off-target sites (OTS), including deep learning based methods, which can automatically and comprehensively learn sequence features, offer a promising tool for OTS prediction.
+Here, this work reviews the existing OTS prediction tools with an emphasis on deep learning methods, characterizes datasets used for deep learning training and testing, and evaluates six deep learning models -CRISPR-Net, CRISPR-IP, R-CRISPR, CRISPR-M, CrisprDNT, and Crispr-SGRU -using six public datasets and validates OTS data from the CRISPRoffT database.
+Performance of these models is assessed using standardized metrics, such as Precision, Recall, F1 score, MCC, AUROC and PRAUC.
+This work finds that incorporating validated OTS datasets into model training enhanced overall model performance, and improved robustness of prediction, particularly with highly imbalanced datasets.
+While no model consistently outperforms other models across all scenarios, CRISPR-Net, R-CRISPR, and Crispr-SGRU show strong overall performance.
+This analysis demonstrates the importance of integrating high-quality validated OTS data with advanced deep learning architectures to improve CRISPR/Cas off-target site predictions, ensuring safer genome editing applications.

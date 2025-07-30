@@ -1,0 +1,20 @@
+Coronavirus disease 2019 (COVID-19) caused by a novel coronavirus named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has spread worldwide as a severe pandemic (Callaway et al., 2020).
+Currently, no validated therapeutics against virus-target interactions are available for COVID-19.
+Convalescent patients’ plasma, which contains neutralizing antibodies produced by the adaptive immune response, has led to a clear clinical improvement of both mild and severe COVID-19 patients when used as a therapeutic modality (Chen et al., 2020, Shen et al., 2020, Cao, 2020).
+Here, we report the rapid and efficient identification of SARS-CoV-2-neutralizing antibodies achieved by high-throughput single-cell RNA and VDJ sequencing of antigen-binding B cells from convalescent COVID-19 patients.
+Overall, we showed that high-throughput single-cell sequencing could lead to the identification of highly potent neutralizing mAbs that have strong therapeutic and prophylactic efficacy, which could greatly assist in the intervention of prevailing and emerging infectious diseases, such as COVID-19.
+To exploit this hypothesis, we first collected peripheral blood mononuclear cells (PBMCs) and isolated the B cells from 12 COVID-19 convalescent patients from Beijing Youan Hospital (Table S1).
+To evaluate their neutralization potential against the authentic virus, we performed the plaque reduction neutralization test (PRNT) using authentic SARS-CoV-2 isolated from COVID-19 patients.
+We compared every IgG1-presenting clonotype’s predicted structure based on CDR3H using FREAD to the available SARS-CoV-neutralizing mAbs’ crystal structure in the PDB database as well as the structure of BD-23.
+However, a total of 12 IgG1 clonotypes showed high structure similarity with PDB ID 2dd8 and 2ghw (Table S2; Figure 5C), which corresponds to previously isolated SARS-CoV-neutralizing mAbs m396 and 80R, respectively (Prabakaran et al., 2006, Hwang et al., 2006).
+A total of 64 confirmed COVID-19 patients discharged from Beijing Youan Hospital, China, from February 01 to February 28, 2020, were enrolled in this study (Table S1).
+Patients 13-64, as well as 8 patents from ID 1-12, enrolled in the study corresponding to sequence batch 1-6 (Table S1).
+Discharged COVID-19 patients were isolated and observed continually for 28 days.
+All COVID-19 patients were confirmed infected according to positive respiratory RT-PCR tests.
+The SARS-CoV-2 pseudovirus is a gift from the Division of HIV/AIDS and Sex-transmitted Virus Vaccines, National Institutes for Food and Drug Control (NIFDC).
+The S trimer (PDB ID: 6VSB) was used as a reference for the 3D classifications.
+This BD23-Fab model and the S trimer structure (PDB ID: 6VSB) were docked into the cryo-EM density using UCSF Chimera.
+Various concentrations of mAbs (3-fold serial dilution using DMEM, 50 μL aliquots) were mixed with the same volume of SARS-CoV-2 pseudovirus with a TCID50 of 1.3 × 104 in a 96 well-plate.
+Cell types were identified using SingleR (Aran et al., 2019) against a human immune reference dataset (Monaco et al., 2019).
+The COVID-19 pandemic urgently needs therapeutic and prophylactic interventions.
+Graphical Abstract      Neutralizing antibodies, which could effectively block virus entry into host cells, are urgently needed for intervention against COVID-19.

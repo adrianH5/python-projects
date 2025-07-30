@@ -1,0 +1,12 @@
+Septicemia triggers a profound systemic inflammatory response, ultimately leading to cellular senescence.
+Understanding the mechanisms underlying intercellular interactions associated with sepsis is crucial for developing therapeutic strategies targeting sepsis and its associated complications.
+Neonatal septicemia (NS) is a critical condition characterized by systemic infection in newborns.
+Currently, there are no effective indicators for the early identification of sepsis and precise screening of newborns who truly require antibiotic treatment, which results in delayed diagnosis of neonatal sepsis and the overuse of antibiotics.
+We aimed to elucidate cellular senescence-related genes (CSRGs) in the context of NS and to investigate their potential regulatory networks and immune infiltration patterns.
+Our analysis identified 391 DEGs, including 301 upregulated and 90 downregulated genes and 15 differentially expressed CSRGs (CSRDEGs), including STAT3, MAPK14, IGFBP7, PPARG, and ETS2.
+Gene Ontology and Kyoto Encyclopedia of Genes and Genomes analyses revealed enrichment in biological processes, including cellular senescence, and pathways involving PD-L1 expression in cancer.
+Gene Set Enrichment Analysis highlighted significant pathways, including selenoamino acid metabolism and neutrophil degranulation.
+Protein-protein interaction network analysis identified eight hub genes: STAT3, MAPK14, CEBPB, TLR2, ETS1, JUNB, PPARG, and MAP3K5.
+Regulatory network analysis revealed interactions between CSRDEGs and multiple transcription factors/miRNAs.
+Immune infiltration analysis revealed profound differences in the composition of immune cells between the normal and NS groups.
+Our study findings offer valuable information for future research on therapeutic targets and diagnostic markers of NS.

@@ -1,0 +1,8 @@
+Understanding how graphene oxide (GO) interacts with cells is crucial for its safe and efficient biomedical applications.
+Despite extensive research, a systematic investigation using a panel of cell lines, thoroughly characterized label-free nanomaterials, and complementary analytical techniques is lacking.
+Here, we examined the uptake of thin GO sheets with distinct lateral dimensions in 13 cell lines: 8 cancer (HeLa, A549, PC3, DU-145, LNCaP, SW-480, SH-SY5Y, U87-MG) and 5 non-cancer (BEAS-2B, NIH/3T3, PNT-2, HaCaT, 293T), using confocal microscopy, transmission electron microscopy, and flow cytometry.
+Our results reveal a striking difference in GO uptake: non-cancer cells internalized GO efficiently, while in cancer cells, GO predominantly interacted with the plasma membrane, showing minimal to no internalization.
+Comparison to other nanomaterials (polystyrene beads and graphene flakes) confirmed that cancer cells internalize materials similarly to non-cancer cells, indicating GO-specific interactions.
+We identified that GO's thinness plays important role in this differential uptake.
+More importantly, GO disrupts the actin cytoskeleton of cancer cells, impairing the migration in cancer but not in non-cancer cells.
+We propose that thin GO sheets act as a cue upon interaction with the plasma membrane of cancer cell lines, subsequently inducing actin filaments disruption leading to impaired endocytosis, migration activity, and reduced capacity of cancer cells towards GO uptake.

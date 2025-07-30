@@ -1,0 +1,8 @@
+In this study, a novel pyrazole amide derivative designated T1, was designed and synthesized to explore its therapeutic potential for liver cancer.
+The compound was evaluated for its effects on liver cancer cell viability, proliferation, migration, invasion, and apoptosis both in vitro and in vivo.
+The in vitro evaluation was conducted using several experimental techniques, including the CCK-8 assay, colony formation assay, transwell migration assay, immunofluorescence, and western blotting.
+T1 demonstrated an IC50 of 47.7 μg/mL in HuH7 liver cancer cells, showing significantly improved efficacy compared to standard chemotherapeutics, including capecitabine and 5-fluorouracil, and comparable efficacy to sorafenib (IC50 of 55.6 μg/ml).
+Furthermore, T1 significantly inhibited the proliferation, migration, and invasion of HepG2 and HuH-7 cells, while also inducing apoptosis.
+Transcriptome sequencing and western blotting analyses revealed that T1 modulates the MAPK signaling pathway, leading to the altered expression of apoptosis-related proteins, which contributes to the observed anti-cancer effects.
+In vivo studies using a HuH-7 xenograft mouse model confirmed the efficacy of T1, with tumor growth inhibition similar to that of sorafenib.
+These findings suggest that T1 holds significant promise as a potential chemotherapeutic agent for the treatment of hepatocellular carcinoma (HCC).

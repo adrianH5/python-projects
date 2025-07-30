@@ -1,0 +1,13 @@
+Ovarian cancer (OC) is among the most prevalent malignant tumors affecting the female reproductive system.
+Notably, CEBPB has emerged as a highly promising biomarker, attracting substantial attention for its role in mediating chemotherapy resistance to PARP inhibitors (PARPi).
+However, the precise mechanism of action of CEBPB in OC remains poorly understood.
+CCK-8 assays, colony formation assays, transwell assays, and wound healing assays were employed to assess malignant behaviors of OC cells.
+Flow cytometry was utilized to analyze cell apoptosis and cell cycle progression.
+qRT-PCR and Western blot analyses were performed to quantify the levels of SOS1 and phosphorylated ERK1/2 (p-ERK1/2).
+Overexpression of CEBPB enhanced the proliferation, colony formation ability, invasion, migration, and cell cycle progression of SKOV3 and A2780 OC cells, while simultaneously inhibiting their apoptosis.
+Conversely, knockdown of CEBPB produced opposite effects (p < 0.01).
+Results from the MAPK Signaling Pathway PCR Array and Western blot analyses indicated that CEBPB increases the expression of SOS1 (p < 0.01).
+Additionally, dual-luciferase reporter assays demonstrated that CEBPB binds to the promoter sequence of the target gene SOS1.
+CEBPB knockdown significantly inhibited the malignant behavior of OC cells and reduced the levels of p-ERK1/2, whereas overexpression of SOS1 partially reversed this effect (p < 0.01).
+In xenograft models, CEBPB activates ERK1/2 via SOS1 upregulation, which subsequently promotes tumor growth and suppresses apoptosis (p < 0.01).
+CEBPB regulates ERK1/2 activity through SOS1 and contributes to OC progression.

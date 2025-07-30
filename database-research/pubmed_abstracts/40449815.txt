@@ -1,0 +1,7 @@
+Cancer stem cells (CSCs) are recognized as key drivers of tumor recurrence and therapy resistance due to their capacity for self-renewal and differentiation.
+Amino acid metabolic reprogramming, a hallmark of cancer, underpins CSC biology.
+Methionine, tryptophan, and glutamine support CSC survival and the maintenance of stemness, while proline plays a role in CSC differentiation and susceptibility to cell death.
+Consequently, the impact of amino acid metabolism on CSCs is multifaceted and complex.
+This review first outlines the intrinsic amino acid metabolic features of CSCs.
+It then provides a comprehensive analysis of the distinct roles of various amino acids in regulating CSC biology.
+Additionally, strategies targeting amino acid metabolism to eliminate CSCs in clinical therapies are discussed, offering new perspectives for the development of innovative tumor-targeting approaches.

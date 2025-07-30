@@ -1,0 +1,7 @@
+Inflammasomes are essential regulators of innate immunity, inflammation, and cellular apoptosis, and they have surfaced as significant modulators of cancer progression and regulation.
+Inflammasomes are macromolecular complexes assembled in response to damage-associated molecular patterns (DAMPs) and pathogen-associated molecular patterns (PAMPs).
+They induce inflammation via the oligomerization and activation of caspases.
+These cysteine proteases cleave the pro-inflammatory cytokines IL-1β and IL-18 into their physiologically active mature versions.
+Recent discoveries reveal that inflammasomes are implicated not only in infections but also in malignancies, suggesting a significant connection between inflammation and tumor development.
+This article emphasizes that inflammasomes cause pyroptosis in a variety of immune cells, such as dendritic cells, macrophages, T cells, and fibroblasts, in addition to tumor cells.
+The induction of CD8

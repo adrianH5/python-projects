@@ -1,0 +1,7 @@
+Characterizing the contribution of mutators to mutation accumulation is essential for understanding cellular adaptation and diseases like cancer.
+By measuring single and double mutation rates, including point mutations, segmental duplications, and reciprocal translocations, we found that wild-type yeast colonies exhibit double mutation rates up to 17 times higher than expected from experimentally determined single mutation rates.
+These double mutants retained wild-type mutation rates, indicating they originated from genetically normal cells that transiently expressed a mutator phenotype.
+Numerical simulations suggest that transient mutator subpopulations likely consist of less than a few thousand cells, and experience high-intensity mutational bursts for less than five generations.
+Most double mutations accumulated sequentially across cell cycles, with simultaneous acquisition being rare and likely linked to systemic genomic instability.
+Additionally, we explored the genetic control of transient hypermutation and found that the excess of double mutants can be modulated by replication stress and the DNA damage tolerance pathway.
+Our findings suggest that transient mutators play a significant role in genomic instability and contribute to the mutational load accumulating in growing isogenic populations.

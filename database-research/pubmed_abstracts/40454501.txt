@@ -1,0 +1,9 @@
+Cytochrome P450 (CYP 450) plays a pivotal role in the metabolism of a diverse range of agents, and its dysregulation can contribute to tumorigenesis, including tumor angiogenesis across various cancer types.
+This dysregulation may activate procarcinogenic xenobiotics and endogenous molecules while also inactivating anti-cancer drugs, resulting in drug resistance.
+The aim of this review is to demonstrate the potential and relevance of CYP inhibitors in the treatment of colorectal cancer (CRC).
+Several studies have documented the role of CYP enzymes in the metabolic rearrangements of various cancers through the mechanisms underlying metabolic rearrangements in CRC, including those related to glucose, fatty acids, cholesterol, and amino acids.
+Recent studies have focused on the targeting of metabolic mechanisms in CRC through the use of established CYP inhibitors, yielding varying degrees of success.
+Among these agents are clotrimazole (inhibitor of CYP24A1, 3A4, 2A6, and 2C8), KD-35 (CYP24A1 inhibitor), liarozole (CYP26A1 inhibitor), letrozole (CYP19A1 inhibitor), lopinavir/ritonavir and quercetin (CYP3A4 inhibitors), α-naphthoflavone and furanfylline (CYP1A1 inhibitors), as well as phenylpyrrole (a CYP1A2 and CYP2A6 inhibitor).
+Clinical studies investigating CYPs in cancer treatment have been reported in various cancers, including prostate, breast, pancreatic, hematological, lung, and salivary gland cancers, for purposes ranging from dose reduction and cost savings to enhance the efficacy of combined anti-cancer agents (CYP3A4, CYP3A4/5 and CYP1A2 inhibitors), and in addition, functioning as anti-cancer agents themselves (CYP17 inhibitors).
+Thus, these metabolizing enzymes reveal a complex interaction with cancer therapeutics, opening the door to novel strategies that go beyond conventional treatment paradigms.
+Harnessing CYP modulators could transform the treatment of CRC, offering more targeted and flexible options.

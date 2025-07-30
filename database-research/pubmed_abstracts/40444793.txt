@@ -1,0 +1,7 @@
+The gut microbiota maintains host health and shapes immune responses through intricate host-microbe interactions.
+Bacterial flagellin, a key microbe-associated molecular pattern, is recognized by Toll-like receptor 5 (TLR5) and NOD-like receptor family caspase activation and recruitment domain-containing 4 inflammasome.
+This dual recognition maintains the delicate balance between immune tolerance and activation, thereby influencing health and disease outcomes.
+Therefore, we explored the structural and functional evolution of bacterial flagellin to elucidate its role in innate and adaptive immune responses, along with its impact on metabolic processes, particularly via TLR5.
+In this review, we highlight the diagnostic and therapeutic potential of flagellin, including its application in vaccine development, cancer immunotherapy, and microbiome-based therapies.
+We integrated perspectives from structural biology, immunology, and microbiome research to elucidate the co-evolutionary dynamics between gut microbiota-derived flagellin and host immunity.
+Our interpretations provide a basis for the development of innovative strategies to improve health and disease management.

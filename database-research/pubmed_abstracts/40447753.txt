@@ -1,0 +1,10 @@
+GULP PTB domain containing engulfment adaptor 1 (GULP1) protein is involved in regulating biological processes such as endocytosis and apoptosis.
+The function of GULP1 in cancer, however, has been the subject of fewer studies; its importance as a potential prognostic factor in pancreatic cancer is still uncertain.
+Thus, the purpose of this work was to investigate GULP1's immunologic and oncogenic activities in a range of malignancies, as well as any potential relevance to pancreatic cancer.
+Using multiple bioinformatic databases, GULP1 expression, prognostic significance, mutation status, methylation and phosphorylation levels, biological functions, immune cell infiltration and immunotherapeutic responses and drug sensitivity were comprehensively assessed in pan-cancer and functionally validated in pancreatic cancer.
+The results revealed that GULP1 was differentially expressed in most tumours and correlated with poor prognostic indicators in most tumours, which may be related to the fact that GULP1 is involved in the regulation of apoptotic pathways.
+In addition, the differential expression of GULP1 was linked to immune cell infiltration levels, immunotherapy response, and chemotherapy resistance.
+GULP1 could hinder the body's ability to fight tumors and respond to immunotherapy by promoting the accumulation of immune cells and suppressing the activity of cytotoxic T lymphocytes.
+In pancreatic cancer, down-regulation of GULP1 expression inhibits proliferation, invasion and migration of pancreatic cancer cells.
+These phenotypic changes may be achieved by regulating HIPPO, mTOR, and RTK signaling pathways.
+Taken together, it makes sense to think that GULP1 could be a biomarker for immunotherapy and prognosis in pan- and pancreatic cancer.

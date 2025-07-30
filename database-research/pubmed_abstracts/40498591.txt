@@ -1,0 +1,4 @@
+A series of aminated quinolinequinones linked to piperazine analogs (QQ1-7) were synthesized and screened against the full panel of National Cancer Institute (NCI) cancer cell lines for their potential as cytotoxic agents.
+The Developmental Therapeutics Program of the NCI analyzed the NCI-60 screening results and revealed that seven QQs were potent inhibitors of cancer cell growth across several cell lines, advancing them to the five-dose assay.
+Encouraged by the NCI five-dose assay results, the cytotoxicity of the selected QQs (QQ1 and QQ4) was further studied in three cancer cell lines-HCT-116 (colon cancer), ACHN (renal cancer), MCF7, and T-47D (breast cancer)-as well as in a normal cell line (HUVEC) for a deeper understanding.
+QQ1 was the hit compound for ACHN cells with an IC

@@ -1,0 +1,8 @@
+Zebrafish xenotransplantation is a pivotal technique for investigating human cancer pathogenesis and predicting individual drug responses.
+This document introduces a streamlined protocol (ZefiX) for expanding primary B-cell precursor acute lymphoblastic leukemia (BCP-ALL) patient samples or immortalized cell lines in transiently immunosuppressed zebrafish embryos, utilizing flow cytometry for high-resolution single-cell analysis of treatment responses.
+Compared to solid tumor engraftments, leukemia cells profit significantly from a morpholino antisense oligonucleotide-based suppression of macrophage and neutrophil differentiating factors during the assay.
+Flow cytometry analysis of dissociated graft cells enables precise evaluation of cell count, proliferation rate, and vitality after treatment on a per-cell basis.
+This approach has been validated using targeted therapeutics such as venetoclax and dasatinib, with treatment outcomes compared to clinical records of related patient samples and traditional 2D culture controls.
+Notably, the protocol is completed within 7 days, aligning with clinical decision-making timelines.
+The methodology is adaptable for testing selected drugs in various cancer types, including solid tumors, thereby supporting personalized therapeutic strategies.
+However, limitations on the number of drugs that can be assessed, likely due to pharmacokinetic constraints in zebrafish embryos, should be considered.

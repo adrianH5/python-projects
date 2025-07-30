@@ -1,0 +1,9 @@
+We recently reported that follicular lymphoma (FL) with BCL6-rearrangement (R) is associated with favorable progression-free survival, whereas BCL2-R and BCL2-6-R cases are associated with disease progression.
+However, the pathological mechanism remained unexplored.
+This study analyzed the mutational landscape and immune microenvironment of 31 FL cases, including 16 BCL2-R, 11 BCL6-R, and 4 BCL2-6-R FL cases.
+The methodology included an in-house next-generation targeted sequencing (NGS) panel of 168 genes associated with aggressive B-cell lymphoma and FL, whole genome copy-number change microarray (OncoScan), and immunohistochemistry for the immune microenvironment focused on M2-like tumor-associated macrophages, regulatory T lymphocytes, and PD-1 (PDCD1)-positive follicular T helper cells.
+The resulting mutational profile was compatible with a previously reported conventional FL series featuring frequent mutations in CREBBP, KMT2D, TNFRSF14, STAT6, and CD36.
+Moreover, BCL6-R cases had mutations in ARID1B, ARID5B, and RHOA; low frequency of mutations in other genes, such as OSBPL10, PTPRD, ATM, and HLA-B, 6q loss, and absence of disease progression.
+In comparison with BCL6-R cases, BCL2-R and BCL2-6-R cases had mutations in EZH2, chromosome 18 copy-number gain, and disease progression in some cases.
+The immune microenvironment profile was heterogeneous; however, BCL6-R cases demonstrated higher infiltration of CSF1R- and CD85A (LILRB3)-positive cells.
+In conclusion, compared with BCL2-R, FL with BCL6-R exhibited some differences in mutational profiles and immune microenvironment.

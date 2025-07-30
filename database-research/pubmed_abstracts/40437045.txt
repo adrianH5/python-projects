@@ -1,0 +1,9 @@
+Allogeneic hematopoietic cell transplantation remains an important curative treatment for patients with acute lymphoblastic leukemia (ALL).
+Over time, significant progress in transplant and post-transplant care has allowed the delivery of transplant to older patients.
+We assessed changes over time in characteristics and outcomes in patients ≥60 years with ALL using a dataset from the EBMT registry.
+We identified 832 adult patients, with T-cell ALL (n = 143), Philadelphia chromosome positive B-cell ALL (n = 471), or Philadelphia chromosome negative B-cell ALL, transplanted 2010-2022 in first remission irrespective of the donor type.
+Those included 280 patients transplanted in 2010-2015, and 552 patients transplanted in 2016-2022.
+Patients transplanted in recent years were slightly older, more likely to have T or Ph- B-ALL and to receive a myeloablative total body irradiation conditioning.
+The 2-year leukemia free survival (LFS) and overall survival (OS) increased over time from 42-55% and from 51-65%, respectively.
+In multivariate analysis, LFS, OS, chronic and extensive chronic graft-versus-host disease rates were better in recent years (hazard ratio[HR] 0.68, 0.71, 0.66 and 0.5, respectively).
+These real-world data can serve as a benchmark indicating that the opportunity for transplant for the fit elderly should be considered and offered when possible.

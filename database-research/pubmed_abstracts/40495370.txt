@@ -1,0 +1,4 @@
+Few population-based studies have rigorously evaluated overall survival (OS) differences among adults treated with chemotherapy and/or immunotherapy (chemo/immunotherapy) for multiple myeloma (MM) during the past two decades when the therapeutic landscape substantially evolved.
+We evaluated OS among 50 288 adults diagnosed with MM between 2000 and 2019 reported to have received initial chemo/immunotherapy.
+We calculated hazard ratios (HRs) using multivariable Cox regression to compare OS across calendar periods and within patient demographic groups.
+OS improved over time (2000-2004 = reference; HR

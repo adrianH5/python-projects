@@ -1,0 +1,6 @@
+Telomeres are repetitive sequences of nucleotides at the end of chromosomes, whose evolution over time is intrinsically related to biological ageing.
+In most cells, with each cell division, telomeres shorten due to the so-called end replication problem, which can lead to replicative senescence and a variety of age-related diseases.
+On the other hand, in certain cells, the presence of the enzyme telomerase can lead to the lengthening of telomeres, which may delay or prevent the onset of such diseases but can also increase the risk of cancer.
+In this article, we propose a stochastic representation of this biological model, which takes into account multiple chromosomes per cell, the effect of telomerase, different cell types and the dependence of the distribution of telomere length on the dynamics of the process.
+We study theoretical properties of this model, including its long-term behaviour.
+In addition, we investigate numerically the impact of the model parameters on biologically relevant quantities, such as the Hayflick limit and the Malthusian parameter of the population of cells.

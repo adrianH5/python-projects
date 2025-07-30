@@ -1,0 +1,10 @@
+The mitochondria-mediated apoptotic pathway is an important anti-tumor strategy.
+Based on the cell membrane and mitochondria, dual targeting system was explored to enhance the antitumor efficacy.
+In this study, celastrol (CEL) showing anti-tumor effect through mitochondria-mediated apoptotic pathways, triphenylphosphine (TPP) presenting mitochondria targeting ability, hyaluronic acid (HA) exhibiting cell membrane targeting ability, and immune adjuvants resiquimod (R848) were prepared to form co-delivery system with dual targeting function, which could achieve chemo-immunotherapy for breast cancer.
+CEL, R848, and TPP were self-assembled into inner core (TCR) via Van der Waals force and electrostatic interactions.
+After decorating hyaluronic acid (HA) via electrostatic interactions, the codelivery system (H/TCR NPs) was obtained successfully.
+H/TCR NPs showed uniform core-shell structure with the average particle size of approximately 164 nm.
+H/TCR NPs presented the good storage stability and media stability.
+Due to the active targeting property of TPP, H/TCR NPs presented the high accumulative rate in mitochondria, resulting in promoted antitumor efficacy of CEL through mitochondria-mediated apoptotic pathways.
+At the low frequency of administration in 4T1 tumor-bearing mouse model, the tumor inhibition rate of H/TCR NPs was 66.5 %, 3-fold higher than paclitaxel injection that was first-line treatment drug of breast cancer in clinic.
+In summary, this study revealed that co-delivery nanoparticles with dual targeting ability existed combining antitumor effects and presented the potential application in clinic, such as addressing unmet needs in breast cancer treatment or overcoming drug resistance.

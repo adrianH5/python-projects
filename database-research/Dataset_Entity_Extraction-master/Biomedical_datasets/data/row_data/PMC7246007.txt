@@ -1,0 +1,9 @@
+The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) was discovered as the viral pathogen that causes COVID-19.
+When COVID-19 quickly spread outside China, sequencing of the viral genome was conducted from infected patients in other countries to compare the sequence with the reference sequence.
+Intriguingly, genomic sequence of SARS-CoV-2 of the first two COVID-19 patients diagnosed in Italy during January and February 2020 already showed mutations compared to the reference sequence established in China [1].
+However, this recent study [2] did not explore the association between genetic variation in SARS-CoV-2 and the severity of COVID-19.
+Another analysis of 86 genomic sequences obtained from GISAID database (https://www.gisaid.org/) identified 3 deletions in the genomes of SARS-CoV-2 from Japan, USA and Australia, and 93 mutations over the entire SARS-CoV-2 genomes [3].
+Pachetti et al. [4] analyzed 220 SARS-CoV-2 genomic sequences from the GISAID database and found 8 novel mutation hot spots: 5 of them were predominantly observed in Europe and 3 were exclusively present in North America but none of them was detected in Asia.
+Therefore, it is an urgent need to explore the association of the mutation pattern of SARS-CoV-2 genome with the severity and fatality of COVID-19.
+Based on the above discussion, we hypothesize that the genetic variation in SARS-CoV-2 may explain variable severity of COVID-19 in the population.
+Analysis of sequencing data of SARS-CoV-2 genome showed evidence of mutation at the beginning of the worldwide spread of COVID-19 [1].

@@ -1,0 +1,8 @@
+Accurate and efficient segmentation of medical images plays a vital role in clinical tasks, such as diagnostic procedures and planning treatments.
+Traditional U-shaped encoder-decoder architectures, built on convolutional and transformer-based networks, have shown strong performance in medical image processing.
+However, the simple skip connections commonly used in these networks face limitations, such as insufficient nonlinear modeling capacity, weak global multiscale context modeling, and limited interpretability.
+To address these challenges, this study proposes the PDS-UKAN network, an innovative subdivision-based U-KAN architecture, designed to improve segmentation accuracy.
+The PDS-UKAN incorporates a PKAN module-comprising partial convolutions and Kolmogorov - Arnold network layers-into the encoder bottleneck, enhancing the network's nonlinear modeling and interpretability.
+Additionally, the proposed Dual-Branch Convolutional Boundary Enhancement Module (DBE) focuses on pixel-level boundary refinement, improving edge detail preservation in shallow skip connections.
+Meanwhile, the Skip Connection Channel Spatial Attention Module (SCCSA) mechanism is applied in the deeper skip connections to strengthen cross-dimensional interactions between channels and spatial features, mitigating the loss of spatial information due to downsampling.
+Extensive experiments across multiple medical imaging datasets demonstrate that PDS-UKAN consistently achieves superior performance compared to state-of-the-art (SOTA) methods.

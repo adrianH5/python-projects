@@ -1,0 +1,4 @@
+Tumor Infiltrating Lymphocytes (TILs) have been shown to be prognostic in Triple-Negative Breast Cancer (TNBC), but are rarely considered in other subtypes, particularly estrogen receptor (ER) positive cancers (70-80% of breast cancers), due to lower TIL counts.
+However, the spatial proximity of lower abundance TILs has not been evaluated in relation to breast cancer prognosis.
+In this study, multiplex immunofluorescent-stained images were used to identify cell types based on cytokeratin (Ck), CD8, and FoxP3 expression.
+Using distance-based visual morphometry between epithelial and immune cells, we computed new metrics,

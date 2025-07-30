@@ -1,0 +1,7 @@
+Immunotherapy has revolutionised cancer treatment.
+Immune checkpoint inhibitors have demonstrated significant efficacy across multiple tumour types, including gastric cancer, where several approved programmed cell death 1/programmed cell death-ligand 1 (PD-1/PD-L1) inhibitors show promising antitumour activity.
+While PD-L1 expression serves as a predictive biomarker for PD-1 inhibitor response, and PD-L1-positive patients generally show better outcomes, therapeutic resistance remains a challenge.
+Many initial responders eventually develop resistance, and surprisingly, some PD-L1-positive patients fail to achieve expected response rates, indicating emerging resistance mechanisms in potentially responsive populations.
+Adebrelimab, a PD-L1 inhibitor, demonstrates mechanistic advantages over PD-1 inhibitors, with clinical studies suggesting promising therapeutic potential.
+When combined with irinotecan, apatinib has shown efficacy in second-line gastric cancer treatment.
+This study aims to evaluate the efficacy and safety of combining adebrelimab with apatinib and irinotecan for advanced gastric cancer refractory to PD-1 inhibitors.

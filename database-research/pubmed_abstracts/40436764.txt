@@ -1,0 +1,7 @@
+The aim of this study is to clarify whether adult pancreatic islet cells would strictly maintain the ability to produce a single pancreatic hormone, or whether they would retain the plasticity to produce two or more pancreatic hormones simultaneously.
+The ability to produce pancreatic hormones was estimated by the number of hormone gene transcripts, which was evaluated by a spatial transcriptomics analysis using Xenium.
+The spatial analysis was performed using 477 probes on pancreatic tissues surgically removed from three patients with pancreatic tumors.
+Eleven pancreatic islets were selected from pancreatic tissue sections, and a detailed analysis was performed on the number of glucagon, insulin, somatostatin and pancreatic polypeptide gene transcripts in the total of 773 pancreatic islet cells.
+The spatial analysis revealed that a large number of pancreatic islet cells possessed multiple gene transcripts of four pancreatic hormones.
+Based on these results, as far as gene expression is concerned, it is possible to speculate that adult pancreatic islet cells have the plasticity to produce two or more pancreatic hormones simultaneously.
+These results suggested that the hormone-producing capabilities of the conventional A, B, D and PP pancreatic islet cells would need to be re-examined.

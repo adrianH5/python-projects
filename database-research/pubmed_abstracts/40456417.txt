@@ -1,0 +1,13 @@
+Urothelial carcinoma in situ (CIS) is a flat-type noninvasive urothelial carcinoma.
+Appropriate diagnosis of CIS is important because treatment options depend on the diagnosis.
+However, it is often difficult to differentiate CIS from benign lesions, especially reactive atypia.
+Enhancer of zeste homolog 2 (EZH2) is a component of the polycomb repressor complex 2 that is involved in carcinogenesis by epigenetically regulating gene expression levels.
+The protein is highly expressed in various malignancies, including urothelial carcinoma.
+We hypothesized that immunostaining for EZH2 is useful to differentiate urothelial CIS from benign lesions.
+In the first analysis, we performed immunostaining for EZH2 and existing CIS markers (CK20, p53, Ki67, and AMACR/P504S) using 22 surgical specimens that could be easily differentiated morphologically as CIS or reactive atypical epithelium, thereby not requiring immunohistochemistry.
+EZH2 showed higher sensitivity and equal or better specificity than the existing markers.
+In the second analysis, we used 42 transurethral resection of bladder tumor or biopsy specimens for which diagnoses were difficult to establish based on morphology alone and required immunostaining for CK20 and p53.
+EZH2 showed higher sensitivity but somewhat lower specificity than the existing markers.
+In the third analysis, immunostaining for EZH2 was performed using 27 specimens of benign lesions other than reactive atypical epithelium, including inverted papilloma, nephrogenic adenoma, and cystitis glandularis.
+These lesions also showed minimal EZH2 staining.
+These results suggest that immunostaining for EZH2 is useful in the diagnosis of urothelial CIS, particularly as a marker with superior sensitivity.

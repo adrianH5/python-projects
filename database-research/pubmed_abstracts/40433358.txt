@@ -1,0 +1,3 @@
+Tumor immunotherapy has revolutionized cancer treatment, particularly through the use of immune checkpoint inhibitors targeting the PD-L1/PD-1 axis.
+While PD-L1 expression on tumor cells is an established predictive biomarker for therapeutic response, emerging evidence highlights the importance of PD-L1 expression on myeloid cells, both in the periphery and within the tumor microenvironment (TME).
+This study explores the immunomodulatory effects of the selective HDAC6 inhibitor ITF3756 on monocytes and dendritic cells (DCs).

@@ -1,0 +1,12 @@
+Exogenous microRNAs (Xeno-miRs), primarily derived from dietary sources, are detectable in host biofluids and influence gene expression through cross-kingdom regulation.
+Despite growing interest, their impact on human diseases, especially cancer, remains controversial and requires further investigation.
+However, the specific implications of diet-derived Xeno-miRs in chemotherapy response remain largely unexplored.
+This study assesses the potential functions and possible implications of egg-derived miRNAs in chemotherapy response with an in silico approach.
+This study presents the first evaluation of the contribution of diet-derived miRNAs in modulating chemotherapy outcomes.
+Egg-derived miRNAs were retrieved from the Dietary MicroRNA Database, and their human homologs were identified.
+Target genes and transcription factors were predicted using mirDIP and TransmiR databases, respectively.
+Pathway enrichment analysis was conducted with DIANA-miRPath.
+Expression patterns of Xeno-miRs were analyzed using the CancerMIRNome database, and differentially expressed target genes were identified using TCGA and GTEx data via GEPIA2.
+The chemotherapy response of Xeno-miRs was assessed using ncRNADrug.
+Fifty-five egg-derived Xeno-miRs were initially retrieved, among which 17 human homologs were further analyzed.
+Notably, the downregulation of

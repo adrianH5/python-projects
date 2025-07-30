@@ -1,0 +1,22 @@
+Only a few weeks after the first case of coronavirus disease 2019 (COVID-19) was reported in Wuhan, China, the first case of COVID-19 was confirmed in the Republic of Korea on January 20, 2020.
+On February 18, when a suspicious index case was identified in a religious group, a sharp increase in the number of COVID-19 cases was observed, with most infections being reported in specific clusters and geographic regions; the highest number of COVID-19 cases was reported in Daegu, followed by Gyeongbuk.1, 2, 3 Until April 4, 2020, 10,156 cumulative cases of COVID-19 were reported in Korea.
+It is well established that most patients with COVID-19 have fever along with respiratory symptoms, and human-to-human transmission occurs among close contacts, mainly through respiratory droplets and direct contact.
+,
+Hence, the GI symptoms and fecal viral shedding in prolonged respiratory shedders with asymptomatic or mild COVID-19, who were in quarantine for more than a month, must be evaluated.
+We conducted a prospective cohort study involving the patients diagnosed with asymptomatic or mild COVID-19, quarantined between April 4 and April 24 at the Youngdeok Samsung Living and Treatment Center (LTC).
+Patients were defined as having asymptomatic or mild COVID-19 as per the Korea Centers for Disease Control and Prevention severity criteria (http://ncov.mohw.go.kr/en), when the following conditions were met: (1) age younger than 60 years, (2) no underlying chronic diseases, (3) alert mentality, (4) body temperature lower than 37.5°C, and (5) no radiologic evidence of pneumonia.
+Originally, Youngdeok Samsung LTC was a human resource training center of Samsung, but on March 2, 2020, out-of-hospital quarantine and care for patients with asymptomatic or mild COVID-19 was mandated by the Korea Centers for Disease Control and Prevention.
+Therefore, the accommodation facilities including Youngdeok Samsung human resource training centers were transformed to a LTC, and COVID-19 patients in Daegu and Gyeongbuk were quarantined there on March 4.
+COVID-19 was confirmed by real-time reverse-transcription polymerase-chain reaction (RT-PCR) assay for SARS-CoV-2 in upper respiratory tract specimens using nasopharyngeal and oropharyngeal swabs and/or lower respiratory tract specimens (ie, sputum).
+A total of 203 patients were diagnosed with COVID-19 between February 18 and March 1, 2020, and quarantined in the Youngdeok Samsung LTC on March 4, 2020.
+Another group of 169 patients was diagnosed with COVID-19 between February 25 and March 8, 2020, and quarantined in the Gimje Samsung LTC.
+The clinical characteristics of study participants with asymptomatic and mildly symptomatic COVID-19 are described in Table 1
+.
+Fecal specimens were collected from April 4 to April 24, 2020 (21 days), and the median interval between COVID-19 diagnosis to the start of fecal sample collection was 37 days (range, 29–41 d) (Table 1, Figure 2
+).
+In a meta-analysis of 60 studies, comprising 4243 patients, the pooled prevalence rate of all GI symptoms was 17.6%, and when compared with the prevalence of GI symptoms according to the severity of COVID-19, pooled prevalence rates of GI symptoms were 11.8% and 17.1% in patients with nonsevere and severe COVID-19, respectively.
+Background & Aims  Although coronavirus disease 2019 (COVID-19) is characterized by fever and respiratory symptoms, some patients have no or mild symptoms.
+We investigated gastrointestinal symptoms and shedding of virus into feces of patients with asymptomatic or mild COVID-19.
+We collected data from 46 patients (median age, 26 y; 46% men) with asymptomatic or mild COVID-19 (without fever and pneumonia) and prolonged respiratory shedding of SARS-CoV-2, quarantined from April 4, 2020, through April 24, 2020, in Korea.
+The median interval between COVID-19 diagnosis to the start of fecal sample collection was 37 days (range, 29–41 d); 213 stool specimens were collected from 46 patients.
+In an analysis of fecal and respiratory specimens from patients with COVID-19 in quarantine in Korea, we found that the gastrointestinal tract could be a route of transmission of SARS-CoV-2 even in patients with asymptomatic or mild disease, with no gastrointestinal symptoms.

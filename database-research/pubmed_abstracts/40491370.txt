@@ -1,0 +1,11 @@
+Endometriosis is a chronic condition where tissue similar to the endometrium grows outside the uterus, affecting 5-10% of women and causing pelvic pain, painful periods, and infertility.
+Diseases of the endometrium, the lining of the uterus, can lead to a variety of reproductive health issues, including infertility, irregular bleeding, and endometrial cancer.
+Researchers have developed advanced in vitro systems using uterine organoids and decellularized tissue scaffolds to understand and model these diseases.
+The main limitations of traditional 2D monolayer cultures include reduced biological activity, reduced hormone responsiveness, and lack of interaction with ECM.
+Researchers have investigated 3D culture approaches to address these shortcomings, such as scaffold-free organoids and decellularized tissue scaffolds.
+Organoid systems can better recapitulate the cellular heterogeneity and physiological functions of the native endometrium.
+Decellularization protocols have been optimized to generate intact uterine scaffolds that preserve the structural and compositional features of the ECM.
+Implantation of these bioscaffolds into animal models demonstrated their biocompatibility and regenerative potential.
+Further refinements of organoid and scaffold technologies, including chemically defined matrices and organ-on-a-chip platforms, will improve our ability to model the uterus.
+Integration of these advanced in vitro models with patient-derived cells will enable personalized disease modeling and the development of targeted therapies.
+The combination of organoids, decellularized scaffolds, and microfluidic technologies holds great potential for exploring reproductive biology, drug screening, and developing regenerative therapies for uterine diseases and infertility.

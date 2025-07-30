@@ -1,0 +1,10 @@
+The cellular demand of the hematopoietic system is maintained by a rare pool of tissue-specific, hematopoietic stem cells (HSCs).
+HSCs are primarily maintained in a quiescent state but can be activated to exit quiescence and undergo self-renewal and differentiation in response to stress.
+The cytokine Transforming Growth Factor-β (TGF-β) plays an essential role in supporting HSC quiescence and activation, as one of the most potent inhibitors of HSPC growth.
+Therefore, how TGF-β signaling can be regulated in the context of HSCs is of significant interest as it may uncover novel mechanisms to target HSC activity.
+Previous studies revealed that the tetraspanin CD82 modulates the long-term HSC population, with CD82 knockout (KO) mice displaying increased HSC activation.
+Here, in this study, we connect the CD82 scaffold with the regulation of TGF-β signaling in hematopoietic stem and progenitor cells (HSPCs).
+We show that CD82KO leads to decreased TGF-β signaling, whereas increased CD82 expression promotes TGF-β activation.
+These changes in CD82-mediated TGF-β signaling are associated with extracellular matrix interactions, as fibronectin engagement is critical for promoting TGF-β signaling.
+Mechanistically, we find that CD82 stimulates enhanced TGF-β activation by promoting receptor crosstalk between TGF-β receptor I and integrin β1, resulting in downstream changes in cell proliferation.
+Collectively, these findings demonstrate that CD82 modulates canonical TGF-β signaling through receptor crosstalk mechanisms that may be targeted to alter the balance between HSC quiescence and activation.

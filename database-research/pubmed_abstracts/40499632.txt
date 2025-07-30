@@ -1,0 +1,10 @@
+Ubiquitination, a crucial post-translational modification, significantly influences cancer initiation and progression.
+This review emphasizes its roles in programmed cell death (including apoptosis, ferroptosis, and autophagy), drug resistance, and cancer therapy.
+In cell death pathways, ubiquitination through K48 and K63 linkages regulates proteins such as Bcl-2, ACSL4, and p62, thereby affecting cancer cell survival.
+The dysregulation of ubiquitin-specific proteases (USPs), such as USP1 and USP22, leads to uncontrolled cell cycle progression and abnormal DNA repair, which promotes tumorigenesis.
+In the context of drug resistance, ubiquitination modifies ABC transporters and DNA repair enzymes, facilitating chemotherapy resistance.
+Additionally, the inhibition of ferroptosis and autophagy-related ubiquitination allows cancer cells to evade apoptosis.
+In immunotherapy, ubiquitination plays a role in the degradation of PD-1 and PD-L1, as well as in antigen presentation, thereby shaping the immune microenvironment.
+Therapeutic strategies, including proteasome inhibitors, E3 ligase inhibitors, and PROTACs show promise.
+Targeting USPs or employing stress-responsive PROTACs may help overcome resistance, with combination therapies emerging as a key area of research.
+Future studies should aim to clarify the dynamics of the ubiquitination network, develop selective inhibitors, and explore precision medicine for clinical applications.

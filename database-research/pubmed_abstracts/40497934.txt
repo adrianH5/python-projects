@@ -1,0 +1,13 @@
+Obesity is a growing global health concern, contributing to diseases such as cancer, autoimmune disorders, and neurodegenerative conditions.
+Adipose tissue dysfunction, characterized by abnormal adipokine secretion and chronic inflammation, plays a key role in these conditions.
+Adipose-derived extracellular vesicles (ADEVs) have emerged as critical mediators in obesity-related diseases.
+However, the study of mature adipocyte-derived EVs (mAdipo-EVs) is limited due to the short lifespan of mature adipocytes in culture, low EV yields, and the low abundance of these EV subpopulations in the circulation.
+Additionally, most studies rely on rodent models, which have differences in adipose tissue biology compared to humans.
+To overcome these challenges, we developed a standardized approach for differentiating human preadipocytes (preAdipos) into mature differentiated adipocytes (difAdipos), which produce high-yield, human adipocyte EVs (Adipo-EVs).
+Using visceral adipose tissue from bariatric surgical patients, we isolated the stromal vascular fraction (SVF) and differentiated preAdipos into difAdipos.
+Brightfield microscopy revealed that difAdipos exhibited morphological characteristics comparable to mature adipocytes (mAdipos) directly isolated from visceral adipose tissue, confirming their structural similarity.
+Additionally, qPCR analysis demonstrated decreased preadipocyte markers and increased mature adipocyte markers, further validating successful differentiation.
+Functionally, difAdipos exhibited lipolytic activity comparable to mAdipos, supporting their functional resemblance to native adipocytes.
+We then isolated preAdipo-EVs and difAdipo-EVs using tangential flow filtration and characterized them using bulk and single EV analysis.
+DifAdipo-EVs displayed classical EV and adipocyte-specific markers, with significant differences in biomarker expression compared to preAdipo-EVs.
+These findings demonstrate that difAdipos serve as a reliable surrogate for mature adipocytes, offering a consistent and scalable source of adipocyte-derived EVs for studying obesity and its associated disorders.

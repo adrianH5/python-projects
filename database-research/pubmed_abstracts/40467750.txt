@@ -1,0 +1,15 @@
+Urethral recurrence (UR) following radical cystectomy for bladder cancer represents an aggressive disease failure with typically poor survival outcomes.
+Our study aimed to assess the predictive risk factors for UR, to develop and validate an easy-to-use predictive tool of UR in our region based on machine learning algorithms and to update the meta-analysis of risk factors for UR in combination with our results to improve its accuracy and reliability.
+Clinicopathological data from the patients who underwent RC between 2010 and 2020 at multiple centres were collected.
+To confirm the independent risk factors for UR, univariate and multivariate Cox regression were applied.
+We conducted internal validation by randomly partitioning the dataset into train (80%) and test (20%) subsets for UR prediction model development and validation.
+We developed UR predictive models using ten machine learning algorithms and evaluated the model performance by the area under the ROC curve (AUC), accuracy, sensitivity, and other metrics (F1 score, Brier score, C-index).
+The best-performing model was selected based on these criteria.
+The SHapley Additive exPlanations (SHAP) method was used to calculate the contribution of each feature to the machine learning prediction with best performance and develop online calculator based on the machine model with the best performance.
+Moreover, to avoid bias from single-region studies for the risk factors identifications, we searched the PubMed, Embase, and Scopus databases published before April 2025 to perform a meta-analysis of patient-, tumour- and treatment-specific factors for UR.
+In our multi-centre study, 473 patients were analysed with a UR rate of 8.24%, concomitant CIS (HR: 2.02, p = 0.039) and tumor multifocality (HR: 2.89, p = 0.004) were demonstrated to be independent predictors for UR.
+Among the ten different machine learning methods, the gradient boosting machine model demonstrated the best predictive performance which reached AUC of 0.865 (95%CI: 0.805-0.926) and 0.778 (95%CI: 0.558-0.968) in train and test set respectively.
+Moreover, to benefit from the clinical implications of the predictive model, an easy-to-use risk calculator tool for UR was developed online ( https://zluxin.shinyapps.io/make_web/ ) based on the GBM model.
+In the updated meta-analysis, a history of TURBT (HR: 2.56, p = 0.019), bladder neck or trigeminal or prostate involvement (HR: 3.39, p < 0.001), tumor multifocality (HR: 2.05, p < 0.001), concomitant CIS (HR: 1.74, p = 0.006), lymphovascular invasion (HR: 1.95, p = 0.028), diversion type (HR: 0.47, p < 0.001) and receiving neoadjuvant chemotherapy or adjuvant chemotherapy (HR: 1.36, p = 0.019) were significant predictors of UR.
+Tumour multifocality and concomitant CIS were independent predictors for UR in the retrospective multicentre research and meta-analysis.
+An easy-to-use online calculator based on GBM algorithm was developed can help predict UR for patients with bladder cancer after radical cystectomy and contribute to tailor individualized follow-up management strategies.

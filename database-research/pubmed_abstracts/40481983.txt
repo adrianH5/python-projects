@@ -1,0 +1,10 @@
+Designing of fluorescent materials in biomedical sciences is gaining attention due to unique characteristics like imaging driven by diagnosis and treatment.
+The exploration of fluorescent materials from green sources with highlights its application arena in cancer theranostic gained significant attention of oncology researchers.
+Outwards to the bioimaging techniques, fluorescent graphene quantum dots (fGQDs) grasp a potential place in biomedical research.
+Additionally, fGQDs have tuneable surface characteristics with high fluorescence, high loading and permeation capability.
+The present investigation explored the green synthesis of fGQDs using star anise fruit as precursor followed by surface decorated hyaluronic acid (HA) to form conjugated HA - GQD.
+The advance spectral characterization was used to confirm the synthesis of fGQDs and HA-GQD.
+The emission at 338 nm with excitation at 576 nm promise strong fluorescence with quantum yield of 16.52%.
+The conjugated HA-GQDs shows prominent bioimaging capability and lower cytotoxic potential at concentration less than 40 µg/ml.
+While cell inhibition against MCF-7 was dramatically increases at concentration above 100 µg/mL suitable to promote synergistic inhibition with other anticancer agents.
+This work demonstrates a sustainable route for developing multifunctional nanomaterials with promising application in cancer theranostics.

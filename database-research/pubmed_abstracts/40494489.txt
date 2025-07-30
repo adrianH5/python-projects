@@ -1,0 +1,5 @@
+KRAS encodes a GTPase (Kirsten rat sarcoma viral oncogene homolog) crucial for cellular signal transduction, impacting proliferation, survival, and differentiation.
+KRAS is also a crucial oncogene in the pathology of pancreatic ductal adenocarcinoma (PDAC), greatly influencing the development and progression of the cancer.
+Mutations in KRAS occur in ∼95% of patients with PDAC, which makes them the most prevalent mutations related to this disease.
+However, no marketed drugs inhibiting the KRASG12D mutation against pancreatic cancer are currently available.
+Thus, in this review, we highlight structure-activity relationship (SAR) studies targeting KRAS-G12D with small organic molecules under investigation against pancreatic cancer.

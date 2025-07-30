@@ -1,0 +1,4 @@
+To improve our understanding of multi-drug therapies, cancer cell line panels screened with drug combinations are frequently studied using machine learning (ML).
+ML models trained on such data typically focus on predicting synergy scores that support drug development and repurposing efforts but have limitations when deriving personalized treatment recommendations.
+To simulate a more realistic personalized treatment scenario, we pioneer ML models that make dose-specific predictions of the relative growth inhibition (instead of synergy scores), and that can be applied to previously unseen cell lines.
+Our approach is highly flexible: it enables the reconstruction of dose-response curves and matrices, as well as various measures of drug sensitivity (and synergy) from model predictions, which can finally even be used to derive cell line-specific prioritizations of both mono- and combination therapies.

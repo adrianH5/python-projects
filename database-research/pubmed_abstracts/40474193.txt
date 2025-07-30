@@ -1,0 +1,3 @@
+Triple-negative breast cancer (TNBC) is characterized by its aggressive behavior and limited treatment options, primarily due to the lack of expression of estrogen receptor (ER), progesterone receptor (PR), and human epidermal growth factor receptor 2 (HER2).
+TROP-2, a transmembrane glycoprotein, exhibits notable overexpression in a spectrum of highly aggressive cancers including pancreatic, gastric, and ovarian cancers.
+This overexpression has established TROP-2 as a key prognostic biomarker and a promising target for therapeutic intervention.

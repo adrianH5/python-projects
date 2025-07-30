@@ -1,0 +1,10 @@
+Lineage plasticity is recognized as a critical determinant of lethality and resistance to AR pathway inhibitors in prostate cancer.
+Lineage plasticity is a continuum, ranging from AR activity-low tumors, AR-null tumors that do not express a neuroendocrine prostate cancer (NEPC) program (i.e., double-negative prostate cancer [DNPC]), and AR-null NEPC tumors.
+Factors upregulated early in lineage plasticity are not well-characterized.
+The clarification of such factors is essential to identify tumors undergoing lineage plasticity or at risk of this occurring.
+Our integrative analysis of metastatic prostate cancer patient tumors, patient-derived xenografts, and cell models determined that PROX1 is upregulated early in the lineage plasticity continuum and progressively increases as tumors lose AR activity.
+We determined DNA methylation is a key regulator of PROX1 expression.
+PROX1 suppression in DNPC and NEPC reduces cell survival and impacts apoptosis and differentiation, demonstrating PROX1's functional importance.
+PROX1 is not directly targetable with standard drug development approaches.
+However, affinity immunopurification demonstrated histone deacetylases (HDACs) are among the top PROX1-interacting proteins; HDAC inhibition depletes PROX1 and recapitulates PROX1 suppression in DNPC and NEPC.
+Altogether, our results suggest PROX1 promotes the emergence of lineage plasticity, and HDAC inhibition is a promising approach to treat tumors across the lineage plasticity continuum.

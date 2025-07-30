@@ -1,0 +1,7 @@
+T1	Dataset 3145 3151	GISAID
+T2	AccessionNumber 3153 3174	EPI_ISL_413850–413902
+T3	Dataset 4441 4447	GISAID
+T4	URL 4449 4459	gisaid.org
+T5	Dataset 4512 4518	GISAID
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4

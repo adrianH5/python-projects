@@ -1,0 +1,5 @@
+Immunization has long played essential roles in preventing diseases.
+However, the desire for precision delivery of vaccines to boost a robust immune response remains largely unmet.
+Here, we describe the use of acupoint delivery of nanovaccines (ADN) to elicit dual-niche immunological priming.
+ADN can simultaneously stimulate mast cell-assisted maturation of dendritic cells at the acupoint and enable direct delivery of nanovaccines into the draining lymph nodes.
+We demonstrate that ADN not only provokes antigen presentation by lymph node-resident CD8α

@@ -1,0 +1,6 @@
+Azithromycin is a member of macrolide antibiotics, and has been reported to inhibit the proliferation of cancer cells.
+Nanoparticles particularly nanometals have been recently investigated in cancer chemotherapy owing to their enhanced pharmacokinetic and pharmacodynamic profile over conventional preparations due to nanoscale size and unique physicochemical characteristics.
+Therefore, this study is intended to explore the role of silver and gold metallic form of an antibiotic Azithromycin (AZM) in exhibiting the anticancer activity against hepatocellular carcinoma cell line (HepG2).
+After synthesis, Azithromycin conjugated gold and silver nanoparticles were characterized by UV-visible spectroscopy, Fourier transform infrared analysis, Atomic force microscopy and Zeta sizer and zeta potential analysis.
+HepG2 cells treated with Azithromycin, Gold conjugated Azithromycin (Au-AZM) and Silver conjugated Azithromycin (Ag-AZM) were analyzed for cytotoxic activity via MTT assay and apoptotic potential via nuclear area factor calculation made after processing DAPI stained images.
+The cytotoxicity data showed that Silver conjugated Azithromycin showed more inhibitory effect (IC

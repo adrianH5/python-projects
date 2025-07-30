@@ -1,0 +1,4 @@
+Maladaptive changes in the function, expression and localization of proteins involved in calcium-handling worsen the impaired contractility of systolic heart failure (HF).
+Standard proteomics techniques require cell lysis and so are unable to characterize changes specific to the critical subcellular domain bounded by the T-tubule and the sarcoplasmic reticulum, known as the cardiac dyad.
+Traditional approaches are also less likely to capture low-affinity protein-protein interactions on lipid membranes.
+To improve our understanding of heart failure pathophysiology, we applied proximity proteomics to the cardiac dyad of mice with ischemic cardiomyopathy.

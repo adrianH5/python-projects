@@ -1,0 +1,9 @@
+Protein tyrosine kinase 7 (PTK7), a receptor found in tumor-initiating cells, is expressed in various malignancies, including ovarian cancer.
+While PTK7 has been explored as a target for antibody-drug conjugates, this study is the first to investigate its potential for targeted radionuclide therapy.
+We developed a murine monoclonal IgG1 antibody (mOI-1) using hybridoma technology and generated a chimeric version (chOI-1) with human IgG1 constant regions.
+A cell-based screening approach using a library of 6100 cell surface proteins identified PTK7 as the target, confirmed by flow cytometry and surface plasmon resonance analyses.
+Immunohistochemistry showed strong PTK7 expression in ovarian cancer tissues, and in vitro studies demonstrated specific binding and internalization of OI-1 in the ovarian cancer cell line SKOV-3-luc.
+Biodistribution studies using 177Lu-DOTA-mOI-1 injected intravenously in xenograft mice with subcutaneous SKOV-3-luc revealed high tumor uptake and retention.
+Therapeutic efficacy was assessed by intraperitoneal treatment with 212Pb-TCMC-chOI-1 in an intraperitoneal xenograft model, showing significant tumor growth inhibition compared to non-radioactive controls.
+This study provides the first investigation of a PTK7-targeting antibody (OI-1) as an antibody-radionuclide conjugate (212Pb-labeled) in a preclinical model of intraperitoneal ovarian cancer.
+These results support further investigation of OI-1 as a candidate for targeted radionuclide therapy in PTK7-expressing cancers.

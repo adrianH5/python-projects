@@ -1,0 +1,5 @@
+Methylglyoxal (MG), a reactive aldehyde produced as a byproduct of metabolic processes, modifies nucleic acids and protein, affecting their structure and function.
+MG-adducts on DNA and protein have been well characterized and are associated with type 2 diabetes (T2D) and related complications.
+However, despite the emergence of RNA damage as an important marker and regulator of cellular processes, the chemistry of MG-induced RNA adducts, their association with disease, and their impact on RNA stability and translation is not well understood.
+To characterize the chemistry of MG-induced RNA damage, we employed analytical and spectroscopic techniques.
+We observed the in vitro formation of an unstable product, proposed to be N

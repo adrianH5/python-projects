@@ -1,0 +1,6 @@
+Screening and detection of early-stage lung cancer is important for the diagnosis of the disease.
+However, the low specificity of markers and the insufficient sensitivity of the detection methods limit their widespread use in early lung cancer screening.
+Surface-enhanced Raman spectroscopy (SERS) technology receives increasing attention in the field of lung cancer biomarker detection due to its high sensitivity, single-molecule-level detection capability and multiplexing characteristics.
+The aim of this review is to systematically review the recent advances in SERS technology in the detection of lung cancer-related markers exosomes, microRNAs (miRNAs), and DNA methylation.
+Additionally, this review comprehensively reviews the practical applications of SERS technology in the detection of blood, saliva samples and volatile organic compounds (VOCs) in lung cancer patients.
+Finally, the review highlights the challenges and future prospects of SERS technology in the field of lung cancer biomarker detection.

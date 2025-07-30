@@ -1,0 +1,7 @@
+First-line immune checkpoint inhibitor (ICI) combinations show responses in subsets of hepatocellular carcinoma (HCC) patients.
+Nearly half of HCCs are Wnt-active with mutations in CTNNB1 (encoding for β-catenin), AXIN1/2, or APC, and demonstrate heterogeneous and limited benefit to ICI due to an immune excluded tumor microenvironment.
+We show significant tumor responses in multiple β-catenin-mutated immunocompetent HCC models to a novel siRNA encapsulated in lipid nanoparticle targeting CTNNB1 (LNP-CTNNB1).
+Both single-cell and spatial transcriptomics reveal cellular and zonal reprogramming, along with activation of immune regulatory transcription factors IRF2 and POU2F1, re-engaged type I/II interferon signaling, and alterations in both innate and adaptive immunity upon β-catenin suppression with LNP-CTNNB1 at early- and advanced-stage disease.
+Moreover, ICI enhances response to LNP-CTNNB1 in advanced-stage disease by preventing T cell exhaustion and through formation of lymphoid aggregates (LA).
+In fact, expression of an LA-like gene signature prognosticates survival for patients receiving atezolizumab plus bevacizumab in the IMbrave150 phase III trial and inversely correlates with CTNNB1-mutatational status in this patient cohort.
+In conclusion, LNP-CTNNB1 is efficacious as monotherapy and in combination with ICI in CTNNB1-mutated HCCs through impacting tumor cell-intrinsic signaling and remodeling global immune surveillance, providing rationale for clinical investigations.

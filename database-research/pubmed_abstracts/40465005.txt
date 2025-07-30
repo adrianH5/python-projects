@@ -1,0 +1,11 @@
+Pancreatic ductal adenocarcinoma (PDAC) is a cancer with dismal prognosis due to resistance to most current therapies.
+Although immunotherapy has improved the treatment of many solid cancers, pancreatic cancer remains resistant to immunotherapy due to immunosuppressive tumor microenvironment, limited lymphocyte infiltration and lack of neoantigens.
+Oncolytic adenoviruses are a possible solution to treatment resistance in PDAC due to their ability to elicit lymphocyte trafficking and epitope spreading.
+Herein, we tested if an oncolytic adenovirus encoding a variant interleukin-2 molecule (Ad5/3-E2F-d24-vIL2), could enable immune checkpoint inhibitor (ICI) therapy in PDAC when combined with chemotherapy.
+Rationale for Ad5/3-E2F-d24-vIL2 was tested in vitro, where increase in programmed death ligand 1 (PD-L1) expression was seen after virotherapy and chemotherapy.
+Expression of other B7 family proteins was characterized in mono- and co-culture settings of cancer cells, fibroblasts, and macrophages.
+The combination therapy of virotherapy, chemotherapy and ICI was characterized in freshly resected ex vivo pancreatic tumor samples.
+Combination of ICI with virotherapy showed increased interferon and chemokine production in samples, with expansion of cytotoxic CD8 + T cells seen by flow cytometry.
+In vivo evaluation of the triple combination therapy in a Syrian hamster model showed improved tumor growth control and overall survival, with concurrent increase in intratumoral lymphocytes during therapy.
+Animals cured with the therapy showed resistance to re-challenge with the same cell line, supportive of successful generation of anti-tumor immunity in the animals.
+The combination treatment of Ad5/3-E2F-d24-vIL2, chemotherapy, and checkpoint inhibition is a promising treatment modality to tackle treatment resistance in PDAC.

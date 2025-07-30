@@ -1,0 +1,8 @@
+Hepatocellular carcinoma (HCC) is one serious cause of cancer-associated deaths worldwide.
+Poor bioavailability and non-specific targeting of drugs is a challenge.
+Gemcitabine (GEM) is broad-spectrum anticancer drug for liver and other cancers.
+In this study, an attempt to formulate drug-loaded galactosylated albumin-based nanoparticles (GEM-LA-BSA NPs) was made to increase the bioavailability and targetability of hydrophilic drugs.
+The formulation was optimized using central composite design for further evaluation and developed a pilot-scale approach for commercialization.
+LA-BSA conjugate was synthesized, characterized, and formulated into a nanoformulation.
+The particle size of the optimal formulation was 40.19 ± 7.98 nm with reduced drug release (57.78% ± 4.10%) in 48 h and aggregates-like structure by HR-TEM.
+In vitro studies in HepG2 cells indicated better cytotoxicity of GEM-LA-BSA NPs than GEM (IC

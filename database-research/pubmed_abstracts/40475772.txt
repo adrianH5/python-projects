@@ -1,0 +1,3 @@
+Indoleamine 2,3-dioxygenase-1 (IDO-1) is a cytosolic enzyme involved in the catabolism of tryptophan.
+IDO-1-related immune suppression is due to decreased tryptophan availability and to the generation of tryptophan metabolites, culminating in substantial suppression of T-lymphocytes.
+Here we investigate IDO-1 expression in 2 cohorts of non-small-cell lung cancer (NSCLC) specimens, both in tumor cells and in immune infiltrate, with correlation of IDO-1 to PD-L1 expression, clinical patient demographics and outcomes.

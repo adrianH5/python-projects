@@ -1,0 +1,13 @@
+Breast cancer is a dangerous disease that is common worldwide.
+It comprises 25 % of all women's cancers and 12 % of all new cancer cases diagnosed.
+Triple-negative breast cancer (TNBC) is a specific subtype of breast cancer that lacks the expression for three targetable biomarkers: estrogen receptor (ER), progesterone receptor (PR), and human epidermal growth factor 2 receptor (HER2).
+TNBC accounts for 15-20 % of all breast cancers worldwide and is most prevalent in young African-American women, as well as premenopausal women.
+Unlike other types of breast cancer, TNBC has limited treatment options.
+Mutations in the Breast Cancer type 1 and type 2 genes (BRCA1/2) are associated with TNBC.
+However, researchers are investigating new approaches to treating this subtype.
+One promising area of research is focused on Poly (ADP-Ribose) Polymerases (PARPs), a family of enzymes involved in DNA repair.
+Inhibition of PARP-1 can led to the loss of DNA repair via BRCA-dependent mechanisms.
+PARP-1 inhibitors such as Olaparib, Rucaparib, Niraparib, and Talazoparib have shown promise in treating various types of cancer.
+These inhibitors are being tested both as monotherapy and in combination with other therapies, such as cytotoxic therapy or radiotherapy.
+This review article focuses on exploring the significance of PARP-1 inhibitors for TNBC.
+It delves into the mechanism of action and discusses current and future perspectives for using these inhibitors to treat TNBC.

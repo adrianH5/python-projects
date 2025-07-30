@@ -1,0 +1,20 @@
+T1	Creator 2399 2421	Elkahloun et al., 2016
+T2	Repository 2436 2465	Gene Expression Omnibus (GEO)
+T3	AccessionNumber 2489 2497	GSE67036
+T4	Repository 2529 2532	GEO
+T5	AccessionNumber 2549 2557	GSE67036
+T6	AccessionNumber 2694 2703	GSE147507
+T7	Repository 2725 2777	National Center for Biotechnology Information (NCBI)
+T8	Repository 2778 2781	GEO
+T9	AccessionNumber 2802 2811	CRA002390
+T10	Repository 2860 2934	Genome Sequence Archive in BIG (Beijing Institute of Genomics) Data Center
+T11	URL 2936 2959	https://bigd.big.ac.cn/
+T12	AccessionNumber 13152 13160	GSE67036
+T13	AccessionNumber 13288 13297	GSE147507
+T14	AccessionNumber 13323 13332	CRA002390
+R1	hasAttr	Arg1:T1	Arg2:T3
+R2	hasAttr	Arg1:T2	Arg2:T3
+R3	hasAttr	Arg1:T4	Arg2:T5
+R4	hasAttr	Arg1:T8	Arg2:T6
+R5	hasAttr	Arg1:T10	Arg2:T9
+R6	hasAttr	Arg1:T10	Arg2:T11

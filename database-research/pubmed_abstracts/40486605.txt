@@ -1,0 +1,9 @@
+Breast cancer remains a leading global health concern, with significant strides made in early detection and treatment.
+However, effective long-term surveillance, particularly for recurrence and metastasis, remains a clinical challenge.
+Traditional methods like imaging and biopsy are often invasive, costly, and have limited sensitivity in detecting subtle changes during disease progression.
+Emerging evidence suggests that hematocrit-based metrics - measurements of the proportion of red blood cells (RBCs) in blood - could serve as valuable, minimally invasive biomarkers for monitoring breast cancer.
+This review highlights recent advancements in hematocrit-focused research and its potential role in revolutionizing breast cancer surveillance.
+Hematocrit dynamics reflect complex physiological processes influenced by cancer biology, including inflammation, angiogenesis, and treatment-induced bone marrow suppression.
+Alterations in hematocrit levels have been associated with prognostic outcomes, treatment responses, and early indications of recurrence in breast cancer patients.
+Coupled with other hematological and molecular markers, hematocrit offers a cost-effective and readily accessible tool to track disease status in real time.
+Recent technological innovations, such as point-of-care testing, artificial intelligence-driven data analysis, and microfluidic devices, are further advancing the applicability of hematocrit-based metrics in both clinical and remote monitoring settings.

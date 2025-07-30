@@ -1,0 +1,9 @@
+Coordination of adaptive metabolism through signaling networks is essential for cellular bioenergetics and homeostasis.
+Phosphorylation of metabolic enzymes provides a rapid, efficient, and dynamic mechanism to regulate metabolic networks.
+Our structural analysis stratified phosphosites on metabolic enzymes based on proximity to functional and dimerization domains.
+Most phosphosites occur on oxidoreductases and are enriched near substrate, cofactor, active sites, or dimer interfaces.
+Despite low stoichiometry, phosphotyrosine (pY) is overrepresented in functional domains.
+Using high-fat diet (HFD)-induced obesity in C57BL/6J mice and multiomics, we measured HFD-induced sex-specific dysregulation of pY and metabolites, which was reversible with the antioxidant butylated hydroxyanisole (BHA).
+Computational modeling revealed predictive pY sites for HFD- or BHA-induced metabolite changes.
+We characterized functional roles for predictive pY sites on glutathione S-transferase pi 1 (GSTP1), isocitrate dehydrogenase 1 (IDH1), and uridine monophosphate synthase (UMPS) using CRISPR interference (CRISPRi) rescue and stable isotope tracing.
+Our findings reveal mechanisms whereby cellular signaling fine-tunes enzyme activity and metabolism.

@@ -1,0 +1,5 @@
+Mice are widely used in science and have played an instrumental role in understanding immune mechanisms, testing cancer therapies, and serving as model systems to better understand physiological processess.
+Mouse models have also been widely used in infectious disease research including in Clostridioides difficile infection (CDI).
+Mice display similar disease characteristics to human CDI, including susceptibility to disease, clinical symptoms, and pathology, and thus are an ideal in vivo model to investigate treatments.
+Here we describe a reliable, reproducible model of CDI that allows researchers to investigate the use of prophylactic oral treatments for CDI in mice.
+Using this model, we report on treatment efficacy using several parameters as a measure of CDI, including survival, bodyweight, colon length, and colonic histology.

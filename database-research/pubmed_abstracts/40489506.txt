@@ -1,0 +1,11 @@
+Targeting immune checkpoint pathways to evoke an immune response against tumors has revolutionized clinical oncology over the last decade.
+Antibodies that block the PD-1/PD-L1 pathway have demonstrated effective antitumor activity in cancer patients and are approved for treatment of several different types of cancer.
+However, many patients do not experience durable beneficial clinical responses.
+The ability to predict response to immunotherapy is a clinical need with immediate implications on the optimization of oncologic treatments.
+In this work we developed and tested the ability of an Agent-Based Model (ABM) to predict the ex vivo immune response of memory T cells to anti-PD-L1 blocking antibody, based on personalized immune-phenotypes.
+We performed mixed lymphocyte reaction (MLR) experiments on blood samples of healthy volunteers to model the dose-response kinetics of the immune response to anti-PD-L1 antibody.
+Additionally, immunophenotype of peripheral lymphocyte and monocyte populations was used for modeling and prediction.
+In silico MLR experiments were conducted using the ABM-based Cell Studio Platform, and the results of ex vivo vs. in silico experiments were compared.
+Our ABM accurately recapitulates MLR-derived immune responses, achieving >80% predictive accuracy.
+Notably, given the relatively small cohort tested, such results are typically impossible to model with methods based solely on statistical or data-driven approaches.
+Importantly, the use of this modeling strategy not only predicts the outcome of the immune response, but also provides insights into the exact biological parameters and related cellular mechanisms that lead to differential immune response.

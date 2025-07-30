@@ -1,0 +1,12 @@
+Over the past decade, liquid biopsy (LB) has emerged as a key tool in oncology.
+Its utility in non-invasive sampling and real-time monitoring has made it a cornerstone in precision medicine.
+Since 2020, publications on LB in solid tumors have doubled, underscoring its pivotal role in advancing cancer care.
+Notably, 2024 marked a peak in scientific papers on this topic.
+Blood remained the most studied biofluid, with circulating tumor DNA (ctDNA) as the most frequently analyzed analyte, followed by circulating tumor cells, extracellular vesicles, and microRNAs.
+Among tumor types, gastrointestinal, lung, breast, and genitourinary cancers were the most investigated, collectively accounting for more than half of the studies.
+Early cancer and minimal residual disease detection are critical areas of interest, emphasizing the expanding potential of fragmentomics and methylation profiling, as well as the prognostic significance of ctDNA across various cancer types.
+Moreover, serial ctDNA monitoring demonstrated the ability to predict relapse and guide treatment (de)-escalation strategies.
+In metastatic setting, ctDNA profiling plays a crucial role in capturing tumor heterogeneity, detecting resistance mechanisms, and informing treatment selection.
+Non-blood biofluids gained interest for their potential to enhance the detection of clinically relevant alterations in different cancer types such as central nervous system and head and neck cancers.
+Other than biomarkers selection, the technological advancements and artificial intelligence significantly improved the sensitivity and specificity of LB assays.
+This evidence in combination with the rapid advancement of machine learning and other computational approaches, are paving the way for a new chapter of LB research.

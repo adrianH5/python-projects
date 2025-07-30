@@ -1,0 +1,11 @@
+Atypia of Undetermined Significance (AUS), classified as Category III in the Bethesda Thyroid Cytopathology Reporting System, presents significant diagnostic challenges for clinicians.
+This study aims to develop a clinical decision support system that integrates structural equation modeling (SEM) and machine learning to predict malignancy in AUS thyroid nodules.
+The model integrates preoperative clinical data, ultrasonography (USG) findings, and cytopathological and morphometric variables.
+This retrospective cohort study was conducted between 2011 and 2019 at Karadeniz Technical University (KTU) Farabi Hospital.
+The dataset included 56 variables derived from 204 thyroid nodules diagnosed via ultrasound-guided fine-needle aspiration biopsy (FNAB) in 183 patients over 18 years.
+Logistic regression (LR) and SEM were used to identify risk factors for early thyroid cancer detection.
+Subsequently, machine learning algorithms-including Support Vector Machines (SVM), Naive Bayes (NB), and Decision Trees (DT) were used to construct decision support models.
+After feature selection with SEM, the SVM model achieved the highest performance, with an accuracy of 82 %, a specificity of 97 %, and an AUC value of 84 %.
+Additional models were developed for different scenarios, and their performance metrics were compared.
+Accurate preoperative prediction of malignancy in thyroid nodules is crucial for avoiding unnecessary surgeries.
+The proposed model supports more informed clinical decision-making by effectively identifying benign cases, thereby reducing surgical risk and improving patient care.

@@ -1,0 +1,7 @@
+Clear cell renal cell carcinoma (ccRCC), the most common subtype of kidney cancer, exhibits notable metabolic reprogramming.
+We previously reported elevated HDAC7, a class II histone deacetylase, in ccRCC.
+Here, we demonstrate that HDAC7 promotes aggressive phenotypes and in vivo tumor progression in RCC.
+HDAC7 suppresses the expression of genes mediating branched-chain amino acid (BCAA) catabolism.
+Notably, lower expression of BCAA catabolism genes is strongly associated with worsened survival in ccRCC.
+Suppression of BCAA catabolism promotes expression of SNAIL1, a central mediator of aggressive phenotypes including migration and invasion.
+HDAC7-mediated suppression of the BCAA catabolic program promotes

@@ -1,0 +1,6 @@
+Despite aggressive chemoradiation treatment, the overall survival rate for patients with HPV- head and neck squamous cell carcinoma (HNSCC) remains poor, highlighting the urgent need for more effective drug-radiotherapy combinations to improve the therapeutic index of radiation therapy (RT).
+The fat mass and obesity-related gene (FTO) is emerging as a promising cancer therapeutic target; however, its role in the RT response has been underexplored.
+In our study, we found that both genetic and pharmacologic inhibition of FTO enhanced the efficacy of RT in human and mouse HNSCC tumor xenografts.
+Mechanistically, inhibition of FTO improved the RT response in HPV- HNSCC cells, which was associated with increased DNA damage, reduced efficiency of homology directed repair, and decreased formation of RAD51 homolog 1 (RAD51) foci.
+Importantly, pharmacologic inhibition of FTO did not exacerbate radiation-induced oral mucositis, a significant normal-tissue toxicity associated with HNSCC RT.
+In summary, our results indicate a role for FTO in regulating homologous recombination while identifying FTO as a potential therapeutic target to enhance the therapeutic index of RT in HPV- HNSCC treatment.

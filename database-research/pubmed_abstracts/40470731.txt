@@ -1,0 +1,7 @@
+Glutathione (GSH), a tripeptide and essential antioxidant, plays a pivotal role in cellular defense by detoxifying reactive oxygen species, enhancing antioxidant activity, and maintaining redox homeostasis.
+Accurate measurement of GSH levels is vital for understanding health status and early disease detection.
+This study reports the synthesis and characterization of a novel static quenching-based fluorescent probe for GSH detection, employing sulfhydryl-functionalized Cu-doped carbon quantum dots (S-Cu@CQDs) conjugated with gold nanoparticles (GNPs).
+The probe demonstrates high selectivity, sensitivity, low toxicity, and stability, alongside imaging capabilities for cellular GSH.
+The sensing mechanism relies on static quenching of S-Cu@CQD fluorescence by GNPs, with fluorescence recovery upon GSH-induced displacement.
+The probe exhibits a robust linear response to GSH concentrations between 3.0 and 20.0 mM, a limit of detection of 1.0 mM, and successful imaging of GSH in MCF-7 breast cancer cells.
+These findings position the S-Cu@CQD/GNP conjugate as a promising tool for biomedical applications, including oxidative stress monitoring and cancer diagnostics.

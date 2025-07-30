@@ -1,0 +1,12 @@
+It is evidently now that long non-coding RNAs (lncRNAs) play vital roles in development of cancer through versatile mechanisms.
+Of importance, lncRNAs play such a regulatory role often through interacting with their partners, including DNAs, RNAs or proteins.
+Thus, it is critical to dissect the interaction of lncRNAs with their binding partners in order to fully understand the mechanism underlying the lncRNA-mediated gene expression.
+In this review, we present the current state of knowledge implicating lncRNAs in gene regulation through RNA binding proteins (RBPs).
+We first describe briefly the known functions of lncRNAs and then introduce RBPs related to lncRNA function.
+We also touch on DNA-RNA binding proteins (DRBPs) as a special group of RBPs and how lncRNAs interact with DRBPs, leading to gene expression.
+Next, we provide a few examples such as RBP-mediated RNA stability, alternative splicing and RNA methylation to highlight the importance of lncRNA-RBP interaction.
+Finally, we compare RPBs with microRNAs for their functions in gene regulation.
+It is well known that microRNAs can silence multiple targets including coding genes and non-coding genes through microRNA response elements (MREs); similarly, RBPs can regulate targeted genes through RBP binding sites (RBP-BSs).
+However, RBPs often carry multiple RNA binding domains and they are also capable of interacting with other proteins or RNAs, forming a "competing endogenous RNA (ceRNA)" network.
+With involvement of lncRNAs, this regulatory system becomes even more complex and powerful.
+Thus, the detailed dissection of the lncRNA-RBP interaction will provide new insight into this gene regulatory system.

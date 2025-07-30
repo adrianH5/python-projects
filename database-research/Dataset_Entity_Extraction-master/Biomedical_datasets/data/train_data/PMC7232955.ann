@@ -1,0 +1,3 @@
+T1	Repository 278 285	GenBank
+T2	AccessionNumber 303 311	MN908947
+R1	hasAttr	Arg1:T1	Arg2:T2

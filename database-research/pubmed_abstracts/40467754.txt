@@ -1,0 +1,6 @@
+Botulinum neurotoxins are the causative agents of botulism, a lethal paralytic disease, but are also one of the most commonly used therapeutics for the treatment of numerous neuromuscular conditions.
+These toxins recognise motor nerve terminals with high specificity and affinity by using a dual binding mechanism involving gangliosides and protein receptors.
+The initial recognition of gangliosides is crucial for the toxins' potency.
+In this study, we employed a synaptosome-binding screening strategy to identify BoNT/A mutants with enhanced ganglioside-binding which translated into improved potency.
+X-ray crystallography and receptor-binding assays were used to elucidate the molecular mechanisms underlying the increased affinity or altered ganglioside selectivity of these mutants.
+Our findings provide a basis for the development of BoNT/A variants with enhanced therapeutic potential.

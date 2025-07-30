@@ -1,0 +1,8 @@
+The development of targeted drug delivery systems has become a cornerstone of modern cancer therapy which provides a pathway to maximize treatment effectiveness while reducing side effects.
+Among the plethora of innovative strategies, biotinylated nanoparticles have evolved as a hopeful tool due to their ability to exploit the elevated expression of biotin receptors on cancerous cells.
+The design, synthesis, and functionalization of biotinylated nanoparticles for cancer treatment are thoroughly examined in this review article.
+By leveraging biotin's high affinity for biotin receptors, these nanoparticles achieve selective cancerous cell targeting, leading to enhanced drug bioavailability and cellular uptake.
+The discussion extends to the underlying mechanisms of drug release, receptor-mediated endocytosis, and strategies for achieving endosomal escape or pH-sensitive drug activation.
+Furthermore, the article also emphasizes how biotinylation in combination therapy allows for synergistic effects with immunomodulators, nucleic acids, and chemotherapeutic drugs.
+Preclinical studies are examined to underscore the translational potential of these systems.
+The review concludes by addressing current challenges, including scalability, and potential immunogenicity, while proposing future directions for optimizing biotinylated nanoparticles as a transformative approach in cancer treatment.

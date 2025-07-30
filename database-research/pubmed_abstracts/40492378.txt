@@ -1,0 +1,9 @@
+Breast cancer is the most prevalent form of malignant tumor that frequently metastasizes to axillary lymph nodes (LNs).
+Nonetheless, the precise mechanisms underlying alterations in the tumor microenvironment (TME) in LN metastasis in breast cancer remain poorly understood.
+Single-cell RNA sequencing of 28 LN samples from 23 patients is performed, and a comprehensive landscape of the entire ecosystem is generated.
+Ten major cell types are identified, with the subclusters of each major cell type exhibiting diverse characteristics.
+Furthermore, multiple signatures are collected to evaluate the key components of the subclusters using multi-omics methodologies.
+This study finds that myCAFs may hasten LN metastasis, and observed a notable increase in APOE+ macrophages and a higher proportion of exhausted CD8+ T cells, contributing to the immunosuppressive TME.
+Moreover, cancer cells in metastatic lesions exhibited diverse expression patterns linked to proliferation, metastasis, oxidative phosphorylation, hypoxia, and interferon responses.
+Using multi-omics approaches and experimental validations, it determines that GLO1 can promote lymphatic angiogenesis, metastasis, and inhibit the proteasomal degradation of GSS, thereby maintaining intracellular glutathione (GSH) and reactive oxygen species (ROS) balance.
+Collectively, the study offers novel perspectives on the microenvironment remodeling of breast cancer LN metastases, suggesting that GLO1 may be a promising therapeutic target.

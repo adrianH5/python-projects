@@ -1,0 +1,5 @@
+Conventional inhibitors of immune checkpoints such as anti-programmed death-1 and its ligand (anti-PD-1/PD-L1) and anti-cytotoxic T lymphocyte-associated protein 4 (anti-CTLA4) have revolutionized therapeutic approaches to cancer, establishing immunotherapy as the standard of care for many cancers.
+A significant number of cancers, however, remain refractory to the inhibition of these immune checkpoints, leading to the search for alternative immune checkpoints that are more relevant to those diseases.
+Tumor-associated macrophage (TAM)-mediated efferocytosis is an increasingly appreciated immune checkpoint with a profound impact on the phenotype of the tumor microenvironment (TME).
+TAMs perform their efferocytic function through the receptor MerTK, and MerTK activity correlates with tumor progression.
+To combat efferocytosis in the TME, we developed poly[[2-(diisopropylamino)ethyl methacrylate]-

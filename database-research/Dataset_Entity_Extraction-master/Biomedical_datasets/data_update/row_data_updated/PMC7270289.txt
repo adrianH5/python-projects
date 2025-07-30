@@ -1,0 +1,29 @@
+The sudden epidemic outbreak of the new coronavirus disease 2019 (COVID-19) in Wu Han City, China, has rapidly spread all over the world, leading to one of the worst pandemic outbreaks since the Spanish Flu that occurred 100 years ago (1).
+Based on that, the World Health Organization (WHO) declared the COVID-19 outbreak a pandemic on March 11th 2020.
+Herein, we will discuss the pathological progression of this disease along with the activated inflammatory response that underlies the lethal complications of COVID-19.
+We will also evaluate the current status of Thalidomide usage as an anti-inflammatory therapy for COVID-19 induced pneumonia and acute lung injury (ALI).
+Since the human respiratory system is the primary target for coronavirus pathogens, abnormal respiratory findings are highly detected in COVID-19 patients.
+This cytokine storm initiates lung injures and is considered the primary clinical cause of death among COVID-19 patients (11).
+Thus, if kept untreated, COVID-19 can cause damage to the heart, the liver, and the kidneys, as well as to organ systems such as the blood and the immune system (13).
+Among the tested anti-inflammatory drugs are the non-steroidal anti-inflammatory (NSAID) drugs, glucocorticoids, intravenous immunoglobulin therapy, NK cell-based immunotherapy, immunosuppressants, and inflammatory cytokines antagonists (17, 19).
+Although some of these drugs have shown to be efficient in COVID-19 treatment, yet the accompanying adverse side effects or the reported non-significant outcomes did not support their further usage (4, 20, 21).
+So far, chloroquine and hydroxychloroquine usage have been highly applauded and was given an emergency approval by the FDA to slow the progression of COVID-19 among critical cases.
+The above cases are characterized by similar disease manifestations, pathogenicity, and progression as the ones encountered in COVID-19 cases.
+Similar to COVID-19, Paraquat (PQ) poisoning is known to be associated with respiratory distress due to the alveolar epithelial cell disruption, hemorrhage, and the infiltration of inflammatory cells into the interstitial and alveolar spaces which ends up with fibroblastic proliferation, collagen deposition, and progressive fibrosis.
+In both (PQ) and (BLM)-induced pulmonary fibrosis models, the core pro-inflammatory cytokines underlying the pathogenicity of these conditions such as TNF-α, IL-6, IL-1β, and TGF-β are common with that of COVID-19 cases (38, 39).
+Based on the above, Thalidomide could be hypothetically listed among the potential drugs to be tested in treating respiratory complications associated with COVID-19 based on its potent anti-inflammatory properties and its activity in attenuating exaggerated inflammation and cytokine storms (Figure 1).
+On February 26th 2020, a case-report preprint manuscript was published online with a single Chinese patient with severe COVID-19 pneumonia being treated with Thalidomide in combination with low-dose glucocorticoids and anti-viral therapy (43).
+The results presented Thalidomide as a promising therapeutic drug to treat severe cases of COVID-19.
+The first clinical trial (NCT04273581) would address the efficacy and safety of this drug in combination with low-dose hormones for treating severe COVID-19 cases.
+The second trial (NCT04273529) would investigate the efficacy and safety of this drug as an adjuvant treatment for moderate new COVID-19 cases with pneumonia.
+In this trial, Thalidomide (100 mg) will be used for 14 days to treat lung inflammation in 100 participants with COVID-19 (44, 45).
+Thus, using this drug for treating respiratory conditions such as those encountered by COVID-19 should be further investigated before proceeding.
+Currently, the only available case-report on the efficacy of Thalidomide in treating severe COVID-19 cases is not sufficient to promote the usage of the drug due to several reasons.
+Aside from being a non-peer reviewed article that describes the outcomes in only one COVID-19 patient, the combination of Thalidomide with corticosteroids might be a drawback since the latter were reported to cause lung injury, and thus, their usage is not clinically supported (20).
+Second, the two clinical trials that aim at studying the efficacy and safety of this drug in COVID-19 patients were initiated by the same author who published the discussed single case-report.
+Thus, further studies on the usage of Thalidomide in COVID-19 cases should take into account the resultant induced birth defects and the severe toxicities that are encountered during its intake, such as sensorimotor peripheral neuropathy, somnolence, acute pulmonary toxicities, and thromboembolic events (22, 51–53).
+The coronavirus disease 2019 (COVID-19) pandemic is a worldwide threatening health issue.
+In the absence of an effective anti-viral molecule and until the formulation of a successful vaccine, anti-inflammatory drugs might offer a complementary tool for controlling the associated complications of COVID-19 and thus decreasing the subsequent fatalities.
+Drug repurposing for several molecules has emerged as a rapid temporary solution for COVID-19.
+Based on just one-case report that presented positive outcomes in a patient treated amongst others with Thalidomide, two clinical trials on the efficacy and safety of Thalidomide in treating severe respiratory complications in COVID-19 patients were registered.
+Herein, we will discuss the theoretical effectiveness of Thalidomide in attenuating inflammatory complications that are encountered in COVID-19 patients while pinpointing the lack of the needed evidences to move forward with this drug.

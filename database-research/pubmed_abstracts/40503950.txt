@@ -1,0 +1,4 @@
+Ferroptosis, an iron-dependent regulated cell death process, is characterized by lysosomal membrane permeabilization and pH dysregulation.
+Here, we report a DNA-programmed plasmonic nanoprobe based on i-motif-mediated gold core-satellite nanostructures (Au CSNSs) for single-particle resolution mapping of intracellular pH dynamics during ferroptosis.
+The i-motif DNA linker undergoes pH-dependent conformational switching, dynamically tuning the interparticle gap between 45 nm gold core nanoparticles (Au core NPs) and 15 nm gold satellite nanoparticles (Au satellite NPs).
+This architecture achieves a large localized surface plasmon resonance (LSPR) shift in the pH range of 5.6-6.8, enabling reversible and linear pH sensing (

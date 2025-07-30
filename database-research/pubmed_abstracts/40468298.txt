@@ -1,0 +1,5 @@
+Capturing subjective user experiences is crucial for service design, assessment, and management.
+However, using metrics for such experiences remains an underexplored topic in the literature.
+This study introduces a novel survey tool to measure service-related subjective well-being (SWB) among oncology patients, encompassing the three dimensions of SWB: positive affect, negative affect, and life satisfaction.
+The hypotheses are that (H1) highly reliable service-related SWB metrics will be generated based on reliable tools from psychology, and (H2) perceived service experience will strongly predict positive affect and life satisfaction, but they will have less predictive power for negative affect.
+These hypotheses are supported by research suggesting that services can improve positive affect but may not fully counteract the negative affect evoked by cancer.

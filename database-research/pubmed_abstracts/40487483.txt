@@ -1,0 +1,8 @@
+Chimeric antigen receptor T (CAR-T) therapies have shown remarkable success in treating hematological malignancies.
+However, effectiveness against solid tumors remains limited due to the immunosuppressive tumor microenvironment (TME), such as transforming growth factor β (TGF-β) signaling and upregulated immune checkpoints (ICs).
+Furthermore, identifying universal, tumor-specific targets for CAR-T cells in solid tumors is challenging, but using reinvigorated, immunosuppressive-resistant tumor-infiltrating lymphocytes (TILs) could be a promising alternative approach.
+Unlike nucleases, which may induce genotoxic DNA double-strand breaks, multiplexed zinc finger repressors (ZFRs) offer a safer alternative for knocking out TME-related immunosuppressive factors.
+We epigenetically repressed PD-1 expression both in CAR-T cells and TILs from colorectal liver metastases.
+PD-1 repression did not affect T cell viability, proliferation, or functionality.
+In a murine B cell lymphoma model, PD-1-repressed CD19-CAR-T cells exhibited enhanced anti-tumor activity and improved survival.
+Notably, PD-1 repression alone did not increase cytotoxicity against a PD-L1-positive colorectal cell line

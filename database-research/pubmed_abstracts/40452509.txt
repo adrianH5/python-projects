@@ -1,0 +1,11 @@
+Screening and early detection of cancer is one of the challenges currently facing researchers.
+Cancer is a non-communicable disease that annually causes many deaths in the world.
+Therefore, finding new biomolecules to be used as biomarkers in cancer diagnosis is very important.
+Recently, miRNAs have been introduced as potential biomarkers for the early detection of cancers.
+Several detection techniques are employed for miRNA determination, among which biosensing and rapid tests are favored due to their affordability and portability.
+However, due to the low-level concentration of biomarkers at the early stage of cancer, sensitive biosensors with low detection limits (nM to pM) are required.
+When nanomaterials are used in designing biosensing platforms, this challenge is largely resolved.
+MXenes and MBenes are two-dimensional nanomaterials that have this potential.
+Recent research reports reveal that these two-dimensional materials, particularly MXenes, have exhibited promising capabilities in miRNA detection methods, like electrochemiluminescence (ECL), surface-enhanced Raman scattering (SERS), and electrochemical biosensing.
+This review comprehensively explores the results, challenges, and underlying mechanisms in utilizing these materials for miRNA detection.
+Overall, MXenes and MBenes demonstrate considerable promise in this area, opening up new avenues for further research and development.

@@ -1,0 +1,2 @@
+Coronary artery calcium (CAC) scoring is an important method for cardiovascular risk assessment.
+While artificial intelligence (AI) has been applied to automate CAC scoring in calcium scoring computed tomography (CSCT), its application to low-dose computed tomography (LDCT) scans, typically used for lung cancer screening, remains challenging due to the lower image quality and higher noise levels of LDCT.

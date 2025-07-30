@@ -1,0 +1,7 @@
+Nasopharyngeal carcinoma (NPC) remains a major clinical challenge due to its high resistance to conventional therapies such as chemotherapy and radiotherapy.
+Nanoparticle (NP)-based technologies have emerged as promising tools to enhance the efficacy of NPC treatment through mechanisms like radiosensitization and photothermal therapy.
+This review discusses the potential of NPs, particularly metal-based nanoparticles (gold and iron oxide), in improving the therapeutic outcomes of radiotherapy by overcoming tumor hypoxia and increasing radiation absorption.
+Additionally, we explore the application of NPs in photothermal therapy, wherein nanoparticles absorb light and generate localized heat to target tumor cells with precision.
+NPs are also playing an increasingly vital role in early diagnosis and real-time imaging, enabling more effective monitoring and personalized treatment.
+Despite the promising potential, challenges as nanoparticle biocompatibility, toxicity, and efficient targeting remain obstacles for clinical translation.
+In this review, we aim to provide a comprehensive summary of the current state of targeted nanoparticle-based interventions in NPC therapy and to outline the potential for these technologies to improve therapeutic outcomes.

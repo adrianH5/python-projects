@@ -1,0 +1,9 @@
+Indoleamine-2,3-dioxygenase (IDO1) and Tryptophan-2,3-dioxygenase (TDO2) are key enzymes in the kynurenine pathway, regulating the metabolism of tryptophan into the immunosuppressive metabolite L-kynurenine.
+Kynureninase (KYNU), another enzyme in this pathway, metabolizes L-kynurenine and may abrogate IDO1/TDO2-mediated immunosuppression.
+We assessed the expression of IDO1, TDO2 and KYNU immunohistochemically in a series of 146 breast carcinomas (BCa).
+IDO1 and TDO2 were overexpressed in 61/146 (41.8 %) and 95/146 (65.1 %) cases, respectively, and this pattern was associated with a higher rate of lymph node involvement (p = 0.002 and p = 0.05, respectively).
+High KYNU expression was detected in 49/146 (33.6 %) cases.
+Linear regression analysis revealed significant positive associations between IDO1 and TDO2 (p = 0.002, r = 0.26), as well as IDO1 and KYNU (p = 0.03, r = 0.16).
+Notably, high IDO1/TDO2 expression correlated with poor lymphocytic infiltration in both the invasive front and inner tumor areas when KYNU was not expressed (p < 0.01 and p = 0.007, respectively).
+Among patients with high IDO1/TDO2 expression, high KYNU levels were significantly associated with better prognosis (p = 0.03, HR 0.43, 95 %CI 0.16-0.82).
+These findings suggest that the immunohistochemical evaluation of IDO1, TDO2 and KYNU in BCa tissue samples is feasible, providing a triple-marker approach for prognostic assessment and may guide immuno-oncology trials targeting the kynurenine pathway.

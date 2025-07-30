@@ -1,0 +1,5 @@
+In this study, the lattice Boltzmann method (LBM) and the immersed boundary (IB) method are employed to quantitatively investigate the dynamics of circulating tumor cells (CTCs) at the cellular scale, and their interactions with red blood cells, platelets and microvascular wall are analyzed based on the obtained data.
+This reveals that CTC adhesion most likely occurs in the constricted vessels as the Reynolds number is around 0.01.
+An increase in hematocrit leads to enhanced adhesion, and cell stiffness influences the probability of adhesion.
+Furthermore, the activated platelets adhering to the CTCs exacerbate the metastatic spread, so the role of platelets in the deformation, adhesion and survival of tumor cells actively arrested by the endothelial cells is crucial.
+The findings in this work provide important quantitative insights into the underlying mechanisms of cancer metastasis.

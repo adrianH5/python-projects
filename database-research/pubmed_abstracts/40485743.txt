@@ -1,0 +1,11 @@
+Glycosphingolipids are essential components of all eukaryotic cells and play a major role in a broad range of cellular and biological processes, including growth, cell signaling, survival, differentiation, and disease.
+Glycosphingolipid structural diversity arises from heterogeneity in both the glycan and lipid moieties.
+Most currently available computational tools for annotating mass spectrometry data for glycosphingolipids primarily focus on glycan structure analysis, although a tool for annotating intact glycosphingolipids has recently been reported.
+Developing tools that integrate both glycan-centric analytical approaches and dynamic lipid composition changes, which influence functional membrane characteristics, would be highly beneficial.
+We have developed a glycosphingolipid computational tool, named DANGO (Data ANnotation system for GlycolipidOmics), for the automated annotation of glycolipidomic datasets.
+DANGO supports processing and annotation of mass spectrometry data to characterize both the glycan and lipid (ceramide) moieties (http://www.ms-dango.org/).
+DANGO annotates MS datasets using a glycosphingolipid database, which is created from a curated or user-defined glycan and ceramide collection, and proposes candidate structures to the user that match the experimental data.
+DANGO is implemented as an extension of GRITS Toolbox (http://www.grits-toolbox.org), employing functionalities such as display routines for post-processing and organized annotation of data and relevant metadata.
+Implementation of a novel filter algorithm in DANGO reduces false-positive identifications, resulting in enhanced reliability and shortened computational time for acquiring glycosphingolipid structural annotation.
+The labor-intensive manual annotation of mass spectrometry datasets has been the only approach to confident assignment of glycosphingolipid structural identity.
+DANGO provides intuitive workflows for enhancing the annotation of glycosphingolipidomic data.

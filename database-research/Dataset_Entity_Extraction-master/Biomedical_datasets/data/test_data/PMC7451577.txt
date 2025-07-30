@@ -1,0 +1,38 @@
+Currently, nucleic-acid based tests have been widely used as the reference method for the diagnosis of COVID-19.[7]
+The pandemic of COVID-19 was first discovered by metagenomic next-generation sequencing (mNGS) in which the novel virus was found to be a new pathogenic member of the betacoronavirus genus but shared only about 79% in genetic similarity with SARS-CoV.[8, 9]
+A tool kit of rapid diagnostics faster than typical RT-PCR is in great demand to circumvent the bottlenecks in assay turnaround time and reagent supply for COVID-19 testing.
+Among the 61 suspected COVID-19 specimens, we were able to confirm 52 cases with read numbers mapping to the novel virus across 6 orders of magnitudes (median read of 1,484, from 2 to 19,016,501).
+Among these, the set that targeted Orf1ab showed the best overall performance of sensitivity and specificity, and therefore, was used to develop CRISPR-COVID in this study for further evaluation (S2A, S2B and S2C Fig).
+As shown in Fig 2B, CRISPR-COVID consistently detected 7.5 copies/reaction of SARS-CoV-2 in all 10 replicates, 2.5 copies/reaction in 6 out of 10, and 1.25 copies/reaction in 2 out of 10 runs.
+These data indicate that CRISPR-COVID had a near single-copy sensitivity.
+To confirm its specificity, we tested CRISPR-COVID with DNA from human cells as well as a panel of microbes including i) bacteria commonly found in respiratory infections: S. pneumonia, H. influenza, M. pneumonia, C. pneumonia, B. pertusiss; ii) human Coronaviruses: HCoV-OC43, HCoV-NL63, HCoV-HKU1, HCoV-229E; iii) other viruses commonly found in respiratory infections: Adenovirus Type-3, H. Influenza B (Victoria), H influenza A (H3N2), HPIV-1, RSV-A; and iii) other bacteria: S. mitis, S. pyogenes, S. aureus, E. coli, E. facecaiis.
+Altogether, these analytical assessments suggest CRISPR-COVID as a promising molecular assay for SARS-CoV-2 detection with great sensitivity and specificity.
+Upon completion of the analytical assessment, we further evaluated the diagnostic potential of CRIPSR-COVID in clinical specimens.
+A total of 114 RNA samples from clinical respiratory samples were included in the evaluation, which consisted of 61 suspected COVID-19 cases (among which 52 confirmed and 9 ruled-out by mNGS), 17 SARS-CoV-2-/hCoV+ cases and 36 samples from healthy subjects (Fig 3A).
+When conducting the CRISPR-COVID assay, a positive control (PC) DNA and a no-template control (NC) were included in parallel for each run.
+CRISPR-COVID demonstrated a sensitivity of 100% by detecting all 52 COVID-19 cases.
+No false positives were found in all 62 negative cases, including all the hCoV-infected ones (Fig 3B), suggesting promising clinical sensitivity and specificity of CRISPR-COVID.
+To further evaluate assay compatibility, the primer and gRNA sequences used in CRISPR-COVID were aligned to 2,439 SARS-CoV-2 genomes obtained from public databases.
+As these genomes covered wide ranges of collection times (from 2019/12/24 to 2020/05/06) and geographic locations (over 20 countries including China, United States and France etc.), our results suggest the general applicability of our assay for COVID-19 diagnosis.
+Using mNGS and the PCR as the reference, CRISPR-COVID had a specificity of 100% in our study.
+PCR-COVID was able to detect the virus in 90.4% (47/52) of the positive cases, with Ct’s ranging from 28.8 to 40.4 and a median Ct of 35.8.
+It’s worth noting that the 5 false negative samples by PCR-COVID had a median mNGS read number of 550, which was much lower than that of the other positive samples at 2,381 reads, suggesting a lower titer of the virus in these samples.
+CRISPR showed a greater sensitivity by detecting all 52 COVID-19 cases (100%), with FC values ranging from 5.0 to 66.3 and a median FC of 22.8 (Fig 3C).
+When the reaction turn-around time (TAT) is compared, the CRISPR-COVID reaction requires only 40 minutes, which is the least among the three and includes 30 minutes of DNA amplification and 10 minutes of Cas reaction.
+PCR-COVID requires about 1.5 hours for a completion run of the PCR program.
+As showed in Fig 4, CRISPR-COVID presented a significant advantage in effective TAT over PCR and mNGS.
+Recent progresses in molecular diagnostic technologies, especially mNGS, allowed rapid, initial identification of this novel pathogenic agent at the beginning of the current COVID-19 pandemic.[8]
+However, the sudden outbreak of COVID-19 created a dramatic burden not only on the society, but also on public health.
+The surging demand for rapid screening and identification of COVID-19 posts a great challenge on the diagnostics.[21]
+An RT-PCR assay for COVID-19 is faster and more affordable.
+As we demonstrated in this study, CRISPR-COVID was able to deliver comparable sensitivity and specificity as mNGS within as short as 40 minutes.
+At research scale, the material costs of a CRISPR-COVID test runs at less than $3.5, which could be dramatically reduced at production scale to below $0.7[23], suggesting CRISPR-COVID as a competitive alternative not only technologically but also financially.
+RT-PCR assays for COVID-19 were performed using a clinically validated kit approved by the Chinese National Medical Products Administration (Liferiver, Shanghai, China) on a ABI-7500 Real-Time PCR System (Thermo Fisher Scientific, Carlsbad, CA) according to the instructions, with Ct values below 40 considered positive.
+Clean reads were aligned against the reference microbial databases including archaea, bacteria, fungi, protozoa, and viruses.
+The CRISPR-COVID test combines an Reverse-transcription Recombinase Polymerase Amplification (RT-RPA) step and a following T7 transcription and Cas13 detection step as described previously. [17]
+In this study, we developed an isothermal, CRISPR-based diagnostic for COVID-19 with near single-copy sensitivity.
+The recently discovered betacoronavirus severe acute respiratory syndrome (SARS)-CoV-2 has caused an outbreak of Coronavirus Disease 2019 (COVID-19) that rapidly developed into a global pandemic.
+The surging demand for rapid screening and identification of COVID-19 posts great diagnostic challenges.
+Here, we harnessed the unique collateral activity of programmable CRISPR/Cas13a to develop CRISPR-COVID, a rapid and sensitive diagnostic for SARS-CoV-2 infection, and compared it to sequencing-based metagenomic and RT-PCR-based assays in a clinical cohort.
+CRISPR-COVID demonstrated a sensitivity level of near single copy and was highly specific without cross reacting to related pathogens.
+CRISPR-COVID takes only 40 mins and requires no sophiscated thermo-cyclers, providing a valuable alternative to the conventional RT–PCR assay to circumvent the bottlenecks in assay turnaround time, equipment and reagent supplies for COVID-19 testing.

@@ -1,0 +1,8 @@
+Besides SARS-CoV, there are five well known human coronaviruses (HCoVs), such as HCoV-OC43, HCoV-NL63, HCoV-HKU1, Middle East respiratory syndrome CoV (MERS-CoV), and coronavirus COVID-19 (formerly known as Wuhan coronavirus and 2019-nCoV) [5].
+Among them, SARS-CoV, MERS-CoV, and COVID-19 are highly pathogenic HCoVs, and their spread initiated global outbreaks with high fatality rates in 2003, 2012, and 2020, respectively [6,7].
+Nowadays, COVID-19 has caused a big outbreak in China and is spreading globally by a limited people-to-people transmission, resulting in 2,319,066 confirmed cases including 157,920 deaths in 213 countries, areas or territories, with cases during the period from 31st December 2019 to 21st April 2020 (https://www.who.int/emergencies/diseases/novel-coronavirus-2019).
+The mortality rate of these pathogenic coronaviruses ranges from 6.8% for COVID-19 patients to 35% for MERS patients.
+Moreover, an increase in the plasma level of CXCL10 is found in the severe pneumonia patients infected with MERS-CoV and COVID-19, which is linked with the infiltration of immune cells into alveolar space, peribranchial, and perivascular of the lung [12,13].
+SARS-CoV unique domain (SUD) appears in SARS-CoV, as also found in other coronaviruses like MERS CoV and COVID-19.
+Moreover, amino acid alignment of SARS-SUD with MERS-CoV and COVID-19 shows 15% and 75% identity, respectively.
+The nucleotide sequences of SARS-CoV full-length SUD, SUD-NM, and SUD-MC within the SARS-CoV genome nucleotides 3887–4941, 3887–4673, and 4311–4880 (GenBank accession no. AY291451), respectively, were amplified using PCR with specific primer pairs.

@@ -1,0 +1,1 @@
+In order to meet the kinematic requirements of large range of motion, payload, and stiffness of Intra-Operative Radiation Therapy robots, a 6-degree-of-freedom (DOF) parallel platform (Stewart-Gough mechanism) is introduced and a dimensional synthesis study is carried out.

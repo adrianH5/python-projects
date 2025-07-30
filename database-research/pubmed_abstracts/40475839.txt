@@ -1,0 +1,2 @@
+Real-Time Gated Proton Therapy (RGPT) has been used in proton therapy to mitigate respiratory motion challenges.
+This study presents the first comprehensive description of the RGPT clinical workflow at the National Cancer Centre Singapore (NCCS) and introduces a novel Failure Modes and Effects Analysis (FMEA) for RGPT.

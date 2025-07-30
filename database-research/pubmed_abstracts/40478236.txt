@@ -1,0 +1,5 @@
+Nanomedicines with a size of approximately 200 nm preferentially accumulate at the tumor peripheries but exhibit limited penetration into deeper hypoxic regions.
+To overcome this, we engineered near-infrared (NIR) light-triggered, size-tunable nanomicelles (Au@PtNRs/DOX-M) to enhance tumor accumulation and penetration, while alleviating hypoxia.
+Dumbbell-shaped platinum-deposited gold nanorods (Au@PtNRs), with a high photothermal conversion efficiency (68.44%), were integrated into thermoresponsive, doxorubicin (DOX)-loaded nanomicelles.
+Upon NIR irradiation, Au@PtNRs induced light-to-heat conversion, disassembling micelles into ultrasmall micelles for enhanced tumor penetration and on-demand DOX release.
+Concurrently, Pt nanoparticles catalyzed the decomposition of reactive oxygen species (ROS) to mitigate ROS-induced damage to adjacent healthy cells, and scavenged the elevated H

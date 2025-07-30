@@ -1,0 +1,13 @@
+Kruppel-Like Factor 13 (KLF13) has strong effects on cancer occurrence and progression.
+Nevertheless, the role of KLF13 in oesophagal cancer (EC) remain elusive.
+In this study, we detected the expression of KLF13 in EC tissues and cells using immunohistochemistry, western blot, and real-time PCR, and found that KLF13 was upregulated in EC tissues and cells compared to normal controls.
+High expression of KLF13 indicated a poor prognosis for EC patients.
+Further, function studies in vitro and in vivo were performed to explore the role of KLF13 in EC cell progression.
+The results revealed that KLF13 knockdown suppressed EC cell proliferation, migration, epithelial-mesenchymal transition, increased cell apoptosis and cell cycle arrest in vivo and inhibited tumour growth in vitro.
+Conversely, KLF13 overexpression in EC cells had the opposite consequences.
+Mechanically, differentially expressed genes downstream of KLF13 were identified by RNA-seq and ChIP-seq.
+We found that there is a positive correlation between triacylglyceride and free fatty acid levels and KLF13 expression levels.
+A lipid-related gene, Glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1 (GPIHBP1), was identified as a downstream gene of KLF13 using luciferase and chromatin immunoprecipitation assays, whose expression was positively regulated by KLF13.
+Finally, in vitro and in vivo recovery assays using shRNAs and overexpression plasmids confirmed that KLF13 has an oncogenic role in EC progression through GPIHBP1.
+Collectively, KLF13 can promote EC progression, triacylglyceride and free fatty acid metabolism through GPIHBP1.
+Therefore, molecular therapies targeting KLF13 and GPIHBP1 may be effective treatments against EC.

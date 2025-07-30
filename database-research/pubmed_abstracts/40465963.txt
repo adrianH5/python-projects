@@ -1,0 +1,4 @@
+Prostate cancer is one of the most common malignancies among men globally.
+Early and accurate assessment of tumor aggressiveness is essential for guiding treatment decisions and improving patient outcomes.
+With growing clinical interest in combining optical, ultrasound, and photoacoustic imaging approaches for cancer detection, we systematically investigated the cellular uptake of three multimodal contrast agents─indocyanine green (ICG), ICG-loaded nanobubbles (ICG-NBs), and ICG-loaded microbubbles (ICG-MBs)─across prostate cancer cell lines with varying aggressiveness (PC-3M > PC-3 > DU-145 > LNCaP).
+Concentration- and time-dependent assays revealed that after 1 h of incubation, ICG-NBs exhibited 5-fold higher uptake (***

@@ -1,0 +1,9 @@
+Immune checkpoint inhibition (ICI) has emerged as a critical treatment strategy for squamous cell carcinoma of the head and neck (HNSCC) that halts the immune escape of the tumor cells.
+Increasing evidence suggests that the onset, progression, and lack of/no response of HNSCC to ICI are emergent properties arising from the interactions within the tumor microenvironment (TME).
+Deciphering how the diversity of cellular and molecular interactions leads to distinct HNSCC TME subtypes subsequently governing the ICI response remains largely unexplored.
+We developed a cellular-molecular model of the HNSCC TME that incorporates multiple cell types, cellular states, and transitions, and molecularly mediated paracrine interactions.
+Simulation across the selected parameter space of the HNSCC TME network shows that distinct mechanistic balances within the TME give rise to the five clinically observed TME subtypes such as immune/non-fibrotic, immune/fibrotic, fibrotic only and immune/fibrotic desert.
+We predict that the cancer-associated fibroblast, beyond a critical proliferation rate, drastically worsens the ICI response by hampering the accessibility of the CD8 + killer T cells to the tumor cells.
+Our analysis reveals that while an Interleukin-2 (IL-2) + ICI combination therapy may improve response in the immune desert scenario, Osteopontin (OPN) and Leukemia Inhibition Factor (LIF) knockout with ICI yields the best response in a fibro-dominated scenario.
+Further, we predict Interleukin-8 (IL-8), and lactate can serve as crucial biomarkers for ICI-resistant HNSCC phenotypes.
+Overall, we provide an integrated quantitative framework that explains a wide range of TME-mediated resistance mechanisms for HNSCC and predicts TME subtype-specific targets that can lead to an improved ICI outcome.

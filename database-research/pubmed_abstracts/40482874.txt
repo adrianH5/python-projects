@@ -1,0 +1,10 @@
+The protein IkappaB-Zeta (IκBζ), which is a member of the IkappaB (IκB) family, has been implicated in the onset and progression of immune-mediated inflammation and cancer.
+However, its role in cardiovascular disease remains totally unexplored.
+We employed advanced molecular techniques to investigate the upregulation of IκBζ protein in mouse models of acute myocardial infarction (AMI) and cellular oxygen-glucose deprivation (OGD), with a focus on nuclear localization.
+Our results indicate that inhibiting IκBζ protein expression both in vivo and in vitro can reduce cardiomyocyte apoptosis and alleviate cardiac hypoxic injury.
+Mechanistically, IκBζ influences cardiomyocyte apoptosis by binding to and regulating the activity of the intracellular signal transduction factor and transcriptional activator (STAT3).
+Upon AMI occurrence, the janus kinase 2-signal transducer and activator of transcription 3 (JAK2/STAT3) signaling pathway is activated, leading to STAT3 phosphorylation and its subsequent translocation into the nucleus.
+It interacts with activated IκBζ in the nucleus, resulting in decreased STAT3 activity and exacerbating cardiomyocyte apoptosis.
+Treatment with a STAT3-specific agonist mitigated the pro-apoptotic effects caused by IκBζ overexpression.
+In conclusion, our study describes for the first time the molecular link in IκBζ and STAT3 and reveals that pro-apoptotic IκBζ plays a crucial role in AMI pathogenesis by downregulating STAT3 activity.
+These findings suggest that targeting IκBζ may provide a foundation for developing novel therapeutic strategies for the prevention and treatment of myocardial infarction.

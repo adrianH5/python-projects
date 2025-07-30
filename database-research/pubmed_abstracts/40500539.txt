@@ -1,0 +1,5 @@
+Metastasis, the spread of cancer cells from the primary tumor to distant organs, is the leading cause of mortality in cancer patients.
+This process often exhibits a preference for specific organs, a phenomenon known as tumor organotropism.
+This study focuses on the organotropism of breast cancer and analyzes its genomic alterations following metastasis to four organs (bone, brain, liver, and lung).
+The research aims to explore the intrinsic characteristics of primary breast cancer and the interactions between tumor cells and the tumor microenvironment (TME) within these target organs.
+Building upon this foundation, we developed a deep learning model to identify organ-specific metastatic genes, providing insights into the molecular mechanisms of metastasis.

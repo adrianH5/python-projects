@@ -1,0 +1,6 @@
+Local intraprostatic recurrence is one of the important recurrence patterns following definitive intensity-modulated radiation therapy (IMRT) that continues to pose a significant challenge.
+The technological advances in radiation therapy now facilitate selective dose escalation for intraprostatic dominant lesions (IPDLs).
+A novel IMRT method, focal boosting using simultaneous integrated boost IMRT (FB-SIB-IMRT), can achieve selective dose escalation to IPDLs while minimizing any increase in dose to organs at risk (OARs).
+In addition, this method is applied to hypofractionated EBRT, including stereotactic body radiation therapy (SBRT).
+To date, numerous prospective studies have reported clinical results of FB-SIB-IMRT for non-metastatic PCa.
+In this review, we describe and summarize clinical outcomes of previous studies, including the technological background, current status, and future perspectives regarding focal dose escalation for IPDLs using IMRT for non-metastatic PCa.

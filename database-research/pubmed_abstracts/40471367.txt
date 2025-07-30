@@ -1,0 +1,9 @@
+Glioblastoma (GBM) is highly malignant with a poor prognosis.
+Exploring new therapeutic targets in GBM is an effective strategy for the prognosis of GBM patients.
+The Transmembrane emp24 domain-containing protein 3 (TMED3) gene has been found to play a role in the development of various cancers, but its mechanism in GBM remains unclear.
+This study combined the TCGA database, single-cell RNA sequencing, and in vitro and in vivo experiments to systematically investigate the role of TMED3 in GBM and its potential mechanisms.
+The study found that the TMED3 gene is differentially expressed in GBM samples, and high expression is associated with a higher grade of GBM and a poorer prognosis.
+In vitro and in vivo experiments confirmed that the upregulation of TMED3 promoted GBM proliferation, invasion, and migration.
+Further immunoprecipitation and functional rescue experiments revealed that Zinc finger and BTB domain-containing protein 7A (ZBTB7A) acts as a downstream target of TMED3.
+TMED3 promotes the malignant progression of GBM by regulating ZBTB7A.
+In conclusion, this study reveals that TMED3 promotes GBM development through the regulation of the ZBTB7A signaling axis, providing new insights for targeted therapy of GBM.

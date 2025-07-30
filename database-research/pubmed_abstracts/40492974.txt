@@ -1,0 +1,5 @@
+Telomerase reverse transcriptase is a ribonucleoprotein complex that maintains telomere length in rapidly dividing cells, thus enabling cellular immortality.
+Despite being recognized as an important cancer target for decades, no small molecule telomerase inhibitors have been approved as anticancer therapeutics to date.
+Several limitations, including the absence of high-throughput screening tools, have posed challenges to the telomerase drug discovery field.
+Here, we describe a high-throughput, fluorescently coupled screening methodemploying a chemically modified reporter nucleotide.
+We utilize the

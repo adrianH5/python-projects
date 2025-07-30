@@ -1,0 +1,8 @@
+Letermovir, a moderate inhibitor of CYP3A4 and inducer of CYP2C9 and CYP2C19, is used for cytomegalovirus prophylaxis following allogeneic hematopoietic stem cell transplantation (HCT).
+Posaconazole also inhibits CYP3A4, affecting tacrolimus metabolism.
+This study aimed to examine tacrolimus conversion ratios when switching from continuous intravenous to oral administration in HCT patients receiving posaconazole with and without letermovir.
+Tacrolimus concentration-to-dose (C/D) ratios before (C/Dciv) and after (C/Dpo) conversion were compared.
+The median C/Dciv ratios were 20.1 and 22.5 (ng/mL)/(mg/day) for patients with and without letermovir, respectively (P = 0.31).
+The median C/Dpo ratios were 5.1 and 5.9 (ng/mL)/(mg/day), respectively (P = 0.43).
+The median (C/Dpo)/(C/Dciv) ratios were 0.25 and 0.24, respectively (P = 0.77), indicating no significant difference in tacrolimus conversion ratios with and without letermovir.
+Based on these findings, the tacrolimus conversion ratio in patients receiving posaconazole was estimated to be approximately 1:2, regardless of concomitant letermovir use.

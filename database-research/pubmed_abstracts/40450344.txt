@@ -1,0 +1,10 @@
+Manganese-based STING-activating tumor immunotherapy faces limitations due to T cell exhaustion.
+Mitochondrial dysfunction is a key factor contributing to T cell exhaustion.
+Modulating mitochondrial function during manganese-based immunotherapy offers a promising strategy to reverse T cell exhaustion.
+Spermidine (SPD) enhances mitochondrial function in T cells, making the co-delivery of Mn and SPD a potential therapeutic approach.
+However, intravenous co-delivery is hindered by the rapid formation of MnO(OH)₂ precipitates.
+In this study, liposomes were employed as nano-reactors to facilitate the reaction between pre-loaded Mn²⁺ and O₂ in the presence of SPD, forming MnO(OH)₂ precipitates within the liposomes.
+These liposomes function as nanofactories, further processing MnO(OH)₂ under the regulation of the tumor microenvironment (TME) and delivering Mn, SPD, and O₂.
+Beyond activating the STING pathway in dendritic cells, L@Mn@SPD alleviates TME hypoxia and effectively reverses CD8⁺ T cell exhaustion.
+In vivo, L@Mn@SPD achieved a 2.44-fold increase in tumor suppression compared to MnCl₂, along with a 47% rise in CD8⁺ T cell infiltration, a 62.1% reduction in PD-1 expression, and a 110% increase in IFN-γ secretion.
+This STING-activating nanofactory provides a promising strategy to enhance manganese-based tumor immunotherapy by addressing mitochondrial dysfunction in exhausted T cells.

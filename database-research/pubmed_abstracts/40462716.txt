@@ -1,0 +1,3 @@
+Photoimmunotherapy, which synergizes phototherapy and immunotherapy, holds significant potential for cancer treatment but demands more precise and effective strategies.
+Herein, we present a smart DNA hydrogel with energy-storing capabilities that responds to multiple tumor markers, enabling laser-free, on-demand photoimmunotherapy for localized melanoma treatment.
+The hydrogel is constructed from two single-stranded DNA chains via rolling-circle amplification, incorporating aptamers (Apt PD-1), oligonucleotides (CpG ODNs), and recognition sites for the

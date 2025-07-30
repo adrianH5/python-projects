@@ -1,0 +1,7 @@
+At the beginning of a phase III clinical trial, there is great optimism.
+After all, the phase II trial results were encouraging.
+Then, early data from the phase III trial trend in the wrong way, but there is still an opportunity for the trend to reverse and become statistically significant by the end.
+At what point does optimism become denial of reality?
+How do we decide when a clinical trial is futile?
+What does futility even mean?
+This tutorial reviews different concepts and tools for evaluating futility, including conditional and predictive power, reverse conditional power, predicted interval plots, revised unconditional power, and beta spending functions.

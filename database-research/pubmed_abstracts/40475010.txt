@@ -1,0 +1,8 @@
+Triple-negative breast cancer (TNBC) is known for its aggressive nature and poor prognosis, primarily due to limited treatment options stemming from immune evasion mechanisms.
+This study aimed to explore the therapeutic potential of peritumoral electroacupuncture (EA) in inhibiting tumor growth in TNBC, particularly focusing on the immune mechanisms related to CD8+ T cell recruitment and the involvement of histone deacetylase 1 (HDAC1) within the tumor microenvironment (TME).
+By constructing TNBC model in mice, we observed that EA not only inhibited tumor growth but also increased the presence of intratumoral CD8+ T cells and CCL5.
+Additionally, the expression of HDAC1 was found to down-regulate by EA.
+Remarkably, when EA was combined with the romidepsin (a class I HDAC inhibitor), a synergistic effect observed, leading to a greater increase in intratumoral CD8+ T cells compared to either treatment alone, resulting in a tumor inhibition rate of 60.03%.
+Importantly, EA did not worsen systemic inflammation, as serum levels of pro-inflammatory cytokines remained stable throughout the intervention.
+These findings indicate that peritumoral EA can effectively enhance anti-tumor immunity within the TME by down-regulating HDAC1.
+This research highlights the potential of combining non-invasive therapies like EA with pharmacological agent as a promising strategy for improving outcomes in the management of TNBC, warranting further exploration of its clinical applications.

@@ -1,0 +1,2 @@
+The apparent diffusion coefficient (ADC) derived from diffusion-weighted imaging (DWI) is a potential biomarker for treatment response in pediatric rhabdomyosarcoma.
+Due to its rarity, investigations into this marker require multicenter approaches, which can result in variability in acquisition parameters.

@@ -1,0 +1,15 @@
+The scavenger receptor CD36 has gained increasing interest in cancer research, with various functions in cell metabolism, angiogenesis, and immune response.
+This study aimed to investigate the molecular role of CD36 expression on tumor vasculature of advanced high-grade serous ovarian cancer (HGSOC) tissues and its prognostic implication.
+Immunohistochemical staining for CD36 was performed on whole tissue slides of 109 patients with advanced HGSOC.
+Patients were divided into two groups based on CD36 expression, i.e.
+positive versus negative, and correlated to clinicopathologic and survival data.
+RNA sequencing, metabolomics, and proteomics data were correlated to the CD36 expression within a subpopulation.
+CD36 expression in tumor vasculature was significantly associated with unfavorable overall survival (OS), both in univariate (HR 1.71, p = 0.039) and multiple Cox regression analyses (HR 1.91, p = 0.021), considering age, FIGO stage, postoperative residual tumor, and bevacizumab treatment as covariates.
+Positive CD36 expression was significantly associated with postoperative residual tumor, reflecting high tumor-burden.
+(p = 0.042).
+RNA sequencing from isolated tumor cells revealed an activated 'regulation of lipolysis in adipocytes' pathway significantly associated with CD36 expression.
+Co-association gene expression network analysis revealed increased ribosomal activity and protein translation in tumor cells of CD36-positive samples.
+Proteomics analysis of ascites showed three overexpressed proteins involved in lipid metabolism (LCN2, CFHR1, and CFHR4) out of 21 significantly deregulated proteins.
+Metabolomic analyses of serum showed a significant decrease of 60 glycerophospholipids (mainly unsaturated ones) and eight amino acids, four essential proteinogenic, in patients with CD36 positive vessels.
+CD36 intratumoral vessel expression was associated with unfavorable OS in patients with advanced HGSOC.
+Our analyses support the role of CD36 in tumor metabolism, possibly via CD36

@@ -1,0 +1,9 @@
+Colorectal cancer ranks among the top causes of both cancer incidence and mortality, posing a severe threat to global health.
+Currently, chemotherapeutic drugs used for treating colorectal cancer, such as camptothecin (CPT) and its derivatives, are limited in their application due to gastrointestinal reactions and myelosuppression.
+Mitochondria-targeted therapy aims to deliver active drug molecules into the mitochondria via electrostatic adsorption, allowing them to exert their effects directly within the mitochondria while reducing side effects during treatment.
+In this work, we used camptothecin as the parent compound, then we synthesized three series of 13 camptothecin derivatives by attaching alkyl chains of different length to delocalized lipophilic cations such as triphenylphosphonium, F16 and rhodamine B.
+The in vitro cytotoxicity screening revealed that compounds 8a and 8c, which are connected to rhodamine B, showed significantly higher antiproliferative activity against HCT116 colorectal cancer cells than CPT.
+Furthermore, compound 8a exhibited lower toxicity towards normal liver cells.
+Cellular imaging experiments demonstrated excellent mitochondria-targeted abilities of compounds 8a and 8c.
+Flow cytometry analysis indicated that compound 8a can induce apoptosis in a concentration-dependent manner.
+Overall, compound 8a can be a potential anti-cancer agent for colorectal cancer.

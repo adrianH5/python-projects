@@ -1,0 +1,6 @@
+Radioresistance is one of the important reasons for local recurrence and distant metastasis in non-small cell lung cancer (NSCLC).
+Itaconate primarily functions as an anti-inflammatory metabolite in macrophages, however, its role in radiotherapy remains to be explored.
+In this study, we demonstrated that radiation significantly increases itaconate in the tumor microenvironment (TME), which is produced by macrophages.
+Mechanistically, the NF-κB signaling pathway is rapidly activated in macrophages, which enhances the binding of P65 to the Acod1 promoter region, leading to significantly increased secretion of itaconate.
+Excessive itaconate alleviates oxidative stress of NSCLC cell lines by stabilizing NRF2 protein.
+Notably, specifically knocking out Acod1 on myeloid cells enhances the activation of the tumor immune microenvironment in response to radiotherapy, particularly increasing the infiltration and activation of CD8

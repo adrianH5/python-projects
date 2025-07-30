@@ -1,0 +1,8 @@
+Pannexin 3 (Panx3) has been the subject of numerous studies across different cell types, predominantly concentrating on bone remodeling, wound repair, and dermal inflammation.
+However, the link between Panx3 and cancer remains minimally explored.
+Here, we showed for the first time that the expression of Panx3 was lower in oral squamous cell carcinoma (OSCC) tissues than in normal oral mucosa tissues, and was associated with the differentiation of OSCC.
+We found that overexpression of Panx3 significantly promotes ferroptosis while inhibiting proliferation, migration, and invasion in SCC15 and CAL27 cells.
+Furthermore, in Panx3-overexpressing OSCC cells, the expression levels of P-AKT, P-mTOR, GPX4, and SLC7A11 were significantly decreased, whereas ACSL4 expression was markedly upregulated.
+Subsequently, the enhanced ferroptosis was significantly rescued upon the addition of the AKT activator SC79 to Panx3-overexpressing SCC15 and CAL27 cells.
+The tumor-suppressive role of Panx3 through ferroptosis induction was further confirmed by xenograft assays, which demonstrated significantly inhibited tumor growth.
+In conclusion, the results suggested that Panx3 overexpression reduced the survival of OSCC cells and inhibited the progression of OSCC by promoting ferroptosis via the inhibition of AKT/mTOR signaling pathway.

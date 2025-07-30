@@ -1,0 +1,9 @@
+Metabolic reprogramming characterized by mitochondrial dysfunction and increased glycolysis is associated with aggressive tumor biology and poor therapeutic response.
+The interplays among NADPH oxidase (NOX)-mediated reactive oxygen species, regulation of glycolysis and oxidative phosphorylation (OXPHOS) in cancer cells suggest an opportunity to develop a new cancer therapy.
+We found that treatment with a hyaluronic acid nanoparticle encapsulated with GKT831 (HANP/GKT831), a NOX1/4 inhibitor, markedly inhibited the proliferation and invasion of cancer cells.
+Treated tumor cells had reduced levels of mitochondrial ROS, glycolysis, and OXPHOS.
+The combination of HANP/GKT831 with radiation reduced colony formation and invasion of tumor cells.
+The combination therapy markedly inhibited the levels of molecules in glycolysis, OXPHOS, and DNA repairing pathways in tumor cells.
+Systemic administrations of HANP/GKT831 combined with radiotherapy significantly inhibited tumor growth by 84.7 % in a mouse colorectal tumor model.
+Tumors treated with HANP/GKT831 and radiation had increased DNA damage and apoptotic cell death.
+Furthermore, the combined therapy increased intratumoral infiltration of activated cytotoxic T cells and M

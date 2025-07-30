@@ -1,0 +1,21 @@
+Large scale testing is essential, but estimates indicate that large numbers of mild, asymptomatic or pre-symptomatic COVID-19 cases are not detected by current testing efforts (Kobayashi et al., 2020).
+In the U.S., one estimate suggest that only 1.6% of COVID-19 cases have been detected (Vollmer, 2020), while another study estimates that about 17.9% of individuals infected with SARS-CoV-2 are asymptomatic at their first positive test and may not develop symptoms for up to two weeks (Mizumoto et al., 2020).
+However, most symptoms associated with COVID-19, such as fever and cough, are non-specific and do not distinguish COVID-19 cases from individuals with other respiratory infections (Guan et al., 2020).
+Nucleic acid tests employing RT-PCR, are the primary means employed to diagnose COVID-19 using respiratory samples (CDC, 2020; Udugama et al., 2020).
+A recently deployed isothermal assays for COVID-19 that uses the Abbott ID Now system requires less expensive equipment and less training, but also produces less definitive results.
+Thus, RT-qPCR assays are still the gold-standard for COVID-19 diagnosis.
+Rapid and ultrasensitive COVID-19 diagnostic assays that are capable of high-throughput analyses and which do not require a high degree of technical expertise or sophisticated equipment are required to expand COVID-19 testing capacity.
+One recently published report, incorporated RT-LAMP with CRISPR-Cas12a to allow detection of SARS-CoV-2 in respiratory swab RNA extracts in a colorimetric lateral flow assay (Broughton et al., 2020).
+The COVID-19 CRISPR-FDS assay we describe uses a streamlined approach that does not require any special equipment beyond that found in most clinical and research laboratories.
+COVID-19 CRISPR-FDS assays performed with RT-PCR and RT-RPA amplified samples, detected samples spiked with ≥2 copies of the target RNA sequence, regardless of the method used in the pre-amplification step (Fig. 3
+A and B), in good agreement with our calculated estimate for its LOD.
+For the analysis of clinical samples, a COVID-19 CRISPR-FDS assay result was considered positive if it was equal or greater than a cut-off threshold equal to the mean signal of the negative control samples plus three times its standard deviation (Kim et al., 2016).
+Although RT-qPCR is the most widely used diagnostic method for COVID-19, its sensitivity has not proven satisfactory, resulting in a relatively high number of false-negative results, so that a substantial number of infected individuals do not receive proper diagnoses and treatment.
+In a study of more than 1000 patients, 75% of COVID-19 suspects had negative RT-qPCR test results but positive chest computerized tomograph results, and 48% of these patients were considered highly likely to have had COVID-19, with an additional 33% considered probable cases (Ai et al., 2020).
+Various isothermal amplification methods, such as RPA and LAMP, have been reported for the detection of COVID-19 (Ding et al., 2020; Lucia et al., 2020; Yu et al., 2020), but many problems were identified upon detailed analysis of these methods, including low sensitivity and low throughput.
+We do not see this as a major drawback given the clear need for rapid, sensitive, and robust assays to diagnose COVID-19.
+CRISPR assay diagnostic results obtained nasal swab samples of individuals with suspected COVID-19 cases were comparable to paired results from a CDC-approved quantitative RT-PCR (RT-qPCR) assay performed in a state testing lab, and superior to those produced by same assay in a clinical lab, where the RT-qPCR assay exhibited multiple invalid or inconclusive results.
+Based on these findings, we believe that a CRISPR-based fluorescent application has potential to improve current COVID-19 screening efforts.
+Highlights     •  Integrated CRISPR for COVID-19 clinical diagnosis.
+•  Detection environment friendly and compatible for high throughput COVID-19 screening in hospital.
+•  Improve diagnosis of individuals with suspected COVID-19 infections.

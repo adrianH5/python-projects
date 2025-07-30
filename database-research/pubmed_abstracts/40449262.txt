@@ -1,0 +1,8 @@
+Early detection is essential for improving cancer treatment outcomes.
+Surface-enhanced Raman scattering (SERS) offers high sensitivity and molecular specificity but suffers from slow imaging speed when used independently.
+Here, we introduce stimuli-responsive bimodal SERS-dark-field (DF) nanoprobes for rapid and selective imaging of metastatic prostate cancer cells.
+These nanoprobes utilize legumain enzyme-responsive peptide coatings on plasmonic gold nanocubes and a bio-orthogonal self-condensation mechanism to facilitate enzyme-triggered nanoprobe aggregation.
+Upon internalization, the nanoprobes selectively aggregate in DU145 cells that overexpress legumain, while remaining uniformly dispersed in LNCaP cells with minimal legumain activity.
+DF microscopy quickly identifies these aggregates, significantly expediting subsequent SERS imaging.
+The engineered design of these nanoprobes ensures distinct vibrational signatures specifically correlated to enzyme activity, establishing a direct link between enzymatic presence and SERS signal generation.
+By combining the rapid localization capabilities of DF imaging with the molecular precision of SERS, our bimodal imaging strategy significantly surpasses conventional single-modal SERS techniques, providing a versatile platform for fast and accurate detection of various diseases through their distinctive enzymatic profiles.

@@ -1,0 +1,8 @@
+Immune checkpoint blockers (ICBs) have revolutionized cancer treatment by enabling durable responses.
+However, most patients showed resistance and limited efficacy.
+Elucidating mechanisms of resistance is imperative to extend the clinical utility of ICBs.
+Emerging evidence highlights cancer-associated fibroblasts (CAFs), particularly TGFβ-activated myofibroblastic CAFs, as key orchestrators of immunosuppressive TMEs and ICBs resistance.
+These CAFs drive T-cell exclusion preventing intratumoral T cells from engaging cancer cells.
+This review explores the role of TGFβ signaling in CAFs in driving immune evasion and therapy resistance.
+While targeting TGFβ or CAFs directly has shown limited inconsistent results, downstream molecules in TGFβ-activated CAFs, including induced TGFβ (βig-h3), endocytic receptor 180 (Endo180), leucine-rich repeat containing 15 (LRRC15), and NADPH oxidase 4 (NOX4), emerge as promising therapeutic targets to counteract T-cell exclusion and restore immunotherapy sensitivity.
+Advancing research on CAF heterogeneity and pro-tumorigenic subsets may uncover innovative strategies to expand immunotherapy benefits.

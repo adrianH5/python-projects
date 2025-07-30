@@ -1,0 +1,11 @@
+The management of stage II colon cancer poses an important clinical challenge due to difficulties in identifying patients at risk of recurrence.
+RNA expression profiles in solid tissues have demonstrated a strong potential as prognostic markers.
+The objective of this study was to develop an RNA-based risk score to risk-stratify patients with stage II colon cancer using a large, well-characterized, and screened patient cohort.
+This multicenter cohort study encompasses tissue samples collected from all surgically resected stage II colon cancer patients in the Region of Southern Denmark from 2014 to 2016 (n = 739).
+Gene expression analysis was performed on 122 RNAs, previously described as holding prognostic potential in colorectal cancer, using NanoString nCounter analyses.
+The resulting RNA expression profiles were used to develop a score predicting the risk of recurrence.
+The primary endpoint for the study was time to recurrence (TTR), with overall survival (OS) as a secondary endpoint.
+A dichotomized score, derived from the combined expression of four RNAs (ZNF697, SNORA2B, CTSC and OXLD1), effectively predicted TTR in stage II colon cancer patients.
+The score revealed a hazard ratio (HR) of 6.84 in univariate analysis (p < 0.001) and a HR of 5.00 in multivariate analysis (p < 0.001), surpassing the prognostic performance of known clinical risk factors.
+Additionally, the score was significantly associated with OS in Kaplan-Meier analysis (p = 0.024).
+In conclusion, this four-gene expression score demonstrates a strong association with TTR in stage II colon cancer patients, providing valuable prognostic insights that extend beyond conventional clinical risk markers.

@@ -1,0 +1,7 @@
+Background Development of immunotherapies and vaccines to treat HPV16-associated cancer requires reliable/effective small animal models.
+We developed such a model based on the murine mammary gland adenocarcinoma cells engineered to express HPV16 oncoproteins E6 and E7, and used it to assess the protective and therapeutic potential of E6/E7-based DNA-immunogens.
+Methods 4T1luc2 subclones with single genomic inserts of HPV16 E6/E7 DNA (B2, H6) were obtained by lentiviral transduction.
+DNA-immunogens were designed encoding expression-optimized consensus HPV16 E6 and E7 mutated to disrupt p53- and Rb-binding, both controlled by the human elongation factor 1a promoter.
+In prophylactic settings, BALB/c mice received E6, E7, E6/E7 DNA or vector, followed by challenge with B2 or H6 cells, and in therapeutic settings, were challenged with B2 or H6 cells, and DNA-immunized with E6 or vector.
+In reference series, C57bl/6 mice were challenged with TC1/luc2 cells and DNA-immunized with E6, E7, or E6/E7, or vector DNA.
+Tumor growth was monitored morphometrically and by

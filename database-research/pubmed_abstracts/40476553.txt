@@ -1,0 +1,9 @@
+Cervical cancer is the fourth most prevalent cancer among female patients globally, largely due to persistent infections with high‑risk human papillomavirus (HPV).
+Viral oncoproteins E6 and E7, produced by HPV, serve a role in driving cellular transformation and maintaining the malignant phenotype.
+T cell receptor (TCR)‑like antibodies serve as a potential diagnostic tool to capture the oncogenic peptide that is present in MHC.
+As these antibodies serve as innate antigen detectors, orchestrating immune responses against both cell surface and intracellular proteins.
+In the present study, a human domain antibody (DAB) phage library was screened by evaluating synthesized HPV18 (E6 and E7) peptide‑major histocompatibility complexes (p‑MHC‑A24) to identify target‑specific TCR‑like antibodies.
+The present study successfully identified three TCR‑like DABs that specifically target HPV18 (E6 and E7) p‑MHC‑A24 complexes.
+Characterization of the amino acid sequences in the complementarity‑determining regions 1, 2 and 3 was performed using VBASE2 and the international ImMunoGeneTics information system®/vquest databases.
+Evaluation of soluble TCR‑like antibodies confirmed strong and selective affinity for the targets through western blotting and ELISA.
+The present study aimed to clarify the specificity of TCR‑like antibodies against specific targets and demonstrated that TCR‑like antibodies may serve as early diagnostic and immunotherapeutic tools for HPV‑associated cervical cancer.

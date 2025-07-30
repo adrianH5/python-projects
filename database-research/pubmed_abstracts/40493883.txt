@@ -1,0 +1,10 @@
+Monoclonal antibodies targeting CD38 are a therapeutic mainstay in multiple myeloma (MM).
+While they have contributed to improved outcomes, most patients still experience disease relapse, and little is known about tumor-intrinsic mechanisms of resistance to these drugs.
+Antigen escape has been implicated as a mechanism of tumor cell evasion in immunotherapy.
+Yet, it is unknown whether MM cells can develop permanent resistance to anti-CD38 antibodies by acquiring genomic events leading to biallelic disruption of the CD38 gene locus.
+Here, we analyzed whole genome and whole exome sequencing data from 701 newly diagnosed patients, 67 patients at relapse with naivety to anti-CD38 antibodies, and 50 patients collected at relapse following anti-CD38 antibodies.
+We report a loss of CD38 in 20% (10/50) of patients post-CD38 therapy, three of which exhibited a loss of both copies.
+Two of these cases showed convergent evolution where distinct subclones independently acquired similar advantageous variants.
+Functional studies on missense mutations involved in biallelic CD38 events revealed that two variants, L153H and C275Y, decreased binding affinity and antibody-dependent cellular cytotoxicity of the commercial antibodies Daratumumab and Isatuximab.
+However, a third mutation, R140G, conferred selective resistance to Daratumumab, while retaining sensitivity to Isatuximab.
+Clinically, patients with MM are often rechallenged with CD38 antibodies following disease progression and these data suggest that next generation sequencing may play a role in subsequent treatment selection for a subset of patients.

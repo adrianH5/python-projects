@@ -1,0 +1,6 @@
+Breast cancer remains a formidable health challenge despite significant advancements in treatment modalities.
+This study investigates the therapeutic potential of green-synthesized gold nanoparticles (AuNPs), utilizing Dicoma anomala methanolic leaf extract as a reducing and stabilizing agent, for targeted photodynamic therapy (PDT).
+The AuNPs were synthesized via a bottom-up approach and subsequently modified with liposomes (LIP) encapsulating the photosensitizer pheophorbide-a (PPBa), forming a nanocomplex (AuNPs-LIP-PPBa) through the thin-film hydration method.
+Comprehensive physicochemical characterization was conducted using UV-Vis spectroscopy, drug loading and release kinetics, Fourier-transform infrared spectroscopy (FT-IR), high-resolution transmission electron microscopy (HR-TEM), scanning electron microscopy (SEM), and energy-dispersive X-ray spectroscopy (EDS).
+The cytotoxic effects of AuNPs, PPBa, and the AuNPs-LIP-PPBa nanocomplex were evaluated against MDA-MB-231 triple-negative breast cancer cells using the MTT viability assay.
+The IC

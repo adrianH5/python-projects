@@ -1,0 +1,10 @@
+Cancer remains the leading cause of death, with chemotherapy, radiotherapy, and surgical resection being the primary treatment methods.
+However, chemotherapy's side effects, surgical limitations, and drug resistance present significant challenges.
+Small interfering RNA (siRNA) has emerged as a promising tool in cancer therapy due to its ability to silence disease-related genes selectively.
+Recent advancements in nonviral delivery systems, particularly cell-penetrating peptides (CPPs), have enhanced the efficacy of siRNA delivery.
+The use of siRNA as a therapeutic tool in cancer treatment has been reported in the literature.
+However, silencing only one target protein has only a minor effect on tumor cell proliferation, as previously shown for WRAP-based nanoparticles targeting cyclin-dependent kinase 4 (CDK4) in human U87 glioblastoma cells.
+Here, we designed a more sophisticated approach to enhance therapeutic efficacy, encapsulating multiple siRNAs targeting CDK4, cyclin D1 (CD1), and MCL-1 proteins.
+The siRNA cocktail, delivered via WRAP5 nanoparticles, effectively silenced these targets and reduced cell proliferation in human U87 glioblastoma cells.
+Furthermore, the nanoparticles also demonstrated potential therapeutic impact in gastrointestinal stromal tumors (GIST), a rare cancer characterized by its tendency to resist standard treatments.
+This study highlights the versatility of WRAP5 nanoparticles as a platform for personalized cancer therapy, suggesting that siRNA delivery systems may be tailored to specific cancer types for more effective treatment strategies.

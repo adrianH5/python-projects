@@ -1,0 +1,3 @@
+T1	Dataset 1157 1163	GISAID
+T2	AccessionNumber 1178 1192	EPI_ISL_407193
+R1	hasAttr	Arg1:T1	Arg2:T2

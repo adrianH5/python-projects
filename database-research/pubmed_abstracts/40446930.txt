@@ -1,0 +1,2 @@
+Many clinical questions, such as estimating survival differences between living donor (LDLT) and deceased donor liver transplantation (DDLT), are limited to observational studies and cannot be answered through randomized controlled trials (RCTs).
+Thus, we developed Decision Path Similarity Matching (DPSM), a novel machine learning (ML)-based algorithm that simulates RCT-like conditions to mitigate confounders in observational data.

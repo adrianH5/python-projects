@@ -1,0 +1,11 @@
+The rs2204985 single-nucleotide genetic polymorphism is a common genetic variant located within the T-cell receptor locus that influences thymopoiesis, with the GG genotype presenting higher thymic function than AA counterparts.
+Recent reports have presented discordant results regarding its effect on the clinical outcomes after allogeneic hematopoietic stem cell transplantation (allo-HSCT); therefore, evaluation of independent cohorts is warranted.
+Here, we further investigate the donor polymorphism impact on patient outcome after allo-HSCT in a single-center observation case report from Karolinska University Hospital, Sweden.
+We retrospectively evaluated 521 adult patients and investigated the impact of the donor rs2204985 genotype on their clinical outcomes post-transplantation.
+We observed no significant effect of donor genotype on mortality or relapse.
+The GG genotype was associated with a higher incidence of severe (IIb-IV) acute graft-versus-host disease (GVHD) as compared with AG/AA (P = 0.008), but with no impact on chronic GVHD incidence.
+The same effect is observed in a subgroup of patients treated with unrelated donors (P = 0.02) but not with human leukocyte antigen-matched sibling donors.
+A multivariate analysis confirmed the impact of the rs2204985 genotype (P = 0.009) independently of other parameters, including recipient age or sex.
+Our data suggest that, in this single-center cohort, the donor rs2204985 AA/AG genotype, despite not significantly affecting relapse or survival, is associated with lesser risk of acute GVHD development.
+©2025 International Society for Cell & Gene Therapy.
+Published by Elsevier Inc.

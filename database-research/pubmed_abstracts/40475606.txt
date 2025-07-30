@@ -1,0 +1,7 @@
+Reactivation of transposable elements (TEs) in somatic tissues, particularly of LINE-1, is associated with disease by causing gene mutations and DNA damage.
+Previous work has shown that the PIWI pathway is crucial for TE suppression in the germline.
+However, the status and function of this pathway has not been well characterized in differentiated somatic cells and there is lack of consensus on the role of the pathway in somatic tumorigenesis.
+To shed light on this conundrum, we examined the PIWI pathway in colon cancer through a combination of bioinformatic analyses and cell-based assays.
+Shifted Weighted Annotation Network (SWAN) analysis revealed that the pathway experiences significant allelic losses in colon cancer and that PIWIL2, the main catalytic component of the pathway responsible for TE silencing, experiences the highest percent deletions.
+PIWIL2 is downregulated in colon tumors of advanced stage, nodal metastasis, and in certain subtypes, correlating with poor survival, while it is even downregulated in ulcerative colitis, an inflammatory bowel disease that predisposes to colon cancer.
+Knockout studies in colon epithelial Caco2 cells show that PIWIL2 depletion leads to increased anchorage-independent growth, increased LINE-1 levels and activity, and in DNA damage, altogether highlighting a tumor-suppressing role of PIWIL2 in the colon.

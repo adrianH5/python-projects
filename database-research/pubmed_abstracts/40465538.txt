@@ -1,0 +1,9 @@
+Cytokine release syndrome remains a critical challenge for clinical use of bispecific T-cell engagers.
+We present the preclinical development of a novel BCMA x CD3 bispecific antibody with the aim of reducing cytokine release while maintaining potent efficacy in the treatment of multiple myeloma.
+Based on the Fabs-in-tandem geometry, bispecific molecules with two target arms in cis-configuration were constructed.
+A panel of anti-CD3 monoclonal antibodies with varying affinities was generated, and the impact of binding arm geometry, valency and anti-CD3 affinity on the TCE's safety and efficacy profile was evaluated both in vitro and in vivo.
+By comparing with different formats including a reference tandem scFv, we show that both binding arm valency and CD3 affinity determine redirected T-cell cytotoxicity in vitro.
+The FIT-Ig with 2+2 binding valencies and medium CD3 affinity (CD3med FIT-Ig) can achieve the same potent anti-tumor activity as the reference tandem scFv, while it induced much less cytokine release.
+Importantly, bivalent CD3 binding does not introduce target irrelevant T-cell activation in the FIT-Ig format.
+The low cytokine release profile of CD3med FIT-Ig was further validated in human PBMC engrafted mice and cynomolgus monkeys.
+The CD3med FIT-Ig (also known as EMB-06) could offer a differentiated safety profile with effective anti-tumor activity.

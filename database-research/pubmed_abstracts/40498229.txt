@@ -1,0 +1,13 @@
+PARP1, the most prominent member of the PARP family, mediates DNA repair and cellular stress responses.
+PARP inhibitors (PARPi) show clinical promise in treating BRCA1/2-mutated or homologous recombination-deficient tumors, particularly in breast and ovarian cancers.
+However, acquired resistance remains a significant therapeutic challenge.
+This study developed a PARP1 inhibitor discovery pipeline integrating machine learning with conventional virtual screening methods.
+We introduced a novel strategy called fragment replacement to generate new compounds with optimized properties.
+Using the Maybridge compound library, we developed machine learning models to predict inhibitor activity.
+The Random Forest classifier demonstrated superior performance (AUC = 0.971, accuracy = 0.915) in tenfold cross-validation.
+This machine learning-driven approach outperformed conventional virtual screening in terms of efficiency.
+Subsequently, we conducted virtual screening using 2D fingerprints, shapes, and docking to retain the top-ranked ligands based on a standardized score (Z2-score).
+XP docking and ADMET prediction were used to select two molecules with strong drug-like properties.
+Fragment replacement was employed to reconstruct 101 new compounds with improved drug-like characteristics and increased activity.
+After validation, we identified three hits with docking scores between - 11.802kcal/mol and - 10.808kcal/mol, which were superior to the positive control Talazoparib (docking score: - 9.103kcal/mol).
+MD simulations assessed the binding stability of the compounds to proteins, with all three selected compounds exhibiting good binding stability, thus identifying them as potential candidates for development as PARP1 inhibitors.

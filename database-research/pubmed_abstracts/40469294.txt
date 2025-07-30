@@ -1,0 +1,5 @@
+Glioma represents a highly lethal form of malignant tumour, with RNA methylation emerging as a critical regulator of its oncogenesis and progression.
+As a prevalent post-translational modification, methylation influences various biological functions, particularly RNA processing, by modulating splicing, transport, and degradation of both mRNAs and noncoding RNAs.
+Key methylation types such as N6-methyladenosine (m6A), N5-methylcytosine (m5C), N7-methylguanosine (m7G), and N1-methyladenosine (m1A) are dynamically regulated by specific enzymes known as writers, erasers, and readers.
+Dysregulation of these modifications contributes to glioma pathophysiology, while offering potential biomarkers for early detection and promising therapeutic targets.
+This review explores the mechanistic roles of RNA methylation in glioma and highlights its translational implications, aiming to advance molecular diagnostics and targeted interventions in glioma treatment.

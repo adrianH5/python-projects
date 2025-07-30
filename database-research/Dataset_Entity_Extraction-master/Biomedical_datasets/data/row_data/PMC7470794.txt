@@ -1,0 +1,19 @@
+The novel coronavirus disease 2019 (COVID-19) outbreak occurred in December 2019 and in the following months this epidemic was declared as a global health emergency by the World Health Organization (WHO) with more than 600 thousand deaths reported till date [1].
+Similar to SARS-CoV and the Middle East respiratory syndrome (MERS), severe symptoms such as acute respiratory distress syndrome (ARDS) and multiple organ failure were observed in nearly 20% patients suffering from COVID-19 infection [2].
+Recently, it has also been reported as a receptor for the spike protein of SARS-CoV-2 and plays pivotal roles during the COVID-19 infection [4].
+Notably, COVID-19 patients with severe symptoms also seem to suffer from various other health conditions including cardiovascular disease (CVD), hypertension and diabetes [5].
+Thus, it is likely that the extent of COVID-19 infection gets more pronounced by ACE2 in patients with comorbidities, which in turn may cause additional myocardial damage.
+In our pervious review, we summarized the state of art of investigation and potential therapeutic strategies for COVID-19 patients with cardiac disease [8].
+In this study, we investigate several in-silico identified miRNAs which could regulate ACE2 in vitro and therefore provide a potential strategy to develop novel therapeutic candidates for COVID-19.
+As one of the main receptors of SARS-CoV-2 [4], ACE2 is considered as a potential target for COVID-19 prevention.
+Another multi-organ autopsy study of COVID-19 patients revealed the presence of SARS-CoV-2 viral RNA in the heart tissue [11].
+To fight the COVID-19 pandemic in the absence of vaccines, it is necessary to identify promising drugs which act against SARS-CoV-2 infection in cardiomyocytes and such in vitro translational platforms can immensely aid in this process.
+Vaccine is one of the most efficient tools to prevent COVID-19.
+By April 2020, 115 vaccine candidates for COVID-19 were reported, out of which 73 targets were selected for pre-clinical investigation.
+Of note, patients with pre-existing CVDs are more likely to suffer from severe symptoms of COVID-19 [5].
+However, the contradicting effects of ACE2 in CVDs and COVID-19 infection should be considered carefully.
+Thus, it is a big challenge to ascertain the therapeutic time window for targeting ACE2 in COVID-19 patients with CVDs.
+Nevertheless, a miR-200c based therapy may help to bridge the time till an effective COVID-19 vaccine is available to the world.
+The World Health Organization (WHO) declared coronavirus disease 2019 (COVID-19) as a public health emergency of international concern as more than 15 million cases were reported by 24th July 2020.
+Angiotensin-converting enzyme 2 (ACE2) is a COVID-19 entry receptor regulating host cell infection.
+We report the first miRNA candidate that can target ACE2 in cardiomyocytes and thus may be exploited as a preventive strategy to treat cardiovascular complications of COVID-19.

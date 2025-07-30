@@ -1,0 +1,3 @@
+Clinical trials have shown limited efficacy of anti-programmed cell death protein 1 (PD-1) treatment for glioblastoma (GBM).
+In this study, we examined the expression of TGFbRI in GBM-infiltrating CD8+ T cells and the characteristics of TGFbRI+CD8+ T cells.
+We examined the ex vivo effects of co-blockade of PD-1 and TGFb on the functions of GBM-infiltrating CD8+ T cells.

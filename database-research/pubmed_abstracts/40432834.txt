@@ -1,0 +1,7 @@
+Hepatocellular carcinoma (HCC) typically develops in the context of chronic liver disease, where prolonged hepatocyte exposure to inflammation drives the synergistic accumulation of genetic and epigenetic alterations.
+Epigenetic regulation encompasses multiple mechanisms that govern the transcription machinery accessibility to DNA.
+This process is regulated by the addition and removal of covalent marks on chromatin, which can either affect DNA-histone interactions or serve as scaffolds for other proteins, among other mechanisms.
+Recent research has revealed that epigenetic alterations can disrupt chromatin homeostasis, redirecting transcriptional regulation to favour cancer-promoting states.
+Consequently, these alterations play a pivotal role in the acquisition of cancer hallmarks and provide insights into several biological processes involved in hepatocarcinogenesis.
+This review highlights the key epigenetic mechanisms underlying the development, progression and dissemination of HCC, with a particular focus on DNA methylation and histone post-translational modifications.
+This knowledge is relevant for guiding the development of innovative therapeutic approaches based on epigenetic modulators.

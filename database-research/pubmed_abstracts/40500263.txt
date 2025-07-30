@@ -1,0 +1,9 @@
+The peritoneum is the most common site of metastasis in advanced gastric cancer (GC), and the mechanisms underlying this process of gastric cancer peritoneal metastasis (GCPM) remain largely elusive.
+Mesothelial-mesenchymal transition (MMT) plays a crucial role in the progression of GCPM.
+In our current study, the data confirmed that GC-derived exosomes could significantly promote peritoneal metastasis through an MMT-dependent manner in vivo and in vitro.
+Using RNA-seq, we successfully identified a key circular RNA (circPTBP3).
+The expression of exosomal circPTBP3 in the plasma of GCPM patients was significantly upregulated and closely correlated with tumor differentiation, depth of invasion, lymphatic invasion, peritoneal metastasis, and TNM stage.
+Exosomal circPTBP3 thus serves as a reliable diagnostic and prognostic indicator in GCPM patients.
+Mechanistically, exosomal circPTBP3 could effectively promote the MMT phenotype of mesothelial cells in vitro.
+Located in the nucleus, circPTPB3 was found to recruit transcription factor AP-2-beta (TFAP2B) to the serum- and glucocorticoid-inducible kinase 1 (SGK1) promoter sites, thereby initiating its transcription in mesothelial cells.
+These findings suggest that exosomal circPTPB3 functions as a pivotal mediator in facilitating the interplay between GC cells and mesothelial cells, and it provides a promising diagnostic indicator and therapeutic target for GCPM patients.

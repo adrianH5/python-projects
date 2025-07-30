@@ -1,0 +1,12 @@
+Invasive mucinous adenocarcinoma (IMA) is a rare lung tumor with a distinctive histology of goblet and columnar cells characterized by diverse growth patterns.
+The outcomes and prognosis of IMA are poorly defined owing to its rarity.
+This study uses the National Cancer Database (NCDB) to study the demographic and prognostic factors affecting the overall survival and mortality rates of IMA patients.
+We identified IMA patients from the NCDB (2004-2020) using ICD-O-3 code 8253.
+Time-to-event outcomes were analyzed with Kaplan-Meier, log-rank tests, and Cox regression models to assess factors influencing survival.
+A total of 6202 IMA patients were identified.
+Older age was linked to poorer survival (2-year = 53.6%, 5-year = 30.9%, 10-year = 12.4%).
+Female patients had better survival rates than males (2-year = 70.8% vs. 60.7%, p < 0.001).
+Lower income (< $46,277 and $46,227-$57,856) and lack of radiation therapy were associated with higher mortality (HR = 1.35, p < 0.001).
+Medicaid insurance also correlated with worse survival compared to private insurance (HR = 1.46, p < 0.001).
+Male gender, Black or White race, and lower income brackets were associated with increased mortality in IMA.
+Further, being insured by Medicaid and not undergoing radiation therapy are associated with poorer survival outcomes.

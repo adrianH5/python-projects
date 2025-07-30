@@ -1,0 +1,7 @@
+Endoscopic ultrasound (EUS) is the primary method for assessing the invasion depth of early esophageal cancer, though its capabilities are limited.
+To address this, we developed a compact endoluminal magnetic resonance (Endo-MR) coil equipped with a balloon and evaluated its imaging performance on pig esophagi.
+The inflatable balloon effectively maintains the esophageal morphology and reduces artifacts around the coil.
+Using T1-weighted and T2-weighted Endo-MR imaging, distinct esophageal layers, including the epithelial layer, lamina propria and muscularis mucosae, submucosa, muscularis propria, and adventitia, were identified, with superior contrast in T2-weighted images.
+Thermal injuries to the mucosa showed clear morphological correlation with Endo-MR images, enabling depth of invasion assessment via signal layer continuity.
+Compared to EUS, Endo-MR provided greater imaging stability in ex vivo environment (P < 0.01).
+These findings demonstrate that Endo-MR offers high spatial resolution and stable image quality, enabling detailed visualization of fine esophageal microstructures and small lesions, thus holding promising potential for clinical diagnosis.

@@ -1,0 +1,13 @@
+Selenium (Se) deficiency, affecting hundreds of millions of individuals worldwide, is linked to increased incidence of colorectal cancer (CRC), yet tumors paradoxically accumulate Se to evade ferroptosis and promote metastasis.
+Therefore, understanding the prognostic impact of Se status at diagnosis is crucial to consider and enable personalized interventions.
+Four Se markers, namely total-Se, the circulating selenoproteins GPx3 and SELENOP, and autoantibodies to SELENOP, were analyzed in participants of the ongoing Colorectal Cancer Study of Austria (CORSA).
+Final analyses included 519 participants (n = 153 tumor-free, n = 255 adenoma and n = 111 CRC).
+Subjects were enrolled following a positive fecal immunochemical test, underwent a colonoscopy for diagnosis, and were followed up for 15 years.
+Total-Se concentration and GPx3 activity did not differ across groups, but SELENOP concentrations were lower in CRC (median (IQR); controls: 2.9 (0.9), adenoma: 2.8 (1.0), CRC: 2.4 (0.9); p < 0.001).
+Prevalence of SELENOP autoimmunity was <1 % in controls, but >5 % in patients.
+Total Se and SELENOP levels above the median were associated with better survival in all groups.
+SELENOP displayed an inverse association with mortality in fully adjusted models (HR(CI) per SD for SELENOP; controls: 0.62(0.46-0.83), adenomas: 0.73(0.59-0.90), CRC: 0.64(0.49-0.84)).
+Adding any Se biomarker, particularly SELENOP, to a model with established clinical parameters improved prognostication, and the highest prognostic values were observed when including SELENOP or all three Se biomarkers.
+Data-driven clustering analysis identified three distinct clusters based on Se markers, one of which displayed a remarkably increased risk for mortality (HR; 1.8).
+We conclude that SELENOP deficiency at the time of diagnosis is inversely associated with mortality risk and improves prognostication over clinical parameters.
+As selenoprotein expression is a modifiable parameter mainly dependent on selenium intake, the personalized correction of a diagnosed deficiency should be investigated in future studies to improve CRC patient survival.

@@ -1,0 +1,10 @@
+Emerging viral infections represent a threat to global health, and the recent outbreak of novel coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2, novel coronavirus, 2019-nCoV) exemplifies the risks (, ).
+To assess whether RNA editing could be involved in human host responses to SARS-CoV-2 infections, we started from publicly available RNA sequencing datasets from bronchoalveolar lavage fluids (BALF) obtained from patients diagnosed with COVID-19.
+The low editing frequencies we observe resembles the editing present on human transcripts containing Alu sequences, which were found in a limited number in those early datasets.
+There is no evidence of a sequence context preference if we use a larger dataset such as REDIportal (), which includes >1.5 M sites in Alu repeats (fig. S3).
+A comparison of the SNV datasets from the transcriptomic and genomic analyses reveals a different weight of A-to-I and C-to-U changes (Figs. 2B and 4A), with an underrepresentation of A-to-I in the viral genomes.
+We used REDItools 2 (, ) and JACUSA () to call the SNVs using the following command line:
+Bcftools () has been used to calculate total allelic depths on the forward and reverse strand (ADF and ADR) for AS_StrandOddsRatio calculation, with the following command line:
+Logo alignments were calculated using ggseqlogo, using either the pooled dataset or the dataset of recurring SNVs.
+SARS-CoV-2 genomic sequences were downloaded from GISAID (https://www.gisaid.org/) and aligned with MUSCLE ().
+The COVID-19 outbreak has become a global health risk, and understanding the response of the host to the SARS-CoV-2 virus will help to combat the disease.

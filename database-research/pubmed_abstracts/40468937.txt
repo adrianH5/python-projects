@@ -1,0 +1,14 @@
+Cyclin and Cyclin-dependent kinases (CDKs) play a key role in the progression of the cell cycle including transcription, metabolism, apoptosis, etc.
+Different phases of the cell cycle like G1, S, G2, and M have specific cyclins and CDKs, each with specific functions as checkpoints to regulate the transfer of cells from one phase to another.
+The kinases ensure proper replication of DNA in the daughter cells while fault at any stage of the cell phase induces apoptosis of the faulty cell.
+Hence, CDKs are considered important targets for developing chemotherapeutics against cancers.
+To review the published work on small molecules belonging to diverse chemical classes with potential CDK inhibitory and anticancer activities reported in the last ten years and to give an overview of the chemical structures that may be employed in designing novel CDK inhibitors with improved cancer therapeutic.
+Literature search has been carried out using different search engines like Google, Elsevier, Science Direct, RSC, PubMed, etc.
+for the publications of small molecules as CDK inhibitors and anticancer agents.
+All the structures have been drawn using Chemdraw software.
+Several classes of molecules, including nitrogen heterocycles, macrocyclic, and natural products have been the most promising CDK inhibitors with anticancer activities.
+Though CDK 4/6 inhibition is most significant for anticancer activity and has been shown by most of the molecules but the inhibition to other CDKs including 1, 2, 7, 9 has also been observed.
+Further CDK4/6 inhibitors have been investigated for the treatment of breast cancer in combination with radiotherapy where no untoward toxicities were observed.
+Several molecules have shown promising CDKs inhibition with anticancer activities against different cancer cell lines.
+The most important class being of nitrogen heterocycles.
+Though some of these molecules are in different phases of clinical trials and there are many lead molecules for judicious structural modulation to develop more specific and selective CDKs inhibitors as anticancer agents.

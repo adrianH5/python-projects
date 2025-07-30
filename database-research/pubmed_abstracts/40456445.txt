@@ -1,0 +1,4 @@
+Natural Killer (NK) cell therapy has shown strong potential for cancer treatment; however, NK cell efficacy is limited by their short lifespan and suppression within the tumor microenvironment.
+One factor contributing to this suppression may be the activation of the cyclic GMP-AMP synthase (cGAS) pathway.
+Since the discovery of cGAS as a DNA sensor, there has been renewed interest in DNA sensing mechanisms, although the role of DNA sensing-mediated innate immune responses on NK cells remains unclear.
+Poxin, a protein derived from DNA viruses, is known to degrade the cGAS signaling product cyclic GMP-AMP (cGAMP) and could potentially alleviate DNA sensing-related stress in NK cells.

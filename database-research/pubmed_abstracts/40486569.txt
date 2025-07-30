@@ -1,0 +1,8 @@
+Iron is an essential element for cell growth and metabolism, but its dysregulation is a key feature in the pathogenesis of various cancers, including breast cancer.
+Cancer cells require elevated iron levels to support their rapid growth, and as such, iron chelation has emerged as a promising therapeutic strategy.
+Iron chelators work by binding free iron in cancer cells, preventing its use in critical biological processes and thereby disrupting tumor cell proliferation.
+This review discusses the mechanisms of action of iron chelators in breast cancer therapy, highlighting how they induce oxidative stress, impair DNA repair, and alter cellular iron homeostasis, ultimately leading to cancer cell death.
+Iron chelation therapy has been explored in several clinical and preclinical studies for its potential to enhance the effectiveness of conventional breast cancer treatments, including chemotherapy and radiotherapy.
+By depleting intracellular iron, iron chelators can sensitize cancer cells to these treatments, increasing the cytotoxic effects and improving patient outcomes.
+Additionally, novel iron chelators with higher specificity for tumor cells are being developed, which aim to minimize off-target effects and enhance therapeutic efficacy.
+While iron chelation therapy has shown promise in early-phase trials, further research is needed to optimize these agents for clinical use in breast cancer treatment.

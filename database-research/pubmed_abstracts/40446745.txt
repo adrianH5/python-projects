@@ -1,0 +1,6 @@
+Tumors are complex diseases caused by the proliferation and metastasis of malignant cells, posing a significant threat to human health due to their high incidence and mortality rates.
+Breast cancer currently has the highest incidence among cancers worldwide, and breast cancer stem cells (BCSCs) play a crucial role in the onset, malignant progression, and poor prognosis of breast cancer.
+With advancing research, metabolic reprogramming of tumor cells has been identified as a key factor in tumor development, metastasis, and drug resistance.
+Therefore, this review explores the targeting of metabolic reprogramming in BCSCs, examining the regulation of glycolysis, oxidative phosphorylation (OXPHOS), lipid metabolism, and amino acid metabolism within BCSCs, and their impact on proliferation, self-renewal, epithelial-mesenchymal transition (EMT), and acquired drug resistance.
+Additionally, the review discusses the potential of metabolism-related drugs in the prevention and treatment of breast cancer.
+In summary, this review provides new strategies for the clinical management of breast cancer.

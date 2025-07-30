@@ -1,0 +1,3 @@
+Hypothyroidism, hyperthyroidism, thyroid nodules, and other thyroid disorders are common around the world, affect millions of people worldwide, and untreated health conditions may lead to serious health issues.
+An accurate and timely diagnosis serves as crucial for proper management and medication.
+This study utilizes a dataset from the UCI machine-learning repository to put forward the comprehensive machine-learning technique for diagnosing thyroid disorders.

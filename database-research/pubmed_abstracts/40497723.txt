@@ -1,0 +1,4 @@
+Vaccines are needed to prevent congenital human cytomegalovirus (HCMV) infections.
+This study used the guinea pig cytomegalovirus (GPCMV) model to examine replication-deficient whole-virus vaccines for protection against maternal viremia and congenital CMV infection.
+Two recombinant GPCMVs, GP51-DD and GP52-DD, were engineered with destabilization domains fused to the essential viral late proteins GP51 and GP52.
+These viruses, predicted to replicate in the presence of the synthetic ligand Shield-1 but not in its absence, were evaluated for Shield-1 dependence

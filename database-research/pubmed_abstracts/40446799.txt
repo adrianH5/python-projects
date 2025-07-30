@@ -1,0 +1,6 @@
+Mycobacterium bovis Bacillus Calmette-Guérin (BCG) is the vaccine against tuberculosis and an immunotherapy for bladder cancer.
+When administered intravenously, BCG reprograms bone marrow hematopoietic stem and progenitor cells (HSPCs), leading to heterologous protection against infections.
+Whether HSPC reprogramming contributes to the anti-tumor effects of BCG administered into the bladder is unknown.
+We demonstrate that BCG administered in the bladder colonizes the bone marrow and, in both mice and humans, reprograms HSPCs to alter and amplify myelopoiesis.
+BCG-reprogrammed HSPCs are sufficient to confer augmented anti-tumor immunity through production of neutrophils, monocytes, and dendritic cells that broadly remodel the tumor microenvironment, drive T cell-dependent anti-tumor responses, and synergize with checkpoint blockade.
+We conclude that bladder BCG acts systemically through hematopoiesis, highlighting the broad potential of HSPC reprogramming to enhance the innate drivers of T cell-dependent tumor immunity.

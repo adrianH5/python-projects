@@ -1,0 +1,7 @@
+Large-scale cohorts, like the European Prospective Investigation into Cancer and Nutrition (EPIC), provide invaluable resources for studying the potential health impacts of dietary exposures, including those coming from the presence of contaminants and additives in food.
+The EFSA has developed a food classification system-initially referred to as FoodEx, which was revised and relaunched as FoodEx2.
+This system standardises the identification and characterisation of food items and is used to classify the items in EFSA's chemical monitoring and food consumption databases.
+This study presents the methodological concepts, challenges, and potential of using an integrated and stepwise approach for calculating novel dietary-related indicators such as food contaminants and additives, in cohorts like EPIC, using the EFSA FoodEx2 classification.
+As an example, cadmium exposure is used to illustrate the different procedures involved in this process.
+This paper serves as a reference for future epidemiological studies using the EPIC food additives and contaminants data and could facilitate the implementation of similar procedures in other cohorts that aim at investigating food additives and contaminants.
+The data generated

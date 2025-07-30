@@ -1,0 +1,3 @@
+Lung adenocarcinoma (LUAD) is the most prevalent subtype of non-small cell lung cancer (NSCLC), characterized by high molecular and pathological heterogeneity.
+While traditional histopathology plays a key role in LUAD diagnosis, integrating computational pathology with multi-omics analysis provides novel insights into tumor microenvironment (TME) dynamics and molecular mechanisms.
+However, the relationship between pathological histological features and genomic instability in LUAD remains poorly understood.

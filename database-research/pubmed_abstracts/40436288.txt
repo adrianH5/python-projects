@@ -1,0 +1,14 @@
+Endometrial cancer (EC) exhibits significant resistance to ferroptosis.
+Interleukin (IL)-6 is a pleiotropic cytokine that is a regulator of the expression of various oncogenes and tumour suppressor genes.
+Notably, N6-methyladenosine (m6A) modification has been demonstrated to play a significant role in tumour occurrence and development.
+However, IL-6 regulatory role in ferroptosis during carcinogenesis and whether it affects m6A modification in EC remain unclear.
+The present study aimed to investigate the effect of IL-6 on m6A modification in EC.
+The degree of ferroptosis of EC in vitro and in vivo was evaluated using a cell proliferation assay, western blotting, total reactive oxygen species (ROS) detection, a lipid peroxidation assay, and a subcutaneous xenograft tumour model.
+The regulation of downstream molecules by KIAA1429 was confirmed using dot blot, RNA and methylated RNA immunoprecipitation (RIP), a RNA stability assay, and fluorescence in situ hybridisation (FISH).
+IL-6 upregulated overall m6A levels in EC cells, with the KIAA1429 expression upregulation being the most significant.
+Functionally, IL-6 inhibited EC cell ferroptosis and promoted proliferation.
+The downregulation of KIAA1429 triggered ferroptosis, subsequently suppressing the proliferation of EC cells in vitro and tumour growth in vivo.
+Mechanistically, IL-6 activated KIAA1429 expression through the JAK1/STAT3 pathway.
+KIAA1429 regulated DDIT3 expression and promoted its degradation through m6A modification.
+IL-6 is crucial in EC cell ferroptosis resistance.
+Overall, the IL-6/KIAA1429/DDIT3 axis is a novel pathway that promotes EC progression and provides novel directions for targeted EC therapy.

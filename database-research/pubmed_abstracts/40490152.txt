@@ -1,0 +1,3 @@
+Despite the booming targeted protein degradation technologies, degrading cell membrane proteins remains an enormous challenge.
+In particular, only a limited approach is appropriate for the degradation of the G protein-coupled receptor (GPCR) superfamily.
+It is encouraging that accelerating GPCRs' endocytosis and switching their post-endocytic fate from recycling to lysosomal degradation would represent a promising strategy for developing chemical degraders of GPCRs.

@@ -1,0 +1,3 @@
+Lung cancer is the most widespread and fatal oncological disease, with lung adenocarcinoma (LUAD) being the predominant subtype, characterized by a poor long-term survival rate.
+Although the N7-methylguanosone (m7G) genes have been reported to be correlated with the prognosis of lung cancer, m7G gene-associated Long non-coding RNA (lncRNAs) have been poorly studied in LUAD.
+This study aimed to explore the prognostic value of an m7G-related lncRNAs model in LUAD.

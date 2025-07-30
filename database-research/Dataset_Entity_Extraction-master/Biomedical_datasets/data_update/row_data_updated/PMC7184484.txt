@@ -1,0 +1,10 @@
+The genome (accession no. KP981644) is from the most virulent pantropic CCoV invading multiple canine organs (Buonavoglia et al.
+The green arrow points to CCoV (accession KC175339 in the phylogeny) that had been propagated extensively in cell culture before sequencing.
+There are two genomes sequenced for CRCoV (accession nos. JX860640 and KX432213).
+3, genome accession KC175339).
+The interpretation is further corroborated by a recent report that a high proportion of COVID-19 patients also suffer from digestive discomfort (Pan et al. 2020).
+In a comprehensive study of the first 12 COVID-19 patients in the United States (Midgley and The COVID-19 Investigation Team, 2020), one patient reported diarrhea as the initial symptom before developing fever and cough (Midgley and The COVID-19 Investigation Team, 2020).
+Stool samples from 7 out of 10 patients tested positive for SARS-CoV-2, including 3 patients with diarrhea (Midgley and The COVID-19 Investigation Team, 2020), corroborating a previous report of SARS-CoV-2 detection in stool (Holshue et al. 2020).
+In particular, live SARS-CoV-2 virus was isolated from stool of a COVID-19 patient (Zhang et al. 2020).
+Nine SARS-CoV-2-like genomes have recently been isolated and sequenced from pangolin and deposited in GISAID database (gisaid.org).
+The one with the highest sequence coverage (GISAID ID: EPI_ISL_410721) has an ICpG value of 0.3929, close to the extreme low end of ICpG values observed among available SARS-CoV-2 genomes.

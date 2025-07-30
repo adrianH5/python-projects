@@ -1,0 +1,4 @@
+Loss of function in the chromatin remodeler CHD7 causes CHARGE syndrome, characterized by variable penetrance and diverse abnormalities.
+However, establishing genotype-phenotype correlations has been challenging, as most CHD7 inactivating mutations are null alleles.
+Through CHD7 missense variant analysis at potential phosphorylation sites, we identified T730 (T720 in mice) as a critical residue associated with pathogenesis.
+Using a CHD7 T730 missense variant (Chd7

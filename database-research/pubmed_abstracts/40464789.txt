@@ -1,0 +1,13 @@
+Interleukin-2-inducible T-cell kinase (ITK) is an essential enzyme that plays a key role in both the activation and differentiation of T-cells.
+As a member of the Tec family of non-receptor tyrosine kinases, ITK is predominantly expressed in T cells, exerting a critical influence on T-cell receptor signaling and downstream pathways.
+Moreover, ITK regulates cytokine production, notably interleukin-2 (IL-2), and the differentiation of Th2 cells.
+In the context of immunology, ITK has garnered significant attention, particularly for its potential to address immune-related conditions such as cancer and autoimmune diseases, including lymphoproliferative diseases.
+In this study, we performed a structure-based virtual screening utilizing a library of plant-based small molecules to identify inhibitors of ITK.
+The initial selection of phytochemicals was guided by adherence to the Lipinski rule of five.
+After molecular docking, top-ranked hits in terms of binding affinity underwent screening for physicochemical and pharmacokinetic properties and PASS analyses.
+The three selected phytochemicals, Withanolide A, Amorphispironon E, and 27-Deoxy-14-hydroxywithaferin A (27-DHA) demonstrated remarkable binding affinity to ITK with a docking score of - 9.2, - 9.1, and - 9.1 kcal/mol, respectively.
+All the phytochemicals showed specific binding to the ATP-binding site of ITK as revealed by protein structure network analysis.
+These selected phytoconstituents underwent all-atom molecular dynamics (MD) simulations, spanning 100 ns each.
+The simulation results showed that ITK with elucidated compounds exhibited stability with minimal dynamics.
+In addition, we performed an MM-PBSA analysis, which indicated a strong binding affinity.
+This study highlights the potential of Withanolide A, Amorphispironon E, and 27-DHA as preliminary leads for further experimental validation and preclinical investigation toward therapeutic development.

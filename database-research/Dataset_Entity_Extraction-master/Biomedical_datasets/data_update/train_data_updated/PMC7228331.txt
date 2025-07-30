@@ -1,0 +1,14 @@
+This new coronavirus disease (COVID‐19) has caused more than 3100 deaths, mainly in continental China and mostly on elderly people, who are affected by fever and serious respiratory diseases like pneumonia.
+, 
+,
+SARS‐CoV‐2 has a single‐stranded RNA genome and its length is similar to other related coronaviruses, with an extension near 29 890 bp (GenBank NC_045512.2).
+The most related genomes available in public databases were bat‐SL‐CoVZC45 (GenBank MG772933) with an 87.99% sequence identity and bat‐SL‐CoVZXC21 (GenBank MG772934) with an 87.23% sequence identity,
+ followed by the human viruses SARS‐CoV‐Tor2 (GenBank NC_004718) and MERS‐CoV (GenBank NC_019843) with a 79.0% and 51.8% of nucleotide identity, respectively.
+There are also at least six predicted ORFs as hypothetical proteins with no associated function.
+, 
+,
+Near 286 complete genomes of SARS‐CoV‐2 and related viruses, has been submitted to the GISAID database (www.gisaid.org/CoV2020) collecting genetic information of the outbreak worldwide.
+Recently Tang et al
+ and GISAD database in the SARS‐CoV‐2 portal defined three subtypes: S, G, and V, according to nucleotide variants that produce amino acid changes.
+COVID‐19 cases in Spain started to be reported since February 1st with a very low number of cases for about a month, where the reported cases may be underestimated, and after a month the infected people started to raise over a hundred patients.
+,

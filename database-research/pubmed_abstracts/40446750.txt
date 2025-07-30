@@ -1,0 +1,13 @@
+Primary liver cancer remains a major contributor to global cancer-related mortality.
+Echinacoside, a bioactive phenylethanoid glycoside isolated from traditional Chinese medicinal herbs, has shown potent anti-tumor effects.
+In this study, poly (lactic-co-glycolic acid) (PLGA) nanoparticles encapsulating echinacoside (E@PLGA and E@PLGA-FA) were synthesized via the double emulsification method.
+Their physicochemical properties, drug release kinetics, and anti-cancer efficacy were systematically evaluated through in vitro and in vivo models.
+Transmission electron microscopy (TEM) and dynamic light scattering (DLS) analyses revealed that the particle sizes of E@PLGA and E@PLGA-FA were approximately 91 nm and 100 nm, respectively, with zeta potentials of -22.50 mV and -31.89 mV.
+The polydispersity index (PDI) of E@PLGA and E@PLGA-FA was determined to be 0.16 ± 0.01 and 0.19 ± 0.01, respectively.
+The encapsulation efficiency and drug-loading capacity of echinacoside in E@PLGA-FA were 28.78 % and 12.05 %, respectively, slightly lower than those in E@PLGA nanoparticles (40.34 % and 16.12 %), likely due to folic acid modification altering PLGA solubility during formulation.
+In vitro release profiles demonstrated pH-dependent drug release: 22 % at physiological pH (7.4) versus 67 % under acidic conditions (pH 5.5) over 12 h, indicating tumor microenvironment-responsive behavior.
+Furthermore, E@PLGA-FA significantly inhibited the proliferation of HepG2 cells, induced apoptosis, caused cell cycle arrest at the G0/G1 phase, and suppressed cell mobility.
+Meanwhile, the protein levels of MMP2, MMP9 and Bax were increased after exposure to E@PLGA and E@PLGA-FA, whereas the protein levels of COL-Ⅰ, COL-Ⅱ, Bcl-2, Cyclin D1, and PCNA were decreased.
+In vivo, E@PLGA-FA effectively inhibited tumor growth, induced tumor cell apoptosis, and exhibited tumor-specific accumulation confirmed by fluorescence imaging.
+In addition, The E@PLGA-FA nanoparticle intervention did not induce pathological damage or inflammatory responses in murine liver and kidney tissues, suggesting a favorable safety profile for this compound.
+In conclusion, we engineered a novel tumor-targeted PLGA-based nanoparticle system for echinacoside delivery, which synergizes pH-responsive drug release, multi-mechanistic anti-cancer effects, and biosafety, offering a promising therapeutic platform for hepatocellular carcinoma.

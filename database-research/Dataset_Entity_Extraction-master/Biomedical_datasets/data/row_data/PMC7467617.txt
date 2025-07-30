@@ -1,0 +1,58 @@
+The current global pneumonia pandemic has been attributed to an outbreak of a novel coronavirus named Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) which causes the infectious disease known as Coronavirus Disease 2019 (COVID-19) [1].
+Symptoms commonly seen in COVID-19 patients include fever, cough, sore throat, dyspnoea [1,4,5].
+Severe COVID-19 manifests as SARS, lung infections, end-stage renal disease and then, death [5,6].
+The virus has also been detected in the faeces and urine of COVID-19 patients, suggesting a faecal-oral transmission route [1].
+COVID-19 is a tale of the immunopathology of SARS-CoV-2.
+Therefore, researchers and clinicians should not only look at inhibiting the virus or managing symptoms associated with the disease but also enhance the ability of the immune system both to prevent and combat COVID-19 [7].
+The major damage inflicted by COVID-19 is due to the overbearing effect of the immune system on virally infected cells.
+About 80% of COVID-19 patients manifest mild to moderate symptoms of the disease which disappear after about 6-10 days [2].
+Even though the molecular dynamics underlying morbidity and mortality is yet to be fully understood, it is apparent that severe cases of COVID-19 are characterized mainly by an unbalanced immune response [9]
+This objective of this case study is to present the pandemic COVID-19 with its associated viremia, cellular oxidation and immune dysfunction.
+The World Health Organization advices that adults should reduce sugar and salt intake during the COVID-19 outbreak [21].
+The major predilection site of COVID-19 are the lungs and excessive oxidative stress of the pneumocytes would make the lungs unfit to combat the disease.
+Individuals that are constantly on drugs that weaken the immune system especially anticancer chemotherapeutic agents are more likely to have severe COVID-19 [28].
+Immunocompromised individuals have a reduced ability to fight COVID-19 and other diseases [31,32].
+Mortalities in COVID-19 can be largely predicted by the number of comorbidities as 8 out of 10 deaths are occurring in individuals with at least one underlying disease [34].
+Older adults are at high risk for severe illness from COVID-19 [35] and the elderly people are more prone to more serious outcomes when infected with SARS-CoV-2 especially acute respiratory distress syndrome (ARDS) and cytokine storm [36].
+Like other coronavirus infections and influenza, diabetes is a risk factor for severe COVID-19 disease.
+Mortality is three-fold higher in patients with diabetes than normal mortalities in COVID-19 [33].
+Also, complications of diabetes make the management of COVID-19 more challenging [32].
+Individuals with this condition are at risk of having severe forms and complications of COVID-19 [39].
+Emerging data suggests that patients with preexisting CVD are at a high risk of mortality from COVID-19 [4,42].
+COVID-19 also causes cardiovascular complications such as myocarditis, arrhythmias, acute heart failure, acute coronary syndromes, cardiogenic shock and death [42].
+As found in SARS, there is a suppression of the release of interferons by infected cells which delays immune response in COVID-19 [7].
+SARS-CoV-2 also attacks the lymphocytes causing lymphocytopenia which is a common diagnostic marker in COVID-19 patients [50].
+Therefore, supplementary dietary antioxidants are needed in the management of COVID-19 to improve immunity [30].
+The aggressive administration of exogenous antioxidants from natural products would largely impart on clinical outcomes of COVID-19 by improving patient’s health, hastening the immunological process and consequently shortening the hospital admission period.
+Innate immune response: the innate immune system serves as the first line of defense in the combat against the viremia associated with COVID-19.
+Interestingly, the role of NK cells in SARS infections has not been established but they have been reported to be reduced in peripheral blood in patients with severe cases of COVID-19 [50].
+Interestingly, type 1 IFN is not detected in COVID-19 patients and also not detected in in vitro SARS-CoV-2 infected cells [54].
+The administration of type 1 IFN to COVID-19 would trigger interferon-mediated immune responses which could have a positive impact on the clinical outcome of severe cases [55].
+This is because as it is with SARS-CoV infection, the acute phase of COVID-19 is characterized by a remarkable reduction in CD4 T cell population and this could be prolonged reaching a lowest point at days 7-9 before returning to normal [50].
+In a 47-year-old female patient with mild case of COVID-19, antibodies were detected as early as four days after infection while the virus could be undetected as early as the 7th day and there were progressive increases in plasma SARS-CoV-2-binding IgM and IgG [56].
+Individuals with HLA-B*46: 01 are reported to be more vulnerable to COVID-19 [53].
+The discovery of the specific HLA molecules and variants involved in COVID-19 would enhance knowledge on the unexplained susceptibility to the disease.
+Unlike in mild cases of COVID-19, severe cases would have an unusually high level of pro-inflammatory cytokines and chemokines such as IL-6, IL-8, MIP-1β, MCP-1 and IFN-γ6, in the plasma.
+T cells are also associated with severe COVID-19 [9].
+To enhance a more effective management of COVID-19, the early prediction of severe cases or high-risk individuals is important.
+Of all cytokine profiles and the cell counts, the Neutrophil to Lymphocyte Ratio (NLR) is the most powerful prognostic indicator in the identification of severe cases of COVID-19 [9,62].
+In a study of 245 COVID-19 patients admitted in hospital, NLR of patients in the highest interquartile had 15.04-fold higher risk of death than patients in the lowest interquartile [62].
+Hyaluronidase can also be administered intranasally [7] and computational approaches present a potential drug discovery option for the COVID-19 [66].
+Chloroquine, a double agent: chloroquine (CQ) and its derivative hydroxychloroquine (HCQ) have been reported to show good promise in the treatment of COVID-19 this is because they present a dual advantage of quelling the cytokine storm and inhibiting the coronavirus [67].
+CQ has been used to shorten the course of the disease and it has been enlisted as one of the trial drugs in the guidelines for the diagnosis and treatment of COVID-19 published by national health commission of China [68].
+In many countries, clinical trials have been approved to validate the efficacy and to establish the ideal therapeutic dose for the treatment of COVID-19.
+Recommendations: vaccine and immune development: the race for the development of a vaccine against COVID-19 is on with the first clinical trial presently taking place in the UK.
+An extensive serological survey is also required to determine the antibody titre of post-COVID-19 patients.
+An idea of an immunity passport has been mooted and it involves the certification of COVID-19 survivors [71].
+Apart from the prophylactic benefits, the aggressive consumption of antioxidant beverages has potential therapeutic value in the face of a COVID-19 infection.
+Adequate vitamin C supplementation is also good for the management of COVID-19 due to their antioxidant and anti-inflammatory effect.
+Clinicians should strive to determine the maximum beneficial dose as research shows that many COVID-19 patients might be under-dosed with vitamin C. Heavy consumption of refined sugar should be avoided as its oxidative effect impairs immune function [18].
+Management of COVID-19 patients: on admission of COVID-19 patients, an early determination of the Neutrophil to Lymphocyte Ratio (NLR) would help to determine the degree of severity of cases [64].
+In this regard, the herbal drink, COVID-organics claimed to combat COVID-19 in Madagascar should be investigated.
+Research and testing: the role of NK cells in combating COVID-19 should be investigated since these are the cells responsible for immunosurveillance of virally infected cells [79].
+Information on the genetic susceptibility to COVID-19 can be obtained from extensive HLA profiling of patients especially when the severity of the case cannot be associated with any known risk factor [53].
+A summary of these recommendations is provided in Table 1.
+COVID-19, caused by SARS-CoV-2 is a tester of the immune system.
+This article aims at critically reviewing the key virulence factors of COVID-19 which are the viremia, cellular oxidation and immune dysfunction.
+A better understanding of the pathological dynamics of COVID-19 would help the general populace to prepare for possible infection by the invisible enemy.
+Immunoprophylactic and immunomodulatory strategies are recommended for the different strata of stakeholders combating the pandemic with the hope that morbidities and mortalities associated with COVID-19 would be drastically reduced.

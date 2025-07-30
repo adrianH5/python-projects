@@ -1,0 +1,7 @@
+Among tumor microenvironment (TME), the entire metabolic characteristics of tumor-resident cells are reprogrammed to benefit the expansion of tumor cells, which count on glutamine in large part to fuel the tricarboxylic acid cycle for energy generation and anabolic metabolism support.
+Endothelial cells that are abducted by tumor cells to form a pathological tumor vascular network for constructing the hypoxic immunosuppressive TME, also rely on glutaminolysis as the "engine" of angiogenesis.
+Additionally, the glutamine metabolic preference benefits the polarization of TAMs towards pro-tumoral M2 phenotype as well.
+Herein, we developed a type of siRNA micelleplexes (MH@siGLS1) to reverse immunosuppressive TME by targeting glutaminolysis within tumor-resident cells for tumor vasculature normalization- and TAMs repolarization-enhanced photo-immunotherapy.
+Tumor cell starvation and antioxidant system destruction achieved by MH@siGLS1-mediated glutaminolysis inhibition could promote photodynamic therapy efficacy, which was available to trigger immunogenic cell death for adaptive antitumor immune responses.
+Meanwhile, glutaminolysis inhibition of tumor endothelial cells and TAMs could realize tumor vascular normalization and TAMs repolarization for antitumor immunity amplification.
+This study provides a unique perspective on cancer treatments by focusing on the interrelations of metabolic characteristics and the biofunctions of various cell types within TME.

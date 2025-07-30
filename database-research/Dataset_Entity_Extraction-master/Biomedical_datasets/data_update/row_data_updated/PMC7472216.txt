@@ -1,0 +1,14 @@
+Italy is one of the countries most- and earliest-affected in Europe by the COVID-19 pandemic (https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6).
+The first autochthonous cases of Coronavirus 2019 Disease (COVID-19) were observed starting from 21 February 2020 in Codogno (Lodi province), determining on 22 February 2020 the establishment of a “red zone” to contain the epidemic, encompassing 11 municipalities.
+A total of 59 SARS-CoV-2 whole genomes were newly-characterized from an equal number of patients affected by COVID-19, attending different clinical centres in Northern and Central Italy, from the beginning of the epidemic (22 February 2020) until 27 April 2020 (Table S1).
+The results were mapped and aligned to the reference genome obtained from GISAID (https://www.gisaid.org/, accession ID: EPI_ISL_412973) using Geneious software, v. 9.1.5 (Biomatters, Auckland, New Zealand) (http://www.geneious.com) [6] or Torrent Suite v. 5.10.1 (Euformatics Oy, Espoo, Finland) or BWA-mem and rescued using Samtools alignment/Map (Hinxton, UK) (v 1.9).
+The newly-characterized 59 genomes plus three previously characterized isolates by us (EPI_ISL_417445-417447) [1] were aligned with a total of 77 Italian sequences available in public databases (GISAID, https://www.gisaid.org/) on 13 May 2020 and 452 genomes sampled in different European and Asian countries (513 and 16, respectively) representing all the different viral clades described in the Nextstrain platform (https://nextstrain.org/).
+The final data set thus included 588 sequences.
+The sampling dates of the entire dataset ranged from 30 December 2019 to 27 April 2020.
+Table S2 shows the accession IDs, sampling dates and locations of the sequences included in the dataset.
+The phylogenetic analysis for clade assignment was performed by RaxML [11] on the entire dataset of 588 genomes.
+A root-to-tip regression analysis was made using TempEst in order to investigate the temporal signal of the dataset [15].
+Two from Chinese patients visiting Italy at the end of January 2020 after being infected in Wuhan and one characterized by us from an Italian subject, living in Padua, sampled in March 2020, not reporting any recent trip outside Italy or contacts with subjects affected by COVID-19 (pp = 0.99) (Figure 1, clade 19A).
+In Italy, values between 2.4 and 3.6 have been estimated in the early phase of COVID-19 epidemic before the control measures were taken [23,24,25].
+We observed that the Re was >1 since the first decade of February, suggesting that the infection was circulating within the population before the first notified (hospitalized) COVID-19 cases.
+Since early February, an effective reproduction number (R e ) greater than 1 was estimated, which then increased reaching the peak of 2.3 in early March, confirming the circulation of the virus before the first COVID-19 cases were documented.

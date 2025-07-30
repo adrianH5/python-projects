@@ -1,0 +1,3 @@
+Cancer survival prediction plays a vital role in enhancing medical decision-making and optimizing patient management.
+Accurate survival estimation enables healthcare providers to develop personalized treatment plans, improve treatment outcomes, and identify high-risk patients for timely intervention.
+However, existing methods often rely on single-modality data or suffer from excessive computational complexity, limiting their practical application and the full potential of multimodal integration.

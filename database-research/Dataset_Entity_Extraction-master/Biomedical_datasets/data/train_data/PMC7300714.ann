@@ -1,0 +1,4 @@
+T1	Dataset 173 228	Global Initiative on Sharing All Influenza Data (GISAID
+T2	URL 230 253	https://www.gisaid.org/
+T3	Dataset 469 475	GISAID
+R1	hasAttr	Arg1:T1	Arg2:T2

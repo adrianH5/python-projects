@@ -1,0 +1,7 @@
+Cancer cells often evade immune detection and destruction by inducing immune suppression genes, which include CTLA-4, TGF-β, and PD-L1, that inhibit immune responses and promote tumour progression.
+Recent studies have highlighted the significance of non-coding RNAs, particularly microRNAs (miRNAs) and long non-coding RNAs (lncRNAs), in regulating these immune suppression pathways.
+miRNAs, short RNA molecules that target mRNA of immune genes at the post-transcription level and influence gene expression.
+Similarly, lncRNAs, which act as molecular scaffolds, sponges, or regulators of gene expression, are involved in modulating immune responses by interacting with miRNAs or directly binding to immune-related genes.
+This review explores the complex interplay between miRNAs, lncRNAs, and immune suppression genes, detailing how these non-coding RNAs contribute to immune evasion in cancer.
+Furthermore, the therapeutic potential of targeting these regulatory networks is examined, highlighting current strategies and challenges in using miRNA and lncRNA modulators to enhance anti-tumour immunity.
+Understanding these intricate regulatory networks offers new insights into the mechanisms of immune suppression in cancer and opens avenues for developing novel therapeutic interventions to restore immune surveillance and improve the efficacy of cancer immunotherapies.

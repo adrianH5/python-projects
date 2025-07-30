@@ -1,0 +1,9 @@
+Arsenic can enter the human body through environmental exposure via food, drinking water, and chemotherapy for cancer.
+Prolonged and excessive exposure to arsenic causes various toxic reactions, leading to diseases that significantly impact health and lifespan.
+Increasing evidence suggests that arsenic damages skeletal muscle tissue by reducing muscle mass and causing atrophy, thereby contributing to conditions such as respiratory and cardiovascular diseases, as well as diabetes.
+Fatty acid β-oxidation is the most efficient mechanism for ATP production and serves as a primary energy source for tissues, including the heart and skeletal muscles.
+However, the metabolic mechanisms underlying arsenic's effects on muscle function and pathogenesis remain incompletely understood.
+In this study, we investigated the role of mitochondrial fatty acid oxidation in arsenic-induced muscular damage using mouse skeletal muscle C2C12 cells.
+Our results demonstrated a dose-dependent inhibitory effect of sodium arsenite (0-2 µM, 72 hours) on C2C12 cells proliferation, viability, and differentiation (indicated by reduction of myogenic differentiation 1 mRNA expression).
+Arsenic exposure disrupted mitochondria through increasing reactive oxygen species production, reducing mitochondrial membrane potential to 16.45%, downregulating mitochondrial fatty acid metabolism-related enzymes (carnitine palmitoyltransferase 1B to 15.05% and choline kinase beta mRNA to 49.94%), and decreasing mitochondrial DNA copy number to 42.08%.
+These findings suggest that arsenic-induced pathological changes in skeletal muscle are associated with impaired mitochondrial membrane function, disrupted fatty acid metabolism, and reduced mitochondrial DNA content in muscle cells.

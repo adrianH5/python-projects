@@ -1,0 +1,12 @@
+Quadruple-negative breast cancers (also known as AR-triple negative (TN) BC) lack the expression of estrogen receptor (ER), progesterone receptor (PR), human epidermal growth factor receptor 2 (HER2), and androgen receptor (AR).
+AR-TNBC exhibits aggressive characteristics and a poor prognosis.
+Because of the lack of expression of therapeutic targets, limited therapeutic options exist for patients with AR-TNBC.
+Hence, new therapeutic targets and risk-predictive biomarkers are required for patients with AR-TNBC.
+In this study, we investigated the role of kinesin-like protein 1 (KIFC1) in AR-TNBC.
+We found that C/EBPβ binds to the KIFC1 promoter and induces its expression in the AR-TNBC cells.
+Notably, AR status was negatively correlated with KIFC1 levels.
+We also found that AR transcriptionally repressed the transcription factor C/EBPβ, which regulates the expression of KIFC1.
+The lack of AR expression in AR-TNBC led to C/EBPβ upregulation, thereby enhancing KIFC1 expression.
+Moreover, upregulation of KIFC1 in AR-TNBC increased cancer cell proliferation and promoted epithelial-mesenchymal transition (EMT), contributing to the aggressive characteristics of AR-TNBC.
+Inhibiting KIFC1 using the small molecule inhibitor CW069 significantly reduced tumor volume in mice bearing AR-TNBC xenografts, but not in those with triple-negative breast tumors.
+These data suggest that upregulation of C/EBPβ and KIFC1 contributes to the aggressive characteristics and poor prognosis of AR-TNBC, providing strong evidence that targeting KIFC1 using kinesin inhibitors could be a viable therapeutic approach for patients with AR-TNBC.

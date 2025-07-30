@@ -1,0 +1,7 @@
+Pancreatic ductal adenocarcinoma (PDAC) is one of the most heterogeneous and deadly cancers.
+This review examines recently implemented strategies to integrate predictive tools and targeted therapies to improve treatments personalization and patient outcomes.
+Predictive transcriptomic signatures based on machine learning should optimize first-line chemotherapy selection, while organoid-based chemo-profiling could help late-line or non-standard treatments, particularly when transcriptomic signatures are unavailable to guide therapeutic decisions.
+Liquid biopsies enable real-time, non-invasive monitoring of tumour progression and resistance.
+Targeted therapies, even limited to a small subset of PDAC patients, exploit specific molecular vulnerabilities and several of those are under clinical evaluation to join PDAC armamentarium.
+Given PDAC's biological complexity, a multimodal approach combining predictive tools, functional testing, and molecularly-guided therapies is required to progress.
+Implementing those strategies in routine practice, combined with technological and clinical advances should enhance the precision, accessibility, and effectiveness of personalized PDAC treatment, as well as expand therapeutic options with new targets.

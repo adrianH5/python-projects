@@ -1,0 +1,13 @@
+Primary gastrointestinal diffuse large B-cell lymphoma (PGI-DLBCL) is the most common lymphoma in the gastrointestinal tract, yet research on its clinicopathological characteristics and long-term prognosis across different sites is lacking.
+This study aims to assess these aspects in PGI-DLBCL patients using data from the Surveillance, Epidemiology, and End Results (SEER) database.
+Patients diagnosed with PGI-DLBCL between 2000 and 2021 were extracted from the SEER database.
+The clinicopathological characteristics of PGI-DLBCL in the stomach, small intestine, and colorectum were compared using Chi-square tests, and overall survival (OS) as well as cancer-specific survival (CSS) were evaluated using Kaplan-Meier curves and Cox regression analysis.
+A total of 10,935 patients were enrolled, with the stomach being the most prevalent site (53.3%), followed by the small intestine (26.3%) and colorectum (20.5%).
+Gastric PGI-DLBCL patients had higher proportions of elderly, females, and stage III/IV disease, primarily treated with chemotherapy.
+Patients with small intestine and colorectal PGI-DLBCL showed significantly better OS (HR 0.91, 95% CI 0.88-0.98, P = 0.021; HR 0.89, 95% CI 0.82-0.95, P < 0.001) and CSS (HR 0.93, 95% CI 0.81-0.98, P = 0.022; HR 0.86, 95% CI 0.78-0.94, P < 0.001) compared to gastric PGI-DLBCL.
+OS and CSS were similar between small intestine and colorectal PGI-DLBCL (P > 0.05).
+Five-year OS rates were 48.8%, 55.4%, and 52.8% for stomach, small intestine, and colorectum, respectively, with corresponding CSS rates of 61.5%, 65.6%, and 66.0%.
+Multivariate Cox regression identified age, race, marital status, tumor stage, location, and treatment as independent risk factors for OS and CSS.
+For gastric DLBCL, radiotherapy plus chemotherapy was most effective in improving prognosis, while surgery combined with chemotherapy was superior for small intestine and colorectal DLBCL.
+Gastric PGI-DLBCL has distinct clinicopathological features from small intestine and colorectum PGI-DLBCL, and may have a worse prognosis.
+However, chemoradiotherapy may enhance its outcome.

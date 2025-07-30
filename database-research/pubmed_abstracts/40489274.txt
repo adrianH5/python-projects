@@ -1,0 +1,11 @@
+Accurate pathological image segmentation is crucial for the clinical diagnosis of breast cancer.
+However, existing methods of pathological segmentation face challenges due to the variability and complexity of breast cancer on pathological images.
+To address these issues, we propose a novel segmentaion network called templatematching pathological segmentation network.
+Our method incorporates an innovative template matching strategy inspired by the diagnostic process of pathologists.
+The template matching strategy is to utilize visual transformer to establish a correlative relationship between cancer lesions and corresponding templates.
+To improve feature utilization of pathological images, PSVTNet introduces detailed information attention and information entropy attention.
+Detailed information attention aims to exploit detailed information by serving as the path connecting shallow-layer and deep-layer features.
+Meanwhile, information entropy attention can redistribute feature weights to high-entropy regions according to the information-entropy attention map.
+Additionally, this work releases a comprehensive pathological dataset that comprises labeled pathological images.
+These images are collected from breast and stomach cancers with hematoxylin&eosin and human epidermal growth factor receptor-2 staining.
+Extensive experiments demonstrate that PSVTNet significantly outperforms state-of-theart methods on pathologic images of breast cancer, but can also process pathologic images of stomach cancer carrying with same diagnosed features as the breast cancer.

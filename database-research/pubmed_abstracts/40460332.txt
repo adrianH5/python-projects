@@ -1,0 +1,3 @@
+Rapid advancements in natural language processing have led to the development of sophisticated language models.
+Inspired by their success, these models are now used in health care for tasks such as clinical documentation and medical record classification.
+However, language models are prone to errors, which can have serious consequences in critical domains such as health care, ensuring that their reliability is essential to maintain patient safety and data integrity.

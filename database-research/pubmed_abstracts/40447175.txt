@@ -1,0 +1,9 @@
+Zearalenone (ZEA), a non-steroidal estrogenic mycotoxin produced by Fusarium species, is well-known for its potent estrogen-like effects, which can lead to reproductive toxicity and toxicity in various organs.
+Although several studies have reported its nephrotoxic effects, the molecular mechanisms underlying ZEA-induced toxicity remain poorly understood.
+The present study investigates the effects of ZEA on the expression levels of apoptosis and endoplasmic reticulum (ER) stress-related genes, as well as selected chromatin-modifying enzyme coding genes, miRNA profiles associated with cancer pathways, and global histone modifications (H3K4me3, H3K9me3, H3K27me3, and H3K9ac) in human embryonic kidney epithelial (HEK-293) cells exposed to 1-50 μM ZEA for 24 h. The results indicated that 10 and 50 μM ZEA induced apoptosis through upregulating Bcl-2, CASP3, CASP9, and p53.
+Alterations in the expression levels of ER stress-related genes, such as GRP78, PERK, ATF4, IRE2, CHOP, and eIF2α, could contribute to ZEA-induced toxicity.
+No significant changes were observed in the expression levels of chromatin-modifying enzyme coding genes, including EZH2, G9a, HAT1, RIZ1, SETD1A, and SIRT1, DNA methylation-related genes such as DNMT1, DNMT3A, and DNMT3B.
+However, SETD8 and Suv39h1 exhibited significant changes at 50 μM of ZEA.
+Moreover, global histone modification levels significantly decreased at 50 μM ZEA exposure for 24 h. Chromatin immunoprecipitation (ChIP) results revealed significant changes in H3K27me3, H3K9me3, and H3K9ac modifications on the ATF4, CHOP, Bcl-2, and p53 genes following ZEA exposure.
+miRNA array analysis showed notable and significant reductions in the expression levels of several miRNAs.
+The results obtained from this comprehensive study are expected to make a significant contribution to the elucidation of ZEA toxicity.

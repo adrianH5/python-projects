@@ -1,0 +1,6 @@
+Hepatocellular carcinoma is a malignant tumor with a high mortality rate that seriously endangers human health.
+Although there are various treatments for hepatocellular carcinoma, the 5-year survival rate and prognosis of patients are still poor, depending on the stage.
+The proposal of immunogenic cell death provides a new idea and direction for the treatment of HCC.
+A variety of drugs act as effective inducers of ICD to induce the immunogenicity of tumor cells, significantly kill tumor cells, activate the body's inherent and adaptive immunity while producing and releasing damage-related molecular patterns, and significantly improve the treatment effect and side effects.
+This article briefly classifies the existing ICD inducers and describes how DAMPs change in this process.
+By summarizing the existing ICD-related studies applied to HCC treatment and proposing improvement methods for existing problems, this paper provides a theoretical summary for the future exploration of new therapies for HCC.

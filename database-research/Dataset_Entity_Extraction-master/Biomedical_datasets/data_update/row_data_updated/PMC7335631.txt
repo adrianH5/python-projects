@@ -1,0 +1,4 @@
+The present pandemic situation of the Severe Acute Respiratory Syndrome (COVID-19) is caused by the RNA virus SARS-CoV2 which is characterized by its rapid mutations up to a million times higher than that of their hosts [1].
+From the NCBI virus database, all the protein sequences of 3617 SARS-CoV2 genomes were fetched.
+In the NCBI database, as on June 6, 2020, total number of available complete genome sequences of SARS-CoV2 across the world is 3617.
+In the NCBI database, as on June 6, 2020, total number of available complete genome sequences of SARS-CoV2 across the world is 3617 on which the present study of mutation over the envelope protein is performed. .    •

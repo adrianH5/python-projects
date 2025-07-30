@@ -1,0 +1,7 @@
+However, as the antiretroviral activities of these and other A3 proteins require viral particle incorporation in virus-producing cells (37), A3-related effects could be excluded in the postentry restriction as all of our viral stocks were produced in 293T cells.
+However, a putative P. alecto TRIM5 orthologue with 78% coverage and 57% identity to human TRIM5α (GenBank accession no. ELK09387.1) was previously annotated during a high-throughput analysis of multiple bat genomes (17).
+The 5′RACE-derived TRIM5 transcript (Genbank accession no. MT649092) was aligned with the putative TRIM5 orthologue ELK09387.1.
+Having identified and cloned the full-length P. alecto TRIM5 cDNA, we used a lentiviral vector to stably express the predicted protein with an N-terminally incorporated hemagglutinin (HA) epitope tag in CrFK cells (Fig. 4A).
+A cDNA with 99.6% amino acid identity to the longest predicted P. alecto MX2 isoform (NCBI accession no.
+There were a total of 401 positions in the final data set.
+The COVID-19 pandemic suggests that bat innate immune systems are insufficiently characterized relative to the medical importance of these animals.

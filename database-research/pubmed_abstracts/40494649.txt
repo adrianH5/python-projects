@@ -1,0 +1,5 @@
+Prostate-specific membrane antigen (PSMA) targeted radioligand therapy (TRT) for metastatic castration-resistant prostate cancer has demonstrated significant potential.
+This study aimed to develop an optimal radiotherapeutic agent suitable for high-level PSMA expression by optimizing the ligand structure with albumin-binding zwitterionic strategies to increase tumor uptake and retention time and to explore the effects of these strategies on the in vitro and in vivo properties of PSMA inhibitors.
+All precursors were synthesized based on PSMA-targeting agent Flu-1.
+The radioligands were investigated for their physicochemical properties, imaging, and biodistribution by means of gallium and lutetium labeling to evaluate their pharmacokinetic properties, as well as their affinity and specificity for PSMA.
+The therapeutic effect of radioligands was systematically evaluated in [

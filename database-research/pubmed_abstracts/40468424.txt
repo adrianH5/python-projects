@@ -1,0 +1,16 @@
+This study investigates the molecular mechanism of action of F4B1, a novel oleanolic acid derivative in human lung adenocarcinoma cells.
+F4B1 is a naturally occurring oleanolic acid derivative that was isolated and purified from the leaves of Sesbania grandiflora.
+Structural analyses were carried out using 1D and 2D NMR, FT-IR, and mass spectrometric analyses.
+MTT assay was employed to evaluate antiproliferative effects in A549 (a model for lung cancer), MCF-7 (a model for breast cancer), HEP-2 (a model for head and neck cancer) and in MRC-5 (human lung fibroblast cells).
+Fluorescence staining, scanning electron microscopy, and flow cytometry were employed to study apoptosis and cell cycle.
+Western blotting, RT-PCR, and immunofluorescence techniques were followed to study the mechanisms of cell death.
+Schrodinger software was employed for docking studies.
+While preliminary screening was conducted in multiple cell lines, A549 cells were chosen for further mechanistic exploration based on their higher sensitivity to F4B1 treatment.
+F4B1 blocks the proliferation and causes intrinsic mode of cell death in lung adenocarcinoma cells.
+In particular, the above anticancer effect was mediated through a mechanism that is associated with the inactivation of NF-kappa B signaling and suppression of cyclin D1 expression leading to cell cycle arrest at the G1/S phase.
+Our study confirms that F4B1 induces apoptosis, as confirmed through Annexin V staining results.
+It is intrinsic apoptosis, as evidenced by upregulation of pro-apoptotic markers (BAX), downregulation of anti-apoptotic markers (BCL-2), cytochrome C release, activation of caspase-9, and caspase-3.
+These results establish the involvement of the mitochondrial-mediated apoptotic pathway.
+The pathway also involved the suppression of the proto-oncogene c-Myc both at the transcriptional and translational levels.
+Docking studies show that F4B1 has a high affinity binding towards CXCR4 and SRC kinase.
+Our findings specifically contribute to understanding the mechanism of F4B1, the isolated molecule from S. grandiflora, as an anticancer drug candidate and will hopefully pave the way toward further studies.

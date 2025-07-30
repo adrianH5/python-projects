@@ -1,0 +1,3 @@
+Stimulator of interferon genes (STING) is a critical innate immune protein that potentiates anticancer immunity.
+An adjuvanted micelle, PC7A, directly binds to STING and coordinates robust immune signaling after local tumor delivery but is not optimized for intravenous administration.
+To improve systemic delivery, we engineered a hybrid, STING-activating micelle (HySTING) composed of an immune-stimulating polymer, PEG-

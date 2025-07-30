@@ -1,0 +1,12 @@
+Migracytosis and angiogenesis were crucial in breast cancer (BRCA) progression.
+This study aimed to develop a prognostic signature based on migracytosis- and angiogenesis-related lncRNAs.
+All genetic and clinical data of BRCA were acquired from The Cancer Genome Atlas (TCGA) database.
+A prognostic signature consisting of six lncRNAs (YTHDF3-AS1, AC018445.5, AP005131.1, AC010531.3, MIR200CHG, and AC000067.1) was established through correlation and Cox regression analysis, as well as the least absolute shrinkage and selection operator (LASSO) test.
+The BRCA patients from TCGA were categorized into high-risk and low-risk subgroups.
+Nomograms, calibration plots, Kaplan-Meier survival curves, and receiver operating characteristic (ROC) curves were used to evaluate the overall survival (OS) and predictive value of the signature.
+To explore the biological functions of migracytosis- and angiogenesis-related lncRNAs, enrichment analysis, tumor mutation burden (TMB), and the ESTIMATE algorithm were performed.
+Additionally, consensus clustering was applied to categorize tumor subtypes, and the disparity among all clusters was assessed, including drug sensitivity and immunotherapeutic efficacy.
+The expression levels of prognostic lncRNAs were validated using RT-PCR, while their functional impact on cell proliferation was assessed via the Cell Counting Kit-8 (CCK-8) assay in vitro.
+The results indicated that patients in the high-risk subgroup had a worse prognosis, higher TMB, stronger immune response, and greater sensitivity to immunotherapy.
+In summary, the prognostic risk signature based on migracytosis- and angiogenesis-related lncRNAs was associated with the clinical prognosis of BRCA patients.
+The signature's risk score could potentially be used to predict clinical classification and therapeutic efficacy.

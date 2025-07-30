@@ -1,0 +1,7 @@
+Prostate cancer is the second leading cause of cancer-related death among American men, with a new diagnosis made every 2 min in the United States.
+Advanced cases are commonly treated with androgen deprivation therapy (ADT).
+Despite its effectiveness, treatment failure remains inevitable for many patients, necessitating better predictive tools for clinical management of disease.
+This study presents a data-driven mathematical modeling approach that integrates patient-specific prostate-specific antigen (PSA) time-course data with experimentally measured PSA expression rates to improve the prediction of ADT failure.
+Our findings suggest that post-nadir PSA dynamics, rather than initial decline, hold greater prognostic value and can inform PSA monitoring schedules.
+By employing virtual clones of individual patients, our model integrates routinely collected PSA measurements to dynamically predict ADT failure probabilities at future clinic visits.
+If implemented in clinical practice, this personalized framework could empower oncologists to make proactive, informed treatment decisions and guide timely interventions.

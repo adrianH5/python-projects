@@ -1,0 +1,8 @@
+Pain, particularly chronic pain, is a primary driver for patients seeking physical therapy.
+Inflammation is critically involved in both the pathogenesis and persistence of chronic pain.
+Neuronal PAS domain protein 2 (NPAS2), a core circadian transcriptional regulator, has been implicated in modulating pain-related stress responses.
+First, we investigated the expression of NPAS2 in nociceptive sensitized mice treated with CFA.
+Next, we systematically explored the effects of CFA on astrocyte and inflammatory factor release in NPAS2 knockout mice.
+The results showed that knockout of the NPAS2 gene did not affect the pain threshold of mice under normal physiological conditions, but reduced the mechanical and heat pain thresholds of 50% of CFA pedal-injected mice, resulting in nociceptive sensitization.
+It may be induced by promoting astrocyte activation and inducing cytokine (IL-1β, IL-6, TNF-α, NF-κB) expression.
+These findings suggest that NPAS2 could serve as both a prognostic biomarker for pain chronification and a novel therapeutic target for biologically tailored interventions.

@@ -1,0 +1,1 @@
+This study compared two uncertainty quantification (UQ) metrics to rule out prostate MRI scans with a high-confidence artificial intelligence (AI) prediction and investigated the resulting potential radiologist's workload reduction in a clinically significant prostate cancer (csPCa) detection pathway.

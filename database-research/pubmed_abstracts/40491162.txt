@@ -1,0 +1,7 @@
+The level of heavy metals (HMs) such as chromium (Cr), manganese (Mn), iron (Fe), cobalt (Co), nickel (Ni), copper (Cu), zinc (Zn), arsenic (As), selenium (Se), mercury (Hg), lead (Pb), and vanadium (V) was measured in dust during July and August of 2024, from 39 different gas stations within Erbil city.
+The test was conducted to assess the contamination levels and the possible cancer and noncancer risks.
+The metal concentrations in mg/kg ranged from highest to lowest as follows: (Zn) 4912.41, (Mn) 1501.80, (Fe) 1287.23, (Cu) 543.72, (Pb) 365.34, (Cr) 201.54, (Ni) 164.07, (V) 124.78, (As) 111.74, (Co) 48.30, (Se) 1.17, and (Hg) 1.14 (mg/kg).
+Among the metals, Hg had the lowest concentration of 1.14 mg/kg, while Zn had the highest level of 4912.41 mg/kg.
+Each metal's noncancer and cancer risks through inhalation, ingestion, and dermal routes were estimated using the hazard quotient (HQ), hazardous index (HI), and cancer risk (CR).
+The computed hazardous quotient and hazardous index indicated no risk of noncarcinogenic effects of all metals, with a value of 3.45E-02.
+However, the carcinogenic risk results suggest that all metals pose a risk exceeding the local population's safe range, with a value of 2.69 E-04.

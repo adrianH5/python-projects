@@ -1,0 +1,9 @@
+HSP110 is a ubiquitous chaperone contributing to proteostasis.
+It has a disaggregation activity and can refold denatured proteins.
+It can regulate fundamental signaling pathways involved in oncogenesis, such as Wnt/β-catenin, NF-κB and STAT3 signaling pathways.
+In gastric and colorectal cancer, HSP110 has been detected in the nucleus, and nuclear expression has been associated with the resistance of cells to 5-FU chemotherapy.
+Nuclear translocation of HSP110 is promoted by the exposure of cells to DNA-damaging agents.
+In a previous work, we demonstrated that nuclear HSP110 participates in the NHEJ DNA repair pathway by facilitating the recruitment of DNA-PKcs to Ku70/80 heterodimers at the site of DNA double-strand breaks.
+In the present work, analysis of HSP110s' nuclear interactome revealed an enrichment of components from SWI/SNF chromatin remodeling complexes.
+We demonstrate that HSP110 is strongly associated with chromatin in temozolomide- and oxaliplatin-treated cells and directly interacts with the core subunit SMARCC2, thereby facilitating the assembly of SWI/SNF complexes.
+This work expands upon the role of HSP110, which regulates not only proteostasis but also the assembly of critical nuclear macromolecular complexes involved in the adaptive stress response.

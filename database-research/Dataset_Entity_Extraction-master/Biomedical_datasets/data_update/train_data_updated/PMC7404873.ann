@@ -1,0 +1,15 @@
+T1	Repository 302 305	PDB
+T2	AccessionNumber 310 314	6vyb
+T3	Repository 329 332	PDB
+T4	AccessionNumber 337 341	6vxx
+T5	Repository 467 470	PDB
+T6	AccessionNumber 475 479	6lxt
+T7	Repository 792 795	PDB
+T8	AccessionNumber 800 804	6lzg
+T9	Repository 897 900	PDB
+T10	AccessionNumber 905 909	7bz5
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4
+R3	hasAttr	Arg1:T5	Arg2:T6
+R4	hasAttr	Arg1:T7	Arg2:T8
+R5	hasAttr	Arg1:T9	Arg2:T10

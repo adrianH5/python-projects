@@ -1,0 +1,7 @@
+Hematopoietic stem cells (HSCs) and more committed progenitors (collectively referred to as HSPCs) emerge from vessels during development, via Endothelial-to-Hematopoietic Transition (EHT).
+Recently, using the zebrafish embryo, we showed that two EHT cell types emerge from the dorsal aorta, raising the question of their subsequent fate.
+To address this issue, we established a complex pipeline based on single-cell photoconversion and transgenic lines to characterize the abilities of EHT cell progenies to conquer hematopoietic organs and to obtain their transcriptomic profiles.
+We show that the two EHT cell types lead to partly differentially fated cells, with significant differences in thymus colonization and T-lymphoid lineage commitment.
+In addition, we investigated implantation of HSPCs in niches, with the support of HSPC signatures (gata2b and cd34/podocalyxin), retrieved from our single-cell datasets.
+This revealed, at unprecedented resolution, the homing of HSPCs in niches of entire early larvae, including the pronephros, the sub-aortic and caudal regions, as well as the area contacting the supra-intestinal artery.
+Our work provides new insights on fundamental aspects of HSPC fate acquisition, from their emergence to their homing in specific niches.

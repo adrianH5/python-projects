@@ -1,0 +1,11 @@
+This emerging virus was later identified as coronavirus called SARS-CoV-2 responsible on Coronavirus Disease 19 (COVID-19) [1,2].
+Despite the fact that COVID-19 has a death rate of 2.8% as of April, the 8,844,171 confirmed cases with 465,460 confirmed deaths in a few months (December 8, 2019 to June 22, 2020) are terrifying.
+The complete genomes were downloaded from the NCBI database.
+Our genomic database contains in totally 22 species (Table 1).
+Fig. 1.b shows an example of the CGR-centroid plot of each sub-region and the center of CGR (X) for COVID 19 after being partitioned into sub-regions of size 2 × 2.
+Nucleotide sequences are converted into a numerical sequence (1D signals) before processing from our database extracted from NCBI platform.
+The used methods are an alignment free method, requesting only a sequence database and a bioinformatics and signal processing knowledges [[16], [17], [18]].
+Prior scientists searched the evolutionary history of the Wuhan COVID-19 virus [1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [14], [15],34,35].
+Nevertheless, it was not clear, till now, if the COVID-19 arose from a recombination event or no between those viruses [12].
+Others scientists suggested possible genesis of COVID-19 virus through recombination between Bat [10,11] and Pangolin coronaviruses [14,15].
+Our results support this possibility of COVID-19 virus genesis though evolution of Bat and Pangolin coronaviruses by accumulation of point mutations and recombination.

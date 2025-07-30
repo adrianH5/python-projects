@@ -1,0 +1,9 @@
+Statins, widely recognized as a cornerstone in the prevention of cardiovascular diseases, have garnered increasing attention in oncology due to their pleiotropic effects, particularly their potential roles in regulating breast and colorectal cancer.
+Emerging evidence suggests that statins may exert anticancer effects through multiple mechanisms, including the mitochondrial apoptosis pathway, the LKB1-AMPK-p38MAPK-p53-survivin signaling cascade, inhibition of the mevalonate pathway, modulation of the EGFR/RhoA and IGF-1 signaling pathways, and regulation of the BMP/SMAD4 signaling pathway.
+However, significant heterogeneity exists in the reported anticancer effects of statins, likely due to variations in statin type (lipophilic vs hydrophilic), dosage, treatment duration, and population-specific characteristics.
+These factors contribute to inconsistencies in study outcomes.
+Additionally, while combination therapies incorporating statins with chemotherapy and immunotherapy have demonstrated synergistic effects in certain studies, their clinical utility remains to be fully established.
+Nevertheless, current evidence suggests that statins may have a potential role in reducing breast and colorectal cancer-related mortality.
+Future research should prioritize elucidating their precise molecular mechanisms, defining dose-response relationships, developing personalized treatment strategies within the framework of precision medicine, and validating their efficacy through large-scale, long-term prospective studies.
+These efforts will provide a more robust scientific foundation for the clinical application of statins in oncology.
+This review systematically explores the role of statins in breast and colorectal cancer regulation, covering clinical evidence, underlying biological mechanisms, pharmacological distinctions, synergistic therapeutic potential, and translational medicine prospects.

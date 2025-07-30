@@ -1,0 +1,10 @@
+Time to an event of interest over a lifetime is a central measure of the clinical benefit of an intervention used in a health technology assessment (HTA).
+Within the same trial, multiple end-points may also be considered.
+For example, overall and progression-free survival time for different drugs in oncology studies.
+A common challenge is when an intervention is only effective for some proportion of the population who are not clinically identifiable.
+Therefore, latent group membership as well as separate survival models for identified groups need to be estimated.
+However, follow-up in trials may be relatively short leading to substantial censoring.
+We present a general Bayesian hierarchical framework that can handle this complexity by exploiting the similarity of cure fractions between end-points; accounting for the correlation between them and improving the extrapolation beyond the observed data.
+Assuming exchangeability between cure fractions facilitates the borrowing of information between end-points.
+We undertake a comprehensive simulation study to evaluate the model performance under different scenarios.
+We also show the benefits of using our approach with a motivating example, the CheckMate 067 phase 3 trial consisting of patients with metastatic melanoma treated with first line therapy.

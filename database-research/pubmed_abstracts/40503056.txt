@@ -1,0 +1,9 @@
+Cancer stem cells (CSCs) are a major challenge in cancer therapy.
+Stem cell-like cells form a unique subpopulation within many tumors, which govern the degree of malignancy by promoting metastasis, recurrence, heterogeneity, and resistance to drug and radiation.
+Furthermore, these cells can persist in patients even after undergoing multiple cycles of conventional cancer therapy via dormancy, where they no longer dividing but remain active.
+These may cause cancer recurrence at any time, even years after a supposed cure, and remain invisible to the immune system.
+Targeting specific surface markers, signaling pathways and tumor microenvironment, which all have a significant effect on CSC function and maintenance, could help to eradicate CSCs and improve patient survival.
+Combinations of traditional therapies with nano-based drug delivery systems can efficiently target CSCs.
+Considering the biology and properties of CSCs, we classify recent approaches involving nanoparticle engineering, extracellular matrix modulation, cocktail strategies, multi-stage therapy, CSC defanging, Trojan horse systems, targeted therapy and organelle targeting.
+We highlight the most recent advances in nanocarrier design and drug delivery technologies to target CSCs, combined with conventional treatment in preclinical and clinical trials.
+The prospects of these approaches for CSCs elimination and recurrent cancer treatment are discussed.

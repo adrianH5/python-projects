@@ -1,0 +1,8 @@
+Psoriasis is a chronic inflammatory skin disorder characterized by aberrant keratinocyte proliferation and immune cell infiltration with upregulation of inflammatory cytokines.
+Here, we examined the contribution of HCAR2 encoding for the short-chain fatty acid receptor GPR109A.
+Human and mouse RNA sequencing public datasets reveal elevated HCAR2 gene expression in psoriatic as compared with healthy skin, both in keratinocytes and myeloid cells.
+Immunostaining and flow cytometry of imiquimod-induced psoriatic-like lesions in Hcar2-mRFP reporter mice showed increased GPR109A expression by keratinocytes and inflammatory cells.
+GPR109A-deficient mice demonstrated a more severe imiquimod-induced psoriasis-like response than wild-type mice, with exacerbated epidermal hyperplasia, dermal inflammatory cell infiltration, and increased inflammatory mediators myeloperoxidase, CXCL5, LCN2, interleukin (IL)-1β, IL-6, IL-23, and IL-17A.
+Conversely, topical administration of sodium butyrate reduced imiquimod-induced skin inflammation in wild-type mice, but not in GPR109A-deficient mice.
+Mechanistically, GPR109A agonist butyrate inhibits histone deacetylase 3, thus inhibiting IL-1β and the inflammatory IL-1β/IL-23/IL-17A axis in imiquimod-induced skin inflammation.
+Therefore, GPR109A may have a protective role in psoriasis pathogenesis, supporting a potential therapeutic benefit of sodium butyrate administration or other GPR109A agonists for treating psoriasis.

@@ -1,0 +1,10 @@
+Liver metastases represent the leading cause of death in patients with colorectal cancer (CRC).
+Chimeric antigen receptor (CAR) T cell therapy holds promise in this context, but any effort to bring it to the bedside requires careful antigen selection and testing in clinically relevant models.
+Here, we identified cadherin-17 (CDH17) as a candidate antigen for CAR T cell therapy of CRC liver metastases.
+We hence designed human CDH17 CARs differing in antigen binding and extracellular spacer regions and compared the different constructs in preclinical models of antitumor efficacy, cytokine release syndrome, and on-target off-tumor toxicity.
+Whereas the binding domains differed in efficacy in vitro, the spacer region shaped the kinetics of the CAR T cells in vivo.
+When used in a CRC liver xenograft model, CDH17 CAR T cells efficiently suppressed tumor growth upon either systemic or locoregional administration.
+However, when tested in mice reconstituted with a human immune system, CAR T cells injected locally caused a particularly harsh cytokine release syndrome.
+Confocal microscopy revealed that CDH17 is exposed on the entire surface of tumor cells, whereas its expression in healthy colon is restricted to lateral junctions between epithelial cells.
+Accordingly, CDH17 CAR T cells showed dose-dependent cytokine release in response to CRC tissue slices while displaying no reaction against healthy colon tissue samples.
+Overall, these findings support systemic delivery of CDH17 CAR T cells as a safe and effective approach to treat CRC liver metastases and pave the way for a phase 1/2 clinical trial.

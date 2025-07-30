@@ -1,0 +1,12 @@
+MRI brain scans alone are not a definitive measure of dementia.
+Deep-learning algorithms (DLA) and professional human opinion are necessary for diagnosis.
+Yet, sample sizes are prohibitively large to train a typical DLA, which itself takes considerable computation time to produce diagnostically useful information from contrasting image features.
+We introduce analytic simplifications to this process to speed it up and reduce data requirements by modeling individual images as solutions of spatially autoregressive (AR) partial difference equations.
+Image features are the unique individual image AR parameters.
+Spatially lagged image pixels are explanatory variables for estimating a random-field representation (RFR) of the proposed AR difference equation.
+RFR model parameters are also those of the image autocorrelation function (ACF).
+An image pixel matrix-to-vector transformation allows AR parameters to be estimated by ordinary least squares (OLS) regression in millisecond time.
+Regression degrees of freedom (DOF) -- the number of image pixels -- are unusually large, leading to remarkably precise estimates of AR model parameters.
+These estimates support a solution of the binary dementia-normal classification of MRI axial brain scans (ADNI and OASIS archives).
+They also support the AR-RFR process applied to an original microscopic image of a glioblastoma cancer cell.
+In the face of formidable noise, a sharply defined and robust cancer cell model is estimated, which is an essential tool for cancer - type discrimination exercises and is parametrically plastic enough to serve a wide range of cells.

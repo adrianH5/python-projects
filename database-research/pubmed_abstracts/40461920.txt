@@ -1,0 +1,11 @@
+Lymphatic metastasis (LM) remains a major contributor to mortality among patients with head and neck squamous cell carcinoma (HNSCC).
+Understanding the molecular mechanisms underlying LM and identifying novel therapeutic targets are critical priorities.
+This study investigated ADAM22, a protein implicated in cell adhesion, migration, and differentiation, for its role in HNSCC and its association with LM.
+Its expression levels were evaluated in HNSCC tissues with and without LM using quantitative real-time PCR (qRT-PCR), western blotting, and immunohistochemistry.
+The prognostic relevance of ADAM22 was analyzed through Kaplan-Meier survival curves and Cox proportional hazards models.
+Functional assays, including EdU incorporation, flow cytometry, wound healing, and Transwell migration assays, were performed in FADU and SCC15 cell lines alongside an in vivo footpad xenograft mouse model.
+ADAM22 was found to be significantly overexpressed in HNSCC cases with LM.
+In vitro, silencing of ADAM22 suppressed tumor cell proliferation, migration, and invasion and promoted apoptosis.
+Both in vitro and in vivo experiments demonstrated that ADAM22 enhances tumor growth and lymphatic spread by promoting epithelial-mesenchymal transition (EMT).
+Further analysis identified integrins as key mediators in ADAM22-driven EMT and metastasis.
+In summary, these findings indicate that ADAM22 promotes LM in HNSCC by regulating EMT through integrin signaling, highlighting its potential as a therapeutic target and providing new perspectives for diagnosing and treating HNSCC.

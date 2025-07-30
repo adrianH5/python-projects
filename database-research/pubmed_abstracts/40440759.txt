@@ -1,0 +1,7 @@
+Glycolysis serves as the principal metabolic pathway through which tumor cells derive their energy.
+Targeting glycolysis to disrupt the energy supply at its origin presents a promising strategy for inhibiting tumor growth, recurrence, and metastasis.
+In this study, we developed a nanocomposite drug, ZIF-90@DOX@AP@PEG (ZDAP), utilizing zeolitic imidazole frameworks (ZIF-90) as carriers responsive to the tumor microenvironment (TME).
+This system co-delivers the glycolysis inhibitor apigenin (AP) alongside the chemotherapeutic agent doxorubicin (DOX), facilitating a triple-combination therapy approach for breast cancer treatment.
+ZIF-90 serves a dual role as a microwave (MW) sensitizer and as a responsive agent that degrades under TME-specific conditions, such as low pH and elevated adenosine triphosphate (ATP) levels, thereby facilitating controlled drug release.
+Experimental investigations, both in vitro and in vivo, have shown that the synergistic integration of MW hyperthermia, chemotherapy, and glycolysis inhibition substantially surpasses the effectiveness of individual therapies.
+These results highlight the potential of glycolysis inhibition to augment the efficacy of multimodal cancer treatments and propose a novel strategy for the integration of glycolytic inhibition with other therapeutic modalities.

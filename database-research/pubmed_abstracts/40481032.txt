@@ -1,0 +1,12 @@
+Chordomas are rare, aggressive tumors of the axial skeleton with limited treatment options.
+Genetic alterations in SMARCB1, a tumor suppressor gene, have been implicated in poorly differentiated chordomas, but their role in typical and chondroid subtypes remains unclear.
+This study examined 42 chordoma samples (26 typical, 16 chondroid) for SMARCB1 genetic alterations, expression patterns, and associated pathways.
+SMARCB1 knockdown experiments were conducted in chordoma cell lines, followed by comprehensive transcriptome analysis.
+No exonic SMARCB1 mutations were identified, but heterozygous loss was observed in 3/26 typical chordomas.
+SMARCB1 expression positively correlated with patient survival and epithelial-mesenchymal markers.
+Functional studies revealed that SMARCB1 knockdown significantly enhanced cell proliferation, migration, and invasion.
+Transcriptome analysis demonstrated enrichment of MYC targets, E2F targets, and cell cycle pathways in SMARCB1-low samples, while cellular adhesion pathways were downregulated.
+Notably, SLPI, LBH, and LOXL2 were significantly downregulated in SMARCB1-low samples.
+SMARCB1 plays an important role in chordoma progression, influencing prognosis and cellular behavior, despite infrequent genetic alterations.
+Its effects on key oncogenic pathways and cellular plasticity suggest potential for targeted therapies.
+These findings provide new insights into chordoma biology and lay the groundwork for developing SMARCB1-based prognostic tools and personalized treatment strategies.

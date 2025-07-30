@@ -1,0 +1,8 @@
+Hepatocellular carcinoma (HCC) is a major cause of cancer-related mortality and is largely driven by metabolic disorders such as obesity and Type 2 Diabetes.
+The AMP-activated protein kinase (AMPK) is a master regulator of metabolism, coordinating glucose and lipid metabolism, and its activation has been proposed as a therapeutic strategy for treating metabolic disorders.
+However, while AMPK activity has been reported to be downregulated in HCC, the precise role of AMPK in HCC development has not been clearly delineated.
+Here, we investigated the ability of AMPK activation to prevent HCC development using genetic models and specific allosteric AMPK activators.
+By leveraging a constitutively active AMPK transgenic mouse model and a pharmacological AMPK activator, we were able to elucidate the direct effects of AMPK activation on HCC development and progression.
+We observed that AMPK activation significantly reduced tumor formation in both diethylnitrosamine (DEN)-induced and streptozocin-induced (STAM) models of HCC.
+Our findings further implicate bile acid metabolism and hepatic nuclear factor alpha (HNF4α) signaling in the mechanism of AMPK-dependent HCC prevention.
+These findings provide mechanistic insights into AMPK biology and highlight the potential of AMPK as a therapeutic target, emphasizing the intricate interplay between metabolic dysregulation and cancer development.

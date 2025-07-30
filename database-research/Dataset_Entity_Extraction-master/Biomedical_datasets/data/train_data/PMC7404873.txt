@@ -1,0 +1,9 @@
+COVID‐19 is global pandemic caused by severe acute respiratory syndrome coronavirus‐2 (SARS‐COV‐2).
+To provide further insight, root‐mean‐square deviation (rmsd) tool and population distribution plot were used to investigate the conformations sampled by the two biosystems in comparison with the open (PDB ID: 6vyb)
+ and closed (PDB ID: 6vxx) states.
+To further establish these findings, the conformations sampled were also compared with that of S2‐post‐fusion core (PDB ID: 6lxt).
+The conformations sampled by S2 unit in the G614 biosystem were predominantly those of the post‐fusion core (Figure 1d), while the wild type sampled the pre‐fusion core conformation (data not shown); and clearly, the conformations of the RBD of G614 biosystem were those previously characterized to bind ACE2 (PDB ID: 6lzg, Figure 1e) but not the wild type.
+The results obtained from comparison with antibody (B38, PDB ID: 7bz5)
+‐bound conformation revealed a rather unusual pattern.
+Abstract  D614G spike glycoprotein (sgp) mutation in rapidly spreading severe acute respiratory syndrome coronavirus‐2 (SARS‐COV‐2) is associated with enhanced fitness and higher transmissibility in new cases of COVID‐19 but the underlying mechanism is unknown.
+The causative agent of COVID‐19; SARS‐COV‐2 has acquired a rare mutation (G23403A) in the region encoding spike glycoprotein (D614G) resulting in enhanced fitness and higher transmissibility.

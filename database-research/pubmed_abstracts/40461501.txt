@@ -1,0 +1,8 @@
+Netrin-1 signaling is an essential prototypical neuronal guidance mechanism during embryonic development that also regulates tumor cell survival in a variety of adult cancer entities.
+In line with these data, a monoclonal netrin-1 blocking antibody (anti-netrin-1 mAb/NP137) has been preclinically developed and netrin-1 blockade has recently been investigated in phase 1 and 2 clinical trials in several adult cancers.
+Here, we investigate the role of netrin-1 in the most common malignant pediatric brain cancer, Medulloblastoma.
+Interestingly, we find that netrin-1 is upregulated in medulloblastoma subgroups associated with developmental dysregulation, in particular in medulloblastoma with Sonic Hedgehog (SHH) activation.
+First, we demonstrate that genetic deletion of netrin-1 or systemic treatment with the clinical-stage anti-netrin-1 blocking antibody significantly reduces tumor growth in vivo in various orthotopic models of SHH medulloblastomas.
+Second, in vitro and in vivo, we unexpectedly uncover that SHH medulloblastomas treated with an SHH-inhibitor targeting Smoothened (SMO) increase netrin-1 expression, paving the way for combinatorial therapy.
+In line with that, we next show that netrin-1 blockade potentiates the efficacy of SMO inhibitor therapy in vivo.
+Together, our data indicate that, netrin-1 blockade, used as monotherapy or in combination with SMO inhibitors, is a promising therapeutic strategy in SHH medulloblastomas.

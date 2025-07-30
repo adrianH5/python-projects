@@ -1,0 +1,7 @@
+This study addresses the escalating radiation safety concerns among medical professionals due to the rising application of proton and carbon ion radiotherapy.
+It evaluates the occupational radiation exposure faced by therapists when utilizing the Siemens IONTRIS Proton-Carbon Ion System.
+Through random sampling of 80 patients treated between January and June 2024, we recorded particle types and counts and measured dose rates using a photon/neutron radiation dose meter.
+Notably, 1 min post-treatment, the dose rate peaked at 16.00 μSv/h near the tumor's skin surface, showing a significant correlation with particle count.
+The therapist's standing position and the surfaces of the range shifter and ripple filter registered average dose rates of 1.25 μSv/h and 3.63 μSv/h, 0.33 μSv/h, respectively.
+Other points averaged 0.08 μSv/h, with no neutron detection.
+The study concludes that the annual average occupational exposure for therapists, at ~300 μSv, is significantly below the International Commission on Radiological Protection's recommended dose equivalent limit, confirming the safety of the Siemens IONTRIS device in clinical settings.

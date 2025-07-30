@@ -1,0 +1,9 @@
+The emergence of digital twins (DTs) in the arena of anticancer treatment echoes the transformative impact of artificial intelligence in drug development.
+DTs provide dynamic, accessible platforms that may accurately replicate patient and tumor characteristics.
+The potential of DTs in clinical investigation is particularly compelling.
+By comparing data from virtual trials with conventional trial results, medical teams can significantly enhance the reliability of their studies.
+Moreover, a significant breakthrough in clinical research is the ability of DT to augment patient data during ongoing trials, enabling adaptive trial designs and more robust statistical analyses to be performed even with limited patient populations.
+The development of DTs faces however several technical and methodological challenges.
+These include their tendency to produce unreliable predictions, non-factual information, reasoning errors, systematic biases, and a lack of interpretability.
+Future research in this field should focus on an interdisciplinary approach that brings together experts from diverse fields, including mathematicians, biologists, and physicians.
+This collaborative strategy promises to unlock new frontiers in personalized cancer treatment and medical methodologies.

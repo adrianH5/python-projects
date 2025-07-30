@@ -1,0 +1,4 @@
+Immunocytokines have emerged as a promising modality in cancer therapy, capitalizing on the precision of antibodies to deliver cytokines selectively to tumours.
+Yet, the toxicity of the cytokine portion of these antibody-cytokine constructs remains a major dose-limiting issue.
+We present a new approach to control cytokine function without affecting binding of the targeting moiety.
+By modifying the cytokine with

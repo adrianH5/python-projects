@@ -1,0 +1,21 @@
+Introduction Serous cystic neoplasms (SCN) and mucinous cystic neoplasms (MCN) often exhibit similar imaging features when evaluated with a single imaging modality.
+Differentiating between SCN and MCN typically necessitates the utilization of multiple imaging techniques, including computed tomography (CT), magnetic resonance imaging (MRI), and endoscopic ultrasonography (EUS).
+Recent research indicates that artificial intelligence (AI) can effectively distinguish between SCN and MCN using single-modal imaging.
+Despite these advancements, the diagnostic performance of AI has not yet reached an optimal level.
+This study compares the efficacy of AI in classifying SCN and MCN using multimodal imaging versus single-modal imaging.
+The objective was to assess the effectiveness of AI utilizing multimodal imaging with EUS, CT, and MRI to classify these two types of pancreatic cysts.
+Methods We retrospectively gathered data from 25 patients with surgically confirmed SCN and 24 patients with surgically confirmed MCN as part of a multicenter study.
+Imaging was conducted using four modalities: EUS, early-phase contrast-enhanced abdominal CT, T2-weighted MRI, and magnetic resonance pancreatography.
+Four images per modality were obtained for each tumor.
+Data augmentation techniques were utilized, resulting in a final dataset of 39,200 images per modality.
+An AI model with ResNet was employed to categorize the cysts as SCN or MCN, incorporating clinical features and combinations of imaging modalities (single, double, triple, and all four modalities).
+The classification outcomes were compared with those of five experienced gastroenterologists with over 10 years of experience.
+The comparison is based on three performance metrics: sensitivity, specificity, and accuracy.
+Results For AI utilizing a single imaging modality, the sensitivity, specificity, and accuracy were 87.0%, 92.7%, and 90.8%, respectively.
+Combining two imaging modalities improved the sensitivity, specificity, and accuracy to 95.3%, 95.1%, and 94.9%.
+With three modalities, AI achieved a sensitivity of 96.0%, a specificity of 99.0%, and an accuracy of 97.0%.
+Ultimately, employing all four imaging modalities resulted in AI achieving 98.0% sensitivity, 100% specificity, and 99.0% accuracy.
+In contrast, experts utilizing all four modalities attained a sensitivity of 78.0%, specificity of 82.0%, and accuracy of 81.0%.
+The AI models consistently outperformed the experts across all metrics.
+A continuous enhancement in performance was observed with each additional imaging modality, with AI utilizing three and four modalities significantly surpassing single-modal imaging AI.
+Conclusion AI utilizing multimodal imaging offers better performance compared to both single-modal imaging AI and experienced human experts in classifying SCN and MCN.

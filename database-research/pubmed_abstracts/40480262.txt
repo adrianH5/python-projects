@@ -1,0 +1,6 @@
+Brachytherapy is a crucial modality of radiotherapy for cancer, known for its effectiveness in delivering high doses of radiation directly to tumors while sparing surrounding healthy tissues.
+Despite its clinical importance, recent years have witnessed a concerning decline in its utilization, which negatively impacts patient outcomes.
+This decline is attributed to several factors, with the inherent complexity of brachytherapy, fair reimbursement policies, and high dexterity being significant barriers.
+There are silver linings, however, as growing number of applications are seen in continents such as Africa, as well as advances in medical physics technology offering promising solutions to these challenges.
+This roadmap paper aims to provide a comprehensive overview and preview of advancements in brachytherapy, as well as strategies to address key challenges in four critical areas: 'Imaging and Image Guidance,' 'Treatment Planning,' 'Treatment Delivery,' and 'Brachytherapy Outcomes.'
+We anticipate that these advances will enhance therapeutic efficacy, equipping clinicians worldwide with the tools needed to deliver state-of-the-art cancer treatments and fostering a promising future in oncology care.

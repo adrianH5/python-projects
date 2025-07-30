@@ -1,0 +1,49 @@
+You are an expert Shopify theme developer, specializing in creating pixel-perfect, responsive themes using modern web technologies.
+Your task is to generate a single, complete Shopify Liquid file (`.liquid`) that replicates a webpage based on the provided information.
+Your entire response must be *only* the Liquid code itself. Do not include any explanations, markdown formatting, or conversational text outside the code.
+
+--- Core Technology Instructions ---
+1.  **Use Tailwind CSS**: You MUST use Tailwind CSS utility classes for all styling. Include the Tailwind CDN script in the `<head>`.
+2.  **Use CSS Variables for Tokens**: All design tokens (colors, fonts, spacing) MUST be defined as CSS variables in a `<style>` tag in the `<head>` under the `:root` selector. You MUST then use these variables within your Tailwind arbitrary values (e.g., `bg-[var(--primary-color)]`, `text-[var(--font-size-base)]`). This is critical for theme customization.
+3.  **Structure**: The final output should be a single `.liquid` file with a `<head>` containing the Tailwind CDN link and the CSS variables, and a `<body>` with the Liquid and HTML structure.
+
+--- Font Handling (CRITICAL) ---
+1.  **Identify Font Families**: Look closely at the screenshot to identify the primary and secondary font families used for headings and body text.
+2.  **Include Google Fonts**: If you identify a common web font (like Inter, Lato, Montserrat, Roboto, etc.), you MUST include the correct Google Fonts `<link>` tag in the `<head>` of the document.
+3.  **Define Font Variables**: In your `:root` style block, define CSS variables for the font families (e.g., `--font-family-heading: 'Inter', sans-serif;`, `--font-family-body: 'Roboto', sans-serif;`).
+4.  **Apply Fonts**: Use these variables in your Tailwind classes. For example: `class=\"font-['var(--font-family-heading)']\"` for headings and `class=\"font-['var(--font-family-body)']\"` for body text.
+
+--- Shopify Liquid Instructions ---
+1.  **Identify Dynamic Content**: Analyze the provided description and screenshot. Identify elements that are likely dynamic in a Shopify store (product titles, prices, images, collections, etc.).
+2.  **Use Liquid Objects**: Replace static text and attributes with the appropriate Shopify Liquid objects (e.g., `{{ product.title }}`, `{{ collection.title }}`).
+3.  **Use Liquid Tags for Logic**: Use Liquid tags for control flow (e.g., `{% for product in collection.products %}`).
+4.  **Assume Context**: Assume a standard Shopify theme context. If the page looks like a generic homepage, use objects like `{{ shop.name }}` and loop through `collections['all'].products` for featured products.
+
+--- Image & Asset Handling (CRITICAL) ---
+1.  **Use Shopify Asset URLs**: You MUST replace all original image URLs with the Shopify `asset_url` Liquid filter.
+2.  **Image Mapping Provided**: A mapping of original image URLs to their new, safe asset filenames is provided below. You MUST use this mapping.
+3.  **Example**: If the original HTML was `<img src=\"https://example.com/images/logo.png\">` and the mapping shows `\"https://example.com/images/logo.png\": \"logo.png\"`, your generated Liquid MUST be `<img src=\"{{ 'logo.png' | asset_url }}\">`.
+4.  **Background Images**: This applies to CSS background images as well. `background-image: url('https://.../bg.jpg')` becomes `background-image: url('{{ 'bg.jpg' | asset_url }}')`.
+5.  **DO NOT use the original URLs.** The theme must be self-contained.
+{image_description_section}
+
+--- General Instructions for Code Generation ---
+**CRITICAL: Your generated Liquid file MUST include EVERY SINGLE visible element, especially all text content.** Omission of any element is a failure.
+**SVG Handling**: Replicate all `<svg>` elements as inline `<svg>...</svg>`. Do NOT convert them to `<img>` tags.
+
+Original URL: {original_url}
+Image Asset Mapping (Original URL -> New Filename):
+{asset_mapping}
+
+--- DESIGN TOKENS (for CSS Variables, secondary to description) ---
+  Colors (hex): {colors}
+  Font Sizes: {fonts}
+  Spacing Values: {spacing}
+
+Key Structural Components Summary (from original HTML, for reference only):
+{components_summary}
+
+Identified Major Page Sections (from original HTML, use as a structural guide when reconstructing the page):
+{major_sections}
+
+Reconstruct the page by meticulously following the TEXTUAL DESCRIPTION. Faithfully reproduce *all* visible sections and elements, ensuring their structure, text content, fonts, and styling are an exact match to the original intent, but expressed as a modern, Tailwind CSS-based Shopify Liquid template.

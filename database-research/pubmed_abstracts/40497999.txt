@@ -1,0 +1,10 @@
+Resistance to cell death is one of the core hallmarks of cancer, with regulatory abnormalities particularly pronounced in the malignant progression and therapeutic resistance of melanoma.
+This review aims to systematically summarize the roles and mechanisms of regulated cell death (RCD) in melanoma.
+Currently, distinct types of RCD, including apoptosis, autophagy, pyroptosis, immunogenic cell death, necroptosis, and ferroptosis, have all been found to be involved in melanoma.
+Autophagy promotes the survival of melanoma cells under stress conditions through metabolic adaptation, yet its excessive activation can trigger cell death.
+Immunogenic cell death has the capacity to elicit adaptive immune responses in immunocompetent syngeneic hosts.
+Necroptosis, governed by the receptor-interacting protein kinase 1 (RIPK1)/RIPK3 mixed lineage kinase domain-like protein (MLKL) signaling axis, can synergize with immunotherapy to enhance anti-melanoma immune responses when activated.
+Pyroptosis, mediated by Gasdermin proteins, induces the release of inflammatory factors that reshape the tumor microenvironment and enhance the efficacy of immune checkpoint inhibitors.
+Ferroptosis, characterized by lipid peroxidation, can overcome melanoma resistance by targeting the solute carrier family 7 member 11 (SLC7A11)/glutathione peroxidase 4 (GPX4) axis.
+Therapeutic strategies targeting RCD pathways have demonstrated breakthrough potential.
+Several agents have been developed to target RCD in order to suppress melanoma.

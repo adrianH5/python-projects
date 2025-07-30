@@ -1,0 +1,4 @@
+Thresholds for clinical importance (TCIs) were previously established for the cancer-specific patient reported outcome (PRO) measures EORTC QLQ-C30, EORTC QLQ CAT Core, and EORTC QLQ-C15-PAL.
+TCIs aim to aid the interpretation of scores for individual patients at a single point in time.
+They intend to indicate whether a symptom or functional health limitation is of clinical relevance, i.e., requires to be discussed with healthcare professionals.
+In this systematic scoping review, we aimed to describe the uptake of TCIs by the research community and discuss opportunities and threats in their application to PRO data.

@@ -1,0 +1,9 @@
+Esophageal squamous cell carcinoma (ESCC) is a common digestive tract malignant cancer with high incidence and mortality rate.
+Many studies have shown that long noncoding RNAs (lncRNAs are involved in the progression of various types of tumors.
+The lncRNA protein disulfide isomerase family A member 3 pseudogene 1 (PDIA3P1) promotes the progression of ESCC, but the molecular mechanism behind this is still unclear.
+In this study, PDIA3P1 is highly expressed in ESCC, produces more lactate by regulating glycolysis, and the increased lactate upregulates lactylation levels to drive tumor progression.
+Mechanistically, PDIA3P1 competes with miR-152-3p to prevent degradation of glucose transporter 1 (GLUT1) mRNA, and disrupts the binding between membrane-associated RING-CH 8 (MARCH8) and hexokinase 2 (HK2) to reduce ubiquitination degradation of HK2, thereby promoting glycolysis.
+High activity glycolysis produces more lactate, which upregulates the level of histone H4K8 lactylation (H4K8la) and promotes the transcription of target bone morphogenic protein 7 (BMP7).
+Functionally, BMP7 is involved in the regulation of ESCC progression by PDIA3P1 both in vivo and in vitro.
+In addition, wilms tumor 1-associated protein (WTAP) mediated m6A modification enhances the stability of PDIA3P1 through Insulin-like growth factor 2 mRNA-binding protein 1 (IGF2BP1) dependent recognition.
+Taken together, these findings reveal the key role of PDIA3P1 regulates glycolysis-H4K8la-BMP7 axis in the progression of ESCC and provides new insights into the interplay between metabolic reprogramming and epigenetic regulation.

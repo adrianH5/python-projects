@@ -1,0 +1,11 @@
+Hepatocellular carcinoma (HCC) is the most common form of liver cancer and remains a global health challenge.
+The biological process of HCC is very complex, involving the imbalance of tumor suppressor genes and oncogenes, abnormal activation of molecular signaling pathways, and the differentiation of HCC cells.
+Standard clinical approaches for HCC treatment encompass surgery, chemotherapy, and radiation therapy.
+However, treatment options for advanced HCC are constrained, primarily due to an incomplete understanding of its underlying mechanisms.
+Cellular senescence is a crucial mechanism that influences the pathophysiological processes of HCC and serves as a potent barrier to tumor development.
+Our research identified the biological functions and mechanisms of Mitochondrial Ribosomal Protein L23 (MRPL23) in relation to cellular senescence in HCC.
+Results demonstrated that MRPL23 was upregulated in both tumor tissues and hepatoma cells.
+Additionally, the inhibition of MRPL23 resulted in decreased cell proliferation and promoted cellular senescence.
+Moreover, MRPL23 deficiency protected against HCC progression in a mouse model.
+Finally, we confirmed that MRPL23 regulated cellular senescence by targeting HMGB1 using the inhibitor NecroX-7.
+These findings laid the foundation for developing potential therapies for HCC by inhibiting MRPL23 or inducing senescence.

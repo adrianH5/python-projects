@@ -1,0 +1,7 @@
+Gastric cancer (GC) is among the most lethal human malignancies with limited treatment options.
+Cell-cell interactions within the tumor microenvironment (TME) can promote tumor growth, yet their therapeutic value has not been fully explored.
+Here, bulk RNA-seq, single-cell RNA sequencing (scRNA-seq), and spatial transcriptomics (ST) were integrated to analyze the heterogeneity of GC microenvironment.
+Tumor-specific GREM1+ fibroblasts and SPP1+ macrophages were significantly enriched in GC tissues and were involved in immunosuppression, inflammation regulation, and tumor progression.
+We then indicated that GREM1+ fibroblasts and SPP1+ macrophages were positively correlated in 12 independent GC datasets and validated their close localization by multiplex immunohistochemistry staining and spatial transcriptomics.
+Patients with both high GREM1+ fibroblasts and SPP1+ macrophages exhibited significantly shorter OS and showed enrichment of tumor-associated pathways.
+Our results demonstrated the complex interactions between GREM1+ fibroblasts and SPP1+ macrophages, which may serve as a potential therapeutic target for future treatment of GC.

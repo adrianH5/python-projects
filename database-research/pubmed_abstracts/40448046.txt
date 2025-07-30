@@ -1,0 +1,3 @@
+Effective communication skills are fundamental for health care professionals, yet conventional training methods face challenges in scalability and accessibility due to resource constraints.
+The emergence of artificial intelligence (AI), particularly generative AI, offers innovative ways for enhancing communication skills training by simulating realistic conversational scenarios and providing personalised, adaptive feedback.
+This manuscript is presented as study protocol for a cluster-randomised controlled trial that aims at evaluating the efficacy of an AI-supported higher education training protocol incorporating generative AI exercises to enhance communication competencies among psychology students.

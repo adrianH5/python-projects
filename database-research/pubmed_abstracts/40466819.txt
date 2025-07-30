@@ -1,0 +1,12 @@
+To systematically evaluate the impact of tissue spacers on radiation dose reduction to organs at risk (OARs), treatment-related toxicity, and overall clinical outcomes in brachytherapy, following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines.
+A thorough search of PubMed, Scopus, IEEE Xplore, Embase, and Web of Science was conducted (1990-2024).
+Eligible studies included randomized trials, prospective or retrospective cohorts, and dosimetric analyses examining spacer use in brachytherapy.
+Data were extracted on patient demographics, spacer characteristics, dosimetric outcomes, and toxicity.
+Meta-analyses were performed where at least three studies reported comparable quantitative data, using random-effects models to pool effect sizes.
+Forty-five studies met inclusion criteria; 24 contributed to quantitative pooling.
+In prostate brachytherapy, hydrogel or balloon spacers consistently lowered rectal dose metrics by approximately 15-50 % and significantly reduced Grade ≥ 2 gastrointestinal toxicity (risk ratio ∼0.42).
+For head and neck brachytherapy, custom acrylic or silicone spacers decreased jaw dose and markedly lowered osteoradionecrosis rates.
+In gynecologic cancers, spacer balloons or injectable gels yielded 10-20 % reductions in bladder or rectal doses.
+Across all sites, spacers generally did not compromise tumor coverage and were associated with fewer late complications and improved patient quality of life.
+Spacers substantially improve the therapeutic ratio in brachytherapy by reducing OAR doses and lowering clinically significant toxicities.
+While the evidence base supports integrating spacers into standard practice, further randomized, multicenter trials are warranted to refine optimal spacer designs, placement techniques, and cost-effectiveness analyses.

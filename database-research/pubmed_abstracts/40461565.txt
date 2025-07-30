@@ -1,0 +1,6 @@
+Prime editing (PE) is a precise tool for introducing genetic mutations in eukaryotes.
+Extending the efficient editing scope and mitigating undesired byproducts are possible.
+We introduce reverse PE (rPE), a SpCas9-directed variant that enabled DNA editing at the 3' direction of HNH-mediated nick site.
+The rPE leveraging nCas9-D10A and rPE gRNA targeting the 5' direction of HNH-mediated nick site inscribes genetic alterations, achieving a reverse editing window and potentially high fidelity.
+HNH and reverse transcriptase engineered using protein language models in conjunction with La facilitate circular erPEmax and erPE7max, achieving editing efficiency up to 44.41% without nick gRNA or positive selection.
+Furthermore, our findings underscore the capability of rPE in inserting functionally enhanced variant (PIK3CD

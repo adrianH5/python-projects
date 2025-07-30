@@ -1,0 +1,14 @@
+Afterwards, the disease was named “Coronavirus Disease 2019 (COVID-19)” by the World Health Organization (WHO) [4].
+GnomAD database analysis revealed that these identified ACE2 variants are reported with a cumulative frequency of 0.2289 in ethnically matched populations (EUR).
+However, this variant deserves further investigation in a larger COVID-19 cohorts as well as functional studies.
+The missense variant c.2158A>G p.(Asn720Asp) was found in two patients, one female in heterozygous state and one male, with a frequency in line with our Italian control population and with the frequency reported for the European non-Finnish population in the GnomAD database.
+We tested the hypothesis if these variants were associated with COVID-19 severity.
+For this reason, we wanted to analyze in detail the genetic variability of ACE2 in our population, among the most affected by the COVID-19 pandemic.
+Until now, most available published studies were carried out on an epidemiological basis of population allele frequencies deposited in the various available databases.
+We identified in a single COVID-19 patient a variant (p.Asp630His), very rare in European population and not detected in our Italian control population.
+Interestingly very recently, Bunyavanich et al. [19] showed age-dependent expression of ACE2 gene in nasal epithelium, highlighting that the different levels of ACE2 expression may be the reason for a lower incidence of COVID-19 in children.
+Animal coronaviruses rarely infect humans with the exceptions of the Middle East respiratory syndrome ( MERS-CoV ), the severe acute respiratory syndrome corona virus (SARS-CoV), and now SARS-CoV-2, which is the cause of the ongoing pandemic of coronavirus disease 2019 (COVID-19).
+We therefore investigated the occurrence of ACE2 variants in a cohort of 131 Italian unrelated individuals clinically diagnosed with COVID-19 and in an Italian control population, to evaluate a possible allelic association with COVID-19, by direct DNA analysis.
+As a pilot study, we analyzed, by whole-exome sequencing, genetic variants of ACE2 gene in 131 DNA samples of COVID-19 patients hospitalized at Tor Vergata University Hospital and at Bambino Gesù Children’s Hospital, Rome.
+Therefore, further studies are needed in larger cohorts, since it was found only in one heterozygous COVID-19 patient.
+Our results suggest that there is no strong evidence, in our cohort, of consistent association of ACE2 variants with COVID-19 severity.

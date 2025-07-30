@@ -1,0 +1,6 @@
+Photodynamic Therapy (PDT), which involves the combined action of a drug and its activation by suitable light, is a particularly attractive novel cancer therapy method due to less systemic side effects.
+However, the delivery and accumulation of the PDT drug into cancer cells is still problematic.
+Here, by using μ-scale molecular dynamic simulations combined with quantum mechanics/molecular mechanics approaches, we examine the behavior of a PDT drug functionalized with a folic acid unit targeting the folate receptor α (FR-α), which is overexpressed in ovarian cancer cells.
+We show that the PDT drug forms a stable complex with the folate receptor, albeit slightly disrupting the main interaction patterns as compared to the parent folate ligand.
+Furthermore, we also show that the optical properties of the PDT drug are not altered by its interaction with the protein.
+Our results confirm that coupling with folate is an attractive strategy for selective active delivery of PDT agents.

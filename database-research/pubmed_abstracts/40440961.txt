@@ -1,0 +1,11 @@
+Glioblastoma multiforme (GBM) is the most aggressive and treatment-resistant primary brain tumor with acquired resistance to temozolomide (TMZ) posing a major clinical challenge.
+This study investigates the therapeutic potential of 6-gingerol, a bioactive compound from ginger, in overcoming TMZ resistance in GBM and delineates its molecular mechanisms.
+TMZ-resistant GBM cell lines (U87-TR and A172-TR) were established which exhibited enhanced migratory capacity and pronounced epithelial-mesenchymal transition (EMT) features.
+Treatment with 6-gingerol significantly reduced cell viability, colony formation, and migratory ability, as demonstrated by wound healing and transwell assays.
+Co-treatment with TMZ and 6-gingerol restored TMZ sensitivity and enhanced cytotoxicity in resistant cells.
+Mechanistically, 6-gingerol suppressed matrix metalloproteinases (MMP-2 and MMP-9) and reversed EMT, as indicated by the upregulation of epithelial markers and downregulation of mesenchymal markers.
+Western blot and transcriptomic analyses revealed activation of the PI3K/Akt/GSK-3β pathway and overexpression of β-catenin and c-Myc in TMZ-resistant cells.
+6-Gingerol inhibited PI3K/Akt phosphorylation and downstream targets, notably reducing c-Myc levels.
+Pharmacological intervention confirmed that PI3K/Akt signaling governs c-Myc expression and EMT progression in TMZ-resistant GBM.
+In vivo, 6-gingerol markedly suppressed tumor growth in a TMZ-resistant xenograft model without observable toxicity, accompanied by inhibition of the PI3K/Akt/β-catenin/c-Myc axis.
+These findings demonstrate that 6-gingerol effectively reverses TMZ resistance and EMT-driven invasiveness, supporting its potential as a novel adjuvant strategy in GBM therapy.

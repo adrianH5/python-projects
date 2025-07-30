@@ -1,0 +1,5 @@
+Source: *Ref. 6, ‡Ref. 7
+Multiple sequence alignment of 21 full genomes obtained and 1563 full-genome sequences (Supplementary Table (available from )) available at the Global Initiative on Sharing All Influenza Data (GISAID) database (as of March 26, 2020) was carried out in MAFFT v.7.4509.
+This tree was used to reduce the dataset to 121 sequences, on the basis of country and the genetic variant identified based on the GISAID classification.
+Phylogenetic trees based on full-genome sequences deposited and available at GISAID revealed the diversification and the clustering of sequences into groups, based on the genetic variants.
+To date, there are no other sequences from Iran in the GISAID database.

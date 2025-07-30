@@ -1,0 +1,10 @@
+Epigenetics, which examines the regulation of genes without modification of the DNA sequence, plays a crucial role in various biological processes and disease mechanisms.
+Among the different forms of epigenetic modifications, histone post-translational modifications (PTMs) are important for modulating chromatin structure and gene expression.
+Aberrant levels of histone PTMs are implicated in a wide range of diseases, including cancer, making them promising targets for biomarker discovery and therapeutic intervention.
+In this context, blood, tissues, or cells serve as valuable resources for epigenetic research and analysis.
+Traditional methods such as mass spectrometry and western blotting are widely used to study histone PTMs, providing qualitative and (semi)quantitative information.
+However, these techniques often face limitations that could include throughput and scalability, particularly when applied to clinical samples.
+To overcome these challenges, we developed and validated 13 Nu.Q® immunoassays to detect and quantify specific histone PTM-nucleosomes from K2EDTA plasma samples.
+Then, we tested these assays on other types of samples, including chromatin extracts from frozen tissues, as well as cell lines and white blood cells Our findings demonstrate that the Nu.Q® assays offer high specificity, sensitivity, precision and linearity, making them effective tools for epigenetic profiling.
+A comparative analysis of HeLa cells using mass spectrometry, Western blot, and Nu.Q® immunoassays revealed a consistent histone PTMs signature, further validating the effectiveness of these assays.
+Additionally, we successfully applied Nu.Q® assays across various biological samples, including human tissues from different organs and specific white blood cell subtypes, highlighting their versatility and applicability in diverse biological contexts.

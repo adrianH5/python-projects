@@ -1,0 +1,3 @@
+The radiomics model based on single imaging modality has been demonstrated as a promising approach for predicting the response to neoadjuvant treatment (NAT) in breast cancer.
+However, whether integrating multiple imaging modalities improve the performance of the radiomics model is undetermined.
+This study aims to develop a multi-modal radiomics model based on four imaging modalities, including ultrasound (US), mammography (MM), computed tomography (CT), and magnetic resonance imaging (MRI), for predicting pathological complete response (pCR) in breast cancer after NAT.

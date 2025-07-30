@@ -1,0 +1,11 @@
+Western blot (WB) is widely used for detecting specific proteins and their posttranslational modifications.
+The prevailing detection methods rely on either chemiluminescence or fluorescence.
+Fluorescence offers more stable signals, improves quantitative accuracy, and enables multiplex detection across various channels.
+Among these, the 800-nm near-infrared channel is preferred for its low background, superior signal-to-noise ratio, and compatibility with the inexpensive blocking agent, non-fat milk.
+In WB, it is often necessary to detect proteins with similar molecular weights or different forms of the same protein on the same blot.
+However, an optimal method for sequential probing using only the 800-nm channel has not been reported.
+Here, we demonstrate that combining 10% acetic acid (AA) stripping with photobleaching effectively eliminates 800-nm fluorophore signals from probed blots, enabling sequential probing within the same channel.
+The 10% AA solution disrupts antigen-antibody binding without causing protein loss from nitrocellulose membranes, achieving over 90% stripping efficiency for most tested antibodies and reducing potential steric hindrance during reprobing.
+Additionally, illumination with 800-nm light photobleaches residual signals.
+This approach provides a solution for sequential fluorescent WB using the optimal channel, delivering enhanced reliability and accuracy compared with chemiluminescent methods.
+Furthermore, this strategy can be extended to other imaging channels as needed.

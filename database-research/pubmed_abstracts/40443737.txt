@@ -1,0 +1,5 @@
+Hypoxia is a hallmark of the tumor microenvironment (TME), and it plays a crucial role in the occurrence and progression in vascular tumors.
+Under hypoxic conditions, hypoxia-inducible factor 1-alpha (HIF-1α) is stabilized, inducing changes in the expression of various target genes involved in angiogenesis, metabolism, and cell survival.
+This includes the upregulation of pro-angiogenic factors like VEGF, which promotes the formation of dysfunctional blood vessels, contributing to the worsening of the hypoxic microenvironment.
+At the same time, hypoxia induces a metabolic shift toward glycolysis, even in the presence of oxygen, supporting tumor cell survival and proliferation by providing necessary energy and biosynthetic precursors.
+This review discusses the molecular mechanisms by which hypoxia regulates angiogenesis and metabolic reprogramming in vascular tumors, highlighting the intricate link between these processes, and explores potential therapeutic strategies to target these pathways in order to develop effective treatment strategies for patients.

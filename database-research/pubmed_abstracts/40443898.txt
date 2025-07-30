@@ -1,0 +1,3 @@
+Fluorescence imaging in the near-infrared (NIR, 700-1000 nm) and shortwave infrared (SWIR, 1000-2000 nm) regions is advantageous for studying mammals.
+This work applies palladium-catalyzed coupling methods to functionalize flavylium and chromenylium SWIR polymethine fluorophores, which are challenging substrates due to their small HOMO-LUMO gaps.
+These chemistries include Suzuki-Miyaura and Sonogashira couplings as well as an unprecedented coupling of alcohol substrates to ultimately achieve a panel of C-C

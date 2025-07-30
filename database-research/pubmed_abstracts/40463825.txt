@@ -1,0 +1,4 @@
+Third molar extraction, a common dental procedure, often involves complications, such as alveolar nerve injury.
+Accurate preoperative assessment of the extraction difficulty and nerve injury risk is crucial for better surgical planning and patient outcomes.
+Recent advancements in deep learning (DL) have shown the potential to enhance the predictive accuracy using panoramic radiographic (PR) images.
+This systematic review evaluated the accuracy and reliability of DL models for predicting third molar extraction difficulty and inferior alveolar nerve (IAN) injury risk.

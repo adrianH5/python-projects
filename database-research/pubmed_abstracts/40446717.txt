@@ -1,0 +1,10 @@
+Ferroptosis, an iron-dependent form of apoptosis, differs from the caspase-dependent apoptosis.
+Mitochondria plays an irreplaceable role in the ferroptosis processes.
+Compared with normal mitochondria, mitochondria of ferroptosis process are characterized by smaller mitochondrial membrane densities, mitochondrial crista may be reduced.
+The microenvironmental parameter viscosity is active in the physiological processes of mitochondrial respiration and metabolism.
+Abnormal mitochondrial viscosity concentration have been linked to many diseases, including diabetes, inflammation, atherosclerosis, and even cancer.
+Monitoring the change of mitochondrial viscosity is of great significance for understanding the occurrence of ferroptosis disease.
+So far, some fluorescent probes reported have short absorption and emission wavelengths and small Stokes shifts, which will affect its application in living tissues.
+In our work, we reported four novel mitochondria-targeted NIR fluorescent probes for viscosity detection.
+These probes contain different electron-donating groups, among which Mito-Vis-4 with large Stokes shift (200 nm) and mitochondrial targetable can be used image the viscosity changes during ferroptosis process.
+The results indicated that Mito-Vis-4 is a promising noninvasive and sensitive tool for monitor the viscosity changes in vivo.

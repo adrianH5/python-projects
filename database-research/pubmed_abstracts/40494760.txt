@@ -1,0 +1,8 @@
+Over the last ten years, China has made significant breakthroughs in the construction of a standardized diagnosis and treatment system and technological innovation in thyroid tumor cytology.
+In terms of diagnostic techniques, a standardized process combining manual smears and liquid-based cytology has been established.
+The combination of hematoxylin-eosin staining and cell block technology has significantly improved diagnostic accuracy, while immunocytochemical staining plays an important role in the differential diagnosis of difficult cases.
+The molecular pathology detection system has achieved leapfrog development, evolving from single-gene BRAF detection to a multi-gene panel covering BRAF, TERT and RAS genes.
+The application of next-generation sequencing and other new technologies has significantly improved preoperative diagnostic efficacy.
+The publication of the "Expert consensus on the cytopathological diagnosis of thyroid-fine needle aspiration (version 2023)" has further promoted the standardization of thyroid cytology diagnosis in China.
+Meanwhile, Chinese scholars have made breakthroughs in the field of medical artificial intelligence.
+A self-developed deep learning model was published in

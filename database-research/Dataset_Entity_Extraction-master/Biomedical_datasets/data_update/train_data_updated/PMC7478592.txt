@@ -1,0 +1,14 @@
+Coronavirus disease 2019 (COVID-19) morbidity and mortality has been overwhelmingly concentrated in elderly individuals and those with preexisting comorbidities [1].
+However, the mechanisms behind increased mortality among older adults and males with COVID-19 remain speculative.
+While genes up-regulated in high viral load samples were dominated by proinflammatory and/or interferon-induced factors such as CXCL9/10, IDO1, and CD80, genes with higher expression in low viral load samples included chemokines for neutrophils (CXCL8, S100A9), and B cell–specific transcripts (FCRL2, IGHG1, IGHM, IGLL5, IGHG2, CD22).
+Clinically, COVID-19 cases tend to be more severe for older adults and males [1].
+In men, we found down-regulation of B cell–specific transcripts (IGHG1 and MSA4A/CD20), down-regulation of the NK cell–activating receptor SLAMF6, and an up-regulation of several inhibitors of NFκB signaling (NDRG1, ARRB2, CD300A, and NFKBID) (Fig 5D).
+Furthermore, the reduction in NK cell–activating receptors and up-regulation of negative regulators of immune effector function—and resultant throttling of effector function—is consistent with a more severe manifestation of COVID-19 in males.
+One of the hallmarks of COVID-19 is a dysregulated antiviral immune response.
+COVID-19 patients frequently develop interleukin-6 (IL-6)-driven cytokine release syndrome (CRS), and elevated serum IL-6 correlates with respiratory failure and poor clinical outcomes [37].
+Treatment with the IL-6 receptor blocking antibody tocilizumab has effectively treated COVID-19 symptoms in some patients [38].
+Notably, the dissection of interferon responses in the lower respiratory tract will be important in light of recent findings that type III interferons in particular can disrupt healing and barrier function of lung epithelial cells following viral infection [39,40], a possible counterindication to the proposed use of type III interferon as treatment for COVID-19.
+Immune dysfunctions in older individuals are well-characterized [2,3,32,33] and likely contribute to poorer COVID-19 outcomes; results from clinical trials of type I and III interferons in severely ill patients are likely to further define the role of interferon signaling in older adults [48–50].
+The observed increased expression of inhibitors of nuclear factor kappa-B (NF-κB) in males with SARS-CoV-2 may represent either inappropriate throttling of the antiviral immune response or an adaptive mechanism to reduce deleterious inflammation, a hallmark of COVID-19 pathogenesis.
+Correction for batch effects was incorporated into the design formula and modeling performed using the Wald test with outlier replacement.
+Gene expression differences attributable to sex or age were incorporated into the design formula as interaction terms.

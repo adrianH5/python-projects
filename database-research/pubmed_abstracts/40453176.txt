@@ -1,0 +1,5 @@
+Disulfide-bond disrupting agents (DDAs) are a class of cyclic thiosulfonates that have been shown to kill human epidermal growth factor receptor (HER) family-overexpressing breast cancer (BC) cells selectively and with no adverse side effects.
+Previous structure-activity relationships suggested a strong correlation between DDA lipophilicity and potency.
+In this study, we present the use of cyclodextrins (CDs) as molecular excipients to address the possible solubilizing drawback of increasingly lipophilic DDAs in oral administrations.
+The formulation of tcyDTDO, a potent second-generation DDA, with beta-cyclodextrin (BCD) and 2-hydroxypropyl-beta-cyclodextrin (HPB) was investigated.
+The choice of BCD as an optimal host over other CDs was guided by two

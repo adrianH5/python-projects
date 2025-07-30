@@ -1,0 +1,10 @@
+Reproductive endocrine diseases (REDs), including polycystic ovary syndrome, endometriosis, and female infertility, are prevalent reproductive disorders that affect a significant number of women worldwide.
+Recent research has indicated that the inhibitors of proprotein convertase subtilisin/kexin type 9 (PCSK9) and 3-hydroxy-3-methylglutaryl-coenzyme A reductase (HMGCR), in addition to reducing cholesterol levels, may have pleiotropic effects on REDs.
+However, the impact of PCSK9 and HMCGR inhibitor on REDs is controversial.
+This study employed drug-target Mendelian randomization to examine the causal relationships between PCSK9/HMGCR inhibitors and REDs, using established coronary heart disease associations as validation controls.
+Multiple Mendelian randomization methods, primarily inverse-variance weighted (IVW), were implemented alongside sensitivity analyses to verify result reliability.
+HMGCR inhibitor demonstrated significant protective effects against polycystic ovary syndrome development (IVW OR 0.321, 95% CI 0.136-0.757; P = .009).
+Correspondingly, PCSK9 inhibitor exhibited favorable associations with endometriosis risk reduction (IVW OR 0.971, 0.688-0.909; P = .001).
+These observations remained consistent across all sensitivity evaluations, confirming analytical robustness.
+Our findings support a causal link between HMGCR/PCSK9 inhibitors and REDs, suggesting potential therapeutic implications.
+However, further mechanistic studies are needed to clarify the biological pathways and clinical relevance of these results.

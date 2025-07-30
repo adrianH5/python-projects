@@ -1,0 +1,15 @@
+Cytokines are potent endogenous modulators of innate immunity, making them key mediators of macrophage plasticity for immunotherapy.
+However, the clinical translation of recombinant cytokines as therapeutics is limited by systemic side effects, caused by cytokines' pleiotropy, potency, and non-specific biodistribution following systemic dosing.
+We developed a cytokine delivery platform utilizing poly(acrylamide-co-methacrylic acid) synthetic nanogels as a biodegradable substrate for conjugated recombinant cytokines (i.e., IFNγ, IL4, or IL10), called Synthetic Nano-CytoKines or "SyNK".
+We evaluated the phenotypic response of macrophages to these conjugates following prophylactic or therapeutic dosing, in the presence or absence of soluble inflammatory signals.
+Our data confirmed that SyNK is highly cytocompatible with murine macrophages, preserves the activity of conjugated recombinant cytokines to both macrophages and dendritic cells, and minimizes systemic exposure to freely soluble recombinant cytokines.
+Intrinsic activity of the nanomaterial was modest, acting in combination with the conjugated cytokine, and resulted in unique phenotypes with IL4-SyNK and IL10-SyNK stimulation that could potentially be leveraged for therapeutic applications.
+We further demonstrated that RAW264.7 macrophages adopt distinct alternative phenotypes upon IL4 or IL10 stimulation in different classically polarizing microenvironments, as measured by spectral flow cytometry and secretome multiplex, which are similar for soluble recombinant cytokine and the corresponding SyNK.
+These findings offer a potential mechanism through which IL4 or IL10-SyNK can redirect the classically activated macrophage antigen presentation, T cell co-stimulation, or microenvironment regulatory functions for therapeutic purposes.
+STATEMENT OF SIGNIFICANCE: Cytokines have been extensively investigated as immune therapies, but their clinical translation is limited by their systemic toxicity and frequent dosing regimens.
+Existing approaches have improved cytokine stability and local delivery but still face challenges in systemic administration and controlling immune response.
+We developed a cytokine delivery platform using biodegradable poly(acrylamide-co-methacrylic acid) nanogels to conjugate cytokines (e.g.
+IFNγ, IL4, or IL10) aimed at systemic macrophage immunotherapy.
+We show that our platform preserves cytokine activity and eliminates the release of free cytokine.
+We further explore, for the first time, how different stimuli in the macrophage environment influence their response to the cytokine bioconjugates.
+Our work provides thorough insights into macrophage plasticity and addresses key limitations of current strategies.

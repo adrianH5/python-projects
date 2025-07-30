@@ -1,0 +1,4 @@
+Ferroptosis is a form of regulated cell death (RCD) caused by the accumulation of intracellular iron and lipids and is involved in many pathological processes, including neurodegenerative and cardiovascular diseases, and cancer.
+Long non-coding RNAs (lncRNAs), RNA molecules exceeding 200 nt in length that do not possess protein coding function can interfere with ferroptosis by binding ferroptosis-related miRNAs or proteins.
+Recently, ferroptosis-related lncRNAs (FRlncRNAs) have been identified in cancer and non-malignant disease models, including inprediction of drug resistance, intra-tumoral immune infiltration, metabolic reprogramming and mutation landscape.
+Here, we review FRlncRNAs in cancer and non-malignant diseases, from prognosis to treatment.

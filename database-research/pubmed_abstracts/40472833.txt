@@ -1,0 +1,7 @@
+In this paper, we propose a robust control method for the automatic treatment of targeted anti-angiogenic molecular therapy based on multi-input multi-output (MIMO) nonlinear fractional and non-fractional models using the backstepping (BS) approach.
+This protocol aims to eradicate tumour cells while preserving high levels of the body's natural effector cells and maintaining drug dosage within safe limits.
+The exponential stability of the controlled system is mathematically demonstrated using the Lyapunov theorem.
+Consequently, the tumour volume's convergence rate can be precisely controlled-a critical factor in cancer treatment.
+To fine-tune the controller gains, a soft actor-critic (SAC) algorithm within the framework of deep reinforcement learning (DRL) is employed, with a reward function designed based on the specific requirements of the system.
+Additionally, the Lyapunov theorem is used to mathematically verify the system's robustness against parametric uncertainty.
+Compared to state-of-the-art approaches, the proposed scheme demonstrates superior long-term performance, achieving complete tumour eradication and drug delivery convergence to zero within 50 days while preserving high effector cell levels.

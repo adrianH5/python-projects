@@ -1,0 +1,7 @@
+Cell and gene therapies often express nonhuman proteins, which carry a risk of anti-therapy immunogenicity.
+An emerging consensus is to instead use modified human protein domains, but these domains include nonhuman peptides around mutated residues and at interdomain junctions, which may also be immunogenic.
+We present a modular workflow to optimize protein function and minimize immunogenicity by using existing machine learning models that predict protein function and peptide-major histocompatibility complex (MHC) presentation.
+We first applied this workflow to existing transcriptional activation and RNA-binding domains by removing potentially immunogenic MHC II epitopes.
+We then generated small-molecule-controllable transcription factors with human-derived DNA-binding domains targeting non-genomic DNA sequences.
+Finally, we established a workflow for creating deimmunized zinc-finger arrays to target arbitrary DNA sequences and upregulated two therapeutically relevant genes, utrophin (UTRN) and sodium voltage-gated channel alpha subunit 1 (SCN1A), using it.
+Our modular workflow offers a way to potentially make cell and gene therapies safer and more efficacious using state-of-the-art algorithms.

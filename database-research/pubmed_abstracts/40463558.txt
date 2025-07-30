@@ -1,0 +1,4 @@
+Thyroid diseases are common and highly heritable.
+Under the Global Biobank Meta-analysis Initiative, we performed a meta-analysis of genome-wide association studies from 19 biobanks for five thyroid diseases: thyroid cancer, benign nodular goiter, Graves' disease, lymphocytic thyroiditis, and primary hypothyroidism.
+We analyzed genetic association data from ~2.9 million genomes and identified 235 known and 501 novel independent variants significantly linked to thyroid diseases.
+We discovered genetic correlations between thyroid cancer, benign nodular goiter, and autoimmune thyroid diseases (

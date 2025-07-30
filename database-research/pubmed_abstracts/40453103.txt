@@ -1,0 +1,8 @@
+Liquid biopsy offers a minimally invasive method for detecting and monitoring cancer, with key biomarkers including circulating tumor cells (CTCs), cell-free DNA (cfDNA), and extracellular vesicles (EVs).
+Among these, CTCs provide dynamic insights into tumor heterogeneity, metastatic potential, and therapeutic resistance through molecular profiling and single-cell analysis.
+This review examines recent advancements in technologies such as microfluidics, nanotechnology, and next-generation sequencing (NGS), which have improved the accuracy and clinical use of CTC detection.
+A comparative analysis of liquid biopsy techniques highlights the strengths and limitations of key platforms, including NGS, digital PCR (ddPCR), and quantitative PCR (qPCR), providing insights into diagnostic accuracy and clinical significance.
+Combining genomic, transcriptomic, and proteomic analyses with artificial intelligence (AI) tools has enhanced tumor profiling and supports personalized treatment decisions in precision oncology.
+Despite notable progress, issues like assay standardization, sample variability, regulatory complexity, and data integration still limit widespread clinical use.
+Future directions emphasize interdisciplinary innovation, clinical validation, and robust bioinformatics frameworks to facilitate the seamless incorporation of CTC-based liquid biopsy into standard oncology practice.
+Overcoming these challenges may allow liquid biopsy to become a standard tool for early cancer detection, ongoing monitoring, and individualized treatment.

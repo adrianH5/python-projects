@@ -1,0 +1,4 @@
+Loss of all or part of chromosome 7 [-7/del(7q)] is recurrent in myeloid neoplasms and associated with a poor response to chemotherapy.
+Chromosome 7-encoded genes driving drug resistance and the consequences of combinatorial 7q tumor suppressor gene loss have remained unclear, the latter question largely because of the challenges of modeling aneuploidy.
+Here, we use in silico data mining to uncover 7q genes involved in chemotherapy resistance.
+We establish murine models of del(7q) clonal hematopoiesis and drug resistance with multiplex CRISPR-Cas9 (CRISPR-associated protein 9)-mediated inactivation of 4 genes,

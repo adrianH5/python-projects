@@ -1,0 +1,9 @@
+Low-grade gliomas (LGGs) are among the most problematic brain tumors to reliably segment in FLAIR MRI, and effective delineation of these lesions is critical for clinical diagnosis, treatment planning, and patient monitoring.
+Nevertheless, conventional U-Net-based approaches usually suffer from the loss of critical structural details owing to repetitive down-sampling, while the encoder features often retain irrelevant information that is not properly utilized by the decoder.
+To solve these challenges, this paper offers a dual-attention U-shaped design, named ECASE-Unet, which seamlessly integrates Efficient Channel Attention (ECA) and Squeeze-and-Excitation (SE) blocks in both the encoder and decoder stages.
+By selectively recalibrating channel-wise information, the model increases diagnostically significant regions of interest and reduces noise.
+Furthermore, dilated convolutions are introduced at the bottleneck layer to capture multi-scale contextual cues without inflating computational complexity, and dropout regularization is systematically applied to prevent overfitting on heterogeneous data.
+Experimental results on the Kaggle Low-Grade-Glioma dataset suggest that ECASE-Unet greatly outperforms previous segmentation algorithms, reaching a Dice coefficient of 0.9197 and an Intersection over Union (IoU) of 0.8521.
+Comprehensive ablation studies further reveal that integrating ECA and SE modules delivers complementing benefits, supporting the model's robust efficacy in precisely identifying LGG boundaries.
+These findings underline the potential of ECASE-Unet to expedite clinical operations and improve patient outcomes.
+Future work will focus on improving the model's applicability to new MRI modalities and studying the integration of clinical characteristics for a more comprehensive characterization of brain tumors.

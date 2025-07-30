@@ -1,0 +1,9 @@
+Metabolic reprogramming is a process by which cells adapt to the nutrient microenvironment by regulating energy metabolism.
+Compared with normal cells, tumor cells tend to undergo metabolic reprogramming, which is one of the hallmarks of concurrent genomic instability, and immune evasion in tumor cells.
+The microbial community, known as "second genome" of human beings, can cause systemic disease by predisposing cells to tumors, and modulating immune responses to cancer.
+Metabolic reprogramming and microorganisms can crosstalk with each other in multiple ways to influence various physiological and pathological responses in cancer progression.
+The products of increased synthesis by tumor cells can reach the intestinal tract via the circulation and act on the microorganisms, promoting mucosal inflammation, causing systemic disorders, and may also regulate the immune response to cancer.
+In addition, the metabolites of the microorganisms can in turn be transported to the tumor microenvironment (TME) through the systemic circulation and participate in the process of tumor metabolic reprogramming.
+Different molecular mechanisms related to metabolic reprogramming and microbiota imbalance control the outcome of tumor or anti-tumor responses, depending on the type of cancer, stage of the disease and the TME.
+In this review, we focus on the fundamental role of metabolic reprogramming in the interaction between microorganisms and cancers and explore the molecular mechanisms by which metabolic reprogramming modulates this complex biological process.
+This comment aims to provide valuable resources for clinicians and researchers and promote further research in the field.

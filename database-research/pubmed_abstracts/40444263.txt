@@ -1,0 +1,2 @@
+Cherenkov light emitted in the tissue during radiation therapy enables unprecedented approaches to tumor functional imaging for early treatment assessment.
+Cherenkov light-based tomographic imaging requires image reconstruction algorithms based on internal light sources that, in turn, require knowledge about the characteristics of the Cherenkov light within the patient.

@@ -1,0 +1,5 @@
+Intrahepatic cholangiocarcinoma (ICC) is a challenging cancer with an increasing incidence.
+The Phase III TOPAZ-1/KEYNOTE-966 study demonstrated chemo-immunotherapy (CIT) as a significant advancement, potentially replacing traditional chemotherapy for advanced biliary tract cancer.
+Ferroptosis is a crucial process that affects cancer cell survival and therapy resistance.
+Although AKT hyperactivation is prevalent in numerous cancers, including ICC, its role in ferroptosis resistance remains unclear.
+This study explored whether targeting ferroptosis can enhance CIT response rates, specifically in ICC patients with AKT hyperactivation.

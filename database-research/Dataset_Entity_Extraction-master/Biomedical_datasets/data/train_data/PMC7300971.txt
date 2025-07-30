@@ -1,0 +1,9 @@
+Coronavirus disease‐2019 (COVID‐19), which is caused by a novel coronavirus termed severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2), is a respiratory disease that officially started in the Chinese city of Wuhan Hubei Province during December 2019 and has since spread globally as a pandemic.
+As of 13 May 2020, the total COVID‐19 world cases have surpassed four million with more than 250 000 deaths.
+All 79 COVID‐19 whole genome sequences isolated from Italian patients from 29 January 2020 to 27 April 2020 (53, 11, 6, 6, 2, and 1 isolates from regions Abruzzo, Lazio, Friuli Venezia Giulia, Lombardy, Veneto, and Marche, respectively) (Table 1) and 48 COVID‐19 sequences from 24 December 2019 to 17 January 2020 in China have been downloaded from GISAID (https://www.gisaid.org/) database.
+The data set has been aligned using multiple sequence alignment (MAFFT) online tool
+ and manually edited using Bioedit program v7.0.5.
+In fact, recent evidence
+ strongly suggests that the virus was circulating unrecognized in Lombardy since at least mid‐January, while the first official COVID‐19 Italian case was notified in Codogno (Lombardy) only the 21st of February.
+For this and the additional reason that many efforts to generate a safe and efficacious COVID‐19 vaccine focus upon the spike component, changes in its composition and structure are particularly relevant.
+Nucleocapsid protein was also proposed to be important in COVID‐19 infectivity.

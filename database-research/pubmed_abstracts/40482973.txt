@@ -1,0 +1,8 @@
+This study investigated the efficacy of the One Strain Multiple Compounds (OSMAC) strategy in enhancing the anti-cancer potential of metabolites derived from the marine fungus Aspergillus sp.
+Y-WS27.
+Twenty-five culture conditions were employed to assess the inhibitory effects of crude extracts on cancer cell proliferation.
+Among them, the extract obtained from rice solid culture (R-0) demonstrated significantly enhanced inhibitory activity, as revealed by base peak chromatograms (BPC).
+The metabolite profile of R-0 showed a marked increase in the diversity and abundance of secondary metabolites compared to the control group (P-0).
+Ultra-performance liquid chromatography coupled with quadrupole time-of-flight mass spectrometry (UPLC-QTOF-MS), along with ACD/MS Structure ID Suite, identified eight distinct compounds (1-8).
+These included butyrolactones, terretonins, and monacolin derivatives.
+Further purification yielded 17 compounds (1-17), with compounds 7 and 9 exhibiting significant anti-proliferative effects against MCF-7, A549, and HeLa cancer cells (IC

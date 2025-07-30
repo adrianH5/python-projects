@@ -1,0 +1,4 @@
+Pancreatitis is a potentially fatal and difficult to control exocrine-tissue defect with no FDA approved therapies to date.
+Variants of a chloride/bicarbonate transporter cystic fibrosis transmembrane conductance regulator (CFTR), increase the risk of pancreatitis by two- to three-fold in up to 40% of the patients.
+However, the relationship between the duct-restricted CFTR-function and total exocrine tissue defect during pancreatitis remains less known and animal models do not clearly translate to human disease.
+To overcome this challenge, we developed a robust iPSC-derived model system of pancreatic ductal tissues from an idiopathic pancreatitis patient with a common

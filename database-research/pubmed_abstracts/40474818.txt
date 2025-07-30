@@ -1,0 +1,7 @@
+Immunovirotherapy integrates the oncolytic capabilities of viruses with the modulation of the host immune system to establish robust tumor-specific immune responses.
+Oncolytic viruses (OVs) are natural or engineered viruses that specifically replicate in and lyse tumor cells, triggering inflammation which recruits immune effector cells to the site of infection.
+These conditions theoretically synergize with immune checkpoint blockade (ICB), which aids in establishing and maintaining tumor-infiltrating CD8 T cells.
+However, clinical data directly confirming synergy between OV and ICB therapy is limited despite ICB becoming the standard of care for several cancer types.
+It has been shown that viral immunodominance may limit antitumor T-cell priming and cause the attrition of tumor-specific T cells, limiting long-term therapeutic efficacy.
+To overcome these barriers, precise incorporation of virally expressed or exogenously administered tumor-associated antigens (TAAs) can synchronize the expansion of both antiviral and antitumor T cells, creating optimal conditions for ICB treatment.
+This tripartite approach leverages our understanding of antiviral immunity to efficiently expand subdominant antitumor T cells

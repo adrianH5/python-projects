@@ -1,0 +1,5 @@
+Mutations in glycogen synthase kinase-3 (GSK3) are associated with oncogenesis, but the opposing roles of GSK3 in tumour suppression and promotion, inadequate methods for assessing GSK3 activity and off-target effects of commonly used inhibitors on cell proliferation have stalled progress to clinical benefit.
+This review evaluates evidence linking GSK3 dysfunction to specific cancer types and explores how this knowledge could help develop clinical applications.
+Very few, if any, of the published studies on GSK3 and oncogenesis demonstrate significant alteration in GSK3 activity associated with malignancy.
+Unfortunately, identifying GSK3 mutations or quantifying expression levels offers limited insights into functional activity and this underpins the lack of progress towards clinical use.
+Developing precise, user-friendly biomarkers of GSK3 activity would allow researchers and clinicians to accurately assess its role in cancer progression and drug resistance, helping to overcome barriers to effective GSK3-targeted therapies.

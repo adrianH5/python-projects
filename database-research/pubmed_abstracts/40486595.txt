@@ -1,0 +1,8 @@
+Neutrophils, the most abundant type of white blood cells in the human body, play a vital role in the immune response against infections and tissue injury.
+However, in the context of cancer, their function becomes more complex and context-dependent.
+In breast cancer, neutrophils are key players in shaping the tumor microenvironment (TME), a highly dynamic ecosystem where various cell types, extracellular matrix components, and soluble factors interact to influence tumor progression, immune evasion, and metastasis.
+Neutrophils in the TME are not just passive participants but actively engage in altering tumor biology, either supporting or inhibiting tumor growth depending on their polarization status.
+Neutrophils exhibit plasticity in their phenotype and function, which can be categorized into two polarized forms: N1 and N2.
+N1 neutrophils are associated with antitumor responses, promoting immune activation, direct cytotoxicity against tumor cells, and facilitating the clearance of cancerous cells through the release of reactive oxygen species, cytokines, and chemokines.
+Conversely, N2 neutrophils contribute to tumor progression by fostering an immunosuppressive environment, promoting angiogenesis, enhancing tumor cell migration and invasion, and aiding in the establishment of metastatic niches.
+This dichotomy of neutrophil polarization plays a crucial role in determining breast cancer progression, metastasis, and response to treatment.

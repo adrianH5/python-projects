@@ -1,0 +1,9 @@
+Tumor-infiltrating B cells (TIBs) are the most important cell type involved in the immune response.
+TIBs display considerable intratumor heterogeneity due to genetic variation, epigenetic differences and transcriptional plasticity in the tumor microenvironment (TME).
+Owing to the unique anatomical location of CRC, the B cell subpopulation exhibits more extensive heterogeneity.
+Many studies have shown that TIBs have gradually become a key predictor of immunotherapy for malignant cancers, including CRC.
+TIBs have essential functions, including antigen presentation and antibody secretion, and they promote T-cell activation and myeloid chemotaxis.
+However, owing to the complex TME, TIBs not only promote the antitumor immune response but also inhibit the immune response.
+With the in-depth study of tumor-infiltrating T cells, tumor-associated myeloid cells and the interactions among these cells in the TME, the special role of immune cells in the TME has gradually become clear.
+However, the influence of TIBs in the TME and their interactions with nonimmune cells in the TME remain unclear.
+Here, we summarize the current progress in TIBs based on single-cell RNA sequencing in CRC in recent years, focusing on specific effector or regulatory characteristics of different B cell subclusters in the CRC TME.

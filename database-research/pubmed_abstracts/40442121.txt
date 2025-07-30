@@ -1,0 +1,5 @@
+Compact CRISPR-Cas systems have demonstrated potential for effective packaging into adeno-associated viruses (AAVs) for use in gene therapy.
+However, their applications are currently limited due to modest gene-editing activity.
+Here we introduce an engineered compact CRISPR-Cas12f (hpCasMINI, 554 aa), with hyper editing efficiency in mammalian cells via adding an α-helix structure to the N-terminus of an Un1Cas12f1 variant CasMINI (529 aa).
+The hpCasMINI system boosts gene activation and DNA cleavage activity with about 1.4-3.0-fold and 1.1-19.5-fold, respectively, and maintains the high specificity when compared to CasMINI.
+In addition, the system can activate luciferase reporter gene and endogenous Fgf21 gene in adult mouse liver, as well as construct liver tumorigenesis model via disrupting Trp53 and Pten genes and inserting oncogenic Kras

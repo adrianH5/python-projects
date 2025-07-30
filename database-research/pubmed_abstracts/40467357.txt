@@ -1,0 +1,2 @@
+Effective prognostication improves selection of patients with prostate cancer for treatment combinations.
+We aimed to evaluate whether a previously developed multimodal artificial intelligence (MMAI) algorithm was prognostic in very advanced prostate cancer using data from four phase 3 trials of the STAMPEDE platform protocol.

@@ -1,0 +1,11 @@
+Laparoscopic right hemicolectomy (Lap-RHC) presents technical challenges due to the complex vascular anatomy of the mesentery, which increases the risk of intraoperative bleeding and complicates surgical navigation.
+Accurate identification of the superior mesenteric vein (SMV) is crucial for maintaining surgical safety and achieving optimal oncological outcomes.
+To address these challenges, this study proposes the terminal ileal vein (TIV) approach, a novel technique designed to facilitate precise SMV identification and enable en bloc resection of the ileal mesentery while preserving mesenteric integrity.
+This retrospective cohort study evaluated a novel TIV approach compared to the traditional ileocolic vascular pedicle (IVP) approach for SMV identification and en bloc mesentery resection in patients with right-sided colon cancer.
+A total of 196 patients underwent Lap-RHC between 2022 and 2023, with 67 patients matched by propensity score included in both groups.
+The TIV approach involves initiating dissection at the TIV to accurately locate the SMV and facilitate en bloc resection of the ileal mesentery.
+In the balanced cohort, statistically significant differences were observed between groups regarding operation times (186 [120-299] vs. 210 [146-375] minutes, p = 0.001) and intraoperative blood loss (50 [20-400] vs. 70 [20-600] mL, p = 0.033).
+Differences were also found for time to urinary catheter removal (1 [1-3] vs. 2 [1-5] days, p = 0.012) and postoperative hospital stays (6 [5-12] vs. 7 [5-15] days, p = 0.006).
+The calculated importance proportion of the TIV approach related to these perioperative variables was between 15 and 25%.
+In this retrospective cohort, the TIV approach demonstrated reproducible entry into the mesenteric dissection plane and was accompanied by perioperative outcome differences that may reflect technical simplification.
+Further prospective investigation is needed to determine its clinical utility.

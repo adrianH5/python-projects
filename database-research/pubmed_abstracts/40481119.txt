@@ -1,0 +1,10 @@
+Although immunotherapy has been predominant for advanced gastric cancer treatment, it still has limitations.
+Polyunsaturated fatty acids (PUFAs) are associated with inflammation while their roles in tumor immune microenvironment (TIME) are unclear.
+This study explores PUFAs' impacts on gastric cancer immunity and immunotherapy efficacy.
+Bioinformatics analysis was conducted to identify differential expressions of PUFAs metabolic genes and their immune correlations.
+Clinical data of advanced gastric cancer patients receiving immunotherapy at Zhongda Hospital (2020-2024), whose serum PUFAs were measured by mass spectrometry (MS), were collected and analyzed.
+Bioinformatics analysis revealed differential expression of half of PUFAs metabolic genes in gastric cancer.
+PUFAs metabolism towards Omega-3 (ω-3) tended to increase infiltration of active anti-tumor cells and up-regulate multiple immune checkpoints expressions, while metabolism towards Omega-6 (ω-6) led to opposite TIME outcomes.
+The clinical study demonstrated that lower serum ω-6/ω-3 ratio, arachidonic acid/eicosapentaenoic acid (AA/EPA) ratio, linoleic acid/alpha-linolenic acid (LA/ALA) ratio and higher EPA were associated with better six-month progression-free survival rate (6-month PFS) and one-year overall survival rate (1-year OS).
+This study deepens our understandings of TIME in gastric cancer.
+It clearly demonstrates that maintaining appropriate PUFAs ratios or values is promising in improving prognosis.

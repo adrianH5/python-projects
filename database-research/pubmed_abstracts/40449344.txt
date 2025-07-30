@@ -1,0 +1,7 @@
+This study explores the spatial accessibility and utilization of mammography screening services in Iowa from 2016 to 2022.
+Breast cancer continues to be the most incident cancer in Iowa, with early detection through mammography being critical for reducing mortality.
+Spatial accessibility considers both geographic accessibility and capacity as appointment availability simultaneously.
+Using optimization models, we evaluated the potential spatial accessibility to mammography screening for women aged 40-84.
+We found that while access to mammograms improved over time, particularly in rural areas, the theoretical capacity of mammography facilities was insufficient to meet the demand, particularly in suburban and rural areas where driving times posed significant barriers.
+Additionally, despite improvements in accessibility, utilization rates among privately insured women remained stable, with the highest mammography uptake among urban and suburban women and women of older ages.
+Discrepancies between the accessibility models and the utilization patterns indicate that additional decisions are being made by patients independent of driving distance, such as appointment availability, provider preference, or wait times, that may influence patients to receive mammograms at farther locations.

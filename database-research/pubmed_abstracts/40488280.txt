@@ -1,0 +1,9 @@
+Many proteins that bind specifically to DNA and RNA employ a mechanism known as nucleotide flipping, whereby a nucleotide rotates out of the helical stack and into an active site.
+This conformational change can be monitored using spectroscopic methods, including fluorescence and nuclear magnetic resonance (NMR).
+We previously showed that flipping of a 2'-fluoroarabino-substituted nucleotide by thymine DNA glycosylase (TDG) can be directly monitored using 19F NMR.
+However, 2'-F-substituted phosphoramidites are typically readily available only for canonical nucleotides, posing an experimental limitation.
+Given the large conformational change associated with nucleotide flipping, we reasoned that it could be indirectly monitored by 2'-F nucleotides located at proximal sites in the target or complementary DNA strand.
+Indeed, we find that TDG flipping of deoxythymidine from a G⋅T mispair is robustly monitored by 2'-F probes at six of nine sites examined.
+Moreover, flipping of cadC (5-carboxyl-2'-deoxycytidine), paired with dG or dA, can be monitored with 2'-F probes in the complementary strand, revealing highly efficient cadC flipping by TDG.
+Notably, kinetic assays show that the 2'-F probes have a small or negligible effect on TDG activity.
+The results point to a general and experimentally accessible approach for studying nucleotide flipping and other conformational changes in nucleic acids.

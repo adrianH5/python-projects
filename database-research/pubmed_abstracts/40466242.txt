@@ -1,0 +1,3 @@
+Artificial Intelligence is transforming medical imaging, particularly in the analysis of bone metastases (BM), a serious complication of advanced cancers.
+Machine learning and deep learning techniques offer new opportunities to improve detection, recognition, and segmentation of bone metastasis.
+Yet, challenges such as limited data, interpretability, and clinical validation remain.

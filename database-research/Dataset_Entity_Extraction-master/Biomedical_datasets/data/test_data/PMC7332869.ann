@@ -1,0 +1,28 @@
+T1	Dataset 119 136	COVID 19 data hub
+T2	AccessionNumber 171 180	NC_045512
+T3	AccessionNumber 185 199	YP_009724390.1
+T4	Dataset 285 302	COVID 19 data hub
+T5	Repository 313 317	NCBI
+T6	AccessionNumber 396 410	YP_009724390.1
+T7	Repository 427 430	PDB
+T8	AccessionNumber 435 439	6VYB
+T9	Repository 480 483	PDB
+T10	AccessionNumber 488 492	6VXX
+T11	Repository 535 538	PDB
+T12	Repository 658 661	PDB
+T13	AccessionNumber 666 670	6BIJ
+T14	Repository 717 720	PDB
+T15	AccessionNumber 725 729	3W0W
+T16	Repository 772 775	PDB
+T17	AccessionNumber 780 784	2XPG
+T18	Repository 860 863	PDB
+T19	Repository 997 1000	PDB
+T20	AccessionNumber 1005 1009	3PDO
+T21	AccessionNumber 1132 1146	YP_009724390.1
+R1	hasAttr	Arg1:T5	Arg2:T6
+R2	hasAttr	Arg1:T7	Arg2:T8
+R3	hasAttr	Arg1:T9	Arg2:T10
+R4	hasAttr	Arg1:T12	Arg2:T13
+R5	hasAttr	Arg1:T14	Arg2:T15
+R6	hasAttr	Arg1:T16	Arg2:T17
+R7	hasAttr	Arg1:T19	Arg2:T20

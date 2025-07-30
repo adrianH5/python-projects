@@ -1,0 +1,10 @@
+Clear cell renal cell carcinoma (ccRCC) is the most common form of kidney cancer in adults.
+We generated TRAnsgenic of Cancer of the Kidney (TRACK) mice that express a triple-mutant (P402A, P564A, and N803A) human HIF1α construct specifically in their proximal tubule (PT) cells.
+We demonstrated that the elevated lipid content found in human ccRCCs is mimicked in these TRACK PT cells.
+Additionally, we reported that ATF4 (activating transcription factor 4), a transcription factor, and its target genes were highly expressed both in human ccRCCs and in TRACK PT cells.
+To delineate the functions of ATF4 in ccRCC we have now generated TRACK mice in which the ATF4 gene is specifically deleted in PT cells (GCREA∆T).
+Our genome-wide transcriptomics and proteomics studies show that expression of ∼20 % of mRNAs and proteins is significantly altered in GCREA∆T compared to TRACK kidney cortices.
+Gene set enrichment analyses (GSEAs) of mRNAs demonstrate that the fatty acid metabolism pathway is upregulated in TRACK vs WT and that, conversely, ATF4 deletion reduces mRNAs in the fatty acid metabolism pathway (e.g., ATP citrate lyase).
+Moreover, some transcripts elevated in human ccRCC are reduced in GCREA∆T vs. TRACK kidney cortices and cystic, pre-cancerous lesions are also reduced.
+Thus, ATF4 actions increase both lipid droplet accumulation in this ccRCC model and oncogenesis-related gene expression.
+These data suggest that ATF4 contributes to the formation of ccRCC tumors and may be a potential therapeutic target.

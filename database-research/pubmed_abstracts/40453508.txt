@@ -1,0 +1,9 @@
+In mass spectrometry (MS)-based metabolomics, the most straightforward and efficient approach for compound identification is the comparison of similarity scores between experimental spectra and reference spectra.
+Among various single and composite similarity measures, the Cosine Correlation is favored due to its simplicity, efficiency, and effectiveness.
+Recently, the Shannon Entropy Correlation has shown superior performance over several other measures, including the Cosine Correlation, in LC-MS-based metabolomics, particularly concerning receiver operating characteristic (ROC) curves and false discovery rates.
+However, previous comparisons did not consider the weight factor transformation, which is critical for achieving higher accuracy with the cosine correlation.
+This study conducted a comparative analysis of the Cosine Correlation and Shannon Entropy Correlation, incorporating the weight factor transformation during preprocessing.
+Additionally, we developed a novel entropy correlation measure, the Tsallis Entropy Correlation, which offers greater versatility than the Shannon Entropy Correlation.
+Our accuracy-based results indicate that the weight factor transformation is essential for achieving higher identification performance in both LC-MS and GC-MS-based compound identification.
+Although the Tsallis Entropy Correlation outperforms the Shannon Entropy Correlation in terms of accuracy, it comes with higher computational expense.
+In contrast, the Cosine Correlation, when combined with the weight factor transformation, achieves the highest accuracy and the lowest computational expense, demonstrating both robustness and efficiency in MS-based compound identification.

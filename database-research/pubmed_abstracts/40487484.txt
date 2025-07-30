@@ -1,0 +1,7 @@
+Adenoviral vectors demonstrate encouraging clinical outcomes for B and T cell vaccines.
+With such approaches, multiple payloads can be delivered, beyond the antigen itself.
+Nevertheless, the human adenoviral vector serotype C5 (HAdV5) exhibits limited transduction efficiency to dendritic cells (DCs), therefore necessitating very high viral loads.
+Targeting antigen-presenting cells (APCs) has remained challenging.
+To solve this problem, we developed a versatile platform that employs modular retargeting adapters to enhance transduction of specific cell types, including challenging host cells.
+By rational design, we constructed a dual-adapter for DC-SIGN and CD11c and demonstrate successful targeting of HAdV5 to human and murine DCs.
+Our

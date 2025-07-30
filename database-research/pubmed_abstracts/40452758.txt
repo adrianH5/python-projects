@@ -1,0 +1,4 @@
+Cancer stem cells (CSCs) drive tumor initiation, relapse, and metastasis.
+Our research team developed polycaprolactone electrospun (PCL-ES) scaffolds for enriching lung CSCs (LCSCs) since monolayer culture do not allow the study of this malignant population.
+The upregulation of fatty acid synthase (FASN) correlates with resistance to tyrosine kinase inhibitors (TKIs) targeting the epidermal growth factor receptor (EGFR), and its inhibition induces cytotoxicity in EGFR-mutated (EGFRm) non-small cell lung cancer (NSCLC) cells.
+Therefore, this study aims to elucidate the role of FASN and related signaling pathways in LCSCs cultured in PCL-ES scaffolds and to evaluate the effectiveness of FASN inhibitor G28, a synthetic derivative of (-)-epigallocatechin-3-gallate (EGCG), against this population.

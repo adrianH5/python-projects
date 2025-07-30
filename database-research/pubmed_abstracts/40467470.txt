@@ -1,0 +1,4 @@
+Adoption of electronic health record (EHR)-based clinical decision support tools in community-based health centers might increase the provision of indicated cancer screening orders.
+We examined: (1) if the use of the care gaps smartset (CGS), an EHR tool that expedites ordering care, is associated with colorectal/cervical cancer (CRC/CVC) screening order rates; and (2) how selected implementation strategies, barriers, and facilitators impact CGS use.Within a sequential mixed methods design, we used multivariate regression to assess associations between clinic- and provider-level CGS use and cancer screening order rates.
+Tool use rates (3/2018-12/2023) were measured as the rate of encounters at which any orders were placed via the CGS and then categorized by use level.
+Surveys (

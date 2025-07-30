@@ -1,0 +1,2 @@
+Given the increasing prevalence of generative AI (GenAI) models, a systematically evaluation of their performance in lung adenocarcinoma histopathological assessment is crucial.
+This study aimed to evaluate and compare three visual-capable GenAI models (GPT-4o, Claude-3.5-Sonnet, and Gemini-1.5-Pro) for lung adenocarcinoma histological pattern recognition and grading, as well as to explore prognostic prediction models based on GenAI feature extraction.

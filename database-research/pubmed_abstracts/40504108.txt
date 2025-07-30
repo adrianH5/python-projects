@@ -1,0 +1,9 @@
+Hepatocellular carcinoma (HCC) remains a lethal malignancy with limited therapeutic options.
+Ferritinophagy, an autophagy-dependent process regulating iron metabolism, has emerged as a key contributor to ferroptosis and tumour progression.
+This study hypothesised that the ferritinophagy-related gene FTH1 drives HCC pathogenesis by modulating tryptophan metabolism and reactive oxygen species (ROS)-dependent ferroptosis.
+To test this, we first analysed TCGA data to identify prognostic ferritinophagy genes, revealing FTH1 as a critical risk factor.
+Functional experiments using FTH1-knockdown/-overexpressing HCC cell lines and xenograft models demonstrated that FTH1 enhances proliferation, migration, and tumour growth by upregulating CYP1A1/CYP1A2 in the tryptophan pathway, thereby increasing the synthesis of 6-hydroxymelatonin (6-HMT).
+Mechanistically, 6-HMT suppressed ROS and ferroptosis by inhibiting cytochrome P450 oxidoreductase (POR).
+Concurrently, intracellular tryptophan levels were found to inhibit NCOA4-mediated selective autophagy of FTH1, stabilising FTH1 levels and promoting tumour survival.
+Collectively, our findings establish FTH1 as a central regulator of ferritinophagy in HCC and reveal its dual role in linking tryptophan metabolism to redox homeostasis.
+This result provides a hint of how FTH1 influences HCC pathogenesis and positions the tryptophan metabolism pathway as a promising therapeutic target.

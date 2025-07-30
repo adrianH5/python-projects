@@ -1,0 +1,8 @@
+Although limited data are available regarding sepsis induced by COVID-19, pathogenic coronaviruses-induced sepsis is observed with Middle East respiratory syndrome [3].
+Using the Traditional Chinese Medicine Systems Pharmacology (TCMSP) [17], Drugbank [18], SuperPred [19] and Swiss Target Prediction [20] databases, well-reported pharmacological targets of VC were obtained.
+Likewise, the DisGeNET [21], Drugbank, and Genecard [22] databases were used to screen pathological targets of sepsis.
+Using a STRING database, the mapped target of VC action against sepsis were reassayed to harvest a target-to-target function-related protein network, protein–protein interaction (PPI) network, and tsv. data.
+The inclusion criteria for sepsis screening through DisGeNET database was a gene-disease association score > 0.1 and for sepsis screening through GeneCards database was a gene score >
+VC drug targets were screened and identified through both the TCMSP and Swiss Target Prediction databases, and 161 VC targets were identified (after removing duplicates) using Uniprot database.
+Using a minimum required interaction score set to 0.700 (high confidence), a STRING database was used to collect function-related PPI data from the 63 targets (Supplementary Table 1).
+Abstract  Sepsis is a life-threatening complication of pneumonia, including coronavirus disease-2019 (COVID-19)-induced pneumonia.

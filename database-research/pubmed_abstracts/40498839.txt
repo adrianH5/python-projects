@@ -1,0 +1,3 @@
+T cells targeting epitopes in infectious diseases or cancer play a central role in spontaneous and therapy-induced immune responses.
+Epitope recognition is mediated by the binding of the T cell receptor (TCR), and TCRs recognizing clinically relevant epitopes are promising for T cell-based therapies.
+Starting from a TCR targeting the cancer-testis antigen NY-ESO-1

@@ -1,0 +1,12 @@
+Cancer is among the most dangerous diseases contributing to rising global mortality rates.
+Lung cancer, particularly adenocarcinoma, is one of the deadliest forms and severely impacts human life.
+Early diagnosis and appropriate treatment significantly increase patient survival rates.
+Computed Tomography (CT) is a preferred imaging modality for detecting lung cancer, as it offers detailed visualization of tumor structure and growth.
+With the advancement of deep learning, the automated identification of lung cancer from CT images has become increasingly effective.
+This study proposes a novel lung cancer detection framework using a Flower Pollination Algorithm (FPA)-based weighted ensemble of three high-performing pretrained Convolutional Neural Networks (CNNs): VGG16, ResNet101V2, and InceptionV3.
+Unlike traditional ensemble approaches that assign static or equal weights, the FPA adaptively optimizes the contribution of each CNN based on validation performance.
+This dynamic weighting significantly enhances diagnostic accuracy.
+The proposed FPA-based ensemble achieved an impressive accuracy of 98.2%, precision of 98.4%, recall of 98.6%, and an F1 score of 0.985 on the test dataset.
+In comparison, the best individual CNN (VGG16) achieved 94.6% accuracy, highlighting the superiority of the ensemble approach.
+These results confirm the model's effectiveness in accurate and reliable cancer diagnosis.
+The proposed study demonstrates the potential of deep learning and neural networks to transform cancer diagnosis, helping early detection and improving treatment outcomes.

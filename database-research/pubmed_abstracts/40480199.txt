@@ -1,0 +1,13 @@
+Variant-level functional data are a core component of clinical variant classification and can aid in reinterpreting variants of uncertain significance (VUSs).
+However, the usage of functional data by genetics professionals is currently unknown.
+An online survey was developed and distributed in the spring of 2024 to individuals actively engaged in variant interpretation.
+Quantitative and qualitative methods were used to assess responses.
+190 eligible individuals responded, with 93% reporting interpreting 26 or more variants per year.
+The median respondent reported 11-20 years of experience.
+The most common professional roles were laboratory medical geneticists (23%) and variant review scientists (23%).
+77% reported using functional data for variant interpretation in a clinical setting, and overall, respondents felt confident assessing functional data.
+However, 67% indicated that functional data for variants of interest were rarely or never available, and 91% considered insufficient quality metrics or confidence in the accuracy of data as barriers to their use.
+94% of respondents noted that better access to primary functional data and standardized interpretation of functional data would improve usage.
+Respondents also indicated that handling conflicting functional data is a common challenge in variant interpretation that is not performed in a systematic manner across institutions.
+The results from this survey showed a demand for a comprehensive database with reliable quality metrics to support the use of functional evidence in clinical variant interpretation.
+The results also highlight a need for guidelines regarding how putatively conflicting functional data should be used for variant classification.

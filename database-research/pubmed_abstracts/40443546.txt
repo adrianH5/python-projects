@@ -1,0 +1,11 @@
+Co-occurring symptoms such as depression, anxiety, fatigue, and sleep disorders are frequently comorbid with cancer.
+The causes of these cancer-related symptom clusters are hypothesized sharing a common biological mechanism.
+This study explored pattern differences of some gut metabolites (glucocorticoids, short-chain fatty acids, gut microbial metabolites from tryptophan) in plasma samples from patients with four types of cancer.
+Metabolomics analysis was performed to indicate the differences of metabolites.
+Discrimination model and diagnostic model were constructed using orthogonal partial least squares discriminant analysis, and differential metabolites were screened, then receiver-operating characteristic curve analysis was performed to evaluate the performance of these models.
+Melatonin (MLT), indole propionic, and skatole were screened as the common differential metabolites shared by four types of cancer, indicating that the intestinal microbial metabolic pathway of tryptophan plays a key role in the occurrence and development of malignant tumors.
+The area under the curve values for the potential candidate biomarker predictors in univariate analysis ranged from 0.771 to 0.989, and in multivariate analysis ranged from 0.985 to 1.00.
+The sensitivity and specificity of the multivariable model were 94.7-100 and 96.4-100%, respectively.
+These biomarkers also had good performance in discriminating different pairs of cancer.
+The analysis of gut microbiota metabolites allows us to characterize the common metabolic characteristics of patients with various cancers.
+The intestinal microbial metabolic pathway of tryptophan plays a key role in the occurrence and development of malignant tumors.

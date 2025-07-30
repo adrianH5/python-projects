@@ -1,0 +1,15 @@
+Diffuse large B cell lymphoma (DLBCL) is the most common subtype of non-Hodgkin lymphoma.
+It is a heterogeneous group of diseases that may need very aggressive treatment in some cases.
+Prognostic evaluation is very important in determining the best treatment.
+However, in some clinics, access to genetically based and expensive diagnostic methods is limited.
+In this study, we analyzed the prognostic value of Hemoglobin, Albumin, Lymphocyte and Platelet (HALP) Score and Geriatric Nutritional Risk Index (GNRI) in DLBCL patients.
+201 Patients with newly diagnosed DLBLC between 2005 and 2022 were retrospectively evaluated.
+Optimal cutoff points for the HALP score and the GNRI were calculated with the receiver operating characteristic curve analysis.
+Kaplan-Meier method was used to compare survival and disease-free survival times between HALP score groups.
+In the receiver operating characteristic curve analysis, the cutoff points were found 26.17 for HALP, and 99.17 for GNRI.
+Groups with lower HALP scores and lower GNRIs had significantly shorter overall survival and disease-free survival.
+Univariate analyses showed that lower HALP score, lower GNRI and higher lactic dehydrogenase, Ann-Arbor stage, International Prognostic Index (IPI), National Comprehensive Cancer Network-IPI and Revised-IPI scores were associated with worse survival rates (P < .05).
+According to the results of the multivariate Cox regression model, patients with HALP score ≤ 26.17 (OR: 2.32; 95%CI: 1.31-4.11 P = .004) increased the risk of death (P = .001, -2 loglikelihood = 506.15).
+Similarly, a GNRI score ≤ 99.17 was significantly correlated with worse survival outcomes (P < .001).
+HALP score and GNRI score are reliable, simple and easily accessible indices that can be used to predict the prognosis of DLBLC patients.
+DLBLC patients with low HALP score and low GNRI level may be associated with short survival and early nutritional support should be considered.

@@ -1,0 +1,2 @@
+Deformable liver motion tracking using a single X-ray projection enables real-time motion monitoring and treatment intervention.
+We introduce a conditional point cloud diffusion model-based framework for accurate and robust liver motion tracking from arbitrarily angled single X-ray projections.

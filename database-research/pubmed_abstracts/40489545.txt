@@ -1,0 +1,5 @@
+Vincristine (VCR)-based anticancer drugs show significant potential in improving treatment results for aggressive malignancies, including colorectal cancer (CRC).
+This study presents a core - shell iron nanoparticle system (IR780@VCR@GA-Fe-BSA@PLGA, termed as PVIBs) that combines VCR chemotherapy, sonodynamic treatment (SDT) utilizing IR780, and Fenton reaction-improved oxidative stress.
+The technology exhibited pH-response release of therapeutic compounds, synergic anticancer effects, and mitochondrial targeting when coupled with ultrasonic (US) irradiation.
+PVIBs markedly elevated ROS generation, exacerbated mitochondrial impairment, and augmented apoptosis rates in colorectal cancer therapies.
+These findings underscore the promise of this US-enhanced nanoplatform in tackling problems related to colorectal cancer treatment, providing a highly successful and least intrusive therapeutic approach.

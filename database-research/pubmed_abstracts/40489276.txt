@@ -1,0 +1,10 @@
+Machine Learning (ML) demonstrates dermatologist-level accuracy in skin cancer diagnosis, yet its practical adoption is constrained by data silos and privacy issues.
+While Federated Learning (FL) addresses these limitations, it remains susceptible to data heterogeneity and gradient leakage attacks.
+To overcome these challenges, we introduce a privacy-preserving FL framework tailored for encrypted dermoscopic image analysis.
+Our proposed framework integrates a Fully Homomorphic Encryption (FHE)-enabled variant of Stochastic Controlled Averaging (SCA), enhancing model convergence with Non-IID data.
+To further minimize computational and communication overhead, we develop a layer-wise Packed FHE (PFHE) approach that improves the efficiency of encrypted model aggregation.
+Moreover, we design a lightweight, FHE-Friendly Deep Neural Network (DNN) optimized for encrypted inference.
+This architecture incorporates a DO-EncConv module specifically engineered to balance inference efficiency and precision within FHE computational constraints.
+Experimental results on the HAM10000 and ISIC2019 datasets confirm the effectiveness of our proposed framework, demonstrating F1-Score improvements of 2.2% and 4.0%, respectively, over baseline FL approaches.
+Additionally, our method achieves communication overhead reductions of 94.85% and 93.48%, while encrypted inference is performed in approximately 17.8 seconds per sample, with less than 2% accuracy degradation compared to centralized plaintext models.
+These outcomes underscore the framework's practicality and effectiveness for secure, scalable clinical deployment.

@@ -1,0 +1,9 @@
+Lung cancer imaging plays a crucial role in early diagnosis and treatment, where machine learning and deep learning have significantly advanced the accuracy and efficiency of disease classification.
+This study introduces the Explainable and Lightweight Lung Cancer Net (XLLC-Net), a streamlined convolutional neural network designed for classifying lung cancer from histopathological images.
+Using the LC25000 dataset, which includes three lung cancer classes and two colon cancer classes, we focused solely on the three lung cancer classes for this study.
+XLLC-Net effectively discerns complex disease patterns within these classes.
+The model consists of four convolutional layers and contains merely 3 million parameters, considerably reducing its computational footprint compared to existing deep learning models.
+This compact architecture facilitates efficient training, completing each epoch in just 60 seconds.
+Remarkably, XLLC-Net achieves a classification accuracy of 99.62% [Formula: see text] 0.16%, with precision, recall, and F1 score of 99.33% [Formula: see text] 0.30%, 99.67% [Formula: see text] 0.30%, and 99.70% [Formula: see text] 0.30%, respectively.
+Furthermore, the integration of Explainable AI techniques, such as Saliency Map and GRAD-CAM, enhances the interpretability of the model, offering clear visual insights into its decision-making process.
+Our results underscore the potential of lightweight DL models in medical imaging, providing high accuracy and rapid training while ensuring model transparency and reliability.

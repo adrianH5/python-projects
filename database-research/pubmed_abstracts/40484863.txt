@@ -1,0 +1,20 @@
+Emerging evidence has suggested a potential pathological association between early-onset left-sided colorectal cancer (EOLCC) and metabolic syndrome (MetS).
+However, the underlying genetic and molecular mechanisms remain insufficiently elucidated.
+This study aimed to identify and characterize key biomarkers associated with the progression and treatment response of MetS-related EOLCC.
+An in-hospital cohort was utilized to assess the clinical implications of primary tumor location in early-onset colorectal cancer (EOCRC).
+Differentially expressed genes (DEGs) and weighted gene coexpression network analysis (WGCNA) were employed to identify genes potentially associated with MetS-related EOLCC.
+Functional enrichment analyses were conducted to explore the underlying mechanisms.
+Candidate biomarkers were screened using random forest (RF) and support vector machine-recursive feature elimination (SVM-RFE) algorithms.
+Survival relevance, expression profiles, and diagnostic performance were analyzed to identify key biomarkers.
+Treatment responses were evaluated, and potential therapeutic compounds were identified through molecular docking.
+Single-cell RNA sequencing (scRNA-seq) data and in vitro experiments were used to validate gene expression and functional characteristics.
+The in-hospital cohort revealed a higher proportion of EOLCC among EOCRC patients.
+Using the edgeR package and WGCNA, we identified coexpressed genes common to both EOLCC and MetS, significantly enriched in pathways associated with stromal remodeling and metabolic regulation.
+Machine learning algorithms highlighted three candidate biomarkers.
+Among them, only CD151 was associated with prognosis and advanced disease stage.
+CD151 was strongly correlated with stromal remodeling and chemoresistance.
+Additionally, potential therapeutic compounds targeting MetS-related EOLCC were identified via molecular docking.
+scRNA-seq analysis confirmed the expression and functional patterns of CD151, particularly in tumor cells.
+The bioinformatics results were further validated through quantitative real-time PCR (qRT-PCR), western blotting, and immunohistochemical (IHC) staining.
+This study identified CD151 as a key biomarker in MetS-related EOLCC, offering valuable insights into prognosis, tumor biology, and personalized treatment strategies.
+CD151 may serve as a reference for future research and clinical applications targeting this disease subtype.

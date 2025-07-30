@@ -1,0 +1,10 @@
+Deuterium, an element recognized for its close association with cancer, is involved in every stage from tumorigenesis and basic research methodologies to clinical diagnosis, therapeutic interventions, and drug development.
+Several significant findings have emerged in this field.
+This review explores the potential mechanisms by which deuterons influence cancer initiation and progression in the form of deuterium oxide including deuterium-enriched water (DEW) and deuterium-depleted water (DDW).
+Besides, deuterium, a stable hydrogen isotope with unique physicochemical properties, also plays a pivotal role in detection and drug discovery.
+We delve into the importance of deuterium-labeled compound detection techniques-such as hydrogen-deuterium exchange mass spectrometry, deuterium metabolism imaging, Raman deuterium isotope probe techniques, and the applications of AI in Deuterium-related detection techniques-in identifying tumor biomarkers, elucidating metabolic pathways, and validating drug targets.
+The advantages and limitations of these techniques, particularly in the realm of imaging, are discussed.
+Deuterium-substituted drugs, such as donafenib, offer notable pharmacokinetic superiorities, including a significantly longer half-life and reduced toxicity compared to conventional chemotherapeutic agents.
+These characteristics make them promising candidates for cancer chemotherapy.
+In summary, this review examines the role of deuterium-related molecules in cancer development, detection, and treatment, including DEW, DDW, deuterium-substituted drugs, and deuterium-labeled compounds.
+Additionally, it highlights the latest advancements in deuterium-labeled compound detection technologies.

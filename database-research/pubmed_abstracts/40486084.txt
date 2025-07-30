@@ -1,0 +1,18 @@
+Sirtuin-1 (SIRT1) expression levels are upregulated in various types of cancer and are associated with adverse outcomes.
+However, there is limited research on SIRT1 expression in types of gynecological cancer.
+The present study primarily sought to investigate the expression characteristics of SIRT1 in non-endometrioid endometrial cancer (EC) using immunohistochemistry.
+The secondary endpoint was to evaluate the impact of SIRT1 expression levels on progression-free survival (PFS).
+The present study was a single-center, retrospective cohort study that included patients who underwent hysterectomy between June 2017 and December 2021 and had a postoperative histopathological diagnosis of non-endometrioid EC.
+The tissue slides were stained with a monoclonal antibody targeting the SIRT1 protein.
+The nuclear staining reaction of SIRT1 was considered to be positive in the presence of any percentage of nuclear staining.
+The cytoplasmic staining reaction of SIRT1 was assessed using the immune reactivity scoring (IRS) system, which was determined by multiplying the scores for the staining percentage and staining intensity.
+IRS values of 0 to 2 were considered as negative expression; 3 to 4 as low expression; 6 to 8 as moderate expression; and 9 to 12 as high expression.
+Cox proportional hazards regression models were used to identify factors influencing PFS.
+Data from a total of 43 patients who met the eligibility criteria were presented.
+Cytoplasmic staining with SIRT1 was detected in all samples (100%), whereas no nuclear staining was evident in any of the tissue samples.
+According to the IRS results, 20.9% of samples exhibited negative cytoplasmic expression, 14.0% exhibited low expression, 37.2% exhibited moderate expression and 27.9% exhibited high expression.
+The estimated 3-year PFS rate was 43.6%.
+Cox regression models demonstrated no independent factor influencing PFS.
+In conclusion, SIRT1 expression was found to be cytoplasmic in non-endometrioid EC.
+According to the IRS, ~80% of cases exhibited varying degrees of SIRT1 expression.
+However, SIRT1 expression levels had no significant impact on PFS.

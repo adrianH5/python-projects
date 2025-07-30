@@ -1,0 +1,7 @@
+FANCM is crucial in genome maintenance, functioning in the Fanconi anemia (FA) pathway, alternative lengthening of telomeres (ALT), and replication fork protection.
+FANCM recognizes branched DNA structures and promotes their remodeling through ATP-dependent branch migration.
+The protein has emerged as a promising therapeutic target due to synthetic lethal interactions with BRCA1, SMARCAL1, and RAD52, and in ALT-positive cancers.
+Here we present crystal structures of FANCM's N-terminal ATP-dependent translocase domain (2.2 Å) and C-terminal FAAP24-bound region (2.4 Å), both complexed with branched DNA.
+Through structural analysis, biochemical reconstitution, and cellular studies, we demonstrate that FANCM employs two distinct mechanisms: an ATP-dependent branch migration activity essential for DNA damage survival, and a branched DNA-binding mode that enhances FANCD2-FANCI monoubiquitination through FA core complex interaction.
+The N-terminal translocase domain specifically recognizes DNA junctions through multiple key elements, while the C-terminal FAAP24-binding domain engages adjacent double-stranded DNA.
+Our results reveal how FANCM evolved from an ancient DNA repair motor into a sophisticated sensor that couples DNA damage recognition to selective pathway activation, providing a structural framework for developing targeted therapeutics.

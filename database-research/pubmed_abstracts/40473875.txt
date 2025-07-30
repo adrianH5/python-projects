@@ -1,0 +1,4 @@
+Endometrial cancer (EC) remains a lethal gynecological malignancy with limited therapeutic options owing to unresolved pathogenesis.
+Cellular senescence acts as a key barrier against tumorigenesis in cancer cells, thus investigating its role in EC progression represents a pivotal research avenue to address these challenges.
+This study reveals the critical role of cellular senescence in EC progression through multi-omics profiling and functional validation.
+The integrative analysis of RNA-seq and clinical datasets identified Na

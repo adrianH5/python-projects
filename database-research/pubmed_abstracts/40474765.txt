@@ -1,0 +1,10 @@
+Over 7000 rare diseases have been described, collectively affecting 350 million people worldwide.
+Most of these conditions result from nonsense mutations, representing approximately 10% of all genetic mutations associated with human inherited diseases.
+Nonsense mutations convert a sense codon into a premature termination codon (PTC), leading to premature translation termination and the production of truncated, nonfunctional proteins.
+This results in a loss-of-function phenotype in many genetic disorders, contributing to the disease's severity and progression.
+The molecular mechanisms of PTC formation involve various genetic alterations, including single-nucleotide changes, frameshifts, and splicing mutations.
+The nonsense-mediated mRNA decay (NMD) pathway degrades mRNAs containing premature termination codons (PTCs).
+In contrast, 25% of PTC mRNAs, depending on the PTC position and cellular context, can evade NMD, resulting in the synthesis of truncated proteins.
+A termination codon during translation is essential for proper protein synthesis, and translational readthrough-a process in which the ribosome bypasses the PTC and reaches the natural stop codon-may restore some level of protein function.
+The effectiveness of readthrough depends on the surrounding genetic context and the type of amino acid incorporated at the PTC position.
+This review aims to explore the molecular characteristics of nonsense-related diseases (NRDs), including cystic fibrosis, hemophilia, Fabry disease, choroideremia, Usher syndrome, Shwachman-Diamond syndrome, and certain hereditary neuropathies and cancers.

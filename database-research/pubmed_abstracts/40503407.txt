@@ -1,0 +1,8 @@
+Triple negative breast cancer (TNBC) is an exceptionally aggressive subtype of breast cancer with a poor prognosis.
+TNBC patients have limited treatment options beyond conventional chemotherapy, and they face significant challenges associated with disease recurrence and resistance to chemotherapy.
+The phosphoinositide 3-kinase (PI3K)/protein kinase B (AKT)/mechanistic target of rapamycin (mTOR) signaling pathway plays a pivotal role in cell proliferation, growth, metabolism, and survival.
+Its aberrant activation is closely linked to the development and progression of TNBC, as well as treatment response and drug resistance.
+Currently, numerous targeted drugs specifically inhibiting this signaling pathway are being developed and undergoing clinical trials.
+These include inhibitors targeting PI3K, AKT, or mTOR individually, as well as dual-target or multi-target inhibitors simultaneously targeting different components of this pathway.
+Encouragingly, some inhibitors have demonstrated promising potential in clinical trials.
+This review delves into the therapeutic potential of the PI3K/AKT/mTOR signaling pathway for TNBC and explores prospects for drug discovery.

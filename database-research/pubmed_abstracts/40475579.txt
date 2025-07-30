@@ -1,0 +1,9 @@
+The tumor landscape of pancreatic ductal adenocarcinoma (PDAC) is refractory to conventional photon radiotherapy (RT) due to a fibrotic tumor microenvironment (TME) that promotes chronic hypoxia and reduced immune surveillance.
+The radiobiological factors unique to carbon ion radiotherapy (CIRT), such as high linear energy transfer (LET) and less dependence on oxygen, make it well-suited to overcome the PDAC TME.
+Here, we utilized clonal syngeneic KPC pancreatic tumor cell lines and tumors to examine this postulate and to identify underlying factors that impact the response of PDAC to CIRT.
+While KPC cell lines exhibited radiobiologic effectiveness (RBE) greater than 3, subcutaneous tumors in the mouse hind leg showed lower RBEs - 1.3 based on quintupling time - at a LET of 75 keV/μm.
+Four days after CIRT, we observed widespread transcriptomic changes in the tumor immune microenvironment (TME), suggesting increased infiltration of anti-tumor immune cells, elevated expression of anti-tumor T cell cytokines, MHC class I molecules, and co-stimulatory signals.
+Fewer immunologic changes were observed following photon irradiation.
+By seven days after CIRT, tumor-supportive transcriptomic programs characterized by pro-tumor cytokines, M2 macrophages, and cancer-associated fibroblasts (CAFs) emerged, promoting resistance and limiting the durability of tumor growth delay.
+These findings suggest that CIRT may offer a favorable platform compared to conventional photon radiation therapy for combining with immunotherapies.
+Furthermore, these data highlight the risk of using

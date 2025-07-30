@@ -1,0 +1,35 @@
+T1	Dataset 314 320	GISAID
+T2	Dataset 500 506	GISAID
+T3	Dataset 593 599	GISAID
+T4	Dataset 703 709	GISAID
+T5	Repository 746 756	Nextstrain
+T6	Dataset 762 768	GISAID
+T7	Creator 777 791	Rambaut et al.
+T8	URL 793 809	cov-lineages.org
+T9	Repository 825 835	Nextstrain
+T10	Dataset 840 846	GISAID
+T11	URL 962 978	cov-lineages.org
+T12	Repository 1081 1091	Nextstrain
+T13	Dataset 1096 1102	GISAID
+T14	Repository 1119 1129	Nextstrain
+T15	Dataset 1153 1159	GISAID
+T16	Repository 1317 1327	Nextstrain
+T17	Dataset 1332 1338	GISAID
+T18	Repository 1390 1400	Nextstrain
+T19	Dataset 1405 1411	GISAID
+T20	Dataset 1516 1522	GISAID
+T21	Repository 1657 1667	Nextstrain
+T22	Dataset 1668 1674	GISAID
+T23	Repository 1961 1971	Nextstrain
+T24	Dataset 2105 2111	GISAID
+T25	Repository 2207 2217	Nextstrain
+T26	Dataset 2219 2225	GISAID
+T27	URL 2230 2246	cov-lineages.org
+T28	Repository 2373 2383	Nextstrain
+T29	Dataset 2388 2394	GISAID
+T30	Dataset 2656 2662	GISAID
+T31	Repository 2667 2677	Nextstrain
+T32	Dataset 2938 2944	GISAID
+T33	Dataset 3005 3011	GISAID
+T34	Repository 3034 3044	Nextstrain
+R1	hasAttr	Arg1:T7	Arg2:T8

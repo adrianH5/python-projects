@@ -1,0 +1,3 @@
+Triple-negative breast cancer (TNBC) is an aggressive subtype with poor outcomes, especially in elderly patients.
+While chemotherapy is the main systemic treatment, its survival benefits for Patients with TNBC aged ≥ 70 years remain unclear due to comorbidities and treatment intolerance.
+This study assessed the impact of adjuvant chemotherapy on survival outcomes using competing risk analysis.

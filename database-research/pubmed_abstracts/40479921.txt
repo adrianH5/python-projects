@@ -1,0 +1,11 @@
+Circular RNAs are closed-loop single-stranded non-coding RNA molecules.
+Once considered as transcriptional junks, their physiological roles in the process of tumourigenesis have recently been being identified.
+In spite of belonging to the class of non-coding RNAs, some of them have distinct protein coding abilities.
+The circular RNA hsa_circ_0004872, which encodes the protein MAPK1-109aa, is one such example.
+This protein is associated with gastric cancer pathway, as, MAPK1-109aa can bind to MEK1 and inhibit the phosphorylation of MAPK1 and this further disturbs the downstream signalling and activation processes necessary for the onset of gastric cancer.
+However, the residue level details of the binding interactions of MAPK1-109aa and its partners are not yet available.
+Therefore, our aim is to delineate the structural details and folding pattern of the protein and provide insight on its mode of interactions with its binding partner, MEK1.
+Furthermore, we tried to determine whether MAPK1-109aa has its role in any pathway(s) other than gastric cancer.
+Through the technique of network analyses, we could predict that the protein is associated with the pathways that lead to conditions like neurodegenerations and others.
+This work is the first of its kind, which elucidates the residue-level pattern of interactions of MAPK1-109aa with MEK1 in gastric cancer onset as well as the association of MAPK1-109aa with other diseases.
+This work highlights the potential application of MAPK1-109aa as a therapeutic agent for the treatment of gastric cancer.

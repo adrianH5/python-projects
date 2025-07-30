@@ -1,0 +1,11 @@
+Immunotherapy is an emerging and effective treatment for cancer.
+The mRNA-based cancer vaccines enhance the immune response to cancer cells by activating T cells.
+However, the cytotoxic T-lymphocyte antigen (CTLA-4) receptor signaling inhibits T-cell activation, thereby reducing the effectiveness of the mRNA-based vaccines.
+Fortunately, the anti-CTLA-4 monoclonal antibody therapy can block CTLA-4 signaling.
+Nevertheless, the use of anti-CTLA-4 antibodies is also accompanied by immunotoxic side effects.
+Therefore, an effective and safe medication regimen plays an essential role in the treatment of cancer.
+First, we develop a mathematical model to describe the interaction of mRNA-based cancer vaccines and anti-CTLA-4 antibodies under the tumor immune microenvironment.
+Secondly, by employing the method of Markov Chain Monte Carlo (MCMC), the model is parameterized using experimental data, and the simulations are in agreement with experimental results.
+Finally, the gradient descent method is designed to optimize the medication regimens to inhibit tumor growth and reduce the side effects.
+Additionally, we find that the anti-CTLA-4 antibody should be administered following vaccination, and the dose of the antibody should positively correlate with the dose of vaccine within a safe range.
+Our study provides a theoretical basis for the selection of treatment regimens for clinical trials from a mathematical perspective.

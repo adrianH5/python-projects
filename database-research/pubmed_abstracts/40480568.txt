@@ -1,0 +1,7 @@
+Ribosomal protein S3 (RPS3) is a component of the small subunit of the eukaryotic ribosome, contributing to ribosome maturation and the initiation of translation.
+In addition to its canonical roles, accumulating evidence highlights a range of extra-ribosomal functions for RPS3 in diverse cellular processes.
+Notably, RPS3 enhances activation of the nuclear factor κ-light-chain-enhancer of activated B cells (NF-κB) pathway by interacting with the p65 subunit of the NF-κB complex.
+Given that NF-κB pathway is implicated in tumorigenesis and resistance to anticancer therapies, RPS3-mediated activation of this pathway suggests a potential role for RPS3 in cancer progression and drug resistance.
+Supporting this, elevated RPS3 expression has been observed in malignant tumors, despite the generally ubiquitous expression of RPS3 mRNA and protein is normal human tissues without notable tissue- or cell-type specificity.
+Despite these observations, the roles of RPS3 in oncogenic processes and its clinical implications insufficiently characterized.
+In this review, we examine the current literature to explore the contribution of RPS3 to cancer development and drug resistance.

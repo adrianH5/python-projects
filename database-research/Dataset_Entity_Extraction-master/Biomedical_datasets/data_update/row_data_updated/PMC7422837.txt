@@ -1,0 +1,7 @@
+To date, 11 million have been infected with SARS-CoV-2, and 0.52 million have died from coronavirus disease 2019 (COVID-19) (Organization WH, 2020).
+As Japan continues to battle a second wave of COVID-19 epidemic, more than 1,000 newly infected patients are being confirmed daily.
+The World Health Organization (WHO) has raised a global warning and announced the need for a test system for COVID-19-suspected patients (World Health Organization, 2020).
+The development of a more cost-effective and high-throughput test system will be important for preventing viral spread and monitoring infection levels in COVID-19 patients.
+According to the protocol developed by the National Institute of Infectious Diseases (NIID) in Japan (Shirato et al., 2020), we performed one-step RT-qPCR to detect SARS-CoV-2 (Hirotsu et al., 2020d).
+The clusters of COVID-19 are reported in closed environments, which could contribute to secondary transmission and promote super-spreading events (Nishiura et al., 2020).
+In this context, our results showed that the antigen test could be used to identify COVID-19-infected individuals who pose a high risk of transmission.

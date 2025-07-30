@@ -1,0 +1,17 @@
+Most SARS-CoV-2 infections are asymptomatic or benign, but SARS-CoV-2 infectious disease 2019 (COVID-19) can cause life-threatening disease, which typically begins with pneumonia.
+Severe COVID-19 occurs much more frequently in patients over the age of 50 years and/or with comorbid conditions such as pulmonary, cardiovascular, and metabolic disorders (Figure 1
+).
+Why are previously healthy children, adolescents, young, or middle-aged adults being admitted to intensive care for respiratory failure, encephalitis, or Kawasaki disease, due to COVID-19?
+Why would a 40-year-old man who completed a marathon in October 2019 find himself intubated and ventilated for COVID-19 respiratory failure in April 2020?
+The COVID Human Genetic Effort (https://www.covidhge.com/) proposes that previously healthy, young patients with severe COVID-19 carry causal genetic variants.
+This hypothesis is not yet supported by specific genetic epidemiological studies of COVID-19, but it follows a long line of classical genetic studies since 1905, relating to diverse infections in plants and animals, including humans (Casanova and Abel, 2020).
+The protein encoded by Mx, a gene cloned by cell complementation, protects mice from influenza virus (Staeheli et al., 1986) and is potentially relevant to COVID-19.
+Other examples more closely related to COVID-19 include influenza virus pneumonia, which can be caused by inborn errors impairing antiviral type I and III IFN immunity (IFN-α/β and -λ), including IRF7, IRF9, and TLR3 deficiencies, in circulating plasmacytoid dendritic cells and/or pulmonary epithelial cells (Ciancanelli et al., 2015, Hernandez et al., 2018, Lim et al., 2019), and rhinovirus pneumonia, which can be caused by a deficiency of IFN-inducing MDA5 (Asgari et al., 2017, Lamborn et al., 2017).
+COVID-19 is a completely new disease, and the current pandemic dwarfs previous SARS-CoV-1 and MERS-CoV outbreaks.
+COVID-19 provides us with a tragic but unparalleled opportunity to define precisely the genetic requirements for the control of an emerging, virulent, viral infection.
+Amid the uncertainties concerning the genetic architecture of COVID-19 suceptibility, only one thing is almost certain: as for other infectious diseases, there will be considerable genetic heterogeneity, reflecting the multiple layers of host defense that a virus must overcome to lead to mortality.
+The analysis and comparison of genetic variants from a large number of individuals from diverse backgrounds will be crucial, as we cannot solely rely on current databases of data for “healthy” individuals to identify rare variants, which include individuals never before exposed to SARS-CoV-2.
+Once candidate genotypes have been identified, their contribution to the pathogenicity of severe COVID-19 will be investigated with in-depth molecular, cellular, and immunological approaches.
+In these genetic studies, we aim to discover the pathogenesis of unexplained, severe COVID-19 in young, previously healthy patients.
+The COVID-19 pandemic should make us consider an alternative approach to studying infectious diseases.
+This paradigm shift would open up new avenues for studying host-pathogen interactions in the course of evolution, controlling the current COVID-19 threat in the general population, and developing the infrastructure required to thwart future emerging threats.

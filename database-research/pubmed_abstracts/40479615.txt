@@ -1,0 +1,6 @@
+Genomic alterations converging on persistent activation of the PI3K/mTOR pathway represent one of the most frequently altered signaling circuitries in cancer.
+However, the clinical efficacy of mTOR inhibitors (mTORi) has been limited.
+Here, we took advantage of the widespread activation of PI3K/mTOR signaling in head and neck squamous cell carcinoma (HNSCC) and the promising effects of mTORi in HNSCC experimental models and recent clinical trials, to gain a mechanistic understanding of the anti-tumoral activity of mTORi.
+A genome-wide CRISPR screen revealed that treatment with mTORi promotes the autophagic degradation of ferritin (ferritinophagy), consequently increasing free intracellular iron, inducing lipid peroxidation, and ultimately driving cancer cell demise by ferroptosis.
+These findings provide a rationale for synergistic combinations repurposing approved drugs that disable cellular ferroptotic defense mechanisms.
+Together, this study provides a molecular framework underlying the anti-tumor activity of mTORi in HNSCC, thereby revealing multimodal precision therapies for HNSCC and many human malignancies displaying overactive PI3K/mTOR signaling.

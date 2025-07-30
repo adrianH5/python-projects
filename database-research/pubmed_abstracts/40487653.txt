@@ -1,0 +1,5 @@
+Recent studies have indicated that the expression of ubiquitin-specific protease 51 (USP51), a novel deubiquitinating enzyme (DUB) that mediates protein degradation as part of the ubiquitin‒proteasome system (UPS), is associated with tumor progression and therapeutic resistance in multiple malignancies.
+However, the underlying mechanisms and signaling networks involved in USP51-mediated regulation of malignant phenotypes remain largely unknown.
+The present study provides evidence of USP51's functions as the prominent DUB in chemoresistant triple-negative breast cancer (TNBC) cells.
+At the molecular level, ectopic expression of USP51 stabilized the 78 kDa Glucose-Regulated Protein (GRP78) protein through deubiquitination, thereby increasing its expression and localization on the cell surface.
+Furthermore, the upregulation of cell surface GRP78 increased the activity of ATP binding cassette subfamily B member 1 (ABCB1), the main efflux pump of doxorubicin (DOX), ultimately decreasing its accumulation in TNBC cells and promoting the development of drug resistance both

@@ -1,0 +1,8 @@
+Pyruvate carboxylase (PC) is an important biotin-dependent regulatory metabolic enzyme in the tricarboxylic acid cycle that is responsible for catalyzing the conversion of pyruvate to oxaloacetate.
+In many organisms, such as animals, bacteria and plants, PC is widely involved in the regulation of cellular metabolic pathways, and abnormal PC activity leads to metabolic disorders that may take critical parts in cancer, type II diabetes, inflammation, and other diseases.
+Thus, targeting PC may be a promising treatment option for cancer and other human diseases.
+Although some PC inhibitors have been reported, none has been approved for use in clinical trials.
+One of the major challenges in current studies is the scarcity of PC inhibitors with high potency, selectivity, and excellent physicochemical properties.
+Medicinal chemists are working on novel PC small-molecule inhibitors using different strategies; however, most hits are based on phenotypic screening or serendipitous methods.
+From this perspective, we systematically examined and discussed the latest progress in small-molecule PC inhibitors, approaches for their identification, optimization strategies, structure-activity relationships, in vitro and in vivo efficacies, and their advantages and disadvantages.
+Additionally, the challenges, future prospects, and directions for the development of additional PC inhibitors are discussed.

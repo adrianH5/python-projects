@@ -1,0 +1,7 @@
+Ultrasensitive antigen recognition between T lymphocytes and cognate targets via immunological synapse (IS) formation enables live cell-based antigen-specific T cell detection.
+However, unpredictable antigen processing and major histocompatibility complex (MHC) turnover limit specificity.
+Here, intracellularly polymerized antigen-presenting cells (pAPCs) are developed for modular, persistent antigen display via kinetically driven loading.
+Although inanimate, pAPCs mimic cellular interactions, inducing IS hallmarks such as supramolecular activation cluster formation, cytoskeletal contraction, and trogocytosis.
+Incorporation of superparamagnetic nanoparticles allows label-free magnetic isolation of antigen-specific T cells, surpassing MHC-conjugated beads in sensitivity and specificity.
+In tumor-bearing hosts, pAPCs enrich tumor-reactive lymphocytes, enhancing adoptive T cell therapy and neoantigen-specific T cell identification.
+Additionally, pAPCs from engineered cells expressing monovalent human MHC enrich virus- and tumor-specific CD8 T cells from human peripheral blood mononuclear cells and human leukocyte antigen-transgenic mice, demonstrating the potential of this cell-gel hybrid platform for precise antigen-specific T cell capture.

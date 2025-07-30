@@ -1,0 +1,9 @@
+Macrophages, key players in the immune system, exhibit diverse roles in tumor progression and regulation.
+Macrophages release extracellular vesicles (EVs), membrane-bound particles that facilitate intercellular communication and cargo transfer.
+Macrophage-derived EVs (M-EVs) demonstrate a complex dual function in tumor development, with their effects dependent on their origin and the tumor microenvironment.
+M1-EVs show anti-tumor properties by reversing immune escape, while M2-EVs promote tumor biogenesis, invasion, metastasis, and therapeutic resistance.
+Tumor-associated macrophage-derived EVs (TAM-EVs) generally facilitate tumor progression but may exhibit anti-tumor characteristics in specific cancers.
+M-EVs, particularly M1-EVs, show promise as drug delivery vehicles in tumor-targeted therapy due to their targeting capabilities and ability to cross physiological barriers.
+Despite challenges in clinical application, ongoing research aims to harness the potential of M-EVs for more effective and personalized cancer treatments.
+This review summarizes how M-EVs influence tumor cell behavior, their mechanisms of action, and the challenges related to specificity, isolation, and clinical application.
+Collectively, this comprehensive analysis not only provides researchers with a better understanding of the complex roles of M-EVs in cancer biology but also lights the way for innovative therapeutic strategies, potentially advancing the development of more effective and personalized cancer treatments.

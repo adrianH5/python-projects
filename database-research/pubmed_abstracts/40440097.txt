@@ -1,0 +1,11 @@
+The 5-year overall survival rate for pancreatic cancer remains ~13%, underscoring the urgent need for improved treatment strategies.
+TGFβ is a promising target due to its significant involvement in the desmoplasia, immune suppression, and chemoresistance characteristic of pancreatic cancer.
+Over 300 clinical trials targeting TGFβ have been conducted in unselected patient cohorts; however, none of the therapies have gained FDA approval.
+Nevertheless, TGFβ blockade may hold promise for a subset of cancers with non-functional TGFβ signaling.
+Greater than 25% of pancreatic cancers carry mutations in SMAD4, a key component of canonical TGFβ signaling.
+In this study, we investigated the potential for stratifying patients based on SMAD4 mutational status to identify tumors susceptible to TGFβ inhibition.
+Analysis of SMAD4 expression in human pancreatic tumors revealed that SMAD4 mutation or loss is associated with worse disease-free survival.
+Intriguingly, intratumoral SMAD4 expression displayed heterogeneity among human pancreatic cancer samples.
+SMAD4 deficient genetically engineered mouse models and orthotopic SMAD4 knockout tumor models exhibited reduced survival, increased metastasis, and alterations in the tumor microenvironment compared to SMAD4 wildtype controls, consistent with gene and protein expression changes in the absence of functional SMAD4.
+Importantly, treating mice bearing SMAD4 deficient tumors with a blocking TGFβ antibody reduced tumor weight and improved survival.
+These findings suggest that genomic stratification by TGFβ axis alterations, such as SMAD4 mutations, may be a promising approach to identifying patients likely to benefit from a TGFβ inhibitor.

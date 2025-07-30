@@ -1,0 +1,9 @@
+Therapeutic advances across the gynecologic cancer continuum have resulted in improvements in patient care and outcomes over the past decade, yet challenges remain.
+In ovarian cancer, the evolution of poly (ADP-ribose) polymerase (PARP) inhibitor therapy has resulted in marked benefit for patients with BRCA-mutated cancers but has also unmasked the need for new therapies in patients whose cancers are proficient in homologous recombination and lack vulnerability to PARP inhibitors, as well as for those patients whose cancers progress on PARP inhibitors.
+In endometrial cancer, immune checkpoint inhibitors (ICIs) have improved outcomes for patients receiving first-line therapy for advanced or recurrent disease when combined with standard-of-care chemotherapy.
+However, there remains uncertainty around which patients are most likely to benefit from the addition of immunotherapy, and treatment beyond first-line therapy remains an area of high unmet need.
+Similarly, ICIs added to chemotherapy for recurrent or metastatic cervical cancer or to chemoradiation for high-risk locally advanced cervical cancers has resulted in improved outcomes, but treatment options beyond this remain limited.
+Across gynecologic cancers, antibody-drug conjugates (ADCs) hold the promise for further improvement in patient outcomes.
+A prime example is the demonstrated benefit of mirvetuximab soravtansine over other standard chemotherapy options in folate receptor alpha-high platinum-resistant ovarian cancer.
+Maximizing such potential will require developing a deeper understanding of relationships between ADC target expression and activity, mechanisms of resistance, and potential approaches to sequencing.
+Beyond ADCs, additional therapies, including those targeting DNA damage response, remain in development.

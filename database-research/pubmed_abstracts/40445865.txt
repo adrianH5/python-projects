@@ -1,0 +1,6 @@
+Affinity proteins are multiple types of well-explored small scaffold proteins with excellent tumor targeting performance.
+However, due to their small size, the balance between rapid blood clearance and efficient tumor accumulation remains a challenge for their clinical application.
+The covalent targeting mode, endowing the affinity proteins with an irreversible binding ability to their receptor and then decoupling the pharmacodynamic effect from pharmacokinetics, may provide a promising solution for clinical applications of affinity proteins.
+Herein, we develop a chemical modification strategy to construct covalently targeted affinity protein drugs.
+Through the chemical attachment with a sulfur(VI) fluoride exchange (SuFEx) chemistry-based maleimide-substituted aryl fluorosulfate (MFS) linker, the engineered affinity protein acquires the capacity to covalently link with its targeting receptor.
+As a proof of concept, the MFS linker modified affibody-protein drug elicited over 72% covalent binding to the target human epidermal growth factor receptor 2 (HER2) and 185% higher cell uptake than that of the noncovalent control

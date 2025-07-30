@@ -1,0 +1,5 @@
+Here, we present a computational protocol for predicting repressors of cancer cell death by combining vulnerability and transcriptomic responses to cell death inducers.
+We describe steps for calculating a set of predictors for each gene and aggregating them into a single metric, ranking the genes according to their predictive power.
+We then detail procedures for selecting candidate genes for experimental validation based on this ranking and other considerations.
+This protocol enables the identification of several experimentally validated cell death repressors.
+For complete details on the use and execution of this protocol, please refer to Vinik et al.

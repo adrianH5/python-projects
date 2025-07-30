@@ -1,0 +1,3 @@
+T cells play a pivotal role in cancer immunotherapy by recognizing tumor-specific neoantigens presented on HLA molecules, which are specifically expressed on cancer cells.
+While neoantigens are generally unique to individual cancers, certain neoantigens, known as 'shared neoantigens' that are common in a subset of cancer patients, represent promising immunotherapeutic targets.
+We previously identified an immunogenic shared frameshift neoantigen, 1472SP2, derived from recurrent frameshift indel mutation cluster (APC-F2-1472*) in the

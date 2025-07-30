@@ -1,0 +1,9 @@
+Intrinsically disordered proteins are implicated in many human diseases.
+Small molecules that target the disordered androgen receptor transactivation domain have entered human trials for the treatment of castration-resistant prostate cancer.
+These molecules have been shown to react with cysteine residues of the androgen receptor transactivation domain and form covalent adducts under physiological conditions.
+It is currently unclear how the covalent attachment of these molecules alters the conformational ensemble of the androgen receptor.
+Here, we utilize all-atom molecular dynamics computer simulations to simulate covalent adducts of small molecule ligands EPI-002 and EPI-7170 bound to the disordered androgen receptor transactivation domain.
+Our simulations reveal that the conformational ensembles of androgen receptor transactivation domain covalent adducts are heterogeneous and disordered.
+We find that covalent attachment of EPI-002 and EPI-7170 increases the population of collapsed helical transactivation domain conformations relative to the populations observed in non-covalent binding simulations, and we identify networks of protein-ligand interactions that stabilize collapsed conformations in covalent adduct ensembles.
+We compare the populations of protein-ligand interactions observed in covalent adduct ensembles to those observed in non-covalent ligand-bound ensembles and find substantial differences.
+Our results provide atomically detailed descriptions of covalent adducts formed by small molecules and an intrinsically disordered protein and suggest strategies for developing more potent covalent inhibitors of intrinsically disordered proteins.

@@ -1,0 +1,34 @@
+A
+recent study indicated that SARS-CoV-2 was 96% identical to a bat coronavirus RaTG13
+(accession: MN996532) at the genomic level, suggesting that bat might be a natural host of
+SARS-CoV-2 [7].
+GISAID is a platform for sharing
+genetic data of influenza.
+Currently, a rapidly increasing number of SARS-CoV-2 genomic
+sequences are being deposited into this database from laboratories around the world [8].
+A total of 343 full-length SARS-CoV-2 genomes available in the GISAID platform (https://platform.gisaid.org/) as of 10 March 2020 with 5 March 2020 as
+cut-off date were downloaded [8].
+A total of
+247 sequences with high sequence quality as noted in the GISAID database were included for
+further analysis after removing sequences containing little temporal signal and thus are
+not unsuitable for inference using phylogenetic molecular clock models.
+Information
+regarding the date and country of isolation were also retrieved from the GISAID platform.
+The annotated reference genome sequence of the SARS-CoV-2 isolate Wuhan-Hu-1 (accession:
+NC_045512.2) was downloaded from the NCBI GenBank database.
+A total of 22 such genome
+sequences were reported so far, accounting for 9% of the 247 SARS-CoV-2 sequences
+documented in the GISAID database as of 5 March 2020.
+Viruses in SS4 were
+responsible for the explosive increase in incidence of COVID-19 in Europe in March (Table 4).
+Upon completion of analysis of SARS-CoV-2 sequences available in the GISAID database as
+of 5 March 2020 and identification of the four “super-spreader” type strains, we
+investigated if viral strains of the four super-spreaders were responsible for the vast
+majority of subsequent infections.
+We conducted detailed and comprehensive analyses of 247 high quality SARS-CoV-2 sequences
+deposited in the GISAID database during the period December 2019 to 5 March 2020 to provide
+insight into the evolution and transmission of this novel virus (Figure 3).
+This second dataset
+showed that viruses of SS4 have since been transmitted to other parts of world including
+Africa, Asia, North America and Oceania.
+To trace the evolution route and probe the transmission dynamics of this virus, we performed phylodynamic analysis of 247 high quality genomic sequences available in the GISAID platform as of 5 March 2020.

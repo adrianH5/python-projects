@@ -1,0 +1,5 @@
+Fluoroquinolones, such as levofloxacin (LVX), are extended-spectrum drugs used for the treatment of bacterial infections.
+Several fluoroquinolone derivatives have shown promising antibacterial and anticancer activities.
+Our group has earlier synthesized and investigated thionated LVX analogs, compounds 2 and 3, on A549 (non-small cell lung cancer) cell line and showed promising anticancer activity.
+The mechanism of cytotoxicity may be, in part, via aldehyde dehydrogenase enzyme inhibition and antioxidation.
+In this study, compounds 2 and 3 were evaluated on prostate (PC-3), breast (MCF7), colorectal (Caco-2), and small cell lung cancer (H69 and H69AR) cell lines.

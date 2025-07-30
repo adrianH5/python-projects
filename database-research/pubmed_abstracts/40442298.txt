@@ -1,0 +1,9 @@
+Bladder cancer is the fourth most common malignant tumor in men, with limited therapeutic biomarkers and heterogeneous responses to immunotherapy.
+Disulfide bond-driven cell death has emerged as a critical regulator of tumor progression and immune microenvironment remodeling.
+By integrating data from TCGA and GEO cohorts, we developed a Disulfide-Related Prognostic Signature (DRPS) using ten machine learning algorithms.
+Single-cell RNA sequencing (scRNA-seq) elucidated the cell subtype-specific expression patterns of disulfide bond regulatory genes, while immune microenvironment and drug sensitivity analyses validated its clinical translational potential.
+qRT-PCR experiments confirmed differential expression patterns of core genes in bladder cancer cell lines.
+The DRPS model, optimized by the StepCox[backward] algorithm, demonstrated robust prognostic accuracy across four validation cohorts (mean C-index = 0.658).
+High-risk patients exhibited an enhanced immunosuppressive microenvironment characterized by infiltrated activated cancer-associated fibroblasts, upregulated APC co-inhibition pathways, and elevated immune checkpoint expression.
+Notably, high DRPS scores were associated with primary resistance to immunotherapy but showed increased sensitivity to anti-tumor agents such as Elephantine and Leflunomide.
+This study establishes a novel DRPS that serves as a predictive indicator for bladder cancer prognosis and pan-cancer immunotherapy efficacy.

@@ -1,0 +1,11 @@
+Neuroblastoma, a childhood cancer, arises from neural crest cells within the sympathetic nervous system.
+This study investigated the anticancer effects of the exogenous hydrogen sulfide (H₂S) donor, sodium hydrogen sulfide (NaHS), on neuroblastoma cells, elucidating how it inhibits cell proliferation.
+The study was conducted using the SH-SY5Y cell line.
+The cells were exposed to various concentrations of NaHS (32, 16, 8, 4, and 2 mM) for 24 h. Cell viability was assessed using the XTT assay.
+ELISA was used to measure levels of the growth signal factors HER-2, EGFR, mTOR, ERK-1, and ERK-2, as well as the apoptosis marker caspase-3.
+In addition, apoptosis was evaluated using the Muse Annexin V & Dead Cell Assay Kit.
+NaHS significantly reduced cell proliferation, as demonstrated by the XTT assay (p < 0.001).
+NaHS treatment also decreased levels of HER-2, EGFR, ERK-1, and ERK-2 (p < 0.05 to p < 0.01), while mTOR levels remained unchanged (p > 0.05) and caspase-3 levels increased (p < 0.001).
+Flow cytometry confirmed that NaHS treatment significantly increased the proportion of apoptotic cells (p < 0.001).
+The antiproliferative effect of NaHS against neuroblastoma appears to be mediated through the suppression of certain growth signal factors and the induction of apoptosis.
+These findings suggest that exogenous hydrogen sulfide donors hold promise as a potential therapeutic strategy for neuroblastoma.

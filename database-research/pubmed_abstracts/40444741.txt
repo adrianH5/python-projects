@@ -1,0 +1,11 @@
+Serrated polyposis syndrome (SPS) is characterized by multiple and/or large serrated polyps and increased colorectal cancer (CRC) risk.
+Germline predisposition to SPS is mostly undetermined.
+We aimed to identify a new inherited SPS predisposition component by functionally evaluating a candidate gene replicated in two independent SPS cohorts.
+Exome sequencing was performed in a discovery cohort of 39 patients from 16 SPS families, and validation of relevant results was performed by multi-gene panel sequencing in 211 independent SPS patients.
+Considering the discovery and validation cohorts, three predicted pathogenic missense variants were identified in HIC1 (Hypermethylated in cancer 1): c.110C>T (p.Ala37Val), c.1295A>G (p.Gln432Arg), and c.1411G>A (p.Gly471Arg).
+HIC1 is a tumor suppressor gene which encodes a transcriptional repressor involved in the DNA damage response, and it is commonly silenced in several cancers and serrated polyps.
+Two cellular models for HIC1, a CRISPR/Cas9 knockout model and an overexpression model, were produced.
+In these in vitro models, we assessed DNA damage levels and the SIRT1 regulatory pathway in the presence and absence of the identified variants.
+Compared to HIC1 wild-type, models harboring the HIC1 variants identified in SPS patients showed higher p-H2AX levels (marker of DNA damage) and impaired HIC1 binding to the SIRT1 promoter.
+Our results indicate that HIC1 genetic variants located in the zinc finger region affected its transcriptional repressor role.
+We can conclude that HIC1 may be involved in germline predisposition to SPS through an alteration of its repressor capacity and a faulty DNA damage response, as a molecular mechanism.

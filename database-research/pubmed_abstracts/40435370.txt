@@ -1,0 +1,8 @@
+Ionizing radiation is a potent environmental mutagen, producing damaged bases and single and double-stranded DNA breaks.
+Acute high-dose radiation exposure is therefore toxic, causing cellular and organismal mortality, while lower doses can give rise to high mutation rates and cancer.
+Radiation sensitivity furthermore varies dramatically between organisms and cell types, with certain organisms exhibiting extreme tolerance to ionizing radiation.
+It is puzzling however, how such radiotolerance evolved in nature, as toxic radiation doses are not observed outside of medical and nuclear settings.
+In this review, we explore the mechanisms and evolution of extraordinary radiotolerance in metazoans.
+We contrast two extensively studied genetic models, mammals and Caenorhabditis elegans, as well as two lineages known to tolerate extreme radiation when compared to closely related species: naked mole rats and tardigrades.
+We describe similar strategies employed by these disparate lineages to protect DNA, repair DNA, and attenuate cellular responses following radiation exposure.
+We further discuss how these mechanisms may have evolved in response to other extreme conditions tolerated by each species in their natural environment, giving rise to radiotolerance as a correlated response.

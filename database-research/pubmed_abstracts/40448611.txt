@@ -1,0 +1,10 @@
+Bladder cancer is the most common type of malignant tumor in the urinary system, which occurs in the bladder mucosa.
+Due to the lack of precise diagnostic tools, bladder cancer has a high recurrence rate.
+Fluorescence cystoscopy is recognized as a promising tool for improving the detection rate of bladder cancer, but its clinical application is hindered due to the scarcity of fluorescent agents.
+To address this issue, an aminopeptidase N (APN)-activated fluorescent agent with specific recognition and labeling abilities for bladder cancer has been developed.
+The fluorescent agent, namely, Flu-FAPN, exhibited high sensitivity and specificity toward APN under physiological conditions.
+The fluorescent intensity increased more than 37-fold after reacting with APN, and the detection limit is 0.10 ng/mL for APN.
+In addition, the hydrolysis of alanine catalyzed by APN could initiate the intramolecular electron rearrangement process, which subsequently contributed to the formation of protein-fluorescein adduct and thereby achieved covalent labeling of bladder cancer cells.
+Cell experiments conducted in cancer and normal cells demonstrate that Flu-FAPN has low cytotoxicity and high specificity for bladder cancer cells with an obvious fluorescence signal, which could be retained over 80% even in fixed cells.
+Finally, Flu-FAPN was successfully applied for the fluorescence-image-guided resection of tumor tissues in mice with orthotopic bladder cancer.
+We hope this covalent labeling-based agent can provide a promising tool for surgery navigation and accelerate the clinical application of fluorescence cystoscopy, thereby improving the cure rate of bladder cancer.

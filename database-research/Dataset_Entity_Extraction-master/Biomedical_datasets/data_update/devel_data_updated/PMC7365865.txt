@@ -1,0 +1,22 @@
+According to Centers for Disease Control and Prevention (CDC), common human infecting coronaviruses include 229E coronavirus, NL63 coronavirus, OC43 beta coronavirus, HKU1 coronavirus, MERS-CoV, SARS-CoV, and the recently emerged deadly coronavirus disease 2019 (COVID-19).
+In December 2019, COVID-19 was initially encountered in Wuhan, China, and has now rapidly spread to multiple countries.
+Outbreaks of infectious disease like COVID-19 poses a serious challenge to the scientific community since they usually arise from unrecognized zoonotic sources or due to scarcity data.
+The current study focuses on finding promiscuous CD4+ and CD8 T+ cell epitopes for chimeric COVID-19 vaccine development using a variety of web-based tools.
+The Immune epitope database (IEDB) tool for immunogenicity score calculation was used to predict immunogenicity scores for all MHC-I predicted epitopes (27).
+Immunogenic epitopes were then verified for their presence in IEDB database.
+PDBsum is a database that is exclusively designed to show the molecules that build DNA or proteins, ligands, and metal ions along with the illustration of graphical representation of their interactions with each other.
+Prioritized vaccine constructs were docked to ACE2 receptor (PDB ID: 3sci), TLR2 (PDB ID: 2Z7X), and TLR4 (PDB ID: 4G8A).
+Vaccine 3, having a B-cell epitope, was also checked for its interaction with a B-cell receptor (BCR) CD79 (PDB ID: 3KG5).
+Hence, for this purpose, class I [HLA A*02 01 (PDB ID 4U6Y), HLA B*51 01 (PDB ID 4MJI)] and class II [HLA-DRB1*1402 (PDB ID 6ATF)] were used; they represent broad-spectrum peptide-binding repertoires.
+Initially, 15,181 HLA class I epitopes have been predicted within spike glycoprotein of COVID-19.
+Two epitopes 191EFVFKNIDGYFKIYS205 and 506QPYRVVVLSFELLHA520 were selected for vaccine 1 construction on the basis of their high antigenic potential.
+To the best of our knowledge, none of the epitopes reported in this study have been previously added to the IEDB database.
+However, there is currently no available FDA-approved vaccine against COVID-19 (42, 43).
+A vaccination regime, if successfully developed against COVID-19, has the ability to improve global human health statistics.
+Nevertheless, it might take months to years to actually derive a vaccine against COVID-19, we believe that our contribution in this case might be a useful to initiate the process.
+Recent studies have strongly suggested that COVID-19 uses angiotensin-converting enzyme 2 (ACE2) as its potential receptor.
+Several critical residues in COVID-19 receptor binding motif (RBM) of S1 domain particularly Gln493 provide favorable interactions with human ACE2 (53).
+Vaccines designed in this study may also interact with ACE2 resulting interrupted interaction of the receptor with the viral spike protein and thus can be a potential therapeutic target against COVID-19.
+All datasets presented in this study are included in the article/Supplementary Material.
+A recent pandemic caused by a single-stranded RNA virus, COVID-19, initially discovered in China, is now spreading globally.
+We adapted a comprehensive predictive framework to provide novel insights into immunogenic epitopes of spike proteins, which can further be evaluated as potential vaccine candidates against COVID-19.

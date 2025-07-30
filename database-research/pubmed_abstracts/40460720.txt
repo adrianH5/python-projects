@@ -1,0 +1,3 @@
+S-phase kinase-associated protein 2 (Skp2) is the vital component of the Skp1-Cullin 1-F-box (SCF) E3 ubiquitin ligase complex, which precisely regulates CDK inhibitors by coordinating with Cks1 and has been identified to be involved in the progression of many human malignancies.
+Inspired by our previous study, we designed novel 2,3-diarylpyrazine derivatives via molecular hybridization strategy to enhance Skp2-Cks1 inhibition.
+Compound 10h emerged as the most potent inhibitor, displaying an IC

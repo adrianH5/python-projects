@@ -1,0 +1,13 @@
+In the context of nonsmall cell lung cancer (NSCLC), the immune evasion strategy used by tumor cells involves the expression of immune checkpoint proteins, such as PD-L1, which suppress antitumor T-cell responses.
+The use of immune checkpoint inhibitors (ICIs) has significantly improved overall survival, overall response rate, and progression-free survival in NSCLC patients.
+This study aimed to evaluate the concordance of PD-L1 expression in NSCLC patients using tissue microarrays (TMA) as proxies for small biopsies.
+The degree of concordance among tissue cores and between the cores and the whole slide was reported.
+Furthermore, the presence of tumor-associated macrophages (TAMs) and tumor-infiltrating lymphocytes (TILs) was analyzed to investigate the correlation between PD-L1 expression and immune cell infiltration.
+The study included 13 paraffin-embedded tissue samples from patients incidentally diagnosed with lung cancer during COVID imaging studies.
+Tissue microarrays were constructed using a manual tissue arrayer, and 4 cores of 2 mm diameter of representative areas were selected from the hematoxylin-eosin-stained sections from lung tumor specimens.
+Immunohistochemical analyses were performed to assess PD-L1 positivity, tumor macrophage infiltrate, and T-cell infiltrate.
+The density of CD8+ T cells was evaluated as the overall percentage of the area within the borders of the tumors covered by positive immune cells.
+Results demonstrated that PD-L1 expression showed a high degree of concordance between TMA cores and whole tumor sections, suggesting that small samples could reliably represent whole tumor PD-L1 status.
+However, the densities of CD8+ T cells and CD68+ macrophages varied significantly.
+TMA cores typically underrepresented the density of these immune cells compared with whole sections, particularly for CD68+ macrophages, which exhibited lower densities in TMAs, used as proxies for small biopsies.
+This study contributes to the understanding of how the heterogeneity of PD-L1 expression and immune cell distribution can influence the detection and scoring of these parameters, highlighting the importance of comprehensive immune profiling in guiding personalized cancer immunotherapy.

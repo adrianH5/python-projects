@@ -1,0 +1,6 @@
+The efficacy of cancer immunotherapy is frequently hindered by the immunosuppressive "cold" tumor microenvironment.
+Inducing immunogenic cell death (ICD) may address this limitation.
+Ferroptosis, a form of ICD characterized by iron-dependent lipid peroxidation, has gained attention as a therapeutic target due to its inherent or therapy-induced susceptibility in refractory cancers and resistant tumor microenvironments.
+CD47, overexpressed on tumor cell membranes, enables immune evasion by suppressing macrophage-mediated surveillance, positioning it as a promising immune checkpoint target for macrophage-driven immunotherapy.
+Combining ferroptosis induction with CD47 blockade represents a strategic approach to enhance therapeutic outcomes.
+In this study, we developed a biomimetic nanoplatform-IR780/MnO

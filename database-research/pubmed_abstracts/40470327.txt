@@ -1,0 +1,3 @@
+Advanced colorectal cancer (CRC) exhibits weak responses to multiple therapies, primarily due to the presence of cancer stem cells (CSCs), which drive high recurrence rates, metastasis, and drug resistance.
+We have previously systematically conducted CSC-targeted compound discovery and evaluation studies to inhibit CSC-mediated tumorigenesis and metastasis.
+Here, we identified ZSH-512, a novel synthetic retinoid that selectively targets retinoic acid receptor (RAR)γ, demonstrating its ability to effectively inhibit CRC-CSCs and patient-derived organoids (PDOs)

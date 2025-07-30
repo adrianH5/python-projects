@@ -1,0 +1,3 @@
+Lipid nanoparticles (LNPs) have emerged as a clinically validated platform for cancer immunotherapy; however, challenges remain in optimizing RNA delivery and promoting synergistic immune activation.
+To address these issues, we developed a modified LNP system that incorporates α-galactosylceramide (α-GalCer), a CD1d-binding glycolipid known to activate invariant natural killer T (iNKT) cells.
+Through structural optimization, we created the α-GalCer-LNP (G-LNP), which offers three primary advantages over conventional four-component LNPs: (1) enhanced mRNA transfection efficiency due to improved endosomal/lysosomal escape, (2) increased capacity for in vivo DC transfection, leading to robust activation of tumor-specific CD8

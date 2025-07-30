@@ -1,0 +1,3 @@
+Combination therapies of chemotherapeutic agents and immunotherapy have shown promising results in the treatment of cold tumors.
+Various chemotherapies trigger immunogenic cell death (ICD) and release of hallmarks immunogenic damage associated molecular patterns (DAMPs) that have been related with immunostimulatory activities, leading to better patient prognosis.
+We aim to optimize in vitro assays to detect DAMPs release in response to chemotherapeutic agents using a colorectal cancer (CRC) organoids model.

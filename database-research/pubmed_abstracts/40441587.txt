@@ -1,0 +1,3 @@
+Portal hypertension (PHT) is a severe complication of liver cirrhosis, with limited therapeutic options.
+Despite emerging evidence linking gut microbiota dysbiosis to PHT progression, the mechanisms by which microbial metabolites modulate liver sinusoidal endothelial cells (LSECs) dysfunction and the therapeutic efficacy of fecal microbiota transplantation (FMT) remain poorly understood.
+This study investigated the potential of FMT to alleviate PHT in cirrhotic rats, exploring the underlying mechanisms involving butyrate-mediated HDAC3 inhibition and PI3K/Akt/eNOS signaling regulation in LSECs.

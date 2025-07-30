@@ -1,0 +1,10 @@
+The Barcelona Clinic Liver Cancer (BCLC) advanced stage of hepatocellular carcinoma (HCC) includes a heterogeneous population, and new patient-tailored therapeutic indications are needed.
+Emerging evidence suggest that patients in this stage with mild tumor-related symptoms may benefit from more aggressive treatments including transarterial chemoembolization (TACE) and obtain better outcomes.
+This study aimed to investigate the effects of TACE on HCC patients with mild tumor-related symptoms and risk-stratify them for selecting potential candidates for TACE.
+We retrospectively collected data from 745 patients with liver-confined HCC undergoing TACE at 15 different centers from January 2015 to November 2022.
+The prognostic abilities of performance status (PS score of 0 vs. 1) were separately evaluated in high- and low-risk groups using the Hepatoma Arterial-embolization Prognostic (HAP) scoring model and its variants.
+PS1 remained an independent prognostic factor for overall survival (OS) in the whole cohort (P = 0.035).
+Interestingly, it lost its prognostic value for patients in low-risk groups (grade A + B) in all the four HAP models.
+This population with PS1 alone achieved similar OS to their counterparts with PS0.
+Risk stratification based on HAP scoring models could discriminate potential candidates from HCC patients in BCLC-C stage with PS1 alone.
+These patients could be classified into BCLC-B stage and benefit from TACE treatment.

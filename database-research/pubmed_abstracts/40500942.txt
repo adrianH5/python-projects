@@ -1,0 +1,10 @@
+Nanovaccines represent a promising strategy for colon cancer immunotherapy, with the potential to elicit potent, tumor-specific immune responses.
+However, the efficacy of these vaccines is often compromised by the presence of cancer stem cells (CSCs) in the tumor microenvironment (TME).
+Nanoliposome (NLP) is a widely used delivery system in nucleic acid and drug delivery research.
+In this study, we enriched MC38-derived CSCs (MCSCs) and developed a manganese-CpG-nanoliposome (Mn@CpG@NLP) nanocomplex using MC38 colon carcinoma tumor lysates as antigens to induce immune responses against MCSCs-derived tumors.
+Manganese NLPs (Mn@NLP) are initially engineered by incorporating manganese ions to enhance their positive surface charge, thereby optimizing their interaction with cellular membranes and activating the STING signaling pathway to promote bone marrow-derived dendritic cells (BMDCs) maturation.
+Subsequently, these liposomes are co-assembled with the CpG oligonucleotides (CpG ODNs) 1826 adjuvant, a Toll-like receptor 9 agonist, through electrostatic interactions to form the Mn@CpG@NLP nano-adjuvant complex.
+The Mn@CpG@NLP complex is efficiently taken up by dendritic cells (DCs), leading to their maturation and activation.
+This nanocomplex also effectively stimulated cytotoxic T lymphocytes and promoted the secretion of cytokines.
+In vivo treatment with Mn@CpG@NLP significantly inhibited tumor growth and prolonged survival in a mouse model.
+This study highlights the potential of nano-adjuvant platforms in immunotherapy targeting cancers driven by colon CSCs.

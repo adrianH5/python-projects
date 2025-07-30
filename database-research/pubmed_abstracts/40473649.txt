@@ -1,0 +1,10 @@
+To assess the suitability of Transformer-based architectures for medical image segmentation and investigate the potential advantages of Graph Neural Networks (GNNs) in this domain.
+We analyze the limitations of the Transformer, which models medical images as sequences of image patches, limiting its flexibility in capturing complex and irregular tumor structures.
+To address it, we propose U-GNN, a pure GNN-based U-shaped architecture designed for medical image segmentation.
+U-GNN retains the U-Net-inspired inductive bias while leveraging GNNs' topological modeling capabilities.
+The architecture consists of Vision GNN blocks stacked into a U-shaped structure.
+Additionally, we introduce the concept of multi-order similarity and propose a zero-computation-cost approach to incorporate higher-order similarity in graph construction.
+Each Vision GNN block segments the image into patch nodes, constructs multi-order similarity graphs, and aggregates node features via multi-order node information aggregation.
+Experimental evaluations on multi-organ and cardiac segmentation datasets demonstrate that U-GNN significantly outperforms existing CNN- and Transformer-based models.
+U-GNN achieves a 6% improvement in Dice Similarity Coefficient (DSC) and an 18% reduction in Hausdorff Distance (HD) compared to state-of-the-art methods.
+The source code will be released upon paper acceptance.

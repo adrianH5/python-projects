@@ -1,0 +1,4 @@
+T1	Creator 158 169	Chinese CDC
+T2	URL 171 209	http://2019ncov.chinacdc.cn/2019-nCoV/
+T3	Dataset 282 288	GISAID
+R1	hasAttr	Arg1:T1	Arg2:T2

@@ -1,0 +1,13 @@
+Phosphodiesterase type 5 (PDE5) inhibitors are the first-line treatment for erectile dysfunction, with modest adverse effects.
+Since 2011, concerns have arisen about increased melanoma risk in PDE5 inhibitor users.
+PDE5 inhibitors affect the rat sarcoma virus oncogene-rapidly accelerated fibrosarcoma-mitogen-activated protein kinase-extracellular signal-regulated kinase signaling cascade, which is involved in melanoma formation.
+This systematic review and meta-analysis investigates melanoma risk in PDE5 inhibitor users.
+PubMed, Cochrane, and Embase were searched to examine the relationship between PDE5 inhibitors and melanoma.
+A random-effects model estimated pooled odds ratios (ORs) and hazard ratios (HRs), with the I ² statistic assessing heterogeneity.
+RStudio v4.4.2 was used for the meta-analysis, and a P value less than 0.05 was deemed significant.
+Eight studies including 7 620 765 patients were analyzed, with 2 123 165 (27.86%) comprising the PDE5 inhibitor-exposed group.
+The meta-analysis found a relationship between PDE5 inhibitor use and increased melanoma risk [OR: 1.60, 95% confidence interval (CI): 1.13-2.27, P = 0.009, I ² = 98%] and [HR: 1.10, 95% CI: 1.03-1.17, P = 0.005, I ² = 43%].
+When each PDE5 inhibitor was examined separately, increased melanoma incidence was observed, though not statistically significant.
+The OR for sildenafil was 1.85 (95% CI: 0.97-3.51, P = 0.059, I ² = 99%), tadalafil 1.54 (95% CI: 0.79-3.00, P = 0.203, I ² = 96%), and vardenafil 1.16 (95% CI: 0.82-1.64, P = 0.391, I ² = 89%).
+This study suggests PDE5 inhibitor users have a higher chance of developing potentially fatal melanoma.
+Patients with a history of skin cancer, a family history of melanoma, or other risk factors should avoid these medications.

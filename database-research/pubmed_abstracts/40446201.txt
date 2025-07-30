@@ -1,0 +1,6 @@
+Tumor vasculature plays a crucial role in sustaining cancer progression, making vascular-targeted strategies highly promising for therapy.
+Herein, we develop a vascular-targeted nanoplatform (ThT@ZRR) that synergistically integrates thrombin-induced thrombosis with hypoxia-activated chemotherapy to amplify antitumor immunity.
+ThT@ZRR consists of thrombin and tirapazamine (TPZ) coloaded within ZIF-8 nanoparticles cloaked by RGD-modified red blood cell membranes.
+Upon tumor accumulation, pH-responsive thrombin release induces localized thrombosis, disrupting blood flow and exacerbating hypoxia, which, in turn, enhances TPZ activation.
+This cascade not only enhances direct tumor cell killing but also triggers robust immune responses.
+The combined effects of thrombosis-induced inflammatory signals and TPZ-mediated immunogenic cell death promote dendritic cell maturation, CD8

@@ -1,0 +1,10 @@
+The incidence of papillary thyroid carcinoma (PTC) has been rising annually, with papillary thyroid microcarcinoma (PTMC) accounting for more than half of the cases.
+While most PTMCs exhibit indolent growth and a favorable prognosis, some undergo clinical progression with poor outcomes.
+Thus, identifying biomarkers associated with PTC, particularly those related to PTMC progression, is crucial for precise risk stratification and treatment planning.
+This study utilized single-cell RNA sequencing on 19 surgical tissue specimens from 15 patients, including four para-tumor tissues, four non-progressive PTMCs, five progressive PTMCs, and six progressive PTCs.
+Key findings are corroborated through in vivo and in vitro experiments.
+Single-cell RNA sequencing and spatial transcriptomics characterized the cellular ecosystem within PTC, revealing multi-directional evolutionary patterns as PTMC progresses.
+Analysis of progression-specific alterations in intercellular communication networks highlighted the PROS1-MERTK signaling interaction as pivotal in PTMC progression.
+In vitro and in vivo models confirm that the PROS1-MERTK axis accelerates PTMC progression via paracrine and autocrine signaling.
+Furthermore, NFYB and FOXP2 are identified as activators of PROS1 transcription in fibroblasts, promoting PTMC progression through the MERTK/WNT/TGF-β signaling.
+These findings underscore the PROS1/MERTK axis as a critical component of the cellular microenvironment and a key regulatory mechanism in PTMC progression.

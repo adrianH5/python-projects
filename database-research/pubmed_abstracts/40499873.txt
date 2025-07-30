@@ -1,0 +1,10 @@
+Heme oxygenase-2 (HMOX-2) is overexpressed in various cancers and is a key target in metastasis.
+Recently, tumor-initiating cell near-infrared probe (TiNIR) was identified as a selective HMOX-2 inhibitor, yet its molecular mechanism and selectivity remain unexplored.
+This study elucidates TiNIR's HMOX-2 selective binding mechanism by integrating molecular modeling and in-vitro assays.
+In-vitro assays directly measured binding affinity of TiNIR to HMOX-1 and HMOX-2; structural differences were analyzed through molecular-docking, pharmacophore-modeling, and molecular-dynamics (MD) simulations.
+Selective binding of TiNIR to HMOX-2 was experimentally confirmed, and molecular docking results indicated that TiNIR exhibited a binding affinity comparable to or higher than that of heme in HMOX-2.
+In contrast, binding affinity to HMOX-1 was relatively low.
+Pharmacophore modeling analysis revealed that open binding-pocket of HMOX-2 facilitates stable TiNIR binding, whereas spatial constraints in HMOX-1 restrict its interaction with TiNIR.
+Furthermore, MD simulations demonstrated that interaction between TiNIR and HMOX-2 is dynamically stable.
+In conclusion, TiNIR exhibited high binding affinity and selectivity for HMOX-2, providing structural evidence for its potential as a previously unrecognized HMOX-2 selective probe.
+The findings of this study suggest that TiNIR could serve as a theranostic agent targeting HMOX-2 in metastatic cancer and establish a structural foundation for TiNIR-based therapeutics.

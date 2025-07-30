@@ -1,0 +1,4 @@
+MicroRNA-21 (miR-21) is a significant tumor marker for early cancer screening.
+Hybridization chain reaction (HCR) as an enzyme-free signal amplification method has been used for intracellular miR-21 detection in living cells, but it is limited by unclear reaction details and prolonged detection time.
+In this study, by effectively regulating the HCR reaction conditions, we achieved rapid visualization of endogenous miR-21 in live cells.
+A pair of HCR DNA hairpins H

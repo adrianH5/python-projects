@@ -1,0 +1,2 @@
+Early detection of epidermal growth factor receptor (EGFR) is critical for guiding therapeutic decisions in non-small-cell lung cancer (NSCLC).
+The study aims to develop a predictive model for EGFR mutations with multicohort data.

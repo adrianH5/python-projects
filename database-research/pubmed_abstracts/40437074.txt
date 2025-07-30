@@ -1,0 +1,9 @@
+Sister-chromatid cohesion mediated by the cohesin complex is critical for accurate chromosome segregation during mitosis.
+A key aspect of this process is the protection of cohesin at mitotic centromeres to resist spindle pulling-forces until anaphase onset.
+However, the mechanisms that prevent cohesin removal by its release-factor Wapl at centromeres remain incompletely understood.
+In this study, we identify ATRX, a chromatin remodeler of the SWI/SNF family, as a new binding protein of the cohesin complex.
+ATRX directly interacts with the cohesin accessory subunit Pds5B, antagonizing Wapl binding and thereby preventing premature release of centromeric cohesin.
+A mutation in ATRX that disrupts its interaction with Pds5B weakens centromeric cohesion and increases chromosome missegregation.
+Notably, centromere tethering of a Pds5B-binding fragment of ATRX, which lacks the ATPase domain, rescues cohesion defects in ATRX-depleted cells.
+Furthermore, Wapl depletion bypasses the requirement for ATRX, underscoring their antagonistic relationship.
+Together, these findings reveal a chromatin-remodeling-independent role for ATRX in maintaining centromeric cohesion by competitively inhibiting Wapl, providing new insights into the mechanisms that safeguard genomic stability.

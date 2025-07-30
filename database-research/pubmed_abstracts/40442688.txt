@@ -1,0 +1,3 @@
+Due to compensatory survival signalling and overexpression of anti-apoptotic Bcl-2 family proteins, the majority of AML patients developed acquired resistance of venetoclax (VEN) to combination therapy of VEN with low-dose cytarabine (LDAC) or hypomethylating agents (HMAs).
+Dysregulation of the Wnt/β-catenin signalling pathway is intently associated with leukemia development and chemotherapy resistance.
+However, there is currently no Wnt/β-catenin inhibitor approved for clinical use and it is not clear whether targeting the Wnt/β-catenin pathway enhances the anti-leukemic activity of VEN.

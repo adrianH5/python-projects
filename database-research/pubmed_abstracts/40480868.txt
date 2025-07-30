@@ -1,0 +1,14 @@
+Low-grade serous ovarian cancer is a rare epithelial ovarian cancer with limited responsiveness to conventional chemotherapy, particularly, in advanced or recurrent settings.
+Low-grade serous ovarian cancer is characterized by an indolent growth pattern and a high prevalence of mitogen-activated protein kinase pathway alterations (KRAS, BRAF, NRAS) and hormone receptor positivity, highlighting the potential for targeted therapies.
+MEK inhibitors (eg, trametinib, binimetinib) specifically target the mitogen-activated protein kinase pathway, whereas endocrine therapies and cyclin-dependent kinase 4/6 (CDK4/6) inhibitors exploit hormone-driven pathways.
+This review explores the repurposing of the therapeutic potential of both MEK inhibitors and breast cancer therapies, as endorsed by the National Comprehensive Cancer Network, to improve outcomes in low-grade serous ovarian cancer.
+This review synthesizes evidence supporting the repurposing of MEK inhibitors and breast cancer therapies (endocrine therapies, CDK4/6 inhibitors, and mammalian target of rapamycin inhibitors) as treatment approaches for low-grade serous ovarian cancer.
+Trametinib significantly improved progression-free survival in the GOG 281 trial, establishing MEK inhibition as a key therapeutic option.
+In addition, molecular similarities in estrogen receptor/progesterone receptor, phosphatidylinositol 3-kinase/protein kinase B/mammalian target of rapamycin, and CDK4/6 pathways between low-grade serous ovarian cancer and breast cancer provide a strong rationale for therapeutic crossover.
+Endocrine therapies demonstrated efficacy in low-grade serous ovarian cancer, particularly when combined with targeted agents to address resistance mechanisms.
+CDK4/6 inhibitors showed promise by blocking cell cycle progression and enhancing the response to endocrine therapies.
+In addition, mammalian target of rapamycin inhibitors have yielded clinical benefits in selected patients, emphasizing the importance of biomarker-driven treatment.
+Repurposing MEK inhibitors and endocrine-based approaches is shaping the treatment landscape for low-grade serous ovarian cancer, particularly in recurrent or advanced cases with limited treatment options.
+However, the variability in pathway alterations necessitates precise molecular profiling and optimized combination strategies.
+Future studies leveraging patient-derived models and advanced profiling techniques are critical for refining these approaches.
+These efforts may help expand National Comprehensive Cancer Network-endorsed options, and provide new hope for patients with hormone-sensitive low-grade serous ovarian cancer.

@@ -1,0 +1,48 @@
+Severe acute respiratory coronavirus 2 (SARS-CoV-2), a single-stranded RNA virus that binds to the angiotensin-converting enzyme 2 receptor and causes the illness called coronavirus disease 2019 (COVID-19), has precipitated devastating personal, economic, and societal repercussions worldwide.1, 2, 3, 4 SARS-CoV-2 usually causes a mild, self-limited illness, but approximately 15% of affected individuals have a more severe, sometimes life-threatening course, with the risk of poor outcomes increasing with age and comorbidities.
+5, 6, 7 Diffuse alveolar damage and acute respiratory distress syndrome are the most common presentations in severe COVID-19.
+Profound dysregulation of innate and acquired immunity can occur with more severe COVID-19, including significant lymphopenia as a direct result of viral-induced apoptosis and necrosis of lymphocytes in the spleen and lymph nodes.
+The persistent interferon response can result in systemic hyperinflammation, also known as cytokine storm.
+,
+ Several of the cytokines elevated in severe COVID-19 patients (tumor necrosis factor [TNF], interleukin 6, and interleukin 17) are also elevated in patients with psoriatic disease.
+15, 16, 17
+The current model of COVID-19 is that immune suppression in early infection may be harmful by allowing uncontrolled SARS-CoV-2 replication and dissemination but may be helpful in severe illness by limiting organ damage from a dysregulated hyperimmune response.
+Many treatments used for psoriatic disease directly or indirectly impact immune pathways involved in COVID-19.19, 20, 21, 22 Patients and providers are concerned about the safety of immunomodulating agents in the setting of the COVID-19 pandemic.
+These concerns are particularly relevant given that many of the comorbidities associated with psoriasis and psoriatic arthritis, including obesity, diabetes, and cardiovascular disease, are risk factors for the development of severe COVID-19.
+,
+To address the questions posed by patients and providers, the National Psoriasis Foundation (NPF) commissioned a COVID-19 task force (TF) to develop scientifically based guidance that promotes optimal management of psoriatic disease during the pandemic.
+Patients with psoriatic disease appear to have similar rates of infection with SARS-CoV-2 and COVID-19 outcomes33, 34, 35, 36, 37 as the general population (Guidance 1.1).
+First, a few reports suggest that patients with psoriasis may be more prone to infection with COVID-19 or have worse outcomes.38, 39, 40 For example, a United Kingdom study with more than 17 million patients found a small but statistically increased risk of death from COVID-19 (fully adjusted hazards ratio, 1.19; 95% confidence interval, 1.11-1.27) in individuals with psoriasis, rheumatoid arthritis, or lupus.
+Additionally, patients with psoriatic disease may be prone to thrombotic complications that can also occur in COVID-19.41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55 There was unanimous agreement that severity of COVID-19 is driven by risk factors such as older age and comorbidities (Guidance 1.2).
+,
+,
+56, 57, 58, 59 Psoriatic disease—particularly severe psoriasis—is associated with many of the comorbidities that drive COVID-19 mortality.
+,
+,
+The existing literature suggests that treatments for psoriasis or psoriatic arthritis, or both, do not meaningfully alter the risk of acquiring SARS-CoV-2 infection or having worse COVID-19 outcomes (Guidance 2.1).
+,
+,
+61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85 Cyclosporine, the most broadly immunosuppressive of psoriasis treatments, was not found to alter the risk of COVID-19 in 130 patients in Italy with psoriasis or atopic dermatitis (2 became infected with SARS-CoV-2 and recovered without hospitalization).
+One study suggested that patients with psoriasis on biologics were more likely to be hospitalized for COVID-19 but did not adjust for risk factors known to drive poor COVID-19 outcomes.
+The rheumatology literature also suggests that treatments used for psoriatic disease, such as TNF inhibitors and methotrexate, do not negatively impact COVID-19,87, 88, 89, 90 with 1 large registry (600 case reports from 40 countries) finding that TNF inhibitors are associated with a reduced adjusted odds of COVID-19 hospitalization compared with patients with rheumatic conditions not treated with TNF inhibitors.
+Similarly, adverse effects of TNF inhibitors on COVID-19 were not observed in large registries of patients with inflammatory bowel disease.
+,
+ Small case series have reported poor COVID-19 outcomes in patients on Janus kinase inhibitors for psoriatic arthritis and secukinumab for ankylosing spondylitis; however, these isolated reports could be due to selection bias, chance, or underlying comorbidity.
+By contrast, an analysis of approximately 1400 patients from the rheumatology, gastroenterology, and dermatology literature concluded that biologic or targeted synthetic disease-modifying antirheumatic drug therapy has not been associated with more severe COVID-19 outcomes.
+By contrast, studies in the rheumatology and gastroenterology literature have observed that long-term use of oral corticosteroids is associated with worse COVID-19 outcomes (ie, hospitalization or a composite outcome of any or all of intensive care unit admission, ventilator use, or death).
+,
+Psoriasis, even when involving the face or hands, is not a contraindication to face coverings and hand washing, respectively, and a variety of approaches can be applied to mitigate skin irritation (E-Table VII, available via Mendeley Data, V2, at https://doi.org/10.17632/w5m8jf94m8).106, 107, 108 Patients with psoriatic disease should receive the seasonal inactivated (eg, killed) influenza vaccine, which is of special importance to individual and public health during the COVID-19 pandemic (Guidance 4.4).
+Patients with psoriatic disease who become infected with SARS-CoV-2 should monitor their symptoms (Supplemental E-Table VIII), discuss management of their psoriatic disease treatments with their health care providers, and should be prescribed and adhere to evidence-based COVID-19 treatments, if available (Guidance 5.1 and 5.2).
+,
+110, 111, 112
+The mortality benefit of initiation of corticosteroids in patients with severe COVID-19 outweighs the risks of potentially precipitating a psoriasis flare, and therefore, acute systemic corticosteroids are not contraindicated for the management of COVID-19 in patients with psoriatic disease (Guidance 5.3).
+Consistent with guidance from the Food and Drug Administration and the American College of Physicians, the use of hydroxychloroquine or chloroquine is not recommended to prevent or treat COVID-19 in patients with psoriatic disease outside of a clinical trial (guidance 5.4).
+114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126 Patients with psoriatic disease should be aware that infection with SARS-CoV-2 may result in a flare of psoriasis, which may occur due to discontinuation of psoriasis treatments, treatment of COVID-19 with antimalarial drugs, or due to triggering of inflammation as part of COVID-19 illness (Guidance 5.6).
+,
+127, 128, 129
+Patients with psoriatic disease who become infected with SARS-CoV-2 should follow CDC guidance130, 131, 132, 133 on home isolation and discuss with their health care providers when they can end home quarantine (Guidance 5.7; Supplemental E-Table IX).
+,
+The persistence of 1 or more symptoms of COVID-19, such as fatigue or joint pain, beyond the acute phase of the illness can occur and may complicate the decision to restart psoriasis or psoriatic arthritis medications.
+For example, studies evaluating the safety of treatments for psoriasis and psoriatic arthritis in the setting of COVID-19 involve small case series or large collections of case reports and thus should be considered preliminary.
+Large-scale, longer-term, population-based studies with appropriate comparator groups, adjustment for relevant confounding variables, and complete ascertainment of clinically important COVID-19 outcomes are urgently needed.
+To provide guidance about management of psoriatic disease during the coronavirus disease 2019 (COVID-19) pandemic.
+These statements provide guidance for the management of patients with psoriatic disease on topics ranging from how the disease and its treatments impact COVID-19 risk and outcome, how medical care can be optimized during the pandemic, what patients should do to lower their risk of getting infected with severe acute respiratory syndrome coronavirus 2 and what they should do if they develop COVID-19.

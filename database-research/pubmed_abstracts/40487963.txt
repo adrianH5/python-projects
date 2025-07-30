@@ -1,0 +1,2 @@
+Gastric cancer (GC) has a poor prognosis, and the accurate prediction of patient survival remains a significant challenge in oncology.
+Machine learning (ML) has emerged as a promising tool for survival prediction, though concerns regarding model interpretability, reliance on retrospective data, and variability in performance persist.

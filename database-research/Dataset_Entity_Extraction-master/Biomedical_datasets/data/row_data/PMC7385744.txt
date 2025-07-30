@@ -1,0 +1,4 @@
+Objective  Although severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) RNA was detected in faeces of patients with COVID-19, the activity and infectivity of the virus in the GI tract during disease course is largely unknown.
+We investigated temporal transcriptional activity of SARS-CoV-2 and its association with longitudinal faecal microbiome alterations in patients with COVID-19.
+We performed RNA shotgun metagenomics sequencing on serial faecal viral extractions from 15 hospitalised patients with COVID-19.
+Results  Seven (46.7%) of 15 patients with COVID-19 had stool positivity for SARS-CoV-2 by viral RNA metagenomic sequencing.

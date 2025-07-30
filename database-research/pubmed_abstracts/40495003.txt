@@ -1,0 +1,14 @@
+Cancer-related cognitive impairment (CRCI) affects a significant proportion of cancer patients and survivors, impacting their memory, focus, mood, and quality of life.
+While non-pharmacological interventions have shown effectiveness in managing this condition, some studies have also explored various pharmacological agents, including donepezil, a reversible acetylcholinesterase inhibitor.
+This compound demonstrated beneficial effects on cognition in Alzheimer's disease; however, its effectiveness in CRCI remains unknown.
+This systematic review and meta-analysis aims to evaluate the efficacy of donepezil in improving cognitive outcomes in cancer patients.
+We conducted a search of PubMed/Medline, Embase, Cochrane Library, ClinicalTrials.gov, and the International Clinical Trials Registry Platform.
+Both randomized controlled trials and observational studies were included.
+We extracted data on cognitive outcomes of donepezil treatment, including the Hopkins Verbal Learning Test-Revised (HVLT-R), Trail Making Test (TMT), and Controlled Oral Word Association Test (COWA), as well as reported adverse events (AEs).
+Out of 896 identified records, nine studies involving 837 patients met the inclusion criteria, including five RCTs and four observational studies.
+Donepezil failed to demonstrate significant improvements in cognitive outcomes in HVLT-R, TMT, and COWA.
+Fatigue, measured as a secondary outcome, also showed no significant improvement.
+AEs, such as insomnia and headache, were more prevalent in adults than children.
+Donepezil did not increase the risk of AEs compared to placebo.
+This meta-analysis found that donepezil does not provide cognitive improvements for CRCI patients.
+Given the complex and multifactorial nature of CRCI, the lack of efficacy suggests that donepezil may not address the underlying mechanisms of the condition.

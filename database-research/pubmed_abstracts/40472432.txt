@@ -1,0 +1,4 @@
+Radiotherapy plays a critical role in the treatment of nasopharyngeal carcinoma (NPC).
+However, the number and close proximity of organs at risk (OAR) hampers dose escalation using classical techniques.
+The Leksell Gamma Knife® (LGK, Elekta AB) achieves a steep dose gradient, which might be beneficial to apply sequential/upfront boosts to these tumors.
+This study explores the feasibility of fractionated, homogeneous LGK Icon boost compared to a linear accelerator (LINAC) boost.

@@ -1,0 +1,8 @@
+Improved biomarkers of treatment response are needed for patients with high-grade serous ovarian cancer (HGSC).
+A challenge is substantial anatomical site-to-site variation in expression.
+We completed data-independent acquisition-mass spectrometry (DIA-MS) analysis of 404 fresh frozen and 78 formalin-fixed, paraffin-embedded HGSC tissue samples from the ovary (adnexal) and a common secondary site (omentum) in 11 patients.
+This was compared with mutation testing, gene expression, and whole-genome copy number profiling.
+Proteins with relatively stable intra- and variable inter-individual expression (n = 1651), included a 52-protein module reflecting interferon-mediated tissue inflammation, indicative of a cGAS-STING pathway cytosolic double-stranded (ds) DNA response.
+The dsDNA sensing/inflammation score was higher in the omentum compared with the ovary.
+Ovarian HGSC samples showed marked inter-individual differences in inflammatory and immune responses to DNA damage.
+Stable discriminative features of the HGSC proteome, a prerequisite for clinical predictive biomarkers, are detectable in ovary (adnexal) tissue samples.

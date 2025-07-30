@@ -1,0 +1,8 @@
+Lipid nanoparticles (LNPs) have shown great promise for nucleic acid drug delivery.
+Canonical LNPs consist of four lipid components: ionizable lipid, cholesterol, Polyethylene glycol-yl-lipid (PEGyl-lipid), and phospholipid.
+However, these traditional LNPs face limitations in mRNA vaccine delivery, including liver-targeted transfection and the insufficient activation of cellular immune responses.
+A more efficacious and safer LNP system remains a great challenge.
+Herein, we report ionizable sterol lipid-based three-component LNPs (ISL-3C-LNPs), which exhibit high mRNA encapsulation and delivery efficiency.
+Among these, CS22021-based ISL-3C-LNP demonstrated localized mRNA delivery at the injection site following intramuscular administration, which potentially contributes to a good safety profile.
+Moreover, the CS22021-based ISL-3C-LNP enabled the efficient delivery of a varicella-zoster virus (VZV) mRNA vaccine by eliciting robust humoral and cellular immune responses.
+Notably, it elicited a significantly higher CD8

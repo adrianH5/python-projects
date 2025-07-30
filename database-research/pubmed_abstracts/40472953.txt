@@ -1,0 +1,11 @@
+Chronic hepatitis B virus (HBV) infection is a leading cause of hepatocellular carcinoma (HCC).
+HBV produces an X protein (HBx) that is heavily linked to HCC, a similar finding seen across the Orthohepadnaviruses.
+There is an analogous, but truncated form of the X protein in Avihepadnaviruses, but no HCC is seen in infected avian species.
+This raises questions about the differences between mammalian and avian X proteins and their potential roles in carcinogenesis.
+Here we explore this question from a structural perspective of X proteins across mammalian and avian hepadnaviruses to determine whether there are any structural features linking these interesting observations.
+We first compile sequences to create consensus sequences with which to align with each other and subsequently to input into modeling programs, RoseTTAFold (RF) and AlphaFold3 (AF3).
+Comparative analyses show that mammalian X proteins are longer (154aa and 141aa, respectively for HBx and WHx) and have distinct domains in their C-terminal region, including a BH3-like domain that has been linked with many cancer pathways.
+Avian X proteins, however, are truncated with a similarly located stop codon.
+This truncation rids the protein of the BH3-like domain.
+We sought to find this domain by theoretical read-through or frameshifts and indeed, an analogous BH3-like domain is found that can similarly bind the BH3 target Bcl-2.
+Based on this work, it may be evolutionarily plausible that a single-nucleotide insertion led to the stop codon and BH3-domain loss that may account for the lack of cancers seen with Avihepadnaviruses.

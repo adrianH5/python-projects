@@ -1,0 +1,10 @@
+MUC16 ranks among the top three genes exhibiting the highest mutation frequencies in various cancer types.
+It encodes transmembrane mucins present in the epithelial linings of the ocular, respiratory, gastric and female reproductive systems, serving to protect and maintain mucosal surfaces.
+Overexpression of MUC16 contributes to the differentiation, proliferation, invasion and metastasis of cancer cells in ovarian, endometrial, pancreatic, colon, breast and non-small-cell lung cancers.
+In this study, we analysed the structural and functional effects of pathogenic and potentially harmful non-synonymous single nucleotide polymorphisms (nsSNPs) of MUC16, employing a blend of computational algorithms.
+Initially, SNPs data for MUC16 were gathered from the Ensembl database and refined using computational tools (PROVEAN, SIFT, PolyPhen-2, SNAP-2, MutPred, I-Mutant3.0 and MUpro) to isolate four final pathogenic SNP variants (L151P, Y144N, C111Y and D108Y).
+Through evolutionary conservation analysis, we determined that these mutational variants originate from a highly conserved and stable domain.
+Our findings particularly emphasise the Y144N variant as a potentially highly deleterious mutation situated in the SEA5 domain.
+This variant could significantly impact stability, overall flexibility, compactness, expansion, glycosylation ability and metastatic potential when compared to both the wild-type and other mutant variants.
+In summary, these findings shed light on missense mutational variants, providing insights into the vast array of disease susceptibilities associated with MUC16's glycosylation process.
+This understanding could aid in the development of effective drugs for diseases linked with these mutations.

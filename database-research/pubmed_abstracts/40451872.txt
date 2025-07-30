@@ -1,0 +1,9 @@
+Non-clinical pharmacological safety studies are conducted using cells and animals to ensure the safety of pharmaceuticals in humans.
+Following these studies, drug candidates are administered to humans during clinical trials.
+Safety must be sufficiently confirmed in non-clinical studies to ensure that test participants suffer no adverse health effects.
+However, due to species differences, low ability to extrapolate from in vitro to in vivo evaluation methods, and other problems, health hazards may unfortunately still occur.
+Therefore, sophisticated in vitro evaluation systems using human cells are actively being pursued.
+The main challenge remains the lack of a reliable methodology for extrapolating in vitro results to in vivo settings.
+We have attempted to extract parameters that can be predictably translated from in vitro [contractile evaluation in three-dimensional (3D) heart tissue] to in vivo (guinea pig echocardiography) conditions, using cardiac contractile dysfunction induced by anticancer drugs as an example.
+In this review, we introduce the in vitro methods developed to date to evaluate this cardiac contractile dysfunction, analyze the factors enabling highly accurate prediction of torsades de pointes in humans based on past proarrhythmic risk prediction methods using human induced pluripotent stem cell-derived cardiomyocytes, and apply them to evaluate cardiac contractile dysfunction caused by anticancer drugs using three-dimensional heart tissue.
+We also introduce the proposed strategy for this evaluation method in this section.

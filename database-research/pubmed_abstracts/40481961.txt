@@ -1,0 +1,17 @@
+Although many thyroid cancers are well-differentiated carcinomas with an indolent behavior, poorly differentiated (PDTC) and anaplastic thyroid carcinomas (ATC) represent a minority of thyroid malignancies with an aggressive and/or lethal course, followed by limited effective treatment options.
+Recently, the WHO 2022 introduced the concept of high-grade follicular cell-derived malignancy, including both the traditional PDTC as well as the new definition of high-grade differentiated thyroid carcinomas (DHGTC).
+Both are characterized by increased mitotic activity and tumor necrosis without anaplastic features and similar clinical behavior.
+In the last years, immune checkpoint inhibitors (ICIs) have shown to be an effective treatment for a variety of carcinomas, especially aggressive types such as PDTC and ATC, with less data available about DHGTC.
+The current study analyzes a cohort of patients with PDTC, DHGTC and ATC focusing on the expression of programmed cell death-ligand 1 (PD-L1) and BRAFV600E correlated with aggressive features.
+From January 2010 to December 2023, 73 patients including a diagnosis of PDTC, DHGTC, and ATC were diagnosed.
+All these cases were analyzed for the PD-L1 expression and BRAFV600E and correlated with the clinic-pathological features.
+Among the 73 cases, 42 (57.5%) were women.
+The median age was 64.2 years.
+Histological diagnoses included 35 (38.4%) PDTC, 8 DHGTC, and 30 (46.1%) ATC.
+Lymph-nodal involvement was seen in 27 cases (including 12 N1a, and 15 N1b), while vascular invasion in 34 cases.
+A differentiated component was seen in all DHGTC, 5PDTC, 11 ATC.
+Evaluating the stage, 60 cases were from pT3a to pT4b.
+PD-L1 was expressed in 24/73 (5DHGTC, 0 PDTC, 19 ATC); BRAFV600E and TERT were positive in 19 cases and 16 cases respectively.
+PD-L1 was confirmed to be a potential biomarker for the management of patients with DHGTC and ATC.
+Although it did not yield a prognostic role in PDTC and ATC, it is likely to define a subset of patients directed to the checkpoint inhibitor therapy.
+Furthermore, TERT mutations showed a strong correlation with overall survival rate.

@@ -1,0 +1,6 @@
+Among the human E3 ubiquitin ligases, NEDD4 (Neural precursor cell expressed developmentally down-regulated 4) plays a critical role in development and cancer, making it a compelling therapeutic target.
+However, no specific NEDD4 inhibitors have advanced in drug development.
+In this study, we reveal the inhibitory mechanism of Norclomipramine, a tricyclic antidepressant, which inhibits NEDD4-mediated ubiquitin chain elongation by binding to a hydrophobic pocket in the Ub exosite of the N-lobe.
+Building on this mechanism, we conducted a focused medicinal chemistry campaign, resulting in the development of covalent inhibitors that specifically target the non-catalytic cysteine C627.
+These compounds exhibit selective binding to NEDD4 over other family members, effectively inhibiting NEDD4-mediated polyubiquitination while leaving monoubiquitinated substrates unaffected.
+Among these, compound 32 emerged as a potent lead (IC

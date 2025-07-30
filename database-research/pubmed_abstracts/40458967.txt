@@ -1,0 +1,8 @@
+Antibody-drug conjugates (ADCs) enable targeted delivery of cytotoxic payload to cancer cells.
+Here, we characterized the mode of action of the ADC patritumab deruxtecan, which is a monoclonal antibody specific for Erb-B2 Receptor Tyrosine Kinase 3 (ERBB3, best known as HER3) coupled to the topoisomerase-I inhibitor DXd.
+Patritumab deruxtecan decreased viability and induced the relocation of calreticulin fused to green fluorescent protein (CALR-GFP) to the periphery of human osteosarcoma U2OS cells engineered to express HER3 but not in their parental counterparts only expressing the CALR-GFP biosensor.
+Patritumab deruxtecan as well as its payload DXd induced various traits of immunogenic cell death (ICD) including antibody detectable calreticulin membrane exposure, exodus of high mobility group protein B1 (HMGB1), as well as the release of ATP into cell culture supernatants.
+Moreover, DXd causes rapid inhibition of DNA-to-RNA transcription, which is a key predictor for ICD.
+Mouse cancer cells treated with DXd were able to vaccinate syngeneic immunocompetent mice against tumor challenge.
+Tumor-free mice developed immune memory that led to the rejection of syngeneic tumors after rechallenge.
+In conclusion, patritumab deruxtecan is equipped with a cytotoxic payload that induces hallmarks of ICD

@@ -1,0 +1,8 @@
+Developing appropriate nanoplatforms with enhanced properties to increase the efficiency of the nano-based strategies is an urgent challenge for cancer therapy.
+In this work, a S, Pd modified hollow CoNiMnFe Prussian blue analogue nanocomposite (Pd-S-CNMF) was prepared as multifunctional nanoplatform for magnetic resonance imaging (MRI) guided for combined cascade catalyzed therapy and low-temperature photothermal therapy.
+We found that the co-modification of S and Pd on CNMF could enhance the responsive feature the as-prepared nanocomposite to acidic environment, which endowed the Pd-S-CNMF with multiple enzyme mimicking activities and enhanced NIR light absorption.
+To construct efficient nanoplatform for prostate cancer therapy, a HSP 90 protein inhibitor, tanespimycin was loaded on Pd-S-CNMF (17Pd-S-CNMF) to inhibit the level of HSP 90 protein, thus increasing the outcome of subsequent photothermal therapy.
+The constructed 17Pd-S-CNMF is expected to remodel tumor microenvironment (TME), generate sufficient highly toxic reactive oxygen species (ROS) and hyperthermia to enhance the efficacy of chemodynamic therapy (CDT) and photothermal therapy (PTT).
+In addition, comparing to the pristine CNMF and S doped CNMF, the as-prepared Pd-S-CNMF possessed superior magnetic TME sensitive magnetic resonance imaging (MRI) performance.
+Benefiting from these amazing properties, the as-prepared 17Pd-S-CNMF could effectively inhibit the growth of prostate cancer in vitro and vivo.
+Our findings provide a paradigm for construction of efficient nanocomposites as nanoplatform for cancer diagnose and treatment.

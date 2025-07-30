@@ -1,0 +1,4 @@
+Understanding airborne particle mass deposition in the lungs is crucial for assessing health effects, particularly in regions with severe air pollution.
+While several studies have modelled lung deposition, there is limited information on lung tissue deposition that incorporates factors like hygroscopicity and density in polluted environments or source-specific exposures.
+This study examines the impact of atmospheric aerosol properties, including particle number size distribution, effective density, and hygroscopic growth, on lung tissue deposition using data from a measurement campaign in Delhi, India.
+Using the Hygroscopic Particle Lung Deposition (HPLD) model, the number (TD

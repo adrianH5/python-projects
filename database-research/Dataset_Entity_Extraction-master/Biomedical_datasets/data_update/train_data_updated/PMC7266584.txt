@@ -1,0 +1,10 @@
+Coronavirus disease (COVID-19) is a pandemic manifesting respiratory illness and first reported in Wuhan, Hubei province of China in December 2019.
+The virus causing COVID-19 is named as severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+All available sequences (320 whole genome and surface glycoprotein amino acid sequences of SARS-CoV-2) related to the COVID-19 pandemic were retrieved from NCBI Virus Variation Resource repository (https://www.ncbi.nlm.nih.gov/labs/virus/)
+The NCBI reference sequence of SARS-CoV-2 S glycoprotein, accession number YP_009724390 was used as the canonical sequence for the analyses of spike protein variants.
+For multiple sequence alignment (MSA), Genome Detective Coronavirus Typing Tool uses a reference dataset of 431 whole genome sequences (WGS) where 386 WGS were from known nine coronavirus species.
+The dataset was then aligned with MUSCLE (Edgar, 2004).
+Tree structure was validated by running the analysis on 1000 bootstraps (Efron et al., 1996) replications dataset and the evolutionary distances were calculated using the Poisson correction method (Zuckerkandl and Pauling, 1965).
+Variant sequences of SARS-CoV-2 were modeled in Swiss-Model (Andrew et al., 2018) using the Cryo-EM spike protein structure of SARS-CoV-2 (PDB ID 6VSB; (Wrapp et al., 2020)) as a template.
+The superposition showed that most of the residual change was causing incorporation of bulky amino acid residues (T29I, H49Y, L54F, S221W, A348T, H519Q, A520S, A930V, D936Y, and A1078V) in place of smaller sized residues except for Y28N, D111N, R408I, D614G, and F797C (Fig. 4 B—P).
+COVID-19 is one of the most contagious pandemics the world has ever had with 1,250,000 confirmed cases to date (April 4, 2020) and the cases have increased as high as 5 times in less than a month (WHO (World Health Organization), 2020).

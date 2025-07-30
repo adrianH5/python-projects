@@ -1,0 +1,9 @@
+In 2011, Portugal signed a bailout programme to be implemented over a 3-year period, from 2011 to mid-2014.
+This programme included a set of measures to control and reduce the public sector, which included interventions in areas such as public spending and financing, the labour market, education, and health, among other structural budget measures.
+The aim of this research is to determine the long-run causal impact of implementing this Economic Adjustment Programme on several population health outcomes.
+Data was collected for the period 1990-2019 for Portugal.
+Health outcome indicators account for DALY and HLY, among other general health indicators, but also for some specific mortality rates like those for stroke and cancer.
+Control variables include percentage of population older than 65, percentage of people with a university degree, CO2 emissions for Portugal, and also health outcomes data for Denmark, Netherlands, Norway and Sweden.
+The analytical method used is based on a Bayesian structural time series model, which builds a contrafactual scenario representing the absence of the Economic Adjustment Programme for comparison with observed data.
+The most significant result is the negative long-run causal impact arising from the implementation of the Economic Adjustment Programme in 2011 in Portugal; in other words, health improvements would have been better and faster had the bailout programme not been implemented, despite some level of uncertainty regarding the results.
+Findings reinforce the idea for the implementation of social and health policies that complement IMF bailout programmes to mitigate negative impacts on population health in the long-run.

@@ -1,0 +1,6 @@
+Breast cancer remains the malignant tumor with the highest incidence among female patients globally, and its treatment represents a well-recognized clinical challenge.
+Recent studies have demonstrated that the tumor microenvironment (TME) exerts a substantial influence on breast cancer progression, whereby alterations in its internal molecular components ultimately impact disease outcomes.
+Key factors implicated in this process include adipokines and microRNAs (miRNAs).
+This review provides a detailed description of how different adipocytokines exert specific mechanistic effects on breast cancer cells.
+By integrating adipokines with miRNAs, the discussion explores their combined roles in the initiation and progression of breast cancer, addressing a previously unaddressed research gap in studies focusing solely on individual adipokines.
+Furthermore, by examining the interactions between miRNAs and signaling pathways, this analysis offers a holistic perspective on the TME network, thereby fostering new therapeutic insights for breast cancer management.

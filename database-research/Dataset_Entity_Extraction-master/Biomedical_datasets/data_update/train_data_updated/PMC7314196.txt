@@ -1,0 +1,6 @@
+The central page of the coronavirus server (see Fig. 1a,) provides an interactive view of the SARS-CoV-2 genome (GenBank ID: MN908947.3), with information on boundaries of the predicted proteins, currently available SARS-CoV-2 structures and a histogram of the amino-acid mutation frequency.
+In the future we plan to incorporate ab initio models.
+The example in Figure 1b shows the SARS-CoV-2 structure of the complex between nsp10 and nsp16 [PDB ID: 6w4h (Rosas-Lemus )].
+This mutation, P323>L (genomic position 14 408), is located at the interface between nsp12 and nsp8 proteins in the RdRp complex, as shown on the experimental structure of the nsp7/nsp8/nsp12 complex [PDB ID : 6yyt (Hillen )] (Fig. 1c, top).
+The second example shows the most widespread mutation in Spike glycoprotein - D614>G (genomic position 23 403), visualized here on the experimental structure of the spike protein and the human ACE2 receptor [PDB ID : 6vxx (Laha )] (Fig. 1c, bottom).
+As the COVID-19 pandemic is spreading around the world, the SARS-CoV-2 virus is evolving with mutations that potentially change and fine-tune functions of the proteins coded in its genome.

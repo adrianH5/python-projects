@@ -1,0 +1,2 @@
+A nomogram prediction model was developed to estimate the death risk in patients with chronic obstructive pulmonary disease (COPD) complicated by hypercapnic respiratory failure (HRF).
+The prediction performance and clinical applicability were validated.

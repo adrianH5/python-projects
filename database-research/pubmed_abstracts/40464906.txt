@@ -1,0 +1,7 @@
+Obesity is a well-established risk factor for colorectal cancer (CRC) development, yet its influence on cancer-specific survival (CSS) and overall survival (OS) remains paradoxical.
+While obesity correlates with adverse outcomes such as increased recurrence, metastasis, and treatment-related complications, emerging evidence highlights a counterintuitive "obesity paradox," where overweight and moderately obese patients with Body Mass Index(BMI 25-30) exhibit improved CSS and OS compared to underweight (BMI <18.5) or morbidly obese (BMI >35) individuals.
+Proposed mechanisms for this paradox include altered molecular signaling (adipokine imbalances), enhanced energy metabolism, and greater treatment tolerance due to metabolic reserves.
+However, these findings are contentious, as BMI, a crude measure, fails to distinguish lean mass from visceral adiposity, key determinants of prognosis.
+Studies suggest that moderate obesity may buffer treatment toxicity, while extremes of BMI reflect frailty or metabolic dysfunction, worsening survival.
+This review critically examines the biological underpinnings of the obesity paradox and challenges BMI's reliability as a prognostic tool.
+Research must prioritize advanced body composition metrics (visceral fat quantification

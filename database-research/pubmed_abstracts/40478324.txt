@@ -1,0 +1,9 @@
+Cerebral cavernous malformations (CCMs) are clusters of thin-walled enlarged blood vessels in the central nervous system that are prone to recurrent hemorrhage and can occur in both sporadic and familial forms.
+The familial form results from loss-of-function variants in the CCM1, CCM2, or CCM3 gene.
+Despite a better understanding of CCM pathogenesis in recent years, it is still unclear why CCM3 mutations often lead to a more aggressive phenotype than CCM1 or CCM2 variants.
+By combining high-throughput differentiation of blood vessel organoids from human induced pluripotent stem cells (hiPSCs) with a CCM1, CCM2, or CCM3 knockout, single-cell RNA sequencing, and high-content imaging, we uncovered both shared and distinct functions of the CCM proteins.
+While there was a significant overlap of differentially expressed genes in fibroblasts across all three knockout conditions, inactivation of CCM1, CCM2, or CCM3 also led to specific gene expression patterns in neuronal, mesenchymal, and endothelial cell populations, respectively.
+Taking advantage of the different fluorescent labels of the hiPSCs, we could also visualize the abnormal expansion of CCM1 and CCM3 knockout cells when differentiated together with wild-type cells into mosaic blood vessel organoids.
+In contrast, CCM2 knockout cells showed even reduced proliferation.
+These observations may help to explain the less severe clinical course in individuals with a pathogenic variant in CCM2 and to decode the molecular and cellular heterogeneity in CCM disease.
+Finally, the excellent scalability of blood vessel organoid differentiation in a 96-well format further supports their use in high-throughput drug discovery and other biomedical research studies.

@@ -1,0 +1,7 @@
+Biomimetic nanoparticles, exemplified by ferritin, have emerged as a novel approach in drug delivery systems, designed to improve both the biocompatibility of drugs and their targeting.
+The clinical application of doxorubicin (Dox) is impeded by systemic toxicity and multidrug resistance, emphasizing the necessity for innovative delivery platforms.
+In this research, we proposed the hypothesis that a protein-based nanocage, decorated with an anti-EGFR peptide as a targeting ligand on its surface, has the potential to enhance the targeted delivery of Dox while reducing systemic toxicity.
+In vitro studies with the CT26 murine Colorectal cancer (CRC) cell line demonstrate marked toxicity and suppression of cell migration, indicating the potential of these nanocages to inhibit metastasis.
+In vivo experiments using established tumor-bearing mice further confirm the therapeutic efficacy of these nanocages, showing a significant reduction in tumor growth, prolonged survival, and diminished systemic toxicity compared to free Dox.
+In addition, cytokine analysis underscored the immunomodulatory capabilities of M1-linker-QRH in the context of cancer treatment.
+By addressing critical challenges in drug delivery, this platform holds promise for advancing precision oncology and improving clinical outcomes for patients with CRC.

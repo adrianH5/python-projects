@@ -1,0 +1,13 @@
+The viral titers of the control mixtures (mixtures containing DMSO) were 103.25-6.75 50% tissue culture infective dose (TCID50)/mL. Solutions with virus and SS-derived components were incubated at 25 °C for varying periods of time, from 10 s to 48 h.
+The log10 TCID50/mL was calculated using the Behrens–Kärber method [20].
+The concentration of SS-derived samples was 250 µg/mL in the mixture containing purified IAV (8.25 log10 TCID50/mL).
+The concentration of SS-derived samples was 250 µg/mL in the mixture containing purified IAV (8.25 log10 TCID50/mL), FCV (7.25 log10 TCID50/mL), and MNV (7.25 log10 TCID50/mL).
+The concentration of Fr 1C was 250 µg/mL in the mixture containing SARS-CoV-2 (4.75 log10 TCID50/mL).
+Fr 1C (250 µg/mL) or DMSO diluent was added to a PBS containing purified IAV (200 µg/mL, 5.75 log10 TCID50/mL).
+The virucidal activity of Fr 1C was the most potent of this set; incubation with Fr 1C resulted in >99.98% inactivation of IAV (i.e., a reduction ≥3.83 log10 TCID50/mL; Table 2A).
+All fractions except Fr 1A inactivated FCV within 1 min; >99.79% of FCV was inactivated within this time frame (reduction ≥2.67 log10 TCID50/mL; Table 2B).
+Overall, MNV inactivation of >98.52% was observed in response to these fractions (reduction ≥1.83 log10 TCID50/mL; Table 2C).
+Compound Nos. 2–4 (25 µg/mL) had virucidal activity against both of IAV and FCV at 1 min, with >93.24% inactivation of IAV and FCV (reduction ≥1.17 log10 TCID50/mL; Table 3A,B).
+We found that the aqueous extract and Fr 1B–E (all at 25 µg/mL) had significant virucidal activity against SARS-CoV-2 within 1 min of exposure; >99% of the virus was inactivated by components within these fractions (i.e., reduction of ≥2 log10 TCID50/mL).
+We found that >99.53% of the virus was inactivated by Fr 1C within 10 s of exposure (reduction of ≥2.33 log10 TCID50/mL; Table 4A).
+We found that 25 µg/mL of Fr 1C inactivated >99.6% of SARS-CoV-2 within 10 s (reduction of ≥2.33 log 10 TCID 50 /mL).

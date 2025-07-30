@@ -1,0 +1,4 @@
+Cellular plasticity in mammary epithelial cells enables dynamic cell state changes essential for normal development but can be hijacked by breast cancer cells to drive tumor progression.
+However, the molecular factors that maintain cellular plasticity through the regulation of a hybrid cell state (epithelial/mesenchymal) are not fully defined.
+As LMO2 has been previously shown to regulate metastasis, here we determined the role of LMO2 in the normal mammary epithelial cells.
+Using lineage tracing and knockout mouse models we find that

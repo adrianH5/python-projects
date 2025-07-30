@@ -1,0 +1,14 @@
+Ulcerative colitis-associated colorectal cancer (UCCRC) represents a significant complication of ulcerative colitis.
+CEBPB has been shown to promote the invasion of colon cancer cells.
+In this study, we aimed to investigate the role of CEBPB in the progression of cancers associated with colitis.
+The wild-type (WT) mice, transfected with a vector expressing CEBPB and siRNA targeting CEBPB, along with their littermate controls, were subjected to a challenge using azoxymethane and dextran sodium sulfate to establish a model of UCCRC.
+Colon tissues and blood samples were collected for analysis through hematoxylin and eosin staining and enzyme linked immunosorbent assay.
+Immunohistochemical staining was employed to assess protein expression.
+In the UCCRC model, mice transfected with vectors expressing CEBPB exhibited a reduction in weight loss and colorectal stenosis, as well as disordered colonic gland structure.
+Additionally, these mice demonstrated an increased number and size of tumors compared to WT controls.
+Furthermore, transfection with CEBPB resulted in a decrease in both the quantity and dimensions of tumors.
+NF-κB was found to enhance the phosphorylation level of STAT3 based on Western blot assay.
+The activation of NF-κB and STAT3 subsequently promoted the proliferation, invasion, and migration of colon cancer cells by clone formation assays, transwell assays, and scratch-wound assays.
+Moreover, rescue experiments indicated that CEBPB induced UCCRC through the NF-κB/STAT3 signaling pathway.
+CEBPB mediated colonic injury in UCCRC mice by activating the NF-κB/STAT3 pathway.
+This finding reveals a previously unrecognized link between CEBPB and colitis-related tumorigenesis and provides new insight into UCCRC pathogenesis.

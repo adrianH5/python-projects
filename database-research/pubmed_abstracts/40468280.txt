@@ -1,0 +1,5 @@
+The second most common malignancy after breast cancer is lung cancer (LC).
+Small cell lung cancer accounts for 15%, while non-small lung cancer (NSCLC) accounts for 85% of cases.
+Immunotherapy has improved treatment outcomes in NSCLC.
+However, the role of systemic inflammation-based prognostic scores in predicting response to treatment is not clear.
+The meta-analyses aims to evaluate the prognostic/ predictive value of inflammatory biomarkers, including NLR, ALI, PLR, CRP, and mGPS, and their potential associated with overall survival in NSCLC patients receiving immunotherapy as first-line or second-line treatment.

@@ -1,0 +1,6 @@
+Resistance to ferroptosis, a form of regulated cell death caused by disruptions in iron ion and intracellular redox homeostasis, is closely related to tumorigenesis and tumor drug resistance; therefore, targeting ferroptosis-related pathways has garnered attention as a potential antitumor therapeutic strategy.
+However, the molecular mechanisms underlying ferroptosis resistance in tumor cells remain unknown.
+Zinc-finger estrogen receptor interaction clone 6 (ZER6) consists of two isoforms with distinct N-termini, p52-ZER6 and p71-ZER6.
+ZER6 is upregulated in tumors and promotes tumorigenic potential; however, whether ZER6 is involved in tumor cell ferroptosis resistance remains unknown.
+Herein, we identified p52-ZER6 as a novel regulator of tumor cell ferroptosis resistance.
+p52-ZER6 promotes the transcriptional activity of

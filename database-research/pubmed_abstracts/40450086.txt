@@ -1,0 +1,10 @@
+Here, we report that long-term stored human brain samples, formalin-fixed paraffin-embedded (FFPE) from The Brain Collection, University of Southern Denmark, Denmark ( https://www.sdu.dk/en/forskning/bridge/the-brain-collection ), can be used for in situ hybridization (ISH) analysis of selected microRNAs (miRNAs).
+The Human Brain Collection consists of brains from 9479 subjects who died at a Danish State Mental Hospital in the period of 1945-1982.
+In the present study we included tissue specimens from prefrontal cortex (PFC) and hippocampus (HIP) from 163 patients diagnosed with schizophrenia, bipolar disorder, or major depressive disorder.
+Initially, the Nanostring nCounter platform was used to identify miRNA candidates for ISH analysis using the miRNAscope technology.
+Based on the Nanostring nCounter quantifications with bulk tissue, we identified and selected 10 miRNAs from PFC (miR-9-5p, miR-29b-3p, miR-30c-5p, miR-124-3p, miR-125b-5p, miR-138-5p, miR-181a-5p, miR-224-5p, miR-302d-3p, and miR-432-5p) and 6 miRNAs from HIP (let-7a-5p, miR-7-5p, miR-124-3p, miR-127-3p, miR-145-5p and miR-149-5p).
+miRNAscope ISH analysis was then performed with the respective probes on 30 PFC and 30 HIP samples, respectively.
+In the PFC six miRNAs (miR-9-5p, miR-29b-3p, miR-124-3p, miR-125b-5p, miR-138-5p, and miR-181a-5p) were detected and four (miR-145-5p, let-7a-5p, miR-124-3p and miR-7-5p) in the HIP samples.
+In both brain regions miR-124-3p was the most abundantly expressed.
+We conclude, that the combination of the Nanostring nCounter technology and the miRNAscope analysis is a valid approach to study spatial expression of specific miRNAs in these up to 76 years old FFPE blocks.
+This opens a new avenue of possibilities for studying the underlying epigenetic mechanisms in mental disorders.

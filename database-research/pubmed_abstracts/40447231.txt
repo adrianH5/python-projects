@@ -1,0 +1,8 @@
+Antibody-based multiplexed tissue imaging has the potential to provide critical advances in biological discoveries and their translation for clinical applications.
+With the increasing introduction of markers and modalities for spatial analysis, there is an according demand for the expansion of multiplexing capacities of such imaging platforms.
+CO-Detection by indEXing (CODEX) is a widely used multiplexed tissue imaging platform that utilizes DNA-conjugated antibodies for imaging.
+The multiplexing capacity of CODEX is limited by the availability of unique DNA oligonucleotide sequences for antibody barcoding.
+In this study, we demonstrate a workflow for the validation and the introduction of novel sets of candidate DNA oligonucleotide sequences for CODEX.
+Through cross-validation multicycle experiments with the already published library of DNA barcodes, we here present a set of 27 novel oligonucleotide sequences for CODEX, increasing the potential multiplexing capacity to 85+ markers.
+We confirmed the utility of the new barcodes by using a 74-plex antibody panel on a multi-tumor tissue microarray of paraffin-embedded tissues.
+The workflow presented here provides a reproducible method for extending the plexity of the CODEX platform, facilitating a deeper understanding of tissue microenvironments.

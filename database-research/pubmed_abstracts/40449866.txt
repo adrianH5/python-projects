@@ -1,0 +1,12 @@
+Demethoxycurcumin (DMC) has demonstrated remarkable anti-cancer properties across various tumor types.
+However, its efficacy in hepatocellular carcinoma (HCC) has not yet been established.
+Interestingly, the type of cell death induced by DMC was distinct from traditional pathways such as apoptosis, ferroptosis, necroptosis, pyroptosis, cuproptosis, and autophagy, indicating a need for further detailed exploration of its mechanisms.
+Our investigations revealed that DMC treatment led to a marked increase in oxidative stress, as evidenced by the accumulation of reactive oxygen species (ROS).
+This increase in ROS disrupted the iron-sulfur (Fe-S) cluster, impairing mitochondrial respiration.
+Additionally, ROS activation markedly reduced the rate of aerobic glycolysis by interfering with key glycolytic enzymes.
+The resultant inhibition of these bioenergetic pathways led to a significant depletion of ATP.
+Moreover, DMC activated the ATF4/ATF3/CHOP signaling axis, and the reduction of CHOP levels mitigated the cytotoxic effects of DMC in HCC cells.
+In conclusion, DMC initiated oxidative stress, which disrupted bioenergetic metabolism and activated the ATF4/ATF3/CHOP signaling pathway, ultimately leading to cell death in HCC cells.
+These findings suggest that DMC might have a potential role in the treatment of HCC.
+However, further validation through in vivo models and clinical trials is required to confirm the therapeutic potential of DMC against HCC.
+Moreover, more work is still needed to further explore the specific form of cell death induced by DMC.

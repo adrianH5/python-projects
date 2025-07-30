@@ -1,0 +1,3 @@
+In patients with acute vestibular syndrome (AVS) differentiating between benign acute peripheral vestibular disorders and possible life-threatening central, causes such as stroke, can be challenging due to similar symptoms.
+AVS patients experience dizziness, vertigo, imbalance, nausea, vomiting, and abnormal eye movements.
+This research evaluates the feasibility of using the eye-tracking capability of a mixed reality optical-see-through head-mounted display (MR-OST-HMD) to detect pathological eye movement patterns in patients with AVS.

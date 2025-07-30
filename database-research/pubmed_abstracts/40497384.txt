@@ -1,0 +1,8 @@
+Gastric cancer is one of the most common malignant tumors of the digestive system, with a high mortality rate due to late-stage diagnosis.
+Current clinical diagnosis relies on endoscopic biopsy and histopathological analysis, which are highly dependent on pathologists' expertise and may lead to misdiagnoses.
+Therefore, there is an urgent need for molecular, digital, and intelligent real-time diagnostic methods.
+In this study, accurate gastric cancer tissue diagnosis was carried out by integrating time-gated Raman spectroscopy (TG-Raman) with deep learning.
+The TG-Raman effectively suppresses autofluorescence and enhances Raman signal quality using time-resolved detection.
+A convolutional neural network (CNN)-based model was developed for spectral denoising and feature extraction.
+Experimental results demonstrated that the proposed approach achieved a classification accuracy of 98.6% for gastric tumor tissues.
+This study highlights the potential of TG-Raman combined with deep learning for cancer diagnostics, providing a more accurate, efficient, and noninvasive approach for early gastric cancer detection and clinical applications.

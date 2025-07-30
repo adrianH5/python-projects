@@ -1,0 +1,6 @@
+Non-small cell lung cancer (NSCLC) is a cancer with high morbidity and mortality and faces multiple clinical challenges in early diagnosis, efficient treatment, targeted drug selection, and drug resistance.
+Herein, neovascularization and EGFR dual-targeting gold nanotheranostic system Bev-Au-CD(Osi) is designed and fabricated for epidermal growth factor receptror (EGFR)-mutated NSCLC treatment.
+This nanosystem consists of gold nanoparticle as drug nanocarrier and imaging contrast agent, Bevacizumab for targeting tumor neovascularization, and β-cyclodextrin (β-CD) as the cage for encapsulating EGFR mutant inhibitor Osimertinib.
+Taking advantage of the specific targeting ability of Bevacizumab to vascular endothelial growth factor (VEGF), Bev-Au-CD(Osi) nanoparticles target and accumulate at the tumor site for sensitive computed tomography (CT)/photoacoustic (PA) imaging of tumors.
+More notably, the sustained release of Osimertinib efficiently suppresses tumor growth through inhibiting angiogenesis and blocking the EGFR signaling pathway, significantly enhancing the therapeutic efficacy of NSCLC tumor in living mice.
+This work provides a powerful and universal nanotheranostic system for the precise treatment of EGFR-mutated NSCLC.

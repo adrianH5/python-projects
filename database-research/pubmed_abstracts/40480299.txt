@@ -1,0 +1,7 @@
+Proaerolysin is a bacterial toxin produced by Aeromonas hydrophila that specifically binds to GPI-anchored proteins on the plasma membrane, forming transmembrane pores that induce cell death.
+Leveraging this unique property, proaerolysin is widely used in diagnostic tests for paroxysmal nocturnal hemoglobinuria (PNH), a disease caused by somatic mutations in the PIGA, a gene involved in the biosynthesis of GPI anchors.
+Beyond diagnostics, proaerolysin has recently been applied in basic research, including its use as a counter-selection agent in genetic manipulations and as an engineered nanopore for single-molecule detection.
+Although the bacterial expression and purification of proaerolysin have been previously reported, the yields were low due to its low solubility.
+Here, we demonstrate that using the SHuffle E. coli strain, which facilitates the disulfide bond formation in the cytoplasm, significantly improves the solubility and proper folding of proaerolysin.
+We achieved a high yield of proaerolysin, approximately 3 mg from a 50 mL bacterial culture, with a purity exceeding 99 %.
+The functionality of recombinant proaerolysin was confirmed through testing in mouse embryonic stem cells (mESCs), demonstrating that this high-yield production method provides a reliable and cost-effective source of functional proaerolysin for a wide range of biotechnological applications.

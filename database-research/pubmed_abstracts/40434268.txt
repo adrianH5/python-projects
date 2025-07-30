@@ -1,0 +1,7 @@
+Advances in organoid models, as ex vivo mini-organs, and the development of screening imaging technologies have continuously driven each other forward.
+A complete understanding of organoids requires detailed insights into the intertwined intraorganoid and extraorganoid activities and how they change across time and space.
+This study introduces a multiplexed imaging platform that integrates label-free nanoplasmonic biosensing with fluorescence microscopy to offer simultaneous monitoring of dynamics occurring within and around arrays of single spheroids with spatiotemporal resolution.
+The label-free module employs nanoplasmonic biosensors with extraordinary optical transmission to track biomolecular secretions into the surroundings, while concurrent fluorescence imaging enables structural analysis and viability assessment.
+To perform multiparametric interrogation of the data from different channels over extended periods, a deep-learning-augmented image analysis is incorporated.
+The platform is applied to tumor spheroids to investigate vascular endothelial growth factor A secretion alongside morphometric changes and viability, showcasing its ability to capture variations in secretion and growth dynamics between untreated and drug-treated groups.
+This integrated approach advances comprehensive insights into organoid models and can complement existing technologies to accelerate discoveries in disease modeling and drug development.

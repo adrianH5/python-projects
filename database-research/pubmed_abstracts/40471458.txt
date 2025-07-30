@@ -1,0 +1,7 @@
+We aimed to assess the influence of microRNA-1293 (miR-1293) on the proliferation and metastasis of oral carcinoma cells through modulating peroxisome proliferator-activated receptor γ coactivator 1α (PPARGC1A).
+Carcinoma and para-carcinoma control tissues were sampled from 60 patients with oral carcinoma to measure the expression of miR-1293 and analyze its associations with clinicopathological characteristics.
+Then qRT-PCR was performed for detecting miR-1293 and PPARGC1A mRNA expressions in oral carcinoma tissues and cells, and Western blotting was conducted to determine PPARGC1A protein expression.
+The luciferase activity of PPARGC1A-WT significantly dropped, PPARGC1A mRNA and protein expressions reduced, while proliferation, migration, invasion and viability were enhanced in the miR-1293 mimic group compared to the NC mimic group.
+The miR-1293 mimic + oePPARGC1A group had significantly weaker cell viability and smaller numbers of proliferative, migrating and invasive cells than those of the miR-1293 mimic + oeNC group.
+The anti-miR-1293 group, in comparison to the anti-NC group, had slower tumor growth in mice, increased mRNA and protein expressions of PPARGC1A in tumor tissues, as well as reduced tumor volume and weight, expression of miR-1293 and degree of tumor malignancy.
+MiR-1293 facilitates oral carcinoma cell proliferation and metastasis by suppressing the expression of PPARGC1A.

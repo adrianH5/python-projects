@@ -1,0 +1,8 @@
+Interferon-γ (IFN-γ) is recognized for its ability to inhibit cell growth, promote programmed cell death, and stimulate immune responses against tumor progression.
+However, cancerous cells exploit IFN-γ by producing factors that suppress anti-tumor immune responses.
+Exploring the diverse functions of IFN-γ can offer fresh perspectives for cancer research and the development of immune-based therapies.
+IFN-γ plays a multifaceted role in the immune system, which includes aiding in boosting the effectiveness of cancer immunotherapy, particularly immune checkpoint inhibitor therapy, by triggering the expression of checkpoint molecules like PD-L1 on tumor cells.
+Conversely, it can also diminish the effectiveness of immunotherapy by contributing to tumor resistance.
+Moreover, the level of IFN-γ present inside the microenvironment of the tumor appears to dictate whether IFN-γ acts as a pro-tumor or anti-tumor response.
+Therefore, enhanced comprehension of IFN-γ's multifaceted actions can revolutionize approaches to cancer biology and intervention strategies targeting the immune system.
+This review provides an overview of the regulatory roles of IFN-γ in cancer and immunology.

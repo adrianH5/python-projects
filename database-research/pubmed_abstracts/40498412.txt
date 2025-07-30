@@ -1,0 +1,13 @@
+Emerging research on microRNA has decoded its crucial role in gene regulation, development and diseases.
+Skeletal muscle atrophy is reported in several chronic diseases as well as prolonged stay at high altitude.
+miR-320-3p is reported to be upregulated in various chronic diseases including cancer, heart diseases, diabetes, and chronic kidney diseases.
+The present study evaluates the role of miR-320-3p expression in regulating apelin and its downstream signaling under hypobaric hypoxia (HH) at high altitude.
+The expression of miR-320-3p was found to be upregulated during 7days HH (7DHH) exposure at 25,000 ft as compared to control group.
+The targets for miR-320-3p were retrieved from miRWalk 3.0, TargetScan 8.0, miRTarBase 10.0 databases in Rattus norvegicus.
+Using in silico approach, 26 myokines were screened out of total 14,435 targets of rno-miR-320-3p and levels of few myokines were experimentally validated.
+The expression of apelin, decorin, osteocrin, meteorin-like myokines were found to be significantly decreased while myostatin was significantly increased during HH exposure as compared to control rats.
+Enhanced expression of Tgfb and p-Smad3 under 7DHH indicated activation of protein degradation pathways.
+Expression of Pgc1a and Nrf2, the critical regulators of mitochondrial biogenesis, were significantly decreased under HH.
+Thus, increased expression of miR-320-3p regulate apelin and modulate downstream signaling via attenuation of mitochondrial biogenesis and myogenesis.
+Hence, miR-320-3p and myokines play pivotal role to regulate skeletal muscle atrophy.
+Further research on potential targets of miR-320-3p regulating the muscle mass may lead to the development of novel therapeutics in personalized medicine to combat skeletal muscle diseases.

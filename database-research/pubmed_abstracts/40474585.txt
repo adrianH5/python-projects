@@ -1,0 +1,8 @@
+Pancreatic cancer is a highly malignant tumor with a poor prognosis, making it a leading cause of cancer-related deaths.
+While immune checkpoint inhibitors (ICIs) have shown efficacy in treating various solid tumors, their effectiveness in pancreatic cancer is limited due to its unique tumor immune microenvironment (TIME).
+Thus, developing novel combination therapies is critical.
+Ginsenoside compound K (CK), a natural product with antitumor and immunomodulatory properties, holds the potential for combination therapy with ICIs.
+This study investigates the therapeutic effects of CK combined with Anti-PD1 inhibitors in a Panc02 tumor model.
+The combination therapy significantly improved survival, enhanced T-cell infiltration and activation, remodeled the tumor stroma by reducing collagen I and α-SMA, and improved vasculature formation.
+RNA sequencing revealed changes in genes associated with T-cell activation, chemokines, and angiogenesis.
+These findings suggest that CK combined with Anti-PD1 therapy offers a promising strategy for pancreatic cancer treatment by modulating TIME and enhancing antitumor activity.

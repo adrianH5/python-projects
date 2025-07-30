@@ -1,0 +1,14 @@
+Upper extremity deep vein thrombosis (UEDVT), distinct in etiology from lower limb DVT, often arises from catheter use, malignancy, or thoracic outlet syndrome.
+While direct oral anticoagulants (DOACs) are established for lower limb DVT, their role in UEDVT remains understudied.
+This meta-analysis evaluates the efficacy and safety of DOACs compared to low-molecular-weight heparin (LMWH) in UEDVT.
+A systematic PubMed search identified nine studies (643 DOAC-treated patients).
+Outcomes included mortality, venous thromboembolism (VTE) recurrence, pulmonary embolism (PE), and major bleeding.
+DOACs demonstrated significantly lower mortality (2.49% vs. 16.5-27.5%; p<0.001), VTE recurrence (0.93% vs. 5%; p<0.001), and PE incidence (0.31% vs. 5-8%; p<0.001) compared to historical LMWH data.
+However, major bleeding rates were higher with DOACs (2.02% vs. 0.25%; p<0.001).
+Patient cohorts predominantly had cancer-related (66.7%) or catheter-associated (64.5%) UEDVT, with rivaroxaban being the most used DOAC (70.9%).
+Median treatment duration was three months, with a six-month follow-up.
+These findings suggest DOACs may offer superior efficacy in reducing mortality and thrombotic complications in UEDVT, though with an increased bleeding risk.
+Limitations include reliance on historical LMWH comparisons, heterogeneity in study designs, and small event counts for PE.
+Standardized imaging and extended follow-up are needed to assess long-term outcomes.
+While DOACs present a promising alternative, cautious use in high-bleeding-risk patients is warranted.
+Further randomized trials are essential to validate these results and refine clinical guidelines.

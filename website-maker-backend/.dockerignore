@@ -1,0 +1,36 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.hypothesis/
+.pytest_cache/
+*.pid
+*.swp
+*.swo
+*.swn
+
+# Environment files
+.env
+*.env.*
+
+# IDE / Editor specific
+.vscode/
+.idea/
+
+# Other
+*.log

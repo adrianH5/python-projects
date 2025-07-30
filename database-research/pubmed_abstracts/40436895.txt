@@ -1,0 +1,9 @@
+To explore the specific molecular mechanisms of Siglec6 CAR-T therapy in acute myeloid leukemia (AML).
+AML samples were selected from the GEO database for bioinformatics analysis.
+Siglec6 was knocked down and overexpressed in MOLM-13 cells through lentiviral infection, and then injected into NOD/SCID mice via the tail vein to detect the distribution of AML in mice using in vivo imaging.
+MOLM-13 cells were divided into six groups: oe-NC, oe-Siglec6, oe-Siglec6 + PHPS1, oe-Siglec6 + Dasatinib, oe-Siglec6 + Dasatinib + Lovastatin, and oe-Siglec6 + Dasatinib + Lovastatin + IL-3 neutralizing antibody.
+The expression levels of related proteins were detected by Western blot and immunofluorescence, and the cell invasion and proliferation abilities were tested by Transwell and CCK8 assays.
+Finally, MOLM-13 cells were co-cultured with CD19-CAR-T and Siglec6-CAR-T cells, and the apoptosis level of MOLM-13 cells after co-culture was detected by flow cytometry.
+In vivo imaging found that after overexpression of Siglec6 in MOLM-13 cells, AML cells were more widely distributed in mice; Western blot and immunofluorescence detected the protein levels in AML cells and found that compared with the oe-NC group, the expression levels of Siglec6, p-SHP2, IL-3, and p-ERK1/2 proteins were increased in the oe-Siglec6 group; cell invasion, migration, and proliferation abilities were enhanced, and these abilities were reversed after treatment with SHP2 inhibitors, Src inhibitors, SHP2 agonists, and IL-3 neutralizing antibodies.
+Finally, both in vitro and in vivo, it was found that compared with CD19 CAR-T, the apoptosis level of AML cells treated with Siglec6 CAR-T was increased, and their distribution in mice was reduced.
+Siglec6 CAR-T reduces the proliferation, invasion, and migration abilities of AML cells by acting on the SHP2/Src/ERK/IL-3 axis.

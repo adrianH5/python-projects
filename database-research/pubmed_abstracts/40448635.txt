@@ -1,0 +1,4 @@
+Cisplatin-induced acute kidney injury (cis-AKI) is the primary organ toxicity that occurs during cisplatin-based cancer treatment, and currently, there is a lack of effective treatment methods.
+The occurrence of cis-AKI involves complex pathophysiological processes, therefore, phenotypic screening-based drug discovery may be more applicable for identifying lead compounds to treat cis-AKI.
+In this study, a cascading phenotypic screening was designed and implemented.
+Through this protocol, a potent compound,

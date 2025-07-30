@@ -1,0 +1,6 @@
+The incidence of thyroid cancer has been rising in recent years.
+While tumorigenesis has traditionally been attributed to the accumulation of genetic mutations in oncogenes and tumor suppressor genes, increasing attention has been directed toward the role of epigenetic regulation in cancer development.
+Since the 1980s, however, it has been acknowledged that the role of another key regulatory system in carcinogenesis: epigenetics, shedding light on the regulation of gene expression without altering the DNA sequence.This review synthesizes current literature on epigenetic alterations in follicular cell-derived thyroid cancers, focusing on DNA methylation, histone modifications, chromatin remodeling, and RNA regulation.
+Evidence indicates that dysregulation of these epigenetic processes is prevalent in thyroid cancer, influencing tumor initiation, progression, and resistance to therapy.
+Several epigenetic inhibitors are under development, some demonstrating synergy with existing chemotherapies and immunotherapies.
+Understanding these mechanisms may facilitate the development of novel, more effective strategies for early detection and treatment.

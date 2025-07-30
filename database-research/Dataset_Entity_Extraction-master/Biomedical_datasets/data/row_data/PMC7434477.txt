@@ -1,0 +1,7 @@
+Levels of specific immune mediators in the first plasma samples collected from patients with COVID-19 during hospitalisation were quantified by multiplex microbead-based immunoassays.
+Protein–protein interaction networks of these immune mediators and previously reported host proteins targeted by SARS-CoV-2 ORF8 were predicted and illustrated with the Search Tool for the Retrieval of Interacting Genes/Proteins (STRING) database version 11.0).
+All these interactions were derived from high-throughput lab experiments and previous knowledge in curated databases at a confidence threshold of 0·5.
+We observed that patients infected with the ∆382 variant had lower concentrations of proinflammatory cytokines, chemokines, and growth factors that are strongly associated with severe COVID-19.15, 16 Notably, patients with pneumonia from the ∆382 variant had higher concentrations of SDF-1α, which is usually downregulated during hypoxia.
+Lymphopenia and functional exhaustion of T cells correlate with disease severity in COVID-19.
+Significant CD4-positive and CD8-positive T-cell responses to ORF8 have also been described in patients who recover from COVID-19.
+Exact logistic regression was used to examine the association between the infection groups and the development of hypoxia requiring supplemental oxygen (an indicator of severe COVID-19, the primary endpoint).

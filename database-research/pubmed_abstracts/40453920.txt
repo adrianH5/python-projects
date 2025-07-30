@@ -1,0 +1,2 @@
+Longer cecal withdrawal time has been linked to a higher adenoma detection rate (ADR), with a minimum duration of 6 min recommended.
+Therefore, we developed the cecal withdrawal vocal timer (CWVT), a novel software tool that is command-activated at cecal intubation and vocally informs the endoscopist of the withdrawal duration every minute.

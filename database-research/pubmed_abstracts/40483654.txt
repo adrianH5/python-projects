@@ -1,0 +1,9 @@
+As possible delivery systems for anticancer medications and molecular imaging, polymer nanoparticles have tremendous potentials.
+This study aimed to develop a novel drug delivery system using PTX conjugated β-cyclodextrin inclusion complex-capped gold nanoparticles (PTX-β-CD-AuNPs) to manage triple-negative breast cancer (TNBC).
+Characterization techniques confirmed the successful synthesis of PTX-β-CD-AuNPs with mean size of around 43 nm.
+In vitro studies demonstrated enhanced cytotoxicity of PTX-β-CD-AuNPs compared to the individual components, as evidenced by MTT assay results.
+Furthermore, morphological analysis revealed significant alterations in cancer cell morphology, including cytoskeletal disruption and apoptosis induction.
+The clonogenic assay demonstrated the ability of PTX-β-CD-AuNPs to suppress colony formation, indicating potential targeting of cancer stem cells.
+Additionally, migration assays showed reduced cell migratory capacity, suggesting potential anti-metastatic effects.
+These findings illustrate the efficacy of PTX-β-CD-AuNPs as a promising nanocarrier for treating TNBC.
+To assess the therapeutic efficacy of PTX-β-CD-AuNPs and clarify the mechanisms behind it, additional study is essential.

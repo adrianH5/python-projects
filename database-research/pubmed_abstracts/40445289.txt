@@ -1,0 +1,6 @@
+Adipocyte-derived extracellular vesicles (AdEVs), like other types of extracellular vesicles (EVs), are released from their donor parental cells in varying sizes and large quantities.
+During this process, diverse cargos are often internalized in the lumen or covalently attached on the surface of these EVs, allowing for their horizontal transfer from adipocytes to non-adipocyte cells.
+Hence, AdEVs can promote the ability of adipocytes to remodel the tumor microenvironment in cancers affecting, among others, breast and colon tissues by acting as mediators of cell-to-cell communication through the release of bioactive molecules.
+Cancer-associated adipocytes, for instance, can promote tumor growth, metastasis, and therapeutic resistance by secreting AdEVs carrying oncogenic microRNAs, cytokines, and chemokines, which interact with signaling pathways (e.g., JAK/STAT3 and PI3K/AKT) that lead to tumor formation and cancerous behavior.
+As the importance of EVs in these processes rapidly gains attention, a reliable method of isolating AdEVs also becomes highly essential.
+Therefore, this chapter describes the use of size-exclusion chromatography given its ability to preserve vesicle integrity and achieve high sample purity.

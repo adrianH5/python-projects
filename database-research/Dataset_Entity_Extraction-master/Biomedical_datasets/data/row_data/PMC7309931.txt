@@ -1,0 +1,7 @@
+The pandemic of coronavirus disease 2019 (COVID-19) caused by the 2019 novel coronavirus (2019-nCoV or SARS-CoV-2) infection has become a Public Health Emergency of International Concern (PHEIC) with more than 6 million cases and 376,320 deaths as of June 2, 2020 (WHO, 2020, https://covid19.who.int).
+SARS-CoV-2 infection causes disorder of natural and adaptive immunity, leading to tissue damage and systemic inflammation, which is the main reason for death of COVID-19 patients (Huang et al., 2020).
+To study the gene function of new coronavirus, SARS-CoV-2 ORFs of the structural genes (S, E, M, and N) and the accessory genes (3a, 6, 7a, 8 and 10) (GenBank ID MN908947.3) were synthesized by Sangon Biotechnology Co., Ltd. (Shanghai, China), and then cloned into pCAGGS vector with a tag encoding hemagglutinin (HA) at the N-terminus of each protein (Fig. 1
+A).
+ORF3b is not performed in this study, since the first sequence published in the database did not annotate the ORF3b gene.
+The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a novel human coronavirus causing the pandemic of severe pneumonia (Coronavirus Disease 2019, COVID-19).
+Innate immune response is critical for the host defense against viral infection and the dysregulation of the host innate immune responses probably aggravates SARS-CoV-2 infection, contributing to the high morbidity and lethality of COVID-19.

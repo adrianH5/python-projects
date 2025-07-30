@@ -1,0 +1,14 @@
+Renal masses identified on CT or MRI scans may raise suspicion of malignancy, leading to radical or partial nephrectomy; however, pathology reports may reveal benign conditions.
+This study aimed to identify clinical and radiological factors associated with discrepancies between imaging and pathology reports, which may inform strategies to enhance diagnostic accuracy.
+We retrospectively reviewed 132 patients who underwent partial or radical nephrectomy between April 2022 and October 2024.
+All patients underwent preoperative CT, and MRI was conducted when deemed necessary at the physician's discretion.
+The discrepancy was defined as cases where imaging findings suspicious of malignancy were reported on CT or MRI, but the pathology report later confirmed benign findings.
+Predictive factors for discrepancies were identified using a multivariate logistic regression model.
+Of the 132 patients, 98 (74.2%) were diagnosed with renal cell carcinoma (RCC).
+Among the 31 patients who underwent MRI, 24 (77.4%) were diagnosed with RCC.
+The discrepancy rate between CT imaging and pathology was 20.6% (27/131).
+Of these, 7 patients underwent MRI, and in 1 case, the MRI report aligned with the pathology.
+The overall discrepancy between imaging and pathology was 19.8% (26/131).
+Multivariable regression analysis revealed that female sex (OR = 5.219, p = 0.001) and a tumor size < 2 cm (OR = 4.826, p = 0.002) were significant factors influencing the discrepancy between imaging and pathology reports.
+Smaller renal masses (< 2 cm) and female sex were associated with a higher likelihood of diagnostic discrepancy.
+Considering these factors during imaging interpretation may help reduce overdiagnosis and improve accuracy.

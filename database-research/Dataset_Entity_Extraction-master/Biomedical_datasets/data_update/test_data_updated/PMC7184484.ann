@@ -1,0 +1,11 @@
+T1	AccessionNumber 26 34	KP981644
+T2	AccessionNumber 171 179	KC175339
+T3	AccessionNumber 328 336	JX860640
+T4	AccessionNumber 341 349	KX432213
+T5	AccessionNumber 372 380	KC175339
+T6	Dataset 1273 1279	GISAID
+T7	URL 1290 1300	gisaid.org
+T8	Dataset 1347 1353	GISAID
+T9	AccessionNumber 1358 1372	EPI_ISL_410721
+R1	hasAttr	Arg1:T6	Arg2:T7
+R2	hasAttr	Arg1:T8	Arg2:T9

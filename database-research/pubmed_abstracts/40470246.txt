@@ -1,0 +1,10 @@
+Precise intraoperative delineation of tumor margin is critical for maximizing resection completeness and minimizing recurrence in head and neck cancers (HNC).
+Label-free Fluorescence Lifetime Imaging (FLIm), which captures the fluorescence decay characteristics of endogenous molecules, offers a real-time method for differentiating malignant from healthy tissue during surgery without the need of contrast agents.
+Here, we present a data-centric artificial intelligence (AI) framework to enhance the robustness and accuracy of FLIm-based classification models for HNC.
+FLIm data were collected in vivo from 92 patients undergoing both transoral robotic surgery (TORS) and non-TORS procedures for HNC using a multispectral FLIm device with 355 nm excitation.
+To improve model performance, a data-centric approach leveraging confident learning was implemented to identify and exclude instances with low quality.
+An interpretability framework was further integrated to quantify feature contributions and elucidate FLIm-derived sources of contrast.
+Under a leave-one-patient-out cross-validation scheme, the model demonstrated a strong discriminative ability with an area under the receiver operating characteristic curve of 0.94 in differentiating healthy versus cancerous tissue.
+In tumor boundary regions, borderline predictions revealed transitional tissue properties, with strong correlations observed between model predictions and FLIm parameters in spectral channels corresponding to NADH and FAD-key metabolic cofactors indicative of cellular metabolic shifts at tumor margins.
+The impact of tumor anatomical site (base of tongue, palatine tonsil, oral tongue) and p16+ (HPV) status on classification performance was also assessed.
+These findings underscore the potential of label-free FLIm to provide accurate, real-time guidance for intraoperative margin assessment and dysplasia grading, advancing surgical precision in head and neck surgical oncology.

@@ -1,0 +1,9 @@
+Cells regularly adapt their metabolism in response to changes in their microenvironment or biosynthetic needs.
+Prostate cancer cells leverage this metabolic plasticity to evade therapies targeting the androgen receptor (AR) signaling pathway.
+For example, nucleotide metabolism plays a critical role in treatment-resistant prostate cancer by supporting DNA replication, DNA damage response and cell fate decisions.
+Identifying novel regulators of nucleotide metabolism in treatment-resistant cancer that are dispensable for the health of normal cells may lead to new therapeutic approaches less toxic than commonly used chemotherapies targeting nucleotide metabolism.
+We identify the metabolic enzyme Oxoglutarate Dehydrogenase-Like (OGDHL), named for its structural similarity to the tricarboxylic acid (TCA) cycle enzyme Oxoglutarate Dehydrogenase (OGDH), as a regulator of nucleotide metabolism, tumor growth, and treatment-induced plasticity in prostate cancer.
+While OGDHL is a tumor-suppressor in various cancers, we find that its loss impairs prostate cancer cell proliferation and tumor formation while having minimal impact on TCA cycle activity.
+Loss of OGDHL profoundly decreases nucleotide metabolite pools, induces the DNA damage response marker Ɣ2AX, and alters androgen receptor inhibition-induced plasticity, including suppressing the neuroendocrine markers DLL3 and HES6.
+Finally, OGDHL is highly expressed in neuroendocrine prostate cancer (NEPC).
+These findings support an unexpected role of OGDHL in prostate cancer, where it functions to sustain nucleotide pools for proliferation, DNA repair, and AR inhibition-induced plasticity.

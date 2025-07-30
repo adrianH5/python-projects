@@ -1,0 +1,6 @@
+Terminal deoxynucleotidyl transferase (TdT) is overexpressed in some cancer types, where it drives the mutagenic repair of double strand breaks through non canonical non-homologous end joining pathway.
+The TdT enzyme belongs to the X family of polymerases, together with the DNA polymerase λ (pol λ) and β (pol β).
+However, TdT exclusively displays template-independent nucleotide polymerisation.
+Pursuing our studies in developing TdT inhibitors, herein we deepened the structure-activity relationships of new structural analogues of our previously identified hit compounds.
+The diketo hexenoic acid derivatives here analysed showed high selectivity towards TdT and inhibition potencies spanning from the low micromolar range to the nanomolar.
+Docking studies highlighted the chemical features involved in the TdT binding, well contributing to the rationalisation of the structural requirements needed for the enzymatic inhibition.

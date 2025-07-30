@@ -1,0 +1,8 @@
+Dedifferentiated chondrosarcoma (DDCS) is a rare and aggressive subtype of chondrosarcoma, characterized by the coexistence of a high-grade spindle or pleomorphic tumor that lacks a substantial cartilaginous matrix.
+Notably, it shows a mutant IDH1 incidence of over 80%.
+This study established a novel DDCS cell line with an IDH1 mutation, TK-DDCS1, derived from the right ilium of a 67-year-old Japanese female patient.
+TK-DDCS1 cells maintain the undifferentiated DDCS phenotype with the IDH1p.R132L mutation.
+The IDH1R132 mutation is known to be associated with a poor prognosis for chondrosarcoma, and the p.R132L mutation is a novel variant among the registered DDCS cell lines in the Cellosaurus database.
+The mutant IDH1 inhibitor, DS-1001b, inhibited the proliferation of TK-DDCS1 in a dose-dependent manner in both two-dimensional and spheroid cultures.
+The tumorigenicity of TK-DDCS1 was demonstrated through xenografting into EGFP-transgenic BALB/c Rag2-/-/Jak3-/- (EGFP-BRJ) mice, where the tumors exhibited undifferentiated phenotypes of DDCS in both morphological and immunohistochemical features.
+Thus, TK-DDCS1 serves as a valuable model for investigating the characteristics of DDCS and exploring molecular targeted therapies.

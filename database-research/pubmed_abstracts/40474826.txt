@@ -1,0 +1,9 @@
+Chromosomal instability (CIN) is a hallmark of cancer, closely associated with tumor evolution, metastasis, immune evasion, and resistance to treatment.
+CIN is driven by persistent chromosome missegregation, resulting in abnormal chromosomal copy numbers and promoting tumor progression through mitotic errors, faulty chromosome segregation, and the formation of micronuclei or chromosome bridges.
+Previous studies have demonstrated that p62 localizes to micronuclei, where it interacts with mitochondria, enhancing ROS-mediated cysteine oxidation and promoting p62 homo-oligomerization.
+This disrupts repair by recruiting CHMP7 and other ESCRT-III components, impairing their function in restoring the micronuclear envelope.
+Notably, we observed a time-dependent increase in nuclear p62 levels following radiation therapy, which correlated with enhanced chromatin fragmentation and chromothripsis.
+While p62 inhibits homologous recombination repair and promotes non-homologous end joining, we hypothesize that radiation-induced nuclear p62 accumulation impairs nuclear envelope resealing by inhibiting ESCRT-III components, thereby contributing to chromosomal fragmentation and chromothripsis.
+These chromosomal alterations may play a significant role in tumor evolution and treatment resistance.
+Our findings suggest that irradiation-induced p62 accumulation is crucial for chromothripsis and may affect nuclear repair processes, impacting chromosomal stability.
+Future research will focus on elucidating how p62 contributes to these abnormalities and their implications for tumor progression and treatment resistance.

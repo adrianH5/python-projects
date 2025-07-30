@@ -1,0 +1,10 @@
+Pancreatic ductal adenocarcinoma (PDAC) remains one of the malignancies with the highest mortality rates, and outcomes are particularly poor in cases of liver metastasis.
+Early or recurrent metastatic PDAC significantly worsens patient outcomes and presents substantial clinical challenges.
+Checkpoint-based immunotherapy has largely been ineffective for most pancreatic cancer patients.
+This ineffectiveness is not well understood, as clinical trials often involve patients with advanced diseases, such as liver and peritoneal metastases, while most preclinical studies focus on primary tumors.
+Recent findings indicate that the immunosuppressive tumor microenvironment (TME) is a major obstacle to effective immunotherapy in PDAC, with the metastatic immune microenvironment differing significantly from that of primary tumors.
+This review explores the distinct immunosuppressive mechanisms at various stages of PDAC progression, including primary tumors, pre-metastatic niches, and metastatic sites.
+Myeloid cells, such as tumor-associated macrophages (TAMs) and myeloid-derived suppressor cells (MDSCs), play pivotal roles in shaping the TME and suppressing anti-tumor immunity.
+Particular focus is placed on current clinical immunotherapy strategies targeting myeloid cells, and combinations with conventional chemoradiotherapy, considering contemporary knowledge and future trends.
+Advancements in single-cell RNA sequencing (scRNA-seq) and spatial transcriptomics have provided deeper insights into the molecular intricacies and diversity of PDAC, revealing potential therapeutic targets.
+Innovative strategies targeting myeloid cells, including CD40 agonists and CSF-1R inhibitors, are being explored to reprogram the TME and enhance the efficacy of immunotherapies.

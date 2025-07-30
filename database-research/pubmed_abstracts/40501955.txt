@@ -1,0 +1,7 @@
+As drug and natural product libraries expand, assays for assessing mechanisms of action (MoA) are increasingly critical.
+Performing cytological profiling using the Cell Painting (CP) assay enables image-based profiling of cellular states upon treatment, yet many bioactive compounds remain uncharacterized due to undetectable cellular effects under standard conditions.
+To address this, we combined drug dosing with cell activation using the protein kinase C (PKC) agonist phorbol myristate acetate (PMA).
+Profiling A549 lung cancer cells treated with 8,387 compounds at two concentrations (1 and 10 µM) in both resting and PMA-activated states allowed us to detect phenotypic effects for up to 40% of all screened compounds, effectively illuminating new phenotypic "dark space".
+Over 1,000 compounds exhibited phenotypes exclusively under PMA activation, establishing its advantage for MoA studies.
+We introduce novel quality control measures for CP screens and demonstrate that integrating phenotypic signatures enhances MoA discovery.
+Notably, 2-methoxycinnamaldehyde clustered with glucocorticoid receptor modulators and induced nuclear translocation, emphasizing the power of this approach in uncovering novel drug mechanisms and, therefore, aiding in improving therapeutic strategies.

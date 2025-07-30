@@ -1,0 +1,5 @@
+Recent advancements in nanomedicine have driven the development of multifunctional theranostic platforms for targeted cancer therapy.
+Sonodynamic therapy (SDT) holds a distinct advantage over traditional photodynamic therapy (PDT) by harnessing ultrasound-triggered sonosensitizer activation, enabling deeper tissue penetration for treating deep-seated tumors.
+In this study, we present IR780-TPEY-Ru, a nanoplatformspecifically engineered for imaging-guided SDT to address challenges posed by deep-seated tumors.
+This platform is engineered through the synergistic integration of π-expansive ligands (IR780) with tetraphenylethylene (TPE), yielding a distinct Ru(II) complex that possesses exceptional electronic and structural properties, particularly in the near-infrared (NIR) region.
+Significant progress has been achieved through the integration of π-expanded tridentate ligands, which facilitate the generation of low-lying intraligand (

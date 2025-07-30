@@ -1,0 +1,10 @@
+Ferroptosis is a cell death mechanism distinguished by its dependence on iron-mediated lipid oxidation.
+Cancer cells highly resistant to conventional therapies often demonstrate lipid metabolic and redox vulnerabilities that sensitize them to cell death by ferroptosis.
+These include a unique dependency on the lipid antioxidant selenoenzyme, glutathione peroxidase 4 (GPx4), that acts as a ferroptosis inhibitor.
+Synthetic high-density lipoprotein-like nanoparticle (HDL NP) targets the high-affinity HDL receptor scavenger receptor class B type 1 (SR-B1) and regulates cell and cell membrane lipid metabolism.
+Recently, we reported that targeting cancer cell SR-B1 with HDL NP depleted cell GPx4, which is accompanied by increased cell membrane lipid peroxidation and cancer cell death.
+These data suggest that HDL NP may induce ferroptosis.
+Thus, we conducted an unbiased CRISPR-based positive selection screen and target validation studies in ovarian clear cell carcinoma (OCCC) cell lines to ascertain the mechanism through which HDL NP regulates GPx4 and kills cancer cells.
+The screen revealed two genes, acyl-CoA synthetase long chain family member 4 (ACSL4) and thioredoxin reductase 1 (TXNRD1), whose loss conferred resistance to HDL NP.
+Validation of ACSL4 supports that HDL NP induces ferroptosis as the predominant mechanism of cell death, while validation of TXNRD1 revealed that HDL NP reduces cellular selenium and selenoprotein production, most notably, GPx4.
+Accordingly, we define cancer cell metabolic targets that can be simultaneously actuated by a multifunctional, synthetic HDL NP ligand of SR-B1 to kill cancer cells by ferroptosis.

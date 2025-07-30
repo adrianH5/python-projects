@@ -1,0 +1,6 @@
+Combined photothermal and photodynamic therapy is a promising strategy for the treatment of triple-negative breast cancer (TNBC) as it can accurately target tumor tissues and improve therapeutic efficacy.
+However, its efficacy is still insufficient owing to the heat resistance resulting from the upregulation of heat shock protein 90 (HSP90) and diminished reactive oxygen species (ROS) levels due to the accumulation of its client protein hypoxia-inducible factor-1α (HIF1α).
+Herein, SNX2112 (HSP90 inhibitor) and IR825 (photosensitizer) are loaded into a pH-responsive nano-micelle for efficient photothermal and photodynamic therapy.
+SNX2112 inhibits HSP90 activity to reduce heat resistance for enhanced photothermal therapy.
+Furthermore, HIF1α accumulation is reduced to increase ROS production to amplify photodynamic therapy efficacy.
+Consequently, the combined therapy enhanced by inhibiting HSP90-HIF1α effectively suppresses tumor growth

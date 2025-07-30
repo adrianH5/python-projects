@@ -1,0 +1,10 @@
+Nucleoside analogues are among the most widely used antiviral and also antitumoral agents.
+The nucleoside analogues require intracellular metabolic activation through stepwise phosphorylation resulting in the bioactive nucleoside triphosphates.
+To directly deliver the active metabolite, our group developed a prodrug system where the nucleoside triphosphate (NTP) is masked by two lipophilic moieties which are enzymatically cleaved off after successful cellular uptake.
+To date, no data are available on the intracellular concentrations of the active metabolites responsible for the determined antiviral or antitumor activity.
+In this paper, we describe the development of a HILIC-MS/MS method for the quantification of TriPPPro-prodrugs, derived from the anticancer drug fluorouracil (5-FU) and all resulting metabolites, FdU, FdU-monophosphate (MP), FdU-diphosphate (DP), and FdU-triphosphate (TP), in cancer cell lysate.
+Because of the different chemical properties of the lipophilic prodrugs and the hydrophilic metabolites, sample preparation as well as liquid chromatography method development were challenging factors.
+A liquid-liquid extraction protocol was employed and with use of hydrophilic liquid chromatography, the simultaneous retention of all analytes was guaranteed.
+The method was validated for the following concentration ranges in cancer cell lysate and the associated supernatant: 2.0-1000 ng/mL.
+The method was successfully applied to quantify prodrugs and metabolites in HT29 cancer cell lysate and supernatant samples after cellular uptake studies with two different TriPPPro-prodrugs.
+The method can also be employed for the quantification of other lipophilic prodrugs, as well as nucleotides and nucleosides (derivatives).

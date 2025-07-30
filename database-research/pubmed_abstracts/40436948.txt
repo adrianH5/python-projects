@@ -1,0 +1,11 @@
+Small intestine tumors, though rare, have shown a concerning increase in incidence and mortality in recent years.
+This study aimed to investigate the historical trends in histological composition and causes of death among patients with small intestine tumors using the SEER database.
+A total of 18,234 patients diagnosed with primary small intestine cancer from 1992 to 2018 were included in this study.
+Demographic details, tumor characteristics, treatment modalities, and outcomes were collected.
+Cause-specific mortality was analyzed using Fine and Gray regression, with non-small intestine-specific deaths considered as competing risks.
+Small intestine-specific deaths were the leading cause of mortality, with adenocarcinoma and carcinoid tumors being the most common histological types.
+Heart disease emerged as a significant cause of death following diagnosis, surpassing small intestine-specific deaths after 5-6 years.
+The study revealed variations in mortality causes across histological subtypes and identified risk factors for small intestine-specific mortality, including age, tumor site, grade, and treatment modalities.
+The findings highlight the substantial impact of heart disease on the long-term survival of patients with small intestine tumors.
+This underscores the potential benefits of adopting comprehensive management strategies that integrate oncological and cardiological care to improve survival rates and quality of life.
+A multidisciplinary approach in oncocardiology may help address the complex needs of these patients and optimize clinical outcomes.

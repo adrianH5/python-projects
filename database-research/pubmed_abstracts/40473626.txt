@@ -1,0 +1,9 @@
+SWItch/Sucrose Non-Fermentable (SWI/SNF) chromatin remodeling complexes displace nucleosomes to promote the access of transcription factors to enhancers and promoters.
+Despite the critical roles of SWI/SNF in animal development and tumorigenesis, how signaling pathways recruit SWI/SNF complexes to their target genes is unclear.
+Here, we demonstrate that target gene activation mediated by β-catenin, the essential transcriptional coactivator in the Wnt signal transduction pathway, requires ubiquitylation of the SWI/SNF component Brahma-related gene-1 (BRG1) by the E3 ubiquitin ligase Thyroid Hormone Receptor Interactor 12 (TRIP12).
+TRIP12 depletion in Drosophila, zebrafish, mouse organoids, and human cells attenuates Wnt signaling.
+Genetic epistasis experiments place TRIP12 activity downstream of the β-catenin destruction complex.
+TRIP12 interacts with and ubiquitylates BRG1, and BRG1 depletion blocks TRIP12-mediated Wnt pathway activation.
+TRIP12 promotes BRG1 binding to β-catenin in the presence of Wnt.
+Our findings support a model in which TRIP12 ubiquitylates BRG1 in the presence of Wnt and promotes its interaction with β-catenin in the nucleus, in order to recruit SWI/SNF to Wnt target genes.
+Our studies suggest a general mechanism by which cell signaling induces the interaction between BRG1 and pathway-specific transcription factors to recruit SWI/SNF complexes to their appropriate target genes.

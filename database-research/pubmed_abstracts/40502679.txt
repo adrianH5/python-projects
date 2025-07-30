@@ -1,0 +1,4 @@
+The CXCL10-CXCR3 axis regulates immunity, tumorigenesis, and metastasis in multiple cancers.
+Yet, its roles in osteosarcoma (OS), the predominant pediatric malignant bone tumor, are not fully defined.
+Our prior work has shown that elevated serum CXCL10 levels correlate with poor OS prognosis.
+The current study delves deeper by investigating how CXCL10-mediated CXCR3 signaling influences OS growth and metastatic spread.

@@ -1,0 +1,1 @@
+In recent years, radiomics, as a non-invasive method, has shown potential in predicting tumor response and prognosis by analyzing medical image data to extract high-dimensional features and reveal the heterogeneity of tumor microenvironment (TME).

@@ -1,0 +1,2 @@
+Predicting colon cancer recurrence is crucial for determining the need for adjuvant therapy after curative resection.
+However, clinical decisions often rely on limited features, even when a large amount of data is available.

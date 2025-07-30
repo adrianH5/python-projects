@@ -1,0 +1,7 @@
+The alternative splicing of mRNA precursors allows one gene to yield multiple proteins with distinct functions.
+CDC-like kinases (CLKs) serve as pivotal regulators of alternative splicing.
+Control of protein expression also occurs at the level of DNA through histone methylation and demethylation.
+We investigated the activity of two CLK inhibitors, cirtuvivint and CC-671, and the LSD1 inhibitor iadademstat alone and in combination with anticancer drugs or investigational agents.
+Well-characterized patient-derived cancer cell lines from the PDMR (https://pdmr.cancer.gov/models/database.htm) were used along with standard human cancer cell lines.
+Multi-cell type (mct) tumor spheroids were grown from a ratio of 6:2.5:1.5 malignant cells, endothelial cells, and mesenchymal stem cells.
+Following three days of growth, the spheroids were exposed to the single agents or combinations at concentrations up to the clinical C

@@ -1,0 +1,36 @@
+Importantly, data suggest that the severity and mortality risk of nosocomial transmission may be greater than for community-acquired COVID-19 (McMichael et al., 2020).
+Protection of HCWs and their families from the acquisition of COVID-19 in hospitals is paramount, and underscored by rising numbers of HCW deaths nationally and internationally (Cook et al., 2020; CDC COVID-19 Response Team, 2020).
+The clinical presentation of COVID-19 can include minimal or no symptoms (WHO, 2020a).
+Asymptomatic or pre-symptomatic transmission is clearly reported and is estimated to account for around half of all cases of COVID-19 (He et al., 2020).
+Recent modelling has suggested that weekly testing of asymptomatic HCWs could reduce onward transmission by 16–23%, on top of isolation based on symptoms, provided results are available within 24 hr (Imperial College COVID-19 Response Team, 2020).
+The need for widespread adoption of an expanded screening programme for asymptomatic, as well as symptomatic HCWs, is apparent (Imperial College COVID-19 Response Team, 2020; Black et al., 2020; Gandhi et al., 2020).
+21 individuals underwent repeat testing for a variety of reasons, including evolving symptoms (n = 3) and scoring ‘medium’ probability on clinical COVID-19 criteria (Tables 1–2) (n = 11).
+Table 3 outlines the total number of SARS-CoV-2 tests performed in each screening group (HCW asymptomatic, HCW symptomatic, and HCW symptomatic household contact) categorised according to the ward with the highest anticipated risk of exposure to COVID-19 (‘red’, high; ‘amber’, medium; ‘green’, low; Tables 4–5).
+Each individual in the HCW asymptomatic screening group was contacted by telephone to establish a clinical history, and COVID-19 probability criteria (Table 1) were retrospectively applied to categorise any symptoms in the month prior to testing (Figure 2).
+Individuals captured by the HCW asymptomatic screening group were generally asymptomatic at the time of screening, however could be divided into three sub-groups: (i) HCWs with no symptoms at all, (ii) HCWs with (chiefly low-to-medium COVID-19 probability) symptoms commencing ≤7 days prior to screening and (iii) HCWs with (typically high COVID-19 probability) symptoms commencing >7 days prior to screening (Figure 2).
+Wards are coloured (‘green’, ‘amber’, ‘red’) according to risk of anticipated exposure to COVID-19 (Table 4).
+Ward F is an elderly care ward, designated as a ‘green’ area with Scenario 0 PPE (Tables 4–5), with a high proportion of COVID-19 vulnerable patients due to age and comorbidity.
+It was subsequently found that two further staff members from ward F had previously been admitted to hospital with severe COVID-19 infection.
+Ward Q is a general medical ward designated as a ‘red’ clinical area for the care of COVID-19 positive patients, with a Scenario 1 PPE protocol (Tables 4–5).
+The majority of individuals who tested positive for SARS-CoV-2 after screening due to the presence of symptoms had high COVID-19 probability (Table 7).
+Whilst temporally associated, it cannot be assumed that these symptoms necessarily resulted from COVID-19.
+12/30 (40%) individuals from the HCW asymptomatic screening group reported symptoms > 7 days prior to testing, and the majority experiencing symptoms consistent with a high probability of COVID-19 had appropriately self-isolated during that period.
+Patients with COVID-19 can remain SARS-CoV-2 PCR positive for a median of 20 days (IQR 17–24) after symptom onset (Zhou et al., 2020), and the limited data available suggest viable virus is not shed beyond eight days (Wölfel et al., 2020).
+This approach was based on the following: low seasonal incidence of alternative viral causes of high COVID-19 probability symptoms in the UK (Public Health England, 2018), the high potential for SARS-CoV-2 exposure during the pandemic and the potential for prolonged, non-infectious shedding of viral RNA (Zhou et al., 2020; Wölfel et al., 2020).
+More comprehensive data will parametrise workforce depletion and COVID-19 transmission models.
+The incorporation of additional information including staffing levels, absenteeism, and changes in proportions of staff self-isolating before and after the introduction of widespread testing will better inform the impact of screening at a national and international level.
+Such models will be critical for optimising the impact on occupationally-acquired COVID-19, and reducing the likelihood that hospitals become hubs for sustained COVID-19 transmission.
+The first (HCW symptomatic, and HCW symptomatic household contact screening groups) allowed any patient-facing or non-patient-facing hospital employee (HCW) to refer themselves or a household contact, including children, should they develop symptoms suggestive of COVID-19.
+High throughput clinical areas where staff might be exposed to large numbers of suspected COVID-19 patients were also prioritised for staff screening.
+These included the Emergency Department, the COVID-19 Assessment Unit, and a number of ‘red’ inpatient wards.
+We devised a scoring system to determine the clinical probability of COVID-19 based on symptoms from existing literature (Wang et al., 2020; Giacomelli et al., 2020; Table 1).
+Self-isolation and household quarantine advice was determined by estimating the pre-test probability of COVID-19 (high, medium or low) in those with symptoms, based on the presence or absence of typical features (Tables 1–2).
+Pauci-symptomatic individuals were defined as those with low-probability clinical COVID-19 criteria (Table 2).
+Samples were sequenced as part of the COVID-19 Genomics UK Consortium, COG-UK), a partnership of NHS organisations, academic institutions, UK public health agencies and the Wellcome Sanger Institute.
+12/30 (40%) had experienced symptoms compatible with coronavirus disease 2019 (COVID-19)>7 days prior to testing, most self-isolating, returning well.
+eLife digest  Patients admitted to NHS hospitals are now routinely screened for SARS-CoV-2 (the virus that causes COVID-19), and isolated from other patients if necessary.
+Over 1,000 staff members at a large UK hospital who felt they were well enough to work, and did not fit the government criteria for COVID-19 infection, were tested.
+On closer questioning, around one in five reported no symptoms, two in five very mild symptoms that they had dismissed as inconsequential, and a further two in five reported COVID-19 symptoms that had stopped more than a week previously.
+In parallel, healthcare workers with symptoms of COVID-19 (and their household contacts) who were self-isolating were also tested, in order to allow those without the virus to quickly return to work and bolster a stretched workforce.
+Finally, the rates of infection were examined to probe how the virus could have spread through the hospital and among staff – and in particular, to understand whether rates of infection were greater among staff working in areas devoted to COVID-19 patients.
+Despite wearing appropriate personal protective equipment, healthcare workers in these areas were almost three times more likely to test positive than those working in areas without COVID-19 patients.

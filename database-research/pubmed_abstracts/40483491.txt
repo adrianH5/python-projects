@@ -1,0 +1,4 @@
+The integration of magnetic resonance imaging with linear accelerators (Linacs) enhances adaptive radiotherapy by providing real-time imaging for improved treatment precision.
+However, the long-term performance of MR-Linac systems, particularly in clinical settings, remains insufficiently studied.
+Traditional quality assurance (QA) methods, relying on binary pass/fail criteria, may overlook critical system variations.
+This study applies statistical process control (SPC) techniques to evaluate the long-term performance of a 1.5T MR-Linac, focusing on optimization in beam quality, MR-to-MV alignment, MR imaging, and geometric distortion.

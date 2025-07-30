@@ -1,0 +1,8 @@
+Liver cancer is one of the leading causes of cancer-related mortality worldwide.
+The current range of treatment options for patients with advanced-stage disease, including the first approved systemic therapy, sorafenib, has been demonstrated to have limited efficacy.
+A significant number of patients develop resistance to sorafenib treatment or discontinue its use due to adverse effects.
+Depression is a common complication of cancer, and the antidepressant, sertraline, has recently garnered considerable attention due to its anticancer activity.
+Accumulating evidence suggests that autophagy may represent a highly promising target for cancer therapy.
+Previously, the authors demonstrated that the sorafenib and sertraline combination exerted a synergistic anticancer effect on HepG2 cells.
+The present study examined the intracellular localization and mRNA expression levels of key autophagy markers, including Beclin-1, p62 and LC3, as well as the formation of acidic vesicular organelles using acridine orange staining, to further elucidate the link between autophagy and combined treatment of HepG2 cancer cells with sorafenib and sertraline.
+Drug treatment did not result in significant alterations in the expression levels of the

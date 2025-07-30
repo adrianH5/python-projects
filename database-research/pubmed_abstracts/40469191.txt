@@ -1,0 +1,7 @@
+Current clinical cancer treatments primarily rely on surgery, chemotherapy, radiotherapy, and immunotherapy; however, each approach has inherent limitations.
+In recent years, nanomaterials have gained significant attention in oncology due to their advantages in precise drug delivery, enhanced targeting, and improved therapeutic efficacy.
+Nevertheless, their clinical application remains limited by challenges such as complex synthesis, high costs, low delivery efficiency, and poor biodegradability.
+Bifidobacterium (BBM), a clinically used probiotic, has demonstrated unique tumor-targeting potential due to its obligate anaerobic nature, allowing it to selectively colonize, proliferate, and expand within the hypoxic tumor microenvironment.
+Recent advancements in synthetic biology and bacterial engineering have enabled the modification of Bifidobacterium as a microrobot for molecular imaging, drug or gene delivery, and other therapeutic functions.
+Compared to nanomaterials, Bifidobacterium-based bacterial therapy holds promise in overcoming certain limitations while potentially enhancing comprehensive cancer treatment by modulating the tumor microenvironment and boosting host immune responses.
+This review summarizes the latest progress in Bifidobacterium-mediated tumor imaging and therapy, explores its mechanisms of action, engineering strategies, and clinical applications, and discusses future directions for optimizing its functional design to improve therapeutic efficacy and safety.

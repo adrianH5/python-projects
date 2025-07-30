@@ -1,0 +1,9 @@
+SN-38 or 7-ethyl-10-hydroxycamptothecin is the active metabolite of irinotecan, a widely used chemotherapeutic agent for the treatment of colorectal, pancreatic, lung, breast, gastric, esophageal, hepatocellular, ovarian, brain, leukemia, and lymphoma malignancies.
+SN-38's antitumoral effect is 100 to 1000 times more potent than that of irinotecan.
+However, its clinical application is hindered by its poor solubility and chemical instability.
+To circumvent these challenges and avoid systemic toxicities, such as myelosuppression and diarrhea, several SN-38 delivery systems have been explored.
+In that regard, formulations based on targeted, controlled and tumor-responsive release of SN-38 have demonstrated to enhance its antitumoral effects and reduce the associated systemic toxicities by limiting the pharmacological activity to the desired tumor location.
+To this end, prodrugs, conjugates, nanoparticles, dendrimers, or lipid-based strategies for SN-38 delivery have been used.
+Most recently, multifunctional approaches have emerged as an attractive alternative to develop SN-38 delivery systems, combining several strategies in a single formulation, i.e., encapsulating nanocarriers, tumor-targeting ligands, stimuli-responsive elements, optimal linkers, drug combinations or bioimaging agents.
+Despite their therapeutic advantages, multifunctional delivery systems often face challenges concerning their clinical translation compared to conventional therapies, such as biocompatibility, scalability and cost-effectiveness issues.
+The aim of this work is to review the most recent progress that has been made in the development and assessment of multifunctional delivery systems for cancer treatment.

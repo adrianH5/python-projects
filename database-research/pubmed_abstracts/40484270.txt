@@ -1,0 +1,8 @@
+The Yes-associated protein (YAP) is a critical regulator of organ size and a key player in tumorigenesis, with its activity primarily governed by the Hippo signaling pathway.
+YAP mainly functions as a transcriptional co-activator, therefore its activity is closely related to its nuclear localization.
+Recent studies have shed light on mechanisms that regulate YAP's nuclear localization and activation, independent of the Hippo pathway.
+Beyond its role in development and tissue homeostasis, YAP's dysregulation is implicated in various cancers, including pancreatic cancer, one of the most lethal cancers.
+Activated YAP translocates to the nuclear of cancer cell, subsequently promotes expression of downstream genes involved in tumor growth, metastasis, and resistance to chemotherapy, etc.
+Moreover, YAP can also function as a transcription suppressor, indicating its context-dependent role in cancer.
+A thorough understanding of YAP regulation in pancreatic cancer could offer new insights for targeted therapy approaches.
+Here this review concludes recent findings on Hippo-independent regulation of YAP nuclear localization and the role of YAP in pancreatic cancer progression.

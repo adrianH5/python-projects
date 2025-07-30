@@ -1,0 +1,11 @@
+Platinum-based therapy is an integral part of the standard treatment for ovarian cancer.
+However, despite extensive research spanning several decades, the identification of dependable predictive biomarkers for platinum response in clinical practice has proven to be a formidable challenge.
+Recently, the development of single-cell technology has enabled more precise investigations into the heterogeneity of cancer.
+In this study, we isolated cancer cells from the single-cell transcriptomic data of platinum-sensitive and platinum-resistant patients with ovarian cancer.
+Differential gene analysis of platinum-sensitive and platinum-resistant cancer cells revealed that several of the differentially expressed genes had previously been reported in other studies to be associated with platinum resistant.
+Gene set enrichment analysis revealed the up-regulation of pathways involved in processes such as autophagy, cell cycle regulation, and DNA damage repair, which are known to promote platinum resistance in ovarian cancer.
+Based on these findings, we hypothesized that these differentially expressed genes could be used to predict the response of ovarian cancer patients to platinum-based chemotherapy.
+To validate this hypothesis, we explored 7 different machine learning models for predicting platinum chemotherapy response at varying feature gene counts.
+Ultimately, the random forest model performed the best, with 5 genes (PAX2, TFPI2, APOA1, ADIRF and CRISP3) and achieve an AUC of 0.993 in test cohort and 0.989 in GSE63885 independent validation cohorts.
+We named this model GPPS (Genes to Predict Platinum response Signature).
+Furthermore, we discovered that the GPPS model can also predict patient prognosis.

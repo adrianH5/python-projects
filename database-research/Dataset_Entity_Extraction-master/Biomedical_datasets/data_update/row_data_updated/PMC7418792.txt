@@ -1,0 +1,10 @@
+Similarly to SARS, epidemiological links between the majority of COVID-19 cases and Huanan South China Seafood Market, a live-animal market, have been reported.
+A total of 76,775 confirmed cases of “Coronavirus Disease 2019” (COVID-19) were reported up to February 21st 2020, from which 2247 died and 18,855 recovered.
+Indeed, it is suggested that SARS-CoV-2 genomic variants that emerge from inter- and intra-host evolution might be associated with susceptibility to SARS-CoV-2 infection and the severity of COVID-19 [24].
+All datasets available in SRA up to February 20th, 2020 were analysed.
+The third 41-year-old male patient (SRR1097138/PRJNA603194), presented acute onset of common COVID19 symptoms.
+The raw read data were aligned on the complete (29,891 bp) SARS-CoV-2 reference sequence (GenBank accession no.
+For the datasets analyzed in this study (average read depth 133.5x – 598.2x) and based on the assessed read quality > Q30 = 88.2–92.7%, LoFreq has calling sensitivity = ∼1% and PPV = 100 [39].
+The colocalization of the intra-host SNVs and population level SNPs retrieved from www.GISAID.org on February 18th 2020, with primers and probes coordinates was also examined, to identify potential interferences with all currently available molecular diagnostic assays [42].
+More studies based on genomic datasets accompanied by clinical metadata are needed, in order to accurately define associations between intra-host SARS-CoV-2 genomic variants, the progression and the clinical outcome of COVID19.
+In December 2019, an outbreak of atypical pneumonia (Coronavirus disease 2019 -COVID-19) associated with a novel coronavirus (SARS-CoV-2) was reported in Wuhan city, Hubei province, China.

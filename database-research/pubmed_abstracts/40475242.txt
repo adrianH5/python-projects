@@ -1,0 +1,8 @@
+KRAS mutations at codon 12 are among the most frequent driver mutations oncogenic alterations in various cancers and associated with aggressive disease and poor clinical outcomes.
+Historically, KRAS had been a very difficult target due to its strong binding to GDP/GTP and the lack of available druggable binding pockets.
+Considerable advances have been achieved in generating direct small-molecule inhibitors selectively targeting KRAS G12 mutations.
+This review discusses the development of approaches to design inhibitors that bind directly to KRAS, starting from the pioneering work of the Shokat group.
+This review details significant milestones of KRAS-targeted drug discovery and the current impediments in this field.
+The identification of covalent inhibitors of the KRAS G12C and more recently a direct inhibitor of K-Ras G12C in a GTP-bound state exemplifies the promise of this approach.
+Structure-guided drug design improved the basis for understanding the mutations in KRAS, notably at codon 12, and the idea has potential for gene therapy.
+Focusing exclusively on direct and indirect KRAS inhibitors, this review highlights the evolving strategies transforming KRAS from an elusive target to a tractable therapeutic opportunity, offering new hope for patients with KRAS-driven cancers.

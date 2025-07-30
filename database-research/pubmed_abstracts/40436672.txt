@@ -1,0 +1,8 @@
+The carcinogenesis and drug resistance can be accelerated by TGF-β, primarily by enhancing epithelial-mesenchymal transition (EMT).
+This review examines the complex mechanisms by which TGF-β drives EMT across different tumors, highlighting its function in increasing cellular plasticity, promoting metastasis, and contributing to therapy resistance.
+TGF-β activates both canonical Smad-dependent and non-canonical signaling, leading to profound changes in cell morphology, motility, and stemness.
+This review highlights recent discoveries on how TGF-β regulates cancer stem cells and contributes to drug resistance, including resistance to both conventional chemotherapy and targeted treatments.
+In addition, it examines the intricate interaction between TGF-β and the key molecular pathways controlling EMT, such as PI3K/AKT, MAPK, and epigenetic regulators.
+It also examines potential therapeutic approaches aimed at TGF-β-induced EMT, emphasizing promising preclinical results from novel compounds and combination therapies-including natural products, small-molecule inhibitors, and epigenetic regulators-that interfere with TGF-β receptor activation or downstream signaling pathways.
+Understanding these complex interactions provides valuable insights for developing more effective cancer therapies.
+The review concludes by identifying key research gaps as well as suggesting future directions for investigating TGF-β's role in cancer biology and treatment resistance.

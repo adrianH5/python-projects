@@ -1,0 +1,9 @@
+Liver cancer remains a smajor cause of mortality worldwide, underscoring the urgent need for novel natural therapeutics.
+Polygonatum kingianum var.
+grandifolium (PK) and Polygonatum sibiricum Redouté (PS) are rice in terpenoids, yet their anti-liver cancer mechanisms remain poorly understood.
+This study used metabolism, network analysis, molecular docking, and molecular dynamics simulations to investigate their therapeutic potential.
+Metabolomic analysis identified nine differential terpenoid metabolites, with Maslinic acid and Alphitolic acid being species-specific.
+Network analysis revealed 23 liver cancer-related targets, including five key proteins: HMGCR, PTGS2, ESR1, PPARG, and PGR.
+Functional enrichment analysis identified 126 GO terms and 11 KEGG pathways (P < 0.05).
+Molecular docking suggested strong binding affinities between core compounds and targets, while molecular dynamics simulations confirmed the stability of maslinic acid and alphitolic acid with their respective targets.
+This study enhances the pharmacological understanding of Polygonatum species and offers promising insights for the development of novel liver cancer treatments.

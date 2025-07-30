@@ -1,0 +1,5 @@
+Esophageal cancer (EC), a common malignant tumor of the digestive tract, requires early diagnosis and timely treatment to improve patient prognosis.
+Automated detection of EC using medical imaging has the potential to increase screening efficiency and diagnostic accuracy, thereby significantly improving long-term survival rates and the quality of life of patients.
+Recent advances in deep learning (DL), particularly convolutional neural networks, have demonstrated remarkable performance in medical imaging analysis.
+These techniques have shown significant progress in the automated identification of malignant tumors, quantitative analysis of lesions, and improvement in diagnostic accuracy and efficiency.
+This article comprehensively examines the research progress of DL in medical imaging for EC, covering various imaging modalities such as digital pathology, endoscopy, computed tomography,

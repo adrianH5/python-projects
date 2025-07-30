@@ -1,0 +1,7 @@
+Treatment of estrogen receptor-positive (ER+) breast cancer is significantly hindered by endocrine resistance.
+We identified PML1 as a key therapeutic entity that can be targeted to overcome resistance.
+Endocrine-resistant breast cancer cells share three key characteristics: elevated PML1 protein levels, enhanced activity of PI3K, MAPK, or both signaling pathways, and reduced ER activity.
+We developed a PML1 gene signature that predicts poor prognosis and correlates strongly with PI3K, MAPK, and endocrine resistance gene signatures, as evident by cellular studies, scRNA-seq analysis, and spatial transcriptomics of endocrine therapy-treated tumors.
+This signature is present in endocrine-resistant breast cancer cells harboring the Y537S ER mutation.
+We consistently demonstrate high PML1 protein levels across cells resistant to various treatments, including 4-hydroxytamoxifen, fulvestrant, elacestrant, and CDK4/6 inhibitors.
+Furthermore, treatments with these therapeutic agents or knockdown of

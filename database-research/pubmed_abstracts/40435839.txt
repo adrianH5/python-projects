@@ -1,0 +1,11 @@
+Lysine acetylation, tightly regulated by the dynamic balance between lysine acetyltransferases (KATs) and deacetylases (KDACs), plays a critical role in cellular processes, yet its involvement in kidney diseases remains elusive due to inconsistent findings.
+While KDACs have been extensively studied, the role of KATs, particularly p300 and CREB-binding protein (CBP), in kidney diseases is underexplored.
+p300 and CBP are major KATs and key transcriptional coactivators that regulate gene expression through acetylation of histones and non-histone proteins.
+A-485, a potent and specific p300/CBP inhibitor, was employed to investigate their role in kidney disease.
+Pan-acetylation levels were evaluated in three kidney disease models: type 1 diabetes, type 2 diabetes, and unilateral ureteral obstruction (UUO).
+The UUO model exhibited the most pronounced upregulation of pan-acetylation in the kidney, prompting its selection for further investigation.
+A-485 treatment in UUO mice and cultured renal epithelial cells reduced pan-acetylation, alleviated renal fibrosis and apoptosis, and improved mitochondrial dysfunction.
+Mechanistically, A-485 deactivated STAT3 by inhibiting acetylation at the K685 site, which disrupted tyrosine 705 (Y705) phosphorylation, a critical step in STAT3 activation, without altering serine 727 (S727) phosphorylation or total STAT3 expression.
+This reveals a tandem regulatory mechanism involving acetylation and phosphorylation in STAT3 signaling during renal fibrosis.
+Our findings demonstrate that A-485 protects against renal fibrosis by targeting p300/CBP-mediated STAT3 acetylation, providing a strong rationale for its potential therapeutic application in kidney diseases.
+This study advances the understanding of molecular mechanisms underlying kidney diseases and highlights A-485 as a promising candidate for future therapeutic development.

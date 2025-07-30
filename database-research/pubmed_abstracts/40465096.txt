@@ -1,0 +1,12 @@
+Locally advanced squamous cell skin cancer (LA-sqCSC) affects older patients who initially decline medical assistance and patients after multiple surgical interventions for recurrent tumors.
+Radical radiotherapy (RT) often becomes difficult to apply due to large surface areas, extensive ulceration, and tissue necrosis.
+Thirty patients with LA-sqCSC were treated according to a therapeutic algorithm involving upfront immunotherapy (IO) with cemiplimab (anti-PD-1 MoAb) and RT.
+Patients with progressive or stable disease (PgD, SD) or partial/minimal response (PR/MR) received local RT (6 daily fractions of 6 Gy) concurrently with cemiplimab.
+Complete responders (CR) after IO continued cemiplimab, till progression or development of immune-related adverse events (irAEs) for a maximum of 18 months.
+irAEs enforced interruption of cemiplimab in 6/30 (20.0%) patients.
+After the 6th cycle of IO, the CR rates were 50.0%.
+Nine patients with PR/MR to IO underwent RT.
+Six of them (66.7%) responded completely.
+The overall CR rates of patients treated with the proposed algorithm were 70.0%.
+The 2-year projected locoregional progression-free survival was 68.4% and the disease-specific overall survival was 85.2%.
+LA-sqCSC can be effectively treated with upfront cemiplimab IO followed by a short course of hypofractionated RT directed to the residual tumor.

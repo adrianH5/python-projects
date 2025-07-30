@@ -1,0 +1,37 @@
+T1	Dataset 378 435	Global Initiative for Sharing All Influenza Data (GISAID)
+T2	URL 446 468	https://www.gisaid.org
+T3	Dataset 585 591	GISAID
+T4	Dataset 622 628	GISAID
+T5	Dataset 663 669	GISAID
+T6	Dataset 789 795	GISAID
+T7	Dataset 972 978	GISAID
+T8	Dataset 1154 1160	GISAID
+T9	Dataset 1532 1538	GISAID
+T10	Dataset 1698 1704	GISAID
+T11	Dataset 1812 1818	GISAID
+T12	Repository 2163 2187	COVID-19 Data Repository
+T13	Creator 2195 2244	Center for Systems Science and Engineering (CSSE)
+T14	Dataset 2416 2422	GISAID
+T15	Dataset 2501 2507	GISAID
+T16	Dataset 2890 2896	GISAID
+T17	Dataset 3096 3102	GISAID
+T18	Dataset 3186 3192	GISAID
+T19	Dataset 3537 3543	GISAID
+T20	Dataset 3626 3632	GISAID
+T21	Dataset 3777 3783	GISAID
+T22	Dataset 3837 3843	GISAID
+T23	Dataset 4071 4077	GISAID
+T24	Dataset 4263 4269	GISAID
+T25	Dataset 5119 5125	GISAID
+T26	Repository 5217 5224	GenBank
+T27	AccessionNumber 5242 5251	NC_045512
+T28	Dataset 5370 5376	GISAID
+T29	Dataset 5480 5486	GISAID
+T30	Dataset 5769 5775	GISAID
+T31	Dataset 5927 5933	GISAID
+T32	Dataset 6186 6243	Global Initiative for Sharing All Influenza Data (GISAID)
+T33	Creator 6245 6276	Elbe and Buckland-Merrett, 2017
+T34	Creator 6278 6301	Shu and McCauley, 2017)
+T35	Repository 6650 6664	Los Alamos HIV
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T26	Arg2:T27

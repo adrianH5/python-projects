@@ -1,0 +1,10 @@
+T1	Repository 192 222	Virus Pathogen Resource (VIPR)
+T2	URL 233 248	www.viprbrc.org
+T3	Dataset 532 538	GISAID
+T4	URL 549 571	https://www.gisaid.org
+T5	Dataset 881 887	GISAID
+T6	Repository 937 944	GenBank
+T7	Repository 1504 1510	RefSeq
+T8	AccessionNumber 1850 1858	MN908947
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T3	Arg2:T4

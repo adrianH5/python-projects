@@ -1,0 +1,6 @@
+The gastric mucosa is characterized by continuous innate immune surveillance and inflammatory signaling, yet a high proportion of gastric carcinomas (GCs) are recalcitrant to immune-directed therapies.
+The mechanisms by which GCs evade adaptive immune surveillance within the highly antigenic microenvironment of the gastric mucosa remains unknown.
+To address this, we collected patient-matched tumor tissue, distant normal tissue, metastasis, and draining lymph nodes to generate a large-scale single-cell immune profiling dataset from 64 patients (n=179 samples, >150,000 cells).
+From single cell analysis, we identified two distinct sources of impaired tumor surveillance within tumor draining lymph nodes.
+First, we observed that a significant fraction of tumor draining lymph nodes had undergone cytokine-driven reprogramming, leading to reduced dendritic cell homing and limited T cell priming.
+Second, T cells undergoing successful activation exhibited limited expansion and constrained differentiation, marked by expression of the quiescence-associated transcription factor Kruppel-like Factor 2 (

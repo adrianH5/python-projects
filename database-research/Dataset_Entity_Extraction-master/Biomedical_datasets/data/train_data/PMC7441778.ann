@@ -1,0 +1,18 @@
+T1	Repository 1529 1534	TCMSP
+T2	URL 1545 1579	http://lsp.nwsuaf.edu.cn/tcmsp.php
+T3	Repository 1747 1780	UniProt Knowledgebase (UniProtKB)
+T4	Repository 1903 1912	UniProtKB
+T5	URL 1914 1936	http://www.uniprot.org
+T6	Repository 2169 2178	GeneCards
+T7	URL 2189 2215	https://www.genecards.org/
+T8	Repository 2221 2253	Therapeutic Target Database (TTD
+T9	URL 2255 2282	https://db.idrblab.org/ttd/
+T10	Repository 2362 2371	GeneCards
+T11	Repository 2634 2637	TTD
+T12	Repository 2921 2926	TCMSP
+T13	Repository 3591 3598	UniProt
+T14	Repository 3603 3612	GeneCards
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T4	Arg2:T5
+R3	hasAttr	Arg1:T6	Arg2:T7
+R4	hasAttr	Arg1:T8	Arg2:T9

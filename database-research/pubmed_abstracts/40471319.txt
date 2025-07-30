@@ -1,0 +1,3 @@
+Prognostication of lung cancer patients remains challenging clinically.
+This study aims to address this problem by investigating the utility of bone glucose metabolism networks as a prognostic biomarker of lung cancer patients.
+The rationale for targeting bone metabolic networks specifically comes from the long-recognised role of bone in innate immunity and the recent appreciation of the key role bones play in regulating whole-body glucose metabolism.

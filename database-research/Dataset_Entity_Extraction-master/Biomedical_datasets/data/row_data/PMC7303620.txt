@@ -1,0 +1,25 @@
+COVID-19 was declared a pandemic by the World Health Organization, caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+Respiratory failure is the most common mortality outcome in COVID-19 patients, yet serious and even fatal manifestations are seen across multiple organ systems, including the brain (Helms et al., 2020; Pleasure et al., 2020) and gastrointestinal tract (Goyal et al., 2020).
+In one retrospective study of more than 400 COVID-19 patients, nearly 20% had suffered in-hospital cardiac injury, which was a significant independent risk factor for mortality (Shi et al., 2020).
+Nearly 25% of patients have gastrointestinal manifestations including anorexia, diarrhea, vomiting, and abdominal pain, and these symptoms are associated with worse COVID-19 outcomes (Pan et al., 2020).
+A recent clinical study among 7,300 COVID-19 patients also showed a strong correlation between poor COVID-19 outcomes and type 2 diabetes (Zhu et al., 2020).
+Recent clinical studies suggest that diabetes is not only a risk factor for severe COVID-19 disease, but also that SARS-CoV-2 infection can induce new-onset diabetes (Bornstein et al., 2020).
+Currently, there are no vaccines or effective treatment options for COVID-19 due to limited knowledge of SARS-CoV-2 viral biology.
+A human cell-based platform to study viral tropism would be a first step toward defining cell types permissive to SARS-CoV-2 infection and for modeling COVID-19 disease across multiple organ systems.
+To determine the relative permissiveness of hPSC-derived cells and organoids to SARS-CoV-2 viral entry, we used a vesicular stomatitis virus (VSV)-based SARS-CoV-2 pseudo-entry virus, for which the backbone was provided by a VSV pseudo-typed ΔG-luciferase virus with the SARS-CoV-2 Spike protein incorporated in the surface of the viral particle instead (Nie et al., 2020; Whitt, 2010).
+Humanized mice carrying human pancreatic endocrine cells in vivo provide a unique platform for modeling COVID-19.
+In brief, hPSC-derived pancreatic endocrine cells were transplanted under the kidney capsule of SCID-beige mice (Figure 2G).
+As it is technically challenging to obtain pancreatic samples from COVID-19 patients, we compared transcript profiles from lung autopsy samples from healthy donors or COVID-19 patients and identified a robust upregulation of chemokines, including CCL2, CXCL5, and CXCL6, in the COVID-19 patient samples as has been described previously (Figure 3G; Blanco-Melo et al., 2020).
+Together, the data suggest that SARS-CoV-2-infected pancreatic endocrine cells show robust chemokine induction, which is similar to what is found in autopsy samples from COVID-19 patients.
+Consistent with results using hepatocyte organoids, KEGG GSEA comparing mock infected with SARS-CoV-2-infected cholangiocyte organoids revealed the upregulation of inflammatory pathways, including cytokine-cytokine receptor interaction and IL-17 signaling (Figure 4N, Table S1), which is consistent with previous findings in COVID-19 lung autopsy samples (Han et al., 2020).
+Although respiratory failure is the most common adverse outcome for COVID-19 patients, they often present with additional clinical complications involving the metabolic, cardiac, neurological, and gastrointestinal systems.
+Although human coronaviruses previously had not been considered to infect liver cells, our results are consistent with current COVID-19 clinical observations that more than 50% of patients have evidence of viral hepatitis (Ong et al., 2020).
+A recent clinical study showed a strong correlation between COVID-19 and type 2 diabetes (Zhu et al., 2020).
+Closer monitoring of individuals with high risk for diabetes is needed to evaluate the contribution of SARS-CoV-2 in previously infected COVID-19 patients to progression toward type 1 or type 2 diabetes.
+SARS-CoV-2, isolate USA-WA1/2020 (NR-52281) was deposited by the Center for Disease Control and Prevention and obtained through BEI Resources, NIAID, NIH.
+SARS-CoV-2 has caused the COVID-19 pandemic.
+COVID-19 pathophysiology includes respiratory failure but involves other organ systems including gut, liver, heart, and pancreas.
+Recent clinical studies show a strong association with COVID-19 and diabetes.
+SARS-CoV-2 infection caused striking expression of chemokines, as also seen in primary human COVID-19 pulmonary autopsy samples.
+hPSC-derived cells/organoids provide valuable models for understanding the cellular responses of human tissues to SARS-CoV-2 infection and for disease modeling of COVID-19.
+Graphical Abstract      Yang et al. show that hPSC-derived cells and organoids provide valuable models to study SARS-CoV-2 tropism and to model COVID-19.

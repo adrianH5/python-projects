@@ -1,0 +1,12 @@
+The digitization of histology slides has revolutionized pathology, providing massive datasets for cancer diagnosis and research.
+Contrastive self-supervised and vision-language models have been shown to effectively mine large pathology datasets to learn discriminative representations.
+On the other hand, generative models, capable of synthesizing realistic and diverse images, present a compelling solution to address unique problems in pathology that involve synthesizing images; overcoming annotated data scarcity, enabling privacy-preserving data sharing, and performing inherently generative tasks, such as virtual staining.
+We introduce PixCell, the first diffusion-based generative foundation model for histopathology.
+We train PixCell on PanCan-30M, a vast, diverse dataset derived from 69,184 H\&E-stained whole slide images covering various cancer types.
+We employ a progressive training strategy and a self-supervision-based conditioning that allows us to scale up training without any annotated data.
+PixCell generates diverse and high-quality images across multiple cancer types, which we find can be used in place of real data to train a self-supervised discriminative model.
+Synthetic images shared between institutions are subject to fewer regulatory barriers than would be the case with real clinical images.
+Furthermore, we showcase the ability to precisely control image generation using a small set of annotated images, which can be used for both data augmentation and educational purposes.
+Testing on a cell segmentation task, a mask-guided PixCell enables targeted data augmentation, improving downstream performance.
+Finally, we demonstrate PixCell's ability to use H\&E structural staining to infer results from molecular marker studies; we use this capability to infer IHC staining from H\&E images.
+Our trained models are publicly released to accelerate research in computational pathology.

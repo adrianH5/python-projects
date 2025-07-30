@@ -1,0 +1,9 @@
+Coronavirus disease-19 (COVID-19) outbreak is caused by severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) at present has jolted the entire human race.
+COVID-19 pandemic has affected natives in more than 200 countries and territories located in different geographical locations and climatic conditions.
+According to World Health Organization (WHO), nearly 3.8 million individuals have already been infected globally and more than 260 thousands have died till date (WHO COVID-19 Situation Report-109, 08/5/2020).
+Recent trend indicates much lower overall case fatality rate (CFR) in COVID-19 pandemic (4.58%) compared to outbreak of SARS (11%) and Middle East respiratory syndrome (MERS) (35%) (Peeri et al. 2020).
+The incidence and CFR varies drastically in different populations, where the present global CFR (6.9%) is significantly lower than Europe (9.2%) and considerably higher than Africa (3.4%), East Mediterranean and Southeast Asia (3.6%), Western Pacific (4.1%) and America (5.5%) (WHO COVID-19 Situation Report-109, 08/5/2020).
+Genotypes of these variants in 26 populations from five major global regions were obtained from 1000 Genomes database (https://www.internationalgenome.org) and used for comparative analysis.
+GTEx database was used to evaluate the eQTL (Aguet et al.
+2019).
+At present, more than 200 countries and territories are directly affected by the coronavirus disease-19 (COVID-19) pandemic.

@@ -1,0 +1,8 @@
+Dacomitinib is a pan-human epidermal growth factor receptor (HER) tyrosine kinase inhibitor (TKI), approved for the first-line treatment of non-small cell lung cancer (NSCLC) with human epidermal growth factor receptor 1(EGFR)-sensitive mutations.
+The use of dacomitinib is limited because of its cutaneous toxicity.
+Since the exact mechanism of dacomitinib-induced cutaneous toxicity is unknown, effective targeted prophylaxis and therapy remain unavailable.
+Our study established an animal model of dacomitinib-induced cutaneous toxicity and found that dacomitinib induced mitochondrial dysfunction and apoptosis in keratinocytes with enhanced secretion of inflammatory factors.
+Mechanistically, we found that the retinoid pathway in keratinocytes was activated by dacomitinib, with significant upregulation of the key enzyme acetaldehyde dehydrogenase 1A1 (ALDH1A1), which appears to be a key factor in cutaneous toxicity.
+ALDH1A1 knockdown reversed the apoptosis and mitochondrial dysfunction caused by dacomitinib in keratinocytes, suggesting its potential as a therapeutic target.
+Furthermore, silibinin was shown to mitigate dacomitinib-induced cutaneous toxicity by reducing ALDH1A1.
+Overall, this study highlights the critical role of ALDH1A1 in drug-induced cutaneous toxicity and its potential as an interventional target.

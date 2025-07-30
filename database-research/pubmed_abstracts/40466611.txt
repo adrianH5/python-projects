@@ -1,0 +1,14 @@
+Osteosarcoma (OS) is an aggressive bone cancer with a poor prognosis, particularly in cases involving metastasis.
+While doxorubicin (ADM) is effective for OS treatment, its use is hindered by severe cardiotoxicity.
+This study aimed to investigate the molecular mechanisms underlying ADM-induced cardiac injury and develop a novel strategy to reduce its toxicity, focusing on exosome-mediated drug delivery.
+Network toxicology and molecular docking techniques were used to identify the key molecular targets involved in ADM-induced cardiac injury.
+A target database was constructed from public databases (ChEMBL, STITCH, Swiss Target Prediction, GeneCards, OMIM, and TTD), and Venn diagram analysis was performed to identify the shared targets between ADM and cardiac injury-related genes.
+A regulatory network was constructed, followed by Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analyses to gain insights into the biological processes involved.
+Additionally, exosomes were isolated from human osteosarcoma MG-63 cells and loaded with ADM via electroporation.
+The therapeutic efficacy and toxicity of exosome-encapsulated ADM (HOC-Exos@ADM) were evaluated using in vitro and in vivo models.
+Network toxicology analysis identified 27 shared targets between ADM and cardiac injury, including key genes such as AKT1, TP53, ESR1, and HIF1A.
+These genes are involved in apoptosis, oxidative stress, and inflammation, all of which contribute to cardiac damage.
+The exosome-mediated delivery improved drug uptake, increased apoptosis in OS cells.
+In AKT1 signaling, decreased AKT1 led to cardiomyocyte damage via GSK - 3β and mTOR pathways.
+Meanwhile, exhibited a safer profile in animal models.
+These results suggest that exosome-based delivery can reduce ADM-induced cardiotoxicity and enhance clinical outcomes for patients with OS.

@@ -1,0 +1,13 @@
+Chlamydia trachomatis infection has been implicated as a potential risk factor for ovarian cancer (OC), but evidence remains inconclusive.
+This study aims to assess the association between C. trachomatis infection and OC risk using a systematic review and meta-analysis.
+A comprehensive literature search was conducted in PubMed, Embase, Scopus, Web of Science, and SciELO from their inception to October 2024.
+Observational studies examining the association between C. trachomatis infection and OC risk were included.
+Pooled odds ratios (ORs) were calculated using random-effects models.
+Subgroup and sensitivity analyses were performed based on diagnostic methods and control group types, and publication bias was assessed using Egger's test.
+Out of 3,288 records, 11 studies involving 4,518 participants were included.
+The overall meta-analysis revealed a non-significant association between C. trachomatis infection and OC risk (OR = 1.30, 95% CI = 0.99-1.70).
+However, sensitivity analysis excluding two studies demonstrated a significant association (OR = 1.37, 95% CI = 1.16-1.61).
+Subgroup analysis showed that PCR-diagnosed C. trachomatis infection was significantly associated with an increased risk (OR = 6.64, 95% CI = 1.62-25.71), while serology-based studies yielded non-significant results.
+Heterogeneity was high (I² = 70.83%), and publication bias was detected (Egger's test p = 0.015).
+These findings highlight the role of infection chronicity in OC pathogenesis and suggest that diagnostic methodology significantly impacts observed associations.
+Future research should employ longitudinal designs with serial molecular testing to establish temporality and evaluate whether targeted Chlamydia screening or treatment interventions could mitigate OC risk in high-prevalence populations.

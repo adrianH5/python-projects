@@ -1,0 +1,4 @@
+The enrichment of specific metabolites within the tumor microenvironment is emerging as a driver of tumor progression.
+Specifically, in prostate cancer (PCa), increased abundance of lactate is associated with primary-to-metastasis tumor spreading by supporting cancer cell invasiveness.
+Here, we highlight that the endocannabinoid receptor GPR55 is able to sense lactate and consequently trigger PCa cell amoeboid-like invasiveness, through the activation of the pro-migratory RhoA/MLC2 signaling pathway.
+These findings uncover a new role for GPR55 in sustaining lactate-driven PCa cell motility.

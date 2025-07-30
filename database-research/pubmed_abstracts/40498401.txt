@@ -1,0 +1,17 @@
+Forkhead box M1 (FOXM1) exhibits elevated level in various tumors and is linked with tumor immune escape.
+The role of FOXM1 in gastric cancer (GC) progression and immune escape remains poorly understood.
+FOXM1 and programmed death-ligand 1 (PD-L1) levels were determined through qRT-PCR and Western blot.
+Co-immunoprecipitation confirmed the interaction between FOXM1 and PD-L1.
+The malignant biological properties of GC cells were assessed by MTT, EdU staining, scratch-wound assay, transwell and flow cytometry.
+CD8 + T cells were separated and co-cultured with GC cells, and the proliferation and apoptosis of CD8 + T cells were detected through CFSE staining, flow cytometry and LDH kit.
+CD8 + T cytokine contents were measured using ELISA kits.
+Western blot detected CD8 + T cell activation markers and Notch signaling pathway-related proteins levels.
+A nude mouse subcutaneous graft tumor model was constructed, Ki-67 positivity and CD8 + T cell infiltration were detected by immunohistochemistry and flow cytometry.
+FOXM1 and PD-L1 were highly expressed in GC.
+Overexpression of FOXM1 increased migrating and infiltrating cell counts and GC cell viability, and declined the killing impact of CD8 + T cells.
+After knockdown of FOXM1, all of the above indicators were significantly reversed.
+After co-cultured with GC cells overexpressing FOXM1, CD8 + T cells exhibited a declined in CFSE positivity percentage, cytotoxicity, cytokines and activation markers levels, and an increase in apoptosis.
+FOXM1 up-regulated PD-L1 expression by activating the Notch signaling pathway, and both silencing PD-L1 and Notch inhibitor attenuated the impact of overexpression of FOXM1.
+Knockdown of FOXM1 reduced Ki67 positivity in GC tumors and promoted CD8 + T cell infiltration.
+FOXM1 up-regulates PD-L1 level by activating Notch signaling pathway, thus hinders CD8 + T cell activation and promotes immune escape in GC cells.
+This study provides a theoretical basis for the development of GC-targeted therapeutic targets as well as immunotherapy, which is beneficial to the clinical diagnosis and treatment of GC.

@@ -1,0 +1,10 @@
+Tat, a regulatory protein of human immunodeficiency virus (HIV)-1, is a potent viral neurotoxin which can activate the NLRP3 inflammasome in microglia and contribute to neurotoxicity.
+Here, we found that HIV Tat induces mitochondrial dysfunction in microglia and promotes mtDNA leakage into the cytoplasm to activate the NLRP3 inflammasome.
+Degrading mtDNA with DNase I significantly blocks the activation of NLRP3 inflammasome and IL-1β secretion.
+Interestingly, we found that HIV Tat promotes the translocation of TDP-43 from nucleus to mitochondria.
+Furthermore, we found that ROS accumulation mediated by HIV Tat could activate NF-κB signaling pathway to facilitate the transcription of IL-1β precursor.
+Scavenging intracellular ROS significantly inhibits the activation of the NF-κB signaling pathway, thereby reducing the transcription and secretion of IL-1β.
+Conditioned medium from microglia treated with Tat significantly induces SH-SY5Y and primary neuronal cell apoptosis, which can be alleviated by GIBH-130.
+In conclusion, our results suggest that HIV-1 Tat promotes TDP-43 abnormal localization to mitochondria and mitochondrial dysfunction, inducing cytosolic mtDNA stress and ROS accumulation.
+These events respectively activate the NLRP3 inflammasome and NF-κB signaling pathway, thereby promoting IL-1β secretion and neuronal damage.
+This study reveals a new underlying mechanism for neuroinflammation mediated by HIV infection.

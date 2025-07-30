@@ -1,0 +1,2 @@
+To predict the risk of malignancy in ovarian tumors, the multi-class risk prediction Assessment of Different NEoplasias in the adneXa (ADNEX) model of the International Ovarian Tumor Analysis group is used internationally.
+This study aimed to perform an external validation of this model in a real-world clinical setting in the Netherlands.

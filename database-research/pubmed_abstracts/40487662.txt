@@ -1,0 +1,7 @@
+Lacking therapeutic targets highlights the crucial roles of chemotherapy and radiotherapy in the clinical management of triple-negative breast cancer (TNBC).
+To relieve the side effects of the chemoradiotherapy combination regimen, we design and develop a self-assembled micelle nanosystem consisting of perfluorocarbon chain-modified cisplatin prodrug.
+By incorporating perfluorodecalin, this nanosystem can effectively carry ozone and promote irradiation-derived reactive oxygen species (ROS) production.
+By leveraging the perfluorocarbon sidechain, the nanosystem exhibits efficient internalization by TNBC cells and effectively escapes from lysosomal entrapment.
+Under X-ray irradiation, ozone-generated ROS disrupts the intracellular redox balance, thereby facilitating the release of cisplatin in a reduction-responsive manner mediated by reduced glutathione.
+Moreover, oxygen derived from ozone decomposition enhances the efficacy of radiotherapy by alleviating tumor hypoxia.
+Notably, the combination of irradiation with ozone-loaded cisplatin prodrug nano system synergistically prompts antitumor efficacy and reduces cellular/systemic toxicity

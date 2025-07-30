@@ -1,0 +1,7 @@
+This study addresses limitations of mainstream approaches in traditional Chinese medicine (TCM) data mining by developing the SinoMedminer R package and its Shiny web application.
+The R package's core functionalities include data cleaning, transformation, TCM attribute statistics, association rule exploration and analysis, clustering analysis, co-occurrence network analysis, formula similarity analysis, formula identification, and dosage analysis.
+This package enables efficient project analyses without requiring complex coding.
+The accompanying Shiny web application provides an interactive, menu-driven interface for users without programming knowledge.
+SinoMedminer combines the computational power of a programming language with user-friendly accessibility, significantly enhancing the efficiency and standardization of TCM data mining research.
+A deployed server platform further simplifies access and usability by allowing direct utilization of the Shiny application.
+By optimizing data processing and analysis workflows, SinoMedminer enhances big data handling capabilities, accelerates research progress and product development, and promotes the integration of digital technologies into TCM research and clinical practice.

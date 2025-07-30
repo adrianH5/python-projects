@@ -1,0 +1,8 @@
+Ibrutinib, a once-daily Bruton tyrosine kinase inhibitor, is a standard-of-care first-line (1L) treatment for patients with chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL).
+Dosing flexibility (adjustment to daily dose of <420 mg/d) with ibrutinib can help prevent recurrence or worsening of adverse events while maintaining long-term efficacy.
+This study compared time to next treatment among patients with CLL/SLL in the United States initiating 1L single-agent ibrutinib at 420 mg/d (index date) and staying on this dose vs patients with dose adjustment (DA) within 3 to 12 months.
+Two databases were used: Komodo claims (a majority from community practices) and Acentrus electronic medical records (from academic and nonteaching hospital systems).
+To account for immortal time bias (patients with DA survived on 1L therapy until DA) and overlap between follow-up time and definition of treatment strategies, a target trial emulation approach was used, in which patients were cloned at index date and contributed follow-up to both treatment strategy arms until deviation from the strategy.
+Among 3343 patients in Komodo (mean age: 67.5 years; 37.6% female) and 1171 patients in Acentrus (mean age: 70.4 years; 34.6% female) who initiated 1L single-agent ibrutinib 420 mg/d, 18.0% and 19.6%, respectively, had a DA.
+DA was not associated with an increased risk of having a next treatment in both databases (adjusted hazard ratio [95% confidence interval]: Komodo: 0.95 [0.80-1.14], Acentrus: 1.14 [0.80-1.62]).
+These findings suggest that a flexible dosing approach with ibrutinib may be effective in allowing patients to achieve optimal outcomes while remaining on long-term continuous 1L treatment.

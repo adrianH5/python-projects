@@ -1,0 +1,3 @@
+The diagnosis of coeliac disease (CD), an autoimmune disorder with an estimated global prevalence of around 1%, generally relies on the histological examination of duodenal biopsies.
+However, inter-pathologist agreement for coeliac disease diagnosis is estimated to be no more than 80%.
+We aim to improve coeliac disease diagnosis by developing a novel, accurate, machine-learning-based diagnostic classifier.

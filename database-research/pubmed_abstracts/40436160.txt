@@ -1,0 +1,5 @@
+Mitogen-Activated Protein Kinase Kinase 4 (MKK4) regulates key signaling pathways including JNK and p38 MAPK, influencing apoptosis, proliferation, and stress responses.
+Dysregulation of MKK4 is implicated in aggressive cancers and impaired liver regeneration, making it a compelling therapeutic target.
+This study employed an integrative computational strategy to identify potent MKK4 inhibitors.
+A curated dataset of 2936 compounds was analyzed using twelve fingerprint descriptors to develop robust QSAR models with Random Forest.
+The CDK extended fingerprint model showed excellent performance (R

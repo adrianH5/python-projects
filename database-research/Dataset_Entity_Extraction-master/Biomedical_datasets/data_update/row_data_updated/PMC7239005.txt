@@ -1,0 +1,4 @@
+The pandemic Corona Virus Disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), is an urgent public health emergency and made a serious impact in global health and economy (https://www.cdc.gov/coronavirus/2019-ncov).
+Furthermore, there are about 106 complete and validated sequence data sets available in the NCBI database (https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/) and (https://bigd.big.ac.cn/ncov/).
+Surprisingly, we noticed several hundreds of point mutations or SNPs among the different isolates from all over the world with different sequence data sets (Fig. 1A and B) and (Fig. S1A and S2).
+The morbidity of SARS-CoV-2 (COVID-19) is reaching 3 Million landmark causing and a serious public health concern globally and it is enigmatic how several antiviral and antibody treatments were not effective in the different period across the globe.

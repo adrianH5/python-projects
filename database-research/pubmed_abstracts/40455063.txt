@@ -1,0 +1,8 @@
+Analysis of post-translational modifications (PTMs) of proteins can provide new insight, beyond that obtained from analysis of protein levels, for understanding the tumor microenvironment (TME).
+The characteristics of PTMs in immune cells, along with their spatial distribution, have not been comprehensively integrated, which impedes our understanding of the complexity and heterogeneity of the TME in hepatocellular carcinoma (HCC).
+Herein, we used a strategy that combines antibodies for specific PTMs with mass cytometry and mass spectrometry technologies to identify PTMs at single-cell resolution.
+We found that the phosphorylation status of M2 macrophages was substantially altered in tumor tissues from patients with hepatitis B virus (HBV)-positive HCC.
+Utilizing the expression profiles of site-specific phospho-HSP27, STAT1, and TRIM28, we classified M2 macrophages into four distinct subtypes: M2-P0 (absence of any of the three phospho-proteins), M2-P1 (presence of one of the three phospho-proteins), M2-P2 (presence of two of the three phospho-proteins), and M2-P3 (presence of all three phospho-proteins).
+The spatial relationships and functional characteristics of these M2 macrophage subpopulations were assessed using single-cell PTM (scPTM) omics.
+The abundance of the M2-P2 and M2-P3 subtypes was closely associated with an immunosuppressive TME and responsiveness to immunotherapy in HBV+ HCC.
+Overall, this study introduces a scPTM omics approach that uncovers subtypes of macrophages associated with immunotherapeutic responses in HBV+ HCC and provides valuable insights into the immunosuppressive TME of HCC.

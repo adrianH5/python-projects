@@ -1,0 +1,3 @@
+This meta-analysis systematically evaluated the association between ultra-processed food (UPF) intake and adverse liver outcomes, addressing a critical evidence gap as prior observational studies lacked pooled quantitative synthesis.
+Researchers conducted a comprehensive search in PubMed, Cochrane Library, Embase, and Web of Science (up to October 17, 2024) using Medical Subject Headings (MeSH) terms and keywords.
+Statistical analyses in Stata 14.0 employed fixed-effects (P > 0.1, I

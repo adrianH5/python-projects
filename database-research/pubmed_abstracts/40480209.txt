@@ -1,0 +1,3 @@
+We discuss how to diversify the reference iPSC line concept.
+We highlight workflows for generating diverse iPSC lines.
+We ask whether reference lines can act as inclusive sources of human diversity for use in benchmarking controls for disease models or drug screens, or as clinical grade lines for cell therapies.

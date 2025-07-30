@@ -1,0 +1,5 @@
+Driver gene alterations are increasingly being identified, and multiplex genetic tests have become essential for determining the optimal treatment method for advanced non-small cell lung cancer (NSCLC).
+Next-generation sequencing (NGS) enables the simultaneous detection of multiple driver gene alterations using nucleic acids extracted from tumor tissue samples.
+However, obtaining sufficient tumor tissue volume is challenging, and inadequate formalin fixation can lead to the failure of NGS analysis.
+Malignant pleural effusions can be collected using a simple, minimally invasive technique; however, it remains uncertain whether pleural fluid is a suitable source for detecting driver gene alterations using NGS.
+This retrospective observational study examined the suitability of fresh-frozen pleural fluid pellets for NGS in clinical practice.

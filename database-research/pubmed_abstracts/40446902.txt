@@ -1,0 +1,9 @@
+Ribosome heterogeneity can contribute to translation regulation in terms of mRNA selection and translation efficiency.
+This is particularly true for cancer cells in which oncoribosomes are reported to translate mRNAs encoding for proteins involved in cancer progression.
+Among other factors, a source of ribosome heterogeneity not yet characterized could be represented by 5.8S rRNA and its three forms distinguished based on their 5' sequence.
+So far, little is known about the role of the presence of these isoforms in mature ribosomes and how they may contribute to human pathology.
+Here we investigated the relative abundance of the three 5.8S rRNA isoforms in different contexts.
+Analyzing total and polysomal RNA from cancer cell lines we detected all the three forms recruited in actively translating ribosomes consistently to the basal levels of their expression.
+Moreover, we showed that changes in the relative abundance of 5.8S rRNA isoforms can be linked to the process of tumorigenesis in a human HER2 transgenic mouse model which develops spontaneous mammary carcinomas.
+Finally, from the analysis of breast cancer samples, we observed significant correlations between tumor grade, estrogen receptor status and patient prognosis with the relative abundance of 5.8S rRNA isoforms.
+These results suggest an additional level of complexity involving 5.8S rRNA and ribosome heterogeneity in cancer pathology.

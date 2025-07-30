@@ -1,0 +1,5 @@
+Proteolytic balance is dysregulated in many diseases, with proteases playing critical roles in pathological pathways.
+A high level of Trypsin-3 expression has been implicated as a significant mediator of tumour progression and metastasis, and this protease is associated with poor prognosis for patients in various cancers.
+Therefore, Trypsin-3 inhibition has emerged as a promising therapeutic target.
+However, no physiological or pharmacological inhibitor has yet been described that specifically targets Trypsin-3.
+A major challenge in developing a druggable inhibitor for this protease lies in achieving selectivity, as proteases belong to a large enzymatic family with close homologues that share similarities in the three-dimensional folding of their active conformation.

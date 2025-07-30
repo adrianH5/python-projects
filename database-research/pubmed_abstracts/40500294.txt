@@ -1,0 +1,7 @@
+Antibody-drug conjugates (ADCs) and T-cell-dependent bispecific antibodies (TDBs) show single-agent efficacy in relapsed/refractory (R/R) lymphomas.
+While coadministering therapeutics with orthogonal mechanisms of action may safely enhance efficacy, testing every potential combination regimen is infeasible in the clinic.
+An integrated quantitative systems pharmacology model of a CD19-targeted ADC and CD3/CD20-targeted TDBs was developed to predict combination regimen efficacy in R/R diffuse large B-cell lymphoma (DLBCL).
+Clinically validated models of the ADC loncastuximab tesirine and TDB mosunetuzumab were combined and extended to additional TDBs (glofitamab and epcoritamab).
+Virtual DLBCL populations were calibrated using monotherapy response data, and tumor volume dynamics simulated under alternate combination dosing regimens and patient scenarios.
+Additive antitumor effects were predicted from the fourth cycle onward, with combination efficacy insensitive to loncastuximab tesirine dose reductions or patient lymphopenias.
+Results of the LOTIS-7 study (NCT04970901) will soon be available to assess these predictions.

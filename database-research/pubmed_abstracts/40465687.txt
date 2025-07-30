@@ -1,0 +1,7 @@
+Interferon-γ (IFN-γ) plays complex and, sometimes, contradictory roles in cancer, which can affect patient responses to treatments such as immunotherapies.
+We recently demonstrated that IFN-γ production by chimeric antigen receptor (CAR) T cells is not required for efficacy in hematologic tumor models, whereas IFN-γ receptor (IFN-γR) signaling in solid tumor cells facilitates CAR T cell adhesion and antigen-specific cytotoxicity.
+Here, we show that IFN-γ induces apoptosis of CAR T cells bearing a CD28 intracellular signaling domain, which can be reduced through targeting of IFN-γ or IFN-γR.
+In hematologic malignancies, knockout of IFN-γR (IFN-γRKO) in CAR T cells increased their persistence without compromising efficacy.
+In xenograft and syngeneic solid tumor models, IFN-γR knockout CAR T cells displayed more potent tumor control, prolonged survival, and improved T cell memory that conferred protection from tumor rechallenge.
+RNA sequencing of tumor-infiltrating IFN-γRKO CAR T cells derived from tumor-bearing mice revealed increased cell death in tumor cells.
+Collectively, these data show that inhibition of IFN-γ signaling can increase the expansion and antitumor activity of CD28-based CAR T cells in liquid and solid tumors.

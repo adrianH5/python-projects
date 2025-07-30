@@ -1,0 +1,12 @@
+Retrotransposon long interspersed nuclear element-1 (LINE-1, L1) constitutes a large proportion of the mammalian genome.
+A fraction of L1s, which have no deleterious mutations in the structure, can amplify their copies via a process called retrotransposition (RT).
+RT affects genome stability and gene expression and is involved in the pathogenesis of many hereditary diseases.
+Measuring expression of RT-capable L1s (rc-L1s) among the hundreds of thousands of non rc-L1s is an essential step to understand the impact of RT.
+We developed mobile element-originated read enrichment from RNA-seq data (MORE-RNAseq), a pipeline for calculating expression of rc-L1s using manually curated L1 references in humans and mice.
+MORE-RNAseq allows for quantification of expression levels of overall (sum of the expression of all rc-L1s) and individual rc-L1s with consideration of the genomic context.
+We applied MORE-RNAseq to publicly available RNA-seq data of human and mouse cancer cell lines from the studies that reported increased L1 expression.
+We found the significant increase of rc-L1 expressions at the overall level in both inter- and intragenic contexts.
+We also identified differentially expressed rc-L1s at the locus level, which will be the important candidates for downstream analysis.
+We also applied our method to young and aged human muscle RNA-seq data with no prior information about L1 expression, and found a significant increase of rc-L1 expression in the aged samples.
+Our method will contribute to understand the role of rc-L1s in various physiological and pathophysiological conditions using standard RNA-seq data.
+All scripts are available at https://github.com/molbrain/MORE-RNAseq.

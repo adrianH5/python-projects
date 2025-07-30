@@ -1,0 +1,6 @@
+Non-coding RNAs (ncRNAs)-including microRNAs (miRNAs), long non-coding RNAs (lncRNAs), circular RNAs (circRNAs), PIWI-interacting RNAs (piRNAs), tRNA-derived small RNAs (tsRNAs), and small nucleolar RNAs (snoRNAs) -have emerged as master regulators of cancer biology.
+Beyond their established roles as diagnostic and prognostic biomarkers, aberrant ncRNAs expression intricately modulates programmed cell death (PCD) processes such as apoptosis, autophagy, ferroptosis, and pyroptosis, thereby shaping tumor responses to chemotherapy.
+This review presents a unified framework that links six classes of ncRNAs to the full spectrum of PCD modalities in the context of chemoresistance.
+We systematically dissect the molecular circuits through which ncRNAs influence caspase activation, autophagic flux, lipid peroxidation, and inflammasome assembly, and we highlight how these interactions underpin drug resistance across diverse cancer types.
+Finally, we evaluate the therapeutic promise of targeting ncRNAs-PCD axes, discuss delivery and specificity challenges, and propose strategic solutions to accelerate clinical translation.
+This synthesis offers novel mechanistic insights and actionable perspectives for overcoming chemotherapy resistance in cancer management.

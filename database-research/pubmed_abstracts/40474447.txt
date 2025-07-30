@@ -1,0 +1,10 @@
+Randomized controlled trials (RCTs) are considered the gold standard for evaluating treatment efficacy, but they come with several practical challenges.
+These include high costs, lengthy timelines, ethical concerns for participants in placebo or control arms, and issues such as patient attrition and non-compliance.
+Recruiting patients for the control arm can be particularly challenging, especially in therapeutic areas with high unmet medical needs.
+To address these issues, hybrid trial designs that integrate external data sources, such as historical controls and real-world data, have emerged as a promising alternative.
+This paper introduces the Bayesian hybrid design with adaptive sample size through multisource exchangeability modeling (BEAM).
+The BEAM design leverages a modified multisource exchangeability model to dynamically borrow relevant information from multiple historical data sources, while adaptively adjusting the sample size throughout the trial.
+This approach ensures that the trial maintains statistical rigor and efficiency, even when heterogeneity exists between current and historical data, and mitigates the challenges associated with control arm accrual and compliance.
+Through extensive simulations, BEAM demonstrated robust performance in controlling type I error rate, reducing bias, and maintaining power compared to traditional methods and other adaptive designs.
+Additionally, the BEAM design offers a versatile and efficient computational framework for optimizing clinical trials, helping to reduce both the cost and time involved in drug development.
+We also illustrate the application of the proposed BEAM design in a case study on ankylosing spondylitis.

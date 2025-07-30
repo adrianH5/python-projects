@@ -1,0 +1,10 @@
+Electrical impedance spectroscopy (EIS) is a powerful tool used to investigate the properties of materials and biological tissues.
+This study presents one of the first applications of EIS for the detection and classification of oral potentially malignant disorders (OPMDs) and oral cancer.
+We aimed to apply EIS in conjunction with deep learning to assist the clinical diagnosis of OPMD and oral cancer as a non-invasive diagnostic technology.
+Currently, the diagnosis of OPMD and oral cancer relies on clinical examination and histopathological analysis of invasive scalpel tissue biopsies, which is stressful for patients, time-consuming for clinicians and subject to histopathological interobserver variation in diagnosis, although recent advances in artificial intelligence may circumvent discrepancy.
+Here we developed a novel deep learning convolutional neural network (CNN)-based method to automatically differentiate normal, OPMD and malignant oral tissues using EIS measurements.
+EIS readings were initially taken from untreated or glacial acetic acid-treated porcine oral mucosa and analyzed via CNN to determine if this method could discriminate between normal and damaged oral epithelium.
+CNN models achieved area under the curve (AUC) values of 0.92 ± 0.03, with specificity 0.95 and sensitivity 0.84, showing good discrimination.
+EIS data from ventral tongue and floor-of-the-mouth were collected from 51 healthy humans and 11 patients with OPMD and oral cancer.
+When a binary classification (low or high risk of malignancy) was applied, the best CNN model achieved an AUC 0.91 ± 0.1, with accuracy 0.91 ± 0.05, specificity 0.97 and sensitivity 0.74.
+These results demonstrate the considerable potential of EIS in combination with CNN models as an adjunctive non-invasive diagnostic tool for OPMD and oral cancer.

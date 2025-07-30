@@ -1,0 +1,9 @@
+5-Fluorouracil (5-FU) is a cornerstone chemotherapeutic agent commonly employed in colorectal cancer (CRC) treatment.
+Prolonged use of 5-FU can trigger drug resistance, primarily through the upregulation of thymidylate synthase (TS).
+Consequently, strategies targeting TS suppression could enhance 5-FU's therapeutic potential in resistant CRC cases.
+Short-chain fatty acids (SCFAs), derived from the fermentation of dietary fibers by gut microbiota, are implicated in various disease mechanisms, including cancer.
+Among SCFAs, sodium butyrate (NaB) is known to inhibit TS expression, reduce CRC cell viability, and promote apoptosis.
+However, the potential of sodium propionate (NaP), another SCFA, to exhibit similar effects remains under investigation.
+This study reveals that NaP, when combined with 5-FU, synergistically decreases CRC cell survival and enhances apoptosis.
+Furthermore, NaP counteracts the 5-FU-induced upregulation of TS, amplifying its inhibitory effects on drug-resistant CRC cells.
+These results suggest that NaP may serve as an effective adjunct in improving the therapeutic outcomes of 5-FU-based CRC treatments.

@@ -1,0 +1,8 @@
+T1	Repository 1775 1778	PDB
+T2	AccessionNumber 1782 1786	2dd8
+T3	AccessionNumber 1791 1795	2ghw
+T4	Repository 2597 2600	PDB
+T5	AccessionNumber 2605 2609	6VSB
+R1	hasAttr	Arg1:T1	Arg2:T2
+R2	hasAttr	Arg1:T1	Arg2:T3
+R3	hasAttr	Arg1:T4	Arg2:T5

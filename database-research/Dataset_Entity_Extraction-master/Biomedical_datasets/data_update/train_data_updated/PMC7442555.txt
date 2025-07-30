@@ -1,0 +1,5 @@
+SARS-CoV-2 is a virus that causes the ongoing COVID-19 pandemic, an acute respiratory distress syndrome which represents the most serious problem for global health (Cascella et al., 2020).
+However, since March 2020, some manufacturers reported the shortage of supplies related to COVID-19 driven by the sudden increase in global demand for RNA extraction kits.
+However, heating oropharyngeal swabs is not as sensitive or accurate as RT-qPCR reactions performed on purified samples, detecting 97.4 % of the COVID-19-positive patients with no false positives results (Fomsgaard and Rosenstierne, 2020).
+Also, Chelex-100 was incorporated as a protective agent during extraction at high temperatures because this reagent favors chelating groups to bind to cellular components (Lounsbury et al., 2012).
+This protocol allowed detecting only 97.4 % of COVID-19-positive patients in comparison to PEG/NaCl precipitation that detected 100 % of the positive cases.

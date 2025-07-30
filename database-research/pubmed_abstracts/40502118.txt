@@ -1,0 +1,10 @@
+The identification of spatially resolved proteomes has recently seen significant breakthroughs, yet challenges persist, particularly in integrating protein identification with precise spatial localization within a single experimental workflow.
+Matrix-assisted laser desorption ionization mass spectrometry imaging (MALDI-MSI) enables spatial protein mapping on tissue sections without the need for antibodies.
+While MALDI-MSI addresses several obstacles in proteomic mapping with spatial resolution, it remains limited in its capacity for definitive protein identification.
+To overcome these limitations, this study introduces a novel approach combining MALDI-MSI with liquid chromatography-mass spectrometry (LC-MS/MS) to map protein localization and spatial changes in thymic tissue.
+Using a mouse model of chemotherapy-induced thymic involution with time-dependent regeneration kinetics, we evaluated the capability of this pipeline to resolve proteomic changes in a spatiotemporal manner.
+Our approach incorporates a scoring system to align molecular signals from MALDI-MSI with proteomic data, enabling precise identification of proteins critical for thymic function.
+The results reveal key changes in protein expression, particularly in regions associated with cell migration, cytoskeletal remodeling, and endogenous thymic regeneration.
+By analyzing the spatial distribution of proteins such as Keratin 8 (KRT8), Nucleoporin TPR, Cysteineand Glycine-Rich Protein 3 (CSPR3), and Tubulin-Associated Chaperone-A (TBCA), we observed distinct shifts in thymic compartment architecture, underscoring the impact of chemotherapy on thymic tissue structure.
+From a translational viewpoint, this approach identifies new pathways and targetable candidates to enhance immune cell recovery in pediatric cancer patients undergoing cytoreductive treatments.
+From an analytical perspective, it provides an innovative framework for visualizing protein distribution in lymphoid and other tissues, significantly advancing the potential for translational proteomic research.

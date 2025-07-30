@@ -1,0 +1,10 @@
+Berberine (BBR), one of the main active isoquinoline alkaloids in Coptis chinensis, has gradually gained attention for its therapeutic effect on various tumors, including colorectal cancer (CRC).
+However, the detailed mechanisms underlying remain to be elucidated.
+The cytotoxic potential of BBR towards CRC cells was examined by MTT.
+Autophagy was indicated by acidic vesicular organelle formation, LC3 dots accumulation and conversion of LC3I to LC3II, while autophagic flux was monitored by the fusion of autophagosomes and lysosomes based on green fluorescence quenching in cells transfected with mRFP-GFP-LC3 plasmids and P62 degration.
+Furthermore, endoplasmic reticulum (ER) stress response-associated proteins in CRC cell lines treated with BBR and/or ER stress inhibitor 4-Phenylbutyric acid (4-BPA) were assessed by Western blotting.
+BBR-induced intracellular ROS accumulation was measured by DCFH-DA.
+ZIP Synergy scores were calculated using Synergyfinder software to evaluate the synergistic effects of BBR and 5-fluorouracil (5-FU).
+BBR induced cell death by autophagy-dependent mechanisms and resulted in sustained ER stress and oxidative stress, which contributed to the induction of complete autophagic flux.
+The inhibition of autophagy by chloroquine (CQ) partially reversed the anticancer effect of BBR, suggesting that BBR induced cytotoxic autophagy.
+Importantly, BBR enhanced the sensitivity of CRC cells to 5-FU.BBR might be a novel chemotherapy adjuvant drug that targets colorectal cancer by regulating ER stress/oxidative stress/autophagy/apoptosis.

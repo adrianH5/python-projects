@@ -1,0 +1,8 @@
+Lung cancer remains a leading cause of cancer-related mortality worldwide, emphasizing the critical need for accurate and early diagnostic solutions.
+This study introduces a novel multimodal artificial intelligence (AI) framework that integrates Convolutional Neural Networks (CNNs) and Artificial Neural Networks (ANNs) to improve lung cancer classification and severity assessment.
+The CNN model, trained on 1019 preprocessed CT images, classified lung tissue into four histological categories, adenocarcinoma, large cell carcinoma, squamous cell carcinoma, and normal, with a weighted accuracy of 92 %.
+Interpretability is enhanced using Gradient-weighted Class Activation Mapping (Grad-CAM), which highlights the salient image regions influencing the model's predictions.
+In parallel, an ANN trained on clinical data from 999 patients-spanning 24 key features such as demographic, symptomatic, and genetic factors-achieves 99 % accuracy in predicting cancer severity (low, medium, high).
+SHapley Additive exPlanations (SHAP) are employed to provide both global and local interpretability of the ANN model, enabling transparent decision-making.
+Both models were rigorously validated using k-fold cross-validation to ensure robustness and reduce overfitting.
+This hybrid approach effectively combines spatial imaging data and structured clinical information, demonstrating strong predictive performance and offering an interpretable and comprehensive AI-based solution for lung cancer diagnosis and management.

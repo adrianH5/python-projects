@@ -1,0 +1,5 @@
+Presently, more than 350 sequences of virus isolated from several countries are shared in GISAID database.
+All the 351 sequences available of COVID-19 isolated from humans have been downloaded from GISAID (https://www.gisaid.org/) databank.
+A dataset has been built including sequences from human and excluding sequences from animals (like bat or pangolin).
+The complete dataset was assessed for presence of phylogenetic signal by applying the likelihood mapping analysis implemented in the IQ-TREE 1.6.8 software (http://www.iqtree.org).
+A comparison of data from evolutionary and phylogenetic analysis leads us to hypothesize that the mutations are probably unrelated to a strain or a sub-family of the COVID-19 but are due to independent converging evolution of the virus that promote these changes in the viral genome.

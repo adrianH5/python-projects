@@ -1,0 +1,3 @@
+Performance-based risk-sharing agreements (PBRSA) represent an innovative tool for managing uncertainty and balanced distribution of the financial risk of high-cost drugs.
+By linking reimbursement to real-world treatment performance, these agreements help mitigate budgetary impacts.
+This study poses an illustrative patient-level PBRSA reimbursement model for non-small cell lung cancer (NSCLC) immunotherapy based on collected real-world data (RWD).

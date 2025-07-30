@@ -1,0 +1,7 @@
+Circulating tumor cells (CTCs) and their clusters are the cellular drivers of metastasis.
+This study uses microfluidic models mimicking human capillary bifurcations to better understand how these cells interact with capillary beds.
+Patient CTCs, CTC-derived explant cells, and numerous cancer cell lines shed nuclei-free fragments in a cell size- and bifurcation-dependent manner.
+These shedding events, which reduces cell sizes up to 61%, facilitate CTC transit through bifurcations.
+The shed fragments are a novel subclass of large extracellular vesicles (LEVs) that we name "shearosomes" based on their requirement of shear stress for their biogenesis, and whose proteome is associated with immune-related pathways.
+Shearosomes exhibit functions that are characteristic of previously identified extracellular vesicles (EVs), including cell-directed internalization by endothelial and immune cells, and intercellular communication capabilities such as disruption of endothelial barrier integrity, polarization of monocytes toward M2 tumor-promoting macrophages, and mediating interactions between endothelial and immune cells.
+These findings suggest that CTCs shed shearosomes within capillary beds that affect cells implicated in the metastatic cascade.

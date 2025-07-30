@@ -1,0 +1,8 @@
+Lung cancer is one of the most prevalent malignancies, characterized by high morbidity and mortality rates.
+Current diagnostic approaches primarily rely on CT imaging and histopathological evaluations, which are time-consuming, heavily dependent on pathologists' expertise, and prone to misdiagnosis.
+Fourier transform infrared (FTIR) microspectroscopy is a promising label-free technique that can offer insights into morphological and molecular pathological alterations in biological tissues.
+Here, we present a novel FTIR microspectroscopy method enhanced by a deep learning model for differentiating lung cancer tissues, which serves as a crucial adjunct to clinical diagnosis.
+We propose an infrared spectral domain adversarial neural network (IRS-DANN), which employs a domain adversarial learning mechanism to mitigate the impact of inter-patient variability, thereby enabling the accurate discrimination of lung cancer tissues.
+This method demonstrates superior classification performance on a real clinical FTIR dataset, even with limited training samples.
+Additionally, we visualize and elucidate the FTIR fingerprint peaks, which are linked to the corresponding biological components and crucial for lung cancer differentiation.
+These findings highlight the great potential of incorporating FTIR microspectroscopy with the deep learning model as a valuable tool for the diagnosis and pathological studies of lung cancer.

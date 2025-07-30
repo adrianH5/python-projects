@@ -1,0 +1,7 @@
+The protein casein kinase 2 (CK2) has been shown to be upregulated in SARS-CoV-2 infections.
+However, few inhibitors have been tested for antiviral activity against coronaviruses.
+In this study, highly potent and selective bivalent inhibitors targeting the protein kinase CK2 were developed.
+The chemical structure of the well-known inhibitor CX-4945 was used as an anchor for the ATP-binding site and was linked by polar and aliphatic linkers to chemical structures that bind the cryptic αD pocket of CK2.
+The bivalent inhibitor Biv5, which demonstrated a sub-nanomolar kinase inhibition, showed potent antiviral activity against SARS-CoV-2 in HEK-ACE2-TMPRSS2 and Vero cells.
+In addition, Biv5 significantly reduced viral replication over time in an ex vivo model of primary human nasal epithelial cells.
+The selectivity of Biv5 was tested against 16 kinases targeted by CX-4945, confirming that targeting the αD pocket confers high selectivity for CK2 to such inhibitors.

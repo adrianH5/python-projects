@@ -1,0 +1,3 @@
+Neutrophil extracellular traps (NETs) are pivotal in the metastasis of non-small cell lung cancer (NSCLC).
+Our previous research demonstrated that NETs facilitate NSCLC metastasis by triggering the stimulation of the NOD-like receptor protein 3 (NLRP3) inflammasome, which is mediated through the suppression of the long non-coding RNA MIR503HG.
+However, the precise molecular mechanisms linking MIR503HG to NLRP3 are still not fully understood.

@@ -1,0 +1,8 @@
+Targeting macrophage inhibitory receptors like signal regulatory protein α (SIRPα) is a promising avenue in cancer treatment.
+Whereas the ligand of SIRPα, CD47, is widely expressed on tumor cells, its simultaneous presence on all normal cells raises concerns about toxicity and efficacy.
+This study identifies CD200R1, which binds CD200 on specific tumor types and limited normal cells, as an alternative inhibitory checkpoint for phagocytosis.
+Blocking or removing CD200R1 from macrophages or CD200 from tumor cells increases phagocytosis and suppresses tumor growth.
+In humans, CD200R1 is mainly expressed in immunosuppressive macrophages and is induced by interleukin-4.
+Unlike SIRPα that utilizes phosphatases Src homology 2 domain phosphatase (SHP)-1 and SHP-2, CD200R1 mediates its inhibitory effect via the kinase Csk.
+Combined CD200R1-CD200 and SIRPα-CD47 blockade further boosts phagocytosis and reduces tumor growth of CD200-expressing tumors, compared to either blockade alone.
+Thus, targeting CD200R1-CD200 is a promising strategy for immune checkpoint blockade in macrophages, either alone or alongside blockade of other checkpoints.

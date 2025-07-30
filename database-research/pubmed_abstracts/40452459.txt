@@ -1,0 +1,3 @@
+Administrative medicine dispensing data often omit prescribed duration, which is important for research on adherence or other pharmacoepidemiological topics.
+While the reverse waiting time distribution (rWTD) method has been widely used to estimate prescribed durations, its accuracy in real-world dispensing data is unknown.
+We assessed the performance of the rWTD method against the actual prescribed duration recorded in the Rotterdam Study.

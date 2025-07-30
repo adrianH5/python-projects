@@ -1,0 +1,72 @@
+Most COVID-19 studies have focused on its epidemiological and clinical characteristics (Ghinai et al., 2020, Guan et al., 2020).
+They usually recover with, or even without, conventional medical treatment and therefore are classified as mild or moderate COVID-19 (Thevarajan et al., 2020).
+These molecular changes may shed light on therapy development for COVID-19 patients.
+To test this hypothesis, we applied proteomic (Aebersold and Mann, 2016, Li et al., 2020) and metabolomic (Hou et al., 2020, Lee et al., 2019) technologies to analyze the proteome and metabolome of sera from COVID-19 patients and several control groups.
+We procured a cohort of patients (Zheng et al., 2020) containing 28 severe COVID-19 patients.
+These controls were 28 healthy subjects, 25 non-COVID-19 patients (negative for the SARS-CoV-2 nucleic acid test) with similar clinical characteristics as COVID-19 patients, and 25 non-severe COVID-19 patients.
+We analyzed 12 clinical measurements of the COVID-19 and non-COVID-19 patients (Figure S1
+), including white blood cell count, lymphocyte count, monocyte count, platelet count, C-reactive protein (CRP), alanine aminotransferase (ALT), aspartate aminotransferase (AST), glutamyltransferase (GGT), total bilirubin (TBIL), direct bilirubin (DBIL), creatinine, and glucose.
+(A) Summary of COVID-19 patients, including non-severe (n = 37) and severe (n = 28) patients with more details in Table S1.
+Twelve Clinical Parameters of COVID-19 Patients and Non-COVID-19 Patients, Related to Figure 1
+We next investigated the possibility of identifying the severe cases from COVID-19 patients based on the molecular signatures of proteins and metabolites (Table S3).
+This model reached an area under curve (AUC) of 0.957 in the training set (Figure 2C).
+To further validate this classifier, we developed targeted mass spectrometric assays for the 22 proteins and 7 metabolites (Figure 2A) and analyzed these 29 molecules in a second test cohort containing 19 COVID-19 patients (Figure 1; Table 1; Tables S1 and S5).
+We found that 105 proteins were differentially expressed in the sera of COVID-19 patients but not the non-COVID-19 patients (Figures S3
+and S4
+).
+It was found that 373 metabolites were significantly changed in COVID-19 patients (Figure S4B), whereas the change of 204 metabolites was correlated with disease severity as evaluated by mFuzz (Figure S5).
+Differentially Expressed Proteins and Metabolites in Different Patient Groups in the Training Cohort, Related to Figure 4 and 5
+Proteins and Metabolites Regulated in COVID-19 Patients but Not in Non-COVID-19 Patients, Related to Figure 4 and 5
+Identification of Specific Clusters of Proteins and Metabolites in COVID-19 Patients, Related to Figure 4 and 5
+Pathway Analysis of 93 Differentially Expressed Proteins in COVID-19 Patients, Related to Figure 4 and 5
+Our data uncovered dysregulation of multiple apolipoproteins including APOA1, APOA2, APOH, APOL1, APOD, and APOM (Figure 3A).
+Decrease of APOA1 in serum has been reported during the transition of COVID-19 patients from mild to severe illness (Nie et al., 2020).
+The APOM in sera of severe patients was downregulated compared with healthy and non-severe COVID-19 patients.
+Accumulation of 11 steroid hormones in COVID-19 patients may contribute to macrophage modulation.
+Metabolites of kynurenate, kynurenine, and 8-methoxykynurenate were enriched in COVID-19 patients.
+Our data showed decreased sphingolipids in both non-severe and severe COVID-19 patients (Figure 4
+A).
+Our data suggest severe COVID-19 patients might benefit from this therapeutic strategy.
+Choline and its derivatives were downregulated in COVID-19 patients (Figure 4B), particularly in severe cases, while phosphocholine, the intermediate product for producing phosphatidylcholine (PC) was upregulated (Figure 4A).
+Among the most significantly upregulated proteins in the sera of the severe COVID-19 patients are APPs, including serum amyloid A-1 (SAA1), serum amyloid A-2 (SAA2), serum amyloid A-4 (SAA4), CRP, alpha-1-antichymotrypsin (SERPINA3), and serum amyloid P-component (SAP/APCS) (Figure 3B).
+Although CRP has been associated with COVID-19, the other proteins have not previously been reported in COVID-19 (Liang et al., 2020).
+Low platelet count is also reported to be associated with severe COVID-19 and mortality (Lippi et al., 2020).
+In a proteomic investigation of sera in SARS patients, decreasing PF4 was found to be associated with poor prognosis (Poon et al., 2012), which is in consistent with our findings in COVID-19.
+Serotonin level decreases as the severity of COVID-19 increases (Figure 4B) and so does the platelet count (Zheng et al., 2020).
+Compared with the healthy group, serotonin in non-severe and severe COVID-19 patients decreased by 2.07-fold (p = 1.86e-04) and 3.31-fold (p = 9.07e-07), respectively.
+Compared with the healthy controls, more than 100 metabolites, amino acids and their derivatives, in the sera of COVID-19 patients were significantly decreased, whereas their levels were either unchanged or even increased in the sera of non-COVID-19 patients.
+In addition, some arginine derivatives such as argininate, asymmetric dimethylarginine, symmetric dimethylarginine, homoarginine, and N-acetylarginine were also significantly decreased in the sera of non-severe COVID-19 patients.
+Although COVID-19 can be diagnosed effectively by nucleic-acid-based methods at an early stage, it is equally critical to identify severe COVID-19 patients before the manifestation of severe symptoms to minimize mortality.
+We achieved an overall accuracy of 93.5% in the training set (C1).
+In this training set (C1), five severe patients were correctly identified based on the analysis of their serum samples collected 1 to 4 days before they were clinically diagnosed as severe patients (Figure 1), suggesting that their serum protein and metabolite signatures at the sampling time may already point to further deterioration into severe state even when severe clinical symptoms have not started to appear yet.
+The proteins and metabolites used in our classifier (Figure 2A) contain several known biomarkers for viral infections, such as SAA2, SAA1, and CRP, which have already been used empirically to monitor the severity of COVID-19.
+Our data suggest potential benefits of broader testing of these proteins in newly diagnosed cases to identify which COVID-19 patients are likely to progress to severe disease.
+Our data shed light on the molecular changes reflected in COVID-19 sera, which could potentially yield critical diagnostic markers or therapeutic targets for managing severe COVID-19 patients (Figure 5
+).
+A recent necropsy report revealed alveolar macrophage infiltration and activation in severe COVID-19 patients (Liao et al., 2020), supporting our findings.
+To date, few other therapies are proven effective for severe COVID-19 patients.
+Corticosteroid treatment was effective in suppressing MERS-CoV and SARS-CoV (Arabi et al., 2018) but showed negligible effect on COVID-19 patients and may even have induced lung injury (Russell et al., 2020).
+The molecular changes revealed in this study in the COVID-19 sera might be useful for prioritizing therapeutic strategies for the severe patients.
+Our data suggest that severe COVID-19 patients might benefit from suppression of complement system.
+Our metabolomics results showed that more than 100 lipids including glycerophospholipid, sphingolipids, and fatty acids were downregulated in COVID-19 patient sera, probably because of damage to the liver, which is also reflected in aberrancy in bilirubin and bile acids.
+Drugs inhibiting lipid synthesis such as statin have been proposed to treat HCV (Heaton and Randall, 2011) and COVID-19 (Fedson et al., 2020).
+Our data suggest these potential therapeutics might be helpful in the treatment of severe COVID-19 patients.
+Upon COVID-19 outbreak, limited information of this pathogen was available, which restricted the collection of a large number of clinical specimens for this study mainly because of biosafety constraints.
+Our team procured serum samples from 65 COVID-19 patients who visited Taizhou Hospital from January to March 2020.
+They were diagnosed as COVID-19 according to the Chinese Government Diagnosis and Treatment Guideline (Trial 5th version) (NHCPRC, 2020).
+For diagnosing COVID-19, nucleic acid from sputum or throat swab was extracted using nucleic acid extractor (Shanghai Zhijiang, China, EX3600) and virus nucleic acid extraction reagent (Shanghai Zhijiang, China, NO. P20200201) was used to extract nucleic acid.
+According to the abovementioned guideline, COVID-19 patients are classified into four subgroups: 1) Mild: mild symptoms without pneumonia; 2) Typical: fever or respiratory tract symptoms with pneumonia; 3) Severe: fulfill any of the three criteria: respiratory distress, respiratory rate ≥ 30 times/min; means oxygen saturation ≤ 93% in resting state; arterial blood oxygen partial pressure/oxygen concentration ≤ 300 mmHg (1 mmHg = 0.133 kPa); 4) Critical: fulfill any of the three criteria: respiratory failure and require mechanical ventilation; shock incidence; admission to ICU with other organ failure.
+In this study, we included both severe and non-severe patients, with the latter composed of mild and typical COVID-19 patients.
+We also procured 25 non-COVID-19 patients with similar clinical characteristics including fever and/or cough as COVID-19 patients however negative in the nucleic acid test.
+Based on the Chinese Government Diagnosis and Treatment Guideline (Trial 5th version) (NHCPRC, 2020), patients are defined as suspected COVID-19 cases when they meet the following three clinical criteria: 1) fever or respiratory symptoms, 2) imaging manifestation of pneumonia, and 3) optional reduction of white blood cell or lymphocyte count at early stage.
+The patients only need to meet at least two of the above three criteria if they have been exposed to COVID-19 individuals.
+Most non-COVID-19 patients exhibited fever and cough.
+The samples from this study are from a clinical trial that our team initiated and registered in the Chinese Clinical Trial Registry with an ID of ChiCTR2000031365.
+The resultant mass spectrometric data were analyzed using Proteome Discoverer (Version 2.4.1.15, Thermo Fisher Scientific) using a protein database composed of the Homo sapiens fasta database downloaded from UniProtKB on 07 Jan 2020, containing 20412 reviewed protein sequences, and the SARS-CoV-2 virus fasta downloaded from NCBI (version NC_045512.2).
+IDA mode (rolling collision energy, +2 to +5 charge states with intensity criteria above 2,000,000 cps to guarantee all untargeted peptides will not be acquired) for time-scheduling was set up for 51 peptides including 10 iRT peptides (Escher et al., 2012) with a mass tolerance of 50 ppm.
+Early detection and effective treatment of severe COVID-19 patients remain major challenges.
+Here, we performed proteomic and metabolomic profiling of sera from 46 COVID-19 and 53 control individuals.
+Targeted proteomics and metabolomics assays were employed to further validate this molecular classifier in a second test cohort of 19 COVID-19 patients, leading to 16 correct assignments.
+We identified molecular changes in the sera of COVID-19 patients compared to other groups implicating dysregulation of macrophage, platelet degranulation, complement system pathways, and massive metabolic suppression.
+This study revealed characteristic protein and metabolite changes in the sera of severe COVID-19 patients, which might be used in selection of potential blood biomarkers for severity evaluation.
+Graphical Abstract      Proteomic and metabolomic analysis of COVID-19 sera identifies differentially expressed factors that correlate with disease severity and highlights dysregulation of multiple immune and metabolic components in clinically severe patients.

@@ -1,0 +1,8 @@
+The World Health Organization declare this outbreak as a public health emergency of international concern on 30th January 2020
+ and the disease caused by this specific virus species have recently been designated as coronavirus disease 2019 (COVID‐19).
+Available complete genome sequences of 64 SARS‐CoV‐2 strains recently isolated from 30th December 2019 to 9th March 2020 in Europe (including Netherland, Luxembourg, Switzerland, Ireland, France, Italy, Germany, Portugal, and England), North America (including USA, Canada and Mexico), South America (including Chile and Brazil), and South East Asia (including Hong Kong, Singapore, Japan, South Korea, Taiwan and China) were obtained from the Global Initiative on Sharing Avian Influenza Data (GISAID) database.
+For accession number, country of origin and date of isolation, see the Supplementary Material Table 1.
+Then, the evolutionary model that best fit the sequence dataset was determined using MEGA‐X program.
+DensiTree draws all the trees in the dataset simultaneously, but instead of using opaque lines, transparency is used when drawing the trees.
+As many early cases of COVID‐19 were linked to the Huanan market in Wuhan,
+ it is possible that an animal source was present at this location.

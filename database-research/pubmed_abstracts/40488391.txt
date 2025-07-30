@@ -1,0 +1,13 @@
+Integrin β6 is associated with poor prognosis in colorectal cancer (CRC) patients, with metastasis being a crucial determinant.
+Capillary endothelial cells (EC) in the liver and lung are the primary sites of contact for circulating tumour cells during metastasis.
+Here, we analysed the role of integrin β6 in tumour cells for their interaction with EC.
+Integrin β6 functions as a heterodimer with integrin αv.
+Interestingly, we found that liver and lung EC strongly express fibronectin, a high-affinity ligand of αvβ6.
+Expression of ITGB6 in CRC tumour cells closely correlated with their adhesion to EC.
+This interaction was greatly reduced by silencing ITGB6 in the tumour cells and was integrin β6 dependent under both static and flow conditions.
+Binding assays with fibronectin-coated surfaces, competing RGD peptides, and integrin β6-neutralizing antibodies confirmed the crucial role of β6-fibronectin binding in the interaction between tumour cells and EC.
+Since metastatic tumours exhibit increased proteolytic activity, we examined integrin β6 stability under these conditions.
+Remarkably, β6 remained resistant to trypsin and the matrix metalloprotease 12, underscoring its role in maintaining tumour cell adhesion in proteolytic microenvironments.
+Furthermore, ITGB6 expression was significantly elevated in liver metastases compared to corresponding primary tumours from the same patients, suggesting an enrichment of β6-expressing cells in metastatic sites.
+These results suggest that tumour cell integrin β6 binding to EC-derived fibronectin may serve as a critical first step in metastasis formation.
+Targeting this interaction could provide a promising therapeutic strategy to repress CRC metastasis.

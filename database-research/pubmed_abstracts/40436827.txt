@@ -1,0 +1,7 @@
+Genome-wide association studies (GWAS) have predominantly focused on European ancestry populations, limiting biological discoveries across diverse populations.
+Here we report GWAS findings from 153,950 individuals across 36 quantitative traits in the Korean Cancer Prevention Study-II (KCPS2) Biobank.
+We discovered 301 previously unreported genetic loci in KCPS2, including an association between thyroid-stimulating hormone and CD36.
+Meta-analysis with the Korean Genome and Epidemiology Study, Biobank Japan, Taiwan Biobank, and UK Biobank identified 4588 loci that were not significant in any contributing GWAS.
+We describe differences in genetic architectures across these East Asian and European samples.
+We also highlight East Asian specific associations, including a known pleiotropic missense variant in ALDH2, which fine-mapping identified as a likely causal variant for multiple traits.
+Our findings provide insights into the genetic architecture of complex traits in East Asian populations and highlight how broadening the population diversity of GWAS samples can aid discovery.

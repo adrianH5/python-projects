@@ -1,0 +1,5 @@
+Biallelic variants in RDH12 are associated with early-onset retinal dystrophy and Leber congenital amaurosis.
+RDH12 plays a role in the phototransduction cascade by converting all-trans retinal into all-trans retinol in the photoreceptor inner segments.
+Induced pluripotent stem cells (iPSCs) were generated and fully characterized from two patients that are compound heterozygous for the RDH12 c.[-123C>T;701G>A];[806_810del], p.[(?
+;Arg234His)];[(Ala269Glyfs*2)] variants.
+These iPSC lines can be used for differentiation towards retinal models to evaluate disease mechanisms and novel therapies.

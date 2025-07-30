@@ -1,0 +1,8 @@
+Oral squamous cell carcinoma (OSCC) can lead to metastasis and high mortality rates known for its aggressive and invasive properties.
+Currently, primary treatment options of surgical resection, chemotherapy and radiotherapy have many therapeutic limitations for OSCC patients due to its dynamic evolutionary pathways and the development of resistance to conventional therapies.
+Moreover, previous studies fail to emphasize the roles of cellular heterogeneity, drug resistance, and evolutionary trajectories in OSCC.
+This review explores the intricate tumor microenvironment landscape of OSCC, focusing on the cellular heterogeneity, drug resistance, and evolutionary trajectories as well as genetic, epigenetic, and environmental risk factors contributing to the OSCC progression.
+Tumor heterogeneity arises from environmental exposures (e.g., tobacco, HPV infection, dietary carcinogens) that drive clonal evolution, creating subpopulations of cells with distinct mutational profiles and therapeutic vulnerabilities.
+Recent advances in in the precision medicine and combination therapy of OSCC paves the way for innovative therapeutic strategies, such as targeting molecular subclones through real-time monitoring and leveraging computational models to predict treatment response.
+By recognizing tumor heterogeneity as both a driver of therapeutic resistance and a therapeutic target, precision medicine frameworks can integrate environmental risk factor data, molecular profiling, and early detection tools to optimize outcomes.
+This review underscores the necessity for a multidisciplinary approach to understand and combat the complexity of OSCC, proposing directions for future research to enhance diagnosis and treatment efficacy.

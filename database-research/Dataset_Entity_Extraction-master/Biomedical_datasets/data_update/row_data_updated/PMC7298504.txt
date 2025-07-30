@@ -1,0 +1,19 @@
+The rapid international spread of novel coronavirus disease 2019 (COVID-19) (1) has resulted in 5,103,006 confirmed cases and 333,401deaths worldwide as of May 23, 2020 (2).
+COVID-19 is caused by SARS-coronavirus 2 (SARS-CoV-2) infection in the lower respiratory tract (3), but the mechanisms underlying infection remain poorly understood (4).
+As information is still emerging about the health consequences of COVID-19, assisted reproductive treatments (ARTs) have been delayed due to fear of the unknown impact of SARS-Cov-2 on fertility (10, 11).
+The clinical presentation of COVID-19 ranges from mild respiratory symptoms to severe progressive pneumonia, gastrointestinal symptoms, fecal shedding, multiorgan failure, and even death (32, 33), but few studies have focused on the virus’s effect on fertility and damage to reproductive tissues, or on concerns regarding the use of reproductive treatments.
+Numerous transcriptomic studies have sought to understand gene expression changes throughout the menstrual cycle (40), and most of these data sets are available in public repositories, such as the Gene Expression Omnibus (GEO) database (41).
+The keywords searched in PubMed (44) included all possible combinations between “SARS-CoV-2,” “COVID-19,” “coronavirus,” “cell entry mechanisms,” “long-term implications,” and “fertility.”
+Public transcriptomic data sets were used to analyze expression of SARS-CoV-2 infectivity-related genes throughout the menstrual cycle.
+Endometrial transcriptomic experiments for control patients (without any known endometrial pathology) were systematically searched in the GEO database (41) with no restrictions on publication date or language and according to preferred reporting items for systematic reviews and meta-analyses (PRISMA) guidelines (45).
+Experiments were selected if
+Transcriptomic raw data were downloaded from the GEO database and processed according to the standards of the technology used (microarrays or RNA-seq) using limma R-package (version 3.34.9) (46).
+To integrate the included endometrial transcriptomic experiments, several steps were followed as recommended by Tajti et al. (49): after being independently normalized, selected studies were joined in a unique data set, and batch effects were corrected using linear models (limma R package) (43).
+The thresholds respectively correspond to 1% to 10%, 11% to 50%, and 51% to 100% categories of gene expression values of the entire integrated data set.
+A unique combined data set with a population of 109 patients was obtained, comprising 29 samples in the proliferative phase, 29 in the early secretory phase, 43 in the medium secretory phase, and eight in the late secretory phase (Table 1).
+Last row indicates the total number of samples accounted and genes in common between all data sets for all menstrual cycle phases (53, 54, 55).
+To make data sets comparable after the integration of all samples, this batch effect was removed (Fig. 1A, right).
+Low, medium, and high expression thresholds correspond to 1% to 10%, 11% to 50%, and 51% to 100% categories of gene expression values of the entire integrated data set, respectively.
+Viral genes are positioned in their schematized cell locations as stablished by GeneCards database > Localization section (release 4.14) (56).
+Because our study integrates data sets from GEO, this approach is limited by the study design.
+To determine the susceptibility of the endometrium to infection by—and thereby potential damage from—SARS-CoV-2.    Design  Analysis of SARS-Cov-2 infection-related gene expression from endometrial transcriptomic data sets.

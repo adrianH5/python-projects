@@ -1,0 +1,13 @@
+Accurate and timely diagnosis of leukemia, a cancer characterized by an excessive number of abnormal white blood cells (WBCs), is crucial for effective treatment.
+Manual examination of blood smear images for leukemia diagnosis is often laborious and costly.
+Computer-aided classification of WBCs has the potential to assist hematologists in improving diagnostic accuracy.
+However, the subtle visual differences among the five types of immature neutrophils pose a significant challenge, even for experienced professionals.
+The study proposes a method called densely connected co-occurrence network (DCONN).
+The method first detects white blood cells in blood smear images using Yolact.
+Then, the images are pre-processed to minimize the correlation between image channels by transforming RGB color space to LAB color space.
+Finally, DCONN extracts spatial texture information using a co-occurrence matrix to improve classification accuracy.
+DCONN achieved 93.46% accuracy in classifying five types of immature neutrophils: myeloblast, promyelocyte, myelocyte, metamyelocyte, and band cells.
+The results indicate that using a combination of densely connected convolutional layers and a co-occurrence layer improves classification accuracy while using fewer trainable parameters than other deep learning methods such as ResNet and Inception.
+Additionally, the model is less demanding in terms of training hardware than attentional mechanism-based models that also have local feature representation.
+DCONN achieves advanced performance based on small-scale models without requiring much training time.
+The proposed method can be extended to other pathological image analyses in the future.

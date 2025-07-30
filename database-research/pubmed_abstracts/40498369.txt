@@ -1,0 +1,10 @@
+The NLRP3 inflammasome has emerged as an unexpected sensor of metabolic danger and stress.
+Their enhanced activation has been implicated in the development of major diseases such as gout, Type 2 diabetes, obesity, cancer, and neurodegenerative and cardiovascular diseases.
+In this study, we showed that mammalian target of rapamycin (mTOR) regulates NLRP3 inflammasome activation in the nucleus of macrophages.
+mTOR binds to NLRP3 under basal conditions, and this binding is reduced after lipopolysaccharides (LPS) or LPS + adenosine triphosphate (ATP) treatment.
+Furthermore, rapamycin-induced downregulation of mTOR expression has an inhibitory effect on NLRP3 inflammasome activation.
+mTOR knockdown (KD) mice exhibit reduced protein levels of inflammasome components, and their macrophages fail to activate the NLRP3 inflammasome after LPS + ATP treatment.
+From a mechanistic point of view, LPS + ATP treatment induced the nuclear translocation of mTOR, leading to enhanced NLRP3 inflammasome activation.
+However, the mTOR inhibition by rapamycin treatment increased phosphorylation of STAT1 which repressed NLRP3 activation.
+When rapamycin was combined with the STAT1 inhibitor fludarabine, NLRP3 inflammasome activity was restored.
+Taken together, these findings suggest a role for mTOR in NLRP3 regulation and identify a potential therapeutic option for controlling inflammasome activation.

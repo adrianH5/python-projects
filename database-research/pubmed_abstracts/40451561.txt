@@ -1,0 +1,6 @@
+Ewing sarcoma is a cancer of bone and soft tissue in children characterized by a chromosomal translocation that fuses EWS and an ETS family transcription factor, most commonly FLI1.
+EWS-FLI1 is the driver of this cancer.
+Using secretome proteomics and molecular cell biology, we found that FAT4, an atypical cadherin activating Hippo signaling, is a transcriptional target of EWS-FLI and is a dependency in Ewing sarcoma.
+We determined that FAT4 - Hippo signaling regulates the expression of a secreted polypeptide, C4orf48/NICOL.
+We demonstrate that Ewing sarcoma depends on C4orf48, which functions as a cofactor for NELL2, a cytokine we previously identified as a critical dependency in Ewing sarcoma.
+These results reveal C4orf48 as a targetable dependency that links FAT4 - Hippo signaling and NELL2 signaling in Ewing sarcoma.

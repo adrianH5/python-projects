@@ -1,0 +1,8 @@
+The circadian rhythm, as a crucial endogenous biological oscillator, often undergoes disruptions, thus fostering severe immunosuppression within tumors.
+Here, this work develops directly evolved biovesicles as biological clock-modulated nanovaccines (Clock-NVs) to augment circadian clock gene expression and enhance cancer immunotherapy.
+These biovesicles act as bioreactors, transforming an unfavorable factor, ROS, into a beneficial circadian clock enhancer, oxygen.
+By targeting HIF-1α-BMAL1 axis, Clock-NVs restore the disrupted circadian rhythm within tumors.
+Upregulation of the core clock gene, BMAL1, initiates tumor cell death, enhances mitochondrial metabolism and antigen processing in dendritic cells to amplify antitumor immune responses.
+Clock-NVs effectively inhibit tumor growth, diminish metastasis, and demonstrate robust antitumor activity in a model of chemotherapy-resistant senescent tumors.
+Notably, Clock-NVs combined with adoptive T cell-based therapies achieve a 60% regression of primary tumors, while their use with anti-PD-L1 results in 100% inhibition of tumor recurrence.
+This strategy introduces nanovaccines designed to enhance temporal immunotherapy by precisely restoring the suppressed rhythm gene expression within tumors.

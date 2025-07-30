@@ -1,0 +1,10 @@
+This study aimed to determine the associations between sulfur microbial diet (SMD) and all-cause, cardiovascular disease, and cancer mortality.
+A total of 91 891 adults were included from the Prostate, Lung, Colorectal, and Ovarian Cancer Screening Trial.
+To evaluate adherence to this dietary pattern, the SMD score was calculated with higher scores indicating greater compliance.
+The hazard ratios (HRs) and 95% confidence intervals (CIs) were estimated using the Cox proportional hazards regression.
+After a median follow-up of 15.0 years, 20 706 all-cause deaths were noted.
+The participants in the highest quartile of the SMD score had an enhanced risk of death from all causes (HR: 1.12, 95% CI: 1.07, 1.17) and cancer (HR: 1.15, 95% CI: 1.06, 1.24) than those in the lowest quartile.
+Dose-response analysis indicated a nonlinear association between the SMD score and both all-cause and cancer mortality.
+Subgroup analyses demonstrated a significant positive association between the SMD score and all-cause mortality in participants aged 65 years and older.
+Higher adherence to the SMD is linked to increased risks of all-cause and cancer mortality in the US population.
+These study findings suggest that intestinal sulfur-metabolizing bacteria may play a role in the association between diet and health outcomes.

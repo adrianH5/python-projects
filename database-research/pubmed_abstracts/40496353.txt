@@ -1,0 +1,9 @@
+Skeletal muscle repair is primarily driven by muscle stem cells (MuSCs) that regenerate damaged myofibers.
+The differentiation process of MuSCs into differentiated myofibers, known as adult myogenesis, is tightly regulated by various transcription factors, which involve precise spatio-temporal gene expression patterns.
+Epigenetic factors play an important role in this regulation, as they modulate gene expression to maintain the balance between the different myogenic states.
+Histone lysine methyltransferases KMT sare key epigenetic regulators, with the SUV39 family being of particular interest for their role in gene repression via H3K9 methylation.
+This family comprises SUV39H1, SUV39H2, SETDB1, SETDB2, G9A, and GLP.
+While the functions of SUV39 family members have been well characterized during development in embryonic stem cells and in disease contexts such as cancer, their functions in adult stem cell populations, especially in MuSCs, are still not fully understood.
+Recent studies shed new light on how the SUV39 family influences muscle biology, particularly in regulating MuSCs fate and adult myogenesis.
+These enzymes are critical for maintaining the epigenetic landscape essential for effective muscle repair, as they regulate the transition between different myogenic states and ensure coordinated gene expression during regeneration.
+Here, we present a comprehensive overview of the functions of the SUV39 KMTs family in skeletal muscle biology, emphasizing their role in adult myogenesis and exploring the broader implications for muscle regeneration and related diseases.

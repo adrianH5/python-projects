@@ -1,0 +1,11 @@
+Although immune checkpoint inhibitors show great promise, not all patients respond and many do not achieve durable responses.
+Consequently, further investigations into potentially targetable molecules that regulate immune checkpoints are warranted.
+Previous studies in several cancers demonstrated that interferons produced by tumor-infiltrating leukocytes regulate immunosuppressive PD-L1, PD-L2 and IDO1 through JAK/STAT signaling.
+Here, we investigated a novel role for an immunosuppressive environmental chemical receptor, previously implicated in smoking-related cancers, in IFN signaling in human lung adenocarcinoma (LUAD) cells.
+Deletion of the aryl hydrocarbon receptor (AhR) from A549 LUAD cells significantly decreased baseline JAK2, STAT1, STAT3, IRF1 (a JAK/STAT target), PD-L1, PD-L2, and IDO1 expression.
+IFNγ and IFNα increased expression of JAK/STAT and immune checkpoint genes and proteins, but these increases were significantly diminished or absent in AhR-knockout cells.
+The AhR similarly controls IFN-induced, JAK/STAT-driven increases in multiple MHC class I- and class II-related genes.
+AhR control of type I and type II interferon signaling is mediated through up-regulation of a lncRNA, the IFN-stimulated non-coding RNA 1 (INCR1), and through repression of an RNA-binding protein, heterogeneous nuclear ribonucleoprotein H1 (HNRNPH1), which sequesters JAK/STAT-related and immune checkpoint gene transcripts.
+The data suggest that the AhR is a key mediator of tumor immunosuppression through regulation of IFN-induced INCR1 and JAK/STAT signaling and, thereby, expression of immune checkpoints.
+However, that immunosuppression may be tempered by AhR control of MHC expression.
+Given the multiple roles of JAK/STAT signaling in the immune system, the results also suggest multiple levels on which the AhR may affect tumor immunity.

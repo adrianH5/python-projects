@@ -1,0 +1,5 @@
+The World Health Organization declare this 2019-nCoV outbreak as a public health emergency of international concern on January 30th, 2020 (WHO, 2020b) and the disease caused by this specific virus species have recently been designated as COVID-19 (Coronavirus Infectious Disase-19) (WHO, 2020a).
+Available and comparable complete genome sequences of 81 βCoV strains isolated in China, including SARS-CoV-2 as well as βCoV isolated from different hosts, were obtained from GenBank database (available at: http://www.ncbi.nlm.nih.gov).
+For accession number, strain name, host and date of isolation, see Supplementary material Table 1.
+The dataset comprised a total of 725,433 codons.
+By the same approach, Heatmaps were also constructed, which is a data matrix for visualizing values in the dataset by the use of a color gradient.

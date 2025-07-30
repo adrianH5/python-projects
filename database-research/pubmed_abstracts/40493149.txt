@@ -1,0 +1,13 @@
+tsRNAs are a novel class of non-coding RNAs.
+The functions of tsRNAs in breast cancer are still not largely understood.
+In the present study, we detected expression of tsRNAs in both serum-derived exosomes and breast tumors, and explored the roles of the differentially expressed tsRNAs.
+We profiled tsRNAs in serum-derived exosomes from breast cancer patients, and explored the functions and mechanisms of tsRNAs via bioinformatics methods, RT-qPCR, transwell assay, cell counting kit-8 assay, colony formation assay, wound healing assay, cell cycle analysis, apoptosis assay, dual-Luciferase reporter assay, and western blot.
+We identified 34 differentially expressed tsRNAs in serum-derived exosomes.
+After validation in 15 paired tissues and 80 serums using RT-qPCR and identified tRF-22-WE8SPOX52 as an up-regulated tsRNA.
+The area under curve for exosomal tRF-22-WE8SPOX52 was 0.859.
+The overexpression of tRF-22-WE8SPOX52 promoted cell proliferation, migration, and invasion of BC cells while suppressing apoptosis.
+Similarly, knockdown of tRF-22-WE8SPOX52 also confirmed its effects.
+Western blot assay and dual luciferase assay showed MAP2K4 is a target of tRF-22-WE8SPOX52.
+tRF-22-WE8SPOX52 promotes BC by suppressing MAP2K4.
+tRF-22-WE8SPOX52 is significantly up-regulated in serum-derived exosomes and tumors from breast cancer patients.
+Exosomal tRF-22-WE8SPOX52 may serve as a potential biomarker for breast cancer.

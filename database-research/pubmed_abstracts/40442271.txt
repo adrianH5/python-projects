@@ -1,0 +1,11 @@
+To assess whether transanal drainage tubes (TDT) protect against anastomotic leakage (AL) in patients without diverting stomas (DS) after laparoscopic anterior rectal resection (LAR).
+In the TDT group, after anastomosis of the sigmoid colon to the rectum, a 32F silicone tube was inserted through the anus with the tip of the tube exceeding the anastomosis by more than 5 cm.
+The tube was secured around the anus with a skin suture and a drainage bag was attached.
+It was left in place for 3-5 days postoperatively in the TDT group.
+In the No-TDT group, no transanal silicone tube drainage was used after the anastomosis.
+A total of 927 patients (620 in the no-TDT group and 307 in the TDT group) were included in the analysis, and a total of 50 (5.4%) patients were observed to develop AL.
+After using propensity score matching (PSM) to reduce baseline feature imbalances between the two groups, there were 287 patients in both groups, and the mean retention time of TDT was (4.7 ± 1.2) d. The incidence of AL in the TDT group was significantly lower than that in the no-TDT group (3.8% vs. 8.0%, with a the incidence of AL in the TDT group was significantly lower than that in the non-TDT group (3.8% vs. 8.0%, P = 0.034), but the incidence of AL classification was similar (P = 0.709).
+There were no significant differences between the two groups in terms of postoperative complications and postoperative recovery.
+Multivariate logistic regression analysis revealed that TDT was found to be an independent protective factor for postoperative AL (OR 0.437, 95% CI 0.207-0.923, P = 0.030).
+The elective use of TDT is a simple and effective protective measure for the prevention of AL in patients without stoma after LAR surgery, helping to reduce the probability of AL.
+This may be a potential alternative DS method for the appropriate population.

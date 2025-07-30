@@ -1,0 +1,9 @@
+Small nucleolar RNAs are non-coding RNAs typically encoded within the introns of both protein-coding and non-coding genes.
+Interestingly, a significant fraction of snoRNA sequences is found as retained introns of specific mRNA isoforms expressed from their host gene.
+In the present study, we aimed to define the representation of small nucleolar RNA retaining transcripts across various human cell types and tissues including cancer.
+We found that these type of transcripts are widely represented in normal tissues and cancer-derived cell lines, appearing both in their full-length form and, frequently, in a shorter variant.
+We characterized the shortening position, which occurs at or very close to the retained small nucleolar RNA sequence at the 5' end.
+Interestingly, for some transcripts this shorter variant represents the only form detected.
+In addition, some of the small nucleolar RNA retaining transcripts can be localized into the cellular cytoplasmic fraction.
+Moreover, our findings point out that a variable but consistent proportion of small nucleolar RNA sequences in cells, tissues, and liquid biopsy samples is, in fact, present as small nucleolar RNA retaining transcripts, indicating that these elements should be carefully considered when snoRNA are evaluated as biomarkers.
+Considering that short reads and gene-based transcriptomic analysis completely overlooked these transcripts, potentially missing critical insights into their involvement in cancer and other diseases, our results strongly indicate that these type of transcripts should be further investigated in different contexts to better understand their biogenesis, sequence features, presence, and role within cells.

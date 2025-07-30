@@ -1,0 +1,6 @@
+To delineate Gpr109A's role and mechanisms in modulating the immune microenvironment of hepatocellular carcinoma.
+Employing Gpr109A-knockout mice and in vitro co-cultures of hepatocellular carcinoma cells with macrophages, this study utilized a suite of techniques, including lentiviral vectors for stable cell line establishment, Western blotting, cell scratch, CCK-8, transwell assays, flow cytometry, immunohistochemistry and phagocytosis assay to assess various cellular behaviors and interactions.
+Gpr109A deletion markedly reduced the oncogenic potential of H22 cells, both in vivo and when co-cultured with knockout macrophages, impairing their growth, invasion, and migration.
+In Gpr109A-knockout macrophages, an upregulation of MerTK and a reduction in immunosuppressive cytokine release were observed, indicating a shift towards an M2c macrophage phenotype.
+This shift is linked to Gpr109A's role in promoting protease overexpression and inhibiting SHP2 phosphorylation, crucial for enhancing cancer cell proliferation and invasiveness.
+Gpr109A significantly influences macrophage polarization to the M2c type, augmenting hepatocellular carcinoma cell aggressiveness.

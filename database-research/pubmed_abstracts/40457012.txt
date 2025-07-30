@@ -1,0 +1,10 @@
+Stem cell factor (SCF) is a type of hematopoietic cytokine that functions in early hematopoietic stem cells.
+SCF, together with its cognate receptor c-kit, plays crucial roles in cell survival, proliferation, and differentiation.
+A dysregulated SCF/c-kit system is reportedly, associated strongly with various kinds of cancer in humans.
+However, the function and mechanism of SCF in non-small cell lung cancer (NSCLC) remains to be elucidated to date.
+In this context, the present study attempted to purify two different sizes of human SCF proteins and then investigate the effect of these exogenous SCFs in A549 cells.
+First, the homo sapiens Kit ligand (KITG) transcript variants a and b were amplified, and recombinant pET-30a vectors were constructed.
+Soluble His-SCF and His-SCF-2 were then expressed and purified using 0.1 mM isopropyl-β-D-1-tiogalactopiranoside (IPTG) at 25 °C and 0.3 mM IPTG at 25 °C, respectively.
+MTT assay was conducted next, which revealed that the purified proteins significantly promoted A549 cell activity and increased the phosphorylation of P65.
+Further, NF-κB pathway blockade was achieved through treatment with BAY11-7082, and it was observed to decrease the A549 cell activity promoted by the purified proteins.
+These findings provided insights into the biological role of SCF in the development of NSCLC.

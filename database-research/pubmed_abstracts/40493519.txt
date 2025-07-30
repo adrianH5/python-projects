@@ -1,0 +1,10 @@
+Large language models (LLMs) like OpenAI's ChatGPT (generative pretrained transformers) offer great benefits to systematic review production and quality assessment.
+A careful assessment and comparison with standard practice is highly needed.
+Two custom GPTs models were developed to compare a LLM's performance in "Risk-of-bias (ROB)" assessment and "Levels of engagement reached (LOER)" classification vs human judgments.
+Inter-rater agreement was calculated.
+ROB GPT classified a slightly higher "low risk" overall judgments (27.8% vs 22.2%) and "some concern" (58.3% vs 52.8%) than the research team, for whom "high risk" judgments were double (25.0% vs 13.9%).
+The research team classified slightly higher "low risk" total judgments (59.7% vs 55.1%) and almost double "high risk" (11.1% vs 5.6%) compared to "ROB GPT" (55.1%), which rated higher "some concerns" (39.4% vs 29.2%) (P = .366).
+With regards to LOER analysis, 91.7% vs 25.0% were classified "Collaborate" level, 5.6% vs 61.1% as "Shared leadership", and 2.8% as "Involve" vs 13.9% by researchers, while no studies classified in the first two engagement level vs 8.3% and 13.9%, respectively, by researchers (P = .169).
+A mixed-effect ordinal logistic regression showed an odds ratio (OR) = 0.97 [95% confidence interval (CI) 0.647-1.446, P = .874] for ROB and an OR = 1.00 (95% CI = 0.397-2.543, P = .992) for LOER compared to researchers.
+Partial agreement on some judgments was observed.
+Further evaluation of these promising tools is needed to enable their effective yet reliable introduction in scientific practice.

@@ -1,0 +1,12 @@
+Cervical cancer remains one of the leading causes of cancer-related mortality among women worldwide, particularly in low- and middle-income countries, highlighting the need for improved strategies in treatment and management.
+This study aimed to investigate the anti-cervical cancer potential and molecular mechanisms of Solanecio mannii (S. mannii) aqueous extract using a "multi-compound, multi-target, multi-pathway" approach, integrating both computational and experimental methods.
+The metabolomics profile of the extract was analysed, and its selective cytotoxicity was assessed against human cervical cancer cell lines (HeLa cells) using the CCK8 assay.
+A network pharmacology approach identified potential molecular targets and pathways, which was complemented by molecular docking and dynamic simulation.
+The expression levels of key targets were validated experimentally using quantitative real-time polymerase chain reaction.
+Additionally, the extract's effects on apoptosis, autophagy, and cell cycle progression were studied experimentally.
+The aqueous roots extract exhibited selective cytotoxicity against HeLa cells with an IC50 of 12.53 ± 4.983 μg/ml.
+The network pharmacology analysis identified 25 drug-like compounds targeting 493 unique cervical cancer-associated proteins, forming a protein-protein interaction network of 465 nodes and 2230 edges, and implicated in 178 enriched KEGG pathways.
+Key targets, including NFΚB1, PIK3CA, HIF1A, STAT3, HSP90AA1, HSP90AB1, PPARG, and ESR1 were experimentally downregulated.
+Furthermore, S. mannii aqueous roots extract triggered apoptosis through endoplasmic reticulum stress, DNA damage, and activation of the non-transcriptional, P53-mediated mitochondrial apoptotic pathway.
+Additionally, the extract inhibited hypoxia and autophagy, and induced cell cycle arrest at the G2/M phase, even in the presence of oncogenic HPV proteins (E6 and E7).
+In conclusion, Solanecio mannii aqueous roots extract demonstrates a "multi-compound, multi-target, multi-pathway" molecular mechanism against cervical cancer.

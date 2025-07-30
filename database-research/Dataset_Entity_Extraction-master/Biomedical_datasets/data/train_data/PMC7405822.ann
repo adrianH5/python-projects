@@ -1,0 +1,16 @@
+T1	Creator 24905 24923	Kurth et al., 2020
+T2	Creator 25548 25566	Kurth et al., 2020
+T3	Repository 26194 26206	10x Genomics
+T4	URL 26250 26335	https://support.10xgenomics.com/single-cell-gene-expression/datasets/3.0.2/5k_pbmc_v3
+T5	URL 26350 26436	https://support.10xgenomics.com/single-cell-gene-expression/datasets/3.0.0/pbmc_10k_v3
+T6	URL 26450 26535	https://support.10xgenomics.com/single-cell-gene-expression/datasets/3.0.0/pbmc_1k_v3
+T7	Creator 27877 27896	Reyes et al. (2020)
+T8	Repository 29099 29145	Kyoto Encyclopedia of Genes and Genomes (KEGG)
+T9	Creator 29156 29170	Kanehisa, 2019
+T10	Creator 29193 29214	Liberzon et al., 2015
+T11	Repository 29220 29238	Gene Ontology (GO)
+T12	Creator 29240 29262	Ashburner et al., 2000
+T13	Creator 29264 29283	Carbon et al., 2019
+R1	hasAttr	Arg1:T3	Arg2:T4
+R2	hasAttr	Arg1:T3	Arg2:T5
+R3	hasAttr	Arg1:T3	Arg2:T6

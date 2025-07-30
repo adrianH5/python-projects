@@ -1,0 +1,15 @@
+Cancer stem cells (CSCs), distinguished by their abilities to differentiate and self-renew, play a pivotal role in the progression of colorectal cancer (CRC).
+However, the mechanisms that sustain CSCs in CRC remain unclear.
+This study aimed to identify and characterize gene expressions associated with CRC stemness.
+We applied a 1-class logistic regression machine learning model to calculate the mRNA expression-based stemness index (mRNAsi) for CRC samples from The Cancer Genome Atlas and cBioPortal databases, adjusting the mRNAsi by tumor purity.
+Clinical features of CRC were considered in assessing both mRNAsi and adjusted mRNAsi levels.
+Using DESeq2, we screened differentially expressed genes between high and low mRNAsi groups.
+Enrichment analysis provided functional annotation for these differentially expressed genes.
+Key genes linked to mRNAsi were identified using the Kaplan-Meier plotter and Cytoscape software, followed by an evaluation of their prognostic significance.
+Potential small-molecule compounds targeting the CRC stemness signature were explored via L1000FWD, DGIdb, and CMap databases.
+CRC samples with higher mRNAsi or adjusted mRNAsi values showed improved disease-free survival (DSS) and progression-free survival (PFS).
+Strong correlation between clinical characteristics of CSCs and mRNAsi was observed; CMS4 subtype CRC patients had lower mRNAsi with worse DSS and PFS.
+Ten key genes associated with mRNAsi were identified: collagen type I alpha 1, fibrillin 1, matrix metalloproteinase 9, SPP1, BGN, COL5A1, FN1, elastin, matrix metalloproteinase 2, collagen type I alpha 2.
+Lower expression of these genes correlated with better PFS and DSS.
+High correlation among these genes was confirmed in the protein-protein interaction network.
+This study identifies potential small-molecule drugs targeting stemness in CRC and highlights the prognostic value of the 10 key genes, offering insights into therapeutic targets for CRC treatment.

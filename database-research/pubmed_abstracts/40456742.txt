@@ -1,0 +1,6 @@
+Ataxia-telangiectasia is a rare genetic disorder characterized by neurological defects, immunodeficiency, cancer predisposition, radiosensitivity, decreased blood vessel integrity, and diabetes.
+ATM, the protein mutated in Ataxia-telangiectasia, responds to DNA damage and oxidative stress, but its functional relationship to the progressive clinical manifestation of this disorder is not understood.
+CD98HC chaperones cystine/glutamate and cationic/neutral amino acid antiporters to the cell membrane, and CD98HC phosphorylation by ATM accelerates membrane localization to acutely increase amino acid transport.
+Loss of ATM impacts tissues reliant on heterodimeric amino acid transporters relevant to Ataxia-telangiectasia phenotypes, such as endothelial cells (telangiectasia) and pancreatic α-cells (fatty liver and diabetes), with toxic glutamate accumulation.
+Bypassing the antiporters restores intracellular metabolic balance in ATM-deficient cells and mouse models.
+These findings provide insight into the long-known benefits of N-acetyl cysteine in Ataxia-telangiectasia cells beyond oxidative stress through removing glutamate excess by producing glutathione.

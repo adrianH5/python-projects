@@ -1,0 +1,1 @@
+To train and evaluate the performance of a machine learning triaging tool that identifies MRI negative for clinically significant prostate cancer and to compare this against non-MRI models.

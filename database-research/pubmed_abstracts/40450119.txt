@@ -1,0 +1,11 @@
+Cancer cells have a greater requirement for iron because of their continuous and rapid proliferation.
+To do that, iron homeostasis is altered in cancer cells to meet this excessive demand.
+Transferrin (TF) and lipocalin 2 (LCN2) are proteins that play essential roles in transporting and delivering iron into cells.
+The aim of this study was to investigate the serum levels of transferrin and lipocalin 2 in Syrian breast cancer patients, and compare them with those in a control group and their correlation with the tumor state and characteristics.
+This case‒control study included 80 Syrian women divided into two groups: a group of patients with breast cancer who were newly diagnosed via biopsy (n = 40), and a control group of healthy women (n = 40).
+Serum transferrin levels were measured via an immunoturbidimetric assay and serum levels of lipocalin 2 were measured via an enzyme-linked immunosorbent assay (ELISA).
+Compared with the control group, the case group presented lower levels of Lipocalin 2, but serum LCN2 levels were correlated with estrogen and progesterone receptor (ER,PR) negative status (r = -0.330, p-value = 0.038) and (r = -0.441, p-value = 0.004) respectively.
+However, transferrin levels were correlated only with progesterone receptor status.
+Interestingly, there was a negative correlation between serum lipocalin 2 and transferrin serum levels (r = -0.416, p-value = 0.008).
+This study revealed that serum lipocalin 2 levels decrease in breast cancer patients with increased tumor expression of the ER and PR receptors, it also indicates the collaboration and the cross-talk of iron transport proteins to deliver it to cancer cells.
+This suggests the importance of iron transport proteins as novel biomarkers and perhaps as therapeutic targets for aggressive subtypes of breast cancer (ER-negative and PR-negative subtypes).

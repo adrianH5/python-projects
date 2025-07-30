@@ -1,0 +1,3 @@
+Gallbladder cancer (GBC) is a rare and aggressive cancer of the biliary tract with a very low survival rate.
+The availability of diagnostic biomarkers and targeted therapies for its management is limited.
+The study identifies potential genetic biomarkers of GBC by analyzing differentially expressed genes (DEGs) through microarray profiling and constructing regulatory networks using systems biology techniques.

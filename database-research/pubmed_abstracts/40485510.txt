@@ -1,0 +1,10 @@
+Furin is a mammalian serine protease with important roles in cellular homeostasis and disease.
+It cleaves and activates numerous endogenous and exogenous substrates, including the SARS-CoV-2 viral spike protein and protein toxins such as diphtheria toxin and Pseudomonas exotoxin A (PE).
+Recombinant immunotoxins (RITs) are toxin conjugates used as cancer therapeutics that connect tumor-directed antibodies with toxins for targeted cell killing.
+RITs based on PE have shown success in treating a variety of cancers, but often suffer from safety and efficacy concerns when used clinically.
+We have explored furin as a potential limiting factor in the intoxication pathway of PE-based RITs.
+Although the furin has widely recognized importance in RIT intoxication, its role is incompletely understood.
+Circumstantial evidence suggests that furin may act as a transporter for RITs in addition to its role of activation by cleavage.
+Here, we describe the creation of a CRISPR-engineered furin-deficient HEK293 cell line, ▵Fur293.
+Using ▵Fur293 and derivatives that express mutant forms of furin, we confirm the importance of furin in the PE RIT intoxication pathway and show that furin trafficking has a significant impact on RIT efficacy.
+Our data support the hypothesis that furin acts as a transporter during RIT intoxication and suggest furin as a target for modification to improve the effectiveness of RITs.

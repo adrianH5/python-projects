@@ -1,0 +1,8 @@
+Breast cancer is the second deadliest cancer among women after lung cancer.
+Though the breast cancer death rate continues to decline in the past 20 years, the stages IV and III breast cancer death rates remain high.
+Therefore, an automated breast cancer diagnosis system is of great significance for early screening of breast lesions to improve the survival rate of patients.
+This paper proposes a deep learning-based network hybrid adaptive attention deep supervision-guided U-Net (HAA-DSUNet) for breast lesion segmentation of breast ultrasound computed tomography (BUCT) images, which replaces the traditionally sampled convolution module of U-Net with the hybrid adaptive attention module (HAAM), aiming to enlarge the receptive field and probe rich global features while preserving fine details.
+Moreover, we apply the contrast loss to intermediate outputs as deep supervision to minimize the information loss during upsampling.
+Finally, the segmentation prediction results are further processed by filtering, segmentation, and morphology to obtain the final results.
+We conducted the experiment on our two UCT image datasets HCH and HCH-PHMC, and the highest Dice score is 0.8729 and IoU is 0.8097, which outperform all the other state-of-the-art methods.
+It is demonstrated that our algorithm is effective in segmenting the legion from BUCT images.

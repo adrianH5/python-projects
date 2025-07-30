@@ -1,0 +1,9 @@
+RNA viruses like SARS-CoV-2 have high mutation rates, which contribute to their rapid evolution.
+Mutation rates depend on mutation type and can vary between sites in a virus's genome.
+Understanding this variation can shed light on the mutational processes at play, and is crucial for quantitative modeling of viral evolution.
+Using millions of SARS-CoV-2 full-genome sequences, we estimate rates of synonymous mutations for each mutation type and examine how much these rates vary between sites.
+We find a surprisingly high level of variability.
+A substantial fraction of this variability can be explained by local sequence context, genomic region, and RNA secondary structure.
+We estimate fitness effects of each mutation based on the number of times it actually occurs versus the number of times it is expected to occur based on a model of the above features.
+We identify small regions of the genome where synonymous or noncoding mutations occur much less often than expected, indicative of strong purifying selection on the RNA sequence independent of protein sequence.
+Overall, this work expands our basic understanding of SARS-CoV-2's evolution by characterizing the virus's mutation process at the level of individual sites and uncovering several striking mutational patterns that arise from unknown mechanisms.

@@ -1,0 +1,4 @@
+Intensity-modulated proton therapy (IMPT) offers precise tumor coverage while sparing organs at risk (OARs) in head and neck (H&N) cancer.
+However, its sensitivity to anatomical changes requires frequent adaptation through online adaptive radiation therapy (oART), which depends on fast, accurate dose calculation via Monte Carlo (MC) simulations.
+Reducing particle count accelerates MC but degrades accuracy.
+To address this, denoising low-statistics MC dose maps is proposed to enable fast, high-quality dose generation.

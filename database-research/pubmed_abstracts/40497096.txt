@@ -1,0 +1,3 @@
+Despite the promising prospects of utilizing artificial intelligence and machine learning (ML) for comprehensive disease analysis, few models constructed have been applied in clinical practice due to their complexity and the lack of reasonable explanations.
+In contrast to previous studies with small sample sizes and limited model interpretability, we developed a transparent eXtreme Gradient Boosting (XGBoost)-based model supported by multi-center data, using patients' basic information and clinical indicators to forecast the occurrence of anastomotic leakage (AL) after rectal cancer resection surgery.
+The model demonstrated robust predictive performance and identified clinically relevant thresholds, which may assist physicians in optimizing perioperative management.

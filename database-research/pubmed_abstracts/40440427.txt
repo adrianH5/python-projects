@@ -1,0 +1,3 @@
+The maintenance of H3K9me3 involves the recognition of pre-existing modifications by HP1, which recruits methyltransferase SUV39H1 to methylate the adjacent newly incorporated histones, thereby establishing a positive feedback loop.
+However, how this positive feedback is restricted to maintain H3K9me3 homeostasis remains largely unknown.
+Here, we performed an unbiased genome-scale CRISPR-Cas9 screen and identified CUL5

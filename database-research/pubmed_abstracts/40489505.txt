@@ -1,0 +1,12 @@
+Cancer is rapidly increasing worldwide and urgent global action towards cancer control is required.
+Consistent with global trends, Canada is expected to experience a near doubling in new cases and cancer deaths between 2020-2040; population growth and ageing being the primary drivers.
+The projected increased cancer incidence and its associated costs is expected to further exacerbate socioeconomic inequities.
+Focused actions to prevent cancer, to detect it earlier when more treatable, and, to lower the risk of recurrence, must be prioritized.
+Almost half of all cancers are preventable, caused by risk factors that are potentially avoidable and modifiable.
+Integrating cancer prevention with care-based models is necessary and represents the most cost-effective and sustainable approach to control cancer.
+To be effective, prevention efforts must consider the cancers impacting local populations and understand how community and individual factors interact within the spatial and temporal contexts in which people live.
+This study is part of the Nova Scotia Community Cancer Matrix project which profiles the cancers impacting communities over time; measuring associations between cancer and socioeconomic status (SES); and determining how the joint spatial distribution of cancers can be used to address inequities, identify priority populations and strengthen prevention efforts.
+Using Bayesian inference to model spatio-temporal variations in 58,206 cases diagnosed in 301 communities between 2001-2017, across 10 preventable cancer types, we report significant disparities in cancer risk across communities based on sex and community SES.
+The work highlights the utility of small-area mapping to identify at-risk communities and understand how community-SES impacts risk.
+It also uncovers significant inequities rooted in the differential distribution of material and social capacity, operating beyond the control of individuals.
+The approach is implementable to other regions to inform and strengthen prevention efforts aiming at reducing the burden of cancer or that of other diseases.

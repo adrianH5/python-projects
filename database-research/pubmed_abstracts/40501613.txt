@@ -1,0 +1,3 @@
+The breast peritumor microenvironment (pTME) is increasingly recognized as a mediator of breast cancer progression and treatment resistance.
+However, if and how growth-induced tumor compressive forces (i.e., solid stresses) influence the breast pTME remains unclear.
+Here we show using instant fluorescence lifetime imaging microscopy (FLIM)-a frequency-domain FLIM system capable of simultaneous image acquisition and instantaneous data processing-that breast tumor-mimicking

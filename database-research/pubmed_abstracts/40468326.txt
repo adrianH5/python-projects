@@ -1,0 +1,3 @@
+Lung cancer (LC) is one of the most prevalent and fatal malignancies worldwide.
+With the progress of society, the pathogenic factors, medical diagnosis, and environmental health policies of lung cancer have all changed.
+Therefore, predicting the incidence trend of LC is of significance for people to understand the future burden of LC.In this study, we aimed to analyze temporal trends in LC incidence across 45 areas from 1978 to 2017, investigate regional and demographic patterns of LC incidence, and predict trends from 2018 to 2035.

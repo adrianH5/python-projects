@@ -1,0 +1,11 @@
+Despite significant progress in solid tumor oncology, including widespread genomic testing, metastatic cancer remains largely incurable and results in approximately 90% of cancer deaths.
+In the context of systems biology, RNA transcriptome-based (RNA-seq) testing is utilized to identify master regulator proteins that are putative drivers of tumor progression.
+After extensive preclinical testing and validation, Darwin OncoTarget and OncoTreat has been developed as a commercially available next generation precision oncology test with preliminary evidence of efficacy in treatment-refractory advanced cancers.
+We designed this pilot trial to assess the feasibility of integrating Darwin OncoTarget and OncoTreat testing in patients with oligometastases receiving comprehensive involved site radiotherapy.
+Eligible patients are adults with solid tumor oligometastases with up to 10 discrete tumors amenable to radiation therapy following prior first-line systemic therapy.
+Tumor biopsy is required to allow for precision medicine testing to supplement standard clinical management.
+Formalin fixed paraffin embedded tissue with >50% tumor will be sent to the Laboratory of Personalized Genomic Medicine at Columbia University Medical Center for Darwin OncoTarget and OncoTreat testing.
+Patients will either continue standard of care systemic therapy or proceed with an alternative FDA approved treatment informed by Darwin testing.
+This trial evaluates the feasibility and utility of integrating novel precision oncology testing in a community hospital setting.
+This study will utilize precision oncology testing in the population of induced, recurrent or persistent oligometastases that currently have limited or largely ineffective systemic treatment options.
+This trial represents an early attempt at integrating next generation precision medicine testing and systems biology in the context of radiation therapy.

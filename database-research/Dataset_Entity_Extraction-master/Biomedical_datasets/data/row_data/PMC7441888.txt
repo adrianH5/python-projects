@@ -1,0 +1,11 @@
+The outbreak of coronavirus COVID-19 has become a most challenging health emergency in over the world [4,5].
+The number of deaths associated COVID-19 is greatly higher than the other two coronaviruses (SARS-CoV and MERS-CoV), and the outbreak is still ongoing, which global concern to the public health and economics [14].
+The most common symptoms of coronavirus disease (COVID-19) are fever, tiredness, and dry cough.
+There are no specific vaccines or treatments for COVID-19 [17].
+That could be used as peptide vaccines against SARS-CoV-2/COVID-19.
+The S protein sequence was retrieved from NCBI at http://www.ncbi.nlm.nih.gov/protein and saved in FASTA format for further analyses; then Protein BLAST (http://blast.ncbi.nlm.nih.gov/Blast.cgi) against reference sequence on the database was performed using Blosum80 matrix to collect homologous sequences between different Coronaviruses.
+S protein sequence with accession No. QII57161.1 is available as a query for protein BLAST against Coronavirus producing a set of sequences containing various species of Coronaviruses.
+The best epitopes recommended by this server are ‘‘LNEVAKNLNESLIDLQELGK’‘, “TLVKQLSSNFGAISSVLNDI”, “QQLIRAAEIRASANLAATKM” and “KEELDKYFKNHTSPDVDLGD” at regions 1186–1205, 961–980, 1010–1029 and 1149–1168 respectively.
+Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus that it disease spreads in over the world.
+Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.
+At this time, there are no specific vaccines or treatments for COVID-19.

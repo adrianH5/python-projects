@@ -1,0 +1,11 @@
+EZH2 (enhancer of zeste homolog 2) is an important component of the Polycomb Repressive Complex 2 (PRC2) and is essential for the epigenetic regulation of gene expression.
+EZH2 primarily methylates histone H3 at lysine 27 (H3K27me3) to repress target gene transcription, particularly concerning tumor suppressor genes.
+The silencing of these genes ultimately promotes cancer by facilitating several important processes, a notable one being epithelial-mesenchymal transition (EMT), which promotes the invasiveness and metastatic potential of cancer cells, particularly in digestive system cancers.
+In addition to its role in histone modification, EZH2 interacts with diverse noncoding RNA species, including long noncoding RNAs (lncRNAs) and microRNAs, which can influence expression and activity.
+These interactions form elaborate regulatory pathways through which EZH2 enhances its oncogenic abilities.
+For example, lncRNAs recruit EZH2 to specific gene promoters and promote EZH2's repressive function to repress important tumor suppressor genes seen in colon, gastric, and esophageal cancers.
+Also, EZH2 overexpression has been associated with poor prognosis in several cancers, including gastrointestinal cancers.
+EZH2 overexpression is linked with aggressive tumor behavior and contributes to therapeutic resistance as cancer cells adapt to avoid the effects of traditional cancer therapy.
+EZH2 allows cancer cells to persist and proliferate in response to therapy by silencing genes that control apoptosis and the cell cycle.
+Since EZH2 is strongly associated with poor prognosis and therapeutic resistance in digestive cancers, targeting EZH2 will be a highly effective therapeutic strategy.
+This in-depth review suggests that further efforts will be required to thoroughly characterize the complex molecular networks that involve EZH2, especially with the hope of generating new therapeutic pathways in malignant cancers of the digestive system.

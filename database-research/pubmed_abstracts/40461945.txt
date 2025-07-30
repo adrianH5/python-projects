@@ -1,0 +1,2 @@
+Virologic endpoints are used in Phase 2 trials for COVID-19 therapeutics, but they have not been established as surrogates for clinical endpoints.
+No meta-analysis using individual participant data (IPD) has been undertaken to identify viral load outcomes for which treatment effects are best associated with effects on hospitalization/death.

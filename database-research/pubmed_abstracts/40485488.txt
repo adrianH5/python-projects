@@ -1,0 +1,8 @@
+This study reports engineered protease-stable, gramicidin-inspired, peptide-based proton transporter LD8Δ, with alternating L- and D-amino acid residues, to treat the highly chemoresistant, radioresistant, immunosuppressive metastatic renal cell carcinoma (RCC) cell line SK-RC-45.
+Exploiting the potential of the LD8Δ proton transporter, this study proposes mechanistically rational combination therapy with high translational potential.
+Current treatment methods involve multi-targeted tyrosine kinase inhibitors, which are accompanied by serious side-effects and exhibit an alarmingly low median overall survival.
+Computational and experimental data suggested that LD8Δ induced considerable membrane deformation, which supported the destabilization of the intracellular pH regulating mechanism observed in LD8Δ-treated RCC.
+This mechanistically rational combination therapy using LD8Δ and HIF-2α silencing siRNA induced mitochondrial depolarization, cell cycle arrest, apoptosis, reduction in angiogenesis and disruption of the major oncogenic signalling pathways in SK-RC-45 cells.
+The designed therapy upregulated the VHL tumour suppressor protein and downregulated HIF-2α protein expression, thus decreasing the activity of the HIF transcriptional factor, which is the master regulator causing clear cell RCC.
+Additionally, it upregulated DAB2IP and facilitated radiosensitization in the radioresistant SK-RC-45 cells.
+To the best of our knowledge, this is the first study demonstrating that a designed biocompatible proton transporter can potentiate immunotherapy against RCC by inducing the downregulation of the dual checkpoint proteins CD47, PD-L1 and ganglioside GM2, resulting in enhanced phagocytosis and preventing T cell inactivation and T cell apoptosis.

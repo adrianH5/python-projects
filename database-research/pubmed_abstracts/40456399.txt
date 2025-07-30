@@ -1,0 +1,6 @@
+Alterations of metabolic pathways that sustain cancer cell survival often offer promising therapeutic avenues.
+Here, we show that enhanced de novo cholesterol biosynthesis is crucial for the survival of head and neck squamous cell carcinoma (HNSCC).
+Transcriptomic analysis of HNSCC tissues identified profound dysregulation in steroid and cholesterol metabolism compared to normal tissues.
+Inhibition of two key enzymes, DHCR7 and DHCR24, which mediate cholesterol biosynthesis, induced apoptosis in HNSCC cells, even when cholesterol levels were restored.
+Metabolomic profiling revealed the accumulation of 7-dehydrocholesterol (7-DHC) upon DHCR7 or DHCR24 inhibition, triggering endoplasmic reticulum (ER) stress and promoting further cell death.
+These findings suggest that HNSCC cells adapt to ER stress by modulating 7-DHC levels through enhancing DHCR7 and DHCR24 levels, highlighting a metabolic vulnerability in HNSCC and demonstrating a direct link between cholesterol metabolism and ER stress in cancer cell viability.

@@ -1,0 +1,26 @@
+T1	Creator 66 97	World Health Organization (WHO)
+T2	Repository 867 870	PDB
+T3	AccessionNumber 875 879	6Y2F
+T4	Repository 1188 1191	PDB
+T5	AccessionNumber 1196 1200	6Y2E
+T6	Repository 1230 1233	PDB
+T7	AccessionNumber 1238 1242	6Y2F
+T8	Repository 1468 1480	NCBI GenBank
+T9	Repository 1589 1597	RCSB PDB
+T10	Repository 1599 1602	PDB
+T11	AccessionNumber 1607 1611	6Y2F
+T12	Repository 1797 1804	PubChem
+T13	Repository 2011 2014	PDB
+T14	AccessionNumber 2019 2023	6Y2F
+T15	Repository 2746 2749	PDB
+T16	AccessionNumber 2754 2758	6Y2F
+T17	Repository 2997 3000	PDB
+T18	AccessionNumber 3005 3009	6Y2F
+R1	hasAttr	Arg1:T2	Arg2:T3
+R2	hasAttr	Arg1:T4	Arg2:T5
+R3	hasAttr	Arg1:T6	Arg2:T7
+R4	hasAttr	Arg1:T9	Arg2:T11
+R5	hasAttr	Arg1:T10	Arg2:T11
+R6	hasAttr	Arg1:T13	Arg2:T14
+R7	hasAttr	Arg1:T15	Arg2:T16
+R8	hasAttr	Arg1:T17	Arg2:T18

@@ -1,0 +1,8 @@
+The dense extracellular matrix (ECM) of stroma-rich solid tumors acts as a significant barrier to effective chemotherapy by hindering drug penetration.
+In this study, a supramolecular hydrogel was successfully developed, enabling the codelivery and sequential release of hydrophilic and lipophilic drugs designed to target the ECM.
+The hydrogel is easy to prepare, has self-healing properties and excellent biocompatibility.
+Upon administration, the hydrogel first releases pirfenidone to inhibit collagen production, weakening the ECM, followed by the release of paclitaxel, which improves tumor penetration.
+The effectiveness of this sequential drug delivery system was validated in both oral squamous cell carcinoma and pancreatic cancer models, a classic example of a tumor with abundant ECM.
+In vitro experiments showed controlled sequential release profiles, whereas in vivo experiments using cell-derived and patient-derived xenograft models revealed that the hydrogel was more effective at tumor suppression compared to traditional methods.
+Single administration of the hydrogel led to long-term localized drug release, maintaining higher concentrations of chemotherapeutic agents in the tumor tissue and effectively reducing the tumor volume.
+This study provided a promising strategy to enhance chemotherapy in ECM-dense tumors, offering an efficient and minimally invasive method for localized, sustained-release cancer therapy.

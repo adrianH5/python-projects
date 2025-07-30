@@ -1,0 +1,13 @@
+Novel agents targeting proprotein convertase subtilisin/kexin type 9 (PCSK9) effectively reduce the concentration of low-density lipoproteins.
+These agents mediating PCSK9 include small interfering RNA (siRNA) inhibitors and monoclonal antibodies.
+Their effects on the cumulative incidence of cancer remain to be clarified.
+Relevant data were obtained from the TriNetX database.
+Eligible individuals with the use of PCSK9-targeting agents were divided into an siRNA group (siRNA inhibitor, inclisiran) and a comparison group (monoclonal antibodies, alirocumab/evolocumab).
+We further performed 1:1 propensity score matching.
+The cumulative incidence of cancer was compared between these groups.
+This study included 37,226 individuals.
+Of them, 664 (1.8%) were included in the siRNA group.
+After propensity score matching, the 520-day cumulative incidence of cancer was 1.39% in the siRNA group and 6.58% in the comparison group (P = .125; adjusted hazard ratio: 0.463; 95% CI: 0.169 to 1.269).
+Despite using different models for matching as sensitivity tests, the cumulative incidence of cancer was consistently lower in the siRNA group than in the comparison group.
+In this retrospective cohort study, inclisiran might be associated with lower cumulative incidence of cancer, compared with alirocumab/evolocumab.
+Further large-scale observational study or clinical trial is warranted to confirm this finding.

@@ -1,0 +1,19 @@
+Brain tumor is one of the reasons for several mortality cases in hospitals.
+Early detection and diagnosis of brain tumors are necessary to cure the disease early.
+The extraction of the tumor from the brain's magnetic resonance image (MRI) is considered to be a difficult task when done by clinical experts, and it is also pretty time-consuming.
+These drawbacks can be overcome by using computer vision-based technologies.
+The proposed method detects brain tumor crossing the blood-brain barrier (BBB) through MRI images by using Berkeley wavelet transformation (BWT) for segmenting the affected areas.
+Support vector machine (SVM) is used for classification purpose by which the classification process is divided into two different categories namely, the tumor affected and tumor non-affected parts.
+Initially, the acquired image is converted to a greyscale from RGB.
+Then, image segmentation is done.
+During the image segmentation, morphological operations are carried out.
+Two morphological operations have been used in the proposed system.
+They are erosion and dilation.
+Both these techniques are used for edge detection.
+In erosion, the pixels are removed from the edges of the tumor image.
+In dilation, pixels are added at the edges of the tumor images.
+After the morphological operation, feature extraction is carried out.
+The features like homogeneity, contrast of the image and the energy might be determined.
+Then, the image is classified using the SVM classification algorithm.
+The experimental results have been tabulated and depicted using graphical representations.
+Comparing to the existing approaches the proposed method is proved to be better in accuracy and efficiency.

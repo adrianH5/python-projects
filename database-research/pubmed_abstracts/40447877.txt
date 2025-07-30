@@ -1,0 +1,9 @@
+Prostate cancer (PCa) is one of the most common cancers worldwide.
+Nei endonuclease VIII-like 3 (NEIL3) plays important roles in diverse cancers.
+In this study, we found that NEIL3 was overexpressed in PCa tissues and cell lines.
+NEIL3 over-expression was associated with worse prognostic outcomes in PCa patients.
+In vitro, PCa cell proliferation, invasion, and migration could be significantly inhibited with knocking down NEIL3 by inactivating the phosphatidylinositol 3-kinase (PI3K)/AKT/mammalian target of the rapamycin (mTOR) signaling.
+Besides, we found that the expression of high-mobility gene group A2 and androgen receptor (AR) were upregulated in PCa tissues, and their expression was decreased in C4-2 cells treated with siNEIL3.
+Nevertheless, R1881 could enhance si-NEIL3-inhibited PI3K, AKT and mTOR phosphorylation levels in both C4-2 cells and PC-3M.
+In conclusion, NEIL3 could promote the progression of PCa by activating PI3K/AKT/mTOR signaling in PCa cells.
+Therefore, these results may provide a potential molecular target for PCa treatment.

@@ -1,0 +1,12 @@
+Tyrosine kinase inhibitors (TKIs) targeting BCR::ABL1 have greatly improved the survival of patients with chronic myeloid leukemia (CML), and their teratogenicity appears as an important factor for individuals of childbearing potential.
+This study aims to investigate pregnancy and fetal/newborn adverse outcomes resulting from exposure to BCR::ABL1-TKIs during pregnancy.
+For this disproportionality analysis, we used the WHO's global VigiBase up to January 2024, and included reports involving pregnancy, antineoplastic treatment during pregnancy, and cancer.
+The exposure group consisted of reports mentioning BCR::ABL1-TKIs at any time during pregnancy.
+The primary outcome was the reporting odds ratio (ROR) of maternal-fetal complications in the BCR::ABL1-TKIs group compared to other anticancer treatments.
+The analysis included 3,389 reports (TKI = 969; other = 2,420).
+In the BCR::ABL1-TKI-exposed group, the mean age was 28.9 years, and 724 patients (92.2%) were treated for CML.
+BCR::ABL1-TKIs were mainly imatinib (n = 642, 66.3%), nilotinib (n = 218, 22.5%), and dasatinib (n = 127, 13.1%) reported without other non-TKI anticancer agents(92.3%).
+Compared to other anticancer drugs, overreported outcomes with TKIs included hydrops fetalis (ROR = 13 [95%CI = 1.5-110], P = 0.009), polyhydramnios (ROR = 5 [1.3-20], P = 0.02), and threatened preterm labor (ROR = 10 [1.1-90], P = 0.03).
+When analyzing specific molecule effects, hydrops fetalis (ROR = 27 [5.4-130], P = 0.001) and polyhydramnios (ROR = 13 [3.3-54], P = 0.004) were overreported with dasatinib.
+In this large cohort of 969 individuals exposed to TKIs during pregnancy, dasatinib use was associated with most BCR::ABL1-TKI-specific toxicities and should be avoided during pregnancy.
+Fewer or no adverse events were overreported with imatinib and nilotinib.

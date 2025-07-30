@@ -1,0 +1,7 @@
+Mesenchymal-epithelial transition factor (c-Met) is a receptor tyrosine kinase belonging to the MET gene family.
+Aberrant c-Met signaling drives tumorigenesis.
+Acquired drug resistance to current type I c-Met inhibitors has limited their duration of response.
+Many type II inhibitors have been developed to address the on-target resistance mutations that render type I inhibitors ineffective.
+However, type II inhibitors, to date, have not been approved to treat c-Met-driven cancers due to poor selectivity and suboptimal physicochemical properties that limit free drug concentrations.
+Herein, we describe how structure-based drug design (SBDD) directed at optimization of lipophilic efficiency (LipE) enabled the discovery of a highly selective type IIb c-Met inhibitor with quality drug-like properties.
+Lead compound

@@ -1,0 +1,6 @@
+Acute myeloid leukemia (acute myeloid leukemia, AML) is a type of malignant hematological tumor characterized by high incidence, high mortality, and high recurrence rates.
+Although chemotherapy, targeted therapy, and immunotherapy have achieved certain therapeutic effects in recent years, immune evasion by tumor cells remains a key factor in the relapse and refractoriness of AML.
+Current research suggests that arsenic trioxide (Arsenic Trioxide, ATO) can regulate autophagy and upregulate NKG2D ligands (NKG2D-L) on the surface of AML cells, while the NKG2D-NKG2D-L axis is negatively associated with AML immune evasion.
+Our preliminary experimental studies have shown that the combination of curcumin (curcumin, CUR) and ATO can inhibit the proliferation of acute myeloid leukemia KG-1a cells, induce apoptosis, and suppress the malignant progression and metastasis in AML mouse models.
+However, the mechanisms underlying AML immune evasion have not yet been fully elucidated.
+Therefore, the main objective of this study is to investigate the effects and mechanisms of CUR combined with ATO in regulating autophagy in AML cells, activating the NKG2D-NKG2D-L axis, and inhibiting AML immune evasion both in vitro and in vivo.

@@ -1,0 +1,4 @@
+Besides targeting tumor cells via canonical synthetic lethality, poly(ADP-ribose) polymerase inhibitors (PARPis) can remodel tumor immune microenvironment (TIME), which then affects PARPis' anti-tumor capabilities.
+However, exact function of PARPis on TIME remains insufficiently explored.
+Here, by leveraging paired samples during neoadjuvant PARPi Niraparib treatment derived from a prospective clinical trial, we discovered that the expression of immune checkpoint ligand B7-H3 was induced by PARPis in cancer-associated fibroblasts (CAFs) of ovarian cancer.
+Depletion of B7-H3 in CAFs by using host

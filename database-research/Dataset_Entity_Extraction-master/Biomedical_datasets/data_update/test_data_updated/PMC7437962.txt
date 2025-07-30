@@ -1,0 +1,7 @@
+Variables from the EHR were chosen for this analysis based on a combination of their prevalence per patient across the dataset, relevance to COVID-19 based on previous literature and empirical evidence, and the goals of this study.
+Based on the utility of these lab values in clinical practice and the similarity between their statistical distributions, labs derived from a VBG or BMP were collapsed into a single category (i.e., “SODIUM”), and arterial labs were not incorporated as features in these analyses.
+Of 2864 patients discharged alive following hospitalization for COVID-19, 103 (3.6%) returned to one of five hospitals within 14 days, with 56 (54.4%) readmitted and the remaining 47 (45.6%) discharged or left from the emergency department (ED) (Table 1).
+Though lower BMI could serve as a marker for and has been associated with worse health outcomes in other disease states, the distributions of BMI between those returning to the hospital and those who did not were relatively similar (Supplementary Figure 1) with a low difference in means; therefore, further work is needed to unravel the association between BMI and outcomes in COVID-19.
+Background  Data on patients with coronavirus disease 2019 (COVID-19) who return to hospital after discharge are scarce.
+To describe clinical characteristics of patients with COVID-19 who returned to the emergency department (ED) or required readmission within 14 days of discharge.
+Conclusions  Return to hospital after admission for COVID-19 was infrequent within 14 days of discharge.

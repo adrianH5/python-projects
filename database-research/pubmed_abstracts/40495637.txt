@@ -1,0 +1,6 @@
+As an autonomous form of regulated cell death, cuproptosis depends on copper (Cu) and mitochondrial metabolism.
+However, the principle metabolic pathway known as glycolysis (Warburg effect) and high glutathione (GSH) levels of tumor cells inevitably lead to suboptimal efficacy in cuproptosis.
+Hence, depleting the endogenous GSH within tumors and shifting from glycolysis to mitochondrial respiration are crucial factors for augmenting cuproptosis.
+In this study, a proteolysis targeting chimera (PROTAC)-based cuproptosis sensitizer (CuS-MD@CS) is innovatively constructed, which not only can induce cuproptosis and reactive oxygen species production via copper ions but also can regulate the expression of p53 protein via PROTACs through the ubiquitin-proteasome system in tumor cells, thus achieving endogenous GSH depletion and a shift from glycolysis to mitochondrial respiration, making cancer cells more sensitive to cuproptosis.
+Importantly, in vitro and in vivo experiments have verified that CuS-MD@CS effectively targets A549 cells and suppresses tumor growth through cuproptosis and apoptosis, exhibiting promising therapeutic responses.
+The novel PROTAC-based cuproptosis sensitizer CuS-MD@CS provides a new strategy for sensitizing cuproptosis and offers new hope for effective lung cancer treatment.

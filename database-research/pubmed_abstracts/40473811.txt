@@ -1,0 +1,5 @@
+Bladder cancer is the most common malignant tumor of the urinary tract.
+In this study, 90 lupane triterpene derivatives, previously synthesized in the laboratory, were systematically evaluated for their potential effects against bladder cancer by cytotoxicity screening against five urinary tumor cell lines.
+Bioinformatics and molecular dynamics methods were used to investigate the mechanism of action of compound 27 in depth.
+Most of the derivatives effectively inhibited tumor cell growth, and structure-activity relationship analysis revealed that introducing an indole moiety significantly enhanced the biological activity.
+The peak activity was reached when the dibromoalkyl chain length was C = 5 (IC

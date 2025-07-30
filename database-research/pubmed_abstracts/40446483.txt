@@ -1,0 +1,9 @@
+Fat mass and obesity-associated protein (FTO), an N6-methyladenosine (m6A) RNA demethylase, plays a key role in cancer biology by regulating mRNA modifications.
+Its deregulation affects tumor cell proliferation, metastasis, immune evasion, and therapeutic resistance.
+By removing m6A methylation marks, FTO can alter the stability and translation of key oncogenes and tumor suppressor genes.
+These modifications directly influence essential cellular pathways involved in cancer progression, such as the phosphatidylinositol 3-kinases/ protein kinase B (PI3K/AKT), Wnt/β-catenin, and mammalian target of rapamycin (mTOR) signaling pathways.
+This review explores the mechanistic roles of FTO in cancer pathogenesis, focusing on its dual impact on immune regulation and chemotherapy response.
+In terms of immunity, FTO has been shown to promote immune evasion by modulating the expression of immune checkpoints and influencing the tumor microenvironment.
+Additionally, FTO's influence on autophagy, glycolysis, and apoptosis resistance further complicates the effectiveness of chemotherapy treatments.
+By discussing the molecular details of how FTO regulates these processes, we provide insights into how FTO could serve as a promising therapeutic target to overcome cancer-related challenges, including immune resistance and chemotherapy failure.
+Finally, we evaluate current and emerging strategies for targeting FTO in cancer therapy, highlighting its potential to enhance immunotherapy and chemotherapy outcomes.

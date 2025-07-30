@@ -1,0 +1,5 @@
+Available datasets are more sparse for incidence, and the patterns are inconsistent between studies.
+Analysis of datasets, specifically of serosurveys, needs to account for the kinetics of waning immunity and effects of imperfect assays to draw meaningful inferences.
+We conducted searches of the PubMed database on March 20, 2020 using the search term “coronavirus” and each of the following terms or phrases: “serolog*”, “serop*”, “cross reactivity”, “antibod* human coronavirus”, and “complement fixation”.
+Articles included electronic, ahead-of-print publications available in the PubMed database.
+Many public health responses and modeled scenarios for COVID-19 outbreaks caused by SARS-CoV-2 assume that infection results in an immune response that protects individuals from future infections or illness for some amount of time.

@@ -1,0 +1,11 @@
+Tumor protein p53 (TP53) is a crucial regulator of genomic integrity, frequently mutated in more than half of all human cancers.
+These mutations predominantly target the DNA-binding domain (DBD), impairing p53's interaction with DNA and its tumor-suppressive functions.
+To elucidate the structural and functional consequences of p53 mutations, we investigated 148 missense variants located within its DNA-binding interface using cutting-edge computational approaches.
+We employed AlphaFold3 (AF3) to predict p53-DNA complex structures, integrating these predictions with molecular dynamics (MD) and force-guided pulling simulations to assess mutation-induced changes in structural stability and DNA-binding properties.
+Moreover, we compared the results of our study with experimental in vitro enrichment scores (RFS) and Combined Annotation Dependent Depletion (CADD).
+We identified a moderate negative correlation between plDDT and the pathogenicity of mutant variants, suggesting that mutations causing more significant alterations in the protein tertiary structure have a greater negative impact on cellular function.
+Moreover, we identified two possible structural mechanisms through which mutations can impair the p53 functionality.
+Specifically, some mutations, such as R248P and N239S, reduce the binding affinity of the p53-DNA complex, whereas others, such as C238Y and P278R, enhance affinity but compromise the structural stability of the complex.
+Furthermore, we uncovered mutations with potential rescuing effects, such as E285A and M243T, which preserved structural stability and enhanced the DNA-binding ability.
+Our findings provide a comprehensive framework for understanding the molecular mechanisms underlying p53 mutations and their role in cancer pathogenesis.
+This study highlights the value of integrative computational approaches in investigating protein-nucleic acid interactions, providing critical insights that can guide the development of therapeutic strategies targeting p53 mutations.

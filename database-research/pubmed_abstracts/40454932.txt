@@ -1,0 +1,5 @@
+Uncontrolled rapture of prodrug nano-formulation under physiological concentration gradient is a bottleneck in the effective delivery of anticancer drugs to solid tumors in vivo.
+The present investigation reports macromolecular nano-compartmentalization in single polymer chain micellar nanoparticle (or unimolecular micelle nanoparticle, UMNp) and demonstrates its therapeutic efficacies in pancreatic cancer xenograft mouse model.
+The UMNp is engineered in a six-arm enzymatic-biodegradable polycaprolactone star-polymer by employing a divergent approach using identical chemical constituents but varying the arms-lengths.
+The tiny <25 nm sized core-shell UMNp is found to be non-toxic, non-hemolytic, and highly efficient in loading 14% of clinical drug doxorubicin (DOX).
+UMNp undergoes biodegradation at the intracellular endo-lysosomal compartments and exhibited substantial growth inhibition in multiple cancer cell lines such as MCF-7 (breast cancer), MDA-MB-231 and MDA-MB-468 (triple-negative breast cancers), and MIA PaCa 2 (pancreatic cancer) at very low IC

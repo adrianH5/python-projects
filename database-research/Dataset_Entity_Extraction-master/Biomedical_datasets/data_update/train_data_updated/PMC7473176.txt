@@ -1,0 +1,28 @@
+The outbreak of a novel coronavirus (SARS-CoV-2) and the associated disease (COVID-19) began in Wuhan, China, near the end of 2019.
+COVID-19 continues to pose a severe threat to public health and economic prosperity in China [1,2].
+COVID-19 was more severe in Wuhan soon after its appearance, with severe/critical and fatality rates of approximately 32% and 11%, respectively [8,9].
+Subsequent data as the disease spread revealed a milder form of COVID-19 in Zhejiang province [10] and nationwide [11].
+Furthermore, the observation of a similar viral load in symptomatic and asymptomatic COVID-19 patients revealed the capacity of SARS-CoV-2 for occult transmission [14].
+Changes in the epidemiological and clinical features of COVID-19 relate to the virologic changes of SARS-CoV-2, in which the spike (S) surface envelope protein plays an important role [15].
+Therefore, it is valuable to focus on the sequence mutation and conformation change in S protein for SARS-CoV-2 evolution in an established model with the aim of explaining the related changes in COVID-19.
+This retrospective study investigating the epidemiological, clinical and virologic features of COVID-19 was performed at designated hospitals in Zhejiang province between 17 January and 7 February 2020.
+We subsequently calculated the time period of positive COVID-19 nucleic acid in our hospital.
+All patients were diagnosed with COVID-19 according to the World Health Organization interim guidance [17] and the preliminary data were promptly reported to the authority of Zhejiang province.
+The subtypes of COVID-19 were categorized as mild, severe and critical, as recently described [11].
+One strain of SARS-CoV-2 was successfully isolated from a single sputum sample of a patient with a mild COVID-19 case at the time of admission in our hospital.
+Normalization and principal component analysis (PCA) were performed using the R package Seurat [24], with different dataset-based data processing methods.
+Depending on the expression level of cell markers provided in the original article corresponding to the single-cell RNA (scRNA)-seq datasets, we further estimated which cell types the cell clusters belonged to.
+The rates of mild, severe and critical types of COVID-19 were 90.1%, 7.74% and 2.16%, respectively.
+He visited outpatient clinics one day after symptom onset and was admitted to the hospital with COVID-19 on the same day following the PCR result.
+Consistent with other COVID-19 patients, his symptoms included fever, cough and sputum production, with bilateral pneumonia evident in the CT scan.
+The patient had mild type COVID-19, with normal results for routine blood parameters and inflammation markers (C-reactive protein and procalcitonin).
+Among the eight strains collected in Wuhan, Guangdong, and Hangzhou, six were collected at the early stage of COVID-19 (26 December 2019 to 2 January 2020).
+In the scRNA-seq datasets, ACE2, Furin and TMPRSS2 showed higher expression levels in the liver and colon than in the lung (Figure 7(E)).
+Recently, elevated plasmin was reported in COVID-19 with comorbidities such as hypertension, diabetes, et al while plasmin or other proteases may be able to cleave FCS [35].
+COVID-19 rapidly spread throughout China and has causing enormous damage.
+To provide clarity, we selected a COVID-19 patient who experienced a mild disease and isolated the causative virus (ZJ01) for comparative analysis.
+Our hypothesis is consistent with changes in the clinical characteristics of COVID-19 from published data and our observations, including detection of virus in faeces [38] and conjunctival secretions [39], decreased severity/fatality, increased liver/kidney damage and symptoms of the gastrointestinal tract, increased transmissibility, and prolonged period of nucleic acid positivity.
+The mutations in the SARS-CoV-2 virus genome during COVID-19 dissemination are unclear.
+In 788 COVID-19 patients from Zhejiang province, we observed decreased rate of severe/critical cases compared with patients in Wuhan.
+For mechanisms exploration, we isolated one strain of SARS-CoV-2 (ZJ01) from a mild COVID-19 patient.
+The evolutionary pattern of SARS-CoV-2 towards FCS formation may result in its clinical symptom becoming closer to HKU-1 and OC43 caused mild flu-like symptoms, further showing its potential in differentiating into mild COVID-19 subtypes.

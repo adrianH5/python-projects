@@ -1,0 +1,55 @@
+Coronavirus disease 2019 (COVID-19), the infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has led to a global pandemic.
+Emerging evidence has described several risk factors (e.g., older age, cardiovascular disease, chronic lung disease) for COVID-19 severity and mortality [[1], [2], [3]].
+The Centers for Disease Control and Prevention (CDC) list severe obesity (body mass index [BMI] of ≥40 kg/m2) as a risk factor for severe illness from COVID-19 [5].
+Despite the clinical and research significance, no study has examined the relationship of obesity—let alone of its related traits (e.g., central obesity) and their genetic factors—with severe COVID-19.
+Using standardized protocols, the study has collected comprehensive phenotypic information (such as demographics, anthropometric measures [e.g., height, weight, waist and hip circumference] and medical history), tested for biochemical assays, performed genome-wide genotyping, and longitudinally measured health outcomes (e.g., hospitalizations) through linkages to national datasets.
+In the current study, we analyzed the first set of the UK Biobank data with laboratory-confirmed COVID-19 status, which were released on April 16, 2020.
+These hospitalized patients with SARS-CoV-2 infection had “severe COVID-19” [22,23].
+The detailed information on released COVID-19 data can be found elsewhere [22].
+Second, to visualize the relationship of BMI and two markers of central obesity (i.e., waist circumference and waist-to-hip ratio) with the risk of developing severe COVID-19, we used generalized additive models with penalized cubic regression splines.
+Next, to examine the relationship between the genetic predisposition for obesity traits and the risk of developing severe COVID-19, we computed a polygenic risk score (PRS) for each of three obesity measures—i.e., BMI, BMI-adjusted waist circumference, and BMI-adjusted waist-to-hip ratio, according to prior research [26], using genome-wide genotyping data from the Genetic Investigation of Anthropometric Traits (GIANT) consortium and UK Biobank.
+In brief, we retrieved the genome-wide association study (GWAS) summary statistics of BMI (nmax = 322,154) [27], BMI-adjusted waist circumference (nmax = 231,355) [28], and BMI-adjusted waist-to-hip ratio (nmax = 210,086) [28] from the GIANT consortium data as an independent base dataset.
+We then applied the LDpred method [29] to compute model coefficients using approximately 1,480,000 single nucleotide polymorphisms (SNPs), and computed a PRS for each trait in an independent target dataset (n = 459,331) from the UK Biobank.
+Lastly, we investigated the association of derived PRSs with the risk of severe COVID-19 in the UK Biobank by fitting logistic regression models adjusting for age, sex, 30 ancestry principal components (which account for population stratification), and genotyping array.
+The UK Biobank also identified a total of 641 patients with severe COVID-19.
+Fig. 1
+shows the relationship of BMI and markers of central obesity with the risk of developing severe COVID-19.
+For example, BMI was positively associated with the risk of severe COVID-19 (unadjusted OR 1.35 per 5 kg/m2 increase; 95% CI 1.26–1.45; P < 0.001; Fig. 1A).
+Compared to adults with normal weight, those with a higher BMI had a dose-response increase in the risk of developing severe COVID-19, with the following ORs: for overweight, 1.55 (95% CI 1.26–1.91; P < 0.001); for class I obesity, 1.92 (95% CI 1.51–2.44; P < 0.001); for class II obesity, OR 3.06 (95% CI 2.26–4.14; P < 0.001); and for class III obesity, 3.45 (95% CI 2.28–5.21; P < 0.001) (Fig. 2
+).
+Likewise, adults with central obesity were at higher risk of severe COVID-19.
+To examine the relationship of the individual's overall genetic risks for obesity and central obesity with the risk of developing severe COVID-19, we examined the associations of the derived PRSs with the outcome risk (Table 3
+).
+Consistent with these observations, a recent sentinel surveillance of 1482 adults hospitalized with COVID-19 in 14 U.S. states reported that obesity was the second most prevalent underlying condition (48% prevalence), following hypertension [30].
+Additionally, retrospective studies—either from single centers [[9], [10], [11], [12], [13], [14], [15], [16]] or health systems [3,18]—have reported associations between obesity and higher morbidity of COVID-19.
+For example, in a single-center analysis of 389 patients hospitalized for COVID-19 in China, Cai et al. reported patients with obesity (defined by BMI of ≥28 kg/m2) had higher severity of illness [9].
+Similarly, in another single-center case-control study of 150 patients hospitalized for COVID-19 in China, Gao et al. found that patients with obesity (defined by BMI of ≥25 kg/m2) had a longer hospital length-of-stay and higher disease severity [11].
+These earlier studies—albeit from different patient populations and settings with varying definitions of obesity and outcomes—collectively indicate that obesity is a risk factor for severe illness from COVID-19.
+The current study builds on these prior reports, and extends them by demonstrating, in a large cohort, the relations of obesity-related traits (including central obesity) and their genetic predisposition with the risk of developing severe COVID-19.
+The exact mechanisms linking the observed obesity (and its genetic predisposition) to severe COVID-19 are likely multifactorial—which stem from obesity-related changes in pulmonary physiology and the genetics to alterations in immune response and inflammatory profiles, endothelial dysfunction, and metabolic dysfunction [31]—and warrant clarification.
+The observed relation between the genetic preposition to obesity and severe COVID-19 also suggest the role of genetics in the pathogenesis of severe COVID-19.
+Fourth, a recent non-COVID-19 study also demonstrated that patients with a higher BMI had higher expression of ACE2 (the SARS-CoV-2 receptor [38]) in their bronchial epithelium [39], suggesting an increased susceptibility to SARS-CoV-2 infection in patients with obesity.
+Notwithstanding the complexity, the identification of obesity and its genetic predisposition as a culprit of COVID-19 morbidity is an important finding.
+Our observations should encourage future research disentangling the complex web of the pathogen, obesity, airway and systemic inflammation, and COVID-19 pathobiology.
+The observed relationship between PRS for BMI and risks of severe COVID-19 has several clinical and research implications.
+The use of PRS strengthens the causal inference, such as the causal effects of obesity on severity of COVID-19.
+This complexity has hindered efforts to robustly examine the effect of these obesity-related factors on various disease conditions, including COVID-19.
+By contrast, the use of PRS—which captures and summarizes the cumulative effects of many common DNA variants [42]—effectively captures the obesity-related genetic factors (i.e., well-defined exposure), and hence potentially enables us to examine its effects on severe COVID-19 that are independent from the aforementioned confounders.
+In contrast, the use of PRS for obesity-related traits and careful investigations of individuals at the extremes of its distribution (even without a clinically-evident obesity trait) potentially enables us to uncover new causal risk factors for the development of severe COVID-19 as well as to identify individuals at risk.
+Furthermore, biological profiling of these individuals at the extremes of obesity-related PRS distribution may identify molecular pathways that link obesity to severe COVID-19, thereby potentially leading to the development of novel prevention, prediction, and treatment strategies.
+Anthropometric measurements performed at assessment visits may have not accurately reflected the exposure data at the COVID-19 inception.
+Yet, the PRS for BMI—time-invariant genetic data—was also significantly associated with the risk of developing severe COVID-19.
+However, the study focused on severe COVID-19 requiring inpatient management, thereby mitigating, at least partially, this problem.
+Finally, the study sample consisted mainly of white individuals and we focused on severe COVID-19.
+We must cautiously generalize the inferences to other populations or patients with mild-to-moderate COVID-19.
+Nevertheless, our inferences are directly relevant to hundreds of thousands of patients hospitalized for COVID-19 [44].
+We aimed to examine the associations of obesity-related traits (body mass index [BMI], central obesity) and their genetic predisposition with the risk of developing severe COVID-19 in a population-based data.
+The outcome was severe COVID-19, defined by hospitalization for laboratory-confirmed COVID-19.
+The UK Biobank identified 641 patients with severe COVID-19.
+Compared to adults with normal weight, those with a higher BMI had a dose-response increases in the risk of severe COVID-19, with the following adjusted ORs: for 25.0–29.9 kg/m 2 , 1.40 (95%CI 1.14–1.73; P = 0.002); for 30.0–34.9 kg/m 2 , 1.73 (95%CI 1.36–2.20; P < 0.001); for 35.0–39.9 kg/m 2 , 2.82 (95%CI 2.08–3.83; P < 0.001); and for ≥40.0 kg/m 2 , 3.30 (95%CI 2.17–5.03; P < 0.001).
+Likewise, central obesity was associated with significantly higher risk of severe COVID-19 (P < 0.001).
+In this large population-based cohort, individuals with more-severe obesity, central obesity, or genetic predisposition for obesity are at higher risk of developing severe-COVID-19.
+Individuals with more-severe obesity, central obesity are at higher risk of developing severe-COVID-19.    •
+The genetic predisposition for obesity as measured by polygenic risk score is at higher risk of developing severe-COVID-19.
+The BMI-severe COVID-19 associations were consistent across the sex strata, except women with class I obesity had a non-significant increase in the risk of severe COVID-19.
+•  Adults with both class III obesity and diabetes or adults with both a larger waist circumference and diabetes appeared to have a larger magnitude of BMI-severe COVID-19 association compared to those without diabetes.

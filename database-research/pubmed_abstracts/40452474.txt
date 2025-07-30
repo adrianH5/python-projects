@@ -1,0 +1,9 @@
+BackgroundAnti-CD38 directed therapies have emerged as targeted treatments for multiple myeloma (MM) and light chain (AL) amyloidosis.
+Intravenous immunoglobulin (IVIG) supplementation has been shown to reduce the risk of bacterial infections by 39% in patients with MM receiving anti-CD38 therapies, with a 72% reduction in grade 3-4 infections.
+However, there is currently no universal guidance on the optimal population in whom to initiate IVIG prophylaxis to prevent these infectious complications.MethodsThis study was a retrospective, single-centered chart review of eligible patients treated at Yale New Haven Health System (YNHHS) from 2016-2022.
+Eligible patients included adults with MM or AL amyloidosis treated with an anti-CD38 based regimen.
+The primary outcome was to compare the rate of pneumonia in patients who have received IVIG as compared to patients who have not.
+The secondary outcome was to identify the immunoglobulin G (IgG) level associated with an increased risk of pneumonia.ResultsRates of pneumonia were found to be higher within the population receiving IVIG as compared to those not receiving IVIG (29.55% vs. 15.41%, p = 0.05).
+There were no significant differences in the subgroup analyses including line of therapy, anti-CD38 agent, diagnosis, and IgG disease involvement.
+There was also no significant correlation demonstrated between baseline IgG level and the occurrence of pneumonia (β1 -0.0001, p = 0.37).ConclusionsIVIG supplementation in patients receiving anti-CD38 directed therapy did not significantly reduce the incidence of pneumonia.
+Given the lack of benefit with IVIG supplementation, careful consideration must be given prior to administration to limit unnecessary utilization.

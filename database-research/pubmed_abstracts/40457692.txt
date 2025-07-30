@@ -1,0 +1,4 @@
+Chest X-ray (CXR) is the most commonly used initial modality for most lung diseases, including pulmonary nodules.
+In diseases such as lung cancer, tuberculosis, and fungal infections, detecting a single nodule in the early stages will facilitate treatment.
+One of the most important obstacles to searching for a single pulmonary nodule on a CXR is peripheral background contrast enhancement, and density differences.
+The aim of this study was to demonstrate the superiority of inverted gray scale to the standard image of CXR in the detection of a single pulmonary nodule.

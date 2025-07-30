@@ -1,0 +1,9 @@
+Italy is one of the countries with the highest number of coronavirus disease (COVID-19) cases (,).
+The analysis of sequence data shown in GISAID (https://www.gisaid.org) indicates that the initial introduction of SARS-CoV-2 in Italy through 2 infected tourists in January was effectively contained (), and no further circulation of similar clade V strains has been so far detected.
+We analyzed nasopharyngeal swab (n = 6) and bronchoalveolar lavage (n = 3) samples from 9 patients with COVID-19 to perform SARS-CoV-2 whole-genome reconstruction and mutational analysis.
+We named the sequences INMI3–INMI10 for their detection at National Institute for Infectious Diseases and analyzed them together with the previously published INMI1 and INMI2 (), along with all the sequences from Italy posted to GISAID database by April 11, 2020.
+We submitted consensus sequences to GISAID.
+data, https://doi.org/10.1101/2020.04.17.046086) in phylogenetic analysis; for comparison to previously published reports, we maintained references to clades reported in GISAID.
+INMI1 and INMI2 are included in clade V according to GISAID phylogenetics, as reported (), and clade B2; the clade includes other sequences from EU countries, but no additional sequences from Italy.
+All other INMI sequences cluster with the GISAID G clade, and with the B1 clade; we focused subsequent analysis on clade B1 (Figure).
+Of note, in both clusters the sequences from Italy are intermixed with sequences from other EU countries, which can also be seen in the broader phylogenetic analysis on GISAID, in which more EU sequences are analyzed.

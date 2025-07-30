@@ -1,0 +1,4 @@
+Coronaviruses were detected in three individuals by mapping clean reads without ribosomes and host sequences to an in-house virus reference dataset separated from the GenBank non-redundant nucleotide database using the Burrows-Wheeler Aligner (BWA) ver 0.7.17 [10, 23].
+After gap filling, the whole genome sequence of pangolin-CoV-2020 was submitted to GenBank databases (accession no. MT121216).
+We downloaded 44 full-length genome sequences of coronaviruses isolated from different hosts from the public database (S5 Table), with the data kindly shared by the submitters.
+The outbreak of a novel corona Virus Disease 2019 (COVID-19) in the city of Wuhan, China has resulted in more than 1.7 million laboratory confirmed cases all over the world.

@@ -1,0 +1,10 @@
+Chimeric antigen receptor (CAR) T-cell therapy has become an attractive approach for treating hematologic malignancies.
+However, the accessibility of this therapy is limited by factors such as complex manufacturing processes, limited capacity of manufacturing facilities, and the requirement of a highly skilled workforce for the manual steps of CAR T-cell production.
+To minimize manual processes, the CAR T-cell manufacturing field is shifting towards closed and automated systems, including analytical tools that offer intermittent monitoring of cells in production.
+Therefore, label-free technologies for closely monitoring CAR T-cells in closed systems are needed.
+NADH and FAD are autofluorescent molecules that can serve as label-free biomarkers that correlate with T cell activation.
+Here, we evaluate the use of a flow cytometer equipped with a 405-nm violet laser for investigating the nicotinamide adenine dinucleotide reduced (NADH) and flavin adenine dinucleotide (FAD) autofluorescence in T cells.
+Our results revealed that the increase of NADH and FAD autofluorescence was significantly correlated with the upregulation of T-cell activation marker CD25 and the increase of extracellular lactate in spent media in the first 3 days after T-cell activation.
+We demonstrate the potential use of FAD for determining the endpoint of CAR T-cell manufacture by establishing a relationship between the rate of change in the mean fluorescence intensity (MFI) of FAD in CAR T-cells and the rate of change in T-cell proliferation using a G-Rex bioreactor.
+Collectively, these findings suggest that autofluorescence, particularly FAD autofluorescence, can serve as a label-free biomarker (cellular attribute) for monitoring T-cell activation and expansion during CAR T-cell production.
+The use of 405-nm visible light to substitute for the genotoxic ultraviolet wavelengths for assessing NADH and FAD autofluorescence paves the way to incorporate autofluorescence measurements into closed and automated systems for in-process monitoring of CAR T-cell manufacturing.

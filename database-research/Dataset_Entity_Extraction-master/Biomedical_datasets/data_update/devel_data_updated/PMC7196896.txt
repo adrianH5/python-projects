@@ -1,0 +1,37 @@
+The COVID-19 outbreak caused by SARS-CoV-2 infection (Lu et al., 2020, Ren et al., 2020, Zhou et al., 2020, Zhu et al., 2020) has been declared as a global pandemic.
+Typical clinical symptoms of COVID-19 are fever, cough, myalgia, and shortness of breath (Huang et al., 2020, Wang et al., 2020).
+To date, no specific antiviral treatment is available for COVID-19.
+Clinical study on COVID-19 has suggested the hypercytokinemia in severe cases (Huang et al., 2020).
+Here, we collected the bronchoalveolar lavage fluid (BALF) of eight COVID-19 patients, 146 community-acquired pneumonia patients, and 20 healthy controls; this is followed by metatranscriptome sequencing and functional analysis.
+BALFs were obtained from laboratory-confirmed COVID-19 patients (SARS2) (n = 8), community-acquired pneumonia patients (CAP) (n = 146), and healthy controls without known respiratory diseases (Healthy) (n = 20).
+The read counts for SARS-CoV-2 in each COVID-19 case were listed in Table S2.
+Overall, our global functional analysis revealed a highly responsive state against noxious stimuli in COVID-19 cases, characterized by the potent defense responses and hyperactive ribosome biogenesis.
+To understand the cytokine profile in BALF from the COVID-19 patients, we assigned DEGs into seven categories of cytokine-related genes (Figure 2
+A).
+These observations suggested that the exuberant inflammation in COVID-19 could be progressively resolved, and unquenched inflammation may result in detrimental outcomes.
+CXCL17 upregulation is specific to SARS2 and was observed in all eight cases (Figure 2B), suggesting a role of CXCL17 in COVID-19 pathogenesis.
+IL1RN and ILB are interleukin genes significantly upregulated in SARS2 (Figure 2B), and these upregulations are mirrored by elevated protein levels of IL-1Ra and IL-1β in plasma of COVID-19 patients (Huang et al., 2020).
+Because IL-1β was recognized as the key cytokine driving proinflammatory response in BALF from patients with ARDS (Pugin et al., 1996), it is possible that the ratio of IL-1β to its inhibitor, IL-1Ra, may correlate to inflammation intensity in COVID-19 patients; however, we did not observe clear correlation in the current study (Figure 2B).
+We then examined the IFN response in COVID-19 patients.
+These results pointed to the immunopathological role of IFN response in COVID-19 patients.
+A recent study suggested that the neutrophil-to-lymphocyte (NLR) ratio was associated with the disease severity of COVID-19 (Liu et al., 2020).
+Our analysis also showed a significantly higher NLR in COVID-19 cases (Figure S3A).
+In the current study, we sampled COVID-19 patients with bronchoalveolar lavage (BAL), a method for retrieving cells and solutes from different areas of the lung (Meyer et al., 2012).
+By sequencing and analyzing the BAL fluid cells from eight COVID-19 patients and control cohorts, we obtained gene expression profiles of both host and virus, which directly reflected the in situ host response against SARS-CoV-2 infection.
+We thus provided a valuable opportunity to garner insights into COVID-19 pathogenesis.
+In COVID-19 patients, we observed the upregulation of a plethora of proinflammatory cytokines, suggesting the pathogenic role of hypercytokinemia.
+Thus, our data unraveled a possible chemokine-dominant hyperactive cytokine response in COVID-19 cases.
+This protective potential of ISGs may account for the lower proportion of severe cases and the case-fatality rate in COVID-19 as compared to SARS (Wu and McGoogan, 2020).
+In the ISGs identified in COVID-19 cases, we found a subset of genes with proinflammatory activities, which is relatively underrepresented in other viral infections.
+The accession number for the reads mapped to human genome GRCh38 extracted from the raw sequencing data reported in this paper is [Genome Warehouse in National Genomics Data Center (National Genomics Data Center Members and Partners, 2020)]: [PRJCA002273] that is publicly accessible at https://bigd.big.ac.cn/gsa.
+BALF samples from eight laboratory-confirmed COVID-19 patients (SARS2) were collected from hospitals in Wuhan in January 2020.
+The data collection for the COVID-19 patients were deemed by the National Health Commission of the People’s Republic of China as the contents of the public health outbreak investigation.
+Of the COVID-19 cases, five were male and three were female.
+Eight COVID-19 cases had an average age of 49 years (range 40-61), and 112 CAP cases had an average of 56.4 years (range 22-91).
+The outbreaks of 2019 novel coronavirus disease (COVID-19) caused by SARS-CoV-2 infection have posed a severe threat to global public health.
+Here, we used metatranscriptomic sequencing to profile immune signatures in the bronchoalveolar lavage fluid of eight COVID-19 cases.
+The expression of proinflammatory genes, especially chemokines, was markedly elevated in COVID-19 cases compared to community-acquired pneumonia patients and healthy controls, suggesting that SARS-CoV-2 infection causes hypercytokinemia.
+Graphical Abstract      Highlights     •  BALF cell transcriptome indicates robust innate immune responses in COVID-19 patients    •  COVID-19 patients exhibit chemokine-dominant hypercytokinemia    •  ISGs are highly expressed in COVID-19 patients and exhibit pathogenic potential      Zhou et al.
+use metatranscriptomic sequencing to profile immune signatures in the bronchoalveolar lavage fluid of COVID-19 patients.
+COVID-19 patients exhibit robust innate immune responses with notable hypercytokinemia and increased expression of IFN-stimulated genes.
+This analysis provides timely information for understanding SARS-CoV-2-host interactions and COVID-19 pathogenesis.

@@ -1,0 +1,13 @@
+The tissues-of-origin of circulating cell-free DNA (cfDNA) holds great promise for non-invasive diagnosing cancers, monitoring allograft rejection, and prenatal testing.
+Many features for inferring the tissues-of-origin of cfDNAs are being revealed from different angles, including genetics, epigenetics, and fragmentomics, with whole-genome sequencing (WGS) and whole-genome bisulfite sequencing (WGBS) data of cfDNA.
+However, it lacks integrative toolkits for automatically extracting the revealed features from the WGS and WGBS data of cfDNA samples.
+Here, we propose cfDNAFE, a comprehensive and easy-to-use python package for extracting multi-omics features from the aligned cfDNA sequencing data.
+It covers three aspects: cfDNA genetic features, cfDNA methylation features, and cfDNA fragmentation features, including 13 types of feature profiles.
+The genetic features include substitution mutations, mutation signatures and copy number variations.
+The methylation features are the proportions of methylated fragments, unmethylated fragments, and mixed methylated fragments on cell-type-specific markers.
+The fragmentation features related to the fragment sizes, end/breakpoint motifs, and nucleosome positions are also integrated.
+To verify the functions of cfDNAFE, we perform analysis on the WGS/WGBS data of cfDNA samples based on the feature profiles extracted by cfDNAFE.
+The comparison between the cfDNA samples of hepatocellular carcinoma (HCC) patients and normal controls suggests HCC cfDNA samples exhibit significant difference in fragment size related features and breakpoint/end motif patterns, and obtain significant higher OCF values in the liver-specific open regions than the health controls.
+Conclusively, cfDNAFE is a most comprehensive toolkit which covers the most features for inferring the tissues-of-origin of cfDNAs in existing studies up to date.
+It will facilitate researchers to build machine learning models for auxiliary diagnosis based on these features.
+Availability and implementation: https://github.com/Cuiwanxin1998/cfDNAFE.

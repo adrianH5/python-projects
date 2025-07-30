@@ -1,0 +1,4 @@
+Breast cancer is the most common malignant tumor among women worldwide, and early diagnosis is crucial for reducing mortality rates.
+Traditional diagnostic methods have significant limitations in terms of accuracy and consistency.
+Imaging is a common technique for diagnosing and predicting breast cancer, but human error remains a concern.
+Increasingly, artificial intelligence (AI) is being employed to assist physicians in reducing diagnostic errors.

@@ -1,0 +1,8 @@
+Pancreatic cancer, particularly pancreatic ductal adenocarcinoma (PDAC), remains one of the deadliest malignancies with a dismal prognosis due to late diagnosis and limited effective treatments.
+This review explores the multifaceted role of circulating and exosomal microRNAs (miRNAs) in pancreatic cancer progression, metastasis, diagnosis, prognosis, and therapeutic potential.
+miRNAs-a class of small non-coding RNAs-regulate gene expression post-transcriptionally, influencing key oncogenic and tumor-suppressor pathways.
+Dysregulated miRNA expression correlates with tumor stages, metastasis, and patient survival, presenting promising biomarkers for early detection and monitoring disease progression.
+Oncogenic miRNAs like miR-21 and miR-10b are elevated in the serum exosomes of PDAC patients and contribute to tumor growth and therapy resistance by modulating pathways such as Ras/ERK and promoting epithelial-mesenchymal transition.
+Advances in combining miRNA profiles with traditional markers have significantly improved diagnostic accuracy, highlighting miRNAs as robust tools for early intervention.
+Furthermore, targeting miRNAs therapeutically, either through anti-miRNA oligonucleotides or modulation of their regulatory networks, offers novel approaches to overcome chemoresistance and impede tumor progression.
+This review synthesizes current understanding and emerging insights into miRNA-driven molecular mechanisms in pancreatic cancer, underscoring their critical role in shaping future diagnostic and therapeutic landscapes.

@@ -1,0 +1,6 @@
+Accurate preoperative diagnosis of papillary thyroid carcinoma (PTC) histological subtypes and lymph node metastasis is essential for formulating personalized treatment strategies.
+However, their preoperative diagnosis is challenged by the limited reliability of cytological identification of histological subtypes and the low accuracy of lymph node detection using ultrasound imaging.
+Herein, a deep learning-assisted surface-enhanced Raman scattering (SERS) chip is developed for the preoperative diagnosis of PTC histological subtypes and evaluation of lymph node metastasis, using fine-needle aspiration (FNA) samples.
+The convolutional neural network algorithm is used to analyze Raman spectral fingerprints, successfully distinguishing PTC subtypes and lymph node metastasis with an accuracy of 95.83%.
+Moreover, the deep learning-assisted SERS platform has been successfully employed to identify central cervical lymph node metastasis with an accuracy of 100%.
+This approach highlights the potential of personalized medicine, facilitating the development of individualized treatment strategies, reducing overtreatment, and mitigating recurrence risk.

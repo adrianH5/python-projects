@@ -1,0 +1,3 @@
+The structure of ACE2-PD in complex with SARS-CoV-2-RBD
+was retrieved from Protein Data Bank (PDB) file PDB ID 6VW1, while the structure
+of ACE2-PD complexed with SARS-CoV-RBD has PDB ID 2AJF(19) (Figure ).

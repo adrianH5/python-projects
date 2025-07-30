@@ -1,0 +1,14 @@
+Propolis, a resinous compound produced by bees, possesses diverse medicinal properties and has gained significant attention for its potential in cancer therapy.
+This study investigated the therapeutic significance of propolis-derived compounds targeting the kinesin-like protein KIFC1, a motor protein overexpressed in various cancers, using a multistep computational methodology.
+Therefore, it is essential to utilize different in silico methods to predict their therapeutic potential.
+A 3D library of propolis-derived compounds sourced from previously published literature was compiled and screened for physicochemical properties, drug-likeness, and pharmacokinetic predictions using the SwissADME and BOILED-Egg permeation predictive model.
+Pharmacokinetic computations were used to filter out compounds that lacked drug-likeness attributes.
+KIFC1 3D homology model was selected from the AlphaFold database, its stereochemical properties were assessed and validated.
+Virtual screening was performed to identify the high-binding affinity-based top-ranked compounds.
+Furthermore, the active residues present in the druggable cavities were identified using the Cavity Blind (CB) docking tool to investigate grid-box-based residue-specific molecular docking and simulation analysis.
+We found five common propolis-derived compounds following the druglikeness rule, and having HBA (high binding affinity) for the KIFC1 protein, were subjected to CB docking to identify druggable binding pockets (recognition of consensus residues) on KIFC1 as well as residue-specific molecular docking and simulation.
+Grid-box-based docking experiments for exploring the molecular interactions of the five compounds above validated the inhibitory effects of kaempferide (∆G = -7.35 kcal/mol and Ki = 4.12 μM), luteolin (∆G = -6.74 kcal/mol and Ki = 11.48 μM), Izalpinin (∆G = -6.33 kcal/mol and Ki = 22.9 μM), 4',5,7-Trihydroxy-3,6-dimethoxyflavone (∆G = -6.14 kcal/mol and Ki = 31.71 μM), and 6-methoxykaempferol (∆G = -6.55 kcal/mol and Ki = 15.81 μM).
+Molecular dynamics simulation analysis at 100 nanoseconds examined the binding modes of five screened compounds and predicted molecular interactions with KIFC1 protein residues.
+Two propolis-derived compounds, 4',5,7-trihydroxy-3,6-dimethoxyflavone and 6-methoxy kaempferol, showed significant interactions with KIFC1 residues and exhibited stable binding pattern.
+MD simulations analysis showed minor variation in root-mean-square deviation and fluctuation, confirming their equilibrium with KIFC1 protein.
+The study enhances understanding of propolis compounds' inhibitory effects on KIFC1 protein, providing insights for potential treatment approaches and requiring further experimental (in vivo and in vitro) as well as clinical validation.

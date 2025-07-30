@@ -1,0 +1,4 @@
+IMpower010 (ClinicalTrials.gov identifier: NCT02486718) previously showed that atezolizumab improved disease-free survival (DFS) versus best supportive care (BSC) after adjuvant chemotherapy in patients with resected non-small cell lung cancer (NSCLC).
+We report DFS final analysis, second overall survival (OS) interim analysis, and safety with a ≥5-year follow-up.
+Patients with completely resected stage IB-IIIA NSCLC were randomly assigned to atezolizumab (1,200 mg once every 3 weeks, 16 cycles) or BSC after platinum-based chemotherapy.
+At clinical cutoff (January 26, 2024), stratified hazard ratios (HRs; 95% CI) for DFS were 0.85 (95% CI, 0.71 to 1.01;

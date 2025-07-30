@@ -1,0 +1,9 @@
+Cisplatin is a potent chemotherapeutic drug widely used to treat cancers.
+Unfortunately, its overaccumulation in kidney proximal tubular cell (PTC) results in severe acute kidney injury (AKI).
+Bismuth drugs have long been used to treat gastrointestinal tract disorder and Helicobacter pylori infection.
+Interestingly, oral administration of bismuth drugs can also mitigate cisplatin-induced AKI, but the underlying mechanism remains unknown.
+In this study, we found even low concentrations of bismuth can specifically increase the survival rate of human PTC upon excessive cisplatin exposure.
+Using multiomics and protein-small molecule interaction techniques, we identified mitochondrial iron-binding protein ALKBH7 as a specific target of bismuth.
+By gene knockout and silencing, we demonstrated that ALKBH7 depletion indeed greatly increases cell survival rate upon excessive cisplatin exposure.
+Furthermore, we found bismuth treatment depletes ALKBH7 in mice kidney and prevents cisplatin-induced AKI.
+Overall, our evidence suggests ALKBH7 is a specific target of bismuth drugs, and ALKBH7 inhibitors are potential drug candidates for mitigation of cisplatin-induced AKI.

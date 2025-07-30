@@ -1,0 +1,5 @@
+Colorectal cancer often arises from precancerous polyps, where accurate size assessment is vital for clinical decisions but challenged by subjective methods.
+While artificial intelligence (AI) has shown promise in improving the accuracy of polyp size estimation, its development depends on large, meticulously annotated datasets.
+We present Polyp-Size, a dataset of 42 high-resolution white-light colonoscopy videos with polyp sizes precisely measured post-resection using vernier calipers to submillimeter precision.
+Unlike existing datasets primarily focused on polyp detection or segmentation, Polyp-Size offers validated size annotations, diverse polyp features (Paris classification, anatomical location and histological type), and standardized video formats, enabling robust AI models for size estimation.
+By making this resource publicly available, we aim to foster research collaboration and innovation in automated polyp measurement to ultimately improve clinical practice.

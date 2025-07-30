@@ -1,0 +1,8 @@
+Oral pathologies such as oral cancer, oral potentially malignant disorders (OPMDs), oral squamous cell carcinoma (OSCC), represent significant global health challenges owing to their prevalence, complex management, and impact on patient quality of life.
+Traditional diagnostic approaches, though effective, are often limited by their invasiveness, lack of sensitivity, and inability to provide real-time monitoring.
+Biosensors, particularly colorimetric and electrochemical types, offer promising alternatives by enabling rapid, non-invasive detection of disease-related biomarkers in saliva or breath.
+However, current biosensor applications in oral health are predominantly designed for single-time measurements, with limited capabilities for continuous monitoring and integration with digital health platforms.
+This narrative review synthesizes literature published in the last 10 years from major databases, focusing on recent advances in salivary biosensors for oral disease monitoring, with emphasis on OSCC and OPMDs.
+The review also explores the emerging role of artificial intelligence and digital platforms in transforming biosensor data into clinically meaningful insights.
+Addressing these areas could enhance the practicality and accessibility of biosensors, offering a proactive approach to oral healthcare and improving patient outcomes.
+This paper underscores the need for interdisciplinary collaboration to bridge current technological gaps, paving the way for a future where personalized, preventative care in oral pathology becomes standard practice.

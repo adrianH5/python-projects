@@ -1,0 +1,4 @@
+Breast ultrasound is essential for evaluating breast nodules, with Breast Imaging Reporting and Data System (BI-RADS) providing standardized classification.
+However, interobserver variability among radiologists can affect diagnostic accuracy.
+Large language models (LLMs) like ChatGPT-4 have shown potential in medical imaging interpretation.
+This study explores its feasibility in improving BI-RADS classification consistency and malignancy prediction compared to radiologists.

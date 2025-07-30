@@ -1,0 +1,8 @@
+Focusing on the seed part of miRNA-like sequences having a putative 8 nucleotide hybridization seed inhibition effect [19], [20] (minimum 7), we compare data from different databases
+[21], [22], [23], [24], [25], [26] using BLAST [27].
+Among the symptoms of the COVID-19 disease, anosmia is frequently described.
+This hypothesis is in agreement with numerous studies showing a decrease of adult human hemoglobin blood concentrations in severe COVID-19 cases [46], [47], presenting an increase of the high-sensitivity C-reactive protein as one of the three major predictors of severity [48], like in ß-thalassemia [49] and viral infections [50].
+In [63], it is described a release of massive amounts of calprotectin (S100A8/S100A9) in severe cases of COVID-19.
+All these probabilities are less than 5 10-2 showing the significance of the corresponding associations, which could be at the origin of the brakes observed on many metabolisms, thus explaining the ubiquitous and inconstant nature of the symptoms of COVID-19.
+They concern indeed many organs, in a sequence and with a duration difficult to anticipate, the cases observed ranging from asymptomatic or mildly affected patients to severe patients suffering from numerous chronic co-morbidities, the worsening of which due to COVID-19 leading sometimes to death.
+We compare RNA subsequences of SARS-CoV-2 protein S and RNA-dependent RNA polymerase genes to mRNA sequences of beta-globin and type I interferons; (4) Results: RNA subsequences longer than eight nucleotides from SARS-CoV-2 genome could hybridize subsequences of the mRNA of beta-globin and of type I interferons; (5) Conclusions: Beyond viral protein production, COVID-19 might affect vital processes like host oxygen transport and immune response.

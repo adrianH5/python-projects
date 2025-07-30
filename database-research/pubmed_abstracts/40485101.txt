@@ -1,0 +1,8 @@
+Mendelian randomization (MR), a powerful statistical tool for causal inference, has been widely applied in various fields of medical research, even extending to economics and psychology.
+In hepatology, MR has been utilized to identify risk factors and potential therapeutic targets for liver diseases, including metabolic dysfunction-associated steatotic liver disease, cholestatic and autoimmune liver diseases or hepatobiliary cancer.
+MR can provide evidence of causation via associations between genetic variants, modifiable exposures and liver disease occurrence or outcomes, using large existing datasets.
+However, results from MR studies are sometimes scattered, biologically not plausible or even controversial between analyses, potentially reflecting a trend of inappropriate application of this method (e.g.
+inappropriate selection of genetic instruments, insufficient assessment of horizontal pleiotropy, compromised statistical power, and neglected genetic diversity among different populations), and thus hinder the translation of MR findings from bench-to-bedside.
+Assessing these critical issues and pinpointing bona fide evidence are essential but quite challenging for clinicians.
+In this review, we aim to introduce the MR method to hepatologists and provide a comprehensive overview of the current MR findings that are relevant for hepatologists.
+Furthermore, we will discuss how to evaluate the quality of MR publications, interpret MR findings, and illustrate good practice of using MR studies in hepatology.

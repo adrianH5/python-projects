@@ -1,0 +1,9 @@
+High-risk pancreatic neuroendocrine tumors (pNET) are characterized by aggressive progression and metastasis, contributing to poor clinical outcomes.
+This study explores molecular mechanisms underlying metastasis in high-risk pNETs and evaluates therapeutic interventions.
+We employed small RNA sequencing to profile miRNA signatures in tumor-derived small extracellular vesicles (sEVs) and integrated single-cell transcriptomic analysis to delineate the tumor immune microenvironment.
+Prognostic validation of SPP1+ macrophages was performed in clinical cohorts using multiplex immunofluorescence.
+Mechanistic studies utilized animal models and functional assays to elucidate the sEV-mediated crosstalk between tumor cells and macrophages.
+Here, we reveal that sEV-miR-183-5p from high-risk pNETs reprograms macrophages via PDCD4/PI3Kγ/AKT/mTOR signaling, inducing SPP1 overexpression and M2 polarization to promote angiogenesis and metastasis.
+p53 mutants were identified as upstream regulators of sEV-miR-183-5p secretion.
+Inhibition of SPP1 attenuated tumor progression, while elevated plasma sEV-miR-183-5p levels correlated with high-grade and advanced disease stages.
+Together, this study reveals a critical sEV-miRNA mediated mechanism governing tumor-macrophage communication in high-risk pNETs, offering insights into therapeutic strategies and suggesting sEV-miR-183-5p may have prognostic potential.

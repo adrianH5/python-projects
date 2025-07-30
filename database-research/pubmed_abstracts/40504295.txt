@@ -1,0 +1,13 @@
+Phenethyl isothiocyanate (PEITC) exerts anti-gastric cancer effect, however, the molecular mechanism has not yet been elucidated.
+KLF4 is an important regulatory molecule in gastric cancer.
+The programmed death ligand 1 (PD-L1) interacts with programmed cell death 1 (PD-1), inhibits function of cytotoxic T-lymphocyte and helps gastric cancer cells evade immune surveillance.
+The present study aimed to investigate the effect of PEITC against gastric cancer and the roles of KLF4 and PD-L1 in the anti-gastric cancer effect of PEITC.
+The effects of PEITC on gastric cancer cell proliferation and apoptosis were detected by EdU assay, flow cytometric analysis, immunoblotting and in vivo xenograft tumor experiment.
+The expression of KLF4 and PD-L1 was examined in PEITC-treated gastric cancer cells using immunoblotting, immunofluorescence and flow cytometric analysis.
+Co-culture system was used to assess the cancer cell-killing effect of PEITC combined with anti-PD-L1 blockade in gastric cancer.
+The results showed that PEITC suppressed cell activities both in vitro and in vivo.
+PEITC upregulated the expression of KLF4, which suppressed cyclin D1 expression and activated Bax expression, and mediated the growth inhibition effect of PEITC in gastric cancer.
+Meanwhile, we found that KLF4 induced by PEITC transcriptionally activated PD-L1 expression and diminished anti-cancer effects of anti-PD-L1 therapy in gastric cancer cells.
+Findings from this research revealed that PEITC restricted gastric cancer cell growth through activating KLF4.
+PEITC attenuated anti-PD-L1 therapy efficacy attributing to KLF4-upregulated PD-L1.
+These results uncover a novel mechanism of PEITC in gastric cancer intervention.

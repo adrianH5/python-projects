@@ -1,0 +1,12 @@
+Digital pathology relies on the morphological architecture of prostate glands to recognize cancerous tissue.
+Prostate cancer (PCa) originates in walnut shaped prostate gland in the male reproductive system.
+Deep learning (DL) pipelines can assist in identifying these regions with advanced segmentation techniques which are effective in diagnosing and treating prostate diseases.
+This facilitates early detection, targeted biopsy, and accurate treatment planning, ensuring consistent, reproducible results while minimizing human error.
+Automated segmentation techniques trained on MRI datasets can aid in monitoring disease progression which leads to clinical support by developing patient-specific models for personalized medicine.
+In this study, we present multiclass segmentation models designed to localize the prostate gland and its zonal regions-specifically the peripheral zone (PZ), transition zone (TZ), and the whole gland-by combining EfficientNetB4 encoders with Self-organized Operational Neural Network (Self-ONN)-based decoders.
+Traditional convolutional neural networks (CNNs) rely on linear neuron models, which limit their ability to capture the complex dynamics of biological neural systems.
+In contrast, Operational Neural Networks (ONNs), particularly Self-ONNs, address this limitation by incorporating nonlinear and adaptive operations at the neuron level.
+We evaluated various encoder-decoder configurations and identified that the combination of an EfficientNet-based encoder with a Self-ONN-based decoder yielded the best performance.
+To further enhance segmentation accuracy, we employed the STAPLE method to ensemble the top three performing models.
+Our approach was tested on the large-scale, recently updated PI-CAI Challenge dataset using 5-fold cross-validation, achieving Dice scores of 95.33 % for the whole gland and 92.32 % for the combined PZ and TZ regions.
+These advanced segmentation techniques significantly improve the quality of PCa diagnosis and treatment, contributing to better patient care and outcomes.

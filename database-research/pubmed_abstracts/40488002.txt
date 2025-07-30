@@ -1,0 +1,8 @@
+Although chemotherapy regimens are well-established in clinical practice, chemoresistance and adverse side effects pose significant obstacles in cancer treatment.
+Paclitaxel (PTX), a widely used chemotherapeutic agent, faces formulation challenges due to its poor solubility and permeability.
+Research suggests that the phytochemical Cannabidiol (CBD) holds potential not only in targeting cancer cells but also in alleviating pain and nausea, thereby improving the quality of life for cancer patients.
+However, CBD's clinical application is also limited by its poor solubility, low bioavailability, and susceptibility to oxidation.
+Nanostructured lipid carriers (NLCs) represent a promising drug delivery system for hydrophobic compounds like PTX and CBD and allow their coencapsulation.
+Nonetheless, achieving a stable formulation requires the identification of suitable preparation methods and excipients.
+The aim of this study was to develop and optimize an NLC formulation for the coencapsulation of PTX and CBD.
+Using factorial design, an optimized formulation was obtained with homogeneous particle sizes (200 nm), negative ZPs (-16.1 mV), a particle concentration of 10

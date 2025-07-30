@@ -1,0 +1,4 @@
+The formation of myofibroblast foci constitutes a hallmark pathological feature of idiopathic pulmonary fibrosis (IPF), yet the mechanism remains elusive.
+RNA binding motif single-stranded interacting protein 1 (RBMS1), is known to be essential for proliferation and cell cycle progression; however, its role in pulmonary fibrosis remains to be clarified.This study aimed to systematically elucidate the role and underlying mechanism of RBMS1 in pulmonary fibrosis utilising mouse primary lung fibroblasts (mPLFs), fibroblast-specific Rbms1 deletion and overexpression mice models, and lung samples from IPF patients.RBMS1 was highly expressed in both IPF patient lungs and murine bleomycin (BLM)-induced fibrotic lesions.
+Notably, elevated RBMS1 expression was observed in the cytoplasm of mPLFs following TGF-β1 stimulation.
+Rbms1 promoted lung fibroblast activation, while knockdown of Rbms1 mitigated TGF-β1-induced fibrogenesis.

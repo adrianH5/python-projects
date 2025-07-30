@@ -1,0 +1,14 @@
+Autophagy is a degradative process that makes rapid turnover of old and impaired proteins and organelles possible.
+It is highly instigated by stress signals, like starvation, and contributes to the cell's homeostasis.
+Autophagy performs a crucial function in keeping cell genomic integrity stable.
+Impaired autophagic flux is implicated in neurodegenerative diseases, abnormal ageing, and cancerous diseases.
+In diseases like cancer, autophagy performs a dualistic function; it can have both a tumor-suppressive and supportive role.
+Autophagy in the initial phases of tumorigenesis maintains the integrity of the genome and, if it fails, leads to cell death, thus having a tumor-suppressive role.
+Meanwhile, autophagy also imparts the function of the pro-survival mechanism in the latter stages of tumorigenesis and supports the cancerous cells in surviving conditions like hypoxia and increased oxidative stress.
+Autophagy also helps cancerous cells develop drug resistance in some cases.
+Thus, modulation of the autophagic mechanism is a possible therapeutic strategy in cancer therapy as its inhibition can sensitise cancer cells to anti-cancerous drugs.
+The promotion of autophagy, in some cases, can also safeguard cells from toxic protein aggregation and enhanced oxidative stress.
+Excessive autophagy can result in autophagic cell death.
+Autophagy also regulates several cellular processes and cell death pathways, like apoptosis.
+Therefore, an in-depth knowledge of the autophagy process and its regulating molecules is critically important.
+Pharmaceutical small molecules or cellular target modulation can help modulate the cellular autophagy process in the context of specific disease conditions.

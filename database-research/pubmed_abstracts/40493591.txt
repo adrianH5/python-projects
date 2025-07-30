@@ -1,0 +1,12 @@
+Prostate cancer ranks as the second most prevalent cancer among men, with androgen deprivation therapy (ADT) being a cornerstone treatment strategy.
+Enzalutamide, apalutamide, and darolutamide are key examples of second-generation androgen receptor antagonists (SGARAs).
+Although severe cutaneous adverse reactions (SCARs) are infrequent, they carry a significant risk of mortality.
+This study employed four disproportionality analysis algorithms: Reporting Odds Ratio (ROR), Proportional Reporting Ratio (PRR), Bayesian Confidence Propagation Neural Network (BCPNN), and Multi-item Gamma Poisson Shrinker (MGPS) to investigate the potential link between SGARAs and SCARs.
+As of the second quarter of 2024, reports of SCARs related to enzalutamide, apalutamide, and darolutamide totaled 25, 77, and 1, respectively.
+The majority of reports came from elderly patients, predominantly reported by health professionals, with Japan and the USA being the primary reporting countries.
+SCARs related to apalutamide detected positive signals in all four algorithms, while enzalutamide and darolutamide did not show positive signals.
+The study indicated that the majority of onset times occurred within 37 days, but SCARs could still occur up to 176 days with enzalutamide and 126 days after apalutamide treatment.
+No onset time was reported for darolutamide.
+In the treatment of prostate cancer with SGARAs, there is a potential risk of SCARs.
+When different SGARAs were compared, SCARs were more frequently reported with apalutamide than enzalutamide and darolutamide.
+This indicates that patients using SGARAs, particularly apalutamide, require closer and more prolonged monitoring to facilitate the early detection and management of SCARs and to reduce the occurrence of serious outcomes.

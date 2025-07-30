@@ -1,0 +1,8 @@
+Oral leukoplakia (OLK) is a common potentially malignant oral disorder with high risk of malignant transformation.
+While photodynamic therapy (PDT) offers a minimally invasive treatment for OLK, some patients show resistance to PDT and the mechanisms remain unclear.
+This study aims to identify key regulatory pathways driving PDT resistance in OLK.
+Single-cell RNA sequencing of OLK samples (three PDT-sensitive, three PDT-resistant) revealed significant NRF2 upregulation in resistant tissues.
+Validation across two independent cohorts (n = 117) confirmed that p-NRF2 levels were significantly elevated in PDT-resistant cases, exhibiting strong predictive power for treatment response (AUC > 0.8).
+Mechanistically, NRF2 promotes CTNNB1 transcription, activates WNT signaling, modulates reactive oxygen species responses, and regulates keratinization, collectively contributing to PDT resistance.
+In a 4NQO-induced OLK mouse model, NRF2 inhibition combined with PDT effectively reversed OLK lesions and restored mucosal histology.
+These findings establish p-NRF2 as a valuable biomarker for guiding PDT regimens in OLK patients, reveal NRF2's role in mediating PDT resistance via the WNT signaling pathway, and highlight NRF2 inhibition as a promising strategy to enhance PDT efficacy.

@@ -1,0 +1,4 @@
+Mild photothermal therapy (mild PTT) has emerged as a promising approach for tumor treatment that utilizes low-temperature photothermal effects to eliminate tumor tissue while avoiding thermal damage to the surrounding normal tissues.
+However, its therapeutic efficacy is often limited by the upregulation of heat shock proteins (HSPs), which endow tumor cells with thermal resistance.
+We have developed a multifunctional DNA-engineered iron single-atom nanozyme (Fe-N-C@DNA) to enhance mild PTT through a "minimize generation, expedite depletion" dual inhibition strategy.
+The construct achieves gene silencing

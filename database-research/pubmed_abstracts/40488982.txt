@@ -1,0 +1,18 @@
+Schizophrenia is a complex psychiatric disorder with multifactorial etiologies, including genetic components.
+The role of Human endogenous retroviruses has been suggested in schizophrenia pathogenesis.
+This study aims to identify and analyze the shared genetic components between schizophrenia and Human endogenous retroviruses through bioinformatics approaches.
+Genes associated with schizophrenia and Human endogenous retroviruses were identified and analyzed for overlap.
+A protein-protein interaction network was constructed, followed by hub gene selection using various algorithms.
+Functional enrichment analyses were conducted to determine biological processes and pathways involved.
+Transcription factors and miRNA networks were built to investigate gene regulation.
+Drug and chemical interactions were examined, and gene-disease associations were assessed.
+Also, gene expression levels in different brain regions and brain and blood cells were analyzed.
+Logistic regression analysis was done to evaluate the association of hub genes with schizophrenia.
+A total of 345 genes were found common between schizophrenia and Human endogenous retroviruses.
+Six hub genes (AKT1, CD4, CD8A, IL6, STAT1, and TNF) were identified.
+Gene ontology and pathway analyses indicated immune system involvement.
+Gene expression analysis showed differential expression patterns in blood and brain cells.
+IL6 and TNF were significantly upregulated in schizophrenia patients, while AKT1 exhibited downregulation.
+Logistic regression revealed IL6 and TNF as risk factors, whereas AKT1 showed protective effects.
+This study found key genetic interactions between schizophrenia and endogenous human retroviruses, with hub genes playing significant roles in immune signaling and neuroinflammation.
+These findings introduce potential targets for therapeutic interventions in schizophrenia.

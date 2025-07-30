@@ -1,0 +1,4 @@
+As a corollary, the pangolin trade has very recently been pinpointed as posing a serious threat to human health, pangolins being potentially involved in the COVID-19 pandemic [5, 6].
+We used the Multilocus tagging option in GenAlex to detect identical genotypes in our dataset (sub-option ‘Matches’).
+The 20 loci were successfully amplified (with 100% PCR success rate), with only 0.84% missing data in our final multilocus dataset (Table 1).
+Pangolins, or scaly anteaters, have recently been flagshiped as one of the most illegally traded mammals, and as a corollary, as potential intermediate hosts at the origin of the COVID-19 pandemic.
