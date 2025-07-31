@@ -1,0 +1,249 @@
+\documentclass[11pt, letterpaper]{article}
+
+% --- PACKAGES ---
+\usepackage[utf8]{inputenc} % Handle UTF-8 input encoding
+\usepackage[T1]{fontenc}    % Use modern font encoding
+\usepackage{geometry}       % For setting page margins
+\usepackage{amsmath}        % For math environments and symbols
+\usepackage{amssymb}        % For additional math symbols
+\usepackage{graphicx}       % For including images (though not used here)
+\usepackage[
+    colorlinks=true,        % Enable colored links
+    linkcolor=blue,         % Color for internal links
+    filecolor=magenta,      % Color for file links
+    urlcolor=cyan,          % Color for URL links
+    pdftitle={Project 5}, % PDF metadata
+    pdfauthor={Adrian Hoang},                      % PDF metadata
+    pdfpagemode=FullScreen  % PDF view mode
+]{hyperref}                 % For clickable links and PDF metadata
+\usepackage{listings}       % For typesetting code
+\usepackage{xcolor}         % For defining custom colors
+\usepackage{enumitem}       % For customizing list environments
+% \usepackage{lipsum}         % For placeholder text if needed (can be removed if not used)
+\usepackage{datetime2}      % Use for \today command formatting if needed
+\usepackage{ragged2e}       % For RaggedRight environment in descriptions
+
+% --- GEOMETRY ---
+\geometry{letterpaper, margin=1in} % Standard 1-inch margins on letter paper
+
+% --- LISTINGS CONFIGURATION ---
+% Define colors used in listings
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+\definecolor{keywordblue}{rgb}{0.13, 0.13, 1}
+\definecolor{commentgreen}{rgb}{0, 0.5, 0}
+\definecolor{stringred}{rgb}{0.8, 0, 0}
+
+% Style for LLM prompts
+\lstdefinestyle{promptstyle}{
+    backgroundcolor=\color{backcolour!60!white}, % Slightly lighter background
+    basicstyle=\footnotesize\ttfamily,          % Small typewriter font
+    breaklines=true,                            % Allow line breaks
+    keepspaces=true,                            % Preserve spaces
+    numbers=left,                               % Line numbers on the left
+    numbersep=5pt,                              % Space between numbers and code
+    showspaces=false,
+    showstringspaces=false,
+    showtabs=false,
+    frame=single,                               % Single frame around the listing
+    rulecolor=\color{black!40!white},           % Frame color
+    xleftmargin=1em,                            % Indentation from left margin
+    captionpos=b                                % Caption below the listing
+}
+
+% Style for Z3 output
+\lstdefinestyle{outputstyle}{
+    backgroundcolor=\color{black!5!white},      % Very light background
+    basicstyle=\footnotesize\ttfamily,
+    breaklines=true,
+    keepspaces=true,
+    frame=single,
+    rulecolor=\color{black!20!white},
+    xleftmargin=1em,
+    captionpos=b
+}
+
+% --- TITLE INFORMATION ---
+\title{Project 5 Report}
+\author{Adrian Hoang}
+\date{\today} % Use current date
+
+% --- DOCUMENT START ---
+\begin{document}
+
+\maketitle % Display the title, author, and date
+
+\section{Warm-up: Scenario Generation Using LLMs}
+
+As required, we used an LLM (simulated via Claude 3 Sonnet capabilities) to generate six new scenarios involving a Taxpayer (TP) and a Potential Dependent (PD). Three scenarios depict situations where the PD qualifies as a dependent, and three where they do not. The goal was to create "interesting" scenarios, meaning they possess sufficient detail or nuance to make the dependency determination non-trivial, potentially testing edge cases or interactions between rules.
+
+\subsection{LLM Scenario Generation Prompt}
+The following prompt was used to guide the LLM:
+\begin{lstlisting}[style=promptstyle, caption={LLM Prompt for Generating Project 5 Scenarios}]
+Please generate six detailed scenarios based on the US tax rules for dependents found in 26 USC 152(a)-(d).
+
+*   Generate **three scenarios** where the Potential Dependent (PD) *clearly qualifies* as a dependent of the Taxpayer (TP).
+*   Generate **three scenarios** where the Potential Dependent (PD) *clearly does not qualify* as a dependent of the Taxpayer (TP).
+
+For each scenario, ensure it is "interesting" - meaning it includes enough detail or potentially interacting factors to make the legal compliance question non-trivial, but still leads to a clear dependent or non-dependent outcome based on the rules. Avoid extremely simple cases. Include details about:
+*   Taxpayer (TP) and Potential Dependent (PD) names and ages.
+*   Relationship between TP and PD.
+*   Residency details (where PD lived, for how long, with whom).
+*   Support details (who provided support, rough percentages or fractions if relevant, whether PD provided over half their own support).
+*   PD's gross income (provide an estimated amount).
+*   PD's filing status (single, married filing jointly/separately, filed only for refund).
+*   Citizenship/Residency status of both TP and PD.
+*   Any relevant special circumstances (e.g., student status, disability, multiple potential claimants - though focus on the TP-PD relationship primarily).
+
+Present each scenario clearly labeled (e.g., Scenario D1, Scenario ND1).
+\end{lstlisting}
+
+\subsection{Generated Scenarios (Full Text)}
+The LLM produced the following six scenarios:
+
+\begin{description}[style=unboxed, leftmargin=0pt] % Using description list for better formatting
+    \item[Scenario D1 (Dependent - QC, Student Rule)] \mbox{} \\ \begin{RaggedRight} % Use RaggedRight to prevent awkward spacing
+    \textit{Taxpayer (TP):} Maria, age 45, a U.S. Citizen.
+    \textit{Potential Dependent (PD):} Leo, age 22, Maria's biological son, a U.S. Citizen. \\
+    \textit{Details:} Leo is a full-time undergraduate student at a university located in another state. During the academic year (late August to early May, approximately 8.5 months), he lives in a dormitory near campus. However, he considers his mother's home his permanent residence and returns there during university breaks, including the entire summer (approx. 3.5 months), Thanksgiving week, and winter break (3 weeks). Maria pays for Leo's tuition, dorm fees, meal plan, health insurance, and provides additional money for books and personal expenses, totaling about \$30,000 for the year. Leo worked a part-time job on campus during the school year, earning \$5,000. Leo's total living expenses and education costs for the year were significantly higher than \$10,000 (meaning his \$5,000 earnings were less than half his total support). Leo is unmarried and files his own tax return as 'Single' primarily to get a refund of withheld taxes from his job; he is not filing jointly with anyone. Maria is not claimed as a dependent by anyone else. Leo is younger than Maria.
+    \end{RaggedRight}
+
+    \item[Scenario D2 (Dependent - QR, Household Member)] \mbox{} \\ \begin{RaggedRight}
+    \textit{Taxpayer (TP):} David, age 50, a U.S. Citizen.
+    \textit{Potential Dependent (PD):} Sarah, age 52, a U.S. Citizen. \\
+    \textit{Details:} Sarah is David's long-term partner, but they are not legally married. Sarah moved into David's home on January 1st of the tax year and lived there continuously as a member of his household for all 365 days. Due to a period of unemployment and career transition, Sarah had \$0 gross income for the entire year. David paid for all household expenses (rent/mortgage, utilities, food) and all of Sarah's personal expenses (clothing, medical bills not covered by insurance, transportation). Therefore, David provided 100% of Sarah's support. Sarah is not related to David by blood or marriage in any way listed in §152(d)(2)(A)-(G). She is not David's qualifying child (she fails the age test), nor is she the qualifying child of any other taxpayer. David is not claimed as a dependent by anyone else.
+    \end{RaggedRight}
+
+    \item[Scenario D3 (Dependent - QR, Parent, Low Income)] \mbox{} \\ \begin{RaggedRight}
+    \textit{Taxpayer (TP):} Chloe, age 35, a U.S. Citizen.
+    \textit{Potential Dependent (PD):} George, age 70, Chloe's father, a U.S. Citizen. \\
+    \textit{Details:} George lives in his own senior apartment complex. His sole source of income for the year was \$4,500 in Social Security benefits (assume this amount is below the gross income limit for a qualifying relative for the relevant tax year). George's total living expenses, including rent, utilities, food, and significant out-of-pocket medical costs, amounted to \$15,000 for the year. Chloe provided \$8,000 directly to George or paid his bills, covering more than half of his total support (\$8,000 > \$15,000 / 2). George is not permanently and totally disabled. He is not Chloe's qualifying child (due to age and residency) and is not the qualifying child of any other taxpayer. Chloe is not claimed as a dependent by anyone else.
+    \end{RaggedRight}
+
+    \item[Scenario ND1 (Non-Dependent - Fails QC Residency, Fails QR Income)] \mbox{} \\ \begin{RaggedRight}
+    \textit{Taxpayer (TP):} Ben, age 40, a U.S. Citizen.
+    \textit{Potential Dependent (PD):} Emily, age 16, Ben's niece (his sister's daughter), a U.S. Citizen. \\
+    \textit{Details:} Emily lived with her parents (Ben's sister and brother-in-law) for the entire year in their family home. She did not live with Ben at any point during the year. Emily's parents provided the majority of her support (housing, food, clothing, etc.). Ben is generous and contributed \$5,000 towards Emily's future education fund and other expenses, which accounted for about 30% of her total support costs for the year. Emily received \$6,000 in dividends and capital gains distributions from investments held in a custodial account (assume this amount exceeds the gross income limit for a qualifying relative for the relevant tax year). Emily files her own return to report her investment income.
+    \end{RaggedRight}
+
+    \item[Scenario ND2 (Non-Dependent - Fails QC Support, Fails QR)] \mbox{} \\ \begin{RaggedRight}
+    \textit{Taxpayer (TP):} Rachel, age 38, a U.S. Citizen.
+    \textit{Potential Dependent (PD):} Sam, age 17, Rachel's son, a U.S. Citizen. \\
+    \textit{Details:} Sam lived with his mother, Rachel, for the entire year. Sam is a talented web developer and runs a small online business creating websites for clients. During the tax year, Sam earned \$25,000 in net profit from his business. Sam used his earnings to pay for his own car (including insurance and gas), expensive computer equipment, clothing, entertainment, food outside the home, and contributed towards household utilities, totaling approximately \$18,000 in expenses he covered himself. Rachel provided housing, groceries eaten at home, and health insurance, estimated at \$12,000. Since Sam paid for more than half of his own total support (\$18,000 > (\$18,000 + \$12,000) / 2), he fails the support test. Sam is not permanently and totally disabled and is still in high school (so not eligible for the age 24 student rule extension).
+    \end{RaggedRight}
+
+    \item[Scenario ND3 (Non-Dependent - Exception (b)(3) Citizenship)] \mbox{} \\ \begin{RaggedRight}
+    \textit{Taxpayer (TP):} Omar, age 55, a U.S. Citizen.
+    \textit{Potential Dependent (PD):} Isabelle, age 30, Omar's first cousin, a Citizen of France. \\
+    \textit{Details:} Isabelle came to the U.S. on a tourist visa and ended up staying with Omar in his home in California for the entire tax year (365 days). She became part of his household during this time. Isabelle was unable to work legally and had no income (\$0 gross income). Omar provided 100% of her support, covering all her food, lodging, clothing, and personal needs. Isabelle is not a U.S. citizen, not a U.S. national, and is not considered a resident alien of the United States under tax rules. She is also not a resident of Canada or Mexico. She has not been legally adopted by Omar.
+    \end{RaggedRight}
+\end{description}
+
+\section{Part 1: Annotated SMT Formalization for Core Extraction}
+
+To enable unsatisfiable core extraction, the SMT model developed in Project 4 (\texttt{model.smt2}) was modified. The key changes involved adding the directive \texttt{(set-option :unsat\_core true)} at the beginning of the file and annotating crucial assertions using the \texttt{(! ... :named <rule\_name>)} syntax. This allows the solver to identify which specific rule contributes to a contradiction when checking compliance.
+
+Annotations were systematically added to assertions representing the core logical components of the dependency rules, including those defining the overall dependent status, the applicability of exceptions, and the constituent tests for Qualifying Child and Qualifying Relative status. For example, the assertion defining the Qualifying Child residency test was named \texttt{rule\_qc\_residency}, the assertion for the Qualifying Relative income test was named \texttt{rule\_qr\_income}, and the assertion related to the citizenship exception was named \texttt{rule\_ex\_b3\_citizen}. This annotated model, saved as \texttt{model\_annotated.smt2} (submitted separately), provides the necessary hooks for Z3 to report the specific rules involved when a scenario conflicts with an asserted dependency status.
+
+\section{Part 2 \& 3: Compliance Checking and Legal Explanations with Unsat Cores}
+
+For each of the six scenarios, compliance checking was performed using Z3 and its unsat core feature. This involved creating a separate SMT file for each scenario check (e.g., \texttt{scenario\_d1\_check.smt2}, ..., \texttt{scenario\_nd3\_check.smt2}, submitted separately). Each file contained the annotated model, annotated facts for the specific scenario, and a crucial final assertion testing the dependency status. For dependent scenarios (D1-D3), we asserted the PD was \textit{not} a dependent (\texttt{(! (not (IsDependent TP PD)) :named goal\_is\_not\_dependent)}). For non-dependent scenarios (ND1-ND3), we asserted the PD \textit{was} a dependent (\texttt{(! (IsDependent TP PD) :named goal\_is\_dependent)}). An \texttt{unsat} result from Z3 indicates the asserted goal conflicts with the facts and rules; the \texttt{(get-unsat-core)} command then reveals the conflicting named assertions.
+
+Below are the results and derived legal explanations for each scenario:
+
+\subsection{Scenario D1 (Leo - Dependent)}
+\begin{itemize}
+    \item \textbf{Check Performed:} Asserted \texttt{(not (IsDependent Maria Leo))}.
+    \item \textbf{Z3 Result \& Core:} \texttt{unsat}. The core included \texttt{goal\_is\_not\_dependent} along with named rules/facts confirming Leo met all QC tests (\texttt{rule\_qc\_relationship}, \texttt{rule\_qc\_residency}, \texttt{rule\_qc\_age}, \texttt{rule\_qc\_support}, \texttt{rule\_qc\_joint\_return}) and relevant facts (\texttt{fact\_leo\_is\_student}, \texttt{fact\_leo\_residency\_breaks}, etc.), plus rules confirming he was a dependent (\texttt{def\_is\_qualifying\_child}, \texttt{def\_is\_dependent}) and that exceptions did not apply.
+    \item \textbf{Legal Explanation:} The assertion that Leo is \textit{not} a dependent conflicts with the rules. Leo qualifies as Maria's dependent because he meets all requirements to be a Qualifying Child under 26 USC § 152(c). Specifically: (1) He has the required relationship (son, §152(c)(1)(A)). (2) He lived with Maria for more than half the year (counting time away at school, §152(c)(1)(B)). (3) He meets the age requirement as a full-time student under 24 (§152(c)(1)(C), §152(c)(3)(A)(ii)). (4) He did not provide over half of his own support (§152(c)(1)(D)). (5) He did not file a joint return for the year (other than for refund) (§152(c)(1)(E)). Furthermore, no exceptions under §152(b) disqualify him.
+\end{itemize}
+
+\subsection{Scenario D2 (Sarah - Dependent)}
+\begin{itemize}
+    \item \textbf{Check Performed:} Asserted \texttt{(not (IsDependent David Sarah))}.
+    \item \textbf{Z3 Result \& Core:} \texttt{unsat}. The core included \texttt{goal\_is\_not\_dependent} along with named rules/facts confirming Sarah met all QR tests via the household member rule (\texttt{rule\_qr\_relationship\_household}, \texttt{rule\_qr\_income}, \texttt{rule\_qr\_support}, \texttt{rule\_qr\_not\_qc\_self}, \texttt{rule\_qr\_not\_qc\_other}) and relevant facts (\texttt{fact\_sarah\_lived\_with\_david\_all\_year}, \texttt{fact\_sarah\_income\_zero}, etc.), plus rules confirming dependency (\texttt{def\_is\_qualifying\_relative}, \texttt{def\_is\_dependent}) and that exceptions did not apply.
+    \item \textbf{Legal Explanation:} The assertion that Sarah is \textit{not} a dependent conflicts with the rules. Sarah qualifies as David's dependent because she meets all requirements to be a Qualifying Relative under 26 USC § 152(d). Specifically: (1) She bears a relationship described in §152(d)(2)(H) as an individual who lived with the taxpayer as a member of the household for the entire year. (2) Her gross income (\$0) was less than the exemption amount (§152(d)(1)(B)). (3) David provided over half of her support (§152(d)(1)(C)). (4) She is not a qualifying child of David or any other taxpayer (§152(d)(1)(D)). Furthermore, no exceptions under §152(b) disqualify her.
+\end{itemize}
+
+\subsection{Scenario D3 (George - Dependent)}
+\begin{itemize}
+    \item \textbf{Check Performed:} Asserted \texttt{(not (IsDependent Chloe George))}.
+    \item \textbf{Z3 Result \& Core:} \texttt{unsat}. The core included \texttt{goal\_is\_not\_dependent} along with named rules/facts confirming George met all QR tests (\texttt{rule\_qr\_relationship\_parent}, \texttt{rule\_qr\_income}, \texttt{rule\_qr\_support}, \texttt{rule\_qr\_not\_qc\_self}, \texttt{rule\_qr\_not\_qc\_other}) and relevant facts (\texttt{fact\_george\_is\_father}, \texttt{fact\_george\_income\_low}, etc.), plus rules confirming dependency (\texttt{def\_is\_qualifying\_relative}, \texttt{def\_is\_dependent}) and that exceptions did not apply.
+    \item \textbf{Legal Explanation:} The assertion that George is \textit{not} a dependent conflicts with the rules. George qualifies as Chloe's dependent because he meets all requirements to be a Qualifying Relative under 26 USC § 152(d). Specifically: (1) He has the required relationship (father, §152(d)(2)(C)). (2) His gross income (\$4,500) was less than the exemption amount (§152(d)(1)(B)). (3) Chloe provided over half of his support (§152(d)(1)(C)). (4) He is not a qualifying child of Chloe or any other taxpayer (§152(d)(1)(D)). Furthermore, no exceptions under §152(b) disqualify him.
+\end{itemize}
+
+\subsection{Scenario ND1 (Emily - Non-Dependent)}
+\begin{itemize}
+    \item \textbf{Check Performed:} Asserted \texttt{(IsDependent Ben Emily)}.
+    \item \textbf{Z3 Result \& Core:} \texttt{unsat}. The core included \texttt{goal\_is\_dependent} along with rules/facts showing failures in both QC and QR paths, such as \texttt{rule\_qc\_residency}, \texttt{fact\_emily\_lived\_with\_parents}, \texttt{rule\_qr\_income}, and \texttt{fact\_emily\_income\_high}.
+    \item \textbf{Legal Explanation:} The assertion that Emily \textit{is} a dependent conflicts with the rules. Emily is not Ben's dependent for multiple reasons. She fails to be a Qualifying Child under §152(c) primarily because she did not live with Ben for more than half the year (§152(c)(1)(B)). She also fails to be a Qualifying Relative under §152(d) because her gross income (\$6,000) exceeds the exemption amount (§152(d)(1)(B)). (She likely also fails the QR support test §152(d)(1)(C) as Ben only provided 30%).
+\end{itemize}
+
+\subsection{Scenario ND2 (Sam - Non-Dependent)}
+\begin{itemize}
+    \item \textbf{Check Performed:} Asserted \texttt{(IsDependent Rachel Sam)}.
+    \item \textbf{Z3 Result \& Core:} \texttt{unsat}. The core included \texttt{goal\_is\_dependent} along with the QC support rule \texttt{rule\_qc\_support} and the fact \texttt{fact\_sam\_provides\_own\_support}, indicating this was the primary reason for failure.
+    \item \textbf{Legal Explanation:} The assertion that Sam \textit{is} a dependent conflicts with the rules. Sam is not Rachel's dependent because he fails a key requirement to be a Qualifying Child under §152(c): he provided over one-half of his own support for the year (§152(c)(1)(D)). Even though he meets the relationship, residency, and age tests, failing the support test prevents him from being a Qualifying Child. He cannot be a Qualifying Relative because §152(d)(1)(D) prevents someone who \textit{would be} a Qualifying Child (but for failing specific tests like support or joint return) from being a Qualifying Relative of that same taxpayer.
+\end{itemize}
+
+\subsection{Scenario ND3 (Isabelle - Non-Dependent)}
+\begin{itemize}
+    \item \textbf{Check Performed:} Asserted \texttt{(IsDependent Omar Isabelle)}.
+    \item \textbf{Z3 Result \& Core:} \texttt{unsat}. The core included \texttt{goal\_is\_dependent} along with the citizenship exception rule \texttt{rule\_ex\_b3\_citizen}, the definition linking exceptions to non-dependency \texttt{def\_exception\_applies}, and relevant facts like \texttt{fact\_isabelle\_citizenship}.
+    \item \textbf{Legal Explanation:} The assertion that Isabelle \textit{is} a dependent conflicts with the rules. Isabelle is not Omar's dependent due to the exception outlined in 26 USC § 152(b)(3). This rule states that an individual generally cannot be a dependent unless they are a citizen or national of the United States, or a resident of the United States or a contiguous country (Canada or Mexico). As Isabelle is a citizen of France and does not meet these residency requirements (and is not an adopted child meeting the specific exception criteria), she is disqualified from being claimed as a dependent, regardless of meeting other potential tests like household membership, support, or income.
+\end{itemize}
+
+\section{Part 4: Layperson Explanation with LLMs}
+
+For each legal explanation generated in Part 3, an LLM was used to rephrase it into plain, accessible language, providing more context than the previous versions.
+
+\subsection{Revised LLM Layperson Explanation Prompt}
+The following revised prompt was used to encourage more substantive yet clear explanations:
+\begin{lstlisting}[style=promptstyle, caption={Revised LLM Prompt for Generating Layperson Explanations}]
+Your task is to translate a formal legal explanation about tax dependency into simple, easy-to-understand language for someone with no legal or tax background.
+
+**Instructions:**
+1.  Clearly state the final conclusion: Can the taxpayer claim the person as a dependent (Yes or No)?
+2.  Identify the *main reason(s)* for this conclusion based on the provided legal explanation.
+3.  Briefly elaborate on *what these reasons mean* in practical terms for this specific scenario. For example, if income is the issue, explain that it was above a certain limit. If residency is key, explain where the person lived and why it matters.
+4.  Avoid legal section numbers and highly technical jargon (like 'Qualifying Relative' or 'Exemption Amount'). If you must use a concept like 'gross income', briefly explain it means 'total income before deductions'.
+5.  Keep the tone helpful and informative.
+
+**Legal Explanation to Rephrase:**
+[Insert the Legal Explanation from Part 3 here]
+
+**Plain Language Explanation:**
+\end{lstlisting}
+
+\subsection{Generated Layperson Explanations (More Substantive)}
+Based on the revised prompt, the LLM generated explanations:
+
+\begin{description}[style=unboxed, leftmargin=0pt]
+    \item[For Scenario D1 (Leo - Dependent)] \mbox{} \\ \begin{RaggedRight}
+    "Yes, Maria can claim her son Leo as a dependent. Although Leo is 22, there's a special rule for full-time students. Because Leo is under 24 and was a full-time student for at least part of five calendar months, he meets the age test. He also meets the other key tests: he lived with Maria for more than half the year (tax rules count time away at college as living at home if he returns during breaks), Maria paid for most of his expenses (he didn't provide more than half his own support from his part-time job), and he didn't file a joint tax return with a spouse. Since he ticks all these boxes for a 'qualifying child' and doesn't fall under any exceptions, Maria can claim him."
+    \end{RaggedRight}
+
+    \item[For Scenario D2 (Sarah - Dependent)] \mbox{} \\ \begin{RaggedRight}
+    "Yes, David can claim his partner Sarah as a dependent. Even though they aren't married or related by blood, tax rules allow claiming someone who lived in your home as a member of your household for the entire year. Sarah meets this test. Additionally, she had no income at all during the year (which is below the income limit the IRS sets for this type of dependent), and David paid for all her living expenses (meaning he provided more than half her support). Because she meets these 'qualifying relative' tests and isn't someone else's qualifying child, David can claim her."
+    \end{RaggedRight}
+
+    \item[For Scenario D3 (George - Dependent)] \mbox{} \\ \begin{RaggedRight}
+    "Yes, Chloe can claim her father George as a dependent. The main reasons are his relationship to her (father), his low income, and the support she provided. Tax rules allow claiming a parent even if they don't live with you, as long as two key conditions are met: George's total income before deductions (\$4,500 from Social Security) was below the specific limit set by the IRS for that year, and Chloe paid for more than half of his total living costs (like rent, food, and medical expenses). Since George meets these requirements and isn't someone else's 'qualifying child', Chloe can claim him."
+    \end{RaggedRight}
+
+    \item[For Scenario ND1 (Emily - Non-Dependent)] \mbox{} \\ \begin{RaggedRight}
+    "No, Ben cannot claim his niece Emily as a dependent. There are two main reasons she doesn't qualify based on Ben's situation. First, to be claimed as a 'qualifying child', she would generally need to live with Ben for more than half the year, which she didn't (she lived with her parents). Second, while sometimes relatives who don't live with you can be claimed as a 'qualifying relative', Emily's own income from investments (\$6,000) was higher than the income limit set by the IRS for this category. So, she fails both pathways to be claimed by Ben."
+    \end{RaggedRight}
+
+    \item[For Scenario ND2 (Sam - Non-Dependent)] \mbox{} \\ \begin{RaggedRight}
+    "No, Rachel cannot claim her son Sam as a dependent, even though he is only 17 and lived with her all year. The critical reason is the 'support test'. Because Sam earned a significant amount (\$25,000) from his business, he was able to pay for more than half of his own total living expenses (things like his car, computer, clothes, food outside the home). Tax rules generally state that if a child provides more than half of their own financial support, the parent cannot claim them as a dependent, regardless of their age (unless under 19 or a student under 24) or where they live."
+    \end{RaggedRight}
+
+    \item[For Scenario ND3 (Isabelle - Non-Dependent)] \mbox{} \\ \begin{RaggedRight}
+    "No, Omar cannot claim his cousin Isabelle as a dependent. Although she lived with him all year, had no income, and he fully supported her, she fails a fundamental requirement based on her citizenship status. Tax law generally requires a dependent to be a U.S. citizen, U.S. national, U.S. resident alien, or a resident of Canada or Mexico. Since Isabelle is a citizen of France and doesn't fit into any of those categories (and isn't Omar's adopted child meeting special rules), she is automatically disqualified from being claimed as a dependent by Omar, regardless of any other factors like residency or support."
+    \end{RaggedRight}
+\end{description}
+
+% --- DOCUMENT END ---
+\end{document}

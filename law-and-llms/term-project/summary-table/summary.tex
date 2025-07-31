@@ -1,0 +1,52 @@
+\documentclass[11pt, letterpaper]{article}
+
+% --- PACKAGES ---
+\usepackage[utf8]{inputenc} % Handle UTF-8 input encoding
+\usepackage[T1]{fontenc}    % Use modern font encoding
+\usepackage{geometry}       % For setting page margins
+\usepackage{amsmath}        % For math environments and symbols
+\usepackage{amssymb}        % For additional math symbols
+\usepackage[
+    colorlinks=true,        % Enable colored links
+    linkcolor=blue,         % Color for internal links
+    filecolor=magenta,      % Color for file links
+    urlcolor=cyan,          % Color for URL links
+    pdftitle={Final Project Report}, % PDF metadata
+    pdfauthor={Adrian Hoang},        % PDF metadata
+    pdfpagemode=FullScreen  % PDF view mode
+]{hyperref}                 % For clickable links and PDF metadata
+\usepackage{booktabs}       % For professional quality tables (\toprule, \midrule, \bottomrule)
+\usepackage{caption}        % For table captions
+\usepackage{datetime2}      % Use for \today command formatting if needed
+% \usepackage{array}          % No longer strictly needed with tabularx for this table
+\usepackage{tabularx}       % *** ADDED for better table formatting ***
+\usepackage{ragged2e}       % *** ADDED for better text alignment in X column ***
+
+% --- GEOMETRY ---
+\geometry{letterpaper, margin=1in} % Standard 1-inch margins on letter paper
+
+% --- DOCUMENT START ---
+\begin{document}
+
+% --- Improved Summary Table using tabularx ---
+\begin{table}[htbp] % h: here, t: top, b: bottom, p: page -- lets LaTeX decide placement
+ \centering
+ \caption{Evaluation Summary: LLM vs. SMT Verdicts}
+ \label{tab:summary}
+ % Use tabularx to fit the text width. X column allows text wrapping.
+ % l = left align, c = center align, X = paragraph wrapping, ragged right
+ \begin{tabularx}{\textwidth}{@{} l >{\RaggedRight}X c c l @{}}
+  \toprule
+  \textbf{Case ID} & \textbf{Fact Pattern Summary}                 & \textbf{Model Output} & \textbf{SMT Verdict} & \textbf{Status} \\
+  \midrule
+  Case 1  & Marcus \& Lily (23yo QC Student, >50\% support, low income)           & Yes          & Yes         & Correct \\ \addlinespace % Add a little extra space between rows
+  Case 2  & Ellen \& Zack (17yo Nephew, fails residency, fails self-support, high income)            & Yes          & No          & Error   \\ \addlinespace
+  Case 3  & Raj \& Meena (68yo Mother, QR, low income, valid MSA assumed)                 & Yes          & Yes         & Correct \\ \addlinespace
+  Case 4  & Luis \& Paco (35yo Cousin/HH Member, >50\% support, fails QR income)         & No           & No          & Correct \\ \addlinespace
+  Case 5  & Helen \& Irene (90yo Mother, QR, low income, ambiguous/verbal MSA)        & Yes          & No          & Ambiguous   \\ \addlinespace
+  Case 6  & Brenda \& Carl (85yo Father, QR, low income, ambiguous support level) & No           & No          & Ambiguous \\
+  \bottomrule
+ \end{tabularx}
+\end{table}
+
+\end{document}
