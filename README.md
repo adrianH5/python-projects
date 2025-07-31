@@ -18,6 +18,10 @@ This is full pipeline project where I collected and cleaned data.
 
 This is another pipeline ingests multiple novels, analyzes a given theme, and produces a comparative book report with citations.
 
+### law-and-llms
+
+This was an interesting project I recently came across and wanted to share as well. In the course, we played around with different LLM methodologies in the domain of Law. Some interesting aspects of SMT and SAT solvers, including training llms to produce these texts. One of my first exposures to Boolean satisfiability problem, so it was very interesting. All of the code is in ipynb files.
+
 ## Backend/Full-Stack/Applications
 
 ### tracer
