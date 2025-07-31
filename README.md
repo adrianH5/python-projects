@@ -8,11 +8,11 @@ Here's a short explanation of each directory, organized into my own ad-hoc group
 
 ### database-research
 
-This is a python project to ingest abstracts from pubmed, and also do various
+This is a python project to ingest abstracts from pubmed, and then fine-tune/test LLMs to try to detect databases as apart of the text. 
 
 ### sports-ml-project
 
-This is full pipeline project where I collected and cleaned data.
+This is full pipeline project where I collected and cleaned data, then fed it through a bunch of machine learning models to predict the outcome of basketball games. Was super proud of the resulting dataset I produced, and the final analysis.
 
 ### literary-ai
 
